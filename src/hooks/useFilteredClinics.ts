@@ -5,14 +5,12 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
   return useMemo(() => {
     let result = [...clinics]
 
-    // Filter by city
     if (filters.searchCity) {
       result = result.filter(c =>
         c.city.toLowerCase() === filters.searchCity.toLowerCase()
       )
     }
 
-    // Filter by methods
     if (filters.selectedMethods.length > 0) {
       result = result.filter(c =>
         filters.selectedMethods.some(m => {
@@ -22,20 +20,16 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
       )
     }
 
-    // Filter by price
     result = result.filter(c => c.priceFrom >= filters.priceRange[0] && c.priceFrom <= filters.priceRange[1])
 
-    // Filter by rating
     if (filters.minRating > 0) {
       result = result.filter(c => c.rating >= filters.minRating)
     }
 
-    // Filter by distance
     if (filters.maxDistance < 999) {
       result = result.filter(c => c.distanceKm <= filters.maxDistance)
     }
 
-    // Filter extras
     if (filters.extras.freeConsultation) result = result.filter(c => c.freeConsultation)
     if (filters.extras.onlineBooking) result = result.filter(c => c.onlineBooking)
     if (filters.extras.evening) result = result.filter(c => c.eveningAppointments)
@@ -43,7 +37,6 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
     if (filters.extras.parking) result = result.filter(c => c.parking)
     if (filters.extras.certified) result = result.filter(c => c.certified)
 
-    // Sort
     result.sort((a, b) => {
       switch (filters.sortBy) {
         case 'recommended':
