@@ -1,6 +1,7 @@
 export interface Clinic {
   id: number
   name: string
+  city: string
   address: string
   district: string
   distanceKm: number

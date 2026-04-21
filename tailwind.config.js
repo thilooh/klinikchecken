@@ -17,7 +17,7 @@ export default {
         'star-yellow': '#FFB400',
       },
       fontFamily: {
-        sans: ['Arial', 'Helvetica', 'sans-serif'],
+        sans: ['Helvetica', 'Arial', 'sans-serif'],
       },
     },
   },
