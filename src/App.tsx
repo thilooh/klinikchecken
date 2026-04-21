@@ -45,7 +45,7 @@ export default function App() {
   ].filter(Boolean).length
 
   return (
-    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', fontFamily: 'Arial, Helvetica, sans-serif' }}>
+    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', fontFamily: 'Helvetica, Arial, sans-serif' }}>
       <Navbar />
       <SearchBar filters={filters} setFilters={setFilters} />
 
