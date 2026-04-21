@@ -1,5 +1,6 @@
 import { Search, ChevronDown } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
+import { ALL_CITIES } from '../data/clinics'
 
 interface Props {
   filters: FilterState
@@ -17,7 +18,6 @@ export default function SearchBar({ filters, setFilters }: Props) {
           Vergleiche Preise, Methoden und Bewertungen von geprüften Kliniken
         </p>
 
-        {/* Search bar */}
         <div
           style={{
             backgroundColor: '#fff',
@@ -35,19 +35,21 @@ export default function SearchBar({ filters, setFilters }: Props) {
             <ChevronDown size={14} color="#666" />
           </div>
 
-          {/* City input */}
+          {/* City select */}
           <div style={{ flex: 1, display: 'flex', alignItems: 'center', padding: '0 12px', gap: '8px' }}>
             <Search size={16} color="#999" />
-            <input
-              type="text"
+            <select
               value={filters.searchCity}
               onChange={e => setFilters({ ...filters, searchCity: e.target.value })}
-              placeholder="Ort / PLZ eingeben"
-              style={{ border: 'none', outline: 'none', fontSize: '14px', width: '100%', color: '#333' }}
-            />
+              style={{ border: 'none', outline: 'none', fontSize: '14px', width: '100%', color: '#333', backgroundColor: 'transparent', cursor: 'pointer' }}
+            >
+              {ALL_CITIES.map(city => (
+                <option key={city} value={city}>{city}</option>
+              ))}
+            </select>
           </div>
 
-          {/* Method dropdown - hidden on small screens */}
+          {/* Method dropdown */}
           <div className="hidden sm:flex" style={{ alignItems: 'center', padding: '0 12px', borderLeft: '1px solid #DDD', height: '100%', minWidth: '130px', cursor: 'pointer', gap: '6px' }}>
             <span style={{ fontSize: '13px', color: '#666' }}>Methode</span>
             <ChevronDown size={14} color="#666" />

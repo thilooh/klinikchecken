@@ -57,7 +57,7 @@ export default function App() {
             <ChevronRight size={12} />
             <a href="#" style={{ color: '#003399', textDecoration: 'none' }}>Besenreiser</a>
             <ChevronRight size={12} />
-            <span style={{ color: '#333' }}>Köln</span>
+            <span style={{ color: '#333' }}>{filters.searchCity || 'Alle Städte'}</span>
           </div>
 
           <div className="md:hidden" style={{ marginBottom: '12px' }}>

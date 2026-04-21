@@ -5,6 +5,13 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
   return useMemo(() => {
     let result = [...clinics]
 
+    // Filter by city
+    if (filters.searchCity) {
+      result = result.filter(c =>
+        c.city.toLowerCase() === filters.searchCity.toLowerCase()
+      )
+    }
+
     // Filter by methods
     if (filters.selectedMethods.length > 0) {
       result = result.filter(c =>
