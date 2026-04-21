@@ -1,0 +1,196 @@
+import type { FilterState } from '../types/clinic'
+import { ALL_METHODS } from '../data/clinics'
+
+interface Props {
+  filters: FilterState
+  setFilters: (f: FilterState) => void
+}
+
+const S = {
+  section: { borderBottom: '1px solid #EEEEEE', paddingBottom: '14px', marginBottom: '14px' } as React.CSSProperties,
+  sectionTitle: { fontWeight: 700, fontSize: '12px', textTransform: 'uppercase' as const, color: '#333', marginBottom: '10px', letterSpacing: '0.5px' },
+  label: { display: 'flex', alignItems: 'center', gap: '8px', fontSize: '13px', color: '#333', cursor: 'pointer', padding: '3px 0' } as React.CSSProperties,
+}
+
+function StarDisplay({ count }: { count: number }) {
+  return <span style={{ color: '#FFB400' }}>{'★'.repeat(count)}{'☆'.repeat(5 - count)}</span>
+}
+
+export default function Sidebar({ filters, setFilters }: Props) {
+  const methodMap: Record<string, string> = {
+    'Verödung (Sklerotherapie)': 'verödung',
+    'Laser (Nd:YAG)': 'nd:yag',
+    'Laser (Diode)': 'diode',
+    'IPL-Behandlung': 'ipl',
+    'Radiofrequenz': 'radiofrequenz',
+  }
+
+  const toggleMethod = (method: string) => {
+    const key = methodMap[method]
+    const newMethods = filters.selectedMethods.includes(key)
+      ? filters.selectedMethods.filter(m => m !== key)
+      : [...filters.selectedMethods, key]
+    setFilters({ ...filters, selectedMethods: newMethods })
+  }
+
+  const toggleExtra = (key: keyof FilterState['extras']) => {
+    setFilters({ ...filters, extras: { ...filters.extras, [key]: !filters.extras[key] } })
+  }
+
+  const resetAll = () => {
+    setFilters({
+      ...filters,
+      selectedMethods: [],
+      priceRange: [50, 350],
+      minRating: 4,
+      maxDistance: 10,
+      extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, parking: false, certified: true },
+    })
+  }
+
+  return (
+    <aside style={{ backgroundColor: '#fff', border: '1px solid #DDDDDD', borderRadius: '4px', padding: '16px', width: '240px', flexShrink: 0, alignSelf: 'flex-start', position: 'sticky', top: '16px' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '14px' }}>
+        <span style={{ fontWeight: 700, fontSize: '14px' }}>Filter</span>
+        <button onClick={resetAll} style={{ color: '#003399', fontSize: '12px', background: 'none', border: 'none', cursor: 'pointer', textDecoration: 'underline' }}>Alle zurücksetzen</button>
+      </div>
+
+      {/* Methode */}
+      <div style={S.section}>
+        <div style={S.sectionTitle}>Methode</div>
+        {ALL_METHODS.map(method => {
+          const key = methodMap[method]
+          return (
+            <label key={method} style={S.label}>
+              <input
+                type="checkbox"
+                checked={filters.selectedMethods.includes(key)}
+                onChange={() => toggleMethod(method)}
+                style={{ accentColor: '#003399', cursor: 'pointer' }}
+              />
+              {method}
+            </label>
+          )
+        })}
+      </div>
+
+      {/* Preis */}
+      <div style={S.section}>
+        <div style={S.sectionTitle}>Preis pro Sitzung</div>
+        <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px', fontSize: '13px', fontWeight: 700 }}>
+          <span>{filters.priceRange[0]} €</span>
+          <span>{filters.priceRange[1]} €</span>
+        </div>
+        <input
+          type="range"
+          min={50}
+          max={350}
+          value={filters.priceRange[0]}
+          onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })}
+          style={{ width: '100%', marginBottom: '6px', accentColor: '#003399' }}
+        />
+        <input
+          type="range"
+          min={50}
+          max={350}
+          value={filters.priceRange[1]}
+          onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })}
+          style={{ width: '100%', accentColor: '#003399' }}
+        />
+        <div style={{ display: 'flex', gap: '8px', marginTop: '8px' }}>
+          <input
+            type="number"
+            value={filters.priceRange[0]}
+            onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })}
+            style={{ width: '70px', border: '1px solid #DDD', borderRadius: '4px', padding: '4px 6px', fontSize: '12px' }}
+          />
+          <span style={{ alignSelf: 'center', color: '#999' }}>–</span>
+          <input
+            type="number"
+            value={filters.priceRange[1]}
+            onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })}
+            style={{ width: '70px', border: '1px solid #DDD', borderRadius: '4px', padding: '4px 6px', fontSize: '12px' }}
+          />
+        </div>
+      </div>
+
+      {/* Bewertung */}
+      <div style={S.section}>
+        <div style={S.sectionTitle}>Bewertung</div>
+        {[{ val: 0, label: 'Alle Bewertungen' }, { val: 3, label: '3+ Sterne' }, { val: 4, label: '4+ Sterne' }, { val: 5, label: '5 Sterne' }].map(opt => (
+          <label key={opt.val} style={S.label}>
+            <input
+              type="radio"
+              name="rating"
+              checked={filters.minRating === opt.val}
+              onChange={() => setFilters({ ...filters, minRating: opt.val })}
+              style={{ accentColor: '#003399', cursor: 'pointer' }}
+            />
+            {opt.val === 0 ? opt.label : <><StarDisplay count={opt.val} /> {opt.val}+ Sterne</>}
+          </label>
+        ))}
+      </div>
+
+      {/* Entfernung */}
+      <div style={S.section}>
+        <div style={S.sectionTitle}>Entfernung</div>
+        {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 999, label: 'beliebig' }].map(opt => (
+          <label key={opt.val} style={S.label}>
+            <input
+              type="radio"
+              name="distance"
+              checked={filters.maxDistance === opt.val}
+              onChange={() => setFilters({ ...filters, maxDistance: opt.val })}
+              style={{ accentColor: '#003399', cursor: 'pointer' }}
+            />
+            {opt.label}
+          </label>
+        ))}
+      </div>
+
+      {/* Extras */}
+      <div style={S.section}>
+        <div style={S.sectionTitle}>Extras</div>
+        {[
+          { key: 'freeConsultation' as const, label: 'Kostenlose Erstberatung' },
+          { key: 'onlineBooking' as const, label: 'Online-Terminbuchung' },
+          { key: 'evening' as const, label: 'Abendtermine verfügbar' },
+          { key: 'kassenpatient' as const, label: 'Kassenpatienten möglich' },
+          { key: 'parking' as const, label: 'Parkplätze vorhanden' },
+        ].map(item => (
+          <label key={item.key} style={S.label}>
+            <input
+              type="checkbox"
+              checked={filters.extras[item.key]}
+              onChange={() => toggleExtra(item.key)}
+              style={{ accentColor: '#003399', cursor: 'pointer' }}
+            />
+            {item.label}
+          </label>
+        ))}
+      </div>
+
+      {/* Qualifikation */}
+      <div>
+        <div style={S.sectionTitle}>Arzt-Qualifikation</div>
+        <label style={S.label}>
+          <input type="checkbox" style={{ accentColor: '#003399' }} />
+          Facharzt für Dermatologie
+        </label>
+        <label style={S.label}>
+          <input type="checkbox" style={{ accentColor: '#003399' }} />
+          Phlebologe
+        </label>
+        <label style={S.label}>
+          <input
+            type="checkbox"
+            checked={filters.extras.certified}
+            onChange={() => toggleExtra('certified')}
+            style={{ accentColor: '#003399', cursor: 'pointer' }}
+          />
+          Aesthetiq-zertifiziert
+        </label>
+      </div>
+    </aside>
+  )
+}
