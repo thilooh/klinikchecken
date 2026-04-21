@@ -18,15 +18,32 @@ const TAG_TO_METHOD_KEY: Record<string, string> = {
   'Diode Laser': 'diode',
 }
 
-function Stars({ rating }: { rating: number }) {
+function Stars({ rating, size = 13 }: { rating: number; size?: number }) {
   const full = Math.floor(rating)
   const half = rating % 1 >= 0.5
   return (
     <span>
       {Array.from({ length: 5 }, (_, i) => (
-        <span key={i} style={{ color: i < full || (i === full && half) ? '#FFB400' : '#DDD', fontSize: '13px' }}>★</span>
+        <span key={i} style={{ color: i < full || (i === full && half) ? '#FFB400' : '#DDD', fontSize: size }}>★</span>
       ))}
     </span>
+  )
+}
+
+function GoogleBadge({ rating, reviewCount }: { rating: number; reviewCount: number }) {
+  return (
+    <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginTop: '5px', padding: '4px 0', borderTop: '1px solid #F0F0F0' }}>
+      {/* Google G icon */}
+      <svg width="14" height="14" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>
+        <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
+        <path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z" fill="#FBBC05"/>
+        <path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" fill="#EA4335"/>
+      </svg>
+      <Stars rating={rating} size={11} />
+      <span style={{ fontSize: '11px', fontWeight: 700, color: '#333' }}>{rating.toFixed(1)}</span>
+      <span style={{ fontSize: '11px', color: '#999' }}>({reviewCount})</span>
+    </div>
   )
 }
 
@@ -48,32 +65,27 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
       }}
     >
       {showCertifiedBadge && (
-        <div style={{ position: 'absolute', top: '0', left: '0', backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '2px 10px', borderRadius: '0 0 4px 0', lineHeight: '20px' }}>
+        <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '2px 10px', borderRadius: '0 0 4px 0', lineHeight: '20px' }}>
           ✓ aesthetiq-zertifiziert
         </div>
       )}
 
-      <button
-        onClick={() => setFavorited(!favorited)}
-        style={{ position: 'absolute', top: showCertifiedBadge ? '24px' : '12px', right: '12px', background: 'none', border: 'none', cursor: 'pointer', padding: '4px' }}
-      >
+      <button onClick={() => setFavorited(!favorited)} style={{ position: 'absolute', top: showCertifiedBadge ? '24px' : '12px', right: '12px', background: 'none', border: 'none', cursor: 'pointer', padding: '4px' }}>
         <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#CCC'} />
       </button>
 
       <div style={{ display: 'flex', gap: '14px', marginTop: showCertifiedBadge ? '12px' : '0' }}>
 
-        {/* Col 1: Image + Rating */}
+        {/* Col 1: Image + Ratings */}
         <div style={{ flexShrink: 0, textAlign: 'center' }}>
-          <div style={{ width: '80px', height: '80px', borderRadius: '4px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '11px', color: '#999', marginBottom: '6px', background: 'linear-gradient(135deg, #E8EEF4 0%, #D0DCE8 100%)' }}>
-            <span>📷</span>
+          <div style={{ width: '80px', height: '80px', borderRadius: '4px', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '6px', background: 'linear-gradient(135deg, #E8EEF4 0%, #D0DCE8 100%)' }}>
+            <span style={{ fontSize: '22px' }}>📷</span>
           </div>
-          <div
-            style={{ position: 'relative', display: 'inline-block', cursor: 'default' }}
-            onMouseEnter={() => setShowTooltip(true)}
-            onMouseLeave={() => setShowTooltip(false)}
-          >
+
+          {/* Platform rating */}
+          <div style={{ position: 'relative', display: 'inline-block', cursor: 'default' }} onMouseEnter={() => setShowTooltip(true)} onMouseLeave={() => setShowTooltip(false)}>
             {clinic.reviewCount < 5 ? (
-              <div style={{ fontSize: '10px', color: '#999', textAlign: 'center', maxWidth: '80px', lineHeight: 1.3 }}>Noch wenige Bewertungen</div>
+              <div style={{ fontSize: '10px', color: '#999', maxWidth: '80px', lineHeight: 1.3 }}>Noch wenige Bewertungen</div>
             ) : (
               <>
                 <Stars rating={clinic.rating} />
@@ -82,13 +94,14 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             )}
             {showTooltip && clinic.reviewCount >= 5 && (
               <div style={{ position: 'absolute', bottom: '100%', left: '50%', transform: 'translateX(-50%)', backgroundColor: '#333', color: '#fff', fontSize: '11px', padding: '4px 8px', borderRadius: '4px', whiteSpace: 'nowrap', zIndex: 10, marginBottom: '4px' }}>
-                {clinic.reviewCount} verifizierte Patientenbewertungen
+                {clinic.reviewCount} Bewertungen auf aesthetiq
               </div>
             )}
           </div>
-          <a href="#" style={{ color: '#003399', fontSize: '11px', display: 'block', textDecoration: 'none' }}>
-            {clinic.reviewCount} Bewertungen
-          </a>
+          <a href="#" style={{ color: '#003399', fontSize: '11px', display: 'block', textDecoration: 'none', marginBottom: '2px' }}>{clinic.reviewCount} Bew.</a>
+
+          {/* Google rating */}
+          <GoogleBadge rating={clinic.googleRating} reviewCount={clinic.googleReviewCount} />
         </div>
 
         {/* Col 2: Clinic Info */}
@@ -102,12 +115,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             </span>
           )}
           <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#666', fontSize: '12px', marginBottom: '3px' }}>
-            <MapPin size={12} />
-            <span>{clinic.address} · {clinic.distanceKm} km</span>
+            <MapPin size={12} /><span>{clinic.address} · {clinic.distanceKm} km</span>
           </div>
-          <div style={{ color: '#666', fontSize: '12px', marginBottom: '4px' }}>
-            {clinic.doctor} · {clinic.qualification}
-          </div>
+          <div style={{ color: '#666', fontSize: '12px', marginBottom: '4px' }}>{clinic.doctor} · {clinic.qualification}</div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '5px' }}>
             {clinic.openToday
               ? <><span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: '#00A651', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#00A651', fontSize: '12px' }}>Heute geöffnet: {clinic.openHours}</span></>
@@ -125,19 +135,13 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
               const isMethod = !!methodKey
               const isActive = isMethod && activeMethodKeys.includes(methodKey)
               return (
-                <span
-                  key={tag}
-                  onClick={() => isMethod && onMethodClick(methodKey)}
-                  style={{ backgroundColor: isActive ? '#003399' : '#F0F0F0', color: isActive ? '#fff' : '#444', fontSize: '11px', padding: '3px 8px', borderRadius: '4px', cursor: isMethod ? 'pointer' : 'default', transition: 'background 0.15s' }}
-                >
+                <span key={tag} onClick={() => isMethod && onMethodClick(methodKey)} style={{ backgroundColor: isActive ? '#003399' : '#F0F0F0', color: isActive ? '#fff' : '#444', fontSize: '11px', padding: '3px 8px', borderRadius: '4px', cursor: isMethod ? 'pointer' : 'default', transition: 'background 0.15s' }}>
                   {tag}
                 </span>
               )
             })}
           </div>
-          {clinic.packagePrice && (
-            <div style={{ color: '#003399', fontSize: '12px', fontStyle: 'italic', marginBottom: '4px' }}>Paketpreise ab 3 Sitzungen</div>
-          )}
+          {clinic.packagePrice && <div style={{ color: '#003399', fontSize: '12px', fontStyle: 'italic', marginBottom: '4px' }}>Paketpreise ab 3 Sitzungen</div>}
           {clinic.onlineBooking && (
             <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#00A651', fontSize: '12px', marginBottom: '4px' }}>
               <Clock size={11} />Online-Buchung verfügbar
@@ -156,17 +160,11 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             <div style={{ color: '#888', fontSize: '11px' }}>ab</div>
             <div style={{ fontWeight: 700, fontSize: '22px', color: '#111', lineHeight: 1.1 }}>{clinic.priceFrom} €</div>
             <div style={{ color: '#888', fontSize: '12px', marginBottom: '4px' }}>/ Sitzung</div>
-            {clinic.packagePrice && (
-              <div style={{ color: '#00A651', fontSize: '12px', marginBottom: '8px' }}>Paket 3x: {clinic.packagePrice} €</div>
-            )}
+            {clinic.packagePrice && <div style={{ color: '#00A651', fontSize: '12px', marginBottom: '8px' }}>Paket 3x: {clinic.packagePrice} €</div>}
           </div>
           <div>
-            <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '13px', border: 'none', borderRadius: '4px', height: '36px', width: '100%', cursor: 'pointer', marginBottom: '6px' }}>
-              Kostenlos anfragen
-            </button>
-            <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '12px', border: '1px solid #003399', borderRadius: '4px', height: '32px', width: '100%', cursor: 'pointer' }}>
-              Profil ansehen
-            </button>
+            <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '13px', border: 'none', borderRadius: '4px', height: '36px', width: '100%', cursor: 'pointer', marginBottom: '6px' }}>Kostenlos anfragen</button>
+            <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '12px', border: '1px solid #003399', borderRadius: '4px', height: '32px', width: '100%', cursor: 'pointer' }}>Profil ansehen</button>
           </div>
         </div>
 
