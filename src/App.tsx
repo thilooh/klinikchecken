@@ -29,7 +29,7 @@ const defaultFilters: FilterState = {
   searchCity: 'Köln',
 }
 
-const questrial = "'Questrial', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
+const interFont = "'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
 
 export default function App() {
   const [filters, setFilters] = useState<FilterState>(defaultFilters)
@@ -47,7 +47,7 @@ export default function App() {
   ].filter(Boolean).length
 
   return (
-    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', fontFamily: questrial }}>
+    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', fontFamily: interFont }}>
       <Navbar />
       <SearchBar filters={filters} setFilters={setFilters} />
       <main style={{ flex: 1, backgroundColor: '#F4F4F4', padding: '16px 0 32px' }}>
