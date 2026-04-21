@@ -9,6 +9,8 @@ export interface Clinic {
   qualification: string
   rating: number
   reviewCount: number
+  googleRating: number
+  googleReviewCount: number
   methods: string[]
   priceFrom: number
   packagePrice?: number
