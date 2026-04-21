@@ -57,7 +57,7 @@ export default function App() {
             <ChevronRight size={12} />
             <a href="#" style={{ color: '#003399', textDecoration: 'none' }}>Besenreiser</a>
             <ChevronRight size={12} />
-            <span style={{ color: '#333' }}>{filters.searchCity || 'Alle Städte'}</span>
+            <span style={{ color: '#333' }}>{filters.searchCity}</span>
           </div>
           <div className="md:hidden" style={{ marginBottom: '12px' }}>
             <button
@@ -79,7 +79,7 @@ export default function App() {
             </div>
             <div style={{ flex: 1, minWidth: 0 }}>
               <ResultsHeader count={filtered.length} filters={filters} setFilters={setFilters} />
-              <ClinicList clinics={filtered} onInquire={setSelectedClinic} />
+              <ClinicList clinics={filtered} onInquire={setSelectedClinic} filters={filters} setFilters={setFilters} />
             </div>
           </div>
         </div>
@@ -96,10 +96,7 @@ export default function App() {
             <div style={{ width: '40px', height: '4px', backgroundColor: '#DDD', borderRadius: '2px', margin: '8px auto 16px' }} />
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '0 8px 12px', borderBottom: '1px solid #EEE', marginBottom: '8px' }}>
               <span style={{ fontWeight: 700, fontSize: '15px' }}>Filter</span>
-              <button
-                onClick={() => setMobileFilterOpen(false)}
-                style={{ backgroundColor: '#FF6600', color: '#fff', border: 'none', borderRadius: '4px', padding: '6px 16px', fontWeight: 700, fontSize: '13px', cursor: 'pointer' }}
-              >
+              <button onClick={() => setMobileFilterOpen(false)} style={{ backgroundColor: '#FF6600', color: '#fff', border: 'none', borderRadius: '4px', padding: '6px 16px', fontWeight: 700, fontSize: '13px', cursor: 'pointer' }}>
                 {filtered.length} Ergebnisse anzeigen
               </button>
             </div>
