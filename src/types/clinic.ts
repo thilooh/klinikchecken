@@ -20,6 +20,7 @@ export interface Clinic {
   onlineBooking: boolean
   eveningAppointments: boolean
   kassenpatient: boolean
+  ratenzahlung: boolean
   parking: boolean
   certified: boolean
   photoCount: number
@@ -38,6 +39,7 @@ export interface FilterState {
     onlineBooking: boolean
     evening: boolean
     kassenpatient: boolean
+    ratenzahlung: boolean
     parking: boolean
     certified: boolean
   }

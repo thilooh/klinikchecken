@@ -34,6 +34,7 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
     if (filters.extras.onlineBooking) result = result.filter(c => c.onlineBooking)
     if (filters.extras.evening) result = result.filter(c => c.eveningAppointments)
     if (filters.extras.kassenpatient) result = result.filter(c => c.kassenpatient)
+    if (filters.extras.ratenzahlung) result = result.filter(c => c.ratenzahlung)
     if (filters.extras.parking) result = result.filter(c => c.parking)
     if (filters.extras.certified) result = result.filter(c => c.certified)
 
