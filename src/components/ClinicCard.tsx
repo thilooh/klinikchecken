@@ -64,13 +64,13 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
 
         <div style={{ display: 'flex', gap: '12px', marginTop: showCertifiedBadge ? '14px' : '0' }}>
 
-          {/* Col 1: Image + Google Rating – always visible */}
-          <div style={{ flexShrink: 0, textAlign: 'center', width: '70px' }}>
-            <div style={{ width: '70px', height: '70px', borderRadius: '4px', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '6px', background: 'linear-gradient(135deg, #E8EEF4 0%, #D0DCE8 100%)' }}>
+          {/* Col 1: Image + Google Rating */}
+          <div style={{ flexShrink: 0, textAlign: 'center', width: '68px' }}>
+            <div style={{ width: '68px', height: '68px', borderRadius: '4px', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '6px', background: 'linear-gradient(135deg, #E8EEF4 0%, #D0DCE8 100%)' }}>
               <span style={{ fontSize: '20px' }}>📷</span>
             </div>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '3px', marginBottom: '1px' }}>
-              <svg width="12" height="12" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <svg width="11" height="11" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>
                 <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
                 <path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z" fill="#FBBC05"/>
@@ -88,12 +88,12 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
           </div>
 
           {/* Col 2: Clinic Info */}
-          <div style={{ flex: 1, minWidth: 0, paddingRight: '28px' }}>
+          <div style={{ flex: 1, minWidth: 0, paddingRight: '26px' }}>
             <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '14px', textDecoration: 'none', display: 'block', marginBottom: '3px', lineHeight: '1.3' }}>
               {clinic.name}
             </a>
             {clinic.freeConsultation && (
-              <span style={{ display: 'inline-block', backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px', marginBottom: '5px' }}>
+              <span style={{ display: 'inline-block', backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px', marginBottom: '4px' }}>
                 Kostenlose Erstberatung
               </span>
             )}
@@ -101,7 +101,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
               <MapPin size={11} style={{ flexShrink: 0, marginTop: '1px' }} />
               <span style={{ lineHeight: '1.3' }}>{clinic.address} · {clinic.distanceKm} km</span>
             </div>
-            <div style={{ color: '#666', fontSize: '12px', marginBottom: '4px', lineHeight: '1.3' }}>{clinic.doctor} · {clinic.qualification}</div>
+            <div style={{ color: '#666', fontSize: '12px', marginBottom: '4px', lineHeight: '1.3' }}>
+              {clinic.doctor} · {clinic.qualification}
+            </div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '5px' }}>
               {clinic.openToday
                 ? <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#00A651', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#00A651', fontSize: '12px' }}>Heute geöffnet: {clinic.openHours}</span></>
@@ -110,18 +112,20 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             </div>
 
             {/* Mobile-only: price + CTA */}
-            <div className="flex sm:hidden" style={{ alignItems: 'center', justifyContent: 'space-between', marginTop: '10px', paddingTop: '10px', borderTop: '1px solid #EEEEEE' }}>
-              <div>
-                <div style={{ fontSize: '10px', color: '#888' }}>ab</div>
-                <div style={{ fontWeight: 700, fontSize: '20px', color: '#111', lineHeight: 1 }}>{clinic.priceFrom} €</div>
-                <div style={{ fontSize: '10px', color: '#888' }}>/ Sitzung</div>
-                {clinic.packagePrice && <div style={{ fontSize: '10px', color: '#00A651', marginTop: '2px' }}>3x: {clinic.packagePrice} €</div>}
+            <div className="flex sm:hidden" style={{ alignItems: 'center', justifyContent: 'space-between', gap: '10px', marginTop: '10px', paddingTop: '10px', borderTop: '1px solid #EEEEEE' }}>
+              <div style={{ flexShrink: 0 }}>
+                <div style={{ display: 'flex', alignItems: 'baseline', gap: '2px', whiteSpace: 'nowrap' }}>
+                  <span style={{ fontSize: '10px', color: '#888' }}>ab</span>
+                  <span style={{ fontWeight: 700, fontSize: '20px', color: '#111', whiteSpace: 'nowrap' }}> {clinic.priceFrom} €</span>
+                </div>
+                <div style={{ fontSize: '10px', color: '#888', lineHeight: 1 }}>/ Sitzung</div>
+                {clinic.packagePrice && <div style={{ fontSize: '10px', color: '#00A651', marginTop: '2px', whiteSpace: 'nowrap' }}>3x: {clinic.packagePrice} €</div>}
               </div>
               <button
                 onClick={() => onInquire(clinic)}
-                style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '13px', border: 'none', borderRadius: '4px', padding: '10px 14px', cursor: 'pointer', flexShrink: 0 }}
+                style={{ flexShrink: 0, backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', padding: '11px 16px', cursor: 'pointer', whiteSpace: 'nowrap' }}
               >
-                Erstberatung anfragen
+                Jetzt anfragen
               </button>
             </div>
           </div>
@@ -171,7 +175,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
                 onClick={() => onInquire(clinic)}
                 style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '13px', border: 'none', borderRadius: '4px', height: '36px', width: '100%', cursor: 'pointer', marginBottom: '6px' }}
               >
-                Erstberatung anfragen
+                Jetzt anfragen
               </button>
               <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '12px', border: '1px solid #003399', borderRadius: '4px', height: '32px', width: '100%', cursor: 'pointer' }}>
                 Profil ansehen
