@@ -45,7 +45,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
             <div>
               <div style={{ color: '#fff', fontWeight: 700, fontSize: '15px' }}>{clinic.name}</div>
-              <div style={{ color: '#99BBFF', fontSize: '12px', marginTop: '2px' }}>Kostenlose Anfrage senden</div>
+              <div style={{ color: '#99BBFF', fontSize: '12px', marginTop: '2px' }}>Erstberatung anfragen – kostenlos & unverbindlich</div>
             </div>
             <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#fff', padding: '2px' }}>
               <X size={20} />
@@ -77,7 +77,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                   <input
                     value={form.firstName}
                     onChange={e => setForm({ ...form, firstName: e.target.value })}
-                    style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none' }}
+                    style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none', boxSizing: 'border-box' }}
                     placeholder="Max"
                   />
                 </div>
@@ -86,7 +86,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                   <input
                     value={form.lastName}
                     onChange={e => setForm({ ...form, lastName: e.target.value })}
-                    style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none' }}
+                    style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none', boxSizing: 'border-box' }}
                     placeholder="Mustermann"
                   />
                 </div>
@@ -99,7 +99,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                   type="email"
                   value={form.email}
                   onChange={e => setForm({ ...form, email: e.target.value })}
-                  style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none' }}
+                  style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none', boxSizing: 'border-box' }}
                   placeholder="max@beispiel.de"
                 />
               </div>
@@ -111,7 +111,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                   type="tel"
                   value={form.phone}
                   onChange={e => setForm({ ...form, phone: e.target.value })}
-                  style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none' }}
+                  style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none', boxSizing: 'border-box' }}
                   placeholder="+49 221 ..."
                 />
               </div>
@@ -122,13 +122,15 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                 <select
                   value={form.method}
                   onChange={e => setForm({ ...form, method: e.target.value })}
-                  style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none', backgroundColor: '#fff' }}
+                  style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none', backgroundColor: '#fff', boxSizing: 'border-box' }}
                 >
                   <option value="">Bitte wählen...</option>
+                  <option value="erstberatung">💬 Erstberatung – ich bin noch unsicher</option>
                   {clinic.methods.map(m => (
                     <option key={m} value={m}>{m}</option>
                   ))}
                 </select>
+                <div style={{ fontSize: '11px', color: '#999', marginTop: '4px' }}>Nicht sicher? Wählen Sie einfach „Erstberatung“ – der Arzt empfiehlt die passende Methode.</div>
               </div>
 
               {/* Description */}
@@ -138,7 +140,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                   value={form.description}
                   onChange={e => setForm({ ...form, description: e.target.value })}
                   rows={3}
-                  style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none', resize: 'vertical' }}
+                  style={{ width: '100%', border: '1px solid #DDD', borderRadius: '4px', padding: '8px 10px', fontSize: '13px', outline: 'none', resize: 'vertical', boxSizing: 'border-box' }}
                   placeholder="z.B. Besenreiser an beiden Beinen, ca. seit 3 Jahren..."
                 />
               </div>
@@ -179,7 +181,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                   marginBottom: '16px',
                 }}
               >
-                Anfrage kostenfrei senden
+                Erstberatung kostenfrei anfragen
               </button>
 
               {/* Trust signals */}
