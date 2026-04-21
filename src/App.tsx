@@ -22,6 +22,7 @@ const defaultFilters: FilterState = {
     onlineBooking: false,
     evening: false,
     kassenpatient: false,
+    ratenzahlung: false,
     parking: false,
     certified: true,
   },
