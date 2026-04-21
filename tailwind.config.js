@@ -17,7 +17,7 @@ export default {
         'star-yellow': '#FFB400',
       },
       fontFamily: {
-        sans: ['Helvetica', 'Arial', 'sans-serif'],
+        sans: ['Questrial', '-apple-system', 'BlinkMacSystemFont', 'Helvetica Neue', 'Arial', 'sans-serif'],
       },
     },
   },
