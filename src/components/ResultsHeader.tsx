@@ -43,14 +43,13 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
 
   return (
     <div style={{ marginBottom: '12px' }}>
-      {/* Top row: count + sort (sort pill desktop-only, outside scrollable container) */}
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '10px' }}>
         <div>
           <div style={{ fontWeight: 700, fontSize: '15px', color: '#333' }}>{count} Anbieter in {filters.searchCity}</div>
           <div style={{ fontSize: '11px', color: '#999', marginTop: '2px' }}>Ergebnisse werden täglich aktualisiert</div>
         </div>
 
-        {/* Sort pill — desktop only, sits outside overflow container so dropdown is never clipped */}
+        {/* Sort pill — desktop only, outside overflow container */}
         <div className="hidden sm:block" style={{ position: 'relative', flexShrink: 0, marginLeft: '8px' }}>
           <button onClick={() => setSortOpen(v => !v)} style={pill(filters.sortBy !== 'recommended')}>
             <ArrowUpDown size={13} />
@@ -74,8 +73,14 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
         </div>
       </div>
 
-      {/* Scrollable filter pills — no sort pill inside so overflow clipping can’t affect dropdowns */}
+      {/* Scrollable filter pills */}
       <div className="hide-scrollbar" style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '2px' }}>
+
+        {/* Mobile sort pill — first, opens filter sheet */}
+        <button className="sm:hidden" onClick={onOpenFilter} style={pill(filters.sortBy !== 'recommended')}>
+          <ArrowUpDown size={13} />
+          {filters.sortBy !== 'recommended' ? currentSort.label : 'Sortierung'}
+        </button>
 
         {/* Price pill */}
         <button onClick={onOpenFilter} style={pill(hasPriceFilter)}>
@@ -99,12 +104,6 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
           {hasDistanceFilter && (
             <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, maxDistance: 999 }) }}>×</span>
           )}
-        </button>
-
-        {/* Mobile sort pill — opens filter sheet where sort lives */}
-        <button className="sm:hidden" onClick={onOpenFilter} style={pill(filters.sortBy !== 'recommended')}>
-          <ArrowUpDown size={13} />
-          {filters.sortBy !== 'recommended' ? currentSort.label : 'Sortierung'}
         </button>
 
       </div>
