@@ -1,13 +1,55 @@
+import { useState } from 'react'
 import { Search, MapPin } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
-import { ALL_CITIES } from '../data/clinics'
 
 interface Props {
   filters: FilterState
   setFilters: (f: FilterState) => void
 }
 
+const CITIES = [
+  { name: 'Köln', plzPrefixes: ['50', '51'], hint: 'PLZ 50xxx – 51xxx' },
+  { name: 'Düsseldorf', plzPrefixes: ['40', '41'], hint: 'PLZ 40xxx – 41xxx' },
+]
+
+function resolveCity(raw: string): string {
+  const t = raw.trim()
+  if (!t) return raw
+  const lower = t.toLowerCase()
+  const exact = CITIES.find(c => c.name.toLowerCase() === lower)
+  if (exact) return exact.name
+  if (/^\d/.test(t)) {
+    const byPlz = CITIES.find(c => c.plzPrefixes.some(p => t.startsWith(p)))
+    if (byPlz) return byPlz.name
+  }
+  const partial = CITIES.find(c => c.name.toLowerCase().startsWith(lower))
+  if (partial) return partial.name
+  return t
+}
+
+function getMatches(input: string) {
+  const t = input.trim().toLowerCase()
+  if (!t) return CITIES
+  return CITIES.filter(c =>
+    c.name.toLowerCase().includes(t) ||
+    (/^\d/.test(t) && c.plzPrefixes.some(p => p.startsWith(t) || t.startsWith(p)))
+  )
+}
+
 export default function SearchBar({ filters, setFilters }: Props) {
+  const [val, setVal] = useState(filters.searchCity)
+  const [showSuggestions, setShowSuggestions] = useState(false)
+
+  const matches = getMatches(val)
+
+  const apply = (cityName: string) => {
+    setVal(cityName)
+    setFilters({ ...filters, searchCity: cityName })
+    setShowSuggestions(false)
+  }
+
+  const handleSearch = () => apply(resolveCity(val))
+
   return (
     <div style={{
       background: 'linear-gradient(175deg, #002B5C 0%, #003F8A 100%)',
@@ -22,21 +64,57 @@ export default function SearchBar({ filters, setFilters }: Props) {
           Transparente Preise · Zertifizierte Kliniken · Kostenlose Anfrage
         </p>
 
-        <div style={{ backgroundColor: '#fff', borderRadius: '6px', height: '50px', display: 'flex', alignItems: 'center', overflow: 'hidden', boxShadow: '0 4px 20px rgba(0,0,0,0.3)' }}>
-          <div style={{ flex: 1, display: 'flex', alignItems: 'center', padding: '0 16px', gap: '8px' }}>
-            <MapPin size={15} color="#0052CC" style={{ flexShrink: 0 }} />
-            <select
-              value={filters.searchCity}
-              onChange={e => setFilters({ ...filters, searchCity: e.target.value })}
-              style={{ border: 'none', outline: 'none', fontSize: '15px', fontWeight: 600, width: '100%', color: '#111', backgroundColor: 'transparent', cursor: 'pointer' }}
-            >
-              {ALL_CITIES.map(city => <option key={city} value={city}>{city}</option>)}
-            </select>
+        {/* Search input + suggestions wrapper */}
+        <div style={{ position: 'relative' }}>
+          {showSuggestions && (
+            <div onClick={() => setShowSuggestions(false)}
+              style={{ position: 'fixed', inset: 0, zIndex: 1 }} />
+          )}
+
+          {/* Input bar */}
+          <div style={{ backgroundColor: '#fff', borderRadius: '6px', height: '50px', display: 'flex', alignItems: 'center', overflow: 'hidden', boxShadow: '0 4px 20px rgba(0,0,0,0.3)', position: 'relative', zIndex: 2 }}>
+            <div style={{ flex: 1, display: 'flex', alignItems: 'center', padding: '0 16px', gap: '8px' }}>
+              <MapPin size={15} color="#0052CC" style={{ flexShrink: 0 }} />
+              <input
+                type="text"
+                placeholder="Stadt oder PLZ eingeben …"
+                value={val}
+                onChange={e => { setVal(e.target.value); setShowSuggestions(true) }}
+                onFocus={() => setShowSuggestions(true)}
+                onKeyDown={e => { if (e.key === 'Enter') handleSearch() }}
+                style={{ border: 'none', outline: 'none', fontSize: '15px', fontWeight: 600, width: '100%', color: '#111', backgroundColor: 'transparent' }}
+              />
+            </div>
+            <button onClick={handleSearch}
+              style={{ backgroundColor: '#0052CC', color: '#fff', fontWeight: 700, fontSize: '14px', height: '100%', padding: '0 28px', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '7px', flexShrink: 0 }}>
+              <Search size={14} />
+              Suchen
+            </button>
           </div>
-          <button style={{ backgroundColor: '#0052CC', color: '#fff', fontWeight: 700, fontSize: '14px', height: '100%', padding: '0 28px', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '7px', flexShrink: 0 }}>
-            <Search size={14} />
-            Suchen
-          </button>
+
+          {/* Suggestions dropdown */}
+          {showSuggestions && matches.length > 0 && (
+            <div style={{ position: 'absolute', top: 'calc(100% + 4px)', left: 0, right: 0, backgroundColor: '#fff', borderRadius: '8px', boxShadow: '0 8px 24px rgba(0,0,0,0.2)', zIndex: 10, overflow: 'hidden' }}>
+              {matches.map((city, i) => (
+                <button key={city.name} onClick={() => apply(city.name)}
+                  style={{ display: 'flex', alignItems: 'center', gap: '12px', width: '100%', padding: '12px 16px', border: 'none', borderBottom: i < matches.length - 1 ? '1px solid #F2F2F2' : 'none', backgroundColor: city.name === filters.searchCity ? '#EEF4FF' : '#fff', cursor: 'pointer', textAlign: 'left' }}>
+                  <div style={{ width: '32px', height: '32px', backgroundColor: '#EEF4FF', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                    <MapPin size={14} color="#0052CC" />
+                  </div>
+                  <div style={{ flex: 1 }}>
+                    <div style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{city.name}</div>
+                    <div style={{ fontSize: '12px', color: '#888', marginTop: '1px' }}>{city.hint}</div>
+                  </div>
+                  {city.name === filters.searchCity && (
+                    <span style={{ color: '#0052CC', fontWeight: 700, fontSize: '14px' }}>✓</span>
+                  )}
+                </button>
+              ))}
+              <div style={{ padding: '8px 16px', fontSize: '11px', color: '#999', backgroundColor: '#F9FAFB', borderTop: '1px solid #F0F0F0' }}>
+                Weitere Städte folgen bald
+              </div>
+            </div>
+          )}
         </div>
 
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '24px', marginTop: '16px', flexWrap: 'wrap' }}>
