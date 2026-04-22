@@ -79,7 +79,12 @@ export default function App() {
               <Sidebar filters={filters} setFilters={setFilters} />
             </div>
             <div style={{ flex: 1, minWidth: 0 }}>
-              <ResultsHeader count={filtered.length} filters={filters} setFilters={setFilters} />
+              <ResultsHeader
+                count={filtered.length}
+                filters={filters}
+                setFilters={setFilters}
+                onOpenFilter={() => setMobileFilterOpen(true)}
+              />
               <ClinicList clinics={filtered} onInquire={setSelectedClinic} filters={filters} setFilters={setFilters} />
             </div>
           </div>
