@@ -8,6 +8,7 @@ import ClinicList from './components/ClinicList'
 import InquiryModal from './components/InquiryModal'
 import InfoSection from './components/InfoSection'
 import Footer from './components/Footer'
+import MobileFilterSheet from './components/MobileFilterSheet'
 import { useFilteredClinics } from './hooks/useFilteredClinics'
 import { clinics } from './data/clinics'
 import type { Clinic, FilterState } from './types/clinic'
@@ -72,21 +73,12 @@ export default function App() {
       <Footer />
       <InquiryModal clinic={selectedClinic} onClose={() => setSelectedClinic(null)} />
       {mobileFilterOpen && (
-        <div
-          style={{ position: 'fixed', inset: 0, backgroundColor: 'rgba(0,0,0,0.5)', zIndex: 200, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end' }}
-          onClick={e => { if (e.target === e.currentTarget) setMobileFilterOpen(false) }}
-        >
-          <div style={{ backgroundColor: '#fff', borderRadius: '12px 12px 0 0', maxHeight: '85vh', overflowY: 'auto', padding: '8px' }}>
-            <div style={{ width: '40px', height: '4px', backgroundColor: '#DDD', borderRadius: '2px', margin: '8px auto 16px' }} />
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '0 8px 12px', borderBottom: '1px solid #EEE', marginBottom: '8px' }}>
-              <span style={{ fontWeight: 700, fontSize: '15px' }}>Filter</span>
-              <button onClick={() => setMobileFilterOpen(false)} style={{ backgroundColor: '#FF6600', color: '#fff', border: 'none', borderRadius: '4px', padding: '6px 16px', fontWeight: 700, fontSize: '13px', cursor: 'pointer' }}>
-                {filtered.length} Ergebnisse anzeigen
-              </button>
-            </div>
-            <Sidebar filters={filters} setFilters={setFilters} />
-          </div>
-        </div>
+        <MobileFilterSheet
+          filters={filters}
+          setFilters={setFilters}
+          count={filtered.length}
+          onClose={() => setMobileFilterOpen(false)}
+        />
       )}
     </div>
   )
