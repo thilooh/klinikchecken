@@ -37,6 +37,19 @@ const GIcon = () => (
   </svg>
 )
 
+function USPs({ items, small }: { items: string[]; small?: boolean }) {
+  return (
+    <div style={{ marginBottom: small ? '4px' : '8px' }}>
+      {items.map((item, i) => (
+        <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '5px', marginBottom: small ? '2px' : '3px' }}>
+          <span style={{ color: '#00A651', flexShrink: 0, fontWeight: 700, fontSize: small ? '11px' : '12px', lineHeight: small ? '16px' : '18px' }}>✓</span>
+          <span style={{ fontSize: small ? '11px' : '12px', color: '#444', lineHeight: 1.4 }}>{item}</span>
+        </div>
+      ))}
+    </div>
+  )
+}
+
 export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMethodKeys, showCertifiedBadge }: Props) {
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
@@ -75,7 +88,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
 
         {/* ====== MOBILE ====== */}
         <div className="block sm:hidden">
-          {/* Carousel */}
           <div style={{ position: 'relative', width: '100%', paddingTop: '56%', overflow: 'hidden' }}
             onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
             <div style={{ position: 'absolute', inset: 0 }}>
@@ -89,9 +101,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
               </div>
             </div>
             {showCertifiedBadge && (
-              <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 12px', zIndex: 2 }}>
-                ✓ Zertifiziert
-              </div>
+              <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 12px', zIndex: 2 }}>✓ Zertifiziert</div>
             )}
             <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '34px', height: '34px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
               <Heart size={17} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
@@ -109,9 +119,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
           </div>
 
-          {/* Info */}
           <div style={{ padding: '12px 14px 8px' }}>
-            <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '16px', textDecoration: 'none', display: 'block', marginBottom: '5px', lineHeight: 1.3 }}>{clinic.name}</a>
+            <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '16px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.name}</a>
+            <div style={{ fontSize: '12px', color: '#555', marginBottom: '8px', lineHeight: 1.4, fontStyle: 'italic' }}>{clinic.headline}</div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '6px', flexWrap: 'wrap' }}>
               <GIcon />
               <Stars rating={clinic.googleRating} size={14} />
@@ -124,6 +134,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
               <MapPin size={13} style={{ flexShrink: 0, marginTop: '1px' }} /><span>{clinic.address} · {clinic.distanceKm} km</span>
             </div>
             <div style={{ color: '#888', fontSize: '12px', marginBottom: '8px' }}>{clinic.doctor} · {clinic.qualification}</div>
+            <USPs items={clinic.usp} />
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: '8px' }}>
               {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '3px 8px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
               {clinic.onlineBooking && <span style={{ backgroundColor: '#E8F0FF', color: '#003399', fontSize: '11px', padding: '3px 8px', borderRadius: '4px' }}>Online-Buchung</span>}
@@ -154,7 +165,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#CCC'} />
           </button>
           <div style={{ display: 'flex', gap: '12px', marginTop: showCertifiedBadge ? '14px' : '0' }}>
-            {/* Col 1 */}
             <div style={{ flexShrink: 0, textAlign: 'center', width: '80px' }}>
               <div style={{ width: '80px', height: '72px', borderRadius: '4px', overflow: 'hidden', position: 'relative', marginBottom: '4px' }}
                 onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
@@ -173,21 +183,21 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
               <div style={{ fontSize: '12px', fontWeight: 700, color: '#111', lineHeight: 1.2 }}>{clinic.googleRating.toFixed(1)}</div>
               <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', color: '#003399', fontSize: '11px', textDecoration: 'underline' }}>{clinic.googleReviewCount} Bew.</button>
             </div>
-            {/* Col 2 */}
             <div style={{ flex: 1, minWidth: 0, paddingRight: '26px' }}>
-              <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '14px', textDecoration: 'none', display: 'block', marginBottom: '3px', lineHeight: 1.3 }}>{clinic.name}</a>
+              <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '14px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3 }}>{clinic.name}</a>
+              <div style={{ fontSize: '11px', color: '#555', fontStyle: 'italic', marginBottom: '4px', lineHeight: 1.4 }}>{clinic.headline}</div>
               {clinic.freeConsultation && <span style={{ display: 'inline-block', backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px', marginBottom: '4px' }}>Kostenlose Erstberatung</span>}
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#666', fontSize: '12px', marginBottom: '2px' }}>
                 <MapPin size={11} style={{ flexShrink: 0, marginTop: '1px' }} /><span style={{ lineHeight: 1.3 }}>{clinic.address} · {clinic.distanceKm} km</span>
               </div>
-              <div style={{ color: '#666', fontSize: '12px', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.doctor} · {clinic.qualification}</div>
+              <div style={{ color: '#666', fontSize: '12px', marginBottom: '6px', lineHeight: 1.3 }}>{clinic.doctor} · {clinic.qualification}</div>
+              <USPs items={clinic.usp.slice(0, 2)} small />
               <div style={{ display: 'flex', alignItems: 'center', gap: '5px' }}>
                 {clinic.openToday
                   ? <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#00A651', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#00A651', fontSize: '12px' }}>Heute geöffnet: {clinic.openHours}</span></>
                   : <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#CC0000', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#CC0000', fontSize: '12px' }}>Heute geschlossen</span></>}
               </div>
             </div>
-            {/* Col 3 */}
             <div style={{ minWidth: '150px', maxWidth: '190px' }}>
               <div style={{ color: '#888', fontSize: '11px', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '6px' }}>Verfügbare Methoden</div>
               <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px', marginBottom: '8px' }}>
@@ -201,7 +211,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
               {clinic.onlineBooking && <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#00A651', fontSize: '12px', marginBottom: '4px' }}><Clock size={11} />Online-Buchung</div>}
               {clinic.photoCount > 0 && <a href="#" style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#003399', fontSize: '12px', textDecoration: 'none' }}><ExternalLink size={11} />{clinic.photoCount} Praxis-Fotos</a>}
             </div>
-            {/* Col 4 */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', minWidth: '148px' }}>
               <div>
                 <div style={{ color: '#888', fontSize: '11px' }}>ab</div>
