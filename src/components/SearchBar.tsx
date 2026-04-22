@@ -1,4 +1,4 @@
-import { Search, MapPin, CheckCircle2 } from 'lucide-react'
+import { Search, MapPin } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
 import { ALL_CITIES } from '../data/clinics'
 
