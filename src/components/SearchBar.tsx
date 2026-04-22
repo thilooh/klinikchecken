@@ -1,4 +1,4 @@
-import { Search, ChevronDown } from 'lucide-react'
+import { Search } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
 import { ALL_CITIES } from '../data/clinics'
 
@@ -18,31 +18,21 @@ export default function SearchBar({ filters, setFilters }: Props) {
           Vergleiche Preise, Methoden und Bewertungen von geprüften Kliniken
         </p>
         <div style={{ backgroundColor: '#fff', borderRadius: '4px', height: '52px', display: 'flex', alignItems: 'center', overflow: 'hidden', boxShadow: '0 2px 8px rgba(0,0,0,0.15)' }}>
-          <div style={{ display: 'flex', alignItems: 'center', padding: '0 12px', borderRight: '1px solid #DDD', height: '100%', minWidth: '160px', cursor: 'pointer', gap: '6px' }}>
-            <span style={{ fontSize: '13px', color: '#333' }}>Besenreiser</span>
-            <ChevronDown size={14} color="#666" />
-          </div>
-          <div style={{ flex: 1, display: 'flex', alignItems: 'center', padding: '0 12px', gap: '8px' }}>
-            <Search size={16} color="#999" />
+          <div style={{ flex: 1, display: 'flex', alignItems: 'center', padding: '0 14px', gap: '8px' }}>
+            <Search size={16} color="#999" style={{ flexShrink: 0 }} />
             <select
               value={filters.searchCity}
               onChange={e => setFilters({ ...filters, searchCity: e.target.value })}
-              style={{ border: 'none', outline: 'none', fontSize: '14px', width: '100%', color: '#333', backgroundColor: 'transparent', cursor: 'pointer' }}
+              style={{ border: 'none', outline: 'none', fontSize: '15px', width: '100%', color: '#333', backgroundColor: 'transparent', cursor: 'pointer' }}
             >
               {ALL_CITIES.map(city => (
                 <option key={city} value={city}>{city}</option>
               ))}
             </select>
           </div>
-          <div className="hidden sm:flex" style={{ alignItems: 'center', padding: '0 12px', borderLeft: '1px solid #DDD', height: '100%', minWidth: '130px', cursor: 'pointer', gap: '6px' }}>
-            <span style={{ fontSize: '13px', color: '#666' }}>Methode</span>
-            <ChevronDown size={14} color="#666" />
-          </div>
-          <div className="hidden md:flex" style={{ alignItems: 'center', padding: '0 12px', borderLeft: '1px solid #DDD', height: '100%', minWidth: '110px', cursor: 'pointer', gap: '6px' }}>
-            <span style={{ fontSize: '13px', color: '#666' }}>Preis</span>
-            <ChevronDown size={14} color="#666" />
-          </div>
-          <button style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', height: '100%', width: '160px', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px', flexShrink: 0 }}>
+          <button
+            style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '15px', height: '100%', padding: '0 28px', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px', flexShrink: 0 }}
+          >
             <Search size={16} />
             Suchen
           </button>
