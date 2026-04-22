@@ -27,6 +27,8 @@ export interface Clinic {
   lastInquiry: string
   featured: boolean
   tags: string[]
+  headline: string
+  usp: string[]
 }
 
 export interface FilterState {
