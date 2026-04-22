@@ -90,7 +90,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             </div>
             {showCertifiedBadge && (
               <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 12px', zIndex: 2 }}>
-                ✓ aesthetiq-zertifiziert
+                ✓ Zertifiziert
               </div>
             )}
             <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '34px', height: '34px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
@@ -138,7 +138,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             <div>
               <div style={{ display: 'flex', alignItems: 'baseline', gap: '2px' }}>
                 <span style={{ fontSize: '11px', color: '#888' }}>ab</span>
-                <span style={{ fontWeight: 700, fontSize: '24px', color: '#111', whiteSpace: 'nowrap' }}> {clinic.priceFrom} €</span>
+                <span style={{ fontWeight: 700, fontSize: '24px', color: '#111', whiteSpace: 'nowrap' }}> {clinic.priceFrom} €</span>
               </div>
               <div style={{ fontSize: '11px', color: '#888', marginTop: '-2px' }}>/ Sitzung</div>
               {clinic.packagePrice && <div style={{ fontSize: '11px', color: '#00A651', marginTop: '2px', whiteSpace: 'nowrap' }}>3x: {clinic.packagePrice} €</div>}
@@ -149,7 +149,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
 
         {/* ====== DESKTOP ====== */}
         <div className="hidden sm:block">
-          {showCertifiedBadge && <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '2px 10px', borderRadius: '0 0 4px 0', lineHeight: '20px', zIndex: 1 }}>✓ aesthetiq-zertifiziert</div>}
+          {showCertifiedBadge && <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '2px 10px', borderRadius: '0 0 4px 0', lineHeight: '20px', zIndex: 1 }}>✓ Zertifiziert</div>}
           <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: showCertifiedBadge ? '26px' : '10px', right: '10px', background: 'none', border: 'none', cursor: 'pointer', padding: '4px', zIndex: 1 }}>
             <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#CCC'} />
           </button>

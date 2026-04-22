@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { ChevronRight } from 'lucide-react'
 import Navbar from './components/Navbar'
 import SearchBar from './components/SearchBar'
 import Sidebar from './components/Sidebar'
@@ -27,7 +26,7 @@ const defaultFilters: FilterState = {
     parking: false,
     certified: true,
   },
-  sortBy: 'recommended',
+  sortBy: 'rating',
   searchCity: 'Köln',
 }
 
@@ -46,13 +45,6 @@ export default function App() {
       <SearchBar filters={filters} setFilters={setFilters} />
       <main style={{ flex: 1, backgroundColor: '#F4F4F4', padding: '16px 0 32px' }}>
         <div className="max-w-[1200px] mx-auto px-4">
-          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '16px', fontSize: '12px', color: '#666' }}>
-            <a href="#" style={{ color: '#003399', textDecoration: 'none' }}>Startseite</a>
-            <ChevronRight size={12} />
-            <a href="#" style={{ color: '#003399', textDecoration: 'none' }}>Besenreiser</a>
-            <ChevronRight size={12} />
-            <span style={{ color: '#333' }}>{filters.searchCity}</span>
-          </div>
           <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
             <div className="hidden md:block">
               <Sidebar filters={filters} setFilters={setFilters} />
