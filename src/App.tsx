@@ -36,8 +36,14 @@ export default function App() {
   const [filters, setFilters] = useState<FilterState>(defaultFilters)
   const [selectedClinic, setSelectedClinic] = useState<Clinic | null>(null)
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
+  const [filterSection, setFilterSection] = useState('sort')
 
   const filtered = useFilteredClinics(clinics, filters)
+
+  const openFilter = (section = 'sort') => {
+    setFilterSection(section)
+    setMobileFilterOpen(true)
+  }
 
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', fontFamily: interFont }}>
@@ -54,7 +60,7 @@ export default function App() {
                 count={filtered.length}
                 filters={filters}
                 setFilters={setFilters}
-                onOpenFilter={() => setMobileFilterOpen(true)}
+                onOpenFilter={openFilter}
               />
               <ClinicList clinics={filtered} onInquire={setSelectedClinic} filters={filters} setFilters={setFilters} />
             </div>
@@ -70,6 +76,7 @@ export default function App() {
           setFilters={setFilters}
           count={filtered.length}
           onClose={() => setMobileFilterOpen(false)}
+          initialSection={filterSection}
         />
       )}
     </div>

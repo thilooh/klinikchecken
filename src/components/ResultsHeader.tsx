@@ -6,7 +6,7 @@ interface Props {
   count: number
   filters: FilterState
   setFilters: (f: FilterState) => void
-  onOpenFilter: () => void
+  onOpenFilter: (section?: string) => void
 }
 
 const SORT_OPTIONS: { val: FilterState['sortBy']; label: string }[] = [
@@ -20,7 +20,7 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
   const [sortOpen, setSortOpen] = useState(false)
 
   const currentSort = SORT_OPTIONS.find(o => o.val === filters.sortBy)!
-  const hasPriceFilter = filters.priceRange[0] > 50 || filters.priceRange[1] < 350
+  const isPriceSorted = filters.sortBy === 'price'
   const hasMethodFilter = filters.selectedMethods.length > 0
   const hasDistanceFilter = filters.maxDistance < 999
 
@@ -31,14 +31,12 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
     fontSize: '13px', fontWeight: 500,
     backgroundColor: active ? '#003399' : '#fff',
     color: active ? '#fff' : '#333',
-    cursor: 'pointer', whiteSpace: 'nowrap' as const,
-    flexShrink: 0,
+    cursor: 'pointer', whiteSpace: 'nowrap' as const, flexShrink: 0,
   })
 
   const clearBtn: React.CSSProperties = {
-    marginLeft: '2px', fontWeight: 700, opacity: 0.8,
-    cursor: 'pointer', background: 'none', border: 'none',
-    color: 'inherit', padding: '0 0 0 2px', fontSize: '13px',
+    marginLeft: '2px', fontWeight: 700, opacity: 0.8, cursor: 'pointer',
+    background: 'none', border: 'none', color: 'inherit', padding: '0 0 0 2px', fontSize: '13px',
   }
 
   return (
@@ -49,9 +47,9 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
           <div style={{ fontSize: '11px', color: '#999', marginTop: '2px' }}>Ergebnisse werden täglich aktualisiert</div>
         </div>
 
-        {/* Sort pill — desktop only, outside overflow container */}
+        {/* Sort dropdown — desktop only, outside overflow container */}
         <div className="hidden sm:block" style={{ position: 'relative', flexShrink: 0, marginLeft: '8px' }}>
-          <button onClick={() => setSortOpen(v => !v)} style={pill(filters.sortBy !== 'recommended')}>
+          <button onClick={() => setSortOpen(v => !v)} style={pill(filters.sortBy !== 'rating')}>
             <ArrowUpDown size={13} />
             {currentSort.label}
             <ChevronDown size={12} />
@@ -76,30 +74,33 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
       {/* Scrollable filter pills */}
       <div className="hide-scrollbar" style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '2px' }}>
 
-        {/* Mobile sort pill — first, opens filter sheet */}
-        <button className="sm:hidden" onClick={onOpenFilter} style={pill(filters.sortBy !== 'recommended')}>
+        {/* Mobile sort pill — first */}
+        <button className="sm:hidden" onClick={() => onOpenFilter('sort')} style={pill(filters.sortBy !== 'rating')}>
           <ArrowUpDown size={13} />
-          {filters.sortBy !== 'recommended' ? currentSort.label : 'Sortierung'}
+          {filters.sortBy !== 'rating' ? currentSort.label : 'Sortierung'}
         </button>
 
-        {/* Price pill */}
-        <button onClick={onOpenFilter} style={pill(hasPriceFilter)}>
-          {hasPriceFilter ? `${filters.priceRange[0]}–${filters.priceRange[1]} €` : 'Preis'}
-          {hasPriceFilter && (
-            <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, priceRange: [50, 350] }) }}>×</span>
+        {/* Preis — toggles price sort */}
+        <button
+          onClick={() => setFilters({ ...filters, sortBy: isPriceSorted ? 'rating' : 'price' })}
+          style={pill(isPriceSorted)}
+        >
+          Preis
+          {isPriceSorted && (
+            <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, sortBy: 'rating' }) }}>×</span>
           )}
         </button>
 
-        {/* Method pill */}
-        <button onClick={onOpenFilter} style={pill(hasMethodFilter)}>
+        {/* Methode — opens filter sheet on method section */}
+        <button onClick={() => onOpenFilter('method')} style={pill(hasMethodFilter)}>
           {hasMethodFilter ? `Methode (${filters.selectedMethods.length})` : 'Methode'}
           {hasMethodFilter && (
             <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, selectedMethods: [] }) }}>×</span>
           )}
         </button>
 
-        {/* Distance pill */}
-        <button onClick={onOpenFilter} style={pill(hasDistanceFilter)}>
+        {/* Entfernung — opens filter sheet on distance section */}
+        <button onClick={() => onOpenFilter('distance')} style={pill(hasDistanceFilter)}>
           {hasDistanceFilter ? `bis ${filters.maxDistance} km` : 'Entfernung'}
           {hasDistanceFilter && (
             <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, maxDistance: 999 }) }}>×</span>

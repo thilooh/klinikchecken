@@ -8,6 +8,7 @@ interface Props {
   setFilters: (f: FilterState) => void
   count: number
   onClose: () => void
+  initialSection?: string
 }
 
 const SORT_OPTIONS: { val: FilterState['sortBy']; label: string; sub?: string }[] = [
@@ -30,9 +31,14 @@ const ROW: React.CSSProperties = {
   padding: '11px 0', borderBottom: '1px solid #F2F2F2', cursor: 'pointer',
 }
 
-export default function MobileFilterSheet({ filters, setFilters, count, onClose }: Props) {
+export default function MobileFilterSheet({ filters, setFilters, count, onClose, initialSection = 'sort' }: Props) {
   const [open, setOpen] = useState<Record<string, boolean>>({
-    sort: true, price: false, method: false, rating: false, extras: false, distance: false,
+    sort: initialSection === 'sort',
+    price: initialSection === 'price',
+    method: initialSection === 'method',
+    rating: initialSection === 'rating',
+    extras: initialSection === 'extras',
+    distance: initialSection === 'distance',
   })
 
   const toggle = (key: string) => setOpen(s => ({ ...s, [key]: !s[key] }))
@@ -43,7 +49,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose 
     priceRange: [50, 350],
     minRating: 4,
     maxDistance: 10,
-    sortBy: 'recommended',
+    sortBy: 'rating',
     extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: true },
   })
 
@@ -63,13 +69,9 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose 
 
   return (
     <>
-      {/* Backdrop */}
       <div onClick={onClose} style={{ position: 'fixed', inset: 0, backgroundColor: 'rgba(0,0,0,0.55)', zIndex: 290 }} />
-
-      {/* Sheet */}
       <div style={{ position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 300, borderRadius: '16px 16px 0 0', backgroundColor: '#fff', maxHeight: '92vh', display: 'flex', flexDirection: 'column' }}>
 
-        {/* Header */}
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '18px 20px', flexShrink: 0 }}>
           <span style={{ fontWeight: 800, fontSize: '18px', color: '#111' }}>Wähle deine Filter aus</span>
           <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '4px', lineHeight: 0 }}>
@@ -77,10 +79,8 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose 
           </button>
         </div>
 
-        {/* Scrollable body */}
         <div style={{ overflowY: 'auto', flex: 1 }}>
 
-          {/* Sort */}
           <SectionHead id="sort" label="Sortieren nach" />
           {open.sort && (
             <div style={{ padding: '4px 20px 12px' }}>
@@ -97,25 +97,6 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose 
             </div>
           )}
 
-          {/* Price */}
-          <SectionHead id="price" label="Preis" />
-          {open.price && (
-            <div style={{ padding: '8px 20px 16px' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '10px', fontSize: '14px', fontWeight: 700, color: '#111' }}>
-                <span>{filters.priceRange[0]} €</span>
-                <span>{filters.priceRange[1]} €</span>
-              </div>
-              <input type="range" min={50} max={350} value={filters.priceRange[0]}
-                onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })}
-                style={{ width: '100%', marginBottom: '10px', accentColor: '#003399' }} />
-              <input type="range" min={50} max={350} value={filters.priceRange[1]}
-                onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })}
-                style={{ width: '100%', accentColor: '#003399' }} />
-              <div style={{ fontSize: '12px', color: '#999', marginTop: '8px' }}>Preis pro Sitzung</div>
-            </div>
-          )}
-
-          {/* Method */}
           <SectionHead id="method" label="Methode" />
           {open.method && (
             <div style={{ padding: '4px 20px 12px' }}>
@@ -139,7 +120,23 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose 
             </div>
           )}
 
-          {/* Rating */}
+          <SectionHead id="price" label="Preis" />
+          {open.price && (
+            <div style={{ padding: '8px 20px 16px' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '10px', fontSize: '14px', fontWeight: 700, color: '#111' }}>
+                <span>{filters.priceRange[0]} €</span>
+                <span>{filters.priceRange[1]} €</span>
+              </div>
+              <input type="range" min={50} max={350} value={filters.priceRange[0]}
+                onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })}
+                style={{ width: '100%', marginBottom: '10px', accentColor: '#003399' }} />
+              <input type="range" min={50} max={350} value={filters.priceRange[1]}
+                onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })}
+                style={{ width: '100%', accentColor: '#003399' }} />
+              <div style={{ fontSize: '12px', color: '#999', marginTop: '8px' }}>Preis pro Sitzung</div>
+            </div>
+          )}
+
           <SectionHead id="rating" label="Bewertung" />
           {open.rating && (
             <div style={{ padding: '4px 20px 12px' }}>
@@ -153,7 +150,6 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose 
             </div>
           )}
 
-          {/* Extras */}
           <SectionHead id="extras" label="Extras" />
           {open.extras && (
             <div style={{ padding: '4px 20px 12px' }}>
@@ -175,7 +171,6 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose 
             </div>
           )}
 
-          {/* Distance */}
           <SectionHead id="distance" label="Entfernung" />
           {open.distance && (
             <div style={{ padding: '4px 20px 12px' }}>
@@ -192,7 +187,6 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose 
           <div style={{ height: '8px' }} />
         </div>
 
-        {/* Footer */}
         <div style={{ borderTop: '1px solid #E8E8E8', padding: '14px 20px 20px', display: 'flex', gap: '12px', flexShrink: 0, backgroundColor: '#fff' }}>
           <button onClick={resetAll} style={{ flex: 1, background: 'none', border: 'none', fontSize: '14px', fontWeight: 600, color: '#444', cursor: 'pointer', padding: '14px 0' }}>
             Filter entfernen
