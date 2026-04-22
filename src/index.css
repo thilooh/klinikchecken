@@ -43,6 +43,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .card-hover { transition: all 0.2s ease; }
 
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+
 input[type=range] { -webkit-appearance: none; appearance: none; height: 4px; border-radius: 2px; background: #DDDDDD; outline: none; }
 input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 16px; height: 16px; border-radius: 50%; background: #003399; cursor: pointer; }
 input[type=range]::-moz-range-thumb { width: 16px; height: 16px; border-radius: 50%; background: #003399; cursor: pointer; border: none; }
