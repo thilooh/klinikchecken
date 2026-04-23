@@ -9,8 +9,8 @@ export interface Clinic {
   qualification: string
   rating: number
   reviewCount: number
-  googleRating: number
-  googleReviewCount: number
+  googleRating?: number
+  googleReviewCount?: number
   placeId?: string
   methods: string[]
   openToday: boolean

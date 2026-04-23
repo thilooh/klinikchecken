@@ -76,8 +76,8 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
   const [error, setError] = useState(false)
 
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clinic.name + ' ' + clinic.address)}`
-  const displayRating = liveRating ?? clinic.googleRating
-  const displayReviewCount = liveReviewCount ?? clinic.googleReviewCount
+  const displayRating = liveRating ?? clinic.googleRating ?? 0
+  const displayReviewCount = liveReviewCount ?? clinic.googleReviewCount ?? 0
 
   useEffect(() => {
     if (!clinic.placeId) {

@@ -117,15 +117,23 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
           <div style={{ padding: '14px 16px 10px' }}>
             <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.name}</a>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{clinic.headline}</div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
-              <GIcon />
-              <Stars rating={clinic.googleRating} size={16} />
-              <span style={{ fontWeight: 700, fontSize: '16px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
-            </div>
-            <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}>
-              <span style={{ color: '#003399', fontSize: '13px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
-              <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
-            </button>
+            {clinic.googleRating ? (
+              <>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
+                  <GIcon />
+                  <Stars rating={clinic.googleRating} size={16} />
+                  <span style={{ fontWeight: 700, fontSize: '16px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
+                </div>
+                {clinic.placeId && (
+                  <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}>
+                    <span style={{ color: '#003399', fontSize: '13px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
+                    <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                  </button>
+                )}
+              </>
+            ) : (
+              <div style={{ marginBottom: '10px' }} />
+            )}
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: '5px', color: '#555', fontSize: '14px', marginBottom: '4px' }}>
               <MapPin size={14} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
             </div>
@@ -142,7 +150,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </div>
           </div>
 
-          <div style={{ display: 'flex', justifyContent: 'flex-end', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
+          <div style={{ display: 'flex', justifyContent: 'center', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
             <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '16px', border: 'none', borderRadius: '6px', padding: '14px 22px', cursor: 'pointer', whiteSpace: 'nowrap' }}>Jetzt anfragen</button>
           </div>
         </div>
@@ -190,16 +198,24 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{clinic.headline}</div>
 
               {/* Single rating row: G icon · stars · score · review link · badge */}
-              <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px', flexWrap: 'wrap' }}>
-                <GIcon />
-                <Stars rating={clinic.googleRating} size={14} />
-                <span style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
-                <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '2px' }}>
-                  <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Bewertungen lesen</span>
-                  <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
-                </button>
-                {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
-              </div>
+              {clinic.googleRating ? (
+                <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px', flexWrap: 'wrap' }}>
+                  <GIcon />
+                  <Stars rating={clinic.googleRating} size={14} />
+                  <span style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
+                  {clinic.placeId && (
+                    <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '2px' }}>
+                      <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Bewertungen lesen</span>
+                      <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                    </button>
+                  )}
+                  {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
+                </div>
+              ) : (
+                <div style={{ marginBottom: '8px' }}>
+                  {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
+                </div>
+              )}
 
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
                 <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
@@ -212,10 +228,17 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                   : <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#CC0000', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#CC0000', fontSize: '13px' }}>Heute geschlossen</span></>}
               </div>
             </div>
-            {/* Col 3 – CTA */}
-            <div className="flex flex-col justify-end" style={{ flexShrink: 0, textAlign: 'right', minWidth: '148px' }}>
-              <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '100%', cursor: 'pointer', marginBottom: '6px' }}>Jetzt anfragen</button>
-              <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '100%', cursor: 'pointer' }}>Profil ansehen</button>
+            {/* Col 3 – opening hours + CTA */}
+            <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', minWidth: '148px' }}>
+              <div>
+                {clinic.openToday
+                  ? <><div style={{ color: '#00A651', fontSize: '12px', fontWeight: 700 }}>Heute geöffnet</div><div style={{ color: '#555', fontSize: '11px', lineHeight: 1.4, marginTop: '2px' }}>{clinic.openHours}</div></>
+                  : <div style={{ color: '#CC0000', fontSize: '12px', fontWeight: 700 }}>Heute geschlossen</div>}
+              </div>
+              <div>
+                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '100%', cursor: 'pointer', marginBottom: '6px' }}>Jetzt anfragen</button>
+                <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '100%', cursor: 'pointer' }}>Profil ansehen</button>
+              </div>
             </div>
           </div>
         </div>
