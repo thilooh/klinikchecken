@@ -19,7 +19,6 @@ const SORT_OPTIONS: { val: FilterState['sortBy']; label: string }[] = [
 export default function ResultsHeader({ count, filters, setFilters, onOpenFilter }: Props) {
   const [sortOpen, setSortOpen] = useState(false)
 
-  const currentSort = SORT_OPTIONS.find(o => o.val === filters.sortBy)!
   const isPriceSorted = filters.sortBy === 'price'
   const hasMethodFilter = filters.selectedMethods.length > 0
   const hasDistanceFilter = filters.maxDistance < 999
@@ -47,9 +46,9 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
           <div style={{ fontSize: '12px', color: '#999', marginTop: '2px' }}>Sortiert nach Facharzt-Qualifikation, Patientenstimmen und Behandlungsvolumen. Ohne bezahlte Rankings.</div>
         </div>
         <div className="hidden sm:block" style={{ position: 'relative', flexShrink: 0, marginLeft: '8px' }}>
-          <button onClick={() => setSortOpen(v => !v)} style={pill(filters.sortBy !== 'rating')}>
+          <button onClick={() => setSortOpen(v => !v)} style={pill(true)}>
             <ArrowUpDown size={14} />
-            {currentSort.label}
+            Sortiert
             <ChevronDown size={13} />
           </button>
           {sortOpen && (
@@ -69,9 +68,9 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
       </div>
 
       <div className="hide-scrollbar" style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '2px' }}>
-        <button className="sm:hidden" onClick={() => onOpenFilter('sort')} style={pill(filters.sortBy !== 'rating')}>
+        <button className="sm:hidden" onClick={() => onOpenFilter('sort')} style={pill(true)}>
           <ArrowUpDown size={14} />
-          {filters.sortBy !== 'rating' ? currentSort.label : 'Sortierung'}
+          Sortiert
         </button>
         <button onClick={() => setFilters({ ...filters, sortBy: isPriceSorted ? 'rating' : 'price' })} style={pill(isPriceSorted)}>
           Preis
