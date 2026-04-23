@@ -117,21 +117,15 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
           <div style={{ padding: '14px 16px 10px' }}>
             <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.name}</a>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{clinic.headline}</div>
-
-            {/* Mobile rating row */}
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
               <GIcon />
               <Stars rating={clinic.googleRating} size={16} />
               <span style={{ fontWeight: 700, fontSize: '16px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
             </div>
-            <button
-              onClick={() => setShowReviews(true)}
-              style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}
-            >
+            <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}>
               <span style={{ color: '#003399', fontSize: '13px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
               <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
             </button>
-
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: '5px', color: '#555', fontSize: '14px', marginBottom: '4px' }}>
               <MapPin size={14} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
             </div>
@@ -203,20 +197,17 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3 }}>{clinic.name}</a>
               <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{clinic.headline}</div>
 
-              {/* Desktop rating row */}
-              <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '3px', flexWrap: 'wrap' }}>
+              {/* Single rating row: G icon · stars · score · review link · badge */}
+              <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px', flexWrap: 'wrap' }}>
                 <GIcon />
                 <Stars rating={clinic.googleRating} size={14} />
                 <span style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
+                <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '2px' }}>
+                  <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Bewertungen lesen</span>
+                  <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                </button>
                 {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
               </div>
-              <button
-                onClick={() => setShowReviews(true)}
-                style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '3px', marginBottom: '8px' }}
-              >
-                <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
-                <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
-              </button>
 
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
                 <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
