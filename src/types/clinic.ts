@@ -11,6 +11,7 @@ export interface Clinic {
   reviewCount: number
   googleRating: number
   googleReviewCount: number
+  placeId?: string
   methods: string[]
   priceFrom: number
   packagePrice?: number
