@@ -158,8 +158,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </div>
           </div>
 
-          <div style={{ display: 'flex', justifyContent: 'center', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
-            <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '16px', border: 'none', borderRadius: '6px', padding: '14px 22px', cursor: 'pointer', whiteSpace: 'nowrap' }}>Jetzt anfragen</button>
+          <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
+            <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#003399', fontWeight: 600, fontSize: '15px', border: '1px solid #003399', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
+            <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Jetzt anfragen</button>
           </div>
         </div>
 
