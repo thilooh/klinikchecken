@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { MapPin, Heart, ChevronLeft, ChevronRight } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 import GoogleReviewsModal from './GoogleReviewsModal'
+import ClinicProfileModal from './ClinicProfileModal'
 
 interface Props {
   clinic: Clinic
@@ -48,6 +49,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
 export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, showCertifiedBadge }: Props) {
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
+  const [showProfile, setShowProfile] = useState(false)
   const [slide, setSlide] = useState(0)
   const [touchStart, setTouchStart] = useState<number | null>(null)
 
@@ -250,7 +252,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               </div>
               <div>
                 <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>Jetzt anfragen</button>
-                <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer' }}>Profil ansehen</button>
+                <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer' }}>Profil ansehen</button>
               </div>
             </div>
           </div>
@@ -258,6 +260,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
 
       </div>
       {showReviews && <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />}
+      {showProfile && <ClinicProfileModal clinic={clinic} onClose={() => setShowProfile(false)} onInquire={onInquire} onShowReviews={() => setShowReviews(true)} />}
     </>
   )
 }
