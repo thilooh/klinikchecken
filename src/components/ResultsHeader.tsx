@@ -78,8 +78,8 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
 
       {/* Pills row */}
       <div className="hide-scrollbar" style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '2px' }}>
-        {/* Mobile-only buttons wrapped in a div so sm:hidden isn't overridden by inline display:flex */}
-        <div className="sm:hidden" style={{ display: 'flex', gap: '8px', flexShrink: 0 }}>
+        {/* Mobile-only: no inline display style on wrapper so sm:hidden works */}
+        <div className="flex gap-2 sm:hidden">
           <button onClick={() => setMobileSortOpen(v => !v)} style={pill(true)}>
             <ArrowUpDown size={14} />
             Sortiert
