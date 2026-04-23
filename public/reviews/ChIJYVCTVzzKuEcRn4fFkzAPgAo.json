@@ -1,0 +1,33 @@
+{
+  "rating": 3.8,
+  "reviewCount": 12,
+  "summary": [
+    "Schnelle Hilfe bei Hautnotfällen, Spezialistin Dr. Jopen für Allergologie wird gelobt",
+    "Gemischte Erfahrungen: Botox-Behandlungen mit gemeldeten Komplikationen",
+    "Kosmetik-Bereich erhält deutlich kritischere Bewertungen als der ärztliche Bereich"
+  ],
+  "lastUpdated": "2026-04-23T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "J. S.",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Am 17.12.2025 wurde bei mir durch Herrn Dr. Hilton eine Botox-Behandlung im oberen Gesichtsbereich durchgeführt. In der Folge entwickelte sich eine deutlich sichtbare Asymmetrie im Bereich der Augenbrauen. Nach einer späteren Korrekturbehandlung durch eine Kollegin bestand weiterhin eine Asymmetrie. Eine weitere Korrektur wurde mir anschließend durch Herrn Dr. Hilton nicht mehr angeboten. Der Verlauf der Behandlung hat mich sowohl äußerlich als auch emotional stark belastet.",
+      "time": 1769844545
+    },
+    {
+      "author_name": "Rudolf",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Nachdem ich mit einer großflächigen Nesselsucht aufwachte, brauchte ich sofort ärztliche Hilfe. Ein Anruf in der Hautarzt-Praxis Dr. med. Hilton und ich bekam sofort einen Termin bei Frau Dr. Luise Jopen, u.a. spezialisiert auf Allergologie. Ich war somit sofort in den richtigen Händen. Sie ist überzeugend kompetent, zugewandt, erklärte mir die Zusammenhänge in beruhigender und verständlicher Form und half mir mit der richtigen Medikation.",
+      "time": 1742061948
+    },
+    {
+      "author_name": "Holger-Michael Arndt",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Immer kompetent und freundlich behandelt worden.",
+      "time": 1728886283
+    }
+  ]
+}

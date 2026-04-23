@@ -69,7 +69,7 @@ const GoogleLogo = () => (
 
 export default function GoogleReviewsModal({ clinic, onClose }: Props) {
   const [reviews, setReviews] = useState<Review[]>([])
-  const [summary] = useState<string[]>(DUMMY_SUMMARY)
+  const [summary, setSummary] = useState<string[]>(DUMMY_SUMMARY)
   const [liveRating, setLiveRating] = useState<number | null>(null)
   const [liveReviewCount, setLiveReviewCount] = useState<number | null>(null)
   const [loading, setLoading] = useState(false)
@@ -86,14 +86,21 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
     }
     setLoading(true)
     setError(false)
-    fetch(`/.netlify/functions/reviews?placeId=${encodeURIComponent(clinic.placeId)}`)
-      .then(r => r.json())
-      .then((data: { reviews?: Parameters<typeof formatGoogleReview>[0][]; rating?: number; reviewCount?: number }) => {
+    // Primary: static pre-fetched JSON (updated every 3 days via GitHub Actions)
+    // Fallback: live Netlify function
+    const staticUrl = `/reviews/${encodeURIComponent(clinic.placeId)}.json`
+    const liveUrl = `/.netlify/functions/reviews?placeId=${encodeURIComponent(clinic.placeId)}`
+
+    fetch(staticUrl)
+      .then(r => r.ok ? r.json() : Promise.reject('no static file'))
+      .catch(() => fetch(liveUrl).then(r => r.json()))
+      .then((data: { reviews?: Parameters<typeof formatGoogleReview>[0][]; rating?: number; reviewCount?: number; summary?: string[] }) => {
         if (Array.isArray(data.reviews) && data.reviews.length > 0) {
           setReviews(data.reviews.map(formatGoogleReview))
         } else {
           setError(true)
         }
+        if (Array.isArray(data.summary) && data.summary.length > 0) setSummary(data.summary)
         if (data.rating) setLiveRating(data.rating)
         if (data.reviewCount) setLiveReviewCount(data.reviewCount)
       })
