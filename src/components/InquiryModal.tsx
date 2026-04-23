@@ -125,7 +125,12 @@ export default function InquiryModal({ clinic, onClose }: Props) {
 
               <label style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', fontSize: '12px', cursor: 'pointer', marginBottom: '8px' }}>
                 <input type="checkbox" checked={form.privacy} onChange={e => setForm({ ...form, privacy: e.target.checked })} style={{ marginTop: '2px', accentColor: '#003399' }} />
-                <span>Ich stimme der <a href="#" style={{ color: '#003399' }}>Datenschutzerklärung</a> zu *</span>
+                <span>
+                  Ich stimme zu, dass meine Anfragedaten zur Vermittlung an passende Kliniken weitergeleitet werden dürfen, und akzeptiere die{' '}
+                  <a href="/datenschutz" target="_blank" rel="noopener noreferrer" style={{ color: '#003399' }}>Datenschutzerklärung</a>
+                  {' '}sowie die{' '}
+                  <a href="/agb" target="_blank" rel="noopener noreferrer" style={{ color: '#003399' }}>AGB</a> *
+                </span>
               </label>
               <label style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', fontSize: '12px', cursor: 'pointer', marginBottom: '20px' }}>
                 <input type="checkbox" checked={form.newsletter} onChange={e => setForm({ ...form, newsletter: e.target.checked })} style={{ marginTop: '2px', accentColor: '#003399' }} />
