@@ -28,6 +28,12 @@ export interface Clinic {
   tags: string[]
   headline: string
   usp: string[]
+  treatmentInfo?: {
+    intro?: string
+    methodDetails?: { method: string; description: string }[]
+    processSteps?: string[]
+    phlebologist?: { name: string; title: string; bio: string }
+  }
 }
 
 export interface FilterState {

@@ -165,6 +165,32 @@ export const clinics: Clinic[] = [
     tags: ['Plastische Chirurgie', 'Nd:YAG Laser', 'Abendtermine'],
     headline: 'Plastischer Chirurg mit 20+ Jahren Erfahrung – Abendtermine möglich',
     usp: ['Über 20 Jahre Erfahrung in ästhetischer Medizin', 'Abendtermine montags bis 19 Uhr', 'Nd:YAG Laser & Verödung kombinierbar'],
+    treatmentInfo: {
+      intro: 'Be esthetic behandelt Besenreiser mit zwei aufeinander abgestimmten Methoden. Vor jeder Therapie erfolgt eine präzise Voruntersuchung – so wird die passende Methode individuell für jeden Patienten gewählt.',
+      methodDetails: [
+        {
+          method: 'Sklerotherapie (Verödung)',
+          description: 'Ein aufschäumender Wirkstoff wird über winzige Einstiche direkt in die Gefäße injiziert, verklebt sie von innen und unterbricht den Blutfluss dauerhaft. Von der Klinik als „Gold-Standard" positioniert – sanft und zugleich effektiv. Mehrere Sitzungen im Abstand von ca. 2–4 Wochen möglich.',
+        },
+        {
+          method: 'Nd:YAG Laser',
+          description: 'Für feinste, schwer zugängliche Gefäße, die per Injektion nicht erreichbar sind. Keine Einstiche notwendig – besonders schonend. Kein oder nur kurzzeitig notwendiger Kompressionsverband.',
+        },
+      ],
+      processSteps: [
+        'Behandlungsdauer: ca. 15–30 Minuten, ambulant',
+        'Keine gesonderte Vorbereitung notwendig',
+        'Sofort gesellschaftsfähig nach der Behandlung',
+        'Leichte Bewegung direkt erlaubt; intensiver Sport nach 3 Tagen',
+        'Sonnenschutz im Behandlungsbereich empfohlen',
+        'Besenreiser meist nach wenigen Wochen nicht mehr sichtbar',
+      ],
+      phlebologist: {
+        name: 'Dr. medic. Corina Endres',
+        title: 'Fachärztin für Innere Medizin & Kardiologie · Zusatzbezeichnungen Phlebologie & Lymphologie',
+        bio: 'Über 15 Jahre Erfahrung in der Gefäßdiagnostik. Zertifizierte Expertin für Sklerotherapie, Mitglied der Deutschen Gesellschaft für Phlebologie und Lymphologie (DGPL). Bei Be esthetic verantwortlich für alle Phlebologie-Behandlungen.',
+      },
+    },
   },
 
   {
