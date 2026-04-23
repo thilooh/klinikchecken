@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { MapPin, Heart, Clock, ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react'
+import { MapPin, Heart, ChevronLeft, ChevronRight } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 import GoogleReviewsModal from './GoogleReviewsModal'
 
@@ -9,11 +9,6 @@ interface Props {
   onMethodClick: (methodKey: string) => void
   activeMethodKeys: string[]
   showCertifiedBadge: boolean
-}
-
-const TAG_TO_METHOD_KEY: Record<string, string> = {
-  'Verödung': 'verödung', 'Nd:YAG Laser': 'nd:yag', 'IPL-Behandlung': 'ipl',
-  'Radiofrequenz': 'radiofrequenz', 'Diode Laser': 'diode',
 }
 
 const SLIDES = [
@@ -50,7 +45,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
   )
 }
 
-export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMethodKeys, showCertifiedBadge }: Props) {
+export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, showCertifiedBadge }: Props) {
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
   const [slide, setSlide] = useState(0)
@@ -196,8 +191,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
 
           {/* Content */}
           <div style={{ flex: 1, display: 'flex', gap: '0', padding: '14px 12px 14px 16px', minHeight: '200px' }}>
-            {/* Col 2 – name, rating, details */}
-            <div style={{ flex: 1, minWidth: 0, paddingRight: '14px' }}>
+            {/* Col 2 – main info + all 3 USPs */}
+            <div style={{ flex: 1, minWidth: 0, paddingRight: '16px' }}>
               <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3 }}>{clinic.name}</a>
               <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '6px', lineHeight: 1.4 }}>{clinic.headline}</div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '6px', flexWrap: 'wrap' }}>
@@ -210,29 +205,15 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
                 <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
               </div>
-              <div style={{ color: '#666', fontSize: '13px', marginBottom: '7px', lineHeight: 1.3 }}>{clinic.doctor} · {clinic.qualification}</div>
-              <USPs items={clinic.usp.slice(0, 2)} small />
+              <div style={{ color: '#666', fontSize: '13px', marginBottom: '8px', lineHeight: 1.3 }}>{clinic.doctor} · {clinic.qualification}</div>
+              <USPs items={clinic.usp} small />
               <div style={{ display: 'flex', alignItems: 'center', gap: '5px' }}>
                 {clinic.openToday
                   ? <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#00A651', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#00A651', fontSize: '13px' }}>Heute geöffnet: {clinic.openHours}</span></>
                   : <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#CC0000', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#CC0000', fontSize: '13px' }}>Heute geschlossen</span></>}
               </div>
             </div>
-            {/* Col 3 – methods */}
-            <div style={{ flexShrink: 0, width: '170px', paddingRight: '12px' }}>
-              <div style={{ color: '#888', fontSize: '12px', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '6px' }}>Verfügbare Methoden</div>
-              <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px', marginBottom: '8px' }}>
-                {clinic.tags.slice(0, 3).map(tag => {
-                  const methodKey = TAG_TO_METHOD_KEY[tag]
-                  const isActive = !!methodKey && activeMethodKeys.includes(methodKey)
-                  return <span key={tag} onClick={() => methodKey && onMethodClick(methodKey)} style={{ backgroundColor: isActive ? '#003399' : '#F0F0F0', color: isActive ? '#fff' : '#444', fontSize: '12px', padding: '3px 8px', borderRadius: '4px', cursor: methodKey ? 'pointer' : 'default', transition: 'background 0.15s' }}>{tag}</span>
-                })}
-              </div>
-              {clinic.packagePrice && <div style={{ color: '#003399', fontSize: '12px', fontStyle: 'italic', marginBottom: '5px' }}>Paketpreise ab 3 Sitzungen</div>}
-              {clinic.onlineBooking && <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#00A651', fontSize: '13px', marginBottom: '5px' }}><Clock size={12} />Online-Buchung</div>}
-              {clinic.photoCount > 0 && <a href="#" style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#003399', fontSize: '13px', textDecoration: 'none' }}><ExternalLink size={12} />{clinic.photoCount} Praxis-Fotos</a>}
-            </div>
-            {/* Col 4 – price + CTA */}
+            {/* Col 3 – price + CTA */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', minWidth: '148px' }}>
               <div>
                 <div style={{ color: '#888', fontSize: '12px' }}>ab</div>
