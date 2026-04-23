@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ArrowUpDown, ChevronDown } from 'lucide-react'
+import { ArrowUpDown, ChevronDown, SlidersHorizontal } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
 
 interface Props {
@@ -69,8 +69,8 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
 
       <div className="hide-scrollbar" style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '2px' }}>
         <button className="sm:hidden" onClick={() => onOpenFilter('sort')} style={pill(true)}>
-          <ArrowUpDown size={14} />
-          Sortiert
+          <SlidersHorizontal size={14} />
+          Filter
         </button>
         <button onClick={() => setFilters({ ...filters, sortBy: isPriceSorted ? 'rating' : 'price' })} style={pill(isPriceSorted)}>
           Preis
