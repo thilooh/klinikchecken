@@ -51,7 +51,7 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
       <div style={{ backgroundColor: '#fff', borderRadius: '8px', width: '100%', maxWidth: '540px', maxHeight: '85vh', display: 'flex', flexDirection: 'column', boxShadow: '0 8px 32px rgba(0,0,0,0.2)' }}>
 
         {/* Header */}
-        <div style={{ padding: '20px 20px 16px', borderBottom: '1px solid #EEE', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+        <div style={{ padding: '20px 20px 16px', borderBottom: '1px solid #EEE', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexShrink: 0 }}>
           <div>
             <GoogleLogo />
             <div style={{ fontWeight: 700, fontSize: '15px', marginTop: '8px', color: '#111' }}>{clinic.name}</div>
@@ -62,7 +62,7 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
         </div>
 
         {/* Rating summary */}
-        <div style={{ padding: '16px 20px', borderBottom: '1px solid #EEE', display: 'flex', alignItems: 'center', gap: '16px' }}>
+        <div style={{ padding: '16px 20px', borderBottom: '1px solid #EEE', display: 'flex', alignItems: 'center', gap: '16px', flexShrink: 0 }}>
           <div style={{ textAlign: 'center' }}>
             <div style={{ fontSize: '48px', fontWeight: 300, color: '#111', lineHeight: 1 }}>{clinic.googleRating.toFixed(1)}</div>
             <Stars rating={clinic.googleRating} size={18} />
@@ -84,24 +84,26 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
           </div>
         </div>
 
-        {/* AI summary */}
-        <div style={{ margin: '12px 20px 0', backgroundColor: '#F0F4FF', borderRadius: '8px', padding: '12px 14px', border: '1px solid #DDE5FF' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px' }}>
-            <Sparkles size={13} color="#4B6BCC" />
-            <span style={{ fontSize: '11px', fontWeight: 700, color: '#4B6BCC', letterSpacing: '0.04em', textTransform: 'uppercase' }}>Nutzer erwähnen häufig</span>
-          </div>
-          <ul style={{ margin: 0, padding: 0, listStyle: 'none' }}>
-            {REVIEW_SUMMARY.map((point, i) => (
-              <li key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '7px', fontSize: '13px', color: '#2D3A6B', lineHeight: '1.5', marginBottom: i < REVIEW_SUMMARY.length - 1 ? '5px' : 0 }}>
-                <span style={{ color: '#4B6BCC', fontWeight: 700, marginTop: '1px', flexShrink: 0 }}>•</span>
-                {point}
-              </li>
-            ))}
-          </ul>
-        </div>
+        {/* Scrollable area: AI summary + individual reviews */}
+        <div style={{ overflowY: 'auto', flex: 1, padding: '12px 20px 8px' }}>
 
-        {/* Reviews */}
-        <div style={{ overflowY: 'auto', flex: 1, padding: '4px 20px 8px' }}>
+          {/* AI summary */}
+          <div style={{ backgroundColor: '#F0F4FF', borderRadius: '8px', padding: '12px 14px', border: '1px solid #DDE5FF', marginBottom: '4px' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px' }}>
+              <Sparkles size={13} color="#4B6BCC" />
+              <span style={{ fontSize: '11px', fontWeight: 700, color: '#4B6BCC', letterSpacing: '0.04em', textTransform: 'uppercase' }}>Nutzer erwähnen häufig</span>
+            </div>
+            <ul style={{ margin: 0, padding: 0, listStyle: 'none' }}>
+              {REVIEW_SUMMARY.map((point, i) => (
+                <li key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '7px', fontSize: '13px', color: '#2D3A6B', lineHeight: '1.5', marginBottom: i < REVIEW_SUMMARY.length - 1 ? '5px' : 0 }}>
+                  <span style={{ color: '#4B6BCC', fontWeight: 700, marginTop: '1px', flexShrink: 0 }}>•</span>
+                  {point}
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Individual reviews */}
           {DUMMY_REVIEWS.map((review, i) => (
             <div key={i} style={{ padding: '14px 0', borderBottom: i < DUMMY_REVIEWS.length - 1 ? '1px solid #F5F5F5' : 'none' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '6px' }}>
@@ -122,7 +124,7 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
         </div>
 
         {/* Footer – Google attribution (legally required, visually subtle) */}
-        <div style={{ padding: '10px 20px', borderTop: '1px solid #EEE', display: 'flex', alignItems: 'center', justifyContent: 'space-between', backgroundColor: '#FAFAFA', borderRadius: '0 0 8px 8px' }}>
+        <div style={{ padding: '10px 20px', borderTop: '1px solid #EEE', display: 'flex', alignItems: 'center', justifyContent: 'space-between', backgroundColor: '#FAFAFA', borderRadius: '0 0 8px 8px', flexShrink: 0 }}>
           <span style={{ fontSize: '11px', color: '#BBB' }}>Bewertungen von Google</span>
           <a
             href={mapsUrl}
