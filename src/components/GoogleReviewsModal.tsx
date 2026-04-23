@@ -1,4 +1,4 @@
-import { X } from 'lucide-react'
+import { X, Sparkles } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 
 interface Props {
@@ -12,6 +12,13 @@ const DUMMY_REVIEWS = [
   { author: 'Sandra M.', initial: 'S', color: '#34A853', rating: 5, date: 'vor 3 Wochen', text: 'Bin wirklich begeistert! Schon nach der ersten Sitzung sah man deutliche Verbesserungen. Das Team ist sehr freundlich und erklärt jeden Schritt genau. Absolute Empfehlung!' },
   { author: 'Andreas B.', initial: 'A', color: '#FBBC05', rating: 4, date: 'vor 2 Monaten', text: 'Moderne Praxis mit neuester Technik. Sehr saubere und angenehme Atmosphäre. Das Ergebnis ist sehr ordentlich, ich bin zufrieden und würde wiederkommen.' },
   { author: 'Julia F.', initial: 'J', color: '#9C27B0', rating: 3, date: 'vor 6 Wochen', text: 'Gute Praxis, aber die Wartezeiten könnten besser organisiert werden. Die Behandlung selbst war gut durchgeführt und das Ergebnis ist in Ordnung.' },
+]
+
+// Derived from review texts — replace with Claude API call once backend exists
+const REVIEW_SUMMARY = [
+  'Patienten loben häufig die ausführliche Beratung und das freundliche, einfühlsame Team',
+  'Deutliche Ergebnisse werden bereits nach 1–2 Sitzungen berichtet',
+  'Moderne Praxis mit guter Online-Buchbarkeit — vereinzelt werden Wartezeiten erwähnt',
 ]
 
 function Stars({ rating, size = 14 }: { rating: number; size?: number }) {
@@ -77,8 +84,24 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
           </div>
         </div>
 
+        {/* AI summary */}
+        <div style={{ margin: '12px 20px 0', backgroundColor: '#F0F4FF', borderRadius: '8px', padding: '12px 14px', border: '1px solid #DDE5FF' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px' }}>
+            <Sparkles size={13} color="#4B6BCC" />
+            <span style={{ fontSize: '11px', fontWeight: 700, color: '#4B6BCC', letterSpacing: '0.04em', textTransform: 'uppercase' }}>Nutzer erwähnen häufig</span>
+          </div>
+          <ul style={{ margin: 0, padding: 0, listStyle: 'none' }}>
+            {REVIEW_SUMMARY.map((point, i) => (
+              <li key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '7px', fontSize: '13px', color: '#2D3A6B', lineHeight: '1.5', marginBottom: i < REVIEW_SUMMARY.length - 1 ? '5px' : 0 }}>
+                <span style={{ color: '#4B6BCC', fontWeight: 700, marginTop: '1px', flexShrink: 0 }}>•</span>
+                {point}
+              </li>
+            ))}
+          </ul>
+        </div>
+
         {/* Reviews */}
-        <div style={{ overflowY: 'auto', flex: 1, padding: '8px 20px' }}>
+        <div style={{ overflowY: 'auto', flex: 1, padding: '4px 20px 8px' }}>
           {DUMMY_REVIEWS.map((review, i) => (
             <div key={i} style={{ padding: '14px 0', borderBottom: i < DUMMY_REVIEWS.length - 1 ? '1px solid #F5F5F5' : 'none' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '6px' }}>
