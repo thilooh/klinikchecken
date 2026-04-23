@@ -17,6 +17,7 @@ const SORT_OPTIONS: { val: FilterState['sortBy']; label: string }[] = [
 ]
 
 export default function ResultsHeader({ count, filters, setFilters, onOpenFilter }: Props) {
+  const [sortOpen, setSortOpen] = useState(false)
   const [mobileSortOpen, setMobileSortOpen] = useState(false)
 
   const isPriceSorted = filters.sortBy === 'price'
@@ -52,14 +53,32 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
 
   return (
     <div style={{ marginBottom: '12px', position: 'relative' }}>
-      <div style={{ marginBottom: '10px' }}>
-        <div style={{ fontWeight: 700, fontSize: '16px', color: '#333' }}>{count} geprüfte Praxen in {filters.searchCity}</div>
-        <div style={{ fontSize: '12px', color: '#999', marginTop: '2px' }}>Sortiert nach Facharzt-Qualifikation, Patientenstimmen und Behandlungsvolumen. Ohne bezahlte Rankings.</div>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '10px' }}>
+        <div>
+          <div style={{ fontWeight: 700, fontSize: '16px', color: '#333' }}>{count} geprüfte Praxen in {filters.searchCity}</div>
+          <div style={{ fontSize: '12px', color: '#999', marginTop: '2px' }}>Sortiert nach Facharzt-Qualifikation, Patientenstimmen und Behandlungsvolumen. Ohne bezahlte Rankings.</div>
+        </div>
+        {/* Desktop sort button top-right */}
+        <div className="hidden sm:block" style={{ position: 'relative', flexShrink: 0, marginLeft: '8px' }}>
+          <button onClick={() => setSortOpen(v => !v)} style={pill(true)}>
+            <ArrowUpDown size={14} />
+            Sortiert
+            <ChevronDown size={13} />
+          </button>
+          {sortOpen && (
+            <>
+              <div onClick={() => setSortOpen(false)} style={{ position: 'fixed', inset: 0, zIndex: 40 }} />
+              <div style={{ position: 'absolute', top: 'calc(100% + 6px)', right: 0, zIndex: 50 }}>
+                {sortMenuItems(() => setSortOpen(false))}
+              </div>
+            </>
+          )}
+        </div>
       </div>
 
       {/* Pills row */}
       <div className="hide-scrollbar" style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '2px' }}>
-        {/* Mobile: Sortiert first, then Filter */}
+        {/* Mobile only: Sortiert first, then Filter */}
         <button className="sm:hidden" onClick={() => setMobileSortOpen(v => !v)} style={pill(true)}>
           <ArrowUpDown size={14} />
           Sortiert
@@ -69,6 +88,7 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
           <SlidersHorizontal size={14} />
           Filter
         </button>
+        {/* Desktop only: Preis pill */}
         <button className="hidden sm:flex" onClick={() => setFilters({ ...filters, sortBy: isPriceSorted ? 'rating' : 'price' })} style={pill(isPriceSorted)}>
           Preis
           {isPriceSorted && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, sortBy: 'rating' }) }}>×</span>}
