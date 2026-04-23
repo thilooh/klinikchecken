@@ -16,7 +16,7 @@ const defaultFilters: FilterState = {
   selectedMethods: [],
   priceRange: [50, 350],
   minRating: 4,
-  maxDistance: 10,
+  maxDistance: 999,
   extras: {
     freeConsultation: false,
     onlineBooking: false,
