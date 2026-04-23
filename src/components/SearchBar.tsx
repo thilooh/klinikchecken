@@ -30,6 +30,8 @@ function resolveCity(raw: string): string {
 function getMatches(input: string) {
   const t = input.trim().toLowerCase()
   if (!t) return CITIES
+  // Show all cities when the current value is already an exact city name
+  if (CITIES.some(c => c.name.toLowerCase() === t)) return CITIES
   return CITIES.filter(c =>
     c.name.toLowerCase().includes(t) ||
     (/^\d/.test(t) && c.plzPrefixes.some(p => p.startsWith(t) || t.startsWith(p)))
