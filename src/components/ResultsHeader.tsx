@@ -44,7 +44,7 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '10px' }}>
         <div>
           <div style={{ fontWeight: 700, fontSize: '16px', color: '#333' }}>{count} geprüfte Praxen in {filters.searchCity}</div>
-          <div style={{ fontSize: '12px', color: '#999', marginTop: '2px' }}>Sortiert nach Gesamtbewertung aus Facharzt-Qualifikation, Patientenstimmen und Behandlungsfokus Besenreiser.</div>
+          <div style={{ fontSize: '12px', color: '#999', marginTop: '2px' }}>Sortiert nach Facharzt-Qualifikation, Patientenstimmen und Behandlungsvolumen. Ohne bezahlte Rankings.</div>
         </div>
         <div className="hidden sm:block" style={{ position: 'relative', flexShrink: 0, marginLeft: '8px' }}>
           <button onClick={() => setSortOpen(v => !v)} style={pill(filters.sortBy !== 'rating')}>

@@ -56,11 +56,8 @@ export default function SearchBar({ filters, setFilters }: Props) {
         <h1 style={{ color: '#fff', fontSize: '24px', fontWeight: 800, textAlign: 'center', marginBottom: '6px', letterSpacing: '-0.03em', lineHeight: 1.25 }}>
           Die richtige Praxis für deine Besenreiser. Ohne Pfusch.
         </h1>
-        <p style={{ color: '#7AAAE0', fontSize: '15px', textAlign: 'center', marginBottom: '4px', lineHeight: 1.5 }}>
-          Wir haben 100+ Phlebologen, Dermatologen und Venenzentren geprüft.
-        </p>
         <p style={{ color: '#7AAAE0', fontSize: '15px', textAlign: 'center', marginBottom: '18px', lineHeight: 1.5 }}>
-          Du vergleichst nur die, die es wirklich können.
+          Wir haben 100+ Phlebologen, Dermatologen und Venenzentren geprüft.
         </p>
 
         <div style={{ position: 'relative' }}>
@@ -106,11 +103,7 @@ export default function SearchBar({ filters, setFilters }: Props) {
           )}
         </div>
 
-        <p style={{ color: '#A8C8F0', fontSize: '12px', textAlign: 'center', marginTop: '14px', marginBottom: '0', lineHeight: 1.5 }}>
-          Wir zeigen dir nur Praxen, die wir anhand von Facharzt-Qualifikation, Patientenbewertungen und Behandlungsvolumen geprüft haben. Ohne bezahlte Rankings.
-        </p>
-
-        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '28px', marginTop: '12px', flexWrap: 'wrap' }}>
+        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '28px', marginTop: '18px', flexWrap: 'wrap' }}>
           {[{ n: '500+', label: 'geprüfte Anbieter' }, { n: '12.000+', label: 'Bewertungen' }, { n: '2', label: 'Städte verfügbar' }].map(stat => (
             <div key={stat.n} style={{ textAlign: 'center' }}>
               <div style={{ color: '#fff', fontWeight: 800, fontSize: '16px', lineHeight: 1 }}>{stat.n}</div>
