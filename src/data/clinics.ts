@@ -37,6 +37,19 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Verödung', 'Kassenpatienten'],
     headline: 'Direkt am Kölner Dom – Verödung & Laser zentral',
     usp: ['Zentralster Standort in Köln (Wallrafplatz)', 'Verödung & Nd:YAG Laser verfügbar', 'Kassenpatienten herzlich willkommen'],
+    treatmentInfo: {
+      intro: 'Dermatologie am Dom behandelt Besenreiser mit Verödung und dem Epsilon-Laser – einer Kombination aus IPL und gefäßspezifischem Nd:YAG. Beide Methoden werden je nach Gefäßtyp individuell eingesetzt.',
+      methodDetails: [
+        {
+          method: 'Sklerotherapie (Verödung)',
+          description: 'Ein entzündungsförderndes Medikament wird in die betroffenen Gefäße injiziert und löst eine kontrollierte Vernarbung aus. Seit Langem bewährt – nebenwirkungsarm und wenig schmerzhaft.',
+        },
+        {
+          method: 'Epsilon Laser (IPL + Nd:YAG)',
+          description: 'Kombiniertes Gerät aus IPL und einem gefäßspezifischen Nd:YAG-Laser. Ideal für störende Gefäßveränderungen an der Haut – auch an schwer zugänglichen Bereichen wie Nasenrücken, Wangen und Oberlippe sowie für Hämangiome.',
+        },
+      ],
+    },
   },
 
   {
@@ -69,6 +82,25 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Kassenpatienten'],
     headline: 'Dermatologin mit Phlebologie-Schwerpunkt in Köln-Innenstadt',
     usp: ['Spezialisiert auf Venenheilkunde & Phlebologie', 'GKV-Abrechnung möglich', 'Zentrale Lage nahe Neumarkt'],
+    treatmentInfo: {
+      intro: 'Dr. Rösing setzt sowohl Verödung als auch den Pulsed-Dye-Laser ein – den sie ausdrücklich als „Goldstandard unter den Gefäßlasern" bezeichnet. Die Praxis beschäftigt zertifizierte Lasertherapeutinnen mit laufender Weiterbildung.',
+      methodDetails: [
+        {
+          method: 'Verödung (Sklerotherapie)',
+          description: 'Ein Verödungsmittel wird per feiner Nadel in das erweiterte Gefäß injiziert, löst eine kontrollierte Entzündung aus und lässt das Gefäß verkleben und zerfallen. Langjährig erprobt, geeignet für Besenreiser und kleinere Krampfadern.',
+        },
+        {
+          method: 'Pulsed-Dye-Laser',
+          description: 'Energiereiches Licht wird im Gefäß in Wärme umgewandelt und versiegelt es dauerhaft. Von der Praxis als „Goldstandard unter den Gefäßlasern" bezeichnet. Kein chirurgischer Eingriff notwendig; leichtes Brennen während der Behandlung, leichte Rötung klingt nach wenigen Tagen ab.',
+        },
+      ],
+      processSteps: [
+        'Ca. 3–5 Sitzungen im Abstand von 2–4 Wochen (Laser)',
+        'Zertifizierte Lasertherapeutinnen mit laufender Weiterbildung',
+        'Kompressionsstrümpfe nach Verödung individuell empfohlen',
+        'Erhöhte körperliche Aktivität (Wadenmuskelpumpe) nach der Behandlung empfohlen',
+      ],
+    },
   },
 
   {
@@ -101,6 +133,30 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Gefäßzentrum', 'Online-Buchung', 'Kassenpatienten'],
     headline: 'Spezialisiertes Gefäßzentrum – über 20 Jahre Venenkompetenz in Köln',
     usp: ['Über 20 Jahre Expertise in Gefäßmedizin', 'GKV-Verträge mit TK, AOK, KKH u.a.', 'Online-Terminbuchung verfügbar'],
+    treatmentInfo: {
+      intro: 'Das MVZ Gefäßzentrum am Rudolfplatz ist ein zertifiziertes Venen-Kompetenz-Zentrum. Vor jeder Besenreiser-Behandlung erfolgt standardmäßig eine Ultraschalluntersuchung, um tieferliegende Venenprobleme auszuschließen.',
+      methodDetails: [
+        {
+          method: 'Sklerotherapie (Verödung)',
+          description: 'Ein spezielles Verödungsmedikament wird über eine feine sterile Nadel in das betroffene Gefäß injiziert. Das Gefäß wird nicht mehr durchblutet und verblasst allmählich. Lokale Betäubung auf Wunsch möglich; Kompressionsverband nach der Behandlung. Vom Zentrum als Methode mit den „besten Ergebnissen" beschrieben.',
+        },
+        {
+          method: 'Mikroschaum-Sklerotherapie',
+          description: 'Erweiterte Variante mit aufgeschäumtem Verödungsmittel für bessere Gefäßpenetration. Für etwas größere Seitenastvarizen geeignet.',
+        },
+      ],
+      processSteps: [
+        'Standardmäßige Ultraschalluntersuchung vor der ersten Behandlung',
+        'Ambulant, meist mehrere Sitzungen notwendig',
+        'Kurz nach der Behandlung sind kurze Hosen und Kleider wieder tragbar',
+        'Operation in den meisten Fällen nicht notwendig',
+      ],
+      phlebologist: {
+        name: 'Dr. med. Albert Streminski',
+        title: 'Facharzt für Allgemeinmedizin · Zusatzbezeichnung Phlebologie · Ärztlicher Direktor',
+        bio: 'Seit 1990 in der Phlebologie tätig. Mitglied der Deutschen Gesellschaft für Phlebologie, Angiologie und Lymphologie sowie des Berufsverbands der Phlebologen. Das MVZ führt jährlich über 2.000 Eingriffe durch und ist als Venen Kompetenz-Zentrum zertifiziert.',
+      },
+    },
   },
 
   {
@@ -133,6 +189,29 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Verödung', 'Kassenpatienten'],
     headline: 'Nd:YAG Laser für Besenreiser – Lindenthal & PAN-Klinik Neumarkt',
     usp: ['Zwei Praxisstandorte in Köln', 'Nd:YAG Laser & Verödung verfügbar', 'Parkplätze vorhanden'],
+    treatmentInfo: {
+      intro: 'Dr. Kruppa & Dr. Larsen setzen bei Besenreisern vorrangig auf Laser. Beide Ärzte tragen die Zusatzbezeichnung „Dermatologische Lasertherapie". Der langgepulste Nd:YAG-Laser erreicht auch kleinste Gefäße, die per Verödung nicht zugänglich wären.',
+      methodDetails: [
+        {
+          method: 'Nd:YAG Laser (langgepulst)',
+          description: 'Moderner, langgepulster Nd:YAG-Laser, der selbst die kleinsten Gefäße behandeln kann – auch an schwer zugänglichen Stellen wie den Knöcheln. Erste Ergebnisse sind bereits nach einer Sitzung sichtbar. Besonders geeignet für „Matting"-Reaktionen, die als Komplikation nach Verödungstherapien entstehen können.',
+        },
+        {
+          method: 'IPL (Intense Pulsed Light)',
+          description: 'Blitzlampe mit Lichtimpulsen, die die Gefäße erhitzen und zerstören. Als Alternative zum Nd:YAG-Laser verfügbar.',
+        },
+        {
+          method: 'Verödung (Sklerotherapie)',
+          description: 'Ebenfalls verfügbar, jedoch ergänzend zum Laser – da der Laser auch Gefäße erreicht, die per Injektion nicht zugänglich sind.',
+        },
+      ],
+      processSteps: [
+        'Kein Kompressionsverband nach Laser-Behandlung notwendig',
+        'Sofortige Rückkehr zum Alltag nach der Behandlung möglich',
+        'Sport, Sauna und Sonneneinstrahlung für mehrere Wochen meiden',
+        'Vorherige Beurteilung des Tiefvenenstatus inklusive',
+      ],
+    },
   },
 
   {
@@ -223,6 +302,30 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Verödung', 'Erstberatung kostenlos'],
     headline: 'Renommierter Privatdozent – führender Dermatologe in Deutschland',
     usp: ['Leitender Arzt, Klinik Links vom Rhein', 'Kostenlose Erstberatung & Ratenzahlung', 'Parkplätze vorhanden'],
+    treatmentInfo: {
+      intro: 'Das Dermatologikum Köln behandelt Besenreiser mit Verödung (flüssig oder als Schaum) und Lasertherapie. Vor jeder Behandlung erfolgt eine klinische Untersuchung mit farbkodierter Duplexsonografie zur Beurteilung des Venensystems.',
+      methodDetails: [
+        {
+          method: 'Sklerotherapie (Verödung)',
+          description: 'Injektion eines Verödungsmittels – wahlweise flüssig oder aufgeschäumt – in die betroffenen Gefäße. Danach Kompressionstherapie für einige Stunden bis zu etwa einer Woche, je nach individuellem Befund.',
+        },
+        {
+          method: 'Lasertherapie',
+          description: 'Ergänzend zur Verödung einsetzbar; Methodenwahl richtet sich nach Gefäßgröße und -farbe. Die Behandlungsmethoden können bei Bedarf kombiniert werden.',
+        },
+      ],
+      processSteps: [
+        'Klinische Untersuchung und farbkodierte Duplexsonografie vor der Behandlung',
+        'In den meisten Fällen mehrere Sitzungen notwendig',
+        'Kompressionstherapie für einige Stunden bis ca. eine Woche empfohlen',
+        'Deutliche Verbesserung des kosmetischen Erscheinungsbilds möglich',
+      ],
+      phlebologist: {
+        name: 'Dr. med. Karin Klingmüller',
+        title: 'Fachärztin für Dermatologie und Venerologie · Phlebologin',
+        bio: 'Designierte Spezialistin für Venen- und Gefäßmedizin im Dermatologikum Köln.',
+      },
+    },
   },
 
   // ── DÜSSELDORF ───────────────────────────────────────────────────────────
@@ -257,6 +360,34 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Abendtermine', 'Online-Buchung'],
     headline: 'Dermatologische Privatpraxis in Düsseldorf – täglich bis 20 Uhr',
     usp: ['Lange Öffnungszeiten Mo–Fr bis 20 Uhr', 'Abendtermine verfügbar', 'Online-Buchung möglich'],
+    treatmentInfo: {
+      intro: 'Dr. Hilton & Partner bietet drei Injektionsvarianten sowie den Neodym-Laser (Nd:YAG) für Besenreiser. Vor jeder Behandlung ist eine medizinische Ultraschalluntersuchung (farbkodierte Duplexsonografie) verpflichtend.',
+      methodDetails: [
+        {
+          method: 'Neodym-Laser (Nd:YAG)',
+          description: 'Millimetergenaue Laserbehandlung unter kontinuierlicher Kühlung. Grundsätzlich schmerzfrei und narbenlos. Geeignet für Besenreiser, die per Injektion nicht erreichbar sind.',
+        },
+        {
+          method: 'Flüssigverödung',
+          description: 'Injektion eines flüssigen Verödungsmittels; die Gefäßwände verkleben und werden vom Körper abgebaut.',
+        },
+        {
+          method: 'Schaumverödung (Mikroschaum)',
+          description: 'Aufgeschäumtes Verödungsmittel haftet besser an den Gefäßwänden als Flüssigkeit – ermöglicht präzisere Behandlung.',
+        },
+      ],
+      processSteps: [
+        'Verpflichtende Ultraschalluntersuchung (Duplexsonografie) vor der Behandlung',
+        'Sitzungsdauer: 15–30 Minuten',
+        'Sofort gesellschaftsfähig; Sport nach 1 Woche',
+        'UV-Exposition nach Laser-Behandlung meiden',
+      ],
+      phlebologist: {
+        name: 'Dr. med. Olivia Danneil',
+        title: 'Fachärztin für Dermatologie · Zusatzbezeichnung Phlebologie',
+        bio: 'Leitende Ärztin für Phlebologie bei Dr. Hilton & Partner.',
+      },
+    },
   },
 
   {
@@ -289,6 +420,28 @@ export const clinics: Clinic[] = [
     tags: ['Gefäßchirurgie', 'Phlebologie', 'Königsallee', 'Abendtermine'],
     headline: 'Phlebologie-Spezialist im Kö-Center – 5,0 ★ bei 74 Bewertungen',
     usp: ['Facharzt für Gefäßchirurgie & Phlebologie', 'Exklusiver Standort an der Königsallee', 'Abendtermine Mo/Di/Do bis 19 Uhr'],
+    treatmentInfo: {
+      intro: 'Die Gefäßpraxis Dr. Kusenack ist eine reine Gefäßchirurgie- und Phlebologie-Spezialpraxis. Bei allen neuen Besenreiser-Patienten ist eine Ultraschalluntersuchung verpflichtend – in bis zu 50 % der Fälle liegen tieferliegende Venenpathologien vor, die zuerst behandelt werden müssen.',
+      methodDetails: [
+        {
+          method: 'Flüssigverödung (Sklerotherapie)',
+          description: 'Injektion von Polidocanol mit einer extrem feinen 30-Gauge-Kanüle direkt in die Besenreiser. Das Mittel reizt die Venenwand, das Gefäß schließt sich und wird vom Körper abgebaut. Auf Wunsch kann 2–3 Stunden vorher eine betäubende Creme aufgetragen werden.',
+        },
+      ],
+      processSteps: [
+        'Verpflichtende Doppler-/Duplexsonografie vor der Erstbehandlung',
+        'In bis zu 50 % der Besenreiser-Fälle liegen tieferliegende Venenprobleme vor',
+        'Sofortige Rückkehr zum normalen Alltag nach der Behandlung',
+        'Kompressionsstrümpfe für mehrere Tage empfohlen',
+        'Sonneneinstrahlung für 6 Wochen meiden (Hyperpigmentierungsprophylaxe)',
+        'Behandlung ganzjährig möglich, auch im Sommer',
+      ],
+      phlebologist: {
+        name: 'Dr. med. Ulrich Kusenack',
+        title: 'Facharzt für Gefäßchirurgie & Allgemeinchirurgie · Phlebologe',
+        bio: 'Über 25 Jahre Erfahrung in der Gefäßmedizin. Ehemaliger Chefarzt des Helios Universitätsklinikums Wuppertal / Bergisches Gefäßzentrum (2010–2018). Zertifizierter „Endovaskulärer Spezialist DGG", Gutachter der Nordrheinischen Ärztekammer.',
+      },
+    },
   },
 
   {
@@ -321,6 +474,32 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'KTP-Laser', 'Kassenpatienten', 'Parkplätze'],
     headline: 'Dermatologen-Gemeinschaftspraxis mit KTP-Laser in Düsseldorf',
     usp: ['KTP-Laser QuadroStar+ für schonende Behandlung', 'GKV-Abrechnung möglich', 'Parkplätze im Innenhof vorhanden'],
+    treatmentInfo: {
+      intro: 'Die Hautarztpraxis Funk, Humke & Herrmann bietet drei Methoden zur Besenreiser-Behandlung: Sklerotherapie, Lasertherapie und Miniphlebektomie. Mehrere phlebologisch qualifizierte Ärzte sind im Team.',
+      methodDetails: [
+        {
+          method: 'Sklerotherapie (Verödung)',
+          description: 'Eine Lösung wird in die betroffenen Gefäße injiziert und wandelt sie in Bindegewebsstränge um – für das Auge unsichtbar. Anschließend Kompressionstherapie mit Stützstrümpfen.',
+        },
+        {
+          method: 'Lasertherapie',
+          description: 'Kurze Laserpulse zielen auf das rote Blutpigment (Hämoglobin) in den Gefäßen, lassen sie verschließen und vom Körper abbauen.',
+        },
+        {
+          method: 'Miniphlebektomie',
+          description: 'Entfernung von Venen über kleine Hauteinstiche mit feinen Häkchen – schnitt- und narbenfrei.',
+        },
+      ],
+      processSteps: [
+        'In der Regel nur wenige Sitzungen für ästhetisch hervorragende Ergebnisse notwendig',
+        'Mehrere Methoden können je nach Befund kombiniert werden',
+      ],
+      phlebologist: {
+        name: 'PD Dr. med. Gernot Herrmann',
+        title: 'Facharzt für Dermatologie und Venerologie · Zusatzbezeichnung Phlebologie · Privatdozent',
+        bio: 'Phlebologisch qualifizierter Dermatologe mit akademischem Privatdozentenrang. Auch Dr. med. Daniela Bens im Team trägt die Zusatzbezeichnung Phlebologie.',
+      },
+    },
   },
 
   {
@@ -353,6 +532,27 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Privatpraxis', 'Abendtermine'],
     headline: 'Privatdozent für Dermatologie – spezieller Gefäßlaser für Besenreiser',
     usp: ['Privatdozent mit universitärer Expertise', 'Nd:YAG Laser für alle Venentiefen', 'Abendtermine donnerstags bis 19 Uhr'],
+    treatmentInfo: {
+      intro: 'Die Haut & Laser Praxis positioniert Laserbehandlung als ihre Kernkompetenz. Für Besenreiser kommt ein Nd:YAG-Laser (1.064 nm) mit integriertem Kühlsystem zum Einsatz, ergänzt durch klassische Sklerotherapie.',
+      methodDetails: [
+        {
+          method: 'Nd:YAG Laser (1.064 nm)',
+          description: 'Zielt spezifisch auf Hämoglobin in den Blutgefäßen. Spotgrößen von 1,5–5 mm mit variabler Eindringtiefe je nach Gefäßtyp. Integriertes Kühlsystem schützt die Haut vor, während und nach jedem Puls. 3–8 Sitzungen im Abstand von 3–4 Wochen empfohlen. Jede Sitzung dauert 20–40 Minuten.',
+        },
+        {
+          method: 'Sklerotherapie (Polidocanol/Ethoxysklerol)',
+          description: 'Klassische Injektionsmethode; reizt und schädigt die Venenwand von innen – das Gefäß verschließt sich und wird in einen Bindegewebsstrang umgewandelt.',
+        },
+      ],
+      processSteps: [
+        '3–8 Laser-Sitzungen, Abstand 3–4 Wochen (oder 2 Wochen bei wechselnden Beinabschnitten)',
+        'Sitzungsdauer: 20–40 Minuten',
+        'Gesamtbehandlungszeitraum: bis zu 6–12 Monate für optimale Ergebnisse',
+        'Nach Laser: Kompressionsklasse II + 30-minütiger Spaziergang',
+        'Kompressionstherapie für 3–4 Tage tagsüber',
+        'UV-Exposition meiden; intensiven Sport und Sauna für mehrere Tage pausieren',
+      ],
+    },
   },
 
   // ── KÖLN (weitere Praxen) ─────────────────────────────────────────────────
@@ -387,6 +587,29 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Gefäßmedizin', 'Zentrum'],
     headline: 'Zertifiziertes Gefäßzentrum am Neumarkt – Sclerotherapie-Spezialist',
     usp: ['Zertifiziertes Sclerotherapie-Zentrum', 'Direkt am Neumarkt (Neumarkt-Galerie)', 'Schwerpunktpraxis Gefäßmedizin'],
+    treatmentInfo: {
+      intro: 'Das Gefäßzentrum Köln Am Neumarkt ist ein dediziertes Gefäßzentrum in der PAN Klinik – mit Facharzt für Gefäßchirurgie und einem Phlebologie-/Lymphologie-Spezialisten im Team. Es kommen ausschließlich wissenschaftlich belegte Methoden zum Einsatz.',
+      methodDetails: [
+        {
+          method: 'Mikro-Sklerosierung',
+          description: 'Minimalinvasive Verödung mit feiner Nadel – sicher, komplikationsarm und ohne chirurgischen Eingriff. Auf Wunsch lokale Betäubung möglich. Nach der Behandlung wird ein Kompressionsverband angelegt.',
+        },
+        {
+          method: 'Schaumverödung (Schaumsklerosierung)',
+          description: 'Erweiterte Variante mit aufgeschäumtem Verödungsmittel für bessere Penetration. Je nach Gefäßtyp, -größe und -lage wird die geeignetste Methode oder eine Kombination beider gewählt.',
+        },
+      ],
+      processSteps: [
+        'Ambulant, bei ausgeprägten Befunden mehrere Sitzungen notwendig',
+        'Bereits 2–3 Tage nach der Behandlung können kurze Kleidungsstücke wieder getragen werden',
+        'Schriftlicher Kostenvoranschlag vor der Behandlung',
+      ],
+      phlebologist: {
+        name: 'Johann Senkel',
+        title: 'Facharzt für Allgemeinmedizin · Zusatzbezeichnungen Phlebologie & Lymphologie',
+        bio: 'Phlebologie- und Lymphologie-Spezialist im Gefäßzentrum. Weitere Teamkompetenz: Dr. Stefan Schulte, Facharzt für Chirurgie und Gefäßchirurgie.',
+      },
+    },
   },
 
   {
@@ -419,6 +642,31 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Privatpraxis'],
     headline: 'Privatpraxis Dr. Hölker – Dermatologie & Phlebologie in Rodenkirchen',
     usp: ['Spezialisierung Phlebologie & Allergologie', 'Verödung & Laser für Besenreiser', 'Rodenkirchen – ruhige Lage'],
+    treatmentInfo: {
+      intro: 'Dr. Julia Hölker ist dreifach spezialisiert (Dermatologie, Phlebologie & Allergologie) und Gründungsmitglied zweier nationaler phlebologischer Arbeitsgruppen. Vor jeder Besenreiser-Behandlung ist eine Duplexsonografie obligatorisch.',
+      methodDetails: [
+        {
+          method: 'Mikro-Sklerosierung (Flüssigverödung)',
+          description: 'Alkoholische Flüssigkeit wird über feinste Nadeln in die betroffenen Gefäße injiziert. Die Gefäße verkleben und werden unsichtbar.',
+        },
+        {
+          method: 'Schaumsklerosierung',
+          description: 'Speziell aufbereiteter Schaum wird unter Ultraschallkontrolle injiziert – verbleibt länger im Gefäß und erzielt einen stärkeren Effekt. Für größere Krampfadern geeignet.',
+        },
+      ],
+      processSteps: [
+        'Obligatorische Duplexsonografie vor der Behandlung',
+        'Kombination mit minimal-invasiver Laser- oder Radiofrequenztherapie möglich',
+        'Sofort wieder fit nach der Behandlung',
+        'Kompressionsstrümpfe für mehrere Tage; Sport und Sauna nach einer Woche',
+        'Sonneneinstrahlung ca. vier Wochen meiden',
+      ],
+      phlebologist: {
+        name: 'Dr. med. Julia Hölker',
+        title: 'Fachärztin für Dermatologie · Phlebologie · Allergologie',
+        bio: 'Gründungsmitglied der Arbeitsgruppe für Endovenöse Therapien und der Arbeitsgruppe für Sklerotherapie der Deutschen Gesellschaft für Phlebologie. Ausbildung u. a. an der Harvard University (Boston) und in London. Praxisgründung 2014.',
+      },
+    },
   },
 
   {
@@ -448,6 +696,23 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Lasermedizin', 'Parkplätze'],
     headline: 'Erste Laser-Praxis in Köln – über 20 Jahre Erfahrung mit Besenreisern',
     usp: ['Eine der ersten Laser-Praxen im Kölner Raum', 'Über 20 Jahre Erfahrung', 'Sklerotherapie & Laser kombinierbar'],
+    treatmentInfo: {
+      intro: 'Dr. Wustrow hat die dermatologische Lasertherapie an der Universitätshautklinik Köln eingeführt. Trotz seiner Laser-Expertise bevorzugt die Praxis bei Besenreisern die Sklerotherapie – und begründet dies ausdrücklich mit deren überlegenen Ergebnissen.',
+      methodDetails: [
+        {
+          method: 'Mikro-Sklerosierung (Verödung)',
+          description: 'Primärmethode für Besenreiser: Das Verödungsmittel wird direkt in das betroffene Gefäß injiziert, löst eine gezielte Entzündung der Gefäßwände aus und verschließt es dauerhaft.',
+        },
+        {
+          method: 'Lasertherapie',
+          description: 'Ausschließlich für ausgewählte Fälle – die Praxis betont ausdrücklich, dass Sklerotherapie für Besenreiser der Lasertherapie überlegen ist. Lasergeräte sind für Gefäßveränderungen, Couperose und Hämangiome vorhanden.',
+        },
+      ],
+      processSteps: [
+        'Voruntersuchung mittels Dermatoskopie (Auflichtmikroskopie)',
+        'In Einzelfällen computergestützte Vitalhistologie zur Diagnose',
+      ],
+    },
   },
 
   {
@@ -512,6 +777,26 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Gefäßmedizin', 'Kassenpatienten', 'Parkplätze'],
     headline: 'Gefäßmedizin & Venenchirurgie in Köln-Lindenthal',
     usp: ['Spezialisierte Venenchirurgie & Phlebologie', 'GKV-Abrechnung möglich', 'Parkplätze vorhanden'],
+    treatmentInfo: {
+      intro: 'Dr. Neßeler & Partner ist als Zertifiziertes Venenzentrum (Phlebologicum®) anerkannt. Das Behandlungskonzept sieht vor, tieferliegende Krampfadern zuerst zu behandeln, bevor oberflächliche Besenreiser verödet werden.',
+      methodDetails: [
+        {
+          method: 'Flüssigverödung & Schaumverödung',
+          description: 'Für Besenreiser und Seitenast-Varikositäten. Schaumverödung wird für etwas größere Besenreiser bevorzugt, da der Schaum einen stärkeren Verödungseffekt erzielt. Sitzungsdauer: 15–30 Minuten; in der Regel 2–4 Sitzungen notwendig.',
+        },
+      ],
+      processSteps: [
+        'Diagnosewerkzeuge: Doppler-Sonografie, farbkodierte Duplexsonografie, venöse Transportkapazitätsmessung',
+        'Tieferliegende Krampfadern werden vor Besenreiser-Behandlung adressiert',
+        '2–4 Sitzungen à 15–30 Minuten je nach Befund',
+        'Zertifiziertes Venenzentrum (Phlebologicum®)',
+      ],
+      phlebologist: {
+        name: 'Brigitte Gohlke',
+        title: 'Fachärztin für Chirurgie · Zusatzbezeichnung Phlebologie',
+        bio: 'Phlebologie-Spezialistin bei Neßeler & Partner, 9+ Jahre Erfahrung in der Gefäßmedizin, Mitglied der Deutschen Gesellschaft für Phlebologie. Weitere phlebologische Kompetenz: Dr. med. Peter Galkin (Facharzt für Gefäßchirurgie, Phlebologie).',
+      },
+    },
   },
 
   {
@@ -544,6 +829,29 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Gefäßchirurgie', 'Parkplätze'],
     headline: 'Haut & Venen Kastanienhof – Dermatologie & Gefäßchirurgie kombiniert',
     usp: ['Kombination Dermatologie & Gefäßchirurgie', 'Verödung & Laser unter einem Dach', 'Parkplätze vorhanden'],
+    treatmentInfo: {
+      intro: 'HAUT & VENEN Kastanienhof verbindet Dermatologie (Dr. Hundgeburth) mit einem erfahrenen Gefäßchirurgen (Dr. Bieber, ehemals 18 Jahre Chefarzt). Behandlung für Privat- und Selbstzahler.',
+      methodDetails: [
+        {
+          method: 'Flüssigverödung & Schaumverödung',
+          description: 'Injektion eines Verödungsmittels, das die Gefäßwände von innen verkleben lässt.',
+        },
+        {
+          method: 'Lasertherapie',
+          description: 'Hochenergetisches Laserlicht verschließt die Besenreiser durch die Haut. Besonders geeignet für sehr feine, flache Besenreiser. Die Praxis beschreibt ihre Lasergeräte als „modern und schonend, mit hoher Effektivität, kurzen Behandlungszeiten und optimaler Verträglichkeit".',
+        },
+      ],
+      processSteps: [
+        'Ergebnisse erst nach einigen Wochen vollständig beurteilbar',
+        'Mehrere Sitzungen können erforderlich sein',
+        'Nur Privatpatienten und Selbstzahler',
+      ],
+      phlebologist: {
+        name: 'Dr. Klaus Bieber',
+        title: 'Facharzt für Gefäßchirurgie · ehem. Chefarzt Evangelisches KH Bergisch Gladbach (18 Jahre)',
+        bio: 'Nach 18 Jahren als Chefarzt der Gefäßchirurgie weiterhin in der Praxis tätig. Behandelt Venenerkrankungen und führt Verödungstherapie sowie Lasertherapie durch.',
+      },
+    },
   },
 
   // ── DÜSSELDORF (weitere Praxen) ───────────────────────────────────────────
@@ -578,6 +886,25 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Phlebologie', 'Königsallee', 'Kassenpatienten'],
     headline: 'Dedizierte Phlebologie-Praxis nahe der Königsallee',
     usp: ['Reine Phlebologie-Praxis', 'Direktlage nahe Königsallee', 'GKV-Abrechnung möglich'],
+    treatmentInfo: {
+      intro: 'Phlebologie an der KÖ – gegründet 1987, Zusatzbezeichnung Phlebologie seit 1995. Vor jeder Behandlung steht grundsätzlich eine sorgfältige diagnostische Abklärung – auch bei reinen Besenreisern, die per Definition als Krampfadern eingestuft werden.',
+      methodDetails: [
+        {
+          method: 'Mikrosklerosierung mit Schaum',
+          description: 'Primärmethode für Besenreiser. Schaumverödung wird bevorzugt, da Besenreiser netzartig in tiefere Hautschichten verzweigen – der Schaum erzielt eine bessere Penetrationstiefe als Flüssigkeit.',
+        },
+      ],
+      processSteps: [
+        'Sorgfältige diagnostische Abklärung vor jeder Behandlung',
+        'Doppler-Ultraschall-Diagnostik',
+        'Zertifiziertes Venenzentrum',
+      ],
+      phlebologist: {
+        name: 'Dr. med. Carlos Passos Pereira',
+        title: 'Facharzt für Dermatologie, Venerologie & Phlebologie · 29 Jahre Phlebologie-Erfahrung',
+        bio: 'Über 10.000 große Venenbehandlungen durchgeführt. Ausbildung in Gefäßchirurgie (William-Harvey-Klinik Bad Nauheim) und Dermatologie (Universität Bonn). Experte für endovenöse radiale Lasertherapie und interventionelle Phlebologie.',
+      },
+    },
   },
 
   {
@@ -607,6 +934,34 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Phlebologie'],
     headline: 'Venologen Düsseldorf – Phlebologie-Spezialpraxis',
     usp: ['Reine Phlebologie-Spezialpraxis', 'Lange Öffnungszeiten Mo–Fr 7:30–17:30', 'Spezialisiert auf Krampfadern & Besenreiser'],
+    treatmentInfo: {
+      intro: 'Die Venologen Düsseldorf sind ausschließlich auf Venenerkrankungen spezialisiert. Dr. Abu-Nasir vereint die seltene Kombination aus Facharzt für Gefäßchirurgie, Phlebologie und endovaskulärer Chirurgie. Kostenlose Erstberatung verfügbar.',
+      methodDetails: [
+        {
+          method: 'Verödung (Flüssig- oder Schaumsklerosierung)',
+          description: 'Einfache und schmerzlose Therapie für kleine Krampfadern und Besenreiser.',
+        },
+        {
+          method: 'Lasertherapie (endovenös)',
+          description: 'Für tiefere und/oder größere Krampfadern sowie Besenreiser, die per Verödung schwer zugänglich sind. Als Alternative zur klassischen Venenoperation – mit überzeugenden Therapieergebnissen.',
+        },
+        {
+          method: 'Venen verkleben (Klebetechnik)',
+          description: 'Fortschrittliches Verfahren zur Venenverschließung mit medizinischem Gewebekleber als dritte Behandlungsoption.',
+        },
+      ],
+      processSteps: [
+        'In der Regel 1–3 Sitzungen für optimale kosmetische Ergebnisse',
+        'Kompressionsstrümpfe für einige Tage bis Wochen nach der Behandlung',
+        'Sonne, Sauna und Vollbäder ca. 4–6 Wochen meiden',
+        'Kostenlose Erstberatung verfügbar',
+      ],
+      phlebologist: {
+        name: 'Dr. med. Heitham Abu-Nasir',
+        title: 'Facharzt für Gefäßchirurgie · Phlebologie · Endovaskuläre Chirurgie',
+        bio: 'Ausbildung an der RWTH Aachen; leitender Oberarzt an mehreren Kliniken. Seit 2010 in eigener Praxis. Über 20 Jahre Erfahrung in offener und interventioneller Gefäßchirurgie.',
+      },
+    },
   },
 
   {
@@ -639,6 +994,23 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Mikroschaum-Sklerotherapie', 'Abendtermine', 'Samstag'],
     headline: 'Altstadt-Praxis – Mikro-Sklerotherapie in zentralster Lage',
     usp: ['Zentrale Altstadt-Lage', 'Samstagsöffnung 10–15 Uhr', 'Mikro- und Schaum-Sklerotherapie'],
+    treatmentInfo: {
+      intro: 'Die Altstadt-Praxis Düsseldorf behandelt Besenreiser mit Mikro-Sklerotherapie sowie Elektrokaustik für einzelne Kapillaren im Gesicht.',
+      methodDetails: [
+        {
+          method: 'Mikro-Sklerotherapie',
+          description: 'Injektion von Äthoxysklerol (Polidocanol) in verschiedenen Konzentrationen, je nach Größe und Typ der Besenreiser – auch als Schaumverödung verfügbar.',
+        },
+        {
+          method: 'Elektrokaustik',
+          description: 'Für einzelne rote Kapillaren im Gesicht, z. B. an den Nasenflügeln.',
+        },
+      ],
+      processSteps: [
+        'Vor der vollständigen Behandlungsserie zunächst eine Test-Behandlung (Pigmentreaktionstest)',
+        'Sitzungen ab €150; reduzierter Preis pro Sitzung bei Behandlungsserie',
+      ],
+    },
   },
 
   {
@@ -671,6 +1043,25 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Königsallee'],
     headline: 'KÖ-KLINIK – Ästhetische Medizin direkt in der KÖ-Galerie',
     usp: ['Exklusiver Standort in der KÖ-Galerie', 'Verödung & Laser für Besenreiser', 'Private Klinik für ästhetische Behandlungen'],
+    treatmentInfo: {
+      intro: 'Die KÖ-KLINIK bietet Sklerotherapie und Lasertherapie für Besenreiser an. Die Methodenwahl richtet sich nach Gefäßdicke, Erscheinungsbild und Bräunungsgrad der Haut.',
+      methodDetails: [
+        {
+          method: 'Sklerotherapie (Verödung)',
+          description: 'Ein Verödungsmedikament wird mit feiner Nadel in die betroffenen Venen injiziert, löst eine Entzündung aus und bewirkt, dass der Körper die Gefäße abbaut. Kleine Druckverbände nach den Injektionen. Behandlungszeitraum insgesamt ca. 3–6 Monate.',
+        },
+        {
+          method: 'Lasertherapie',
+          description: 'Laserimpulse verschließen die Blutgefäße. Vorab wird ein betäubendes Gel aufgetragen. Sitzungen im Abstand von 6 Wochen; Ergebnisse innerhalb von 4–6 Wochen sichtbar.',
+        },
+      ],
+      processSteps: [
+        'Sitzungsdauer: ca. 30 Minuten',
+        'Sofortige Rückkehr zur Arbeit möglich; Sport nach 1–2 Tagen',
+        'Sonneneinstrahlung während der Heilungsphase (Verödung) meiden',
+        'Bei Verdacht auf tiefere Venenschäden: Überweisung zum Gefäßspezialisten empfohlen',
+      ],
+    },
   },
 
   {
@@ -703,6 +1094,19 @@ export const clinics: Clinic[] = [
     tags: ['Laser', 'Lasermedizin', 'Professor', 'DDA-zertifiziert'],
     headline: 'Prof. Dr. Gerber – DDA-zertifizierter Laser-Experte in Oberkassel',
     usp: ['DDA-Zertifizierung Dermatologische Lasermedizin', 'Ehemaliges Vorstandsmitglied Deutsche Dermat. Lasergesellschaft', 'Laser für Besenreiser & kleine Gefäße'],
+    treatmentInfo: {
+      intro: 'Prof. Dr. Gerber ist DDA-zertifizierter Laser-Experte, Vorstandsmitglied der Deutschen Dermatologischen Lasergesellschaft (DDL) und von FOCUS als führender nationaler Laser-Spezialist anerkannt. Die Praxis setzt den HOPSL-Gefäßlaser (577 nm) als Goldstandard für Teleangiektasien und Besenreiser ein.',
+      methodDetails: [
+        {
+          method: 'HOPSL-Gefäßlaser (577 nm)',
+          description: 'Von der Praxis als Goldstandard für die Behandlung von Teleangiektasien, Couperose, Rosazea, Hämangiomen und Besenreisern beschrieben. Der gelbe 577-nm-Laserstrahl zielt präzise auf das Hämoglobin in den Gefäßen.',
+        },
+        {
+          method: 'Nd:YAG und weitere Lasersysteme',
+          description: 'Ergänzend; die Praxis verfügt über wissenschaftlich anerkannte Lasersysteme der neuesten Generation.',
+        },
+      ],
+    },
   },
 
   {
@@ -735,6 +1139,25 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Gefäßchirurgie', 'Phlebologie', 'Parkplätze'],
     headline: 'VENperfect – Gefäßchirurgie & alle Verfahren unter einem Dach',
     usp: ['Facharzt Gefäßchirurgie, Phlebologie & Lymphologie', 'Verödung, Schaum, Laser & Radiofrequenz verfügbar', 'Parkplätze vorhanden'],
+    treatmentInfo: {
+      intro: 'VENperfect ist ein reines Gefäßmedizin-Zentrum – alle Ärzte sind Fachärzte für Gefäßchirurgie. Dr. Jawadi verfügt über 20+ Jahre Erfahrung und ist anerkannte Ausbildungspraxis für Phlebologie.',
+      methodDetails: [
+        {
+          method: 'Minimalinvasive Sklerotherapie (Flüssig- und Schaumverödung)',
+          description: 'Das betroffene Gefäß wird mit einer feinen Nadel schmerzlos punktiert und ein Verödungsmedikament injiziert, das es verschließt. Nach der Behandlung Kompressionstherapie für zwei Wochen empfohlen.',
+        },
+      ],
+      processSteps: [
+        'Schonende und minimalinvasive Therapie als Kernprinzip der Praxis',
+        'Kompressionstherapie für 2 Wochen nach der Behandlung',
+        'Abrechnung mit privaten und gesetzlichen Krankenkassen möglich',
+      ],
+      phlebologist: {
+        name: 'Dr. med. Najib Jawadi',
+        title: 'Facharzt für Gefäßchirurgie · Phlebologie · Lymphologie · Endovaskulärer Chirurg',
+        bio: 'Ausgebildet unter Prof. Dr. Giovanni Torsello (damaliger Präsident der Deutschen Gesellschaft für Gefäßchirurgie). Über 20 Jahre Erfahrung. Anerkannte Ausbildungspraxis für Phlebologie (bis 12 Monate).',
+      },
+    },
   },
 
   {
@@ -767,6 +1190,24 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'MVZ'],
     headline: 'MVZ Hautzentrum Golzheim – Laser & Verödung für Besenreiser',
     usp: ['MVZ mit mehreren Fachärzten', 'Laser & Verödung kombinierbar', 'Düsseldorf-Golzheim'],
+    treatmentInfo: {
+      intro: 'Dr. Cornely ist als einer der wenigen Ärzte dreifach spezialisiert in Dermatologie, Phlebologie und Lymphologie. Er ist Ehrenprofessor, Gründer des Berufsverbands der Lymphologen e.V. und Autor des Springer-Lehrbuchs „Angewandte Lymphologie".',
+      methodDetails: [
+        {
+          method: 'Lasertherapie',
+          description: 'Das MVZ setzt verschiedene effektive und moderne Lasersysteme für Haut- und Gefäßbehandlungen ein.',
+        },
+        {
+          method: 'Verödung (Sklerotherapie)',
+          description: 'Beide Methoden – Laser und Verödung – werden angeboten und erzielen laut Praxis gute Ergebnisse bei der Besenreiser-Entfernung.',
+        },
+      ],
+      phlebologist: {
+        name: 'Dr. med. Manuel E. Cornely',
+        title: 'Facharzt für Dermatologie · Phlebologie · Lymphologie · Ehrenprofessor Universität Puebla',
+        bio: 'Gründer des Berufsverbands der Lymphologen e.V. und eines lymphologischen Forschungsinstituts in Köln. Autor des Springer-Lehrbuchs „Angewandte Lymphologie". Vertreter der Deutschen Gesellschaft für Phlebologie und Lymphologie (DGPL). Über 20 Jahre Fachpraxis.',
+      },
+    },
   },
 
   {
@@ -799,6 +1240,24 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Abendtermine'],
     headline: 'Hautnah Zentrum – Nd:YAG Laser für Besenreiser zentral in Düsseldorf',
     usp: ['Nd:YAG Laser für Teleangiektasien & Besenreiser', 'Abendtermine montags bis 19 Uhr', 'Zentrale Lage am Wehrhahn'],
+    treatmentInfo: {
+      intro: 'Hautnah Zentrum setzt für Besenreiser das Cynergy Multiplex-System ein – eine Kombination aus Farbstofflaser (595 nm) und Nd:YAG (1.064 nm) in einem Gerät, das oberflächliche und tiefere Gefäße in einer Sitzung behandeln kann.',
+      methodDetails: [
+        {
+          method: 'Cynergy Dye Laser (595 nm)',
+          description: 'Von der Praxis als Goldstandard für rote Gefäße, Rosazea und Besenreiser beschrieben. Zielt präzise auf das Hämoglobin in oberflächlichen, kleinen Gefäßen.',
+        },
+        {
+          method: 'Nd:YAG Laser (1.064 nm) – Cynergy Multiplex',
+          description: 'Besser geeignet für größere Äderchen und Besenreiser. Das Cynergy-System kombiniert beide Wellenlängen in einer Plattform (Multiplex-Technologie) für die Behandlung in einer Sitzung.',
+        },
+      ],
+      processSteps: [
+        'Sitzungen im Abstand von 6 Wochen',
+        'Ergebnisse innerhalb von 4–6 Wochen sichtbar',
+        'Behandlungsdauer: nur wenige Minuten',
+      ],
+    },
   },
 ]
 
