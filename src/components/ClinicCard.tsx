@@ -79,7 +79,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
 
   return (
     <>
-      <div className="card-hover fade-in p-0 sm:p-3" style={{
+      <div className="card-hover fade-in p-0" style={{
         backgroundColor: clinic.featured ? '#FFFDF0' : '#fff',
         border: clinic.featured ? '1px solid #DDC' : '1px solid #DDDDDD',
         borderTop: showCertifiedBadge ? '3px solid #FFB400' : undefined,
@@ -122,7 +122,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
           <div style={{ padding: '14px 16px 10px' }}>
             <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.name}</a>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{clinic.headline}</div>
-
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '8px', flexWrap: 'wrap' }}>
               <GIcon />
               <Stars rating={clinic.googleRating} size={15} />
@@ -131,19 +130,15 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
                 {clinic.googleReviewCount} Bewertungen
               </button>
             </div>
-
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: '5px', color: '#555', fontSize: '14px', marginBottom: '4px' }}>
               <MapPin size={14} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
             </div>
             <div style={{ color: '#777', fontSize: '13px', marginBottom: '10px', lineHeight: 1.4 }}>{clinic.doctor} · {clinic.qualification}</div>
-
             <USPs items={clinic.usp} />
-
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: '10px' }}>
               {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '4px 10px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
               {clinic.onlineBooking && <span style={{ backgroundColor: '#E8F0FF', color: '#003399', fontSize: '12px', padding: '4px 10px', borderRadius: '4px' }}>Online-Buchung</span>}
             </div>
-
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
               {clinic.openToday
                 ? <><span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: '#00A651', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#00A651', fontSize: '13px' }}>Heute geöffnet: {clinic.openHours}</span></>
@@ -165,36 +160,53 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
         </div>
 
         {/* ====== DESKTOP ====== */}
-        <div className="hidden sm:block">
-          {showCertifiedBadge && <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '12px', fontWeight: 700, padding: '2px 10px', borderRadius: '0 0 4px 0', lineHeight: '22px', zIndex: 1 }}>✓ Zertifiziert</div>}
-          <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: showCertifiedBadge ? '28px' : '10px', right: '10px', background: 'none', border: 'none', cursor: 'pointer', padding: '4px', zIndex: 1 }}>
-            <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#CCC'} />
-          </button>
-          <div style={{ display: 'flex', gap: '12px', marginTop: showCertifiedBadge ? '16px' : '0' }}>
-            {/* Col 1 */}
-            <div style={{ flexShrink: 0, textAlign: 'center', width: '80px' }}>
-              <div style={{ width: '80px', height: '72px', borderRadius: '4px', overflow: 'hidden', position: 'relative', marginBottom: '4px' }}
-                onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
-                <div style={{ display: 'flex', height: '100%', transform: `translateX(-${slide * 80}px)`, transition: 'transform 0.3s ease' }}>
-                  {SLIDES.map((s, i) => (
-                    <div key={i} style={{ minWidth: '80px', height: '72px', background: s.bg, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                      <span style={{ fontSize: '22px' }}>📷</span>
-                    </div>
-                  ))}
+        <div className="hidden sm:flex">
+          {/* Image carousel – full-height left panel, 220px wide */}
+          <div
+            style={{ flexShrink: 0, width: '220px', position: 'relative', overflow: 'hidden' }}
+            onTouchStart={onTouchStart}
+            onTouchEnd={onTouchEnd}
+          >
+            <div style={{ position: 'absolute', inset: 0, display: 'flex', transform: `translateX(-${slide * 220}px)`, transition: 'transform 0.3s ease' }}>
+              {SLIDES.map((s, i) => (
+                <div key={i} style={{ minWidth: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+                  <span style={{ fontSize: '40px' }}>📷</span>
+                  <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
                 </div>
-              </div>
-              <div style={{ marginBottom: '4px' }}><Dots small /></div>
-              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '3px', marginBottom: '1px' }}>
-                <GIcon /><Stars rating={clinic.googleRating} size={11} />
-              </div>
-              <div style={{ fontSize: '13px', fontWeight: 700, color: '#111', lineHeight: 1.2 }}>{clinic.googleRating.toFixed(1)}</div>
-              <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', color: '#003399', fontSize: '12px', textDecoration: 'underline' }}>{clinic.googleReviewCount} Bew.</button>
+              ))}
             </div>
-            {/* Col 2 */}
-            <div style={{ flex: 1, minWidth: 0, paddingRight: '26px' }}>
+            {showCertifiedBadge && (
+              <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '12px', fontWeight: 700, padding: '4px 10px', zIndex: 2 }}>✓ Zertifiziert</div>
+            )}
+            <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+              <Heart size={16} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
+            </button>
+            {slide > 0 && (
+              <button onClick={() => setSlide(s => s - 1)} style={{ position: 'absolute', left: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+                <ChevronLeft size={14} color="#333" />
+              </button>
+            )}
+            {slide < SLIDES.length - 1 && (
+              <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+                <ChevronRight size={14} color="#333" />
+              </button>
+            )}
+            <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
+          </div>
+
+          {/* Content */}
+          <div style={{ flex: 1, display: 'flex', gap: '0', padding: '14px 12px 14px 16px', minHeight: '200px' }}>
+            {/* Col 2 – name, rating, details */}
+            <div style={{ flex: 1, minWidth: 0, paddingRight: '14px' }}>
               <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3 }}>{clinic.name}</a>
-              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '5px', lineHeight: 1.4 }}>{clinic.headline}</div>
-              {clinic.freeConsultation && <span style={{ display: 'inline-block', backgroundColor: '#00A651', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '2px 8px', borderRadius: '4px', marginBottom: '5px' }}>Kostenlose Erstberatung</span>}
+              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '6px', lineHeight: 1.4 }}>{clinic.headline}</div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '6px', flexWrap: 'wrap' }}>
+                <GIcon />
+                <Stars rating={clinic.googleRating} size={12} />
+                <span style={{ fontWeight: 700, fontSize: '13px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
+                <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', color: '#003399', fontSize: '12px', textDecoration: 'underline' }}>{clinic.googleReviewCount} Bew.</button>
+              </div>
+              {clinic.freeConsultation && <span style={{ display: 'inline-block', backgroundColor: '#00A651', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '2px 8px', borderRadius: '4px', marginBottom: '6px' }}>Kostenlose Erstberatung</span>}
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
                 <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
               </div>
@@ -206,8 +218,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
                   : <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#CC0000', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#CC0000', fontSize: '13px' }}>Heute geschlossen</span></>}
               </div>
             </div>
-            {/* Col 3 */}
-            <div style={{ minWidth: '150px', maxWidth: '190px' }}>
+            {/* Col 3 – methods */}
+            <div style={{ flexShrink: 0, width: '170px', paddingRight: '12px' }}>
               <div style={{ color: '#888', fontSize: '12px', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '6px' }}>Verfügbare Methoden</div>
               <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px', marginBottom: '8px' }}>
                 {clinic.tags.slice(0, 3).map(tag => {
@@ -220,7 +232,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
               {clinic.onlineBooking && <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#00A651', fontSize: '13px', marginBottom: '5px' }}><Clock size={12} />Online-Buchung</div>}
               {clinic.photoCount > 0 && <a href="#" style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#003399', fontSize: '13px', textDecoration: 'none' }}><ExternalLink size={12} />{clinic.photoCount} Praxis-Fotos</a>}
             </div>
-            {/* Col 4 */}
+            {/* Col 4 – price + CTA */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', minWidth: '148px' }}>
               <div>
                 <div style={{ color: '#888', fontSize: '12px' }}>ab</div>
@@ -235,6 +247,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
             </div>
           </div>
         </div>
+
       </div>
       {showReviews && <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />}
     </>
