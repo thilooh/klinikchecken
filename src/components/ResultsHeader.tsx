@@ -76,10 +76,9 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
         </div>
       </div>
 
-      {/* Pills row */}
-      <div className="hide-scrollbar" style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '2px' }}>
-        {/* Mobile-only: no inline display style on wrapper so sm:hidden works */}
-        <div className="flex gap-2 sm:hidden">
+      {/* Pills row — mobile only */}
+      <div className="sm:hidden">
+        <div className="hide-scrollbar flex gap-2 overflow-x-auto pb-0.5">
           <button onClick={() => setMobileSortOpen(v => !v)} style={pill(true)}>
             <ArrowUpDown size={14} />
             Sortiert
@@ -89,33 +88,26 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
             <SlidersHorizontal size={14} />
             Filter
           </button>
-        </div>
-        {/* Desktop-only Preis pill */}
-        <div className="hidden sm:block" style={{ flexShrink: 0 }}>
-          <button onClick={() => setFilters({ ...filters, sortBy: isPriceSorted ? 'rating' : 'price' })} style={pill(isPriceSorted)}>
-            Preis
-            {isPriceSorted && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, sortBy: 'rating' }) }}>×</span>}
+          <button onClick={() => onOpenFilter('method')} style={pill(hasMethodFilter)}>
+            {hasMethodFilter ? `Methode (${filters.selectedMethods.length})` : 'Methode'}
+            {hasMethodFilter && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, selectedMethods: [] }) }}>×</span>}
+          </button>
+          <button onClick={() => onOpenFilter('distance')} style={pill(hasDistanceFilter)}>
+            {hasDistanceFilter ? `bis ${filters.maxDistance} km` : 'Entfernung'}
+            {hasDistanceFilter && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, maxDistance: 999 }) }}>×</span>}
           </button>
         </div>
-        <button onClick={() => onOpenFilter('method')} style={pill(hasMethodFilter)}>
-          {hasMethodFilter ? `Methode (${filters.selectedMethods.length})` : 'Methode'}
-          {hasMethodFilter && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, selectedMethods: [] }) }}>×</span>}
-        </button>
-        <button onClick={() => onOpenFilter('distance')} style={pill(hasDistanceFilter)}>
-          {hasDistanceFilter ? `bis ${filters.maxDistance} km` : 'Entfernung'}
-          {hasDistanceFilter && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, maxDistance: 999 }) }}>×</span>}
-        </button>
-      </div>
 
-      {/* Mobile sort dropdown — outside overflow container to avoid clipping */}
-      {mobileSortOpen && (
-        <div className="sm:hidden">
-          <div onClick={() => setMobileSortOpen(false)} style={{ position: 'fixed', inset: 0, zIndex: 40 }} />
-          <div style={{ position: 'absolute', top: 'calc(100% + 4px)', left: 0, zIndex: 50 }}>
-            {sortMenuItems(() => setMobileSortOpen(false))}
-          </div>
-        </div>
-      )}
+        {/* Mobile sort dropdown — outside overflow container to avoid clipping */}
+        {mobileSortOpen && (
+          <>
+            <div onClick={() => setMobileSortOpen(false)} style={{ position: 'fixed', inset: 0, zIndex: 40 }} />
+            <div style={{ position: 'absolute', top: 'calc(100% + 4px)', left: 0, zIndex: 50 }}>
+              {sortMenuItems(() => setMobileSortOpen(false))}
+            </div>
+          </>
+        )}
+      </div>
     </div>
   )
 }
