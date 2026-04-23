@@ -161,15 +161,15 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMet
 
         {/* ====== DESKTOP ====== */}
         <div className="hidden sm:flex">
-          {/* Image carousel – full-height left panel, 220px wide */}
+          {/* Image carousel – fixed 220x220 square */}
           <div
-            style={{ flexShrink: 0, width: '220px', position: 'relative', overflow: 'hidden' }}
+            style={{ flexShrink: 0, width: '220px', height: '220px', alignSelf: 'flex-start', position: 'relative', overflow: 'hidden' }}
             onTouchStart={onTouchStart}
             onTouchEnd={onTouchEnd}
           >
             <div style={{ position: 'absolute', inset: 0, display: 'flex', transform: `translateX(-${slide * 220}px)`, transition: 'transform 0.3s ease' }}>
               {SLIDES.map((s, i) => (
-                <div key={i} style={{ minWidth: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+                <div key={i} style={{ minWidth: '220px', height: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
                   <span style={{ fontSize: '40px' }}>📷</span>
                   <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
                 </div>
