@@ -53,11 +53,14 @@ export default function SearchBar({ filters, setFilters }: Props) {
   return (
     <div style={{ background: 'linear-gradient(175deg, #002B5C 0%, #003F8A 100%)', padding: '22px 0 24px', borderBottom: '3px solid #0052CC' }}>
       <div className="max-w-[1200px] mx-auto px-4">
-        <h1 style={{ color: '#fff', fontSize: '24px', fontWeight: 800, textAlign: 'center', marginBottom: '6px', letterSpacing: '-0.03em', lineHeight: 1.2 }}>
-          Besenreiser Behandlung vergleichen
+        <h1 style={{ color: '#fff', fontSize: '24px', fontWeight: 800, textAlign: 'center', marginBottom: '6px', letterSpacing: '-0.03em', lineHeight: 1.25 }}>
+          Die richtige Praxis für deine Besenreiser. Ohne Pfusch.
         </h1>
+        <p style={{ color: '#7AAAE0', fontSize: '15px', textAlign: 'center', marginBottom: '4px', lineHeight: 1.5 }}>
+          Wir haben 100+ Phlebologen, Dermatologen und Venenzentren geprüft.
+        </p>
         <p style={{ color: '#7AAAE0', fontSize: '15px', textAlign: 'center', marginBottom: '18px', lineHeight: 1.5 }}>
-          Transparente Preise · Zertifizierte Kliniken · Kostenlose Anfrage
+          Du vergleichst nur die, die es wirklich können.
         </p>
 
         <div style={{ position: 'relative' }}>
