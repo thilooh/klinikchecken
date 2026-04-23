@@ -200,8 +200,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <Stars rating={clinic.googleRating} size={12} />
                 <span style={{ fontWeight: 700, fontSize: '13px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
                 <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', color: '#003399', fontSize: '12px', textDecoration: 'underline' }}>{clinic.googleReviewCount} Bew.</button>
+                {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
               </div>
-              {clinic.freeConsultation && <span style={{ display: 'inline-block', backgroundColor: '#00A651', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '2px 8px', borderRadius: '4px', marginBottom: '6px' }}>Kostenlose Erstberatung</span>}
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
                 <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
               </div>
