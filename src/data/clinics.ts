@@ -3,7 +3,6 @@ import type { Clinic } from '../types/clinic'
 // Ratings & Rezensionszahlen: Schätzwerte basierend auf öffentlich verfügbaren Quellen.
 // Vor Go-Live bitte mit echten Google Maps Werten abgleichen.
 // Preise: Marktübliche Schätzwerte – vor Veröffentlichung bei jeder Praxis verifizieren.
-// placeId: Muss noch je Praxis in Google Maps nachgeschlagen werden.
 
 export const clinics: Clinic[] = [
 
@@ -22,6 +21,7 @@ export const clinics: Clinic[] = [
     reviewCount: 95,
     googleRating: 4.4,
     googleReviewCount: 95,
+    placeId: 'ChIJ77UO7K8lv0cRFQXzvxhCfeg',
     methods: ['Verödung', 'Nd:YAG Laser', 'IPL-Behandlung'],
     priceFrom: 89,
     packagePrice: 240,
@@ -55,6 +55,7 @@ export const clinics: Clinic[] = [
     reviewCount: 48,
     googleRating: 4.3,
     googleReviewCount: 48,
+    placeId: 'ChIJnX4erq8lv0cRgS7GNvNWuYk',
     methods: ['Verödung'],
     priceFrom: 75,
     openToday: true,
@@ -87,6 +88,7 @@ export const clinics: Clinic[] = [
     reviewCount: 130,
     googleRating: 4.5,
     googleReviewCount: 130,
+    placeId: 'ChIJX9ZcEQElv0cRNol9fcxuDvI',
     methods: ['Verödung', 'Radiofrequenz'],
     priceFrom: 85,
     packagePrice: 225,
@@ -120,6 +122,7 @@ export const clinics: Clinic[] = [
     reviewCount: 60,
     googleRating: 4.2,
     googleReviewCount: 60,
+    placeId: 'ChIJs0y27B0lv0cRanz1EUCp5nI',
     methods: ['Nd:YAG Laser', 'Verödung'],
     priceFrom: 95,
     packagePrice: 255,
@@ -153,6 +156,7 @@ export const clinics: Clinic[] = [
     reviewCount: 178,
     googleRating: 4.6,
     googleReviewCount: 178,
+    placeId: 'ChIJEczfE70lv0cRvWaW_r31jPI',
     methods: ['Verödung', 'Nd:YAG Laser'],
     priceFrom: 110,
     packagePrice: 290,
@@ -186,6 +190,7 @@ export const clinics: Clinic[] = [
     reviewCount: 155,
     googleRating: 4.5,
     googleReviewCount: 155,
+    placeId: 'ChIJBxF7Yqwmv0cRHrktSpvsNh4',
     methods: ['Verödung', 'Nd:YAG Laser', 'IPL-Behandlung'],
     priceFrom: 120,
     packagePrice: 320,
@@ -221,6 +226,7 @@ export const clinics: Clinic[] = [
     reviewCount: 347,
     googleRating: 4.5,
     googleReviewCount: 347,
+    placeId: 'ChIJYVCTVzzKuEcRn4fFkzAPgAo',
     methods: ['Verödung', 'Nd:YAG Laser', 'IPL-Behandlung'],
     priceFrom: 99,
     packagePrice: 265,
@@ -237,7 +243,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 20 Min.',
     featured: true,
     tags: ['Nd:YAG Laser', 'Verödung', 'Abendtermine', 'Online-Buchung'],
-    headline: 'Größtes Hautzentrum in NRW – 347 Google-Bewertungen, täglich bis 20 Uhr',
+    headline: 'Größtestes Hautzentrum in NRW – 347 Google-Bewertungen, täglich bis 20 Uhr',
     usp: ['Größteste Hautarztpraxis in NRW', '347 verifizierte Google-Bewertungen (4,5 ★)', 'Abendtermine Mo–Fr bis 20 Uhr'],
   },
 
@@ -254,6 +260,7 @@ export const clinics: Clinic[] = [
     reviewCount: 88,
     googleRating: 4.6,
     googleReviewCount: 88,
+    placeId: 'ChIJq9LAvSvLuEcRB4FbkwYjE2E',
     methods: ['Verödung'],
     priceFrom: 90,
     packagePrice: 240,
@@ -287,6 +294,7 @@ export const clinics: Clinic[] = [
     reviewCount: 112,
     googleRating: 4.3,
     googleReviewCount: 112,
+    placeId: 'ChIJXzKEgiDKuEcRYyGdp6djiEo',
     methods: ['Verödung', 'Nd:YAG Laser', 'IPL-Behandlung'],
     priceFrom: 85,
     packagePrice: 230,
@@ -320,6 +328,7 @@ export const clinics: Clinic[] = [
     reviewCount: 98,
     googleRating: 4.7,
     googleReviewCount: 98,
+    placeId: 'ChIJZ_yZefHJuEcRLC4hOHKqJug',
     methods: ['Nd:YAG Laser', 'Verödung'],
     priceFrom: 120,
     packagePrice: 320,
