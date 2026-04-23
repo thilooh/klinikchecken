@@ -11,13 +11,6 @@ interface Props {
   initialSection?: string
 }
 
-const SORT_OPTIONS: { val: FilterState['sortBy']; label: string; sub?: string }[] = [
-  { val: 'recommended', label: 'Empfohlen', sub: 'Standardmäßig' },
-  { val: 'rating', label: 'Beste Bewertung' },
-  { val: 'price', label: 'Niedrigster Preis' },
-  { val: 'distance', label: 'Nächste' },
-]
-
 const METHOD_MAP: Record<string, string> = {
   'Verödung (Sklerotherapie)': 'verödung',
   'Laser (Nd:YAG)': 'nd:yag',
@@ -31,9 +24,8 @@ const ROW: React.CSSProperties = {
   padding: '11px 0', borderBottom: '1px solid #F2F2F2', cursor: 'pointer',
 }
 
-export default function MobileFilterSheet({ filters, setFilters, count, onClose, initialSection = 'sort' }: Props) {
+export default function MobileFilterSheet({ filters, setFilters, count, onClose, initialSection = 'method' }: Props) {
   const [open, setOpen] = useState<Record<string, boolean>>({
-    sort: initialSection === 'sort',
     price: initialSection === 'price',
     method: initialSection === 'method',
     rating: initialSection === 'rating',
@@ -48,8 +40,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
     selectedMethods: [],
     priceRange: [50, 350],
     minRating: 4,
-    maxDistance: 10,
-    sortBy: 'rating',
+    maxDistance: 999,
     extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: true },
   })
 
@@ -80,22 +71,6 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
         </div>
 
         <div style={{ overflowY: 'auto', flex: 1 }}>
-
-          <SectionHead id="sort" label="Sortieren nach" />
-          {open.sort && (
-            <div style={{ padding: '4px 20px 12px' }}>
-              {SORT_OPTIONS.map(opt => (
-                <label key={opt.val} style={ROW}>
-                  <div>
-                    <div style={{ fontSize: '14px', color: '#003399', fontWeight: filters.sortBy === opt.val ? 700 : 400 }}>{opt.label}</div>
-                    {opt.sub && <div style={{ fontSize: '11px', color: '#999', marginTop: '1px' }}>{opt.sub}</div>}
-                  </div>
-                  <input type="radio" name="mobileSort" checked={filters.sortBy === opt.val}
-                    onChange={() => setFilters({ ...filters, sortBy: opt.val })} style={radio} />
-                </label>
-              ))}
-            </div>
-          )}
 
           <SectionHead id="method" label="Methode" />
           {open.method && (
