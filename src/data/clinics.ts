@@ -2,8 +2,6 @@ import type { Clinic } from '../types/clinic'
 
 // Google-Ratings & Bewertungszahlen: Echte Werte aus der Google Places API (Stand April 2026).
 // Öffnungszeiten: Aus Praxis-Websites recherchiert, vor Go-Live bitte nochmal verifizieren.
-// PREISE: Keine Praxis veröffentlicht Preise. Alle priceFrom/packagePrice-Werte sind
-// MARKTSCHÄTZUNGEN und müssen vor Veröffentlichung bei jeder Praxis individuell angefragt werden.
 
 export const clinics: Clinic[] = [
 
@@ -24,8 +22,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 95,
     placeId: 'ChIJ77UO7K8lv0cRFQXzvxhCfeg',
     methods: ['Verödung', 'Nd:YAG Laser', 'IPL-Behandlung'],
-    priceFrom: 89,
-    packagePrice: 240,
     openToday: true,
     openHours: 'Mo–Do 8:00–13:00 & 14:00–18:00, Fr 8:00–13:00',
     freeConsultation: false,
@@ -58,7 +54,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 139,
     placeId: 'ChIJnX4erq8lv0cRgS7GNvNWuYk',
     methods: ['Verödung', 'Laser'],
-    priceFrom: 75,
     openToday: true,
     openHours: 'Mo/Di/Do 9:00–12:00 & 14:30–17:00, Mi 9:00–12:00',
     freeConsultation: false,
@@ -91,8 +86,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 181,
     placeId: 'ChIJX9ZcEQElv0cRNol9fcxuDvI',
     methods: ['Verödung', 'Mikroschaum-Sklerotherapie'],
-    priceFrom: 85,
-    packagePrice: 225,
     openToday: true,
     openHours: 'Mo/Di/Do 7:30–16:30, Mi/Fr 7:30–13:00',
     freeConsultation: false,
@@ -125,8 +118,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 122,
     placeId: 'ChIJs0y27B0lv0cRanz1EUCp5nI',
     methods: ['Nd:YAG Laser', 'Verödung'],
-    priceFrom: 95,
-    packagePrice: 255,
     openToday: true,
     openHours: 'Mo/Di/Do 9:00–13:00 & 15:00–18:00, Mi/Fr 9:00–13:00',
     freeConsultation: false,
@@ -159,8 +150,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 137,
     placeId: 'ChIJEczfE70lv0cRvWaW_r31jPI',
     methods: ['Verödung', 'Nd:YAG Laser'],
-    priceFrom: 110,
-    packagePrice: 290,
     openToday: true,
     openHours: 'Mo 8:30–19:00, Di/Do 8:00–17:00, Mi 8:30–18:00, Fr 8:30–14:00',
     freeConsultation: false,
@@ -193,8 +182,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 23,
     placeId: 'ChIJBxF7Yqwmv0cRHrktSpvsNh4',
     methods: ['Verödung', 'Nd:YAG Laser', 'IPL-Behandlung'],
-    priceFrom: 120,
-    packagePrice: 320,
     openToday: true,
     openHours: '9:00–18:00 Uhr',
     freeConsultation: true,
@@ -229,8 +216,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 12,
     placeId: 'ChIJq9LAvSvLuEcRB4FbkwYjE2E',
     methods: ['Verödung', 'Laser'],
-    priceFrom: 99,
-    packagePrice: 265,
     openToday: true,
     openHours: 'Mo–Fr 8:00–20:00 Uhr',
     freeConsultation: false,
@@ -263,8 +248,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 74,
     placeId: 'ChIJYVCTVzzKuEcRn4fFkzAPgAo',
     methods: ['Verödung', 'Mikroschaum-Sklerotherapie'],
-    priceFrom: 90,
-    packagePrice: 240,
     openToday: true,
     openHours: 'Mo/Di/Do 9:00–19:00, Mi/Fr 9:00–14:00',
     freeConsultation: false,
@@ -297,8 +280,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 41,
     placeId: 'ChIJXzKEgiDKuEcRYyGdp6djiEo',
     methods: ['Verödung', 'KTP-Laser'],
-    priceFrom: 85,
-    packagePrice: 230,
     openToday: true,
     openHours: 'Mo–Do 8:00–18:00, Fr 8:00–13:00',
     freeConsultation: false,
@@ -331,8 +312,6 @@ export const clinics: Clinic[] = [
     googleReviewCount: 17,
     placeId: 'ChIJZ_yZefHJuEcRLC4hOHKqJug',
     methods: ['Nd:YAG Laser', 'Verödung'],
-    priceFrom: 120,
-    packagePrice: 320,
     openToday: true,
     openHours: 'Di 9:00–17:00, Do 9:00–19:00, Fr 9:00–14:00',
     freeConsultation: false,

@@ -14,8 +14,7 @@ import type { Clinic, FilterState } from './types/clinic'
 
 const defaultFilters: FilterState = {
   selectedMethods: [],
-  priceRange: [50, 350],
-  minRating: 4,
+  minRating: 0,
   maxDistance: 999,
   extras: {
     freeConsultation: false,

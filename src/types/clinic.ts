@@ -13,8 +13,6 @@ export interface Clinic {
   googleReviewCount: number
   placeId?: string
   methods: string[]
-  priceFrom: number
-  packagePrice?: number
   openToday: boolean
   openHours: string
   freeConsultation: boolean
@@ -34,7 +32,6 @@ export interface Clinic {
 
 export interface FilterState {
   selectedMethods: string[]
-  priceRange: [number, number]
   minRating: number
   maxDistance: number
   extras: {
@@ -46,6 +43,6 @@ export interface FilterState {
     parking: boolean
     certified: boolean
   }
-  sortBy: 'recommended' | 'price' | 'rating' | 'distance'
+  sortBy: 'recommended' | 'rating' | 'distance'
   searchCity: string
 }

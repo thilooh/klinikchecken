@@ -26,7 +26,6 @@ const ROW: React.CSSProperties = {
 
 export default function MobileFilterSheet({ filters, setFilters, count, onClose, initialSection = 'method' }: Props) {
   const [open, setOpen] = useState<Record<string, boolean>>({
-    price: initialSection === 'price',
     method: initialSection === 'method',
     rating: initialSection === 'rating',
     extras: initialSection === 'extras',
@@ -38,8 +37,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
   const resetAll = () => setFilters({
     ...filters,
     selectedMethods: [],
-    priceRange: [50, 350],
-    minRating: 4,
+    minRating: 0,
     maxDistance: 999,
     extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: true },
   })
@@ -92,23 +90,6 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
                   </label>
                 )
               })}
-            </div>
-          )}
-
-          <SectionHead id="price" label="Preis" />
-          {open.price && (
-            <div style={{ padding: '8px 20px 16px' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '10px', fontSize: '14px', fontWeight: 700, color: '#111' }}>
-                <span>{filters.priceRange[0]} €</span>
-                <span>{filters.priceRange[1]} €</span>
-              </div>
-              <input type="range" min={50} max={350} value={filters.priceRange[0]}
-                onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })}
-                style={{ width: '100%', marginBottom: '10px', accentColor: '#003399' }} />
-              <input type="range" min={50} max={350} value={filters.priceRange[1]}
-                onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })}
-                style={{ width: '100%', accentColor: '#003399' }} />
-              <div style={{ fontSize: '12px', color: '#999', marginTop: '8px' }}>Preis pro Sitzung</div>
             </div>
           )}
 

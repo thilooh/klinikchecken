@@ -11,7 +11,6 @@ interface Props {
 
 const SORT_OPTIONS: { val: FilterState['sortBy']; label: string }[] = [
   { val: 'recommended', label: 'Empfohlen' },
-  { val: 'price', label: 'Günstigste zuerst' },
   { val: 'rating', label: 'Beste Bewertung' },
   { val: 'distance', label: 'Nächste' },
 ]
@@ -20,10 +19,9 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
   const [sortOpen, setSortOpen] = useState(false)
   const [mobileSortOpen, setMobileSortOpen] = useState(false)
 
-  const isPriceSorted = filters.sortBy === 'price'
   const hasMethodFilter = filters.selectedMethods.length > 0
   const hasDistanceFilter = filters.maxDistance < 999
-  const hasAnyFilter = isPriceSorted || hasMethodFilter || hasDistanceFilter
+  const hasAnyFilter = hasMethodFilter || hasDistanceFilter
 
   const pill = (active: boolean): React.CSSProperties => ({
     display: 'flex', alignItems: 'center', gap: '5px',

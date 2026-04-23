@@ -142,15 +142,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </div>
           </div>
 
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
-            <div>
-              <div style={{ display: 'flex', alignItems: 'baseline', gap: '2px' }}>
-                <span style={{ fontSize: '13px', color: '#888' }}>ab</span>
-                <span style={{ fontWeight: 700, fontSize: '26px', color: '#111', whiteSpace: 'nowrap' }}> {clinic.priceFrom} €</span>
-              </div>
-              <div style={{ fontSize: '12px', color: '#888', marginTop: '-2px' }}>/ Sitzung</div>
-              {clinic.packagePrice && <div style={{ fontSize: '12px', color: '#00A651', marginTop: '2px', whiteSpace: 'nowrap' }}>3x: {clinic.packagePrice} €</div>}
-            </div>
+          <div style={{ display: 'flex', justifyContent: 'flex-end', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
             <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '16px', border: 'none', borderRadius: '6px', padding: '14px 22px', cursor: 'pointer', whiteSpace: 'nowrap' }}>Jetzt anfragen</button>
           </div>
         </div>
@@ -220,18 +212,10 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                   : <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#CC0000', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#CC0000', fontSize: '13px' }}>Heute geschlossen</span></>}
               </div>
             </div>
-            {/* Col 3 – price + CTA */}
-            <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', minWidth: '148px' }}>
-              <div>
-                <div style={{ color: '#888', fontSize: '12px' }}>ab</div>
-                <div style={{ fontWeight: 700, fontSize: '24px', color: '#111', lineHeight: 1.1 }}>{clinic.priceFrom} €</div>
-                <div style={{ color: '#888', fontSize: '13px', marginBottom: '4px' }}>/ Sitzung</div>
-                {clinic.packagePrice && <div style={{ color: '#00A651', fontSize: '13px', marginBottom: '8px' }}>Paket 3x: {clinic.packagePrice} €</div>}
-              </div>
-              <div>
-                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '100%', cursor: 'pointer', marginBottom: '6px' }}>Jetzt anfragen</button>
-                <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '100%', cursor: 'pointer' }}>Profil ansehen</button>
-              </div>
+            {/* Col 3 – CTA */}
+            <div className="flex flex-col justify-end" style={{ flexShrink: 0, textAlign: 'right', minWidth: '148px' }}>
+              <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '100%', cursor: 'pointer', marginBottom: '6px' }}>Jetzt anfragen</button>
+              <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '100%', cursor: 'pointer' }}>Profil ansehen</button>
             </div>
           </div>
         </div>
