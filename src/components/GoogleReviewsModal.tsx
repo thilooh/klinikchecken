@@ -41,13 +41,6 @@ function formatGoogleReview(r: {
   }
 }
 
-const DUMMY_REVIEWS: Review[] = [
-  { author: 'Maria S.', initial: 'M', color: '#4285F4', rating: 5, date: 'vor 2 Wochen', text: 'Sehr professionelle Behandlung und einfühlsames Personal. Die Beratung war ausführlich, ich wurde über alle Optionen informiert. Nach 2 Sitzungen bereits deutlich sichtbare Verbesserung. Sehr empfehlenswert!' },
-  { author: 'Thomas K.', initial: 'T', color: '#EA4335', rating: 4, date: 'vor 1 Monat', text: 'Kompetente Ärztin, die sich wirklich Zeit nimmt. Terminvergabe unkompliziert, auch online buchbar. Die Behandlung war effektiv und das Ergebnis überzeugend. Preis-Leistung stimmt.' },
-  { author: 'Sandra M.', initial: 'S', color: '#34A853', rating: 5, date: 'vor 3 Wochen', text: 'Bin wirklich begeistert! Schon nach der ersten Sitzung sah man deutliche Verbesserungen. Das Team ist sehr freundlich und erklärt jeden Schritt genau. Absolute Empfehlung!' },
-  { author: 'Andreas B.', initial: 'A', color: '#FBBC05', rating: 4, date: 'vor 2 Monaten', text: 'Moderne Praxis mit neuester Technik. Sehr saubere und angenehme Atmosphäre. Das Ergebnis ist sehr ordentlich, ich bin zufrieden und würde wiederkommen.' },
-  { author: 'Julia F.', initial: 'J', color: '#9C27B0', rating: 3, date: 'vor 6 Wochen', text: 'Gute Praxis, aber die Wartezeiten könnten besser organisiert werden. Die Behandlung selbst war gut durchgeführt und das Ergebnis ist in Ordnung.' },
-]
 
 const DUMMY_SUMMARY = [
   'Patienten loben häufig die ausführliche Beratung und das freundliche, einfühlsame Team',
@@ -75,29 +68,36 @@ const GoogleLogo = () => (
 )
 
 export default function GoogleReviewsModal({ clinic, onClose }: Props) {
-  const [reviews, setReviews] = useState<Review[]>(DUMMY_REVIEWS)
+  const [reviews, setReviews] = useState<Review[]>([])
   const [summary] = useState<string[]>(DUMMY_SUMMARY)
   const [liveRating, setLiveRating] = useState<number | null>(null)
   const [liveReviewCount, setLiveReviewCount] = useState<number | null>(null)
   const [loading, setLoading] = useState(false)
+  const [error, setError] = useState(false)
 
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clinic.name + ' ' + clinic.address)}`
   const displayRating = liveRating ?? clinic.googleRating
   const displayReviewCount = liveReviewCount ?? clinic.googleReviewCount
 
   useEffect(() => {
-    if (!clinic.placeId) return
+    if (!clinic.placeId) {
+      setError(true)
+      return
+    }
     setLoading(true)
+    setError(false)
     fetch(`/.netlify/functions/reviews?placeId=${encodeURIComponent(clinic.placeId)}`)
       .then(r => r.json())
       .then((data: { reviews?: Parameters<typeof formatGoogleReview>[0][]; rating?: number; reviewCount?: number }) => {
         if (Array.isArray(data.reviews) && data.reviews.length > 0) {
           setReviews(data.reviews.map(formatGoogleReview))
+        } else {
+          setError(true)
         }
         if (data.rating) setLiveRating(data.rating)
         if (data.reviewCount) setLiveReviewCount(data.reviewCount)
       })
-      .catch(() => {})
+      .catch(() => setError(true))
       .finally(() => setLoading(false))
   }, [clinic.placeId])
 
@@ -164,6 +164,15 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
           {/* Reviews */}
           {loading ? (
             <div style={{ textAlign: 'center', padding: '24px 0', color: '#999', fontSize: '13px' }}>Bewertungen werden geladen…</div>
+          ) : error ? (
+            <div style={{ textAlign: 'center', padding: '32px 20px' }}>
+              <div style={{ fontSize: '28px', marginBottom: '8px' }}>😔</div>
+              <div style={{ fontSize: '14px', fontWeight: 600, color: '#444', marginBottom: '6px' }}>Bewertungen konnten nicht geladen werden</div>
+              <div style={{ fontSize: '12px', color: '#999', marginBottom: '16px' }}>Bitte direkt auf Google nachschauen.</div>
+              <a href={mapsUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: '13px', color: '#4285F4', textDecoration: 'none', fontWeight: 500 }}>
+                Auf Google Maps ansehen ↗
+              </a>
+            </div>
           ) : (
             reviews.map((review, i) => (
               <div key={i} style={{ padding: '14px 0', borderBottom: i < reviews.length - 1 ? '1px solid #F5F5F5' : 'none' }}>
