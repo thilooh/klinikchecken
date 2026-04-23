@@ -78,21 +78,25 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
 
       {/* Pills row */}
       <div className="hide-scrollbar" style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '2px' }}>
-        {/* Mobile only: Sortiert first, then Filter */}
-        <button className="sm:hidden" onClick={() => setMobileSortOpen(v => !v)} style={pill(true)}>
-          <ArrowUpDown size={14} />
-          Sortiert
-          <ChevronDown size={13} />
-        </button>
-        <button className="sm:hidden" onClick={() => onOpenFilter('filter')} style={pill(hasAnyFilter)}>
-          <SlidersHorizontal size={14} />
-          Filter
-        </button>
-        {/* Desktop only: Preis pill */}
-        <button className="hidden sm:flex" onClick={() => setFilters({ ...filters, sortBy: isPriceSorted ? 'rating' : 'price' })} style={pill(isPriceSorted)}>
-          Preis
-          {isPriceSorted && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, sortBy: 'rating' }) }}>×</span>}
-        </button>
+        {/* Mobile-only buttons wrapped in a div so sm:hidden isn't overridden by inline display:flex */}
+        <div className="sm:hidden" style={{ display: 'flex', gap: '8px', flexShrink: 0 }}>
+          <button onClick={() => setMobileSortOpen(v => !v)} style={pill(true)}>
+            <ArrowUpDown size={14} />
+            Sortiert
+            <ChevronDown size={13} />
+          </button>
+          <button onClick={() => onOpenFilter('filter')} style={pill(hasAnyFilter)}>
+            <SlidersHorizontal size={14} />
+            Filter
+          </button>
+        </div>
+        {/* Desktop-only Preis pill */}
+        <div className="hidden sm:block" style={{ flexShrink: 0 }}>
+          <button onClick={() => setFilters({ ...filters, sortBy: isPriceSorted ? 'rating' : 'price' })} style={pill(isPriceSorted)}>
+            Preis
+            {isPriceSorted && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, sortBy: 'rating' }) }}>×</span>}
+          </button>
+        </div>
         <button onClick={() => onOpenFilter('method')} style={pill(hasMethodFilter)}>
           {hasMethodFilter ? `Methode (${filters.selectedMethods.length})` : 'Methode'}
           {hasMethodFilter && <span style={clearBtn} onClick={e => { e.stopPropagation(); setFilters({ ...filters, selectedMethods: [] }) }}>×</span>}
