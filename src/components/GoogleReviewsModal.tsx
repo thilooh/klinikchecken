@@ -98,17 +98,16 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
           ))}
         </div>
 
-        {/* Footer – legally required Google attribution */}
-        <div style={{ padding: '14px 20px', borderTop: '1px solid #EEE', display: 'flex', alignItems: 'center', justifyContent: 'space-between', backgroundColor: '#FAFAFA', borderRadius: '0 0 8px 8px' }}>
-          <span style={{ fontSize: '11px', color: '#999' }}>Bewertungen von Google</span>
+        {/* Footer – Google attribution (legally required, visually subtle) */}
+        <div style={{ padding: '10px 20px', borderTop: '1px solid #EEE', display: 'flex', alignItems: 'center', justifyContent: 'space-between', backgroundColor: '#FAFAFA', borderRadius: '0 0 8px 8px' }}>
+          <span style={{ fontSize: '11px', color: '#BBB' }}>Bewertungen von Google</span>
           <a
             href={mapsUrl}
             target="_blank"
             rel="noopener noreferrer"
-            style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', backgroundColor: '#4285F4', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '7px 14px', borderRadius: '4px', textDecoration: 'none' }}
+            style={{ fontSize: '10px', color: '#CCC', textDecoration: 'none' }}
           >
-            Alle Bewertungen auf Google Maps
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            Quelle: Google Maps ↗
           </a>
         </div>
 
