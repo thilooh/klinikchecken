@@ -1,5 +1,5 @@
 {
-  "rating": 3.0,
+  "rating": 3,
   "reviewCount": 139,
   "summary": [
     "Für Hautkrebsscreening empfohlen — Ärztin nimmt sich Zeit und erklärt verständlich",
@@ -9,10 +9,17 @@
   "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
+      "author_name": "HaWe Winkler",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1775575963
+    },
+    {
       "author_name": "Nadja Willoweit",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
-      "text": "Ich war vor kurzem zum Hautkrebsscreening für junge Erwachsene vor Ort und finde sowohl den Empfang, als auch die Ärztin sehr nett. Sie hat sich Zeit für mich genommen, mich komplett angeschaut, bei auffälligen Stellen nach der bisherigen Historie gefragt und mir erklärt auf welche Veränderungen meiner Muttermale ich achten sollte. Für das Hautkrebsscreening kann ich die Praxis meiner Erfahrung nach nur empfehlen.",
+      "text": "Ich war vor kurzem zum Hautkrebsscreening für junge Erwachsene vor Ort und finde sowohl den Empfang, als auch die Ärztin sehr nett. Sie hat sich Zeit für mich genommen, mich komplett angeschaut, bei auffälligen Stellen nach der bisherigen Historie gefragt und mir erklärt auf welche Veränderungen meiner Muttermale ich achten sollte. Sie war sehr nett und ich habe mich vor Ort als Erstpatientin sehr wohl gefühlt. Für das Hautkrebsscreening kann ich die Praxis meiner Erfahrung nach nur empfehlen.",
       "time": 1773022956
     },
     {
@@ -23,10 +30,17 @@
       "time": 1767451478
     },
     {
+      "author_name": "Fkleli",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "",
+      "time": 1766080408
+    },
+    {
       "author_name": "Anni Sandstein",
       "rating": 1,
       "relative_time_description": "vor 4 Monaten",
-      "text": "Die Ärztin sowie Rezeption sind auf jeden fall super nett. Jedoch empfinde ich ebenso, dass die Ärztin eher darauf aus ist, ihre Produkte zu verkaufen. Sie hat sich mein Hautproblem gar nicht richtig angeschaut: Sie saß vor dem Computer und ich musste zu ihr hinlaufen und sie hat sich von ca. 50cm auf mein Hautareal ,,draufgeschaut\". Ich bin daraufhin zu einem anderen Hautarzt.",
+      "text": "Die Ärztin sowie Rezeption sind auf jeden fall super nett. Jedoch empfinde ich ebenso, dass die Ärztin eher darauf aus ist, ihre Produkte zu verkaufen. Sie hat sich mein Hautproblem gar nicht richtig angeschaut: Sie saß vor dem Computer und ich musst zu ihr hinlaufen und sie hat sich von ca. 50cm auf mein Hautareal ,,draufgeschaut“. Ich bin daraufhin zu einem anderen Hautarzt.",
       "time": 1764963273
     }
   ]
