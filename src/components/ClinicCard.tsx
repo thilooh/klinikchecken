@@ -18,7 +18,7 @@ function getClinicBadges(clinic: Clinic) {
   return badges
 }
 
-const SLIDES = [
+const PLACEHOLDER_SLIDES = [
   { bg: 'linear-gradient(135deg, #E2EBF5 0%, #C0D2E8 100%)', label: 'Praxis-Fotos' },
   { bg: 'linear-gradient(135deg, #F0EBE3 0%, #E0CDB8 100%)', label: 'Empfangsbereich' },
   { bg: 'linear-gradient(135deg, #E2F0E8 0%, #B8DECE 100%)', label: 'Behandlungsraum' },
@@ -59,17 +59,21 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   const [slide, setSlide] = useState(0)
   const [touchStart, setTouchStart] = useState<number | null>(null)
 
+  const slides = clinic.images && clinic.images.length > 0
+    ? clinic.images.map(src => ({ src }))
+    : PLACEHOLDER_SLIDES
+
   const onTouchStart = (e: React.TouchEvent) => setTouchStart(e.touches[0].clientX)
   const onTouchEnd = (e: React.TouchEvent) => {
     if (touchStart === null) return
     const diff = touchStart - e.changedTouches[0].clientX
-    if (Math.abs(diff) > 40) setSlide(s => diff > 0 ? Math.min(s + 1, SLIDES.length - 1) : Math.max(s - 1, 0))
+    if (Math.abs(diff) > 40) setSlide(s => diff > 0 ? Math.min(s + 1, slides.length - 1) : Math.max(s - 1, 0))
     setTouchStart(null)
   }
 
   const Dots = ({ small }: { small?: boolean }) => (
     <div style={{ display: 'flex', gap: small ? '3px' : '5px', alignItems: 'center', justifyContent: 'center' }}>
-      {SLIDES.map((_, i) => (
+      {slides.map((_, i) => (
         <button key={i} onClick={() => setSlide(i)} style={{
           width: small ? '5px' : (i === slide ? '16px' : '6px'), height: small ? '5px' : '6px',
           borderRadius: small ? '50%' : '3px',
@@ -94,10 +98,15 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
             <div style={{ position: 'absolute', inset: 0 }}>
               <div style={{ display: 'flex', height: '100%', transform: `translateX(-${slide * 100}%)`, transition: 'transform 0.3s ease' }}>
-                {SLIDES.map((s, i) => (
-                  <div key={i} style={{ minWidth: '100%', height: '100%', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
-                    <span style={{ fontSize: '38px' }}>📷</span>
-                    <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                {slides.map((s, i) => (
+                  <div key={i} style={{ minWidth: '100%', height: '100%', flexShrink: 0 }}>
+                    {'src' in s
+                      ? <img src={s.src} alt="Praxisfoto" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                      : <div style={{ width: '100%', height: '100%', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
+                          <span style={{ fontSize: '38px' }}>📷</span>
+                          <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                        </div>
+                    }
                   </div>
                 ))}
               </div>
@@ -110,7 +119,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <ChevronLeft size={16} color="#333" />
               </button>
             )}
-            {slide < SLIDES.length - 1 && (
+            {slide < slides.length - 1 && (
               <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronRight size={16} color="#333" />
               </button>
@@ -175,10 +184,15 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             onTouchEnd={onTouchEnd}
           >
             <div style={{ position: 'absolute', inset: 0, display: 'flex', transform: `translateX(-${slide * 220}px)`, transition: 'transform 0.3s ease' }}>
-              {SLIDES.map((s, i) => (
-                <div key={i} style={{ minWidth: '220px', height: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
-                  <span style={{ fontSize: '40px' }}>📷</span>
-                  <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+              {slides.map((s, i) => (
+                <div key={i} style={{ minWidth: '220px', height: '220px', flexShrink: 0 }}>
+                  {'src' in s
+                    ? <img src={s.src} alt="Praxisfoto" style={{ width: '220px', height: '220px', objectFit: 'cover', display: 'block' }} />
+                    : <div style={{ width: '220px', height: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+                        <span style={{ fontSize: '40px' }}>📷</span>
+                        <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                      </div>
+                  }
                 </div>
               ))}
             </div>
@@ -190,7 +204,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <ChevronLeft size={14} color="#333" />
               </button>
             )}
-            {slide < SLIDES.length - 1 && (
+            {slide < slides.length - 1 && (
               <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronRight size={14} color="#333" />
               </button>

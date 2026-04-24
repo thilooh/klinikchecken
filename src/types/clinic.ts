@@ -23,6 +23,7 @@ export interface Clinic {
   parking: boolean
   certified: boolean
   foundedYear?: number
+  images?: string[]
   photoCount: number
   lastInquiry: string
   featured: boolean
