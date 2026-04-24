@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import { MapPin, Heart, ChevronLeft, ChevronRight } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
+import type { VariantConfig } from '../variants'
+import { VARIANTS } from '../variants'
 import GoogleReviewsModal from './GoogleReviewsModal'
 import ClinicProfileModal from './ClinicProfileModal'
 
@@ -9,12 +11,13 @@ interface Props {
   onInquire: (clinic: Clinic) => void
   onMethodClick: (methodKey: string) => void
   activeMethodKeys: string[]
+  cardVariant?: VariantConfig['card']
 }
 
-function getClinicBadges(clinic: Clinic) {
+function getClinicBadges(clinic: Clinic, badge: string) {
   const badges: { label: string; bg: string }[] = []
   if (clinic.googleRating && clinic.googleRating >= 4.8)
-    badges.push({ label: '★ Top-Bewertung', bg: '#D97706' })
+    badges.push({ label: badge, bg: '#D97706' })
   return badges
 }
 
@@ -47,7 +50,8 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
   )
 }
 
-export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys }: Props) {
+export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant }: Props) {
+  const vt = cardVariant ?? VARIANTS.a.card
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
   const [showProfile, setShowProfile] = useState(false)
@@ -144,9 +148,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <ChevronRight size={16} color="#333" />
               </button>
             )}
-            {getClinicBadges(clinic).length > 0 && (
+            {getClinicBadges(clinic, vt.badge).length > 0 && (
               <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
-                {getClinicBadges(clinic).map(b => (
+                {getClinicBadges(clinic, vt.badge).map(b => (
                   <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
                 ))}
               </div>
@@ -156,7 +160,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
 
           <div style={{ padding: '14px 16px 10px' }}>
             <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.name}</a>
-            <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{clinic.headline}</div>
+            <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{vt.subline(clinic)}</div>
             {clinic.googleRating ? (
               <>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
@@ -191,7 +195,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
 
           <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
             <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#003399', fontWeight: 600, fontSize: '15px', border: '1px solid #003399', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
-            <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Jetzt anfragen</button>
+            <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
           </div>
         </div>
 
@@ -233,9 +237,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <ChevronRight size={14} color="#333" />
               </button>
             )}
-            {getClinicBadges(clinic).length > 0 && (
+            {getClinicBadges(clinic, vt.badge).length > 0 && (
               <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
-                {getClinicBadges(clinic).map(b => (
+                {getClinicBadges(clinic, vt.badge).map(b => (
                   <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
                 ))}
               </div>
@@ -248,7 +252,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             {/* Col 2 – main info + all 3 USPs */}
             <div style={{ flex: 1, minWidth: 0, paddingRight: '16px' }}>
               <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3 }}>{clinic.name}</a>
-              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{clinic.headline}</div>
+              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{vt.subline(clinic)}</div>
 
               {/* Single rating row: G icon · stars · score · review link · badge */}
               {clinic.googleRating ? (
@@ -291,7 +295,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 )}
               </div>
               <div>
-                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>Jetzt anfragen</button>
+                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
                 <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer' }}>Profil ansehen</button>
               </div>
             </div>

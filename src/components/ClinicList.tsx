@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import type { Clinic, FilterState } from '../types/clinic'
+import type { VariantConfig } from '../variants'
 import ClinicCard from './ClinicCard'
 
 interface Props {
@@ -7,6 +8,7 @@ interface Props {
   onInquire: (clinic: Clinic) => void
   filters: FilterState
   setFilters: (f: FilterState) => void
+  cardVariant: VariantConfig['card']
 }
 
 function SkeletonCard() {
@@ -28,7 +30,7 @@ function SkeletonCard() {
   )
 }
 
-export default function ClinicList({ clinics, onInquire, filters, setFilters }: Props) {
+export default function ClinicList({ clinics, onInquire, filters, setFilters, cardVariant }: Props) {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -66,6 +68,7 @@ export default function ClinicList({ clinics, onInquire, filters, setFilters }: 
           onInquire={onInquire}
           onMethodClick={handleMethodClick}
           activeMethodKeys={filters.selectedMethods}
+          cardVariant={cardVariant}
         />
       ))}
     </div>

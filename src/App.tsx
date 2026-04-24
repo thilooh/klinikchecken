@@ -11,6 +11,8 @@ import MobileFilterSheet from './components/MobileFilterSheet'
 import { useFilteredClinics } from './hooks/useFilteredClinics'
 import { clinics } from './data/clinics'
 import type { Clinic, FilterState } from './types/clinic'
+import { parseVariant, VARIANTS } from './variants'
+import type { VariantKey } from './variants'
 
 // Match a raw city string or PLZ (from {{adset.name}}, geo API, etc.) to a supported city.
 // Meta tip: name ad sets by city and use ?city={{adset.name}} — Meta substitutes it reliably.
@@ -74,6 +76,10 @@ export default function App() {
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
   const [filterSection, setFilterSection] = useState('sort')
   const [autoCity, setAutoCity] = useState<string | null>(null)
+  const [variant] = useState<VariantKey>(() =>
+    parseVariant(new URLSearchParams(window.location.search).get('v'))
+  )
+  const vt = VARIANTS[variant]
 
   useEffect(() => {
     const cityParam = new URLSearchParams(window.location.search).get('city')
@@ -111,7 +117,7 @@ export default function App() {
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', fontFamily: interFont }}>
       <Navbar />
-      <SearchBar filters={filters} setFilters={handleSetFilters} />
+      <SearchBar filters={filters} setFilters={handleSetFilters} hero={vt.hero} />
       {autoCity && (
         <div style={{ backgroundColor: '#EEF4FF', borderBottom: '1px solid #C8DAFE', padding: '10px 16px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px', fontSize: '14px', color: '#1E3A6E' }}>
           <span>📍 Wir zeigen Praxen in <strong>{autoCity}</strong> — Nicht deine Stadt?</span>
@@ -136,7 +142,7 @@ export default function App() {
                 setFilters={handleSetFilters}
                 onOpenFilter={openFilter}
               />
-              <ClinicList clinics={filtered} onInquire={setSelectedClinic} filters={filters} setFilters={handleSetFilters} />
+              <ClinicList clinics={filtered} onInquire={setSelectedClinic} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} />
             </div>
           </div>
         </div>
