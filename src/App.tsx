@@ -12,28 +12,39 @@ import { useFilteredClinics } from './hooks/useFilteredClinics'
 import { clinics } from './data/clinics'
 import type { Clinic, FilterState } from './types/clinic'
 
-// Normalize + match a raw city string (from Meta {{city}} param or geo API) to a supported city
-const CITY_VARIANTS: [string[], string][] = [
-  [['köln', 'koeln', 'koln', 'cologne'], 'Köln'],
-  [['düsseldorf', 'duesseldorf', 'dusseldorf'], 'Düsseldorf'],
-  [['frankfurt', 'frankfurt am main', 'frankfurt a. m.', 'frankfurt a.m.'], 'Frankfurt'],
-  [['dortmund'], 'Dortmund'],
-  [['berlin'], 'Berlin'],
-  [['münchen', 'muenchen', 'munchen', 'munich'], 'München'],
-  [['hamburg'], 'Hamburg'],
-  [['leipzig'], 'Leipzig'],
-  [['nürnberg', 'nuernberg', 'nurnberg', 'nuremberg'], 'Nürnberg'],
-  [['stuttgart'], 'Stuttgart'],
-  [['essen'], 'Essen'],
+// Match a raw city string or PLZ (from {{adset.name}}, geo API, etc.) to a supported city.
+// Meta tip: name ad sets by city and use ?city={{adset.name}} — Meta substitutes it reliably.
+const CITY_VARIANTS: [string[], string[]][] = [
+  [['köln', 'koeln', 'koln', 'cologne'],       ['50', '51']],
+  [['düsseldorf', 'duesseldorf', 'dusseldorf'], ['40', '41']],
+  [['frankfurt', 'frankfurt am main'],           ['60', '61', '63', '65']],
+  [['dortmund'],                                 ['44']],
+  [['berlin'],                                   ['10', '12', '13', '14']],
+  [['münchen', 'muenchen', 'munchen', 'munich'], ['80', '81', '85']],
+  [['hamburg'],                                  ['20', '21', '22']],
+  [['leipzig'],                                  ['04']],
+  [['nürnberg', 'nuernberg', 'nurnberg', 'nuremberg'], ['90', '91']],
+  [['stuttgart'],                                ['70', '71']],
+  [['essen'],                                    ['45']],
 ]
 
+const CANONICAL: string[] = ['Köln','Düsseldorf','Frankfurt','Dortmund','Berlin','München','Hamburg','Leipzig','Nürnberg','Stuttgart','Essen']
+
 function matchCity(raw: string): string | null {
-  const norm = raw.trim().toLowerCase()
-  for (const [variants, canonical] of CITY_VARIANTS) {
-    if (variants.includes(norm)) return canonical
+  const t = raw.trim()
+  if (!t) return null
+  const norm = t.toLowerCase()
+  // PLZ: 5-digit postal code
+  if (/^\d{5}$/.test(t)) {
+    const idx = CITY_VARIANTS.findIndex(([, prefixes]) => prefixes.some(p => t.startsWith(p)))
+    return idx >= 0 ? CANONICAL[idx] : null
   }
-  for (const [variants, canonical] of CITY_VARIANTS) {
-    if (variants.some(v => norm.startsWith(v) || v.startsWith(norm))) return canonical
+  // City name: exact then partial
+  for (let i = 0; i < CITY_VARIANTS.length; i++) {
+    if (CITY_VARIANTS[i][0].includes(norm)) return CANONICAL[i]
+  }
+  for (let i = 0; i < CITY_VARIANTS.length; i++) {
+    if (CITY_VARIANTS[i][0].some(v => norm.startsWith(v) || v.startsWith(norm))) return CANONICAL[i]
   }
   return null
 }
@@ -73,11 +84,9 @@ export default function App() {
     // Fallback: IP geolocation via Netlify Edge
     fetch('/api/geo')
       .then(r => r.json())
-      .then((data: { city?: string }) => {
-        if (data.city) {
-          const matched = matchCity(data.city)
-          if (matched) setFilters(f => ({ ...f, searchCity: matched }))
-        }
+      .then((data: { city?: string; postalCode?: string }) => {
+        const matched = matchCity(data.postalCode ?? '') ?? matchCity(data.city ?? '')
+        if (matched) setFilters(f => ({ ...f, searchCity: matched }))
       })
       .catch(() => {})
   }, [])
