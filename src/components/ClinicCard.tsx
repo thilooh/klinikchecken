@@ -53,6 +53,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   const [showProfile, setShowProfile] = useState(false)
   const [slide, setSlide] = useState(0)
   const [touchStart, setTouchStart] = useState<number | null>(null)
+  const [touchStartY, setTouchStartY] = useState<number | null>(null)
 
   type Slide =
     | { type: 'logo'; src: string }
@@ -72,12 +73,18 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
       : { type: 'placeholder', bg: 'linear-gradient(135deg, #E2F0E8 0%, #B8DECE 100%)', icon: '🗺', label: 'Lageplan' },
   ]
 
-  const onTouchStart = (e: React.TouchEvent) => setTouchStart(e.touches[0].clientX)
+  const onTouchStart = (e: React.TouchEvent) => {
+    setTouchStart(e.touches[0].clientX)
+    setTouchStartY(e.touches[0].clientY)
+  }
   const onTouchEnd = (e: React.TouchEvent) => {
-    if (touchStart === null) return
-    const diff = touchStart - e.changedTouches[0].clientX
-    if (Math.abs(diff) > 40) setSlide(s => diff > 0 ? Math.min(s + 1, slides.length - 1) : Math.max(s - 1, 0))
+    if (touchStart === null || touchStartY === null) return
+    const diffX = touchStart - e.changedTouches[0].clientX
+    const diffY = touchStartY - e.changedTouches[0].clientY
+    if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > 40)
+      setSlide(s => diffX > 0 ? Math.min(s + 1, slides.length - 1) : Math.max(s - 1, 0))
     setTouchStart(null)
+    setTouchStartY(null)
   }
 
   const Dots = ({ small }: { small?: boolean }) => (
@@ -103,10 +110,10 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
 
         {/* ====== MOBILE ====== */}
         <div className="block sm:hidden">
-          <div style={{ position: 'relative', width: '100%', paddingTop: '56%', overflow: 'hidden' }}
+          <div style={{ position: 'relative', width: '100%', paddingTop: '56%', overflow: 'hidden', touchAction: 'pan-y' }}
             onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
             <div style={{ position: 'absolute', inset: 0 }}>
-              <div style={{ display: 'flex', height: '100%', transform: `translateX(-${slide * 100}%)`, transition: 'transform 0.3s ease' }}>
+              <div style={{ display: 'flex', height: '100%', transform: `translateX(-${slide * 100 / slides.length}%)`, transition: 'transform 0.3s ease' }}>
                 {slides.map((s, i) => (
                   <div key={i} style={{ minWidth: '100%', height: '100%', flexShrink: 0 }}>
                     {s.type === 'logo'
