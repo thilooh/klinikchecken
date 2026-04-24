@@ -2064,6 +2064,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
+      logo: '/images/clinic-37/logo.png',
       streetview: '/images/clinic-37/streetview.jpg',
       map: '/images/clinic-37/map.jpg',
     },
