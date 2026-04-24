@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ArrowUpDown, ChevronDown, SlidersHorizontal } from 'lucide-react'
+import { ArrowUpDown, ChevronDown, SlidersHorizontal, ShieldCheck } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
 
 interface Props {
@@ -53,8 +53,14 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
     <div style={{ marginBottom: '12px', position: 'relative' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '10px' }}>
         <div>
-          <div style={{ fontWeight: 700, fontSize: '16px', color: '#333' }}>{count} geprüfte Praxen in {filters.searchCity}</div>
-          <div style={{ fontSize: '12px', color: '#999', marginTop: '2px' }}>Sortiert nach Facharzt-Qualifikation, Patientenstimmen und Behandlungsvolumen. Ohne bezahlte Rankings.</div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+            <div style={{ fontWeight: 700, fontSize: '16px', color: '#333' }}>{count} geprüfte Praxen in {filters.searchCity}</div>
+            <span style={{ display: 'inline-flex', alignItems: 'center', gap: '4px', backgroundColor: '#F0FFF4', border: '1px solid #86EFAC', borderRadius: '20px', padding: '2px 8px', fontSize: '11px', fontWeight: 700, color: '#15803D', whiteSpace: 'nowrap' }}>
+              <ShieldCheck size={11} strokeWidth={2.5} />
+              Ohne bezahlte Rankings
+            </span>
+          </div>
+          <div style={{ fontSize: '12px', color: '#999', marginTop: '2px' }}>Sortiert nach Facharzt-Qualifikation, Patientenstimmen und Behandlungsvolumen.</div>
         </div>
         {/* Desktop sort button top-right */}
         <div className="hidden sm:block" style={{ position: 'relative', flexShrink: 0, marginLeft: '8px' }}>
