@@ -150,7 +150,7 @@ export default function SearchBar({ filters, setFilters }: Props) {
         </div>
 
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '28px', marginTop: '18px', flexWrap: 'wrap' }}>
-          {[{ n: '500+', label: 'geprüfte Anbieter' }, { n: '12.000+', label: 'Bewertungen' }, { n: '2', label: 'Städte verfügbar' }].map(stat => (
+          {[{ n: '55', label: 'geprüfte Praxen' }, { n: '5.000+', label: 'Bewertungen' }, { n: '11', label: 'Städte verfügbar' }].map(stat => (
             <div key={stat.n} style={{ textAlign: 'center' }}>
               <div style={{ color: '#fff', fontWeight: 800, fontSize: '16px', lineHeight: 1 }}>{stat.n}</div>
               <div style={{ color: '#7AAAE0', fontSize: '12px', marginTop: '4px' }}>{stat.label}</div>
