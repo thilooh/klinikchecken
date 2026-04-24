@@ -73,23 +73,33 @@ export default function App() {
   const [selectedClinic, setSelectedClinic] = useState<Clinic | null>(null)
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
   const [filterSection, setFilterSection] = useState('sort')
+  const [autoCity, setAutoCity] = useState<string | null>(null)
 
   useEffect(() => {
     const cityParam = new URLSearchParams(window.location.search).get('city')
     if (cityParam) {
       const matched = matchCity(cityParam)
-      if (matched) setFilters(f => ({ ...f, searchCity: matched }))
+      if (matched) { setFilters(f => ({ ...f, searchCity: matched })); setAutoCity(matched) }
       return
     }
-    // Fallback: IP geolocation via Netlify Edge
     fetch('/api/geo')
       .then(r => r.json())
       .then((data: { city?: string; postalCode?: string }) => {
         const matched = matchCity(data.postalCode ?? '') ?? matchCity(data.city ?? '')
-        if (matched) setFilters(f => ({ ...f, searchCity: matched }))
+        if (matched) { setFilters(f => ({ ...f, searchCity: matched })); setAutoCity(matched) }
       })
       .catch(() => {})
   }, [])
+
+  const handleSetFilters = (f: FilterState) => {
+    if (f.searchCity !== filters.searchCity) setAutoCity(null)
+    setFilters(f)
+  }
+
+  const focusSearch = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+    setTimeout(() => document.querySelector<HTMLInputElement>('input[type="text"]')?.focus(), 300)
+  }
 
   const filtered = useFilteredClinics(clinics, filters)
 
@@ -101,21 +111,32 @@ export default function App() {
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', fontFamily: interFont }}>
       <Navbar />
-      <SearchBar filters={filters} setFilters={setFilters} />
+      <SearchBar filters={filters} setFilters={handleSetFilters} />
+      {autoCity && (
+        <div style={{ backgroundColor: '#EEF4FF', borderBottom: '1px solid #C8DAFE', padding: '10px 16px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px', fontSize: '14px', color: '#1E3A6E' }}>
+          <span>📍 Wir zeigen Praxen in <strong>{autoCity}</strong> — Nicht deine Stadt?</span>
+          <button onClick={focusSearch} style={{ color: '#0052CC', fontWeight: 700, background: 'none', border: 'none', cursor: 'pointer', padding: 0, fontSize: '14px' }}>
+            Ändern
+          </button>
+          <button onClick={() => setAutoCity(null)} style={{ color: '#888', background: 'none', border: 'none', cursor: 'pointer', padding: '0 2px', fontSize: '16px', lineHeight: 1 }} aria-label="Schließen">
+            ×
+          </button>
+        </div>
+      )}
       <main style={{ flex: 1, backgroundColor: '#F4F4F4', padding: '16px 0 32px' }}>
         <div className="max-w-[1200px] mx-auto px-4">
           <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
             <div className="hidden md:block">
-              <Sidebar filters={filters} setFilters={setFilters} />
+              <Sidebar filters={filters} setFilters={handleSetFilters} />
             </div>
             <div style={{ flex: 1, minWidth: 0 }}>
               <ResultsHeader
                 count={filtered.length}
                 filters={filters}
-                setFilters={setFilters}
+                setFilters={handleSetFilters}
                 onOpenFilter={openFilter}
               />
-              <ClinicList clinics={filtered} onInquire={setSelectedClinic} filters={filters} setFilters={setFilters} />
+              <ClinicList clinics={filtered} onInquire={setSelectedClinic} filters={filters} setFilters={handleSetFilters} />
             </div>
           </div>
         </div>
@@ -126,7 +147,7 @@ export default function App() {
       {mobileFilterOpen && (
         <MobileFilterSheet
           filters={filters}
-          setFilters={setFilters}
+          setFilters={handleSetFilters}
           count={filtered.length}
           onClose={() => setMobileFilterOpen(false)}
           initialSection={filterSection}
