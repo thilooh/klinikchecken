@@ -15,13 +15,13 @@ const CURRENT_YEAR = 2026
 const SPECIALIST_TERMS = ['Phlebologie', 'Gefäßchirurgie', 'Gefäßmedizin', 'Venenchirurgie']
 
 function getClinicBadges(clinic: Clinic) {
-  const badges: { label: string; bg: string; color: string; border: string }[] = []
+  const badges: { label: string; bg: string }[] = []
   if (clinic.googleRating && clinic.googleRating >= 4.8)
-    badges.push({ label: '★ Top-Bewertung', bg: '#FFFBEB', color: '#92400E', border: '#FCD34D' })
+    badges.push({ label: '★ Top-Bewertung', bg: '#D97706' })
   if (SPECIALIST_TERMS.some(t => clinic.qualification.includes(t)))
-    badges.push({ label: '✦ Spezialist', bg: '#EFF6FF', color: '#1E40AF', border: '#BFDBFE' })
+    badges.push({ label: '✦ Spezialist', bg: '#1D4ED8' })
   if (clinic.foundedYear && (CURRENT_YEAR - clinic.foundedYear) >= 10)
-    badges.push({ label: `⏱ Erfahren`, bg: '#F0FDFA', color: '#115E59', border: '#99F6E4' })
+    badges.push({ label: '⏱ Erfahren', bg: '#0F766E' })
   return badges
 }
 
@@ -122,19 +122,19 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <ChevronRight size={16} color="#333" />
               </button>
             )}
+            {getClinicBadges(clinic).length > 0 && (
+              <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
+                {getClinicBadges(clinic).map(b => (
+                  <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
+                ))}
+              </div>
+            )}
             <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
           </div>
 
           <div style={{ padding: '14px 16px 10px' }}>
             <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.name}</a>
-            <div style={{ fontSize: '13px', color: '#555', marginBottom: '8px', lineHeight: 1.5, fontStyle: 'italic' }}>{clinic.headline}</div>
-            {getClinicBadges(clinic).length > 0 && (
-              <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap', marginBottom: '10px' }}>
-                {getClinicBadges(clinic).map(b => (
-                  <span key={b.label} style={{ fontSize: '11px', fontWeight: 600, padding: '3px 8px', borderRadius: '4px', backgroundColor: b.bg, color: b.color, border: `1px solid ${b.border}` }}>{b.label}</span>
-                ))}
-              </div>
-            )}
+            <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{clinic.headline}</div>
             {clinic.googleRating ? (
               <>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
@@ -209,6 +209,13 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <ChevronRight size={14} color="#333" />
               </button>
             )}
+            {getClinicBadges(clinic).length > 0 && (
+              <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
+                {getClinicBadges(clinic).map(b => (
+                  <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
+                ))}
+              </div>
+            )}
             <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
           </div>
 
@@ -217,14 +224,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             {/* Col 2 – main info + all 3 USPs */}
             <div style={{ flex: 1, minWidth: 0, paddingRight: '16px' }}>
               <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3 }}>{clinic.name}</a>
-              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: getClinicBadges(clinic).length > 0 ? '5px' : '7px', lineHeight: 1.4 }}>{clinic.headline}</div>
-              {getClinicBadges(clinic).length > 0 && (
-                <div style={{ display: 'flex', gap: '5px', flexWrap: 'wrap', marginBottom: '7px' }}>
-                  {getClinicBadges(clinic).map(b => (
-                    <span key={b.label} style={{ fontSize: '10px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px', backgroundColor: b.bg, color: b.color, border: `1px solid ${b.border}` }}>{b.label}</span>
-                  ))}
-                </div>
-              )}
+              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{clinic.headline}</div>
 
               {/* Single rating row: G icon · stars · score · review link · badge */}
               {clinic.googleRating ? (
