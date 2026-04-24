@@ -154,16 +154,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '4px 10px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
               {clinic.onlineBooking && <span style={{ backgroundColor: '#E8F0FF', color: '#003399', fontSize: '12px', padding: '4px 10px', borderRadius: '4px' }}>Online-Buchung</span>}
             </div>
-            <div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: clinic.openToday ? '3px' : 0 }}>
-                <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: clinic.openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
-                <span style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
-              </div>
-              {clinic.openToday && (
-                <div style={{ fontSize: '12px', color: '#666', lineHeight: 1.6, paddingLeft: '14px' }}>
-                  {clinic.openHours.split(', ').map((segment, i) => <div key={i}>{segment}</div>)}
-                </div>
-              )}
+            <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: clinic.openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
+              <span style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
             </div>
           </div>
 
