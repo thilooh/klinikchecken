@@ -22,6 +22,7 @@ export interface Clinic {
   ratenzahlung: boolean
   parking: boolean
   certified: boolean
+  foundedYear?: number
   photoCount: number
   lastInquiry: string
   featured: boolean

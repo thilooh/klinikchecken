@@ -9,7 +9,20 @@ interface Props {
   onInquire: (clinic: Clinic) => void
   onMethodClick: (methodKey: string) => void
   activeMethodKeys: string[]
-  showCertifiedBadge: boolean
+}
+
+const CURRENT_YEAR = 2026
+const SPECIALIST_TERMS = ['Phlebologie', 'Gefäßchirurgie', 'Gefäßmedizin', 'Venenchirurgie']
+
+function getClinicBadges(clinic: Clinic) {
+  const badges: { label: string; bg: string; color: string; border: string }[] = []
+  if (clinic.googleRating && clinic.googleRating >= 4.8)
+    badges.push({ label: '★ Top-Bewertung', bg: '#FFFBEB', color: '#92400E', border: '#FCD34D' })
+  if (SPECIALIST_TERMS.some(t => clinic.qualification.includes(t)))
+    badges.push({ label: '✦ Spezialist', bg: '#EFF6FF', color: '#1E40AF', border: '#BFDBFE' })
+  if (clinic.foundedYear && (CURRENT_YEAR - clinic.foundedYear) >= 10)
+    badges.push({ label: `⏱ Erfahren`, bg: '#F0FDFA', color: '#115E59', border: '#99F6E4' })
+  return badges
 }
 
 const SLIDES = [
@@ -46,7 +59,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
   )
 }
 
-export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, showCertifiedBadge }: Props) {
+export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys }: Props) {
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
   const [showProfile, setShowProfile] = useState(false)
@@ -79,7 +92,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
       <div className="card-hover fade-in p-0" style={{
         backgroundColor: clinic.featured ? '#FFFDF0' : '#fff',
         border: clinic.featured ? '1px solid #DDC' : '1px solid #DDDDDD',
-        borderTop: showCertifiedBadge ? '3px solid #FFB400' : undefined,
         borderRadius: '6px', position: 'relative', marginBottom: '10px', overflow: 'hidden',
       }}>
 
@@ -97,9 +109,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 ))}
               </div>
             </div>
-            {showCertifiedBadge && (
-              <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '12px', fontWeight: 700, padding: '4px 12px', zIndex: 2 }}>✓ Zertifiziert</div>
-            )}
             <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
               <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
             </button>
@@ -118,7 +127,14 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
 
           <div style={{ padding: '14px 16px 10px' }}>
             <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.name}</a>
-            <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{clinic.headline}</div>
+            <div style={{ fontSize: '13px', color: '#555', marginBottom: '8px', lineHeight: 1.5, fontStyle: 'italic' }}>{clinic.headline}</div>
+            {getClinicBadges(clinic).length > 0 && (
+              <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap', marginBottom: '10px' }}>
+                {getClinicBadges(clinic).map(b => (
+                  <span key={b.label} style={{ fontSize: '11px', fontWeight: 600, padding: '3px 8px', borderRadius: '4px', backgroundColor: b.bg, color: b.color, border: `1px solid ${b.border}` }}>{b.label}</span>
+                ))}
+              </div>
+            )}
             {clinic.googleRating ? (
               <>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
@@ -180,9 +196,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 </div>
               ))}
             </div>
-            {showCertifiedBadge && (
-              <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '12px', fontWeight: 700, padding: '4px 10px', zIndex: 2 }}>✓ Zertifiziert</div>
-            )}
             <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
               <Heart size={16} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
             </button>
@@ -204,7 +217,14 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             {/* Col 2 – main info + all 3 USPs */}
             <div style={{ flex: 1, minWidth: 0, paddingRight: '16px' }}>
               <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3 }}>{clinic.name}</a>
-              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{clinic.headline}</div>
+              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: getClinicBadges(clinic).length > 0 ? '5px' : '7px', lineHeight: 1.4 }}>{clinic.headline}</div>
+              {getClinicBadges(clinic).length > 0 && (
+                <div style={{ display: 'flex', gap: '5px', flexWrap: 'wrap', marginBottom: '7px' }}>
+                  {getClinicBadges(clinic).map(b => (
+                    <span key={b.label} style={{ fontSize: '10px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px', backgroundColor: b.bg, color: b.color, border: `1px solid ${b.border}` }}>{b.label}</span>
+                  ))}
+                </div>
+              )}
 
               {/* Single rating row: G icon · stars · score · review link · badge */}
               {clinic.googleRating ? (

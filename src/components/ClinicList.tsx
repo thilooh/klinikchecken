@@ -59,14 +59,13 @@ export default function ClinicList({ clinics, onInquire, filters, setFilters }: 
 
   return (
     <div>
-      {clinics.map((clinic, index) => (
+      {clinics.map((clinic) => (
         <ClinicCard
           key={clinic.id}
           clinic={clinic}
           onInquire={onInquire}
           onMethodClick={handleMethodClick}
           activeMethodKeys={filters.selectedMethods}
-          showCertifiedBadge={index < 2}
         />
       ))}
     </div>
