@@ -18,11 +18,6 @@ function getClinicBadges(clinic: Clinic) {
   return badges
 }
 
-const PLACEHOLDER_SLIDES = [
-  { bg: 'linear-gradient(135deg, #E2EBF5 0%, #C0D2E8 100%)', label: 'Praxis-Fotos' },
-  { bg: 'linear-gradient(135deg, #F0EBE3 0%, #E0CDB8 100%)', label: 'Empfangsbereich' },
-  { bg: 'linear-gradient(135deg, #E2F0E8 0%, #B8DECE 100%)', label: 'Behandlungsraum' },
-]
 
 function Stars({ rating, size = 14 }: { rating: number; size?: number }) {
   const full = Math.floor(rating)
@@ -59,9 +54,23 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   const [slide, setSlide] = useState(0)
   const [touchStart, setTouchStart] = useState<number | null>(null)
 
-  const slides = clinic.images && clinic.images.length > 0
-    ? clinic.images.map(src => ({ src }))
-    : PLACEHOLDER_SLIDES
+  type Slide =
+    | { type: 'logo'; src: string }
+    | { type: 'photo'; src: string }
+    | { type: 'placeholder'; bg: string; icon: string; label: string }
+
+  const m = clinic.media
+  const slides: Slide[] = [
+    m?.logo
+      ? { type: 'logo', src: m.logo }
+      : { type: 'placeholder', bg: 'linear-gradient(135deg, #F5F7FA 0%, #E8ECF2 100%)', icon: '🏥', label: 'Logo' },
+    m?.streetview
+      ? { type: 'photo', src: m.streetview }
+      : { type: 'placeholder', bg: 'linear-gradient(135deg, #E2EBF5 0%, #C0D2E8 100%)', icon: '📍', label: 'Außenansicht' },
+    m?.map
+      ? { type: 'photo', src: m.map }
+      : { type: 'placeholder', bg: 'linear-gradient(135deg, #E2F0E8 0%, #B8DECE 100%)', icon: '🗺', label: 'Lageplan' },
+  ]
 
   const onTouchStart = (e: React.TouchEvent) => setTouchStart(e.touches[0].clientX)
   const onTouchEnd = (e: React.TouchEvent) => {
@@ -100,12 +109,16 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <div style={{ display: 'flex', height: '100%', transform: `translateX(-${slide * 100}%)`, transition: 'transform 0.3s ease' }}>
                 {slides.map((s, i) => (
                   <div key={i} style={{ minWidth: '100%', height: '100%', flexShrink: 0 }}>
-                    {'src' in s
-                      ? <img src={s.src} alt="Praxisfoto" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
-                      : <div style={{ width: '100%', height: '100%', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
-                          <span style={{ fontSize: '38px' }}>📷</span>
-                          <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                    {s.type === 'logo'
+                      ? <div style={{ width: '100%', height: '100%', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}>
+                          <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
                         </div>
+                      : s.type === 'photo'
+                        ? <img src={s.src} alt="Praxisfoto" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                        : <div style={{ width: '100%', height: '100%', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
+                            <span style={{ fontSize: '38px' }}>{s.icon}</span>
+                            <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                          </div>
                     }
                   </div>
                 ))}
@@ -186,12 +199,16 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             <div style={{ position: 'absolute', inset: 0, display: 'flex', transform: `translateX(-${slide * 220}px)`, transition: 'transform 0.3s ease' }}>
               {slides.map((s, i) => (
                 <div key={i} style={{ minWidth: '220px', height: '220px', flexShrink: 0 }}>
-                  {'src' in s
-                    ? <img src={s.src} alt="Praxisfoto" style={{ width: '220px', height: '220px', objectFit: 'cover', display: 'block' }} />
-                    : <div style={{ width: '220px', height: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
-                        <span style={{ fontSize: '40px' }}>📷</span>
-                        <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                  {s.type === 'logo'
+                    ? <div style={{ width: '220px', height: '220px', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '20px' }}>
+                        <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
                       </div>
+                    : s.type === 'photo'
+                      ? <img src={s.src} alt="Praxisfoto" style={{ width: '220px', height: '220px', objectFit: 'cover', display: 'block' }} />
+                      : <div style={{ width: '220px', height: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+                          <span style={{ fontSize: '40px' }}>{s.icon}</span>
+                          <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                        </div>
                   }
                 </div>
               ))}
