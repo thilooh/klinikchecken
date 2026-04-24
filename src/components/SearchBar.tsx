@@ -10,6 +10,15 @@ interface Props {
 const CITIES = [
   { name: 'Köln', plzPrefixes: ['50', '51'], hint: 'PLZ 50xxx – 51xxx' },
   { name: 'Düsseldorf', plzPrefixes: ['40', '41'], hint: 'PLZ 40xxx – 41xxx' },
+  { name: 'Frankfurt', plzPrefixes: ['60', '61', '63', '65'], hint: 'PLZ 60xxx – 65xxx' },
+  { name: 'Dortmund', plzPrefixes: ['44'], hint: 'PLZ 44xxx' },
+  { name: 'Berlin', plzPrefixes: ['10', '12', '13', '14'], hint: 'PLZ 10xxx – 14xxx' },
+  { name: 'München', plzPrefixes: ['80', '81', '85'], hint: 'PLZ 80xxx – 81xxx' },
+  { name: 'Hamburg', plzPrefixes: ['20', '21', '22'], hint: 'PLZ 20xxx – 22xxx' },
+  { name: 'Leipzig', plzPrefixes: ['04'], hint: 'PLZ 04xxx' },
+  { name: 'Nürnberg', plzPrefixes: ['90', '91'], hint: 'PLZ 90xxx – 91xxx' },
+  { name: 'Stuttgart', plzPrefixes: ['70', '71'], hint: 'PLZ 70xxx – 71xxx' },
+  { name: 'Essen', plzPrefixes: ['45'], hint: 'PLZ 45xxx' },
 ]
 
 function resolveCity(raw: string): string {
