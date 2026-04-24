@@ -11,17 +11,10 @@ interface Props {
   activeMethodKeys: string[]
 }
 
-const CURRENT_YEAR = 2026
-const SPECIALIST_TERMS = ['Phlebologie', 'Gefäßchirurgie', 'Gefäßmedizin', 'Venenchirurgie']
-
 function getClinicBadges(clinic: Clinic) {
   const badges: { label: string; bg: string }[] = []
   if (clinic.googleRating && clinic.googleRating >= 4.8)
     badges.push({ label: '★ Top-Bewertung', bg: '#D97706' })
-  if (SPECIALIST_TERMS.some(t => clinic.qualification.includes(t)))
-    badges.push({ label: '✦ Spezialist', bg: '#1D4ED8' })
-  if (clinic.foundedYear && (CURRENT_YEAR - clinic.foundedYear) >= 10)
-    badges.push({ label: '⏱ Erfahren', bg: '#0F766E' })
   return badges
 }
 
