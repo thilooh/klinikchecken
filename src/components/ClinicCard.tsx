@@ -113,9 +113,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
           <div style={{ position: 'relative', width: '100%', paddingTop: '56%', overflow: 'hidden', touchAction: 'pan-y' }}
             onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
             <div style={{ position: 'absolute', inset: 0 }}>
-              <div style={{ display: 'flex', height: '100%', transform: `translateX(-${slide * 100 / slides.length}%)`, transition: 'transform 0.3s ease' }}>
+              <div style={{ display: 'flex', width: `calc(100% * ${slides.length})`, height: '100%', transform: `translateX(-${slide * 100 / slides.length}%)`, transition: 'transform 0.3s ease' }}>
                 {slides.map((s, i) => (
-                  <div key={i} style={{ minWidth: '100%', height: '100%', flexShrink: 0 }}>
+                  <div key={i} style={{ width: `calc(100% / ${slides.length})`, height: '100%', flexShrink: 0 }}>
                     {s.type === 'logo'
                       ? <div style={{ width: '100%', height: '100%', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}>
                           <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
