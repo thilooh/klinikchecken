@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Navbar from './components/Navbar'
 import SearchBar from './components/SearchBar'
 import Sidebar from './components/Sidebar'
@@ -11,6 +11,32 @@ import MobileFilterSheet from './components/MobileFilterSheet'
 import { useFilteredClinics } from './hooks/useFilteredClinics'
 import { clinics } from './data/clinics'
 import type { Clinic, FilterState } from './types/clinic'
+
+// Normalize + match a raw city string (from Meta {{city}} param or geo API) to a supported city
+const CITY_VARIANTS: [string[], string][] = [
+  [['köln', 'koeln', 'koln', 'cologne'], 'Köln'],
+  [['düsseldorf', 'duesseldorf', 'dusseldorf'], 'Düsseldorf'],
+  [['frankfurt', 'frankfurt am main', 'frankfurt a. m.', 'frankfurt a.m.'], 'Frankfurt'],
+  [['dortmund'], 'Dortmund'],
+  [['berlin'], 'Berlin'],
+  [['münchen', 'muenchen', 'munchen', 'munich'], 'München'],
+  [['hamburg'], 'Hamburg'],
+  [['leipzig'], 'Leipzig'],
+  [['nürnberg', 'nuernberg', 'nurnberg', 'nuremberg'], 'Nürnberg'],
+  [['stuttgart'], 'Stuttgart'],
+  [['essen'], 'Essen'],
+]
+
+function matchCity(raw: string): string | null {
+  const norm = raw.trim().toLowerCase()
+  for (const [variants, canonical] of CITY_VARIANTS) {
+    if (variants.includes(norm)) return canonical
+  }
+  for (const [variants, canonical] of CITY_VARIANTS) {
+    if (variants.some(v => norm.startsWith(v) || v.startsWith(norm))) return canonical
+  }
+  return null
+}
 
 const defaultFilters: FilterState = {
   selectedMethods: [],
@@ -36,6 +62,25 @@ export default function App() {
   const [selectedClinic, setSelectedClinic] = useState<Clinic | null>(null)
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
   const [filterSection, setFilterSection] = useState('sort')
+
+  useEffect(() => {
+    const cityParam = new URLSearchParams(window.location.search).get('city')
+    if (cityParam) {
+      const matched = matchCity(cityParam)
+      if (matched) setFilters(f => ({ ...f, searchCity: matched }))
+      return
+    }
+    // Fallback: IP geolocation via Netlify Edge
+    fetch('/api/geo')
+      .then(r => r.json())
+      .then((data: { city?: string }) => {
+        if (data.city) {
+          const matched = matchCity(data.city)
+          if (matched) setFilters(f => ({ ...f, searchCity: matched }))
+        }
+      })
+      .catch(() => {})
+  }, [])
 
   const filtered = useFilteredClinics(clinics, filters)
 
