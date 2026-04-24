@@ -1346,6 +1346,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
+      logo: '/images/clinic-25/logo.svg',
       streetview: '/images/clinic-25/streetview.jpg',
       map: '/images/clinic-25/map.jpg',
     },
@@ -2247,6 +2248,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
+      logo: '/images/clinic-40/logo.svg',
       streetview: '/images/clinic-40/streetview.jpg',
       map: '/images/clinic-40/map.jpg',
     },
@@ -2426,6 +2428,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
+      logo: '/images/clinic-43/logo.svg',
       streetview: '/images/clinic-43/streetview.jpg',
       map: '/images/clinic-43/map.jpg',
     },
@@ -3041,6 +3044,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
+      logo: '/images/clinic-53/logo.png',
       streetview: '/images/clinic-53/streetview.jpg',
       map: '/images/clinic-53/map.jpg',
     },
@@ -3100,6 +3104,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
+      logo: '/images/clinic-54/logo.png',
       streetview: '/images/clinic-54/streetview.jpg',
       map: '/images/clinic-54/map.jpg',
     },
@@ -3159,6 +3164,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
+      logo: '/images/clinic-55/logo.svg',
       streetview: '/images/clinic-55/streetview.jpg',
       map: '/images/clinic-55/map.jpg',
     },
