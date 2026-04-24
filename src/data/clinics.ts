@@ -1345,7 +1345,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Hölper erwarb seine phlebologische Zusatzbezeichnung 2019 und ist zudem zertifizierter Wundexperte (2011) sowie Vaskulärer Duplexsonograph (2007). Er leitet das Venenzentrum Frankfurt gemeinsam mit Dr. med. Shukria Isaq, Fachärztin für Gefäßchirurgie und Lymphologie.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-25/streetview.jpg',
+      map: '/images/clinic-25/map.jpg',
+    },
   },
 
   {
@@ -1401,7 +1404,10 @@ export const clinics: Clinic[] = [
         bio: 'Prof. Böhm übernahm 2004 die von Prof. Várady gegründete Klinik und führt sie als ausgewiesener Experte für minimal-invasive Venenchirurgie. Er war Präsident des Internationalen Forums für Minichirurgie der Varikose.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-26/streetview.jpg',
+      map: '/images/clinic-26/map.jpg',
+    },
   },
 
   {
@@ -1457,7 +1463,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Schanowski-Bouvier leitet das Venen Kompetenz-Zentrum VKZ in Frankfurt-Nordend und ist Mitglied der Deutschen Gesellschaft für Phlebologie und Lymphologie (DGPL).',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-27/streetview.jpg',
+      map: '/images/clinic-27/map.jpg',
+    },
   },
 
   {
@@ -1512,7 +1521,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Kay Kerner ist niedergelassener Hautarzt in Frankfurt-Dornbusch mit den Zusatzbezeichnungen Phlebologie und Allergologie. Er behandelt Besenreiser und Krampfadern im Rahmen der dermatologischen Phlebologie und ist als Vertragsarzt für GKV-Patienten tätig.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-28/streetview.jpg',
+      map: '/images/clinic-28/map.jpg',
+    },
   },
 
   // ═══════════════════════════════════════════════════════
@@ -1572,7 +1584,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Rüther führt die Gefäßpraxis Kampstraße mit langjähriger Erfahrung in der konservativen und interventionellen Behandlung von Venenerkrankungen.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-29/streetview.jpg',
+      map: '/images/clinic-29/map.jpg',
+    },
   },
 
   {
@@ -1628,7 +1643,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Eichelberg leitet die Praxis-Klinik mit einem interdisziplinären Team aus Dermatologen und Phlebologen. Schwerpunkte sind die konservative und operative Therapie von Venenerkrankungen sowie ästhetische Dermatologie.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-30/streetview.jpg',
+      map: '/images/clinic-30/map.jpg',
+    },
   },
 
   {
@@ -1683,7 +1701,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Koepchen ist spezialisierter Gefäßchirurg mit zusätzlicher phlebologischer Qualifikation. Er behandelt das gesamte Spektrum venöser Erkrankungen – von kosmetisch störenden Besenreisern bis zu therapiebedürftigen Stammvarikosen.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-31/streetview.jpg',
+      map: '/images/clinic-31/map.jpg',
+    },
   },
 
 
@@ -1743,7 +1764,10 @@ export const clinics: Clinic[] = [
         bio: 'Spezialisiert auf die Diagnostik und Therapie von Venenerkrankungen in Berlin Mitte.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-32/streetview.jpg',
+      map: '/images/clinic-32/map.jpg',
+    },
   },
 
   {
@@ -1798,7 +1822,10 @@ export const clinics: Clinic[] = [
         bio: 'Spezialisiertes MVZ mit Fokus auf Venenerkrankungen in Berlin Mitte.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-33/streetview.jpg',
+      map: '/images/clinic-33/map.jpg',
+    },
   },
 
   {
@@ -1854,7 +1881,10 @@ export const clinics: Clinic[] = [
         bio: 'Langjährige Erfahrung in der Diagnostik und Therapie sämtlicher Venenerkrankungen im Berliner Raum.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-34/streetview.jpg',
+      map: '/images/clinic-34/map.jpg',
+    },
   },
 
   {
@@ -1908,7 +1938,10 @@ export const clinics: Clinic[] = [
         bio: 'Spezialist für Diagnostik und Therapie von Venenerkrankungen mit langjähriger Erfahrung im Südosten Berlins.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-35/streetview.jpg',
+      map: '/images/clinic-35/map.jpg',
+    },
   },
 
   // ═══════════════════════════════════════════════════════
@@ -1969,7 +2002,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Guggenbichler leitet gemeinsam mit Dr. Juliane Liebetrau das Ambulante Bein Centrum am Viktualienmarkt und ist auf die konservative und interventionelle Behandlung von Venenerkrankungen spezialisiert.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-36/streetview.jpg',
+      map: '/images/clinic-36/map.jpg',
+    },
   },
 
   {
@@ -2026,7 +2062,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Wißmüller ist erfahrene Spezialistin für Venenerkrankungen und leitet das Venenzentrum München mit Fokus auf minimal-invasive, ästhetisch hochwertige Behandlungen von Besenreisern und Krampfadern.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-37/streetview.jpg',
+      map: '/images/clinic-37/map.jpg',
+    },
   },
 
   {
@@ -2082,7 +2121,10 @@ export const clinics: Clinic[] = [
         bio: 'Die Schwerpunktpraxis Phlebologie München in Bogenhausen bietet spezialisierte Versorgung für alle Arten von Venen- und Gefäßerkrankungen und ist mit modernster Diagnostik ausgestattet.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-38/streetview.jpg',
+      map: '/images/clinic-38/map.jpg',
+    },
   },
 
   {
@@ -2139,7 +2181,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Uli Taucher gründete 1990 die Venenpraxis im Tal und widmet seine ärztliche Tätigkeit ausschließlich der Diagnostik und Behandlung von Venen- und Gefäßerkrankungen.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-39/streetview.jpg',
+      map: '/images/clinic-39/map.jpg',
+    },
   },
 
 
@@ -2201,7 +2246,10 @@ export const clinics: Clinic[] = [
         bio: 'Langjährige Erfahrung in der Venenheilkunde, Mitglied der Deutschen Gesellschaft für Phlebologie und Lymphologie (DGPL). Schwerpunkt minimal-invasive Venentherapie.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-40/streetview.jpg',
+      map: '/images/clinic-40/map.jpg',
+    },
   },
 
   {
@@ -2257,7 +2305,10 @@ export const clinics: Clinic[] = [
         bio: 'Spezialist für Venenerkrankungen mit langjähriger Erfahrung in der ambulanten Phlebologie. Mitglied der Deutschen Gesellschaft für Phlebologie.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-41/streetview.jpg',
+      map: '/images/clinic-41/map.jpg',
+    },
   },
 
   {
@@ -2314,7 +2365,10 @@ export const clinics: Clinic[] = [
         bio: 'Erfahrener Gefäßspezialist mit Schwerpunkt auf minimal-invasiver Venentherapie. Gründer der lipovasc® Venenpraxis, spezialisiert auf schmerzarme ambulante Eingriffe ohne Allgemeinanästhesie.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-42/streetview.jpg',
+      map: '/images/clinic-42/map.jpg',
+    },
   },
 
   {
@@ -2371,7 +2425,10 @@ export const clinics: Clinic[] = [
         bio: 'Spezialist für ästhetische Dermatologie und Phlebologie mit besonderer Expertise im Einsatz von Lasertechnologie und zertifizierten Venefit®-Verfahren.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-43/streetview.jpg',
+      map: '/images/clinic-43/map.jpg',
+    },
   },
 
   // ═══════════════════════════════════════════════════════
@@ -2434,7 +2491,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Wenzel ist Gründer und ärztlicher Leiter des Venenzentrums am Brühl und seit 1997 am Standort Nikolaistraße tätig. Das MVZ nimmt Patienten aller gesetzlichen Kassen auf.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-44/streetview.jpg',
+      map: '/images/clinic-44/map.jpg',
+    },
   },
 
   {
@@ -2490,7 +2550,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Matthias Jany ist in Leipzig-Zentrum als niedergelassener Gefäßchirurg tätig und durch die Kassenärztliche Vereinigung Sachsen zugelassen. Die Praxis ist barrierefrei und verfügt über englischsprachige Beratung.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-45/streetview.jpg',
+      map: '/images/clinic-45/map.jpg',
+    },
   },
 
   {
@@ -2548,7 +2611,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Ulrich spezialisierte sich in Kardiologie und Angiologie. Seit Oktober 2015 führt er die Praxis am Coppiplatz. Er ist Mitglied der DGA, DGP und des BVP. Die Praxis nimmt Patienten aller gesetzlichen Kassen auf.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-46/streetview.jpg',
+      map: '/images/clinic-46/map.jpg',
+    },
   },
 
 
@@ -2610,7 +2676,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Zajitschek leitet die Praxis am Campus Nürnberg Ost und hat sich auf Venenheilkunde und ästhetische Dermatologie spezialisiert. Das Venen-Kompetenz-Zentrum wurde erfolgreich rezertifiziert.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-47/streetview.jpg',
+      map: '/images/clinic-47/map.jpg',
+    },
   },
 
   {
@@ -2665,7 +2734,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Streikiene behandelt in ihrer Hautarztpraxis in Nürnberg schwerpunktmäßig Venenerkrankungen mit modernen und schonenden Methoden.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-48/streetview.jpg',
+      map: '/images/clinic-48/map.jpg',
+    },
   },
 
   {
@@ -2720,7 +2792,10 @@ export const clinics: Clinic[] = [
         bio: 'Das Facharztteam des MVZ Martha-Maria Nürnberg deckt das volle Spektrum der Gefäßmedizin ab und setzt auf modernste minimalinvasive Therapieverfahren.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-49/streetview.jpg',
+      map: '/images/clinic-49/map.jpg',
+    },
   },
 
   // ═══════════════════════════════════════════════════════
@@ -2781,7 +2856,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Annette Hanssen ist Fachärztin für Gefäßchirurgie und spezialisierte Ärztin in der Venenpraxis Stuttgart. Die Praxis ist bei der Kassenärztlichen Vereinigung Baden-Württemberg zugelassen und behandelt Patienten aller Krankenkassen.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-50/streetview.jpg',
+      map: '/images/clinic-50/map.jpg',
+    },
   },
 
   {
@@ -2837,7 +2915,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Hans Seiter ist Gründer und leitender Arzt des gleichnamigen Gefäßzentrums, das seit 2026 zum Robert Bosch Krankenhaus gehört. Er verfügt über die Zusatzbezeichnungen Gefäßchirurgie und Phlebologie und behandelt Patienten aller Kassen.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-51/streetview.jpg',
+      map: '/images/clinic-51/map.jpg',
+    },
   },
 
   {
@@ -2895,7 +2976,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Tesmann gründete 2013 das Hautzentrum Innenstadt und ist Gründungsmitglied der DGP-Arbeitsgruppe Endovenöse Therapie. Die Praxis hat einen Kassenvertrag für endovenöse Laserbehandlung mit AOK BW, verschiedenen BKKs und IKK Classic.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-52/streetview.jpg',
+      map: '/images/clinic-52/map.jpg',
+    },
   },
 
   // ═══════════════════════════════════════════════════════
@@ -2956,7 +3040,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Pljakic ist auf dermatologische Phlebologie spezialisiert und behandelt seit Jahren Patienten mit Venenerkrankungen in Essen.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-53/streetview.jpg',
+      map: '/images/clinic-53/map.jpg',
+    },
   },
 
   {
@@ -3012,7 +3099,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Krug betreibt eine auf Gefäßmedizin spezialisierte Praxis in Essen-Heisingen und verfügt über langjährige Erfahrung in der ambulanten Behandlung von Venenerkrankungen.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-54/streetview.jpg',
+      map: '/images/clinic-54/map.jpg',
+    },
   },
 
   {
@@ -3068,7 +3158,10 @@ export const clinics: Clinic[] = [
         bio: 'Dr. Riazi ist Facharzt für Gefäßchirurgie und leitet die phlebologische Abteilung des MVZ Contilia in Essen.',
       },
     },
-    media: {},
+    media: {
+      streetview: '/images/clinic-55/streetview.jpg',
+      map: '/images/clinic-55/map.jpg',
+    },
   },
 
 ]
