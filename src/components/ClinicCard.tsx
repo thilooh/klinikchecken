@@ -237,11 +237,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               </div>
               <div style={{ color: '#666', fontSize: '13px', marginBottom: '8px', lineHeight: 1.3 }}>{clinic.doctor} · {clinic.qualification}</div>
               <USPs items={clinic.usp} small />
-              <div style={{ display: 'flex', alignItems: 'center', gap: '5px' }}>
-                {clinic.openToday
-                  ? <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#00A651', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#00A651', fontSize: '13px' }}>Heute geöffnet</span></>
-                  : <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#CC0000', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#CC0000', fontSize: '13px' }}>Heute geschlossen</span></>}
-              </div>
             </div>
             {/* Col 3 – opening hours + CTA */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', width: '160px' }}>
