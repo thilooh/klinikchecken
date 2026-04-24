@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Menu, X, ShieldCheck } from 'lucide-react'
 
-const navItems = ['Besenreiser', 'Krampfadern', 'Botox', 'Filler', 'Laser']
+const navItems = ['Besenreiser']
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false)
