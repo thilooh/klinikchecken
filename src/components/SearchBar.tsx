@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Search, MapPin } from 'lucide-react'
+import { Search, MapPin, Navigation } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
 
 interface Props {
@@ -8,18 +8,24 @@ interface Props {
 }
 
 const CITIES = [
-  { name: 'Köln', plzPrefixes: ['50', '51'], hint: 'PLZ 50xxx – 51xxx' },
-  { name: 'Düsseldorf', plzPrefixes: ['40', '41'], hint: 'PLZ 40xxx – 41xxx' },
-  { name: 'Frankfurt', plzPrefixes: ['60', '61', '63', '65'], hint: 'PLZ 60xxx – 65xxx' },
-  { name: 'Dortmund', plzPrefixes: ['44'], hint: 'PLZ 44xxx' },
-  { name: 'Berlin', plzPrefixes: ['10', '12', '13', '14'], hint: 'PLZ 10xxx – 14xxx' },
-  { name: 'München', plzPrefixes: ['80', '81', '85'], hint: 'PLZ 80xxx – 81xxx' },
-  { name: 'Hamburg', plzPrefixes: ['20', '21', '22'], hint: 'PLZ 20xxx – 22xxx' },
-  { name: 'Leipzig', plzPrefixes: ['04'], hint: 'PLZ 04xxx' },
-  { name: 'Nürnberg', plzPrefixes: ['90', '91'], hint: 'PLZ 90xxx – 91xxx' },
-  { name: 'Stuttgart', plzPrefixes: ['70', '71'], hint: 'PLZ 70xxx – 71xxx' },
-  { name: 'Essen', plzPrefixes: ['45'], hint: 'PLZ 45xxx' },
+  { name: 'Köln',        plzPrefixes: ['50', '51'],             hint: 'PLZ 50xxx – 51xxx', lat: 50.938, lng: 6.960 },
+  { name: 'Düsseldorf',  plzPrefixes: ['40', '41'],             hint: 'PLZ 40xxx – 41xxx', lat: 51.222, lng: 6.776 },
+  { name: 'Frankfurt',   plzPrefixes: ['60', '61', '63', '65'], hint: 'PLZ 60xxx – 65xxx', lat: 50.111, lng: 8.682 },
+  { name: 'Dortmund',    plzPrefixes: ['44'],                   hint: 'PLZ 44xxx',         lat: 51.514, lng: 7.465 },
+  { name: 'Berlin',      plzPrefixes: ['10', '12', '13', '14'], hint: 'PLZ 10xxx – 14xxx', lat: 52.520, lng: 13.405 },
+  { name: 'München',     plzPrefixes: ['80', '81', '85'],       hint: 'PLZ 80xxx – 81xxx', lat: 48.135, lng: 11.582 },
+  { name: 'Hamburg',     plzPrefixes: ['20', '21', '22'],       hint: 'PLZ 20xxx – 22xxx', lat: 53.575, lng: 10.015 },
+  { name: 'Leipzig',     plzPrefixes: ['04'],                   hint: 'PLZ 04xxx',         lat: 51.340, lng: 12.373 },
+  { name: 'Nürnberg',   plzPrefixes: ['90', '91'],             hint: 'PLZ 90xxx – 91xxx', lat: 49.452, lng: 11.077 },
+  { name: 'Stuttgart',   plzPrefixes: ['70', '71'],             hint: 'PLZ 70xxx – 71xxx', lat: 48.776, lng: 9.183 },
+  { name: 'Essen',       plzPrefixes: ['45'],                   hint: 'PLZ 45xxx',         lat: 51.456, lng: 7.012 },
 ]
+
+function nearestCity(lat: number, lng: number): string {
+  return CITIES.reduce((best, city) =>
+    Math.hypot(lat - city.lat, lng - city.lng) < Math.hypot(lat - best.lat, lng - best.lng) ? city : best
+  ).name
+}
 
 function resolveCity(raw: string): string {
   const t = raw.trim()
@@ -39,7 +45,6 @@ function resolveCity(raw: string): string {
 function getMatches(input: string) {
   const t = input.trim().toLowerCase()
   if (!t) return CITIES
-  // Show all cities when the current value is already an exact city name
   if (CITIES.some(c => c.name.toLowerCase() === t)) return CITIES
   return CITIES.filter(c =>
     c.name.toLowerCase().includes(t) ||
@@ -50,6 +55,8 @@ function getMatches(input: string) {
 export default function SearchBar({ filters, setFilters }: Props) {
   const [val, setVal] = useState(filters.searchCity)
   const [showSuggestions, setShowSuggestions] = useState(false)
+  const [locating, setLocating] = useState(false)
+  const [locError, setLocError] = useState(false)
 
   const matches = getMatches(val)
 
@@ -60,6 +67,20 @@ export default function SearchBar({ filters, setFilters }: Props) {
   }
 
   const handleSearch = () => apply(resolveCity(val))
+
+  const handleGeolocate = () => {
+    if (!navigator.geolocation || locating) return
+    setLocating(true)
+    setLocError(false)
+    navigator.geolocation.getCurrentPosition(
+      pos => {
+        apply(nearestCity(pos.coords.latitude, pos.coords.longitude))
+        setLocating(false)
+      },
+      () => { setLocating(false); setLocError(true) },
+      { timeout: 10000 }
+    )
+  }
 
   return (
     <div style={{ background: 'linear-gradient(175deg, #002B5C 0%, #003F8A 100%)', padding: '22px 0 24px', borderBottom: '3px solid #0052CC' }}>
@@ -88,11 +109,25 @@ export default function SearchBar({ filters, setFilters }: Props) {
                 style={{ border: 'none', outline: 'none', fontSize: '16px', fontWeight: 600, width: '100%', color: '#111', backgroundColor: 'transparent' }}
               />
             </div>
+            <button
+              onClick={handleGeolocate}
+              disabled={locating}
+              title="Mein Standort verwenden"
+              style={{ height: '100%', padding: '0 14px', border: 'none', borderRight: '1px solid #E8E8E8', background: 'none', cursor: 'pointer', color: locating ? '#AAC' : '#0052CC', display: 'flex', alignItems: 'center', flexShrink: 0 }}
+            >
+              <Navigation size={17} style={{ transform: locating ? 'none' : undefined, opacity: locating ? 0.5 : 1 }} />
+            </button>
             <button onClick={handleSearch} style={{ backgroundColor: '#0052CC', color: '#fff', fontWeight: 700, fontSize: '15px', height: '100%', padding: '0 28px', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '7px', flexShrink: 0 }}>
               <Search size={15} />
               Suchen
             </button>
           </div>
+
+          {locError && (
+            <div style={{ position: 'absolute', top: 'calc(100% + 6px)', left: 0, right: 0, textAlign: 'center', color: '#FFB5B5', fontSize: '13px', pointerEvents: 'none' }}>
+              Standort konnte nicht ermittelt werden — bitte manuell eingeben.
+            </div>
+          )}
 
           {showSuggestions && matches.length > 0 && (
             <div style={{ position: 'absolute', top: 'calc(100% + 4px)', left: 0, right: 0, backgroundColor: '#fff', borderRadius: '8px', boxShadow: '0 8px 24px rgba(0,0,0,0.2)', zIndex: 10, overflow: 'hidden' }}>
