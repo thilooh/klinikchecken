@@ -15,7 +15,7 @@ import type { Clinic, FilterState } from './types/clinic'
 import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
 import { sendEvent } from './lib/gtm'
-import { loadGTM } from './lib/consent'
+import { loadGTM, getConsent } from './lib/consent'
 
 // Match a raw city string or PLZ (from {{adset.name}}, geo API, etc.) to a supported city.
 // Meta tip: name ad sets by city and use ?city={{adset.name}} — Meta substitutes it reliably.
