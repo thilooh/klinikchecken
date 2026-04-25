@@ -13,6 +13,7 @@ import { clinics } from './data/clinics'
 import type { Clinic, FilterState } from './types/clinic'
 import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
+import { sendEvent } from './lib/capi'
 
 // Match a raw city string or PLZ (from {{adset.name}}, geo API, etc.) to a supported city.
 // Meta tip: name ad sets by city and use ?city={{adset.name}} — Meta substitutes it reliably.
@@ -73,6 +74,10 @@ const interFont = "'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue',
 export default function App() {
   const [filters, setFilters] = useState<FilterState>(defaultFilters)
   const [selectedClinic, setSelectedClinic] = useState<Clinic | null>(null)
+  const handleInquire = (clinic: Clinic) => {
+    sendEvent('InitiateCheckout', { content_name: clinic.name, content_category: clinic.city })
+    setSelectedClinic(clinic)
+  }
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
   const [filterSection, setFilterSection] = useState('sort')
   const [autoCity, setAutoCity] = useState<string | null>(null)
@@ -80,6 +85,8 @@ export default function App() {
     parseVariant(new URLSearchParams(window.location.search).get('v'))
   )
   const vt = VARIANTS[variant]
+
+  useEffect(() => { sendEvent('PageView') }, [])
 
   useEffect(() => {
     const cityParam = new URLSearchParams(window.location.search).get('city')
@@ -142,7 +149,7 @@ export default function App() {
                 setFilters={handleSetFilters}
                 onOpenFilter={openFilter}
               />
-              <ClinicList clinics={filtered} onInquire={setSelectedClinic} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} />
+              <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} />
             </div>
           </div>
         </div>

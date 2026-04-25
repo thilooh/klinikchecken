@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { X, Lock, CheckCircle2, Loader2 } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
+import { sendEvent } from '../lib/capi'
 
 interface Props {
   clinic: Clinic | null
@@ -44,6 +45,10 @@ export default function InquiryModal({ clinic, onClose }: Props) {
           }),
         })
       }
+      sendEvent('Lead',
+        { content_name: clinic.name, content_category: clinic.city, value: 1, currency: 'EUR' },
+        { email: form.email, phone: form.phone }
+      )
       setSubmitted(true)
     } catch {
       setError(true)

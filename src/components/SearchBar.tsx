@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Search, MapPin, Navigation } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
+import { sendEvent } from '../lib/capi'
 
 interface Props {
   filters: FilterState
@@ -61,10 +62,11 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
 
   const matches = getMatches(val)
 
-  const apply = (cityName: string) => {
+  const apply = (cityName: string, source: 'user' | 'geo' = 'user') => {
     setVal(cityName)
     setFilters({ ...filters, searchCity: cityName })
     setShowSuggestions(false)
+    if (source === 'user') sendEvent('Search', { search_string: cityName })
   }
 
   const handleSearch = () => apply(resolveCity(val))
@@ -75,7 +77,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     setLocError(false)
     navigator.geolocation.getCurrentPosition(
       pos => {
-        apply(nearestCity(pos.coords.latitude, pos.coords.longitude))
+        apply(nearestCity(pos.coords.latitude, pos.coords.longitude), 'user')
         setLocating(false)
       },
       () => { setLocating(false); setLocError(true) },
