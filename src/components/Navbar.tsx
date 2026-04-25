@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import { Menu, X, ShieldCheck } from 'lucide-react'
+import { Menu, X } from 'lucide-react'
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false)
@@ -14,14 +14,18 @@ export default function Navbar() {
   return (
     <nav style={{ backgroundColor: '#002B5C', borderBottom: '1px solid rgba(255,255,255,0.1)' }} className="relative z-50">
       <div className="max-w-[1200px] mx-auto px-4" style={{ height: '56px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-          <div style={{ width: '32px', height: '32px', backgroundColor: '#0052CC', borderRadius: '7px', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-            <ShieldCheck size={18} color="#fff" />
-          </div>
-          <div style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.2 }}>
-            <span style={{ color: '#fff', fontWeight: 800, fontSize: '17px', letterSpacing: '-0.02em' }}>Besenreiser-Check.de</span>
-            <span style={{ color: '#7A9CC8', fontSize: '11px', letterSpacing: '0.02em', textTransform: 'uppercase' }}>Geprüfte Besenreiser-Spezialisten</span>
-          </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <svg viewBox="0 0 92 92" width="34" height="34" style={{ flexShrink: 0 }} aria-hidden="true">
+            {/* magnifying glass circle */}
+            <circle cx="40" cy="40" r="28" fill="none" stroke="white" strokeWidth="7.5" />
+            {/* subtle lens highlight */}
+            <ellipse cx="30" cy="29" rx="9" ry="6" fill="rgba(255,255,255,0.18)" transform="rotate(-35 30 29)" />
+            {/* handle */}
+            <line x1="61" y1="61" x2="83" y2="83" stroke="white" strokeWidth="8.5" strokeLinecap="round" />
+            {/* checkmark */}
+            <polyline points="23,40 36,55 59,27" fill="none" stroke="white" strokeWidth="6.5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+          <span style={{ color: '#fff', fontWeight: 800, fontSize: '17px', letterSpacing: '-0.02em' }}>besenreiser-check.de</span>
         </div>
 
         <div className="hidden md:flex items-center gap-6">
