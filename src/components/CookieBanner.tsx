@@ -1,4 +1,4 @@
-import { setConsent, loadGTM } from '../lib/consent'
+import { setConsent } from '../lib/consent'
 
 interface Props {
   onAccept: () => void
@@ -8,7 +8,6 @@ interface Props {
 export default function CookieBanner({ onAccept, onDecline }: Props) {
   const handleAccept = () => {
     setConsent('accepted')
-    loadGTM()
     onAccept()
   }
 
