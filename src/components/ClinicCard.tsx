@@ -12,6 +12,8 @@ interface Props {
   onMethodClick: (methodKey: string) => void
   activeMethodKeys: string[]
   cardVariant?: VariantConfig['card']
+  isSelected?: boolean
+  onToggleSelect?: () => void
 }
 
 function getClinicBadges(clinic: Clinic, badge: string) {
@@ -72,7 +74,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
   )
 }
 
-export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant }: Props) {
+export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect }: Props) {
   const vt = cardVariant ?? VARIANTS.a.card
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
@@ -157,9 +159,20 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 ))}
               </div>
             </div>
-            <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
-              <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
-            </button>
+            <div style={{ position: 'absolute', top: '8px', right: '8px', display: 'flex', gap: '6px', zIndex: 2 }}>
+              {onToggleSelect && (
+                <button
+                  onClick={onToggleSelect}
+                  title={isSelected ? 'Aus Vergleich entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
+                  style={{ background: isSelected ? '#003399' : 'rgba(255,255,255,0.88)', border: isSelected ? '2px solid #003399' : 'none', borderRadius: '6px', padding: '4px 8px', display: 'flex', alignItems: 'center', gap: '4px', cursor: 'pointer', fontSize: '11px', fontWeight: 700, color: isSelected ? '#fff' : '#003399' }}
+                >
+                  {isSelected ? '✓ Ausgewählt' : '+ Vergleichen'}
+                </button>
+              )}
+              <button onClick={() => setFavorited(f => !f)} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
+                <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
+              </button>
+            </div>
             {slide > 0 && (
               <button onClick={() => setSlide(s => s - 1)} style={{ position: 'absolute', left: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronLeft size={16} color="#333" />
@@ -243,9 +256,20 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 </div>
               ))}
             </div>
-            <button onClick={() => setFavorited(f => !f)} style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
-              <Heart size={16} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
-            </button>
+            <div style={{ position: 'absolute', top: '8px', right: '8px', display: 'flex', gap: '5px', zIndex: 2 }}>
+              {onToggleSelect && (
+                <button
+                  onClick={onToggleSelect}
+                  title={isSelected ? 'Aus Vergleich entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
+                  style={{ background: isSelected ? '#003399' : 'rgba(255,255,255,0.88)', border: isSelected ? '2px solid #003399' : 'none', borderRadius: '6px', padding: '3px 7px', display: 'flex', alignItems: 'center', gap: '3px', cursor: 'pointer', fontSize: '10px', fontWeight: 700, color: isSelected ? '#fff' : '#003399' }}
+                >
+                  {isSelected ? '✓ Ausgewählt' : '+ Vergleichen'}
+                </button>
+              )}
+              <button onClick={() => setFavorited(f => !f)} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
+                <Heart size={16} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
+              </button>
+            </div>
             {slide > 0 && (
               <button onClick={() => setSlide(s => s - 1)} style={{ position: 'absolute', left: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronLeft size={14} color="#333" />

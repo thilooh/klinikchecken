@@ -9,6 +9,8 @@ interface Props {
   filters: FilterState
   setFilters: (f: FilterState) => void
   cardVariant: VariantConfig['card']
+  selectedIds: Set<number>
+  onToggleSelect: (clinic: Clinic) => void
 }
 
 function SkeletonCard() {
@@ -30,7 +32,7 @@ function SkeletonCard() {
   )
 }
 
-export default function ClinicList({ clinics, onInquire, filters, setFilters, cardVariant }: Props) {
+export default function ClinicList({ clinics, onInquire, filters, setFilters, cardVariant, selectedIds, onToggleSelect }: Props) {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -69,6 +71,8 @@ export default function ClinicList({ clinics, onInquire, filters, setFilters, ca
           onMethodClick={handleMethodClick}
           activeMethodKeys={filters.selectedMethods}
           cardVariant={cardVariant}
+          isSelected={selectedIds.has(clinic.id)}
+          onToggleSelect={() => onToggleSelect(clinic)}
         />
       ))}
     </div>

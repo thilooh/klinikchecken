@@ -9,6 +9,8 @@ import InfoSection from './components/InfoSection'
 import Footer from './components/Footer'
 import MobileFilterSheet from './components/MobileFilterSheet'
 import CookieBanner from './components/CookieBanner'
+import StickyBar from './components/StickyBar'
+import MultiInquiryModal from './components/MultiInquiryModal'
 import { useFilteredClinics } from './hooks/useFilteredClinics'
 import { clinics } from './data/clinics'
 import type { Clinic, FilterState } from './types/clinic'
@@ -83,6 +85,10 @@ export default function App() {
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
   const [filterSection, setFilterSection] = useState('sort')
   const [autoCity, setAutoCity] = useState<string | null>(null)
+  const [selectedIds, setSelectedIds] = useState<Set<number>>(new Set())
+  const [showMultiModal, setShowMultiModal] = useState(false)
+  const [selectToast, setSelectToast] = useState(false)
+  const MAX_SELECTION = 3
   const [showBanner, setShowBanner] = useState<boolean>(() => getConsent() === null)
   const [variant] = useState<VariantKey>(() =>
     parseVariant(new URLSearchParams(window.location.search).get('v'))
@@ -120,6 +126,21 @@ export default function App() {
   }
 
   const filtered = useFilteredClinics(clinics, filters)
+  const selectedClinics = clinics.filter(c => selectedIds.has(c.id))
+
+  const toggleSelection = (clinic: Clinic) => {
+    setSelectedIds(prev => {
+      if (prev.has(clinic.id)) {
+        const next = new Set(prev); next.delete(clinic.id); return next
+      }
+      if (prev.size >= MAX_SELECTION) {
+        setSelectToast(true)
+        setTimeout(() => setSelectToast(false), 3000)
+        return prev
+      }
+      return new Set([...prev, clinic.id])
+    })
+  }
 
   const openFilter = (section = 'sort') => {
     setFilterSection(section)
@@ -154,7 +175,7 @@ export default function App() {
                 setFilters={handleSetFilters}
                 onOpenFilter={openFilter}
               />
-              <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} />
+              <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} selectedIds={selectedIds} onToggleSelect={toggleSelection} />
             </div>
           </div>
         </div>
@@ -176,6 +197,23 @@ export default function App() {
           onAccept={() => setShowBanner(false)}
           onDecline={() => setShowBanner(false)}
         />
+      )}
+      <StickyBar
+        clinics={selectedClinics}
+        onRequest={() => setShowMultiModal(true)}
+        onClear={() => setSelectedIds(new Set())}
+      />
+      {showMultiModal && (
+        <MultiInquiryModal
+          clinics={selectedClinics}
+          onClose={() => setShowMultiModal(false)}
+          onClearSelection={() => { setSelectedIds(new Set()); setShowMultiModal(false) }}
+        />
+      )}
+      {selectToast && (
+        <div style={{ position: 'fixed', bottom: '80px', left: '50%', transform: 'translateX(-50%)', backgroundColor: '#333', color: '#fff', borderRadius: '6px', padding: '10px 18px', fontSize: '13px', zIndex: 2000, whiteSpace: 'nowrap', boxShadow: '0 4px 12px rgba(0,0,0,0.3)' }}>
+          Maximal 3 Praxen — entferne eine, um eine andere hinzuzufügen.
+        </div>
       )}
     </div>
   )
