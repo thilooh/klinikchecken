@@ -37,6 +37,27 @@ const GIcon = () => (
   </svg>
 )
 
+function ClinicTags({ clinic, small }: { clinic: Clinic; small?: boolean }) {
+  const tags = [
+    clinic.freeConsultation && { label: 'Kostenlose Erstberatung', bg: '#00A651', color: '#fff' },
+    clinic.kassenpatient    && { label: 'GKV möglich',             bg: '#E6F4EA', color: '#1A6B35' },
+    clinic.onlineBooking    && { label: 'Online-Buchung',           bg: '#E8F0FF', color: '#003399' },
+    clinic.eveningAppointments && { label: 'Abendtermine',          bg: '#FFF3E0', color: '#B45309' },
+    clinic.ratenzahlung     && { label: 'Ratenzahlung',             bg: '#F3E8FF', color: '#6B21A8' },
+  ].filter(Boolean) as { label: string; bg: string; color: string }[]
+
+  if (!tags.length) return null
+  const pad = small ? '2px 7px' : '4px 10px'
+  const fs = small ? '11px' : '12px'
+  return (
+    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: small ? '8px' : '10px' }}>
+      {tags.map(t => (
+        <span key={t.label} style={{ backgroundColor: t.bg, color: t.color, fontSize: fs, fontWeight: 600, padding: pad, borderRadius: '4px' }}>{t.label}</span>
+      ))}
+    </div>
+  )
+}
+
 function USPs({ items, small }: { items: string[]; small?: boolean }) {
   return (
     <div style={{ marginBottom: small ? '6px' : '10px' }}>
@@ -183,10 +204,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </div>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.4 }}>🎯 <span style={{ fontWeight: 600 }}>Schwerpunkt:</span> {clinic.methods.join(' · ')}</div>
             <USPs items={clinic.usp} />
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: '10px' }}>
-              {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '4px 10px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
-              {clinic.onlineBooking && <span style={{ backgroundColor: '#E8F0FF', color: '#003399', fontSize: '12px', padding: '4px 10px', borderRadius: '4px' }}>Online-Buchung</span>}
-            </div>
+            <ClinicTags clinic={clinic} />
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
               <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: clinic.openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
               <span style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
@@ -266,12 +284,9 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                       <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
                     </button>
                   )}
-                  {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
                 </div>
               ) : (
-                <div style={{ marginBottom: '8px' }}>
-                  {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
-                </div>
+                <div style={{ marginBottom: '8px' }} />
               )}
 
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
@@ -279,6 +294,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               </div>
               <div style={{ fontSize: '13px', color: '#555', marginBottom: '8px', lineHeight: 1.3 }}>🎯 <span style={{ fontWeight: 600 }}>Schwerpunkt:</span> {clinic.methods.join(' · ')}</div>
               <USPs items={clinic.usp} small />
+              <ClinicTags clinic={clinic} small />
             </div>
             {/* Col 3 – opening hours + CTA */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', width: '160px' }}>
