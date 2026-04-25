@@ -15,8 +15,8 @@ export default function Navbar() {
   return (
     <nav style={{ backgroundColor: '#002B5C', borderBottom: '1px solid rgba(255,255,255,0.1)' }} className="relative z-50">
       <div className="max-w-[1200px] mx-auto px-4" style={{ height: '56px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        <div style={{ display: 'flex', alignItems: 'center', backgroundColor: '#fff', borderRadius: '8px', padding: '4px 10px' }}>
-          <img src="/besenreiser-check-logo.png" alt="besenreiser-check.de" style={{ height: '28px', width: 'auto' }} />
+        <div style={{ display: 'flex', alignItems: 'center' }}>
+          <img src="/besenreiser-check-logo.png" alt="besenreiser-check.de" style={{ height: '30px', width: 'auto', filter: 'brightness(0) invert(1)' }} />
         </div>
 
         <div className="hidden md:flex items-center gap-6">
