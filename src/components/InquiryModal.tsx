@@ -114,11 +114,6 @@ export default function InquiryModal({ clinic, onClose }: Props) {
             </div>
           ) : (
             <>
-              {/* Structured request value prop */}
-              <div style={{ backgroundColor: '#EEF4FF', border: '1px solid #C8DAFE', borderRadius: '6px', padding: '10px 14px', marginBottom: '16px', fontSize: '12px', color: '#1E3A6E', lineHeight: 1.6 }}>
-                💡 Über uns gestellte Anfragen sind strukturiert — die Praxis kennt deine bevorzugte Methode und dein Anliegen, bevor sie sich meldet. Das spart euch beiden den ersten Klärungstermin.
-              </div>
-
               <div style={{ display: 'flex', gap: '10px', marginBottom: '12px' }}>
                 <div style={{ flex: 1 }}>
                   <label style={{ display: 'block', fontSize: '12px', color: '#333', fontWeight: 700, marginBottom: '4px' }}>Vorname *</label>
@@ -206,15 +201,9 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                 {loading ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</> : 'Jetzt anfragen — die Praxis meldet sich'}
               </button>
 
-              {/* Anti-provisions */}
-              <div style={{ fontSize: '12px', color: '#555', marginBottom: '8px', display: 'flex', alignItems: 'flex-start', gap: '6px' }}>
-                <CheckCircle2 size={13} color="#00A651" style={{ flexShrink: 0, marginTop: '1px' }} />
-                <span>Deine Anfrage geht direkt zur Praxis. Du zahlst keinen Cent mehr als bei Direktkontakt — die Plattform ist für dich kostenfrei.</span>
-              </div>
-
-              {/* Parallel inquiry hint */}
-              <div style={{ backgroundColor: '#F9F9F9', border: '1px solid #EEE', borderRadius: '6px', padding: '9px 12px', marginBottom: '14px', fontSize: '11px', color: '#666', lineHeight: 1.6 }}>
-                💬 Tipp: Du kannst diese Anfrage auch parallel an 1–2 weitere Praxen senden — ein Klick, dieselben Daten. So vergleichst du Antworten und Termine.
+              <div style={{ fontSize: '12px', color: '#555', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <CheckCircle2 size={13} color="#00A651" style={{ flexShrink: 0 }} />
+                <span>Antwort innerhalb von 24h — garantiert. Die Anfrage ist für dich kostenlos.</span>
               </div>
 
               <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', justifyContent: 'center' }}>
