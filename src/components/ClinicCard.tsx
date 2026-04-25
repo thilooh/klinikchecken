@@ -40,7 +40,6 @@ const GIcon = () => (
 function ClinicTags({ clinic, small }: { clinic: Clinic; small?: boolean }) {
   const tags = [
     clinic.freeConsultation && { label: 'Kostenlose Erstberatung', bg: '#00A651', color: '#fff' },
-    clinic.kassenpatient    && { label: 'GKV möglich',             bg: '#E6F4EA', color: '#1A6B35' },
     clinic.onlineBooking    && { label: 'Online-Buchung',           bg: '#E8F0FF', color: '#003399' },
     clinic.eveningAppointments && { label: 'Abendtermine',          bg: '#FFF3E0', color: '#B45309' },
     clinic.ratenzahlung     && { label: 'Ratenzahlung',             bg: '#F3E8FF', color: '#6B21A8' },
