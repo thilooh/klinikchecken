@@ -15,13 +15,8 @@ export default function Navbar() {
   return (
     <nav style={{ backgroundColor: '#002B5C', borderBottom: '1px solid rgba(255,255,255,0.1)' }} className="relative z-50">
       <div className="max-w-[1200px] mx-auto px-4" style={{ height: '56px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '9px' }}>
-          <svg viewBox="0 0 80 80" width="30" height="30" style={{ flexShrink: 0 }} aria-hidden="true">
-            <circle cx="34" cy="34" r="22" fill="none" stroke="white" strokeWidth="6.5" />
-            <line x1="50" y1="50" x2="70" y2="70" stroke="white" strokeWidth="7" strokeLinecap="round" />
-            <polyline points="20,34 31,46 50,22" fill="none" stroke="white" strokeWidth="5.5" strokeLinecap="round" strokeLinejoin="round" />
-          </svg>
-          <span style={{ color: '#fff', fontWeight: 700, fontSize: '16px', letterSpacing: '-0.01em', whiteSpace: 'nowrap' }}>besenreiser-check.de</span>
+        <div style={{ display: 'flex', alignItems: 'center' }}>
+          <img src="/besenreiser-check-logo2.png" alt="besenreiser-check.de" style={{ height: '36px', width: 'auto', filter: 'brightness(0) invert(1)' }} />
         </div>
 
         <div className="hidden md:flex items-center gap-6">
