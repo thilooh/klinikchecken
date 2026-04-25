@@ -159,16 +159,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 ))}
               </div>
             </div>
-            <div style={{ position: 'absolute', top: '8px', right: '8px', display: 'flex', gap: '6px', zIndex: 2 }}>
-              {onToggleSelect && (
-                <button
-                  onClick={onToggleSelect}
-                  title={isSelected ? 'Aus Vergleich entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
-                  style={{ background: isSelected ? '#003399' : 'rgba(255,255,255,0.88)', border: isSelected ? '2px solid #003399' : 'none', borderRadius: '6px', padding: '4px 8px', display: 'flex', alignItems: 'center', gap: '4px', cursor: 'pointer', fontSize: '11px', fontWeight: 700, color: isSelected ? '#fff' : '#003399' }}
-                >
-                  {isSelected ? '✓ Ausgewählt' : '+ Vergleichen'}
-                </button>
-              )}
+            <div style={{ position: 'absolute', top: '8px', right: '8px', zIndex: 2 }}>
               <button onClick={() => setFavorited(f => !f)} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
                 <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
               </button>
@@ -225,6 +216,29 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </div>
           </div>
 
+          {onToggleSelect && (
+            <button
+              onClick={onToggleSelect}
+              style={{
+                display: 'flex', alignItems: 'center', gap: '10px', width: '100%',
+                backgroundColor: isSelected ? '#EEF4FF' : '#FAFAFA',
+                border: 'none', borderTop: `1.5px solid ${isSelected ? '#003399' : '#E8E8E8'}`,
+                padding: '11px 16px', cursor: 'pointer',
+                color: isSelected ? '#003399' : '#555', fontSize: '14px', fontWeight: isSelected ? 700 : 500,
+                textAlign: 'left',
+              }}
+            >
+              <span style={{
+                width: '20px', height: '20px', borderRadius: '5px', flexShrink: 0,
+                border: `2px solid ${isSelected ? '#003399' : '#BBB'}`,
+                backgroundColor: isSelected ? '#003399' : 'transparent',
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+              }}>
+                {isSelected && <span style={{ color: '#fff', fontSize: '12px', fontWeight: 900, lineHeight: 1 }}>✓</span>}
+              </span>
+              {isSelected ? 'Ausgewählt — tippen zum Entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
+            </button>
+          )}
           <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
             <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#003399', fontWeight: 600, fontSize: '15px', border: '1px solid #003399', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
             <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
@@ -256,16 +270,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 </div>
               ))}
             </div>
-            <div style={{ position: 'absolute', top: '8px', right: '8px', display: 'flex', gap: '5px', zIndex: 2 }}>
-              {onToggleSelect && (
-                <button
-                  onClick={onToggleSelect}
-                  title={isSelected ? 'Aus Vergleich entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
-                  style={{ background: isSelected ? '#003399' : 'rgba(255,255,255,0.88)', border: isSelected ? '2px solid #003399' : 'none', borderRadius: '6px', padding: '3px 7px', display: 'flex', alignItems: 'center', gap: '3px', cursor: 'pointer', fontSize: '10px', fontWeight: 700, color: isSelected ? '#fff' : '#003399' }}
-                >
-                  {isSelected ? '✓ Ausgewählt' : '+ Vergleichen'}
-                </button>
-              )}
+            <div style={{ position: 'absolute', top: '8px', right: '8px', zIndex: 2 }}>
               <button onClick={() => setFavorited(f => !f)} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
                 <Heart size={16} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
               </button>
@@ -337,7 +342,31 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               </div>
               <div>
                 <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
-                <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer' }}>Profil ansehen</button>
+                <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
+                {onToggleSelect && (
+                  <button
+                    onClick={onToggleSelect}
+                    style={{
+                      display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px',
+                      width: '160px', height: '32px',
+                      backgroundColor: isSelected ? '#003399' : '#fff',
+                      color: isSelected ? '#fff' : '#555',
+                      fontSize: '12px', fontWeight: isSelected ? 700 : 500,
+                      border: `1.5px solid ${isSelected ? '#003399' : '#CCC'}`,
+                      borderRadius: '4px', cursor: 'pointer',
+                    }}
+                  >
+                    <span style={{
+                      width: '14px', height: '14px', borderRadius: '3px', flexShrink: 0,
+                      border: `1.5px solid ${isSelected ? '#fff' : '#999'}`,
+                      backgroundColor: isSelected ? 'rgba(255,255,255,0.25)' : 'transparent',
+                      display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    }}>
+                      {isSelected && <span style={{ color: '#fff', fontSize: '9px', fontWeight: 900, lineHeight: 1 }}>✓</span>}
+                    </span>
+                    {isSelected ? 'Ausgewählt' : 'Vergleichen'}
+                  </button>
+                )}
               </div>
             </div>
           </div>
