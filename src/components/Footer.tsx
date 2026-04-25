@@ -1,7 +1,7 @@
 export default function Footer() {
   const cols = [
     {
-      title: 'Über aesthetiq.de',
+      title: 'Über Besenreiser-Check.de',
       text: 'Das Vergleichsportal für Besenreiser-Behandlungen in Deutschland - handverlesene Praxen, echte Bewertungen.',
       links: [
         { label: 'Über uns', href: '/ueber-uns' },
@@ -54,7 +54,7 @@ export default function Footer() {
 
         <div style={{ borderTop: '1px solid rgba(255,255,255,0.15)', padding: '14px 0', textAlign: 'center' }}>
           <span style={{ fontSize: '11px', color: '#7799DD' }}>
-            © 2025 aesthetiq.de · Kein medizinischer Rat · Made in Germany 🇩🇪
+            © 2025 Besenreiser-Check.de · Kein medizinischer Rat · Made in Germany 🇩🇪
           </span>
         </div>
       </div>

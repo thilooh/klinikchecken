@@ -19,8 +19,8 @@ export default function Navbar() {
             <ShieldCheck size={18} color="#fff" />
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.2 }}>
-            <span style={{ color: '#fff', fontWeight: 800, fontSize: '17px', letterSpacing: '-0.02em' }}>aesthetiq.de</span>
-            <span style={{ color: '#7A9CC8', fontSize: '11px', letterSpacing: '0.02em', textTransform: 'uppercase' }}>Geprüfte Schönheitsmedizin</span>
+            <span style={{ color: '#fff', fontWeight: 800, fontSize: '17px', letterSpacing: '-0.02em' }}>Besenreiser-Check.de</span>
+            <span style={{ color: '#7A9CC8', fontSize: '11px', letterSpacing: '0.02em', textTransform: 'uppercase' }}>Geprüfte Besenreiser-Spezialisten</span>
           </div>
         </div>
 

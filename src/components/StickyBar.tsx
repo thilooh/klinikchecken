@@ -37,14 +37,14 @@ export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF
                 </div>
               ))}
             </div>
-            <span style={{ color: '#fff', fontSize: '13px', fontWeight: 600, flex: 1 }}>{count} Praxis{count > 1 ? 'en' : ''} ausgewählt</span>
+            <span style={{ color: '#fff', fontSize: '13px', fontWeight: 600, flex: 1 }}>{count} {count > 1 ? 'Praxen' : 'Praxis'} ausgewählt</span>
             <button onClick={onClear} style={{ background: 'none', border: 'none', color: 'rgba(255,255,255,0.6)', cursor: 'pointer', fontSize: '20px', lineHeight: 1, padding: '0 2px' }} aria-label="Auswahl löschen">×</button>
           </div>
           <button onClick={onRequest} style={{
             width: '100%', backgroundColor: ctaColor, color: '#fff', fontWeight: 700,
             fontSize: '15px', border: 'none', borderRadius: '6px', padding: '13px', cursor: 'pointer',
           }}>
-            {count} Praxis{count > 1 ? 'en' : ''} gemeinsam anfragen →
+            {count} {count > 1 ? 'Praxen' : 'Praxis'} gemeinsam anfragen →
           </button>
         </div>
 
@@ -64,14 +64,14 @@ export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF
               </div>
             ))}
           </div>
-          <span style={{ color: '#fff', fontSize: '14px', fontWeight: 600 }}>{count} Praxis{count > 1 ? 'en' : ''} ausgewählt</span>
+          <span style={{ color: '#fff', fontSize: '14px', fontWeight: 600 }}>{count} {count > 1 ? 'Praxen' : 'Praxis'} ausgewählt</span>
           <button onClick={onClear} style={{ background: 'none', border: 'none', color: 'rgba(255,255,255,0.6)', cursor: 'pointer', fontSize: '13px', textDecoration: 'underline' }}>Auswahl löschen</button>
           <div style={{ flex: 1 }} />
           <button onClick={onRequest} style={{
             backgroundColor: ctaColor, color: '#fff', fontWeight: 700,
             fontSize: '15px', border: 'none', borderRadius: '6px', padding: '12px 28px', cursor: 'pointer',
           }}>
-            {count} Praxis{count > 1 ? 'en' : ''} gemeinsam anfragen →
+            {count} {count > 1 ? 'Praxen' : 'Praxis'} gemeinsam anfragen →
           </button>
         </div>
       </div>
