@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { X, Lock, CheckCircle2, Loader2 } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
+import { sendEvent } from '../lib/gtm'
 
 interface Props {
   clinic: Clinic | null
@@ -12,7 +13,7 @@ const SHEET_URL = import.meta.env.VITE_GOOGLE_SHEET_URL as string | undefined
 export default function InquiryModal({ clinic, onClose }: Props) {
   const [form, setForm] = useState({
     firstName: '', lastName: '', email: '', phone: '',
-    method: '', description: '', privacy: false, newsletter: false,
+    method: '', description: '', privacy: false,
   })
   const [submitted, setSubmitted] = useState(false)
   const [loading, setLoading] = useState(false)
@@ -41,10 +42,13 @@ export default function InquiryModal({ clinic, onClose }: Props) {
             phone: form.phone,
             method: form.method || 'Erstberatung',
             description: form.description,
-            newsletter: form.newsletter,
           }),
         })
       }
+      sendEvent('Lead',
+        { content_name: clinic.name, content_category: clinic.city, value: 1, currency: 'EUR' },
+        { email: form.email, phone: form.phone }
+      )
       setSubmitted(true)
     } catch {
       setError(true)
@@ -115,7 +119,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                   <option value="erstberatung">💬 Erstberatung – ich bin noch unsicher</option>
                   {clinic.methods.map(m => <option key={m} value={m}>{m}</option>)}
                 </select>
-                <div style={{ fontSize: '11px', color: '#999', marginTop: '4px' }}>Nicht sicher? Wählen Sie „Erstberatung“ – der Arzt empfiehlt die passende Methode.</div>
+                <div style={{ fontSize: '11px', color: '#999', marginTop: '4px' }}>Nicht sicher? Wählen Sie „Erstberatung" – der Arzt empfiehlt die passende Methode.</div>
               </div>
 
               <div style={{ marginBottom: '16px' }}>
@@ -123,18 +127,16 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                 <textarea value={form.description} onChange={e => setForm({ ...form, description: e.target.value })} rows={3} style={{ ...field, resize: 'vertical' }} placeholder="z.B. Besenreiser an beiden Beinen, ca. seit 3 Jahren…" />
               </div>
 
-              <label style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', fontSize: '12px', cursor: 'pointer', marginBottom: '8px' }}>
-                <input type="checkbox" checked={form.privacy} onChange={e => setForm({ ...form, privacy: e.target.checked })} style={{ marginTop: '2px', accentColor: '#003399' }} />
-                <span>
-                  Ich stimme zu, dass meine Anfragedaten zur Vermittlung an passende Kliniken weitergeleitet werden dürfen, und akzeptiere die{' '}
-                  <a href="/datenschutz" target="_blank" rel="noopener noreferrer" style={{ color: '#003399' }}>Datenschutzerklärung</a>
-                  {' '}sowie die{' '}
-                  <a href="/agb" target="_blank" rel="noopener noreferrer" style={{ color: '#003399' }}>AGB</a> *
-                </span>
-              </label>
               <label style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', fontSize: '12px', cursor: 'pointer', marginBottom: '20px' }}>
-                <input type="checkbox" checked={form.newsletter} onChange={e => setForm({ ...form, newsletter: e.target.checked })} style={{ marginTop: '2px', accentColor: '#003399' }} />
-                <span>Ich möchte Angebote von ähnlichen Kliniken erhalten</span>
+                <input type="checkbox" checked={form.privacy} onChange={e => setForm({ ...form, privacy: e.target.checked })} style={{ marginTop: '2px', accentColor: '#003399', flexShrink: 0 }} />
+                <span>
+                  Ich willige ein, dass meine Anfragedaten (Name, Kontaktdaten, gewünschte Behandlung) zur Weiterleitung an die ausgewählte Klinik verarbeitet werden.
+                  Sofern ich im Beschreibungsfeld gesundheitsbezogene Angaben mache, erkläre ich meine ausdrückliche Einwilligung in die Verarbeitung dieser Daten gemäß Art. 9 Abs. 2 lit. a DSGVO.
+                  Es gelten die{' '}
+                  <a href="/datenschutz" target="_blank" rel="noopener noreferrer" style={{ color: '#003399' }}>Datenschutzerklärung</a>
+                  {' '}und die{' '}
+                  <a href="/agb" target="_blank" rel="noopener noreferrer" style={{ color: '#003399' }}>AGB</a>. *
+                </span>
               </label>
 
               {error && (

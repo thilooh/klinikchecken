@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import type { FilterState } from '../types/clinic'
 import { ALL_METHODS } from '../data/clinics'
 
@@ -10,13 +11,24 @@ const S = {
   section: { borderBottom: '1px solid #EEEEEE', paddingBottom: '14px', marginBottom: '14px' } as React.CSSProperties,
   sectionTitle: { fontWeight: 700, fontSize: '12px', textTransform: 'uppercase' as const, color: '#333', marginBottom: '10px', letterSpacing: '0.5px' },
   label: { display: 'flex', alignItems: 'center', gap: '8px', fontSize: '13px', color: '#333', cursor: 'pointer', padding: '3px 0' } as React.CSSProperties,
+  hint: { fontSize: '11px', color: '#999', marginTop: '6px', lineHeight: '1.4' } as React.CSSProperties,
 }
+
+const METHOD_GUIDE = [
+  { name: 'Verödung', desc: 'Injektion eines Verschäumungsmittels direkt ins Gefäß – besonders effektiv für kleine bis mittelgroße Besenreiser.' },
+  { name: 'Nd:YAG Laser', desc: 'Laser-Energie durch die Haut – ideal für tiefere, blaue Adern und größere Gefäße.' },
+  { name: 'Diode Laser', desc: 'Ähnlich wie Nd:YAG, besonders schonend – gut bei heller Haut und feinen roten Äderchen.' },
+  { name: 'IPL', desc: 'Breitbandlicht für sehr feine, oberflächliche Rötungen und haarfädige Gefäße.' },
+  { name: 'Radiofrequenz', desc: 'Wärmebehandlung für hartnäckige Gefäße – wird oft kombiniert mit Verödung eingesetzt.' },
+]
 
 function StarDisplay({ count }: { count: number }) {
   return <span style={{ color: '#FFB400' }}>{'★'.repeat(count)}{'☆'.repeat(5 - count)}</span>
 }
 
 export default function Sidebar({ filters, setFilters }: Props) {
+  const [showMethodGuide, setShowMethodGuide] = useState(false)
+
   const methodMap: Record<string, string> = {
     'Verödung (Sklerotherapie)': 'verödung',
     'Laser (Nd:YAG)': 'nd:yag',
@@ -41,10 +53,9 @@ export default function Sidebar({ filters, setFilters }: Props) {
     setFilters({
       ...filters,
       selectedMethods: [],
-      priceRange: [50, 350],
-      minRating: 4,
+      minRating: 0,
       maxDistance: 10,
-      extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, parking: false, certified: true },
+      extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: true },
     })
   }
 
@@ -72,46 +83,27 @@ export default function Sidebar({ filters, setFilters }: Props) {
             </label>
           )
         })}
-      </div>
 
-      {/* Preis */}
-      <div style={S.section}>
-        <div style={S.sectionTitle}>Preis pro Sitzung</div>
-        <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px', fontSize: '13px', fontWeight: 700 }}>
-          <span>{filters.priceRange[0]} €</span>
-          <span>{filters.priceRange[1]} €</span>
-        </div>
-        <input
-          type="range"
-          min={50}
-          max={350}
-          value={filters.priceRange[0]}
-          onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })}
-          style={{ width: '100%', marginBottom: '6px', accentColor: '#003399' }}
-        />
-        <input
-          type="range"
-          min={50}
-          max={350}
-          value={filters.priceRange[1]}
-          onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })}
-          style={{ width: '100%', accentColor: '#003399' }}
-        />
-        <div style={{ display: 'flex', gap: '8px', marginTop: '8px' }}>
-          <input
-            type="number"
-            value={filters.priceRange[0]}
-            onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })}
-            style={{ width: '70px', border: '1px solid #DDD', borderRadius: '4px', padding: '4px 6px', fontSize: '12px' }}
-          />
-          <span style={{ alignSelf: 'center', color: '#999' }}>–</span>
-          <input
-            type="number"
-            value={filters.priceRange[1]}
-            onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })}
-            style={{ width: '70px', border: '1px solid #DDD', borderRadius: '4px', padding: '4px 6px', fontSize: '12px' }}
-          />
-        </div>
+        {/* Method guide toggle */}
+        <button
+          onClick={() => setShowMethodGuide(v => !v)}
+          style={{ marginTop: '8px', background: 'none', border: 'none', padding: 0, cursor: 'pointer', color: '#003399', fontSize: '11px', display: 'flex', alignItems: 'center', gap: '4px' }}
+        >
+          <span style={{ fontSize: '13px' }}>{showMethodGuide ? '▼' : '▶'}</span>
+          Welche Methode passt zu mir?
+        </button>
+
+        {showMethodGuide && (
+          <div style={{ marginTop: '8px', backgroundColor: '#F7F9FF', border: '1px solid #DDE3F5', borderRadius: '4px', padding: '10px' }}>
+            {METHOD_GUIDE.map(m => (
+              <div key={m.name} style={{ marginBottom: '8px' }}>
+                <div style={{ fontSize: '11px', fontWeight: 700, color: '#003399', marginBottom: '2px' }}>{m.name}</div>
+                <div style={{ fontSize: '11px', color: '#555', lineHeight: '1.4' }}>{m.desc}</div>
+              </div>
+            ))}
+            <div style={{ fontSize: '10px', color: '#999', marginTop: '4px', borderTop: '1px solid #DDE3F5', paddingTop: '6px' }}>Die beste Methode wird beim Erstberatungsgespräch individuell bestimmt.</div>
+          </div>
+        )}
       </div>
 
       {/* Bewertung */}
@@ -119,13 +111,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
         <div style={S.sectionTitle}>Bewertung</div>
         {[{ val: 0, label: 'Alle Bewertungen' }, { val: 3, label: '3+ Sterne' }, { val: 4, label: '4+ Sterne' }, { val: 5, label: '5 Sterne' }].map(opt => (
           <label key={opt.val} style={S.label}>
-            <input
-              type="radio"
-              name="rating"
-              checked={filters.minRating === opt.val}
-              onChange={() => setFilters({ ...filters, minRating: opt.val })}
-              style={{ accentColor: '#003399', cursor: 'pointer' }}
-            />
+            <input type="radio" name="rating" checked={filters.minRating === opt.val} onChange={() => setFilters({ ...filters, minRating: opt.val })} style={{ accentColor: '#003399', cursor: 'pointer' }} />
             {opt.val === 0 ? opt.label : <><StarDisplay count={opt.val} /> {opt.val}+ Sterne</>}
           </label>
         ))}
@@ -136,13 +122,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
         <div style={S.sectionTitle}>Entfernung</div>
         {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 999, label: 'beliebig' }].map(opt => (
           <label key={opt.val} style={S.label}>
-            <input
-              type="radio"
-              name="distance"
-              checked={filters.maxDistance === opt.val}
-              onChange={() => setFilters({ ...filters, maxDistance: opt.val })}
-              style={{ accentColor: '#003399', cursor: 'pointer' }}
-            />
+            <input type="radio" name="distance" checked={filters.maxDistance === opt.val} onChange={() => setFilters({ ...filters, maxDistance: opt.val })} style={{ accentColor: '#003399', cursor: 'pointer' }} />
             {opt.label}
           </label>
         ))}
@@ -155,19 +135,27 @@ export default function Sidebar({ filters, setFilters }: Props) {
           { key: 'freeConsultation' as const, label: 'Kostenlose Erstberatung' },
           { key: 'onlineBooking' as const, label: 'Online-Terminbuchung' },
           { key: 'evening' as const, label: 'Abendtermine verfügbar' },
-          { key: 'kassenpatient' as const, label: 'Kassenpatienten möglich' },
           { key: 'parking' as const, label: 'Parkplätze vorhanden' },
         ].map(item => (
           <label key={item.key} style={S.label}>
-            <input
-              type="checkbox"
-              checked={filters.extras[item.key]}
-              onChange={() => toggleExtra(item.key)}
-              style={{ accentColor: '#003399', cursor: 'pointer' }}
-            />
+            <input type="checkbox" checked={filters.extras[item.key]} onChange={() => toggleExtra(item.key)} style={{ accentColor: '#003399', cursor: 'pointer' }} />
             {item.label}
           </label>
         ))}
+      </div>
+
+      {/* Abrechnungsart */}
+      <div style={S.section}>
+        <div style={S.sectionTitle}>Abrechnungsart</div>
+        <label style={S.label}>
+          <input type="checkbox" checked={filters.extras.kassenpatient} onChange={() => toggleExtra('kassenpatient')} style={{ accentColor: '#003399', cursor: 'pointer' }} />
+          GKV-Abrechnung möglich
+        </label>
+        <label style={S.label}>
+          <input type="checkbox" checked={filters.extras.ratenzahlung} onChange={() => toggleExtra('ratenzahlung')} style={{ accentColor: '#003399', cursor: 'pointer' }} />
+          Ratenzahlung möglich
+        </label>
+        <div style={S.hint}>Besenreiser sind in der Regel keine GKV-Leistung und werden meist als IGeL privat abgerechnet.</div>
       </div>
 
       {/* Qualifikation */}
@@ -182,12 +170,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
           Phlebologe
         </label>
         <label style={S.label}>
-          <input
-            type="checkbox"
-            checked={filters.extras.certified}
-            onChange={() => toggleExtra('certified')}
-            style={{ accentColor: '#003399', cursor: 'pointer' }}
-          />
+          <input type="checkbox" checked={filters.extras.certified} onChange={() => toggleExtra('certified')} style={{ accentColor: '#003399', cursor: 'pointer' }} />
           Aesthetiq-zertifiziert
         </label>
       </div>

@@ -1,10 +1,14 @@
 import { useEffect, useState } from 'react'
-import type { Clinic } from '../types/clinic'
+import type { Clinic, FilterState } from '../types/clinic'
+import type { VariantConfig } from '../variants'
 import ClinicCard from './ClinicCard'
 
 interface Props {
   clinics: Clinic[]
   onInquire: (clinic: Clinic) => void
+  filters: FilterState
+  setFilters: (f: FilterState) => void
+  cardVariant: VariantConfig['card']
 }
 
 function SkeletonCard() {
@@ -26,7 +30,7 @@ function SkeletonCard() {
   )
 }
 
-export default function ClinicList({ clinics, onInquire }: Props) {
+export default function ClinicList({ clinics, onInquire, filters, setFilters, cardVariant }: Props) {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -34,12 +38,15 @@ export default function ClinicList({ clinics, onInquire }: Props) {
     return () => clearTimeout(t)
   }, [])
 
+  const handleMethodClick = (methodKey: string) => {
+    const newMethods = filters.selectedMethods.includes(methodKey)
+      ? filters.selectedMethods.filter(m => m !== methodKey)
+      : [...filters.selectedMethods, methodKey]
+    setFilters({ ...filters, selectedMethods: newMethods })
+  }
+
   if (loading) {
-    return (
-      <div>
-        {[1, 2, 3].map(i => <SkeletonCard key={i} />)}
-      </div>
-    )
+    return <div>{[1, 2, 3].map(i => <SkeletonCard key={i} />)}</div>
   }
 
   if (clinics.length === 0) {
@@ -54,8 +61,15 @@ export default function ClinicList({ clinics, onInquire }: Props) {
 
   return (
     <div>
-      {clinics.map(clinic => (
-        <ClinicCard key={clinic.id} clinic={clinic} onInquire={onInquire} />
+      {clinics.map((clinic) => (
+        <ClinicCard
+          key={clinic.id}
+          clinic={clinic}
+          onInquire={onInquire}
+          onMethodClick={handleMethodClick}
+          activeMethodKeys={filters.selectedMethods}
+          cardVariant={cardVariant}
+        />
       ))}
     </div>
   )
