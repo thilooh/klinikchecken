@@ -86,8 +86,6 @@ export default function App() {
   )
   const vt = VARIANTS[variant]
 
-  useEffect(() => { sendEvent('PageView') }, [])
-
   useEffect(() => {
     const cityParam = new URLSearchParams(window.location.search).get('city')
     if (cityParam) {
