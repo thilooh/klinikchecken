@@ -6,11 +6,13 @@ import { sendEvent } from '../lib/gtm'
 interface Props {
   clinic: Clinic | null
   onClose: () => void
+  ctaColor?: string
+  ctaVariant?: string
 }
 
 const SHEET_URL = import.meta.env.VITE_GOOGLE_SHEET_URL as string | undefined
 
-export default function InquiryModal({ clinic, onClose }: Props) {
+export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ctaVariant }: Props) {
   const [form, setForm] = useState({
     firstName: '', lastName: '', email: '', phone: '',
     method: '', description: '', privacy: false,
@@ -49,7 +51,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
         })
       }
       sendEvent('Lead',
-        { content_name: clinic.name, content_category: clinic.city, value: 1, currency: 'EUR' },
+        { content_name: clinic.name, content_category: clinic.city, value: 1, currency: 'EUR', cta_variant: ctaVariant },
         { email: form.email, phone: form.phone }
       )
       setSubmitted(true)
@@ -196,7 +198,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
               <button
                 onClick={handleSubmit}
                 disabled={!canSubmit || loading}
-                style={{ backgroundColor: canSubmit && !loading ? '#FF6600' : '#FFAA77', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '44px', width: '100%', cursor: canSubmit && !loading ? 'pointer' : 'not-allowed', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
+                style={{ backgroundColor: ctaColor, opacity: canSubmit && !loading ? 1 : 0.5, color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '44px', width: '100%', cursor: canSubmit && !loading ? 'pointer' : 'not-allowed', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
               >
                 {loading ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</> : 'Jetzt anfragen - die Praxis meldet sich'}
               </button>

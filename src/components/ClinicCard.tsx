@@ -14,6 +14,7 @@ interface Props {
   cardVariant?: VariantConfig['card']
   isSelected?: boolean
   onToggleSelect?: () => void
+  ctaColor?: string
 }
 
 function getClinicBadges(clinic: Clinic, badge: string) {
@@ -74,7 +75,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
   )
 }
 
-export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect }: Props) {
+export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600' }: Props) {
   const vt = cardVariant ?? VARIANTS.a.card
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
@@ -240,8 +241,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </button>
           )}
           <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
-            <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#003399', fontWeight: 600, fontSize: '15px', border: '1px solid #003399', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
-            <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
+            <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#666', fontWeight: 500, fontSize: '15px', border: '1px solid #CCC', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
+            <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
           </div>
         </div>
 
@@ -341,8 +342,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 )}
               </div>
               <div>
-                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
-                <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
+                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
+                <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#666', fontSize: '13px', border: '1px solid #CCC', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
                 {onToggleSelect && (
                   <button
                     onClick={onToggleSelect}

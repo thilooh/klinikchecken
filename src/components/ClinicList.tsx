@@ -11,6 +11,7 @@ interface Props {
   cardVariant: VariantConfig['card']
   selectedIds: Set<number>
   onToggleSelect: (clinic: Clinic) => void
+  ctaColor: string
 }
 
 function SkeletonCard() {
@@ -32,7 +33,7 @@ function SkeletonCard() {
   )
 }
 
-export default function ClinicList({ clinics, onInquire, filters, setFilters, cardVariant, selectedIds, onToggleSelect }: Props) {
+export default function ClinicList({ clinics, onInquire, filters, setFilters, cardVariant, selectedIds, onToggleSelect, ctaColor }: Props) {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -73,6 +74,7 @@ export default function ClinicList({ clinics, onInquire, filters, setFilters, ca
           cardVariant={cardVariant}
           isSelected={selectedIds.has(clinic.id)}
           onToggleSelect={() => onToggleSelect(clinic)}
+          ctaColor={ctaColor}
         />
       ))}
     </div>

@@ -4,9 +4,10 @@ interface Props {
   clinics: Clinic[]
   onRequest: () => void
   onClear: () => void
+  ctaColor?: string
 }
 
-export default function StickyBar({ clinics, onRequest, onClear }: Props) {
+export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF6600' }: Props) {
   const count = clinics.length
   if (count === 0) return null
 
@@ -40,7 +41,7 @@ export default function StickyBar({ clinics, onRequest, onClear }: Props) {
             <button onClick={onClear} style={{ background: 'none', border: 'none', color: 'rgba(255,255,255,0.6)', cursor: 'pointer', fontSize: '20px', lineHeight: 1, padding: '0 2px' }} aria-label="Auswahl löschen">×</button>
           </div>
           <button onClick={onRequest} style={{
-            width: '100%', backgroundColor: '#FF6600', color: '#fff', fontWeight: 700,
+            width: '100%', backgroundColor: ctaColor, color: '#fff', fontWeight: 700,
             fontSize: '15px', border: 'none', borderRadius: '6px', padding: '13px', cursor: 'pointer',
           }}>
             {count} Praxis{count > 1 ? 'en' : ''} gemeinsam anfragen →
@@ -67,7 +68,7 @@ export default function StickyBar({ clinics, onRequest, onClear }: Props) {
           <button onClick={onClear} style={{ background: 'none', border: 'none', color: 'rgba(255,255,255,0.6)', cursor: 'pointer', fontSize: '13px', textDecoration: 'underline' }}>Auswahl löschen</button>
           <div style={{ flex: 1 }} />
           <button onClick={onRequest} style={{
-            backgroundColor: '#FF6600', color: '#fff', fontWeight: 700,
+            backgroundColor: ctaColor, color: '#fff', fontWeight: 700,
             fontSize: '15px', border: 'none', borderRadius: '6px', padding: '12px 28px', cursor: 'pointer',
           }}>
             {count} Praxis{count > 1 ? 'en' : ''} gemeinsam anfragen →

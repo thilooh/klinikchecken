@@ -7,11 +7,13 @@ interface Props {
   clinics: Clinic[]
   onClose: () => void
   onClearSelection: () => void
+  ctaColor?: string
+  ctaVariant?: string
 }
 
 const SHEET_URL = import.meta.env.VITE_GOOGLE_SHEET_URL as string | undefined
 
-export default function MultiInquiryModal({ clinics, onClose, onClearSelection }: Props) {
+export default function MultiInquiryModal({ clinics, onClose, onClearSelection, ctaColor = '#FF6600', ctaVariant }: Props) {
   const [form, setForm] = useState({
     firstName: '', lastName: '', email: '', phone: '',
     method: '', description: '', privacy: false,
@@ -56,6 +58,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection }
         currency: 'EUR',
         multi_inquiry: true,
         inquiry_count: clinics.length,
+        cta_variant: ctaVariant,
       }, { email: form.email, phone: form.phone })
       setSubmitted(true)
       onClearSelection()
@@ -225,7 +228,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection }
               <button
                 onClick={handleSubmit}
                 disabled={!canSubmit || loading}
-                style={{ backgroundColor: canSubmit && !loading ? '#FF6600' : '#FFAA77', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '44px', width: '100%', cursor: canSubmit && !loading ? 'pointer' : 'not-allowed', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
+                style={{ backgroundColor: ctaColor, opacity: canSubmit && !loading ? 1 : 0.5, color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '44px', width: '100%', cursor: canSubmit && !loading ? 'pointer' : 'not-allowed', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
               >
                 {loading
                   ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</>

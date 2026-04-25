@@ -18,6 +18,8 @@ import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
 import { sendEvent } from './lib/gtm'
 import { loadGTM, getConsent } from './lib/consent'
+import { getCTAVariant, getCTAColor } from './lib/ctaVariant'
+import type { CTAVariant } from './lib/ctaVariant'
 
 // Match a raw city string or PLZ (from {{adset.name}}, geo API, etc.) to a supported city.
 // Meta tip: name ad sets by city and use ?city={{adset.name}} - Meta substitutes it reliably.
@@ -94,9 +96,13 @@ export default function App() {
     parseVariant(new URLSearchParams(window.location.search).get('v'))
   )
   const vt = VARIANTS[variant]
+  const [ctaVariant] = useState<CTAVariant>(() => getCTAVariant())
+  const ctaColor = getCTAColor(ctaVariant)
 
   useEffect(() => {
     loadGTM()
+    window.dataLayer = window.dataLayer || []
+    window.dataLayer.push({ event: 'cta_variant_assigned', cta_variant: ctaVariant })
   }, [])
 
   useEffect(() => {
@@ -175,14 +181,14 @@ export default function App() {
                 setFilters={handleSetFilters}
                 onOpenFilter={openFilter}
               />
-              <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} selectedIds={selectedIds} onToggleSelect={toggleSelection} />
+              <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} selectedIds={selectedIds} onToggleSelect={toggleSelection} ctaColor={ctaColor} />
             </div>
           </div>
         </div>
       </main>
       <InfoSection />
       <Footer />
-      <InquiryModal clinic={selectedClinic} onClose={() => setSelectedClinic(null)} />
+      <InquiryModal clinic={selectedClinic} onClose={() => setSelectedClinic(null)} ctaColor={ctaColor} ctaVariant={ctaVariant} />
       {mobileFilterOpen && (
         <MobileFilterSheet
           filters={filters}
@@ -202,12 +208,15 @@ export default function App() {
         clinics={selectedClinics}
         onRequest={() => setShowMultiModal(true)}
         onClear={() => setSelectedIds(new Set())}
+        ctaColor={ctaColor}
       />
       {showMultiModal && (
         <MultiInquiryModal
           clinics={selectedClinics}
           onClose={() => setShowMultiModal(false)}
           onClearSelection={() => { setSelectedIds(new Set()); setShowMultiModal(false) }}
+          ctaColor={ctaColor}
+          ctaVariant={ctaVariant}
         />
       )}
       {selectToast && (
