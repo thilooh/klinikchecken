@@ -53,8 +53,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
     setFilters({
       ...filters,
       selectedMethods: [],
-      priceRange: [50, 350],
-      minRating: 4,
+      minRating: 0,
       maxDistance: 10,
       extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: true },
     })
@@ -105,23 +104,6 @@ export default function Sidebar({ filters, setFilters }: Props) {
             <div style={{ fontSize: '10px', color: '#999', marginTop: '4px', borderTop: '1px solid #DDE3F5', paddingTop: '6px' }}>Die beste Methode wird beim Erstberatungsgespräch individuell bestimmt.</div>
           </div>
         )}
-      </div>
-
-      {/* Preis */}
-      <div style={S.section}>
-        <div style={S.sectionTitle}>Preis pro Sitzung</div>
-        <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px', fontSize: '13px', fontWeight: 700 }}>
-          <span>{filters.priceRange[0]} €</span>
-          <span>{filters.priceRange[1]} €</span>
-        </div>
-        <input type="range" min={50} max={350} value={filters.priceRange[0]} onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })} style={{ width: '100%', marginBottom: '6px', accentColor: '#003399' }} />
-        <input type="range" min={50} max={350} value={filters.priceRange[1]} onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })} style={{ width: '100%', accentColor: '#003399' }} />
-        <div style={{ display: 'flex', gap: '8px', marginTop: '8px' }}>
-          <input type="number" value={filters.priceRange[0]} onChange={e => setFilters({ ...filters, priceRange: [Number(e.target.value), filters.priceRange[1]] })} style={{ width: '70px', border: '1px solid #DDD', borderRadius: '4px', padding: '4px 6px', fontSize: '12px' }} />
-          <span style={{ alignSelf: 'center', color: '#999' }}>&ndash;</span>
-          <input type="number" value={filters.priceRange[1]} onChange={e => setFilters({ ...filters, priceRange: [filters.priceRange[0], Number(e.target.value)] })} style={{ width: '70px', border: '1px solid #DDD', borderRadius: '4px', padding: '4px 6px', fontSize: '12px' }} />
-        </div>
-        <div style={S.hint}>Preise variieren je nach Ausdehnung der Behandlung.</div>
       </div>
 
       {/* Bewertung */}
@@ -189,7 +171,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
         </label>
         <label style={S.label}>
           <input type="checkbox" checked={filters.extras.certified} onChange={() => toggleExtra('certified')} style={{ accentColor: '#003399', cursor: 'pointer' }} />
-          Aesthetiq-zertifiziert
+          Geprüft & empfohlen
         </label>
       </div>
     </aside>

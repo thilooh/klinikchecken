@@ -1,38 +1,38 @@
 import { useState } from 'react'
-import { MapPin, Heart, Clock, ExternalLink } from 'lucide-react'
+import { MapPin, Heart, ChevronLeft, ChevronRight } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
+import type { VariantConfig } from '../variants'
+import { VARIANTS } from '../variants'
 import GoogleReviewsModal from './GoogleReviewsModal'
+import ClinicProfileModal from './ClinicProfileModal'
 
 interface Props {
   clinic: Clinic
   onInquire: (clinic: Clinic) => void
   onMethodClick: (methodKey: string) => void
   activeMethodKeys: string[]
-  showCertifiedBadge: boolean
+  cardVariant?: VariantConfig['card']
+  isSelected?: boolean
+  onToggleSelect?: () => void
+  ctaColor?: string
 }
 
-const TAG_TO_METHOD_KEY: Record<string, string> = {
-  'Verödung': 'verödung',
-  'Nd:YAG Laser': 'nd:yag',
-  'IPL-Behandlung': 'ipl',
-  'Radiofrequenz': 'radiofrequenz',
-  'Diode Laser': 'diode',
+function getClinicBadges(clinic: Clinic, badge: string) {
+  const badges: { label: string; bg: string }[] = []
+  if (clinic.googleRating && clinic.googleRating >= 4.8)
+    badges.push({ label: badge, bg: '#D97706' })
+  return badges
 }
 
-function Stars({ rating, size = 13 }: { rating: number; size?: number }) {
+
+function Stars({ rating, size = 14 }: { rating: number; size?: number }) {
   const full = Math.floor(rating)
   const half = rating % 1 >= 0.5
-  return (
-    <span>
-      {Array.from({ length: 5 }, (_, i) => (
-        <span key={i} style={{ color: i < full || (i === full && half) ? '#FFB400' : '#DDD', fontSize: size }}>★</span>
-      ))}
-    </span>
-  )
+  return <span>{Array.from({ length: 5 }, (_, i) => <span key={i} style={{ color: i < full || (i === full && half) ? '#FFB400' : '#DDD', fontSize: size }}>★</span>)}</span>
 }
 
 const GIcon = () => (
-  <svg width="13" height="13" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style={{ flexShrink: 0 }}>
+  <svg width="14" height="14" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style={{ flexShrink: 0 }}>
     <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>
     <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
     <path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z" fill="#FBBC05"/>
@@ -40,179 +40,342 @@ const GIcon = () => (
   </svg>
 )
 
-export default function ClinicCard({ clinic, onInquire, onMethodClick, activeMethodKeys, showCertifiedBadge }: Props) {
+function ClinicTags({ clinic, small }: { clinic: Clinic; small?: boolean }) {
+  const tags = [
+    clinic.freeConsultation && { label: 'Kostenlose Erstberatung', bg: '#00A651', color: '#fff' },
+    clinic.onlineBooking    && { label: 'Online-Buchung',           bg: '#E8F0FF', color: '#003399' },
+    clinic.eveningAppointments && { label: 'Abendtermine',          bg: '#FFF3E0', color: '#B45309' },
+    clinic.ratenzahlung     && { label: 'Ratenzahlung',             bg: '#F3E8FF', color: '#6B21A8' },
+    clinic.parking          && { label: 'Parkplätze',               bg: '#F0F0F0', color: '#444'    },
+    /\bSa\b/.test(clinic.openHours) && { label: 'Sa geöffnet',      bg: '#FFF8E1', color: '#92400E' },
+  ].filter(Boolean) as { label: string; bg: string; color: string }[]
+
+  if (!tags.length) return null
+  const pad = small ? '2px 7px' : '4px 10px'
+  const fs = small ? '11px' : '12px'
+  return (
+    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: small ? '8px' : '10px' }}>
+      {tags.map(t => (
+        <span key={t.label} style={{ backgroundColor: t.bg, color: t.color, fontSize: fs, fontWeight: 600, padding: pad, borderRadius: '4px' }}>{t.label}</span>
+      ))}
+    </div>
+  )
+}
+
+function USPs({ items, small }: { items: string[]; small?: boolean }) {
+  return (
+    <div style={{ marginBottom: small ? '6px' : '10px' }}>
+      {items.map((item, i) => (
+        <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '6px', marginBottom: small ? '3px' : '4px' }}>
+          <span style={{ color: '#00A651', flexShrink: 0, fontWeight: 700, fontSize: small ? '12px' : '14px', lineHeight: small ? '18px' : '20px' }}>✓</span>
+          <span style={{ fontSize: small ? '12px' : '14px', color: '#444', lineHeight: 1.45 }}>{item}</span>
+        </div>
+      ))}
+    </div>
+  )
+}
+
+export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600' }: Props) {
+  const vt = cardVariant ?? VARIANTS.a.card
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
+  const [showProfile, setShowProfile] = useState(false)
+  const [slide, setSlide] = useState(0)
+  const [touchStart, setTouchStart] = useState<number | null>(null)
+  const [touchStartY, setTouchStartY] = useState<number | null>(null)
+
+  type Slide =
+    | { type: 'logo'; src: string }
+    | { type: 'photo'; src: string }
+    | { type: 'placeholder'; bg: string; icon: string; label: string }
+
+  const m = clinic.media
+  const slides: Slide[] = [
+    m?.logo
+      ? { type: 'logo', src: m.logo }
+      : { type: 'placeholder', bg: 'linear-gradient(135deg, #F5F7FA 0%, #E8ECF2 100%)', icon: '🏥', label: 'Logo' },
+    m?.streetview
+      ? { type: 'photo', src: m.streetview }
+      : { type: 'placeholder', bg: 'linear-gradient(135deg, #E2EBF5 0%, #C0D2E8 100%)', icon: '📍', label: 'Außenansicht' },
+    m?.map
+      ? { type: 'photo', src: m.map }
+      : { type: 'placeholder', bg: 'linear-gradient(135deg, #E2F0E8 0%, #B8DECE 100%)', icon: '🗺', label: 'Lageplan' },
+  ]
+
+  const onTouchStart = (e: React.TouchEvent) => {
+    setTouchStart(e.touches[0].clientX)
+    setTouchStartY(e.touches[0].clientY)
+  }
+  const onTouchEnd = (e: React.TouchEvent) => {
+    if (touchStart === null || touchStartY === null) return
+    const diffX = touchStart - e.changedTouches[0].clientX
+    const diffY = touchStartY - e.changedTouches[0].clientY
+    if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > 40)
+      setSlide(s => diffX > 0 ? Math.min(s + 1, slides.length - 1) : Math.max(s - 1, 0))
+    setTouchStart(null)
+    setTouchStartY(null)
+  }
+
+  const Dots = ({ small }: { small?: boolean }) => (
+    <div style={{ display: 'flex', gap: small ? '3px' : '5px', alignItems: 'center', justifyContent: 'center' }}>
+      {slides.map((_, i) => (
+        <button key={i} onClick={() => setSlide(i)} style={{
+          width: small ? '5px' : (i === slide ? '16px' : '6px'), height: small ? '5px' : '6px',
+          borderRadius: small ? '50%' : '3px',
+          backgroundColor: i === slide ? (small ? '#003399' : '#fff') : (small ? 'rgba(0,0,0,0.18)' : 'rgba(255,255,255,0.5)'),
+          border: 'none', cursor: 'pointer', padding: 0, transition: 'all 0.2s', flexShrink: 0,
+        }} />
+      ))}
+    </div>
+  )
 
   return (
     <>
-      <div
-        className="card-hover fade-in p-0 sm:p-3"
-        style={{
-          backgroundColor: clinic.featured ? '#FFFDF0' : '#fff',
-          border: clinic.featured ? '1px solid #DDC' : '1px solid #DDDDDD',
-          borderTop: showCertifiedBadge ? '3px solid #FFB400' : undefined,
-          borderRadius: '6px',
-          position: 'relative',
-          marginBottom: '10px',
-          overflow: 'hidden',
-        }}
-      >
+      <div className="card-hover fade-in p-0" style={{
+        backgroundColor: clinic.featured ? '#FFFDF0' : '#fff',
+        border: clinic.featured ? '1px solid #DDC' : '1px solid #DDDDDD',
+        borderRadius: '6px', position: 'relative', marginBottom: '10px', overflow: 'hidden',
+      }}>
 
-        {/* ====== MOBILE LAYOUT (Treatwell-style) ====== */}
+        {/* ====== MOBILE ====== */}
         <div className="block sm:hidden">
-          {/* Full-width image */}
-          <div style={{ position: 'relative', width: '100%', paddingTop: '52%', backgroundColor: '#C8D8EC' }}>
-            <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, #E2EBF5 0%, #C0D2E8 100%)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column', gap: '4px' }}>
-              <span style={{ fontSize: '40px' }}>📷</span>
-              <span style={{ fontSize: '11px', color: '#9AAABB' }}>Praxis-Fotos</span>
-            </div>
-            {showCertifiedBadge && (
-              <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 12px', zIndex: 1 }}>
-                ✓ aesthetiq-zertifiziert
+          <div style={{ position: 'relative', width: '100%', paddingTop: '56%', overflow: 'hidden', touchAction: 'pan-y' }}
+            onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
+            <div style={{ position: 'absolute', inset: 0 }}>
+              <div style={{ display: 'flex', width: `calc(100% * ${slides.length})`, height: '100%', transform: `translateX(-${slide * 100 / slides.length}%)`, transition: 'transform 0.3s ease' }}>
+                {slides.map((s, i) => (
+                  <div key={i} style={{ width: `calc(100% / ${slides.length})`, height: '100%', flexShrink: 0 }}>
+                    {s.type === 'logo'
+                      ? <div style={{ width: '100%', height: '100%', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}>
+                          <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                        </div>
+                      : s.type === 'photo'
+                        ? <img src={s.src} alt="Praxisfoto" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                        : <div style={{ width: '100%', height: '100%', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
+                            <span style={{ fontSize: '38px' }}>{s.icon}</span>
+                            <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                          </div>
+                    }
+                  </div>
+                ))}
               </div>
-            )}
-            <button onClick={() => setFavorited(!favorited)} style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '34px', height: '34px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 1 }}>
-              <Heart size={17} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
-            </button>
-          </div>
-
-          {/* Info */}
-          <div style={{ padding: '12px 14px 8px' }}>
-            <a href="#" style={{ color: '#111', fontWeight: 700, fontSize: '16px', textDecoration: 'none', display: 'block', marginBottom: '5px', lineHeight: 1.3 }}>
-              {clinic.name}
-            </a>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '6px', flexWrap: 'wrap' }}>
-              <GIcon />
-              <Stars rating={clinic.googleRating} size={14} />
-              <span style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
-              <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', color: '#003399', fontSize: '12px', textDecoration: 'underline' }}>
-                {clinic.googleReviewCount} Bewertungen
+            </div>
+            <div style={{ position: 'absolute', top: '8px', right: '8px', zIndex: 2 }}>
+              <button onClick={() => setFavorited(f => !f)} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
+                <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
               </button>
             </div>
-            <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#666', fontSize: '13px', marginBottom: '3px' }}>
-              <MapPin size={13} style={{ flexShrink: 0, marginTop: '1px' }} />
-              <span>{clinic.address} · {clinic.distanceKm} km</span>
+            {slide > 0 && (
+              <button onClick={() => setSlide(s => s - 1)} style={{ position: 'absolute', left: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+                <ChevronLeft size={16} color="#333" />
+              </button>
+            )}
+            {slide < slides.length - 1 && (
+              <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+                <ChevronRight size={16} color="#333" />
+              </button>
+            )}
+            {getClinicBadges(clinic, vt.badge).length > 0 && (
+              <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
+                {getClinicBadges(clinic, vt.badge).map(b => (
+                  <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
+                ))}
+              </div>
+            )}
+            <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
+          </div>
+
+          <div style={{ padding: '14px 16px 10px' }}>
+            <button onClick={() => setShowProfile(true)} style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left', width: '100%' }}>{clinic.name}</button>
+            <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{vt.subline(clinic)}</div>
+            {clinic.googleRating ? (
+              <>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
+                  <GIcon />
+                  <Stars rating={clinic.googleRating} size={16} />
+                  <span style={{ fontWeight: 700, fontSize: '16px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
+                </div>
+                {clinic.placeId && (
+                  <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}>
+                    <span style={{ color: '#003399', fontSize: '13px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
+                    <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                  </button>
+                )}
+              </>
+            ) : (
+              <div style={{ marginBottom: '10px' }} />
+            )}
+            <div style={{ display: 'flex', alignItems: 'flex-start', gap: '5px', color: '#555', fontSize: '14px', marginBottom: '4px' }}>
+              <MapPin size={14} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
             </div>
-            <div style={{ color: '#888', fontSize: '12px', marginBottom: '8px' }}>{clinic.doctor} · {clinic.qualification}</div>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', alignItems: 'center', marginBottom: '8px' }}>
-              {clinic.freeConsultation && (
-                <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '3px 8px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>
-              )}
-              {clinic.onlineBooking && (
-                <span style={{ backgroundColor: '#E8F0FF', color: '#003399', fontSize: '11px', padding: '3px 8px', borderRadius: '4px' }}>Online-Buchung</span>
-              )}
-            </div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '5px' }}>
-              {clinic.openToday
-                ? <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#00A651', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#00A651', fontSize: '12px' }}>Heute geöffnet: {clinic.openHours}</span></>
-                : <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#CC0000', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#CC0000', fontSize: '12px' }}>Heute geschlossen</span></>
-              }
+            <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.4 }}>🎯 <span style={{ fontWeight: 600 }}>Schwerpunkt:</span> {clinic.methods.join(' · ')}</div>
+            <USPs items={clinic.usp} />
+            <ClinicTags clinic={clinic} />
+            <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: clinic.openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
+              <span style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
             </div>
           </div>
 
-          {/* Price + CTA */}
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '10px 14px 14px', borderTop: '1px solid #EEEEEE' }}>
-            <div>
-              <div style={{ display: 'flex', alignItems: 'baseline', gap: '2px' }}>
-                <span style={{ fontSize: '11px', color: '#888' }}>ab</span>
-                <span style={{ fontWeight: 700, fontSize: '24px', color: '#111', whiteSpace: 'nowrap' }}> {clinic.priceFrom} €</span>
-              </div>
-              <div style={{ fontSize: '11px', color: '#888', marginTop: '-2px' }}>/ Sitzung</div>
-              {clinic.packagePrice && <div style={{ fontSize: '11px', color: '#00A651', marginTop: '2px', whiteSpace: 'nowrap' }}>3x: {clinic.packagePrice} €</div>}
-            </div>
-            <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '4px', padding: '13px 22px', cursor: 'pointer', whiteSpace: 'nowrap' }}>
-              Jetzt anfragen
+          {onToggleSelect && (
+            <button
+              onClick={onToggleSelect}
+              style={{
+                display: 'flex', alignItems: 'center', gap: '10px', width: '100%',
+                backgroundColor: isSelected ? '#EEF4FF' : '#FAFAFA',
+                border: 'none', borderTop: `1.5px solid ${isSelected ? '#003399' : '#E8E8E8'}`,
+                padding: '11px 16px', cursor: 'pointer',
+                color: isSelected ? '#003399' : '#555', fontSize: '14px', fontWeight: isSelected ? 700 : 500,
+                textAlign: 'left',
+              }}
+            >
+              <span style={{
+                width: '20px', height: '20px', borderRadius: '5px', flexShrink: 0,
+                border: `2px solid ${isSelected ? '#003399' : '#BBB'}`,
+                backgroundColor: isSelected ? '#003399' : 'transparent',
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+              }}>
+                {isSelected && <span style={{ color: '#fff', fontSize: '12px', fontWeight: 900, lineHeight: 1 }}>✓</span>}
+              </span>
+              {isSelected ? 'Ausgewählt - tippen zum Entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
             </button>
+          )}
+          <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
+            <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#666', fontWeight: 500, fontSize: '15px', border: '1px solid #CCC', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
+            <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
           </div>
         </div>
 
-        {/* ====== DESKTOP LAYOUT (4-column) ====== */}
-        <div className="hidden sm:block">
-          {showCertifiedBadge && (
-            <div style={{ position: 'absolute', top: 0, left: 0, backgroundColor: '#FFB400', color: '#fff', fontSize: '11px', fontWeight: 700, padding: '2px 10px', borderRadius: '0 0 4px 0', lineHeight: '20px', zIndex: 1 }}>
-              ✓ aesthetiq-zertifiziert
+        {/* ====== DESKTOP ====== */}
+        <div className="hidden sm:flex">
+          {/* Image carousel – fixed 220x220 square */}
+          <div
+            style={{ flexShrink: 0, width: '220px', height: '220px', alignSelf: 'flex-start', position: 'relative', overflow: 'hidden' }}
+            onTouchStart={onTouchStart}
+            onTouchEnd={onTouchEnd}
+          >
+            <div style={{ position: 'absolute', inset: 0, display: 'flex', transform: `translateX(-${slide * 220}px)`, transition: 'transform 0.3s ease' }}>
+              {slides.map((s, i) => (
+                <div key={i} style={{ minWidth: '220px', height: '220px', flexShrink: 0 }}>
+                  {s.type === 'logo'
+                    ? <div style={{ width: '220px', height: '220px', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '20px' }}>
+                        <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                      </div>
+                    : s.type === 'photo'
+                      ? <img src={s.src} alt="Praxisfoto" style={{ width: '220px', height: '220px', objectFit: 'cover', display: 'block' }} />
+                      : <div style={{ width: '220px', height: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+                          <span style={{ fontSize: '40px' }}>{s.icon}</span>
+                          <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
+                        </div>
+                  }
+                </div>
+              ))}
             </div>
-          )}
-          <button onClick={() => setFavorited(!favorited)} style={{ position: 'absolute', top: showCertifiedBadge ? '26px' : '10px', right: '10px', background: 'none', border: 'none', cursor: 'pointer', padding: '4px', zIndex: 1 }}>
-            <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#CCC'} />
-          </button>
-
-          <div style={{ display: 'flex', gap: '12px', marginTop: showCertifiedBadge ? '14px' : '0' }}>
-            {/* Col 1: Image + Google */}
-            <div style={{ flexShrink: 0, textAlign: 'center', width: '70px' }}>
-              <div style={{ width: '70px', height: '70px', borderRadius: '4px', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '6px', background: 'linear-gradient(135deg, #E8EEF4 0%, #D0DCE8 100%)' }}>
-                <span style={{ fontSize: '20px' }}>📷</span>
-              </div>
-              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '3px', marginBottom: '1px' }}>
-                <GIcon />
-                <Stars rating={clinic.googleRating} size={10} />
-              </div>
-              <div style={{ fontSize: '12px', fontWeight: 700, color: '#111', lineHeight: 1.2 }}>{clinic.googleRating.toFixed(1)}</div>
-              <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', color: '#003399', fontSize: '11px', textDecoration: 'underline' }}>
-                {clinic.googleReviewCount} Bew.
+            <div style={{ position: 'absolute', top: '8px', right: '8px', zIndex: 2 }}>
+              <button onClick={() => setFavorited(f => !f)} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
+                <Heart size={16} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
               </button>
             </div>
+            {slide > 0 && (
+              <button onClick={() => setSlide(s => s - 1)} style={{ position: 'absolute', left: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+                <ChevronLeft size={14} color="#333" />
+              </button>
+            )}
+            {slide < slides.length - 1 && (
+              <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+                <ChevronRight size={14} color="#333" />
+              </button>
+            )}
+            {getClinicBadges(clinic, vt.badge).length > 0 && (
+              <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
+                {getClinicBadges(clinic, vt.badge).map(b => (
+                  <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
+                ))}
+              </div>
+            )}
+            <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
+          </div>
 
-            {/* Col 2: Info */}
-            <div style={{ flex: 1, minWidth: 0, paddingRight: '26px' }}>
-              <a href="#" style={{ color: '#003399', fontWeight: 700, fontSize: '14px', textDecoration: 'none', display: 'block', marginBottom: '3px', lineHeight: 1.3 }}>
-                {clinic.name}
-              </a>
-              {clinic.freeConsultation && (
-                <span style={{ display: 'inline-block', backgroundColor: '#00A651', color: '#fff', fontSize: '11px', fontWeight: 600, padding: '2px 7px', borderRadius: '4px', marginBottom: '4px' }}>Kostenlose Erstberatung</span>
+          {/* Content */}
+          <div style={{ flex: 1, display: 'flex', gap: '0', padding: '14px 12px 14px 16px', minHeight: '200px' }}>
+            {/* Col 2 – main info + all 3 USPs */}
+            <div style={{ flex: 1, minWidth: 0, paddingRight: '16px' }}>
+              <button onClick={() => setShowProfile(true)} style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left' }}>{clinic.name}</button>
+              <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{vt.subline(clinic)}</div>
+
+              {/* Single rating row: G icon · stars · score · review link · badge */}
+              {clinic.googleRating ? (
+                <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px', flexWrap: 'wrap' }}>
+                  <GIcon />
+                  <Stars rating={clinic.googleRating} size={14} />
+                  <span style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
+                  {clinic.placeId && (
+                    <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '2px' }}>
+                      <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Bewertungen lesen</span>
+                      <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                    </button>
+                  )}
+                </div>
+              ) : (
+                <div style={{ marginBottom: '8px' }} />
               )}
-              <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#666', fontSize: '12px', marginBottom: '2px' }}>
-                <MapPin size={11} style={{ flexShrink: 0, marginTop: '1px' }} />
-                <span style={{ lineHeight: 1.3 }}>{clinic.address} · {clinic.distanceKm} km</span>
-              </div>
-              <div style={{ color: '#666', fontSize: '12px', marginBottom: '4px', lineHeight: 1.3 }}>{clinic.doctor} · {clinic.qualification}</div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '5px' }}>
-                {clinic.openToday
-                  ? <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#00A651', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#00A651', fontSize: '12px' }}>Heute geöffnet: {clinic.openHours}</span></>
-                  : <><span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#CC0000', display: 'inline-block', flexShrink: 0 }} /><span style={{ color: '#CC0000', fontSize: '12px' }}>Heute geschlossen</span></>
-                }
-              </div>
-            </div>
 
-            {/* Col 3: Methods */}
-            <div style={{ minWidth: '150px', maxWidth: '190px' }}>
-              <div style={{ color: '#888', fontSize: '11px', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '6px' }}>Verfügbare Methoden</div>
-              <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px', marginBottom: '8px' }}>
-                {clinic.tags.slice(0, 3).map(tag => {
-                  const methodKey = TAG_TO_METHOD_KEY[tag]
-                  const isActive = !!methodKey && activeMethodKeys.includes(methodKey)
-                  return (
-                    <span key={tag} onClick={() => methodKey && onMethodClick(methodKey)} style={{ backgroundColor: isActive ? '#003399' : '#F0F0F0', color: isActive ? '#fff' : '#444', fontSize: '11px', padding: '3px 7px', borderRadius: '4px', cursor: methodKey ? 'pointer' : 'default', transition: 'background 0.15s' }}>
-                      {tag}
+              <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
+                <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
+              </div>
+              <div style={{ fontSize: '13px', color: '#555', marginBottom: '8px', lineHeight: 1.3 }}>🎯 <span style={{ fontWeight: 600 }}>Schwerpunkt:</span> {clinic.methods.join(' · ')}</div>
+              <USPs items={clinic.usp} small />
+              <ClinicTags clinic={clinic} small />
+            </div>
+            {/* Col 3 – opening hours + CTA */}
+            <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', width: '160px' }}>
+              <div>
+                <div style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
+                  {clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
+                </div>
+                {clinic.openToday && (
+                  <div style={{ fontSize: '11px', color: '#555', lineHeight: 1.6 }}>
+                    {clinic.openHours.split(', ').map((segment, i) => (
+                      <div key={i}>{segment}</div>
+                    ))}
+                  </div>
+                )}
+              </div>
+              <div>
+                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
+                <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#666', fontSize: '13px', border: '1px solid #CCC', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
+                {onToggleSelect && (
+                  <button
+                    onClick={onToggleSelect}
+                    style={{
+                      display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px',
+                      width: '160px', height: '32px',
+                      backgroundColor: isSelected ? '#003399' : '#fff',
+                      color: isSelected ? '#fff' : '#555',
+                      fontSize: '12px', fontWeight: isSelected ? 700 : 500,
+                      border: `1.5px solid ${isSelected ? '#003399' : '#CCC'}`,
+                      borderRadius: '4px', cursor: 'pointer',
+                    }}
+                  >
+                    <span style={{
+                      width: '14px', height: '14px', borderRadius: '3px', flexShrink: 0,
+                      border: `1.5px solid ${isSelected ? '#fff' : '#999'}`,
+                      backgroundColor: isSelected ? 'rgba(255,255,255,0.25)' : 'transparent',
+                      display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    }}>
+                      {isSelected && <span style={{ color: '#fff', fontSize: '9px', fontWeight: 900, lineHeight: 1 }}>✓</span>}
                     </span>
-                  )
-                })}
-              </div>
-              {clinic.packagePrice && <div style={{ color: '#003399', fontSize: '11px', fontStyle: 'italic', marginBottom: '4px' }}>Paketpreise ab 3 Sitzungen</div>}
-              {clinic.onlineBooking && <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#00A651', fontSize: '12px', marginBottom: '4px' }}><Clock size={11} />Online-Buchung</div>}
-              {clinic.photoCount > 0 && <a href="#" style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#003399', fontSize: '12px', textDecoration: 'none' }}><ExternalLink size={11} />{clinic.photoCount} Praxis-Fotos</a>}
-            </div>
-
-            {/* Col 4: Price + CTA */}
-            <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', minWidth: '148px' }}>
-              <div>
-                <div style={{ color: '#888', fontSize: '11px' }}>ab</div>
-                <div style={{ fontWeight: 700, fontSize: '22px', color: '#111', lineHeight: 1.1 }}>{clinic.priceFrom} €</div>
-                <div style={{ color: '#888', fontSize: '12px', marginBottom: '4px' }}>/ Sitzung</div>
-                {clinic.packagePrice && <div style={{ color: '#00A651', fontSize: '12px', marginBottom: '8px' }}>Paket 3x: {clinic.packagePrice} €</div>}
-              </div>
-              <div>
-                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '13px', border: 'none', borderRadius: '4px', height: '36px', width: '100%', cursor: 'pointer', marginBottom: '6px' }}>Jetzt anfragen</button>
-                <button style={{ backgroundColor: '#fff', color: '#003399', fontSize: '12px', border: '1px solid #003399', borderRadius: '4px', height: '32px', width: '100%', cursor: 'pointer' }}>Profil ansehen</button>
+                    {isSelected ? 'Ausgewählt' : 'Vergleichen'}
+                  </button>
+                )}
               </div>
             </div>
           </div>
         </div>
 
       </div>
-
       {showReviews && <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />}
+      {showProfile && <ClinicProfileModal clinic={clinic} onClose={() => setShowProfile(false)} onInquire={onInquire} onShowReviews={() => setShowReviews(true)} />}
     </>
   )
 }

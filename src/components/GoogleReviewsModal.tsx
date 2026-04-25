@@ -1,4 +1,5 @@
-import { X } from 'lucide-react'
+import { useEffect, useState } from 'react'
+import { X, Sparkles } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 
 interface Props {
@@ -6,12 +7,45 @@ interface Props {
   onClose: () => void
 }
 
-const DUMMY_REVIEWS = [
-  { author: 'Maria S.', initial: 'M', color: '#4285F4', rating: 5, date: 'vor 2 Wochen', text: 'Sehr professionelle Behandlung und einfühlsames Personal. Die Beratung war ausführlich, ich wurde über alle Optionen informiert. Nach 2 Sitzungen bereits deutlich sichtbare Verbesserung. Sehr empfehlenswert!' },
-  { author: 'Thomas K.', initial: 'T', color: '#EA4335', rating: 4, date: 'vor 1 Monat', text: 'Kompetente Ärztin, die sich wirklich Zeit nimmt. Terminvergabe unkompliziert, auch online buchbar. Die Behandlung war effektiv und das Ergebnis überzeugend. Preis-Leistung stimmt.' },
-  { author: 'Sandra M.', initial: 'S', color: '#34A853', rating: 5, date: 'vor 3 Wochen', text: 'Bin wirklich begeistert! Schon nach der ersten Sitzung sah man deutliche Verbesserungen. Das Team ist sehr freundlich und erklärt jeden Schritt genau. Absolute Empfehlung!' },
-  { author: 'Andreas B.', initial: 'A', color: '#FBBC05', rating: 4, date: 'vor 2 Monaten', text: 'Moderne Praxis mit neuester Technik. Sehr saubere und angenehme Atmosphäre. Das Ergebnis ist sehr ordentlich, ich bin zufrieden und würde wiederkommen.' },
-  { author: 'Julia F.', initial: 'J', color: '#9C27B0', rating: 3, date: 'vor 6 Wochen', text: 'Gute Praxis, aber die Wartezeiten könnten besser organisiert werden. Die Behandlung selbst war gut durchgeführt und das Ergebnis ist in Ordnung.' },
+interface Review {
+  author: string
+  initial: string
+  color: string
+  rating: number
+  date: string
+  text: string
+}
+
+const AVATAR_COLORS = ['#4285F4', '#EA4335', '#34A853', '#FBBC05', '#9C27B0', '#00ACC1', '#FF7043', '#8D6E63']
+
+function colorForName(name: string): string {
+  let hash = 0
+  for (let i = 0; i < name.length; i++) hash = name.charCodeAt(i) + ((hash << 5) - hash)
+  return AVATAR_COLORS[Math.abs(hash) % AVATAR_COLORS.length]
+}
+
+function formatGoogleReview(r: {
+  author_name?: string
+  rating?: number
+  relative_time_description?: string
+  text?: string
+}): Review {
+  const author = r.author_name ?? 'Anonym'
+  return {
+    author,
+    initial: author.charAt(0).toUpperCase(),
+    color: colorForName(author),
+    rating: r.rating ?? 5,
+    date: r.relative_time_description ?? '',
+    text: r.text ?? '',
+  }
+}
+
+
+const DUMMY_SUMMARY = [
+  'Patienten loben häufig die ausführliche Beratung und das freundliche, einfühlsame Team',
+  'Deutliche Ergebnisse werden bereits nach 1–2 Sitzungen berichtet',
+  'Moderne Praxis mit guter Online-Buchbarkeit - vereinzelt werden Wartezeiten erwähnt',
 ]
 
 function Stars({ rating, size = 14 }: { rating: number; size?: number }) {
@@ -34,7 +68,45 @@ const GoogleLogo = () => (
 )
 
 export default function GoogleReviewsModal({ clinic, onClose }: Props) {
+  const [reviews, setReviews] = useState<Review[]>([])
+  const [summary, setSummary] = useState<string[]>(DUMMY_SUMMARY)
+  const [liveRating, setLiveRating] = useState<number | null>(null)
+  const [liveReviewCount, setLiveReviewCount] = useState<number | null>(null)
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState(false)
+
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clinic.name + ' ' + clinic.address)}`
+  const displayRating = liveRating ?? clinic.googleRating ?? 0
+  const displayReviewCount = liveReviewCount ?? clinic.googleReviewCount ?? 0
+
+  useEffect(() => {
+    if (!clinic.placeId) {
+      setError(true)
+      return
+    }
+    setLoading(true)
+    setError(false)
+    // Primary: static pre-fetched JSON (updated every 3 days via GitHub Actions)
+    // Fallback: live Netlify function
+    const staticUrl = `/reviews/${encodeURIComponent(clinic.placeId)}.json`
+    const liveUrl = `/.netlify/functions/reviews?placeId=${encodeURIComponent(clinic.placeId)}`
+
+    fetch(staticUrl)
+      .then(r => r.ok ? r.json() : Promise.reject('no static file'))
+      .catch(() => fetch(liveUrl).then(r => r.json()))
+      .then((data: { reviews?: Parameters<typeof formatGoogleReview>[0][]; rating?: number; reviewCount?: number; summary?: string[] }) => {
+        if (Array.isArray(data.reviews) && data.reviews.length > 0) {
+          setReviews(data.reviews.map(formatGoogleReview))
+        } else {
+          setError(true)
+        }
+        if (Array.isArray(data.summary) && data.summary.length > 0) setSummary(data.summary)
+        if (data.rating) setLiveRating(data.rating)
+        if (data.reviewCount) setLiveReviewCount(data.reviewCount)
+      })
+      .catch(() => setError(true))
+      .finally(() => setLoading(false))
+  }, [clinic.placeId])
 
   return (
     <div
@@ -44,7 +116,7 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
       <div style={{ backgroundColor: '#fff', borderRadius: '8px', width: '100%', maxWidth: '540px', maxHeight: '85vh', display: 'flex', flexDirection: 'column', boxShadow: '0 8px 32px rgba(0,0,0,0.2)' }}>
 
         {/* Header */}
-        <div style={{ padding: '20px 20px 16px', borderBottom: '1px solid #EEE', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+        <div style={{ padding: '20px 20px 16px', borderBottom: '1px solid #EEE', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexShrink: 0 }}>
           <div>
             <GoogleLogo />
             <div style={{ fontWeight: 700, fontSize: '15px', marginTop: '8px', color: '#111' }}>{clinic.name}</div>
@@ -55,11 +127,11 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
         </div>
 
         {/* Rating summary */}
-        <div style={{ padding: '16px 20px', borderBottom: '1px solid #EEE', display: 'flex', alignItems: 'center', gap: '16px' }}>
+        <div style={{ padding: '16px 20px', borderBottom: '1px solid #EEE', display: 'flex', alignItems: 'center', gap: '16px', flexShrink: 0 }}>
           <div style={{ textAlign: 'center' }}>
-            <div style={{ fontSize: '48px', fontWeight: 300, color: '#111', lineHeight: 1 }}>{clinic.googleRating.toFixed(1)}</div>
-            <Stars rating={clinic.googleRating} size={18} />
-            <div style={{ fontSize: '12px', color: '#666', marginTop: '4px' }}>{clinic.googleReviewCount} Bewertungen</div>
+            <div style={{ fontSize: '48px', fontWeight: 300, color: '#111', lineHeight: 1 }}>{displayRating.toFixed(1)}</div>
+            <Stars rating={Math.round(displayRating)} size={18} />
+            <div style={{ fontSize: '12px', color: '#666', marginTop: '4px' }}>{displayReviewCount} Bewertungen</div>
           </div>
           <div style={{ flex: 1 }}>
             {[5,4,3,2,1].map(star => {
@@ -77,38 +149,63 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
           </div>
         </div>
 
-        {/* Reviews */}
-        <div style={{ overflowY: 'auto', flex: 1, padding: '8px 20px' }}>
-          {DUMMY_REVIEWS.map((review, i) => (
-            <div key={i} style={{ padding: '14px 0', borderBottom: i < DUMMY_REVIEWS.length - 1 ? '1px solid #F5F5F5' : 'none' }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '6px' }}>
-                <div style={{ width: '36px', height: '36px', borderRadius: '50%', backgroundColor: review.color, color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 700, fontSize: '15px', flexShrink: 0 }}>
-                  {review.initial}
-                </div>
-                <div>
-                  <div style={{ fontWeight: 600, fontSize: '13px', color: '#111' }}>{review.author}</div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                    <Stars rating={review.rating} size={12} />
-                    <span style={{ fontSize: '11px', color: '#999' }}>{review.date}</span>
+        {/* Scrollable: summary + reviews */}
+        <div style={{ overflowY: 'auto', flex: 1, padding: '12px 20px 8px' }}>
+
+          {/* AI summary */}
+          <div style={{ backgroundColor: '#F0F4FF', borderRadius: '8px', padding: '12px 14px', border: '1px solid #DDE5FF', marginBottom: '4px' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px' }}>
+              <Sparkles size={13} color="#4B6BCC" />
+              <span style={{ fontSize: '11px', fontWeight: 700, color: '#4B6BCC', letterSpacing: '0.04em', textTransform: 'uppercase' }}>Nutzer erwähnen häufig</span>
+            </div>
+            <ul style={{ margin: 0, padding: 0, listStyle: 'none' }}>
+              {summary.map((point, i) => (
+                <li key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '7px', fontSize: '13px', color: '#2D3A6B', lineHeight: '1.5', marginBottom: i < summary.length - 1 ? '5px' : 0 }}>
+                  <span style={{ color: '#4B6BCC', fontWeight: 700, marginTop: '1px', flexShrink: 0 }}>•</span>
+                  {point}
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Reviews */}
+          {loading ? (
+            <div style={{ textAlign: 'center', padding: '24px 0', color: '#999', fontSize: '13px' }}>Bewertungen werden geladen…</div>
+          ) : error ? (
+            <div style={{ textAlign: 'center', padding: '32px 20px' }}>
+              <div style={{ fontSize: '28px', marginBottom: '8px' }}>😔</div>
+              <div style={{ fontSize: '14px', fontWeight: 600, color: '#444', marginBottom: '6px' }}>Bewertungen konnten nicht geladen werden</div>
+              <div style={{ fontSize: '12px', color: '#999', marginBottom: '16px' }}>Bitte direkt auf Google nachschauen.</div>
+              <a href={mapsUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: '13px', color: '#4285F4', textDecoration: 'none', fontWeight: 500 }}>
+                Auf Google Maps ansehen ↗
+              </a>
+            </div>
+          ) : (
+            reviews.map((review, i) => (
+              <div key={i} style={{ padding: '14px 0', borderBottom: i < reviews.length - 1 ? '1px solid #F5F5F5' : 'none' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '6px' }}>
+                  <div style={{ width: '36px', height: '36px', borderRadius: '50%', backgroundColor: review.color, color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 700, fontSize: '15px', flexShrink: 0 }}>
+                    {review.initial}
+                  </div>
+                  <div>
+                    <div style={{ fontWeight: 600, fontSize: '13px', color: '#111' }}>{review.author}</div>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                      <Stars rating={review.rating} size={12} />
+                      <span style={{ fontSize: '11px', color: '#999' }}>{review.date}</span>
+                    </div>
                   </div>
                 </div>
+                <p style={{ fontSize: '13px', color: '#444', lineHeight: '1.6', margin: 0 }}>{review.text}</p>
               </div>
-              <p style={{ fontSize: '13px', color: '#444', lineHeight: '1.6', margin: 0 }}>{review.text}</p>
-            </div>
-          ))}
+            ))
+          )}
         </div>
 
-        {/* Footer – legally required Google attribution */}
-        <div style={{ padding: '14px 20px', borderTop: '1px solid #EEE', display: 'flex', alignItems: 'center', justifyContent: 'space-between', backgroundColor: '#FAFAFA', borderRadius: '0 0 8px 8px' }}>
-          <span style={{ fontSize: '11px', color: '#999' }}>Bewertungen von Google</span>
-          <a
-            href={mapsUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', backgroundColor: '#4285F4', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '7px 14px', borderRadius: '4px', textDecoration: 'none' }}
-          >
-            Alle Bewertungen auf Google Maps
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        {/* Footer – Google attribution */}
+        <div style={{ padding: '10px 20px', borderTop: '1px solid #EEE', display: 'flex', alignItems: 'center', justifyContent: 'space-between', backgroundColor: '#FAFAFA', borderRadius: '0 0 8px 8px', flexShrink: 0 }}>
+          <span style={{ fontSize: '11px', color: '#BBB' }}>Bewertungen von Google</span>
+          <a href={mapsUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: '10px', color: '#CCC', textDecoration: 'none' }}>
+            Quelle: Google Maps ↗
           </a>
         </div>
 

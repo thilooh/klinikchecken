@@ -20,8 +20,6 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
       )
     }
 
-    result = result.filter(c => c.priceFrom >= filters.priceRange[0] && c.priceFrom <= filters.priceRange[1])
-
     if (filters.minRating > 0) {
       result = result.filter(c => c.rating >= filters.minRating)
     }
@@ -40,11 +38,12 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
 
     result.sort((a, b) => {
       switch (filters.sortBy) {
-        case 'recommended':
+        case 'recommended': {
           if (a.featured !== b.featured) return a.featured ? -1 : 1
-          return (b.rating * Math.log(b.reviewCount)) - (a.rating * Math.log(a.reviewCount))
-        case 'price':
-          return a.priceFrom - b.priceFrom
+          const scoreA = a.rating > 0 && a.reviewCount > 0 ? a.rating * Math.log(a.reviewCount) : 0
+          const scoreB = b.rating > 0 && b.reviewCount > 0 ? b.rating * Math.log(b.reviewCount) : 0
+          return scoreB - scoreA
+        }
         case 'rating':
           if (b.rating !== a.rating) return b.rating - a.rating
           return b.reviewCount - a.reviewCount

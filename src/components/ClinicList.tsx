@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import type { Clinic, FilterState } from '../types/clinic'
+import type { VariantConfig } from '../variants'
 import ClinicCard from './ClinicCard'
 
 interface Props {
@@ -7,6 +8,10 @@ interface Props {
   onInquire: (clinic: Clinic) => void
   filters: FilterState
   setFilters: (f: FilterState) => void
+  cardVariant: VariantConfig['card']
+  selectedIds: Set<number>
+  onToggleSelect: (clinic: Clinic) => void
+  ctaColor: string
 }
 
 function SkeletonCard() {
@@ -28,7 +33,7 @@ function SkeletonCard() {
   )
 }
 
-export default function ClinicList({ clinics, onInquire, filters, setFilters }: Props) {
+export default function ClinicList({ clinics, onInquire, filters, setFilters, cardVariant, selectedIds, onToggleSelect, ctaColor }: Props) {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -59,14 +64,17 @@ export default function ClinicList({ clinics, onInquire, filters, setFilters }: 
 
   return (
     <div>
-      {clinics.map((clinic, index) => (
+      {clinics.map((clinic) => (
         <ClinicCard
           key={clinic.id}
           clinic={clinic}
           onInquire={onInquire}
           onMethodClick={handleMethodClick}
           activeMethodKeys={filters.selectedMethods}
-          showCertifiedBadge={index < 2}
+          cardVariant={cardVariant}
+          isSelected={selectedIds.has(clinic.id)}
+          onToggleSelect={() => onToggleSelect(clinic)}
+          ctaColor={ctaColor}
         />
       ))}
     </div>
