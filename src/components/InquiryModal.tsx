@@ -206,11 +206,11 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                 Du bekommst eine Bestätigung per E-Mail. Die Praxis meldet sich innerhalb von 24 Stunden.
               </div>
 
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '5px' }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '6px', color: '#999', fontSize: '11px' }}>
+              <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '5px', color: '#999', fontSize: '11px' }}>
                   <Lock size={11} />Daten SSL-verschlüsselt
                 </div>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '6px', color: '#999', fontSize: '11px' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '5px', color: '#999', fontSize: '11px' }}>
                   <CheckCircle2 size={11} color="#CCC" />Kostenlos & unverbindlich
                 </div>
               </div>
