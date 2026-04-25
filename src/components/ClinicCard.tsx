@@ -181,7 +181,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: '5px', color: '#555', fontSize: '14px', marginBottom: '4px' }}>
               <MapPin size={14} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
             </div>
-            <div style={{ color: '#777', fontSize: '13px', marginBottom: '10px', lineHeight: 1.4 }}>{clinic.doctor} · {clinic.qualification}</div>
+            <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.4 }}>🎯 <span style={{ fontWeight: 600 }}>Schwerpunkt:</span> {clinic.methods.join(' · ')}</div>
             <USPs items={clinic.usp} />
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: '10px' }}>
               {clinic.freeConsultation && <span style={{ backgroundColor: '#00A651', color: '#fff', fontSize: '12px', fontWeight: 600, padding: '4px 10px', borderRadius: '4px' }}>Kostenlose Erstberatung</span>}
@@ -277,7 +277,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
                 <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
               </div>
-              <div style={{ color: '#666', fontSize: '13px', marginBottom: '8px', lineHeight: 1.3 }}>{clinic.doctor} · {clinic.qualification}</div>
+              <div style={{ fontSize: '13px', color: '#555', marginBottom: '8px', lineHeight: 1.3 }}>🎯 <span style={{ fontWeight: 600 }}>Schwerpunkt:</span> {clinic.methods.join(' · ')}</div>
               <USPs items={clinic.usp} small />
             </div>
             {/* Col 3 – opening hours + CTA */}
