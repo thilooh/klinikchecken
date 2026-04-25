@@ -2,32 +2,10 @@ export default function Footer() {
   const cols = [
     {
       title: 'Über aesthetiq.de',
+      text: 'Das Vergleichsportal für Besenreiser-Behandlungen in Deutschland — handverlesene Praxen, echte Bewertungen.',
       links: [
         { label: 'Über uns', href: '#' },
-        { label: 'Presse', href: '#' },
-        { label: 'Jobs', href: '#' },
         { label: 'Kontakt', href: '#' },
-      ],
-      text: 'Das führende Vergleichsportal für ästhetische Medizin in Deutschland.',
-    },
-    {
-      title: 'Für Kliniken',
-      links: [
-        { label: 'Klinik eintragen', href: '#' },
-        { label: 'Preise & Pakete', href: '#' },
-        { label: 'Partner werden', href: '#' },
-        { label: 'Klinik-Login', href: '#' },
-      ],
-    },
-    {
-      title: 'Behandlungen',
-      links: [
-        { label: 'Besenreiser', href: '#' },
-        { label: 'Krampfadern', href: '#' },
-        { label: 'Botox', href: '#' },
-        { label: 'Filler', href: '#' },
-        { label: 'Laser', href: '#' },
-        { label: 'Hyaluron', href: '#' },
       ],
     },
     {
@@ -36,8 +14,6 @@ export default function Footer() {
         { label: 'Datenschutz', href: '/datenschutz' },
         { label: 'Impressum', href: '/impressum' },
         { label: 'AGB', href: '/agb' },
-        { label: 'Cookie-Einstellungen', href: '#' },
-        { label: 'Barrierefreiheit', href: '#' },
       ],
     },
   ]
@@ -70,15 +46,15 @@ export default function Footer() {
           ))}
         </div>
 
-        <div style={{ borderTop: '1px solid rgba(255,255,255,0.15)', padding: '16px 0', display: 'flex', flexWrap: 'wrap', gap: '16px', alignItems: 'center', justifyContent: 'center', marginBottom: '0' }}>
-          {['🔒 SSL-gesichert', '✓ TÜV-geprüfte Kliniken', '✓ 100% kostenloser Service', '⭐ 50.000+ Anfragen'].map(badge => (
+        <div style={{ borderTop: '1px solid rgba(255,255,255,0.15)', padding: '16px 0', display: 'flex', flexWrap: 'wrap', gap: '16px', alignItems: 'center', justifyContent: 'center' }}>
+          {['🔒 SSL-gesichert', '✓ 100% kostenloser Service', '✓ Handverlesene Praxen'].map(badge => (
             <span key={badge} style={{ fontSize: '12px', color: '#99BBFF' }}>{badge}</span>
           ))}
         </div>
 
         <div style={{ borderTop: '1px solid rgba(255,255,255,0.15)', padding: '14px 0', textAlign: 'center' }}>
           <span style={{ fontSize: '11px', color: '#7799DD' }}>
-            © 2025 aesthetiq.de · Alle Preise inkl. MwSt. · Nicht-medizinische Beratung · Made in Germany 🇩🇪
+            © 2025 aesthetiq.de · Kein medizinischer Rat · Made in Germany 🇩🇪
           </span>
         </div>
       </div>
