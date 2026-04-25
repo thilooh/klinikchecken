@@ -76,8 +76,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
         <div style={{ backgroundColor: '#003399', padding: '16px 20px', borderRadius: '4px 4px 0 0' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
             <div>
-              <div style={{ color: '#fff', fontWeight: 700, fontSize: '15px' }}>{clinic.name}</div>
-              <div style={{ color: '#99BBFF', fontSize: '12px', marginTop: '2px' }}>Anfrage senden — kostenlos & unverbindlich</div>
+              <div style={{ color: '#fff', fontWeight: 700, fontSize: '15px' }}>Anfrage senden — kostenlos & unverbindlich</div>
             </div>
             <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#fff', padding: '2px' }}>
               <X size={20} />
@@ -156,27 +155,24 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                   style={{ ...field, resize: 'vertical' }}
                   placeholder="z.B. Besenreiser an beiden Waden seit der Schwangerschaft. Ich war noch nie bei einem Phlebologen und möchte wissen, was bei mir möglich ist."
                 />
-                <div style={{ fontSize: '11px', color: '#888', marginTop: '4px' }}>Je mehr du schreibst, desto besser kann die Praxis dir antworten — aber zwei Sätze reichen völlig.</div>
+                <div style={{ fontSize: '11px', color: '#888', marginTop: '4px' }}>Schon zwei Sätze helfen der Praxis, sich vorzubereiten.</div>
               </div>
 
               {/* Privacy consent */}
               <div style={{ marginBottom: '20px' }}>
-                <div style={{ fontSize: '12px', color: '#555', marginBottom: '8px', lineHeight: 1.5 }}>
-                  Mit dem Klick gibst du deine Anfragedaten an die Praxis weiter — sonst niemand.
-                </div>
                 <label style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', fontSize: '12px', cursor: 'pointer' }}>
                   <input type="checkbox" checked={form.privacy} onChange={e => setForm({ ...form, privacy: e.target.checked })} style={{ marginTop: '2px', accentColor: '#003399', flexShrink: 0 }} />
-                  <span style={{ color: '#333', fontWeight: 600 }}>
-                    Ich stimme dem{' '}
+                  <span style={{ color: '#333' }}>
+                    Ich willige ein, dass meine Anfrage an die Praxis weitergeleitet wird.{' '}
                     <button
                       type="button"
                       onClick={() => setPrivacyOpen(o => !o)}
-                      style={{ background: 'none', border: 'none', padding: 0, color: '#003399', cursor: 'pointer', fontSize: '12px', fontWeight: 600, textDecoration: 'underline', display: 'inline-flex', alignItems: 'center', gap: '2px' }}
+                      style={{ background: 'none', border: 'none', padding: 0, color: '#003399', cursor: 'pointer', fontSize: '12px', textDecoration: 'underline', display: 'inline-flex', alignItems: 'center', gap: '2px' }}
                     >
                       Datenschutz-Hinweis
                       {privacyOpen ? <ChevronUp size={12} /> : <ChevronDown size={12} />}
                     </button>
-                    {' '}zu *
+                    {' '}*
                   </span>
                 </label>
                 {privacyOpen && (
