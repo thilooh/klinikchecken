@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { MapPin, Heart, ChevronLeft, ChevronRight, CheckCircle2 } from 'lucide-react'
+import { MapPin, Heart, ChevronLeft, ChevronRight } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 import type { VariantConfig } from '../variants'
 import { VARIANTS } from '../variants'
@@ -212,11 +212,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </div>
           </div>
 
-          <div style={{ padding: '8px 16px 0', display: 'flex', alignItems: 'center', gap: '5px' }}>
-            <CheckCircle2 size={12} color="#00A651" />
-            <span style={{ fontSize: '11px', color: '#555' }}>Antwort innerhalb von 24h — garantiert</span>
-          </div>
-          <div style={{ display: 'flex', gap: '8px', padding: '10px 16px 16px' }}>
+          <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
             <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#003399', fontWeight: 600, fontSize: '15px', border: '1px solid #003399', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
             <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
           </div>
@@ -316,11 +312,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 )}
               </div>
               <div>
-                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '4px' }}>{vt.cta}</button>
-                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end', gap: '4px', marginBottom: '6px' }}>
-                  <CheckCircle2 size={11} color="#00A651" />
-                  <span style={{ fontSize: '10px', color: '#555' }}>24h-Antwort garantiert</span>
-                </div>
+                <button onClick={() => onInquire(clinic)} style={{ backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
                 <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#003399', fontSize: '13px', border: '1px solid #003399', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer' }}>Profil ansehen</button>
               </div>
             </div>

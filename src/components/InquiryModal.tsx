@@ -212,12 +212,6 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                 <span>Deine Anfrage geht direkt zur Praxis. Du zahlst keinen Cent mehr als bei Direktkontakt — die Plattform ist für dich kostenfrei.</span>
               </div>
 
-              {/* 24h guarantee */}
-              <div style={{ fontSize: '12px', color: '#555', marginBottom: '8px', display: 'flex', alignItems: 'flex-start', gap: '6px' }}>
-                <CheckCircle2 size={13} color="#00A651" style={{ flexShrink: 0, marginTop: '1px' }} />
-                <span>Antwort innerhalb von 24h — garantiert. Meldet sich die Praxis nicht, finden wir die nächste, die es tut.</span>
-              </div>
-
               {/* Parallel inquiry hint */}
               <div style={{ backgroundColor: '#F9F9F9', border: '1px solid #EEE', borderRadius: '6px', padding: '9px 12px', marginBottom: '14px', fontSize: '11px', color: '#666', lineHeight: 1.6 }}>
                 💬 Tipp: Du kannst diese Anfrage auch parallel an 1–2 weitere Praxen senden — ein Klick, dieselben Daten. So vergleichst du Antworten und Termine.
