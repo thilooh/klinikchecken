@@ -83,7 +83,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection }
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
             <div>
               <div style={{ color: '#fff', fontWeight: 700, fontSize: '15px' }}>Anfrage an {clinics.length} Praxen gleichzeitig</div>
-              <div style={{ color: '#99BBFF', fontSize: '12px', marginTop: '2px' }}>Du füllst das Formular einmal aus — wir senden parallel an alle.</div>
+              <div style={{ color: '#99BBFF', fontSize: '12px', marginTop: '2px' }}>Du füllst das Formular einmal aus - wir senden parallel an alle.</div>
             </div>
             <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#fff', padding: '2px' }}>
               <X size={20} />
@@ -134,7 +134,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection }
               </div>
               <div style={{ fontSize: '12px', color: '#777', marginBottom: '20px', lineHeight: 1.6 }}>
                 <strong>Was jetzt passiert:</strong><br />
-                Die Praxen melden sich direkt bei dir — per Telefon oder E-Mail.<br />
+                Die Praxen melden sich direkt bei dir - per Telefon oder E-Mail.<br />
                 Du vergleichst die Antworten und entscheidest, welche zu dir passt.
               </div>
               <button onClick={onClose} style={{ backgroundColor: '#003399', color: '#fff', border: 'none', borderRadius: '4px', padding: '10px 24px', cursor: 'pointer', fontWeight: 700 }}>Schließen</button>
@@ -168,7 +168,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection }
               <div style={{ marginBottom: '12px' }}>
                 <label style={{ display: 'block', fontSize: '12px', color: '#333', fontWeight: 700, marginBottom: '4px' }}>Welche Methode interessiert dich?</label>
                 <select value={form.method} onChange={e => setForm({ ...form, method: e.target.value })} style={{ ...field, backgroundColor: '#fff' }}>
-                  <option value="">Bin mir noch nicht sicher — die Praxen empfehlen mir die passende Methode</option>
+                  <option value="">Bin mir noch nicht sicher - die Praxen empfehlen mir die passende Methode</option>
                   {Array.from(new Set(clinics.flatMap(c => c.methods))).map(m => (
                     <option key={m} value={m}>{m}</option>
                   ))}

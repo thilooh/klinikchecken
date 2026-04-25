@@ -2,7 +2,7 @@ export default function Footer() {
   const cols = [
     {
       title: 'Über aesthetiq.de',
-      text: 'Das Vergleichsportal für Besenreiser-Behandlungen in Deutschland — handverlesene Praxen, echte Bewertungen.',
+      text: 'Das Vergleichsportal für Besenreiser-Behandlungen in Deutschland - handverlesene Praxen, echte Bewertungen.',
       links: [
         { label: 'Über uns', href: '#' },
         { label: 'Kontakt', href: '#' },

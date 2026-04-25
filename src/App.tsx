@@ -20,7 +20,7 @@ import { sendEvent } from './lib/gtm'
 import { loadGTM, getConsent } from './lib/consent'
 
 // Match a raw city string or PLZ (from {{adset.name}}, geo API, etc.) to a supported city.
-// Meta tip: name ad sets by city and use ?city={{adset.name}} — Meta substitutes it reliably.
+// Meta tip: name ad sets by city and use ?city={{adset.name}} - Meta substitutes it reliably.
 const CITY_VARIANTS: [string[], string[]][] = [
   [['köln', 'koeln', 'koln', 'cologne'],       ['50', '51']],
   [['düsseldorf', 'duesseldorf', 'dusseldorf'], ['40', '41']],
@@ -153,7 +153,7 @@ export default function App() {
       <SearchBar filters={filters} setFilters={handleSetFilters} hero={vt.hero} />
       {autoCity && (
         <div style={{ backgroundColor: '#EEF4FF', borderBottom: '1px solid #C8DAFE', padding: '10px 16px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px', fontSize: '14px', color: '#1E3A6E' }}>
-          <span>📍 Wir zeigen Praxen in <strong>{autoCity}</strong> — Nicht deine Stadt?</span>
+          <span>📍 Wir zeigen Praxen in <strong>{autoCity}</strong> - Nicht deine Stadt?</span>
           <button onClick={focusSearch} style={{ color: '#0052CC', fontWeight: 700, background: 'none', border: 'none', cursor: 'pointer', padding: 0, fontSize: '14px' }}>
             Ändern
           </button>
@@ -212,7 +212,7 @@ export default function App() {
       )}
       {selectToast && (
         <div style={{ position: 'fixed', bottom: '80px', left: '50%', transform: 'translateX(-50%)', backgroundColor: '#333', color: '#fff', borderRadius: '6px', padding: '10px 18px', fontSize: '13px', zIndex: 2000, whiteSpace: 'nowrap', boxShadow: '0 4px 12px rgba(0,0,0,0.3)' }}>
-          Maximal 3 Praxen — entferne eine, um eine andere hinzuzufügen.
+          Maximal 3 Praxen - entferne eine, um eine andere hinzuzufügen.
         </div>
       )}
     </div>

@@ -128,7 +128,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
 
           {locError && (
             <div style={{ position: 'absolute', top: 'calc(100% + 6px)', left: 0, right: 0, textAlign: 'center', color: '#FFB5B5', fontSize: '13px', pointerEvents: 'none' }}>
-              Standort konnte nicht ermittelt werden — bitte manuell eingeben.
+              Standort konnte nicht ermittelt werden - bitte manuell eingeben.
             </div>
           )}
 

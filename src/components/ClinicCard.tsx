@@ -236,7 +236,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               }}>
                 {isSelected && <span style={{ color: '#fff', fontSize: '12px', fontWeight: 900, lineHeight: 1 }}>✓</span>}
               </span>
-              {isSelected ? 'Ausgewählt — tippen zum Entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
+              {isSelected ? 'Ausgewählt - tippen zum Entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
             </button>
           )}
           <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>

@@ -28,7 +28,7 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
   },
   b: {
     hero: {
-      headline: 'Besenreiser weg — für immer. Geprüfte Spezialisten in deiner Stadt.',
+      headline: 'Besenreiser weg - für immer. Geprüfte Spezialisten in deiner Stadt.',
       subheadline: 'Nur Praxen mit nachgewiesener Fachexpertise und echten Patientenstimmen.',
     },
     card: {

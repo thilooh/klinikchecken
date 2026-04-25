@@ -76,7 +76,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
         <div style={{ backgroundColor: '#003399', padding: '16px 20px', borderRadius: '4px 4px 0 0' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
             <div>
-              <div style={{ color: '#fff', fontWeight: 700, fontSize: '15px' }}>Anfrage senden — kostenlos & unverbindlich</div>
+              <div style={{ color: '#fff', fontWeight: 700, fontSize: '15px' }}>Anfrage senden - kostenlos & unverbindlich</div>
             </div>
             <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#fff', padding: '2px' }}>
               <X size={20} />
@@ -141,7 +141,7 @@ export default function InquiryModal({ clinic, onClose }: Props) {
               <div style={{ marginBottom: '12px' }}>
                 <label style={{ display: 'block', fontSize: '12px', color: '#333', fontWeight: 700, marginBottom: '4px' }}>Welche Methode interessiert dich?</label>
                 <select value={form.method} onChange={e => setForm({ ...form, method: e.target.value })} style={{ ...field, backgroundColor: '#fff' }}>
-                  <option value="">Bin mir noch nicht sicher — der Arzt empfiehlt</option>
+                  <option value="">Bin mir noch nicht sicher - der Arzt empfiehlt</option>
                   {clinic.methods.map(m => <option key={m} value={m}>{m}</option>)}
                 </select>
               </div>
@@ -198,12 +198,12 @@ export default function InquiryModal({ clinic, onClose }: Props) {
                 disabled={!canSubmit || loading}
                 style={{ backgroundColor: canSubmit && !loading ? '#FF6600' : '#FFAA77', color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '44px', width: '100%', cursor: canSubmit && !loading ? 'pointer' : 'not-allowed', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
               >
-                {loading ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</> : 'Jetzt anfragen — die Praxis meldet sich'}
+                {loading ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</> : 'Jetzt anfragen - die Praxis meldet sich'}
               </button>
 
               <div style={{ fontSize: '12px', color: '#555', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '6px' }}>
                 <CheckCircle2 size={13} color="#00A651" style={{ flexShrink: 0 }} />
-                <span>Antwort innerhalb von 24h — garantiert. Die Anfrage ist für dich kostenlos.</span>
+                <span>Antwort innerhalb von 24h - garantiert. Die Anfrage ist für dich kostenlos.</span>
               </div>
 
               <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', justifyContent: 'center' }}>

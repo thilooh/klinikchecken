@@ -80,7 +80,7 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
         </div>
       </div>
 
-      {/* Pills row — mobile only */}
+      {/* Pills row - mobile only */}
       <div className="sm:hidden">
         <div className="hide-scrollbar flex gap-2 overflow-x-auto pb-0.5">
           <button onClick={() => setMobileSortOpen(v => !v)} style={pill(true)}>
@@ -102,7 +102,7 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
           </button>
         </div>
 
-        {/* Mobile sort dropdown — outside overflow container to avoid clipping */}
+        {/* Mobile sort dropdown - outside overflow container to avoid clipping */}
         {mobileSortOpen && (
           <>
             <div onClick={() => setMobileSortOpen(false)} style={{ position: 'fixed', inset: 0, zIndex: 40 }} />

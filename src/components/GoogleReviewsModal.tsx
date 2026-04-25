@@ -45,7 +45,7 @@ function formatGoogleReview(r: {
 const DUMMY_SUMMARY = [
   'Patienten loben häufig die ausführliche Beratung und das freundliche, einfühlsame Team',
   'Deutliche Ergebnisse werden bereits nach 1–2 Sitzungen berichtet',
-  'Moderne Praxis mit guter Online-Buchbarkeit — vereinzelt werden Wartezeiten erwähnt',
+  'Moderne Praxis mit guter Online-Buchbarkeit - vereinzelt werden Wartezeiten erwähnt',
 ]
 
 function Stars({ rating, size = 14 }: { rating: number; size?: number }) {
