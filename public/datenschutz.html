@@ -74,6 +74,21 @@
       <td>Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse: einheitliche Darstellung)</td>
       <td>Google LLC, USA</td>
     </tr>
+    <tr>
+      <td>Google Tag Manager (Tag-Verwaltung, Ausspielung von Tracking-Tags)</td>
+      <td>Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)</td>
+      <td>Google Ireland Limited / Google LLC, USA</td>
+    </tr>
+    <tr>
+      <td>Meta Pixel – Conversion-Tracking (PageView, Search, InitiateCheckout, Lead)</td>
+      <td>Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)</td>
+      <td>Meta Platforms Ireland Ltd. / Meta Platforms Inc., USA</td>
+    </tr>
+    <tr>
+      <td>Meta Conversions API – serverseitiges Ereignis-Tracking (gehashte E-Mail, Telefon, IP)</td>
+      <td>Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)</td>
+      <td>Meta Platforms Ireland Ltd. / Meta Platforms Inc., USA</td>
+    </tr>
   </table>
 
   <h2>3. Hosting und Server-Logs</h2>
@@ -154,12 +169,48 @@
     Im Anfrageformular können Sie optional Ihre Einwilligung erteilen, Informationsangebote über ähnliche Kliniken auf aesthetiq.de zu erhalten. Diese Einwilligung ist freiwillig und kann jederzeit durch Klick auf den Abmelde-Link in jeder E-Mail oder durch Nachricht an <a href="mailto:datenschutz@aesthetiq.de">datenschutz@aesthetiq.de</a> widerrufen werden. Rechtsgrundlage ist Art. 6 Abs. 1 lit. a DSGVO.
   </p>
 
-  <h2>9. Cookies und Tracking</h2>
+  <h2>9. Cookies, Tracking und Marketingdienste</h2>
+
+  <h3>9.1 Google Tag Manager</h3>
   <p>
-    Diese Website verwendet <strong>keine Tracking-Cookies</strong> und <strong>keine Analytics-Dienste</strong> (kein Google Analytics, kein Facebook Pixel, kein Hotjar o.ä.). Es werden ausschließlich technisch notwendige Informationen verarbeitet, die für den Betrieb der Website unabdingbar sind. Ein Cookie-Banner ist daher nicht erforderlich.
+    Diese Website verwendet den <strong>Google Tag Manager</strong> (Container-ID: GTM-54CWZDL7) der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Der Google Tag Manager ist ein Tag-Management-System, das es uns ermöglicht, Website-Tags zentral zu verwalten. Der Tag Manager selbst setzt keine Cookies und erfasst keine personenbezogenen Daten; er aktiviert jedoch andere Tags (u.a. den Meta Pixel), die ihrerseits Daten erheben können. Rechtsgrundlage für den Einsatz der durch GTM ausgelösten Dienste ist Art. 6 Abs. 1 lit. a DSGVO (Einwilligung). Datenschutzinformationen von Google: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">https://policies.google.com/privacy</a>.
+  </p>
+
+  <h3>9.2 Meta Pixel (Facebook Pixel)</h3>
+  <p>
+    Diese Website verwendet den <strong>Meta Pixel</strong> (Pixel-ID: 1600367881048155) der Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (für Nutzer im EWR), bzw. Meta Platforms Inc., 1 Hacker Way, Menlo Park, CA 94025, USA (Muttergesellschaft). Der Meta Pixel ist ein JavaScript-Code, der folgende Ereignisse auf dieser Website erfasst und an Meta übermittelt:
+  </p>
+  <ul>
+    <li><strong>PageView</strong> – beim Aufruf der Seite</li>
+    <li><strong>Search</strong> – wenn Sie eine Stadt in der Suchleiste suchen</li>
+    <li><strong>InitiateCheckout</strong> – wenn Sie das Anfrageformular öffnen</li>
+    <li><strong>Lead</strong> – wenn Sie eine Anfrage erfolgreich absenden</li>
+  </ul>
+  <p>
+    Dabei werden folgende Daten an Meta übermittelt: IP-Adresse, Browser-Typ, Referrer-URL, Zeitpunkt des Ereignisses sowie – sofern vorhanden – die Cookies <code>_fbp</code> (Meta Browser-ID) und <code>_fbc</code> (Meta Click-ID aus Meta-Werbeanzeigen). Der Cookie <code>_fbp</code> hat eine Laufzeit von 90 Tagen und wird von Meta gesetzt, um Nutzer geräteübergreifend zu identifizieren und Werbemaßnahmen auszuwerten. Bei Klick auf eine Meta-Anzeige wird der <code>fbclid</code>-URL-Parameter für die Sitzungsdauer im Browser-Speicher (sessionStorage) abgelegt.
   </p>
   <p>
-    Technisch notwendige Browserspeicherung: Keine dauerhaften Cookies werden gesetzt. Sitzungsdaten (z.B. Filtereinstellungen) werden ausschließlich im Arbeitsspeicher des Browsers vorgehalten (React-State) und beim Schließen des Tabs verworfen.
+    Die Datenübermittlung in die USA erfolgt auf Grundlage der EU-Standardvertragsklauseln (Art. 46 Abs. 2 lit. c DSGVO). Rechtsgrundlage für den Einsatz des Meta Pixels ist Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO. Sie können Ihre Einwilligung jederzeit widerrufen. Weitere Informationen: <a href="https://www.facebook.com/privacy/policy/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/privacy/policy/</a>.
+  </p>
+
+  <h3>9.3 Meta Conversions API (CAPI)</h3>
+  <p>
+    Ergänzend zum Meta Pixel setzt diese Website die <strong>Meta Conversions API</strong> ein. Dabei werden Conversion-Ereignisse (insbesondere das „Lead"-Ereignis bei erfolgreicher Formularabsendung) zusätzlich serverseitig an Meta übermittelt. Dies geschieht unabhängig vom Browser und ist weniger anfällig für Browser-seitige Tracking-Blockaden (z.B. iOS-Datenschutz, Ad-Blocker). Bei der serverseitigen Übermittlung des „Lead"-Ereignisses werden folgende Daten in <strong>gehashter Form</strong> (SHA-256, nicht umkehrbar) an Meta übermittelt:
+  </p>
+  <ul>
+    <li>E-Mail-Adresse (gehasht)</li>
+    <li>Telefonnummer (gehasht, sofern angegeben)</li>
+    <li>IP-Adresse (aus dem Server-Request)</li>
+    <li>User-Agent des Browsers</li>
+    <li>_fbc / _fbp Cookie-Werte (sofern vorhanden)</li>
+  </ul>
+  <p>
+    Zweck der serverseitigen Übermittlung ist die präzisere Messung von Werbe-Conversions und die Optimierung von Werbekampagnen auf Meta-Plattformen (Facebook, Instagram). Rechtsgrundlage ist Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.
+  </p>
+
+  <h3>9.4 Technisch notwendige Browserspeicherung</h3>
+  <p>
+    Filtereinstellungen und Stadtauswahl werden ausschließlich im Arbeitsspeicher des Browsers (React-State) vorgehalten und beim Schließen des Tabs verworfen. Es werden keine dauerhaften technisch notwendigen Cookies durch aesthetiq.de selbst gesetzt.
   </p>
 
   <h2>10. Ihre Rechte als betroffene Person</h2>
@@ -197,6 +248,6 @@
     Diese Datenschutzerklärung ist aktuell gültig. Durch die Weiterentwicklung der Plattform oder aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung anzupassen. Die jeweils aktuelle Version ist stets unter <a href="/datenschutz">/datenschutz</a> abrufbar.
   </p>
 
-  <p class="meta">Stand: Mai 2025</p>
+  <p class="meta">Stand: April 2026 (aktualisiert: Google Tag Manager und Meta Pixel/Conversions API ergänzt)</p>
 </body>
 </html>
