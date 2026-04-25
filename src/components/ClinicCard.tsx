@@ -44,6 +44,8 @@ function ClinicTags({ clinic, small }: { clinic: Clinic; small?: boolean }) {
     clinic.onlineBooking    && { label: 'Online-Buchung',           bg: '#E8F0FF', color: '#003399' },
     clinic.eveningAppointments && { label: 'Abendtermine',          bg: '#FFF3E0', color: '#B45309' },
     clinic.ratenzahlung     && { label: 'Ratenzahlung',             bg: '#F3E8FF', color: '#6B21A8' },
+    clinic.parking          && { label: 'Parkplätze',               bg: '#F0F0F0', color: '#444'    },
+    /\bSa\b/.test(clinic.openHours) && { label: 'Sa geöffnet',      bg: '#FFF8E1', color: '#92400E' },
   ].filter(Boolean) as { label: string; bg: string; color: string }[]
 
   if (!tags.length) return null
