@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { X, Lock, CheckCircle2, Loader2 } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
-import { sendEvent } from '../lib/capi'
+import { sendEvent } from '../lib/gtm'
 
 interface Props {
   clinic: Clinic | null

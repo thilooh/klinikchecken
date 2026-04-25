@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Search, MapPin, Navigation } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
-import { sendEvent } from '../lib/capi'
+import { sendEvent } from '../lib/gtm'
 
 interface Props {
   filters: FilterState
