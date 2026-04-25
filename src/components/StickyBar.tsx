@@ -27,9 +27,9 @@ export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF
               {clinics.map(c => (
                 <div key={c.id} title={c.name} style={{
                   width: '32px', height: '32px', borderRadius: '50%',
-                  backgroundColor: '#0052CC', border: '2px solid rgba(255,255,255,0.4)',
+                  backgroundColor: '#fff', border: '2px solid rgba(255,255,255,0.6)',
                   display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  fontSize: '11px', fontWeight: 700, color: '#fff', flexShrink: 0, overflow: 'hidden',
+                  fontSize: '11px', fontWeight: 700, color: '#003399', flexShrink: 0, overflow: 'hidden',
                 }}>
                   {c.media?.logo
                     ? <img src={c.media.logo} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
@@ -54,9 +54,9 @@ export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF
             {clinics.map(c => (
               <div key={c.id} title={c.name} style={{
                 width: '36px', height: '36px', borderRadius: '50%',
-                backgroundColor: '#0052CC', border: '2px solid rgba(255,255,255,0.4)',
+                backgroundColor: '#fff', border: '2px solid rgba(255,255,255,0.6)',
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
-                fontSize: '12px', fontWeight: 700, color: '#fff', flexShrink: 0, overflow: 'hidden',
+                fontSize: '12px', fontWeight: 700, color: '#003399', flexShrink: 0, overflow: 'hidden',
               }}>
                 {c.media?.logo
                   ? <img src={c.media.logo} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
