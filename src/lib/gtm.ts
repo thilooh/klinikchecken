@@ -76,10 +76,14 @@ export function sendEvent(
       }
     }
     if (userData?.firstName) {
-      userPayload.fn = await sha256(userData.firstName.trim().toLowerCase())
+      const fn = userData.firstName.trim().toLowerCase()
+      userPayload.user_first_name = fn
+      userPayload.fn = await sha256(fn)
     }
     if (userData?.lastName) {
-      userPayload.ln = await sha256(userData.lastName.trim().toLowerCase())
+      const ln = userData.lastName.trim().toLowerCase()
+      userPayload.user_last_name = ln
+      userPayload.ln = await sha256(ln)
     }
 
     dl().push({
