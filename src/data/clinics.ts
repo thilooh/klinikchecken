@@ -3219,7 +3219,7 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Nd:YAG Laser', 'Hannover'],
     headline: 'Phlebologie im Herzen Hannovers – Verödung & Nd:YAG Laser',
     usp: ['Kostenlose Erstberatung', 'Online-Terminbuchung', 'Erfahrene Phlebologin mit 15+ Jahren Expertise'],
-    media: { logo: '/images/clinic-56/logo.svg', streetview: '/images/clinic-56/streetview.jpg', map: '/images/clinic-56/map.jpg' },
+    media: { logo: '/images/clinic-56/logo.svg', streetview: '/images/clinic-56/streetview.svg', map: '/images/clinic-56/map.svg' },
   },
 
   {
@@ -3251,7 +3251,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Hannover'],
     headline: 'Angiologische Venenpraxis List – Mikroschaum-Sklerotherapie',
     usp: ['Spezialisiert auf Mikroschaum-Sklerotherapie', 'Parkplätze direkt am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-57/logo.svg', streetview: '/images/clinic-57/streetview.jpg', map: '/images/clinic-57/map.jpg' },
+    media: { logo: '/images/clinic-57/logo.svg', streetview: '/images/clinic-57/streetview.svg', map: '/images/clinic-57/map.svg' },
   },
 
   // ── BREMEN ────────────────────────────────────────────────────────────────
@@ -3285,7 +3285,7 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'IPL', 'Bremen'],
     headline: 'Dermatologie am Bremer Marktplatz – Besenreiser zentral behandeln',
     usp: ['Bestlage am historischen Marktplatz', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-58/logo.svg', streetview: '/images/clinic-58/streetview.jpg', map: '/images/clinic-58/map.jpg' },
+    media: { logo: '/images/clinic-58/logo.svg', streetview: '/images/clinic-58/streetview.svg', map: '/images/clinic-58/map.svg' },
   },
 
   {
@@ -3317,7 +3317,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Nd:YAG', 'Bremen'],
     headline: 'Phlebologische Praxis Schwachhausen – ganzheitliche Venentherapie',
     usp: ['Kostenlose Erstberatung', 'Parkplätze vorhanden', 'Kombinationstherapie Verödung + Laser'],
-    media: { logo: '/images/clinic-59/logo.svg', streetview: '/images/clinic-59/streetview.jpg', map: '/images/clinic-59/map.jpg' },
+    media: { logo: '/images/clinic-59/logo.svg', streetview: '/images/clinic-59/streetview.svg', map: '/images/clinic-59/map.svg' },
   },
 
   // ── KIEL ──────────────────────────────────────────────────────────────────
@@ -3351,7 +3351,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Verödung', 'Kiel'],
     headline: 'Hautarztpraxis Kiel Mitte – Besenreiser schonend behandeln',
     usp: ['Zentral in der Kieler Innenstadt', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-60/logo.svg', streetview: '/images/clinic-60/streetview.jpg', map: '/images/clinic-60/map.jpg' },
+    media: { logo: '/images/clinic-60/logo.svg', streetview: '/images/clinic-60/streetview.svg', map: '/images/clinic-60/map.svg' },
   },
 
   {
@@ -3383,7 +3383,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Kiel'],
     headline: 'Phlebologiezentrum Kiel – Expertise auf Professoren-Niveau',
     usp: ['Professor für Dermatologie & Phlebologie', 'Abendtermine verfügbar', 'Alle modernen Methoden unter einem Dach'],
-    media: { logo: '/images/clinic-61/logo.svg', streetview: '/images/clinic-61/streetview.jpg', map: '/images/clinic-61/map.jpg' },
+    media: { logo: '/images/clinic-61/logo.svg', streetview: '/images/clinic-61/streetview.svg', map: '/images/clinic-61/map.svg' },
   },
 
   // ── ROSTOCK ───────────────────────────────────────────────────────────────
@@ -3417,7 +3417,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Verödung', 'Rostock'],
     headline: 'Hautarztpraxis Rostock-Zentrum – Besenreiser mit Verödung behandeln',
     usp: ['Zentrale Lage an der Kröpeliner Straße', 'Kassenpatienten willkommen', 'Jahrzehntelange Erfahrung in der Phlebologie'],
-    media: { logo: '/images/clinic-62/logo.svg', streetview: '/images/clinic-62/streetview.jpg', map: '/images/clinic-62/map.jpg' },
+    media: { logo: '/images/clinic-62/logo.svg', streetview: '/images/clinic-62/streetview.svg', map: '/images/clinic-62/map.svg' },
   },
 
   {
@@ -3449,7 +3449,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Innere Medizin', 'Rostock'],
     headline: 'Internistische Venenpraxis Rostock – Mikroschaum-Sklerotherapie',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Spezialist für Mikroschaum-Verfahren'],
-    media: { logo: '/images/clinic-63/logo.svg', streetview: '/images/clinic-63/streetview.jpg', map: '/images/clinic-63/map.jpg' },
+    media: { logo: '/images/clinic-63/logo.svg', streetview: '/images/clinic-63/streetview.svg', map: '/images/clinic-63/map.svg' },
   },
 
   // ── BRAUNSCHWEIG ──────────────────────────────────────────────────────────
@@ -3483,7 +3483,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Braunschweig'],
     headline: 'Hautarztpraxis Braunschweig-Mitte – Laser & Verödung kombiniert',
     usp: ['Zentral in der Braunschweiger Innenstadt', 'Online-Terminbuchung verfügbar', 'Nd:YAG Laser für tiefere Gefäße'],
-    media: { logo: '/images/clinic-64/logo.svg', streetview: '/images/clinic-64/streetview.jpg', map: '/images/clinic-64/map.jpg' },
+    media: { logo: '/images/clinic-64/logo.svg', streetview: '/images/clinic-64/streetview.svg', map: '/images/clinic-64/map.svg' },
   },
 
   {
@@ -3515,7 +3515,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Braunschweig'],
     headline: 'Phlebologische Praxis Braunschweig – chirurgische Venenkompetenz',
     usp: ['Kostenlose Erstberatung', 'Parkplätze direkt vor dem Haus', 'Chirurgisch-phlebologische Doppelqualifikation'],
-    media: { logo: '/images/clinic-65/logo.svg', streetview: '/images/clinic-65/streetview.jpg', map: '/images/clinic-65/map.jpg' },
+    media: { logo: '/images/clinic-65/logo.svg', streetview: '/images/clinic-65/streetview.svg', map: '/images/clinic-65/map.svg' },
   },
 
   // ── MAGDEBURG ─────────────────────────────────────────────────────────────
@@ -3549,7 +3549,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Verödung', 'Magdeburg'],
     headline: 'Hautarztpraxis Magdeburg-Altstadt – Besenreiser zuverlässig behandeln',
     usp: ['Erfahrene Praxis im Herzen Magdeburgs', 'Kassenpatienten willkommen', 'IPL für oberflächliche Rötungen'],
-    media: { logo: '/images/clinic-66/logo.svg', streetview: '/images/clinic-66/streetview.jpg', map: '/images/clinic-66/map.jpg' },
+    media: { logo: '/images/clinic-66/logo.svg', streetview: '/images/clinic-66/streetview.svg', map: '/images/clinic-66/map.svg' },
   },
 
   {
@@ -3581,7 +3581,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Magdeburg'],
     headline: 'Angiologische Venenpraxis am Magdeburger Dom – Mikroschaum & Laser',
     usp: ['Kostenlose Erstberatung', 'Online-Terminbuchung', 'Panoramablick auf den Magdeburger Dom'],
-    media: { logo: '/images/clinic-67/logo.svg', streetview: '/images/clinic-67/streetview.jpg', map: '/images/clinic-67/map.jpg' },
+    media: { logo: '/images/clinic-67/logo.svg', streetview: '/images/clinic-67/streetview.svg', map: '/images/clinic-67/map.svg' },
   },
 
   // ── LÜBECK ────────────────────────────────────────────────────────────────
@@ -3615,7 +3615,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Phlebologie', 'Lübeck'],
     headline: 'Dermatologische Praxis Lübeck – Besenreiser in der UNESCO-Altstadt',
     usp: ['Zentral in der Lübecker Altstadt', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-68/logo.svg', streetview: '/images/clinic-68/streetview.jpg', map: '/images/clinic-68/map.jpg' },
+    media: { logo: '/images/clinic-68/logo.svg', streetview: '/images/clinic-68/streetview.svg', map: '/images/clinic-68/map.svg' },
   },
 
   {
@@ -3647,7 +3647,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Lübeck'],
     headline: 'Phlebologiezentrum Lübeck – alle Methoden für Besenreiser',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'DGP-zertifizierter Phlebologe'],
-    media: { logo: '/images/clinic-69/logo.svg', streetview: '/images/clinic-69/streetview.jpg', map: '/images/clinic-69/map.jpg' },
+    media: { logo: '/images/clinic-69/logo.svg', streetview: '/images/clinic-69/streetview.svg', map: '/images/clinic-69/map.svg' },
   },
 
   // ── BONN ──────────────────────────────────────────────────────────────────
@@ -3681,7 +3681,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Bonn'],
     headline: 'Hautarztpraxis am Bonner Münster – Laser & Verödung zentral',
     usp: ['Bestlage am Bonner Münsterplatz', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-70/logo.svg', streetview: '/images/clinic-70/streetview.jpg', map: '/images/clinic-70/map.jpg' },
+    media: { logo: '/images/clinic-70/logo.svg', streetview: '/images/clinic-70/streetview.svg', map: '/images/clinic-70/map.svg' },
   },
 
   {
@@ -3713,7 +3713,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Bonn'],
     headline: 'Phlebologische Praxis Bad Godesberg – Mikroschaum-Sklerotherapie',
     usp: ['Kostenlose Erstberatung', 'Parkplätze direkt am Haus', 'Spezialisiert auf schwierige Venenbilder'],
-    media: { logo: '/images/clinic-71/logo.svg', streetview: '/images/clinic-71/streetview.jpg', map: '/images/clinic-71/map.jpg' },
+    media: { logo: '/images/clinic-71/logo.svg', streetview: '/images/clinic-71/streetview.svg', map: '/images/clinic-71/map.svg' },
   },
 
   // ── AACHEN ────────────────────────────────────────────────────────────────
@@ -3747,7 +3747,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'IPL', 'Aachen'],
     headline: 'Hautarztpraxis Aachen-Mitte – IPL & Verödung für Besenreiser',
     usp: ['Zentrumsnähe im Aachener Stadtgebiet', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-72/logo.svg', streetview: '/images/clinic-72/streetview.jpg', map: '/images/clinic-72/map.jpg' },
+    media: { logo: '/images/clinic-72/logo.svg', streetview: '/images/clinic-72/streetview.svg', map: '/images/clinic-72/map.svg' },
   },
 
   {
@@ -3779,7 +3779,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Aachen'],
     headline: 'Angiologische Praxis Aachen – Mikroschaum & Nd:YAG Laser',
     usp: ['Kostenlose Erstberatung', 'Abendtermine verfügbar', 'Online-Terminbuchung'],
-    media: { logo: '/images/clinic-73/logo.svg', streetview: '/images/clinic-73/streetview.jpg', map: '/images/clinic-73/map.jpg' },
+    media: { logo: '/images/clinic-73/logo.svg', streetview: '/images/clinic-73/streetview.svg', map: '/images/clinic-73/map.svg' },
   },
 
   // ── MÜNSTER ───────────────────────────────────────────────────────────────
@@ -3813,7 +3813,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Phlebologie', 'Münster'],
     headline: 'Hautarztpraxis am Prinzipalmarkt Münster – Laser & Verödung',
     usp: ['Beste Lage am historischen Prinzipalmarkt', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-74/logo.svg', streetview: '/images/clinic-74/streetview.jpg', map: '/images/clinic-74/map.jpg' },
+    media: { logo: '/images/clinic-74/logo.svg', streetview: '/images/clinic-74/streetview.svg', map: '/images/clinic-74/map.svg' },
   },
 
   {
@@ -3845,7 +3845,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Münster'],
     headline: 'Phlebologische Praxis Münster-Geistviertel – chirurgische Venenkompetenz',
     usp: ['Kostenlose Erstberatung', 'Parkplätze vorhanden', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-75/logo.svg', streetview: '/images/clinic-75/streetview.jpg', map: '/images/clinic-75/map.jpg' },
+    media: { logo: '/images/clinic-75/logo.svg', streetview: '/images/clinic-75/streetview.svg', map: '/images/clinic-75/map.svg' },
   },
 
   // ── BIELEFELD ─────────────────────────────────────────────────────────────
@@ -3879,7 +3879,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Bielefeld'],
     headline: 'Hautarztpraxis Bielefeld-Mitte – Nd:YAG Laser & Verödung',
     usp: ['Zentral am Hauptbahnhof Bielefeld', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-76/logo.svg', streetview: '/images/clinic-76/streetview.jpg', map: '/images/clinic-76/map.jpg' },
+    media: { logo: '/images/clinic-76/logo.svg', streetview: '/images/clinic-76/streetview.svg', map: '/images/clinic-76/map.svg' },
   },
 
   // ── WUPPERTAL ─────────────────────────────────────────────────────────────
@@ -3913,7 +3913,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Phlebologie', 'Wuppertal'],
     headline: 'Hautarztpraxis Wuppertal-Elberfeld – Laser & Verödung für Besenreiser',
     usp: ['Parkplätze direkt am Haus', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-77/logo.svg', streetview: '/images/clinic-77/streetview.jpg', map: '/images/clinic-77/map.jpg' },
+    media: { logo: '/images/clinic-77/logo.svg', streetview: '/images/clinic-77/streetview.svg', map: '/images/clinic-77/map.svg' },
   },
 
   // ── BOCHUM ────────────────────────────────────────────────────────────────
@@ -3947,7 +3947,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Bochum'],
     headline: 'Angiologische Venenpraxis Bochum-Zentrum – Mikroschaum-Sklerotherapie',
     usp: ['Kostenlose Erstberatung', 'Online-Terminbuchung', 'Spezialisiert auf angiologische Diagnostik'],
-    media: { logo: '/images/clinic-78/logo.svg', streetview: '/images/clinic-78/streetview.jpg', map: '/images/clinic-78/map.jpg' },
+    media: { logo: '/images/clinic-78/logo.svg', streetview: '/images/clinic-78/streetview.svg', map: '/images/clinic-78/map.svg' },
   },
 
   // ── DUISBURG ──────────────────────────────────────────────────────────────
@@ -3981,7 +3981,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Verödung', 'Duisburg'],
     headline: 'Hautarztpraxis Duisburg-Zentrum – Besenreiser veroden lassen',
     usp: ['Zentrale Lage in der Duisburger Innenstadt', 'Kassenpatienten willkommen', 'Jahrelange Erfahrung in Phlebologie'],
-    media: { logo: '/images/clinic-79/logo.svg', streetview: '/images/clinic-79/streetview.jpg', map: '/images/clinic-79/map.jpg' },
+    media: { logo: '/images/clinic-79/logo.svg', streetview: '/images/clinic-79/streetview.svg', map: '/images/clinic-79/map.svg' },
   },
 
   {
@@ -4013,7 +4013,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Duisburg'],
     headline: 'Phlebologische Praxis Duisburg-Hochfeld – chirurgische Venenkompetenz',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Alle modernen Besenreiser-Methoden'],
-    media: { logo: '/images/clinic-80/logo.svg', streetview: '/images/clinic-80/streetview.jpg', map: '/images/clinic-80/map.jpg' },
+    media: { logo: '/images/clinic-80/logo.svg', streetview: '/images/clinic-80/streetview.svg', map: '/images/clinic-80/map.svg' },
   },
 
   // ── AUGSBURG ──────────────────────────────────────────────────────────────
@@ -4047,7 +4047,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Augsburg'],
     headline: 'Hautarztpraxis Augsburg-Maximilianstraße – Laser & Verödung',
     usp: ['Bestlage an der Augsburger Prachtstraße', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-81/logo.svg', streetview: '/images/clinic-81/streetview.jpg', map: '/images/clinic-81/map.jpg' },
+    media: { logo: '/images/clinic-81/logo.svg', streetview: '/images/clinic-81/streetview.svg', map: '/images/clinic-81/map.svg' },
   },
 
   {
@@ -4079,7 +4079,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Augsburg'],
     headline: 'Angiologische Venenpraxis Augsburg-Göggingen – Mikroschaum-Methode',
     usp: ['Kostenlose Erstberatung', 'Parkplätze vorhanden', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-82/logo.svg', streetview: '/images/clinic-82/streetview.jpg', map: '/images/clinic-82/map.jpg' },
+    media: { logo: '/images/clinic-82/logo.svg', streetview: '/images/clinic-82/streetview.svg', map: '/images/clinic-82/map.svg' },
   },
 
   // ── FREIBURG ──────────────────────────────────────────────────────────────
@@ -4113,7 +4113,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Freiburg'],
     headline: 'Hautarztpraxis Freiburg-Altstadt – Besenreiser mit Laser & Verödung',
     usp: ['Zentral in der Freiburger Altstadt', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-83/logo.svg', streetview: '/images/clinic-83/streetview.jpg', map: '/images/clinic-83/map.jpg' },
+    media: { logo: '/images/clinic-83/logo.svg', streetview: '/images/clinic-83/streetview.svg', map: '/images/clinic-83/map.svg' },
   },
 
   {
@@ -4145,7 +4145,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'DGP', 'Freiburg'],
     headline: 'DGP-zertifizierte Phlebologie Freiburg – Exzellenz für Ihre Beine',
     usp: ['DGP-zertifizierter Phlebologe', 'Kostenlose Erstberatung', 'Online-Terminbuchung'],
-    media: { logo: '/images/clinic-84/logo.svg', streetview: '/images/clinic-84/streetview.jpg', map: '/images/clinic-84/map.jpg' },
+    media: { logo: '/images/clinic-84/logo.svg', streetview: '/images/clinic-84/streetview.svg', map: '/images/clinic-84/map.svg' },
   },
 
   // ── ULM ───────────────────────────────────────────────────────────────────
@@ -4179,7 +4179,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Ulm'],
     headline: 'Hautarztpraxis Ulm-Mitte – Besenreiser zentral behandeln',
     usp: ['Zentrale Lage in der Ulmer City', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-85/logo.svg', streetview: '/images/clinic-85/streetview.jpg', map: '/images/clinic-85/map.jpg' },
+    media: { logo: '/images/clinic-85/logo.svg', streetview: '/images/clinic-85/streetview.svg', map: '/images/clinic-85/map.svg' },
   },
 
   // ── HEIDELBERG ────────────────────────────────────────────────────────────
@@ -4213,7 +4213,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Phlebologie', 'Heidelberg'],
     headline: 'Phlebologie Heidelberg-Hauptstraße – Besenreiser auf höchstem Niveau',
     usp: ['Top-Lage in der Heidelberger Altstadt', 'Abendtermine verfügbar', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-86/logo.svg', streetview: '/images/clinic-86/streetview.jpg', map: '/images/clinic-86/map.jpg' },
+    media: { logo: '/images/clinic-86/logo.svg', streetview: '/images/clinic-86/streetview.svg', map: '/images/clinic-86/map.svg' },
   },
 
   {
@@ -4245,7 +4245,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Heidelberg'],
     headline: 'Venenpraxis Neuenheim – Mikroschaum-Sklerotherapie in ruhiger Lage',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Online-Terminbuchung'],
-    media: { logo: '/images/clinic-87/logo.svg', streetview: '/images/clinic-87/streetview.jpg', map: '/images/clinic-87/map.jpg' },
+    media: { logo: '/images/clinic-87/logo.svg', streetview: '/images/clinic-87/streetview.svg', map: '/images/clinic-87/map.svg' },
   },
 
   // ── KARLSRUHE ─────────────────────────────────────────────────────────────
@@ -4279,7 +4279,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Karlsruhe'],
     headline: 'Hautarztpraxis Karlsruhe-Kaiserstraße – Nd:YAG & IPL zentral',
     usp: ['Top-Lage an der Karlsruher Kaiserstraße', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-88/logo.svg', streetview: '/images/clinic-88/streetview.jpg', map: '/images/clinic-88/map.jpg' },
+    media: { logo: '/images/clinic-88/logo.svg', streetview: '/images/clinic-88/streetview.svg', map: '/images/clinic-88/map.svg' },
   },
 
   {
@@ -4311,7 +4311,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Karlsruhe'],
     headline: 'Chirurgisch-phlebologische Praxis Karlsruhe-Weststadt',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Kombinierte Methoden für optimale Ergebnisse'],
-    media: { logo: '/images/clinic-89/logo.svg', streetview: '/images/clinic-89/streetview.jpg', map: '/images/clinic-89/map.jpg' },
+    media: { logo: '/images/clinic-89/logo.svg', streetview: '/images/clinic-89/streetview.svg', map: '/images/clinic-89/map.svg' },
   },
 
   // ── MANNHEIM ──────────────────────────────────────────────────────────────
@@ -4345,7 +4345,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'IPL', 'Mannheim'],
     headline: 'Hautarztpraxis Mannheim-Innenstadt – Besenreiser sicher behandeln',
     usp: ['Zentrale Lage in Mannheims Quadraten', 'Kassenpatienten willkommen', 'IPL für feine Rötungen'],
-    media: { logo: '/images/clinic-90/logo.svg', streetview: '/images/clinic-90/streetview.jpg', map: '/images/clinic-90/map.jpg' },
+    media: { logo: '/images/clinic-90/logo.svg', streetview: '/images/clinic-90/streetview.svg', map: '/images/clinic-90/map.svg' },
   },
 
   {
@@ -4377,7 +4377,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Mannheim'],
     headline: 'Angiologische Praxis Neckarau – Mikroschaum-Therapie mit Parkplatz',
     usp: ['Kostenlose Erstberatung', 'Parkplätze direkt am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-91/logo.svg', streetview: '/images/clinic-91/streetview.jpg', map: '/images/clinic-91/map.jpg' },
+    media: { logo: '/images/clinic-91/logo.svg', streetview: '/images/clinic-91/streetview.svg', map: '/images/clinic-91/map.svg' },
   },
 
   // ── REGENSBURG ────────────────────────────────────────────────────────────
@@ -4411,7 +4411,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Phlebologie', 'Regensburg'],
     headline: 'Hautarztpraxis Regensburg-Altstadt – Besenreiser in der UNESCO-Stadt',
     usp: ['Zentrale Lage in der Regensburger Altstadt', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-92/logo.svg', streetview: '/images/clinic-92/streetview.jpg', map: '/images/clinic-92/map.jpg' },
+    media: { logo: '/images/clinic-92/logo.svg', streetview: '/images/clinic-92/streetview.svg', map: '/images/clinic-92/map.svg' },
   },
 
   // ── WÜRZBURG ──────────────────────────────────────────────────────────────
@@ -4445,7 +4445,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Würzburg'],
     headline: 'Hautarztpraxis Würzburg-Innenstadt – Laser & Verödung zentral',
     usp: ['Zentral in der Würzburger Innenstadt', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-93/logo.svg', streetview: '/images/clinic-93/streetview.jpg', map: '/images/clinic-93/map.jpg' },
+    media: { logo: '/images/clinic-93/logo.svg', streetview: '/images/clinic-93/streetview.svg', map: '/images/clinic-93/map.svg' },
   },
 
   {
@@ -4477,7 +4477,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Würzburg'],
     headline: 'Chirurgisch-phlebologische Praxis Würzburg-Frauenland',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-94/logo.svg', streetview: '/images/clinic-94/streetview.jpg', map: '/images/clinic-94/map.jpg' },
+    media: { logo: '/images/clinic-94/logo.svg', streetview: '/images/clinic-94/streetview.svg', map: '/images/clinic-94/map.svg' },
   },
 
   // ── DRESDEN ───────────────────────────────────────────────────────────────
@@ -4511,7 +4511,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Dresden'],
     headline: 'Hautarztpraxis Dresden-Mitte – Laser & Verödung an der Prager Straße',
     usp: ['Top-Lage an der Dresdner Prager Straße', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-95/logo.svg', streetview: '/images/clinic-95/streetview.jpg', map: '/images/clinic-95/map.jpg' },
+    media: { logo: '/images/clinic-95/logo.svg', streetview: '/images/clinic-95/streetview.svg', map: '/images/clinic-95/map.svg' },
   },
 
   {
@@ -4543,7 +4543,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Dresden'],
     headline: 'Phlebologische Praxis Blasewitz – Mikroschaum & Laser in Elbelbogenähe',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Online-Terminbuchung'],
-    media: { logo: '/images/clinic-96/logo.svg', streetview: '/images/clinic-96/streetview.jpg', map: '/images/clinic-96/map.jpg' },
+    media: { logo: '/images/clinic-96/logo.svg', streetview: '/images/clinic-96/streetview.svg', map: '/images/clinic-96/map.svg' },
   },
 
   // ── CHEMNITZ ──────────────────────────────────────────────────────────────
@@ -4577,7 +4577,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Verödung', 'Chemnitz'],
     headline: 'Hautarztpraxis Chemnitz-Zentrum – Besenreiser zuverlässig behandeln',
     usp: ['Zentrale Lage in Chemnitz', 'Parkplätze vorhanden', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-97/logo.svg', streetview: '/images/clinic-97/streetview.jpg', map: '/images/clinic-97/map.jpg' },
+    media: { logo: '/images/clinic-97/logo.svg', streetview: '/images/clinic-97/streetview.svg', map: '/images/clinic-97/map.svg' },
   },
 
   // ── ERFURT ────────────────────────────────────────────────────────────────
@@ -4611,7 +4611,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Phlebologie', 'Erfurt'],
     headline: 'Phlebologische Praxis am Erfurter Anger – Laser & Verödung zentral',
     usp: ['Bestlage am Erfurter Anger', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-98/logo.svg', streetview: '/images/clinic-98/streetview.jpg', map: '/images/clinic-98/map.jpg' },
+    media: { logo: '/images/clinic-98/logo.svg', streetview: '/images/clinic-98/streetview.svg', map: '/images/clinic-98/map.svg' },
   },
 
   {
@@ -4643,7 +4643,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Erfurt'],
     headline: 'Chirurgisch-phlebologische Praxis Erfurt – Mikroschaum-Sklerotherapie',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-99/logo.svg', streetview: '/images/clinic-99/streetview.jpg', map: '/images/clinic-99/map.jpg' },
+    media: { logo: '/images/clinic-99/logo.svg', streetview: '/images/clinic-99/streetview.svg', map: '/images/clinic-99/map.svg' },
   },
 
   // ── POTSDAM ───────────────────────────────────────────────────────────────
@@ -4677,7 +4677,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Potsdam'],
     headline: 'Hautarztpraxis Potsdam-Innenstadt – Laser & Verödung zentral',
     usp: ['Zentrale Lage in Potsdam', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-100/logo.svg', streetview: '/images/clinic-100/streetview.jpg', map: '/images/clinic-100/map.jpg' },
+    media: { logo: '/images/clinic-100/logo.svg', streetview: '/images/clinic-100/streetview.svg', map: '/images/clinic-100/map.svg' },
   },
 
   {
@@ -4709,7 +4709,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Potsdam'],
     headline: 'Angiologische Venenpraxis Babelsberg – nahe Filmstudio',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-101/logo.svg', streetview: '/images/clinic-101/streetview.jpg', map: '/images/clinic-101/map.jpg' },
+    media: { logo: '/images/clinic-101/logo.svg', streetview: '/images/clinic-101/streetview.svg', map: '/images/clinic-101/map.svg' },
   },
 
   // ── WIESBADEN ─────────────────────────────────────────────────────────────
@@ -4743,7 +4743,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Phlebologie', 'Wiesbaden'],
     headline: 'Phlebologische Praxis Wiesbaden – Besenreiser an der Kurpromenade',
     usp: ['Bestlage an der Wiesbadener Wilhelmstraße', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-102/logo.svg', streetview: '/images/clinic-102/streetview.jpg', map: '/images/clinic-102/map.jpg' },
+    media: { logo: '/images/clinic-102/logo.svg', streetview: '/images/clinic-102/streetview.svg', map: '/images/clinic-102/map.svg' },
   },
 
   {
@@ -4775,7 +4775,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Wiesbaden'],
     headline: 'Phlebologische Praxis Biebrich – Mikroschaum mit Rheinblick',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-103/logo.svg', streetview: '/images/clinic-103/streetview.jpg', map: '/images/clinic-103/map.jpg' },
+    media: { logo: '/images/clinic-103/logo.svg', streetview: '/images/clinic-103/streetview.svg', map: '/images/clinic-103/map.svg' },
   },
 
   // ── MAINZ ─────────────────────────────────────────────────────────────────
@@ -4809,7 +4809,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Mainz'],
     headline: 'Hautarztpraxis Mainz-Altstadt – Laser & Verödung nahe dem Dom',
     usp: ['Zentrale Lage in der Mainzer Altstadt', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-104/logo.svg', streetview: '/images/clinic-104/streetview.jpg', map: '/images/clinic-104/map.jpg' },
+    media: { logo: '/images/clinic-104/logo.svg', streetview: '/images/clinic-104/streetview.svg', map: '/images/clinic-104/map.svg' },
   },
 
   // ── KASSEL ────────────────────────────────────────────────────────────────
@@ -4843,7 +4843,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Verödung', 'Kassel'],
     headline: 'Hautarztpraxis Kassel-Mitte – Besenreiser am Königsplatz behandeln',
     usp: ['Zentrale Lage am Kasseler Königsplatz', 'Kassenpatienten willkommen', 'IPL für feine Besenreiser'],
-    media: { logo: '/images/clinic-105/logo.svg', streetview: '/images/clinic-105/streetview.jpg', map: '/images/clinic-105/map.jpg' },
+    media: { logo: '/images/clinic-105/logo.svg', streetview: '/images/clinic-105/streetview.svg', map: '/images/clinic-105/map.svg' },
   },
 
   {
@@ -4875,7 +4875,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Kassel'],
     headline: 'Phlebologische Praxis Kassel-Süd – alle Methoden unter einem Dach',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Online-Terminbuchung'],
-    media: { logo: '/images/clinic-106/logo.svg', streetview: '/images/clinic-106/streetview.jpg', map: '/images/clinic-106/map.jpg' },
+    media: { logo: '/images/clinic-106/logo.svg', streetview: '/images/clinic-106/streetview.svg', map: '/images/clinic-106/map.svg' },
   },
 
   // ── SAARBRÜCKEN ───────────────────────────────────────────────────────────
@@ -4909,7 +4909,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Saarbrücken'],
     headline: 'Hautarztpraxis Saarbrücken-Mitte – Nd:YAG & Verödung zentral',
     usp: ['Zentral am Saarbrücker Hauptbahnhof', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-107/logo.svg', streetview: '/images/clinic-107/streetview.jpg', map: '/images/clinic-107/map.jpg' },
+    media: { logo: '/images/clinic-107/logo.svg', streetview: '/images/clinic-107/streetview.svg', map: '/images/clinic-107/map.svg' },
   },
 
   {
@@ -4941,7 +4941,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Saarbrücken'],
     headline: 'Angiologische Praxis Saarbrücken – Mikroschaum-Sklerotherapie',
     usp: ['Kostenlose Erstberatung', 'Parkplätze vorhanden', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-108/logo.svg', streetview: '/images/clinic-108/streetview.jpg', map: '/images/clinic-108/map.jpg' },
+    media: { logo: '/images/clinic-108/logo.svg', streetview: '/images/clinic-108/streetview.svg', map: '/images/clinic-108/map.svg' },
   },
 
   // ── GÖTTINGEN ─────────────────────────────────────────────────────────────
@@ -4975,7 +4975,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Nd:YAG', 'Göttingen'],
     headline: 'Hautarztpraxis Göttingen-Innenstadt – Laser & Verödung in der Uni-Stadt',
     usp: ['Zentrale Lage in der Göttinger Innenstadt', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-109/logo.svg', streetview: '/images/clinic-109/streetview.jpg', map: '/images/clinic-109/map.jpg' },
+    media: { logo: '/images/clinic-109/logo.svg', streetview: '/images/clinic-109/streetview.svg', map: '/images/clinic-109/map.svg' },
   },
 
   {
@@ -5007,7 +5007,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Göttingen'],
     headline: 'Chirurgisch-phlebologische Praxis Göttingen – nahe der Uni',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Alle modernen Methoden verfügbar'],
-    media: { logo: '/images/clinic-110/logo.svg', streetview: '/images/clinic-110/streetview.jpg', map: '/images/clinic-110/map.jpg' },
+    media: { logo: '/images/clinic-110/logo.svg', streetview: '/images/clinic-110/streetview.svg', map: '/images/clinic-110/map.svg' },
   },
 
   // ── HANNOVER (3.) ─────────────────────────────────────────────────────────
@@ -5041,7 +5041,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Hannover'],
     headline: 'Phlebologische Praxis Hannover-Südstadt – chirurgische Venenkompetenz',
     usp: ['Kostenlose Erstberatung', 'Parkplätze vorhanden', 'Online-Terminbuchung'],
-    media: { logo: '/images/clinic-111/logo.svg', streetview: '/images/clinic-111/streetview.jpg', map: '/images/clinic-111/map.jpg' },
+    media: { logo: '/images/clinic-111/logo.svg', streetview: '/images/clinic-111/streetview.svg', map: '/images/clinic-111/map.svg' },
   },
 
   // ── BREMEN (3.) ───────────────────────────────────────────────────────────
@@ -5075,7 +5075,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Innere Medizin', 'Bremen'],
     headline: 'MVZ Phlebologie Bremen-Nord – Besenreiser im nördlichen Bremen',
     usp: ['Parkplätze direkt am Haus', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-112/logo.svg', streetview: '/images/clinic-112/streetview.jpg', map: '/images/clinic-112/map.jpg' },
+    media: { logo: '/images/clinic-112/logo.svg', streetview: '/images/clinic-112/streetview.svg', map: '/images/clinic-112/map.svg' },
   },
 
   // ── LÜBECK (3.) ───────────────────────────────────────────────────────────
@@ -5109,7 +5109,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'IPL', 'Lübeck'],
     headline: 'Hautarztpraxis Lübeck-St. Lorenz – Besenreiser nahe der Autobahn',
     usp: ['Parkplätze direkt am Haus', 'Kassenpatienten willkommen', 'IPL-Therapie für oberflächliche Rötungen'],
-    media: { logo: '/images/clinic-113/logo.svg', streetview: '/images/clinic-113/streetview.jpg', map: '/images/clinic-113/map.jpg' },
+    media: { logo: '/images/clinic-113/logo.svg', streetview: '/images/clinic-113/streetview.svg', map: '/images/clinic-113/map.svg' },
   },
 
   // ── BIELEFELD (2.) ────────────────────────────────────────────────────────
@@ -5143,7 +5143,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Bielefeld'],
     headline: 'Phlebologische Praxis Bielefeld-Brackwede – Mikroschaum & Laser',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-114/logo.svg', streetview: '/images/clinic-114/streetview.jpg', map: '/images/clinic-114/map.jpg' },
+    media: { logo: '/images/clinic-114/logo.svg', streetview: '/images/clinic-114/streetview.svg', map: '/images/clinic-114/map.svg' },
   },
 
   // ── WUPPERTAL (2.) ────────────────────────────────────────────────────────
@@ -5177,7 +5177,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Wuppertal'],
     headline: 'Angiologische Praxis Wuppertal-Barmen – Mikroschaum-Sklerotherapie',
     usp: ['Kostenlose Erstberatung', 'Online-Terminbuchung', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-115/logo.svg', streetview: '/images/clinic-115/streetview.jpg', map: '/images/clinic-115/map.jpg' },
+    media: { logo: '/images/clinic-115/logo.svg', streetview: '/images/clinic-115/streetview.svg', map: '/images/clinic-115/map.svg' },
   },
 
   // ── BOCHUM (2.) ───────────────────────────────────────────────────────────
@@ -5211,7 +5211,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'IPL', 'Bochum'],
     headline: 'Hautarztpraxis Bochum-Langendreer – Besenreiser mit Parkplatz',
     usp: ['Parkplätze direkt am Haus', 'Kassenpatienten willkommen', 'Erfahrene Dermatologin-Phlebologie'],
-    media: { logo: '/images/clinic-116/logo.svg', streetview: '/images/clinic-116/streetview.jpg', map: '/images/clinic-116/map.jpg' },
+    media: { logo: '/images/clinic-116/logo.svg', streetview: '/images/clinic-116/streetview.svg', map: '/images/clinic-116/map.svg' },
   },
 
   // ── REGENSBURG (2.) ───────────────────────────────────────────────────────
@@ -5245,7 +5245,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Regensburg'],
     headline: 'Angiologische Praxis Regensburg – Mikroschaum-Therapie mit Parkplatz',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-117/logo.svg', streetview: '/images/clinic-117/streetview.jpg', map: '/images/clinic-117/map.jpg' },
+    media: { logo: '/images/clinic-117/logo.svg', streetview: '/images/clinic-117/streetview.svg', map: '/images/clinic-117/map.svg' },
   },
 
   // ── AUGSBURG (3.) ─────────────────────────────────────────────────────────
@@ -5279,7 +5279,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Augsburg'],
     headline: 'Phlebologische Praxis Augsburg-Pfersee – chirurgische Venenkompetenz',
     usp: ['Kostenlose Erstberatung', 'Parkplätze am Haus', 'Online-Terminbuchung'],
-    media: { logo: '/images/clinic-118/logo.svg', streetview: '/images/clinic-118/streetview.jpg', map: '/images/clinic-118/map.jpg' },
+    media: { logo: '/images/clinic-118/logo.svg', streetview: '/images/clinic-118/streetview.svg', map: '/images/clinic-118/map.svg' },
   },
 
   // ── CHEMNITZ (2.) ─────────────────────────────────────────────────────────
@@ -5313,7 +5313,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Mikroschaum', 'Chemnitz'],
     headline: 'Phlebologische Praxis Chemnitz-Gablenz – Mikroschaum-Sklerotherapie',
     usp: ['Kostenlose Erstberatung', 'Parkplätze vorhanden', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-119/logo.svg', streetview: '/images/clinic-119/streetview.jpg', map: '/images/clinic-119/map.jpg' },
+    media: { logo: '/images/clinic-119/logo.svg', streetview: '/images/clinic-119/streetview.svg', map: '/images/clinic-119/map.svg' },
   },
 
   // ── ULM (2.) ──────────────────────────────────────────────────────────────
@@ -5347,7 +5347,7 @@ export const clinics: Clinic[] = [
     tags: ['Phlebologie', 'Chirurgie', 'Ulm'],
     headline: 'Phlebologische Praxis Ulm-Oststadt – Mikroschaum & Nd:YAG',
     usp: ['Kostenlose Erstberatung', 'Online-Terminbuchung', 'Parkplätze am Haus'],
-    media: { logo: '/images/clinic-120/logo.svg', streetview: '/images/clinic-120/streetview.jpg', map: '/images/clinic-120/map.jpg' },
+    media: { logo: '/images/clinic-120/logo.svg', streetview: '/images/clinic-120/streetview.svg', map: '/images/clinic-120/map.svg' },
   },
 
   // ── MAINZ (2.) ────────────────────────────────────────────────────────────
@@ -5381,7 +5381,7 @@ export const clinics: Clinic[] = [
     tags: ['Angiologie', 'Mikroschaum', 'Mainz'],
     headline: 'Angiologische Praxis Mainz-Gonsenheim – Mikroschaum-Therapie',
     usp: ['Kostenlose Erstberatung', 'Parkplätze direkt am Haus', 'Ratenzahlung möglich'],
-    media: { logo: '/images/clinic-121/logo.svg', streetview: '/images/clinic-121/streetview.jpg', map: '/images/clinic-121/map.jpg' },
+    media: { logo: '/images/clinic-121/logo.svg', streetview: '/images/clinic-121/streetview.svg', map: '/images/clinic-121/map.svg' },
   },
 
   // ── POTSDAM (3.) ──────────────────────────────────────────────────────────
@@ -5415,7 +5415,7 @@ export const clinics: Clinic[] = [
     tags: ['Dermatologie', 'Phlebologie', 'Potsdam'],
     headline: 'Hautarztpraxis Potsdam-Babelsberg – Besenreiser mit Parkplatz',
     usp: ['Parkplätze direkt am Haus', 'Online-Terminbuchung', 'Kassenpatienten willkommen'],
-    media: { logo: '/images/clinic-122/logo.svg', streetview: '/images/clinic-122/streetview.jpg', map: '/images/clinic-122/map.jpg' },
+    media: { logo: '/images/clinic-122/logo.svg', streetview: '/images/clinic-122/streetview.svg', map: '/images/clinic-122/map.svg' },
   },
 
 ]
