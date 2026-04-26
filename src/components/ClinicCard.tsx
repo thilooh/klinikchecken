@@ -6,6 +6,8 @@ import { VARIANTS } from '../variants'
 import GoogleReviewsModal from './GoogleReviewsModal'
 import ClinicProfileModal from './ClinicProfileModal'
 import { clarityEvent } from '../lib/clarity'
+import { sendEvent } from '../lib/gtm'
+import { isOpenToday } from '../lib/openHours'
 
 interface Props {
   clinic: Clinic
@@ -78,6 +80,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
 
 export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600' }: Props) {
   const vt = cardVariant ?? VARIANTS.a.card
+  const openToday = isOpenToday(clinic.openHours)
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
   const [showProfile, setShowProfile] = useState(false)
@@ -221,8 +224,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             <USPs items={clinic.usp} />
             <ClinicTags clinic={clinic} />
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: clinic.openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
-              <span style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
+              <span style={{ color: openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
             </div>
           </div>
 
@@ -339,10 +342,10 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             {/* Col 3 – opening hours + CTA */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', width: '160px' }}>
               <div>
-                <div style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
-                  {clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
+                <div style={{ color: openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
+                  {openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
                 </div>
-                {clinic.openToday && (
+                {openToday && (
                   <div style={{ fontSize: '11px', color: '#555', lineHeight: 1.6 }}>
                     {clinic.openHours.split(', ').map((segment, i) => (
                       <div key={i}>{segment}</div>

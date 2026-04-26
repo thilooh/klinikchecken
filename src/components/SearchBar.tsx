@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Search, MapPin, Navigation } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
 import { sendEvent } from '../lib/gtm'
+import { geocodeAddress } from '../lib/geo'
 
 interface Props {
   filters: FilterState
@@ -125,17 +126,44 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
   const [showSuggestions, setShowSuggestions] = useState(false)
   const [locating, setLocating] = useState(false)
   const [locError, setLocError] = useState(false)
+  const [geocoding, setGeocoding] = useState(false)
 
   const matches = getMatches(val)
 
-  const apply = (cityName: string, source: 'user' | 'geo' = 'user') => {
+  const apply = (cityName: string, userLat?: number, userLng?: number) => {
     setVal(cityName)
-    setFilters({ ...filters, searchCity: cityName })
+    setFilters({ ...filters, searchCity: cityName, userLat, userLng, sortBy: userLat != null ? 'distance' : filters.sortBy })
     setShowSuggestions(false)
-    if (source === 'user') sendEvent('Search', { search_string: cityName })
+    sendEvent('Search', { search_string: cityName })
   }
 
-  const handleSearch = () => apply(resolveCity(val))
+  const looksLikeAddress = (t: string) =>
+    /\d/.test(t) && t.length > 5 && !CITIES.some(c => c.name.toLowerCase() === t.toLowerCase())
+
+  const handleSearch = async () => {
+    const t = val.trim()
+    const resolved = resolveCity(t)
+    const knownCity = CITIES.find(c => c.name === resolved)
+
+    if (knownCity) {
+      apply(resolved)
+      return
+    }
+
+    // Looks like a street address → geocode
+    if (looksLikeAddress(t)) {
+      setGeocoding(true)
+      const coords = await geocodeAddress(t)
+      setGeocoding(false)
+      if (coords) {
+        const city = nearestCity(coords.lat, coords.lng)
+        apply(city, coords.lat, coords.lng)
+        return
+      }
+    }
+
+    apply(resolved)
+  }
 
   const handleGeolocate = () => {
     if (!navigator.geolocation || locating) return
@@ -143,7 +171,8 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     setLocError(false)
     navigator.geolocation.getCurrentPosition(
       pos => {
-        apply(nearestCity(pos.coords.latitude, pos.coords.longitude), 'user')
+        const { latitude: lat, longitude: lng } = pos.coords
+        apply(nearestCity(lat, lng), lat, lng)
         setLocating(false)
       },
       () => { setLocating(false); setLocError(true) },
@@ -186,9 +215,9 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
             >
               <Navigation size={17} style={{ transform: locating ? 'none' : undefined, opacity: locating ? 0.5 : 1 }} />
             </button>
-            <button onClick={handleSearch} style={{ backgroundColor: '#0052CC', color: '#fff', fontWeight: 700, fontSize: '15px', height: '100%', padding: '0 28px', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '7px', flexShrink: 0 }}>
+            <button onClick={handleSearch} disabled={geocoding} style={{ backgroundColor: '#0052CC', color: '#fff', fontWeight: 700, fontSize: '15px', height: '100%', padding: '0 28px', border: 'none', cursor: geocoding ? 'wait' : 'pointer', display: 'flex', alignItems: 'center', gap: '7px', flexShrink: 0, opacity: geocoding ? 0.7 : 1 }}>
               <Search size={15} />
-              Suchen
+              {geocoding ? 'Suche...' : 'Suchen'}
             </button>
           </div>
 

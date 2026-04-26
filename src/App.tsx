@@ -153,6 +153,8 @@ const defaultFilters: FilterState = {
   },
   sortBy: 'rating',
   searchCity: 'Köln',
+  userLat: undefined,
+  userLng: undefined,
 }
 
 const interFont = "'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
@@ -204,7 +206,11 @@ export default function App() {
   }, [])
 
   const handleSetFilters = (f: FilterState) => {
-    if (f.searchCity !== filters.searchCity) setAutoCity(null)
+    if (f.searchCity !== filters.searchCity) {
+      setAutoCity(null)
+      // Clear user coords when city changes via sidebar/filter (not via search bar)
+      if (f.userLat === filters.userLat) f = { ...f, userLat: undefined, userLng: undefined }
+    }
     setFilters(f)
   }
 
