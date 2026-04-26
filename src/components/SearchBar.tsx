@@ -11,7 +11,7 @@ interface Props {
 
 const CITIES = [
   { name: 'Köln',                 plzPrefixes: ['50', '51'],             hint: 'PLZ 50xxx – 51xxx', lat: 50.938, lng:  6.960 },
-  { name: 'Düsseldorf',           plzPrefixes: ['40', '41'],             hint: 'PLZ 40xxx – 41xxx', lat: 51.222, lng:  6.776 },
+  { name: 'Düsseldorf',           plzPrefixes: ['40'],                   hint: 'PLZ 40xxx',         lat: 51.222, lng:  6.776 },
   { name: 'Frankfurt',            plzPrefixes: ['60', '61', '63'],       hint: 'PLZ 60xxx – 63xxx', lat: 50.111, lng:  8.682 },
   { name: 'Dortmund',             plzPrefixes: ['44'],                   hint: 'PLZ 44xxx',         lat: 51.514, lng:  7.465 },
   { name: 'Berlin',               plzPrefixes: ['10', '12', '13', '14'], hint: 'PLZ 10xxx – 14xxx', lat: 52.520, lng: 13.405 },
@@ -21,7 +21,7 @@ const CITIES = [
   { name: 'Nürnberg',             plzPrefixes: ['90', '91'],             hint: 'PLZ 90xxx – 91xxx', lat: 49.452, lng: 11.077 },
   { name: 'Stuttgart',            plzPrefixes: ['70', '71'],             hint: 'PLZ 70xxx – 71xxx', lat: 48.776, lng:  9.183 },
   { name: 'Essen',                plzPrefixes: ['45'],                   hint: 'PLZ 45xxx',         lat: 51.456, lng:  7.012 },
-  { name: 'Hannover',             plzPrefixes: ['30', '31'],             hint: 'PLZ 30xxx – 31xxx', lat: 52.370, lng:  9.733 },
+  { name: 'Hannover',             plzPrefixes: ['30'],                   hint: 'PLZ 30xxx',         lat: 52.370, lng:  9.733 },
   { name: 'Bremen',               plzPrefixes: ['27', '28'],             hint: 'PLZ 27xxx – 28xxx', lat: 53.075, lng:  8.807 },
   { name: 'Kiel',                 plzPrefixes: ['24'],                   hint: 'PLZ 24xxx',         lat: 54.323, lng: 10.123 },
   { name: 'Rostock',              plzPrefixes: ['18'],                   hint: 'PLZ 18xxx',         lat: 54.092, lng: 12.099 },
@@ -31,7 +31,7 @@ const CITIES = [
   { name: 'Bonn',                 plzPrefixes: ['53'],                   hint: 'PLZ 53xxx',         lat: 50.735, lng:  7.099 },
   { name: 'Aachen',               plzPrefixes: ['52'],                   hint: 'PLZ 52xxx',         lat: 50.776, lng:  6.084 },
   { name: 'Münster',              plzPrefixes: ['48'],                   hint: 'PLZ 48xxx',         lat: 51.962, lng:  7.626 },
-  { name: 'Bielefeld',            plzPrefixes: ['33'],                   hint: 'PLZ 33xxx',         lat: 52.021, lng:  8.532 },
+  { name: 'Bielefeld',            plzPrefixes: ['336', '337', '338', '339'], hint: 'PLZ 336xx – 339xx', lat: 52.021, lng:  8.532 },
   { name: 'Wuppertal',            plzPrefixes: ['42'],                   hint: 'PLZ 42xxx',         lat: 51.256, lng:  7.150 },
   { name: 'Bochum',               plzPrefixes: ['447', '448'],           hint: 'PLZ 447xx – 448xx', lat: 51.482, lng:  7.216 },
   { name: 'Duisburg',             plzPrefixes: ['47'],                   hint: 'PLZ 47xxx',         lat: 51.435, lng:  6.762 },
@@ -64,9 +64,9 @@ const CITIES = [
   { name: 'Osnabrück',            plzPrefixes: ['49'],                   hint: 'PLZ 49xxx',         lat: 52.279, lng:  8.047 },
   { name: 'Leverkusen',           plzPrefixes: ['513', '514'],           hint: 'PLZ 51xxx',         lat: 51.045, lng:  6.997 },
   { name: 'Solingen',             plzPrefixes: ['427', '428'],           hint: 'PLZ 42xxx',         lat: 51.177, lng:  7.085 },
-  { name: 'Paderborn',            plzPrefixes: ['33'],                   hint: 'PLZ 33xxx',         lat: 51.718, lng:  8.755 },
+  { name: 'Paderborn',            plzPrefixes: ['330', '331', '332'],    hint: 'PLZ 330xx – 332xx', lat: 51.718, lng:  8.755 },
   { name: 'Darmstadt',            plzPrefixes: ['64'],                   hint: 'PLZ 64xxx',         lat: 49.872, lng:  8.651 },
-  { name: 'Neuss',                plzPrefixes: ['414', '413'],           hint: 'PLZ 41xxx',         lat: 51.198, lng:  6.691 },
+  { name: 'Neuss',                plzPrefixes: ['414'],                  hint: 'PLZ 414xx',         lat: 51.198, lng:  6.691 },
   { name: 'Ingolstadt',           plzPrefixes: ['85'],                   hint: 'PLZ 85xxx',         lat: 48.763, lng: 11.425 },
   { name: 'Heilbronn',            plzPrefixes: ['742', '743', '744'],    hint: 'PLZ 74xxx',         lat: 49.140, lng:  9.220 },
   { name: 'Pforzheim',            plzPrefixes: ['753', '754'],           hint: 'PLZ 75xxx',         lat: 48.893, lng:  8.695 },
@@ -97,8 +97,13 @@ function resolveCity(raw: string): string {
   const exact = CITIES.find(c => c.name.toLowerCase() === lower)
   if (exact) return exact.name
   if (/^\d/.test(t)) {
-    const byPlz = CITIES.find(c => c.plzPrefixes.some(p => t.startsWith(p)))
-    if (byPlz) return byPlz.name
+    let bestCity: typeof CITIES[0] | null = null, bestLen = 0
+    for (const city of CITIES) {
+      for (const p of city.plzPrefixes) {
+        if (t.startsWith(p) && p.length > bestLen) { bestCity = city; bestLen = p.length }
+      }
+    }
+    if (bestCity) return bestCity.name
   }
   const partial = CITIES.find(c => c.name.toLowerCase().startsWith(lower))
   if (partial) return partial.name

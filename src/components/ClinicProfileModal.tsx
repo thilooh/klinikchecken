@@ -92,7 +92,9 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
                 <Stethoscope size={16} color="#003399" />
               </div>
               <div>
-                <div style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.doctor}</div>
+                {clinic.doctor && clinic.doctor !== 'siehe Website' && (
+                  <div style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.doctor}</div>
+                )}
                 <div style={{ fontSize: '12px', color: '#666', marginTop: '2px' }}>{clinic.qualification}</div>
               </div>
             </div>

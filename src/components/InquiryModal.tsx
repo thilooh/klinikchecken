@@ -92,7 +92,9 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
             <img src={clinic.media.logo} alt={clinic.name} style={{ width: '40px', height: '40px', objectFit: 'contain', borderRadius: '4px', flexShrink: 0 }} />
           )}
           <div style={{ flex: 1, minWidth: 0 }}>
-            <div style={{ fontSize: '13px', fontWeight: 700, color: '#111', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{clinic.doctor}</div>
+            {clinic.doctor && clinic.doctor !== 'siehe Website' && (
+              <div style={{ fontSize: '13px', fontWeight: 700, color: '#111', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{clinic.doctor}</div>
+            )}
             <div style={{ fontSize: '12px', color: '#555', marginTop: '1px' }}>{clinic.qualification}</div>
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', flexShrink: 0 }}>

@@ -25,7 +25,7 @@ import type { CTAVariant } from './lib/ctaVariant'
 // Meta tip: name ad sets by city and use ?city={{adset.name}} - Meta substitutes it reliably.
 const CITY_VARIANTS: [string[], string[]][] = [
   [['köln', 'koeln', 'koln', 'cologne'],              ['50', '51']],
-  [['düsseldorf', 'duesseldorf', 'dusseldorf'],        ['40', '41']],
+  [['düsseldorf', 'duesseldorf', 'dusseldorf'],        ['40']],
   [['frankfurt', 'frankfurt am main'],                 ['60', '61', '63']],
   [['dortmund'],                                       ['44']],
   [['berlin'],                                         ['10', '12', '13', '14']],
@@ -35,7 +35,7 @@ const CITY_VARIANTS: [string[], string[]][] = [
   [['nürnberg', 'nuernberg', 'nurnberg', 'nuremberg'], ['90', '91']],
   [['stuttgart'],                                      ['70', '71']],
   [['essen'],                                          ['45']],
-  [['hannover', 'hanover'],                            ['30', '31']],
+  [['hannover', 'hanover'],                            ['30']],
   [['bremen'],                                         ['27', '28']],
   [['kiel'],                                           ['24']],
   [['rostock'],                                        ['18']],
@@ -45,7 +45,7 @@ const CITY_VARIANTS: [string[], string[]][] = [
   [['bonn'],                                           ['53']],
   [['aachen'],                                         ['52']],
   [['münster', 'muenster', 'munster'],                 ['48']],
-  [['bielefeld'],                                      ['33']],
+  [['bielefeld'],                                      ['336', '337', '338', '339']],
   [['wuppertal'],                                      ['42']],
   [['bochum'],                                         ['447', '448']],
   [['duisburg'],                                       ['47']],
@@ -78,9 +78,9 @@ const CITY_VARIANTS: [string[], string[]][] = [
   [['osnabrück', 'osnabrueck', 'osnabruck'],            ['49']],
   [['leverkusen'],                                      ['513', '514']],
   [['solingen'],                                        ['427', '428']],
-  [['paderborn'],                                       ['33']],
+  [['paderborn'],                                       ['330', '331', '332']],
   [['darmstadt'],                                       ['64']],
-  [['neuss'],                                           ['414', '413']],
+  [['neuss'],                                           ['414']],
   [['ingolstadt'],                                      ['85']],
   [['heilbronn'],                                       ['742', '743', '744']],
   [['pforzheim'],                                       ['753', '754']],
@@ -117,10 +117,15 @@ function matchCity(raw: string): string | null {
   const t = raw.trim()
   if (!t) return null
   const norm = t.toLowerCase()
-  // PLZ: 5-digit postal code
+  // PLZ: 5-digit postal code — longest matching prefix wins
   if (/^\d{5}$/.test(t)) {
-    const idx = CITY_VARIANTS.findIndex(([, prefixes]) => prefixes.some(p => t.startsWith(p)))
-    return idx >= 0 ? CANONICAL[idx] : null
+    let bestIdx = -1, bestLen = 0
+    for (let i = 0; i < CITY_VARIANTS.length; i++) {
+      for (const p of CITY_VARIANTS[i][1]) {
+        if (t.startsWith(p) && p.length > bestLen) { bestIdx = i; bestLen = p.length }
+      }
+    }
+    return bestIdx >= 0 ? CANONICAL[bestIdx] : null
   }
   // City name: exact then partial
   for (let i = 0; i < CITY_VARIANTS.length; i++) {
