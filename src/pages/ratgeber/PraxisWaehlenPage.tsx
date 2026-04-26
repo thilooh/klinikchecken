@@ -97,6 +97,8 @@ export default function PraxisWaehlenPage() {
       heroWebpSrcset={HERO_WEBP}
       heroJpgSrcset={HERO_JPG}
       heroAlt="Frau sitzt nachdenklich auf einem Holzstuhl vor einem großen hellen Fenster"
+      authorLine="Martina"
+      authorImg="/ratgeber/martina.jpg"
       ctaHref={CTA_HREF}
       onCtaClick={() => sendEvent('RatgeberCtaClick', { content_name: 'ratgeber-praxis-waehlen' })}
     >

@@ -27,6 +27,7 @@ export interface ArticleLayoutProps {
   title: string
   subtitle: string
   authorLine?: string
+  authorImg?: string
   /** Fallback JPEG src for hero image */
   heroSrc?: string
   heroAlt?: string
@@ -47,7 +48,8 @@ export default function ArticleLayout({
   readTime,
   title,
   subtitle,
-  authorLine = 'Von der Redaktion Besenreiser-Check.de',
+  authorLine = 'Von der Redaktion',
+  authorImg,
   heroSrc,
   heroAlt = '',
   heroWebpSrcset,
@@ -143,11 +145,17 @@ export default function ArticleLayout({
           </p>
 
           {/* Author */}
-          <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '32px', paddingBottom: '24px', borderBottom: '1px solid #E8E8E8' }}>
-            <div style={{ width: '32px', height: '32px', borderRadius: '50%', backgroundColor: '#003399', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <span style={{ color: '#fff', fontSize: '13px', fontWeight: 700 }}>B</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '32px', paddingBottom: '24px', borderBottom: '1px solid #E8E8E8' }}>
+            {authorImg
+              ? <img src={authorImg} alt={authorLine} style={{ width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover', flexShrink: 0 }} />
+              : <div style={{ width: '40px', height: '40px', borderRadius: '50%', backgroundColor: '#003399', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                  <span style={{ color: '#fff', fontSize: '14px', fontWeight: 700 }}>R</span>
+                </div>
+            }
+            <div>
+              <div style={{ fontSize: '14px', fontWeight: 600, color: '#222', fontFamily: sans }}>{authorLine}</div>
+              <div style={{ fontSize: '12px', color: '#888', fontFamily: sans }}>Autorin</div>
             </div>
-            <span style={{ fontSize: '13px', color: '#666', fontFamily: sans }}>{authorLine}</span>
           </div>
 
           {/* Hero image */}
