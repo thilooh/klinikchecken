@@ -314,7 +314,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: true,
     parking: true,
     certified: true,
-    media: { logo: '/images/clinic-6/logo.svg', streetview: '/images/clinic-6/streetview.jpg', map: '/images/clinic-6/map.jpg' },
+    media: { logo: '/images/clinic-6/logo.png', streetview: '/images/clinic-6/streetview.jpg', map: '/images/clinic-6/map.jpg' },
     photoCount: 20,
     lastInquiry: 'vor 1 Std.',
     featured: false,
@@ -375,7 +375,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: false,
     certified: true,
-    media: { logo: '/images/clinic-7/logo.svg', streetview: '/images/clinic-7/streetview.jpg', map: '/images/clinic-7/map.jpg' },
+    media: { logo: '/images/clinic-7/logo.jpg', streetview: '/images/clinic-7/streetview.jpg', map: '/images/clinic-7/map.jpg' },
     photoCount: 22,
     lastInquiry: 'vor 20 Min.',
     featured: false,
@@ -818,7 +818,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: true,
     certified: true,
-    media: { logo: '/images/clinic-15/logo.svg', streetview: '/images/clinic-15/streetview.jpg', map: '/images/clinic-15/map.jpg' },
+    media: { logo: '/images/clinic-15/logo.png', streetview: '/images/clinic-15/streetview.jpg', map: '/images/clinic-15/map.jpg' },
     photoCount: 0,
     lastInquiry: '',
     featured: false,
@@ -1202,7 +1202,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: true,
     certified: true,
-    media: { logo: '/images/clinic-22/logo.svg', streetview: '/images/clinic-22/streetview.jpg', map: '/images/clinic-22/map.jpg' },
+    media: { logo: '/images/clinic-22/logo.png', streetview: '/images/clinic-22/streetview.jpg', map: '/images/clinic-22/map.jpg' },
     photoCount: 0,
     lastInquiry: '',
     featured: false,
@@ -1309,7 +1309,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: false,
     certified: true,
-    media: { logo: '/images/clinic-24/logo.svg', streetview: '/images/clinic-24/streetview.jpg', map: '/images/clinic-24/map.jpg' },
+    media: { logo: '/images/clinic-24/logo.png', streetview: '/images/clinic-24/streetview.jpg', map: '/images/clinic-24/map.jpg' },
     photoCount: 0,
     lastInquiry: '',
     featured: false,
@@ -1396,7 +1396,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
-      logo: '/images/clinic-25/logo.svg',
+      logo: '/images/clinic-25/logo.png',
       streetview: '/images/clinic-25/streetview.jpg',
       map: '/images/clinic-25/map.jpg',
     },
@@ -1520,7 +1520,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
-      logo: '/images/clinic-27/logo.svg',
+      logo: '/images/clinic-27/logo.jpg',
       streetview: '/images/clinic-27/streetview.jpg',
       map: '/images/clinic-27/map.jpg',
     },
@@ -1709,7 +1709,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
-      logo: '/images/clinic-30/logo.svg',
+      logo: '/images/clinic-30/logo.png',
       streetview: '/images/clinic-30/streetview.jpg',
       map: '/images/clinic-30/map.jpg',
     },
@@ -1771,7 +1771,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-31/streetview.jpg',
-      logo: '/images/clinic-31/logo.svg', map: '/images/clinic-31/map.jpg',
+      logo: '/images/clinic-31/logo.png', map: '/images/clinic-31/map.jpg',
     },
   },
 
@@ -1836,7 +1836,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-32/streetview.jpg',
-      logo: '/images/clinic-32/logo.svg', map: '/images/clinic-32/map.jpg',
+      logo: '/images/clinic-32/logo.jpg', map: '/images/clinic-32/map.jpg',
     },
   },
 
@@ -1896,7 +1896,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-33/streetview.jpg',
-      logo: '/images/clinic-33/logo.svg', map: '/images/clinic-33/map.jpg',
+      logo: '/images/clinic-33/logo.jpg', map: '/images/clinic-33/map.jpg',
     },
   },
 
@@ -1957,7 +1957,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-34/streetview.jpg',
-      logo: '/images/clinic-34/logo.svg', map: '/images/clinic-34/map.jpg',
+      logo: '/images/clinic-34/logo.png', map: '/images/clinic-34/map.jpg',
     },
   },
 
@@ -2016,7 +2016,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-35/streetview.jpg',
-      logo: '/images/clinic-35/logo.svg', map: '/images/clinic-35/map.jpg',
+      logo: '/images/clinic-35/logo.png', map: '/images/clinic-35/map.jpg',
     },
   },
 
@@ -2207,7 +2207,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-38/streetview.jpg',
-      logo: '/images/clinic-38/logo.svg', map: '/images/clinic-38/map.jpg',
+      logo: '/images/clinic-38/logo.png', map: '/images/clinic-38/map.jpg',
     },
   },
 
@@ -2269,7 +2269,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-39/streetview.jpg',
-      logo: '/images/clinic-39/logo.svg', map: '/images/clinic-39/map.jpg',
+      logo: '/images/clinic-39/logo.png', map: '/images/clinic-39/map.jpg',
     },
   },
 
@@ -2335,7 +2335,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
-      logo: '/images/clinic-40/logo.svg',
+      logo: '/images/clinic-40/logo.png',
       streetview: '/images/clinic-40/streetview.jpg',
       map: '/images/clinic-40/map.jpg',
     },
@@ -2523,7 +2523,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
-      logo: '/images/clinic-43/logo.svg',
+      logo: '/images/clinic-43/logo.png',
       streetview: '/images/clinic-43/streetview.jpg',
       map: '/images/clinic-43/map.jpg',
     },
@@ -2907,7 +2907,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
-      logo: '/images/clinic-49/logo.svg',
+      logo: '/images/clinic-49/logo.png',
       streetview: '/images/clinic-49/streetview.jpg',
       map: '/images/clinic-49/map.jpg',
     },
@@ -3291,7 +3291,7 @@ export const clinics: Clinic[] = [
       },
     },
     media: {
-      logo: '/images/clinic-55/logo.svg',
+      logo: '/images/clinic-55/logo.png',
       streetview: '/images/clinic-55/streetview.jpg',
       map: '/images/clinic-55/map.jpg',
     },
@@ -5903,7 +5903,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: false,
     certified: true,
-    media: { logo: '/images/clinic-100/logo.svg', streetview: '/images/clinic-100/streetview.jpg', map: '/images/clinic-100/map.jpg' },
+    media: { logo: '/images/clinic-100/logo.png', streetview: '/images/clinic-100/streetview.jpg', map: '/images/clinic-100/map.jpg' },
     photoCount: 3,
     lastInquiry: 'vor 5 Std.',
     featured: false,
@@ -6256,7 +6256,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: false,
     certified: true,
-    media: { logo: '/images/clinic-106/logo.svg', streetview: '/images/clinic-106/streetview.jpg', map: '/images/clinic-106/map.jpg' },
+    media: { logo: '/images/clinic-106/logo.png', streetview: '/images/clinic-106/streetview.jpg', map: '/images/clinic-106/map.jpg' },
     photoCount: 3,
     lastInquiry: 'vor 3 Std.',
     featured: false,
@@ -12424,7 +12424,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: false,
     certified: true,
-    media: { logo: '/images/clinic-220/logo.svg', streetview: '/images/clinic-220/streetview.jpg', map: '/images/clinic-220/map.jpg' },
+    media: { logo: '/images/clinic-220/logo.png', streetview: '/images/clinic-220/streetview.jpg', map: '/images/clinic-220/map.jpg' },
     photoCount: 3,
     lastInquiry: 'vor 30 Min.',
     featured: false,
@@ -12894,7 +12894,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: false,
     certified: true,
-    media: { logo: '/images/clinic-229/logo.svg', streetview: '/images/clinic-229/streetview.jpg', map: '/images/clinic-229/map.jpg' },
+    media: { logo: '/images/clinic-229/logo.png', streetview: '/images/clinic-229/streetview.jpg', map: '/images/clinic-229/map.jpg' },
     photoCount: 3,
     lastInquiry: 'vor 5 Std.',
     featured: false,
