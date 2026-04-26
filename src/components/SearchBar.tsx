@@ -100,6 +100,16 @@ type Prediction = {
 
 const AUTOCOMPLETE_URL = '/.netlify/functions/places-autocomplete'
 
+// Default radius (km) used when a user selects an address suggestion
+// and no explicit distance filter is active. Keeps the result list
+// focused on nearby practices instead of the full 229 sorted by distance.
+const DEFAULT_NEARBY_RADIUS_KM = 50
+
+function newSessionToken(): string {
+  if (typeof crypto !== 'undefined' && 'randomUUID' in crypto) return crypto.randomUUID()
+  return Math.random().toString(36).slice(2) + Date.now().toString(36)
+}
+
 export default function SearchBar({ filters, setFilters, hero }: Props) {
   const [val, setVal] = useState(filters.searchCity)
   const [showSuggestions, setShowSuggestions] = useState(false)
@@ -110,6 +120,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
   const [loadingPredictions, setLoadingPredictions] = useState(false)
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const requestSeqRef = useRef(0)
+  const sessionTokenRef = useRef<string>(newSessionToken())
 
   // Debounced autocomplete fetch on input change.
   useEffect(() => {
@@ -124,7 +135,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     debounceRef.current = setTimeout(async () => {
       const seq = ++requestSeqRef.current
       try {
-        const r = await fetch(`${AUTOCOMPLETE_URL}?input=${encodeURIComponent(trimmed)}`)
+        const r = await fetch(`${AUTOCOMPLETE_URL}?input=${encodeURIComponent(trimmed)}&sessionToken=${sessionTokenRef.current}`)
         const d = await r.json() as { predictions?: Prediction[] }
         if (seq === requestSeqRef.current) {
           setPredictions(d.predictions ?? [])
@@ -140,9 +151,19 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     return () => { if (debounceRef.current) clearTimeout(debounceRef.current) }
   }, [val])
 
-  const apply = (cityName: string, userLat?: number, userLng?: number, displayLabel?: string) => {
+  const apply = (cityName: string, userLat?: number, userLng?: number, displayLabel?: string, applyRadius = false) => {
     setVal(displayLabel ?? cityName)
-    setFilters({ ...filters, searchCity: cityName, userLat, userLng, sortBy: userLat != null ? 'distance' : filters.sortBy })
+    const next: FilterState = {
+      ...filters,
+      searchCity: cityName,
+      userLat,
+      userLng,
+      sortBy: userLat != null ? 'distance' : filters.sortBy,
+    }
+    if (applyRadius && userLat != null && filters.maxDistance >= 999) {
+      next.maxDistance = DEFAULT_NEARBY_RADIUS_KM
+    }
+    setFilters(next)
     setShowSuggestions(false)
     setPredictions([])
     sendEvent('Search', { search_string: displayLabel ?? cityName })
@@ -152,12 +173,14 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     setResolving(true)
     setVal(p.description)
     try {
-      const r = await fetch(`${AUTOCOMPLETE_URL}?placeId=${encodeURIComponent(p.place_id)}`)
+      const r = await fetch(`${AUTOCOMPLETE_URL}?placeId=${encodeURIComponent(p.place_id)}&sessionToken=${sessionTokenRef.current}`)
       const d = await r.json() as { lat?: number; lng?: number }
+      // Place Details closes the autocomplete session — start a fresh one.
+      sessionTokenRef.current = newSessionToken()
       if (d.lat != null && d.lng != null) {
         const isCity = p.types.includes('locality') || p.types.includes('postal_town')
         const cityName = isCity ? p.main_text : nearestCity(d.lat, d.lng)
-        apply(cityName, d.lat, d.lng, p.description)
+        apply(cityName, d.lat, d.lng, p.description, true)
       } else {
         apply(p.description, undefined, undefined, p.description)
       }
@@ -184,7 +207,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     navigator.geolocation.getCurrentPosition(
       pos => {
         const { latitude: lat, longitude: lng } = pos.coords
-        apply(nearestCity(lat, lng), lat, lng)
+        apply(nearestCity(lat, lng), lat, lng, undefined, true)
         setLocating(false)
       },
       () => { setLocating(false); setLocError(true) },

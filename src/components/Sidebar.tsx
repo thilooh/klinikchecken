@@ -120,7 +120,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
       {/* Entfernung */}
       <div style={S.section}>
         <div style={S.sectionTitle}>Entfernung</div>
-        {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 999, label: 'beliebig' }].map(opt => (
+        {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 50, label: 'bis 50 km' }, { val: 100, label: 'bis 100 km' }, { val: 999, label: 'beliebig' }].map(opt => (
           <label key={opt.val} style={S.label}>
             <input type="radio" name="distance" checked={filters.maxDistance === opt.val} onChange={() => setFilters({ ...filters, maxDistance: opt.val })} style={{ accentColor: '#003399', cursor: 'pointer' }} />
             {opt.label}

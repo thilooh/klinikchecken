@@ -22,11 +22,13 @@ export const handler = async (event: { queryStringParameters?: Record<string, st
   const params = event.queryStringParameters ?? {}
   const placeId = params.placeId
   const input = params.input
+  const sessionToken = params.sessionToken
 
   if (placeId) {
     const url = new URL('https://maps.googleapis.com/maps/api/place/details/json')
     url.searchParams.set('place_id', placeId)
     url.searchParams.set('fields', 'geometry,name,formatted_address')
+    if (sessionToken) url.searchParams.set('sessiontoken', sessionToken)
     url.searchParams.set('key', key)
     const r = await fetch(url.toString())
     const d = await r.json() as { status: string; result?: { geometry?: { location?: { lat: number; lng: number } }; name?: string; formatted_address?: string } }
@@ -54,6 +56,7 @@ export const handler = async (event: { queryStringParameters?: Record<string, st
   url.searchParams.set('language', 'de')
   url.searchParams.set('components', 'country:de')
   url.searchParams.set('types', 'geocode')   // cities + streets + postal codes
+  if (sessionToken) url.searchParams.set('sessiontoken', sessionToken)
   url.searchParams.set('key', key)
 
   const r = await fetch(url.toString())

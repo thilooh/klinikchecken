@@ -130,7 +130,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
           <SectionHead id="distance" label="Entfernung" />
           {open.distance && (
             <div style={{ padding: '4px 20px 12px' }}>
-              {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 999, label: 'Beliebig' }].map(opt => (
+              {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 50, label: 'bis 50 km' }, { val: 100, label: 'bis 100 km' }, { val: 999, label: 'Beliebig' }].map(opt => (
                 <label key={opt.val} style={ROW}>
                   <span style={{ fontSize: '14px', color: '#003399' }}>{opt.label}</span>
                   <input type="radio" name="mobileDistance" checked={filters.maxDistance === opt.val}
