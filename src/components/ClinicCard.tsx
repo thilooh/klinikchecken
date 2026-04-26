@@ -20,13 +20,6 @@ interface Props {
   ctaColor?: string
 }
 
-function getClinicBadges(clinic: Clinic, badge: string) {
-  const badges: { label: string; bg: string }[] = []
-  if (clinic.googleRating && clinic.googleRating >= 4.8)
-    badges.push({ label: badge, bg: '#D97706' })
-  return badges
-}
-
 
 function Stars({ rating, size = 14 }: { rating: number; size?: number }) {
   const full = Math.floor(rating)
