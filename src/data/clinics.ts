@@ -729,7 +729,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: true,
     certified: true,
-    media: { streetview: '/images/clinic-13/streetview.jpg', map: '/images/clinic-13/map.jpg' },
+    media: { streetview: '/images/clinic-13/streetview.jpg', logo: '/images/clinic-13/logo.svg', map: '/images/clinic-13/map.jpg' },
     foundedYear: 2005,
     photoCount: 0,
     lastInquiry: '',
@@ -1771,7 +1771,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-31/streetview.jpg',
-      map: '/images/clinic-31/map.jpg',
+      logo: '/images/clinic-31/logo.svg', map: '/images/clinic-31/map.jpg',
     },
   },
 
@@ -1836,7 +1836,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-32/streetview.jpg',
-      map: '/images/clinic-32/map.jpg',
+      logo: '/images/clinic-32/logo.svg', map: '/images/clinic-32/map.jpg',
     },
   },
 
@@ -1896,7 +1896,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-33/streetview.jpg',
-      map: '/images/clinic-33/map.jpg',
+      logo: '/images/clinic-33/logo.svg', map: '/images/clinic-33/map.jpg',
     },
   },
 
@@ -1957,7 +1957,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-34/streetview.jpg',
-      map: '/images/clinic-34/map.jpg',
+      logo: '/images/clinic-34/logo.svg', map: '/images/clinic-34/map.jpg',
     },
   },
 
@@ -2016,7 +2016,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-35/streetview.jpg',
-      map: '/images/clinic-35/map.jpg',
+      logo: '/images/clinic-35/logo.svg', map: '/images/clinic-35/map.jpg',
     },
   },
 
@@ -2207,7 +2207,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-38/streetview.jpg',
-      map: '/images/clinic-38/map.jpg',
+      logo: '/images/clinic-38/logo.svg', map: '/images/clinic-38/map.jpg',
     },
   },
 
@@ -2269,7 +2269,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-39/streetview.jpg',
-      map: '/images/clinic-39/map.jpg',
+      logo: '/images/clinic-39/logo.svg', map: '/images/clinic-39/map.jpg',
     },
   },
 
@@ -2848,7 +2848,7 @@ export const clinics: Clinic[] = [
     },
     media: {
       streetview: '/images/clinic-48/streetview.jpg',
-      map: '/images/clinic-48/map.jpg',
+      logo: '/images/clinic-48/logo.svg', map: '/images/clinic-48/map.jpg',
     },
   },
 
