@@ -17,6 +17,7 @@ import type { Clinic, FilterState } from './types/clinic'
 import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
 import { sendEvent } from './lib/gtm'
+import { generateEventId, sendCapi } from './lib/capi'
 import { loadGTM, getConsent } from './lib/consent'
 import { loadClarity, clarityEvent } from './lib/clarity'
 import { getCTAVariant, getCTAColor } from './lib/ctaVariant'
@@ -163,7 +164,10 @@ export default function App() {
   const [filters, setFilters] = useState<FilterState>(defaultFilters)
   const [selectedClinic, setSelectedClinic] = useState<Clinic | null>(null)
   const handleInquire = (clinic: Clinic) => {
-    sendEvent('InitiateCheckout', { content_name: clinic.name, content_category: clinic.city })
+    const checkoutEventId = generateEventId()
+    const checkoutData = { content_name: clinic.name, content_category: clinic.city }
+    sendEvent('InitiateCheckout', checkoutData, undefined, checkoutEventId)
+    sendCapi('InitiateCheckout', checkoutEventId, checkoutData)
     setSelectedClinic(clinic)
   }
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)

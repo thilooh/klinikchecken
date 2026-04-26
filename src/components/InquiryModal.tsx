@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { X, Lock, CheckCircle2, Loader2, ChevronDown, ChevronUp, Star } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 import { sendEvent } from '../lib/gtm'
+import { generateEventId, sendCapi } from '../lib/capi'
 
 interface Props {
   clinic: Clinic | null
@@ -50,10 +51,11 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
           }),
         })
       }
-      sendEvent('Lead',
-        { content_name: clinic.name, content_category: clinic.city, value: 1, currency: 'EUR', cta_variant: ctaVariant },
-        { email: form.email, phone: form.phone }
-      )
+      const leadEventId = generateEventId()
+      const leadCustomData = { content_name: clinic.name, content_category: clinic.city, value: 1, currency: 'EUR', cta_variant: ctaVariant }
+      const leadUserData = { email: form.email, phone: form.phone }
+      sendEvent('Lead', leadCustomData, leadUserData, leadEventId)
+      sendCapi('Lead', leadEventId, leadCustomData, leadUserData)
       setSubmitted(true)
     } catch {
       setError(true)
