@@ -52,7 +52,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
       }
       sendEvent('Lead',
         { content_name: clinic.name, content_category: clinic.city, value: 1, currency: 'EUR', cta_variant: ctaVariant },
-        { email: form.email, phone: form.phone }
+        { email: form.email, phone: form.phone, firstName: form.firstName, lastName: form.lastName }
       )
       setSubmitted(true)
     } catch {
