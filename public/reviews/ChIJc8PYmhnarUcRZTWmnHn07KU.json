@@ -1,12 +1,4 @@
 {
-  "rating": 4.4,
-  "reviewCount": 50,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit guten Bewertungen"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Christine Wickner",
@@ -16,6 +8,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8CQzVHhXK7Dk-rwrX6jjkJJADwEmKjCT94wkM_uCtRuJKMg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich Frau Christine möchte alle sowie den Dr.Kaufhold und die Schwestern sind alle nett und freundlich ich Frau Christine Wickner kann nur gutes berichten . Denn ich wurde bei der erst Vorstellung von alle sehr sehr gut behandelt und von den Dr. Kaufhold ein wandfrei auch sehr sehr gut behandelt . Und die zweit Vorstellung war auch sehr gut von die Schwestern und auch von Dr. Kaufhold persönlich auch sehr sehr gut für die OP Aufgeklärt . Ich Fr.Christine Wickner möchte mich bei allen ganz ganz doll bednken . Danke schön !!!!",
+      "time": 1775990680,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Wickner",
+      "author_url": "https://www.google.com/maps/contrib/111073027900903210043/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8CQzVHhXK7Dk-rwrX6jjkJJADwEmKjCT94wkM_uCtRuJKMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich Frau Christine möchte alle sowie den Dr.Kaufhold und die Schwestern sind alle nett und freundlich ich Frau Christine Wickner kann nur gutes berichten . Denn ich wurde bei der erst Vorstellung von alle sehr sehr gut behandelt und von den Dr. Kaufhold ein wandfrei auch sehr sehr gut behandelt . Und die zweit Vorstellung war auch sehr gut von die Schwestern und auch von Dr. Kaufhold persönlich auch sehr sehr gut für die OP Aufgeklärt . Ich Fr.Christine Wickner möchte mich bei allen ganz ganz doll bednken . Danke schön !!!!",
       "time": 1775990680,
       "translated": false
@@ -64,5 +68,13 @@
       "time": 1765915211,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.4,
+  "reviewCount": 50,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit guten Bewertungen"
+  ],
+  "lastUpdated": "2026-04-26T15:40:22.484Z"
 }

@@ -1,12 +1,4 @@
 {
-  "rating": 4.7,
-  "reviewCount": 217,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Cleopatra",
@@ -68,5 +60,13 @@
       "time": 1771190972,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.7,
+  "reviewCount": 217,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:48.053Z"
 }

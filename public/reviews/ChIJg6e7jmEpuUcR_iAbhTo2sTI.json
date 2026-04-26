@@ -1,12 +1,4 @@
 {
-  "rating": 4.9,
-  "reviewCount": 167,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Andrei Sheva",
@@ -65,6 +57,26 @@
       "text": "Einfach ein toller Arzt. Herr Dr. Mohanad Nasif ist wirklich großartig. Ich fühle mich gut aufgehoben und beraten. Auch das Team ist toll und sehr freundlich. Sicher, man muss ein wenig Wartezeit mitbringen, aber das nur weil Dr. Mohanad Nasif sich für jeden die Zeit nimmt und daher lohnt sich die manchmal etwas längere Wartezeit. Danke an das ganze Team für eure Arbeit/Hilfe.",
       "time": 1774609818,
       "translated": false
+    },
+    {
+      "author_name": "Annili",
+      "author_url": "https://www.google.com/maps/contrib/108639055414609346704/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxvXoIdDU9_z2bKqyf-PEdg3JCaVstJrwberlZNcYqQNn_lg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Einfach ein toller Arzt. Herr Dr. Mohanad Nasif ist wirklich großartig. Ich fühle mich gut aufgehoben und beraten. Auch das Team ist toll und sehr freundlich. Sicher, man muss ein wenig Wartezeit mitbringen, aber das nur weil Dr. Mohanad Nasif sich für jeden die Zeit nimmt und daher lohnt sich die manchmal etwas längere Wartezeit. Danke an das ganze Team für eure Arbeit/Hilfe.",
+      "time": 1774609818,
+      "translated": false
     }
-  ]
+  ],
+  "rating": 4.9,
+  "reviewCount": 167,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:48.284Z"
 }

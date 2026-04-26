@@ -1,12 +1,4 @@
 {
-  "rating": 4.5,
-  "reviewCount": 72,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Ines",
@@ -66,5 +58,13 @@
       "time": 1765443809,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewCount": 72,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:10.411Z"
 }

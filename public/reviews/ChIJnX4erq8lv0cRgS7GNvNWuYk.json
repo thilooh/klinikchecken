@@ -1,12 +1,4 @@
 {
-  "rating": 3,
-  "reviewCount": 139,
-  "summary": [
-    "Für Hautkrebsscreening empfohlen — Ärztin nimmt sich Zeit und erklärt verständlich",
-    "Freundliche Atmosphäre, Erstpatienten fühlen sich wohl",
-    "Vereinzelte Kritik: Behandlung wirkte oberflächlich, Produkte werden aktiv empfohlen"
-  ],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "HaWe Winkler",
@@ -43,5 +35,13 @@
       "text": "Die Ärztin sowie Rezeption sind auf jeden fall super nett. Jedoch empfinde ich ebenso, dass die Ärztin eher darauf aus ist, ihre Produkte zu verkaufen. Sie hat sich mein Hautproblem gar nicht richtig angeschaut: Sie saß vor dem Computer und ich musst zu ihr hinlaufen und sie hat sich von ca. 50cm auf mein Hautareal ,,draufgeschaut“. Ich bin daraufhin zu einem anderen Hautarzt.",
       "time": 1764963273
     }
-  ]
+  ],
+  "rating": 3,
+  "reviewCount": 139,
+  "summary": [
+    "Für Hautkrebsscreening empfohlen — Ärztin nimmt sich Zeit und erklärt verständlich",
+    "Freundliche Atmosphäre, Erstpatienten fühlen sich wohl",
+    "Vereinzelte Kritik: Behandlung wirkte oberflächlich, Produkte werden aktiv empfohlen"
+  ],
+  "lastUpdated": "2026-04-26T15:39:25.812Z"
 }

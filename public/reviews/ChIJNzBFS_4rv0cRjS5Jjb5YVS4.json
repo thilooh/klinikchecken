@@ -1,12 +1,4 @@
 {
-  "rating": 4.5,
-  "reviewCount": 21,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Vereinzelt werden längere Wartezeiten erwähnt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "B Y",
@@ -68,5 +60,13 @@
       "time": 1753787768,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewCount": 21,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Vereinzelt werden längere Wartezeiten erwähnt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:11.220Z"
 }

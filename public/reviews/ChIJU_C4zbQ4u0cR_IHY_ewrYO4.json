@@ -1,12 +1,4 @@
 {
-  "rating": 4.8,
-  "reviewCount": 51,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Michael Klug",
@@ -68,5 +60,13 @@
       "time": 1742963208,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewCount": 51,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:01.493Z"
 }

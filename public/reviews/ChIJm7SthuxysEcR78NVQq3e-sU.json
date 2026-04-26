@@ -1,12 +1,4 @@
 {
-  "rating": 4.5,
-  "reviewCount": 243,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Kalle Grausam",
@@ -66,5 +58,13 @@
       "time": 1776177340,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewCount": 243,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
+  ],
+  "lastUpdated": "2026-04-26T15:39:40.229Z"
 }

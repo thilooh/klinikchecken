@@ -1,12 +1,4 @@
 {
-  "rating": 4.9,
-  "reviewCount": 46,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Vereinzelt werden längere Wartezeiten erwähnt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Angel Achor",
@@ -64,5 +56,13 @@
       "time": 1758133858,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.9,
+  "reviewCount": 46,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Vereinzelt werden längere Wartezeiten erwähnt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:09.320Z"
 }

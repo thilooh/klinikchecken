@@ -1,13 +1,15 @@
 {
-  "rating": 4.7,
-  "reviewCount": 180,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "ToPRo",
+      "author_url": "https://www.google.com/maps/contrib/109989796976141011683/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgBSPRPN_60WMCEsxu6dP_IxNyY1qo9N3dyzNga64v3lJ2YFA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777208517,
+      "translated": false
+    },
     {
       "author_name": "Wolfgang Broermann",
       "author_url": "https://www.google.com/maps/contrib/109946105478943916935/reviews",
@@ -68,5 +70,13 @@
       "time": 1774984078,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.7,
+  "reviewCount": 181,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:14.685Z"
 }

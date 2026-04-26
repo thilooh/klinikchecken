@@ -1,12 +1,4 @@
 {
-  "rating": 4.7,
-  "reviewCount": 418,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Jawahir ahmad",
@@ -16,6 +8,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzo24XQWzgMBlGgRnGJduwn2bAxVi4CbPdPRBh6tAltdCtdRY=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Könnten Sie mir bitte den Preis für ein komplettes Facelifting nennen, inklusive einer Straffung des Ober- und Unterkiefers? Wie viel würde das kosten? Vielen Dank.",
+      "time": 1775986447,
+      "translated": true
+    },
+    {
+      "author_name": "Jawahir ahmad",
+      "author_url": "https://www.google.com/maps/contrib/113224995995785698068/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzo24XQWzgMBlGgRnGJduwn2bAxVi4CbPdPRBh6tAltdCtdRY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Könnten Sie mir bitte den Preis für ein komplettes Facelifting nennen, inklusive einer Straffung des Ober- und Unterkiefers? Wie viel würde das kosten? Vielen Dank.",
       "time": 1775986447,
       "translated": true
@@ -66,5 +70,13 @@
       "time": 1773974596,
       "translated": true
     }
-  ]
+  ],
+  "rating": 4.7,
+  "reviewCount": 418,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:47.820Z"
 }

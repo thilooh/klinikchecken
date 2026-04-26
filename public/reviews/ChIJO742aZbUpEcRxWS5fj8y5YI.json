@@ -1,12 +1,4 @@
 {
-  "rating": 5,
-  "reviewCount": 110,
-  "summary": [
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit exzellenten Bewertungen für Besenreiser-Behandlung",
-    "Patienten empfehlen die Praxis weiter"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "L B",
@@ -66,5 +58,13 @@
       "time": 1759937255,
       "translated": false
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 110,
+  "summary": [
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen für Besenreiser-Behandlung",
+    "Patienten empfehlen die Praxis weiter"
+  ],
+  "lastUpdated": "2026-04-26T15:40:02.509Z"
 }

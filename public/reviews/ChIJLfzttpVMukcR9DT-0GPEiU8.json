@@ -1,12 +1,4 @@
 {
-  "rating": 5,
-  "reviewCount": 3,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell eingesetzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "ich du",
@@ -40,5 +32,13 @@
       "time": 1499768046,
       "translated": false
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 3,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:12.831Z"
 }

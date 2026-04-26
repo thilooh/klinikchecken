@@ -1,12 +1,4 @@
 {
-  "rating": 4.9,
-  "reviewCount": 109,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Kristina Notthoff",
@@ -66,5 +58,13 @@
       "time": 1774641838,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.9,
+  "reviewCount": 109,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:48.781Z"
 }

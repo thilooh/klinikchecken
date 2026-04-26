@@ -1,12 +1,4 @@
 {
-  "rating": 4.3,
-  "reviewCount": 124,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Ali Irfan Peksoylu",
@@ -62,5 +54,13 @@
       "time": 1775228520,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.3,
+  "reviewCount": 124,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:41.749Z"
 }

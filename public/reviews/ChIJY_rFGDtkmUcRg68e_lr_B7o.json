@@ -1,12 +1,4 @@
 {
-  "rating": 4.9,
-  "reviewCount": 78,
-  "summary": [
-    "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "J. S.",
@@ -64,5 +56,13 @@
       "time": 1770300477,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.9,
+  "reviewCount": 78,
+  "summary": [
+    "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:52.216Z"
 }

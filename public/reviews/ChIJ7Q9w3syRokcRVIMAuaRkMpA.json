@@ -1,13 +1,15 @@
 {
-  "rating": 4.5,
-  "reviewCount": 149,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "U E",
+      "author_url": "https://www.google.com/maps/contrib/105021189227908298893/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2VruxJCn0dA-AAjUW63IzipekPeWd2LHa5v-oe6uYo6xenXXB5w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777212993,
+      "translated": false
+    },
     {
       "author_name": "Sapir Jelin-Uhlig",
       "author_url": "https://www.google.com/maps/contrib/117377202759602877833/reviews",
@@ -66,5 +68,13 @@
       "time": 1770646886,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewCount": 150,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:55.657Z"
 }

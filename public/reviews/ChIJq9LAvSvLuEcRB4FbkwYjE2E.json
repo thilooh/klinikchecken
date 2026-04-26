@@ -1,13 +1,17 @@
 {
-  "rating": 5,
-  "reviewCount": 74,
-  "summary": [
-    "Dr. Kusenack nimmt sich außergewöhnlich viel Zeit — Patienten reisen teils extra aus dem Ausland an",
-    "Krampfader-Behandlungen mit sehr hoher Erfolgsrate, persönliche Nachsorge noch am OP-Abend",
-    "Familiäre, vertrauensvolle Atmosphäre — auch Angehörige werden daraufhin Patienten"
-  ],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "Ines Dickmanns",
+      "author_url": "https://www.google.com/maps/contrib/111913194193062450908/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhpsCTOWvluyTh8DIjJ54MSVcPqAhN3rTriflPoxbusFPG3E77=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nett freundlich und hat sich viel Zeit genommen. Seeeehr gut",
+      "time": 1777108764,
+      "translated": false
+    },
     {
       "author_name": "Ramadan Ali",
       "rating": 5,
@@ -30,6 +34,18 @@
       "time": 1775307866
     },
     {
+      "author_name": "Anja Friedrichs",
+      "author_url": "https://www.google.com/maps/contrib/101984509428507803816/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocII7jeB0F3-vlpH7NuI7ubFY2epuKHtfJeVeuvaFO2K2QZ80g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Kompetenter Arzt mit tollem Team!\nDr. Kusenack hat mich, nach gründlicher Untersuchung, sehr gut beraten und erfolgreich behandelt.\nWar alles super und unkompliziert gelaufen.\nVielen Dank!",
+      "time": 1775307866,
+      "translated": false
+    },
+    {
       "author_name": "M. Gellrich",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
@@ -43,5 +59,13 @@
       "text": "Herr Dr. Kusenak hat sich Zeit genommen, mich sehr gut beraten, in angenehmer fast familiärer und freundlicher Atmosphäre. Meine Frau ist mittlerweile auch bei Ihm. Kann ich sehr empfehlen. Danke auch noch mal an das Team. Sehr gute Arbeit.\nFalls nötig werde ich dort wieder vorstellig ;)",
       "time": 1774440662
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 75,
+  "summary": [
+    "Dr. Kusenack nimmt sich außergewöhnlich viel Zeit — Patienten reisen teils extra aus dem Ausland an",
+    "Krampfader-Behandlungen mit sehr hoher Erfolgsrate, persönliche Nachsorge noch am OP-Abend",
+    "Familiäre, vertrauensvolle Atmosphäre — auch Angehörige werden daraufhin Patienten"
+  ],
+  "lastUpdated": "2026-04-26T15:39:27.459Z"
 }

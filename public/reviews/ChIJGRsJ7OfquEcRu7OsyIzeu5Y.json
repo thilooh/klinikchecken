@@ -1,12 +1,4 @@
 {
-  "rating": 4.7,
-  "reviewCount": 55,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit sehr guten Bewertungen"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Dirk Krönung",
@@ -16,6 +8,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6-NBX8BzZMCwIprw-XyAo0vefKnyZIV7tQwSqfT_Q--GaYQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Bin begeistert von Dr Pourhassan und seinem Team.In allen Belangen sehr freundlich, ruhig und hilfsbereit. Dr Pourhassan macht seinen Job mit absoluter Leidenschaft und ist Mega gründlich .Das merkt man von Anfang an. Er nimmt sich Zeit und erklärt gut verständlich was los ist .Ein Glücksgriff. Dankeschön",
+      "time": 1776591130,
+      "translated": false
+    },
+    {
+      "author_name": "Dirk Krönung",
+      "author_url": "https://www.google.com/maps/contrib/101472999851434291622/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6-NBX8BzZMCwIprw-XyAo0vefKnyZIV7tQwSqfT_Q--GaYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Bin begeistert von Dr Pourhassan und seinem Team.In allen Belangen sehr freundlich, ruhig und hilfsbereit. Dr Pourhassan macht seinen Job mit absoluter Leidenschaft und ist Mega gründlich .Das merkt man von Anfang an. Er nimmt sich Zeit und erklärt gut verständlich was los ist .Ein Glücksgriff. Dankeschön",
       "time": 1776591130,
       "translated": false
@@ -66,5 +70,13 @@
       "time": 1763005854,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.7,
+  "reviewCount": 55,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit sehr guten Bewertungen"
+  ],
+  "lastUpdated": "2026-04-26T15:40:06.235Z"
 }

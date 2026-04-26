@@ -1,9 +1,17 @@
 {
-  "rating": 3.4,
-  "reviewCount": 29,
-  "summary": [],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "Drea Göbel",
+      "author_url": "https://www.google.com/maps/contrib/109018801044976039434/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEgXMUXHIkbC3X7fK9SFJSkB0jJn657VKIT9orwqCusS8A7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Positiv war, dass ich zeitnah einen Termin bekommen hab. Ansonsten war ich mit der Praxis nicht zufrieden. Die Praxis Mitarbeiterin, die uns in Empfang genommen hat, begrüßt uns gleich mit dem Satz.\"Ich weiß eigentlich gar nicht, was ich für Sie tun soll, verschreiben kann ich Ihnen sowieso nix…\"die Untersuchung gestaltet sich schwierig, ich sitze im Rollstuhl und bekam nicht auf die Untersuchung. Liege, was die Mitarbeiterin schon nervte. Ich persönlich hatte den Eindruck, da ich Freitagmittag kurz vor dem Wochenende da war, musste alles schnell schnell gehen. Ich persönlich würde diese Praxis nicht weiterempfehlen.",
+      "time": 1777202537,
+      "translated": false
+    },
     {
       "author_name": "Sabine Muenker",
       "rating": 1,
@@ -39,5 +47,9 @@
       "text": "Großzügiger Wartebereich, helle Farben und kein Lärm. Fr. Neumann an der Rezeption informativ, hilfsbereit und sehr freundlich. Wartezeit nahe Null. Behandlung bei Dr. Senkel. Hoch konzentriert, KEIN Schnick-Schnack, humorlos und effizient. Kann das Lymphdingensvenengerät wahrscheinlich mit geschlossenen Augen bedienen. Sehr beeindruckend und das Gefühl, in guten Händen gelandet zu sein. Bericht nicht später mit der Post, sondern sofort.\nBesser geht nicht. Meinen Dank an das Team.",
       "time": 1753783378
     }
-  ]
+  ],
+  "rating": 3.4,
+  "reviewCount": 30,
+  "summary": [],
+  "lastUpdated": "2026-04-26T15:39:28.320Z"
 }

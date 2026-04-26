@@ -1,12 +1,4 @@
 {
-  "rating": 4.4,
-  "reviewCount": 142,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Aysun_V_K (AVK)",
@@ -68,5 +60,13 @@
       "time": 1775559043,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.4,
+  "reviewCount": 142,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:00.855Z"
 }

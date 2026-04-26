@@ -1,8 +1,4 @@
 {
-  "rating": 3.9,
-  "reviewCount": 91,
-  "summary": [],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Kevin Radloff",
@@ -17,6 +13,16 @@
       "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1775856507
+    },
+    {
+      "author_name": "Holger Kusserow",
+      "author_url": "https://www.google.com/maps/contrib/113592450095051440500/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6f-liHxojf-nyv4anRs91rIrWCUgWn6a9U2YKztQEIpY5vg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1775856507,
+      "translated": false
     },
     {
       "author_name": "Lisa Müller (Lisamueller8906)",
@@ -39,5 +45,9 @@
       "text": "Ganz tolle Ärztin!! :)",
       "time": 1769110109
     }
-  ]
+  ],
+  "rating": 3.9,
+  "reviewCount": 91,
+  "summary": [],
+  "lastUpdated": "2026-04-26T15:39:29.374Z"
 }

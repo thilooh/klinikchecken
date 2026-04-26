@@ -1,12 +1,4 @@
 {
-  "rating": 3.8,
-  "reviewCount": 57,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "TipOk",
@@ -16,6 +8,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtg5osnwLGaklCAq05KWrRs8ddK2kWM8Nf6Yd1_BUKu4TAcQqZ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich werde in dieser Einrichtung behandelt, bisher gab es keine Beschwerden. Wenn ich den Behandlungsverlauf beendet habe und alles in Ordnung ist, werde ich die Überprüfung auf 5/5 ändern.",
+      "time": 1775979980,
+      "translated": false
+    },
+    {
+      "author_name": "TipOk",
+      "author_url": "https://www.google.com/maps/contrib/102744498644836271677/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtg5osnwLGaklCAq05KWrRs8ddK2kWM8Nf6Yd1_BUKu4TAcQqZ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich werde in dieser Einrichtung behandelt, bisher gab es keine Beschwerden. Wenn ich den Behandlungsverlauf beendet habe und alles in Ordnung ist, werde ich die Überprüfung auf 5/5 ändern.",
       "time": 1775979980,
       "translated": false
@@ -66,5 +70,13 @@
       "time": 1772745128,
       "translated": false
     }
-  ]
+  ],
+  "rating": 3.8,
+  "reviewCount": 57,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:14.941Z"
 }

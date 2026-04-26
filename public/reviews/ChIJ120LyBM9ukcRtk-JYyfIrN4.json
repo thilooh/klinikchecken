@@ -1,12 +1,4 @@
 {
-  "rating": 4,
-  "reviewCount": 154,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Ulrike Kallmeyer",
@@ -68,5 +60,13 @@
       "time": 1769156569,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4,
+  "reviewCount": 154,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
+  ],
+  "lastUpdated": "2026-04-26T15:39:47.214Z"
 }

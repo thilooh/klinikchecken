@@ -1,12 +1,4 @@
 {
-  "rating": 4,
-  "reviewCount": 104,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "le muecke",
@@ -68,5 +60,13 @@
       "time": 1762328793,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4,
+  "reviewCount": 104,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:17.760Z"
 }

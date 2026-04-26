@@ -1,12 +1,4 @@
 {
-  "rating": 4.6,
-  "reviewCount": 107,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Sari",
@@ -66,5 +58,13 @@
       "time": 1769768689,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.6,
+  "reviewCount": 107,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:49.813Z"
 }

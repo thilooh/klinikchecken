@@ -1,12 +1,4 @@
 {
-  "rating": 4.6,
-  "reviewCount": 218,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "FrauK.",
@@ -45,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "kerim atal",
+      "author_url": "https://www.google.com/maps/contrib/109473559022762786078/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4iyjejxzLIZxCzyDuLpUqjk0_rahfVOn3gelHCglcOE-0SA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sogar der eine Stern ist zu viel,\nNiemand erreichbar seit 10 Tagen und jedes Mal sagt der Anrufbeantworter wir rufen Sie zurück, niemand hat bis jetzt angerufen.\nWie sollen die Leute hier einen Termin vereinbaren können?",
+      "time": 1774597368,
+      "translated": false
+    },
+    {
       "author_name": "M. Poles",
       "author_url": "https://www.google.com/maps/contrib/110695417787861220663/reviews",
       "language": "de",
@@ -68,5 +72,13 @@
       "time": 1774362705,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.6,
+  "reviewCount": 218,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:53.616Z"
 }

@@ -1,12 +1,4 @@
 {
-  "rating": 3.6,
-  "reviewCount": 95,
-  "summary": [
-    "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
-    "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
-    "Vereinzelt werden Diagnoseprobleme erwähnt"
-  ],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Okan S",
@@ -43,5 +35,13 @@
       "text": "Alle nett & kompetent. Wartezeiten = 0. Schnelle Diagnose. Saubere Praxis. Zentrale / Gute Lage. Blick auf den Dom vom Wartezimmer aus.",
       "time": 1770140177
     }
-  ]
+  ],
+  "rating": 3.6,
+  "reviewCount": 95,
+  "summary": [
+    "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
+    "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
+    "Vereinzelt werden Diagnoseprobleme erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:25.556Z"
 }

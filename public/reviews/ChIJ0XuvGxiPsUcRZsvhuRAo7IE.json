@@ -1,0 +1,64 @@
+{
+  "reviews": [
+    {
+      "author_name": "Sam",
+      "author_url": "https://www.google.com/maps/contrib/113264996637677676601/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcqTa7O6XbkpPwXlqySctP7bTN6oWdBTuFSSNTska5_Tg0rg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärztin ist super. Aber der Rest! Im Privatbereich ist es nciht möglich telefonisch einen Termin zu buchen, ich hänge jedesmal 30 Minuten in der Warteschleife, dann wird mir gesagt ich bin falsch und soll zurückgerufen werden was nicht passiert. Online bei doclib - niemals, das geht immer daneben. Ich habe es hier nohcmal versucht, aber es gibt dermaßen viele Möglichkeiten es macht für mich überhaupt keinen Sinn. Die Verwaltungsstruktur ist massiv verbesserungsnötig, insbesondere in Anbetracht der nicht unerheblichen Preise die ich hier zahle. Die Personen am Tresen wirkten auf mich bisher auch nicht besonders kompetent, eher unsicher. Langsam bin ich echt genervt und hoffe nur, dass ich dort bald nicht mehr hinmuss. Ich kann das französische Lied in der Warteschleife NICHT MEHR HÖREN.",
+      "time": 1776841135,
+      "translated": false
+    },
+    {
+      "author_name": "Konstantinos Milionis",
+      "author_url": "https://www.google.com/maps/contrib/112188333695000634028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk9Jhj5gSfJyVU7ae12w8PoGkpdMXUKiFDXkieMQIKM5QR8Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vor drei Jahren habe ich bei Frau Mahmood eine Haartransplantation erhalten. Sie und ihr Team waren sehr freundlich und haben meine Angst vor dem Eingriff genommen. Das Ergebnis ist hervorragend, und ich würde gerne bald wiederkommen. Vielen Dank!",
+      "time": 1776767020,
+      "translated": false
+    },
+    {
+      "author_name": "Amin",
+      "author_url": "https://www.google.com/maps/contrib/107590657790291994312/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxDrHl5zjgYpVAB5_XoYIe0zXH7e7pYYPcJpcnBwiwRrj3jg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Mit dem Ergebnis der Filler-Behandlung bin ich sehr unzufrieden. Bereits seit der Behandlung bestehen an den zwei Einstichstellen sichtbare, linsengroße Schwellungen, die sich bis heute, also nach drei Jahren!!! nicht zurückgebildet haben. Die Stellen sind dauerhaft sichtbar!",
+      "time": 1775432498,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Rösner",
+      "author_url": "https://www.google.com/maps/contrib/101526922272824594300/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX09x6pwJFG76jrD9oMcuVPaZqtGenJgvnUAkplKTEQWw8=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1774972699,
+      "translated": false
+    },
+    {
+      "author_name": "Karen Henning",
+      "author_url": "https://www.google.com/maps/contrib/104469568869055365156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQOZ0YxkUHHyFBmwU1CJUxT92bWVAsf1cHfw4PdlJPq5syGg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1774276847,
+      "translated": false
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 410,
+  "summary": [],
+  "lastUpdated": "2026-04-26T15:39:36.380Z"
+}

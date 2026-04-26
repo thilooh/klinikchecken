@@ -1,0 +1,66 @@
+{
+  "reviews": [
+    {
+      "author_name": "Jeremy",
+      "author_url": "https://www.google.com/maps/contrib/113885848913490262187/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtmjgRik33Odj59vRgtX1ucAu8TLObFLAzwXgJFm6ihEP8ICA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1774001913,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Köhne",
+      "author_url": "https://www.google.com/maps/contrib/111583605587176193187/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5gjiX8MqtkDBE4lkPmJnViRMZNQZ82dqSToirSTok-U-7HaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr freundlich, sauber, gute Beratung, keine große Wartezeit, was braucht man mehr.",
+      "time": 1772464799,
+      "translated": false
+    },
+    {
+      "author_name": "Sorosh A",
+      "author_url": "https://www.google.com/maps/contrib/114147161938167748519/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJghBTO3ZhiPNuwEF6F1aIF31RSJn2lk2sQ-xVG9jdj2Xcfcc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Ich habe wegen meiner zehnjährigen Tochter angerufen, weil sie einen Splitter unter der Haut hat. Die Dame am Telefon sagte zu mir: Tut mir leid, wir nehmen nur Selbstzahler und Privatpatienten.\n\nTraurig, aber wahr...",
+      "time": 1771249246,
+      "translated": false
+    },
+    {
+      "author_name": "Yến Đặng Thị Hoàng",
+      "author_url": "https://www.google.com/maps/contrib/110571656585164926570/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0ETN_SzGFCVyKHXZE492EDmD3evvGN9OmwNI4jGNA_V_Xz8su=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Ich war bei mehreren Hautärzten und habe alles selbst bezahlt, da Hautärzte meist privat praktizieren und ich eine Überweisung akzeptiert habe. Ich war mit ihm zufrieden, weil er meinen ganzen Körper gründlich mit einem Gerät untersucht und mir alles erklärt hat, im Gegensatz zu anderen, die nur Fragen gestellt und eine kurze Untersuchung durchgeführt haben. Meine Haut war nach einer Woche zwar schon etwas geheilt, aber noch nicht vollständig abgeheilt.",
+      "time": 1768430492,
+      "translated": true
+    },
+    {
+      "author_name": "Brigitte Wiese",
+      "author_url": "https://www.google.com/maps/contrib/103385064076619059587/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQ_RwCUt2JTLNTcs8tNgnxbKzOdhK37NIMIB2v_hTk6sj8hqcV=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Ich bin schon seit vielen Jahren Patientin bei Dr. Kerner und war immer sehr zufrieden. Er ist fachlich sehr kompetent, nimmt sich Zeit und erklärt alles ruhig und verständlich. Auch das Praxisteam ist stets freundlich und gut organisiert. Die Behandlung verlief immer professionell und vertrauensvoll. Die schlechten Bewertungen kann ich absolut nicht nachvollziehen. Für mich ist Dr. Kerner ein Arzt, bei dem man sich wirklich gut aufgehoben fühlt.",
+      "time": 1768388034,
+      "translated": false
+    }
+  ],
+  "rating": 2.3,
+  "reviewCount": 95,
+  "summary": [],
+  "lastUpdated": "2026-04-26T15:39:32.367Z"
+}

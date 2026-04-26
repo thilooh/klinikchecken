@@ -1,12 +1,4 @@
 {
-  "rating": 5,
-  "reviewCount": 1,
-  "summary": [
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit exzellenten Bewertungen",
-    "Patienten empfehlen die Praxis weiter"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Olaf G",
@@ -18,5 +10,13 @@
       "time": 1603368493,
       "translated": false
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 1,
+  "summary": [
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen",
+    "Patienten empfehlen die Praxis weiter"
+  ],
+  "lastUpdated": "2026-04-26T15:40:07.018Z"
 }

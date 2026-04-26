@@ -1,12 +1,4 @@
 {
-  "rating": 5,
-  "reviewCount": 4,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit exzellenten Bewertungen"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Petra Weck",
@@ -54,5 +46,13 @@
       "time": 1593278702,
       "translated": false
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 4,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen"
+  ],
+  "lastUpdated": "2026-04-26T15:40:10.121Z"
 }

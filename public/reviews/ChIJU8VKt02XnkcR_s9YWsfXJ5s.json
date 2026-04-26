@@ -1,12 +1,4 @@
 {
-  "rating": 4.7,
-  "reviewCount": 141,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Cengiz",
@@ -68,5 +60,13 @@
       "time": 1774812536,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.7,
+  "reviewCount": 141,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:39:50.553Z"
 }

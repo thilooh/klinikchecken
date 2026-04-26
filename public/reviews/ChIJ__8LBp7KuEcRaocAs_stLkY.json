@@ -1,12 +1,4 @@
 {
-  "rating": 5,
-  "reviewCount": 1,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Marion Herrmann",
@@ -20,5 +12,13 @@
       "time": 1669900114,
       "translated": false
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 1,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T15:40:14.091Z"
 }

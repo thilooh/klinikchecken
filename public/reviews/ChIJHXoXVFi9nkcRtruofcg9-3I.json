@@ -1,13 +1,17 @@
 {
-  "rating": 4.6,
-  "reviewCount": 385,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "Günter Schütz",
+      "author_url": "https://www.google.com/maps/contrib/100964819932041747579/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxk9fQFzXpJ6iTTpwW4VloPUTt_ys6h8LSGY3U5AGo8LkY_RZSpg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur Abklärung eines Leidens für drei Tage vor Ort und ich habe mich auf der Station wohl gefühlt. Die Zimmerausstattung war OK und das (kostenpflichtige) WLAN hervorragend. Ein Spaziergang im Klinikgarten ist sehr angenehm. Die Mitarbeiter waren freundlich und zuvorkommend und auf meine Wünsche wurde eingegangen.",
+      "time": 1777192516,
+      "translated": false
+    },
     {
       "author_name": "Hans Burkert",
       "author_url": "https://www.google.com/maps/contrib/108027039973557901186/reviews",
@@ -68,5 +72,13 @@
       "time": 1776784273,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.6,
+  "reviewCount": 386,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
+  ],
+  "lastUpdated": "2026-04-26T15:39:50.093Z"
 }
