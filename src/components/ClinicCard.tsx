@@ -83,6 +83,17 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
     clarityEvent('profile_view')
     sendEvent('ViewContent', { content_name: clinic.name, content_category: clinic.city })
   }
+  const openReviews = () => {
+    if (clinic.placeId) {
+      setShowReviews(true)
+    } else {
+      window.open(
+        `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clinic.name + ' ' + clinic.address)}`,
+        '_blank',
+        'noopener,noreferrer',
+      )
+    }
+  }
   const [slide, setSlide] = useState(0)
   const [touchStart, setTouchStart] = useState<number | null>(null)
   const [touchStartY, setTouchStartY] = useState<number | null>(null)
@@ -193,12 +204,10 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                   <Stars rating={clinic.googleRating} size={16} />
                   <span style={{ fontWeight: 700, fontSize: '16px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
                 </div>
-                {clinic.placeId && (
-                  <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}>
-                    <span style={{ color: '#003399', fontSize: '13px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
-                    <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
-                  </button>
-                )}
+                <button onClick={openReviews} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}>
+                  <span style={{ color: '#003399', fontSize: '13px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
+                  <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                </button>
               </>
             ) : (
               <div style={{ marginBottom: '10px' }} />
@@ -300,12 +309,10 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                   <GIcon />
                   <Stars rating={clinic.googleRating} size={14} />
                   <span style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
-                  {clinic.placeId && (
-                    <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '2px' }}>
-                      <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Bewertungen lesen</span>
-                      <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
-                    </button>
-                  )}
+                  <button onClick={openReviews} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '2px' }}>
+                    <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Bewertungen lesen</span>
+                    <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                  </button>
                 </div>
               ) : (
                 <div style={{ marginBottom: '8px' }} />
