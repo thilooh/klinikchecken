@@ -36,6 +36,7 @@ export interface ArticleLayoutProps {
   /** JPEG srcset string for hero */
   heroJpgSrcset?: string
   ctaHref: string
+  ctaBody?: string
   onCtaClick?: () => void
   children: React.ReactNode
 }
@@ -55,6 +56,7 @@ export default function ArticleLayout({
   heroWebpSrcset,
   heroJpgSrcset,
   ctaHref,
+  ctaBody = 'Besenreiser-Check.de ist auf genau diese Vorauswahl spezialisiert. Praxen werden nach Facharzt-Qualifikation und echten Patientenstimmen sortiert — ohne bezahlte Rankings, ohne Werbe-Boost.',
   onCtaClick,
   children,
 }: ArticleLayoutProps) {
@@ -188,8 +190,7 @@ export default function ArticleLayout({
               Praxen vergleichen — sortiert nach diesen Kriterien
             </p>
             <p style={{ fontFamily: sans, fontSize: '14px', color: '#555', lineHeight: 1.6, marginBottom: '20px', marginTop: 0 }}>
-              Auf Besenreiser-Check.de findest du geprüfte Praxen, sortiert nach Facharzt-Qualifikation
-              und echten Patientenstimmen. Ohne bezahlte Rankings.
+              {ctaBody}
             </p>
             <a
               href={ctaHref}

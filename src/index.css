@@ -106,3 +106,49 @@ input[type=range]::-moz-range-thumb { width: 16px; height: 16px; border-radius: 
   .art-pullquote   { font-size: 17px; }
   .art-patient-quote { font-size: 16px; }
 }
+
+.art-lead {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: 21px;
+  color: #003399;
+  line-height: 1.5;
+  margin: 0 0 1.4em;
+  letter-spacing: 0;
+}
+.art-statement {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #0A1F44;
+  border-left: 3px solid #003399;
+  padding-left: 16px;
+  margin: 1.8em 0;
+  line-height: 1.4;
+  letter-spacing: 0;
+}
+.art-quote-box {
+  border-left: 4px solid #003399;
+  padding: 12px 0 12px 20px;
+  margin: 28px 0;
+}
+.art-quote-box p:first-child {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #222;
+  margin: 0 0 10px;
+}
+.art-quote-box p:last-child {
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 13px;
+  color: #888;
+  text-align: right;
+  margin: 0;
+}
+@media (max-width: 640px) {
+  .art-lead      { font-size: 19px; }
+  .art-statement { font-size: 18px; }
+  .art-quote-box p:first-child { font-size: 18px; }
+}
