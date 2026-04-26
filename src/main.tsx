@@ -8,6 +8,7 @@ import PraxisWaehlenPage from './pages/ratgeber/PraxisWaehlenPage.tsx'
 import ClinicPage from './pages/ClinicPage.tsx'
 import CityPage from './pages/CityPage.tsx'
 import MethodePage from './pages/MethodePage.tsx'
+import MethodenQuiz from './pages/MethodenQuiz.tsx'
 import './index.css'
 
 function RouteTracker() {
@@ -32,6 +33,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
         <Route path="/praxis/:slug" element={<ClinicPage />} />
         <Route path="/besenreiser/:city" element={<CityPage />} />
         <Route path="/methode/:method" element={<MethodePage />} />
+        <Route path="/methoden-quiz" element={<MethodenQuiz />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
