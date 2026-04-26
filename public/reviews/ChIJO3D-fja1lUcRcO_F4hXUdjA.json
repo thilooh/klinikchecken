@@ -1,0 +1,68 @@
+{
+  "rating": 4.8,
+  "reviewCount": 62,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Lea Neumann",
+      "author_url": "https://www.google.com/maps/contrib/102128741148102211029/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqd73a29NO_0UcFcpbH_yuEBtvAeW2aa8PuUCNbT7FSWAAiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für größere Eingriffe, bei denen das Ergebnis einigermaßen ordentlich aussehen soll, würde ich auf jeden Fall woanders hingehen. Die Mitarbeiterinnen am Empfang sind allerdings sehr nett und man bekommt vergleichsweise schnell einen Termin.",
+      "time": 1776716296,
+      "translated": false
+    },
+    {
+      "author_name": "Christian L.",
+      "author_url": "https://www.google.com/maps/contrib/117477401242767416486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDhZGdjRz1U330dXj0956Ofx6D_9w18isqDW_S7THSWtW0b1v4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1776492294,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Vitt",
+      "author_url": "https://www.google.com/maps/contrib/113593635810218367202/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwB58y_eHY2Je4LnNRljcWIU5u-08mIH_487lkDo_5CFpATw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Tolle Praxis , bin sehr zufrieden und das ganze Team ist höflich , freundlich und hilfsbereit. Ich bin bei Dr. Ali Mualla in Behandlung und muss sagen fühle mich  sehr wohl und aufgehoben , sehr kompetent und geht auf den Patienten ein und nimmt sich Zeit . So soll das sein .",
+      "time": 1775310171,
+      "translated": false
+    },
+    {
+      "author_name": "Sinaida Lerke",
+      "author_url": "https://www.google.com/maps/contrib/112275276403872561098/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPk6jgP_bDcRgUwMEpCQFIDvqo9cTRkGs6t3uEiXU_ORHOMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1774274950,
+      "translated": false
+    },
+    {
+      "author_name": "Pia Müller",
+      "author_url": "https://www.google.com/maps/contrib/116301235766493499804/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMedEBzst1BOG8FZCNMgg0dgcCEjE4_Ce5roMdB_nP_cOnRVrZtg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Wurde gut behandelt die Ärztin nimmt sich Zeit und ist sehr gründlich\nDanke",
+      "time": 1773674511,
+      "translated": false
+    }
+  ]
+}

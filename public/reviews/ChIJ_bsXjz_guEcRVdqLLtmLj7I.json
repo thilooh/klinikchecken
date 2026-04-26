@@ -1,0 +1,68 @@
+{
+  "rating": 4.5,
+  "reviewCount": 250,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Paul Meyer",
+      "author_url": "https://www.google.com/maps/contrib/100868454693112446007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcXLd0lhWUYOdLsMpHXKgJB0Whpyj4A6plFqZ_9qyASTkFUg4=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1776933281,
+      "translated": false
+    },
+    {
+      "author_name": "Hans Jürgen Roth",
+      "author_url": "https://www.google.com/maps/contrib/111152952784021052323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV15DzGMMM7nW9PnqM-mecJKlN7G_hPOjB2kTqdiLtgOZFpW3x2=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Kompetenter Arzt, unfreundliches Personal.",
+      "time": 1776275568,
+      "translated": false
+    },
+    {
+      "author_name": "Not Your Business",
+      "author_url": "https://www.google.com/maps/contrib/109686979760132624498/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_Bzr_fAG6YklDdo9Jjru1eq82teFxM1qfuE61PI4ggZXjsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Die Ärzte und das Personal sind nett, aber das war's. Als langjähriger Patient ist es unmöglich diese Praxis zu erreichen. Sie ist sehr schlecht organisiert. Man kann nur manchmal einen Termin online buchen, wenn die Praxis gerage nicht überlaufen ist. Man kann die Praxis nicht anrufen, weil nie jemand dran geht ( das ist so designed, es klingelt kein Telefon). Man wird nur ein mal zurück gerufen, und wenn man am arbeiten ist, und nicht dran gehen kann, kann man nicht zurück rufen. Auch per E-Mail kriegt man keine Antwort über Montate hinweg. Selbst wenn es nur um ein Wiederholungsrezept geht. Management läuft hier richtig schief, und das auf Kosten der Patienten.",
+      "time": 1774605779,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra Lee",
+      "author_url": "https://www.google.com/maps/contrib/100248697101627315475/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1UBxeDjxbJj47BjAMz2zrrhZGrIKv57iAlZNR8Ka-nGYgFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich habe hier über Doctolib ganz kurzfristig einen Termin bekommen und bin sehr zufrieden. Habe nur knapp 10 Minuten im Wartezimmer gesessen bevor ich dran kam. Die Ärztin war überaus freundlich, sympathisch  und kompetent. Hat mir direkt angeboten eine Überweisung für eine lang ersehnte Therapie zu verschreiben, ohne das ich danach gefragt habe. Sie hat mich dann noch direkt darauf hingewiesen, einen Termin zur Hautkrebsvorsorge zu machen, da meine Krankenkasse die Kosten voll übernimmt. Also ich bin wirklich sehr begeistert! Kein Schnick Schnack, schnelle effektive Behandlung ohne den Eindruck von „Fließband“ entstehen zu lassen. Auch die medizinischen Fachangestellten waren nett und entspannt. Vielen Dank 😊",
+      "time": 1774602258,
+      "translated": false
+    },
+    {
+      "author_name": "Indra",
+      "author_url": "https://www.google.com/maps/contrib/114316929536109712437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1iGOmDLkCFHBjAR_cRRUHdDLP3hs5zz4aYpqlQxOOVplEIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1774341606,
+      "translated": false
+    }
+  ]
+}

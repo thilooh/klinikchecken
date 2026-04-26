@@ -1,0 +1,66 @@
+{
+  "rating": 4.3,
+  "reviewCount": 124,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Ali Irfan Peksoylu",
+      "author_url": "https://www.google.com/maps/contrib/115955012538978992315/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIh7wzLMrOc71Q_gFfepHi2YtD4Q2j0ZBkEs5_VgiTVySM5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1776863729,
+      "translated": false
+    },
+    {
+      "author_name": "Mike",
+      "author_url": "https://www.google.com/maps/contrib/117975451412286173140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtYkUjL9srngOlmhg4j_jOQrhE0OTjuHAhqqDCiOQqFZESr_rt=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1775715297,
+      "translated": false
+    },
+    {
+      "author_name": "Cordula Prehn-Diederley",
+      "author_url": "https://www.google.com/maps/contrib/105566047250678276926/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZlyjnnO8NZHqXVA-H98YZ-FMKqZ6D5irC3TbjuRZgPSVv-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr freundliches und kompetentes Team.",
+      "time": 1775568552,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Setzer",
+      "author_url": "https://www.google.com/maps/contrib/115175415119467524454/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUD5ROysURzcxHNaN_s9s2uXF188BsvLeuTs9rfKt624tVag35J=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1775310785,
+      "translated": false
+    },
+    {
+      "author_name": "Björn Wackernagel",
+      "author_url": "https://www.google.com/maps/contrib/109287660331994500694/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBtWWmaI8vnYFgN81yc7HvhJ3yTVlr2urTXqD2VCosvRxXYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Alles paßt, Wartezeit, Behandlungszeit.",
+      "time": 1775228520,
+      "translated": false
+    }
+  ]
+}
