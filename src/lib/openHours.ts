@@ -3,7 +3,7 @@ const DAYS = ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa']
 
 function dayIndices(token: string): number[] {
   const out: number[] = []
-  for (const part of token.split('/')) {
+  for (const part of token.split(/[/+]/)) {
     const t = part.trim()
     if (t.includes('–')) {
       const [a, b] = t.split('–').map(s => DAYS.indexOf(s.trim()))
@@ -18,23 +18,30 @@ function dayIndices(token: string): number[] {
 
 export function isOpenToday(openHours: string): boolean {
   if (!openHours) return false
+
+  // Appointment-only → can't determine open status
+  if (/nach vereinbarung|auf anfrage/i.test(openHours)) return false
+
   const today = new Date().getDay()
   const abbr = DAYS[today]
 
-  // Format from Places API: "Mo: 08:00–18:00 Uhr, Di: geschl., ..."
+  // Places API format: "Mo: 08:00–18:00 Uhr, Di: geschl., ..."
   if (/\b(Mo|Di|Mi|Do|Fr|Sa|So):\s/.test(openHours)) {
     const rx = new RegExp(`\\b${abbr}:\\s*(\\S+)`)
     const m = openHours.match(rx)
-    if (!m) return false          // day not listed → closed
+    if (!m) return false         // day not listed → closed
     return !m[1].startsWith('g') // "geschl." → closed
   }
 
-  // No day tokens at all → open every day (e.g. "9:00–18:00 Uhr")
-  if (!/\b(Mo|Di|Mi|Do|Fr|Sa|So)\b/.test(openHours)) return true
+  // No day abbreviations at all → can't determine, assume closed
+  if (!/\b(Mo|Di|Mi|Do|Fr|Sa|So)\b/.test(openHours)) return false
 
-  // Format from manual entry: "Mo–Do 8:00–13:00, Fr 8:00–13:00"
-  for (const seg of openHours.split(',')) {
-    const dayToken = seg.trim().split(/\s+\d/)[0]
+  // Manual format: segments separated by '|' or ','
+  // Each segment starts with an optional day token (e.g. "Mo–Fr", "Mi+Fr", "Do")
+  // followed by times. Time-only segments (e.g. "14:00–18:00") are skipped.
+  for (const seg of openHours.split(/[|,]/)) {
+    const trimmed = seg.trim()
+    const dayToken = trimmed.split(/\s+\d/)[0].trim()
     if (dayIndices(dayToken).includes(today)) return true
   }
   return false
