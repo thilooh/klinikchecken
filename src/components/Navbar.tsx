@@ -33,11 +33,7 @@ export default function Navbar() {
           })}
         </div>
 
-        <div className="hidden md:flex items-center gap-3">
-          <button style={{ border: '1px solid rgba(255,255,255,0.3)', color: 'rgba(255,255,255,0.85)', backgroundColor: 'transparent', fontSize: '13px', padding: '6px 16px', borderRadius: '4px', cursor: 'pointer', fontWeight: 500 }}>
-            Klinik eintragen
-          </button>
-        </div>
+        <div className="hidden md:flex items-center gap-3" />
 
         <button className="md:hidden text-white" onClick={() => setMobileOpen(!mobileOpen)}>
           {mobileOpen ? <X size={24} /> : <Menu size={24} />}
@@ -51,9 +47,6 @@ export default function Navbar() {
               {label}
             </Link>
           ))}
-          <div style={{ padding: '14px 16px', borderTop: '1px solid rgba(255,255,255,0.15)' }}>
-            <a href="#" style={{ color: 'rgba(255,255,255,0.7)', fontSize: '14px', textDecoration: 'none' }}>Klinik eintragen</a>
-          </div>
         </div>
       )}
     </nav>
