@@ -142,8 +142,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   return (
     <>
       <div className="card-hover fade-in p-0" style={{
-        backgroundColor: clinic.featured ? '#FFFDF0' : '#fff',
-        border: clinic.featured ? '1px solid #DDC' : '1px solid #DDDDDD',
+        backgroundColor: '#fff',
+        border: '1px solid #DDDDDD',
         borderRadius: '6px', position: 'relative', marginBottom: '10px', overflow: 'hidden',
       }}>
 
@@ -186,13 +186,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronRight size={16} color="#333" />
               </button>
-            )}
-            {getClinicBadges(clinic, vt.badge).length > 0 && (
-              <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
-                {getClinicBadges(clinic, vt.badge).map(b => (
-                  <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
-                ))}
-              </div>
             )}
             <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
           </div>
@@ -297,13 +290,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronRight size={14} color="#333" />
               </button>
-            )}
-            {getClinicBadges(clinic, vt.badge).length > 0 && (
-              <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
-                {getClinicBadges(clinic, vt.badge).map(b => (
-                  <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
-                ))}
-              </div>
             )}
             <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
           </div>
