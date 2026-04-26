@@ -59,7 +59,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
         multi_inquiry: true,
         inquiry_count: clinics.length,
         cta_variant: ctaVariant,
-      }, { email: form.email, phone: form.phone })
+      }, { email: form.email, phone: form.phone, firstName: form.firstName, lastName: form.lastName })
       setSubmitted(true)
       onClearSelection()
     } catch {
