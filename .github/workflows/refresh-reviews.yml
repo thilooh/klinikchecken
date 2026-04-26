@@ -2,8 +2,19 @@ name: Refresh clinic reviews
 
 on:
   schedule:
-    - cron: '0 5 */3 * *'   # every 3 days at 05:00 UTC
-  workflow_dispatch:          # manual trigger from GitHub UI
+    - cron: '0 5 */3 * *'   # every 3 days at 05:00 UTC, runs against main
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to run on (and commit results to)'
+        required: false
+        default: 'main'
+      mode:
+        description: 'Sync mode'
+        required: false
+        default: 'full'
+        type: choice
+        options: ['full', 'resolve-only', 'reviews-only']
 
 jobs:
   refresh:
@@ -14,24 +25,30 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: deploy
+          ref: ${{ github.event.inputs.branch || 'main' }}
 
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Refresh reviews & regenerate summaries
+      - name: Sync Google Places data (placeIds + reviews + summaries)
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/refresh-reviews.mjs
+        run: |
+          MODE="${{ github.event.inputs.mode || 'full' }}"
+          case "$MODE" in
+            resolve-only) node scripts/sync-google-data.mjs --resolve-only ;;
+            reviews-only) node scripts/sync-google-data.mjs --reviews-only ;;
+            *)            node scripts/sync-google-data.mjs ;;
+          esac
 
       - name: Commit & push if anything changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/reviews/
+          git add public/reviews/ src/data/clinics.ts
           git diff --staged --quiet && echo "No changes." || (
-            git commit -m "chore: refresh clinic reviews $(date -u +%Y-%m-%d)"
-            git push origin deploy
+            git commit -m "Sync clinic Google data $(date -u +%Y-%m-%d)"
+            git push origin HEAD:"${{ github.event.inputs.branch || 'main' }}"
           )
