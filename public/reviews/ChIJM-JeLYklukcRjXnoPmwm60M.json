@@ -1,0 +1,36 @@
+{
+  "rating": 5,
+  "reviewCount": 2,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Anna",
+      "author_url": "https://www.google.com/maps/contrib/118022930580946384288/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjq4WQJfyeNUsSUBl23IUr8WAL6BriuafmeHfLaQs1V0igUNU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr netter Arzt nimmt sich Zeit für einen. Hab mich gut aufgehoben gefühlt.",
+      "time": 1773432850,
+      "translated": false
+    },
+    {
+      "author_name": "Jacek Gil",
+      "author_url": "https://www.google.com/maps/contrib/112538954533700643784/reviews",
+      "language": "de",
+      "original_language": "pl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ173K_nVE2zUBRLdWMpujrJXhTZSQWZEhYJ6E6jm1_40QDsQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Ein guter polnischer Gefäßchirurg, Dr. Dariusz Styczeń, arbeitet am Klinikum Gütersloh.",
+      "time": 1674804013,
+      "translated": true
+    }
+  ]
+}

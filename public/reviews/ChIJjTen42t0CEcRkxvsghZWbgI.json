@@ -1,0 +1,70 @@
+{
+  "rating": 4,
+  "reviewCount": 8,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Daniel Lehmann",
+      "author_url": "https://www.google.com/maps/contrib/111979888569449605082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOcW98-BDgAOr6-CH5NoWQXyfyfeI6PSZnTWF9hMU_2hvk_A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
+      "text": "",
+      "time": 1762773104,
+      "translated": false
+    },
+    {
+      "author_name": "Khava",
+      "author_url": "https://www.google.com/maps/contrib/109757976225260447512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMz7sc0yohfAL7I74PLQhn_KEP7mTsMPn1jCiMw7USESnNDz5t=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 9 Monaten",
+      "text": "Mit akutem Thrombose-Verdacht in die Praxis gekommen – und eiskalt weggeschickt. Kein Mitgefühl, keine Hilfe, keine Untersuchung. Eine Fachpraxis, die im Notfall versagt, ist schlicht nutzlos. Absolut verantwortungslos und enttäuschend.",
+      "time": 1752224905,
+      "translated": false
+    },
+    {
+      "author_name": "Blümchen",
+      "author_url": "https://www.google.com/maps/contrib/110346374061754508728/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXM1dZ1KBRdlYHj8pzZ6QwqwYqZHkmr3Z68LEL9GKsnDnI_A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Leider telefonisch nicht erreichbar",
+      "time": 1741251667,
+      "translated": false
+    },
+    {
+      "author_name": "Rychu M",
+      "author_url": "https://www.google.com/maps/contrib/109436074182979602117/reviews",
+      "language": "de",
+      "original_language": "pl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfL4x9rL9wbzY_HojU0pdw2hTvwVCG6_0Mxsp7b7NzoxQP4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Dr. Kmieciak war heute ein toller Arzt und ich bin zufrieden.",
+      "time": 1680614996,
+      "translated": true
+    },
+    {
+      "author_name": "Nicole Schnasi",
+      "author_url": "https://www.google.com/maps/contrib/113055283603657075553/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2conWHRHm8EY27rqQHU_8x8IE7muUTz2qEW9kjFJV_M2SGw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Sehr zu empfehlen!\nSehr netter Empfang, kurze Wartezeit und der Arzt Dr.Kmieciak nimmt sich für den Patienten Zeit und erklärt ausführlich.\nBin begeistert gewesen von diesem Arztbesuch.",
+      "time": 1671260566,
+      "translated": false
+    }
+  ]
+}

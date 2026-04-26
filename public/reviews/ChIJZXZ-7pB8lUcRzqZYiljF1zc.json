@@ -1,0 +1,68 @@
+{
+  "rating": 4.4,
+  "reviewCount": 90,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "V S",
+      "author_url": "https://www.google.com/maps/contrib/107175342282057112827/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKr3NTFjCU5PRFGfk8dlJ0HurrM2vmUCqhIZDHjt0dctDq2OA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war mit mehreren Besuchen in dieser Praxis insgesamt sehr unzufrieden. Aus meiner persönlichen Sicht war die Behandlung wenig einfühlsam und die Kommunikation nicht so, wie ich es mir von einem Arztbesuch erwarte.\nAuch der Eindruck während der Termine war für mich eher unpersönlich und stark auf einen schnellen Ablauf ausgerichtet. Insgesamt fehlte mir eine Atmosphäre, in der man sich als Patient wirklich gut aufgehoben fühlt.\nIch werde die Praxis künftig nicht mehr aufsuchen. Meine Erfahrung war insgesamt enttäuschend und entspricht nicht dem, was ich mir unter einer guten medizinischen Betreuung vorstelle.",
+      "time": 1777068527,
+      "translated": false
+    },
+    {
+      "author_name": "Goran Ciric",
+      "author_url": "https://www.google.com/maps/contrib/109542683316131765561/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLvCy5VqiPwSmY33EZ4yYz2BREhwdZM9LUmPxxWHTQpmjZpxw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1773174712,
+      "translated": false
+    },
+    {
+      "author_name": "Arnold Wagner",
+      "author_url": "https://www.google.com/maps/contrib/114506661230068811351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpsmVF5mAXDlf9mqu8B81e3ThIFmwF5YFjym_jZbTfDJkE-flg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Unseriöse Praxis. Eine telefonische Terminreservierung ist nicht möglich, denn man muss persönlich vorbei kommen. Nach einem Telefonat bin ich zur Praxis gefahren (20km, Zeit, Parkgebühren) um mir dann zu sagen, dass es einen Annahmestop gibt. Hätte man mir das nicht am Telefon gleich sagen können? Ebenso keinen Hinweis auf meine Anfrage per email.\n\nNachdem ich meinem Unmut auch schriftlich kund getan hatte, wurde mit schriftlich einen Termin ausnahmsweise vergeben. Warum man so mit mir verfahren ist, weiß ich nicht aber das die Praxis sich gemeldet hat ist sehr lobenswert und dafür nachträglich \"Daumen hoch\".",
+      "time": 1771344128,
+      "translated": false
+    },
+    {
+      "author_name": "Jesús Díaz",
+      "author_url": "https://www.google.com/maps/contrib/117472843191075952663/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjkJGsA1suCbrLVY4mnZ0qKYpR8KDyOimhlqZ1SYoGh3ofxy3R=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1767277132,
+      "translated": false
+    },
+    {
+      "author_name": "Ritienne Stanyer",
+      "author_url": "https://www.google.com/maps/contrib/100751805757611595680/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCGWoZLqnp8WLl4SiGH2LwvgV-nfVdTPG9PT5nku7JZnvNERE0=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Ich dachte, der Arzt selbst würde mich behandeln, nicht seine Assistentin. Mir wurden lediglich Nahrungsergänzungsmittel und ein Salbenpräparat verschrieben, ohne Bluttests. Übrigens: Sie müssen den Termin persönlich vereinbaren, falls Sie im Ausland wohnen.",
+      "time": 1765898233,
+      "translated": true
+    }
+  ]
+}

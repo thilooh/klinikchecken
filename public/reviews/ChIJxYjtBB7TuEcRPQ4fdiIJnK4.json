@@ -1,0 +1,72 @@
+{
+  "rating": 4.2,
+  "reviewCount": 20,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Peter Jacobs",
+      "author_url": "https://www.google.com/maps/contrib/111217260734580033946/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbE60GkdtEXPw_YOg5ZGjGhu_3PM9KvJz6GfwREz1VesaDMsTuoQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "seit Jahrzehnten hervorragende Betreuung, kompetent und vor allem die Menschlichkeit kommt nie zu kurz. Vielen Dank an das Team und natürlich auch an die hervorragenden Ärzte.",
+      "time": 1774453826,
+      "translated": false
+    },
+    {
+      "author_name": "Achim Schwoerer",
+      "author_url": "https://www.google.com/maps/contrib/102805505189562965825/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWUbTCtsJN754RI9VX3YEeFdLvAoczmbmFzjHH85hEpNrJw7v-1A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Super Praxis. Ich bin mit meiner neuen Hausärztin, Frau Kochen, äußerst zufrieden. Alle nett und kompetent da.",
+      "time": 1765535513,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Schneider Schneider",
+      "author_url": "https://www.google.com/maps/contrib/111503063191907287528/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6ETeiq2xbJ9ygfmnS26yq9LGjru_I_wZjMtVU4z3VUO3H9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 8 Monaten",
+      "text": "Tolle Praxis, tolle neue Hausärztin. Meine Mutter ist begeistert. Wir sind auch sehr zufrieden. Die neuen Damen am Empfang sind sehr freundlich und Hilfsbereit zu meiner Mutter. Ein Lob geht raus!",
+      "time": 1756281293,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Jacobs",
+      "author_url": "https://www.google.com/maps/contrib/112335661517483230931/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg-Mr9AWrvP1oy2tVY9mf0Z0B9wYTNpcFT0eEbDkwRgJBn53NK=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "mal wieder alle Probleme gelöst, vielen Dank Frau Kochen",
+      "time": 1744099200,
+      "translated": false
+    },
+    {
+      "author_name": "Guenter Kreis",
+      "author_url": "https://www.google.com/maps/contrib/107454570396472602216/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBwYpaRL3ZBjNHko1zaDk2aG1Xan3te-X9qpM6-KCTfpJw7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Dr. Stefan Kochen ist der Arzt meines Vertrauens. Er behandelt mich seit vielen Jahren und jeglicher seiner Diagnosen, als auch die Behandlung trafen wohlgemerkt immer vollends ein. Ein großes Dankeschön von meiner Seite.",
+      "time": 1743685820,
+      "translated": false
+    }
+  ]
+}

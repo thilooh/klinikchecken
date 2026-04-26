@@ -52,6 +52,36 @@ const CITIES = [
   { name: 'Kassel',               plzPrefixes: ['34'],                   hint: 'PLZ 34xxx',         lat: 51.312, lng:  9.480 },
   { name: 'Saarbrücken',          plzPrefixes: ['66'],                   hint: 'PLZ 66xxx',         lat: 49.234, lng:  7.000 },
   { name: 'Göttingen',            plzPrefixes: ['37'],                   hint: 'PLZ 37xxx',         lat: 51.541, lng:  9.926 },
+  { name: 'Halle (Saale)',        plzPrefixes: ['06'],                   hint: 'PLZ 06xxx',         lat: 51.482, lng: 11.970 },
+  { name: 'Mönchengladbach',      plzPrefixes: ['41'],                   hint: 'PLZ 41xxx',         lat: 51.198, lng:  6.440 },
+  { name: 'Gelsenkirchen',        plzPrefixes: ['459', '456', '458'],    hint: 'PLZ 45xxx',         lat: 51.517, lng:  7.085 },
+  { name: 'Krefeld',              plzPrefixes: ['477', '478'],           hint: 'PLZ 47xxx',         lat: 51.339, lng:  6.588 },
+  { name: 'Oberhausen',           plzPrefixes: ['460', '462'],           hint: 'PLZ 46xxx',         lat: 51.470, lng:  6.852 },
+  { name: 'Hagen',                plzPrefixes: ['58'],                   hint: 'PLZ 58xxx',         lat: 51.360, lng:  7.474 },
+  { name: 'Hamm',                 plzPrefixes: ['592', '593', '594'],    hint: 'PLZ 59xxx',         lat: 51.680, lng:  7.816 },
+  { name: 'Ludwigshafen am Rhein',plzPrefixes: ['67'],                   hint: 'PLZ 67xxx',         lat: 49.479, lng:  8.445 },
+  { name: 'Oldenburg',            plzPrefixes: ['26'],                   hint: 'PLZ 26xxx',         lat: 53.143, lng:  8.214 },
+  { name: 'Osnabrück',            plzPrefixes: ['49'],                   hint: 'PLZ 49xxx',         lat: 52.279, lng:  8.047 },
+  { name: 'Leverkusen',           plzPrefixes: ['513', '514'],           hint: 'PLZ 51xxx',         lat: 51.045, lng:  6.997 },
+  { name: 'Solingen',             plzPrefixes: ['427', '428'],           hint: 'PLZ 42xxx',         lat: 51.177, lng:  7.085 },
+  { name: 'Paderborn',            plzPrefixes: ['33'],                   hint: 'PLZ 33xxx',         lat: 51.718, lng:  8.755 },
+  { name: 'Darmstadt',            plzPrefixes: ['64'],                   hint: 'PLZ 64xxx',         lat: 49.872, lng:  8.651 },
+  { name: 'Neuss',                plzPrefixes: ['414', '413'],           hint: 'PLZ 41xxx',         lat: 51.198, lng:  6.691 },
+  { name: 'Ingolstadt',           plzPrefixes: ['85'],                   hint: 'PLZ 85xxx',         lat: 48.763, lng: 11.425 },
+  { name: 'Heilbronn',            plzPrefixes: ['742', '743', '744'],    hint: 'PLZ 74xxx',         lat: 49.140, lng:  9.220 },
+  { name: 'Pforzheim',            plzPrefixes: ['753', '754'],           hint: 'PLZ 75xxx',         lat: 48.893, lng:  8.695 },
+  { name: 'Wolfsburg',            plzPrefixes: ['384', '385', '386'],    hint: 'PLZ 38xxx',         lat: 52.424, lng: 10.782 },
+  { name: 'Erlangen',             plzPrefixes: ['910', '911'],           hint: 'PLZ 91xxx',         lat: 49.595, lng: 11.004 },
+  { name: 'Reutlingen',           plzPrefixes: ['721', '722'],           hint: 'PLZ 72xxx',         lat: 48.491, lng:  9.204 },
+  { name: 'Koblenz',              plzPrefixes: ['56'],                   hint: 'PLZ 56xxx',         lat: 50.356, lng:  7.594 },
+  { name: 'Jena',                 plzPrefixes: ['07'],                   hint: 'PLZ 07xxx',         lat: 50.927, lng: 11.589 },
+  { name: 'Trier',                plzPrefixes: ['54'],                   hint: 'PLZ 54xxx',         lat: 49.750, lng:  6.637 },
+  { name: 'Schwerin',             plzPrefixes: ['19'],                   hint: 'PLZ 19xxx',         lat: 53.635, lng: 11.401 },
+  { name: 'Gera',                 plzPrefixes: ['075', '076'],           hint: 'PLZ 07xxx',         lat: 50.877, lng: 12.082 },
+  { name: 'Hildesheim',           plzPrefixes: ['31'],                   hint: 'PLZ 31xxx',         lat: 52.153, lng:  9.951 },
+  { name: 'Siegen',               plzPrefixes: ['571', '572', '573'],    hint: 'PLZ 57xxx',         lat: 50.875, lng:  8.024 },
+  { name: 'Gütersloh',            plzPrefixes: ['333', '334'],           hint: 'PLZ 33xxx',         lat: 51.906, lng:  8.379 },
+  { name: 'Cottbus',              plzPrefixes: ['03'],                   hint: 'PLZ 03xxx',         lat: 51.756, lng: 14.333 },
 ]
 
 function nearestCity(lat: number, lng: number): string {
@@ -184,7 +214,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
         </div>
 
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '28px', marginTop: '18px', flexWrap: 'wrap' }}>
-          {[{ n: '139', label: 'handverlesene Praxen' }, { n: '5.000+', label: 'Bewertungen' }, { n: '42', label: 'Städte verfügbar' }].map(stat => (
+          {[{ n: '229', label: 'handverlesene Praxen' }, { n: '5.000+', label: 'Bewertungen' }, { n: '72', label: 'Städte verfügbar' }].map(stat => (
             <div key={stat.n} style={{ textAlign: 'center' }}>
               <div style={{ color: '#fff', fontWeight: 800, fontSize: '16px', lineHeight: 1 }}>{stat.n}</div>
               <div style={{ color: '#7AAAE0', fontSize: '12px', marginTop: '4px' }}>{stat.label}</div>

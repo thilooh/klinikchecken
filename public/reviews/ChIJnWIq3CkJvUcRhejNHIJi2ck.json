@@ -1,0 +1,36 @@
+{
+  "rating": 5,
+  "reviewCount": 2,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Siegfried Hofmann",
+      "author_url": "https://www.google.com/maps/contrib/101599008243491313736/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8zKwG4XkzOV4lITiQ0kq7ZVWz1TLPrEiOb5gE2Dyz4pqTkw-C=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war vom 08.04 bis 13.04 in der Klinik auf Station 12D und bin sowas von Positiv beeindruckt wie super die Ärzte und das Personal ihren Job mit Leidenschaft machen.\nDiese Hilfsbereitschaft und sehr freundliche Mitarbeiter würde ich gerne auf diesem Weg danken.\nMacht weiter so ich kann euch nur empfehlen. 1A Klinik.",
+      "time": 1776152632,
+      "translated": false
+    },
+    {
+      "author_name": "Ute Naumann",
+      "author_url": "https://www.google.com/maps/contrib/110038990648173996103/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJStdlWYTtF6VM9O3RFvdwiBClo3c3pejuTjO_ga9LpOMR3aw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 5 Jahren",
+      "text": "Sehr kompetent und einfühlsam. Die Erklärungen super verständlich. Top!  Komme auf alle Fälle wieder !",
+      "time": 1592938907,
+      "translated": false
+    }
+  ]
+}

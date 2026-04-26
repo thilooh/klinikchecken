@@ -1,0 +1,24 @@
+{
+  "rating": 5,
+  "reviewCount": 1,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Marion Herrmann",
+      "author_url": "https://www.google.com/maps/contrib/108363034453267966083/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcLnHDU5Vj85edHxZiE5Iy0N2CFsjAPUpFENtYc2MPkk-ypw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Frau Dr Vourvouli ist eine sehr kompetente und professionelle Ärztin.\nDurch ihre herzliche Art und das freundliche\nTeam um sie herum fühlt man sich\nIn der Praxis sehr wohl.\n\nMein Problem hatte sie sehr schnell im Griff\nVielen Dank",
+      "time": 1669900114,
+      "translated": false
+    }
+  ]
+}

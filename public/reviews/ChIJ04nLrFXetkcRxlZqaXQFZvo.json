@@ -1,0 +1,68 @@
+{
+  "rating": 4.9,
+  "reviewCount": 46,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Vereinzelt werden längere Wartezeiten erwähnt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Angel Achor",
+      "author_url": "https://www.google.com/maps/contrib/110719879042128032994/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdp6RW0xbj6tXTu39gc2Xnpx8V8ldR9X2CJVs6CuJ_6WYF70IDCQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Arzthelferinnen immer stets bemüht und freundlich.\nBeim Arzt ist man gut aufgehoben und kann sehr Probleme gut besprechen.\nDas einzige Manko ist die sehr lange Wartezeit bei Terminvergabe.",
+      "time": 1776695360,
+      "translated": false
+    },
+    {
+      "author_name": "Caitlyn Pelé",
+      "author_url": "https://www.google.com/maps/contrib/108288427020080719909/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDvq_VxJY5lrN0ypXQlggXgxEOdFakDyUCzT20YBMrfTmw3sCm=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1768777816,
+      "translated": false
+    },
+    {
+      "author_name": "Elke Dirks",
+      "author_url": "https://www.google.com/maps/contrib/117593714290379487981/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJi5MQ9VUT7Z37tSDIVpvzMbcrM55sv-YF5zucftSZPgb7fQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Sehr kompetenter und freundlicher Arzt,  auch das Personal ist sehr freundlich.  Ich bin hier schon seit vielen Jahren Patientin.",
+      "time": 1767697660,
+      "translated": false
+    },
+    {
+      "author_name": "Y",
+      "author_url": "https://www.google.com/maps/contrib/117453268041787541957/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_xQpAEnPNlSRU1QiGpiOrqLcY84JB-vGA92UcGOUvIhctM_Zd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "",
+      "time": 1766068039,
+      "translated": false
+    },
+    {
+      "author_name": "Inge Bruns",
+      "author_url": "https://www.google.com/maps/contrib/103392990257497407314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJksXlamXC2MzHrtEOC0f5kfaKaJG62wKp_9yVq64xAUwPB2A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 7 Monaten",
+      "text": "Es dauert oft eine Weile bis man telefonisch durchkommt, aber dann sind sie dort sehr freundlich.",
+      "time": 1758133858,
+      "translated": false
+    }
+  ]
+}

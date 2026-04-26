@@ -1,0 +1,44 @@
+{
+  "rating": 5,
+  "reviewCount": 3,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "ich du",
+      "author_url": "https://www.google.com/maps/contrib/104485749421838913421/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOv3YFPPawGFsdg6wjaJdCPK0BvQGiJwqnXtfVFNqAMPddmg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Sehr zu empfehlen. Bei Zustand nach einer Thrombose wurde untersucht, danach hat Dr. Forkel sich wirklich viel Zeit genommen um alles zu erklären und Fragen meinerseits zu beantworten.\nIch wurde über weitere Möglichkeiten der Behandlung aufgeklärt, sehr freundlicher Arzt.",
+      "time": 1672950396,
+      "translated": false
+    },
+    {
+      "author_name": "André Cramer",
+      "author_url": "https://www.google.com/maps/contrib/117792437679854339035/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJ5f1GdbZVuuqy2Y7cRPEZfrAZ4unawkYuRG4r9JuFJgYIQA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 6 Jahren",
+      "text": "",
+      "time": 1567775085,
+      "translated": false
+    },
+    {
+      "author_name": "Askar Hajo",
+      "author_url": "https://www.google.com/maps/contrib/112979215638046131855/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5Q6BOGuGpzlc6xHGutICCkglj-Bgb5nLgKv2Vnjf8iwGy-2QeLQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 8 Jahren",
+      "text": "",
+      "time": 1499768046,
+      "translated": false
+    }
+  ]
+}

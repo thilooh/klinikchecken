@@ -1,0 +1,34 @@
+{
+  "rating": 5,
+  "reviewCount": 2,
+  "summary": [
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "vinta obsess",
+      "author_url": "https://www.google.com/maps/contrib/103333830147850762514/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjET5piAtBIWg5zkfzAEx02RzCCNY8mbZZlC1dtlI4epC9gn8GBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 9 Jahren",
+      "text": "Tolle Behandlung! Gerne wieder!",
+      "time": 1473500054,
+      "translated": false
+    },
+    {
+      "author_name": "Andi 99",
+      "author_url": "https://www.google.com/maps/contrib/105041821703932207156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbDfN-5njQoG_01q9d9mI4XO7jLjTWJMfVKhQ1DpWEPOhzngY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 9 Jahren",
+      "text": "",
+      "time": 1471359133,
+      "translated": false
+    }
+  ]
+}
