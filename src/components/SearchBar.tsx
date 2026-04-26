@@ -103,7 +103,8 @@ const AUTOCOMPLETE_URL = '/.netlify/functions/places-autocomplete'
 // Default radius (km) used when a user selects an address suggestion
 // and no explicit distance filter is active. Keeps the result list
 // focused on nearby practices instead of the full 229 sorted by distance.
-const DEFAULT_NEARBY_RADIUS_KM = 50
+// Set wide enough that rural addresses still see a handful of results.
+const DEFAULT_NEARBY_RADIUS_KM = 75
 
 function newSessionToken(): string {
   if (typeof crypto !== 'undefined' && 'randomUUID' in crypto) return crypto.randomUUID()
