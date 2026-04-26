@@ -107,7 +107,7 @@ async function placesTextSearch(query) {
 async function placeDetails(placeId) {
   const url = new URL('https://maps.googleapis.com/maps/api/place/details/json')
   url.searchParams.set('place_id', placeId)
-  url.searchParams.set('fields', 'reviews,rating,user_ratings_total,name')
+  url.searchParams.set('fields', 'reviews,rating,user_ratings_total,name,geometry')
   url.searchParams.set('language', 'de')
   url.searchParams.set('reviews_sort', 'newest')
   url.searchParams.set('key', GOOGLE_KEY)
@@ -115,6 +115,23 @@ async function placeDetails(placeId) {
   const data = await res.json()
   if (data.status !== 'OK') throw new Error(`Details: ${data.status}`)
   return data.result
+}
+
+// Patch a clinic block that lacks `lat:` / `lng:` lines: insert them
+// right after the `distanceKm:` line (matches the position used by the
+// 221 clinics that already have coordinates).
+function patchMissingLatLng(source, clinicId, lat, lng) {
+  const blocks = parseClinics(source)
+  const block = blocks.find(b => b.id === clinicId)
+  if (!block) return source
+  const blockText = source.slice(block.start, block.end)
+  if (/\blat:\s*[\d.-]+/.test(blockText)) return source   // already present
+  const updated = blockText.replace(
+    /(distanceKm:\s*[\d.]+,)(\s*\n\s*)/,
+    `$1$2lat: ${lat},$2lng: ${lng},$2`,
+  )
+  if (updated === blockText) return source
+  return source.slice(0, block.start) + updated + source.slice(block.end)
 }
 
 // ─── Anthropic summary ───────────────────────────────────────────────────────
@@ -201,12 +218,12 @@ if (!reviewsOnly) {
   }
 }
 
-// 2. Refresh review JSONs
+// 2. Refresh review JSONs (also backfills missing lat/lng from geometry)
 if (!resolveOnly) {
   fs.mkdirSync(OUT_DIR, { recursive: true })
   const withPid = clinics.filter(c => c.placeId)
   console.log(`\nRefreshing review JSON for ${withPid.length} clinics...\n`)
-  let okCount = 0, skipCount = 0
+  let okCount = 0, skipCount = 0, coordPatches = 0
   for (const c of withPid) {
     const file = path.join(OUT_DIR, `${c.placeId}.json`)
     process.stdout.write(`  [${c.city}] ${c.name.slice(0, 50)} ... `)
@@ -228,13 +245,27 @@ if (!resolveOnly) {
         lastUpdated: new Date().toISOString(),
       }
       if (!dryRun) fs.writeFileSync(file, JSON.stringify(payload, null, 2))
-      console.log(`✓ ${merged.length} reviews`)
+
+      // Backfill lat/lng if missing in clinics.ts and geometry is available.
+      const loc = detail.geometry?.location
+      const needsCoords = c.lat == null || c.lng == null
+      let extra = ''
+      if (needsCoords && loc?.lat != null && loc?.lng != null && !dryRun) {
+        const next = patchMissingLatLng(source, c.id, loc.lat, loc.lng)
+        if (next !== source) { source = next; coordPatches++; extra = ' +coords' }
+      }
+
+      console.log(`✓ ${merged.length} reviews${extra}`)
       okCount++
       await new Promise(r => setTimeout(r, 150))
     } catch (e) {
       console.log(`✗ ${e.message}`)
       skipCount++
     }
+  }
+  if (coordPatches > 0 && !dryRun) {
+    fs.writeFileSync(CLINICS_TS, source)
+    console.log(`\nBackfilled lat/lng for ${coordPatches} clinics`)
   }
   console.log(`\nDone. ${okCount} updated, ${skipCount} skipped.`)
 }

@@ -5,17 +5,20 @@ import { haversineKm } from '../lib/geo'
 export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Clinic[] {
   return useMemo(() => {
     const { userLat, userLng } = filters
-    let result = clinics.map(c => {
-      // Compute real distance if user location and clinic coords are available
-      if (userLat != null && userLng != null && c.lat != null && c.lng != null) {
-        return { ...c, distanceKm: Math.round(haversineKm(userLat, userLng, c.lat, c.lng) * 10) / 10 }
-      }
-      return c
-    })
-
-    // When user has coordinates (from address geocoding or GPS), show all clinics
-    // sorted by distance. The city filter only applies for plain city/PLZ searches.
     const hasUserCoords = userLat != null && userLng != null
+
+    let result: Clinic[]
+    if (hasUserCoords) {
+      // Distance-based view: drop clinics without coordinates entirely —
+      // their stale distanceKm (distance to their own city centre) would
+      // otherwise let them rank above real near-by practices.
+      result = clinics
+        .filter(c => c.lat != null && c.lng != null)
+        .map(c => ({ ...c, distanceKm: Math.round(haversineKm(userLat, userLng, c.lat as number, c.lng as number) * 10) / 10 }))
+    } else {
+      result = clinics
+    }
+
     if (filters.searchCity && !hasUserCoords) {
       result = result.filter(c =>
         c.city.toLowerCase() === filters.searchCity.toLowerCase()
