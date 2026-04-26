@@ -3,7 +3,10 @@
 import json, urllib.request, urllib.parse, os, sys
 from datetime import date
 
-API_KEY = "AIzaSyCfWPREdPKF374Oof9erIOiotlLKAtDvAw"
+API_KEY = os.environ.get('GOOGLE_PLACES_API_KEY')
+if not API_KEY:
+    print('Missing GOOGLE_PLACES_API_KEY env var', file=sys.stderr)
+    sys.exit(1)
 REVIEWS_DIR = os.path.join(os.path.dirname(__file__), '..', 'public', 'reviews')
 TODAY = date.today().isoformat() + 'T00:00:00.000Z'
 
