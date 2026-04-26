@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "E. Mo",
+      "author_url": "https://www.google.com/maps/contrib/115824574774055029651/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4VGcz9ll3OuEO18uaOjq11Zu6_mr9M_gwPOxtHjbE8CxvYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit Frau Flegl. Sie ist eine sehr kompetente und freundliche Dermatologin, die sich Zeit für ihre Patienten nimmt. Man fühlt sich gut aufgehoben und ernst genommen. Die Behandlung wurde verständlich erklärt und war sehr professionell. Auch das Praxisteam ist nett und organisiert. Ich kann Frau Felg auf jeden Fall weiterempfehlen!",
+      "time": 1777228958,
+      "translated": false
+    },
+    {
       "author_name": "Sabrina Cosgun",
       "author_url": "https://www.google.com/maps/contrib/110711823966767755345/reviews",
       "language": "de",
@@ -62,11 +74,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 206,
+  "reviewCount": 207,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T16:44:40.090Z"
+  "lastUpdated": "2026-04-26T19:24:40.380Z"
 }
