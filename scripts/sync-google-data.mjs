@@ -37,12 +37,12 @@ const resolveOnly = args.has('--resolve-only')
 const reviewsOnly = args.has('--reviews-only')
 
 if (!GOOGLE_KEY) {
-  console.error('Missing GOOGLE_PLACES_API_KEY env var')
+  console.error('ERROR: GOOGLE_PLACES_API_KEY env var is missing or empty')
   process.exit(1)
 }
-if (!ANTHROPIC_KEY && !resolveOnly) {
-  console.error('Missing ANTHROPIC_API_KEY env var (or pass --resolve-only)')
-  process.exit(1)
+const skipSummaries = !ANTHROPIC_KEY
+if (skipSummaries && !resolveOnly) {
+  console.warn('WARNING: ANTHROPIC_API_KEY missing — review JSONs will be fetched without AI summaries.')
 }
 
 // ─── Parse clinics.ts ────────────────────────────────────────────────────────
@@ -120,7 +120,7 @@ async function placeDetails(placeId) {
 // ─── Anthropic summary ───────────────────────────────────────────────────────
 
 async function generateSummary(reviews, clinicName) {
-  if (!ANTHROPIC_KEY) return []
+  if (skipSummaries) return []
   if (!reviews?.length) return []
   const reviewTexts = reviews
     .filter(r => r.text?.trim())
