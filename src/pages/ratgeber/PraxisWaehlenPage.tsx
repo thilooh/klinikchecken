@@ -98,7 +98,7 @@ export default function PraxisWaehlenPage() {
       date="8. März 2026"
       readTime="6 Min Lesezeit"
       title="Eine Praxis für Besenreiser wählen: Worauf es wirklich ankommt"
-      subtitle="Die meisten Frauen geben mehr Zeit in die Wahl ihres Friseurs als in die Wahl der Praxis, die ihre Beine behandelt. Das ist nachvollziehbar — und es ist der häufigste teure Fehler in diesem Bereich. Hier sind die fünf Kriterien, an denen du eine geeignete Praxis erkennst."
+      subtitle="Die meisten Frauen geben mehr Zeit in die Wahl ihres Friseurs als in die Wahl der Praxis, die ihre Beine behandelt. Das ist nachvollziehbar - und es ist der häufigste teure Fehler in diesem Bereich. Hier sind die fünf Kriterien, an denen du eine geeignete Praxis erkennst."
       authorLine="Martina"
       authorImg="/ratgeber/martina.jpg"
       heroSrc={`${BASE}/${HERO_NAME}-1200.jpg`}
@@ -114,7 +114,7 @@ export default function PraxisWaehlenPage() {
       </p>
       <p className="art-p">
         Die erste ging zum nächstgelegenen Hautarzt, hörte sich an, sie habe "Pech mit den Genen",
-        und verließ die Praxis nach zehn Minuten — mit dem Eindruck, sie selbst sei das Problem.
+        und verließ die Praxis nach zehn Minuten - mit dem Eindruck, sie selbst sei das Problem.
       </p>
       <p className="art-p">
         Die zweite ließ sich behandeln und sieht zwei Jahre später noch immer die bräunlichen
@@ -127,7 +127,7 @@ export default function PraxisWaehlenPage() {
       </p>
       <p className="art-p">
         Was diese drei Frauen unterscheidet, ist nicht ihr Glück. Es ist die Praxis, bei der sie
-        gelandet sind — und wie genau sie vorher hingeschaut haben.
+        gelandet sind - und wie genau sie vorher hingeschaut haben.
       </p>
       <p className="art-p">
         Besenreiser-Behandlungen werden in Deutschland von Phlebologen, Dermatologen, allgemeinen
@@ -139,7 +139,7 @@ export default function PraxisWaehlenPage() {
       <p className="art-statement">Die Verantwortung liegt bei dir.</p>
 
       <p className="art-p">
-        Die folgenden fünf Kriterien sind das, worauf erfahrene Patientinnen heute achten — und
+        Die folgenden fünf Kriterien sind das, worauf erfahrene Patientinnen heute achten - und
         worauf eine gute Praxis von selbst Antworten gibt, ohne dass du fragen musst.
       </p>
 
@@ -159,7 +159,7 @@ export default function PraxisWaehlenPage() {
         nebenbei macht.
       </p>
       <p className="art-p">
-        Phlebologen — also auf Venen spezialisierte Fachärzte — haben Routine darin, die richtige
+        Phlebologen - also auf Venen spezialisierte Fachärzte - haben Routine darin, die richtige
         Konzentration des Verödungsmittels für das jeweilige Hautareal zu wählen, die Spritze in der
         korrekten Tiefe zu führen, und schon vor der Behandlung zu erkennen, ob unter den sichtbaren
         Besenreisern eine größere Vene als Speiser sitzt.
@@ -187,7 +187,7 @@ export default function PraxisWaehlenPage() {
       </p>
       <p className="art-p">
         Bevor Besenreiser verödet werden, sollte die Praxis prüfen, ob darunter eine größere Vene als
-        Quelle dient. Diese Prüfung geschieht per Duplex-Sonographie — einer speziellen Form der
+        Quelle dient. Diese Prüfung geschieht per Duplex-Sonographie - einer speziellen Form der
         Ultraschall-Untersuchung. Wenn eine Speiser-Vene übersehen wird, kommen die Besenreiser an
         derselben Stelle innerhalb weniger Monate zurück.
       </p>
@@ -217,17 +217,17 @@ export default function PraxisWaehlenPage() {
         Akkordarbeit.
       </p>
       <p className="art-p">
-        Die häufigste Komplikation bei unsachgemäßer Anwendung sind Pigmentstörungen — bräunliche
+        Die häufigste Komplikation bei unsachgemäßer Anwendung sind Pigmentstörungen - bräunliche
         Verfärbungen, die nach der Behandlung an den behandelten Stellen bleiben. Sie entstehen, wenn
         die Konzentration zu hoch ist, das falsche Mittel benutzt wird oder zu nah unter der
         Hautoberfläche gespritzt wird. Eine Patientin beschreibt:
       </p>
       <PatientQuote
-        quote="Sie hat die Hose hochgezogen, und ich hab nichts mehr gesagt. Dieser braune Schatten, der einfach nicht mehr weggeht — das war für mich der Moment, an dem ich verstanden habe: Es ist nicht egal, wer das macht."
+        quote="Sie hat die Hose hochgezogen, und ich hab nichts mehr gesagt. Dieser braune Schatten, der einfach nicht mehr weggeht - das war für mich der Moment, an dem ich verstanden habe: Es ist nicht egal, wer das macht."
         attribution="S.W., 47, Düsseldorf"
       />
       <p className="art-p">
-        Eine seriöse Praxis spricht im Vorgespräch von selbst über solche Risiken — ohne sie zu
+        Eine seriöse Praxis spricht im Vorgespräch von selbst über solche Risiken - ohne sie zu
         dramatisieren, aber auch ohne sie zu verharmlosen.
       </p>
 
@@ -296,12 +296,12 @@ export default function PraxisWaehlenPage() {
       </p>
       <p className="art-p">
         Der praktische Weg ist meistens ähnlich. Erst die spezialisierten Praxen in der eigenen Stadt
-        identifizieren. Dann die Bewertungen genau lesen — nicht überfliegen. Dann zwei oder drei
+        identifizieren. Dann die Bewertungen genau lesen - nicht überfliegen. Dann zwei oder drei
         Vorgespräche führen und vergleichen.
       </p>
       <p className="art-p">
-        Das ist Zeitaufwand. Aber gemessen an dem, was eine schlechte Behandlung kostet — finanziell,
-        gesundheitlich, in Wartezeit auf ein Ergebnis — ist er klein.
+        Das ist Zeitaufwand. Aber gemessen an dem, was eine schlechte Behandlung kostet - finanziell,
+        gesundheitlich, in Wartezeit auf ein Ergebnis - ist er klein.
       </p>
       <p className="art-p">
         Eine spezialisierte Vergleichsplattform kann den ersten Schritt übernehmen: die Vorauswahl der

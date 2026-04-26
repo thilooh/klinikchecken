@@ -56,7 +56,7 @@ export default function ArticleLayout({
   heroWebpSrcset,
   heroJpgSrcset,
   ctaHref,
-  ctaBody = 'Besenreiser-Check.de ist auf genau diese Vorauswahl spezialisiert. Praxen werden nach Facharzt-Qualifikation und echten Patientenstimmen sortiert — ohne bezahlte Rankings, ohne Werbe-Boost.',
+  ctaBody = 'Besenreiser-Check.de ist auf genau diese Vorauswahl spezialisiert. Praxen werden nach Facharzt-Qualifikation und echten Patientenstimmen sortiert - ohne bezahlte Rankings, ohne Werbe-Boost.',
   onCtaClick,
   children,
 }: ArticleLayoutProps) {
@@ -187,7 +187,7 @@ export default function ArticleLayout({
           {/* CTA box */}
           <div style={{ backgroundColor: '#F0F5FF', border: '1px solid #C8D8FF', borderRadius: '8px', padding: '28px 32px', marginTop: '48px' }}>
             <p style={{ fontFamily: sans, fontSize: '15px', fontWeight: 700, color: '#0A1F44', marginBottom: '8px', marginTop: 0 }}>
-              Praxen vergleichen — sortiert nach diesen Kriterien
+              Praxen vergleichen - sortiert nach diesen Kriterien
             </p>
             <p style={{ fontFamily: sans, fontSize: '14px', color: '#555', lineHeight: 1.6, marginBottom: '20px', marginTop: 0 }}>
               {ctaBody}
