@@ -1,0 +1,72 @@
+{
+  "rating": 4.3,
+  "reviewCount": 6,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Patrick",
+      "author_url": "https://www.google.com/maps/contrib/107056432895568443002/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCQZ5qkU4esad9gz-cnaLsO6Z7-kVpDDcvbiiBzCuUuvRW2A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Herausragender Arzt - der einzige Dermatologe (nach 6 verschiedenen) mit richtiger Diagnose und Behandlung. Absolute Beschwerdefreiheit - grandios! Super kurze Wartezeiten, sehr nett, nimmt sich Zeit und geht auf die Patienten wirklich ein. Sehr einfache Onlineterminvergabe! Alles top!",
+      "time": 1772130062,
+      "translated": false
+    },
+    {
+      "author_name": "Lutz W. Eichler",
+      "author_url": "https://www.google.com/maps/contrib/115343447701612752638/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjnyZUPMreOQ8KvR7iY9gYGid_JJNFeEOk9jxAVECzDOOq4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 7 Monaten",
+      "text": "Meine Partnerin und ich waren bei Professor Dr. med. Elsner zur Hautkrebsvorsorge und zur dermatologischen Konsultation. Die Behandlung war sehr kompetent und menschlich. Jeder Zeit gern wieder, sehr zu empfehlen.",
+      "time": 1757165914,
+      "translated": false
+    },
+    {
+      "author_name": "Neele Wahl",
+      "author_url": "https://www.google.com/maps/contrib/114889163318247544636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPA3cWiPo6IVQ8ZjEYYDQgeYmvyVM_ynooNx6U0ILoJE8mVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Sehr gute und vor allem schnelle Hilfe! Ich bin sehr zufrieden.",
+      "time": 1732877570,
+      "translated": false
+    },
+    {
+      "author_name": "Julie",
+      "author_url": "https://www.google.com/maps/contrib/105233805809835407340/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYY8tHQZnu1wjM3FDfqEQjRQFeKa0lnVrV7-mbuQmzsdQmjJmD=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Ein sehr guter Facharzt. Ich war bereits zweimal in der Sprechstunde und immer zufrieden. Er nimmt sich viel Zeit.",
+      "time": 1717005378,
+      "translated": false
+    },
+    {
+      "author_name": "Claudia Bleeck",
+      "author_url": "https://www.google.com/maps/contrib/101003075317935888440/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCPWhromaQoAvqWptKYBaGg3svJAb14c1NXlc5iGyWLJ8Ky5nXNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Jahren",
+      "text": "Sehr gute Beratung.",
+      "time": 1700151224,
+      "translated": false
+    }
+  ]
+}

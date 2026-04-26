@@ -1,0 +1,36 @@
+{
+  "rating": 4.5,
+  "reviewCount": 2,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Vereinzelt werden längere Wartezeiten erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Heike Stopp",
+      "author_url": "https://www.google.com/maps/contrib/115314974601037249978/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8cxHyZ11iyPxZAkx3CsXH7An-wtefyrK1eO06FOrPFTeJ-xuaNg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr gründlich,  freundlich und kompetent. Keine lange Wartezeit mit Termin. 1 Stern Abzugeben wegen  Terminvereinbarung ausschließlich per Terminsevice, wobei ich noch nie das Glück hatte,  dass einer frei war.",
+      "time": 1775303628,
+      "translated": false
+    },
+    {
+      "author_name": "Franziska Hentschel",
+      "author_url": "https://www.google.com/maps/contrib/110832305377942113348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVxtDAgAT4DZ3PKIy7zuJpq0jbV7rJ4xu6zumfX8SbUgzk4g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Freundliches Personal und Ärzte und keine Wartezeit!",
+      "time": 1770755467,
+      "translated": false
+    }
+  ]
+}

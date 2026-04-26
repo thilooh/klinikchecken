@@ -1,0 +1,22 @@
+{
+  "rating": 5,
+  "reviewCount": 1,
+  "summary": [
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen",
+    "Patienten empfehlen die Praxis weiter"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Olaf G",
+      "author_url": "https://www.google.com/maps/contrib/104155015986154948087/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_Q08wzikluBo0_Hbu633s7vp_Pkh4YRoDLT3zbKQBNn427A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 5 Jahren",
+      "text": "",
+      "time": 1603368493,
+      "translated": false
+    }
+  ]
+}

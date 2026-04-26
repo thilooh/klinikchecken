@@ -13,9 +13,11 @@ export function sendEvent(
   eventName: string,
   customData?: Record<string, unknown>,
   userData?: { email?: string; phone?: string },
+  eventId?: string,
 ) {
   dl().push({
     event: eventName,
+    ...(eventId ? { event_id: eventId } : {}),
     ...customData,
     ...(userData?.email ? { user_email: userData.email } : {}),
     ...(userData?.phone ? { user_phone: userData.phone } : {}),

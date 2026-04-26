@@ -5,6 +5,7 @@ export default function Footer() {
       text: 'Das Vergleichsportal für Besenreiser-Behandlungen in Deutschland - handverlesene Praxen, echte Bewertungen.',
       links: [
         { label: 'Über uns', href: '/ueber-uns' },
+        { label: 'Ratgeber', href: '/ratgeber' },
         { label: 'Kontakt', href: '#' },
       ],
     },

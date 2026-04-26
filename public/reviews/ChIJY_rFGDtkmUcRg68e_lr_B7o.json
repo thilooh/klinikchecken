@@ -1,0 +1,68 @@
+{
+  "rating": 4.9,
+  "reviewCount": 78,
+  "summary": [
+    "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "J. S.",
+      "author_url": "https://www.google.com/maps/contrib/113919458126159435575/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIM1TCWwAns8GeR2egjVFJ_OrXdqMpuv_K2Pti97h0rAOJZHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1774883828,
+      "translated": false
+    },
+    {
+      "author_name": "Юлия Гижко",
+      "author_url": "https://www.google.com/maps/contrib/100956688239670111265/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQerVVpNUWLtRNIIR6d2GkYQUEPLS2RMTn0-V4Sb016vKSGg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1771939471,
+      "translated": false
+    },
+    {
+      "author_name": "Mirjam Lukic",
+      "author_url": "https://www.google.com/maps/contrib/101563096155403205863/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiOXha2J2jyGsECNwEHpRQKkUbTDNEcfXy610nuFdJuvJ1Mw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Ein super Arzt bis hin zum Team die verstehen wirklich ihr Fach. Sie beherrschen ihr Handeln und das was sie tun. Man ist dort bestens versorgt und beraten. Auch dir Operation von Aufklärung bis zur Betreuung einfach mega gut. Ich kann allen nur diese Praxis empfehlen, den dort ist man in sehr guten Händen. Danke für alles.",
+      "time": 1770970577,
+      "translated": false
+    },
+    {
+      "author_name": "Andi Gegic",
+      "author_url": "https://www.google.com/maps/contrib/107785674715842981766/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwGBbLY8rWqYC8GylKBdARm5Fc4UwZPOgr3vvFaJ1S_dAeFMR_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Super Praxis mit einem sehr engagierten, kompetenten Facharzt mit einem Maximum an Empathie. Man fühlt sich von der ersten Sekunde sehr wohl und abgeholt. Danke !",
+      "time": 1770367280,
+      "translated": false
+    },
+    {
+      "author_name": "Vinzenz Vidal",
+      "author_url": "https://www.google.com/maps/contrib/116441102184384939550/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdHhfwVB2GNz719NI2SUvAnmGo1Nl4N4t5yjnL9waiE7qudSb_vg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Kompetente Behandlung und schneller Termin",
+      "time": 1770300477,
+      "translated": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <rect width="200" height="80" rx="6" fill="#F8F9FC"/>
+  <rect x="0" y="0" width="6" height="80" rx="3" fill="#CC0033"/>
+  <text x="20" y="28" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#CC0033">HWi</text>
+  <text x="20" y="46" font-family="Arial,sans-serif" font-size="9" fill="#666">Besenreiser-Praxis</text>
+  <text x="20" y="62" font-family="Arial,sans-serif" font-size="9" fill="#999">Wiesbaden</text>
+  <circle cx="175" cy="40" r="16" fill="#CC0033" opacity="0.12"/>
+  <text x="175" y="46" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#CC0033">+</text>
+</svg>

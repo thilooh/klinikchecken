@@ -1,0 +1,72 @@
+{
+  "rating": 4.3,
+  "reviewCount": 48,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Viktoria",
+      "author_url": "https://www.google.com/maps/contrib/116950200869566362751/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnBjzqbyy95ElgE61CN2gBXX4BaMPzGeG06D-LftC9GNVHwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ein großes Lob an das gesamte Praxisteam ! Sehr freundliches Personal und eine  professionelle Behandlung durch den Arzt. Vielen Dank! Kann die Praxis nur weiterempfehlen.",
+      "time": 1774365467,
+      "translated": false
+    },
+    {
+      "author_name": "Dilek Parlak",
+      "author_url": "https://www.google.com/maps/contrib/100366487319777542850/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIlGm0wRUAvRtcRwN3wqEsrRBVQSAUbQG09C-wF0zokrbPSsxr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Bin sehr zufrieden gewesen ein sehr kompetenter Arzt in seinem Fach\nUnd zuvollsten zufrieden",
+      "time": 1770280843,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Baust",
+      "author_url": "https://www.google.com/maps/contrib/115939559199860344682/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfcmWC13_fqalVBl5QTESGUuSmO34Ww4AlyBu1dAISjhgPAPc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Herr Dr. Ertelt versteht sein Handwerk. Top Arzt mit einem Top Team. Jede Frage wird beantwortet und sein Team ist sehr freundlich. Ich bin hier schon seit Jahren. Ob große Op oder kleine Op's die ich hier schon hatte, ist alles zu meiner vollsten Zufriedenheit. Ich kann die Praxis mit besten Gewissen empfehlen.",
+      "time": 1770067232,
+      "translated": false
+    },
+    {
+      "author_name": "N. B.",
+      "author_url": "https://www.google.com/maps/contrib/100929302600474064550/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXMs3DCA6sk9WAh8G_fO4kVlaOU_YSSA6Lb7j1ysXtNSXfh2Y=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 5 Monaten",
+      "text": "Leider wie hier bereits vielfach erwähnt wahnsinnig unfreundlich.",
+      "time": 1764059847,
+      "translated": false
+    },
+    {
+      "author_name": "Uwe Hornig",
+      "author_url": "https://www.google.com/maps/contrib/109125849586148784989/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrYiBP19TTaB5dCLUYtLh8l2MZz_d-BEhQl5wwt4wgxsGodEBz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 9 Monaten",
+      "text": "War jetzt schon zum zweiten Mal bei Dr.Ulrich. Schnelle Termine keine lange Wartezeiten . Das gesamte Team sehr freundlich. Dr Ulrich sehr kompetent . Die Praxis kann ich nur empfehlen.",
+      "time": 1753183239,
+      "translated": false
+    }
+  ]
+}

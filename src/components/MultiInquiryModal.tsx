@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { X, Lock, CheckCircle2, Loader2, ChevronDown, ChevronUp, Star } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 import { sendEvent } from '../lib/gtm'
+import { generateEventId, sendCapi } from '../lib/capi'
 
 interface Props {
   clinics: Clinic[]
@@ -51,7 +52,8 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
           }),
         }) : Promise.resolve()
       ))
-      sendEvent('Lead', {
+      const leadEventId = generateEventId()
+      const leadCustomData = {
         content_name: clinics.map(c => c.name).join(', '),
         content_category: clinics[0].city,
         value: clinics.length,
@@ -59,7 +61,10 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
         multi_inquiry: true,
         inquiry_count: clinics.length,
         cta_variant: ctaVariant,
-      }, { email: form.email, phone: form.phone })
+      }
+      const leadUserData = { email: form.email, phone: form.phone }
+      sendEvent('Lead', leadCustomData, leadUserData, leadEventId)
+      sendCapi('Lead', leadEventId, leadCustomData, leadUserData)
       setSubmitted(true)
       onClearSelection()
     } catch {

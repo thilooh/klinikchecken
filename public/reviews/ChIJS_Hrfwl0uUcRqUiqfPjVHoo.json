@@ -1,0 +1,36 @@
+{
+  "rating": 5,
+  "reviewCount": 2,
+  "summary": [
+    "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Alicja Kluczewska",
+      "author_url": "https://www.google.com/maps/contrib/108344149957191862017/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGTCytXxr4OH-ctsQUtRIwSJHVjtSjc3HBQnTclQIe-DTBTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 9 Monaten",
+      "text": "Gibt es bei Ihnen die Möglichkeit, eine Untersuchung auf Lipödem durchführen zu lassen?",
+      "time": 1752522653,
+      "translated": false
+    },
+    {
+      "author_name": "michaela duechting",
+      "author_url": "https://www.google.com/maps/contrib/103208371639856965468/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKo74evURa-rHK8xILxfqZPBX7eO-kLKCFEowRkgrNMut6OAQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 6 Jahren",
+      "text": "Ich fühlte /fühle mich bei Dr Franik, mvz für Gefäßerkrankungen Hamm, sehr gut aufgehoben. Er nimmt sich Zeit und kümmert sich. Man sollte sich, manchmal, nicht an seinem Ton stören. Ich wurde immer gut aufgeklärt und auch Nachfragen wurden verständlich erläutert. Ich bin zufrieden, Patient eines solchen Arztes zu sein. Vielen Dank....",
+      "time": 1557775803,
+      "translated": false
+    }
+  ]
+}

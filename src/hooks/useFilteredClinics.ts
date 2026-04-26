@@ -1,9 +1,17 @@
 import { useMemo } from 'react'
 import type { Clinic, FilterState } from '../types/clinic'
+import { haversineKm } from '../lib/geo'
 
 export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Clinic[] {
   return useMemo(() => {
-    let result = [...clinics]
+    const { userLat, userLng } = filters
+    let result = clinics.map(c => {
+      // Compute real distance if user location and clinic coords are available
+      if (userLat != null && userLng != null && c.lat != null && c.lng != null) {
+        return { ...c, distanceKm: Math.round(haversineKm(userLat, userLng, c.lat, c.lng) * 10) / 10 }
+      }
+      return c
+    })
 
     if (filters.searchCity) {
       result = result.filter(c =>

@@ -9,15 +9,16 @@ export default function Navbar() {
 
   const navLinks = [
     { label: 'Besenreiser', to: '/' },
+    { label: 'Ratgeber', to: '/ratgeber' },
     { label: 'Über uns', to: '/ueber-uns' },
   ]
 
   return (
     <nav style={{ backgroundColor: '#002B5C', borderBottom: '1px solid rgba(255,255,255,0.1)' }} className="relative z-50">
       <div className="max-w-[1200px] mx-auto px-4" style={{ height: '56px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        <div style={{ display: 'flex', alignItems: 'center' }}>
-          <img src="/besenreiser-check-logo3.png" alt="Besenreiser-Check.de" style={{ height: '36px', width: 'auto', filter: 'brightness(0) invert(1)' }} />
-        </div>
+        <Link to="/" style={{ display: 'flex', alignItems: 'center' }}>
+          <img src="/besenreiser-check-logo5.png" alt="Besenreiser-Check.de" style={{ height: '36px', width: 'auto' }} />
+        </Link>
 
         <div className="hidden md:flex items-center gap-6">
           {navLinks.map(({ label, to }) => {
@@ -32,12 +33,6 @@ export default function Navbar() {
           })}
         </div>
 
-        <div className="hidden md:flex items-center gap-3">
-          <button style={{ border: '1px solid rgba(255,255,255,0.3)', color: 'rgba(255,255,255,0.85)', backgroundColor: 'transparent', fontSize: '13px', padding: '6px 16px', borderRadius: '4px', cursor: 'pointer', fontWeight: 500 }}>
-            Klinik eintragen
-          </button>
-        </div>
-
         <button className="md:hidden text-white" onClick={() => setMobileOpen(!mobileOpen)}>
           {mobileOpen ? <X size={24} /> : <Menu size={24} />}
         </button>
@@ -50,9 +45,6 @@ export default function Navbar() {
               {label}
             </Link>
           ))}
-          <div style={{ padding: '14px 16px', borderTop: '1px solid rgba(255,255,255,0.15)' }}>
-            <a href="#" style={{ color: 'rgba(255,255,255,0.7)', fontSize: '14px', textDecoration: 'none' }}>Klinik eintragen</a>
-          </div>
         </div>
       )}
     </nav>

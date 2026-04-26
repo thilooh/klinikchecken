@@ -1,0 +1,60 @@
+{
+  "rating": 5,
+  "reviewCount": 4,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Nadia Vacaru",
+      "author_url": "https://www.google.com/maps/contrib/104870101483524897139/reviews",
+      "language": "de",
+      "original_language": "ro",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJH97nwnr1QWgwLXFKUa5E27Otwm8hXwCeywQVlnAKiCJEQEg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Ich bin sehr zufrieden. Dr. Wormittag und sein Kollege in derselben Praxis sind außergewöhnlich, hervorragende Fachleute und dazu noch sehr nett und freundlich. Ich kann sie uneingeschränkt empfehlen!",
+      "time": 1718357326,
+      "translated": true
+    },
+    {
+      "author_name": "Anna Matyja",
+      "author_url": "https://www.google.com/maps/contrib/116547362047916024651/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNa7Bg4FxskZJ6kzUPdG_BUl3_-V9hX27L5WnF8heOqreY3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Jahren",
+      "text": "Sympathisch,  nett , immer perfekt.\nVielen Dank",
+      "time": 1712940084,
+      "translated": false
+    },
+    {
+      "author_name": "Mirela Barba",
+      "author_url": "https://www.google.com/maps/contrib/116105662390051071742/reviews",
+      "language": "de",
+      "original_language": "ro",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIf3-G2cfILtinQUIT5lN4Fgawc0J8k6NUCvLc9I6AUwZYcgw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Jahren",
+      "text": "Phlebologie-Praxis mit hervorragenden Ärzten und freundlichem Personal",
+      "time": 1706614293,
+      "translated": true
+    },
+    {
+      "author_name": "Emese Ollari",
+      "author_url": "https://www.google.com/maps/contrib/115780901825229906067/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdVd40fyNlL6PeBK2tIepq8wncu4_W21KmLnlft8jWwBxMfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Super Praxis, schnelle Terminvergabe, top Personal. Ärztin ist super freundlich, kompetent, man fühlt sich wirklich sehr gut aufgehoben.\n*EMPFEHLENSWERT* ‼️",
+      "time": 1655060465,
+      "translated": false
+    }
+  ]
+}

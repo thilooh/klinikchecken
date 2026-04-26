@@ -5,6 +5,8 @@ export interface Clinic {
   address: string
   district: string
   distanceKm: number
+  lat?: number
+  lng?: number
   doctor: string
   qualification: string
   rating: number
@@ -57,4 +59,6 @@ export interface FilterState {
   }
   sortBy: 'recommended' | 'rating' | 'distance'
   searchCity: string
+  userLat?: number
+  userLng?: number
 }

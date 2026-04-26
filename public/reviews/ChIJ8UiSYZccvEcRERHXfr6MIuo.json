@@ -1,0 +1,68 @@
+{
+  "rating": 5,
+  "reviewCount": 5,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Claudia Wickleder",
+      "author_url": "https://www.google.com/maps/contrib/104985335308183345324/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOmAOGNbpchCGGccpSuhoJhea11DsdiHh7EWAU06dYSs3-_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 7 Monaten",
+      "text": "Prof. Dr. Willeke ist sicher eine Koryphäe auf seinem Gebiet der Viszeralchirurgie, ich bin überwältigt von seiner Kompetenz und seinem vielfältigen Wissen. Dazu kommen sein sehr freundliches Wesen und seine Empathie, daher habe ich mich bei meiner OP unter seiner Leitung und dem Krankenhausaufenthalt in seiner Abteilung extrem sicher und gut aufgehoben gefühlt. Ich bin ihm daher sehr dankbar! Wirklich empfehlenswert!\nProf. Dr. Claudia Wickleder",
+      "time": 1756834683,
+      "translated": false
+    },
+    {
+      "author_name": "Der Flecker",
+      "author_url": "https://www.google.com/maps/contrib/109126463017555966751/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOEfj8nbO2FvoTATORUGAtOusCfTWmH6GodmJPn1pa0Caq3g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Bester Arzt in Siegener Krankenhäusern. Empathisch,extrem kompetent , enschlich top und ein Top arzt",
+      "time": 1730145436,
+      "translated": false
+    },
+    {
+      "author_name": "Daniels Drums",
+      "author_url": "https://www.google.com/maps/contrib/112499889221154473550/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6WaxOKeqvY2uVQ6SxgpQfjUaoMOpVdZPstixqM9lCKPcTg_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Vielen Lieben Dank 👍 🙏",
+      "time": 1667513079,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine K.",
+      "author_url": "https://www.google.com/maps/contrib/113875158687874758925/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnsa1XDxdgAvBdq466O2gYeIhQr1DXZlefG2TBzzt1p9xUsA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 6 Jahren",
+      "text": "",
+      "time": 1569004254,
+      "translated": false
+    },
+    {
+      "author_name": "heinz-günter esser",
+      "author_url": "https://www.google.com/maps/contrib/114916833529854415152/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKn6vfsgJJ0PkfM6qE5Qq-IigG_FjMp11tJ9NgvvdgGKlNFbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 6 Jahren",
+      "text": "",
+      "time": 1566797949,
+      "translated": false
+    }
+  ]
+}

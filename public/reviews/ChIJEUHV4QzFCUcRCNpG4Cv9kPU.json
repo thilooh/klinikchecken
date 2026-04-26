@@ -1,0 +1,68 @@
+{
+  "rating": 4.8,
+  "reviewCount": 52,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Daniela Siegler",
+      "author_url": "https://www.google.com/maps/contrib/113546456087198593376/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMx6SACq4YqGZSqKm-to149zADo3C9c9gua6YCHA4pCxvx3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1776669838,
+      "translated": false
+    },
+    {
+      "author_name": "Birca Andriana",
+      "author_url": "https://www.google.com/maps/contrib/117312261789272012873/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9uZNAxrQ0V-AcQpd6xlCnG_cpN8aQ_54w4MitzsXO7JsOlQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr freundliche Betreung und Profesionele Behandlung.\nEine absolute Empfehlung.",
+      "time": 1771351215,
+      "translated": false
+    },
+    {
+      "author_name": "xNordmann_89x",
+      "author_url": "https://www.google.com/maps/contrib/117969969160522975082/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWksGJsTmROwvXipZqR8giVQTTwRNzndByBN3ma9oIgpAjXfMo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Alles Super",
+      "time": 1768986647,
+      "translated": false
+    },
+    {
+      "author_name": "Beate N.",
+      "author_url": "https://www.google.com/maps/contrib/113347887319335054736/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRMV3n9DCqE8H16c1B7lQOA22n1zm46VA57Oz-fjYqNnVag7k=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Vor 4 Monaten hatte ich meinen ersten Termin in der Haarsprechstunde.  Sehr empathische Ärztin, die wirklich zuhört. Beim heutigen Kontrolltermin deutliche Verbesserung der Symptomatik. Ich fühle mich in der Praxis absolut gut aufgehoben und schätze es zudem sehr, dass keine unnötigen oder überteuerten Behandlungen empfohlen wurden.",
+      "time": 1768907330,
+      "translated": false
+    },
+    {
+      "author_name": "Tiffany Mähler",
+      "author_url": "https://www.google.com/maps/contrib/116924186206628517764/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtdGoGF-Y1yef6Iqpy_154erPQhxPoYkDBL9nG3FaFAA_2rA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "",
+      "time": 1765021885,
+      "translated": false
+    }
+  ]
+}

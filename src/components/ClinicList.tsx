@@ -55,9 +55,20 @@ export default function ClinicList({ clinics, onInquire, filters, setFilters, ca
   if (clinics.length === 0) {
     return (
       <div style={{ backgroundColor: '#fff', border: '1px solid #DDDDDD', borderRadius: '4px', padding: '40px', textAlign: 'center' }}>
-        <div style={{ fontSize: '40px', marginBottom: '12px' }}>🔍</div>
-        <div style={{ fontWeight: 700, fontSize: '16px', color: '#333', marginBottom: '8px' }}>Keine Anbieter gefunden</div>
-        <div style={{ color: '#666', fontSize: '13px' }}>Bitte passen Sie Ihre Filtereinstellungen an.</div>
+        <div style={{ fontSize: '36px', marginBottom: '12px' }}>📍</div>
+        <div style={{ fontWeight: 700, fontSize: '16px', color: '#333', marginBottom: '8px' }}>Keine Praxen gefunden</div>
+        <div style={{ color: '#666', fontSize: '14px', lineHeight: 1.6, marginBottom: '16px' }}>
+          Für diese Stadt oder PLZ haben wir noch keine Praxen in unserer Datenbank.<br />
+          Versuche eine andere Stadt oder passe die Filter an.
+        </div>
+        <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
+          {['Berlin', 'Hamburg', 'München', 'Köln', 'Frankfurt'].map(city => (
+            <button key={city} onClick={() => setFilters({ ...filters, searchCity: city })}
+              style={{ padding: '7px 16px', border: '1px solid #0052CC', borderRadius: '20px', color: '#0052CC', backgroundColor: '#fff', cursor: 'pointer', fontSize: '13px', fontWeight: 600 }}>
+              {city}
+            </button>
+          ))}
+        </div>
       </div>
     )
   }

@@ -18,7 +18,7 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
   a: {
     hero: {
       headline: 'Die richtige Praxis für deine Besenreiser. Ohne Pfusch.',
-      subheadline: 'Wir haben 500+ Phlebologen, Dermatologen und Venenzentren geprüft. 55 sind in unsere Plattform aufgenommen worden.',
+      subheadline: 'Wir haben 500+ Phlebologen, Dermatologen und Venenzentren geprüft. 229 sind in unsere Plattform aufgenommen worden.',
     },
     card: {
       subline: c => c.headline,

@@ -5,6 +5,9 @@ import type { VariantConfig } from '../variants'
 import { VARIANTS } from '../variants'
 import GoogleReviewsModal from './GoogleReviewsModal'
 import ClinicProfileModal from './ClinicProfileModal'
+import { clarityEvent } from '../lib/clarity'
+import { sendEvent } from '../lib/gtm'
+import { isOpenToday } from '../lib/openHours'
 
 interface Props {
   clinic: Clinic
@@ -15,13 +18,6 @@ interface Props {
   isSelected?: boolean
   onToggleSelect?: () => void
   ctaColor?: string
-}
-
-function getClinicBadges(clinic: Clinic, badge: string) {
-  const badges: { label: string; bg: string }[] = []
-  if (clinic.googleRating && clinic.googleRating >= 4.8)
-    badges.push({ label: badge, bg: '#D97706' })
-  return badges
 }
 
 
@@ -77,9 +73,16 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
 
 export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600' }: Props) {
   const vt = cardVariant ?? VARIANTS.a.card
+  const openToday = isOpenToday(clinic.openHours)
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
   const [showProfile, setShowProfile] = useState(false)
+
+  const openProfile = () => {
+    setShowProfile(true)
+    clarityEvent('profile_view')
+    sendEvent('ViewContent', { content_name: clinic.name, content_category: clinic.city })
+  }
   const [slide, setSlide] = useState(0)
   const [touchStart, setTouchStart] = useState<number | null>(null)
   const [touchStartY, setTouchStartY] = useState<number | null>(null)
@@ -132,8 +135,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   return (
     <>
       <div className="card-hover fade-in p-0" style={{
-        backgroundColor: clinic.featured ? '#FFFDF0' : '#fff',
-        border: clinic.featured ? '1px solid #DDC' : '1px solid #DDDDDD',
+        backgroundColor: '#fff',
+        border: '1px solid #DDDDDD',
         borderRadius: '6px', position: 'relative', marginBottom: '10px', overflow: 'hidden',
       }}>
 
@@ -147,10 +150,12 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                   <div key={i} style={{ width: `calc(100% / ${slides.length})`, height: '100%', flexShrink: 0 }}>
                     {s.type === 'logo'
                       ? <div style={{ width: '100%', height: '100%', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}>
-                          <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                          <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }}
+                            onError={e => { (e.target as HTMLImageElement).style.display = 'none'; (e.target as HTMLImageElement).parentElement!.innerHTML = '<span style="font-size:32px">🏥</span>' }} />
                         </div>
                       : s.type === 'photo'
-                        ? <img src={s.src} alt="Praxisfoto" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                        ? <img src={s.src} alt="Praxisfoto" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
+                            onError={e => { const el = e.target as HTMLImageElement; el.style.display = 'none'; el.parentElement!.style.background = 'linear-gradient(135deg,#E2EBF5,#C0D2E8)'; el.parentElement!.innerHTML = '<div style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px"><span style="font-size:38px">📍</span><span style="font-size:13px;color:#8A9EBB;font-weight:500">Foto folgt</span></div>' }} />
                         : <div style={{ width: '100%', height: '100%', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
                             <span style={{ fontSize: '38px' }}>{s.icon}</span>
                             <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
@@ -175,18 +180,11 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <ChevronRight size={16} color="#333" />
               </button>
             )}
-            {getClinicBadges(clinic, vt.badge).length > 0 && (
-              <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
-                {getClinicBadges(clinic, vt.badge).map(b => (
-                  <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
-                ))}
-              </div>
-            )}
             <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
           </div>
 
           <div style={{ padding: '14px 16px 10px' }}>
-            <button onClick={() => setShowProfile(true)} style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left', width: '100%' }}>{clinic.name}</button>
+            <button onClick={openProfile} style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left', width: '100%' }}>{clinic.name}</button>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{vt.subline(clinic)}</div>
             {clinic.googleRating ? (
               <>
@@ -212,8 +210,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             <USPs items={clinic.usp} />
             <ClinicTags clinic={clinic} />
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: clinic.openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
-              <span style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
+              <span style={{ color: openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
             </div>
           </div>
 
@@ -241,7 +239,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </button>
           )}
           <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
-            <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#666', fontWeight: 500, fontSize: '15px', border: '1px solid #CCC', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
+            <button onClick={openProfile} style={{ flex: 1, backgroundColor: '#fff', color: '#666', fontWeight: 500, fontSize: '15px', border: '1px solid #CCC', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
             <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
           </div>
         </div>
@@ -286,13 +284,6 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <ChevronRight size={14} color="#333" />
               </button>
             )}
-            {getClinicBadges(clinic, vt.badge).length > 0 && (
-              <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, display: 'flex', gap: '2px' }}>
-                {getClinicBadges(clinic, vt.badge).map(b => (
-                  <span key={b.label} style={{ backgroundColor: b.bg, color: '#fff', fontSize: '11px', fontWeight: 700, padding: '4px 10px' }}>{b.label}</span>
-                ))}
-              </div>
-            )}
             <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
           </div>
 
@@ -300,7 +291,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
           <div style={{ flex: 1, display: 'flex', gap: '0', padding: '14px 12px 14px 16px', minHeight: '200px' }}>
             {/* Col 2 – main info + all 3 USPs */}
             <div style={{ flex: 1, minWidth: 0, paddingRight: '16px' }}>
-              <button onClick={() => setShowProfile(true)} style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left' }}>{clinic.name}</button>
+              <button onClick={openProfile} style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left' }}>{clinic.name}</button>
               <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{vt.subline(clinic)}</div>
 
               {/* Single rating row: G icon · stars · score · review link · badge */}
@@ -330,10 +321,10 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             {/* Col 3 – opening hours + CTA */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', width: '160px' }}>
               <div>
-                <div style={{ color: clinic.openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
-                  {clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
+                <div style={{ color: openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
+                  {openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
                 </div>
-                {clinic.openToday && (
+                {openToday && (
                   <div style={{ fontSize: '11px', color: '#555', lineHeight: 1.6 }}>
                     {clinic.openHours.split(', ').map((segment, i) => (
                       <div key={i}>{segment}</div>
@@ -343,7 +334,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               </div>
               <div>
                 <button onClick={() => onInquire(clinic)} style={{ backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
-                <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#666', fontSize: '13px', border: '1px solid #CCC', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
+                <button onClick={openProfile} style={{ backgroundColor: '#fff', color: '#666', fontSize: '13px', border: '1px solid #CCC', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
                 {onToggleSelect && (
                   <button
                     onClick={onToggleSelect}

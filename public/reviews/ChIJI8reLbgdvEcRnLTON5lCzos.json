@@ -1,0 +1,70 @@
+{
+  "rating": 4.1,
+  "reviewCount": 34,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Vereinzelt werden längere Wartezeiten erwähnt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Darius Sk",
+      "author_url": "https://www.google.com/maps/contrib/105800948200202355838/reviews",
+      "language": "de",
+      "original_language": "lt",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6p4v4Si30BdxHRL-pY_QDJbY4-gZWzrNu0xY2fyuV_TfmuZ-n=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Jahren",
+      "text": "Drei Beinoperationen wurden perfekt durchgeführt. Vielen Dank! 👍👍👍👍",
+      "time": 1710575992,
+      "translated": true
+    },
+    {
+      "author_name": "Leslie Schönenbach",
+      "author_url": "https://www.google.com/maps/contrib/104130355977250218473/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqgzBNshp46PNOhpLRyNUnuEFWaWvHJFCZbbwuPEy26e-J3y0QtA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Jahren",
+      "text": "",
+      "time": 1707732406,
+      "translated": false
+    },
+    {
+      "author_name": "Beata Truss",
+      "author_url": "https://www.google.com/maps/contrib/114093370748125907802/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfZ4WdAP-iuZMreCfaJTFl1ugiXxS1uaX84nR0qOublG6opQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Jahren",
+      "text": "DR. Pech ist ein Arzt, dem sein Patient und sein Gesundheitsproblem sehr wichtig ist. Kompetenz und Freundlichkeit auf höchstem Niveau",
+      "time": 1699715294,
+      "translated": false
+    },
+    {
+      "author_name": "Niklas Dreeshen",
+      "author_url": "https://www.google.com/maps/contrib/109022035408648800706/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKboXVSoFyck4NQDG7Q2KcpdbyufQy03nuSxlzC6htTS0Q_aw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Ich hatte eine Kahnbeinfraktur und wurde von Dr. Pausch betreut. Ich habe mich die gesamte Zeit sehr gut aufgehoben gefühlt. Dr. Pausch bemüht sich sehr um eine gute Genesung.\n\nDie Wartezeit war in Ordnung.",
+      "time": 1673644280,
+      "translated": false
+    },
+    {
+      "author_name": "Pirka Zanke",
+      "author_url": "https://www.google.com/maps/contrib/104107506326418508407/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK14aai5umV5zJZ9-oNVmM03cds4LdVB4BSkkc8mbLndc0jeg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Jahren",
+      "text": "Alle sehr nett und hilfsbereit. Keine mega lange Wartezeit trotz sehr kurzfristigem Termin.",
+      "time": 1671599747,
+      "translated": false
+    }
+  ]
+}

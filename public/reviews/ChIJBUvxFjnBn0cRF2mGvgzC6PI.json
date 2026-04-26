@@ -1,0 +1,70 @@
+{
+  "rating": 4.8,
+  "reviewCount": 49,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
+  ],
+  "lastUpdated": "2026-04-26T00:00:00.000Z",
+  "reviews": [
+    {
+      "author_name": "Max Mustermann",
+      "author_url": "https://www.google.com/maps/contrib/111664437493556235175/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMybXNiDSq_5L0lz0AGraoJ331yxoow4E7Ul1Qe-AhBa2JtbVC=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Egal zu welcher Uhrzeit, telefonische Erreichbarkeit ist nicht gegeben, ich habe locker über 10 mal angerufen, ab 9.30 Uhr, erst hieß es ich rufe außerhalb der Geschäftszeiten an, später war dann laut AB plötzlich kein Personal zur Verfügung das ans Telefon geht?! Über mehrere Stunden hinweg. Für eine Privat und Selbstzahler Praxis ist das schon ein Armutszeugnis. Der vereinbarte Termin wird abgesagt. Nie wieder",
+      "time": 1776162666,
+      "translated": false
+    },
+    {
+      "author_name": "Theodor Kath",
+      "author_url": "https://www.google.com/maps/contrib/113236802759658365131/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJKMSNL4TetB72A9R3W1IDlyj2U9-PKSI3zFFYjDbOP7dIEQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1775411605,
+      "translated": false
+    },
+    {
+      "author_name": "CV T",
+      "author_url": "https://www.google.com/maps/contrib/112875592391106727218/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaRJlj1lTePZZy4-FNtQdEklscKw3LTaazKqhVUY7kO32jZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 6 Monaten",
+      "text": "TOP!\nProf. Dr. Babilas ist ein kompetenter und freundlicher Arzt, der mit seiner ruhigen aber aufgeschlossenen Art sich Zeit für alle Anliegen seiner Patienten nimmt.\nEr stellt schnell stets die richtigen Diagnosen und behandelt die Ursachen gezielt und sicher. Dazu erklärt er alles ausführlich, man kann auch immer Fragen stellen. Zudem hat er immer gute Tipps.\nAuch das Praxisteam ist genau so freundlich und zuvorkommend. Bei akuten Beschwerden bekommt man auch gleich einen Notfalltermin mit Wartezeit, die vollkommen okay ist. Mit normalem Termin ist die Wartezeit relativ kurz. Die Praxis ist gut durchgetaktet und modern ausgestattet. Man fühlt sich rundum wohl.\nAbsolut zu empfehlen!",
+      "time": 1761327651,
+      "translated": false
+    },
+    {
+      "author_name": "A. P.",
+      "author_url": "https://www.google.com/maps/contrib/102719709318476733608/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY_ayZSJecGrh4dVE25QaGQ7ag9_sFklMUhklnyyeKEBcV7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 6 Monaten",
+      "text": "Absolut zu empfehlen. Hab nun schon ein paar Hautärzte durch. Aber hier weiß man sofort, dass man sich auch um die Anliegen kümmert und der Arzt sich noch dazu viel Zeit dazu nimmt.\nErkrankung sofort erkannt, sehr gute Aufklärung und alles ins Detail erklärt. Bekommt man selten noch.... Am ersten Tag auch gleich mit der Behandlung begonnen.",
+      "time": 1760715037,
+      "translated": false
+    },
+    {
+      "author_name": "Christina T",
+      "author_url": "https://www.google.com/maps/contrib/113548535397627961755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdwgZ6ENyQRmFqXZzUD0keHAIUk7uKLPPcZUzT8tzPT64WEQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 6 Monaten",
+      "text": "Toller Arzt. Sehr kompetent. Wir waren Monatelang bei einem anderen Hautarzt. Der Herr Professor hat uns super beraten und einen Behandlungsplan aufgestellt der dann auch umgesetzt wurde. Das Ergebnis ist super. Das ganze Praxisteam ist sehr freundlich und man fuehlt sich ausgesprochen wohl.",
+      "time": 1759912090,
+      "translated": false
+    }
+  ]
+}
