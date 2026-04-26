@@ -99,7 +99,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
         {/* Clinic mini-card */}
         <div style={{ backgroundColor: '#F7F9FF', borderBottom: '1px solid #E5EAFF', padding: '12px 20px', display: 'flex', alignItems: 'center', gap: '12px' }}>
           {clinic.media?.logo && (
-            <img src={clinic.media.logo} alt={clinic.name} style={{ width: '40px', height: '40px', objectFit: 'contain', borderRadius: '4px', flexShrink: 0 }} />
+            <img src={clinic.media.logo} alt={clinic.name} loading="lazy" decoding="async" style={{ width: '40px', height: '40px', objectFit: 'contain', borderRadius: '4px', flexShrink: 0 }} />
           )}
           <div style={{ flex: 1, minWidth: 0 }}>
             {clinic.doctor && clinic.doctor !== 'siehe Website' && (

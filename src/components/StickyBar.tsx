@@ -1,15 +1,49 @@
+import { useEffect, useState } from 'react'
 import type { Clinic } from '../types/clinic'
 
 interface Props {
   clinics: Clinic[]
   onRequest: () => void
   onClear: () => void
+  onDiscover?: () => void
   ctaColor?: string
 }
 
-export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF6600' }: Props) {
+export default function StickyBar({ clinics, onRequest, onClear, onDiscover, ctaColor = '#FF6600' }: Props) {
   const count = clinics.length
-  if (count === 0) return null
+  // Mobile-only sticky CTA appears once user has scrolled past the hero
+  // search (~520 px), so it doesn't compete with the in-view input on
+  // first paint.
+  const [showOnMobile, setShowOnMobile] = useState(false)
+  useEffect(() => {
+    const onScroll = () => setShowOnMobile(window.scrollY > 520)
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  if (count === 0 && !showOnMobile) return null
+
+  // Empty-state mobile sticky: "scroll back to search" prompt.
+  if (count === 0) {
+    return (
+      <div className="block sm:hidden" style={{
+        position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 1500,
+        backgroundColor: '#003399', boxShadow: '0 -4px 20px rgba(0,0,0,0.25)',
+        padding: '10px 16px', animation: 'slideUp 0.25s ease',
+      }}>
+        <style>{`@keyframes slideUp { from { transform: translateY(100%); } to { transform: translateY(0); } }`}</style>
+        <button
+          onClick={onDiscover}
+          style={{
+            width: '100%', backgroundColor: ctaColor, color: '#fff', fontWeight: 700,
+            fontSize: '15px', border: 'none', borderRadius: '6px', padding: '13px', cursor: 'pointer',
+          }}>
+          Praxis in deiner Nähe finden ↑
+        </button>
+      </div>
+    )
+  }
 
   return (
     <div style={{
@@ -32,7 +66,7 @@ export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF
                   fontSize: '11px', fontWeight: 700, color: '#003399', flexShrink: 0, overflow: 'hidden',
                 }}>
                   {c.media?.logo
-                    ? <img src={c.media.logo} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                    ? <img src={c.media.logo} alt="" loading="lazy" decoding="async" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
                     : c.name.charAt(0)}
                 </div>
               ))}
@@ -59,7 +93,7 @@ export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF
                 fontSize: '12px', fontWeight: 700, color: '#003399', flexShrink: 0, overflow: 'hidden',
               }}>
                 {c.media?.logo
-                  ? <img src={c.media.logo} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                  ? <img src={c.media.logo} alt="" loading="lazy" decoding="async" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
                   : c.name.charAt(0)}
               </div>
             ))}
