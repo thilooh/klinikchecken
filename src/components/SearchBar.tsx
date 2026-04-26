@@ -184,7 +184,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
         </div>
 
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '28px', marginTop: '18px', flexWrap: 'wrap' }}>
-          {[{ n: '122', label: 'handverlesene Praxen' }, { n: '5.000+', label: 'Bewertungen' }, { n: '42', label: 'Städte verfügbar' }].map(stat => (
+          {[{ n: '139', label: 'handverlesene Praxen' }, { n: '5.000+', label: 'Bewertungen' }, { n: '42', label: 'Städte verfügbar' }].map(stat => (
             <div key={stat.n} style={{ textAlign: 'center' }}>
               <div style={{ color: '#fff', fontWeight: 800, fontSize: '16px', lineHeight: 1 }}>{stat.n}</div>
               <div style={{ color: '#7AAAE0', fontSize: '12px', marginTop: '4px' }}>{stat.label}</div>

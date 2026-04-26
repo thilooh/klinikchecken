@@ -75,7 +75,7 @@ export default function AboutPage() {
           {/* What we do */}
           <h2 style={h2}>Was wir konkret tun</h2>
           <p style={p}>
-            Wir prüfen Praxen - Phlebologen, Dermatologen, Venenzentren - auf ihre Eignung für Besenreiser-Behandlungen. Nur wer unsere Prüfung besteht, wird auf besenreiser-check.de gelistet. Aktuell sind das 122 Praxen in 42 Städten. Geprüft haben wir mehr als doppelt so viele.
+            Wir prüfen Praxen - Phlebologen, Dermatologen, Venenzentren - auf ihre Eignung für Besenreiser-Behandlungen. Nur wer unsere Prüfung besteht, wird auf besenreiser-check.de gelistet. Aktuell sind das 139 Praxen in 42 Städten. Geprüft haben wir mehr als doppelt so viele.
           </p>
 
           <div style={{ backgroundColor: '#F7F9FF', border: '1px solid #D8E3FF', borderRadius: '6px', padding: '20px 24px', marginBottom: '24px' }}>
