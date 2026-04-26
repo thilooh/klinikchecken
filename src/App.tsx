@@ -18,6 +18,7 @@ import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
 import { sendEvent } from './lib/gtm'
 import { loadGTM, getConsent } from './lib/consent'
+import { loadClarity, clarityEvent } from './lib/clarity'
 import { getCTAVariant, getCTAColor } from './lib/ctaVariant'
 import type { CTAVariant } from './lib/ctaVariant'
 
@@ -180,6 +181,8 @@ export default function App() {
 
   useEffect(() => {
     loadGTM()
+    // Clarity: only load if consent was already given in a previous session
+    if (getConsent() === 'accepted') loadClarity()
     window.dataLayer = window.dataLayer || []
     window.dataLayer.push({ event: 'cta_variant_assigned', cta_variant: ctaVariant })
   }, [])
@@ -279,7 +282,11 @@ export default function App() {
       )}
       {showBanner && (
         <CookieBanner
-          onAccept={() => setShowBanner(false)}
+          onAccept={() => {
+            setShowBanner(false)
+            loadClarity()
+            clarityEvent('cta_variant', ctaVariant)
+          }}
           onDecline={() => setShowBanner(false)}
         />
       )}

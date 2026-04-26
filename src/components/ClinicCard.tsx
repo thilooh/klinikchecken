@@ -5,6 +5,7 @@ import type { VariantConfig } from '../variants'
 import { VARIANTS } from '../variants'
 import GoogleReviewsModal from './GoogleReviewsModal'
 import ClinicProfileModal from './ClinicProfileModal'
+import { clarityEvent } from '../lib/clarity'
 
 interface Props {
   clinic: Clinic
@@ -80,6 +81,12 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
   const [showProfile, setShowProfile] = useState(false)
+
+  const openProfile = () => {
+    setShowProfile(true)
+    clarityEvent('profile_view')
+    sendEvent('ViewContent', { content_name: clinic.name, content_category: clinic.city })
+  }
   const [slide, setSlide] = useState(0)
   const [touchStart, setTouchStart] = useState<number | null>(null)
   const [touchStartY, setTouchStartY] = useState<number | null>(null)
@@ -188,7 +195,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
           </div>
 
           <div style={{ padding: '14px 16px 10px' }}>
-            <button onClick={() => setShowProfile(true)} style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left', width: '100%' }}>{clinic.name}</button>
+            <button onClick={openProfile} style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left', width: '100%' }}>{clinic.name}</button>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{vt.subline(clinic)}</div>
             {clinic.googleRating ? (
               <>
@@ -243,7 +250,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             </button>
           )}
           <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
-            <button onClick={() => setShowProfile(true)} style={{ flex: 1, backgroundColor: '#fff', color: '#666', fontWeight: 500, fontSize: '15px', border: '1px solid #CCC', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
+            <button onClick={openProfile} style={{ flex: 1, backgroundColor: '#fff', color: '#666', fontWeight: 500, fontSize: '15px', border: '1px solid #CCC', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
             <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
           </div>
         </div>
@@ -302,7 +309,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
           <div style={{ flex: 1, display: 'flex', gap: '0', padding: '14px 12px 14px 16px', minHeight: '200px' }}>
             {/* Col 2 – main info + all 3 USPs */}
             <div style={{ flex: 1, minWidth: 0, paddingRight: '16px' }}>
-              <button onClick={() => setShowProfile(true)} style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left' }}>{clinic.name}</button>
+              <button onClick={openProfile} style={{ color: '#003399', fontWeight: 700, fontSize: '15px', textDecoration: 'none', display: 'block', marginBottom: '2px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left' }}>{clinic.name}</button>
               <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{vt.subline(clinic)}</div>
 
               {/* Single rating row: G icon · stars · score · review link · badge */}
@@ -345,7 +352,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               </div>
               <div>
                 <button onClick={() => onInquire(clinic)} style={{ backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
-                <button onClick={() => setShowProfile(true)} style={{ backgroundColor: '#fff', color: '#666', fontSize: '13px', border: '1px solid #CCC', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
+                <button onClick={openProfile} style={{ backgroundColor: '#fff', color: '#666', fontSize: '13px', border: '1px solid #CCC', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
                 {onToggleSelect && (
                   <button
                     onClick={onToggleSelect}
