@@ -13,7 +13,10 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
       return c
     })
 
-    if (filters.searchCity) {
+    // When user has coordinates (from address geocoding or GPS), show all clinics
+    // sorted by distance. The city filter only applies for plain city/PLZ searches.
+    const hasUserCoords = userLat != null && userLng != null
+    if (filters.searchCity && !hasUserCoords) {
       result = result.filter(c =>
         c.city.toLowerCase() === filters.searchCity.toLowerCase()
       )

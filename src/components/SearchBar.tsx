@@ -130,11 +130,11 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
 
   const matches = getMatches(val)
 
-  const apply = (cityName: string, userLat?: number, userLng?: number) => {
-    setVal(cityName)
+  const apply = (cityName: string, userLat?: number, userLng?: number, displayLabel?: string) => {
+    setVal(displayLabel ?? cityName)
     setFilters({ ...filters, searchCity: cityName, userLat, userLng, sortBy: userLat != null ? 'distance' : filters.sortBy })
     setShowSuggestions(false)
-    sendEvent('Search', { search_string: cityName })
+    sendEvent('Search', { search_string: displayLabel ?? cityName })
   }
 
   const looksLikeAddress = (t: string) =>
@@ -157,7 +157,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
       setGeocoding(false)
       if (coords) {
         const city = nearestCity(coords.lat, coords.lng)
-        apply(city, coords.lat, coords.lng)
+        apply(city, coords.lat, coords.lng, t)
         return
       }
     }
