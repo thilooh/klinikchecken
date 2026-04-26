@@ -2,8 +2,34 @@ import { useEffect, useRef } from 'react'
 import ArticleLayout from './ArticleLayout'
 import { sendEvent } from '../../lib/gtm'
 
-const CTA_HREF =
-  '/?utm_source=fb&utm_medium=ratgeber&utm_campaign=praxis-waehlen'
+const BASE = '/ratgeber/final'
+const SIZES = '(max-width: 720px) 100vw, 680px'
+
+function ArticleImg({ name, alt }: { name: string; alt: string }) {
+  const webp = `${BASE}/${name}-800.webp 800w, ${BASE}/${name}-1200.webp 1200w, ${BASE}/${name}-1800.webp 1800w`
+  const jpg  = `${BASE}/${name}-800.jpg 800w, ${BASE}/${name}-1200.jpg 1200w, ${BASE}/${name}-1800.jpg 1800w`
+  return (
+    <figure style={{ margin: '2.2em 0', borderRadius: '6px', overflow: 'hidden', backgroundColor: '#E4EBF5' }}>
+      <picture>
+        <source type="image/webp" srcSet={webp} sizes={SIZES} />
+        <img
+          src={`${BASE}/${name}-1200.jpg`}
+          srcSet={jpg}
+          sizes={SIZES}
+          alt={alt}
+          loading="lazy"
+          style={{ width: '100%', display: 'block', maxHeight: '460px', objectFit: 'cover' }}
+        />
+      </picture>
+    </figure>
+  )
+}
+
+const CTA_HREF = '/?utm_source=fb&utm_medium=ratgeber&utm_campaign=praxis-waehlen'
+
+const HERO_NAME = 'praxis-waehlen-hero'
+const HERO_WEBP = `${BASE}/${HERO_NAME}-800.webp 800w, ${BASE}/${HERO_NAME}-1200.webp 1200w, ${BASE}/${HERO_NAME}-1800.webp 1800w`
+const HERO_JPG  = `${BASE}/${HERO_NAME}-800.jpg 800w, ${BASE}/${HERO_NAME}-1200.jpg 1200w, ${BASE}/${HERO_NAME}-1800.jpg 1800w`
 
 const SCHEMA = {
   '@context': 'https://schema.org',
@@ -25,7 +51,6 @@ export default function PraxisWaehlenPage() {
   const fired50  = useRef(false)
   const fired100 = useRef(false)
 
-  // ViewContent on mount
   useEffect(() => {
     sendEvent('ViewContent', {
       content_name: 'ratgeber-praxis-waehlen',
@@ -33,7 +58,6 @@ export default function PraxisWaehlenPage() {
     })
   }, [])
 
-  // Scroll-depth tracking
   useEffect(() => {
     const onScroll = () => {
       const el = document.documentElement
@@ -50,10 +74,6 @@ export default function PraxisWaehlenPage() {
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
-
-  const handleCtaClick = () => {
-    sendEvent('RatgeberCtaClick', { content_name: 'ratgeber-praxis-waehlen' })
-  }
 
   return (
     <ArticleLayout
@@ -73,8 +93,12 @@ export default function PraxisWaehlenPage() {
       readTime="6 Min Lesezeit"
       title="Eine Praxis für Besenreiser wählen: Worauf es wirklich ankommt"
       subtitle="Die Wahl der richtigen Praxis entscheidet mehr über das Ergebnis als die Wahl der Behandlungsmethode. Hier sind die Kriterien, auf die du achten solltest."
+      heroSrc={`${BASE}/${HERO_NAME}-1200.jpg`}
+      heroWebpSrcset={HERO_WEBP}
+      heroJpgSrcset={HERO_JPG}
+      heroAlt="Frau sitzt nachdenklich auf einem Holzstuhl vor einem großen hellen Fenster"
       ctaHref={CTA_HREF}
-      onCtaClick={handleCtaClick}
+      onCtaClick={() => sendEvent('RatgeberCtaClick', { content_name: 'ratgeber-praxis-waehlen' })}
     >
       {/* ── Abschnitt 1 ── */}
       <p className="art-p">
@@ -117,6 +141,12 @@ export default function PraxisWaehlenPage() {
         ist dauerhaft.
       </p>
 
+      {/* ── Bild 2: Recherche ── */}
+      <ArticleImg
+        name="praxis-waehlen-recherche"
+        alt="Person schreibt handschriftliche Notizen in ein Notizbuch an einem Holztisch am Fenster"
+      />
+
       <blockquote className="art-pullquote">
         Die Krankenkasse zahlt nicht — was paradoxerweise zur Folge hat, dass der Markt weniger
         reguliert ist als bei Kassenleistungen.
@@ -142,6 +172,12 @@ export default function PraxisWaehlenPage() {
         Das ist keine Garantie, aber es ist ein starker Indikator. Je spezialisierter die Praxis,
         desto wahrscheinlicher, dass die Behandlung Routine ist statt Ergänzung.
       </p>
+
+      {/* ── Bild 3: Ultraschall ── */}
+      <ArticleImg
+        name="praxis-waehlen-ultraschall"
+        alt="Arzt führt Ultraschalluntersuchung an einem Patientenbein durch, Tageslicht durch Fenster im Hintergrund"
+      />
 
       <h3 className="art-h3">2. Voruntersuchung mit Ultraschall</h3>
       <p className="art-p">
@@ -187,6 +223,12 @@ export default function PraxisWaehlenPage() {
         zu dramatisieren oder zu verharmlosen.
       </p>
 
+      {/* ── Bild 4: Beratung/Aufklärung ── */}
+      <ArticleImg
+        name="praxis-waehlen-gespraech"
+        alt="Arzthand schreibt Notizen während einer Konsultation, Patientenhände im Vordergrund sichtbar"
+      />
+
       <h3 className="art-h3">4. Aufklärung und Erwartungsmanagement</h3>
       <p className="art-p">
         Eine seriöse Praxis macht keine Heilsversprechen. Sie sagt, was realistisch erreichbar ist und
@@ -217,6 +259,12 @@ export default function PraxisWaehlenPage() {
         sondern auch beschreiben — und die ehrlich sagen, was nicht optimal lief.
       </p>
 
+      {/* ── Bild 5: Alltag ── */}
+      <ArticleImg
+        name="praxis-waehlen-alltag"
+        alt="Frau geht spazieren in einem herbstlichen Park, Beine sichtbar aber nicht im Bildmittelpunkt"
+      />
+
       {/* ── Abschnitt 4 ── */}
       <h2 className="art-h2">Wie du jetzt vorgehst</h2>
       <p className="art-p">
@@ -230,6 +278,12 @@ export default function PraxisWaehlenPage() {
         geprüfte Praxen, sortiert nach relevanten Kriterien und filtert die Optionen auf das, was
         tatsächlich in Frage kommt.
       </p>
+
+      {/* ── Bild 6: Closing (vor CTA) ── */}
+      <ArticleImg
+        name="praxis-waehlen-closing"
+        alt="Frau geht einen von Bäumen gesäumten Weg entlang, von hinten fotografiert"
+      />
     </ArticleLayout>
   )
 }

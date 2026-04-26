@@ -27,9 +27,13 @@ export interface ArticleLayoutProps {
   title: string
   subtitle: string
   authorLine?: string
-  /** Path to hero image. Use a descriptive placeholder path until the real asset is ready. */
+  /** Fallback JPEG src for hero image */
   heroSrc?: string
   heroAlt?: string
+  /** WebP srcset string, e.g. "/img-800.webp 800w, /img-1200.webp 1200w" */
+  heroWebpSrcset?: string
+  /** JPEG srcset string for hero */
+  heroJpgSrcset?: string
   ctaHref: string
   onCtaClick?: () => void
   children: React.ReactNode
@@ -46,6 +50,8 @@ export default function ArticleLayout({
   authorLine = 'Von der Redaktion Besenreiser-Check.de',
   heroSrc,
   heroAlt = '',
+  heroWebpSrcset,
+  heroJpgSrcset,
   ctaHref,
   onCtaClick,
   children,
@@ -147,27 +153,20 @@ export default function ArticleLayout({
           {/* Hero image */}
           {heroSrc && (
             <figure style={{ margin: '0 0 40px', borderRadius: '6px', overflow: 'hidden', backgroundColor: '#E8EDF5' }}>
-              <img
-                src={heroSrc}
-                alt={heroAlt}
-                loading="eager"
-                style={{ width: '100%', display: 'block', maxHeight: '420px', objectFit: 'cover' }}
-                onError={e => { (e.target as HTMLImageElement).style.display = 'none' }}
-              />
+              <picture>
+                {heroWebpSrcset && (
+                  <source type="image/webp" srcSet={heroWebpSrcset} sizes="(max-width: 720px) 100vw, 680px" />
+                )}
+                <img
+                  src={heroSrc}
+                  srcSet={heroJpgSrcset}
+                  sizes="(max-width: 720px) 100vw, 680px"
+                  alt={heroAlt}
+                  loading="eager"
+                  style={{ width: '100%', display: 'block', maxHeight: '420px', objectFit: 'cover' }}
+                />
+              </picture>
             </figure>
-          )}
-          {/* Placeholder shown when no heroSrc or image fails to load */}
-          {!heroSrc && (
-            <div style={{ margin: '0 0 40px', borderRadius: '6px', overflow: 'hidden', backgroundColor: '#E4EBF5', height: '280px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-              {/*
-                BILD-BRIEF:
-                Detail-Aufnahme: Hand einer Frau Mitte 40 berührt ihre Wade, Sitzposition auf einem Stuhl,
-                gedämpftes Tageslicht durchs Fenster. Authentisch, leicht dokumentarisch.
-                Keine Beine-Vergleichs-Optik. Keine Nahaufnahme der Besenreiser selbst.
-                Format: 1360×560px, WebP + AVIF, Ablageort: /public/ratgeber/hero-praxis-waehlen.webp
-              */}
-              <span style={{ color: '#7A93B8', fontSize: '13px', fontFamily: sans }}>Hero-Bild: /ratgeber/hero-praxis-waehlen.webp</span>
-            </div>
           )}
 
           {/* Article body */}
