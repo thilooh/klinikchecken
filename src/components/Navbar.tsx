@@ -33,8 +33,6 @@ export default function Navbar() {
           })}
         </div>
 
-        <div className="hidden md:flex items-center gap-3" />
-
         <button className="md:hidden text-white" onClick={() => setMobileOpen(!mobileOpen)}>
           {mobileOpen ? <X size={24} /> : <Menu size={24} />}
         </button>
