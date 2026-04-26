@@ -199,7 +199,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
               <MapPin size={16} color="#0052CC" style={{ flexShrink: 0 }} />
               <input
                 type="text"
-                placeholder="Stadt oder PLZ eingeben …"
+                placeholder="Stadt, PLZ oder Adresse eingeben …"
                 value={val}
                 onChange={e => { setVal(e.target.value); setShowSuggestions(true) }}
                 onFocus={() => setShowSuggestions(true)}
