@@ -9,6 +9,7 @@ export default function Navbar() {
 
   const navLinks = [
     { label: 'Besenreiser', to: '/' },
+    { label: 'Ratgeber', to: '/ratgeber' },
     { label: 'Über uns', to: '/ueber-uns' },
   ]
 
