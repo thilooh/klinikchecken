@@ -1,6 +1,10 @@
 // 0=So, 1=Mo, 2=Di, 3=Mi, 4=Do, 5=Fr, 6=Sa  (matches JS Date.getDay())
 const DAYS = ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa']
 
+export function isAppointmentOnly(openHours: string): boolean {
+  return !!openHours && /nach vereinbarung|auf anfrage|nur termin/i.test(openHours)
+}
+
 function dayIndices(token: string): number[] {
   const out: number[] = []
   for (const part of token.split(/[/+]/)) {

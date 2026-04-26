@@ -7,7 +7,7 @@ import GoogleReviewsModal from './GoogleReviewsModal'
 import ClinicProfileModal from './ClinicProfileModal'
 import { clarityEvent } from '../lib/clarity'
 import { sendEvent } from '../lib/gtm'
-import { isOpenToday } from '../lib/openHours'
+import { isOpenToday, isAppointmentOnly } from '../lib/openHours'
 
 interface Props {
   clinic: Clinic
@@ -74,6 +74,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
 export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600' }: Props) {
   const vt = cardVariant ?? VARIANTS.a.card
   const openToday = isOpenToday(clinic.openHours)
+  const appointmentOnly = isAppointmentOnly(clinic.openHours)
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
   const [showProfile, setShowProfile] = useState(false)
@@ -197,7 +198,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
           <div style={{ padding: '14px 16px 10px' }}>
             <button onClick={openProfile} style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left', width: '100%' }}>{clinic.name}</button>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{vt.subline(clinic)}</div>
-            {clinic.googleRating ? (
+            {clinic.googleRating && clinic.googleReviewCount ? (
               <>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
                   <GIcon />
@@ -219,8 +220,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             <USPs items={clinic.usp} />
             <ClinicTags clinic={clinic} />
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
-              <span style={{ color: openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: appointmentOnly ? '#0052CC' : openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
+              <span style={{ color: appointmentOnly ? '#0052CC' : openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{appointmentOnly ? 'Nur nach Vereinbarung' : openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
             </div>
           </div>
 
@@ -304,7 +305,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{vt.subline(clinic)}</div>
 
               {/* Single rating row: G icon · stars · score · review link · badge */}
-              {clinic.googleRating ? (
+              {clinic.googleRating && clinic.googleReviewCount ? (
                 <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px', flexWrap: 'wrap' }}>
                   <GIcon />
                   <Stars rating={clinic.googleRating} size={14} />
@@ -328,8 +329,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             {/* Col 3 – opening hours + CTA */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', width: '160px' }}>
               <div>
-                <div style={{ color: openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
-                  {openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
+                <div style={{ color: appointmentOnly ? '#0052CC' : openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
+                  {appointmentOnly ? 'Nur nach Vereinbarung' : openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
                 </div>
                 {openToday && (
                   <div style={{ fontSize: '11px', color: '#555', lineHeight: 1.6 }}>

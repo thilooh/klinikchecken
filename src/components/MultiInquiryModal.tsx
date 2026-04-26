@@ -55,7 +55,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
       const leadEventId = generateEventId()
       const leadCustomData = {
         content_name: clinics.map(c => c.name).join(', '),
-        content_category: clinics[0].city,
+        content_category: Array.from(new Set(clinics.map(c => c.city))).join(','),
         value: clinics.length,
         currency: 'EUR',
         multi_inquiry: true,

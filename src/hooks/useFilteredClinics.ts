@@ -2,6 +2,26 @@ import { useMemo } from 'react'
 import type { Clinic, FilterState } from '../types/clinic'
 import { haversineKm } from '../lib/geo'
 
+// Maps each filter UI label to the substrings that should match clinic.methods
+// entries. Using an explicit table avoids the previous split('(')[0] heuristic
+// which silently let "Laser (KTP)" match Nd:YAG/Diode listings.
+const METHOD_KEYWORDS: Record<string, string[]> = {
+  'Verödung (Sklerotherapie)': ['verödung', 'sklerotherapie', 'sklerosierung', 'mikrosklerotherapie'],
+  'Laser (Nd:YAG)':            ['nd:yag', 'ndyag'],
+  'Laser (KTP)':               ['ktp'],
+  'IPL-Behandlung':            ['ipl'],
+  'Mikroschaum-Sklerotherapie':['mikroschaum'],
+}
+
+function clinicMatchesMethod(clinic: Clinic, filterLabel: string): boolean {
+  const keywords = METHOD_KEYWORDS[filterLabel]
+  if (!keywords) return false
+  return clinic.methods.some(cm => {
+    const lower = cm.toLowerCase()
+    return keywords.some(kw => lower.includes(kw))
+  })
+}
+
 export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Clinic[] {
   return useMemo(() => {
     const { userLat, userLng } = filters
@@ -26,12 +46,7 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
     }
 
     if (filters.selectedMethods.length > 0) {
-      result = result.filter(c =>
-        filters.selectedMethods.some(m => {
-          const mLower = m.toLowerCase()
-          return c.methods.some(cm => cm.toLowerCase().includes(mLower.replace('verödung (sklerotherapie)', 'verödung').replace('laser (nd:yag)', 'nd:yag').replace('laser (diode)', 'diode').split('(')[0].trim()))
-        })
-      )
+      result = result.filter(c => filters.selectedMethods.some(m => clinicMatchesMethod(c, m)))
     }
 
     if (filters.minRating > 0) {

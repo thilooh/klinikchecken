@@ -119,6 +119,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
   const [resolving, setResolving] = useState(false)
   const [predictions, setPredictions] = useState<Prediction[]>([])
   const [loadingPredictions, setLoadingPredictions] = useState(false)
+  const [noMatchHint, setNoMatchHint] = useState(false)
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const requestSeqRef = useRef(0)
   const sessionTokenRef = useRef<string>(newSessionToken())
@@ -186,6 +187,9 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
         apply(p.description, undefined, undefined, p.description)
       }
     } catch {
+      // Token may have been consumed server-side even on a network error;
+      // rotate to be safe so the next session is billed cleanly.
+      sessionTokenRef.current = newSessionToken()
       apply(p.description, undefined, undefined, p.description)
     } finally {
       setResolving(false)
@@ -197,8 +201,13 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
       selectPrediction(predictions[0])
       return
     }
-    const t = val.trim()
-    if (t) apply(t, undefined, undefined, t)
+    // No autocomplete suggestions to commit. Don't silently treat the raw
+    // input as a city name — useFilteredClinics would just return 0 with no
+    // explanation. Surface a clear hint instead.
+    if (val.trim()) {
+      setNoMatchHint(true)
+      setShowSuggestions(true)
+    }
   }
 
   const handleGeolocate = () => {
@@ -237,7 +246,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
                 type="text"
                 placeholder="Stadt, PLZ oder Adresse eingeben …"
                 value={val}
-                onChange={e => { setVal(e.target.value); setShowSuggestions(true) }}
+                onChange={e => { setVal(e.target.value); setShowSuggestions(true); setNoMatchHint(false) }}
                 onFocus={() => setShowSuggestions(true)}
                 onKeyDown={e => { if (e.key === 'Enter') handleSearch() }}
                 style={{ border: 'none', outline: 'none', fontSize: '16px', fontWeight: 600, width: '100%', color: '#111', backgroundColor: 'transparent' }}
@@ -278,8 +287,12 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
                 </button>
               ))}
               {predictions.length === 0 && (
-                <div style={{ padding: '14px 16px', fontSize: '13px', color: '#888', textAlign: 'center' }}>
-                  {loadingPredictions ? 'Suche …' : 'Keine Vorschläge gefunden'}
+                <div style={{ padding: '14px 16px', fontSize: '13px', color: noMatchHint ? '#B5305A' : '#888', textAlign: 'center' }}>
+                  {loadingPredictions
+                    ? 'Suche …'
+                    : noMatchHint
+                      ? 'Adresse nicht erkannt – bitte einen Vorschlag aus der Liste wählen.'
+                      : 'Keine Vorschläge gefunden'}
                 </div>
               )}
             </div>
@@ -287,7 +300,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
         </div>
 
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '28px', marginTop: '18px', flexWrap: 'wrap' }}>
-          {[{ n: '229', label: 'handverlesene Praxen' }, { n: '1.000+', label: 'Praxen geprüft' }, { n: '72', label: 'Städte verfügbar' }].map(stat => (
+          {[{ n: '227', label: 'handverlesene Praxen' }, { n: '1.000+', label: 'Praxen geprüft' }, { n: '72', label: 'Städte verfügbar' }].map(stat => (
             <div key={stat.n} style={{ textAlign: 'center' }}>
               <div style={{ color: '#fff', fontWeight: 800, fontSize: '16px', lineHeight: 1 }}>{stat.n}</div>
               <div style={{ color: '#7AAAE0', fontSize: '12px', marginTop: '4px' }}>{stat.label}</div>
