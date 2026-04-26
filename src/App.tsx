@@ -165,7 +165,14 @@ export default function App() {
   const [selectedClinic, setSelectedClinic] = useState<Clinic | null>(null)
   const handleInquire = (clinic: Clinic) => {
     const checkoutEventId = generateEventId()
-    const checkoutData = { content_name: clinic.name, content_category: clinic.city }
+    const checkoutData = {
+      content_name: clinic.name,        // Meta Pixel param
+      content_category: clinic.city,    // Meta Pixel param
+      item_name: clinic.name,           // GA4 param
+      item_category: clinic.city,       // GA4 param
+      value: 1,
+      currency: 'EUR',
+    }
     sendEvent('InitiateCheckout', checkoutData, undefined, checkoutEventId)
     sendCapi('InitiateCheckout', checkoutEventId, checkoutData)
     setSelectedClinic(clinic)

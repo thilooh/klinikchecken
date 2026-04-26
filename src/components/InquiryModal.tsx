@@ -52,7 +52,15 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
         })
       }
       const leadEventId = generateEventId()
-      const leadCustomData = { content_name: clinic.name, content_category: clinic.city, value: 1, currency: 'EUR', cta_variant: ctaVariant }
+      const leadCustomData = {
+        content_name: clinic.name,
+        content_category: clinic.city,
+        item_name: clinic.name,        // GA4
+        item_category: clinic.city,    // GA4
+        value: 1,
+        currency: 'EUR',
+        cta_variant: ctaVariant,
+      }
       const leadUserData = { email: form.email, phone: form.phone }
       sendEvent('Lead', leadCustomData, leadUserData, leadEventId)
       sendCapi('Lead', leadEventId, leadCustomData, leadUserData)

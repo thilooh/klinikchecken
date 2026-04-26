@@ -56,6 +56,8 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
       const leadCustomData = {
         content_name: clinics.map(c => c.name).join(', '),
         content_category: Array.from(new Set(clinics.map(c => c.city))).join(','),
+        item_name: clinics.map(c => c.name).join(', '),        // GA4
+        item_category: Array.from(new Set(clinics.map(c => c.city))).join(','),  // GA4
         value: clinics.length,
         currency: 'EUR',
         multi_inquiry: true,
