@@ -5,7 +5,7 @@ declare global {
 }
 
 // ── Replace with your real Clarity project ID from clarity.microsoft.com ──
-export const CLARITY_PROJECT_ID = 'REPLACE_WITH_YOUR_CLARITY_ID'
+export const CLARITY_PROJECT_ID = 'whoyubc0gl'
 
 export function loadClarity(): void {
   if (!CLARITY_PROJECT_ID || CLARITY_PROJECT_ID.startsWith('REPLACE')) return
