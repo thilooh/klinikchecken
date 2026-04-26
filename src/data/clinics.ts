@@ -3302,7 +3302,7 @@ export const clinics: Clinic[] = [
         'Kontrolltermin nach 6–8 Wochen; 2–4 Sitzungen sind üblich',
       ],
       phlebologist: {
-        name: 'Dr. Dorian Dirksen Datenschutzformular',
+        name: '',
         title: 'Facharzt für Dermatologie & Phlebologie',
         bio: 'Dr. Dorian Dirksen Datenschutzformular ist Facharzt für Dermatologie & Phlebologie und auf die Behandlung von Besenreisern und Venenerkrankungen spezialisiert. Die Praxis kombiniert medizinische Kompetenz mit modernsten Behandlungsgeräten für dauerhafte Ergebnisse.',
       },
@@ -3362,7 +3362,7 @@ export const clinics: Clinic[] = [
         'Kontrolltermin nach 6–8 Wochen; 2–4 Sitzungen sind üblich',
       ],
       phlebologist: {
-        name: 'Dr. Arayesh Wichtige Informationen Sehr',
+        name: '',
         title: 'Facharzt für Dermatologie & Phlebologie',
         bio: 'Dr. Arayesh Wichtige Informationen Sehr ist Facharzt für Dermatologie & Phlebologie und auf die Behandlung von Besenreisern und Venenerkrankungen spezialisiert. Die Praxis kombiniert medizinische Kompetenz mit modernsten Behandlungsgeräten für dauerhafte Ergebnisse.',
       },
@@ -3724,7 +3724,7 @@ export const clinics: Clinic[] = [
     address: 'Lortzingstraße 17, 18119 Rostock',
     district: 'Rostock',
     distanceKm: 1.3,
-    doctor: 'Dr. med. Torsten Pabst Anfahrt Anrufen',
+    doctor: 'Dr. med. Torsten Pabst Anfahrt',
     qualification: 'Facharzt für Gefäßchirurgie',
     rating: 4.7,
     reviewCount: 36,
@@ -3767,7 +3767,7 @@ export const clinics: Clinic[] = [
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
       phlebologist: {
-        name: 'Dr. med. Torsten Pabst Anfahrt Anrufen',
+        name: 'Dr. med. Torsten Pabst Anfahrt',
         title: 'Facharzt für Gefäßchirurgie',
         bio: 'Dr. med. Torsten Pabst Anfahrt Anrufen ist Facharzt für Gefäßchirurgie und auf die Behandlung von Besenreisern und Venenerkrankungen spezialisiert. Die Praxis kombiniert medizinische Kompetenz mit modernsten Behandlungsgeräten für dauerhafte Ergebnisse.',
       },
@@ -4558,7 +4558,7 @@ export const clinics: Clinic[] = [
     address: 'Grevener Str. 105, 48159 Münster',
     district: 'Münster',
     distanceKm: 1.9,
-    doctor: 'Dr. med. Dominik Schlarb Grevener Straße',
+    doctor: 'Dr. med. Dominik Schlarb',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.9,
     reviewCount: 86,
@@ -4601,7 +4601,7 @@ export const clinics: Clinic[] = [
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
       phlebologist: {
-        name: 'Dr. med. Dominik Schlarb Grevener Straße',
+        name: 'Dr. med. Dominik Schlarb',
         title: 'Facharzt für Phlebologie',
         bio: 'Dr. med. Dominik Schlarb Grevener Straße ist Facharzt für Phlebologie und auf die Behandlung von Besenreisern und Venenerkrankungen spezialisiert. Die Praxis kombiniert medizinische Kompetenz mit modernsten Behandlungsgeräten für dauerhafte Ergebnisse.',
       },
@@ -5065,7 +5065,7 @@ export const clinics: Clinic[] = [
     address: 'Prinz-Regent-Straße 62, 44795 Bochum',
     district: 'Bochum',
     distanceKm: 1.9,
-    doctor: 'Herr Dr. med. Nidal Assaf',
+    doctor: 'Dr. med. Nidal Assaf',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.2,
     reviewCount: 110,
@@ -5179,7 +5179,7 @@ export const clinics: Clinic[] = [
     address: 'Düsseldorfer Landstraße 327, 47259 Duisburg',
     district: 'Duisburg',
     distanceKm: 1.2,
-    doctor: 'Frau Dr. med. Mercedeh Khalil Moghaddam',
+    doctor: 'Dr. med. Mercedeh Khalil Moghaddam',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.6,
     reviewCount: 112,
@@ -5233,7 +5233,7 @@ export const clinics: Clinic[] = [
     address: 'Sittardsberger Allee 12, 47249 Duisburg',
     district: 'Duisburg',
     distanceKm: 1.3,
-    doctor: 'Dr. med. Nariman Angabini Sittardsberger Allee',
+    doctor: 'Dr. med. Nariman Angabini Sittardsberger',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.6,
     reviewCount: 107,
@@ -5277,7 +5277,7 @@ export const clinics: Clinic[] = [
         'Kontrolltermin nach 6–8 Wochen; 2–4 Sitzungen sind üblich',
       ],
       phlebologist: {
-        name: 'Dr. med. Nariman Angabini Sittardsberger Allee',
+        name: 'Dr. med. Nariman Angabini Sittardsberger',
         title: 'Facharzt für Dermatologie & Phlebologie',
         bio: 'Dr. med. Nariman Angabini Sittardsberger Allee ist Facharzt für Dermatologie & Phlebologie und auf die Behandlung von Besenreisern und Venenerkrankungen spezialisiert. Die Praxis kombiniert medizinische Kompetenz mit modernsten Behandlungsgeräten für dauerhafte Ergebnisse.',
       },
@@ -5450,7 +5450,7 @@ export const clinics: Clinic[] = [
         'Kontrolltermin nach 6–8 Wochen; 2–4 Sitzungen sind üblich',
       ],
       phlebologist: {
-        name: 'Dr. Ioanna Gkata Menu Startseite',
+        name: '',
         title: 'Facharzt für Phlebologie & Innere Medizin',
         bio: 'Dr. Ioanna Gkata Menu Startseite ist Facharzt für Phlebologie & Innere Medizin und auf die Behandlung von Besenreisern und Venenerkrankungen spezialisiert. Die Praxis kombiniert medizinische Kompetenz mit modernsten Behandlungsgeräten für dauerhafte Ergebnisse.',
       },
@@ -5520,7 +5520,7 @@ export const clinics: Clinic[] = [
     address: 'Sundgauallee 92A, 79110 Freiburg im Breisgau',
     district: 'Freiburg im Breisgau',
     distanceKm: 1.8,
-    doctor: 'Dr. med. Marco Hoffmann Sundgauallee',
+    doctor: 'Dr. med. Marco Hoffmann',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.1,
     reviewCount: 95,
@@ -5563,7 +5563,7 @@ export const clinics: Clinic[] = [
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
       phlebologist: {
-        name: 'Dr. med. Marco Hoffmann Sundgauallee',
+        name: 'Dr. med. Marco Hoffmann',
         title: 'Facharzt für Phlebologie',
         bio: 'Dr. med. Marco Hoffmann Sundgauallee ist Facharzt für Phlebologie und auf die Behandlung von Besenreisern und Venenerkrankungen spezialisiert. Die Praxis kombiniert medizinische Kompetenz mit modernsten Behandlungsgeräten für dauerhafte Ergebnisse.',
       },
@@ -6702,7 +6702,7 @@ export const clinics: Clinic[] = [
     address: 'Justinenstraße 1, 01309 Dresden',
     district: 'Dresden',
     distanceKm: 1.2,
-    doctor: 'Dr. Roland Kluge Justinenstraße',
+    doctor: 'Dr. Roland Kluge',
     qualification: 'Facharzt für Gefäßchirurgie',
     rating: 4.8,
     reviewCount: 95,
@@ -6745,7 +6745,7 @@ export const clinics: Clinic[] = [
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
       phlebologist: {
-        name: 'Dr. Roland Kluge Justinenstraße',
+        name: 'Dr. Roland Kluge',
         title: 'Facharzt für Gefäßchirurgie',
         bio: 'Dr. Roland Kluge Justinenstraße ist Facharzt für Gefäßchirurgie und auf die Behandlung von Besenreisern und Venenerkrankungen spezialisiert. Die Praxis kombiniert medizinische Kompetenz mit modernsten Behandlungsgeräten für dauerhafte Ergebnisse.',
       },
@@ -6924,7 +6924,7 @@ export const clinics: Clinic[] = [
     address: 'Yorckstraße 35, 09130 Chemnitz',
     district: 'Chemnitz',
     distanceKm: 1.6,
-    doctor: 'Herr Dr. med. Lutz Forkmann',
+    doctor: 'Dr. med. Lutz Forkmann',
     qualification: 'Facharzt für Phlebologie',
     rating: 4,
     reviewCount: 20,
@@ -8054,7 +8054,7 @@ export const clinics: Clinic[] = [
     address: 'Merseburger Str. 165, 06112 Halle (Saale)',
     district: 'Merseburger Str. 165',
     distanceKm: 2.8,
-    doctor: 'Herr Dr. med. Joachim Zaage',
+    doctor: 'Dr. med. Joachim Zaage',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.5,
     reviewCount: 0,
@@ -8150,7 +8150,7 @@ export const clinics: Clinic[] = [
     address: 'Viersener Str. 450, 41063 Mönchengladbach',
     district: 'Viersener Str. 450',
     distanceKm: 1.0,
-    doctor: 'Herr Dr. med. Jan Berger',
+    doctor: 'Dr. med. Jan Berger',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.8,
     reviewCount: 26,
@@ -8186,6 +8186,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Jan Berger',
+        title: 'Facharzt/-ärztin',
+        bio: 'Herr Dr. med. Jan Berger behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -8467,7 +8472,7 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Skin & Soul Clinic by Aleo // Privat Arztpraxis für Haut und Ästhetik behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (201 Bewertungen) zu den bestbewerteten Adressen in Krefeld. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'In unserer Clinic stehen Sie im Mittelpunkt – mit modernsten Behandlungsmethoden und einem zeitgemäßen Ansatz verwirklichen wir Ihre individuellen Schönheitsziele. Erfahren Sie mehr Ästhetische Faltenbehandlung Tauchen Sie ein in die faszinierende Welt innovativer Behandlungen zur Reduzierung feiner Linien und Falten, die Ihnen ein jugendliches und erfrischtes Erscheinungsbild verleihen... Hyaluronsäure Tauchen Sie ein in die Welt der Hyaluronsäure-Behandlungen, die für eine natürliche und jugendliche Haut sorgen...',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
@@ -8666,6 +8671,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Sebastian Wais',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Sebastian Wais behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -8899,13 +8909,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis HAUTÄRZTE - Praxis Dr. med. Natalia Straub und Dr. med. univ. Maria-Laura Terbille behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.6 Sternen (120 Bewertungen) zu den bestbewerteten Adressen in Hamm. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Hautarzt Hamm Ahlen – Dermatologie für Soest Umgebung haut ärzte Dr. Maria-Laura Terbille und kollegen Ihre Hautärzte in Hamm und Ahlen TERMIN BUCHEN Wir bieten Diagnose und Therapie des gesamten Spektrums dermatologischer Erkrankungen und Allergien. Für die Gesundheit und Schönheit Ihrer Haut setzen wir modernste Technik und Behandlungsmethoden ein.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Natalia Straub',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Natalia Straub Dr behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -8918,7 +8933,7 @@ export const clinics: Clinic[] = [
     address: 'Nassauerstraße 1, 59065 Hamm',
     district: 'Nassauerstraße 1',
     distanceKm: 1.0,
-    doctor: 'Herr Dr. med. Andreas Franik',
+    doctor: 'Dr. med. Andreas Franik',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 5,
     reviewCount: 2,
@@ -8966,7 +8981,7 @@ export const clinics: Clinic[] = [
     address: 'Yorckstraße 1, 67061 Ludwigshafen am Rhein',
     district: 'Yorckstraße 1',
     distanceKm: 1.3,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Marius Ante',
     qualification: 'Facharzt für Phlebologie',
     rating: 3.8,
     reviewCount: 29,
@@ -8995,13 +9010,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Venenzentrum Rhein-Pfalz bietet in Ludwigshafen am Rhein die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Der Schwerpunkt liegt auf Diagnostik und Therapie des Krampfaderleidens mittels modernster operativer und nicht-operativer Verfahren. Das Angebot umfasst außerdem die Diagnostik und – soweit ambulant möglich – auch Therapie von Durchblutungsstörungen („Schaufensterkrankheit“), Verengungen der Halsschlagader und Aussackungen der Bauchschlagader.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Marius Ante',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Marius Ante Dr behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9014,7 +9034,7 @@ export const clinics: Clinic[] = [
     address: 'Yorckstraße 1, 67061 Ludwigshafen am Rhein',
     district: 'Yorckstraße 1',
     distanceKm: 1.6,
-    doctor: 'Frau Dr. med. Charis Eibl',
+    doctor: 'Dr. med. Marius Ante',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.1,
     reviewCount: 31,
@@ -9043,13 +9063,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Frau Dr. med. Charis Eibl bietet in Ludwigshafen am Rhein die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Der Schwerpunkt liegt auf Diagnostik und Therapie des Krampfaderleidens mittels modernster operativer und nicht-operativer Verfahren. Das Angebot umfasst außerdem die Diagnostik und – soweit ambulant möglich – auch Therapie von Durchblutungsstörungen („Schaufensterkrankheit“), Verengungen der Halsschlagader und Aussackungen der Bauchschlagader.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Marius Ante',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Marius Ante Dr behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9091,13 +9116,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Hautarzt Ludwigshafen | Dr. med. Darinka Keil | Laserpraxis | Privatpraxis behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (52 Bewertungen) zu den bestbewerteten Adressen in Ludwigshafen am Rhein. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: '--> Hautarzt Bad Dürkheim, Haßloch Ludwigshafen | Dr. Darinka Keil | Laserpraxis 06322 9493 0 Bad Dürkheim Hassloch Ludwigshafen Dr.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Darinka Keil',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Darinka Keil behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9139,13 +9169,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dr. med. Klaus Krueger behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (46 Bewertungen) zu den bestbewerteten Adressen in Oldenburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Wir stellen Ihnen unsere moderne Praxis vor und informieren Sie über unsere medizinischen Leistungen in den Bereichen Diagnostik und modernste sowie schonende Behandlungsmethoden. Diagnostik Operative Therapie Konservative Therapie Besenreiser Venefit VNUS Unser Team Mit unserem Team von qualifizierten und engagierten Arzthelferinnen, unter der ärztlichen Leitung von Dr. Klaus Krueger und Sarah Krueger Facharzt für Chirurgie - Phlebologie Alexanderstraße 89 26121 Oldenburg Tel.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Klaus Krueger',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Klaus Krueger behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9158,7 +9193,7 @@ export const clinics: Clinic[] = [
     address: 'Achternstraße 21, 26122 Oldenburg (Oldb)',
     district: 'Achternstraße 21',
     distanceKm: 2.5,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Thomas Fechner',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 5,
     reviewCount: 81,
@@ -9187,13 +9222,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Zentrum für Hautästhetik und Lasermedizin GmbH & Co.KG behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (81 Bewertungen) zu den bestbewerteten Adressen in Oldenburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Zentrum für Hautästhetik und Lasermedizin | Haut- und Laserzentrum Oldenburg Hautästhetik Hautgesundheit Hier wechseln Sie zum Zentrum für Hautgesundheit Verstanden Termin vereinbaren Online Termin vereinbaren Digitale Ästhetik-Beratung starten Menü Mein Schönheitsideal. Wir helfen Ihnen, es zu verwirklichen – mit modernsten individuellen Behandlungskonzepten, state-of-the-art-Technik und medizinischer Expertise. Unsere Ärzte Gute Behandlung garantiert: Ihre Fachärzte.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Thomas Fechner',
+        title: 'Facharzt/-ärztin',
+        bio: 'Herr Dr. med. Thomas Fechner behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9254,7 +9294,7 @@ export const clinics: Clinic[] = [
     address: 'Bischofsstraße 1, 49074 Osnabrück',
     district: 'Bischofsstraße 1',
     distanceKm: 3.1,
-    doctor: 'Prof. Dr. med. Jörg Heckenkamp',
+    doctor: 'Prof. Dr. Jörg Heckenkamp',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 5,
     reviewCount: 4,
@@ -9290,6 +9330,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Prof. Dr. Jörg Heckenkamp',
+        title: 'Facharzt/-ärztin',
+        bio: 'Prof. Dr. Jörg Heckenkamp behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9350,7 +9395,7 @@ export const clinics: Clinic[] = [
     address: 'Bischofsstraße 1, 49074 Osnabrück',
     district: 'Bischofsstraße 1',
     distanceKm: 1.3,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Thorsten Theis',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.5,
     reviewCount: 0,
@@ -9379,13 +9424,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis MVZ Gefäßchirurgie Osnabrück - Niels-Stensen-Kliniken behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Osnabrück. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Thorsten Theis Facharzt für Gefäßchirurgie Kontakt MVZ Marienhospital Osnabrück - Gefäßchirurgie Bischofsstraße 1 49074 Osnabrück T 0541 326-4264 F 0541 326-4267 mvz-gc-mho@ remove-this. nsk.de Wegbeschreibung: Marienhospital; Gebäudeteil L, Ebene 4 Im Bereich der Gefäßchirurgie-Ambulanz integriert. 0541 326-4264 Für die Behandlung bei uns benötigen Sie lediglich eine Überweisung Ihres Arztes.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Thorsten Theis',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Thorsten Theis behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9427,7 +9477,7 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dr. Erhard Linz - Gefäßpraxis Leverkusen Medilev bietet in Leverkusen die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Linz Vertrauen Collage Zurück Weiter Gefäßerkrankungen in Expertenhände Die Philosophie der Gefäßpraxis Leverkusen lautet: "Gesundheit bewahren statt Krankheit bekämpfen." WILLKOMMEN IN DER GEFÄßPRAXIS Am Gesundheitspark 4 51375 Leverkusen MediLEV 1. Er begann 1994 direkt im Anschluss an sein Medizinstudium die phlebologische und gefäßmedizinische Ausbildung in Neuss. Stunde in der Phlebologie - die Zusatzbezeichnung wurde erst in diesem Jahr von der Ärztekammer eingeführt.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
@@ -9571,13 +9621,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dr. med. Heitham Abu Nasir, Gefäßchirurg/Phlebologe behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (60 Bewertungen) zu den bestbewerteten Adressen in Solingen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Willkommen in der Fachpraxis für Gefäß- Venenchirurgie in Solingen | Dr. Abu Nasir Das Team Schwerpunkte Leistungen Karriere Partner Kontakt G V in Solingen Die Praxis für Gefäß- Venenchirurgie in Solingen Unser Ziel ist es, gemeinsam mit Ihnen Ihre Beschwerden zu lindern und Ihre Lebensqualität zu verbessern.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Heitham Abu Nasir',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Heitham Abu Nasir behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9590,7 +9645,7 @@ export const clinics: Clinic[] = [
     address: 'Parkstraße 20, 42697 Solingen',
     district: 'Parkstraße 20',
     distanceKm: 2.8,
-    doctor: 'Dr. med. Christoph Zenses',
+    doctor: 'Dr. med. Stephan Kochen',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.2,
     reviewCount: 20,
@@ -9626,6 +9681,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Stephan Kochen',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Stephan Kochen Dr behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9686,7 +9746,7 @@ export const clinics: Clinic[] = [
     address: 'Reumontstraße 33, 33102 Paderborn',
     district: 'Reumontstraße 33',
     distanceKm: 1.0,
-    doctor: 'siehe Website',
+    doctor: 'Dr.med. Olaf Schibille',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.2,
     reviewCount: 10,
@@ -9715,13 +9775,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Praxis für Gefäßmedizin Dr. Olaf Schibille u. Emil Rachkov bietet in Paderborn die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Praxisgemeinschaft für Gefäßmedizin Fachärzte für Innere Medizin und Angiologie Startseite Team Leistungen Aktuelles Herzlich willkommen in unserer Praxis Liebe Patientin, lieber Patient, Herzlich willkommen in unsere Praxis für Gefäßmedizin. Ihr Praxisteam Anschrift Praxisgemeinschaft für Gefäßmedizin Dr.med.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr.med. Olaf Schibille',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr.med. Olaf Schibille behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9770,6 +9835,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Jörg Forkel',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Jörg Forkel behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -9811,7 +9881,7 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Frau Susanne Hoffmann behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Paderborn. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Josef Paderborn MVZ im MediCo Paderborn MVZ Neurochirurgie Paderborn MVZ Westheim BAZ Paderborn/Marsberg ZAR Paderborn Ambulanter Hospizdienst tobit Schule für Pflege und Gesundheit Paderborn Bildungscampus St. Elisabeth Lahnstein Therapiezentrum am Katholischen Klinikum Koblenz·Montabaur MVZ Marienhof Koblenz MVZ Brüderhaus Koblenz MVZ Brüderkrankenhaus Montabaur LandarztPlus Montabaur Seniorenzentrum Maria vom Siege Plaidt Seniorenzentrum St.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
@@ -9926,7 +9996,7 @@ export const clinics: Clinic[] = [
     address: 'Heidelberger Landstraße 18-20, 64297 Darmstadt',
     district: 'Heidelberger Landstraße 18-20',
     distanceKm: 2.5,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Sonja Sattler',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.9,
     reviewCount: 167,
@@ -9962,6 +10032,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Sonja Sattler',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Sonja Sattler behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10051,7 +10126,7 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dermazentrum Neuss behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (296 Bewertungen) zu den bestbewerteten Adressen in Neuss. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'In unserer Praxis bieten wir Ihnen umfassende Dienstleistungen an, von der Behandlung akuter Hauterkrankungen wie Akne und Ekzemen bis hin zu ästhetischen Verfahren zur Verbesserung des Hautbildes. Mehr erfahren Therapien mit Licht und Laser In unserer Hautarztpraxis setzen wir auf modernste licht- und lasergestützte Therapien, um verschiedene Hautprobleme effektiv zu behandeln.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
@@ -10099,7 +10174,7 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dermatologie Drususallee behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.7 Sternen (180 Bewertungen) zu den bestbewerteten Adressen in Neuss. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'von Zons, Neuss - Herzlich Willkommen in der Hautarztpraxis auf der Drususallee Dres. Schwerpunkt unserer Arbeit ist die Erkennung und Behandlung von Hautkrebs. Ergänzt wird unser Angebot durch Leistungen aus den Bereichen der kosmetischen Dermatologie und der dermatologischen Ästhetik.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
@@ -10118,7 +10193,7 @@ export const clinics: Clinic[] = [
     address: 'Schlüterstraße 3A, 85057 Ingolstadt',
     district: 'Schlüterstraße 3A',
     distanceKm: 1.3,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Stephan Brandenberg',
     qualification: 'Facharzt für Phlebologie',
     rating: 3.8,
     reviewCount: 57,
@@ -10147,13 +10222,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Gefäßpraxis Ingolstadt Dr Brandenberg u. Wirtz-Vormittag bietet in Ingolstadt die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Die Praxis Gefäßpraxis Ingolstadt Dr Brandenberg u. Wirtz-Vormittag bietet in Ingolstadt die Behandlung von Besenreisern und Teleangiektasien mit modernen Behandlungsverfahren an. 57 Google-Bewertungen belegen die Qualität der Behandlung. Vor jeder Sitzung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Stephan Brandenberg',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Stephan Brandenberg behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10166,7 +10246,7 @@ export const clinics: Clinic[] = [
     address: 'Schlüterstraße 3A, 85057 Ingolstadt',
     district: 'Schlüterstraße 3A',
     distanceKm: 1.6,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Stephan Brandenberg',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 5,
     reviewCount: 4,
@@ -10195,13 +10275,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dr. Luana Wirtz-Vormittag behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (4 Bewertungen) zu den bestbewerteten Adressen in Ingolstadt. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Die Praxis Dr. Luana Wirtz-Vormittag in Ingolstadt ist auf die Behandlung von Besenreisern und erweiterten Hautgefäßen spezialisiert. Mit modernen Behandlungsverfahren stehen schonende, ambulante Methoden zur Verfügung. Die Therapie wird individuell auf den jeweiligen Befund abgestimmt.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Stephan Brandenberg',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Stephan Brandenberg behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10214,7 +10299,7 @@ export const clinics: Clinic[] = [
     address: 'Schlüterstraße 3A, 85057 Ingolstadt',
     district: 'Schlüterstraße 3A',
     distanceKm: 1.9,
-    doctor: 'Herr Dr. med. Stephan Brandenberg',
+    doctor: 'Dr. med. Stephan Brandenberg',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.2,
     reviewCount: 18,
@@ -10243,13 +10328,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Herr Dr. med. Stephan Brandenberg bietet in Ingolstadt die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Die Praxis Herr Dr. med. Stephan Brandenberg in Ingolstadt ist auf die Behandlung von Besenreisern und erweiterten Hautgefäßen spezialisiert. Mit modernen Behandlungsverfahren stehen schonende, ambulante Methoden zur Verfügung. Die Therapie wird individuell auf den jeweiligen Befund abgestimmt.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Stephan Brandenberg',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Stephan Brandenberg behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10262,7 +10352,7 @@ export const clinics: Clinic[] = [
     address: 'Moltkestraße 20, 74072 Heilbronn',
     district: 'Moltkestraße 20',
     distanceKm: 2.2,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Frank Baltussen Herzlich',
     qualification: 'Facharzt für Phlebologie',
     rating: 3.8,
     reviewCount: 85,
@@ -10291,13 +10381,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Praxis für Gefäßmedizin Dr. Frank Baltussen, Dr. Frank Röser, Dr. Pirkko Hettrich, Dr. Norbert Nagy bietet in Heilbronn die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Es erwartet Sie ein Ärzteteam mit fundierter medizinischer Erfahrung, das sich ohne lange Wege oder Wartezeiten zwischen den einzelnen Behandlungsschritten Ihrer Belange annimmt. Alle klassischen und modernen Verfahren der Krampfadertherapie werden eingesetzt, mit dem Ziel, eine an Ihren Bedürfnissen ausgerichtete individuelle und schonende Therapie anzubieten. Unsere Praxis ist Partner der AOK, der IKK und vieler Betriebskrankenkassen für die endovenöse Venenchirurgie.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Frank Baltussen Herzlich',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Frank Baltussen Herzlich behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10339,13 +10434,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis MVZ Haut- und Laserzentrum Heilbronn GmbH, Dr. med. Bernd Salzer - Dr. med. Michael Arnold - Dr. med. Barbara Bühler bietet in Heilbronn die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Die Praxis MVZ Haut- und Laserzentrum Heilbronn GmbH, Dr. med. Bernd Salzer - Dr. med. Michael Arnold - Dr. med. Barbara Bühler bietet in Heilbronn die Behandlung von Besenreisern und Teleangiektasien mit modernen Behandlungsverfahren an. 206 Google-Bewertungen belegen die Qualität der Behandlung. Vor jeder Sitzung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Bernd Salzer',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Bernd Salzer Dr behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10387,13 +10487,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Herr Prof. Dr. med. Harald Löffler behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (17 Bewertungen) zu den bestbewerteten Adressen in Heilbronn. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'In unserer Klinik diagnostizieren und behandeln wir mit modernsten Methoden das gesamte Spektrum der Haut- und Geschlechtserkrankungen, Venenerkrankungen sowie Allergien. Ein großer Schwerpunkt unserer Arbeit ist die operative und medikamentöse Behandlung von Hauttumoren.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Prof. Dr. med. Harald Löffler',
+        title: 'Facharzt/-ärztin',
+        bio: 'Prof. Dr. med. Harald Löffler behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10442,6 +10547,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Thomas Weiler',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Thomas Weiler behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10550,7 +10660,7 @@ export const clinics: Clinic[] = [
     address: 'Sauerbruchstraße 7, 38440 Wolfsburg',
     district: 'Sauerbruchstraße 7',
     distanceKm: 1.6,
-    doctor: 'Frau Dr. med. Birgit Gerecke',
+    doctor: 'Dr. med. Birgit Gerecke',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.5,
     reviewCount: 0,
@@ -10646,7 +10756,7 @@ export const clinics: Clinic[] = [
     address: 'Sauerbruchstraße 13, 38440 Wolfsburg',
     district: 'Sauerbruchstraße 13',
     distanceKm: 2.2,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Michael Geertsen',
     qualification: 'Facharzt für Phlebologie',
     rating: 4,
     reviewCount: 104,
@@ -10675,13 +10785,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dr. Michael Geertsen - Chirurgie am Klieversberg bietet in Wolfsburg die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Willkommen in der Chirurgischen Praxis Dr. Der Behandlungsschwerpunkt der Praxis liegt dabei in der konservativen und operativen Behandlung von Erkrankungen aus dem Bereich der Proktologie, Hernienchirurgie und Allgemeinen Chirurgie. Kompetente und erfahrene Mitarbeiter und moderne Praxisräume erwarten Sie, um Ihnen die chirurgische Behandlung und den damit verbundenen Aufenthalt so angenehm wie möglich zu machen.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Michael Geertsen',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Michael Geertsen behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10723,7 +10838,7 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Privatpraxis für Gefäßchirurgie und Phlebologie Franken | Erlangen behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (8 Bewertungen) zu den bestbewerteten Adressen in Erlangen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: '18 91052 Erlangen Kontakt 0911 47770230 info@gefaesschirurgie-franken.de &Ouml;ffnungszeiten Erlangen Mo - Di 08:00 - 17:00 N rnberg Mi - Fr 09:00 - 18:00 Samstags nach Vereinbarung Termine Online ber Doctolib (blaues Termin-Men rechts) oder telefonisch. Ihr Experte f r Gef medizin, Lip dem und Venenerkrankungen in N rnberg und Erlangen Herzlich willkommen in meiner Privatpraxis f r Gef chirurgie. Mehdi Rahmanian Koshkaki, spezialisiert auf minimalinvasive Gef chirurgie und die Behandlung von Lip dem, Krampfadern und weiteren Venenerkrankungen.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
@@ -10838,7 +10953,7 @@ export const clinics: Clinic[] = [
     address: 'Kaiserstraße 57/1, 72764 Reutlingen',
     district: 'Kaiserstraße 57/1',
     distanceKm: 1.0,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Schönleber You',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.8,
     reviewCount: 96,
@@ -10867,13 +10982,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Venenpraxis Reutlingen - Christian Dan Munteanu und Dr. Heiko Schönleber - Venen Kompetenz-Zentrum behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (96 Bewertungen) zu den bestbewerteten Adressen in Reutlingen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Unsere Praxis Behandlungsspektrum Ästhetische Phlebologie Ambulante Veneninterventionen Gefäßdiagnostik Ästhetische Anwendungen Unser Service für Sie Team Kontakt MENÜ \'. \' \'; --> Online-Termin Buchen Venenpraxis Reutlingen Christian Dan Munteanu Dr. Heiko Schönleber Venenpraxis Reutlingen Christian Dan Munteanu Dr.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Schönleber You',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Schönleber You behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -10886,7 +11006,7 @@ export const clinics: Clinic[] = [
     address: 'Ob. Wässere 9, 72764 Reutlingen',
     district: 'Ob. Wässere 9',
     distanceKm: 1.3,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Toni Silber Berufsbezeichnung Arzt',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.8,
     reviewCount: 78,
@@ -10915,13 +11035,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis MVZ Hautzentrum Obere Wässere behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (78 Bewertungen) zu den bestbewerteten Adressen in Reutlingen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Assistent verteilt Schere und Instrumente an Chirurgen während der Operation., Von Gumpanat , Quelle iStock SCHUPPENFLECHTE Acute psoriasis on the knees ,body ,elbows is an autoimmune incurable dermatological skin disease. Foot treatment in SPA salon.Podiatry clinic, Von Ольга Апанасенко , Quelle AdobeStock PILZERKRANKUNGEN Dermatolog. Schönheit der Frauen und Make up verwöhnen Konzept, Von Deagreez , Quelle iStock ZORNESFALTE Behandlungskonzept für die Lifttherapie.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Toni Silber Berufsbezeichnung Arzt',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Toni Silber Berufsbezeichnung Arzt behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11011,7 +11136,7 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Praxis für Phlebologie und Gefäßchirurgie Koblenz behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.6 Sternen (21 Bewertungen) zu den bestbewerteten Adressen in Koblenz. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Home | Phlebologie und Gefäßchirurgie Koblenz | G. Unser Ziel ist es, Diagnostik und Therapie individuell auf Ihre Bedürfnisse abzustimmen. Ob bei der Gefäßdiagnostik, der konservativen Behandlung arterieller Erkrankungen, der Therapie von Krampfadern oder der Versorgung von Lip- und Lymphödemen – wir nehmen uns Zeit für Ihre persönliche Situation.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
@@ -11107,7 +11232,7 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Klinik für Gefäßchirurgie und Phlebologie | Kemperhof Koblenz behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (1 Bewertungen) zu den bestbewerteten Adressen in Koblenz. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Das Spektrum umfasst die gesamte konventionelle und interventionelle Gefäßchirurgie. Schwerpunkt ist die Reparation kranker Gefäße mittels Operationen. Gerne besprechen wir in unserer Sprechstunde, ob eine ambulante Operation für Ihre Behandlung infrage kommt.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
@@ -11126,7 +11251,7 @@ export const clinics: Clinic[] = [
     address: 'Engelpl. 8, 07743 Jena',
     district: 'Engelpl. 8',
     distanceKm: 2.8,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Philipp Zollmann',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.5,
     reviewCount: 2,
@@ -11155,13 +11280,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Venen Kompetenz-Zentrum Jena behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (2 Bewertungen) zu den bestbewerteten Adressen in Jena. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Die Praxis Venen Kompetenz-Zentrum Jena in Jena ist auf die Behandlung von Besenreisern und erweiterten Hautgefäßen spezialisiert. Mit modernen Behandlungsverfahren stehen schonende, ambulante Methoden zur Verfügung. Die Therapie wird individuell auf den jeweiligen Befund abgestimmt.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Philipp Zollmann',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Philipp Zollmann behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11222,7 +11352,7 @@ export const clinics: Clinic[] = [
     address: 'Engelpl. 8, 07743 Jena',
     district: 'Engelpl. 8',
     distanceKm: 1.0,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Philipp Zollmann',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.9,
     reviewCount: 187,
@@ -11251,13 +11381,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis MVZ Dr. Philipp Zollmann & Kollegen behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (187 Bewertungen) zu den bestbewerteten Adressen in Jena. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Die Praxis MVZ Dr. Philipp Zollmann & Kollegen ist mit 4.9 Sternen bei 187 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Jena. Behandelt wird mit modernen Behandlungsverfahren – individuell abgestimmt auf Gefäßtyp und Ausdehnung. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Philipp Zollmann',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Philipp Zollmann behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11270,7 +11405,7 @@ export const clinics: Clinic[] = [
     address: 'Friedrich-Wilhelm-Straße 23, 54290 Trier',
     district: 'Friedrich-Wilhelm-Straße 23',
     distanceKm: 1.3,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Andreas Veit',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.8,
     reviewCount: 43,
@@ -11299,13 +11434,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dres. med. A. u. J. Veit Schwerpunktpraxis für Gefäßmedizin • BAG behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (43 Bewertungen) zu den bestbewerteten Adressen in Trier. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Die Praxis Dres. med. A. u. J. Veit Schwerpunktpraxis für Gefäßmedizin • BAG bietet in Trier die Behandlung von Besenreisern und Teleangiektasien mit modernen Behandlungsverfahren an. 43 Google-Bewertungen belegen die Qualität der Behandlung. Vor jeder Sitzung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Andreas Veit',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Andreas Veit behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11366,7 +11506,7 @@ export const clinics: Clinic[] = [
     address: 'Dermatologische Privatpraxis, Viehmarktpl. 7, 54290 Trier',
     district: 'Dermatologische Privatpraxis',
     distanceKm: 1.9,
-    doctor: 'Dr. med. Dierk Steinmann',
+    doctor: 'Dr. med Dierk Steinmann',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.4,
     reviewCount: 90,
@@ -11395,13 +11535,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dr. med. Dierk Steinmann bietet in Trier die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Hautarztpraxis Steinmann Neder-Wilmert PRIVATPRAXIS +49 (0)651 42 525 E-MAIL Viehmarktplatz 7 | 54290 Trier PRIVATPRAXIS Dr. Dierk Steinmann erneut als meist empfohlener Dermatologe und Allergologe in Trier aus. Unsere Praxis ist NiSV zertifiziert Oberste Priorität bei der Einführung zur NiSV sieht der Gesetzgeber dabei auf der Optimierung der Behandlungssicherheit und zum Schutz des Patienten.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med Dierk Steinmann',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med Dierk Steinmann behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11414,7 +11559,7 @@ export const clinics: Clinic[] = [
     address: 'August-Bebel-Straße 26, 19055 Schwerin',
     district: 'August-Bebel-Straße 26',
     distanceKm: 2.2,
-    doctor: 'siehe Website',
+    doctor: 'Prof. Dr. Michael Drosner',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.6,
     reviewCount: 17,
@@ -11443,13 +11588,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Prof. Dr. Drosner | Haut & Laser Schwerin behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.6 Sternen (17 Bewertungen) zu den bestbewerteten Adressen in Schwerin. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'DROSNER Ärzte Katja Reckin TEAM LASER LASERAUSSTATTUNG DERMATOLOGIE KONTAKT SUCHE STELLENANGEBOTE PRAXIS-Infos PRAXIS PROF. Aufgrund personeller Engpässe und ständig steigender Nachfrage ist unsere Wartezeit für Untersuchungs- und Behandlungstermine so lang geworden, dass wir momentan leider gezwungen sind, einen kompletten Aufnahme-Stopp für Neupatient:innen zu verhängen. Das bedeutet für alle neuen Patient:innen, dass Sie sich bei akuten Fragestellungen an Ihren Hausarzt oder an eine andere dermatologische Praxis (eventuell auch außerhalb von Schwerin) wenden müssen.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Prof. Dr. Michael Drosner',
+        title: 'Facharzt/-ärztin',
+        bio: 'Prof. Dr. Michael Drosner behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11462,7 +11612,7 @@ export const clinics: Clinic[] = [
     address: 'Graf-Schack-Allee 20, 19053 Schwerin',
     district: 'Graf-Schack-Allee 20',
     distanceKm: 2.5,
-    doctor: 'Frau Dr. med. Heike Thierfeld',
+    doctor: 'Dr. med. Heike Thierfeld',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 3.8,
     reviewCount: 25,
@@ -11498,6 +11648,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Heike Thierfeld',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Heike Thierfeld behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11510,7 +11665,7 @@ export const clinics: Clinic[] = [
     address: 'Landreiterstraße 31, 19055 Schwerin',
     district: 'Landreiterstraße 31',
     distanceKm: 2.8,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Andreas Kauffold',
     qualification: 'Facharzt für Phlebologie',
     rating: 4.4,
     reviewCount: 50,
@@ -11539,13 +11694,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Kauffold Andreas Chirurgie bietet in Schwerin die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Ihr Facharzt für Chirurgie und Spezialist für Operationen an Fuß und Knie Termin vereinbaren Bitte vereinbaren Sie immer einen Termin und rufen Sie uns an unter: 0385 - 56 29 14 Akute Fälle Akut-Patienten bieten wir die Vorstellung in den Morgenstunden um 8:30 Uhr (Mo und Do) an. Bitte haben Sie dafür Verständnis, dass unser geschultes Personal an der Anmeldung eine Behandlungsreihenfolge festlegt.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Andreas Kauffold',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Andreas Kauffold behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11587,13 +11747,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Herr Prof. Dr. med. Peter Elsner bietet in Gera die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Für Ihre Fragen der Diagnostik und der Therapien der Dermatologie und der dermatologischen Kosmetik stehe ich Ihnen mit Rat und Tat zur Verfügung. Insgesamt verfüge ich über eine fast 40-jährige Berufserfahrung auf dem Gebiet der Dermatologie und Allergologie. Meine klinischen Schwerpunkte sind Allgemeine Dermatologie, Dermatotherapie, Photodermatologie, Dermatologische Onkologie, Dermatohistologie, Allergologie, Berufsdermatologie und Tropen- und Reisedermatologie.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Prof. Dr. med. Peter Elsner',
+        title: 'Facharzt/-ärztin',
+        bio: 'Prof. Dr. med. Peter Elsner Terminvereinbarung Anruf behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11606,7 +11771,7 @@ export const clinics: Clinic[] = [
     address: 'Puschkinpl. 2-3, 07545 Gera',
     district: 'Puschkinpl. 2-3',
     distanceKm: 1.0,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Anja Winkelmann',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 3.8,
     reviewCount: 16,
@@ -11642,6 +11807,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Anja Winkelmann',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Anja Winkelmann behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11683,13 +11853,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Dr. med. Dirk Lange bietet in Gera die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
+      intro: 'Leistungsspektrum Allergologie Diagnostik, Beratung und Behandlung verschiedenster Allergien wie Heuschnupfen und Kontaktallergie, incl. spezifischer Immuntherapie (Hyposensibilisierung) Alle Leistungen zeigen ... Leistungsspektrum Phlebologie (Venenleiden) Diagnostik von Krampfadern (Varikosis) mittels Duplex-Sonographie (Ultraschall) Diagnostik von Thrombosen und Venenentzündungen (Phlebitis) Sklerosierungstherapie (Verödung) von Besenreisern Koopera.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Dirk Lange',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Dirk Lange Feuerbachstraße behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11702,7 +11877,7 @@ export const clinics: Clinic[] = [
     address: 'Treibestraße 9, 31134 Hildesheim',
     district: 'Treibestraße 9',
     distanceKm: 1.6,
-    doctor: 'Herr Dr. med. Burkhard Lichtenstein',
+    doctor: 'Dr. med. Burkhard Lichtenstein',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.4,
     reviewCount: 28,
@@ -11738,6 +11913,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Burkhard Lichtenstein',
+        title: 'Facharzt/-ärztin',
+        bio: 'Herr Dr. med. Burkhard Lichtenstein behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11750,7 +11930,7 @@ export const clinics: Clinic[] = [
     address: 'Treibestraße 9, 31134 Hildesheim',
     district: 'Treibestraße 9',
     distanceKm: 1.9,
-    doctor: 'Herr Dr. med. Joachim Melles',
+    doctor: 'Dr. med. Joachim Melles',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.5,
     reviewCount: 0,
@@ -11786,6 +11966,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Joachim Melles',
+        title: 'Facharzt/-ärztin',
+        bio: 'Herr Dr. med. Joachim Melles behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11798,7 +11983,7 @@ export const clinics: Clinic[] = [
     address: 'Senator-Braun-Allee 33, 31135 Hildesheim',
     district: 'Senator-Braun-Allee 33',
     distanceKm: 2.2,
-    doctor: 'Herr Dr. med. Kai Röttger',
+    doctor: 'Dr. med. Kai Röttger',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.5,
     reviewCount: 0,
@@ -11834,6 +12019,11 @@ export const clinics: Clinic[] = [
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Kai Röttger',
+        title: 'Facharzt/-ärztin',
+        bio: 'Herr Dr. med. Kai Röttger behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -11971,13 +12161,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Prof. Dr. Frank Willeke behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (5 Bewertungen) zu den bestbewerteten Adressen in Siegen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Zuhause Marien Kliniken Siegen Mit über 160 Jahren Erfahrung in der medizinischen Versorgung wissen wir als Marien Kliniken, dass die Patientinnen und Patienten neben dem Komfort und der Sicherheit der Behandlung eine wirksame Schmerzlinderung wünschen. Das beinhaltet einen hohen Unterbringungs- und Verpflegungsstandard, aber auch eine fürsorgliche und freundliche Behandlung mit kurzen Wegen. Aktuell 21.04.2026 Medizinischer Fortschritt aus Siegen Weltweit erste Studie zu neuer OP-Technologie veröffentlicht Weiterlesen 17.04.2026 Ursachen und Behandlung von Rückenschmerzen Die nächste Abendvis',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Prof. Dr. Frank Willeke',
+        title: 'Facharzt/-ärztin',
+        bio: 'Prof. Dr. Frank Willeke behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -12038,7 +12233,7 @@ export const clinics: Clinic[] = [
     address: 'Reckenberger Str. 19, 33332 Gütersloh',
     district: 'Reckenberger Str. 19',
     distanceKm: 1.3,
-    doctor: 'Herr Dr. med. Otfried Altstaedt',
+    doctor: 'Dr. med. Otfried Altstaedt',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 4.5,
     reviewCount: 0,
@@ -12086,7 +12281,7 @@ export const clinics: Clinic[] = [
     address: 'Bahnhofstraße 10, 33378 Rheda-Wiedenbrück',
     district: 'Bahnhofstraße 10',
     distanceKm: 1.6,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Christina Haut',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 5,
     reviewCount: 74,
@@ -12115,13 +12310,18 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis HAUTarztpraxis Dr. Christina Haut I Privatarztpraxis für Dermatologie, Ästhetik & Lasermedizin behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (74 Bewertungen) zu den bestbewerteten Adressen in Gütersloh. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Christina Haut Kontakt Telefon: +49 (0) 5242 57895-80 Telefax: +49 (0) 5242 57895-81 E-Mail: mail@dr-hautarztpraxis.de Achtung: Keine Terminvereinbarung oder Notfallmeldung per E-Mail, keine Behandlung per E-Mail, keine ärztliche Beratung unter der Mailadresse. Die Hautarztpraxis ist nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen. × Telefonische Erreichbarkeit Sie erreichen uns vormittags zwischen 8 und 13 Uhr telefonisch unter: 05242 57895-80 Nachmittags bitten wir um Kontaktaufnahme per E-Mail unter : mail@dr-hautarztpraxis.d',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Christina Haut',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Christina Haut Bahnhofstraße behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
@@ -12182,7 +12382,7 @@ export const clinics: Clinic[] = [
     address: 'Quellstraße 3, 03046 Cottbus',
     district: 'Quellstraße 3',
     distanceKm: 2.2,
-    doctor: 'siehe Website',
+    doctor: 'Dr. med. Tobias Flöter',
     qualification: 'Facharzt für Dermatologie & Phlebologie',
     rating: 5,
     reviewCount: 1,
@@ -12211,13 +12411,18 @@ export const clinics: Clinic[] = [
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
     treatmentInfo: {
-      intro: 'Die Praxis Privatpraxis Dr. Tobias Flöter behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (1 Bewertungen) zu den bestbewerteten Adressen in Cottbus. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
+      intro: 'Die Praxis Privatpraxis Dr. Tobias Flöter in Cottbus ist auf die Behandlung von Besenreisern und erweiterten Hautgefäßen spezialisiert. Mit modernen Behandlungsverfahren stehen schonende, ambulante Methoden zur Verfügung. Die Therapie wird individuell auf den jeweiligen Befund abgestimmt.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',
         'Nach der Behandlung: Kompressionsstrümpfe für einige Tage empfohlen',
         'Kontrolltermin nach 4–6 Wochen – weitere Sitzungen bei Bedarf',
       ],
+      phlebologist: {
+        name: 'Dr. med. Tobias Flöter',
+        title: 'Facharzt/-ärztin',
+        bio: 'Dr. med. Tobias Flöter Quellstrasse behandelt in der Praxis Besenreiser und Venenleiden.',
+      },
     },
   },
 
