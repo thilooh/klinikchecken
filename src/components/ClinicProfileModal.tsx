@@ -1,5 +1,6 @@
 import { X, MapPin, Clock, Stethoscope, CheckCircle2 } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
+import { useModalDismiss } from '../lib/useModalDismiss'
 
 interface Props {
   clinic: Clinic
@@ -56,6 +57,7 @@ const METHOD_TEXT: Record<string, string> = {
 }
 
 export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowReviews, hasUserCoords = false }: Props) {
+  const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clinic.name + ' ' + clinic.address)}`
   const hasRating = (clinic.googleRating ?? 0) > 0
   const activeExtras = extras.filter(e => clinic[e.key])
@@ -65,7 +67,7 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
       style={{ position: 'fixed', inset: 0, backgroundColor: 'rgba(0,0,0,0.6)', zIndex: 300, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}
       onClick={e => { if (e.target === e.currentTarget) onClose() }}
     >
-      <div style={{ backgroundColor: '#fff', borderRadius: '8px', width: '100%', maxWidth: '560px', maxHeight: '90vh', display: 'flex', flexDirection: 'column', boxShadow: '0 8px 32px rgba(0,0,0,0.2)' }}>
+      <div ref={dialogRef} role="dialog" aria-modal="true" aria-label="Praxis-Profil" style={{ backgroundColor: '#fff', borderRadius: '8px', width: '100%', maxWidth: '560px', maxHeight: '90vh', display: 'flex', flexDirection: 'column', boxShadow: '0 8px 32px rgba(0,0,0,0.2)' }}>
 
         {/* Header */}
         <div style={{ padding: '18px 20px 14px', borderBottom: '1px solid #EEE', flexShrink: 0 }}>

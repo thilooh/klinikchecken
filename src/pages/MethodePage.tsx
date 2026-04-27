@@ -129,7 +129,7 @@ export default function MethodePage() {
       item_name: method.name,
       content_type: 'method_landing',
     })
-  }, [method?.slug])
+  }, [method])
 
   if (!method) {
     return (

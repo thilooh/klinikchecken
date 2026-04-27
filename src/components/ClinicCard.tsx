@@ -65,6 +65,21 @@ function ClinicTags({ clinic, small }: { clinic: Clinic; small?: boolean }) {
   )
 }
 
+function Dots({ slides, slide, setSlide, small }: { slides: unknown[]; slide: number; setSlide: (n: number) => void; small?: boolean }) {
+  return (
+    <div style={{ display: 'flex', gap: small ? '3px' : '5px', alignItems: 'center', justifyContent: 'center' }}>
+      {slides.map((_, i) => (
+        <button key={i} onClick={() => setSlide(i)} style={{
+          width: small ? '5px' : (i === slide ? '16px' : '6px'), height: small ? '5px' : '6px',
+          borderRadius: small ? '50%' : '3px',
+          backgroundColor: i === slide ? (small ? '#003399' : '#fff') : (small ? 'rgba(0,0,0,0.18)' : 'rgba(255,255,255,0.5)'),
+          border: 'none', cursor: 'pointer', padding: 0, transition: 'all 0.2s', flexShrink: 0,
+        }} />
+      ))}
+    </div>
+  )
+}
+
 function USPs({ items, small }: { items: string[]; small?: boolean }) {
   if (!items.length) return null
   return (
@@ -145,18 +160,7 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
     setTouchStartY(null)
   }
 
-  const Dots = ({ small }: { small?: boolean }) => (
-    <div style={{ display: 'flex', gap: small ? '3px' : '5px', alignItems: 'center', justifyContent: 'center' }}>
-      {slides.map((_, i) => (
-        <button key={i} onClick={() => setSlide(i)} style={{
-          width: small ? '5px' : (i === slide ? '16px' : '6px'), height: small ? '5px' : '6px',
-          borderRadius: small ? '50%' : '3px',
-          backgroundColor: i === slide ? (small ? '#003399' : '#fff') : (small ? 'rgba(0,0,0,0.18)' : 'rgba(255,255,255,0.5)'),
-          border: 'none', cursor: 'pointer', padding: 0, transition: 'all 0.2s', flexShrink: 0,
-        }} />
-      ))}
-    </div>
-  )
+
 
   return (
     <>
@@ -206,7 +210,7 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
                 <ChevronRight size={16} color="#333" />
               </button>
             )}
-            <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
+            <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots slides={slides} slide={slide} setSlide={setSlide} /></div>
           </div>
 
           <div style={{ padding: '14px 16px 10px' }}>
@@ -308,7 +312,7 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
                 <ChevronRight size={14} color="#333" />
               </button>
             )}
-            <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots /></div>
+            <div style={{ position: 'absolute', bottom: '8px', left: 0, right: 0, zIndex: 2 }}><Dots slides={slides} slide={slide} setSlide={setSlide} /></div>
           </div>
 
           {/* Content */}

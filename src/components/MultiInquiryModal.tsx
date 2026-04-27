@@ -4,6 +4,7 @@ import type { Clinic } from '../types/clinic'
 import type { CTAVariant } from '../lib/ctaVariant'
 import { sendEvent } from '../lib/gtm'
 import { generateEventId, sendCapi } from '../lib/capi'
+import { useModalDismiss } from '../lib/useModalDismiss'
 
 interface Props {
   clinics: Clinic[]
@@ -16,6 +17,7 @@ interface Props {
 const SHEET_URL = import.meta.env.VITE_GOOGLE_SHEET_URL as string | undefined
 
 export default function MultiInquiryModal({ clinics, onClose, onClearSelection, ctaColor = '#FF6600', ctaVariant }: Props) {
+  const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
   const [form, setForm] = useState({
     firstName: '', lastName: '', email: '', phone: '',
     method: '', description: '', privacy: false,
@@ -87,7 +89,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
       style={{ position: 'fixed', inset: 0, backgroundColor: 'rgba(0,0,0,0.6)', zIndex: 1600, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}
       onClick={e => { if (e.target === e.currentTarget) onClose() }}
     >
-      <div style={{ backgroundColor: '#fff', borderRadius: '4px', width: '100%', maxWidth: '500px', maxHeight: '90vh', overflowY: 'auto', position: 'relative' }}>
+      <div ref={dialogRef} role="dialog" aria-modal="true" aria-label="Anfrage an mehrere Praxen" style={{ backgroundColor: '#fff', borderRadius: '4px', width: '100%', maxWidth: '500px', maxHeight: '90vh', overflowY: 'auto', position: 'relative' }}>
 
         {/* Header */}
         <div style={{ backgroundColor: '#003399', padding: '16px 20px', borderRadius: '4px 4px 0 0' }}>

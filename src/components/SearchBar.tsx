@@ -133,11 +133,15 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     return () => clearTimeout(t)
   }, [])
 
-  // Debounced autocomplete fetch on input change.
+  // Debounced autocomplete fetch on input change. The synchronous setState
+  // below is intentional: when the user shortens the query, predictions must
+  // clear immediately to avoid showing stale suggestions. React batches the
+  // two setState calls so the cascade is one extra render, which is fine.
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current)
     const trimmed = val.trim()
     if (trimmed.length < 2) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setPredictions([])
       setLoadingPredictions(false)
       return

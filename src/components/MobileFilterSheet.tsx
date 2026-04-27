@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { X, ChevronDown, ChevronUp } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
 import { ALL_METHODS } from '../data/clinics-meta'
+import { useModalDismiss } from '../lib/useModalDismiss'
 
 interface Props {
   filters: FilterState
@@ -16,7 +17,25 @@ const ROW: React.CSSProperties = {
   padding: '11px 0', borderBottom: '1px solid #F2F2F2', cursor: 'pointer',
 }
 
+// Hoisted out of the parent component - declaring components inside render
+// recreates them on every state change, which resets their internal state and
+// breaks React.memo / fast refresh. Also fails the react-hooks/static-components
+// rule.
+function SectionHead({ open, onToggle, label }: { open: boolean; onToggle: () => void; label: string }) {
+  return (
+    <button onClick={onToggle} style={{
+      display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+      width: '100%', padding: '16px 20px', border: 'none', background: 'none',
+      cursor: 'pointer', borderTop: '1px solid #EEEEEE',
+    }}>
+      <span style={{ fontWeight: 700, fontSize: '16px', color: '#222' }}>{label}</span>
+      {open ? <ChevronUp size={18} color="#555" /> : <ChevronDown size={18} color="#555" />}
+    </button>
+  )
+}
+
 export default function MobileFilterSheet({ filters, setFilters, count, onClose, initialSection = 'method' }: Props) {
+  const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
   const [open, setOpen] = useState<Record<string, boolean>>({
     method: initialSection === 'method',
     rating: initialSection === 'rating',
@@ -34,24 +53,13 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
     extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: true },
   })
 
-  const SectionHead = ({ id, label }: { id: string; label: string }) => (
-    <button onClick={() => toggle(id)} style={{
-      display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-      width: '100%', padding: '16px 20px', border: 'none', background: 'none',
-      cursor: 'pointer', borderTop: '1px solid #EEEEEE',
-    }}>
-      <span style={{ fontWeight: 700, fontSize: '16px', color: '#222' }}>{label}</span>
-      {open[id] ? <ChevronUp size={18} color="#555" /> : <ChevronDown size={18} color="#555" />}
-    </button>
-  )
-
   const radio: React.CSSProperties = { accentColor: '#003399', width: '19px', height: '19px', cursor: 'pointer', flexShrink: 0 }
   const check: React.CSSProperties = { accentColor: '#003399', width: '19px', height: '19px', cursor: 'pointer', flexShrink: 0 }
 
   return (
     <>
       <div onClick={onClose} style={{ position: 'fixed', inset: 0, backgroundColor: 'rgba(0,0,0,0.55)', zIndex: 290 }} />
-      <div style={{ position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 300, borderRadius: '16px 16px 0 0', backgroundColor: '#fff', maxHeight: '92vh', display: 'flex', flexDirection: 'column' }}>
+      <div ref={dialogRef} role="dialog" aria-modal="true" aria-label="Filter" style={{ position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 300, borderRadius: '16px 16px 0 0', backgroundColor: '#fff', maxHeight: '92vh', display: 'flex', flexDirection: 'column' }}>
 
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '18px 20px', flexShrink: 0 }}>
           <span style={{ fontWeight: 800, fontSize: '18px', color: '#111' }}>Wähle deine Filter aus</span>
@@ -62,7 +70,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
 
         <div style={{ overflowY: 'auto', flex: 1 }}>
 
-          <SectionHead id="method" label="Methode" />
+          <SectionHead open={open.method} onToggle={() => toggle('method')} label="Methode" />
           {open.method && (
             <div style={{ padding: '4px 20px 12px' }}>
               {ALL_METHODS.map(method => {
@@ -84,7 +92,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
             </div>
           )}
 
-          <SectionHead id="rating" label="Bewertung" />
+          <SectionHead open={open.rating} onToggle={() => toggle('rating')} label="Bewertung" />
           {open.rating && (
             <div style={{ padding: '4px 20px 12px' }}>
               {[{ val: 0, label: 'Alle Bewertungen' }, { val: 3, label: '3+ Sterne ★★★' }, { val: 4, label: '4+ Sterne ★★★★' }, { val: 5, label: '5 Sterne ★★★★★' }].map(opt => (
@@ -97,7 +105,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
             </div>
           )}
 
-          <SectionHead id="extras" label="Extras" />
+          <SectionHead open={open.extras} onToggle={() => toggle('extras')} label="Extras" />
           {open.extras && (
             <div style={{ padding: '4px 20px 12px' }}>
               {[
@@ -118,7 +126,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
             </div>
           )}
 
-          <SectionHead id="distance" label="Entfernung" />
+          <SectionHead open={open.distance} onToggle={() => toggle('distance')} label="Entfernung" />
           {open.distance && (
             <div style={{ padding: '4px 20px 12px' }}>
               {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 50, label: 'bis 50 km' }, { val: 100, label: 'bis 100 km' }, { val: 999, label: 'Beliebig' }].map(opt => (

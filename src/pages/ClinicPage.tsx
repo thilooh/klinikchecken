@@ -74,7 +74,7 @@ export default function ClinicPage() {
       item_name: clinic.name,
       item_category: clinic.city,
     })
-  }, [clinic?.id])
+  }, [clinic])
 
   if (loading) {
     return (

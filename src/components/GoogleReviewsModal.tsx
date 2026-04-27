@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { X, Sparkles } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
+import { useModalDismiss } from '../lib/useModalDismiss'
 
 interface Props {
   clinic: Clinic
@@ -68,6 +69,7 @@ const GoogleLogo = () => (
 )
 
 export default function GoogleReviewsModal({ clinic, onClose }: Props) {
+  const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
   const [reviews, setReviews] = useState<Review[]>([])
   const [summary, setSummary] = useState<string[]>(DUMMY_SUMMARY)
   const [liveRating, setLiveRating] = useState<number | null>(null)
@@ -81,6 +83,7 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
 
   useEffect(() => {
     if (!clinic.placeId) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setError(true)
       return
     }
@@ -113,7 +116,7 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
       style={{ position: 'fixed', inset: 0, backgroundColor: 'rgba(0,0,0,0.6)', zIndex: 300, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}
       onClick={e => { if (e.target === e.currentTarget) onClose() }}
     >
-      <div style={{ backgroundColor: '#fff', borderRadius: '8px', width: '100%', maxWidth: '540px', maxHeight: '85vh', display: 'flex', flexDirection: 'column', boxShadow: '0 8px 32px rgba(0,0,0,0.2)' }}>
+      <div ref={dialogRef} role="dialog" aria-modal="true" aria-label="Google-Bewertungen" style={{ backgroundColor: '#fff', borderRadius: '8px', width: '100%', maxWidth: '540px', maxHeight: '85vh', display: 'flex', flexDirection: 'column', boxShadow: '0 8px 32px rgba(0,0,0,0.2)' }}>
 
         {/* Header */}
         <div style={{ padding: '20px 20px 16px', borderBottom: '1px solid #EEE', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexShrink: 0 }}>

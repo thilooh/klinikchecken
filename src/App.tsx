@@ -206,6 +206,7 @@ export default function App() {
     const cityParam = new URLSearchParams(window.location.search).get('city')
     if (cityParam) {
       const matched = matchCity(cityParam)
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       if (matched) { setFilters(f => ({ ...f, searchCity: matched })); setAutoCity(matched) }
       return
     }

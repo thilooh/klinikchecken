@@ -4,6 +4,7 @@ import type { Clinic } from '../types/clinic'
 import type { CTAVariant } from '../lib/ctaVariant'
 import { sendEvent } from '../lib/gtm'
 import { generateEventId, sendCapi } from '../lib/capi'
+import { useModalDismiss } from '../lib/useModalDismiss'
 
 interface Props {
   clinic: Clinic | null
@@ -24,6 +25,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(false)
   const [privacyOpen, setPrivacyOpen] = useState(false)
+  const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
 
   if (!clinic) return null
 
@@ -90,7 +92,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
       style={{ position: 'fixed', inset: 0, backgroundColor: 'rgba(0,0,0,0.6)', zIndex: 1000, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}
       onClick={e => { if (e.target === e.currentTarget) onClose() }}
     >
-      <div style={{ backgroundColor: '#fff', borderRadius: '4px', width: '100%', maxWidth: '480px', maxHeight: '90vh', overflowY: 'auto', position: 'relative' }}>
+      <div ref={dialogRef} role="dialog" aria-modal="true" aria-label="Anfrage an Praxis" style={{ backgroundColor: '#fff', borderRadius: '4px', width: '100%', maxWidth: '480px', maxHeight: '90vh', overflowY: 'auto', position: 'relative' }}>
 
         {/* Header */}
         <div style={{ backgroundColor: '#003399', padding: '14px 20px 0', borderRadius: '4px 4px 0 0' }}>

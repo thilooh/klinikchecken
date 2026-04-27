@@ -67,6 +67,11 @@ export function useSeo(opts: SeoOptions) {
       setMeta('meta[name="description"]', 'name', 'description', DEFAULT_DESC)
       if (scriptEl?.parentNode) scriptEl.parentNode.removeChild(scriptEl)
     }
+    // JSON.stringify on opts.jsonLd is intentional - we want a deep-equality
+    // check on the JSON-LD payload, not a referential one. Re-running the
+    // effect on every render where the parent recreates jsonLd would thrash
+    // the <script> tag in <head>.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [opts.title, opts.description, opts.canonical, opts.ogImage, opts.ogType, JSON.stringify(opts.jsonLd)])
 }
 
