@@ -18,7 +18,7 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
   a: {
     hero: {
       headline: 'Endlich wieder Bein zeigen. Mit der richtigen Praxis.',
-      subheadline: 'In 60 Sekunden zur passenden Praxis. Wer jetzt anfängt, hat den Termin pünktlich vor dem Sommer.',
+      subheadline: 'Geprüfte Phlebologen, Dermatologen und Venenzentren - sortiert nach Facharzt-Qualifikation und Patientenstimmen.',
     },
     card: {
       subline: c => c.headline,
