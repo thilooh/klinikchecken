@@ -63,7 +63,7 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
 
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '18px 20px', flexShrink: 0 }}>
           <span style={{ fontWeight: 800, fontSize: '18px', color: '#111' }}>Wähle deine Filter aus</span>
-          <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '4px', lineHeight: 0 }}>
+          <button onClick={onClose} aria-label="Filter schließen" style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '4px', lineHeight: 0 }}>
             <X size={22} color="#444" />
           </button>
         </div>

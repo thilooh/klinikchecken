@@ -13,9 +13,15 @@ import NotFoundPage from './pages/NotFoundPage.tsx'
 import RouteTracker from './components/RouteTracker'
 import TrackingShell from './components/TrackingShell'
 import { initSentry, Sentry } from './lib/sentry'
+import { whenIdle } from './lib/idleLoader'
 import './index.css'
 
-initSentry()
+// Sentry init costs ~30 KB of JS execution on first paint. Defer it until
+// the browser is idle so it doesn't compete with React hydration. Errors
+// thrown in the very first frames will still reach the global onerror /
+// unhandledrejection handlers Sentry installs after init - we just don't
+// catch the synchronous render-time crashes for ~1 frame, which is fine.
+whenIdle(() => initSentry(), 4000)
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>

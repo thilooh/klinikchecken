@@ -69,7 +69,7 @@ function Dots({ slides, slide, setSlide, small }: { slides: unknown[]; slide: nu
   return (
     <div style={{ display: 'flex', gap: small ? '3px' : '5px', alignItems: 'center', justifyContent: 'center' }}>
       {slides.map((_, i) => (
-        <button key={i} onClick={() => setSlide(i)} style={{
+        <button key={i} onClick={() => setSlide(i)} aria-label={`Bild ${i + 1} von ${slides.length}`} aria-current={i === slide} style={{
           width: small ? '5px' : (i === slide ? '16px' : '6px'), height: small ? '5px' : '6px',
           borderRadius: small ? '50%' : '3px',
           backgroundColor: i === slide ? (small ? '#003399' : '#fff') : (small ? 'rgba(0,0,0,0.18)' : 'rgba(255,255,255,0.5)'),
@@ -180,11 +180,11 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
                   <div key={i} style={{ width: `calc(100% / ${slides.length})`, height: '100%', flexShrink: 0 }}>
                     {s.type === 'logo'
                       ? <div style={{ width: '100%', height: '100%', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}>
-                          <img src={cdnImage(s.src, 320)} alt={`${clinic.name} Logo`} loading={imgLoading} decoding="async" fetchPriority={imgFetchPriority} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }}
+                          <img src={cdnImage(s.src, 320)} alt={`${clinic.name} Logo`} width={320} height={180} loading={imgLoading} decoding="async" fetchPriority={imgFetchPriority} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }}
                             onError={e => { (e.target as HTMLImageElement).style.display = 'none'; (e.target as HTMLImageElement).parentElement!.innerHTML = '<span style="font-size:32px">🏥</span>' }} />
                         </div>
                       : s.type === 'photo'
-                        ? <img src={cdnImage(s.src, 600, 'cover')} alt={`${clinic.name} Praxisfoto`} loading={imgLoading} decoding="async" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
+                        ? <img src={cdnImage(s.src, 600, 'cover')} alt={`${clinic.name} Praxisfoto`} width={600} height={338} loading={imgLoading} decoding="async" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
                             onError={e => { const el = e.target as HTMLImageElement; el.style.display = 'none'; el.parentElement!.style.background = 'linear-gradient(135deg,#E2EBF5,#C0D2E8)'; el.parentElement!.innerHTML = '<div style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px"><span style="font-size:38px">📍</span><span style="font-size:13px;color:#8A9EBB;font-weight:500">Foto folgt</span></div>' }} />
                         : <div style={{ width: '100%', height: '100%', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
                             <span style={{ fontSize: '38px' }}>{s.icon}</span>
@@ -196,17 +196,17 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
               </div>
             </div>
             <div style={{ position: 'absolute', top: '8px', right: '8px', zIndex: 2 }}>
-              <button onClick={() => setFavorited(f => !f)} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
+              <button onClick={() => setFavorited(f => !f)} aria-label={favorited ? 'Aus Favoriten entfernen' : 'Zu Favoriten hinzufügen'} aria-pressed={favorited} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
                 <Heart size={18} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
               </button>
             </div>
             {slide > 0 && (
-              <button onClick={() => setSlide(s => s - 1)} style={{ position: 'absolute', left: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+              <button onClick={() => setSlide(s => s - 1)} aria-label="Vorheriges Bild" style={{ position: 'absolute', left: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronLeft size={16} color="#333" />
               </button>
             )}
             {slide < slides.length - 1 && (
-              <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+              <button onClick={() => setSlide(s => s + 1)} aria-label="Nächstes Bild" style={{ position: 'absolute', right: '8px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronRight size={16} color="#333" />
               </button>
             )}
@@ -285,10 +285,10 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
                 <div key={i} style={{ minWidth: '220px', height: '220px', flexShrink: 0 }}>
                   {s.type === 'logo'
                     ? <div style={{ width: '220px', height: '220px', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '20px' }}>
-                        <img src={cdnImage(s.src, 240)} alt={`${clinic.name} Logo`} loading={imgLoading} decoding="async" fetchPriority={imgFetchPriority} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                        <img src={cdnImage(s.src, 240)} alt={`${clinic.name} Logo`} width={220} height={220} loading={imgLoading} decoding="async" fetchPriority={imgFetchPriority} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
                       </div>
                     : s.type === 'photo'
-                      ? <img src={cdnImage(s.src, 400, 'cover')} alt={`${clinic.name} Praxisfoto`} loading={imgLoading} decoding="async" style={{ width: '220px', height: '220px', objectFit: 'cover', display: 'block' }} />
+                      ? <img src={cdnImage(s.src, 400, 'cover')} alt={`${clinic.name} Praxisfoto`} width={220} height={220} loading={imgLoading} decoding="async" style={{ width: '220px', height: '220px', objectFit: 'cover', display: 'block' }} />
                       : <div style={{ width: '220px', height: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
                           <span style={{ fontSize: '40px' }}>{s.icon}</span>
                           <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
@@ -298,17 +298,17 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
               ))}
             </div>
             <div style={{ position: 'absolute', top: '8px', right: '8px', zIndex: 2 }}>
-              <button onClick={() => setFavorited(f => !f)} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
+              <button onClick={() => setFavorited(f => !f)} aria-label={favorited ? 'Aus Favoriten entfernen' : 'Zu Favoriten hinzufügen'} aria-pressed={favorited} style={{ background: 'rgba(255,255,255,0.88)', border: 'none', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer' }}>
                 <Heart size={16} fill={favorited ? '#e33' : 'none'} color={favorited ? '#e33' : '#777'} />
               </button>
             </div>
             {slide > 0 && (
-              <button onClick={() => setSlide(s => s - 1)} style={{ position: 'absolute', left: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+              <button onClick={() => setSlide(s => s - 1)} aria-label="Vorheriges Bild" style={{ position: 'absolute', left: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronLeft size={14} color="#333" />
               </button>
             )}
             {slide < slides.length - 1 && (
-              <button onClick={() => setSlide(s => s + 1)} style={{ position: 'absolute', right: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
+              <button onClick={() => setSlide(s => s + 1)} aria-label="Nächstes Bild" style={{ position: 'absolute', right: '6px', top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.85)', border: 'none', borderRadius: '50%', width: '28px', height: '28px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', zIndex: 2 }}>
                 <ChevronRight size={14} color="#333" />
               </button>
             )}

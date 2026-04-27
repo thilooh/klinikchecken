@@ -101,7 +101,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
               <div style={{ color: '#fff', fontWeight: 700, fontSize: '15px' }}>Anfrage senden – kostenlos & unverbindlich</div>
               {!submitted && <div style={{ color: 'rgba(255,255,255,0.7)', fontSize: '12px', marginTop: '2px' }}>Schritt {step} von 2</div>}
             </div>
-            <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#fff', padding: '2px' }}>
+            <button onClick={onClose} aria-label="Anfrage schließen" style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#fff', padding: '2px' }}>
               <X size={20} />
             </button>
           </div>

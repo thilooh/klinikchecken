@@ -124,7 +124,7 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
             <GoogleLogo />
             <div style={{ fontWeight: 700, fontSize: '15px', marginTop: '8px', color: '#111' }}>{clinic.name}</div>
           </div>
-          <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '4px', color: '#666' }}>
+          <button onClick={onClose} aria-label="Bewertungen schließen" style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '4px', color: '#666' }}>
             <X size={20} />
           </button>
         </div>

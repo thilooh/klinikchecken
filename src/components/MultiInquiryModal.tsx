@@ -98,7 +98,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
               <div style={{ color: '#fff', fontWeight: 700, fontSize: '15px' }}>Anfrage an {clinics.length} Praxen gleichzeitig</div>
               <div style={{ color: '#99BBFF', fontSize: '12px', marginTop: '2px' }}>Du füllst das Formular einmal aus - wir senden parallel an alle.</div>
             </div>
-            <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#fff', padding: '2px' }}>
+            <button onClick={onClose} aria-label="Anfrage schließen" style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#fff', padding: '2px' }}>
               <X size={20} />
             </button>
           </div>

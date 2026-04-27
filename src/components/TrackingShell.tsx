@@ -3,6 +3,7 @@ import CookieBanner from './CookieBanner'
 import { loadGTM, getConsent } from '../lib/consent'
 import { loadClarity, clarityEvent } from '../lib/clarity'
 import { getCTAVariant } from '../lib/ctaVariant'
+import { whenIdle } from '../lib/idleLoader'
 
 /**
  * App-wide consent + tracking initialisation. Renders on every route
@@ -19,16 +20,24 @@ export default function TrackingShell({ children }: { children: React.ReactNode 
   const [showBanner, setShowBanner] = useState<boolean>(() => getConsent() === null)
 
   useEffect(() => {
-    loadGTM()
+    // Push the variant to the dataLayer immediately - it's just an array
+    // shove and costs nothing. GTM will replay this when it loads.
     const variant = getCTAVariant()
-    if (getConsent() === 'accepted') {
-      loadClarity()
-      // Tag the session in Clarity so it shows up under Filters > Custom Tags.
-      // Calls before the script loads are queued via window.clarity.q.
-      clarityEvent('cta_variant', variant)
-    }
     window.dataLayer = window.dataLayer || []
     window.dataLayer.push({ event: 'cta_variant_assigned', cta_variant: variant })
+
+    // Defer the actual third-party script downloads and parsing past the
+    // LCP window. Each script (GTM ~70 KB, Clarity ~30 KB) blocks the main
+    // thread for hundreds of ms on slow mobile - loading them eagerly is the
+    // biggest contributor to TBT in Lighthouse. dataLayer.push calls and
+    // window.clarity.q queue calls work fine before the scripts load.
+    whenIdle(() => {
+      loadGTM()
+      if (getConsent() === 'accepted') {
+        loadClarity()
+        clarityEvent('cta_variant', variant)
+      }
+    }, 3000)
   }, [])
 
   return (

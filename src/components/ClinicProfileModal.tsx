@@ -76,7 +76,7 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
               <div style={{ fontWeight: 800, fontSize: '17px', color: '#111', lineHeight: 1.3 }}>{clinic.name}</div>
               <div style={{ fontSize: '13px', color: '#666', fontStyle: 'italic', marginTop: '3px', lineHeight: 1.4 }}>{clinic.headline}</div>
             </div>
-            <button onClick={onClose} style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '4px', color: '#666', flexShrink: 0 }}>
+            <button onClick={onClose} aria-label="Profil schließen" style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '4px', color: '#666', flexShrink: 0 }}>
               <X size={20} />
             </button>
           </div>

@@ -73,6 +73,10 @@ export default defineConfig({
     }),
   ],
   build: {
+    // Modern target - drops ~45 KB of legacy polyfills Lighthouse flags as
+    // "Veraltetes JavaScript". All evergreen browsers from late-2021 onward
+    // support these features natively. Mobile Safari 15+, Chrome 96+, FF 95+.
+    target: 'es2022',
     rollupOptions: {
       output: {
         manualChunks(id) {
