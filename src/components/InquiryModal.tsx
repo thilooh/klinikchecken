@@ -139,7 +139,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
               <div style={{ fontSize: '48px', marginBottom: '16px' }}>✅</div>
               <div style={{ fontWeight: 700, fontSize: '18px', color: '#333', marginBottom: '8px' }}>Anfrage gesendet!</div>
               <div style={{ color: '#666', fontSize: '13px', marginBottom: '4px' }}>Du bekommst gleich eine Bestätigung per E-Mail.</div>
-              <div style={{ color: '#666', fontSize: '13px', marginBottom: '20px' }}>Die Praxis meldet sich innerhalb von 24 Stunden.</div>
+              <div style={{ color: '#666', fontSize: '13px', marginBottom: '20px' }}>Die Praxis antwortet meist binnen 24 h.</div>
               <button onClick={onClose} style={{ backgroundColor: '#003399', color: '#fff', border: 'none', borderRadius: '4px', padding: '10px 24px', cursor: 'pointer', fontWeight: 700 }}>Schließen</button>
             </div>
           ) : step === 1 ? (
@@ -268,7 +268,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
 
               <div style={{ fontSize: '12px', color: '#555', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '6px' }}>
                 <CheckCircle2 size={13} color="#00A651" style={{ flexShrink: 0 }} />
-                <span>Antwort innerhalb von 24h. Die Anfrage ist für dich kostenlos.</span>
+                <span>Antwort meist binnen 24 h. Die Anfrage ist für dich kostenlos.</span>
               </div>
 
               <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', justifyContent: 'center' }}>

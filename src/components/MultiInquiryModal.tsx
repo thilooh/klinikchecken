@@ -247,7 +247,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
 
               <div style={{ fontSize: '12px', color: '#555', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '6px' }}>
                 <CheckCircle2 size={13} color="#00A651" style={{ flexShrink: 0 }} />
-                <span>Antwort innerhalb von 24h von jeder Praxis. Die Anfrage ist für dich kostenlos.</span>
+                <span>Antwort meist binnen 24 h von jeder Praxis. Die Anfrage ist für dich kostenlos.</span>
               </div>
 
               <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', justifyContent: 'center' }}>

@@ -17,8 +17,8 @@ export interface VariantConfig {
 export const VARIANTS: Record<VariantKey, VariantConfig> = {
   a: {
     hero: {
-      headline: 'Vertrauen statt Versuch und Irrtum. Geprüfte Spezialisten für Besenreiser.',
-      subheadline: 'In 60 Sekunden zur passenden Praxis - kostenlos, unverbindlich, ohne Anmeldung.',
+      headline: 'Endlich wieder Bein zeigen. Mit der richtigen Praxis.',
+      subheadline: 'In 60 Sekunden zur passenden Praxis. Wer jetzt anfängt, hat den Termin pünktlich vor dem Sommer.',
     },
     card: {
       subline: c => c.headline,

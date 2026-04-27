@@ -228,11 +228,20 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
   return (
     <div style={{ background: 'linear-gradient(175deg, #002B5C 0%, #003F8A 100%)', padding: '22px 0 24px', borderBottom: '3px solid #0052CC' }}>
       <div className="max-w-[1200px] mx-auto px-4">
-        <h1 style={{ color: '#fff', fontSize: '24px', fontWeight: 800, textAlign: 'center', marginBottom: '6px', letterSpacing: '-0.03em', lineHeight: 1.25 }}>
+        <p style={{ color: 'rgba(255,255,255,0.72)', fontSize: '12px', textAlign: 'center', marginBottom: '6px', letterSpacing: '0.01em', lineHeight: 1.4 }}>
+          Die Plattform für Frauen, die ihre Beine ernst nehmen.
+        </p>
+        <h1 style={{ color: '#fff', fontSize: '24px', fontWeight: 800, textAlign: 'center', marginBottom: '8px', letterSpacing: '-0.03em', lineHeight: 1.25 }}>
           {hero.headline}
         </h1>
-        <p style={{ color: '#7AAAE0', fontSize: '15px', textAlign: 'center', marginBottom: '18px', lineHeight: 1.5 }}>
+        <p style={{ color: 'rgba(255,255,255,0.92)', fontSize: '15px', textAlign: 'center', marginBottom: '10px', lineHeight: 1.5 }}>
+          Schluss mit Camouflage, langen Hosen im Hochsommer, dem Handtuch ums Bein im Schwimmbad.
+        </p>
+        <p style={{ color: '#7AAAE0', fontSize: '15px', textAlign: 'center', marginBottom: '8px', lineHeight: 1.5 }}>
           {hero.subheadline}
+        </p>
+        <p style={{ color: 'rgba(122, 170, 224, 0.85)', fontSize: '12px', textAlign: 'center', marginBottom: '18px', lineHeight: 1.5 }}>
+          Geprüfte Phlebologen, Dermatologen und Venenzentren in deiner Stadt.
         </p>
 
         <div style={{ position: 'relative' }}>
