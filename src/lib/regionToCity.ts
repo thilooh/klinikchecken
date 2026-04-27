@@ -31,5 +31,5 @@ export function cityForRegion(subdivisionCode: string | undefined | null): strin
   return REGION_TO_CITY[subdivisionCode.toUpperCase()] ?? null
 }
 
-/** All cities listed in the region map — used by CityPicker quick-pick row. */
+/** All cities listed in the region map - used by CityPicker quick-pick row. */
 export const REGION_FALLBACK_CITIES = Array.from(new Set(Object.values(REGION_TO_CITY)))

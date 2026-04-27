@@ -1,11 +1,11 @@
-# Ratgeber — Entwickler-Dokumentation
+# Ratgeber - Entwickler-Dokumentation
 
 ## Übersicht
 
 Der Ratgeber-Bereich besteht aus:
 - `/ratgeber` → `src/pages/RatgeberPage.tsx` (Übersichtsseite mit Artikel-Grid)
 - `/ratgeber/praxis-waehlen` → `src/pages/ratgeber/PraxisWaehlenPage.tsx` (erster Artikel)
-- `src/pages/ratgeber/ArticleLayout.tsx` — wiederverwendbare Layout-Komponente
+- `src/pages/ratgeber/ArticleLayout.tsx` - wiederverwendbare Layout-Komponente
 
 Routes sind in `src/main.tsx` registriert.
 
@@ -42,7 +42,7 @@ export default function MeinArtikelPage() {
       ctaHref="/?utm_source=fb&utm_medium=ratgeber&utm_campaign=mein-artikel"
       onCtaClick={() => sendEvent('RatgeberCtaClick', { content_name: 'mein-artikel' })}
     >
-      {/* Artikel-Body als JSX — CSS-Klassen: art-p, art-h2, art-h3, art-pullquote, art-patient-quote */}
+      {/* Artikel-Body als JSX - CSS-Klassen: art-p, art-h2, art-h3, art-pullquote, art-patient-quote */}
       <p className="art-p">Erster Absatz...</p>
       <h2 className="art-h2">Abschnitt-Titel</h2>
       <p className="art-p">Weiterer Text...</p>
@@ -84,7 +84,7 @@ In `src/pages/RatgeberPage.tsx`, im `ARTICLES`-Array:
 | `meta.pageDescription` | string | Meta-Description, max. 155 Zeichen |
 | `meta.canonicalPath` | string | Pfad ohne Domain, z.B. `/ratgeber/praxis-waehlen` |
 | `meta.schemaData` | object | schema.org/Article JSON-LD |
-| `breadcrumb` | Array | `[{label, href?}, ...]` — letztes Element ohne href |
+| `breadcrumb` | Array | `[{label, href?}, ...]` - letztes Element ohne href |
 | `category` | string | Kategorie-Label (z.B. `"Ratgeber"`) |
 | `date` | string | Anzeige-Datum, z.B. `"8. März 2026"` |
 | `readTime` | string | z.B. `"6 Min Lesezeit"` |
@@ -109,7 +109,7 @@ Alle Events laufen über `sendEvent()` in `src/lib/gtm.ts` → GTM-DataLayer →
 | `ScrollDepth50` | 50% Seite gescrollt | `content_name` |
 | `ScrollDepth100` | 100% Seite gescrollt | `content_name` |
 
-Consent: GTM übernimmt Consent-Gating. `sendEvent` schreibt nur in `window.dataLayer` — Events werden erst aktiv, wenn GTM durch das Cookie-Consent-Flow geladen wurde (siehe `src/lib/consent.ts`).
+Consent: GTM übernimmt Consent-Gating. `sendEvent` schreibt nur in `window.dataLayer` - Events werden erst aktiv, wenn GTM durch das Cookie-Consent-Flow geladen wurde (siehe `src/lib/consent.ts`).
 
 TODO: Conversions API (CAPI) für serverseitiges Event-Mirroring noch nicht implementiert. Events sollten parallel über CAPI gesendet werden, sobald ein Webhook/Edge-Function-Setup vorhanden ist.
 

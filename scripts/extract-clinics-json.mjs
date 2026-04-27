@@ -34,7 +34,7 @@ const arrayLiteral = text.slice(arrayStart, i + 1)
 
 // The array literal uses TS-style trailing commas + JS object syntax (not
 // JSON-strict). Evaluate it with a sandboxed Function that returns the
-// data — no imports, no globals beyond what we pass in.
+// data - no imports, no globals beyond what we pass in.
 const clinics = new Function(`return ${arrayLiteral}`)()
 
 if (!Array.isArray(clinics) || clinics.length === 0) {

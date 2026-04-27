@@ -69,7 +69,7 @@ Praxis: ${clinicName}
 Bewertungen:
 ${reviewTexts}
 
-Erstelle genau 3 kurze Bullet Points auf Deutsch (je max. 12 Wörter), die zusammenfassen was Patienten häufig erwähnen — positiv wie negativ. Schreib nur ein JSON-Array mit 3 Strings, sonst nichts.
+Erstelle genau 3 kurze Bullet Points auf Deutsch (je max. 12 Wörter), die zusammenfassen was Patienten häufig erwähnen - positiv wie negativ. Schreib nur ein JSON-Array mit 3 Strings, sonst nichts.
 
 Beispiel-Format: ["Punkt eins", "Punkt zwei", "Punkt drei"]`,
       }],

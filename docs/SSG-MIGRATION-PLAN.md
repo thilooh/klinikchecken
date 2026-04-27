@@ -8,10 +8,10 @@
 
 ## Warum SSG (statt der aktuellen SPA)
 
-Die App rendert aktuell **clientseitig** — jede Route schickt `index.html` + JS, dann hydratet React.
+Die App rendert aktuell **clientseitig** - jede Route schickt `index.html` + JS, dann hydratet React.
 
 Probleme:
-- **Google sieht erst Inhalt nach JS-Execution** — funktioniert, aber langsamer + weniger Trust für YMYL-Inhalte (Health!)
+- **Google sieht erst Inhalt nach JS-Execution** - funktioniert, aber langsamer + weniger Trust für YMYL-Inhalte (Health!)
 - **Social-Media-Crawler** (Facebook, Twitter, LinkedIn) führen kein JS aus → unsere `useSeo()`-Meta-Tags werden NICHT für `/praxis/:slug`, `/besenreiser/:city`, `/methode/:method` gelesen. Der gepostete Link sieht generisch aus.
 - **Slack/WhatsApp-Previews**: gleiche Story
 - **First Paint**: Browser muss erst JS parsen + ausführen, bevor irgendwas Sinnvolles erscheint
@@ -54,7 +54,7 @@ Mit SSG:
 - Best-in-class SEO + Performance
 - Aber: bricht den aktuellen Workflow stärker
 
-**Empfehlung: vite-react-ssg** — minimal-invasiv.
+**Empfehlung: vite-react-ssg** - minimal-invasiv.
 
 ## Migration-Schritte
 
@@ -90,7 +90,7 @@ export const routes: RouteRecord[] = [
 - **b)** Komponente liest Daten via `import.meta.glob` zur Build-Zeit
 - **c)** Pre-rendering mit `vite-react-ssg` ruft `useClinics()` mit pre-loaded data auf
 
-Empfehlung: variant of (a) — eine `loader()` Funktion pro Route die die benötigten Klinikdaten zur Build-Zeit lädt.
+Empfehlung: variant of (a) - eine `loader()` Funktion pro Route die die benötigten Klinikdaten zur Build-Zeit lädt.
 
 ### 3. Hydration-Schutz (Tag 2)
 
@@ -138,7 +138,7 @@ if (!isClient) return <SkeletonHero />
 |---|---|---|
 | Hydration-Mismatch (UI flickert) | mittel | Komponenten-Audit Schritt 3, useEffect-Guards |
 | Build-Time explodiert | niedrig | Klinikdaten als JSON cachen, nicht 227× re-parsen |
-| useClinics() bricht im SSR | hoch | Loader-Pattern (Schritt 2) — sauber lösbar |
+| useClinics() bricht im SSR | hoch | Loader-Pattern (Schritt 2) - sauber lösbar |
 | react-router 7 + vite-react-ssg Bug | mittel | Monkey-test mit minimal-Setup vor Migration |
 | Sentry SDK SSR-Probleme | niedrig | Sentry hat SSR-support, nur env-Check anpassen |
 
@@ -154,7 +154,7 @@ if (!isClient) return <SkeletonHero />
 
 ## Wann angreifen
 
-**Nicht jetzt** — die App ist gerade frisch live mit vielen neuen Features. Stabilisieren, Bugs beobachten, Conversion-Daten sammeln.
+**Nicht jetzt** - die App ist gerade frisch live mit vielen neuen Features. Stabilisieren, Bugs beobachten, Conversion-Daten sammeln.
 
 **Trigger für SSG-Sprint:**
 - Google Search Console zeigt: viele Detail-Pages nicht indexiert ODER langsam indexiert
@@ -165,4 +165,4 @@ if (!isClient) return <SkeletonHero />
 
 - Engineering: 2–4 Tage Senior-Frontend
 - Risiko-Buffer: +1–2 Tage Bugfixing
-- Wartungsaufwand danach: minimal — Pipeline läuft von selbst
+- Wartungsaufwand danach: minimal - Pipeline läuft von selbst

@@ -1,4 +1,4 @@
-// Lazy-loaded clinic data — fetched once, then cached at module scope so
+// Lazy-loaded clinic data - fetched once, then cached at module scope so
 // all components see the same array without re-fetching on every render.
 //
 // Trade-off vs. import { clinics } from '../data/clinics':
@@ -47,5 +47,5 @@ export function useClinics(): { clinics: Clinic[]; loading: boolean; error: Erro
   return state
 }
 
-/** Eagerly trigger the fetch — use during route transitions to warm the cache. */
+/** Eagerly trigger the fetch - use during route transitions to warm the cache. */
 export function preloadClinics(): void { load().catch(() => { /* noop */ }) }

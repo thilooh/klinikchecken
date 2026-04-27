@@ -55,7 +55,7 @@ export default function CityPage() {
   })
 
   // Fire a Search-equivalent event when a city landing page loads from
-  // organic search — gives Meta + GA4 a 'category-level intent' signal
+  // organic search - gives Meta + GA4 a 'category-level intent' signal
   // without waiting for the user to interact further.
   useEffect(() => {
     if (!city) return

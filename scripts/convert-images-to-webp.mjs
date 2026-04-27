@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Convert every PNG/JPG/JPEG under public/images/ to WebP at quality 82.
 // The ORIGINAL file stays in place (acts as fallback for browsers that
-// don't support WebP — practically zero in 2026, but no reason to delete
+// don't support WebP - practically zero in 2026, but no reason to delete
 // a 30 KB PNG that the build cache keeps around).
 //
 // After running, src/data/clinics.ts is patched so every `logo: '/images/...png'`

@@ -42,7 +42,7 @@ if (!GOOGLE_KEY) {
 }
 const skipSummaries = !ANTHROPIC_KEY
 if (skipSummaries && !resolveOnly) {
-  console.warn('WARNING: ANTHROPIC_API_KEY missing — review JSONs will be fetched without AI summaries.')
+  console.warn('WARNING: ANTHROPIC_API_KEY missing - review JSONs will be fetched without AI summaries.')
 }
 
 // ─── Parse clinics.ts ────────────────────────────────────────────────────────
@@ -156,7 +156,7 @@ async function generateSummary(reviews, clinicName) {
       max_tokens: 400,
       messages: [{
         role: 'user',
-        content: `Du analysierst Google-Bewertungen einer Arztpraxis fuer eine Vergleichsplattform.\n\nPraxis: ${clinicName}\n\nBewertungen:\n${reviewTexts}\n\nErstelle genau 3 kurze Bullet Points auf Deutsch (je max. 12 Woerter), die zusammenfassen was Patienten haeufig erwaehnen — positiv wie negativ. Schreib nur ein JSON-Array mit 3 Strings, sonst nichts.\n\nBeispiel-Format: ["Punkt eins", "Punkt zwei", "Punkt drei"]`,
+        content: `Du analysierst Google-Bewertungen einer Arztpraxis fuer eine Vergleichsplattform.\n\nPraxis: ${clinicName}\n\nBewertungen:\n${reviewTexts}\n\nErstelle genau 3 kurze Bullet Points auf Deutsch (je max. 12 Woerter), die zusammenfassen was Patienten haeufig erwaehnen - positiv wie negativ. Schreib nur ein JSON-Array mit 3 Strings, sonst nichts.\n\nBeispiel-Format: ["Punkt eins", "Punkt zwei", "Punkt drei"]`,
       }],
     }),
   })

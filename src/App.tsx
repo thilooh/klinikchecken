@@ -195,10 +195,10 @@ export default function App() {
   // run for every route, not only /. See src/components/TrackingShell.tsx.
 
   // Cascade for picking a default city. Stops at the first hit.
-  // 1. ?city= URL param        — Meta-Ads / Direct-Link
-  // 2. localStorage memory     — returning visitor
-  // 3. /api/geo postalCode     — most accurate IP-Geo (rarely available)
-  // 4. /api/geo city           — exact city match
+  // 1. ?city= URL param        - Meta-Ads / Direct-Link
+  // 2. localStorage memory     - returning visitor
+  // 3. /api/geo postalCode     - most accurate IP-Geo (rarely available)
+  // 4. /api/geo city           - exact city match
   // 5. /api/geo subdivisionCode→ Bundesland's largest listed city
   // 6. nothing → CityPicker rendered as empty-state (no Köln-default)
   useEffect(() => {
@@ -211,7 +211,7 @@ export default function App() {
     const remembered = recallCity()
     if (remembered) {
       setFilters(f => ({ ...f, searchCity: remembered }))
-      // Don't show the autoCity banner for remembered choices — it's
+      // Don't show the autoCity banner for remembered choices - it's
       // the user's own previous pick, no need to suggest changing it.
       return
     }

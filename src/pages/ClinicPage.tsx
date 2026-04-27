@@ -62,7 +62,7 @@ export default function ClinicPage() {
   const [showReviews, setShowReviews] = useState(false)
 
   // Direct landing on /praxis/:slug should fire ViewContent for SEO
-  // attribution — same event the home-page card opens fire from
+  // attribution - same event the home-page card opens fire from
   // ClinicCard.openProfile(). Skip if clinic isn't found yet.
   useEffect(() => {
     if (!clinic) return
