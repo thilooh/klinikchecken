@@ -101,7 +101,10 @@ export default function Sidebar({ filters, setFilters }: Props) {
                 <div style={{ fontSize: '11px', color: '#555', lineHeight: '1.4' }}>{m.desc}</div>
               </div>
             ))}
-            <div style={{ fontSize: '10px', color: '#999', marginTop: '4px', borderTop: '1px solid #DDE3F5', paddingTop: '6px' }}>Die beste Methode wird beim Erstberatungsgespräch individuell bestimmt.</div>
+            <a href="/methoden-quiz" style={{ display: 'block', textAlign: 'center', marginTop: '8px', backgroundColor: '#003399', color: '#fff', padding: '8px 10px', borderRadius: '4px', fontSize: '12px', fontWeight: 700, textDecoration: 'none' }}>
+              30-Sekunden-Quiz starten →
+            </a>
+            <div style={{ fontSize: '10px', color: '#999', marginTop: '6px', borderTop: '1px solid #DDE3F5', paddingTop: '6px' }}>Die beste Methode wird beim Erstberatungsgespräch individuell bestimmt.</div>
           </div>
         )}
       </div>

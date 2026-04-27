@@ -280,6 +280,21 @@ export default function App() {
                 setFilters={handleSetFilters}
                 onOpenFilter={openFilter}
               />
+              {/* Discovery CTA for the methode quiz — sits above the result list
+                  so unsure users find it without scrolling to the sidebar. */}
+              <a href="/methoden-quiz" style={{
+                display: 'flex', alignItems: 'center', gap: '12px',
+                background: 'linear-gradient(90deg, #EEF4FF 0%, #F7F9FF 100%)',
+                border: '1px solid #DDE3F5', borderRadius: '6px', padding: '10px 14px',
+                marginBottom: '12px', textDecoration: 'none', color: '#003399',
+              }}>
+                <span style={{ fontSize: '20px', flexShrink: 0 }}>🎯</span>
+                <div style={{ flex: 1, minWidth: 0 }}>
+                  <div style={{ fontSize: '13px', fontWeight: 700, color: '#0A1F44' }}>Unsicher welche Methode?</div>
+                  <div style={{ fontSize: '12px', color: '#555' }}>3-Fragen-Check zeigt dir Verödung, Laser oder IPL.</div>
+                </div>
+                <span style={{ fontSize: '13px', fontWeight: 700, color: '#003399', whiteSpace: 'nowrap' }}>Quiz starten →</span>
+              </a>
               <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} selectedIds={selectedIds} onToggleSelect={toggleSelection} ctaColor={ctaColor} />
             </div>
           </div>

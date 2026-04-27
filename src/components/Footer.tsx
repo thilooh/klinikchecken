@@ -1,3 +1,13 @@
+import { clinics } from '../data/clinics'
+import { citySlug } from '../lib/slug'
+
+const ALL_CITIES = Array.from(new Set(clinics.map(c => c.city))).sort()
+const TOP_CITIES = [
+  'Berlin', 'Hamburg', 'München', 'Köln', 'Frankfurt',
+  'Düsseldorf', 'Stuttgart', 'Dortmund', 'Essen', 'Leipzig',
+  'Bremen', 'Hannover', 'Nürnberg', 'Mannheim',
+].filter(c => ALL_CITIES.includes(c))
+
 export default function Footer() {
   const cols = [
     {
@@ -6,15 +16,27 @@ export default function Footer() {
       links: [
         { label: 'Über uns', href: '/ueber-uns' },
         { label: 'Ratgeber', href: '/ratgeber' },
-        { label: 'Kontakt', href: '#' },
+        { label: 'Methode-Check', href: '/methoden-quiz' },
       ],
+    },
+    {
+      title: 'Methoden',
+      links: [
+        { label: 'Verödung (Sklerotherapie)', href: '/methode/verodung' },
+        { label: 'Laser (Nd:YAG / KTP)',      href: '/methode/laser' },
+        { label: 'IPL-Behandlung',            href: '/methode/ipl' },
+      ],
+    },
+    {
+      title: 'Top-Städte',
+      links: TOP_CITIES.map(c => ({ label: c, href: `/besenreiser/${citySlug(c)}` })),
     },
     {
       title: 'Rechtliches',
       links: [
         { label: 'Datenschutz', href: '/datenschutz' },
-        { label: 'Impressum', href: '/impressum' },
-        { label: 'AGB', href: '/agb' },
+        { label: 'Impressum',   href: '/impressum' },
+        { label: 'AGB',         href: '/agb' },
       ],
     },
   ]
@@ -47,6 +69,18 @@ export default function Footer() {
           ))}
         </div>
 
+        {/* All cities — discoverable + crawlable */}
+        <details style={{ borderTop: '1px solid rgba(255,255,255,0.15)', padding: '14px 0' }}>
+          <summary style={{ cursor: 'pointer', fontSize: '12px', color: '#99BBFF', listStyle: 'none' }}>
+            Alle {ALL_CITIES.length} Städte ▾
+          </summary>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px 14px', marginTop: '12px' }}>
+            {ALL_CITIES.map(c => (
+              <a key={c} href={`/besenreiser/${citySlug(c)}`} style={{ color: '#99BBFF', fontSize: '12px', textDecoration: 'none' }}>{c}</a>
+            ))}
+          </div>
+        </details>
+
         <div style={{ borderTop: '1px solid rgba(255,255,255,0.15)', padding: '16px 0', display: 'flex', flexWrap: 'wrap', gap: '16px', alignItems: 'center', justifyContent: 'center' }}>
           {['🔒 SSL-gesichert', '✓ 100% kostenloser Service', '✓ Handverlesene Praxen'].map(badge => (
             <span key={badge} style={{ fontSize: '12px', color: '#99BBFF' }}>{badge}</span>
@@ -55,7 +89,7 @@ export default function Footer() {
 
         <div style={{ borderTop: '1px solid rgba(255,255,255,0.15)', padding: '14px 0', textAlign: 'center' }}>
           <span style={{ fontSize: '11px', color: '#7799DD' }}>
-            © 2025 Besenreiser-Check.de · Kein medizinischer Rat · Made in Germany 🇩🇪
+            © 2026 Besenreiser-Check.de · Kein medizinischer Rat · Made in Germany 🇩🇪
           </span>
         </div>
       </div>
