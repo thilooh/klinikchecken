@@ -20,9 +20,15 @@ export default function TrackingShell({ children }: { children: React.ReactNode 
 
   useEffect(() => {
     loadGTM()
-    if (getConsent() === 'accepted') loadClarity()
+    const variant = getCTAVariant()
+    if (getConsent() === 'accepted') {
+      loadClarity()
+      // Tag the session in Clarity so it shows up under Filters > Custom Tags.
+      // Calls before the script loads are queued via window.clarity.q.
+      clarityEvent('cta_variant', variant)
+    }
     window.dataLayer = window.dataLayer || []
-    window.dataLayer.push({ event: 'cta_variant_assigned', cta_variant: getCTAVariant() })
+    window.dataLayer.push({ event: 'cta_variant_assigned', cta_variant: variant })
   }, [])
 
   return (
