@@ -1,7 +1,7 @@
-import { clinics } from '../data/clinics'
+import { ALL_CITIES as ALL_CITIES_RAW } from '../data/clinics-meta'
 import { citySlug } from '../lib/slug'
 
-const ALL_CITIES = Array.from(new Set(clinics.map(c => c.city))).sort()
+const ALL_CITIES = [...ALL_CITIES_RAW].sort()
 const TOP_CITIES = [
   'Berlin', 'Hamburg', 'München', 'Köln', 'Frankfurt',
   'Düsseldorf', 'Stuttgart', 'Dortmund', 'Essen', 'Leipzig',

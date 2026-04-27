@@ -5,7 +5,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import InquiryModal from '../components/InquiryModal'
 import GoogleReviewsModal from '../components/GoogleReviewsModal'
-import { clinics } from '../data/clinics'
+import { useClinics } from '../hooks/useClinics'
 import { clinicIdFromSlug, citySlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
 import { sendEvent } from '../lib/gtm'
@@ -15,6 +15,7 @@ import type { Clinic } from '../types/clinic'
 export default function ClinicPage() {
   const { slug = '' } = useParams<{ slug: string }>()
   const navigate = useNavigate()
+  const { clinics, loading } = useClinics()
   const id = clinicIdFromSlug(slug)
   const clinic = id != null ? clinics.find(c => c.id === id) : undefined
 
@@ -59,6 +60,16 @@ export default function ClinicPage() {
 
   const [showInquiry, setShowInquiry] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
+
+  if (loading) {
+    return (
+      <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+        <Navbar />
+        <main style={{ flex: 1, padding: '60px 20px', textAlign: 'center', color: '#888' }}>Lade Praxis…</main>
+        <Footer />
+      </div>
+    )
+  }
 
   if (!clinic) {
     return (

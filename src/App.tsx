@@ -12,7 +12,7 @@ import CookieBanner from './components/CookieBanner'
 import StickyBar from './components/StickyBar'
 import MultiInquiryModal from './components/MultiInquiryModal'
 import { useFilteredClinics } from './hooks/useFilteredClinics'
-import { clinics } from './data/clinics'
+import { useClinics } from './hooks/useClinics'
 import type { Clinic, FilterState } from './types/clinic'
 import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
@@ -161,6 +161,7 @@ const defaultFilters: FilterState = {
 const interFont = "'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
 
 export default function App() {
+  const { clinics, loading: clinicsLoading } = useClinics()
   const [filters, setFilters] = useState<FilterState>(defaultFilters)
   const [selectedClinic, setSelectedClinic] = useState<Clinic | null>(null)
   const handleInquire = (clinic: Clinic) => {
@@ -295,7 +296,15 @@ export default function App() {
                 </div>
                 <span style={{ fontSize: '13px', fontWeight: 700, color: '#003399', whiteSpace: 'nowrap' }}>Quiz starten →</span>
               </a>
-              <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} selectedIds={selectedIds} onToggleSelect={toggleSelection} ctaColor={ctaColor} />
+              {clinicsLoading ? (
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+                  {[0, 1, 2].map(i => (
+                    <div key={i} className="skeleton" style={{ height: '180px', borderRadius: '6px' }} />
+                  ))}
+                </div>
+              ) : (
+                <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} selectedIds={selectedIds} onToggleSelect={toggleSelection} ctaColor={ctaColor} />
+              )}
             </div>
           </div>
         </div>

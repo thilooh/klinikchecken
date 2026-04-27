@@ -3,13 +3,15 @@ import { useParams, Link } from 'react-router-dom'
 import { ChevronRight, MapPin, Star } from 'lucide-react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import { clinics } from '../data/clinics'
+import { useClinics } from '../hooks/useClinics'
+import { ALL_CITIES as ALL_CITIES_RAW } from '../data/clinics-meta'
 import { clinicSlug, citySlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
 
-const ALL_CITIES = Array.from(new Set(clinics.map(c => c.city))).sort()
+const ALL_CITIES = [...ALL_CITIES_RAW].sort()
 
 export default function CityPage() {
+  const { clinics, loading } = useClinics()
   const { city: citySlugParam = '' } = useParams<{ city: string }>()
 
   const city = useMemo(
@@ -25,7 +27,7 @@ export default function CityPage() {
         const sB = b.googleRating && b.googleReviewCount ? b.googleRating * Math.log(b.googleReviewCount) : 0
         return sB - sA
       }) : [],
-    [city],
+    [city, clinics],
   )
 
   useSeo({
@@ -50,6 +52,16 @@ export default function CityPage() {
       })),
     } : undefined,
   })
+
+  if (loading) {
+    return (
+      <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+        <Navbar />
+        <main style={{ flex: 1, padding: '60px 20px', textAlign: 'center', color: '#888' }}>Lade Praxen…</main>
+        <Footer />
+      </div>
+    )
+  }
 
   if (!city) {
     return (

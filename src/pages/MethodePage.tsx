@@ -3,7 +3,7 @@ import { useParams, Link } from 'react-router-dom'
 import { ChevronRight, Star, Check, X } from 'lucide-react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import { clinics } from '../data/clinics'
+import { useClinics } from '../hooks/useClinics'
 import { clinicSlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
 
@@ -88,6 +88,7 @@ const METHODS: MethodInfo[] = [
 ]
 
 export default function MethodePage() {
+  const { clinics } = useClinics()
   const { method: methodSlug = '' } = useParams<{ method: string }>()
   const method = METHODS.find(m => m.slug === methodSlug.toLowerCase())
 
@@ -96,7 +97,7 @@ export default function MethodePage() {
     return clinics.filter(c =>
       c.methods.some(cm => method.matchKeywords.some(kw => cm.toLowerCase().includes(kw))),
     ).slice(0, 12)
-  }, [method])
+  }, [method, clinics])
 
   useSeo({
     title: method

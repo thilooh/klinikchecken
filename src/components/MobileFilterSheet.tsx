@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { X, ChevronDown, ChevronUp } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
-import { ALL_METHODS } from '../data/clinics'
+import { ALL_METHODS } from '../data/clinics-meta'
 
 interface Props {
   filters: FilterState
