@@ -11,3 +11,31 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+# Hashed Vite asset bundles - safe to cache forever, content hash invalidates
+# on every change. Default Netlify caching is shorter; this matches what
+# Lighthouse expects ("efficient cache lifetime" audit).
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Static images and fonts in /public - long cache, no hash so use 30 days
+# instead of "forever". A new deploy with the same filename will invalidate
+# via Netlify's atomic deploys.
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+[[headers]]
+  for = "/ratgeber/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+# Cached Google Reviews JSON - regenerated every 3 days by GitHub Action,
+# so 1-day cache balances freshness with Lighthouse complaint.
+[[headers]]
+  for = "/reviews/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

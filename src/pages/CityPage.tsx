@@ -124,7 +124,7 @@ export default function CityPage() {
                   <div style={{ width: '40px', height: '40px', flexShrink: 0, borderRadius: '50%', backgroundColor: '#003399', color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 700 }}>{idx + 1}</div>
                   {c.media?.logo && (
                     <div style={{ width: '60px', height: '60px', flexShrink: 0, borderRadius: '6px', overflow: 'hidden', backgroundColor: '#F8F9FC', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                      <img src={c.media.logo} alt="" loading="lazy" decoding="async" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                      <img src={c.media.logo} alt="" width={60} height={60} loading="lazy" decoding="async" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
                     </div>
                   )}
                   <div style={{ flex: 1, minWidth: 0 }}>

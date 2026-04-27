@@ -138,7 +138,7 @@ export default function ClinicPage() {
             <div style={{ display: 'flex', gap: '20px', alignItems: 'flex-start', flexWrap: 'wrap' }}>
               {clinic.media?.logo && (
                 <div style={{ width: '120px', height: '120px', flexShrink: 0, borderRadius: '8px', overflow: 'hidden', backgroundColor: '#F8F9FC', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                  <img src={clinic.media.logo} alt={`${clinic.name} Logo`} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                  <img src={clinic.media.logo} alt={`${clinic.name} Logo`} width={120} height={120} loading="eager" decoding="async" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
                 </div>
               )}
               <div style={{ flex: 1, minWidth: '260px' }}>

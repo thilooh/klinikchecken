@@ -12,7 +12,7 @@ import MethodenQuiz from './pages/MethodenQuiz.tsx'
 import NotFoundPage from './pages/NotFoundPage.tsx'
 import RouteTracker from './components/RouteTracker'
 import TrackingShell from './components/TrackingShell'
-import { initSentry, Sentry } from './lib/sentry'
+import { initSentry, SentryErrorBoundary } from './lib/sentry'
 import { whenIdle } from './lib/idleLoader'
 import './index.css'
 
@@ -25,7 +25,7 @@ whenIdle(() => initSentry(), 4000)
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <Sentry.ErrorBoundary fallback={<div style={{ padding: '40px 20px', textAlign: 'center' }}>
+    <SentryErrorBoundary fallback={<div style={{ padding: '40px 20px', textAlign: 'center' }}>
       <h1 style={{ color: '#003399' }}>Etwas ist schiefgelaufen.</h1>
       <p style={{ color: '#555' }}>Bitte lade die Seite neu. Wir wurden bereits informiert.</p>
       <a href="/" style={{ color: '#0052CC' }}>Zur Startseite</a>
@@ -46,6 +46,6 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
           </Routes>
         </TrackingShell>
       </BrowserRouter>
-    </Sentry.ErrorBoundary>
+    </SentryErrorBoundary>
   </React.StrictMode>,
 )
