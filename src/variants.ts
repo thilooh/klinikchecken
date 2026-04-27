@@ -17,7 +17,7 @@ export interface VariantConfig {
 export const VARIANTS: Record<VariantKey, VariantConfig> = {
   a: {
     hero: {
-      headline: 'Die richtige Praxis für deine Besenreiser. Ohne Pfusch.',
+      headline: 'Vertrauen statt Versuch und Irrtum. Geprüfte Spezialisten für Besenreiser.',
       subheadline: 'Wir haben 500+ Phlebologen, Dermatologen und Venenzentren geprüft. 229 sind in unsere Plattform aufgenommen worden.',
     },
     card: {
@@ -42,7 +42,7 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
   },
   c: {
     hero: {
-      headline: 'Kein Pfusch. Kein Versteckspiel. Nur geprüfte Besenreiser-Praxen.',
+      headline: 'Geprüfte Besenreiser-Praxen. Transparent. Fachärztlich qualifiziert.',
       subheadline: 'Transparente Bewertungen, echte Facharzt-Qualifikation, klare Preise.',
     },
     card: {
