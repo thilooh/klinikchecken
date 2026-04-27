@@ -301,7 +301,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
 
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '20px', marginTop: '18px', flexWrap: 'wrap', rowGap: '8px' }}>
           {[
-            '227 fachärztlich geleitete Praxen',
+            '227 Praxen mit fachärztlicher Leitung',
             'Antwort meist binnen 24 h',
             'Kostenlos & unverbindlich',
             'Daten nur an gewählte Praxis',
