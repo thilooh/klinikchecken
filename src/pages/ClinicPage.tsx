@@ -1,10 +1,10 @@
-import { useEffect, useState } from 'react'
+import { lazy, Suspense, useEffect, useState } from 'react'
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { ChevronLeft, MapPin, Star } from 'lucide-react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import InquiryModal from '../components/InquiryModal'
-import GoogleReviewsModal from '../components/GoogleReviewsModal'
+const GoogleReviewsModal = lazy(() => import('../components/GoogleReviewsModal'))
 import { useClinics } from '../hooks/useClinics'
 import { clinicIdFromSlug, citySlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
@@ -249,7 +249,11 @@ export default function ClinicPage() {
       <Footer />
 
       <InquiryModal clinic={showInquiry ? clinic : null} onClose={() => setShowInquiry(false)} />
-      {showReviews && <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />}
+      {showReviews && (
+        <Suspense fallback={null}>
+          <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />
+        </Suspense>
+      )}
     </div>
   )
 }

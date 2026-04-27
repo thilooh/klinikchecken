@@ -1,10 +1,12 @@
-import { useState } from 'react'
+import { lazy, Suspense, useState } from 'react'
 import { MapPin, Heart, ChevronLeft, ChevronRight } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 import type { VariantConfig } from '../variants'
 import { VARIANTS } from '../variants'
-import GoogleReviewsModal from './GoogleReviewsModal'
-import ClinicProfileModal from './ClinicProfileModal'
+// Modals are heavy and only mounted on user interaction. Lazy-loaded to keep
+// them out of the main bundle (saves ~15 KB gzip from index.js).
+const GoogleReviewsModal  = lazy(() => import('./GoogleReviewsModal'))
+const ClinicProfileModal  = lazy(() => import('./ClinicProfileModal'))
 import { clarityEvent } from '../lib/clarity'
 import { sendEvent } from '../lib/gtm'
 import { generateEventId, sendCapi } from '../lib/capi'
@@ -385,8 +387,12 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
         </div>
 
       </div>
-      {showReviews && <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />}
-      {showProfile && <ClinicProfileModal clinic={clinic} onClose={() => setShowProfile(false)} onInquire={onInquire} onShowReviews={() => setShowReviews(true)} hasUserCoords={hasUserCoords} />}
+      {(showReviews || showProfile) && (
+        <Suspense fallback={null}>
+          {showReviews && <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />}
+          {showProfile && <ClinicProfileModal clinic={clinic} onClose={() => setShowProfile(false)} onInquire={onInquire} onShowReviews={() => setShowReviews(true)} hasUserCoords={hasUserCoords} />}
+        </Suspense>
+      )}
     </>
   )
 }
