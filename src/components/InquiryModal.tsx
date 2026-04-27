@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { X, Lock, CheckCircle2, Loader2, ChevronDown, ChevronUp, Star, ChevronLeft } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
+import type { CTAVariant } from '../lib/ctaVariant'
 import { sendEvent } from '../lib/gtm'
 import { generateEventId, sendCapi } from '../lib/capi'
 
@@ -8,7 +9,7 @@ interface Props {
   clinic: Clinic | null
   onClose: () => void
   ctaColor?: string
-  ctaVariant?: string
+  ctaVariant?: CTAVariant
 }
 
 const SHEET_URL = import.meta.env.VITE_GOOGLE_SHEET_URL as string | undefined

@@ -72,11 +72,11 @@ export default function PraxisWaehlenPage() {
       const pct = (el.scrollTop + el.clientHeight) / el.scrollHeight
       if (!fired50.current && pct >= 0.5) {
         fired50.current = true
-        sendEvent('ScrollDepth50', { content_name: 'ratgeber-praxis-waehlen' })
+        sendEvent('ScrollDepth50', { content_type: 'ratgeber', content_name: 'ratgeber-praxis-waehlen' })
       }
       if (!fired100.current && pct >= 0.99) {
         fired100.current = true
-        sendEvent('ScrollDepth100', { content_name: 'ratgeber-praxis-waehlen' })
+        sendEvent('ScrollDepth100', { content_type: 'ratgeber', content_name: 'ratgeber-praxis-waehlen' })
       }
     }
     window.addEventListener('scroll', onScroll, { passive: true })
@@ -107,7 +107,7 @@ export default function PraxisWaehlenPage() {
       heroJpgSrcset={HERO_JPG}
       heroAlt="Frau sitzt nachdenklich auf einem Holzstuhl vor einem großen hellen Fenster"
       ctaHref={CTA_HREF}
-      onCtaClick={() => sendEvent('RatgeberCtaClick', { content_name: 'ratgeber-praxis-waehlen' })}
+      onCtaClick={() => sendEvent('RatgeberCtaClick', { content_type: 'ratgeber', content_name: 'ratgeber-praxis-waehlen' })}
     >
       {/* ── Einleitung ── */}
       <p className="art-p">

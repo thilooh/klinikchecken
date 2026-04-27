@@ -139,15 +139,17 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
           </div>
 
           {/* USPs */}
-          <div style={{ padding: '14px 20px', borderBottom: '1px solid #F0F0F0' }}>
-            <div style={{ fontSize: '11px', fontWeight: 700, color: '#888', letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: '10px' }}>Highlights</div>
-            {clinic.usp.map((item, i) => (
-              <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: i < clinic.usp.length - 1 ? '8px' : 0 }}>
-                <CheckCircle2 size={15} color="#00A651" style={{ flexShrink: 0, marginTop: '1px' }} />
-                <span style={{ fontSize: '13px', color: '#333', lineHeight: 1.5 }}>{item}</span>
-              </div>
-            ))}
-          </div>
+          {clinic.usp.length > 0 && (
+            <div style={{ padding: '14px 20px', borderBottom: '1px solid #F0F0F0' }}>
+              <div style={{ fontSize: '11px', fontWeight: 700, color: '#888', letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: '10px' }}>Highlights</div>
+              {clinic.usp.map((item, i) => (
+                <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: i < clinic.usp.length - 1 ? '8px' : 0 }}>
+                  <CheckCircle2 size={15} color="#00A651" style={{ flexShrink: 0, marginTop: '1px' }} />
+                  <span style={{ fontSize: '13px', color: '#333', lineHeight: 1.5 }}>{item}</span>
+                </div>
+              ))}
+            </div>
+          )}
 
           {/* Treatment detail sections (clinic-specific) */}
           {clinic.treatmentInfo && (

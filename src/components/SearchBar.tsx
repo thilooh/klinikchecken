@@ -177,7 +177,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     setFilters(next)
     setShowSuggestions(false)
     setPredictions([])
-    sendEvent('Search', { search_string: displayLabel ?? cityName, search_term: displayLabel ?? cityName })
+    sendEvent('Search', { content_type: 'search', search_string: displayLabel ?? cityName })
   }
 
   const selectPrediction = async (p: Prediction) => {

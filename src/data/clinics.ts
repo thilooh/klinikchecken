@@ -2370,7 +2370,7 @@ export const clinics: Clinic[] = [
     googleRating: 4.5,
     googleReviewCount: 176,
     placeId: 'ChIJ0XuvGxiPsUcRZsvhuRAo7IE',
-    methods: ['Verödung', 'Laser (Diodenlaser)', 'Venefit® (VNUS ClosureFast)', 'Duplex-Sonographie'],
+    methods: ['Verödung', 'Laser (Nd:YAG)', 'Venefit® (VNUS ClosureFast)', 'Duplex-Sonographie'],
     openToday: true,
     openHours: 'Mo–Fr 8:00–19:00',
     freeConsultation: false,

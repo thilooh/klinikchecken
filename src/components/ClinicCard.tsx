@@ -64,6 +64,7 @@ function ClinicTags({ clinic, small }: { clinic: Clinic; small?: boolean }) {
 }
 
 function USPs({ items, small }: { items: string[]; small?: boolean }) {
+  if (!items.length) return null
   return (
     <div style={{ marginBottom: small ? '6px' : '10px' }}>
       {items.map((item, i) => (
