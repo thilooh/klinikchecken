@@ -9,6 +9,7 @@ import ClinicPage from './pages/ClinicPage.tsx'
 import CityPage from './pages/CityPage.tsx'
 import MethodePage from './pages/MethodePage.tsx'
 import MethodenQuiz from './pages/MethodenQuiz.tsx'
+import TrackingShell from './components/TrackingShell'
 import { initSentry, Sentry } from './lib/sentry'
 import './index.css'
 
@@ -33,16 +34,18 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     </div>}>
       <BrowserRouter>
         <RouteTracker />
-        <Routes>
-          <Route path="/" element={<App />} />
-          <Route path="/ueber-uns" element={<AboutPage />} />
-          <Route path="/ratgeber" element={<RatgeberPage />} />
-          <Route path="/ratgeber/praxis-waehlen" element={<PraxisWaehlenPage />} />
-          <Route path="/praxis/:slug" element={<ClinicPage />} />
-          <Route path="/besenreiser/:city" element={<CityPage />} />
-          <Route path="/methode/:method" element={<MethodePage />} />
-          <Route path="/methoden-quiz" element={<MethodenQuiz />} />
-        </Routes>
+        <TrackingShell>
+          <Routes>
+            <Route path="/" element={<App />} />
+            <Route path="/ueber-uns" element={<AboutPage />} />
+            <Route path="/ratgeber" element={<RatgeberPage />} />
+            <Route path="/ratgeber/praxis-waehlen" element={<PraxisWaehlenPage />} />
+            <Route path="/praxis/:slug" element={<ClinicPage />} />
+            <Route path="/besenreiser/:city" element={<CityPage />} />
+            <Route path="/methode/:method" element={<MethodePage />} />
+            <Route path="/methoden-quiz" element={<MethodenQuiz />} />
+          </Routes>
+        </TrackingShell>
       </BrowserRouter>
     </Sentry.ErrorBoundary>
   </React.StrictMode>,

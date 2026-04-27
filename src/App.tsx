@@ -8,7 +8,6 @@ import InquiryModal from './components/InquiryModal'
 import InfoSection from './components/InfoSection'
 import Footer from './components/Footer'
 import MobileFilterSheet from './components/MobileFilterSheet'
-import CookieBanner from './components/CookieBanner'
 import StickyBar from './components/StickyBar'
 import MultiInquiryModal from './components/MultiInquiryModal'
 import { useFilteredClinics } from './hooks/useFilteredClinics'
@@ -18,8 +17,6 @@ import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
 import { sendEvent } from './lib/gtm'
 import { generateEventId, sendCapi } from './lib/capi'
-import { loadGTM, getConsent } from './lib/consent'
-import { loadClarity, clarityEvent } from './lib/clarity'
 import { getCTAVariant, getCTAColor } from './lib/ctaVariant'
 import type { CTAVariant } from './lib/ctaVariant'
 
@@ -185,21 +182,14 @@ export default function App() {
   const [showMultiModal, setShowMultiModal] = useState(false)
   const [selectToast, setSelectToast] = useState(false)
   const MAX_SELECTION = 3
-  const [showBanner, setShowBanner] = useState<boolean>(() => getConsent() === null)
   const [variant] = useState<VariantKey>(() =>
     parseVariant(new URLSearchParams(window.location.search).get('v'))
   )
   const vt = VARIANTS[variant]
   const [ctaVariant] = useState<CTAVariant>(() => getCTAVariant())
   const ctaColor = getCTAColor(ctaVariant)
-
-  useEffect(() => {
-    loadGTM()
-    // Clarity: only load if consent was already given in a previous session
-    if (getConsent() === 'accepted') loadClarity()
-    window.dataLayer = window.dataLayer || []
-    window.dataLayer.push({ event: 'cta_variant_assigned', cta_variant: ctaVariant })
-  }, [])
+  // GTM/Clarity loading + cookie banner now live in TrackingShell so they
+  // run for every route, not only /. See src/components/TrackingShell.tsx.
 
   useEffect(() => {
     const cityParam = new URLSearchParams(window.location.search).get('city')
@@ -319,16 +309,6 @@ export default function App() {
           count={filtered.length}
           onClose={() => setMobileFilterOpen(false)}
           initialSection={filterSection}
-        />
-      )}
-      {showBanner && (
-        <CookieBanner
-          onAccept={() => {
-            setShowBanner(false)
-            loadClarity()
-            clarityEvent('cta_variant', ctaVariant)
-          }}
-          onDecline={() => setShowBanner(false)}
         />
       )}
       <StickyBar
