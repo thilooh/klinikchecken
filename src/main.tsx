@@ -9,6 +9,7 @@ import ClinicPage from './pages/ClinicPage.tsx'
 import CityPage from './pages/CityPage.tsx'
 import MethodePage from './pages/MethodePage.tsx'
 import MethodenQuiz from './pages/MethodenQuiz.tsx'
+import NotFoundPage from './pages/NotFoundPage.tsx'
 import TrackingShell from './components/TrackingShell'
 import { initSentry, Sentry } from './lib/sentry'
 import './index.css'
@@ -54,6 +55,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
             <Route path="/besenreiser/:city" element={<CityPage />} />
             <Route path="/methode/:method" element={<MethodePage />} />
             <Route path="/methoden-quiz" element={<MethodenQuiz />} />
+            <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </TrackingShell>
       </BrowserRouter>

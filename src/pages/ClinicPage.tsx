@@ -245,6 +245,11 @@ export default function ClinicPage() {
               Kostenlos anfragen →
             </button>
           </div>
+
+          {/* HWG-Disclaimer */}
+          <div style={{ marginTop: '16px', padding: '12px 16px', backgroundColor: '#fff', border: '1px solid #DDD', borderRadius: '6px', fontSize: '12px', color: '#666', lineHeight: 1.6 }}>
+            <strong>Hinweis:</strong> Die hier dargestellten Praxis- und Methodeninformationen dienen der Orientierung und ersetzen keine ärztliche Beratung. Wirksamkeit, Risiken und Eignung einer Behandlung müssen im Einzelfall vom behandelnden Arzt beurteilt werden. Bewertungen stammen von Google und spiegeln subjektive Patientenerfahrungen wider.
+          </div>
         </div>
       </main>
       <Footer />
