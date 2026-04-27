@@ -82,7 +82,7 @@ export default function AboutPage() {
             <p style={{ fontSize: '14px', fontWeight: 700, color: '#0A1F44', marginBottom: '16px' }}>Was wir prüfen:</p>
             <ul style={{ margin: 0, padding: 0 }}>
               <CriterionRow title="Facharzt-Qualifikation">
-                Phlebologie, Dermatologie oder Gefäßchirurgie? Wir verifizieren das über den Eintrag bei der zuständigen Ärztekammer. Beauty-Boutiquen ohne fachärztliche Leitung listen wir nicht.
+                Phlebologie, Dermatologie oder Gefäßchirurgie? Wir verifizieren das über den Eintrag bei der zuständigen Ärztekammer. Wir listen nur Praxen mit fachärztlicher Leitung in einem dieser Bereiche.
               </CriterionRow>
               <CriterionRow title="Behandlungs-Schwerpunkt">
                 Eine Praxis, die im Jahr 30 Besenreiser-Behandlungen macht, ist etwas anderes als eine, die 1.500 macht. Wir bevorzugen Spezialisten.
@@ -129,12 +129,12 @@ export default function AboutPage() {
               Das gleiche gilt für die Praxen. Eine Praxis, die unzufriedene Patientinnen produziert, bekommt keine Folge-Anfragen mehr - weder von uns, noch von Mundpropaganda. In einem Provisionsmodell ist das ihr eigenes Problem. Praxen, die mit uns zusammenarbeiten, wissen das. Sie haben ein wirtschaftliches Eigeninteresse daran, dass du als Patientin gut behandelt wirst und zufrieden bist. Das Modell setzt für beide Seiten die richtigen Anreize.
             </p>
             <p style={{ ...p, marginBottom: 0 }}>
-              <strong>Wir lehnen Praxen ab, die unseren Standards nicht entsprechen - auch wenn sie zahlen würden.</strong> Mehr als die Hälfte der Praxen, die wir geprüft haben, sind nicht auf besenreiser-check.de gelistet. Eine schwache Praxis, die uns viele Anfragen zahlen würde, würde uns kurzfristig Geld bringen - und langfristig die Plattform zerstören. Diese Rechnung machen wir.
+              <strong>Wir prüfen mehr Praxen, als wir aufnehmen.</strong> Eine Aufnahme erfolgt nur bei vollständiger Erfüllung unserer Kriterien (Facharzt-Qualifikation, dokumentierter Behandlungs-Schwerpunkt, transparente Patientenstimmen). Eine Praxis, die zahlen würde aber unsere Kriterien nicht erfüllt, bringt uns kurzfristig Geld - und langfristig würde sie das Vertrauen der Patientinnen kosten. Diese Rechnung machen wir.
             </p>
           </div>
 
           <p style={p}>
-            <strong>Die Reihenfolge der Praxen lässt sich nicht kaufen.</strong> Sortiert wird nach Facharzt-Qualifikation, dokumentiertem Behandlungs-Schwerpunkt, Patientinnen-Bewertungen und Entfernung. Praxen, die uns mehr Provision bieten, um weiter oben zu erscheinen, werden abgelehnt. Wir nennen das "ohne bezahlte Rankings" - und meinen das wörtlich.
+            <strong>Die Reihenfolge der Praxen lässt sich nicht kaufen.</strong> Sortiert wird ausschließlich nach fachlichen Kriterien: Facharzt-Qualifikation, dokumentiertem Behandlungs-Schwerpunkt, Patientinnen-Bewertungen und Entfernung zu deinem Standort. Angebote für eine Vorzugs-Platzierung gegen Bezahlung werden abgelehnt.
           </p>
 
           {/* What you take away */}

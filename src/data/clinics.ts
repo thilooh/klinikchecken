@@ -9440,7 +9440,7 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
     treatmentInfo: {
-      intro: 'Zentrum für Hautästhetik und Lasermedizin | Haut- und Laserzentrum Oldenburg Hautästhetik Hautgesundheit Hier wechseln Sie zum Zentrum für Hautgesundheit Verstanden Termin vereinbaren Online Termin vereinbaren Digitale Ästhetik-Beratung starten Menü Mein Schönheitsideal. Wir helfen Ihnen, es zu verwirklichen – mit modernsten individuellen Behandlungskonzepten, state-of-the-art-Technik und medizinischer Expertise. Unsere Ärzte Gute Behandlung garantiert: Ihre Fachärzte.',
+      intro: 'Das Zentrum für Hautästhetik und Lasermedizin in Oldenburg behandelt Besenreiser mit modernen Lasergeräten. Die Praxis wird fachärztlich geleitet und ist auf ästhetische Dermatologie spezialisiert.',
       processSteps: [
         'Erstgespräch & Sichtbefund – die Ärztin/der Arzt bewertet Typ, Größe und Tiefe der Besenreiser',
         'Kurze Behandlungssitzung (20–45 Min.), mehrere Durchgänge je nach Ausdehnung',

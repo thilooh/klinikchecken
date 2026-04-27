@@ -56,7 +56,7 @@ export default function ArticleLayout({
   heroWebpSrcset,
   heroJpgSrcset,
   ctaHref,
-  ctaBody = 'Besenreiser-Check.de ist auf genau diese Vorauswahl spezialisiert. Praxen werden nach Facharzt-Qualifikation und echten Patientenstimmen sortiert - ohne bezahlte Rankings, ohne Werbe-Boost.',
+  ctaBody = 'Besenreiser-Check.de ist auf genau diese Vorauswahl spezialisiert. Praxen werden nach Facharzt-Qualifikation und echten Patientenstimmen sortiert.',
   onCtaClick,
   children,
 }: ArticleLayoutProps) {
@@ -212,7 +212,7 @@ export default function ArticleLayout({
               Zum Praxen-Vergleich →
             </a>
             <ul style={{ listStyle: 'none', padding: 0, margin: '16px 0 0', display: 'flex', flexWrap: 'wrap', gap: '8px 20px' }}>
-              {['Spezialisiert auf Besenreiser', 'Ohne bezahlte Rankings', 'Sortiert nach Facharzt-Qualifikation'].map(t => (
+              {['Spezialisiert auf Besenreiser', 'Sortierung nach fachlichen Kriterien', 'Geprüfte Facharzt-Qualifikation'].map(t => (
                 <li key={t} style={{ fontFamily: sans, fontSize: '12px', color: '#556', display: 'flex', alignItems: 'center', gap: '5px' }}>
                   <span style={{ color: '#00A651', fontWeight: 700 }}>✓</span> {t}
                 </li>

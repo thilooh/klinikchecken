@@ -57,7 +57,7 @@ export default function ResultsHeader({ count, filters, setFilters, onOpenFilter
             <div style={{ fontWeight: 700, fontSize: '16px', color: '#333' }}>{filters.userLat != null ? `${count} Praxen in deiner Nähe` : `${count} geprüfte Praxen in ${filters.searchCity}`}</div>
             <span style={{ display: 'inline-flex', alignItems: 'center', gap: '4px', backgroundColor: '#F0FFF4', border: '1px solid #86EFAC', borderRadius: '20px', padding: '2px 8px', fontSize: '11px', fontWeight: 700, color: '#15803D', whiteSpace: 'nowrap' }}>
               <ShieldCheck size={11} strokeWidth={2.5} />
-              Ohne bezahlte Rankings
+              Sortierung nach fachlichen Kriterien
             </span>
           </div>
           <div style={{ fontSize: '12px', color: '#999', marginTop: '2px' }}>{filters.userLat != null ? 'Sortiert nach Entfernung zu deinem Standort.' : 'Sortiert nach Facharzt-Qualifikation, Patientenstimmen und Behandlungsvolumen.'}</div>
