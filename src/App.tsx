@@ -326,7 +326,6 @@ export default function App() {
         clinics={selectedClinics}
         onRequest={() => setShowMultiModal(true)}
         onClear={() => setSelectedIds(new Set())}
-        onDiscover={focusSearch}
         ctaColor={ctaColor}
       />
       {showMultiModal && (
