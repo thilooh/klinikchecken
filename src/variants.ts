@@ -18,7 +18,7 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
   a: {
     hero: {
       headline: 'Vertrauen statt Versuch und Irrtum. Geprüfte Spezialisten für Besenreiser.',
-      subheadline: 'Wir haben 500+ Phlebologen, Dermatologen und Venenzentren geprüft. 229 sind in unsere Plattform aufgenommen worden.',
+      subheadline: 'In 60 Sekunden zur passenden Praxis - kostenlos, unverbindlich, ohne Anmeldung.',
     },
     card: {
       subline: c => c.headline,
