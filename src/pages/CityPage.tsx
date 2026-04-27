@@ -80,7 +80,7 @@ export default function CityPage() {
             Besenreiser entfernen in {city}
           </h1>
           <p style={{ fontSize: '15px', color: '#555', marginBottom: '24px', lineHeight: 1.6 }}>
-            {cityClinics.length} geprüfte Phlebologen, Dermatologen und Venenzentren in {city} —
+            {cityClinics.length} geprüfte Phlebologen, Dermatologen und Venenzentren in {city} -
             sortiert nach Patientenbewertungen und Behandlungsvolumen.
           </p>
 
@@ -137,7 +137,7 @@ export default function CityPage() {
               Die Behandlungskosten variieren nach Methode und Aufwand pro Sitzung. Verödungen sind
               typischerweise günstiger als Laser-Behandlungen. Da Besenreiser meist als kosmetisch
               eingestuft werden, übernimmt die gesetzliche Krankenkasse die Kosten in der Regel
-              nicht. Frag bei deiner Wunsch-Praxis vorab den genauen Preis ab — das geht
+              nicht. Frag bei deiner Wunsch-Praxis vorab den genauen Preis ab - das geht
               kostenlos über unser Anfrage-Formular.
             </p>
           </div>

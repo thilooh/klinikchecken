@@ -69,7 +69,7 @@ function recommend(answers: Answer[]): Recommendation {
       return {
         method: 'Nd:YAG-Laser',
         methodSlug: 'laser',
-        rationale: 'Bei dunklerer Haut ist der Nd:YAG-Laser die sicherste Wahl — er dringt tiefer und schont die oberflächliche Pigmentierung. IPL und KTP bergen hier ein Risiko von Pigmentveränderungen.',
+        rationale: 'Bei dunklerer Haut ist der Nd:YAG-Laser die sicherste Wahl - er dringt tiefer und schont die oberflächliche Pigmentierung. IPL und KTP bergen hier ein Risiko von Pigmentveränderungen.',
       }
     }
     return {
@@ -104,7 +104,7 @@ function recommend(answers: Answer[]): Recommendation {
     return {
       method: 'Verödung (Sklerotherapie)',
       methodSlug: 'verodung',
-      rationale: 'Bei dunklerer Haut empfehlen wir auch für feine Beinbesenreiser zunächst die Verödung — sie ist hauttyp-unabhängig und nebenwirkungsarm.',
+      rationale: 'Bei dunklerer Haut empfehlen wir auch für feine Beinbesenreiser zunächst die Verödung - sie ist hauttyp-unabhängig und nebenwirkungsarm.',
       alternative: 'Sehr feine Adern können alternativ mit einem Nd:YAG-Laser behandelt werden.',
     }
   }
@@ -149,7 +149,7 @@ export default function MethodenQuiz() {
             Welche Behandlung passt zu meinen Besenreisern?
           </h1>
           <p style={{ fontSize: '14px', color: '#666', marginBottom: '24px', textAlign: 'center' }}>
-            3 Fragen — 30 Sekunden — keine Anmeldung
+            3 Fragen - 30 Sekunden - keine Anmeldung
           </p>
 
           {/* Progress bar */}

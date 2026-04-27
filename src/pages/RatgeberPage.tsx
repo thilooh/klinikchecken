@@ -28,19 +28,19 @@ const ARTICLES: ArticleCard[] = [
   {
     title: 'Verödung oder Laser? Methoden im Vergleich',
     description:
-      'Sklerotherapie, Mikroschaum-Verödung, Nd:YAG-Laser — was hinter den Begriffen steckt und wann welche Methode geeignet ist.',
+      'Sklerotherapie, Mikroschaum-Verödung, Nd:YAG-Laser - was hinter den Begriffen steckt und wann welche Methode geeignet ist.',
     live: false,
   },
   {
     title: 'Was eine Besenreiser-Behandlung kostet',
     description:
-      'Preise variieren stark je nach Praxis, Region und Methode. Was du realistisch einplanen solltest — und woran du überhöhte Angebote erkennst.',
+      'Preise variieren stark je nach Praxis, Region und Methode. Was du realistisch einplanen solltest - und woran du überhöhte Angebote erkennst.',
     live: false,
   },
   {
     title: 'Besenreiser oder Krampfader? Den Unterschied erkennen',
     description:
-      'Beide sind sichtbare Venenveränderungen — aber mit sehr unterschiedlicher Bedeutung. Wann du unbedingt einen Arzt aufsuchen solltest.',
+      'Beide sind sichtbare Venenveränderungen - aber mit sehr unterschiedlicher Bedeutung. Wann du unbedingt einen Arzt aufsuchen solltest.',
     live: false,
   },
 ]

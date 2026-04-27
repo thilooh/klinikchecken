@@ -177,7 +177,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     try {
       const r = await fetch(`${AUTOCOMPLETE_URL}?placeId=${encodeURIComponent(p.place_id)}&sessionToken=${sessionTokenRef.current}`)
       const d = await r.json() as { lat?: number; lng?: number }
-      // Place Details closes the autocomplete session — start a fresh one.
+      // Place Details closes the autocomplete session - start a fresh one.
       sessionTokenRef.current = newSessionToken()
       if (d.lat != null && d.lng != null) {
         const isCity = p.types.includes('locality') || p.types.includes('postal_town')
@@ -202,7 +202,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
       return
     }
     // No autocomplete suggestions to commit. Don't silently treat the raw
-    // input as a city name — useFilteredClinics would just return 0 with no
+    // input as a city name - useFilteredClinics would just return 0 with no
     // explanation. Surface a clear hint instead.
     if (val.trim()) {
       setNoMatchHint(true)

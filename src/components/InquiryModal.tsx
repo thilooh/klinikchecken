@@ -145,7 +145,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
           ) : step === 1 ? (
             <>
               <div style={{ fontSize: '14px', color: '#555', marginBottom: '16px' }}>
-                Erstmal kurz: <strong>was möchtest du wissen?</strong> Keine persönlichen Daten — die kommen im 2. Schritt.
+                Erstmal kurz: <strong>was möchtest du wissen?</strong> Keine persönlichen Daten - die kommen im 2. Schritt.
               </div>
 
               <div style={{ marginBottom: '16px' }}>

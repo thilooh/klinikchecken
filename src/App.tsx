@@ -119,7 +119,7 @@ function matchCity(raw: string): string | null {
   const t = raw.trim()
   if (!t) return null
   const norm = t.toLowerCase()
-  // PLZ: 5-digit postal code — longest matching prefix wins
+  // PLZ: 5-digit postal code - longest matching prefix wins
   if (/^\d{5}$/.test(t)) {
     let bestIdx = -1, bestLen = 0
     for (let i = 0; i < CITY_VARIANTS.length; i++) {
@@ -280,7 +280,7 @@ export default function App() {
                 setFilters={handleSetFilters}
                 onOpenFilter={openFilter}
               />
-              {/* Discovery CTA for the methode quiz — sits above the result list
+              {/* Discovery CTA for the methode quiz - sits above the result list
                   so unsure users find it without scrolling to the sidebar. */}
               <a href="/methoden-quiz" style={{
                 display: 'flex', alignItems: 'center', gap: '12px',

@@ -69,7 +69,7 @@ export default function Footer() {
           ))}
         </div>
 
-        {/* All cities — discoverable + crawlable */}
+        {/* All cities - discoverable + crawlable */}
         <details style={{ borderTop: '1px solid rgba(255,255,255,0.15)', padding: '14px 0' }}>
           <summary style={{ cursor: 'pointer', fontSize: '12px', color: '#99BBFF', listStyle: 'none' }}>
             Alle {ALL_CITIES.length} Städte ▾

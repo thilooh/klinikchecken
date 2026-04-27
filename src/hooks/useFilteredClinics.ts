@@ -29,7 +29,7 @@ export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Cli
 
     let result: Clinic[]
     if (hasUserCoords) {
-      // Distance-based view: drop clinics without coordinates entirely —
+      // Distance-based view: drop clinics without coordinates entirely -
       // their stale distanceKm (distance to their own city centre) would
       // otherwise let them rank above real near-by practices.
       result = clinics

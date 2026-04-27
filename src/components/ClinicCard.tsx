@@ -18,7 +18,7 @@ interface Props {
   isSelected?: boolean
   onToggleSelect?: () => void
   ctaColor?: string
-  /** 0-based position in the result list — first 3 are eager-loaded, rest lazy. */
+  /** 0-based position in the result list - first 3 are eager-loaded, rest lazy. */
   index?: number
 }
 

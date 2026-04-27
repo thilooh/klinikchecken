@@ -7,7 +7,7 @@ import { clinics } from '../data/clinics'
 import { clinicSlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
 
-// Drafted content for each method. Expandable — copy a block, fill in.
+// Drafted content for each method. Expandable - copy a block, fill in.
 type MethodInfo = {
   slug: string
   name: string
@@ -25,10 +25,10 @@ const METHODS: MethodInfo[] = [
   {
     slug: 'verodung',
     name: 'Verödung (Sklerotherapie)',
-    shortDescription: 'Bewährtes Standardverfahren — kleine Adern werden mit einem Verödungsmittel zum Verschluss gebracht.',
+    shortDescription: 'Bewährtes Standardverfahren - kleine Adern werden mit einem Verödungsmittel zum Verschluss gebracht.',
     intro: 'Die Sklerotherapie ist seit Jahrzehnten der Goldstandard bei der Besenreiser-Behandlung. Ein flüssiges oder schaumartiges Verödungsmittel wird in die betroffene Vene injiziert. Diese reizt die Gefäßwand, woraufhin sich das Gefäß verschließt und vom Körper abgebaut wird.',
     pros: [
-      'Seit Langem bewährt — sehr gut erforscht',
+      'Seit Langem bewährt - sehr gut erforscht',
       'Auch für tiefer liegende Gefäße geeignet',
       'Keine Hautverbrennungen wie bei Laser möglich',
       'Meist günstiger als Laser-Behandlungen',
@@ -46,10 +46,10 @@ const METHODS: MethodInfo[] = [
   {
     slug: 'laser',
     name: 'Laser (Nd:YAG / KTP)',
-    shortDescription: 'Lichtenergie zerstört gezielt Besenreiser ohne Nadel — ideal für sehr feine, oberflächliche Gefäße.',
+    shortDescription: 'Lichtenergie zerstört gezielt Besenreiser ohne Nadel - ideal für sehr feine, oberflächliche Gefäße.',
     intro: 'Bei der Laser-Behandlung werden die Besenreiser durch gebündeltes Licht erhitzt und verschlossen. Der Nd:YAG-Laser dringt tiefer und ist gut für dunklere Hauttypen geeignet, der KTP-Laser eignet sich für sehr feine oberflächliche Gefäße im Gesicht.',
     pros: [
-      'Keine Injektion — keine Nadel',
+      'Keine Injektion - keine Nadel',
       'Sehr präzise auch bei feinen Gefäßen im Gesicht',
       'Keine Kompressionsstrümpfe nötig',
       'Schnelle Sitzungen',
@@ -68,7 +68,7 @@ const METHODS: MethodInfo[] = [
   {
     slug: 'ipl',
     name: 'IPL-Behandlung',
-    shortDescription: 'Intensives gepulstes Licht — gute Wahl für rote, feine Gefäße im Gesicht.',
+    shortDescription: 'Intensives gepulstes Licht - gute Wahl für rote, feine Gefäße im Gesicht.',
     intro: 'IPL nutzt ein breites Lichtspektrum. Es wird vor allem für rote, oberflächliche Besenreiser im Gesicht eingesetzt. Im Vergleich zum Laser ist es weniger gezielt, dafür aber günstiger.',
     pros: [
       'Sanfte Methode, geringe Schmerzen',

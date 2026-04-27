@@ -18,7 +18,7 @@ export default function ClinicPage() {
   const id = clinicIdFromSlug(slug)
   const clinic = id != null ? clinics.find(c => c.id === id) : undefined
 
-  // Always called — useSeo never throws when given placeholder strings.
+  // Always called - useSeo never throws when given placeholder strings.
   useSeo({
     title: clinic
       ? `${clinic.name} – Besenreiser-Behandlung in ${clinic.city} | Besenreiser-Check.de`
@@ -211,7 +211,7 @@ export default function ClinicPage() {
           {/* Contact CTA */}
           <div style={{ backgroundColor: '#003399', color: '#fff', borderRadius: '8px', padding: '24px', textAlign: 'center' }}>
             <h2 style={{ fontSize: '20px', marginBottom: '8px' }}>Direkt mit {clinic.name} Kontakt aufnehmen</h2>
-            <p style={{ fontSize: '14px', opacity: 0.85, marginBottom: '16px' }}>Beschreib kurz dein Anliegen — die Praxis meldet sich für die Terminabsprache.</p>
+            <p style={{ fontSize: '14px', opacity: 0.85, marginBottom: '16px' }}>Beschreib kurz dein Anliegen - die Praxis meldet sich für die Terminabsprache.</p>
             <button onClick={() => onInquire(clinic)} style={{
               backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '16px',
               border: 'none', borderRadius: '6px', padding: '13px 32px', cursor: 'pointer',

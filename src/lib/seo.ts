@@ -1,4 +1,4 @@
-// Lightweight SEO helper — no react-helmet, just direct DOM mutation.
+// Lightweight SEO helper - no react-helmet, just direct DOM mutation.
 // Covers the basics Google + social cards actually look at.
 
 import { useEffect } from 'react'
