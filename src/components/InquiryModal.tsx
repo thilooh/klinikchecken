@@ -27,7 +27,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
 
   if (!clinic) return null
 
-  const canContinueFromStep1 = true   // step 1 is purely informational, no required fields
+  const canContinueFromStep1 = !!form.method
   const canSubmit = !!(form.firstName && form.email && form.privacy)
   const rating = clinic.googleRating ?? clinic.rating
   const reviewCount = clinic.googleReviewCount ?? clinic.reviewCount
@@ -150,10 +150,11 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
               </div>
 
               <div style={{ marginBottom: '16px' }}>
-                <label style={{ display: 'block', fontSize: '13px', color: '#333', fontWeight: 700, marginBottom: '6px' }}>Welche Methode interessiert dich?</label>
+                <label style={{ display: 'block', fontSize: '13px', color: '#333', fontWeight: 700, marginBottom: '6px' }}>Welche Methode interessiert dich? *</label>
                 <select value={form.method} onChange={e => setForm({ ...form, method: e.target.value })} style={{ ...field, backgroundColor: '#fff' }}>
-                  <option value="">Bin mir noch nicht sicher – Praxis empfiehlt</option>
+                  <option value="">Bitte auswählen</option>
                   {clinic.methods.map(m => <option key={m} value={m}>{m}</option>)}
+                  <option value="Beratung gewünscht">Bin mir noch nicht sicher - Praxis empfiehlt</option>
                 </select>
               </div>
 
@@ -174,7 +175,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
               <button
                 onClick={goToStep2}
                 disabled={!canContinueFromStep1}
-                style={{ backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '4px', height: '46px', width: '100%', cursor: 'pointer', marginBottom: '12px' }}
+                style={{ backgroundColor: ctaColor, opacity: canContinueFromStep1 ? 1 : 0.5, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '4px', height: '46px', width: '100%', cursor: canContinueFromStep1 ? 'pointer' : 'not-allowed', marginBottom: '12px' }}
               >
                 Weiter zu Kontakt →
               </button>
