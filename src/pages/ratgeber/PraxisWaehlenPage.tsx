@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react'
 import ArticleLayout from './ArticleLayout'
 import { sendEvent } from '../../lib/gtm'
+import { getCTAVariant } from '../../lib/ctaVariant'
 
 const BASE  = '/ratgeber/final'
 const SIZES = '(max-width: 720px) 100vw, 680px'
@@ -107,7 +108,7 @@ export default function PraxisWaehlenPage() {
       heroJpgSrcset={HERO_JPG}
       heroAlt="Frau sitzt nachdenklich auf einem Holzstuhl vor einem großen hellen Fenster"
       ctaHref={CTA_HREF}
-      onCtaClick={() => sendEvent('RatgeberCtaClick', { content_type: 'ratgeber', content_name: 'ratgeber-praxis-waehlen' })}
+      onCtaClick={() => sendEvent('RatgeberCtaClick', { content_type: 'ratgeber', content_name: 'ratgeber-praxis-waehlen', cta_variant: getCTAVariant() })}
     >
       {/* ── Einleitung ── */}
       <p className="art-p">

@@ -173,6 +173,7 @@ export default function App() {
       item_category: clinic.city,       // GA4 param
       value: 1,
       currency: 'EUR',
+      cta_variant: ctaVariant,          // A/B button color attribution
     }
     sendEvent('InitiateCheckout', checkoutData, undefined, checkoutEventId)
     sendCapi('InitiateCheckout', checkoutEventId, checkoutData)

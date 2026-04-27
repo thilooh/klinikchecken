@@ -33,7 +33,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
   const reviewCount = clinic.googleReviewCount ?? clinic.reviewCount
 
   const goToStep2 = () => {
-    sendEvent('InquiryStep1Complete', { content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city })
+    sendEvent('InquiryStep1Complete', { content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city, cta_variant: ctaVariant })
     setStep(2)
   }
 

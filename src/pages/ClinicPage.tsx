@@ -10,6 +10,7 @@ import { clinicIdFromSlug, citySlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
 import { sendEvent } from '../lib/gtm'
 import { generateEventId, sendCapi } from '../lib/capi'
+import { getCTAVariant } from '../lib/ctaVariant'
 import type { Clinic } from '../types/clinic'
 
 export default function ClinicPage() {
@@ -103,7 +104,7 @@ export default function ClinicPage() {
 
   const onInquire = (c: Clinic) => {
     const eventId = generateEventId()
-    const data = { content_name: c.name, content_category: c.city, item_name: c.name, item_category: c.city, value: 1, currency: 'EUR' }
+    const data = { content_name: c.name, content_category: c.city, item_name: c.name, item_category: c.city, value: 1, currency: 'EUR', cta_variant: getCTAVariant() }
     sendEvent('InitiateCheckout', data, undefined, eventId)
     sendCapi('InitiateCheckout', eventId, data)
     setShowInquiry(true)
