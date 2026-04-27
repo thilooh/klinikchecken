@@ -1,12 +1,4 @@
 {
-  "rating": 4.9,
-  "reviewCount": 174,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Volkmar O.",
@@ -68,5 +60,13 @@
       "time": 1773821374,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.9,
+  "reviewCount": 174,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
+  ],
+  "lastUpdated": "2026-04-26T19:24:07.742Z"
 }

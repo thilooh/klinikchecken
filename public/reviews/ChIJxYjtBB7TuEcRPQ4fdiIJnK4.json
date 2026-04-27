@@ -1,12 +1,4 @@
 {
-  "rating": 4.2,
-  "reviewCount": 20,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell eingesetzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Peter Jacobs",
@@ -68,5 +60,13 @@
       "time": 1743685820,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.2,
+  "reviewCount": 20,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:36.709Z"
 }

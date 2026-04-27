@@ -1,9 +1,17 @@
 {
-  "rating": 4,
-  "reviewCount": 48,
-  "summary": [],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "S K",
+      "author_url": "https://www.google.com/maps/contrib/101742474909894029994/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ-oOCBEzfZKt73Mi9yR7W-Uyo16ItV1ZJh2dHlet5OJFoxQ8KyQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Früher war ich gerne in dieser Praxis, aber leider hat die Qualität deutlich nachgelassen.\n\nDie Organisation wirkt chaotisch – man wird jedes Mal von einem anderen Arzt behandelt, die rothaarige mfg ist ultra laut und unfreundlich.\n\nBei der Entfernung eines Muttermals wurde mir zunächst gesagt, es sei alles in Ordnung. Nach dem Laborbericht sollte dann plötzlich nochmal nachgeschnitten werden, da angeblich noch ein minimaler Rest vorhanden sei. Für mich war das nicht nachvollziehbar und wirkte insgesamt wenig sorgfältig.\n\nInsgesamt hatte ich nicht das Gefühl, gut aufgehoben zu sein, und werde die Praxis daher nicht mehr aufsuchen.",
+      "time": 1777138823,
+      "translated": false
+    },
     {
       "author_name": "Leon",
       "rating": 3,
@@ -39,5 +47,9 @@
       "text": "Ich bin (bzw. war) seit mehreren Jahren Patient in der Praxis und war bislang immer sehr zufrieden. Doch heute war ich geschockt von dem Vorgehen in der Praxis.\nAls ich mir kürzlich (wie im letzten Jahr auch) ein neues Rezept für eine 2024 begonnene Behandlung ausstellen lassen wollte, wurde mir mitgeteilt, dass es das Medikament momentan nicht gebe und ich rein kommen müsse, weil der Arzt mit mir über eine neues Medikament sprechen möchte.\nDer Arzt war leider ein anderer Arzt als vorher und wusste offenbar nicht, dass es um eine 2024 begonnene Behandlung geht. Als ich ihm das mitgeteilt habe, sagte er mir, dass er den anderen Arzt nicht kenne und dass dieser nicht mehr in der Praxis arbeitet. Dann warf er mir vor, dass ich ja seit 2024 nicht mehr zur Kontrolle da war (was falsch ist, weil ich erst Anfang 2025 in der Praxis zur Kontrolle war). Leider wurde der Arzt dann sehr ungehalten und hat mich mehrfach unterbrochen. Ein normales Gespräch war dann nicht mehr möglich. Deswegen habe ich an der Rezeption gefragt, ob mich ein anderer Arzt behandeln könne. Ich wurde dann im Wartezimmer geparkt, nur um nach einigen Minuten mitgeteilt zu bekommen, dass der Chef gesagt hätte, ich werde nicht mehr in der Praxis behandelt. Warum wurde mir nicht mitgeteilt. Neue Termine darf ich nicht mehr machen. Den Grund kann mir nur der Chef sagen, der aber nicht mit mir sprechen wollte. Auf Nachfrage, wie ich denn mit dem Chef sprechen könne sagte man mir, dass ich dafür einen Termin mache müsse (was ja leider nicht mehr geht).\nIch kenne jetzt weder den Grund, warum ich nicht mehr in der Praxis behandelt werde, noch habe ich ein neues Rezept oder eine Bratung zu meinem Problem erhalten, aber die Sprechstundenhilfe teilte mir mit, dass der Termin ganz normal bei der Krankenkasse abgerechnet werde.\nSchade, dass ich als langjähriger Patient dieser Praxis noch nicht einmal eine Erklärung erhalte, warum ich nicht mehr behandelt werde.\nDie Sprechstundenhilfe war allerdings durchweg nett und tat mir leid, weil die Herren Ärzte nicht den Anstand und den Mut hatten, mir selbst mitzuteilen, dass ich nicht mehr behandelt werde. Für so etwas die Sprechstundenhilfe vorzuschicken, ohne ihr Informationen zu geben, die sie dem Patienten weitergeben kann, empfande ich als peinlich und feige, insbesondere von Chef.\nDas Patientenwohl steht in dieser Praxis offenbar nicht an erster Stelle...",
       "time": 1773331398
     }
-  ]
+  ],
+  "rating": 3.9,
+  "reviewCount": 49,
+  "summary": [],
+  "lastUpdated": "2026-04-26T19:23:57.521Z"
 }

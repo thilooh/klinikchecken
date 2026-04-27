@@ -1,13 +1,15 @@
 {
-  "rating": 4.8,
-  "reviewCount": 62,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "R. “Prof.Dr.Dr S” Sp.",
+      "author_url": "https://www.google.com/maps/contrib/108069427384855617859/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuulXjlN1-Iv7vFMuCFJ1T-O5pqmmaLghWaWnrT2ATbEmUAZk=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777180699,
+      "translated": false
+    },
     {
       "author_name": "Lea Neumann",
       "author_url": "https://www.google.com/maps/contrib/102128741148102211029/reviews",
@@ -64,5 +66,13 @@
       "time": 1773674511,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewCount": 63,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:27.637Z"
 }

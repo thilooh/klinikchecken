@@ -1,12 +1,4 @@
 {
-  "rating": 4.5,
-  "reviewCount": 37,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell eingesetzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Muhanad Aldiri",
@@ -31,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "Tamara Randjelovic",
+      "author_url": "https://www.google.com/maps/contrib/101482591439402622049/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKECWZ_0GZbdT_ZrmXTfQcSP8R0lSpv5VpVKMWkl_udaLrrsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1774596823,
+      "translated": false
+    },
+    {
       "author_name": "sanny",
       "author_url": "https://www.google.com/maps/contrib/102960072127782434907/reviews",
       "language": "de",
@@ -38,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUR4PdHP44m-MainKXpHllsKMeK-lhMg_b1f_Ih2hivaVskCUi=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Ich bin durch die Empfehlung eines Freundes auf diese Hautarztpraxis aufmerksam geworden und war letzte Woche dort. Ich habe mich sehr gut aufgehoben gefühlt - das Team war sehr freundlich, die Behandlung professionell und alles gut organisiert. Ich kann die Praxis auf jeden Fall weiterempfehlen!",
+      "time": 1769416565,
+      "translated": false
+    },
+    {
+      "author_name": "sanny",
+      "author_url": "https://www.google.com/maps/contrib/102960072127782434907/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUR4PdHP44m-MainKXpHllsKMeK-lhMg_b1f_Ih2hivaVskCUi=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Ich bin durch die Empfehlung eines Freundes auf diese Hautarztpraxis aufmerksam geworden und war letzte Woche dort. Ich habe mich sehr gut aufgehoben gefühlt - das Team war sehr freundlich, die Behandlung professionell und alles gut organisiert. Ich kann die Praxis auf jeden Fall weiterempfehlen!",
       "time": 1769416565,
       "translated": false
@@ -66,5 +80,13 @@
       "time": 1768660956,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewCount": 37,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:30.606Z"
 }

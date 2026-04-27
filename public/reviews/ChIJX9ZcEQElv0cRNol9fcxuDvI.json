@@ -1,12 +1,4 @@
 {
-  "rating": 4.8,
-  "reviewCount": 181,
-  "summary": [
-    "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
-    "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
-    "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
-  ],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Eric Freywald",
@@ -43,5 +35,13 @@
       "text": "⭐⭐⭐⭐⭐\nIch wurde im November operiert und meine Erfahrung war durchweg sehr positiv. Der gesamte Ablauf verlief perfekt und es gab keinerlei Komplikationen.\n\nDas medizinische Personal war äußerst freundlich, professionell und hilfsbereit. Auch für Patienten, die kein Deutsch sprechen, ist alles sehr gut organisiert – die Kommunikation auf Englisch war klar, ruhig und verständlich. Ich habe mich jederzeit gut informiert und ernst genommen gefühlt.\n\nIch kann diese Praxis und das gesamte Team uneingeschränkt weiterempfehlen und bedanke mich herzlich für die hervorragende Betreuung.",
       "time": 1770720624
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewCount": 181,
+  "summary": [
+    "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
+    "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
+    "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
+  ],
+  "lastUpdated": "2026-04-26T19:23:54.895Z"
 }

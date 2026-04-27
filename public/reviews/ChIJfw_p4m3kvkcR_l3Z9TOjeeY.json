@@ -1,13 +1,17 @@
 {
-  "rating": 4.4,
-  "reviewCount": 106,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "Janina",
+      "author_url": "https://www.google.com/maps/contrib/113264288824767832682/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnmbos2vJo7foWSwYqBbBJMCd2T9dkRt7YrIlZ_3Nvdd92Njn_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis. War zum 2. Mal dort. Vorher hatte ich mich noch erkundigt, ob es eine Parkmöglichkeit vor der Praxis gibt. Ich habe schnell und freundlich Rückmeldung bekommen. Mein Termin war zu 09:00 und kam gehen 09:20 ran, was für mich völlig in Ordnung ist. Frau Dr. Brenner hat eine ruhige, freundliche Art. Mir persönlich war sie seh sympathisch. Sie hat sich Zeit genommen, genau untersucht und alle meine Fragen beantwortet. Ich habe mich wohl gefühlt. Die Damen an der Anmeldung haben gut zu tun und sind trotzdem sehr freundlich.",
+      "time": 1777184922,
+      "translated": false
+    },
     {
       "author_name": "Busra Mirasyedi",
       "author_url": "https://www.google.com/maps/contrib/113104917783175363033/reviews",
@@ -66,5 +70,13 @@
       "time": 1774883231,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.4,
+  "reviewCount": 107,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:12.410Z"
 }

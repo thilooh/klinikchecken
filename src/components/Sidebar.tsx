@@ -101,7 +101,10 @@ export default function Sidebar({ filters, setFilters }: Props) {
                 <div style={{ fontSize: '11px', color: '#555', lineHeight: '1.4' }}>{m.desc}</div>
               </div>
             ))}
-            <div style={{ fontSize: '10px', color: '#999', marginTop: '4px', borderTop: '1px solid #DDE3F5', paddingTop: '6px' }}>Die beste Methode wird beim Erstberatungsgespräch individuell bestimmt.</div>
+            <a href="/methoden-quiz" style={{ display: 'block', textAlign: 'center', marginTop: '8px', backgroundColor: '#003399', color: '#fff', padding: '8px 10px', borderRadius: '4px', fontSize: '12px', fontWeight: 700, textDecoration: 'none' }}>
+              30-Sekunden-Quiz starten →
+            </a>
+            <div style={{ fontSize: '10px', color: '#999', marginTop: '6px', borderTop: '1px solid #DDE3F5', paddingTop: '6px' }}>Die beste Methode wird beim Erstberatungsgespräch individuell bestimmt.</div>
           </div>
         )}
       </div>
@@ -120,7 +123,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
       {/* Entfernung */}
       <div style={S.section}>
         <div style={S.sectionTitle}>Entfernung</div>
-        {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 999, label: 'beliebig' }].map(opt => (
+        {[{ val: 5, label: 'bis 5 km' }, { val: 10, label: 'bis 10 km' }, { val: 20, label: 'bis 20 km' }, { val: 30, label: 'bis 30 km' }, { val: 50, label: 'bis 50 km' }, { val: 100, label: 'bis 100 km' }, { val: 999, label: 'beliebig' }].map(opt => (
           <label key={opt.val} style={S.label}>
             <input type="radio" name="distance" checked={filters.maxDistance === opt.val} onChange={() => setFilters({ ...filters, maxDistance: opt.val })} style={{ accentColor: '#003399', cursor: 'pointer' }} />
             {opt.label}

@@ -1,8 +1,4 @@
 {
-  "rating": 4.3,
-  "reviewCount": 186,
-  "summary": [],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Nicole Haderecker",
@@ -39,5 +35,9 @@
       "text": "Sehr kompetent und freundlich.",
       "time": 1771402015
     }
-  ]
+  ],
+  "rating": 4.3,
+  "reviewCount": 186,
+  "summary": [],
+  "lastUpdated": "2026-04-26T19:23:59.039Z"
 }

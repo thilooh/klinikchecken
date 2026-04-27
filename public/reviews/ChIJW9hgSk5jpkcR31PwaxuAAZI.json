@@ -1,12 +1,4 @@
 {
-  "rating": 3.9,
-  "reviewCount": 42,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell eingesetzt",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Andreas Rühr",
@@ -64,5 +56,13 @@
       "time": 1765984728,
       "translated": false
     }
-  ]
+  ],
+  "rating": 3.9,
+  "reviewCount": 42,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:28.359Z"
 }

@@ -1,12 +1,4 @@
 {
-  "rating": 4.8,
-  "reviewCount": 19,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Helga von den Bergen",
@@ -68,5 +60,13 @@
       "time": 1688403675,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewCount": 19,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:36.230Z"
 }

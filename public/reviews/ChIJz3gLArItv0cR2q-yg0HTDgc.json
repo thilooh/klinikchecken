@@ -1,8 +1,4 @@
 {
-  "rating": 4.4,
-  "reviewCount": 293,
-  "summary": [],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Cyriane Beltrami",
@@ -19,11 +15,35 @@
       "time": 1774695677
     },
     {
+      "author_name": "Julia Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/107076812339154830413/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbouEuIoyzC4-osGfZb3a3nL3xagMPUWH0NTDYynCYlv9BzQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Meiner Meinung nach eher ein professionelles Kosmetik Studio, wo auch sehr groß Werbung für kosmetische Behandlungen im Wartezimmer läuft. Häßliche, juckende Warzen, die auch psychisch belasten, wurden mir von anderen Dermatologen als Kassenleistung entfernt, hier wollen sie Unsummen dafür haben.",
+      "time": 1774695677,
+      "translated": false
+    },
+    {
       "author_name": "Gabriela Viridiana Guadarrama Garcia",
       "rating": 3,
       "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin Stammgast und die Betreuung durch Dr. Omaj ist hervorragend, ebenso wie die meisten Mitarbeiter, mit Ausnahme einer Empfangsdame, die immer unhöflich ist.",
       "time": 1774688192
+    },
+    {
+      "author_name": "Gabriela Viridiana Guadarrama Garcia",
+      "author_url": "https://www.google.com/maps/contrib/109493938475997409238/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1gyhzK4c2f-QQrYxGaXMKj4neOx-LvwNY3cnyf18boIW2PVQL=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich bin Stammgast und die Betreuung durch Dr. Omaj ist hervorragend, ebenso wie die meisten Mitarbeiter, mit Ausnahme einer Empfangsdame, die immer unhöflich ist.",
+      "time": 1774688192,
+      "translated": true
     },
     {
       "author_name": "Becca Becci",
@@ -33,11 +53,39 @@
       "time": 1774612870
     },
     {
+      "author_name": "Becca Becci",
+      "author_url": "https://www.google.com/maps/contrib/102189907842741705813/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQeUgbmoij7UMlHTZd9zZ5MYf2KCUwC9kKVVgDRxLDxI4-Guw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich bin mit der Hautnah Dermatologie Praxis nach meinem ersten Besuch sehr zufrieden. Dr. Omaj geht kompetent auf meine Fragen ein und er nimmt sich Zeit, diese zu beantworten. Auch die MFA an der Anmeldung und am Telefon sind sehr freundlich und zuvorkommend. Die Wartezeit auf einen Termin betrug 8 Wochen, was für eine Hautarztpraxis nicht ungewöhnlich ist.\n\nEdit März 2026: war für einen kleinen Eingriff in der Praxis und muss wirklich ALLEN mein Lob aussprechen. Ein wunderbares Team mit einem kompetenten und ultra sympathischen Chef.",
+      "time": 1774612870,
+      "translated": false
+    },
+    {
       "author_name": "Daniil",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
       "text": "Ich bin sehr zufrieden mit dieser dermatologischen Praxis Hautnah und kann sie uneingeschränkt weiterempfehlen.\n\nIch bin ursprünglich zur Hautkrebsvorsorge in die Praxis gekommen und habe sehr schnell einen Termin bekommen. Die gesamte Organisation ist hervorragend – sowohl die Terminvergabe als auch der Ablauf vor Ort sind effizient und ohne lange Wartezeiten.\n\nDie Praxis ist sehr modern ausgestattet, alles ist sauber, gepflegt und ansprechend gestaltet. Sowohl die Ärzte als auch das gesamte Praxisteam sind ausgesprochen freundlich, aufmerksam und professionell.\n\nDie Untersuchung verlief schnell, strukturiert und gleichzeitig sehr gründlich. Besonders positiv hervorzuheben ist, dass nicht nur mein ursprüngliches Anliegen behandelt wurde: Es wurde zusätzlich eine kleine Auffälligkeit entdeckt, die direkt und unkompliziert entfernt werden konnte.\n\nDarüber hinaus wurde bei mir eine bisher unerkannte Allergie festgestellt. Ich wurde umfassend untersucht und habe eine sehr wirksame Behandlung erhalten.\n\nMan merkt deutlich, dass die Ärzte hier sehr aufmerksam sind und den Patienten ganzheitlich und gründlich betrachten.\n\nInsgesamt bin ich wirklich sehr zufrieden und kann diese Praxis jedem nur empfehlen.",
       "time": 1774511714
+    },
+    {
+      "author_name": "Daniil",
+      "author_url": "https://www.google.com/maps/contrib/104033331231347313802/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3z_zhDgYyG0kyOHb-jr2LYM4YsjEpyfhJTE34VHBaJpBF2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich bin sehr zufrieden mit dieser dermatologischen Praxis Hautnah und kann sie uneingeschränkt weiterempfehlen.\n\nIch bin ursprünglich zur Hautkrebsvorsorge in die Praxis gekommen und habe sehr schnell einen Termin bekommen. Die gesamte Organisation ist hervorragend – sowohl die Terminvergabe als auch der Ablauf vor Ort sind effizient und ohne lange Wartezeiten.\n\nDie Praxis ist sehr modern ausgestattet, alles ist sauber, gepflegt und ansprechend gestaltet. Sowohl die Ärzte als auch das gesamte Praxisteam sind ausgesprochen freundlich, aufmerksam und professionell.\n\nDie Untersuchung verlief schnell, strukturiert und gleichzeitig sehr gründlich. Besonders positiv hervorzuheben ist, dass nicht nur mein ursprüngliches Anliegen behandelt wurde: Es wurde zusätzlich eine kleine Auffälligkeit entdeckt, die direkt und unkompliziert entfernt werden konnte.\n\nDarüber hinaus wurde bei mir eine bisher unerkannte Allergie festgestellt. Ich wurde umfassend untersucht und habe eine sehr wirksame Behandlung erhalten.\n\nMan merkt deutlich, dass die Ärzte hier sehr aufmerksam sind und den Patienten ganzheitlich und gründlich betrachten.\n\nInsgesamt bin ich wirklich sehr zufrieden und kann diese Praxis jedem nur empfehlen.",
+      "time": 1774511714,
+      "translated": false
     }
-  ]
+  ],
+  "rating": 4.4,
+  "reviewCount": 293,
+  "summary": [],
+  "lastUpdated": "2026-04-26T19:23:59.800Z"
 }

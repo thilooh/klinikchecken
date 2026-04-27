@@ -8,7 +8,8 @@ export default function Navbar() {
   const { pathname } = useLocation()
 
   const navLinks = [
-    { label: 'Besenreiser', to: '/' },
+    { label: 'Praxen finden', to: '/' },
+    { label: 'Methode-Check', to: '/methoden-quiz' },
     { label: 'Ratgeber', to: '/ratgeber' },
     { label: 'Über uns', to: '/ueber-uns' },
   ]

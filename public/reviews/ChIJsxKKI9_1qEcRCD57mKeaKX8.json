@@ -1,12 +1,4 @@
 {
-  "rating": 4.9,
-  "reviewCount": 143,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Klaus von Keiser",
@@ -28,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnWKlrYkUvgowUWlMBdY-5iiqaWaXUfSrF7L74ZTC5JmYen6s=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war bei Frau Wendt in Behandlung und war extrem überzeugt. Frau Nowak am Empfang war sehr freundlich und zuvorkommend. Nicht nur die Klinik ist schön, auch die Leistung weiß zu begeistern. Frau Wendt hat eine eingehende Diagnose gestellt, sich Zeit genommen und mir als Medizinischem Laien verständlich das Problem und die eventuellen Folgen erläutert. Die anschließende Operation lief schmerzfrei, sodass ich im Anschluss gut in die Ostern konnte. Ich habe mich rundum in den besten Händen gefühlt und komme gerne wieder!",
+      "time": 1774624422,
+      "translated": false
+    },
+    {
+      "author_name": "C V",
+      "author_url": "https://www.google.com/maps/contrib/103763357729056079856/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnWKlrYkUvgowUWlMBdY-5iiqaWaXUfSrF7L74ZTC5JmYen6s=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war bei Frau Wendt in Behandlung und war extrem überzeugt. Frau Nowak am Empfang war sehr freundlich und zuvorkommend. Nicht nur die Klinik ist schön, auch die Leistung weiß zu begeistern. Frau Wendt hat eine eingehende Diagnose gestellt, sich Zeit genommen und mir als Medizinischem Laien verständlich das Problem und die eventuellen Folgen erläutert. Die anschließende Operation lief schmerzfrei, sodass ich im Anschluss gut in die Ostern konnte. Ich habe mich rundum in den besten Händen gefühlt und komme gerne wieder!",
       "time": 1774624422,
       "translated": false
@@ -68,5 +72,13 @@
       "time": 1768409621,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.9,
+  "reviewCount": 143,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:24.822Z"
 }

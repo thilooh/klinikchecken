@@ -1,0 +1,66 @@
+{
+  "reviews": [
+    {
+      "author_name": "Sebastian Peters",
+      "author_url": "https://www.google.com/maps/contrib/117178835226930151882/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYcL4aGoFBb0li5QNSay6SXMsoM4ax1pDLdgnXVCGdwWVK3Sfd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1773996223,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Kleylein",
+      "author_url": "https://www.google.com/maps/contrib/101867768586428416918/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdK_BUDtwatCYWsuCuAVspTZUszUWXj-zavfi1qobVsevfRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Sachkompetende, freundliche Behandlung.\nSehr nette und freundliche Arzthelferin. Alles in allem, sehr Zufrieden.",
+      "time": 1770299288,
+      "translated": false
+    },
+    {
+      "author_name": "Annamaria Brunhuber",
+      "author_url": "https://www.google.com/maps/contrib/108974578857055662077/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFQLq2ByRS8a2gDBHpTBU7gt1itI5EKOmfruZq8EPV52zT0w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "War zur Hautkrebsvorsorge als Selbstzahler dort. Die Ärztin war sehr nett, hat alles super erklärt und sich viel Zeit genommen, man fühlt sich wohl. Auch die Dame am Empfang war sehr freundlich. Alles top.",
+      "time": 1770125099,
+      "translated": false
+    },
+    {
+      "author_name": "Лиза Сидоренко",
+      "author_url": "https://www.google.com/maps/contrib/103607637961366379611/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcb-2GSXSdgpPiT8geZd8-rb50TeRlPeYU8uZJWhkkhVMJWNY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Eine hervorragende Praxis! Ich bin zufällig vorbeigekommen, habe sie gesehen und bin ohne Terminal hineingegangen, um nach dem Preis zu fragen und einen Termin zu vereinbaren. Ich wurde sofort von einer sehr freundlichen Rezeptionistin und einem sehr freundlichen Arzt behandelt. Am nächsten Morgen wurde mir ein Termin gegeben, und alles war in einem Besuch erledigt. Keine Wartezeiten, keine Schlangen, kein Stress und keine Nervosität. Ausgezeichnet!",
+      "time": 1770033516,
+      "translated": true
+    },
+    {
+      "author_name": "Renate M.",
+      "author_url": "https://www.google.com/maps/contrib/108799750305129600328/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMMcGc5mCLGVdbf6Y8VJSVVYBKXqKM87o0qEiB4HhKWkKT0t5Snw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Frau Dr. Streikiene ist eine Ärztin, die mein vollstes Vertrauen genießt. Sie nimmt sich tatsächlich Zeit; man kann Fragen stellen und sie beantwortet diese ruhig und verständlich. Ihre langjährige berufliche Erfahrung ist deutlich erkennbar und man fühlt sich bei ihr als Patient und als Mensch gesehen. Sie arbeitet sehr genau und sorgfältig und wirkt mit ihrer ganzen Persönlichkeit sehr beruhigend und vertrauenswürdig. Ich fühle mich bei ihr sehr gut aufgehoben.",
+      "time": 1769530018,
+      "translated": false
+    }
+  ],
+  "rating": 5,
+  "reviewCount": 12,
+  "summary": [],
+  "lastUpdated": "2026-04-26T19:24:05.492Z"
+}

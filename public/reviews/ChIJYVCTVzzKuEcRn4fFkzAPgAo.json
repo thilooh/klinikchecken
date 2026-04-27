@@ -1,12 +1,4 @@
 {
-  "rating": 3.8,
-  "reviewCount": 12,
-  "summary": [
-    "Schnelle Hilfe bei Hautnotfällen, Spezialistin Dr. Jopen für Allergologie wird gelobt",
-    "Gemischte Erfahrungen: Botox-Behandlungen mit gemeldeten Komplikationen",
-    "Kosmetik-Bereich erhält deutlich kritischere Bewertungen als der ärztliche Bereich"
-  ],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "J. S.",
@@ -14,6 +6,18 @@
       "relative_time_description": "vor 2 Monaten",
       "text": "Am 17.12.2025 wurde bei mir durch Herrn Dr. Hilton eine Botox-Behandlung im oberen Gesichtsbereich durchgeführt. In der Folge entwickelte sich eine deutlich sichtbare Asymmetrie im Bereich der Augenbrauen (siehe beigefügtes Foto).\n\nNach einer späteren Korrekturbehandlung durch eine Kollegin bestand weiterhin eine Asymmetrie. Zusätzlich kam es zu einem Absinken beider Augenbrauen, was mein Erscheinungsbild weiter beeinträchtigt hat. Eine weitere Korrektur wurde mir anschließend durch Herrn Dr. Hilton nicht mehr angeboten.\n\nDer Verlauf der Behandlung hat mich sowohl äußerlich als auch emotional stark belastet. Insbesondere das Ausbleiben weiterer Unterstützung am Ende der Behandlung hat bei mir große Enttäuschung ausgelöst. Ich hoffe nun, dass die Wirkung des Botox zeitnah nachlässt.",
       "time": 1769844545
+    },
+    {
+      "author_name": "Jen Sch",
+      "author_url": "https://www.google.com/maps/contrib/102793349057806816395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJS1HhH2AdDYV8-zP5TTuDuGkwSRdB17lX8HqqKkFzE7I_3gw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Am 17.12.2025 wurde bei mir durch Herrn Dr. Hilton eine Botox-Behandlung im oberen Gesichtsbereich durchgeführt. In der Folge entwickelte sich eine deutlich sichtbare Asymmetrie im Bereich der Augenbrauen (siehe beigefügtes Foto).\n\nNach einer späteren Korrekturbehandlung durch eine Kollegin bestand weiterhin eine Asymmetrie. Zusätzlich kam es zu einem Absinken beider Augenbrauen, was mein Erscheinungsbild weiter beeinträchtigt hat. Eine weitere Korrektur wurde mir anschließend durch Herrn Dr. Hilton nicht mehr angeboten.\n\nDer Verlauf der Behandlung hat mich sowohl äußerlich als auch emotional stark belastet. Insbesondere das Ausbleiben weiterer Unterstützung am Ende der Behandlung hat bei mir große Enttäuschung ausgelöst. Ich hoffe nun, dass die Wirkung des Botox zeitnah nachlässt.",
+      "time": 1769844545,
+      "translated": false
     },
     {
       "author_name": "Piralo Kostajnica",
@@ -43,5 +47,13 @@
       "text": "Kürzlich habe ich eine Kosmetikerin für die Durchführung einer Mikrodermabrasion besucht. Vor Beginn der Behandlung habe ich erklärt, dass ich diese Prozedur zum ersten Mal mache, aber leider hielt es die Kosmetikerin nicht für nötig, mir zu erklären, was genau gemacht wird und wie der Ablauf ist. Stattdessen wurde einfach die Mikrodermabrasion durchgeführt, und anschließend begann die Kosmetikerin ohne Vorwarnung eine manuelle Gesichtsreinigung mit den Händen.\n\nDanach wurde auf die bereits gereizte Haut ein Peeling mit kleinen Partikeln aufgetragen, und mein Gesicht wurde regelrecht geschrubbt, was zu einer starken Reizung führte. Aber das war noch nicht alles – die Kosmetikerin schlug danach ein Fruchtsäurepeeling vor. Ich lehnte ab, da die Haut nach dem Entfernen der obersten Schicht, der manuellen Reinigung und dem Peeling bereits stark beansprucht war. Ein Säurepeeling in dieser Situation hätte zu ernsthaften Verbrennungen führen können. So eine unprofessionelle und falsche Reihenfolge von Behandlungen habe ich noch nie erlebt.\n\nZusätzlich wollte die Kosmetikerin während des Termins auch noch eine Korrektur meiner Augenbrauen vornehmen. Wozu? Ich war lediglich für eine Mikrodermabrasion angemeldet und hatte keine weiteren Behandlungen gewünscht.\n\nEin weiterer negativer Punkt war das äußere Erscheinungsbild der Kosmetikerin. Sie sah selbst nicht sehr gepflegt aus, mit tiefen Falten im Gesicht. Meiner Meinung nach sollten Menschen, die in dieser Branche arbeiten, stets gepflegt und ordentlich aussehen – das ist ihre Visitenkarte.\n\nAuch der unangenehme Geruch nach Zigaretten, der von der Kosmetikerin ausging, verschlechterte den Gesamteindruck weiter.\n\nAbsolut nicht zu empfehlen. Ich rate dringend, echte Profis für die Hautpflege zu suchen.",
       "time": 1727789296
     }
-  ]
+  ],
+  "rating": 3.8,
+  "reviewCount": 12,
+  "summary": [
+    "Schnelle Hilfe bei Hautnotfällen, Spezialistin Dr. Jopen für Allergologie wird gelobt",
+    "Gemischte Erfahrungen: Botox-Behandlungen mit gemeldeten Komplikationen",
+    "Kosmetik-Bereich erhält deutlich kritischere Bewertungen als der ärztliche Bereich"
+  ],
+  "lastUpdated": "2026-04-26T19:23:55.978Z"
 }

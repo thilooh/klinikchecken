@@ -1,8 +1,4 @@
 {
-  "rating": 4.4,
-  "reviewCount": 92,
-  "summary": [],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Elias",
@@ -38,6 +34,22 @@
       "relative_time_description": "vor einem Monat",
       "text": "1 Stunde wartezeit. Nimmt euch genug wartezeit trotz erteilten Termin. Bin froh das mein Ehemann  mit mir war sonst hätte ich keine Chance  mit 2 Kindern  da 1 Std zu warten",
       "time": 1771942241
+    },
+    {
+      "author_name": "Enver Hopf",
+      "author_url": "https://www.google.com/maps/contrib/103077651066540855218/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDR6X7jCMYHF_I6reFppBC8rMxgdL2nvBULyzMaSOY749Q1g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "1 Stunde wartezeit. Nimmt euch genug wartezeit trotz erteilten Termin. Bin froh das mein Ehemann  mit mir war sonst hätte ich keine Chance  mit 2 Kindern  da 1 Std zu warten",
+      "time": 1771942241,
+      "translated": false
     }
-  ]
+  ],
+  "rating": 4.4,
+  "reviewCount": 92,
+  "summary": [],
+  "lastUpdated": "2026-04-26T19:23:59.536Z"
 }

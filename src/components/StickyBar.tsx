@@ -32,7 +32,7 @@ export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF
                   fontSize: '11px', fontWeight: 700, color: '#003399', flexShrink: 0, overflow: 'hidden',
                 }}>
                   {c.media?.logo
-                    ? <img src={c.media.logo} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                    ? <img src={c.media.logo} alt="" loading="lazy" decoding="async" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
                     : c.name.charAt(0)}
                 </div>
               ))}
@@ -59,7 +59,7 @@ export default function StickyBar({ clinics, onRequest, onClear, ctaColor = '#FF
                 fontSize: '12px', fontWeight: 700, color: '#003399', flexShrink: 0, overflow: 'hidden',
               }}>
                 {c.media?.logo
-                  ? <img src={c.media.logo} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                  ? <img src={c.media.logo} alt="" loading="lazy" decoding="async" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
                   : c.name.charAt(0)}
               </div>
             ))}

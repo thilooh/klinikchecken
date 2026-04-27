@@ -1,12 +1,4 @@
 {
-  "rating": 4.6,
-  "reviewCount": 89,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Sabine Torakis",
@@ -14,6 +6,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj-aXbH7nkjOFsGN8VmXm_BhJrruvAudONwVnrt83W_dikWw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1769431332,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine Torakis",
+      "author_url": "https://www.google.com/maps/contrib/112803374197129318414/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj-aXbH7nkjOFsGN8VmXm_BhJrruvAudONwVnrt83W_dikWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1769431332,
       "translated": false
@@ -64,5 +66,13 @@
       "time": 1762784442,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.6,
+  "reviewCount": 89,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:20.627Z"
 }

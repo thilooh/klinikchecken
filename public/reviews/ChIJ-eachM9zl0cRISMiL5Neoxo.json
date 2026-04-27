@@ -1,12 +1,4 @@
 {
-  "rating": 4.9,
-  "reviewCount": 105,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell eingesetzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Katarzyna Wolny",
@@ -28,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeyML7Hu7wt8hAhR7JTolos0vN8I2v-257GwbjfVFLJ8dBKg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich war heute zur Hautkrebsvorsorge und bin wirklich sehr zufrieden. Frau Islamidou ist sehr sympathisch und die Praxis super organisiert. Vielen Dank, kann ich empfehlen!",
+      "time": 1772012063,
+      "translated": false
+    },
+    {
+      "author_name": "Katja Krust (Kk)",
+      "author_url": "https://www.google.com/maps/contrib/117522971864122815488/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeyML7Hu7wt8hAhR7JTolos0vN8I2v-257GwbjfVFLJ8dBKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich war heute zur Hautkrebsvorsorge und bin wirklich sehr zufrieden. Frau Islamidou ist sehr sympathisch und die Praxis super organisiert. Vielen Dank, kann ich empfehlen!",
       "time": 1772012063,
       "translated": false
@@ -68,5 +72,13 @@
       "time": 1769689579,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.9,
+  "reviewCount": 105,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:41.342Z"
 }

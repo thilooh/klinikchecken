@@ -1,12 +1,4 @@
 {
-  "rating": 4.1,
-  "reviewCount": 34,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Vereinzelt werden längere Wartezeiten erwähnt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Darius Sk",
@@ -66,5 +58,13 @@
       "time": 1671599747,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.1,
+  "reviewCount": 34,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Vereinzelt werden längere Wartezeiten erwähnt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:48.044Z"
 }

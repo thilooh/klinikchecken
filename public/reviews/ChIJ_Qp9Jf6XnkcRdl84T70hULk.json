@@ -1,12 +1,4 @@
 {
-  "rating": 4.6,
-  "reviewCount": 163,
-  "summary": [
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Antonia",
@@ -66,5 +58,13 @@
       "time": 1776176527,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.6,
+  "reviewCount": 163,
+  "summary": [
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
+  ],
+  "lastUpdated": "2026-04-26T19:24:16.932Z"
 }

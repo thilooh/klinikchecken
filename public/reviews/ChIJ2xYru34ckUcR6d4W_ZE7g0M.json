@@ -1,12 +1,4 @@
 {
-  "rating": 4.4,
-  "reviewCount": 164,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Valentin Bauer",
@@ -64,5 +56,13 @@
       "time": 1772180128,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.4,
+  "reviewCount": 164,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:17.408Z"
 }

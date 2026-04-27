@@ -7,7 +7,7 @@ import GoogleReviewsModal from './GoogleReviewsModal'
 import ClinicProfileModal from './ClinicProfileModal'
 import { clarityEvent } from '../lib/clarity'
 import { sendEvent } from '../lib/gtm'
-import { isOpenToday } from '../lib/openHours'
+import { isOpenToday, isAppointmentOnly } from '../lib/openHours'
 
 interface Props {
   clinic: Clinic
@@ -18,6 +18,8 @@ interface Props {
   isSelected?: boolean
   onToggleSelect?: () => void
   ctaColor?: string
+  /** 0-based position in the result list — first 3 are eager-loaded, rest lazy. */
+  index?: number
 }
 
 
@@ -71,9 +73,13 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
   )
 }
 
-export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600' }: Props) {
+export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600', index = 99 }: Props) {
+  const eagerLoad = index < 3
+  const imgLoading = eagerLoad ? 'eager' as const : 'lazy' as const
+  const imgFetchPriority = index === 0 ? 'high' as const : 'auto' as const
   const vt = cardVariant ?? VARIANTS.a.card
   const openToday = isOpenToday(clinic.openHours)
+  const appointmentOnly = isAppointmentOnly(clinic.openHours)
   const [favorited, setFavorited] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
   const [showProfile, setShowProfile] = useState(false)
@@ -81,7 +87,18 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   const openProfile = () => {
     setShowProfile(true)
     clarityEvent('profile_view')
-    sendEvent('ViewContent', { content_name: clinic.name, content_category: clinic.city })
+    sendEvent('ViewContent', { content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city })
+  }
+  const openReviews = () => {
+    if (clinic.placeId) {
+      setShowReviews(true)
+    } else {
+      window.open(
+        `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clinic.name + ' ' + clinic.address)}`,
+        '_blank',
+        'noopener,noreferrer',
+      )
+    }
   }
   const [slide, setSlide] = useState(0)
   const [touchStart, setTouchStart] = useState<number | null>(null)
@@ -150,11 +167,11 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                   <div key={i} style={{ width: `calc(100% / ${slides.length})`, height: '100%', flexShrink: 0 }}>
                     {s.type === 'logo'
                       ? <div style={{ width: '100%', height: '100%', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '16px' }}>
-                          <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }}
+                          <img src={s.src} alt={`${clinic.name} Logo`} loading={imgLoading} decoding="async" fetchPriority={imgFetchPriority} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }}
                             onError={e => { (e.target as HTMLImageElement).style.display = 'none'; (e.target as HTMLImageElement).parentElement!.innerHTML = '<span style="font-size:32px">🏥</span>' }} />
                         </div>
                       : s.type === 'photo'
-                        ? <img src={s.src} alt="Praxisfoto" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
+                        ? <img src={s.src} alt={`${clinic.name} Praxisfoto`} loading={imgLoading} decoding="async" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
                             onError={e => { const el = e.target as HTMLImageElement; el.style.display = 'none'; el.parentElement!.style.background = 'linear-gradient(135deg,#E2EBF5,#C0D2E8)'; el.parentElement!.innerHTML = '<div style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px"><span style="font-size:38px">📍</span><span style="font-size:13px;color:#8A9EBB;font-weight:500">Foto folgt</span></div>' }} />
                         : <div style={{ width: '100%', height: '100%', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
                             <span style={{ fontSize: '38px' }}>{s.icon}</span>
@@ -186,19 +203,17 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
           <div style={{ padding: '14px 16px 10px' }}>
             <button onClick={openProfile} style={{ color: '#111', fontWeight: 700, fontSize: '17px', textDecoration: 'none', display: 'block', marginBottom: '4px', lineHeight: 1.3, background: 'none', border: 'none', padding: 0, cursor: 'pointer', textAlign: 'left', width: '100%' }}>{clinic.name}</button>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.5, fontStyle: 'italic' }}>{vt.subline(clinic)}</div>
-            {clinic.googleRating ? (
+            {clinic.googleRating && clinic.googleReviewCount ? (
               <>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px', flexWrap: 'wrap' }}>
                   <GIcon />
                   <Stars rating={clinic.googleRating} size={16} />
                   <span style={{ fontWeight: 700, fontSize: '16px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
                 </div>
-                {clinic.placeId && (
-                  <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}>
-                    <span style={{ color: '#003399', fontSize: '13px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
-                    <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
-                  </button>
-                )}
+                <button onClick={openReviews} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', marginBottom: '10px' }}>
+                  <span style={{ color: '#003399', fontSize: '13px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Google-Bewertungen lesen</span>
+                  <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                </button>
               </>
             ) : (
               <div style={{ marginBottom: '10px' }} />
@@ -210,8 +225,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             <USPs items={clinic.usp} />
             <ClinicTags clinic={clinic} />
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
-              <span style={{ color: openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: appointmentOnly ? '#0052CC' : openToday ? '#00A651' : '#CC0000', display: 'inline-block', flexShrink: 0 }} />
+              <span style={{ color: appointmentOnly ? '#0052CC' : openToday ? '#00A651' : '#CC0000', fontSize: '13px', fontWeight: 600 }}>{appointmentOnly ? 'Nur nach Vereinbarung' : openToday ? 'Heute geöffnet' : 'Heute geschlossen'}</span>
             </div>
           </div>
 
@@ -257,10 +272,10 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 <div key={i} style={{ minWidth: '220px', height: '220px', flexShrink: 0 }}>
                   {s.type === 'logo'
                     ? <div style={{ width: '220px', height: '220px', background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '20px' }}>
-                        <img src={s.src} alt="Logo" style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                        <img src={s.src} alt={`${clinic.name} Logo`} loading={imgLoading} decoding="async" fetchPriority={imgFetchPriority} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
                       </div>
                     : s.type === 'photo'
-                      ? <img src={s.src} alt="Praxisfoto" style={{ width: '220px', height: '220px', objectFit: 'cover', display: 'block' }} />
+                      ? <img src={s.src} alt={`${clinic.name} Praxisfoto`} loading={imgLoading} decoding="async" style={{ width: '220px', height: '220px', objectFit: 'cover', display: 'block' }} />
                       : <div style={{ width: '220px', height: '220px', background: s.bg, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
                           <span style={{ fontSize: '40px' }}>{s.icon}</span>
                           <span style={{ fontSize: '13px', color: '#8A9EBB', fontWeight: 500 }}>{s.label}</span>
@@ -295,17 +310,15 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <div style={{ fontSize: '12px', color: '#555', fontStyle: 'italic', marginBottom: '7px', lineHeight: 1.4 }}>{vt.subline(clinic)}</div>
 
               {/* Single rating row: G icon · stars · score · review link · badge */}
-              {clinic.googleRating ? (
+              {clinic.googleRating && clinic.googleReviewCount ? (
                 <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px', flexWrap: 'wrap' }}>
                   <GIcon />
                   <Stars rating={clinic.googleRating} size={14} />
                   <span style={{ fontWeight: 700, fontSize: '14px', color: '#111' }}>{clinic.googleRating.toFixed(1)}</span>
-                  {clinic.placeId && (
-                    <button onClick={() => setShowReviews(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '2px' }}>
-                      <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Bewertungen lesen</span>
-                      <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
-                    </button>
-                  )}
+                  <button onClick={openReviews} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '2px' }}>
+                    <span style={{ color: '#003399', fontSize: '12px', fontWeight: 600, textDecoration: 'underline' }}>{clinic.googleReviewCount} Bewertungen lesen</span>
+                    <span style={{ color: '#003399', fontSize: '13px' }}>&#8250;</span>
+                  </button>
                 </div>
               ) : (
                 <div style={{ marginBottom: '8px' }} />
@@ -321,8 +334,8 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
             {/* Col 3 – opening hours + CTA */}
             <div className="flex flex-col justify-between" style={{ flexShrink: 0, textAlign: 'right', width: '160px' }}>
               <div>
-                <div style={{ color: openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
-                  {openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
+                <div style={{ color: appointmentOnly ? '#0052CC' : openToday ? '#00A651' : '#CC0000', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
+                  {appointmentOnly ? 'Nur nach Vereinbarung' : openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
                 </div>
                 {openToday && (
                   <div style={{ fontSize: '11px', color: '#555', lineHeight: 1.6 }}>

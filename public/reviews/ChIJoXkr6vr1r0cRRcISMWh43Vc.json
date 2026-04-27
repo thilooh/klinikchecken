@@ -1,12 +1,4 @@
 {
-  "rating": 4.7,
-  "reviewCount": 87,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Stefanie Hagenberg",
@@ -55,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Heinz Czerwonka",
+      "author_url": "https://www.google.com/maps/contrib/109705240008380734423/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYW4uLXJFW7sMfeYWfl5vH-W-MYf-LPYdKs9F7PRXOGkGQf5M=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin total Begeistert vom Anfang bis zum Ende der Behandlung. Mein Nildelta am linken Bein sieht aus wie früher sauber und ohne Narben. Die Nachuntersuchungen waren immer sehr gut und alle die ich getroffen habe waren sehr fröhlich und ich fühlte mich wie ein gern gesehener Patient. Vielen Dank an alle.",
+      "time": 1775370293,
+      "translated": false
+    },
+    {
       "author_name": "Juliana Ventura Dias Bomfim",
       "author_url": "https://www.google.com/maps/contrib/111230821334450505512/reviews",
       "language": "de",
@@ -66,5 +70,13 @@
       "time": 1773325677,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.7,
+  "reviewCount": 87,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:10.447Z"
 }

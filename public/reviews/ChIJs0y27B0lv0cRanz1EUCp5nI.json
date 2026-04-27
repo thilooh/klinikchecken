@@ -1,12 +1,4 @@
 {
-  "rating": 3.2,
-  "reviewCount": 122,
-  "summary": [
-    "Akuttermine kurzfristig verfügbar, behandelnde Ärzte als freundlich beschrieben",
-    "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
-    "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
-  ],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Yk berre",
@@ -43,5 +35,13 @@
       "text": "Ich bin seit vielen Jahren Patientin in der Privatpraxis - mittlerweile als Selbstzahlerin. Dort bekommt man schnell und unkompliziert einen Termin, im Gegensatz zur „öffentlichen“ Praxis, wo man mit monatelanger Wartezeit rechnen muss. Das ganze Team ist freundlich.\nJedoch war ich zuletzt nicht mehr zufrieden. Das ganze Procedere des Hautkrebsfrüherkennung dauert gerade mal ca. 5 Minuten. Den Arzt sieht man nur ausgezogen und vorbereitet für die Untersuchung. Das mag so üblich sein, fühlt sich aber für mich nicht gut an. Früher wurde sowohl die Kopfhaut, als auch die intraoralen Schleimhäute untersucht, das gehört heute leider nicht mehr dazu.\nInsgesamt stimmt für mich das Preis-Leistungsverhältnis nicht mehr.",
       "time": 1765530666
     }
-  ]
+  ],
+  "rating": 3.2,
+  "reviewCount": 122,
+  "summary": [
+    "Akuttermine kurzfristig verfügbar, behandelnde Ärzte als freundlich beschrieben",
+    "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
+    "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
+  ],
+  "lastUpdated": "2026-04-26T19:23:55.177Z"
 }

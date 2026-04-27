@@ -1,12 +1,4 @@
 {
-  "rating": 4.2,
-  "reviewCount": 23,
-  "summary": [
-    "Hautscreening und kleinere Eingriffe werden als professionell und freundlich gelobt",
-    "Rezeption und telefonische Erreichbarkeit werden mehrfach kritisiert",
-    "Vereinzelt Kritik an Kommunikation bei Komplikationen und Befunden"
-  ],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Salma Lahrayri",
@@ -37,11 +29,31 @@
       "time": 1751236528
     },
     {
+      "author_name": "G Som",
+      "author_url": "https://www.google.com/maps/contrib/105756256493120069303/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlsiLMn4F4rKDj679iNvwp5EcJy7qDeOP4Cq2NsjHH5iOCTmQN=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "vor 10 Monaten",
+      "text": "Ich habe kein ausführliches Ergebnis meiner Untersuchung erhalten, trotz erneutem Nachfragen. Ein paar Buchstaben mit „negativ“ kam dann an. Vielen Dank auch dafür. Enttäuschend für eine Privatpraxis.\n\nNachtrag: Der Dr. rief mich persönlich an und bat mir ein Termin an, um die Ergebnisse zu besprechen. Das fand ich gut 👍",
+      "time": 1751236528,
+      "translated": false
+    },
+    {
       "author_name": "Andrea",
       "rating": 5,
       "relative_time_description": "vor 11 Monaten",
       "text": "Ich war zum Hautscreening und entfernen einer störenden Stelle bei Mokone Mengis. Alles hat sehr gut geklappt, Arzthelferin und Arzt waren sehr freundlich und nett und haben alles gut erklärt. Vollste Empfehlung!",
       "time": 1747928220
     }
-  ]
+  ],
+  "rating": 4.2,
+  "reviewCount": 23,
+  "summary": [
+    "Hautscreening und kleinere Eingriffe werden als professionell und freundlich gelobt",
+    "Rezeption und telefonische Erreichbarkeit werden mehrfach kritisiert",
+    "Vereinzelt Kritik an Kommunikation bei Komplikationen und Befunden"
+  ],
+  "lastUpdated": "2026-04-26T19:23:55.701Z"
 }

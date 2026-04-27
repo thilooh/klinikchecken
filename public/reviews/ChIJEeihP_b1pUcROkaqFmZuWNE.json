@@ -1,12 +1,4 @@
 {
-  "rating": 4.7,
-  "reviewCount": 118,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Jolina S.",
@@ -45,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Franziska Holze",
+      "author_url": "https://www.google.com/maps/contrib/101278046748643478145/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ39nsbdRHPSCacc0RCeKzIVCnsK-jMW1SxAersX-BxpWv1cGo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Man ist schon Jahre lang Patient und man bekommt kein Termin, geschweige ein Rezept für eine Creme die man dringend braucht,telefonisch auch schlecht zu erreichen, weil keiner ran geht man ruft den ganzen Tag hin an und keiner geht ran.",
+      "time": 1772029182,
+      "translated": false
+    },
+    {
       "author_name": "Annelie Kunzmann",
       "author_url": "https://www.google.com/maps/contrib/107552935191617125190/reviews",
       "language": "de",
@@ -68,5 +72,13 @@
       "time": 1771387954,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.7,
+  "reviewCount": 118,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
+  ],
+  "lastUpdated": "2026-04-26T19:24:10.921Z"
 }

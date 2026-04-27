@@ -1,12 +1,4 @@
 {
-  "rating": 4.5,
-  "reviewCount": 141,
-  "summary": [
-    "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Matthias Schneider",
@@ -60,5 +52,13 @@
       "time": 1772984047,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewCount": 141,
+  "summary": [
+    "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
+  ],
+  "lastUpdated": "2026-04-26T19:24:18.150Z"
 }

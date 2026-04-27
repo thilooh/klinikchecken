@@ -1,12 +1,4 @@
 {
-  "rating": 4.8,
-  "reviewCount": 71,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Jana Hansen-Beck",
@@ -66,5 +58,13 @@
       "time": 1747679598,
       "translated": true
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewCount": 71,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:08.731Z"
 }

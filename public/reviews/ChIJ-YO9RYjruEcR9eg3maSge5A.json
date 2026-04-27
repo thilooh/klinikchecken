@@ -1,12 +1,4 @@
 {
-  "rating": 4.8,
-  "reviewCount": 129,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Nawaf Alkurdi",
@@ -67,6 +59,26 @@
       "text": "Ich bin auf Empfehlung zu Herr Dr. Wais gegangen, da ich einen Leistenbruch vermutete. Die Diagnose wurde schnell und sehr professionell gestellt, die anschließende Operation ebenso kompetent durchgeführt.\n\nVom ersten Termin bis zur Nachsorge habe ich mich bestens betreut gefühlt. Das gesamte Team ist freundlich und gut organisiert, Dr. Wais zudem sehr sympathisch und menschlich, eine so professionelle und zugleich persönliche Betreuung ist heutzutage leider nicht mehr selbstverständlich.\n\nKlare Weiterempfehlung!",
       "time": 1772036046,
       "translated": false
+    },
+    {
+      "author_name": "Maurice Schadt",
+      "author_url": "https://www.google.com/maps/contrib/105645071202018488659/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGlcr696zJbw9kKNJYfZpLHhBctf4r8NqwLpgK014S67_gAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Ich bin auf Empfehlung zu Herr Dr. Wais gegangen, da ich einen Leistenbruch vermutete. Die Diagnose wurde schnell und sehr professionell gestellt, die anschließende Operation ebenso kompetent durchgeführt.\n\nVom ersten Termin bis zur Nachsorge habe ich mich bestens betreut gefühlt. Das gesamte Team ist freundlich und gut organisiert, Dr. Wais zudem sehr sympathisch und menschlich, eine so professionelle und zugleich persönliche Betreuung ist heutzutage leider nicht mehr selbstverständlich.\n\nKlare Weiterempfehlung!",
+      "time": 1772036046,
+      "translated": false
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewCount": 129,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:31.877Z"
 }

@@ -1,12 +1,4 @@
 {
-  "rating": 5,
-  "reviewCount": 8,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Vereinzelt werden längere Wartezeiten erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Anja Ackermann",
@@ -68,5 +60,13 @@
       "time": 1743524731,
       "translated": false
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 8,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Vereinzelt werden längere Wartezeiten erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:42.271Z"
 }

@@ -1,12 +1,4 @@
 {
-  "rating": 4.4,
-  "reviewCount": 90,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Moderne Behandlungsmethoden werden professionell eingesetzt",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "V S",
@@ -64,5 +56,13 @@
       "time": 1765898233,
       "translated": true
     }
-  ]
+  ],
+  "rating": 4.4,
+  "reviewCount": 90,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:45.658Z"
 }

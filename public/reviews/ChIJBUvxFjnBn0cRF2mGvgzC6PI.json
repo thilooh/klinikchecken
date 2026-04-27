@@ -1,12 +1,4 @@
 {
-  "rating": 4.8,
-  "reviewCount": 49,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Max Mustermann",
@@ -26,6 +18,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJKMSNL4TetB72A9R3W1IDlyj2U9-PKSI3zFFYjDbOP7dIEQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1775411605,
+      "translated": false
+    },
+    {
+      "author_name": "Theodor Kath",
+      "author_url": "https://www.google.com/maps/contrib/113236802759658365131/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJKMSNL4TetB72A9R3W1IDlyj2U9-PKSI3zFFYjDbOP7dIEQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1775411605,
       "translated": false
@@ -66,5 +68,13 @@
       "time": 1759912090,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewCount": 49,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
+  ],
+  "lastUpdated": "2026-04-26T19:24:21.347Z"
 }

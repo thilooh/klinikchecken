@@ -1,8 +1,4 @@
 {
-  "rating": 4.3,
-  "reviewCount": 62,
-  "summary": [],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Stefan Wolff",
@@ -17,6 +13,18 @@
       "relative_time_description": "vor 4 Wochen",
       "text": "Kann ich leider nicht empfehlen! Ich wurde zu meinem Eingriff nur sehr spät und viel zu knapp aufgeklärt. „Ich solle einfach schnell unterschreiben und dann den Eingriff machen“, obwohl ich noch viele Fragen hatte, sodass die Ärztin keine meiner Vorerkrankungen wirklich im Blick haben konnte. Vor allem fehlte es an jeglicher Empathie, insbesondere gegenüber Patienten, die noch jene Erfahrung in dem Bereich haben. Man fühlt sich wie auf dem Fließband abgefertigt.",
       "time": 1774434891
+    },
+    {
+      "author_name": "neo",
+      "author_url": "https://www.google.com/maps/contrib/100633426660768398203/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPLQkQG-3a9_ltaawamVcKBX2mytxUTF4NWOlnIkGokFFmKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "Kann ich leider nicht empfehlen! Ich wurde zu meinem Eingriff nur sehr spät und viel zu knapp aufgeklärt. „Ich solle einfach schnell unterschreiben und dann den Eingriff machen“, obwohl ich noch viele Fragen hatte, sodass die Ärztin keine meiner Vorerkrankungen wirklich im Blick haben konnte. Vor allem fehlte es an jeglicher Empathie, insbesondere gegenüber Patienten, die noch jene Erfahrung in dem Bereich haben. Man fühlt sich wie auf dem Fließband abgefertigt.",
+      "time": 1774434891,
+      "translated": false
     },
     {
       "author_name": "Yuna Cunha",
@@ -39,5 +47,9 @@
       "text": "Absolut tolle Beratung und super Ergebnisse. :)",
       "time": 1768643488
     }
-  ]
+  ],
+  "rating": 4.3,
+  "reviewCount": 62,
+  "summary": [],
+  "lastUpdated": "2026-04-26T19:23:57.282Z"
 }

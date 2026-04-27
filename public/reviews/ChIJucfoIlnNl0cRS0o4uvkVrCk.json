@@ -1,12 +1,4 @@
 {
-  "rating": 4.3,
-  "reviewCount": 43,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Alexandra Henn",
@@ -65,6 +57,26 @@
       "text": "Sehr tolle und moderne Praxis, mir wurden Krampfadern entfernt, sehr groß und tief. Ich muss sagen ich bin rundum zufrieden. Die Nachkontrolle und die Zusammenarbeit mit meinem überweisenden Arzt war einfach mega. Super freundlicher und kompetenter Arzt. Die Arzthelferinnen sind alle sehr freundlich, trotz dem ganzen Stress. Einfach mega. Gerne komme ich wieder. Danke für die Betreuung und so eine tolle kompetente Beratung. Danke",
       "time": 1772026211,
       "translated": false
+    },
+    {
+      "author_name": "J. Bodmer",
+      "author_url": "https://www.google.com/maps/contrib/115851216912582175872/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpKsolUv6noPzIo1GFY2-d71Sh378BXbu-ZdvwIaVpUnywngGK=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr tolle und moderne Praxis, mir wurden Krampfadern entfernt, sehr groß und tief. Ich muss sagen ich bin rundum zufrieden. Die Nachkontrolle und die Zusammenarbeit mit meinem überweisenden Arzt war einfach mega. Super freundlicher und kompetenter Arzt. Die Arzthelferinnen sind alle sehr freundlich, trotz dem ganzen Stress. Einfach mega. Gerne komme ich wieder. Danke für die Betreuung und so eine tolle kompetente Beratung. Danke",
+      "time": 1772026211,
+      "translated": false
     }
-  ]
+  ],
+  "rating": 4.3,
+  "reviewCount": 43,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:20.869Z"
 }

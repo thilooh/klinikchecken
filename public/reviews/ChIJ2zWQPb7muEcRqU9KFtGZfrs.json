@@ -1,12 +1,4 @@
 {
-  "rating": 5,
-  "reviewCount": 2,
-  "summary": [
-    "Moderne Behandlungsmethoden werden professionell eingesetzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
-    "Praxis mit exzellenten Bewertungen"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "vinta obsess",
@@ -30,5 +22,13 @@
       "time": 1471359133,
       "translated": false
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 2,
+  "summary": [
+    "Moderne Behandlungsmethoden werden professionell eingesetzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
+    "Praxis mit exzellenten Bewertungen"
+  ],
+  "lastUpdated": "2026-04-26T19:24:30.115Z"
 }

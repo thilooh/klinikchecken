@@ -1,12 +1,4 @@
 {
-  "rating": 4.5,
-  "reviewCount": 17,
-  "summary": [
-    "Arzt und Team für Sorgfalt, freundliches Auftreten und minimale Wartezeiten gelobt",
-    "Photodynamische Therapie bei Keratose liefert laut Patienten sehr gute kosmetische Ergebnisse",
-    "Vereinzelt: Lichttherapie zeigte trotz hoher Kosten keine Wirkung"
-  ],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Stefan Kranzbuehler",
@@ -43,5 +35,13 @@
       "text": "Eine super Praxis mit freundlichem und kompetenten Arzt, nettem Team und tollem Zeit Management inkl. minimalster Wartezeit.  Sehr gute Behandlung und Vorsorge. Vorbildliche Corona Umsetzung. Aber auch die Nachinformation nach Laborbefunden ist stets zügig und mit konkreten Handlungsempfehlungen.  Speziell die photodynamische Therapie bei Keratose hat bei mir ein perfektes kosmetisches Ergebnis erzielt. Auch wenn die Behandlung zweimal durchgeführt werden musste.",
       "time": 1635932560
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewCount": 17,
+  "summary": [
+    "Arzt und Team für Sorgfalt, freundliches Auftreten und minimale Wartezeiten gelobt",
+    "Photodynamische Therapie bei Keratose liefert laut Patienten sehr gute kosmetische Ergebnisse",
+    "Vereinzelt: Lichttherapie zeigte trotz hoher Kosten keine Wirkung"
+  ],
+  "lastUpdated": "2026-04-26T19:23:56.789Z"
 }

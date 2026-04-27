@@ -1,12 +1,4 @@
 {
-  "rating": 4.5,
-  "reviewCount": 2,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Vereinzelt werden längere Wartezeiten erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Heike Stopp",
@@ -32,5 +24,13 @@
       "time": 1770755467,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewCount": 2,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Vereinzelt werden längere Wartezeiten erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:44.447Z"
 }

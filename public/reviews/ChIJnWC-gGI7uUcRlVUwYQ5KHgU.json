@@ -1,13 +1,15 @@
 {
-  "rating": 4.1,
-  "reviewCount": 370,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
+    {
+      "author_name": "Lukas Schmellenkamp",
+      "author_url": "https://www.google.com/maps/contrib/117746060167707707644/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdBbhIKTTuHYCdOhESZVaKR16H1Z5tBE5iVDo-UNSBMKWy9Pgl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777218245,
+      "translated": false
+    },
     {
       "author_name": "Ahmab Almahal",
       "author_url": "https://www.google.com/maps/contrib/104529032958695599080/reviews",
@@ -64,5 +66,13 @@
       "time": 1774488023,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.1,
+  "reviewCount": 371,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:32.618Z"
 }

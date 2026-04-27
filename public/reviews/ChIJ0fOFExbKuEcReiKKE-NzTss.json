@@ -1,8 +1,4 @@
 {
-  "rating": 5,
-  "reviewCount": 94,
-  "summary": [],
-  "lastUpdated": "2026-04-23T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Katja Seifried",
@@ -39,5 +35,9 @@
       "text": "Ich fühle mich bei Frau Sandmann sehr gut aufgehoben, sie hört zu, geht sehr auf den Kunden ein, erklärt ausführlich, was möglich ist und was natürlich aussieht. Sie ist eine empathische, fachlich kompetente Behandlerin!",
       "time": 1758218708
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewCount": 94,
+  "summary": [],
+  "lastUpdated": "2026-04-26T19:23:58.532Z"
 }

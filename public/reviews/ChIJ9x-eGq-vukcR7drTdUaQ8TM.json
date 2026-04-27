@@ -1,12 +1,4 @@
 {
-  "rating": 4.4,
-  "reviewCount": 28,
-  "summary": [
-    "Patienten loben häufig das freundliche und einfühlsame Team",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
-    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Christina Bracke",
@@ -64,5 +56,13 @@
       "time": 1741701188,
       "translated": false
     }
-  ]
+  ],
+  "rating": 4.4,
+  "reviewCount": 28,
+  "summary": [
+    "Patienten loben häufig das freundliche und einfühlsame Team",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
+    "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:47.361Z"
 }

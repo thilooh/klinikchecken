@@ -1,12 +1,4 @@
 {
-  "rating": 4.6,
-  "reviewCount": 51,
-  "summary": [
-    "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
-    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
-    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
-  ],
-  "lastUpdated": "2026-04-26T00:00:00.000Z",
   "reviews": [
     {
       "author_name": "Sandra Saleem",
@@ -64,5 +56,13 @@
       "time": 1768228083,
       "translated": true
     }
-  ]
+  ],
+  "rating": 4.6,
+  "reviewCount": 51,
+  "summary": [
+    "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
+    "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
+    "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
+  ],
+  "lastUpdated": "2026-04-26T19:24:21.593Z"
 }

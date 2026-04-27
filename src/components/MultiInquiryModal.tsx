@@ -55,7 +55,9 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
       const leadEventId = generateEventId()
       const leadCustomData = {
         content_name: clinics.map(c => c.name).join(', '),
-        content_category: clinics[0].city,
+        content_category: Array.from(new Set(clinics.map(c => c.city))).join(','),
+        item_name: clinics.map(c => c.name).join(', '),        // GA4
+        item_category: Array.from(new Set(clinics.map(c => c.city))).join(','),  // GA4
         value: clinics.length,
         currency: 'EUR',
         multi_inquiry: true,
@@ -107,7 +109,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
               <div key={c.id} style={{ flexShrink: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '4px', width: '90px' }}>
                 <div style={{ width: '40px', height: '40px', borderRadius: '50%', backgroundColor: '#E8F0FF', display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden', flexShrink: 0 }}>
                   {c.media?.logo
-                    ? <img src={c.media.logo} alt={c.name} style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                    ? <img src={c.media.logo} alt={c.name} loading="lazy" decoding="async" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
                     : <span style={{ fontWeight: 700, fontSize: '14px', color: '#003399' }}>{c.name.charAt(0)}</span>}
                 </div>
                 <div style={{ fontSize: '11px', fontWeight: 600, color: '#111', textAlign: 'center', lineHeight: 1.3, wordBreak: 'break-word' }}>{c.name}</div>

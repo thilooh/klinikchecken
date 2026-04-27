@@ -1,8 +1,7 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Search, MapPin, Navigation } from 'lucide-react'
 import type { FilterState } from '../types/clinic'
 import { sendEvent } from '../lib/gtm'
-import { geocodeAddress } from '../lib/geo'
 
 interface Props {
   filters: FilterState
@@ -91,34 +90,25 @@ function nearestCity(lat: number, lng: number): string {
   ).name
 }
 
-function resolveCity(raw: string): string {
-  const t = raw.trim()
-  if (!t) return raw
-  const lower = t.toLowerCase()
-  const exact = CITIES.find(c => c.name.toLowerCase() === lower)
-  if (exact) return exact.name
-  if (/^\d/.test(t)) {
-    let bestCity: typeof CITIES[0] | null = null, bestLen = 0
-    for (const city of CITIES) {
-      for (const p of city.plzPrefixes) {
-        if (t.startsWith(p) && p.length > bestLen) { bestCity = city; bestLen = p.length }
-      }
-    }
-    if (bestCity) return bestCity.name
-  }
-  const partial = CITIES.find(c => c.name.toLowerCase().startsWith(lower))
-  if (partial) return partial.name
-  return t
+type Prediction = {
+  description: string
+  place_id: string
+  main_text: string
+  secondary_text: string
+  types: string[]
 }
 
-function getMatches(input: string) {
-  const t = input.trim().toLowerCase()
-  if (!t) return CITIES
-  if (CITIES.some(c => c.name.toLowerCase() === t)) return CITIES
-  return CITIES.filter(c =>
-    c.name.toLowerCase().includes(t) ||
-    (/^\d/.test(t) && c.plzPrefixes.some(p => p.startsWith(t) || t.startsWith(p)))
-  )
+const AUTOCOMPLETE_URL = '/.netlify/functions/places-autocomplete'
+
+// Default radius (km) used when a user selects an address suggestion
+// and no explicit distance filter is active. Keeps the result list
+// focused on nearby practices instead of the full 229 sorted by distance.
+// Set wide enough that rural addresses still see a handful of results.
+const DEFAULT_NEARBY_RADIUS_KM = 75
+
+function newSessionToken(): string {
+  if (typeof crypto !== 'undefined' && 'randomUUID' in crypto) return crypto.randomUUID()
+  return Math.random().toString(36).slice(2) + Date.now().toString(36)
 }
 
 export default function SearchBar({ filters, setFilters, hero }: Props) {
@@ -126,43 +116,98 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
   const [showSuggestions, setShowSuggestions] = useState(false)
   const [locating, setLocating] = useState(false)
   const [locError, setLocError] = useState(false)
-  const [geocoding, setGeocoding] = useState(false)
+  const [resolving, setResolving] = useState(false)
+  const [predictions, setPredictions] = useState<Prediction[]>([])
+  const [loadingPredictions, setLoadingPredictions] = useState(false)
+  const [noMatchHint, setNoMatchHint] = useState(false)
+  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const requestSeqRef = useRef(0)
+  const sessionTokenRef = useRef<string>(newSessionToken())
 
-  const matches = getMatches(val)
-
-  const apply = (cityName: string, userLat?: number, userLng?: number) => {
-    setVal(cityName)
-    setFilters({ ...filters, searchCity: cityName, userLat, userLng, sortBy: userLat != null ? 'distance' : filters.sortBy })
-    setShowSuggestions(false)
-    sendEvent('Search', { search_string: cityName })
-  }
-
-  const looksLikeAddress = (t: string) =>
-    /\d/.test(t) && t.length > 5 && !CITIES.some(c => c.name.toLowerCase() === t.toLowerCase())
-
-  const handleSearch = async () => {
-    const t = val.trim()
-    const resolved = resolveCity(t)
-    const knownCity = CITIES.find(c => c.name === resolved)
-
-    if (knownCity) {
-      apply(resolved)
+  // Debounced autocomplete fetch on input change.
+  useEffect(() => {
+    if (debounceRef.current) clearTimeout(debounceRef.current)
+    const trimmed = val.trim()
+    if (trimmed.length < 2) {
+      setPredictions([])
+      setLoadingPredictions(false)
       return
     }
-
-    // Looks like a street address → geocode
-    if (looksLikeAddress(t)) {
-      setGeocoding(true)
-      const coords = await geocodeAddress(t)
-      setGeocoding(false)
-      if (coords) {
-        const city = nearestCity(coords.lat, coords.lng)
-        apply(city, coords.lat, coords.lng)
-        return
+    setLoadingPredictions(true)
+    debounceRef.current = setTimeout(async () => {
+      const seq = ++requestSeqRef.current
+      try {
+        const r = await fetch(`${AUTOCOMPLETE_URL}?input=${encodeURIComponent(trimmed)}&sessionToken=${sessionTokenRef.current}`)
+        const d = await r.json() as { predictions?: Prediction[] }
+        if (seq === requestSeqRef.current) {
+          setPredictions(d.predictions ?? [])
+          setLoadingPredictions(false)
+        }
+      } catch {
+        if (seq === requestSeqRef.current) {
+          setPredictions([])
+          setLoadingPredictions(false)
+        }
       }
-    }
+    }, 220)
+    return () => { if (debounceRef.current) clearTimeout(debounceRef.current) }
+  }, [val])
 
-    apply(resolved)
+  const apply = (cityName: string, userLat?: number, userLng?: number, displayLabel?: string, applyRadius = false) => {
+    setVal(displayLabel ?? cityName)
+    const next: FilterState = {
+      ...filters,
+      searchCity: cityName,
+      userLat,
+      userLng,
+      sortBy: userLat != null ? 'distance' : filters.sortBy,
+    }
+    if (applyRadius && userLat != null && filters.maxDistance >= 999) {
+      next.maxDistance = DEFAULT_NEARBY_RADIUS_KM
+    }
+    setFilters(next)
+    setShowSuggestions(false)
+    setPredictions([])
+    sendEvent('Search', { search_string: displayLabel ?? cityName, search_term: displayLabel ?? cityName })
+  }
+
+  const selectPrediction = async (p: Prediction) => {
+    setResolving(true)
+    setVal(p.description)
+    try {
+      const r = await fetch(`${AUTOCOMPLETE_URL}?placeId=${encodeURIComponent(p.place_id)}&sessionToken=${sessionTokenRef.current}`)
+      const d = await r.json() as { lat?: number; lng?: number }
+      // Place Details closes the autocomplete session — start a fresh one.
+      sessionTokenRef.current = newSessionToken()
+      if (d.lat != null && d.lng != null) {
+        const isCity = p.types.includes('locality') || p.types.includes('postal_town')
+        const cityName = isCity ? p.main_text : nearestCity(d.lat, d.lng)
+        apply(cityName, d.lat, d.lng, p.description, true)
+      } else {
+        apply(p.description, undefined, undefined, p.description)
+      }
+    } catch {
+      // Token may have been consumed server-side even on a network error;
+      // rotate to be safe so the next session is billed cleanly.
+      sessionTokenRef.current = newSessionToken()
+      apply(p.description, undefined, undefined, p.description)
+    } finally {
+      setResolving(false)
+    }
+  }
+
+  const handleSearch = () => {
+    if (predictions.length > 0) {
+      selectPrediction(predictions[0])
+      return
+    }
+    // No autocomplete suggestions to commit. Don't silently treat the raw
+    // input as a city name — useFilteredClinics would just return 0 with no
+    // explanation. Surface a clear hint instead.
+    if (val.trim()) {
+      setNoMatchHint(true)
+      setShowSuggestions(true)
+    }
   }
 
   const handleGeolocate = () => {
@@ -172,7 +217,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
     navigator.geolocation.getCurrentPosition(
       pos => {
         const { latitude: lat, longitude: lng } = pos.coords
-        apply(nearestCity(lat, lng), lat, lng)
+        apply(nearestCity(lat, lng), lat, lng, undefined, true)
         setLocating(false)
       },
       () => { setLocating(false); setLocError(true) },
@@ -201,7 +246,7 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
                 type="text"
                 placeholder="Stadt, PLZ oder Adresse eingeben …"
                 value={val}
-                onChange={e => { setVal(e.target.value); setShowSuggestions(true) }}
+                onChange={e => { setVal(e.target.value); setShowSuggestions(true); setNoMatchHint(false) }}
                 onFocus={() => setShowSuggestions(true)}
                 onKeyDown={e => { if (e.key === 'Enter') handleSearch() }}
                 style={{ border: 'none', outline: 'none', fontSize: '16px', fontWeight: 600, width: '100%', color: '#111', backgroundColor: 'transparent' }}
@@ -215,9 +260,9 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
             >
               <Navigation size={17} style={{ transform: locating ? 'none' : undefined, opacity: locating ? 0.5 : 1 }} />
             </button>
-            <button onClick={handleSearch} disabled={geocoding} style={{ backgroundColor: '#0052CC', color: '#fff', fontWeight: 700, fontSize: '15px', height: '100%', padding: '0 28px', border: 'none', cursor: geocoding ? 'wait' : 'pointer', display: 'flex', alignItems: 'center', gap: '7px', flexShrink: 0, opacity: geocoding ? 0.7 : 1 }}>
+            <button onClick={handleSearch} disabled={resolving} style={{ backgroundColor: '#0052CC', color: '#fff', fontWeight: 700, fontSize: '15px', height: '100%', padding: '0 28px', border: 'none', cursor: resolving ? 'wait' : 'pointer', display: 'flex', alignItems: 'center', gap: '7px', flexShrink: 0, opacity: resolving ? 0.7 : 1 }}>
               <Search size={15} />
-              {geocoding ? 'Suche...' : 'Suchen'}
+              {resolving ? 'Suche...' : 'Suchen'}
             </button>
           </div>
 
@@ -227,28 +272,35 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
             </div>
           )}
 
-          {showSuggestions && matches.length > 0 && (
+          {showSuggestions && (predictions.length > 0 || loadingPredictions || val.trim().length >= 2) && (
             <div style={{ position: 'absolute', top: 'calc(100% + 4px)', left: 0, right: 0, backgroundColor: '#fff', borderRadius: '8px', boxShadow: '0 8px 24px rgba(0,0,0,0.2)', zIndex: 10, overflow: 'hidden' }}>
-              {matches.map((city, i) => (
-                <button key={city.name} onClick={() => apply(city.name)}
-                  style={{ display: 'flex', alignItems: 'center', gap: '12px', width: '100%', padding: '13px 16px', border: 'none', borderBottom: i < matches.length - 1 ? '1px solid #F2F2F2' : 'none', backgroundColor: city.name === filters.searchCity ? '#EEF4FF' : '#fff', cursor: 'pointer', textAlign: 'left' }}>
+              {predictions.map((p, i) => (
+                <button key={p.place_id} onClick={() => selectPrediction(p)}
+                  style={{ display: 'flex', alignItems: 'center', gap: '12px', width: '100%', padding: '13px 16px', border: 'none', borderBottom: i < predictions.length - 1 ? '1px solid #F2F2F2' : 'none', backgroundColor: '#fff', cursor: 'pointer', textAlign: 'left' }}>
                   <div style={{ width: '34px', height: '34px', backgroundColor: '#EEF4FF', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
                     <MapPin size={15} color="#0052CC" />
                   </div>
-                  <div style={{ flex: 1 }}>
-                    <div style={{ fontWeight: 700, fontSize: '15px', color: '#111' }}>{city.name}</div>
-                    <div style={{ fontSize: '13px', color: '#888', marginTop: '1px' }}>{city.hint}</div>
+                  <div style={{ flex: 1, minWidth: 0 }}>
+                    <div style={{ fontWeight: 700, fontSize: '15px', color: '#111', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{p.main_text}</div>
+                    {p.secondary_text && <div style={{ fontSize: '13px', color: '#888', marginTop: '1px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{p.secondary_text}</div>}
                   </div>
-                  {city.name === filters.searchCity && <span style={{ color: '#0052CC', fontWeight: 700, fontSize: '15px' }}>✓</span>}
                 </button>
               ))}
-              <div style={{ padding: '9px 16px', fontSize: '12px', color: '#999', backgroundColor: '#F9FAFB', borderTop: '1px solid #F0F0F0' }}>Weitere Städte folgen bald</div>
+              {predictions.length === 0 && (
+                <div style={{ padding: '14px 16px', fontSize: '13px', color: noMatchHint ? '#B5305A' : '#888', textAlign: 'center' }}>
+                  {loadingPredictions
+                    ? 'Suche …'
+                    : noMatchHint
+                      ? 'Adresse nicht erkannt – bitte einen Vorschlag aus der Liste wählen.'
+                      : 'Keine Vorschläge gefunden'}
+                </div>
+              )}
             </div>
           )}
         </div>
 
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '28px', marginTop: '18px', flexWrap: 'wrap' }}>
-          {[{ n: '229', label: 'handverlesene Praxen' }, { n: '1.000+', label: 'Praxen geprüft' }, { n: '72', label: 'Städte verfügbar' }].map(stat => (
+          {[{ n: '227', label: 'handverlesene Praxen' }, { n: '1.000+', label: 'Praxen geprüft' }, { n: '72', label: 'Städte verfügbar' }].map(stat => (
             <div key={stat.n} style={{ textAlign: 'center' }}>
               <div style={{ color: '#fff', fontWeight: 800, fontSize: '16px', lineHeight: 1 }}>{stat.n}</div>
               <div style={{ color: '#7AAAE0', fontSize: '12px', marginTop: '4px' }}>{stat.label}</div>
