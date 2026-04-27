@@ -11,7 +11,7 @@ export function parseVariant(raw: string | null): VariantKey {
 
 export interface VariantConfig {
   hero: { headline: string; subheadline: string }
-  card: { subline: (c: Clinic) => string; cta: string; badge: string }
+  card: { subline: (c: Clinic) => string; cta: string }
 }
 
 export const VARIANTS: Record<VariantKey, VariantConfig> = {
@@ -23,7 +23,6 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
     card: {
       subline: c => c.headline,
       cta: 'Jetzt anfragen',
-      badge: '★ Top-Bewertung',
     },
   },
   b: {
@@ -37,7 +36,6 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
           ? `${c.googleReviewCount} echte Bewertungen · ${c.qualification}`
           : c.headline,
       cta: 'Kostenlos anfragen',
-      badge: '★ Top-Bewertung',
     },
   },
   c: {
@@ -48,7 +46,6 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
     card: {
       subline: c => c.usp[0] ?? c.headline,
       cta: 'Termin anfragen',
-      badge: '★ Top-Bewertung',
     },
   },
 }

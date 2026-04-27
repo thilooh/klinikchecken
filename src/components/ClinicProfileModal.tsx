@@ -68,11 +68,6 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
         <div style={{ padding: '18px 20px 14px', borderBottom: '1px solid #EEE', flexShrink: 0 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
             <div style={{ flex: 1, paddingRight: '12px' }}>
-              {clinic.featured && (
-                <div style={{ display: 'inline-block', backgroundColor: '#FFF8E1', color: '#B8860B', fontSize: '11px', fontWeight: 700, padding: '2px 8px', borderRadius: '4px', marginBottom: '6px', border: '1px solid #F0D060' }}>
-                  ★ Empfohlen
-                </div>
-              )}
               <div style={{ fontWeight: 800, fontSize: '17px', color: '#111', lineHeight: 1.3 }}>{clinic.name}</div>
               <div style={{ fontSize: '13px', color: '#666', fontStyle: 'italic', marginTop: '3px', lineHeight: 1.4 }}>{clinic.headline}</div>
             </div>
