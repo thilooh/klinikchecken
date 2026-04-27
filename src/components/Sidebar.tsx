@@ -45,7 +45,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
       ...filters,
       selectedMethods: [],
       minRating: 0,
-      maxDistance: 10,
+      maxDistance: 999,
       extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: true },
     })
   }

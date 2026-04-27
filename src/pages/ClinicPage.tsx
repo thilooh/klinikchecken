@@ -25,7 +25,7 @@ export default function ClinicPage() {
       ? `${clinic.name} – Besenreiser-Behandlung in ${clinic.city} | Besenreiser-Check.de`
       : 'Praxis nicht gefunden | Besenreiser-Check.de',
     description: clinic
-      ? `${clinic.name}, ${clinic.address}. ${clinic.googleRating ? `${clinic.googleRating.toFixed(1)}★ (${clinic.googleReviewCount} Google-Bewertungen). ` : ''}Methoden: ${clinic.methods.join(', ')}. Kostenlos anfragen.`
+      ? `${clinic.name}, ${clinic.address}. ${clinic.googleRating && clinic.googleReviewCount ? `${clinic.googleRating.toFixed(1)}★ (${clinic.googleReviewCount} Google-Bewertungen). ` : ''}Methoden: ${clinic.methods.length ? clinic.methods.join(', ') : 'auf Anfrage'}. Kostenlos anfragen.`
       : undefined,
     canonical: clinic ? `${SITE_URL}/praxis/${slug}` : undefined,
     ogImage: clinic?.media?.logo ? `${SITE_URL}${clinic.media.logo}` : undefined,
@@ -67,6 +67,7 @@ export default function ClinicPage() {
   useEffect(() => {
     if (!clinic) return
     sendEvent('ViewContent', {
+      content_type: 'clinic',
       content_name: clinic.name,
       content_category: clinic.city,
       item_name: clinic.name,

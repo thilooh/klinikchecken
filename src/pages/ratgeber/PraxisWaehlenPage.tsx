@@ -60,6 +60,7 @@ export default function PraxisWaehlenPage() {
 
   useEffect(() => {
     sendEvent('ViewContent', {
+      content_type: 'ratgeber',
       content_name: 'ratgeber-praxis-waehlen',
       content_category: 'ratgeber',
     })

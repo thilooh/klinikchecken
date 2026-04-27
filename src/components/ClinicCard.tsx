@@ -88,7 +88,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   const openProfile = () => {
     setShowProfile(true)
     clarityEvent('profile_view')
-    sendEvent('ViewContent', { content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city })
+    sendEvent('ViewContent', { content_type: 'clinic', content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city })
   }
   const openReviews = () => {
     if (clinic.placeId) {
