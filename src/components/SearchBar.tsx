@@ -120,9 +120,18 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
   const [predictions, setPredictions] = useState<Prediction[]>([])
   const [loadingPredictions, setLoadingPredictions] = useState(false)
   const [noMatchHint, setNoMatchHint] = useState(false)
+  // Briefly pulse the 'Mein Standort' button on first paint to draw the
+  // eye for users without an auto-detected city. Stops after 4 s or as
+  // soon as the user starts typing or clicks anything.
+  const [pulseGeo, setPulseGeo] = useState(true)
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const requestSeqRef = useRef(0)
   const sessionTokenRef = useRef<string>(newSessionToken())
+
+  useEffect(() => {
+    const t = setTimeout(() => setPulseGeo(false), 4000)
+    return () => clearTimeout(t)
+  }, [])
 
   // Debounced autocomplete fetch on input change.
   useEffect(() => {
@@ -246,18 +255,20 @@ export default function SearchBar({ filters, setFilters, hero }: Props) {
                 type="text"
                 placeholder="Stadt, PLZ oder Adresse eingeben …"
                 value={val}
-                onChange={e => { setVal(e.target.value); setShowSuggestions(true); setNoMatchHint(false) }}
+                onChange={e => { setVal(e.target.value); setShowSuggestions(true); setNoMatchHint(false); setPulseGeo(false) }}
                 onFocus={() => setShowSuggestions(true)}
                 onKeyDown={e => { if (e.key === 'Enter') handleSearch() }}
                 style={{ border: 'none', outline: 'none', fontSize: '16px', fontWeight: 600, width: '100%', color: '#111', backgroundColor: 'transparent' }}
               />
             </div>
             <button
-              onClick={handleGeolocate}
+              onClick={() => { setPulseGeo(false); handleGeolocate() }}
               disabled={locating}
               title="Mein Standort verwenden"
+              className={pulseGeo ? 'geo-pulse' : ''}
               style={{ height: '100%', padding: '0 14px', border: 'none', borderRight: '1px solid #E8E8E8', background: 'none', cursor: 'pointer', color: locating ? '#AAC' : '#0052CC', display: 'flex', alignItems: 'center', flexShrink: 0 }}
             >
+              <style>{`@keyframes geoPulse { 0%, 100% { background-color: transparent } 50% { background-color: #EEF4FF } } .geo-pulse { animation: geoPulse 1.2s ease-in-out infinite; }`}</style>
               <Navigation size={17} style={{ transform: locating ? 'none' : undefined, opacity: locating ? 0.5 : 1 }} />
             </button>
             <button onClick={handleSearch} disabled={resolving} style={{ backgroundColor: '#0052CC', color: '#fff', fontWeight: 700, fontSize: '15px', height: '100%', padding: '0 28px', border: 'none', cursor: resolving ? 'wait' : 'pointer', display: 'flex', alignItems: 'center', gap: '7px', flexShrink: 0, opacity: resolving ? 0.7 : 1 }}>

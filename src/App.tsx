@@ -12,6 +12,9 @@ import StickyBar from './components/StickyBar'
 import MultiInquiryModal from './components/MultiInquiryModal'
 import { useFilteredClinics } from './hooks/useFilteredClinics'
 import { useClinics } from './hooks/useClinics'
+import CityPicker from './components/CityPicker'
+import { recallCity, rememberCity } from './lib/cityMemory'
+import { cityForRegion } from './lib/regionToCity'
 import type { Clinic, FilterState } from './types/clinic'
 import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
@@ -150,7 +153,7 @@ const defaultFilters: FilterState = {
     certified: true,
   },
   sortBy: 'rating',
-  searchCity: 'Köln',
+  searchCity: '',          // No city by default; cascade in App.tsx fills it.
   userLat: undefined,
   userLng: undefined,
 }
@@ -191,6 +194,13 @@ export default function App() {
   // GTM/Clarity loading + cookie banner now live in TrackingShell so they
   // run for every route, not only /. See src/components/TrackingShell.tsx.
 
+  // Cascade for picking a default city. Stops at the first hit.
+  // 1. ?city= URL param        — Meta-Ads / Direct-Link
+  // 2. localStorage memory     — returning visitor
+  // 3. /api/geo postalCode     — most accurate IP-Geo (rarely available)
+  // 4. /api/geo city           — exact city match
+  // 5. /api/geo subdivisionCode→ Bundesland's largest listed city
+  // 6. nothing → CityPicker rendered as empty-state (no Köln-default)
   useEffect(() => {
     const cityParam = new URLSearchParams(window.location.search).get('city')
     if (cityParam) {
@@ -198,14 +208,30 @@ export default function App() {
       if (matched) { setFilters(f => ({ ...f, searchCity: matched })); setAutoCity(matched) }
       return
     }
+    const remembered = recallCity()
+    if (remembered) {
+      setFilters(f => ({ ...f, searchCity: remembered }))
+      // Don't show the autoCity banner for remembered choices — it's
+      // the user's own previous pick, no need to suggest changing it.
+      return
+    }
     fetch('/api/geo')
       .then(r => r.json())
-      .then((data: { city?: string; postalCode?: string }) => {
-        const matched = matchCity(data.postalCode ?? '') ?? matchCity(data.city ?? '')
+      .then((data: { city?: string; postalCode?: string; subdivisionCode?: string }) => {
+        const matched =
+          matchCity(data.postalCode ?? '') ??
+          matchCity(data.city ?? '') ??
+          cityForRegion(data.subdivisionCode)
         if (matched) { setFilters(f => ({ ...f, searchCity: matched })); setAutoCity(matched) }
       })
       .catch(() => {})
   }, [])
+
+  // Persist any explicit city change so a returning visitor lands in
+  // the same place next time.
+  useEffect(() => {
+    if (filters.searchCity) rememberCity(filters.searchCity)
+  }, [filters.searchCity])
 
   const handleSetFilters = (f: FilterState) => {
     if (f.searchCity !== filters.searchCity) {
@@ -265,12 +291,14 @@ export default function App() {
               <Sidebar filters={filters} setFilters={handleSetFilters} />
             </div>
             <div style={{ flex: 1, minWidth: 0 }}>
-              <ResultsHeader
-                count={filtered.length}
-                filters={filters}
-                setFilters={handleSetFilters}
-                onOpenFilter={openFilter}
-              />
+              {(filters.searchCity || filters.userLat != null) && (
+                <ResultsHeader
+                  count={filtered.length}
+                  filters={filters}
+                  setFilters={handleSetFilters}
+                  onOpenFilter={openFilter}
+                />
+              )}
               {/* Discovery CTA for the methode quiz - sits above the result list
                   so unsure users find it without scrolling to the sidebar. */}
               <a href="/methoden-quiz" style={{
@@ -292,6 +320,11 @@ export default function App() {
                     <div key={i} className="skeleton" style={{ height: '180px', borderRadius: '6px' }} />
                   ))}
                 </div>
+              ) : !filters.searchCity && filters.userLat == null ? (
+                <CityPicker
+                  clinics={clinics}
+                  onPick={city => handleSetFilters({ ...filters, searchCity: city })}
+                />
               ) : (
                 <ClinicList clinics={filtered} onInquire={handleInquire} filters={filters} setFilters={handleSetFilters} cardVariant={vt.card} selectedIds={selectedIds} onToggleSelect={toggleSelection} ctaColor={ctaColor} />
               )}
