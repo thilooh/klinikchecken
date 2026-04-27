@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useEffect, useMemo } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { ChevronRight, Star, Check, X } from 'lucide-react'
 import Navbar from '../components/Navbar'
@@ -6,6 +6,7 @@ import Footer from '../components/Footer'
 import { useClinics } from '../hooks/useClinics'
 import { clinicSlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
+import { sendEvent } from '../lib/gtm'
 
 // Drafted content for each method. Expandable - copy a block, fill in.
 type MethodInfo = {
@@ -115,6 +116,16 @@ export default function MethodePage() {
       'preparation': 'Erstberatung mit Phlebologen, individuelle Indikationsprüfung',
     } : undefined,
   })
+
+  useEffect(() => {
+    if (!method) return
+    sendEvent('ViewContent', {
+      content_name: method.name,
+      content_category: 'methode',
+      item_name: method.name,
+      content_type: 'method_landing',
+    })
+  }, [method?.slug])
 
   if (!method) {
     return (

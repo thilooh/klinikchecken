@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { ChevronLeft, MapPin, Star } from 'lucide-react'
 import Navbar from '../components/Navbar'
@@ -60,6 +60,19 @@ export default function ClinicPage() {
 
   const [showInquiry, setShowInquiry] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
+
+  // Direct landing on /praxis/:slug should fire ViewContent for SEO
+  // attribution — same event the home-page card opens fire from
+  // ClinicCard.openProfile(). Skip if clinic isn't found yet.
+  useEffect(() => {
+    if (!clinic) return
+    sendEvent('ViewContent', {
+      content_name: clinic.name,
+      content_category: clinic.city,
+      item_name: clinic.name,
+      item_category: clinic.city,
+    })
+  }, [clinic?.id])
 
   if (loading) {
     return (

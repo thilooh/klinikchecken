@@ -1,9 +1,10 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Check, RotateCcw } from 'lucide-react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { useSeo, SITE_URL } from '../lib/seo'
+import { sendEvent } from '../lib/gtm'
 
 type Answer = 'beine' | 'gesicht' | 'fein' | 'mittel' | 'gross' | 'hell' | 'dunkel'
 
@@ -128,14 +129,39 @@ export default function MethodenQuiz() {
   const [step, setStep] = useState(0)
   const [answers, setAnswers] = useState<Answer[]>([])
   const result = step >= QUESTIONS.length ? recommend(answers) : null
+  const completedRef = useRef(false)
+
+  // Fire QuizStart on mount, QuizComplete (once) when the user
+  // finishes all questions. Lets us measure the funnel
+  // /methoden-quiz → start → answer 1/2/3 → complete → CTA-click.
+  useEffect(() => {
+    sendEvent('QuizStart', { content_type: 'methoden_quiz' })
+  }, [])
+
+  useEffect(() => {
+    if (result && !completedRef.current) {
+      completedRef.current = true
+      sendEvent('QuizComplete', {
+        content_type: 'methoden_quiz',
+        content_name: result.method,
+        item_name: result.method,
+        item_category: result.methodSlug,
+      })
+    }
+  }, [result])
 
   const select = (value: Answer) => {
     const next = [...answers, value]
     setAnswers(next)
     setStep(step + 1)
+    sendEvent('QuizAnswer', {
+      content_type: 'methoden_quiz',
+      step: step + 1,
+      answer: value,
+    })
   }
 
-  const reset = () => { setStep(0); setAnswers([]) }
+  const reset = () => { setStep(0); setAnswers([]); completedRef.current = false }
 
   const progress = Math.min((step / QUESTIONS.length) * 100, 100)
   const current = QUESTIONS[step]

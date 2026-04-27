@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useEffect, useMemo } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { ChevronRight, MapPin, Star } from 'lucide-react'
 import Navbar from '../components/Navbar'
@@ -7,6 +7,7 @@ import { useClinics } from '../hooks/useClinics'
 import { ALL_CITIES as ALL_CITIES_RAW } from '../data/clinics-meta'
 import { clinicSlug, citySlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
+import { sendEvent } from '../lib/gtm'
 
 const ALL_CITIES = [...ALL_CITIES_RAW].sort()
 
@@ -52,6 +53,19 @@ export default function CityPage() {
       })),
     } : undefined,
   })
+
+  // Fire a Search-equivalent event when a city landing page loads from
+  // organic search — gives Meta + GA4 a 'category-level intent' signal
+  // without waiting for the user to interact further.
+  useEffect(() => {
+    if (!city) return
+    sendEvent('ViewContent', {
+      content_name: `Besenreiser ${city}`,
+      content_category: city,
+      item_category: city,
+      content_type: 'city_landing',
+    })
+  }, [city])
 
   if (loading) {
     return (

@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useRef } from 'react'
 import ReactDOM from 'react-dom/client'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import App from './App.tsx'
@@ -17,7 +17,17 @@ initSentry()
 
 function RouteTracker() {
   const { pathname } = useLocation()
+  const isFirstRender = useRef(true)
   useEffect(() => {
+    if (isFirstRender.current) {
+      // The Meta Pixel base script (loaded via GTM) auto-fires PageView
+      // when it initialises, and GA4 Configuration likewise sends its
+      // page_view on first load. We must NOT push a custom page_view to
+      // the dataLayer on the initial mount or downstream tags will fire
+      // PageView twice. We still scroll to top.
+      isFirstRender.current = false
+      return
+    }
     window.scrollTo(0, 0)
     window.dataLayer = window.dataLayer || []
     window.dataLayer.push({ event: 'page_view', page_path: pathname })
