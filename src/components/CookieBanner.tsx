@@ -24,7 +24,7 @@ export default function CookieBanner({ onAccept, onDecline }: Props) {
     }}>
       <div style={{ maxWidth: '900px', margin: '0 auto', display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center' }}>
         <p style={{ flex: 1, minWidth: '260px', margin: 0, fontSize: '13px', lineHeight: 1.6, color: '#CCC' }}>
-          Wir nutzen Cookies und ähnliche Technologien (Google Tag Manager, Microsoft Clarity, Meta Pixel), um unsere Website zu verbessern
+          Wir nutzen Cookies und ähnliche Technologien, um unsere Website zu verbessern
           und dir relevante Angebote zu zeigen. Mehr dazu in unserer{' '}
           <a href="/datenschutz" target="_blank" rel="noopener noreferrer" style={{ color: '#7AAAE0', textDecoration: 'underline' }}>
             Datenschutzerklärung

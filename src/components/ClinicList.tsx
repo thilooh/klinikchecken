@@ -35,18 +35,12 @@ function SkeletonCard() {
 
 export default function ClinicList({ clinics, onInquire, filters, setFilters, cardVariant, selectedIds, onToggleSelect, ctaColor }: Props) {
   const [loading, setLoading] = useState(true)
+  const hasUserCoords = filters.userLat != null && filters.userLng != null
 
   useEffect(() => {
     const t = setTimeout(() => setLoading(false), 800)
     return () => clearTimeout(t)
   }, [])
-
-  const handleMethodClick = (methodKey: string) => {
-    const newMethods = filters.selectedMethods.includes(methodKey)
-      ? filters.selectedMethods.filter(m => m !== methodKey)
-      : [...filters.selectedMethods, methodKey]
-    setFilters({ ...filters, selectedMethods: newMethods })
-  }
 
   if (loading) {
     return <div>{[1, 2, 3].map(i => <SkeletonCard key={i} />)}</div>
@@ -81,12 +75,11 @@ export default function ClinicList({ clinics, onInquire, filters, setFilters, ca
           clinic={clinic}
           index={index}
           onInquire={onInquire}
-          onMethodClick={handleMethodClick}
-          activeMethodKeys={filters.selectedMethods}
           cardVariant={cardVariant}
           isSelected={selectedIds.has(clinic.id)}
           onToggleSelect={() => onToggleSelect(clinic)}
           ctaColor={ctaColor}
+          hasUserCoords={hasUserCoords}
         />
       ))}
     </div>

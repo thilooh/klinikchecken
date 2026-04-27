@@ -6,6 +6,9 @@ interface Props {
   onClose: () => void
   onInquire: (clinic: Clinic) => void
   onShowReviews: () => void
+  /** True if distanceKm is computed against the user's actual position; if
+   *  false, it's just distance to the clinic's own city centre and we hide it. */
+  hasUserCoords?: boolean
 }
 
 function Stars({ rating, size = 14 }: { rating: number; size?: number }) {
@@ -52,7 +55,7 @@ const METHOD_TEXT: Record<string, string> = {
   'IPL-Behandlung':            '#E65100',
 }
 
-export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowReviews }: Props) {
+export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowReviews, hasUserCoords = false }: Props) {
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clinic.name + ' ' + clinic.address)}`
   const hasRating = (clinic.googleRating ?? 0) > 0
   const activeExtras = extras.filter(e => clinic[e.key])
@@ -101,7 +104,7 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
                 <a href={mapsUrl} target="_blank" rel="noopener noreferrer" style={{ fontWeight: 600, fontSize: '14px', color: '#003399', textDecoration: 'none' }}>
                   {clinic.address} ↗
                 </a>
-                <div style={{ fontSize: '12px', color: '#888', marginTop: '2px' }}>{clinic.district} · {clinic.distanceKm} km vom Zentrum</div>
+                <div style={{ fontSize: '12px', color: '#888', marginTop: '2px' }}>{clinic.district}{hasUserCoords ? ` · ${clinic.distanceKm} km von dir` : ''}</div>
               </div>
             </div>
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: '10px' }}>
@@ -113,7 +116,7 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
                   {clinic.openToday ? 'Heute geöffnet' : 'Heute geschlossen'}
                 </div>
                 <div style={{ fontSize: '12px', color: '#555', lineHeight: 1.7 }}>
-                  {clinic.openHours.split(', ').map((seg, i) => <div key={i}>{seg}</div>)}
+                  {(clinic.openHours ?? '').split(/,\s*/).filter(Boolean).map((seg, i) => <div key={i}>{seg}</div>)}
                 </div>
               </div>
             </div>

@@ -7,6 +7,7 @@ import { useClinics } from '../hooks/useClinics'
 import { clinicSlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
 import { sendEvent } from '../lib/gtm'
+import { clinicMatchesMethod } from '../hooks/useFilteredClinics'
 
 // Drafted content for each method. Expandable - copy a block, fill in.
 type MethodInfo = {
@@ -19,7 +20,10 @@ type MethodInfo = {
   bestFor: string
   duration: string
   sessions: string
-  matchKeywords: string[]   // used to filter relevant clinics
+  // Filter labels (matching keys in METHOD_KEYWORDS) used to pick clinics.
+  // Sharing the matcher with the sidebar filter prevents the listing here
+  // showing clinics that disappear when the user ticks the same method.
+  filterLabels: string[]
 }
 
 const METHODS: MethodInfo[] = [
@@ -42,7 +46,7 @@ const METHODS: MethodInfo[] = [
     bestFor: 'Mittelgroße bis größere Besenreiser und retikuläre Venen, vor allem an den Beinen.',
     duration: '15-30 Minuten pro Sitzung',
     sessions: '3-6 Sitzungen, je nach Befund',
-    matchKeywords: ['verödung', 'sklerotherapie', 'sklerosierung'],
+    filterLabels: ['Verödung (Sklerotherapie)', 'Mikroschaum-Sklerotherapie'],
   },
   {
     slug: 'laser',
@@ -64,7 +68,7 @@ const METHODS: MethodInfo[] = [
     bestFor: 'Sehr feine, oberflächliche Besenreiser, vor allem im Gesicht und an den Wangen.',
     duration: '15-30 Minuten pro Sitzung',
     sessions: '3-5 Sitzungen, je nach Befund',
-    matchKeywords: ['nd:yag', 'ktp', 'laser'],
+    filterLabels: ['Laser (Nd:YAG)', 'Laser (KTP)'],
   },
   {
     slug: 'ipl',
@@ -84,7 +88,7 @@ const METHODS: MethodInfo[] = [
     bestFor: 'Feine Besenreiser im Gesicht, oft kombiniert mit Hautverjüngungs-Behandlungen.',
     duration: '20-40 Minuten pro Sitzung',
     sessions: '3-6 Sitzungen',
-    matchKeywords: ['ipl'],
+    filterLabels: ['IPL-Behandlung'],
   },
 ]
 
@@ -96,7 +100,7 @@ export default function MethodePage() {
   const offering = useMemo(() => {
     if (!method) return []
     return clinics.filter(c =>
-      c.methods.some(cm => method.matchKeywords.some(kw => cm.toLowerCase().includes(kw))),
+      method.filterLabels.some(label => clinicMatchesMethod(c, label)),
     ).slice(0, 12)
   }, [method, clinics])
 

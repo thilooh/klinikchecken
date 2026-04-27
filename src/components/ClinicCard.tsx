@@ -7,18 +7,20 @@ import GoogleReviewsModal from './GoogleReviewsModal'
 import ClinicProfileModal from './ClinicProfileModal'
 import { clarityEvent } from '../lib/clarity'
 import { sendEvent } from '../lib/gtm'
+import { generateEventId, sendCapi } from '../lib/capi'
 import { isOpenToday, isAppointmentOnly } from '../lib/openHours'
 import { cdnImage } from '../lib/cdnImage'
 
 interface Props {
   clinic: Clinic
   onInquire: (clinic: Clinic) => void
-  onMethodClick: (methodKey: string) => void
-  activeMethodKeys: string[]
   cardVariant?: VariantConfig['card']
   isSelected?: boolean
   onToggleSelect?: () => void
   ctaColor?: string
+  /** True if the user has a real geo position; otherwise distanceKm is just
+   *  the distance to the clinic's own city centre and is hidden in the UI. */
+  hasUserCoords?: boolean
   /** 0-based position in the result list - first 3 are eager-loaded, rest lazy. */
   index?: number
 }
@@ -74,7 +76,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
   )
 }
 
-export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethodClick, activeMethodKeys: _activeMethodKeys, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600', index = 99 }: Props) {
+export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600', hasUserCoords = false, index = 99 }: Props) {
   const eagerLoad = index < 3
   const imgLoading = eagerLoad ? 'eager' as const : 'lazy' as const
   const imgFetchPriority = index === 0 ? 'high' as const : 'auto' as const
@@ -88,7 +90,10 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
   const openProfile = () => {
     setShowProfile(true)
     clarityEvent('profile_view')
-    sendEvent('ViewContent', { content_type: 'clinic', content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city })
+    const eventId = generateEventId()
+    const data = { content_type: 'clinic', content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city }
+    sendEvent('ViewContent', data, undefined, eventId)
+    sendCapi('ViewContent', eventId, data)
   }
   const openReviews = () => {
     if (clinic.placeId) {
@@ -220,7 +225,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               <div style={{ marginBottom: '10px' }} />
             )}
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: '5px', color: '#555', fontSize: '14px', marginBottom: '4px' }}>
-              <MapPin size={14} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
+              <MapPin size={14} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address}{hasUserCoords ? ` · ${clinic.distanceKm} km` : ''}</span>
             </div>
             <div style={{ fontSize: '13px', color: '#555', marginBottom: '10px', lineHeight: 1.4 }}>🎯 <span style={{ fontWeight: 600 }}>Schwerpunkt:</span> {clinic.methods.join(' · ')}</div>
             <USPs items={clinic.usp} />
@@ -326,7 +331,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
               )}
 
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '4px', color: '#555', fontSize: '13px', marginBottom: '3px' }}>
-                <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address} · {clinic.distanceKm} km</span>
+                <MapPin size={12} style={{ flexShrink: 0, marginTop: '2px' }} /><span style={{ lineHeight: 1.4 }}>{clinic.address}{hasUserCoords ? ` · ${clinic.distanceKm} km` : ''}</span>
               </div>
               <div style={{ fontSize: '13px', color: '#555', marginBottom: '8px', lineHeight: 1.3 }}>🎯 <span style={{ fontWeight: 600 }}>Schwerpunkt:</span> {clinic.methods.join(' · ')}</div>
               <USPs items={clinic.usp} small />
@@ -340,7 +345,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
                 </div>
                 {openToday && (
                   <div style={{ fontSize: '11px', color: '#555', lineHeight: 1.6 }}>
-                    {clinic.openHours.split(', ').map((segment, i) => (
+                    {(clinic.openHours ?? '').split(/,\s*/).filter(Boolean).map((segment, i) => (
                       <div key={i}>{segment}</div>
                     ))}
                   </div>
@@ -380,7 +385,7 @@ export default function ClinicCard({ clinic, onInquire, onMethodClick: _onMethod
 
       </div>
       {showReviews && <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />}
-      {showProfile && <ClinicProfileModal clinic={clinic} onClose={() => setShowProfile(false)} onInquire={onInquire} onShowReviews={() => setShowReviews(true)} />}
+      {showProfile && <ClinicProfileModal clinic={clinic} onClose={() => setShowProfile(false)} onInquire={onInquire} onShowReviews={() => setShowReviews(true)} hasUserCoords={hasUserCoords} />}
     </>
   )
 }

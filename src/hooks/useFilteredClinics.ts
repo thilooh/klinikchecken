@@ -5,7 +5,10 @@ import { haversineKm } from '../lib/geo'
 // Maps each filter UI label to the substrings that should match clinic.methods
 // entries. Using an explicit table avoids the previous split('(')[0] heuristic
 // which silently let "Laser (KTP)" match Nd:YAG/Diode listings.
-const METHOD_KEYWORDS: Record<string, string[]> = {
+// Exported so landing pages (e.g. MethodePage) match the same way as the
+// sidebar - otherwise users see clinics on the landing page that vanish when
+// they tick the matching checkbox.
+export const METHOD_KEYWORDS: Record<string, string[]> = {
   'Verödung (Sklerotherapie)':  ['verödung', 'sklerotherapie', 'sklerosierung', 'mikrosklerotherapie', 'schaumverödung', 'schaumsklerotherapie'],
   'Laser (Nd:YAG)':             ['nd:yag', 'ndyag'],
   'Laser (KTP)':                ['ktp'],
@@ -15,7 +18,7 @@ const METHOD_KEYWORDS: Record<string, string[]> = {
   'Radiofrequenztherapie':      ['radiofrequenz', 'radiowellen', 'rfa', 'venefit'],
 }
 
-function clinicMatchesMethod(clinic: Clinic, filterLabel: string): boolean {
+export function clinicMatchesMethod(clinic: Clinic, filterLabel: string): boolean {
   const keywords = METHOD_KEYWORDS[filterLabel]
   if (!keywords) return false
   return clinic.methods.some(cm => {
