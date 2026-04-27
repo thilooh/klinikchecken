@@ -32,6 +32,12 @@ export default function Footer() {
       links: TOP_CITIES.map(c => ({ label: c, href: `/besenreiser/${citySlug(c)}` })),
     },
     {
+      title: 'Für Praxen',
+      links: [
+        { label: 'Praxis-Eintrag melden / korrigieren', href: 'mailto:info@Besenreiser-Check.de?subject=Praxis-Eintrag%20%E2%80%93%20%C3%84nderung%20oder%20Entfernung&body=Praxisname%3A%20%0AAdresse%3A%20%0AAnliegen%20(%C3%84nderung%2FEntfernung%2FKorrektur)%3A%20%0ABest%C3%A4tigung%2C%20dass%20ich%20vertretungsberechtigt%20bin%3A%20%0A' },
+      ],
+    },
+    {
       title: 'Rechtliches',
       links: [
         { label: 'Datenschutz', href: '/datenschutz' },

@@ -199,6 +199,9 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
 
               {/* Privacy consent */}
               <div style={{ marginBottom: '20px' }}>
+                <p style={{ fontSize: '12px', color: '#555', marginBottom: '8px', lineHeight: 1.5 }}>
+                  Mit dem Klick gibst du deine Anfragedaten an die ausgewählten Praxen weiter.
+                </p>
                 <label style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', fontSize: '12px', cursor: 'pointer' }}>
                   <input type="checkbox" checked={form.privacy} onChange={e => setForm({ ...form, privacy: e.target.checked })} style={{ marginTop: '2px', accentColor: '#003399', flexShrink: 0 }} />
                   <span style={{ color: '#333' }}>

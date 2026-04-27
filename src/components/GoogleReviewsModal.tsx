@@ -156,7 +156,7 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
           <div style={{ backgroundColor: '#F0F4FF', borderRadius: '8px', padding: '12px 14px', border: '1px solid #DDE5FF', marginBottom: '4px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '8px' }}>
               <Sparkles size={13} color="#4B6BCC" />
-              <span style={{ fontSize: '11px', fontWeight: 700, color: '#4B6BCC', letterSpacing: '0.04em', textTransform: 'uppercase' }}>Nutzer erwähnen häufig</span>
+              <span style={{ fontSize: '11px', fontWeight: 700, color: '#4B6BCC', letterSpacing: '0.04em', textTransform: 'uppercase' }}>KI-Zusammenfassung der Bewertungen</span>
             </div>
             <ul style={{ margin: 0, padding: 0, listStyle: 'none' }}>
               {summary.map((point, i) => (
@@ -166,6 +166,9 @@ export default function GoogleReviewsModal({ clinic, onClose }: Props) {
                 </li>
               ))}
             </ul>
+            <div style={{ fontSize: '10px', color: '#7A87B8', marginTop: '8px', lineHeight: 1.5, borderTop: '1px solid #DDE5FF', paddingTop: '6px' }}>
+              Automatisch generiert aus öffentlichen Google-Bewertungen. Quelle: Google Maps – Bewertungen werden nicht von uns verifiziert.
+            </div>
           </div>
 
           {/* Reviews */}

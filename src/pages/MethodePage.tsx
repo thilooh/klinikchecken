@@ -223,6 +223,11 @@ export default function MethodePage() {
               Praxis in meiner Stadt finden →
             </Link>
           </div>
+
+          {/* HWG-Disclaimer */}
+          <div style={{ marginTop: '16px', padding: '12px 16px', backgroundColor: '#F4F4F4', border: '1px solid #DDD', borderRadius: '6px', fontSize: '12px', color: '#666', lineHeight: 1.6 }}>
+            <strong>Hinweis:</strong> Diese Information dient ausschließlich der Aufklärung über Behandlungsmethoden und ersetzt keine ärztliche Beratung. Wirksamkeit, Risiken und Eignung müssen im Einzelfall vom Arzt beurteilt werden. Wir übernehmen keine Garantie für Behandlungserfolg.
+          </div>
         </div>
       </main>
       <Footer />
