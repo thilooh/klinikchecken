@@ -11,6 +11,8 @@ export const ALL_METHODS = [
   'Laser (KTP)',
   'IPL-Behandlung',
   'Mikroschaum-Sklerotherapie',
+  'Endovenöse Lasertherapie',
+  'Radiofrequenztherapie',
 ]
 
 export const ALL_CITIES = [

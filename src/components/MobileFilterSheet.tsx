@@ -11,14 +11,6 @@ interface Props {
   initialSection?: string
 }
 
-const METHOD_MAP: Record<string, string> = {
-  'Verödung (Sklerotherapie)': 'verödung',
-  'Laser (Nd:YAG)': 'nd:yag',
-  'Laser (Diode)': 'diode',
-  'IPL-Behandlung': 'ipl',
-  'Radiofrequenz': 'radiofrequenz',
-}
-
 const ROW: React.CSSProperties = {
   display: 'flex', justifyContent: 'space-between', alignItems: 'center',
   padding: '11px 0', borderBottom: '1px solid #F2F2F2', cursor: 'pointer',
@@ -74,16 +66,15 @@ export default function MobileFilterSheet({ filters, setFilters, count, onClose,
           {open.method && (
             <div style={{ padding: '4px 20px 12px' }}>
               {ALL_METHODS.map(method => {
-                const key = METHOD_MAP[method]
-                const checked = filters.selectedMethods.includes(key)
+                const checked = filters.selectedMethods.includes(method)
                 return (
                   <label key={method} style={ROW}>
                     <span style={{ fontSize: '14px', color: '#003399' }}>{method}</span>
                     <input type="checkbox" checked={checked}
                       onChange={() => {
                         const next = checked
-                          ? filters.selectedMethods.filter(m => m !== key)
-                          : [...filters.selectedMethods, key]
+                          ? filters.selectedMethods.filter(m => m !== method)
+                          : [...filters.selectedMethods, method]
                         setFilters({ ...filters, selectedMethods: next })
                       }}
                       style={check} />

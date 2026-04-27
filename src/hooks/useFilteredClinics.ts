@@ -6,11 +6,13 @@ import { haversineKm } from '../lib/geo'
 // entries. Using an explicit table avoids the previous split('(')[0] heuristic
 // which silently let "Laser (KTP)" match Nd:YAG/Diode listings.
 const METHOD_KEYWORDS: Record<string, string[]> = {
-  'Verödung (Sklerotherapie)': ['verödung', 'sklerotherapie', 'sklerosierung', 'mikrosklerotherapie'],
-  'Laser (Nd:YAG)':            ['nd:yag', 'ndyag'],
-  'Laser (KTP)':               ['ktp'],
-  'IPL-Behandlung':            ['ipl'],
-  'Mikroschaum-Sklerotherapie':['mikroschaum'],
+  'Verödung (Sklerotherapie)':  ['verödung', 'sklerotherapie', 'sklerosierung', 'mikrosklerotherapie', 'schaumverödung', 'schaumsklerotherapie'],
+  'Laser (Nd:YAG)':             ['nd:yag', 'ndyag'],
+  'Laser (KTP)':                ['ktp'],
+  'IPL-Behandlung':             ['ipl'],
+  'Mikroschaum-Sklerotherapie': ['mikroschaum'],
+  'Endovenöse Lasertherapie':   ['endovenös', 'endovenose', 'elves'],
+  'Radiofrequenztherapie':      ['radiofrequenz', 'radiowellen', 'rfa', 'venefit'],
 }
 
 function clinicMatchesMethod(clinic: Clinic, filterLabel: string): boolean {

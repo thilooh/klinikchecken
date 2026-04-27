@@ -29,19 +29,10 @@ function StarDisplay({ count }: { count: number }) {
 export default function Sidebar({ filters, setFilters }: Props) {
   const [showMethodGuide, setShowMethodGuide] = useState(false)
 
-  const methodMap: Record<string, string> = {
-    'Verödung (Sklerotherapie)': 'verödung',
-    'Laser (Nd:YAG)': 'nd:yag',
-    'Laser (Diode)': 'diode',
-    'IPL-Behandlung': 'ipl',
-    'Radiofrequenz': 'radiofrequenz',
-  }
-
   const toggleMethod = (method: string) => {
-    const key = methodMap[method]
-    const newMethods = filters.selectedMethods.includes(key)
-      ? filters.selectedMethods.filter(m => m !== key)
-      : [...filters.selectedMethods, key]
+    const newMethods = filters.selectedMethods.includes(method)
+      ? filters.selectedMethods.filter(m => m !== method)
+      : [...filters.selectedMethods, method]
     setFilters({ ...filters, selectedMethods: newMethods })
   }
 
@@ -69,20 +60,17 @@ export default function Sidebar({ filters, setFilters }: Props) {
       {/* Methode */}
       <div style={S.section}>
         <div style={S.sectionTitle}>Methode</div>
-        {ALL_METHODS.map(method => {
-          const key = methodMap[method]
-          return (
-            <label key={method} style={S.label}>
-              <input
-                type="checkbox"
-                checked={filters.selectedMethods.includes(key)}
-                onChange={() => toggleMethod(method)}
-                style={{ accentColor: '#003399', cursor: 'pointer' }}
-              />
-              {method}
-            </label>
-          )
-        })}
+        {ALL_METHODS.map(method => (
+          <label key={method} style={S.label}>
+            <input
+              type="checkbox"
+              checked={filters.selectedMethods.includes(method)}
+              onChange={() => toggleMethod(method)}
+              style={{ accentColor: '#003399', cursor: 'pointer' }}
+            />
+            {method}
+          </label>
+        ))}
 
         {/* Method guide toggle */}
         <button
