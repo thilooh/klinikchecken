@@ -174,7 +174,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
         </label>
         <label style={S.label}>
           <input type="checkbox" checked={filters.extras.certified} onChange={() => toggleExtra('certified')} style={{ accentColor: '#003399', cursor: 'pointer' }} />
-          Geprüft & empfohlen
+          Geprüft
         </label>
       </div>
     </aside>
