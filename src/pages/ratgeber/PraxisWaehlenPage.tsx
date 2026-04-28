@@ -1,7 +1,6 @@
-import { useEffect, useRef } from 'react'
+import { useEffect } from 'react'
 import ArticleLayout from './ArticleLayout'
 import { sendEvent } from '../../lib/gtm'
-import { getCTAVariant } from '../../lib/ctaVariant'
 
 const BASE  = '/ratgeber/final'
 const SIZES = '(max-width: 720px) 100vw, 680px'
@@ -56,32 +55,12 @@ const SCHEMA = {
 }
 
 export default function PraxisWaehlenPage() {
-  const fired50  = useRef(false)
-  const fired100 = useRef(false)
-
   useEffect(() => {
     sendEvent('ViewContent', {
       content_type: 'ratgeber',
       content_name: 'ratgeber-praxis-waehlen',
       content_category: 'ratgeber',
     })
-  }, [])
-
-  useEffect(() => {
-    const onScroll = () => {
-      const el  = document.documentElement
-      const pct = (el.scrollTop + el.clientHeight) / el.scrollHeight
-      if (!fired50.current && pct >= 0.5) {
-        fired50.current = true
-        sendEvent('ScrollDepth50', { content_type: 'ratgeber', content_name: 'ratgeber-praxis-waehlen' })
-      }
-      if (!fired100.current && pct >= 0.99) {
-        fired100.current = true
-        sendEvent('ScrollDepth100', { content_type: 'ratgeber', content_name: 'ratgeber-praxis-waehlen' })
-      }
-    }
-    window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
   return (
@@ -108,7 +87,6 @@ export default function PraxisWaehlenPage() {
       heroJpgSrcset={HERO_JPG}
       heroAlt="Frau sitzt nachdenklich auf einem Holzstuhl vor einem großen hellen Fenster"
       ctaHref={CTA_HREF}
-      onCtaClick={() => sendEvent('RatgeberCtaClick', { content_type: 'ratgeber', content_name: 'ratgeber-praxis-waehlen', cta_variant: getCTAVariant() })}
     >
       {/* ── Einleitung ── */}
       <p className="art-p">

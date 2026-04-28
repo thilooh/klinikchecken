@@ -49,7 +49,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
   })()
 
   const goToStep2 = () => {
-    sendEvent('InquiryStep1Complete', { content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city, cta_variant: ctaVariant })
+    sendEvent('Contact', { content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city, cta_variant: ctaVariant })
     setStep(2)
   }
 
@@ -59,7 +59,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
     if (!form.firstName) missing.push('Vorname')
     if (!form.email) missing.push('E-Mail-Adresse')
     if (!form.privacy) missing.push('Datenschutz-Häkchen')
-    sendEvent('InquirySubmitAttempted', {
+    sendEvent('SubmitApplication', {
       content_name: clinic.name,
       content_category: clinic.city,
       item_name: clinic.name,

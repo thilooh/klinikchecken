@@ -20,11 +20,12 @@ export default function TrackingShell({ children }: { children: React.ReactNode 
   const [showBanner, setShowBanner] = useState<boolean>(() => getConsent() === null)
 
   useEffect(() => {
-    // Push the variant to the dataLayer immediately - it's just an array
-    // shove and costs nothing. GTM will replay this when it loads.
+    // Lock in the A/B variant on first paint. The result is passed as a
+    // `cta_variant` parameter on every Meta standard event downstream
+    // (Lead, InitiateCheckout, Contact, ...), so a dedicated dataLayer
+    // push for it is redundant - we used to fire `cta_variant_assigned`
+    // here but Meta restricts custom events on Health & Wellness pages.
     const variant = getCTAVariant()
-    window.dataLayer = window.dataLayer || []
-    window.dataLayer.push({ event: 'cta_variant_assigned', cta_variant: variant })
 
     // Defer the actual third-party script downloads and parsing past the
     // LCP window. Each script (GTM ~70 KB, Clarity ~30 KB) blocks the main

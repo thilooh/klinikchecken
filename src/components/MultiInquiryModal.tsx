@@ -50,7 +50,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
     if (!form.firstName) missing.push('Vorname')
     if (!form.email) missing.push('E-Mail-Adresse')
     if (!form.privacy) missing.push('Datenschutz-Häkchen')
-    sendEvent('InquirySubmitAttempted', {
+    sendEvent('SubmitApplication', {
       content_name: clinicNames,
       content_category: clinicCities,
       item_name: clinicNames,

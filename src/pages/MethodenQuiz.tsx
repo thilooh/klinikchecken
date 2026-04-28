@@ -156,7 +156,7 @@ export default function MethodenQuiz() {
       return
     }
     setPlzError('')
-    sendEvent('QuizPlzSubmitted', {
+    sendEvent('FindLocation', {
       content_type: 'methoden_quiz',
       content_name: result.method,
       item_name: result.method,
@@ -171,17 +171,14 @@ export default function MethodenQuiz() {
     navigate(`/?${params.toString()}`)
   }
 
-  // Fire QuizStart on mount, QuizComplete (once) when the user
-  // finishes all questions. Lets us measure the funnel
-  // /methoden-quiz → start → answer 1/2/3 → complete → CTA-click.
-  useEffect(() => {
-    sendEvent('QuizStart', { content_type: 'methoden_quiz' })
-  }, [])
-
+  // Fire CustomizeProduct (Meta standard event) once the user finishes
+  // all questions and the recommendation appears. Marks the funnel
+  // milestone "user has shaped a personalised method recommendation"
+  // before the FindLocation step where they enter their PLZ.
   useEffect(() => {
     if (result && !completedRef.current) {
       completedRef.current = true
-      sendEvent('QuizComplete', {
+      sendEvent('CustomizeProduct', {
         content_type: 'methoden_quiz',
         content_name: result.method,
         item_name: result.method,
@@ -194,11 +191,6 @@ export default function MethodenQuiz() {
     const next = [...answers, value]
     setAnswers(next)
     setStep(step + 1)
-    sendEvent('QuizAnswer', {
-      content_type: 'methoden_quiz',
-      step: step + 1,
-      answer: value,
-    })
   }
 
   const reset = () => { setStep(0); setAnswers([]); setPlz(''); setPlzError(''); completedRef.current = false }
