@@ -6,7 +6,7 @@
 // adds ~50 KB to the initial bundle. Microsoft Clarity already gives us
 // session recordings for UX work.
 
-import { init, browserTracingIntegration, ErrorBoundary } from '@sentry/react'
+import { init, browserTracingIntegration, ErrorBoundary, captureMessage } from '@sentry/react'
 
 const DSN = import.meta.env.VITE_SENTRY_DSN as string | undefined
 const ENV = import.meta.env.MODE
@@ -29,4 +29,4 @@ export function initSentry(): void {
   })
 }
 
-export { ErrorBoundary as SentryErrorBoundary }
+export { ErrorBoundary as SentryErrorBoundary, captureMessage as sentryCaptureMessage }
