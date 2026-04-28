@@ -81,7 +81,7 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
         {/* Anpassung B: prominent disclaimer above the profile card,
             not just buried in the footer. */}
         <p style={{ fontSize: '13px', color: '#444', backgroundColor: '#FAFBFE', borderLeft: '3px solid #003399', padding: '10px 14px', borderRadius: '4px', marginBottom: '20px', lineHeight: 1.5 }}>
-          Diese Quiz-Auswertung ist eine Orientierungshilfe — keine medizinische Diagnose. Eine Einschätzung deines konkreten Befunds erfolgt im Erstgespräch in der Praxis.
+          Diese Quiz-Auswertung ist eine Orientierungshilfe - keine medizinische Diagnose. Eine Einschätzung deines konkreten Befunds erfolgt im Erstgespräch in der Praxis.
         </p>
 
         <div style={sectionTitle}>📊 Deine Quiz-Auswertung</div>
@@ -123,7 +123,7 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
         </div>
 
         {/* Comparison table */}
-        <div style={sectionTitle}>⚖️ Was bei Besenreisern funktioniert — und was nicht</div>
+        <div style={sectionTitle}>⚖️ Was bei Besenreisern funktioniert - und was nicht</div>
         <div style={{ marginBottom: '24px' }}>
           <ComparisonTable />
         </div>
@@ -163,7 +163,7 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
         )}
 
         <p style={{ fontSize: '12px', color: '#666', lineHeight: 1.6, marginBottom: 0 }}>
-          ℹ️ Was bei dir konkret nötig und sinnvoll ist, klärst du im persönlichen Erstgespräch. Nur eine Ärztin oder ein Arzt kann eine medizinische Diagnose stellen — diese Quiz-Auswertung ist eine Orientierungshilfe.
+          ℹ️ Was bei dir konkret nötig und sinnvoll ist, klärst du im persönlichen Erstgespräch. Nur eine Ärztin oder ein Arzt kann eine medizinische Diagnose stellen - diese Quiz-Auswertung ist eine Orientierungshilfe.
         </p>
       </div>
 
@@ -204,7 +204,7 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
       )}
 
       <p style={{ fontSize: '11px', color: '#888', marginTop: '8px', marginBottom: '20px', padding: '0 4px', lineHeight: 1.5 }}>
-        ℹ️ Diese Übersicht ist eine Orientierungshilfe und ersetzt keine ärztliche Diagnose. Die Reihenfolge basiert auf Methoden-Übereinstimmung mit deinen Angaben sowie Entfernung. Mit <strong>„Anzeige"</strong> markierte Praxen sind zahlende Premium-Partner — die Auswahl der gezeigten Praxen ist unabhängig vom Premium-Status.
+        ℹ️ Diese Übersicht ist eine Orientierungshilfe und ersetzt keine ärztliche Diagnose. Die Reihenfolge basiert auf Methoden-Übereinstimmung mit deinen Angaben sowie Entfernung. Mit <strong>„Anzeige"</strong> markierte Praxen sind zahlende Premium-Partner - die Auswahl der gezeigten Praxen ist unabhängig vom Premium-Status.
       </p>
 
       <div style={{ textAlign: 'center', marginBottom: '20px' }}>

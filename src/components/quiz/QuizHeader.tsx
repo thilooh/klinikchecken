@@ -16,7 +16,7 @@ export default function QuizHeader({ step }: { step: number }) {
             Welcher Besenreiser-Typ bist du?
           </h1>
           <p style={{ fontSize: '13px', color: '#666', marginBottom: '16px', textAlign: 'center', lineHeight: 1.5 }}>
-            Orientierungshilfe in 60 Sekunden — keine medizinische Diagnose. Inhaltlich erstellt unter Mitwirkung von Phlebologen-Fachärzt:innen.
+            Orientierungshilfe in 60 Sekunden - keine medizinische Diagnose. Inhaltlich erstellt unter Mitwirkung von Phlebologen-Fachärzt:innen.
           </p>
         </>
       )}

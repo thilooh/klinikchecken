@@ -5,10 +5,10 @@
 //
 // Each illustration shows the same skin patch with progressively
 // denser / coarser vessel networks:
-//   fein       — sparse hair-thin lines
-//   mittel     — clearly visible thin branches
-//   groesser   — thicker tortuous knot
-//   flaechig   — netzartig dense web
+//   fein       - sparse hair-thin lines
+//   mittel     - clearly visible thin branches
+//   groesser   - thicker tortuous knot
+//   flaechig   - netzartig dense web
 //
 // On mobile the four cards lay out 2x2; on desktop they remain 2x2
 // but with slightly more breathing room.

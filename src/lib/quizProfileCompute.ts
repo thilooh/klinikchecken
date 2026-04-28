@@ -67,14 +67,14 @@ export function getAuspraegungLabel(score: number): string {
   return 'Stark ausgeprägt'
 }
 
-// Reframed from clinical urgency labels ("Hoch — Behandlung
+// Reframed from clinical urgency labels ("Hoch - Behandlung
 // empfehlenswert") to plain priority labels. The score reflects
 // what the user said about their own willingness to act, not a
 // medical recommendation.
 export function getDringlichkeitLabel(score: number): string {
-  if (score <= 2) return 'Niedrig — du hast Zeit'
+  if (score <= 2) return 'Niedrig - du hast Zeit'
   if (score <= 4) return 'Mittel'
-  return 'Hoch — du willst zeitnah weiter'
+  return 'Hoch - du willst zeitnah weiter'
 }
 
 // General-knowledge statements about the natural course of

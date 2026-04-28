@@ -25,7 +25,7 @@ function realTriedCount(q6_versucht: string[]): number {
 // numeral "1" so the singular case doesn't read like a placeholder.
 export function getBullet2Text(q6_versucht: string[]): string {
   const count = realTriedCount(q6_versucht)
-  if (count === 0) return 'Du informierst dich gerade — bevor du etwas ausprobierst'
+  if (count === 0) return 'Du informierst dich gerade - bevor du etwas ausprobierst'
   if (count === 1) return 'Du hast schon eine Strategie probiert'
   return `Du hast schon ${count} verschiedene Strategien probiert`
 }
@@ -34,9 +34,9 @@ export function getBullet2Text(q6_versucht: string[]): string {
 // and face (capillary dilation story).
 export function getMechanismParagraph(q1_lokalisation: string | null): string {
   if (q1_lokalisation === 'gesicht') {
-    return 'Es sind nicht nur "geplatzte Äderchen". Es sind erweiterte Kapillargefäße direkt unter der dünnen Gesichtshaut — und der Grund, warum sie sichtbar werden, liegt in einer dauerhaften Erweiterung der feinen Gefäße, die du mit Pflege oder Make-up nicht zurückdrücken kannst.'
+    return 'Es sind nicht nur "geplatzte Äderchen". Es sind erweiterte Kapillargefäße direkt unter der dünnen Gesichtshaut - und der Grund, warum sie sichtbar werden, liegt in einer dauerhaften Erweiterung der feinen Gefäße, die du mit Pflege oder Make-up nicht zurückdrücken kannst.'
   }
-  return 'Besenreiser sind keine Hautsache. Es sind erweiterte Gefäße direkt unter der Hautoberfläche — und der Grund, warum sie sichtbar werden, liegt in einer Klappenschwäche der feinen Venen, die du nicht selbst trainieren oder wegcremen kannst.'
+  return 'Besenreiser sind keine Hautsache. Es sind erweiterte Gefäße direkt unter der Hautoberfläche - und der Grund, warum sie sichtbar werden, liegt in einer Klappenschwäche der feinen Venen, die du nicht selbst trainieren oder wegcremen kannst.'
 }
 
 // "Hier ist, was die meisten ... nie erfahren" headline. Shifts
@@ -54,9 +54,9 @@ export function getMechanismHeadline(q1_lokalisation: string | null): string {
 // uncomplicated rather than scolded.
 export function getAidsExplanation(q1_lokalisation: string | null): string {
   if (q1_lokalisation === 'gesicht') {
-    return 'Das ist auch der Grund, warum Cremes, Camouflage und Beruhigungs-Pflege nicht funktionieren konnten — sie waren für ein anderes Problem gemacht.'
+    return 'Das ist auch der Grund, warum Cremes, Camouflage und Beruhigungs-Pflege nicht funktionieren konnten - sie waren für ein anderes Problem gemacht.'
   }
-  return 'Das ist auch der Grund, warum Cremes, Kompression und Hausmittel nicht funktionieren konnten — sie waren für ein anderes Problem gemacht.'
+  return 'Das ist auch der Grund, warum Cremes, Kompression und Hausmittel nicht funktionieren konnten - sie waren für ein anderes Problem gemacht.'
 }
 
 // Forward-look closer. Routes face users to Dermatologie /

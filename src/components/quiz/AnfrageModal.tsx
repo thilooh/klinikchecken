@@ -183,7 +183,7 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose }
 
               {error && (
                 <div role="alert" style={{ backgroundColor: '#FFF0F0', border: '1px solid #FFCCCC', borderRadius: '4px', padding: '10px 14px', fontSize: '13px', color: '#CC0000', marginBottom: '12px' }}>
-                  Anfrage konnte nicht gesendet werden — bitte erneut versuchen.
+                  Anfrage konnte nicht gesendet werden - bitte erneut versuchen.
                 </div>
               )}
 

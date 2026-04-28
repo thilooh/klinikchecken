@@ -70,7 +70,7 @@ export default function ComparisonTable() {
         </table>
       </div>
       <p style={{ fontSize: '11px', color: '#666', marginTop: '8px', lineHeight: 1.5 }}>
-        <sup>1</sup> Kompressionsstrümpfe unterstützen den Blutrückfluss — sie behandeln aber nicht die sichtbaren Gefäße selbst.
+        <sup>1</sup> Kompressionsstrümpfe unterstützen den Blutrückfluss - sie behandeln aber nicht die sichtbaren Gefäße selbst.
       </p>
     </div>
   )

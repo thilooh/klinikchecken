@@ -89,7 +89,7 @@ export function Step5Recognition({ onSelect }: { onSelect: (v: string) => void }
       <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
         <AnswerCard label='"Im Schwimmbad lege ich das Handtuch erst ab, wenn ich im Wasser bin."' onSelect={() => onSelect('schwimmbad')} />
         <AnswerCard label='"Im Sommer trage ich lieber lange Hosen als kurze."' onSelect={() => onSelect('lange_hosen')} />
-        <AnswerCard label='"Auf Fotos verstecke ich die Beine — Kleid bis zum Knöchel oder gar nicht hin."' onSelect={() => onSelect('fotos')} />
+        <AnswerCard label='"Auf Fotos verstecke ich die Beine - Kleid bis zum Knöchel oder gar nicht hin."' onSelect={() => onSelect('fotos')} />
         <AnswerCard label='"Mich stört es, aber im Alltag denke ich nicht ständig dran."' onSelect={() => onSelect('stoert_aber_alltag')} />
       </div>
     </StepCard>
@@ -103,7 +103,7 @@ const VERSUCHT_OPTIONS: Array<{ value: string; label: string }> = [
   { value: 'selftanner', label: 'Bräunungssprays / Self-Tanner' },
   { value: 'hausmittel', label: 'Hausmittel (Apfelessig, Rosskastanie etc.)' },
   { value: 'verstecken', label: 'Ich verstecke sie unter Kleidung' },
-  { value: 'nichts', label: 'Noch nichts — ich informiere mich gerade' },
+  { value: 'nichts', label: 'Noch nichts - ich informiere mich gerade' },
 ]
 
 export function Step6Versucht({
@@ -159,7 +159,7 @@ export function Step7Vermeidung({ onSelect }: { onSelect: (v: 'voellig_zu' | 'eh
         helpText="Wähle die Stufe, die für dich am ehesten passt."
       />
       <StatementAgreement
-        statement='"Ich habe in den letzten 12 Monaten mindestens einmal etwas wegen meiner Beine vermieden — Kleidung, Foto, Ausflug oder Aktivität."'
+        statement='"Ich habe in den letzten 12 Monaten mindestens einmal etwas wegen meiner Beine vermieden - Kleidung, Foto, Ausflug oder Aktivität."'
         onSelect={onSelect}
       />
     </StepCard>
@@ -173,7 +173,7 @@ export function Step8Zeitziel({ onSelect }: { onSelect: (v: string) => void }) {
       <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
         <AnswerCard label="Vor diesem Sommer" onSelect={() => onSelect('diesen_sommer')} />
         <AnswerCard label="Vor einem konkreten Anlass" sub="(Hochzeit, Urlaub, Geburtstag)" onSelect={() => onSelect('anlass')} />
-        <AnswerCard label="Kein Zeitdruck — ich will es angehen" onSelect={() => onSelect('kein_druck')} />
+        <AnswerCard label="Kein Zeitdruck - ich will es angehen" onSelect={() => onSelect('kein_druck')} />
         <AnswerCard label="Vor dem nächsten Sommer reicht" onSelect={() => onSelect('naechster_sommer')} />
       </div>
     </StepCard>

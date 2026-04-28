@@ -111,7 +111,7 @@ export default function Step11Capture({ initial, answers, onSubmitted }: Props) 
         Wohin schicken wir dein Orientierungsprofil?
       </h2>
       <p style={{ fontSize: '14px', color: '#444', marginBottom: '12px', lineHeight: 1.5 }}>
-        Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt — Typ, Ausprägung und passende Methoden.
+        Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt - Typ, Ausprägung und passende Methoden.
       </p>
       <p style={{ fontSize: '12px', color: '#666', marginBottom: '20px', lineHeight: 1.5 }}>
         Das Profil ist eine Orientierungshilfe und keine ärztliche Diagnose.
@@ -173,7 +173,7 @@ export default function Step11Capture({ initial, answers, onSubmitted }: Props) 
 
       {serverError && (
         <div role="alert" style={{ backgroundColor: '#FFF7E6', border: '1px solid #F5C97C', borderRadius: '4px', padding: '10px 14px', fontSize: '13px', color: '#8A5300', marginBottom: '12px' }}>
-          Speichern hat einen Moment nicht geklappt — wir bringen dich trotzdem zur Auswertung. Falls du die Mail nicht erhältst, melde dich bitte.
+          Speichern hat einen Moment nicht geklappt - wir bringen dich trotzdem zur Auswertung. Falls du die Mail nicht erhältst, melde dich bitte.
         </div>
       )}
 
@@ -192,7 +192,7 @@ export default function Step11Capture({ initial, answers, onSubmitted }: Props) 
       </button>
 
       <p style={{ fontSize: '12px', color: '#888', marginTop: '12px', textAlign: 'center' }}>
-        Du bekommst dein Orientierungsprofil auch per Mail — praktisch, wenn du es später nochmal ansehen willst.
+        Du bekommst dein Orientierungsprofil auch per Mail - praktisch, wenn du es später nochmal ansehen willst.
       </p>
     </div>
   )

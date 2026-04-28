@@ -30,8 +30,8 @@ export function getMethodRecommendation(answers: QuizAnswers): Recommendation {
   if (answers.q4_hauttyp === 'dunkler') {
     return {
       primary: 'Mikroschaum-Sklerosierung',
-      description: 'Die Sklerosierung gilt in der Phlebologie als Standardverfahren bei Besenreisern an den Beinen — und ist bei dunkleren Hauttypen häufig die sicherere Wahl, da bestimmte Laser-Wellenlängen bei Hauttyp 4–6 Pigmentveränderungen begünstigen können.',
-      alternative: 'Nd:YAG-Laser kann bei sehr feinen Gefäßen ergänzend besprochen werden — die Indikation klärt der Arzt.',
+      description: 'Die Sklerosierung gilt in der Phlebologie als Standardverfahren bei Besenreisern an den Beinen - und ist bei dunkleren Hauttypen häufig die sicherere Wahl, da bestimmte Laser-Wellenlängen bei Hauttyp 4–6 Pigmentveränderungen begünstigen können.',
+      alternative: 'Nd:YAG-Laser kann bei sehr feinen Gefäßen ergänzend besprochen werden - die Indikation klärt der Arzt.',
       fachgebiet: 'Phlebologie',
     }
   }
@@ -93,11 +93,11 @@ export function getRanges(answers: QuizAnswers): Ranges {
 export function getTimingHint(zeitziel: string | null): string {
   switch (zeitziel) {
     case 'diesen_sommer':
-      return 'Wer im Sommer Ergebnisse sehen möchte, beginnt typischerweise im Herbst oder Winter davor — die Heilungsphase mit möglichen Hämatomen dauert mehrere Wochen.'
+      return 'Wer im Sommer Ergebnisse sehen möchte, beginnt typischerweise im Herbst oder Winter davor - die Heilungsphase mit möglichen Hämatomen dauert mehrere Wochen.'
     case 'anlass':
-      return 'Für einen konkreten Anlass starten viele Patientinnen 4–6 Monate vorher — so bleibt Puffer für die Heilungsphase.'
+      return 'Für einen konkreten Anlass starten viele Patientinnen 4–6 Monate vorher - so bleibt Puffer für die Heilungsphase.'
     case 'naechster_sommer':
-      return 'Der Herbst und Winter sind in der Phlebologie die typische Behandlungssaison — keine Sonne, keine Sauna, ideal für die Heilung.'
+      return 'Der Herbst und Winter sind in der Phlebologie die typische Behandlungssaison - keine Sonne, keine Sauna, ideal für die Heilung.'
     case 'kein_druck':
       return 'Ohne Zeitdruck zu starten ist ein Vorteil: Du kannst die Behandlung optimal in deinen Alltag legen.'
     default:

@@ -3,10 +3,10 @@
 // by the recommendation logic and the result page.
 
 export const Q1_DISPLAY: Record<string, string> = {
-  beine_unten: 'Beine — Waden, Knie, Knöchel',
-  beine_oben: 'Beine — Oberschenkel/Innenseite',
+  beine_unten: 'Beine - Waden, Knie, Knöchel',
+  beine_oben: 'Beine - Oberschenkel/Innenseite',
   beine_mehrere: 'Mehrere Stellen am Bein',
-  gesicht: 'Gesicht — Wangen, Nasenflügel, Kinn',
+  gesicht: 'Gesicht - Wangen, Nasenflügel, Kinn',
 }
 
 export const Q2_DISPLAY: Record<string, string> = {
@@ -41,7 +41,7 @@ export const Q4_DISPLAY: Record<string, string> = {
 export const Q5_RECOGNITION_DISPLAY: Record<string, string> = {
   schwimmbad: '"Im Schwimmbad lege ich das Handtuch erst ab, wenn ich im Wasser bin."',
   lange_hosen: '"Im Sommer trage ich lieber lange Hosen als kurze."',
-  fotos: '"Auf Fotos verstecke ich die Beine — Kleid bis zum Knöchel oder gar nicht hin."',
+  fotos: '"Auf Fotos verstecke ich die Beine - Kleid bis zum Knöchel oder gar nicht hin."',
   stoert_aber_alltag: '"Mich stört es, aber im Alltag denke ich nicht ständig dran."',
 }
 
