@@ -1,10 +1,11 @@
 import { useEffect, useRef, useState } from 'react'
-import { Link } from 'react-router-dom'
-import { Check, RotateCcw } from 'lucide-react'
+import { useNavigate } from 'react-router-dom'
+import { Check, RotateCcw, MapPin } from 'lucide-react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { useSeo, SITE_URL } from '../lib/seo'
 import { sendEvent } from '../lib/gtm'
+import { getCTAVariant, getCTAColor } from '../lib/ctaVariant'
 
 type Answer = 'beine' | 'gesicht' | 'fein' | 'mittel' | 'gross' | 'hell' | 'dunkel'
 
@@ -49,6 +50,10 @@ const QUESTIONS: Question[] = [
 type Recommendation = {
   method: string
   methodSlug: string
+  // Canonical method names from clinics-meta.ts. Passed as ?methode=
+  // to the homepage so the user lands on a list pre-filtered to the
+  // recommended treatment(s) for their PLZ.
+  canonicalMethods: string[]
   rationale: string
   alternative?: string
 }
@@ -62,6 +67,7 @@ function recommend(answers: Answer[]): Recommendation {
       return {
         method: 'IPL-Behandlung oder KTP-Laser',
         methodSlug: 'ipl',
+        canonicalMethods: ['IPL', 'KTP-Laser'],
         rationale: 'Sehr feine Gefäße im Gesicht reagieren besonders gut auf gepulstes Licht (IPL) oder den präzisen KTP-Laser. Beide sind sanft und narbenfrei.',
         alternative: 'Bei dichtem Befund kann ein Nd:YAG-Laser ergänzend sinnvoll sein.',
       }
@@ -70,12 +76,14 @@ function recommend(answers: Answer[]): Recommendation {
       return {
         method: 'Nd:YAG-Laser',
         methodSlug: 'laser',
+        canonicalMethods: ['Laser (Nd:YAG)'],
         rationale: 'Bei dunklerer Haut ist der Nd:YAG-Laser die sicherste Wahl - er dringt tiefer und schont die oberflächliche Pigmentierung. IPL und KTP bergen hier ein Risiko von Pigmentveränderungen.',
       }
     }
     return {
       method: 'Nd:YAG-Laser',
       methodSlug: 'laser',
+      canonicalMethods: ['Laser (Nd:YAG)'],
       rationale: 'Mittelgroße Gesichtsbesenreiser sprechen sehr gut auf den Nd:YAG-Laser an. Die Behandlung ist präzise und ohne Nadel.',
       alternative: 'Bei tiefer liegenden Gefäßen kann eine Mikro-Verödung kombiniert werden.',
     }
@@ -86,6 +94,7 @@ function recommend(answers: Answer[]): Recommendation {
     return {
       method: 'Verödung (Sklerotherapie)',
       methodSlug: 'verodung',
+      canonicalMethods: ['Sklerotherapie'],
       rationale: 'Größere Beinvenen werden am effektivsten durch Verödung behandelt. Die Methode ist seit Langem bewährt, sicher und wird von erfahrenen Phlebologen routiniert eingesetzt.',
       alternative: 'Bei Stammvarizen kann eine endovenöse Lasertherapie (ELVeS) ergänzend nötig sein.',
     }
@@ -95,6 +104,7 @@ function recommend(answers: Answer[]): Recommendation {
     return {
       method: 'Verödung (Sklerotherapie)',
       methodSlug: 'verodung',
+      canonicalMethods: ['Sklerotherapie'],
       rationale: 'Mittelgroße Besenreiser an den Beinen sind die klassische Indikation für die Sklerotherapie. Sie wird typischerweise in 3–6 Sitzungen durchgeführt.',
       alternative: 'Bei besonders dichten Arealen kann zusätzlich der Nd:YAG-Laser eingesetzt werden.',
     }
@@ -105,6 +115,7 @@ function recommend(answers: Answer[]): Recommendation {
     return {
       method: 'Verödung (Sklerotherapie)',
       methodSlug: 'verodung',
+      canonicalMethods: ['Sklerotherapie'],
       rationale: 'Bei dunklerer Haut empfehlen wir auch für feine Beinbesenreiser zunächst die Verödung - sie ist hauttyp-unabhängig und nebenwirkungsarm.',
       alternative: 'Sehr feine Adern können alternativ mit einem Nd:YAG-Laser behandelt werden.',
     }
@@ -113,6 +124,7 @@ function recommend(answers: Answer[]): Recommendation {
   return {
     method: 'Nd:YAG-Laser oder Verödung',
     methodSlug: 'laser',
+    canonicalMethods: ['Laser (Nd:YAG)', 'Sklerotherapie'],
     rationale: 'Sehr feine Beinbesenreiser sprechen oft besser auf den Nd:YAG-Laser an, weil keine Nadel nötig ist. Eine kombinierte Verödung deckt verbleibende größere Gefäße ab.',
     alternative: 'Frag deinen Phlebologen nach einer Kombi-Behandlung.',
   }
@@ -126,10 +138,38 @@ export default function MethodenQuiz() {
     ogType: 'article',
   })
 
+  const navigate = useNavigate()
   const [step, setStep] = useState(0)
   const [answers, setAnswers] = useState<Answer[]>([])
+  const [plz, setPlz] = useState('')
+  const [plzError, setPlzError] = useState('')
+  const [ctaVariant] = useState(() => getCTAVariant())
+  const ctaColor = getCTAColor(ctaVariant)
   const result = step >= QUESTIONS.length ? recommend(answers) : null
   const completedRef = useRef(false)
+  const plzValid = /^\d{5}$/.test(plz.trim())
+
+  const handlePlzSubmit = () => {
+    if (!result) return
+    if (!plzValid) {
+      setPlzError('Bitte fünfstellige PLZ eingeben.')
+      return
+    }
+    setPlzError('')
+    sendEvent('QuizPlzSubmitted', {
+      content_type: 'methoden_quiz',
+      content_name: result.method,
+      item_name: result.method,
+      item_category: result.methodSlug,
+      cta_variant: ctaVariant,
+      plz: plz.trim(),
+    })
+    const params = new URLSearchParams({
+      city: plz.trim(),
+      methode: result.canonicalMethods.join(','),
+    })
+    navigate(`/?${params.toString()}`)
+  }
 
   // Fire QuizStart on mount, QuizComplete (once) when the user
   // finishes all questions. Lets us measure the funnel
@@ -161,7 +201,7 @@ export default function MethodenQuiz() {
     })
   }
 
-  const reset = () => { setStep(0); setAnswers([]); completedRef.current = false }
+  const reset = () => { setStep(0); setAnswers([]); setPlz(''); setPlzError(''); completedRef.current = false }
 
   const progress = Math.min((step / QUESTIONS.length) * 100, 100)
   const current = QUESTIONS[step]
@@ -221,19 +261,44 @@ export default function MethodenQuiz() {
                   <strong>Alternative:</strong> {result.alternative}
                 </p>
               )}
-              <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap', marginBottom: '14px' }}>
-                <Link to={`/methode/${result.methodSlug}`} style={{
-                  flex: 1, minWidth: '180px', textAlign: 'center', backgroundColor: '#003399', color: '#fff',
-                  padding: '13px 20px', borderRadius: '6px', textDecoration: 'none', fontWeight: 700, fontSize: '15px',
-                }}>
-                  Mehr zu dieser Methode
-                </Link>
-                <Link to="/" style={{
-                  flex: 1, minWidth: '180px', textAlign: 'center', backgroundColor: '#FF6600', color: '#fff',
-                  padding: '13px 20px', borderRadius: '6px', textDecoration: 'none', fontWeight: 700, fontSize: '15px',
-                }}>
-                  Praxen mit dieser Methode →
-                </Link>
+              <div style={{ marginBottom: '14px' }}>
+                <label htmlFor="quiz-plz" style={{ display: 'block', fontSize: '14px', fontWeight: 700, color: '#0A1F44', marginBottom: '6px' }}>
+                  Praxen in deiner Nähe finden
+                </label>
+                <p style={{ fontSize: '13px', color: '#666', marginBottom: '10px' }}>
+                  Gib deine Postleitzahl ein – wir zeigen dir Praxen mit der passenden Methode.
+                </p>
+                <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                  <div style={{ flex: '1 1 140px', position: 'relative' }}>
+                    <MapPin size={16} aria-hidden="true" style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: '#999' }} />
+                    <input
+                      id="quiz-plz"
+                      type="text"
+                      inputMode="numeric"
+                      pattern="\d{5}"
+                      maxLength={5}
+                      autoComplete="postal-code"
+                      value={plz}
+                      onChange={e => { setPlz(e.target.value.replace(/\D/g, '')); if (plzError) setPlzError('') }}
+                      onKeyDown={e => { if (e.key === 'Enter') handlePlzSubmit() }}
+                      placeholder="z.B. 10115"
+                      aria-invalid={!!plzError}
+                      aria-describedby={plzError ? 'quiz-plz-error' : undefined}
+                      style={{ width: '100%', height: '46px', padding: '0 12px 0 36px', fontSize: '15px', border: `1px solid ${plzError ? '#CC0000' : '#DDE3F5'}`, borderRadius: '6px', boxSizing: 'border-box', outline: 'none' }}
+                    />
+                  </div>
+                  <button
+                    onClick={handlePlzSubmit}
+                    style={{ flex: '2 1 220px', minWidth: '180px', backgroundColor: ctaColor, color: '#fff', padding: '0 20px', height: '46px', borderRadius: '6px', border: 'none', fontWeight: 700, fontSize: '15px', cursor: 'pointer' }}
+                  >
+                    Praxen anzeigen →
+                  </button>
+                </div>
+                {plzError && (
+                  <div id="quiz-plz-error" role="alert" style={{ fontSize: '12px', color: '#CC0000', marginTop: '6px' }}>
+                    {plzError}
+                  </div>
+                )}
               </div>
               <p style={{ fontSize: '12px', color: '#999', marginBottom: '14px' }}>
                 Hinweis: Diese Empfehlung ersetzt keine ärztliche Diagnose. Eine genaue Indikationsstellung erfolgt im Erstgespräch in der Praxis.

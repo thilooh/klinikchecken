@@ -15,6 +15,7 @@ import { useClinics } from './hooks/useClinics'
 import CityPicker from './components/CityPicker'
 import { recallCity, rememberCity } from './lib/cityMemory'
 import { cityForRegion } from './lib/regionToCity'
+import { ALL_METHODS } from './data/clinics-meta'
 import type { Clinic, FilterState } from './types/clinic'
 import { parseVariant, VARIANTS } from './variants'
 import type { VariantKey } from './variants'
@@ -203,10 +204,19 @@ export default function App() {
   // 5. /api/geo subdivisionCode→ Bundesland's largest listed city
   // 6. nothing → CityPicker rendered as empty-state (no Köln-default)
   useEffect(() => {
-    const cityParam = new URLSearchParams(window.location.search).get('city')
+    const params = new URLSearchParams(window.location.search)
+    // Pre-select method filters when arriving from MethodenQuiz
+    // (?methode=Sklerotherapie,Laser%20%28Nd%3AYAG%29). Unknown values
+    // are dropped silently rather than producing an "always empty" filter.
+    const methodeParam = params.get('methode')
+    if (methodeParam) {
+      const known = methodeParam.split(',').map(s => s.trim()).filter(s => ALL_METHODS.includes(s))
+      // eslint-disable-next-line react-hooks/set-state-in-effect
+      if (known.length > 0) setFilters(f => ({ ...f, selectedMethods: known }))
+    }
+    const cityParam = params.get('city')
     if (cityParam) {
       const matched = matchCity(cityParam)
-      // eslint-disable-next-line react-hooks/set-state-in-effect
       if (matched) { setFilters(f => ({ ...f, searchCity: matched })); setAutoCity(matched) }
       return
     }
