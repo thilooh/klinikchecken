@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "K. W.",
+      "author_url": "https://www.google.com/maps/contrib/108415815254226705979/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMfhQle02E6Q540FDR5WJRDWXxtOPDLulLl5j08yDgilamYA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin jetzt zur 3. Lasertherapie hier und habe bei keiner Behandlung unter 45 Minuten Wartezeit trotz Termin erlebt. Insgesamt wirkt die Praxis nicht gut organisiert. Die Behandlungen an sich kann ich noch nicht abschließend bewerten, da nach der 3. Behandlung noch keine deutliche Besserung zu erkennen ist. Das Praxisteam ist freundlich, das Onlinetermintool sehr gut.",
+      "time": 1777305063,
+      "translated": false
+    },
+    {
       "author_name": "Lucie",
       "author_url": "https://www.google.com/maps/contrib/108435720619566003769/reviews",
       "language": "de",
@@ -57,12 +69,12 @@
       "translated": false
     }
   ],
-  "rating": 5,
-  "reviewCount": 81,
+  "rating": 4.9,
+  "reviewCount": 82,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-26T19:24:34.562Z"
+  "lastUpdated": "2026-04-28T07:31:06.921Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Michelle",
+      "author_url": "https://www.google.com/maps/contrib/107123532947194896880/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-V09peyV39vdjtMsHqjvc4hl1tjpIRJZPCnj-8wO9NQnCoMe_dQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777293992,
+      "translated": false
+    },
+    {
       "author_name": "Ines",
       "author_url": "https://www.google.com/maps/contrib/114604776429168273762/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzkrFlOnz0r-0nfdTxyCMbF1JIhLo1CnhH_Ce9hSqUIRWxKvRO=s128-c0x00000000-cc-rp-mo-ba5",
@@ -60,11 +70,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 72,
+  "reviewCount": 73,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-26T19:24:35.268Z"
+  "lastUpdated": "2026-04-28T07:31:07.562Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Frau S",
+      "author_url": "https://www.google.com/maps/contrib/109596441554177295813/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN7ZxWxg50W8g3TD_kytYX7Sv2PTOjJEZNIxfP2TINes8NX3c=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein wirklich toller Grund für meine erste Google Bewertung: Frau Dr. Rouihem.\nSehr freundliche und empathische Ärztin, bei der man sich wirklich gut aufgehoben fühlt. Sie hört zu und erklärt alles verständlich. Die Behandlung ist kompetent und sorgfältig. Klare Empfehlung!",
+      "time": 1777297068,
+      "translated": false
+    },
+    {
       "author_name": "Lena",
       "author_url": "https://www.google.com/maps/contrib/114378645800045740331/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZPvZ7024bDwYF7-X7MG-8QQBG5BvsltEPZE3phEKXzG41rw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nette Ärzte",
+      "time": 1775466667,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Dieckmann",
+      "author_url": "https://www.google.com/maps/contrib/101301689866385687277/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZPvZ7024bDwYF7-X7MG-8QQBG5BvsltEPZE3phEKXzG41rw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr nette Ärzte",
       "time": 1775466667,
       "translated": false
@@ -62,11 +86,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 120,
+  "reviewCount": 121,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:33.114Z"
+  "lastUpdated": "2026-04-28T07:31:05.626Z"
 }

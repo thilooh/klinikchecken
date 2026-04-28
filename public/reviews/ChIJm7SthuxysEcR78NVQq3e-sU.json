@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "sebi fuma",
+      "author_url": "https://www.google.com/maps/contrib/101125223035746382311/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrLo5G52b9N2TV3Z-o9BSAIFjeX3XYO0NCtL-hGCtZcmU_aVd3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Frechheit diese Praxis,... Ich musste trotz Termin über 30 Minuten warten, um dann in weniger als einer Minute abgespeist zu werden. Wenn der Arzt schon zu einem sagt, ja, da kann man nichts machen, ohne sich die Beschwerden richtig anzuschauen und/oder anzuhören.... heftig einfach nur heftig. Ich suche mir einen anderen Hautarzt, so schwer das heutzutage ist....",
+      "time": 1777301561,
+      "translated": false
+    },
+    {
       "author_name": "Kalle Grausam",
       "author_url": "https://www.google.com/maps/contrib/101558851147362541284/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWME0JQ9mkEgt1MDcshIUpztXTBOC6sdNEJjVX8p_IwTuP340z4=s128-c0x00000000-cc-rp-mo-ba5",
@@ -18,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMev8uUS2p2kniZP6ZPBIRD91TTUkhmGm3KwkWXCTUQjiPVmk=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Eigentlich war ich immer sehr zufrieden, bis es dann (wie in den vorherigen Berichten) angingen, dass die Tattoos von MFA und teilweise auch unerfahrenen Personal ausgeübt wurde. Das hat nun leider zu Folge, dass bei der letzten Behandlung eine Verschlimmerung herbeigeführt wurde. Der Heilungsprozess dauert viel länger und auch nach mehrmaligem Emails und Vergleichsfotos ist keine Einsicht in Sicht. Mir wurde immer nur versichert, dass es mit einer bestimmten Creme und der Zeit besser wird. Leider ist das nicht der Fall. Oben ist der Prozess vor der Behandlung und unten danach. Hier soll ich zB auch erklären was mich genau stört. Bilder sagen mehr als Worte/ ->\n\nNachtrag: ich wollte einen Termin vereinbaren für die Kontrolle von dem oben genannten Thema. Mir wurde dann mitgeteilt, dass ich keinen Termin aufgrund dieser Google Bewertung nicht bekomme.",
+      "time": 1776668778,
+      "translated": false
+    },
+    {
+      "author_name": "KG Coaching",
+      "author_url": "https://www.google.com/maps/contrib/103319766640894500693/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMev8uUS2p2kniZP6ZPBIRD91TTUkhmGm3KwkWXCTUQjiPVmk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Eigentlich war ich immer sehr zufrieden, bis es dann (wie in den vorherigen Berichten) angingen, dass die Tattoos von MFA und teilweise auch unerfahrenen Personal ausgeübt wurde. Das hat nun leider zu Folge, dass bei der letzten Behandlung eine Verschlimmerung herbeigeführt wurde. Der Heilungsprozess dauert viel länger und auch nach mehrmaligem Emails und Vergleichsfotos ist keine Einsicht in Sicht. Mir wurde immer nur versichert, dass es mit einer bestimmten Creme und der Zeit besser wird. Leider ist das nicht der Fall. Oben ist der Prozess vor der Behandlung und unten danach. Hier soll ich zB auch erklären was mich genau stört. Bilder sagen mehr als Worte/ ->\n\nNachtrag: ich wollte einen Termin vereinbaren für die Kontrolle von dem oben genannten Thema. Mir wurde dann mitgeteilt, dass ich keinen Termin aufgrund dieser Google Bewertung nicht bekomme.",
       "time": 1776668778,
       "translated": false
@@ -60,11 +84,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 243,
+  "reviewCount": 244,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-04-26T19:24:07.497Z"
+  "lastUpdated": "2026-04-28T07:30:43.153Z"
 }

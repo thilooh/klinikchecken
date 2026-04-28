@@ -8,6 +8,18 @@
       "time": 1776636288
     },
     {
+      "author_name": "Elias",
+      "author_url": "https://www.google.com/maps/contrib/112371488380949642340/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHIpPq5ucPzqapXiCagO2MSXtSk1T9-EcReys8nxRSQ0JBKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war vor kurzem beim Hautarzt im MVZ am Reeser Platz wegen eines Knubbels auf meiner Kopfhaut. Die Ärztin dort meinte, es sei eine verstopfte Talgdrüse und die Entfernung würde 150 € kosten.\n\nDa mir das teuer vorkam, habe ich mir eine zweite Meinung eingeholt – bei Dr. Brandt in Rath. Er erklärte mir, dass es sich nicht um eine verstopfte Talgdrüse, sondern um ein Muttermal handelt. Die Entfernung hätte er sogar ohne zusätzliche Kosten durchgeführt.\n\nIch bin sehr froh, dass ich mir noch eine zweite Meinung geholt habe. Dr. Brandt war außerdem sehr freundlich und zuvorkommend. Persönlich habe ich dort eine deutlich bessere Erfahrung gemacht.",
+      "time": 1776636288,
+      "translated": false
+    },
+    {
       "author_name": "Roland Kern",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
@@ -51,5 +63,5 @@
   "rating": 4.4,
   "reviewCount": 92,
   "summary": [],
-  "lastUpdated": "2026-04-26T19:23:59.536Z"
+  "lastUpdated": "2026-04-28T07:30:35.931Z"
 }

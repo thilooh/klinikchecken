@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Yannik L.",
+      "author_url": "https://www.google.com/maps/contrib/117713702517740324234/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB5EjPOrIkZRC0b30qtsQjPnDHtj9tjs2XObrsLTNMDLwaTw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777285454,
+      "translated": false
+    },
+    {
       "author_name": "Hans Schwarz",
       "author_url": "https://www.google.com/maps/contrib/112378430210051966405/reviews",
       "language": "de",
@@ -62,11 +72,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2234,
+  "reviewCount": 2235,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-26T19:24:11.419Z"
+  "lastUpdated": "2026-04-28T07:30:46.677Z"
 }

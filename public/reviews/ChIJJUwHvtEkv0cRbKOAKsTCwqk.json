@@ -8,6 +8,18 @@
       "time": 1776691256
     },
     {
+      "author_name": "Christa Wessolly",
+      "author_url": "https://www.google.com/maps/contrib/113043838924455984561/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJy4bJTBiujkVRW9mHR3dG5lgqNQIz0Pp3K_J7yZgZxlYvz3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Freundliches Personal, Termin gerecht dran gekommen.  Alles super.",
+      "time": 1776691256,
+      "translated": false
+    },
+    {
       "author_name": "Astrid Nöcker",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
@@ -39,5 +51,5 @@
   "rating": 4.8,
   "reviewCount": 72,
   "summary": [],
-  "lastUpdated": "2026-04-26T19:23:57.768Z"
+  "lastUpdated": "2026-04-28T07:30:34.261Z"
 }

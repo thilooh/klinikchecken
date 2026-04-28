@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kirsten Schulze",
+      "author_url": "https://www.google.com/maps/contrib/106143326345376207727/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMD-0I1rPTs0YzuGNBE6w4_7Sr9R3bxovoF6RV0lA3gpqeVvi5Iw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde noch nie so gut betreut wie hier. Die Ärzte, vor allem Fr. Dr. Möller, und das gesamte Team sind sehr freundlich, fachlich kompetent, auf dem neusten Stand und einfach nur gut. Trotz vollem Haus, Notfällen und engem Terminplan werden Termine eingehalten, manche Wartezeiten sind absolut zumutbar.\nEin Beispiel an sehr guter Praxisorganisation - Schade, dass nicht alle Praxen so sind.\nVielen Dank an das gesamte Team!!!",
+      "time": 1777314885,
+      "translated": false
+    },
+    {
       "author_name": "Bailey Bierhuizen",
       "author_url": "https://www.google.com/maps/contrib/109682097569474587816/reviews",
       "language": "de",
@@ -62,11 +74,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 139,
+  "reviewCount": 140,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:25.567Z"
+  "lastUpdated": "2026-04-28T07:30:59.115Z"
 }

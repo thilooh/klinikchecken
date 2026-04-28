@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Uta Heinrich",
+      "author_url": "https://www.google.com/maps/contrib/112977951851151125840/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVDXtK0qZ5MjOnUF2GORVdK6vlAeNJCPpBG5oeJ3JqTSS2zA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an das gesamte Team. Sowohl der OP, Aufwachraum als auch die Bettenstation sind sehr professionell, sehr menschlich und so was von freundlich. Dankeschön. Nur zu empfehlen",
+      "time": 1777293501,
+      "translated": false
+    },
+    {
       "author_name": "Sylvia cassel",
       "author_url": "https://www.google.com/maps/contrib/107791202687850956096/reviews",
       "language": "de",
@@ -60,11 +72,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 415,
+  "reviewCount": 416,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-04-26T19:24:10.684Z"
+  "lastUpdated": "2026-04-28T07:30:46.023Z"
 }

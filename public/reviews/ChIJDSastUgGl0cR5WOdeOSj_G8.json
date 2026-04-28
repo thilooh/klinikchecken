@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "bobby Singh",
+      "author_url": "https://www.google.com/maps/contrib/117693524085476078082/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBuXOkfP_7435uCENS6Dpdxr7fj5pj9SutCfN-OmSd-XifBoMhYg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": ".Sehr schlechte Praxis. Als gesetzlich versicherter Patient wartet man trotz Krankheit zwei Monate auf einen Termin. Private Patienten werden sofort angenommen. Das ist sehr unfair und unprofessionell. Hier zählt anscheinend nur das Geld, nicht die Gesundheit der Menschen. So eine Behandlung ist respektlos. Absolut nicht empfehlenswert.",
+      "time": 1777298177,
+      "translated": false
+    },
+    {
       "author_name": "FrauK.",
       "author_url": "https://www.google.com/maps/contrib/108456320342595729862/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8u1OPCDGthPFb0Iumx7naB-mbI1OzqbWfGc4Yt0uQBeeGkgGH=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr empfehlenswert.\nIch habe mich für meine Venen-OP an beiden Beinen gut aufgehoben gefühlt. Die Ärzte & Team waren sehr genau, haben sich viel Zeit für die Beratung genommen und alles verständlich erklärt sowie anschaulich dargestellt. Auch das Konsil empfand ich als sehr sorgfältig.\n\nAm OP-Tag war alles hygienisch, strukturiert und gut vorbereitet, was mir als eher skeptische Patientin ein sehr gutes Gefühl gegeben hat. Besonders positiv in Erinnerung geblieben ist mir die Stimmung während der OP: freundlich, humorvoll und menschlich. Gerade als eher ängstliche Patientin hat mir das sehr geholfen und mir das Gefühl gegeben, wirklich gut aufgehoben zu sein.  Da ich selbst aus dem medizinischen Bereich komme, achte ich auf viele Details – und genau deshalb kann ich sagen, dass ich insgesamt sehr zufrieden war.\n\nEinziger Kritikpunkt ist die telefonische Erreichbarkeit, die leider nahezu nicht gegeben war. Ich habe das auch vor Ort angesprochen. Per E-Mail war der Kontakt nach mehreren Versuchen dann möglich.\n\nAlles in allem kann ich die Praxis bzw. das Team sehr empfehlen.",
+      "time": 1776705689,
+      "translated": false
+    },
+    {
+      "author_name": "S. R.- Huck",
+      "author_url": "https://www.google.com/maps/contrib/112615567145973860331/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8u1OPCDGthPFb0Iumx7naB-mbI1OzqbWfGc4Yt0uQBeeGkgGH=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr empfehlenswert.\nIch habe mich für meine Venen-OP an beiden Beinen gut aufgehoben gefühlt. Die Ärzte & Team waren sehr genau, haben sich viel Zeit für die Beratung genommen und alles verständlich erklärt sowie anschaulich dargestellt. Auch das Konsil empfand ich als sehr sorgfältig.\n\nAm OP-Tag war alles hygienisch, strukturiert und gut vorbereitet, was mir als eher skeptische Patientin ein sehr gutes Gefühl gegeben hat. Besonders positiv in Erinnerung geblieben ist mir die Stimmung während der OP: freundlich, humorvoll und menschlich. Gerade als eher ängstliche Patientin hat mir das sehr geholfen und mir das Gefühl gegeben, wirklich gut aufgehoben zu sein.  Da ich selbst aus dem medizinischen Bereich komme, achte ich auf viele Details – und genau deshalb kann ich sagen, dass ich insgesamt sehr zufrieden war.\n\nEinziger Kritikpunkt ist die telefonische Erreichbarkeit, die leider nahezu nicht gegeben war. Ich habe das auch vor Ort angesprochen. Per E-Mail war der Kontakt nach mehreren Versuchen dann möglich.\n\nAlles in allem kann ich die Praxis bzw. das Team sehr empfehlen.",
       "time": 1776705689,
       "translated": false
@@ -74,11 +98,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 218,
+  "reviewCount": 219,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:19.881Z"
+  "lastUpdated": "2026-04-28T07:30:54.143Z"
 }

@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Joern B",
+      "author_url": "https://www.google.com/maps/contrib/105310063808456652391/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaO3fWgEeAM8BGN2iDG74B84T_b-UxmGnbWB2liDNY7iKw4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur Botox-Behandlung bei Hannah Steinkusch und bin wirklich sehr zufrieden. Die Beratung war sehr freundlich, ehrlich und professionell. Hannah hat sich Zeit genommen, alles verständlich erklärt und ist genau auf meine Wünsche eingegangen. Das Ergebnis ist sehr natürlich geworden – frisch und erholt, ohne „gemacht“ auszusehen. Ich habe mich während der Behandlung sehr gut aufgehoben gefühlt und komme gerne wieder. Absolut empfehlenswert!",
+      "time": 1777312498,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/103498216796336597369/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmomRNTu35h-ni_mRp2aKmAc2Kpoy0WLXG1zEsRyIAwX3yXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetente und einfühlsame Hausärztin. Frau Steinkusch nimmt sich viel Zeit, erklärt verständlich und geht gut auf das Hautbild ein. Das Praxisteam ist auch freundlich. Klare Empfehlung!",
+      "time": 1777311490,
+      "translated": false
+    },
+    {
+      "author_name": "JELENA MARTINOVIC",
+      "author_url": "https://www.google.com/maps/contrib/106832986033544465742/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8-WoB6lgXbw9LxxN0h09i8q6RLEZu1WHl9wSuB5UT3Nwv6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich während meiner Behandlung bei Frau Dr. Steinkusch sehr gut betreut gefühlt. Sie war ausgesprochen freundlich und hat sich viel Zeit genommen, um auf meine Anliegen einzugehen. Insgesamt eine sehr angenehme Erfahrung.\nIch kann sie definitiv weiterempfehlen.",
+      "time": 1777311458,
+      "translated": false
+    },
+    {
+      "author_name": "Luka Blž",
+      "author_url": "https://www.google.com/maps/contrib/104503124288745900484/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpIhxIspqX8byqFv8Isx1hJ6hr4czY69d5sWlhZCA0ErcS64sn=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank für die tolle Beratung und den sehr angenehmen Termin. Mir wurde Frau Dr. Steinkusch über einen Bekannten empfohlen, der ebenfalls lange nach einer guten Hautärztin für verschiedene dermatologische Themen gesucht hat.\n\nIch kann die Empfehlung absolut nachvollziehen. Sehr kompetent und gleichzeitig angenehm menschlich, man fühlt sich direkt gut aufgehoben. Für mich eine klare Empfehlung",
+      "time": 1777310976,
+      "translated": false
+    },
+    {
+      "author_name": "S SZ",
+      "author_url": "https://www.google.com/maps/contrib/110721017146758071563/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLel_B9PUVTndnW6V3k5m_n2K5hbsKyId3ZtslVYegpQjj0Sw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Frau Steinkusch in Behandlung und bin absolut begeistert. Sie nimmt sich viel Zeit, hört aufmerksam zu und erklärt alles verständlich und ruhig. Man fühlt sich sofort gut aufgehoben und ernst genommen.\n\nDie Behandlung war sehr professionell und gleichzeitig angenehm ...man merkt direkt, dass sie viel Erfahrung und Fachwissen mitbringt. Auch das gesamte Team vor Ort ist freundlich und organisiert.\nIch kann Frau Steinkusch und die Praxis uneingeschränkt weiterempfehlen!\n\nMit Freundlichen Grüßen\nHerr S.Popovic",
+      "time": 1777293256,
+      "translated": false
+    },
+    {
       "author_name": "Nicole Haderecker",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
@@ -37,7 +97,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 186,
+  "reviewCount": 194,
   "summary": [],
-  "lastUpdated": "2026-04-26T19:23:59.039Z"
+  "lastUpdated": "2026-04-28T07:30:35.487Z"
 }

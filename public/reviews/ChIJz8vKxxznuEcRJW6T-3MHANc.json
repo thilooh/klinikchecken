@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Abed Remmo",
+      "author_url": "https://www.google.com/maps/contrib/106345649427381484561/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPwpHTlepDUNCurjW_6RBThyVlYG8tSRqhGVPb0MOVsStTNDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777297053,
+      "translated": false
+    },
+    {
       "author_name": "Лидия Андрощук",
       "author_url": "https://www.google.com/maps/contrib/118191934823573911733/reviews",
       "language": "de",
@@ -47,6 +57,16 @@
       "translated": false
     },
     {
+      "author_name": "Walter Burghardt",
+      "author_url": "https://www.google.com/maps/contrib/113212422672043394753/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOQfHwiOUc4o5zV4afrNXZ2kWPh1Kns7TMqxhb1xddEnSJTw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1776703823,
+      "translated": false
+    },
+    {
       "author_name": "Ghazal Bagheri",
       "author_url": "https://www.google.com/maps/contrib/113514377181205316588/reviews",
       "language": "de",
@@ -60,11 +80,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 345,
+  "reviewCount": 346,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:30.352Z"
+  "lastUpdated": "2026-04-28T07:31:03.237Z"
 }

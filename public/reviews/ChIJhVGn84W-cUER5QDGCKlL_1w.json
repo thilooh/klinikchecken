@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Klausns Trrash",
+      "author_url": "https://www.google.com/maps/contrib/104633130376279219989/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuIgJgAvHJ9jmMzj8bMD-L7mqJFfubHoDuWN243gmMSHGU1Y8b=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Sabi ist sehr nett und kompetent\nDie Dame an der Rezeption, allerdings unglaublich arrogant und unfreundlich",
+      "time": 1777288260,
+      "translated": false
+    },
+    {
       "author_name": "Aboudy Alfarhan",
       "author_url": "https://www.google.com/maps/contrib/110857328604488888845/reviews",
       "language": "de",
@@ -58,11 +70,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 79,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:29.090Z"
+  "lastUpdated": "2026-04-28T07:31:02.141Z"
 }

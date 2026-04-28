@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Wolle LEV",
+      "author_url": "https://www.google.com/maps/contrib/104424191829659548878/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhT0ETF9eZFzGcZ0Cw64xr76Vl2wCHUVpHDB5np8YlITyDJhQgxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Empathielos und herablassend\nDr. Linz ist nicht willens, in seiner Praxis gestellte Diagnosen zu hinterfragen! Respektloser und menschenunwürdiger Umgang mit hilfesuchendem Patienten, der als Hypochonder abgestempelt wird!\nTraurig, dass dieser Arzt eine Zulassung hat!",
+      "time": 1777274793,
+      "translated": false
+    },
+    {
       "author_name": "Marie",
       "author_url": "https://www.google.com/maps/contrib/101474730779325061497/reviews",
       "language": "de",
@@ -60,11 +72,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 219,
+  "reviewCount": 220,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-26T19:24:35.749Z"
+  "lastUpdated": "2026-04-28T07:31:07.978Z"
 }

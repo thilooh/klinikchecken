@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ercan Akkaya",
+      "author_url": "https://www.google.com/maps/contrib/116454010425215680751/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUY4iTYQlIdNETsITjHxHKC_p16McG91FwvAOKh8oOf64-cKGmj=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war sehr zufrieden, besten Dank meinerseits an das gesamte Team. Jeder einzelne Mitarbeiter ist sehr nett vorallem sehr höflich, sieht man oder erlebt man heutzutage sehr selten. Daher meine Dank an das gesamte Team, die Praxis ist einfach weiter zu empfehlen, von mir 5 Sterne wobei meiner Meinung nach die Praxis mehr Sterne verdient hätte.",
+      "time": 1777289188,
+      "translated": false
+    },
+    {
       "author_name": "Diana Enke",
       "author_url": "https://www.google.com/maps/contrib/105047177749676994489/reviews",
       "language": "de",
@@ -62,11 +74,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 96,
+  "reviewCount": 97,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:43.011Z"
+  "lastUpdated": "2026-04-28T07:31:14.519Z"
 }

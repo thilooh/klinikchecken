@@ -8,11 +8,35 @@
       "time": 1776688451
     },
     {
+      "author_name": "Yk berre",
+      "author_url": "https://www.google.com/maps/contrib/100964835061867056120/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRqRfmZ6Nm3LARKYtddmz-F8ZgKIDUPTZtLT5oQH4Z7-f5HwI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr nettes Personal und gute Behandlung, alles top:)",
+      "time": 1776688451,
+      "translated": false
+    },
+    {
       "author_name": "Ümit Yirmibes",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
       "text": "Die akute Sprechstunde habe ich recht schnell bekommen. Nach 3 min direkt drangekommen. Der Arzt ist sehr freundlich.",
       "time": 1776069196
+    },
+    {
+      "author_name": "Ümit Yirmibes",
+      "author_url": "https://www.google.com/maps/contrib/105519594513957655860/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLejmVXQRzgqL0ZM9CxZWw007HNuTf5V_cpM7lTg7VL6f-iYg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Die akute Sprechstunde habe ich recht schnell bekommen. Nach 3 min direkt drangekommen. Der Arzt ist sehr freundlich.",
+      "time": 1776069196,
+      "translated": false
     },
     {
       "author_name": "Parya Ghafouri",
@@ -43,5 +67,5 @@
     "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
     "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
   ],
-  "lastUpdated": "2026-04-26T19:23:55.177Z"
+  "lastUpdated": "2026-04-28T07:30:31.808Z"
 }

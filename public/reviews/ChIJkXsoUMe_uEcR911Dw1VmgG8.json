@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Ervin Music",
+      "author_url": "https://www.google.com/maps/contrib/108698643979443970456/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEMomKDfVAa_gPkBnQBCqwK8t-mQgsWZecPwMquecQEN2zfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Massenabfertigung, Wartezimmer wie aufm Trödelmarkt",
+      "time": 1777361289,
+      "translated": false
+    },
+    {
+      "author_name": "Gurwinder Kaur",
+      "author_url": "https://www.google.com/maps/contrib/101856929645085648150/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOfHyIj6OSnuR63nKcWpkBWOCaEtbjNdHGrzxcsXbuNv7U-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Szabo und sein Team ist sehr freundlich und hilfsbereit. Die Behandlung ist sehr wirksam und auch bei Fragen und Unsicherheiten wird aufgeklärt. Bei der Operativen Behandlung als auch bei der Nachsorge kümmert sich das Team um einen. 🤗🤗🤗",
+      "time": 1777308553,
+      "translated": false
+    },
+    {
+      "author_name": "Schötti24",
+      "author_url": "https://www.google.com/maps/contrib/115922490258334652983/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVgqG8MIil2CBjWBwVkn5BOUXyvo0QrYWAm7w3sWkjMSC30NA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider sehr unfreundlicher Umgang am Empfang. Wenn man Kritik äußert bekommt man „Hausverbot“. Sehr unprofessionell. Da fahre ich lieber einige Kilometer mehr.",
+      "time": 1777300140,
+      "translated": false
+    },
+    {
+      "author_name": "Nancy Krüger",
+      "author_url": "https://www.google.com/maps/contrib/101454291227274087094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo-vk6B9Qo3bta9Zkq0g-Zgmesll2Qo7ly0CHJ1B1NNd3Crg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unfreundlich besonders die Personen am Schalter. Lachen ein noch aus und werden sehr persönlich. Der Arzt behandelt ein nicht und wirf ein sogar noch raus.",
+      "time": 1777282905,
+      "translated": false
+    },
+    {
       "author_name": "Sven Schmitt",
       "author_url": "https://www.google.com/maps/contrib/101069696078754912452/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXzg2-Hqrc0kWIOoAwvw7G4A0XBL1nB6_Fb_IuwOMf5ZoAsw=s128-c0x00000000-cc-rp-mo",
@@ -60,11 +108,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 218,
+  "reviewCount": 222,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-04-26T19:24:15.923Z"
+  "lastUpdated": "2026-04-28T07:30:50.641Z"
 }

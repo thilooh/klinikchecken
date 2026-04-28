@@ -27,6 +27,18 @@
       "translated": false
     },
     {
+      "author_name": "Julia Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/107076812339154830413/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbouEuIoyzC4-osGfZb3a3nL3xagMPUWH0NTDYynCYlv9BzQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
+      "text": "Meiner Meinung nach eher ein professionelles Kosmetik Studio, wo auch sehr groß Werbung für kosmetische Behandlungen im Wartezimmer läuft. Häßliche, juckende Warzen, die auch psychisch belasten, wurden mir von anderen Dermatologen als Kassenleistung entfernt, hier wollen sie Unsummen dafür haben.",
+      "time": 1774695677,
+      "translated": false
+    },
+    {
       "author_name": "Gabriela Viridiana Guadarrama Garcia",
       "rating": 3,
       "relative_time_description": "vor 3 Wochen",
@@ -41,6 +53,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1gyhzK4c2f-QQrYxGaXMKj4neOx-LvwNY3cnyf18boIW2PVQL=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich bin Stammgast und die Betreuung durch Dr. Omaj ist hervorragend, ebenso wie die meisten Mitarbeiter, mit Ausnahme einer Empfangsdame, die immer unhöflich ist.",
+      "time": 1774688192,
+      "translated": true
+    },
+    {
+      "author_name": "Gabriela Viridiana Guadarrama Garcia",
+      "author_url": "https://www.google.com/maps/contrib/109493938475997409238/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1gyhzK4c2f-QQrYxGaXMKj4neOx-LvwNY3cnyf18boIW2PVQL=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich bin Stammgast und die Betreuung durch Dr. Omaj ist hervorragend, ebenso wie die meisten Mitarbeiter, mit Ausnahme einer Empfangsdame, die immer unhöflich ist.",
       "time": 1774688192,
       "translated": true
@@ -87,5 +111,5 @@
   "rating": 4.4,
   "reviewCount": 293,
   "summary": [],
-  "lastUpdated": "2026-04-26T19:23:59.800Z"
+  "lastUpdated": "2026-04-28T07:30:36.157Z"
 }

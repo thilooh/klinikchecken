@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Florian Klinkhammer",
+      "author_url": "https://www.google.com/maps/contrib/101935572172227338961/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLh9tcj0kbFKWpmtEPAVB7MAoq8OfZCAz7fnxdmLvmzmFnJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kenne Dr. H.Abu Nasir bestimmt schon 25 Jahre. Immer freundlich immer hilfsbereit und fachlich absolut auf der Höhe. Ich weiß nicht was das teilweise für Texte sind die hier geschrieben werden. Herr Dr.Abu Nasir - vielen Dank für eine klasse Betreuung.",
+      "time": 1777301675,
+      "translated": false
+    },
+    {
       "author_name": "Hasan Kececi (hakec)",
       "author_url": "https://www.google.com/maps/contrib/102215383644145799477/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Maik Odenhoven",
+      "author_url": "https://www.google.com/maps/contrib/106344764240910424714/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZrndKrtTRb8g1QZ_3krgSKtw8SHJheuDR4CHf53kghDZnyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Meine Frau ist seit vielen Jahren wegen ihres Lipödems bei Dr. Abu Nasr in Behandlung. Er ist immer sehr freundlich, äußerst kompetent und arbeitet klar zielorientiert. Man fühlt sich bei ihm jederzeit gut aufgehoben und ernst genommen. Wir sind sehr zufrieden und können ihn nur weiterempfehlen. Odenhoven",
+      "time": 1774859259,
+      "translated": false
+    },
+    {
       "author_name": "Hanna K",
       "author_url": "https://www.google.com/maps/contrib/110809605721049290842/reviews",
       "language": "de",
@@ -62,11 +86,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 60,
+  "reviewCount": 61,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-26T19:24:36.469Z"
+  "lastUpdated": "2026-04-28T07:31:08.688Z"
 }

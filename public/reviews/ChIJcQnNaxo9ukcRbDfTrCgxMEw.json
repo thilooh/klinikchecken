@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Redecker",
+      "author_url": "https://www.google.com/maps/contrib/117591989271377917199/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVcNm_gBfpf61w-J4njAQd-yh60htmrchJQzr4xxa2z-ez99Qa=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir haben den 27.04.2026. Leider bin ich kein Privatpatient, daher bekomme ich in diesem Jahr keinen Termin mehr! Ich darf mich ab 14.09.26 noch einmal melden, dann werden die Termine im kommenden Jahr vergeben.\nAls Privatpatient hätte ich in diesem Jahr noch einen Termin erhalten.",
+      "time": 1777285822,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Slawitsch",
       "author_url": "https://www.google.com/maps/contrib/106224611993187801959/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Sophie Grap",
+      "author_url": "https://www.google.com/maps/contrib/115218555322791116286/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4MZfFj2S8BgITL0MPWO2itD3tJBNvXXlCXvcBeaL_ikFP9A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Im Grunde genommen kann ich über die Praxis nichts schlechtes sagen.\nWas aber wirklich negativ zu bewerten ist, es gibt für jahrelange Patienten keine Termine mehr. Und wenn dann nur ein Jahr im Voraus.\nUnd dann auch nur wenn man an bestimmten Tagen anruft.\nSchlechter Scherz!\nPersonal kann vermutlich nichts dafür. Trotzdem Armutszeugnis für dieses Land.",
+      "time": 1772116215,
+      "translated": false
+    },
+    {
       "author_name": "Sidereum Sepia",
       "author_url": "https://www.google.com/maps/contrib/105723262266524425490/reviews",
       "language": "de",
@@ -61,12 +85,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 53,
+  "rating": 4.2,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-04-26T19:24:14.198Z"
+  "lastUpdated": "2026-04-28T07:30:49.116Z"
 }

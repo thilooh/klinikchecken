@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "MOS 1",
+      "author_url": "https://www.google.com/maps/contrib/113343841922093380927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQaiNxmDdix5Z4IL4S7ZYSYivC8jxxMAV5lRcdPRS_md4OfD5z=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Warum sollte man die Bedingung für eine bestimmte Zeit vergeben, wenn man dann sowieso 90 Minuten warten muss?Die Prüfung selbst dauert 4 Minuten mit minderwertiger Prüfung",
+      "time": 1777303704,
+      "translated": false
+    },
+    {
       "author_name": "Paul Meyer",
       "author_url": "https://www.google.com/maps/contrib/100868454693112446007/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcXLd0lhWUYOdLsMpHXKgJB0Whpyj4A6plFqZ_9qyASTkFUg4=s128-c0x00000000-cc-rp-mo",
@@ -81,12 +93,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 250,
+  "rating": 4.4,
+  "reviewCount": 251,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:15.173Z"
+  "lastUpdated": "2026-04-28T07:30:49.995Z"
 }

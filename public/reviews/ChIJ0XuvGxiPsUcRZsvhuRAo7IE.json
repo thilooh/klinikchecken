@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Verena",
+      "author_url": "https://www.google.com/maps/contrib/111126555682642375377/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE-KLA62tK_bD2siHJURXnKpJT2r5Z8LrBAiLOZU9dergTEUU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Desaströse telefonische Erreichbarkeit, bzw. keine Erreichbarkeit. Obwohl das oft adressiert wurde, ändert sich nichts.",
+      "time": 1777356678,
+      "translated": false
+    },
+    {
+      "author_name": "Velida N.",
+      "author_url": "https://www.google.com/maps/contrib/100440974420477309754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4M6bHNjLcrI3SEE33sI0f1VTn4-LtkgsbN4nTNXKimNfexw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen Termin für ein Beratungsgespräch bei Dr. med. Désirée Hölscher bezüglich meiner Haarverdünnung. Ich wollte mir eine Expertenmeinung einholen, blieb am Ende jedoch mit purer Reue zurück. Schon als ich angefangen habe zu erzählen, hat sie gegen die Wand gesprochen. In den zehn Minuten hat sie mich bestimmt nur einmal kurz angesehen und krampfhaft angelächelt ansonsten starrte sie nur die Wand an.\n\nIch frage mich, wie man es nach so vielen Berufsjahren nicht hinbekommen hat, sich gewisse kommunikative Skills anzueignen. Ich hatte das Gefühl, nicht mit einer Ärztin zu sprechen, sondern mit jemandem, der gezwungen ist, mir zuzuhören. Dabei zahle ich ja sogar Geld dafür, dass mir Gehör geschenkt wird. Aber was bringt mir das, wenn ich das Gefühl habe, man will mir gar nicht helfen?",
+      "time": 1777290156,
+      "translated": false
+    },
+    {
       "author_name": "Sam",
       "author_url": "https://www.google.com/maps/contrib/113264996637677676601/reviews",
       "language": "de",
@@ -37,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Amin",
+      "author_url": "https://www.google.com/maps/contrib/107590657790291994312/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxDrHl5zjgYpVAB5_XoYIe0zXH7e7pYYPcJpcnBwiwRrj3jg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Mit dem Ergebnis der Filler-Behandlung bin ich sehr unzufrieden. Bereits seit der Behandlung bestehen an den zwei Einstichstellen sichtbare, linsengroße Schwellungen, die sich bis heute, also nach drei Jahren!!! nicht zurückgebildet haben. Die Stellen sind dauerhaft sichtbar!",
+      "time": 1775432498,
+      "translated": false
+    },
+    {
       "author_name": "Markus Rösner",
       "author_url": "https://www.google.com/maps/contrib/101526922272824594300/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX09x6pwJFG76jrD9oMcuVPaZqtGenJgvnUAkplKTEQWw8=s128-c0x00000000-cc-rp-mo-ba2",
@@ -57,8 +93,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 410,
+  "rating": 4.4,
+  "reviewCount": 412,
   "summary": [],
-  "lastUpdated": "2026-04-26T19:24:04.280Z"
+  "lastUpdated": "2026-04-28T07:30:40.241Z"
 }

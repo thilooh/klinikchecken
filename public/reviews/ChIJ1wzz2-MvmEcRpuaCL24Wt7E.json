@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ko Ti",
+      "author_url": "https://www.google.com/maps/contrib/110704287787136347924/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxB_6HNiZkuNg8VTJlHWzZPbBu87m3UHO6wbnGm6jJ0Hg3fw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Telefonisch NIE erreichbar. Ich muss jedes mal hinfahren, wenn ich Änderungen am Termin machen muss oder Fragen hab.",
+      "time": 1777280643,
+      "translated": false
+    },
+    {
       "author_name": "Malcolm x",
       "author_url": "https://www.google.com/maps/contrib/113429943813464941104/reviews",
       "language": "de",
@@ -61,12 +73,12 @@
       "translated": false
     }
   ],
-  "rating": 3.8,
-  "reviewCount": 85,
+  "rating": 3.7,
+  "reviewCount": 86,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:40.135Z"
+  "lastUpdated": "2026-04-28T07:31:11.919Z"
 }

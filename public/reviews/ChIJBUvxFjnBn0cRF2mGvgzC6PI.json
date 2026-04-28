@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Julia Kürzinger",
+      "author_url": "https://www.google.com/maps/contrib/100898067593794196787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi0R4rZ5xsP3dCewDyKUiI8Sp7t-jE-g5tjBCFoCfekmZ8KQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr professionelles und freundliches Team, man fühlt sich gut aufgehoben und Prof. Dr. Babilas nimmt sich Zeit, sogar wenn der Termin kurzfristig gemacht wurde. Die Praxis ist sehr geschmackvoll und modern, man fühlt sich sehr wohl im Hautzentrum Regensburg.",
+      "time": 1777314203,
+      "translated": false
+    },
+    {
       "author_name": "Max Mustermann",
       "author_url": "https://www.google.com/maps/contrib/111664437493556235175/reviews",
       "language": "de",
@@ -70,11 +82,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 49,
+  "reviewCount": 50,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-04-26T19:24:21.347Z"
+  "lastUpdated": "2026-04-28T07:30:55.447Z"
 }

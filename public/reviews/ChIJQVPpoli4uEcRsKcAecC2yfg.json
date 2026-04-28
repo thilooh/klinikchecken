@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Yusuf Oflas",
+      "author_url": "https://www.google.com/maps/contrib/116567171445718359282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIg_5v0Zthurexfx4958S8iVu3qVQkTS3nJa-wXnrFnyKIWaw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut nicht empfehlenswert – Oberflächlich und fachlich enttäuschend   Ich kann diese Praxis leider absolut nicht weiterempfehlen. Wir haben die Ärztin als sehr arrogant und die Behandlung als äußerst oberflächlich empfunden.\n​Behandlung Baby (8 Monate):\n\nDie Untersuchung unseres Sohnes dauerte kaum eine Minute. Ohne genaueres Hinsehen wurde lediglich eine Creme verschrieben, ohne der Ursache wirklich auf den Grund zu gehen. Von einer Fachärztin erwarte ich gerade bei Säuglingen mehr Gründlichkeit.\n\n​Fädenziehen bei meiner Frau: Dies war leider eine fachliche Fehlleistung. Nachdem die Ärztin behauptete, alle Fäden gezogen zu haben und auf den Hinweis meiner Frau, dass noch Reste da seien, nur entgegnete: „Ich sehe keine, das werden Sie dann schon merken“, mussten wir am Abend feststellen: Die Hälfte war noch drin. Meine Frau hat sich dann selbst drei Fäden ziehen müssen, die schlichtweg übersehen wurden.\n\n​Fazit: Wer eine empathische und gewissenhafte Behandlung sucht, ist hier falsch. Wir fühlen uns medizinisch nicht ernst genommen und werden diese Praxis nie wieder betreten.",
+      "time": 1777322424,
+      "translated": false
+    },
+    {
       "author_name": "Nadia Salam",
       "author_url": "https://www.google.com/maps/contrib/104423293586575521724/reviews",
       "language": "de",
@@ -58,11 +70,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 112,
+  "reviewCount": 113,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:16.161Z"
+  "lastUpdated": "2026-04-28T07:30:50.856Z"
 }

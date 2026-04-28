@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "N. E.",
+      "author_url": "https://www.google.com/maps/contrib/112843847829973068103/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI08TZmJbdo7gbeIkPVQLOQ8FcdLVR1lYngrdj8Tcsvvp3Zog=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum begeistert von der Praxis! Alles ist wirklich top – man fühlt sich vom ersten Moment an wohl und gut aufgehoben.\nDie Mitarbeiterinen  an der Rezeption sind sehr nett, freundlich und zuvorkommend, man wird immer herzlich empfangen und kompetent betreut.\nDie Ärzte sind absolute Profis: Sie nehmen sich Zeit, beraten ausführlich und verständlich, sodass man sich in jeder Hinsicht sicher fühlt.\nAuch die Kosmetikerin leistet hervorragende Arbeit – sehr professionell, sorgfältig und mit tollen Ergebnissen.\nIch habe mich jederzeit bestens betreut gefühlt und bin mit den Ergebnissen mehr als zufrieden. Klare Empfehlung!",
+      "time": 1777311073,
+      "translated": false
+    },
+    {
       "author_name": "B. Lehmkuhl",
       "author_url": "https://www.google.com/maps/contrib/101891065782499613009/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl4pg48hHVgnkFkcPwSjlIS49925-cKQHuW28C7_BrzmhHQw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Guellil nimmt sich viel Zeit für die Beratung und erklärt alles sehr verständlich und ruhig. Man fühlt sich sofort ernst genommen und gut aufgehoben.\nDas gesamte Team ist sehr freundlich, aufmerksam und schafft eine sehr angenehme Atmosphäre, in der man sich sofort wohlfühlt und gerne wiederkommt.\nAuch die Behandlung selbst war äußerst professionell und das Ergebnis ist wunderschön, natürlich und hat genau meine Erwartungen getroffen – ich bin sehr glücklich und absolut zufrieden.\nMan geht mit einem guten Gefühl und echtem Vertrauen nach Hause. Absolute Herzensempfehlung!",
+      "time": 1776680872,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Räck",
+      "author_url": "https://www.google.com/maps/contrib/107296103522832283335/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl4pg48hHVgnkFkcPwSjlIS49925-cKQHuW28C7_BrzmhHQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Frau Dr. Guellil nimmt sich viel Zeit für die Beratung und erklärt alles sehr verständlich und ruhig. Man fühlt sich sofort ernst genommen und gut aufgehoben.\nDas gesamte Team ist sehr freundlich, aufmerksam und schafft eine sehr angenehme Atmosphäre, in der man sich sofort wohlfühlt und gerne wiederkommt.\nAuch die Behandlung selbst war äußerst professionell und das Ergebnis ist wunderschön, natürlich und hat genau meine Erwartungen getroffen – ich bin sehr glücklich und absolut zufrieden.\nMan geht mit einem guten Gefühl und echtem Vertrauen nach Hause. Absolute Herzensempfehlung!",
       "time": 1776680872,
       "translated": false
@@ -56,11 +80,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 84,
+  "reviewCount": 85,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-26T19:24:28.600Z"
+  "lastUpdated": "2026-04-28T07:31:01.727Z"
 }

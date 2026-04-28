@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Ute Naujock",
+      "author_url": "https://www.google.com/maps/contrib/111532685733755074314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqSFEEfBHX00Panjs0fRTZ9LJ_BdspcEpzaERf6TesENwPlQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wartezeit auf einen Termin 6 Wochen, also nicht so sehr lange.\nIn der Praxis sehr entspannt und kurze Wartezeit.\nPersonal und Ärztin waren freundlich.\nIch kann die Praxis empfehlen",
+      "time": 1777295353,
+      "translated": false
+    },
+    {
+      "author_name": "Sille Bessi",
+      "author_url": "https://www.google.com/maps/contrib/115107216353134804415/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU9t83kIc_Ks4_mCt2KWnVhD8PeTD1uCqhhfAsvwdmMn7Edw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine Wartezeit, kompetente und freundliche Mitarbeiter in jedem Bereich - Dankeschön :-)",
+      "time": 1777287648,
+      "translated": false
+    },
+    {
       "author_name": "Ali Irfan Peksoylu",
       "author_url": "https://www.google.com/maps/contrib/115955012538978992315/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIh7wzLMrOc71Q_gFfepHi2YtD4Q2j0ZBkEs5_VgiTVySM5Q=s128-c0x00000000-cc-rp-mo",
@@ -56,11 +80,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 124,
+  "reviewCount": 126,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:08.965Z"
+  "lastUpdated": "2026-04-28T07:30:44.466Z"
 }

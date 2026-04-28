@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Silvia Schulz",
+      "author_url": "https://www.google.com/maps/contrib/115987715135459893290/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWowiWMiV2w4orvIzi70oGYCwBVl_e3apG_dfWbqCORmZvUnYvk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nett und Kompetent",
+      "time": 1777239547,
+      "translated": false
+    },
+    {
       "author_name": "Stefan Kramer",
       "author_url": "https://www.google.com/maps/contrib/115536539474040510111/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLINowgEE60vMk9ZJCjP5ANMNi5GVUTqrTFThZs7yTFh57ZKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetentes und freundliches Team, beide Ärzte (Vater und Sohn) nehmen sich Zeit fürs Patientengespräch und untersuchen sehr genau.... der Empfang und die Terminvergabe durch das Praxisteam ist herzlich und zuvorkommend.",
+      "time": 1776669916,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Kramer",
+      "author_url": "https://www.google.com/maps/contrib/115536539474040510111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLINowgEE60vMk9ZJCjP5ANMNi5GVUTqrTFThZs7yTFh57ZKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr kompetentes und freundliches Team, beide Ärzte (Vater und Sohn) nehmen sich Zeit fürs Patientengespräch und untersuchen sehr genau.... der Empfang und die Terminvergabe durch das Praxisteam ist herzlich und zuvorkommend.",
       "time": 1776669916,
       "translated": false
@@ -62,11 +86,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 43,
+  "reviewCount": 44,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-26T19:24:45.159Z"
+  "lastUpdated": "2026-04-28T07:31:16.445Z"
 }
