@@ -2,9 +2,10 @@ import { useEffect, useState } from 'react'
 import { X, CheckCircle2, Loader2 } from 'lucide-react'
 import type { ScoredPraxis } from '../../lib/quizPraxenSort'
 import type { QuizAnswers, QuizLead, ComputedProfile } from '../../lib/quizState'
-import { sendEvent } from '../../lib/gtm'
 import { sentryCaptureMessage } from '../../lib/sentry'
 import { useModalDismiss } from '../../lib/useModalDismiss'
+import { getCTAVariant } from '../../lib/ctaVariant'
+import { trackPraxisModalOpen, trackPraxisAnfrage } from '../../lib/quizTracking'
 
 interface Props {
   praxis: ScoredPraxis
@@ -26,17 +27,15 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose }
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(false)
 
-  // InitiateCheckout fires once when the modal opens - matches the
-  // existing inquiry-modal pattern on the homepage.
+  // InitiateCheckout fires once when the modal opens. Pixel + CAPI
+  // via the helper - matches the rest of the site's pairing for the
+  // conversion-relevant events.
   useEffect(() => {
-    sendEvent('InitiateCheckout', {
-      content_name: praxis.name,
-      content_category: praxis.city,
-      item_name: praxis.name,
-      item_category: praxis.city,
-      praxis_tier: praxis.tier,
-      source: 'methoden_quiz',
-    })
+    trackPraxisModalOpen(
+      { id: praxis.id, name: praxis.name, city: praxis.city, tier: praxis.tier },
+      answers,
+      getCTAVariant(),
+    )
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
@@ -71,14 +70,14 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose }
         setError(true)
         return
       }
-      sendEvent('SubmitApplication', {
-        content_name: praxis.name,
-        content_category: praxis.city,
-        item_name: praxis.name,
-        item_category: praxis.city,
-        praxis_tier: praxis.tier,
-        source: 'methoden_quiz',
-      }, { email: lead.email, phone: telefon.trim() || undefined })
+      trackPraxisAnfrage(
+        { id: praxis.id, name: praxis.name, city: praxis.city, tier: praxis.tier },
+        answers,
+        lead,
+        lead.email,
+        telefon.trim() || undefined,
+        getCTAVariant(),
+      )
       setSubmitted(true)
     } catch (err) {
       sentryCaptureMessage(`praxis-anfrage fetch failed: ${String(err)}`, {

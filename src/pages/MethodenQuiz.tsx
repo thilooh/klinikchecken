@@ -1,4 +1,4 @@
-import { useEffect, useReducer } from 'react'
+import { useEffect, useReducer, useState } from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import QuizHeader from '../components/quiz/QuizHeader'
@@ -17,7 +17,12 @@ import {
 import Step11Capture from '../components/quiz/Step11Capture'
 import Step12Result from '../components/quiz/Step12Result'
 import { useSeo, SITE_URL } from '../lib/seo'
-import { sendEvent } from '../lib/gtm'
+import { getCTAVariant } from '../lib/ctaVariant'
+import {
+  trackQuizView,
+  trackQuizWishlist,
+  trackQuizCustomize,
+} from '../lib/quizTracking'
 import {
   INITIAL_QUIZ_STATE,
   loadPersisted,
@@ -39,18 +44,35 @@ export default function MethodenQuiz() {
   // (see loadPersisted) - older sessions start fresh. Storage key v3
   // makes any in-flight v2 sessions start fresh too.
   const [state, dispatch] = useReducer(quizReducer, INITIAL_QUIZ_STATE, init => loadPersisted() ?? init)
+  const [ctaVariant] = useState(() => getCTAVariant())
 
   useEffect(() => { persist(state) }, [state])
+
+  // ViewContent fires once when the quiz mounts - the top-of-funnel
+  // signal Meta uses for audience-building and look-alikes. Even if
+  // the user resumes from a persisted state at step 7, the page-view
+  // is still a meaningful event on this surface.
+  useEffect(() => {
+    trackQuizView(ctaVariant)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   // Loader auto-advances; everything else triggers via user action.
   const goNext = () => dispatch({ type: 'GOTO', step: state.currentStep + 1 })
 
-  // CustomizeProduct fires once when the recommendation appears
-  // (between loading and the result page).
+  // Step-driven mid-funnel events. Each fires once when the user
+  // arrives at the relevant step boundary (the answer was just made).
   useEffect(() => {
-    if (state.currentStep === 10) {
-      sendEvent('CustomizeProduct', { content_type: 'methoden_quiz' })
+    // Step 8: user just answered Q7 (Vermeidung). Strongest mid-
+    // funnel investment anchor - the Add-To-Wishlist semantic fits.
+    if (state.currentStep === 8 && state.answers.q7_vermeidung) {
+      trackQuizWishlist(state.answers, ctaVariant)
     }
+    // Step 10: loader running, recommendation about to surface.
+    if (state.currentStep === 10) {
+      trackQuizCustomize(state.answers, ctaVariant)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [state.currentStep])
 
   const reset = () => {

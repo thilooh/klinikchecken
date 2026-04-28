@@ -11,8 +11,8 @@ import { getMethodRecommendation, getRanges, getRelevantMethods, getTimingHint }
 import { sortPraxen, getCityCenter, type ScoredPraxis } from '../../lib/quizPraxenSort'
 import { useClinics } from '../../hooks/useClinics'
 import { matchCity } from '../../lib/cityMatch'
-import { sendEvent } from '../../lib/gtm'
 import { getCTAColor, getCTAVariant } from '../../lib/ctaVariant'
+import { trackQuizFindLocation } from '../../lib/quizTracking'
 import ScoreBar from './ScoreBar'
 import ComparisonTable from './ComparisonTable'
 import PraxisCard from './PraxisCard'
@@ -47,17 +47,12 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
     [clinics, userCoords, relevantMethods],
   )
 
-  // FindLocation fires when the personalised practice list materialises.
+  // FindLocation fires when the personalised practice list
+  // materialises. Pixel + CAPI via the helper so it dedups and
+  // carries consistent quiz_path / cta_variant params.
   useEffect(() => {
     if (sortedPraxen.length === 0 && clinics.length > 0) return
-    sendEvent('FindLocation', {
-      content_type: 'methoden_quiz',
-      content_name: profile.typ,
-      item_name: profile.typ,
-      plz: lead.plz,
-      praxen_count: sortedPraxen.length,
-      computed_typ: profile.typ,
-    })
+    trackQuizFindLocation(answers, lead, profile, sortedPraxen.length, ctaVariant)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [profile.typ])
 

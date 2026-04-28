@@ -1,9 +1,10 @@
 import { useState } from 'react'
 import { Loader2 } from 'lucide-react'
 import type { QuizLead, QuizAnswers, ComputedProfile } from '../../lib/quizState'
-import { sendEvent } from '../../lib/gtm'
 import { sentryCaptureMessage } from '../../lib/sentry'
 import { computeProfile } from '../../lib/quizProfileCompute'
+import { getCTAVariant } from '../../lib/ctaVariant'
+import { trackQuizLead } from '../../lib/quizTracking'
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
 const PLZ_RE = /^\d{5}$/
@@ -78,16 +79,9 @@ export default function Step11Capture({ initial, answers, onSubmitted }: Props) 
       // Lead event fires regardless of sheet outcome - the user did
       // submit, Meta should know about it. Graceful degradation
       // also lets users continue to step 12 even when storage fails.
-      sendEvent('Lead', {
-        content_type: 'methoden_quiz',
-        content_name: computedProfile.typ,
-        item_name: computedProfile.typ,
-        plz: form.plz.trim(),
-        consent_marketing: form.consent_marketing,
-        computed_typ: computedProfile.typ,
-        auspraegung: computedProfile.auspraegungScore,
-        dringlichkeit: computedProfile.dringlichkeitScore,
-      }, { email: form.email })
+      // Pixel + CAPI via the shared helper so it dedups correctly
+      // and includes consistent quiz_path / cta_variant params.
+      trackQuizLead(answers, form, computedProfile, getCTAVariant())
       onSubmitted(form, computedProfile)
     }
   }
