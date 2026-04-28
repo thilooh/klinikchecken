@@ -3,6 +3,8 @@ import { Check } from 'lucide-react'
 import AnswerCard from './AnswerCard'
 import MultiSelectCard from './MultiSelectCard'
 import StatementAgreement from './StatementAgreement'
+import BodyMap from './BodyMap'
+import SizePicker from './SizePicker'
 import type { QuizAnswers } from '../../lib/quizState'
 import { Q2_PIVOT_TEXT, Q7_PIVOT_TEXT } from '../../lib/quizDisplayMaps'
 import { pivotTextFromAnswers } from '../../lib/quizPivotTexts'
@@ -35,13 +37,7 @@ export function Step1Lokalisation({ onSelect }: { onSelect: (v: string) => void 
   return (
     <StepCard>
       <StepHeader idx={1} total={Q_TOTAL} prompt="Wo möchtest du sie loswerden?" helpText="Klick auf den Bereich, der dich am meisten stört." />
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-        {/* TODO: Replace text cards with SVG body-map (Beine + Gesicht) per V2 spec. */}
-        <AnswerCard label="An den Beinen — Waden, Knie, Knöchel" onSelect={() => onSelect('beine_unten')} />
-        <AnswerCard label="An den Beinen — Oberschenkel, Innenseite" onSelect={() => onSelect('beine_oben')} />
-        <AnswerCard label="Mehrere Stellen am Bein" onSelect={() => onSelect('beine_mehrere')} />
-        <AnswerCard label="Im Gesicht — Wangen, Nasenflügel, Kinn" onSelect={() => onSelect('gesicht')} />
-      </div>
+      <BodyMap selected={null} onSelect={onSelect} />
     </StepCard>
   )
 }
@@ -64,14 +60,7 @@ export function Step3Groesse({ onSelect }: { onSelect: (v: string) => void }) {
   return (
     <StepCard>
       <StepHeader idx={3} total={Q_TOTAL} prompt="Welches Bild kommt deinen Besenreisern am nächsten?" helpText="Größe und Verteilung sind für die Methodenwahl wichtig." />
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-        {/* TODO: Replace text cards with stylised illustrations per V2 spec
-            (HWG-konform: schematic SVG, no patient photos). */}
-        <AnswerCard label="Sehr fein" sub="Wie ein dünnes Haar (< 0,2 mm)" onSelect={() => onSelect('fein')} />
-        <AnswerCard label="Mittel" sub="Deutlich sichtbar, aber dünn (0,2–1 mm)" onSelect={() => onSelect('mittel')} />
-        <AnswerCard label="Größer" sub="Knotige oder breitere Gefäße (> 1 mm)" onSelect={() => onSelect('groesser')} />
-        <AnswerCard label="Verschiedene — flächig wie eine Landkarte" onSelect={() => onSelect('flaechig')} />
-      </div>
+      <SizePicker selected={null} onSelect={onSelect} />
     </StepCard>
   )
 }
