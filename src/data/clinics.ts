@@ -40,6 +40,8 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Verödung', 'Kassenpatienten'],
     headline: 'Direkt am Kölner Dom – Verödung & Laser zentral',
     usp: ['Zentralster Standort in Köln (Wallrafplatz)', 'Verödung & Nd:YAG Laser verfügbar', 'Kassenpatienten herzlich willkommen'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Dermatologie am Dom behandelt Besenreiser mit Verödung und dem Epsilon-Laser – einer Kombination aus IPL und gefäßspezifischem Nd:YAG. Beide Methoden werden je nach Gefäßtyp individuell eingesetzt.',
       methodDetails: [
@@ -88,6 +90,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Kassenpatienten'],
     headline: 'Dermatologin mit Phlebologie-Schwerpunkt in Köln-Innenstadt',
     usp: ['Spezialisiert auf Venenheilkunde & Phlebologie', 'GKV-Abrechnung möglich', 'Zentrale Lage nahe Neumarkt'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Dr. Rösing setzt sowohl Verödung als auch den Pulsed-Dye-Laser ein – den sie ausdrücklich als „Goldstandard unter den Gefäßlasern" bezeichnet. Die Praxis beschäftigt zertifizierte Lasertherapeutinnen mit laufender Weiterbildung.',
       methodDetails: [
@@ -143,6 +147,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Gefäßzentrum', 'Online-Buchung', 'Kassenpatienten'],
     headline: 'Spezialisiertes Gefäßzentrum – über 20 Jahre Venenkompetenz in Köln',
     usp: ['Über 20 Jahre Expertise in Gefäßmedizin', 'GKV-Verträge mit TK, AOK, KKH u.a.', 'Online-Terminbuchung verfügbar'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das MVZ Gefäßzentrum am Rudolfplatz ist ein zertifiziertes Venen-Kompetenz-Zentrum. Vor jeder Besenreiser-Behandlung erfolgt standardmäßig eine Ultraschalluntersuchung, um tieferliegende Venenprobleme auszuschließen.',
       methodDetails: [
@@ -202,6 +208,8 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Verödung', 'Kassenpatienten'],
     headline: 'Nd:YAG Laser für Besenreiser – Lindenthal & PAN-Klinik Neumarkt',
     usp: ['Zwei Praxisstandorte in Köln', 'Nd:YAG Laser & Verödung verfügbar', 'Parkplätze vorhanden'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Dr. Kruppa & Dr. Larsen setzen bei Besenreisern vorrangig auf Laser. Beide Ärzte tragen die Zusatzbezeichnung „Dermatologische Lasertherapie". Der langgepulste Nd:YAG-Laser erreicht auch kleinste Gefäße, die per Verödung nicht zugänglich wären.',
       methodDetails: [
@@ -260,6 +268,8 @@ export const clinics: Clinic[] = [
     tags: ['Plastische Chirurgie', 'Nd:YAG Laser', 'Abendtermine'],
     headline: 'Plastischer Chirurg mit 20+ Jahren Erfahrung – Abendtermine möglich',
     usp: ['Über 20 Jahre Erfahrung in ästhetischer Medizin', 'Abendtermine montags bis 19 Uhr', 'Nd:YAG Laser & Verödung kombinierbar'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Be esthetic behandelt Besenreiser mit zwei aufeinander abgestimmten Methoden. Vor jeder Therapie erfolgt eine präzise Voruntersuchung – so wird die passende Methode individuell für jeden Patienten gewählt.',
       methodDetails: [
@@ -321,6 +331,8 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Verödung', 'Erstberatung kostenlos'],
     headline: 'Renommierter Privatdozent – führender Dermatologe in Deutschland',
     usp: ['Leitender Arzt, Klinik Links vom Rhein', 'Kostenlose Erstberatung & Ratenzahlung', 'Parkplätze vorhanden'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Dermatologikum Köln behandelt Besenreiser mit Verödung (flüssig oder als Schaum) und Lasertherapie. Vor jeder Behandlung erfolgt eine klinische Untersuchung mit farbkodierter Duplexsonografie zur Beurteilung des Venensystems.',
       methodDetails: [
@@ -382,6 +394,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Abendtermine', 'Online-Buchung'],
     headline: 'Dermatologische Privatpraxis in Düsseldorf – täglich bis 20 Uhr',
     usp: ['Lange Öffnungszeiten Mo–Fr bis 20 Uhr', 'Abendtermine verfügbar', 'Online-Buchung möglich'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Dr. Hilton & Partner bietet drei Injektionsvarianten sowie den Neodym-Laser (Nd:YAG) für Besenreiser. Vor jeder Behandlung ist eine medizinische Ultraschalluntersuchung (farbkodierte Duplexsonografie) verpflichtend.',
       methodDetails: [
@@ -445,6 +459,8 @@ export const clinics: Clinic[] = [
     tags: ['Gefäßchirurgie', 'Phlebologie', 'Königsallee', 'Abendtermine'],
     headline: 'Phlebologie-Spezialist im Kö-Center – 5,0 ★ bei 74 Bewertungen',
     usp: ['Facharzt für Gefäßchirurgie & Phlebologie', 'Exklusiver Standort an der Königsallee', 'Abendtermine Mo/Di/Do bis 19 Uhr'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Gefäßpraxis Dr. Kusenack ist eine reine Gefäßchirurgie- und Phlebologie-Spezialpraxis. Bei allen neuen Besenreiser-Patienten ist eine Ultraschalluntersuchung verpflichtend – in bis zu 50 % der Fälle liegen tieferliegende Venenpathologien vor, die zuerst behandelt werden müssen.',
       methodDetails: [
@@ -502,6 +518,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'KTP-Laser', 'Kassenpatienten', 'Parkplätze'],
     headline: 'Dermatologen-Gemeinschaftspraxis mit KTP-Laser in Düsseldorf',
     usp: ['KTP-Laser QuadroStar+ für schonende Behandlung', 'GKV-Abrechnung möglich', 'Parkplätze im Innenhof vorhanden'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Hautarztpraxis Funk, Humke & Herrmann bietet drei Methoden zur Besenreiser-Behandlung: Sklerotherapie, Lasertherapie und Miniphlebektomie. Mehrere phlebologisch qualifizierte Ärzte sind im Team.',
       methodDetails: [
@@ -563,6 +581,8 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Privatpraxis', 'Abendtermine'],
     headline: 'Privatdozent für Dermatologie – spezieller Gefäßlaser für Besenreiser',
     usp: ['Privatdozent mit universitärer Expertise', 'Nd:YAG Laser für alle Venentiefen', 'Abendtermine donnerstags bis 19 Uhr'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Haut & Laser Praxis positioniert Laserbehandlung als ihre Kernkompetenz. Für Besenreiser kommt ein Nd:YAG-Laser (1.064 nm) mit integriertem Kühlsystem zum Einsatz, ergänzt durch klassische Sklerotherapie.',
       methodDetails: [
@@ -621,6 +641,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Gefäßmedizin', 'Zentrum'],
     headline: 'Zertifiziertes Gefäßzentrum am Neumarkt – Sclerotherapie-Spezialist',
     usp: ['Zertifiziertes Sclerotherapie-Zentrum', 'Direkt am Neumarkt (Neumarkt-Galerie)', 'Schwerpunktpraxis Gefäßmedizin'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Gefäßzentrum Köln Am Neumarkt ist ein dediziertes Gefäßzentrum in der PAN Klinik – mit Facharzt für Gefäßchirurgie und einem Phlebologie-/Lymphologie-Spezialisten im Team. Es kommen ausschließlich wissenschaftlich belegte Methoden zum Einsatz.',
       methodDetails: [
@@ -679,6 +701,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Privatpraxis'],
     headline: 'Privatpraxis Dr. Hölker – Dermatologie & Phlebologie in Rodenkirchen',
     usp: ['Spezialisierung Phlebologie & Allergologie', 'Verödung & Laser für Besenreiser', 'Rodenkirchen – ruhige Lage'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Dr. Julia Hölker ist dreifach spezialisiert (Dermatologie, Phlebologie & Allergologie) und Gründungsmitglied zweier nationaler phlebologischer Arbeitsgruppen. Vor jeder Besenreiser-Behandlung ist eine Duplexsonografie obligatorisch.',
       methodDetails: [
@@ -739,6 +763,8 @@ export const clinics: Clinic[] = [
     tags: ['Laser', 'Lasermedizin', 'Abendtermine'],
     headline: 'Etabliertes Laser-Zentrum in Nippes – Dermatologie seit 1996',
     usp: ['Laser-Zentrum seit 1996', 'Abendtermine montags & dienstags', 'Spezialisiert auf vaskuläre Laserbehandlung'],
+  tier: 'basic',
+  praxis_email: 'bitschth@gmail.com',
   },
 
   {
@@ -774,6 +800,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Gefäßmedizin', 'Kassenpatienten', 'Parkplätze'],
     headline: 'Gefäßmedizin & Venenchirurgie in Köln-Lindenthal',
     usp: ['Spezialisierte Venenchirurgie & Phlebologie', 'GKV-Abrechnung möglich', 'Parkplätze vorhanden'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Dr. Neßeler & Partner ist als Zertifiziertes Venenzentrum (Phlebologicum®) anerkannt. Das Behandlungskonzept sieht vor, tieferliegende Krampfadern zuerst zu behandeln, bevor oberflächliche Besenreiser verödet werden.',
       methodDetails: [
@@ -829,6 +857,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Gefäßchirurgie', 'Parkplätze'],
     headline: 'Haut & Venen Kastanienhof – Dermatologie & Gefäßchirurgie kombiniert',
     usp: ['Kombination Dermatologie & Gefäßchirurgie', 'Verödung & Laser unter einem Dach', 'Parkplätze vorhanden'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'HAUT & VENEN Kastanienhof verbindet Dermatologie (Dr. Hundgeburth) mit einem erfahrenen Gefäßchirurgen (Dr. Bieber, ehemals 18 Jahre Chefarzt). Behandlung für Privat- und Selbstzahler.',
       methodDetails: [
@@ -889,6 +919,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Phlebologie', 'Königsallee', 'Kassenpatienten'],
     headline: 'Dedizierte Phlebologie-Praxis nahe der Königsallee',
     usp: ['Reine Phlebologie-Praxis', 'Direktlage nahe Königsallee', 'GKV-Abrechnung möglich'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Phlebologie an der KÖ – gegründet 1987, Zusatzbezeichnung Phlebologie seit 1995. Vor jeder Behandlung steht grundsätzlich eine sorgfältige diagnostische Abklärung – auch bei reinen Besenreisern, die per Definition als Krampfadern eingestuft werden.',
       methodDetails: [
@@ -943,6 +975,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Mikroschaum-Sklerotherapie', 'Abendtermine', 'Samstag'],
     headline: 'Altstadt-Praxis – Mikro-Sklerotherapie in zentralster Lage',
     usp: ['Zentrale Altstadt-Lage', 'Samstagsöffnung 10–15 Uhr', 'Mikro- und Schaum-Sklerotherapie'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Altstadt-Praxis Düsseldorf behandelt Besenreiser mit Mikro-Sklerotherapie sowie Elektrokaustik für einzelne Kapillaren im Gesicht.',
       methodDetails: [
@@ -995,6 +1029,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Königsallee'],
     headline: 'KÖ-KLINIK – Ästhetische Medizin direkt in der KÖ-Galerie',
     usp: ['Exklusiver Standort in der KÖ-Galerie', 'Verödung & Laser für Besenreiser', 'Private Klinik für ästhetische Behandlungen'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die KÖ-KLINIK bietet Sklerotherapie und Lasertherapie für Besenreiser an. Die Methodenwahl richtet sich nach Gefäßdicke, Erscheinungsbild und Bräunungsgrad der Haut.',
       methodDetails: [
@@ -1049,6 +1085,8 @@ export const clinics: Clinic[] = [
     tags: ['Laser', 'Lasermedizin', 'Professor', 'DDA-zertifiziert'],
     headline: 'Prof. Dr. Gerber – DDA-zertifizierter Laser-Experte in Oberkassel',
     usp: ['DDA-Zertifizierung Dermatologische Lasermedizin', 'Ehemaliges Vorstandsmitglied Deutsche Dermat. Lasergesellschaft', 'Laser für Besenreiser & kleine Gefäße'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Prof. Dr. Gerber ist DDA-zertifizierter Laser-Experte, Vorstandsmitglied der Deutschen Dermatologischen Lasergesellschaft (DDL) und von FOCUS als führender nationaler Laser-Spezialist anerkannt. Die Praxis setzt den HOPSL-Gefäßlaser (577 nm) als Goldstandard für Teleangiektasien und Besenreiser ein.',
       methodDetails: [
@@ -1097,6 +1135,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'Gefäßchirurgie', 'Phlebologie', 'Parkplätze'],
     headline: 'VENperfect – Gefäßchirurgie & alle Verfahren unter einem Dach',
     usp: ['Facharzt Gefäßchirurgie, Phlebologie & Lymphologie', 'Verödung, Schaum, Laser & Radiofrequenz verfügbar', 'Parkplätze vorhanden'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'VENperfect ist ein reines Gefäßmedizin-Zentrum – alle Ärzte sind Fachärzte für Gefäßchirurgie. Dr. Jawadi verfügt über 20+ Jahre Erfahrung und ist anerkannte Ausbildungspraxis für Phlebologie.',
       methodDetails: [
@@ -1151,6 +1191,8 @@ export const clinics: Clinic[] = [
     tags: ['Verödung', 'Laser', 'MVZ'],
     headline: 'MVZ Hautzentrum Golzheim – Laser & Verödung für Besenreiser',
     usp: ['MVZ mit mehreren Fachärzten', 'Laser & Verödung kombinierbar', 'Düsseldorf-Golzheim'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Dr. Cornely ist als einer der wenigen Ärzte dreifach spezialisiert in Dermatologie, Phlebologie und Lymphologie. Er ist Ehrenprofessor, Gründer des Berufsverbands der Lymphologen e.V. und Autor des Springer-Lehrbuchs „Angewandte Lymphologie".',
       methodDetails: [
@@ -1204,6 +1246,8 @@ export const clinics: Clinic[] = [
     tags: ['Nd:YAG Laser', 'Abendtermine'],
     headline: 'Hautnah Zentrum – Nd:YAG Laser für Besenreiser zentral in Düsseldorf',
     usp: ['Nd:YAG Laser für Teleangiektasien & Besenreiser', 'Abendtermine montags bis 19 Uhr', 'Zentrale Lage am Wehrhahn'],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Hautnah Zentrum setzt für Besenreiser das Cynergy Multiplex-System ein – eine Kombination aus Farbstofflaser (595 nm) und Nd:YAG (1.064 nm) in einem Gerät, das oberflächliche und tiefere Gefäße in einer Sitzung behandeln kann.',
       methodDetails: [
@@ -1264,6 +1308,8 @@ export const clinics: Clinic[] = [
       'Online-Terminbuchung rund um die Uhr verfügbar',
       'Alle modernen Venentherapien unter einem Dach',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Venenzentrum Frankfurt unter Leitung von Dr. Peter Hölper ist eine auf Venenerkrankungen spezialisierte Facharztpraxis in der Kaiserstraße 9, wenige Gehminuten von der Frankfurter Hauptwache. Das Behandlungsspektrum reicht von der Besenreiser-Verödung bis zur endovaskulären Therapie schwerer Krampfadern.',
       methodDetails: [
@@ -1326,6 +1372,8 @@ export const clinics: Clinic[] = [
       'Donnerstags Abendsprechstunde bis 18:00 Uhr',
       'Modernste endovenöse Laserablation (Biolitec ELVeS Radial 2 Ring)',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Venenklinik Frankfurt (Frankfurter Spezialklinik für Beinleiden) wurde 1976 von Prof. Zoltán Várady gegründet und seit 2004 von Prof. hon. Dr. med. Zoltán Böhm geführt. Die Praxisklinik am Roßmarkt bietet das gesamte Spektrum konservativer und operativer Venenheilkunde.',
       methodDetails: [
@@ -1388,6 +1436,8 @@ export const clinics: Clinic[] = [
       'DGPL-zertifiziertes Venen Kompetenz-Zentrum (VKZ)',
       'Tiefe und oberflächliche Venenerkrankungen aus einer Hand',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Venen Kompetenz-Zentrum VKZ in der Adickesallee ist eine von der Deutschen Gesellschaft für Phlebologie und Lymphologie gelistete Spezialpraxis für Gefäßerkrankungen im Frankfurter Nordend. Die Praxis bietet chirurgische wie konservative Venenheilkunde und ist werktags bis 19 Uhr geöffnet.',
       methodDetails: [
@@ -1450,6 +1500,8 @@ export const clinics: Clinic[] = [
       'Samstagsöffnung 8–10 Uhr für Berufstätige',
       'Online-Terminbuchung verfügbar',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Hautarztpraxis Dr. Kay Kerner in Frankfurt-Dornbusch vereint Dermatologie, Venerologie, Phlebologie und Allergologie unter einem Dach. Neben der allgemeinen Hautarztversorgung bietet die Praxis gezielte Behandlungen für Besenreiser und Krampfadern durch Verödung und Laser.',
       methodDetails: [
@@ -1515,6 +1567,8 @@ export const clinics: Clinic[] = [
       'Kassenpatienten willkommen',
       'Erfahrene Phlebologin mit Schwerpunkt Krampfadern & Besenreiser',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Gefäßpraxis Kampstraße ist eine auf Venenerkrankungen spezialisierte Praxis in der Dortmunder Innenstadt. Dr. med. Marion Rüther behandelt Krampfadern, Besenreiser und Durchblutungsstörungen mit modernsten Methoden. Kassenpatientinnen und -patienten werden ohne lange Wartezeiten behandelt.',
       methodDetails: [
@@ -1577,6 +1631,8 @@ export const clinics: Clinic[] = [
       'Duplexsonographie vor jeder Behandlung',
       'Parkplätze direkt vor der Klinik',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Hansaklinik Dr. Eichelberg & Partner vereint Dermatologie und Phlebologie unter einem Dach. Das spezialisierte Team behandelt Venenerkrankungen aller Schweregrade – von Besenreisern bis zu ausgeprägter Stammvarikosis.',
       methodDetails: [
@@ -1639,6 +1695,8 @@ export const clinics: Clinic[] = [
       'Kassenpatienten & Privatpatienten',
       'Parkplätze verfügbar',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. Koepchen bietet das komplette Leistungsspektrum der modernen Phlebologie und Gefäßchirurgie. Krampfadern und Besenreiser werden nach sorgfältiger Duplexsonographie individuell und schonend behandelt.',
       methodDetails: [
@@ -1704,6 +1762,8 @@ export const clinics: Clinic[] = [
       'Kassenpatienten willkommen',
       'Zentrale Lage an der Friedrichstraße',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Venenpraxis Berlin Mitte behandelt Besenreiser und Krampfadern mit modernsten Methoden direkt an der Friedrichstraße. Als angiologisch spezialisierte Praxis steht die präzise Diagnostik mittels Ultraschall im Mittelpunkt.',
       methodDetails: [
@@ -1764,6 +1824,8 @@ export const clinics: Clinic[] = [
       'Kassenpatienten willkommen',
       'Mehrere Standorte in Berlin',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'VenaZiel Berlin MVZ bietet umfassende Venentherapie auf der Friedrichstraße – von Besenreisern bis zu Krampfadern. Das medizinische Versorgungszentrum verfügt über ein erfahrenes Facharztteam für Phlebologie.',
       methodDetails: [
@@ -1824,6 +1886,8 @@ export const clinics: Clinic[] = [
       'Gesamtes Venenkrankheitsspektrum',
       'Kassenpatienten willkommen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Kreis & Kollegen ist ein zertifiziertes Venen-Kompetenzzentrum in Berlin-Grunewald mit dem gesamten Spektrum venöser Erkrankungen. Das Praxisteam bietet modernste Lasertechnik und bewährte Verödungsverfahren.',
       methodDetails: [
@@ -1885,6 +1949,8 @@ export const clinics: Clinic[] = [
       'Kassenpatienten willkommen',
       'Parkplätze vorhanden',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Venenzentrum Adlershof ist eine spezialisierte gefäßmedizinische Praxis für Diagnostik und Therapie von Venenerkrankungen im Südosten Berlins.',
       methodDetails: [
@@ -1948,6 +2014,8 @@ export const clinics: Clinic[] = [
       'Spezialisierte Gemeinschaftspraxis für Venenmedizin',
       'Kassenpatienten und Selbstzahler willkommen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Ambulante Bein Centrum am Viktualienmarkt ist eine auf Venenerkrankungen spezialisierte Praxis im Herzen Münchens. Die Ärzte Dr. Stephan Guggenbichler und Dr. Juliane Liebetrau behandeln Besenreiser und Krampfadern mit modernsten, schonenden Methoden.',
       methodDetails: [
@@ -2011,6 +2079,8 @@ export const clinics: Clinic[] = [
       'Modernste minimal-invasive Behandlungsmethoden',
       'Zentrale Lage nahe Sendlinger Tor',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Venenzentrum München unter der Leitung von Dr. med. Esther Wißmüller ist auf die schonende, präzise und ästhetische Entfernung von Krampfadern und Besenreisern spezialisiert.',
       methodDetails: [
@@ -2074,6 +2144,8 @@ export const clinics: Clinic[] = [
       'Modernste Diagnostik und Therapie',
       'Parkplätze vorhanden',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Phlebologie München in Bogenhausen ist eine auf arterielle und venöse Gefäßerkrankungen spezialisierte Facharztpraxis. Mit modernster Diagnostik und Therapie werden Besenreiser, Krampfadern und Lympherkrankungen behandelt.',
       methodDetails: [
@@ -2135,6 +2207,8 @@ export const clinics: Clinic[] = [
       'Ausschließliche Spezialisierung auf Venen- und Gefäßleiden',
       'Modernes Venenlasersystem für schonende Behandlung',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Münchener Venenpraxis im Tal wurde 1990 von Dr. med. Uli Taucher gegründet und hat sich ausschließlich auf die Behandlung von Venen- und Gefäßleiden spezialisiert. Mit über drei Jahrzehnten Erfahrung bietet die Praxis erprobte und moderne Methoden zur Behandlung von Besenreisern und Krampfadern.',
       methodDetails: [
@@ -2202,6 +2276,8 @@ export const clinics: Clinic[] = [
       'Zertifiziertes Venen-Kompetenzzentrum',
       'Modernste minimal-invasive Verfahren',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Dermatologikum Hamburg bietet umfassende Diagnostik und Therapie von Venenerkrankungen mit besonderem Schwerpunkt auf minimal-invasiven Methoden. Das interdisziplinäre Team aus Phlebologen und Dermatologen behandelt sowohl Besenreiser als auch schwere Krampfadererkrankungen.',
       methodDetails: [
@@ -2265,6 +2341,8 @@ export const clinics: Clinic[] = [
       'Individuelle Diagnostik & Therapie',
       'Zentrale Lage mit Parkplatzmöglichkeiten',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Venenpraxis Dr. Lambrecht bietet eine Rundumversorgung venöser Erkrankungen mit individueller Diagnostik und maßgeschneiderter Therapie. Als spezialisierte Phlebologie-Praxis steht die gezielte Behandlung von Besenreisern und Krampfadern im Mittelpunkt.',
       methodDetails: [
@@ -2327,6 +2405,8 @@ export const clinics: Clinic[] = [
       'Abendsprechstunden für Berufstätige',
       'Vollständiges Spektrum gefäßmedizinischer Therapien',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die lipovasc® Venenpraxis unter Leitung von Dr. Schweichler bietet das gesamte Spektrum moderner Venentherapie auf Privatbasis. Die medikamentöse Verödung und Schaumsklerosierung eignen sich besonders für Besenreiser und kleinere Krampfadern und werden schmerzarm ohne Betäubung ambulant durchgeführt.',
       methodDetails: [
@@ -2390,6 +2470,8 @@ export const clinics: Clinic[] = [
       'Modernster Diodenlaser für Besenreiser',
       'Abendsprechstunden bis 19:00 Uhr',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Hamburg Dermatologie ist eine Privatpraxis für Dermatologie und Phlebologie mit umfangreichem Leistungsspektrum für Besenreiser- und Krampfaderbehandlung. Als zertifiziertes Venefit®-Zentrum verfügt die Praxis über besondere Expertise bei der minimal-invasiven Behandlung von Stammveneninsuffizienz.',
       methodDetails: [
@@ -2457,6 +2539,8 @@ export const clinics: Clinic[] = [
       'Interdisziplinäres Team: Dermatologie, Gefäßchirurgie & Innere Medizin',
       'Zentrale Lage direkt am Nikolaikirchhof, Kassenpatienten willkommen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das MVZ Venenzentrum am Brühl (Dermaven-MVZ GmbH) ist das führende Venenspezialzentrum in Leipzig und durch die Deutsche Gesellschaft für Phlebologie (DGP) als Venenkompetenzzentrum sowie als Referenzzentrum für endoluminale Laser- und Radiowellentherapie zertifiziert.',
       methodDetails: [
@@ -2522,6 +2606,8 @@ export const clinics: Clinic[] = [
       'Donnerstags Sprechstunde bis 18:00 – Abendtermine möglich',
       'Kassenpatienten & alle Kassen; barrierefrei mit Aufzug',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis für Gefäßchirurgie Dr. Matthias Jany bietet das vollständige Spektrum der ambulanten Venenchirurgie im Leipziger Zentrum. Dr. Jany ist durch die KV Sachsen zertifiziert und behandelt alle Kassen.',
       methodDetails: [
@@ -2584,6 +2670,8 @@ export const clinics: Clinic[] = [
       'Online-Terminvergabe verfügbar; kurze Wartezeiten (Ø 8 Tage)',
       'Komplettes endovaskuläres Spektrum inkl. ClariVein® und ELVeS Radial™',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Angiologie am Coppiplatz unter Leitung von Dr. Matthias Ulrich ist eine auf Gefäßmedizin spezialisierte Praxis in Leipzig-Gohlis. Dr. Ulrich ist Internist und Angiologe mit DGP-Phlebologie-Zertifikat und bietet das gesamte Spektrum der modernen endovaskulären Venentherapie.',
       methodDetails: [
@@ -2653,6 +2741,8 @@ export const clinics: Clinic[] = [
       'Mikrosklerotherapie & Nd:YAG-Laser aus einer Hand',
       'Facharzt für Dermatologie & Phlebologie',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis von Dr. Jörg Zajitschek am Campus Nürnberg Ost ist ein zertifiziertes Venen-Kompetenz-Zentrum mit Schwerpunkt Phlebologie und ästhetische Dermatologie. Besenreiser und Krampfadern werden schonend per Mikrosklerotherapie oder modernem Nd:YAG-Laser behandelt.',
       methodDetails: [
@@ -2716,6 +2806,8 @@ export const clinics: Clinic[] = [
       'Zentraler Standort in Nürnberg',
       'Fachärztin für Dermatologie & Phlebologie',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Hautarztpraxis Streikiene bietet phlebologische Behandlungen mit Schwerpunkt auf Besenreiser und erweiterte Venen. Die Sklerosierungstherapie ist ein bewährtes Verfahren: ein spezielles Verödungsmittel wird in die betroffenen Gefäße injiziert, die sich daraufhin schließen.',
       methodDetails: [
@@ -2776,6 +2868,8 @@ export const clinics: Clinic[] = [
       'Fachärztliches MVZ-Team Gefäßchirurgie & Phlebologie',
       'Umfassende Diagnostik per Duplex-Sonographie',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das MVZ für Gefäßchirurgie und Phlebologie am Klinikum Martha-Maria Nürnberg bietet das gesamte Spektrum der Venenbehandlung – von der Besenreiser-Verödung bis zur endovenösen Radiofrequenzablation. Alle Eingriffe werden ambulant durch ein erfahrenes Facharztteam durchgeführt.',
       methodDetails: [
@@ -2841,6 +2935,8 @@ export const clinics: Clinic[] = [
       'Kassenpatienten & alle Kassen willkommen',
       'Komplettes Spektrum: Verödung bis Laserbehandlung',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Venenpraxis Stuttgart ist eine auf Gefäßchirurgie und Phlebologie spezialisierte Gemeinschaftspraxis am Rotebühlplatz. Das Team um Dr. Annette Hanssen, Dr. Heiko Petersen und Christoph Arnold bietet das vollständige Spektrum der Venenheilkunde.',
       methodDetails: [
@@ -2904,6 +3000,8 @@ export const clinics: Clinic[] = [
       'Modernste endovaskuläre Techniken (Laser & Radiofrequenz)',
       'Kassenpatienten & alle Kassen willkommen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Ambulante Gefäßzentrum Dr. Seiter, seit Januar 2026 Teil des Robert Bosch Krankenhauses, ist eines der erfahrensten Venenzentren Deutschlands. Mit rund 2.500 Gefäßoperationen jährlich bietet das Zentrum modernste Diagnostik und Therapie aller Gefäßerkrankungen.',
       methodDetails: [
@@ -2966,6 +3064,8 @@ export const clinics: Clinic[] = [
       'Online-Buchung via Doctolib, Abendsprechstunden bis 19:00',
       'Kassenvertrag mit AOK BW, BKK & IKK Classic für Laserbehandlung',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Hautzentrum Innenstadt ist die einzige Doppelpraxis für Dermatologie, Phlebologie und Plastische Chirurgie in Stuttgart. Dr. Jens Tesmann führte 2006 die erste ambulante endovenöse Lasertherapie in Stuttgart durch und ist Gründungsmitglied der Arbeitsgruppe Endovenöse Therapie der Deutschen Gesellschaft für Phlebologie.',
       methodDetails: [
@@ -3034,6 +3134,8 @@ export const clinics: Clinic[] = [
       'Verödung & Laserbehandlung von Besenreisern und Krampfadern',
       'Kassenärztliche Versorgung – kein Privatpatient erforderlich',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'DermAP verbindet dermatologische Expertise mit moderner Phlebologie und behandelt Besenreiser sowie Krampfadern minimalinvasiv. Das Praxisteam um Dr. Pljakic bietet individuelle Therapiekonzepte aus Verödung, Schaumverödung und Laserbehandlung.',
       methodDetails: [
@@ -3097,6 +3199,8 @@ export const clinics: Clinic[] = [
       'Modernste Duplex-Ultraschall-Diagnostik',
       'Parkplätze direkt vor der Praxis',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. Jens Krug ist auf Gefäßmedizin und Phlebologie spezialisiert und bietet das komplette Leistungsspektrum von der Diagnostik bis zur ambulanten Operation.',
       methodDetails: [
@@ -3159,6 +3263,8 @@ export const clinics: Clinic[] = [
       'Gefäßchirurgische Expertise für komplexe Krampfaderbehandlungen',
       'Kassenärztliche Versorgung mit Parkplatz direkt am Haus',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das MVZ Contilia in Essen-Huttrop bietet phlebologische und gefäßchirurgische Versorgung und ist eng mit dem Contilia-Klinikverbund vernetzt. Besenreiser und Krampfadern werden ambulant mit modernen Verfahren behandelt.',
       methodDetails: [
@@ -3226,6 +3332,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hannover',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Nd:YAG-Laser. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -3288,6 +3396,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hannover',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis MVZ Dermatologie an der Oper behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.9 Sternen (174 Bewertungen) zu den bestbewerteten Adressen in Hannover. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -3350,6 +3460,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hannover',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis HautarztPraxis Hannover Dr. Arayesh ist mit 4.5 Sternen bei 149 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Hannover. Behandelt wird mit Nd:YAG-Laser – je nach Gefäßtyp und Ausdehnung individuell ausgewählt. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       methodDetails: [
@@ -3412,6 +3524,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bremen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dermatologikum Bremen ist mit 4.5 Sternen bei 188 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Bremen. Behandelt wird mit Nd:YAG-Laser – je nach Gefäßtyp und Ausdehnung individuell ausgewählt. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       methodDetails: [
@@ -3469,6 +3583,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bremen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Wir behandeln Unser Team bietet ein breites Spektrum an Leistungen zur Diagnose, Behandlung und Prävention verschiedener Gefäßerkrankungen an. Besenreiser Krampfadern Offenes Bein Schaufensterkrankheit Stauungsekzem Venenthrombose Ven n breites Spektrum an Leistungen zur Diagnose, Behandlung und Prävention verschiedener Gefäßerkrankungen an.',
       methodDetails: [
@@ -3525,6 +3641,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bremen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -3586,6 +3704,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Kiel',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis medermis kiel bietet in Kiel die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. 124 verifizierte Google-Bewertungen sprechen für die Qualität der Behandlung. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp optimal ist.',
       methodDetails: [
@@ -3647,6 +3767,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Kiel',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Venenzentrum Nord - Ihr Kompetenz-Zentrum für Venenheilkunde. Egal ob es sich bei Ihnen um eine Krampfadererkrankung der großen Stammvenen, ihrer Seitenäste oder der kleinen Venen in der Haut („Besenreiser“ ialisiert auf die Behandlung von Krampfadern der Beine.',
       methodDetails: [
@@ -3708,6 +3830,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Kiel',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Nd:YAG-Laser. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -3770,6 +3894,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Rostock',
       'Persönliche Behandlung durch Dr. med. Torsten Pabst Anfahrt Anrufen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Torsten Pabst - Chirurgische Praxis - Ambulante Krampfader- und Handoperationen behandelt Besenreiser mit Sklerotherapie und gehört mit 4.7 Sternen (36 Bewertungen) zu den bestbewerteten Adressen in Rostock. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -3831,6 +3957,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Braunschweig',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Sie sind hier: » Venenzentrum Braunschweig Erfolg und Perfektion durch konsequente Spezialisierung Das Venenzentrum und Wirbelsäulenzentrum Braunschweig ist aus der täglichen Erfahrung spezialisierter Fachärzte hervorgegangen.',
       methodDetails: [
@@ -3887,6 +4015,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Braunschweig',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Klinik Am Zuckerberg GmbH bietet in Braunschweig die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -3943,6 +4073,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Braunschweig',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Sie sind hier: » Venenzentrum Braunschweig Erfolg und Perfektion durch konsequente Spezialisierung Das Venenzentrum und Wirbelsäulenzentrum Braunschweig ist aus der täglichen Erfahrung spezialisierter Fachärzte hervorgegangen.',
       methodDetails: [
@@ -3999,6 +4131,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Magdeburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis ⚕ MVZ „Im Altstadtquartier“ Magdeburg ist mit 4.8 Sternen bei 415 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Magdeburg. Behandelt wird mit Sklerotherapie – je nach Gefäßtyp und Ausdehnung individuell ausgewählt. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       methodDetails: [
@@ -4055,6 +4189,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Magdeburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Haut-Ambulatorium Magdeburg | Dr. Brücher und Doktoren | Fachärzte für Dermatologie behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.7 Sternen (118 Bewertungen) zu den bestbewerteten Adressen in Magdeburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -4112,6 +4248,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Magdeburg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Katja Höfer (Fachärztin für Dermatologie) bietet in Magdeburg die Behandlung von Besenreisern und Teleangiektasien mit Nd:YAG-Laser an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -4169,6 +4307,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Lübeck',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Prof. Dr. Krengel/ Dr. Mrowka/ Dr. Haase Partnerschaft behandelt Besenreiser mit Sklerotherapie und gehört mit 4.8 Sternen (2234 Bewertungen) zu den bestbewerteten Adressen in Lübeck. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -4225,6 +4365,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Lübeck',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Katja Laske bietet in Lübeck die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -4281,6 +4423,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Lübeck',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Praxis im Norden - Simone Rentzsch behandelt Besenreiser mit Sklerotherapie und gehört mit 4.9 Sternen (92 Bewertungen) zu den bestbewerteten Adressen in Lübeck. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -4337,6 +4481,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bonn',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -4393,6 +4539,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bonn',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Praxis Dr. Med. Natalia Brenner bietet in Bonn die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. 106 verifizierte Google-Bewertungen sprechen für die Qualität der Behandlung. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -4454,6 +4602,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bonn',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis MVZ Dermatologisches Zentrum Bonn - Hautarzt am Friedensplatz behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.6 Sternen (91 Bewertungen) zu den bestbewerteten Adressen in Bonn. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -4516,6 +4666,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Aachen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Ärzteteam Ärztlicher Leiter Jens David Puschmann Facharzt für Chirurgie und Gefäßchirurgie Venenspezialist DGPL Phlebologe, Wundexperte ICW Telefon: 0241/69001 Stv. Jörg Scheffer Facharzt für Chirurgie und Gefäßchirurgie Endovaskulärer Chirurg DGG Venenspezialist DGPL Phlebologe Notfallmedizin, Sportmedizin Telef elefon: 0241/69001 Stv.',
       methodDetails: [
@@ -4577,6 +4729,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Münster',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautarztpraxis Münster , MVZ, Prof. Dr. med.W. Wehrmann & Dr. med. O.Rödder-Wehrmann und Kollegen*innen ist mit 4.9 Sternen bei 117 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Münster. Behandelt wird mit Nd:YAG-Laser – je nach Gefäßtyp und Ausdehnung individuell ausgewählt. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       methodDetails: [
@@ -4634,6 +4788,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Münster',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -4695,6 +4851,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Münster',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Meine Schwerpunkte liegen in der Diagnostik und Therapie venöser, arterieller und lymphatischer Gefäßerkrankungen sowie in der Ursachendiagnostik und Behandlung von chronischen Entzündungserkrankungen.',
       methodDetails: [
@@ -4756,6 +4914,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bielefeld',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Online Termin buchen Venenprax s Bielefeld Gesundheit braucht mehr als eine 5-Minuten-Medizin Unsere Praxis ist spezialisiert auf eine ganzheitliche Venendiagnostik und die Behandlung von Venenleiden. Online Termin buchen Venenpraxis Bielefeld Herzlich willkommen Eine gründliche Diagnostik und schonende Therapie von Venenleiden sowie die klassische und operative Dermatologie sind die Schwerpunkte meiner Praxis.',
       methodDetails: [
@@ -4812,6 +4972,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bielefeld',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Wir sind eine Facharztpraxis für Gefäßmedizin und behandeln Erkrankungen von Arterien und Venen. Ein solcher Notfall ist zum Beispiel: Verdacht auf eine tiefe Beinvenenthrombose.',
       methodDetails: [
@@ -4873,6 +5035,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wuppertal',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Termin buchen Ihre Schönheitschirurgin in Wuppertal Privatpraxis Krstin Madri, Hautärztin Tatigkeitsschwerpunkt: Ästhetische Medizin Ambulante Operationen und Lasermedizin Wir machen  uch glücklicher.',
       methodDetails: [
@@ -4935,6 +5099,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wuppertal',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Praxis Dr. med. Anna Dith behandelt Besenreiser mit Sklerotherapie und gehört mit 4.7 Sternen (217 Bewertungen) zu den bestbewerteten Adressen in Wuppertal. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -4991,6 +5157,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wuppertal',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Sanitas Medizinisches Zentrum Wuppertal - Mohanad Nasif behandelt Besenreiser mit Sklerotherapie und gehört mit 4.9 Sternen (167 Bewertungen) zu den bestbewerteten Adressen in Wuppertal. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5047,6 +5215,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bochum',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Ingo Schugt behandelt Besenreiser mit Sklerotherapie und gehört mit 4.5 Sternen (250 Bewertungen) zu den bestbewerteten Adressen in Bochum. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5103,6 +5273,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bochum',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Gefäßchirurgie Dr. Björn Burkert und Dr. Nora Mayböck behandelt Besenreiser mit Sklerotherapie und gehört mit 4.9 Sternen (109 Bewertungen) zu den bestbewerteten Adressen in Bochum. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5159,6 +5331,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Bochum',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Nidal Assaf bietet in Bochum die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -5215,6 +5389,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Duisburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautarztpraxis Dr. med. Zoltan Szabo bietet in Duisburg die Behandlung von Besenreisern und Teleangiektasien mit Nd:YAG-Laser an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -5277,6 +5453,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Duisburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Frau Dr. med. Mercedeh Khalil Moghaddam behandelt Besenreiser mit Sklerotherapie und gehört mit 4.6 Sternen (112 Bewertungen) zu den bestbewerteten Adressen in Duisburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5333,6 +5511,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Duisburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Derma Angabini – Hautarztpraxis Duisburg | Herr Dr. med. Nariman Angabini ist mit 4.6 Sternen bei 107 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Duisburg. Behandelt wird mit Nd:YAG-Laser – je nach Gefäßtyp und Ausdehnung individuell ausgewählt. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       methodDetails: [
@@ -5395,6 +5575,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Augsburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Klinik Vincentinum GmbH & Co. KG behandelt Besenreiser mit Sklerotherapie und gehört mit 4.6 Sternen (385 Bewertungen) zu den bestbewerteten Adressen in Augsburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5451,6 +5633,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Augsburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautzentrum am Forsterpark behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.6 Sternen (163 Bewertungen) zu den bestbewerteten Adressen in Augsburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5508,6 +5692,8 @@ export const clinics: Clinic[] = [
       'Sklerotherapie & Nd:YAG-Laser – beide Verfahren in einer Praxis verfügbar',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Augsburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Nach Abschluss meiner Facharztprüfung für Dermatologie und Phlebologie, konnte ich vielen Patienten in der dermatologischen Praxis helfen. Nach Abschluss meiner Facharztprüfung für Dermatologie und Phlebologie, konnte ich vielen Patienten in der dermatologischen Praxis helfen.',
       methodDetails: [
@@ -5574,6 +5760,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Freiburg im Breisgau',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Venenzentrum Freiburg bietet in Freiburg im Breisgau die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -5630,6 +5818,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Freiburg im Breisgau',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Marco Hoffmann bietet in Freiburg im Breisgau die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -5691,6 +5881,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Freiburg im Breisgau',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Praxis für Gefäßmedizin Prof. Dr. med. Thomas Schwarz behandelt Besenreiser mit Sklerotherapie und gehört mit 4.5 Sternen (46 Bewertungen) zu den bestbewerteten Adressen in Freiburg im Breisgau. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5747,6 +5939,8 @@ export const clinics: Clinic[] = [
       'Sklerotherapie & Nd:YAG-Laser – beide Verfahren in einer Praxis verfügbar',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ulm',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis HautVenen Blaustein - Dr. Steinert, Dr. Lenz, Dr. Jones, Dr. Grenzner behandelt Besenreiser mit Sklerotherapie und Nd:YAG-Laser und gehört mit 4.5 Sternen (141 Bewertungen) zu den bestbewerteten Adressen in Ulm. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5808,6 +6002,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf IPL für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ulm',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Areion Kompetenzzentrum für Medizin und Ästhetik behandelt Besenreiser mit IPL und gehört mit 4.5 Sternen (134 Bewertungen) zu den bestbewerteten Adressen in Ulm. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -5865,6 +6061,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ulm',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -5926,6 +6124,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Heidelberg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -5987,6 +6187,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Heidelberg',
       'Persönliche Behandlung durch Dr. Kerstin Augustin Dr',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Heidelberger Praxisklinik Zentrum für endovaskuläre Venenchirurgie Frau Dr. Sabine Rewerk und Herr Dr. Stephan Rewerk in Heidelberg behandelt Besenreiser und erweiterte Hautgefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Auswahl der optimalen Methode. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -6048,6 +6250,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Heidelberg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Gefäßchirurgie und Venenmedizin Heidelberg Dr. med. Ulrich W. Ertelt bietet in Heidelberg die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -6104,6 +6308,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Karlsruhe',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis MVZ Dermatologie Karlsruhe behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.9 Sternen (1034 Bewertungen) zu den bestbewerteten Adressen in Karlsruhe. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -6161,6 +6367,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Karlsruhe',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautärzte am Marktplatz behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.6 Sternen (218 Bewertungen) zu den bestbewerteten Adressen in Karlsruhe. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -6218,6 +6426,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Karlsruhe',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Zentrum für Ästhetische Dermatologie behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.9 Sternen (171 Bewertungen) zu den bestbewerteten Adressen in Karlsruhe. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -6275,6 +6485,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mannheim',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautarztpraxis Dr. med. Riedel & Kollegen ist mit 4.6 Sternen bei 261 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Mannheim. Behandelt wird mit Nd:YAG-Laser – je nach Gefäßtyp und Ausdehnung individuell ausgewählt. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       methodDetails: [
@@ -6337,6 +6549,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mannheim',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -6398,6 +6612,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mannheim',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Elly Kibet Cherwon bietet in Mannheim die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -6454,6 +6670,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Regensburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Venen-Fachpraxis Regensburg Dr. Vielsmeier, Dr. Lengfellner, Frau Rabago behandelt Besenreiser mit Sklerotherapie und gehört mit 4.6 Sternen (68 Bewertungen) zu den bestbewerteten Adressen in Regensburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -6510,6 +6728,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Regensburg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis HAUTZENTRUM REGENSBURG - PRIVATPRAXIS - Hautarzt und Dermatologe Prof. Dr. med. Philipp Babilas behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.8 Sternen (49 Bewertungen) zu den bestbewerteten Adressen in Regensburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -6567,6 +6787,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Regensburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Chirurgie- und VenenCentrum Reichmann/Woronowicz-Kmiec Regensburg - Straubing - Deggendorf behandelt Besenreiser mit Sklerotherapie und gehört mit 4.6 Sternen (51 Bewertungen) zu den bestbewerteten Adressen in Regensburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -6623,6 +6845,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Würzburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -6684,6 +6908,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Würzburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis MVZ Haut- und Laserzentrum Würzburg behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.7 Sternen (68 Bewertungen) zu den bestbewerteten Adressen in Würzburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -6741,6 +6967,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Würzburg',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Ralf Schiener bietet in Würzburg die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -6797,6 +7025,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Dresden',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautarztpraxis Leupold - Ihr Privatarzt in Dresden bietet in Dresden die Behandlung von Besenreisern und Teleangiektasien mit Nd:YAG-Laser an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -6854,6 +7084,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Dresden',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Varikosis Leistenbruch / Leistenhernie / Hernia inguinalis Periphere arterielle Verschlusskrankheit (pAVK) / Schaufensterkrankheit Phlebologie Ultraschall / Sonografie Mehr anzeigen Weniger anzeigen Karte und Zugangsinformationen MVZ St. Gefäßchirurgisch gehört die Diagnostik der Arterien und Venen und die Früherkennung von Aneurysmen der Aorta (Hauptschlagader) zum Spektrum.',
       methodDetails: [
@@ -6915,6 +7147,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Dresden',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautarzt Dresden (Privatpraxis) ️ HAUTE ESTHETIQUE behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.8 Sternen (52 Bewertungen) zu den bestbewerteten Adressen in Dresden. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -6972,6 +7206,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Chemnitz',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis MedicoVen - Praxisklinik für Gefäßmedizin bietet in Chemnitz die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -7028,6 +7264,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Chemnitz',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Gemeinschaftspraxis für Chirurgie | MVZ Praxis bietet in Chemnitz die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -7084,6 +7322,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Chemnitz',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Lutz Forkmann bietet in Chemnitz die Behandlung von Besenreisern und Teleangiektasien mit Sklerotherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -7140,6 +7380,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Erfurt',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -7201,6 +7443,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Persönliche Behandlung durch Dr. Brugger Home Seite Kontaktformular',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Brugger Schwerpunkt Gefäßmedizin A ngiologie Phlebologie Telefon: 0361/789 200 25 Fax: 0361/789 200 35 eMail: PraxisDrBrugger@t-online.de Willy-Brandt-Platz 1 (Arkaden) 9908 stische Praxis Dr. Brugger Schwerpunkt Gefäßmedizin A ngiologie Phlebologie Telefon: 0361/789 200 25 Fax: 0361/789 200 35 eMail: PraxisDrBrugger@t-online.de Willy-Brandt-Platz 1 (Arkaden) 99084 Erfurt Internistische Praxis Dr.',
       methodDetails: [
@@ -7262,6 +7506,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Potsdam',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dermatologie Potsdam Privatpraxis behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.8 Sternen (259 Bewertungen) zu den bestbewerteten Adressen in Potsdam. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -7319,6 +7565,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Potsdam',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis HLCP | Haut- und Lasercentrum Potsdam behandelt Besenreiser mit Nd:YAG-Laser und gehört mit 4.9 Sternen (143 Bewertungen) zu den bestbewerteten Adressen in Potsdam. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -7376,6 +7624,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Potsdam',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. Jasmin Last Potsdam Werder - Medical Aesthetics & Wellness behandelt Besenreiser mit Sklerotherapie und gehört mit 4.8 Sternen (129 Bewertungen) zu den bestbewerteten Adressen in Potsdam. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -7437,6 +7687,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wiesbaden',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -7498,6 +7750,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wiesbaden',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dermatologie im Zentrum | Hautarztpraxis Dr. med. Nicola Möller u. Thomas Kurtenbach ist mit 4.5 Sternen bei 139 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Wiesbaden. Behandelt wird mit Nd:YAG-Laser – je nach Gefäßtyp und Ausdehnung individuell ausgewählt. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       methodDetails: [
@@ -7560,6 +7814,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wiesbaden',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautcentrum Wiesbaden Dr. Peter Broichmann & Dr. Angelika Jetter bietet in Wiesbaden die Behandlung von Besenreisern und Teleangiektasien mit Nd:YAG-Laser an. 144 verifizierte Google-Bewertungen sprechen für die Qualität der Behandlung. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       methodDetails: [
@@ -7622,6 +7878,8 @@ export const clinics: Clinic[] = [
       'Nd:YAG-Laser & IPL – beide Verfahren in einer Praxis verfügbar',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mainz',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dermatologie Quist - Ihre Hautärzte für Hautkrebsvorsorge -therapie, chronisch entzündlichen Hautkrankheiten, Laser, Ästhetik behandelt Besenreiser mit Nd:YAG-Laser und IPL und gehört mit 4.7 Sternen (271 Bewertungen) zu den bestbewerteten Adressen in Mainz. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -7683,6 +7941,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mainz',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. Kasten - Hautmedizin (Privatpraxis) ist mit 4.7 Sternen bei 220 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Mainz. Behandelt wird mit Nd:YAG-Laser – je nach Gefäßtyp und Ausdehnung individuell ausgewählt. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       methodDetails: [
@@ -7745,6 +8005,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Nd:YAG-Laser für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Kassel',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Für Neurodermitis und Schuppenflechte bieten wir neue systemische Therapien an, sofern lokale Behandlungen keinen Erfolg hatten oder aufgrund der Schwere unzureichend sind. Moderne Lasertherapie kommt ebenso wie die Photodynamische Therapie neben der klassischen chirurgischen Therapie zum Einsatz.',
       methodDetails: [
@@ -7802,6 +8064,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Kassel',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Sharaf-Praxis behandelt Besenreiser mit Sklerotherapie und gehört mit 4.6 Sternen (71 Bewertungen) zu den bestbewerteten Adressen in Kassel. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -7858,6 +8122,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Kassel',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis behandelt Besenreiser und erweiterte Gefäße mit Sklerotherapie. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode für den jeweiligen Gefäßtyp. Modernste Geräte ermöglichen schonende, ambulante Eingriffe ohne Narkose.',
       methodDetails: [
@@ -7919,6 +8185,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf Sklerotherapie für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Saarbrücken',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Venenzentrum Saarlouis - Dr. med. Ugur & Kolleginen/-en behandelt Besenreiser mit Sklerotherapie und gehört mit 4.7 Sternen (119 Bewertungen) zu den bestbewerteten Adressen in Saarbrücken. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -7975,6 +8243,8 @@ export const clinics: Clinic[] = [
       'Nd:YAG-Laser & IPL – beide Verfahren in einer Praxis verfügbar',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Saarbrücken',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis MVZ Dermatologie & Ästhetik Kleinblittersdorf behandelt Besenreiser mit Nd:YAG-Laser und IPL und gehört mit 4.8 Sternen (62 Bewertungen) zu den bestbewerteten Adressen in Saarbrücken. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -8036,6 +8306,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Saarbrücken',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Privatpraxis Saarbrücken – MVZ Dermatologie & Ästhetik Saarland behandelt Besenreiser mit Nd:YAG-Laser und IPL und gehört mit 4.8 Sternen (33 Bewertungen) zu den bestbewerteten Adressen in Saarbrücken. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -8097,6 +8369,8 @@ export const clinics: Clinic[] = [
       'Spezialisiert auf IPL für Besenreiser und Teleangiektasien',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Göttingen',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Praxis für medizinische Ästhetik Inh. Angelina Lutz behandelt Besenreiser mit IPL und gehört mit 5.0 Sternen (110 Bewertungen) zu den bestbewerteten Adressen in Göttingen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       methodDetails: [
@@ -8154,6 +8428,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Tobias Hirsch bietet in Halle (Saale) die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -8204,6 +8480,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Halle (Saale)',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Ästhetik Halle - private Facharztpraxis für Plastische, Rekonstruktive und Ästhetische Chirurgie behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (84 Bewertungen) zu den bestbewerteten Adressen in Halle (Saale). Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8254,6 +8532,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Joachim Zaage behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Halle (Saale). Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8304,6 +8584,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mönchengladbach',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Praxis für Gefäßmedizin - Dr. Shadi Sabe behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (79 Bewertungen) zu den bestbewerteten Adressen in Mönchengladbach. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8354,6 +8636,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Jan Berger behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (26 Bewertungen) zu den bestbewerteten Adressen in Mönchengladbach. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8409,6 +8693,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mönchengladbach',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautarzt Mönchengladbach, Dermatologie am Berliner Platz, Dr. med Irene Venten behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (99 Bewertungen) zu den bestbewerteten Adressen in Mönchengladbach. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8459,6 +8745,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gelsenkirchen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Hans-Ulrich Topp behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (164 Bewertungen) zu den bestbewerteten Adressen in Gelsenkirchen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8509,6 +8797,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Doris Niang Fachärztin für Anästhesiologie behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (2 Bewertungen) zu den bestbewerteten Adressen in Gelsenkirchen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8559,6 +8849,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gelsenkirchen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dres. med. Cramer, Dr. med. Krosta & Dr. med. Kost behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (345 Bewertungen) zu den bestbewerteten Adressen in Gelsenkirchen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8609,6 +8901,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis RHEINDERMA, Lodin und Kollegen behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (37 Bewertungen) zu den bestbewerteten Adressen in Krefeld. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8659,6 +8953,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Krefeld',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'In unserer Clinic stehen Sie im Mittelpunkt – mit modernsten Behandlungsmethoden und einem zeitgemäßen Ansatz verwirklichen wir Ihre individuellen Schönheitsziele. Erfahren Sie mehr Ästhetische Faltenbehandlung Tauchen Sie ein in die faszinierende Welt innovativer Behandlungen zur Reduzierung feiner Linien und Falten, die Ihnen ein jugendliches und erfrischtes Erscheinungsbild verleihen... Hyaluronsäure Tauchen Sie ein in die Welt der Hyaluronsäure-Behandlungen, die für eine natürliche und jugendliche Haut sorgen...',
       processSteps: [
@@ -8709,6 +9005,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Krefeld',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Derma Fischeln - Hautarztpraxis Doctor-Medic Irina Iuga-Popescu (iuga-popescu) behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (72 Bewertungen) zu den bestbewerteten Adressen in Krefeld. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8759,6 +9057,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Klinik für Gefäßchirurgie, Endovaskuläre Chirurgie und Phlebologie behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (19 Bewertungen) zu den bestbewerteten Adressen in Oberhausen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8809,6 +9109,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oberhausen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Siamak Pourhassan behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.7 Sternen (55 Bewertungen) zu den bestbewerteten Adressen in Oberhausen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8859,6 +9161,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oberhausen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Sebastian Wais behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (129 Bewertungen) zu den bestbewerteten Adressen in Oberhausen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -8914,6 +9218,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Lela Ahlemann Privatpraxis bietet in Hagen die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -8964,6 +9270,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. Timtschenko behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (1 Bewertungen) zu den bestbewerteten Adressen in Hagen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -9014,6 +9322,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hagen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Haut- und Laserpraxis A. Al-Jebori bietet in Hagen die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -9064,6 +9374,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis St. Marien-Hospital Hamm gem. GmbH Klinik für Gefäßchirurgie bietet in Hamm die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -9114,6 +9426,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hamm',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Hautarzt Hamm Ahlen – Dermatologie für Soest Umgebung haut ärzte Dr. Maria-Laura Terbille und kollegen Ihre Hautärzte in Hamm und Ahlen TERMIN BUCHEN Wir bieten Diagnose und Therapie des gesamten Spektrums dermatologischer Erkrankungen und Allergien. Für die Gesundheit und Schönheit Ihrer Haut setzen wir modernste Technik und Behandlungsmethoden ein.',
       processSteps: [
@@ -9169,6 +9483,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Andreas Franik behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (2 Bewertungen) zu den bestbewerteten Adressen in Hamm. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -9219,6 +9535,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Der Schwerpunkt liegt auf Diagnostik und Therapie des Krampfaderleidens mittels modernster operativer und nicht-operativer Verfahren. Das Angebot umfasst außerdem die Diagnostik und – soweit ambulant möglich – auch Therapie von Durchblutungsstörungen („Schaufensterkrankheit“), Verengungen der Halsschlagader und Aussackungen der Bauchschlagader.',
       processSteps: [
@@ -9274,6 +9592,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Der Schwerpunkt liegt auf Diagnostik und Therapie des Krampfaderleidens mittels modernster operativer und nicht-operativer Verfahren. Das Angebot umfasst außerdem die Diagnostik und – soweit ambulant möglich – auch Therapie von Durchblutungsstörungen („Schaufensterkrankheit“), Verengungen der Halsschlagader und Aussackungen der Bauchschlagader.',
       processSteps: [
@@ -9329,6 +9649,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ludwigshafen am Rhein',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: '--> Hautarzt Bad Dürkheim, Haßloch Ludwigshafen | Dr. Darinka Keil | Laserpraxis 06322 9493 0 Bad Dürkheim Hassloch Ludwigshafen Dr.',
       processSteps: [
@@ -9384,6 +9706,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Wir stellen Ihnen unsere moderne Praxis vor und informieren Sie über unsere medizinischen Leistungen in den Bereichen Diagnostik und modernste sowie schonende Behandlungsmethoden. Diagnostik Operative Therapie Konservative Therapie Besenreiser Venefit VNUS Unser Team Mit unserem Team von qualifizierten und engagierten Arzthelferinnen, unter der ärztlichen Leitung von Dr. Klaus Krueger und Sarah Krueger Facharzt für Chirurgie - Phlebologie Alexanderstraße 89 26121 Oldenburg Tel.',
       processSteps: [
@@ -9439,6 +9763,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oldenburg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Zentrum für Hautästhetik und Lasermedizin in Oldenburg behandelt Besenreiser mit modernen Lasergeräten. Die Praxis wird fachärztlich geleitet und ist auf ästhetische Dermatologie spezialisiert.',
       processSteps: [
@@ -9494,6 +9820,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Krampfaderverödung nach Prof. Dr. Linser behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Oldenburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -9544,6 +9872,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Prof. Dr. med. Jörg Heckenkamp behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (4 Bewertungen) zu den bestbewerteten Adressen in Osnabrück. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -9599,6 +9929,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Osnabrück',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Chirurgische Praxis Dr. Feller | Dr. Schwiedernoch behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (72 Bewertungen) zu den bestbewerteten Adressen in Osnabrück. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -9649,6 +9981,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Thorsten Theis Facharzt für Gefäßchirurgie Kontakt MVZ Marienhospital Osnabrück - Gefäßchirurgie Bischofsstraße 1 49074 Osnabrück T 0541 326-4264 F 0541 326-4267 mvz-gc-mho@ remove-this. nsk.de Wegbeschreibung: Marienhospital; Gebäudeteil L, Ebene 4 Im Bereich der Gefäßchirurgie-Ambulanz integriert. 0541 326-4264 Für die Behandlung bei uns benötigen Sie lediglich eine Überweisung Ihres Arztes.',
       processSteps: [
@@ -9704,6 +10038,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Leverkusen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Linz Vertrauen Collage Zurück Weiter Gefäßerkrankungen in Expertenhände Die Philosophie der Gefäßpraxis Leverkusen lautet: "Gesundheit bewahren statt Krankheit bekämpfen." WILLKOMMEN IN DER GEFÄßPRAXIS Am Gesundheitspark 4 51375 Leverkusen MediLEV 1. Er begann 1994 direkt im Anschluss an sein Medizinstudium die phlebologische und gefäßmedizinische Ausbildung in Neuss. Stunde in der Phlebologie - die Zusatzbezeichnung wurde erst in diesem Jahr von der Ärztekammer eingeführt.',
       processSteps: [
@@ -9754,6 +10090,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Dagmar Wilms - Gefäßerkrankungen, Phlebologie behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (21 Bewertungen) zu den bestbewerteten Adressen in Leverkusen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -9804,6 +10142,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Levvital behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (19 Bewertungen) zu den bestbewerteten Adressen in Leverkusen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -9854,6 +10194,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Solingen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Willkommen in der Fachpraxis für Gefäß- Venenchirurgie in Solingen | Dr. Abu Nasir Das Team Schwerpunkte Leistungen Karriere Partner Kontakt G V in Solingen Die Praxis für Gefäß- Venenchirurgie in Solingen Unser Ziel ist es, gemeinsam mit Ihnen Ihre Beschwerden zu lindern und Ihre Lebensqualität zu verbessern.',
       processSteps: [
@@ -9909,6 +10251,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Christoph Zenses und Dr. med. Stephan Kochen bietet in Solingen die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -9964,6 +10308,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Solingen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Remigius Klinik im Park bietet in Solingen die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -10014,6 +10360,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Praxisgemeinschaft für Gefäßmedizin Fachärzte für Innere Medizin und Angiologie Startseite Team Leistungen Aktuelles Herzlich willkommen in unserer Praxis Liebe Patientin, lieber Patient, Herzlich willkommen in unsere Praxis für Gefäßmedizin. Ihr Praxisteam Anschrift Praxisgemeinschaft für Gefäßmedizin Dr.med.',
       processSteps: [
@@ -10069,6 +10417,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Jörg Forkel behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (3 Bewertungen) zu den bestbewerteten Adressen in Paderborn. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10124,6 +10474,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Josef Paderborn MVZ im MediCo Paderborn MVZ Neurochirurgie Paderborn MVZ Westheim BAZ Paderborn/Marsberg ZAR Paderborn Ambulanter Hospizdienst tobit Schule für Pflege und Gesundheit Paderborn Bildungscampus St. Elisabeth Lahnstein Therapiezentrum am Katholischen Klinikum Koblenz·Montabaur MVZ Marienhof Koblenz MVZ Brüderhaus Koblenz MVZ Brüderkrankenhaus Montabaur LandarztPlus Montabaur Seniorenzentrum Maria vom Siege Plaidt Seniorenzentrum St.',
       processSteps: [
@@ -10174,6 +10526,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Venenzentrum Darmstadt bietet in Darmstadt die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -10224,6 +10578,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Priv. Doz. Dr. med. Farzin Adili behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (2 Bewertungen) zu den bestbewerteten Adressen in Darmstadt. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10274,6 +10630,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Darmstadt',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Rosenpark Klinik behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (167 Bewertungen) zu den bestbewerteten Adressen in Darmstadt. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10329,6 +10687,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Haut & Venen behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (1 Bewertungen) zu den bestbewerteten Adressen in Neuss. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10379,6 +10739,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Neuss',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'In unserer Praxis bieten wir Ihnen umfassende Dienstleistungen an, von der Behandlung akuter Hauterkrankungen wie Akne und Ekzemen bis hin zu ästhetischen Verfahren zur Verbesserung des Hautbildes. Mehr erfahren Therapien mit Licht und Laser In unserer Hautarztpraxis setzen wir auf modernste licht- und lasergestützte Therapien, um verschiedene Hautprobleme effektiv zu behandeln.',
       processSteps: [
@@ -10429,6 +10791,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Neuss',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'von Zons, Neuss - Herzlich Willkommen in der Hautarztpraxis auf der Drususallee Dres. Schwerpunkt unserer Arbeit ist die Erkennung und Behandlung von Hautkrebs. Ergänzt wird unser Angebot durch Leistungen aus den Bereichen der kosmetischen Dermatologie und der dermatologischen Ästhetik.',
       processSteps: [
@@ -10479,6 +10843,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ingolstadt',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Gefäßpraxis Ingolstadt Dr Brandenberg u. Wirtz-Vormittag bietet in Ingolstadt die Behandlung von Besenreisern und Teleangiektasien mit modernen Behandlungsverfahren an. 57 Google-Bewertungen belegen die Qualität der Behandlung. Vor jeder Sitzung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10534,6 +10900,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. Luana Wirtz-Vormittag in Ingolstadt ist auf die Behandlung von Besenreisern und erweiterten Hautgefäßen spezialisiert. Mit modernen Behandlungsverfahren stehen schonende, ambulante Methoden zur Verfügung. Die Therapie wird individuell auf den jeweiligen Befund abgestimmt.',
       processSteps: [
@@ -10589,6 +10957,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Stephan Brandenberg in Ingolstadt ist auf die Behandlung von Besenreisern und erweiterten Hautgefäßen spezialisiert. Mit modernen Behandlungsverfahren stehen schonende, ambulante Methoden zur Verfügung. Die Therapie wird individuell auf den jeweiligen Befund abgestimmt.',
       processSteps: [
@@ -10644,6 +11014,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Heilbronn',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Es erwartet Sie ein Ärzteteam mit fundierter medizinischer Erfahrung, das sich ohne lange Wege oder Wartezeiten zwischen den einzelnen Behandlungsschritten Ihrer Belange annimmt. Alle klassischen und modernen Verfahren der Krampfadertherapie werden eingesetzt, mit dem Ziel, eine an Ihren Bedürfnissen ausgerichtete individuelle und schonende Therapie anzubieten. Unsere Praxis ist Partner der AOK, der IKK und vieler Betriebskrankenkassen für die endovenöse Venenchirurgie.',
       processSteps: [
@@ -10699,6 +11071,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Heilbronn',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis MVZ Haut- und Laserzentrum Heilbronn GmbH, Dr. med. Bernd Salzer - Dr. med. Michael Arnold - Dr. med. Barbara Bühler bietet in Heilbronn die Behandlung von Besenreisern und Teleangiektasien mit modernen Behandlungsverfahren an. 206 Google-Bewertungen belegen die Qualität der Behandlung. Vor jeder Sitzung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10754,6 +11128,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'In unserer Klinik diagnostizieren und behandeln wir mit modernsten Methoden das gesamte Spektrum der Haut- und Geschlechtserkrankungen, Venenerkrankungen sowie Allergien. Ein großer Schwerpunkt unserer Arbeit ist die operative und medikamentöse Behandlung von Hauttumoren.',
       processSteps: [
@@ -10809,6 +11185,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Pforzheim',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Venencentrum Pforzheim Dr. med. Thomas Weiler und Kollegen behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (143 Bewertungen) zu den bestbewerteten Adressen in Pforzheim. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10864,6 +11242,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Pforzheim',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Ralph Hammer, Praxis für Gefäßmedizin, Gefäßchirurgie und Venenerkrankungen behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.8 Sternen (51 Bewertungen) zu den bestbewerteten Adressen in Pforzheim. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10914,6 +11294,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Pforzheim',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Privatpraxis für Dermatologie - Eva Islamidou behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.9 Sternen (105 Bewertungen) zu den bestbewerteten Adressen in Pforzheim. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -10964,6 +11346,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Frau Dr. med. Birgit Gerecke behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Wolfsburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -11014,6 +11398,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Frank Werner behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Wolfsburg. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -11064,6 +11450,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wolfsburg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Willkommen in der Chirurgischen Praxis Dr. Der Behandlungsschwerpunkt der Praxis liegt dabei in der konservativen und operativen Behandlung von Erkrankungen aus dem Bereich der Proktologie, Hernienchirurgie und Allgemeinen Chirurgie. Kompetente und erfahrene Mitarbeiter und moderne Praxisräume erwarten Sie, um Ihnen die chirurgische Behandlung und den damit verbundenen Aufenthalt so angenehm wie möglich zu machen.',
       processSteps: [
@@ -11119,6 +11507,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: '18 91052 Erlangen Kontakt 0911 47770230 info@gefaesschirurgie-franken.de &Ouml;ffnungszeiten Erlangen Mo - Di 08:00 - 17:00 N rnberg Mi - Fr 09:00 - 18:00 Samstags nach Vereinbarung Termine Online ber Doctolib (blaues Termin-Men rechts) oder telefonisch. Ihr Experte f r Gef medizin, Lip dem und Venenerkrankungen in N rnberg und Erlangen Herzlich willkommen in meiner Privatpraxis f r Gef chirurgie. Mehdi Rahmanian Koshkaki, spezialisiert auf minimalinvasive Gef chirurgie und die Behandlung von Lip dem, Krampfadern und weiteren Venenerkrankungen.',
       processSteps: [
@@ -11169,6 +11559,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Priv. Doz. Dr. med. Oliver Schmidt bietet in Erlangen die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -11219,6 +11611,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Prof. Dr. med. Dr. h.c. Werner Hohenberger behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (2 Bewertungen) zu den bestbewerteten Adressen in Erlangen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -11269,6 +11663,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Reutlingen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Unsere Praxis Behandlungsspektrum Ästhetische Phlebologie Ambulante Veneninterventionen Gefäßdiagnostik Ästhetische Anwendungen Unser Service für Sie Team Kontakt MENÜ \'. \' \'; --> Online-Termin Buchen Venenpraxis Reutlingen Christian Dan Munteanu Dr. Heiko Schönleber Venenpraxis Reutlingen Christian Dan Munteanu Dr.',
       processSteps: [
@@ -11324,6 +11720,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Reutlingen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Assistent verteilt Schere und Instrumente an Chirurgen während der Operation., Von Gumpanat , Quelle iStock SCHUPPENFLECHTE Acute psoriasis on the knees ,body ,elbows is an autoimmune incurable dermatological skin disease. Foot treatment in SPA salon.Podiatry clinic, Von Ольга Апанасенко , Quelle AdobeStock PILZERKRANKUNGEN Dermatolog. Schönheit der Frauen und Make up verwöhnen Konzept, Von Deagreez , Quelle iStock ZORNESFALTE Behandlungskonzept für die Lifttherapie.',
       processSteps: [
@@ -11379,6 +11777,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Hautarzt Ellen Ralf bietet in Reutlingen die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -11429,6 +11829,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Home | Phlebologie und Gefäßchirurgie Koblenz | G. Unser Ziel ist es, Diagnostik und Therapie individuell auf Ihre Bedürfnisse abzustimmen. Ob bei der Gefäßdiagnostik, der konservativen Behandlung arterieller Erkrankungen, der Therapie von Krampfadern oder der Versorgung von Lip- und Lymphödemen – wir nehmen uns Zeit für Ihre persönliche Situation.',
       processSteps: [
@@ -11479,6 +11881,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Praxis Dr. Curelaru behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (36 Bewertungen) zu den bestbewerteten Adressen in Koblenz. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -11529,6 +11933,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Das Spektrum umfasst die gesamte konventionelle und interventionelle Gefäßchirurgie. Schwerpunkt ist die Reparation kranker Gefäße mittels Operationen. Gerne besprechen wir in unserer Sprechstunde, ob eine ambulante Operation für Ihre Behandlung infrage kommt.',
       processSteps: [
@@ -11579,6 +11985,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Venen Kompetenz-Zentrum Jena in Jena ist auf die Behandlung von Besenreisern und erweiterten Hautgefäßen spezialisiert. Mit modernen Behandlungsverfahren stehen schonende, ambulante Methoden zur Verfügung. Die Therapie wird individuell auf den jeweiligen Befund abgestimmt.',
       processSteps: [
@@ -11634,6 +12042,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis K. Veltman Praxis für Venen und Hauterkrankungen behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Jena. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -11684,6 +12094,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Jena',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis MVZ Dr. Philipp Zollmann & Kollegen ist mit 4.9 Sternen bei 187 Google-Bewertungen eine der bestbewerteten Adressen für Besenreiser in Jena. Behandelt wird mit modernen Behandlungsverfahren – individuell abgestimmt auf Gefäßtyp und Ausdehnung. Eine ausführliche Erstberatung ist fester Bestandteil jeder Behandlung.',
       processSteps: [
@@ -11739,6 +12151,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dres. med. A. u. J. Veit Schwerpunktpraxis für Gefäßmedizin • BAG bietet in Trier die Behandlung von Besenreisern und Teleangiektasien mit modernen Behandlungsverfahren an. 43 Google-Bewertungen belegen die Qualität der Behandlung. Vor jeder Sitzung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -11794,6 +12208,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. med. Claus-Peter Jochem bietet in Trier die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -11844,6 +12260,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Trier',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Hautarztpraxis Steinmann Neder-Wilmert PRIVATPRAXIS +49 (0)651 42 525 E-MAIL Viehmarktplatz 7 | 54290 Trier PRIVATPRAXIS Dr. Dierk Steinmann erneut als meist empfohlener Dermatologe und Allergologe in Trier aus. Unsere Praxis ist NiSV zertifiziert Oberste Priorität bei der Einführung zur NiSV sieht der Gesetzgeber dabei auf der Optimierung der Behandlungssicherheit und zum Schutz des Patienten.',
       processSteps: [
@@ -11899,6 +12317,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'DROSNER Ärzte Katja Reckin TEAM LASER LASERAUSSTATTUNG DERMATOLOGIE KONTAKT SUCHE STELLENANGEBOTE PRAXIS-Infos PRAXIS PROF. Aufgrund personeller Engpässe und ständig steigender Nachfrage ist unsere Wartezeit für Untersuchungs- und Behandlungstermine so lang geworden, dass wir momentan leider gezwungen sind, einen kompletten Aufnahme-Stopp für Neupatient:innen zu verhängen. Das bedeutet für alle neuen Patient:innen, dass Sie sich bei akuten Fragestellungen an Ihren Hausarzt oder an eine andere dermatologische Praxis (eventuell auch außerhalb von Schwerin) wenden müssen.',
       processSteps: [
@@ -11954,6 +12374,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Frau Dr. med. Heike Thierfeld bietet in Schwerin die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -12009,6 +12431,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Schwerin',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Ihr Facharzt für Chirurgie und Spezialist für Operationen an Fuß und Knie Termin vereinbaren Bitte vereinbaren Sie immer einen Termin und rufen Sie uns an unter: 0385 - 56 29 14 Akute Fälle Akut-Patienten bieten wir die Vorstellung in den Morgenstunden um 8:30 Uhr (Mo und Do) an. Bitte haben Sie dafür Verständnis, dass unser geschultes Personal an der Anmeldung eine Behandlungsreihenfolge festlegt.',
       processSteps: [
@@ -12064,6 +12488,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Für Ihre Fragen der Diagnostik und der Therapien der Dermatologie und der dermatologischen Kosmetik stehe ich Ihnen mit Rat und Tat zur Verfügung. Insgesamt verfüge ich über eine fast 40-jährige Berufserfahrung auf dem Gebiet der Dermatologie und Allergologie. Meine klinischen Schwerpunkte sind Allgemeine Dermatologie, Dermatotherapie, Photodermatologie, Dermatologische Onkologie, Dermatohistologie, Allergologie, Berufsdermatologie und Tropen- und Reisedermatologie.',
       processSteps: [
@@ -12119,6 +12545,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Samuel Schwimmer bietet in Gera die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -12174,6 +12602,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Leistungsspektrum Allergologie Diagnostik, Beratung und Behandlung verschiedenster Allergien wie Heuschnupfen und Kontaktallergie, incl. spezifischer Immuntherapie (Hyposensibilisierung) Alle Leistungen zeigen ... Leistungsspektrum Phlebologie (Venenleiden) Diagnostik von Krampfadern (Varikosis) mittels Duplex-Sonographie (Ultraschall) Diagnostik von Thrombosen und Venenentzündungen (Phlebitis) Sklerosierungstherapie (Verödung) von Besenreisern Koopera.',
       processSteps: [
@@ -12229,6 +12659,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Burkhard Lichtenstein bietet in Hildesheim die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -12284,6 +12716,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Joachim Melles behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Hildesheim. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -12339,6 +12773,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Kai Röttger behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Hildesheim. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -12394,6 +12830,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Chirurgie MVZ Jung-Stilling bietet in Siegen die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [
@@ -12444,6 +12882,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Dr. Ahmed Koshty, Gefäßchirurg, MVZ Kredenbach behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (1 Bewertungen) zu den bestbewerteten Adressen in Siegen. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -12494,6 +12934,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Zuhause Marien Kliniken Siegen Mit über 160 Jahren Erfahrung in der medizinischen Versorgung wissen wir als Marien Kliniken, dass die Patientinnen und Patienten neben dem Komfort und der Sicherheit der Behandlung eine wirksame Schmerzlinderung wünschen. Das beinhaltet einen hohen Unterbringungs- und Verpflegungsstandard, aber auch eine fürsorgliche und freundliche Behandlung mit kurzen Wegen. Aktuell 21.04.2026 Medizinischer Fortschritt aus Siegen Weltweit erste Studie zu neuer OP-Technologie veröffentlicht Weiterlesen 17.04.2026 Ursachen und Behandlung von Rückenschmerzen Die nächste Abendvis',
       processSteps: [
@@ -12549,6 +12991,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dariusz Styczen behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 5.0 Sternen (2 Bewertungen) zu den bestbewerteten Adressen in Gütersloh. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -12599,6 +13043,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Herr Dr. med. Otfried Altstaedt behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (0 Bewertungen) zu den bestbewerteten Adressen in Gütersloh. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -12649,6 +13095,8 @@ export const clinics: Clinic[] = [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gütersloh',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Christina Haut Kontakt Telefon: +49 (0) 5242 57895-80 Telefax: +49 (0) 5242 57895-81 E-Mail: mail@dr-hautarztpraxis.de Achtung: Keine Terminvereinbarung oder Notfallmeldung per E-Mail, keine Behandlung per E-Mail, keine ärztliche Beratung unter der Mailadresse. Die Hautarztpraxis ist nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen. × Telefonische Erreichbarkeit Sie erreichen uns vormittags zwischen 8 und 13 Uhr telefonisch unter: 05242 57895-80 Nachmittags bitten wir um Kontaktaufnahme per E-Mail unter : mail@dr-hautarztpraxis.d',
       processSteps: [
@@ -12704,6 +13152,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Frau Dipl.-Med. Kerstin Dolge-Reetz Angiologische Praxis behandelt Besenreiser mit Verödung und Lasertherapie und gehört mit 4.5 Sternen (13 Bewertungen) zu den bestbewerteten Adressen in Cottbus. Vor jeder Behandlung erfolgt eine individuelle Beratung zur Wahl der optimalen Methode.',
       processSteps: [
@@ -12754,6 +13204,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Privatpraxis Dr. Tobias Flöter in Cottbus ist auf die Behandlung von Besenreisern und erweiterten Hautgefäßen spezialisiert. Mit modernen Behandlungsverfahren stehen schonende, ambulante Methoden zur Verfügung. Die Therapie wird individuell auf den jeweiligen Befund abgestimmt.',
       processSteps: [
@@ -12809,6 +13261,8 @@ export const clinics: Clinic[] = [
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
       'Ambulante Behandlung ohne Narkose – zurück im Alltag noch am selben Tag',
     ],
+    tier: 'basic',
+    praxis_email: 'bitschth@gmail.com',
     treatmentInfo: {
       intro: 'Die Praxis Helios Gesundheitszentrum Hoppegarten – Zweigpraxis Cottbus bietet in Cottbus die Behandlung von Besenreisern und Teleangiektasien mit Verödung und Lasertherapie an. Eine ausführliche Erstberatung klärt, welche Methode für den jeweiligen Gefäßtyp am besten geeignet ist.',
       processSteps: [

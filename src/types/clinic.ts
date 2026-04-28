@@ -1,3 +1,5 @@
+export type ClinicTier = 'basic' | 'premium' | 'premium_plus'
+
 export interface Clinic {
   id: number
   name: string
@@ -42,6 +44,13 @@ export interface Clinic {
     processSteps?: string[]
     phlebologist?: { name: string; title: string; bio: string }
   }
+  // Quiz/Praxis-Anfrage related (added 2026-04 for the Quiz redesign).
+  // tier defaults to 'basic' for all entries until premium contracts ship.
+  // praxis_email is a placeholder while we collect real contact addresses.
+  // webseite is optional; basic-tier cards show it instead of the inquiry CTA.
+  tier: ClinicTier
+  praxis_email: string
+  webseite?: string
 }
 
 export interface FilterState {
