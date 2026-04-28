@@ -1,6 +1,8 @@
+import { useEffect, useState } from 'react'
 import { X, MapPin, Clock, Stethoscope, CheckCircle2 } from 'lucide-react'
 import type { Clinic } from '../types/clinic'
 import { useModalDismiss } from '../lib/useModalDismiss'
+import { getTreatmentInfo } from '../lib/treatmentsCache'
 
 interface Props {
   clinic: Clinic
@@ -67,6 +69,18 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clinic.name + ' ' + clinic.address)}`
   const hasRating = (clinic.googleRating ?? 0) > 0
   const activeExtras = extras.filter(e => clinic[e.key])
+
+  // treatmentInfo lives in /data/treatments.json now (split out of
+  // clinics.json for a 47% reduction in the always-loaded payload).
+  // Fetched on demand when the modal opens.
+  const [treatmentInfo, setTreatmentInfo] = useState<Clinic['treatmentInfo']>(undefined)
+  useEffect(() => {
+    let cancelled = false
+    getTreatmentInfo(clinic.id).then(t => {
+      if (!cancelled && t) setTreatmentInfo(t)
+    })
+    return () => { cancelled = true }
+  }, [clinic.id])
 
   return (
     <div
@@ -160,17 +174,17 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
           )}
 
           {/* Treatment detail sections (clinic-specific) */}
-          {clinic.treatmentInfo && (
+          {treatmentInfo && (
             <>
               {/* Intro + method details */}
-              {(clinic.treatmentInfo.intro || clinic.treatmentInfo.methodDetails) && (
+              {(treatmentInfo.intro || treatmentInfo.methodDetails) && (
                 <div style={{ padding: '14px 20px', borderBottom: '1px solid #F0F0F0' }}>
                   <div style={{ fontSize: '11px', fontWeight: 700, color: '#888', letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: '10px' }}>Behandlungsansatz</div>
-                  {clinic.treatmentInfo.intro && (
-                    <p style={{ fontSize: '13px', color: '#444', lineHeight: 1.6, margin: '0 0 12px' }}>{clinic.treatmentInfo.intro}</p>
+                  {treatmentInfo.intro && (
+                    <p style={{ fontSize: '13px', color: '#444', lineHeight: 1.6, margin: '0 0 12px' }}>{treatmentInfo.intro}</p>
                   )}
-                  {clinic.treatmentInfo.methodDetails?.map((m, i) => (
-                    <div key={i} style={{ marginBottom: i < (clinic.treatmentInfo!.methodDetails!.length - 1) ? '12px' : 0 }}>
+                  {treatmentInfo.methodDetails?.map((m, i) => (
+                    <div key={i} style={{ marginBottom: i < (treatmentInfo!.methodDetails!.length - 1) ? '12px' : 0 }}>
                       <div style={{ fontWeight: 700, fontSize: '13px', color: '#111', marginBottom: '4px' }}>{m.method}</div>
                       <p style={{ fontSize: '13px', color: '#555', lineHeight: 1.6, margin: 0 }}>{m.description}</p>
                     </div>
@@ -179,11 +193,11 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
               )}
 
               {/* Process steps */}
-              {clinic.treatmentInfo.processSteps && clinic.treatmentInfo.processSteps.length > 0 && (
+              {treatmentInfo.processSteps && treatmentInfo.processSteps.length > 0 && (
                 <div style={{ padding: '14px 20px', borderBottom: '1px solid #F0F0F0' }}>
                   <div style={{ fontSize: '11px', fontWeight: 700, color: '#888', letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: '10px' }}>Ablauf & Nachsorge</div>
-                  {clinic.treatmentInfo.processSteps.map((step, i) => (
-                    <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: i < clinic.treatmentInfo!.processSteps!.length - 1 ? '6px' : 0 }}>
+                  {treatmentInfo.processSteps.map((step, i) => (
+                    <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: i < treatmentInfo!.processSteps!.length - 1 ? '6px' : 0 }}>
                       <span style={{ color: '#0052CC', fontWeight: 700, fontSize: '13px', flexShrink: 0, lineHeight: 1.5 }}>›</span>
                       <span style={{ fontSize: '13px', color: '#444', lineHeight: 1.5 }}>{step}</span>
                     </div>
@@ -192,13 +206,13 @@ export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowR
               )}
 
               {/* Phlebologist */}
-              {clinic.treatmentInfo.phlebologist && (
+              {treatmentInfo.phlebologist && (
                 <div style={{ padding: '14px 20px', borderBottom: '1px solid #F0F0F0' }}>
                   <div style={{ fontSize: '11px', fontWeight: 700, color: '#888', letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: '10px' }}>Phlebologie-Spezialistin</div>
                   <div style={{ backgroundColor: '#F5F8FF', borderRadius: '8px', padding: '12px 14px' }}>
-                    <div style={{ fontWeight: 700, fontSize: '14px', color: '#111', marginBottom: '2px' }}>{clinic.treatmentInfo.phlebologist.name}</div>
-                    <div style={{ fontSize: '12px', color: '#0052CC', fontWeight: 600, marginBottom: '8px', lineHeight: 1.4 }}>{clinic.treatmentInfo.phlebologist.title}</div>
-                    <p style={{ fontSize: '13px', color: '#555', lineHeight: 1.6, margin: 0 }}>{clinic.treatmentInfo.phlebologist.bio}</p>
+                    <div style={{ fontWeight: 700, fontSize: '14px', color: '#111', marginBottom: '2px' }}>{treatmentInfo.phlebologist.name}</div>
+                    <div style={{ fontSize: '12px', color: '#0052CC', fontWeight: 600, marginBottom: '8px', lineHeight: 1.4 }}>{treatmentInfo.phlebologist.title}</div>
+                    <p style={{ fontSize: '13px', color: '#555', lineHeight: 1.6, margin: 0 }}>{treatmentInfo.phlebologist.bio}</p>
                   </div>
                 </div>
               )}

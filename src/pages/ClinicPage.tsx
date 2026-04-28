@@ -9,6 +9,7 @@ import { useClinics } from '../hooks/useClinics'
 import { clinicIdFromSlug, citySlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
 import { sendEvent } from '../lib/gtm'
+import { getTreatmentInfo } from '../lib/treatmentsCache'
 import { generateEventId, sendCapi } from '../lib/capi'
 import { getCTAVariant, getCTAColor } from '../lib/ctaVariant'
 import type { Clinic } from '../types/clinic'
@@ -63,6 +64,20 @@ export default function ClinicPage() {
   const [showReviews, setShowReviews] = useState(false)
   const [ctaVariant] = useState(() => getCTAVariant())
   const ctaColor = getCTAColor(ctaVariant)
+
+  // treatmentInfo is fetched lazily from /data/treatments.json (split
+  // out of clinics.json so the always-loaded payload is ~47% smaller).
+  // The clinic object from useClinics() never carries treatmentInfo
+  // anymore, so the cache fetch is the only source.
+  const [treatmentInfo, setTreatmentInfo] = useState<Clinic['treatmentInfo']>(undefined)
+  useEffect(() => {
+    if (!clinic) return
+    let cancelled = false
+    getTreatmentInfo(clinic.id).then(t => {
+      if (!cancelled && t) setTreatmentInfo(t)
+    })
+    return () => { cancelled = true }
+  }, [clinic])
 
   // Direct landing on /praxis/:slug should fire ViewContent for SEO
   // attribution - same event the home-page card opens fire from
@@ -201,12 +216,12 @@ export default function ClinicPage() {
                 <span key={i} style={{ backgroundColor: '#EEF4FF', color: '#003399', padding: '6px 12px', borderRadius: '20px', fontSize: '13px', fontWeight: 600 }}>{m}</span>
               ))}
             </div>
-            {clinic.treatmentInfo?.intro && (
-              <p style={{ marginTop: '14px', fontSize: '15px', color: '#444', lineHeight: 1.6 }}>{clinic.treatmentInfo.intro}</p>
+            {treatmentInfo?.intro && (
+              <p style={{ marginTop: '14px', fontSize: '15px', color: '#444', lineHeight: 1.6 }}>{treatmentInfo.intro}</p>
             )}
-            {clinic.treatmentInfo?.methodDetails && clinic.treatmentInfo.methodDetails.length > 0 && (
+            {treatmentInfo?.methodDetails && treatmentInfo.methodDetails.length > 0 && (
               <div style={{ marginTop: '16px' }}>
-                {clinic.treatmentInfo.methodDetails.map((md, i) => (
+                {treatmentInfo.methodDetails.map((md, i) => (
                   <div key={i} style={{ marginBottom: '14px' }}>
                     <h3 style={{ fontSize: '15px', fontWeight: 700, color: '#0A1F44', marginBottom: '4px' }}>{md.method}</h3>
                     <p style={{ fontSize: '14px', color: '#555', lineHeight: 1.6, margin: 0 }}>{md.description}</p>
