@@ -23,11 +23,12 @@ interface Props {
   lead: QuizLead
   profile: ComputedProfile
   onReset: () => void
+  variant?: 'v1' | 'v2'
 }
 
 const PAGE_SIZE = 12
 
-export default function Step12Result({ answers, lead, profile, onReset }: Props) {
+export default function Step12Result({ answers, lead, profile, onReset, variant = 'v1' }: Props) {
   const { clinics } = useClinics()
   const [contactPraxis, setContactPraxis] = useState<ScoredPraxis | null>(null)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
@@ -119,6 +120,11 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
 
         {/* Comparison table */}
         <div style={sectionTitle}>⚖️ Was bei Besenreisern funktioniert - und was nicht</div>
+        {variant === 'v2' && (
+          <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.5, marginBottom: '12px' }}>
+            Erinnerst du dich, was du probiert hast? Hier ist, warum es nicht reichen konnte.
+          </p>
+        )}
         <div style={{ marginBottom: '24px' }}>
           <ComparisonTable />
         </div>

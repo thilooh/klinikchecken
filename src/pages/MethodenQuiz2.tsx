@@ -108,41 +108,43 @@ export default function MethodenQuiz2() {
           {showHeader && <QuizHeader step={state.currentStep} />}
 
           {state.currentStep === 1 && (
-            <Step1Lokalisation onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q1_lokalisation', value: v })} />
+            <Step1Lokalisation variant="v2" onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q1_lokalisation', value: v })} />
           )}
           {state.currentStep === 2 && (
-            <Step2Trigger onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q2_trigger', value: v })} />
+            <Step2Trigger variant="v2" onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q2_trigger', value: v })} />
           )}
           {state.currentStep === 3 && (
-            <Step3Groesse onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q3_groesse', value: v })} />
+            <Step3Groesse variant="v2" onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q3_groesse', value: v })} />
           )}
           {state.currentStep === 4 && (
-            <Step4Hauttyp onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q4_hauttyp', value: v })} />
+            <Step4Hauttyp variant="v2" onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q4_hauttyp', value: v })} />
           )}
           {state.currentStep === 5 && (
-            <Step5Recognition onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q5_recognition', value: v })} />
+            <Step5Recognition variant="v2" onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q5_recognition', value: v })} />
           )}
           {state.currentStep === 6 && (
             <Step6Versucht
+              variant="v2"
               selected={state.answers.q6_versucht}
               onToggle={v => dispatch({ type: 'TOGGLE_VERSUCHT', value: v })}
               onContinue={goNext}
             />
           )}
           {state.currentStep === 7 && (
-            <Step7Vermeidung onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q7_vermeidung', value: v })} />
+            <Step7Vermeidung variant="v2" onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q7_vermeidung', value: v })} />
           )}
           {state.currentStep === 8 && (
             <Step8Zeitziel onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q8_zeitziel', value: v })} />
           )}
           {state.currentStep === 9 && (
-            <Step9Pivot answers={state.answers} onContinue={goNext} />
+            <Step9Pivot variant="v2" answers={state.answers} onContinue={goNext} />
           )}
           {state.currentStep === 10 && (
-            <Step10Loading onDone={goNext} />
+            <Step10Loading variant="v2" onDone={goNext} />
           )}
           {state.currentStep === 11 && (
             <Step11Capture
+              variant="v2"
               initial={state.lead}
               answers={state.answers}
               onSubmitted={(lead, profile) => {
@@ -155,6 +157,7 @@ export default function MethodenQuiz2() {
           )}
           {state.currentStep === 12 && state.computedProfile && (
             <Step12Result
+              variant="v2"
               answers={state.answers}
               lead={state.lead}
               profile={state.computedProfile}

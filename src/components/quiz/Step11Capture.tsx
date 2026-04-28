@@ -22,9 +22,10 @@ interface Props {
   initial: QuizLead
   answers: QuizAnswers
   onSubmitted: (lead: QuizLead, profile: ComputedProfile) => void
+  variant?: 'v1' | 'v2'
 }
 
-export default function Step11Capture({ initial, answers, onSubmitted }: Props) {
+export default function Step11Capture({ initial, answers, onSubmitted, variant = 'v1' }: Props) {
   const [form, setForm] = useState<QuizLead>(initial)
   const [errors, setErrors] = useState<Record<string, string>>({})
   const [touched, setTouched] = useState(false)
@@ -102,10 +103,12 @@ export default function Step11Capture({ initial, answers, onSubmitted }: Props) 
         ✓ Deine Quiz-Auswertung ist fertig
       </div>
       <h2 style={{ fontSize: '20px', fontWeight: 700, color: '#0A1F44', marginBottom: '8px', lineHeight: 1.3 }}>
-        Wohin schicken wir dein Orientierungsprofil?
+        {variant === 'v2' ? 'Schick es mir per Mail.' : 'Wohin schicken wir dein Orientierungsprofil?'}
       </h2>
       <p style={{ fontSize: '14px', color: '#444', marginBottom: '12px', lineHeight: 1.5 }}>
-        Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt - Typ, Ausprägung und passende Methoden.
+        {variant === 'v2'
+          ? 'Du bekommst dein Profil per Mail - Typ, Ausprägung, in Frage kommende Methoden, plus Praxen in deiner Nähe. So kannst du es später nochmal ansehen, mit jemandem teilen, oder einfach überlegen, ohne dass ich dir auf die Pelle rücke.'
+          : 'Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt - Typ, Ausprägung und passende Methoden.'}
       </p>
       <p style={{ fontSize: '12px', color: '#666', marginBottom: '20px', lineHeight: 1.5 }}>
         Das Profil ist eine Orientierungshilfe und keine ärztliche Diagnose.
