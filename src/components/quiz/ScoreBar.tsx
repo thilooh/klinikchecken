@@ -1,7 +1,9 @@
 // Filled rectangles ▰▰▰▰▱▱ style score bar for the result page's
-// Befundprofil. Colour ramps from primary blue (1-4) to orange (5-6)
-// to red (7-8) so users see the severity at a glance without us
-// having to write "stark" everywhere.
+// Orientierungsprofil. Colour ramps from primary blue (1-4) to
+// orange (5-6) to red (7-8). The bar shows visual extent only -
+// the explicit "X/Y" number is intentionally suppressed (Anpassung
+// A) so the result reads less like a clinical scale and more like
+// a self-reported intensity.
 
 import { colorForScore } from '../../lib/quizProfileCompute'
 
@@ -17,31 +19,26 @@ export default function ScoreBar({ value, max, label }: Props) {
 
   return (
     <div>
-      <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: label ? '6px' : 0 }}>
-        <div
-          role="img"
-          aria-label={`${value} von ${max}`}
-          style={{ display: 'flex', gap: '3px', flex: 1 }}
-        >
-          {Array.from({ length: max }, (_, i) => (
-            <div
-              key={i}
-              style={{
-                flex: 1,
-                height: '12px',
-                borderRadius: '2px',
-                backgroundColor: i < filled ? fillColor : '#E5E9F2',
-                transition: 'background-color 0.2s',
-              }}
-            />
-          ))}
-        </div>
-        <span style={{ fontSize: '13px', fontWeight: 700, color: '#0A1F44', minWidth: '36px', textAlign: 'right' }}>
-          {value}/{max}
-        </span>
+      <div
+        role="img"
+        aria-label={label ?? `Wert ${value} von ${max}`}
+        style={{ display: 'flex', gap: '3px', marginBottom: label ? '6px' : 0 }}
+      >
+        {Array.from({ length: max }, (_, i) => (
+          <div
+            key={i}
+            style={{
+              flex: 1,
+              height: '12px',
+              borderRadius: '2px',
+              backgroundColor: i < filled ? fillColor : '#E5E9F2',
+              transition: 'background-color 0.2s',
+            }}
+          />
+        ))}
       </div>
       {label && (
-        <div style={{ fontSize: '13px', color: '#444', fontStyle: 'italic' }}>→ {label}</div>
+        <div style={{ fontSize: '13px', color: '#444' }}>{label}</div>
       )}
     </div>
   )

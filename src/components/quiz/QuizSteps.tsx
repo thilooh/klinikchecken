@@ -244,7 +244,7 @@ export function Step9Pivot({ answers, onContinue }: { answers: QuizAnswers; onCo
           fontSize: '15px', border: 'none', borderRadius: '6px', padding: '13px 20px', cursor: 'pointer',
         }}
       >
-        Profil anzeigen →
+        Auswertung ansehen →
       </button>
     </StepCard>
   )
@@ -253,9 +253,9 @@ export function Step9Pivot({ answers, onContinue }: { answers: QuizAnswers; onCo
 // Step 10 - 2-second loader between Pivot and Lead-Capture. Three
 // rotating reassurance lines, auto-advance to step 11.
 const LOADER_LINES = [
-  'Wir analysieren deine Antworten…',
-  'Wir berechnen dein Befundprofil…',
-  'Dein Profil ist fertig.',
+  'Wir gleichen deine Antworten ab…',
+  'Wir stellen deine Auswertung zusammen…',
+  'Deine Auswertung ist fertig.',
 ]
 
 export function Step10Loading({ onDone }: { onDone: () => void }) {

@@ -28,8 +28,8 @@ import {
 
 export default function MethodenQuiz() {
   useSeo({
-    title: 'Welcher Besenreiser-Typ bist du? – 60-Sekunden-Befundprofil',
-    description: 'In 60 Sekunden zu deinem persönlichen Befundprofil: Typ, Ausprägung, passende Methoden — inhaltlich erstellt unter Mitwirkung von Phlebologen-Fachärzt:innen.',
+    title: 'Welcher Besenreiser-Typ bist du? – 60-Sekunden-Orientierung',
+    description: 'In 60 Sekunden zu deiner persönlichen Quiz-Auswertung: Typ, Ausprägung, in Frage kommende Methoden. Eine Orientierungshilfe — keine medizinische Diagnose.',
     canonical: `${SITE_URL}/methoden-quiz`,
     ogType: 'article',
   })

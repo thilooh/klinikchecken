@@ -74,12 +74,17 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
       {/* Plan card stays narrower than the parent container for
           readability of the long-form recommendation text. */}
       <div style={{ maxWidth: '640px', margin: '0 auto 24px', backgroundColor: '#fff', borderRadius: '8px', padding: '24px 20px', boxShadow: '0 1px 3px rgba(0,0,0,0.06)' }}>
-        <h2 style={{ fontSize: '22px', fontWeight: 800, color: '#0A1F44', marginBottom: '20px', lineHeight: 1.2 }}>
-          Dein Befundprofil, {lead.vorname || 'du'}
+        <h2 style={{ fontSize: '22px', fontWeight: 800, color: '#0A1F44', marginBottom: '12px', lineHeight: 1.2 }}>
+          Dein Orientierungsprofil, {lead.vorname || 'du'}
         </h2>
 
-        {/* Profile card - the headline summary */}
-        <div style={sectionTitle}>📊 Dein Besenreiser-Profil</div>
+        {/* Anpassung B: prominent disclaimer above the profile card,
+            not just buried in the footer. */}
+        <p style={{ fontSize: '13px', color: '#444', backgroundColor: '#FAFBFE', borderLeft: '3px solid #003399', padding: '10px 14px', borderRadius: '4px', marginBottom: '20px', lineHeight: 1.5 }}>
+          Diese Quiz-Auswertung ist eine Orientierungshilfe — keine medizinische Diagnose. Eine Einschätzung deines konkreten Befunds erfolgt im Erstgespräch in der Praxis.
+        </p>
+
+        <div style={sectionTitle}>📊 Deine Quiz-Auswertung</div>
         <div style={{ backgroundColor: '#FAFBFE', border: '1px solid #DDE3F5', borderRadius: '6px', padding: '16px 18px', marginBottom: '24px' }}>
           <div style={{ marginBottom: '14px' }}>
             <div style={{ fontSize: '12px', color: '#666', fontWeight: 600, marginBottom: '2px' }}>Typ</div>
@@ -106,7 +111,7 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
           </div>
 
           <div style={{ marginBottom: progressionHint ? '14px' : 0 }}>
-            <div style={{ fontSize: '12px', color: '#666', fontWeight: 600, marginBottom: '6px' }}>Behandlungs-Dringlichkeit</div>
+            <div style={{ fontSize: '12px', color: '#666', fontWeight: 600, marginBottom: '6px' }}>Dein Behandlungswunsch</div>
             <ScoreBar value={profile.dringlichkeitScore} max={6} label={getDringlichkeitLabel(profile.dringlichkeitScore)} />
           </div>
 
@@ -158,7 +163,7 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
         )}
 
         <p style={{ fontSize: '12px', color: '#666', lineHeight: 1.6, marginBottom: 0 }}>
-          ℹ️ Was bei dir konkret nötig und sinnvoll ist, klärst du im persönlichen Erstgespräch — nur eine Phlebologin oder eine Dermatologin kann eine echte Diagnose stellen.
+          ℹ️ Was bei dir konkret nötig und sinnvoll ist, klärst du im persönlichen Erstgespräch. Nur eine Ärztin oder ein Arzt kann eine medizinische Diagnose stellen — diese Quiz-Auswertung ist eine Orientierungshilfe.
         </p>
       </div>
 
@@ -199,7 +204,7 @@ export default function Step12Result({ answers, lead, profile, onReset }: Props)
       )}
 
       <p style={{ fontSize: '11px', color: '#888', marginTop: '8px', marginBottom: '20px', padding: '0 4px', lineHeight: 1.5 }}>
-        ℹ️ Diese Übersicht ersetzt keine ärztliche Diagnose. Die Reihenfolge basiert auf Methoden-Übereinstimmung mit deinen Angaben, Entfernung und Premium-Mitgliedschaft der Praxen.
+        ℹ️ Diese Übersicht ist eine Orientierungshilfe und ersetzt keine ärztliche Diagnose. Die Reihenfolge basiert auf Methoden-Übereinstimmung mit deinen Angaben sowie Entfernung. Mit <strong>„Anzeige"</strong> markierte Praxen sind zahlende Premium-Partner — die Auswahl der gezeigten Praxen ist unabhängig vom Premium-Status.
       </p>
 
       <div style={{ textAlign: 'center', marginBottom: '20px' }}>

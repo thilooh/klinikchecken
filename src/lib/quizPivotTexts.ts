@@ -64,9 +64,9 @@ export function getAidsExplanation(q1_lokalisation: string | null): string {
 // and UWG-safer (we don't conflate specialties).
 export function getForwardLook(q1_lokalisation: string | null): string {
   if (q1_lokalisation === 'gesicht') {
-    return 'Auf der nächsten Seite siehst du dein persönliches Befundprofil und welche Verfahren in der Dermatologie und Lasermedizin genau dieses Gefäß-Problem behandeln.'
+    return 'Auf der nächsten Seite siehst du deine persönliche Auswertung und welche Verfahren in der Dermatologie und Lasermedizin genau dieses Gefäß-Problem behandeln.'
   }
-  return 'Auf der nächsten Seite siehst du dein persönliches Befundprofil und welche Methoden in der Phlebologie genau dieses Gefäß-Problem behandeln.'
+  return 'Auf der nächsten Seite siehst du deine persönliche Auswertung und welche Methoden in der Phlebologie genau dieses Gefäß-Problem behandeln.'
 }
 
 // Small helper exported so the pivot component reads cleanly.

@@ -1,38 +1,39 @@
-// Computes the user's "Befundprofil" (typ + Ausprägungs-Score +
-// Dringlichkeits-Score) from the 8 quiz answers. Runs once at the
-// step 11 → 12 transition; the result is persisted in QuizState so
-// the result page renders deterministically without recomputing on
-// every render.
+// Computes the user's "Orientierungsprofil" (typ + Ausprägungs-Score
+// + Behandlungswunsch-Score) from the 8 quiz answers. Runs once at
+// the step 11 → 12 transition; the result is persisted in QuizState
+// so the result page renders deterministically without recomputing.
 //
-// HWG-compliance notes:
-// - "Teleangiektasien" is the proper medical term for the visible
-//   surface vessels people call Besenreiser. Using it framed as a
-//   "Typ" doesn't promise anything - it just classifies the input.
-// - Scores are 1-8 / 1-6 with text labels rather than concrete
-//   percentages so we never make a quantified prognosis.
-// - Progression hints are general statements about the underlying
-//   condition's natural course, not individual predictions.
+// Wording is defensive (Anpassung A from the legal review):
+// - "Besenreiser" instead of "Teleangiektasien" - removes the
+//   medical-classification feel without losing the trigger-based
+//   sub-typing.
+// - "Behandlungswunsch" instead of "Behandlungs-Dringlichkeit" -
+//   reframes from "we triage your case" to "you reported this
+//   priority", which is what the score actually measures (it's
+//   built from Q7 vermeidung + Q8 zeitziel).
+// - Score labels are descriptive of the user's input (leicht /
+//   mittel / stark ausgeprägt), not clinical recommendations.
+// - Progression hints stay general ("erfahrungsgemäß", "häufig")
+//   rather than individual prognoses.
 
 import type { QuizAnswers, ComputedProfile } from './quizState'
 
 export function computeProfile(answers: QuizAnswers): ComputedProfile {
-  // Typ-Bestimmung. Order matters: gesicht overrides everything,
-  // then hormonal triggers, then a size-based fallback.
-  let typ = 'Erworbene Teleangiektasien'
+  let typ = 'Erworbene Besenreiser'
   if (answers.q1_lokalisation === 'gesicht') {
-    typ = 'Faziale Teleangiektasien'
+    typ = 'Besenreiser im Gesicht'
   } else if (answers.q2_trigger === 'schwangerschaft') {
-    typ = 'Hormonell bedingte Teleangiektasien'
+    typ = 'Hormonell bedingte Besenreiser'
   } else if (answers.q2_trigger === 'wechseljahre') {
-    typ = 'Hormonell verstärkte Teleangiektasien'
+    typ = 'Hormonell verstärkte Besenreiser'
   } else if (answers.q2_trigger === 'schon_immer') {
-    typ = 'Genetisch bedingte Teleangiektasien'
+    typ = 'Veranlagte Besenreiser'
   } else if (answers.q3_groesse === 'flaechig') {
-    typ = 'Ausgeprägte retikuläre Teleangiektasien'
+    typ = 'Ausgeprägte netzartige Besenreiser'
   }
 
-  // Ausprägungs-Score (1-8) - size is the dominant factor, multi-area
-  // bumps it up by one to reflect distribution.
+  // Ausprägungs-Score (1-8). Size is the dominant factor;
+  // multi-area bumps it up by one to reflect distribution.
   let auspraegungScore = 3
   if (answers.q3_groesse === 'fein') auspraegungScore = 2
   if (answers.q3_groesse === 'mittel') auspraegungScore = 4
@@ -42,9 +43,9 @@ export function computeProfile(answers: QuizAnswers): ComputedProfile {
     auspraegungScore = Math.min(8, auspraegungScore + 1)
   }
 
-  // Dringlichkeits-Score (1-6) - combines progression risk
-  // (hormonal triggers) with subjective avoidance and concrete
-  // time pressure.
+  // Behandlungswunsch-Score (1-6). Combines hormonal trigger
+  // (a generic progression hint, not a personal prognosis),
+  // self-reported avoidance, and time pressure.
   let dringlichkeitScore = 2
   if (answers.q2_trigger === 'schwangerschaft' || answers.q2_trigger === 'wechseljahre') {
     dringlichkeitScore += 1
@@ -66,32 +67,32 @@ export function getAuspraegungLabel(score: number): string {
   return 'Stark ausgeprägt'
 }
 
+// Reframed from clinical urgency labels ("Hoch — Behandlung
+// empfehlenswert") to plain priority labels. The score reflects
+// what the user said about their own willingness to act, not a
+// medical recommendation.
 export function getDringlichkeitLabel(score: number): string {
-  if (score <= 2) return 'Niedrig — kein akuter Handlungsbedarf'
-  if (score <= 4) return 'Mittel — Behandlung sinnvoll'
-  return 'Hoch — Behandlung empfehlenswert'
+  if (score <= 2) return 'Niedrig — du hast Zeit'
+  if (score <= 4) return 'Mittel'
+  return 'Hoch — du willst zeitnah weiter'
 }
 
-// Generic statements about the natural course of the underlying
-// condition. Triggered by Q2 only - "schon_immer" returns null
-// because progression isn't a meaningful framing for a lifelong
-// genetic predisposition.
+// General-knowledge statements about the natural course of
+// Besenreiser by trigger. Wording is hedged ("häufig",
+// "üblicherweise") and never frames the user's specific case.
 export function getProgressionHint(answers: QuizAnswers): string | null {
   if (answers.q2_trigger === 'schwangerschaft') {
-    return 'Bei hormonell ausgelösten Befunden ist eine Zunahme der Ausprägung über die Jahre häufig.'
+    return 'Erfahrungsgemäß zeigen sich bei hormonell entstandenen Besenreisern über die Jahre häufig zusätzliche Adern.'
   }
   if (answers.q2_trigger === 'wechseljahre') {
-    return 'Während und nach den Wechseljahren kommen oft weitere Befunde hinzu.'
+    return 'Während und nach den Wechseljahren kommen erfahrungsgemäß oft weitere Besenreiser hinzu.'
   }
   if (answers.q2_trigger === 'schleichend') {
-    return 'Schleichende Befunde nehmen über die Jahre üblicherweise weiter zu.'
+    return 'Schleichend entstandene Besenreiser nehmen über die Jahre üblicherweise weiter zu.'
   }
   return null
 }
 
-// Score-bar colour ramp - blue up to 4, orange 5-6, red 7+.
-// Exposed here so the ScoreBar component and the email template
-// can use identical thresholds.
 export function colorForScore(score: number): string {
   if (score >= 7) return '#CC0000'
   if (score >= 5) return '#FF6600'

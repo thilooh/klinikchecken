@@ -105,13 +105,16 @@ export default function Step11Capture({ initial, answers, onSubmitted }: Props) 
   return (
     <div style={{ backgroundColor: '#fff', borderRadius: '8px', padding: '24px 20px', boxShadow: '0 1px 3px rgba(0,0,0,0.06)' }}>
       <div style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', backgroundColor: '#E5F4ED', color: '#0A7C4A', padding: '4px 10px', borderRadius: '20px', fontSize: '12px', fontWeight: 700, marginBottom: '12px' }}>
-        ✓ Dein Befundprofil ist fertig
+        ✓ Deine Quiz-Auswertung ist fertig
       </div>
       <h2 style={{ fontSize: '20px', fontWeight: 700, color: '#0A1F44', marginBottom: '8px', lineHeight: 1.3 }}>
-        Wohin schicken wir dein Profil?
+        Wohin schicken wir dein Orientierungsprofil?
       </h2>
-      <p style={{ fontSize: '14px', color: '#444', marginBottom: '20px', lineHeight: 1.5 }}>
-        Auf Basis deiner 8 Antworten haben wir dein persönliches Profil erstellt — Typ, Ausprägung und passende Methoden.
+      <p style={{ fontSize: '14px', color: '#444', marginBottom: '12px', lineHeight: 1.5 }}>
+        Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt — Typ, Ausprägung und passende Methoden.
+      </p>
+      <p style={{ fontSize: '12px', color: '#666', marginBottom: '20px', lineHeight: 1.5 }}>
+        Das Profil ist eine Orientierungshilfe und keine ärztliche Diagnose.
       </p>
 
       <div style={{ marginBottom: '14px' }}>
@@ -170,7 +173,7 @@ export default function Step11Capture({ initial, answers, onSubmitted }: Props) 
 
       {serverError && (
         <div role="alert" style={{ backgroundColor: '#FFF7E6', border: '1px solid #F5C97C', borderRadius: '4px', padding: '10px 14px', fontSize: '13px', color: '#8A5300', marginBottom: '12px' }}>
-          Speichern hat einen Moment nicht geklappt — wir bringen dich trotzdem zum Profil. Falls du die Mail nicht erhältst, melde dich bitte.
+          Speichern hat einen Moment nicht geklappt — wir bringen dich trotzdem zur Auswertung. Falls du die Mail nicht erhältst, melde dich bitte.
         </div>
       )}
 
@@ -185,11 +188,11 @@ export default function Step11Capture({ initial, answers, onSubmitted }: Props) 
       >
         {loading
           ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</>
-          : 'Profil ansehen + Praxen in der Nähe →'}
+          : 'Auswertung ansehen + Praxen in der Nähe →'}
       </button>
 
       <p style={{ fontSize: '12px', color: '#888', marginTop: '12px', textAlign: 'center' }}>
-        Du bekommst dein Profil auch per Mail — praktisch, wenn du es später nochmal ansehen willst.
+        Du bekommst dein Orientierungsprofil auch per Mail — praktisch, wenn du es später nochmal ansehen willst.
       </p>
     </div>
   )
