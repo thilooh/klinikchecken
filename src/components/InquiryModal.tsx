@@ -4,6 +4,7 @@ import type { Clinic } from '../types/clinic'
 import type { CTAVariant } from '../lib/ctaVariant'
 import { sendEvent } from '../lib/gtm'
 import { generateEventId, sendCapi } from '../lib/capi'
+import { submitToSheet } from '../lib/sheetSubmit'
 import { useModalDismiss } from '../lib/useModalDismiss'
 
 interface Props {
@@ -12,8 +13,6 @@ interface Props {
   ctaColor?: string
   ctaVariant?: CTAVariant
 }
-
-const SHEET_URL = import.meta.env.VITE_GOOGLE_SHEET_URL as string | undefined
 
 export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ctaVariant }: Props) {
   const [step, setStep] = useState<1 | 2>(1)
@@ -25,6 +24,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(false)
   const [privacyOpen, setPrivacyOpen] = useState(false)
+  const [hasAttemptedSubmit, setHasAttemptedSubmit] = useState(false)
   const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
 
   if (!clinic) return null
@@ -34,9 +34,46 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
   const rating = clinic.googleRating ?? clinic.rating
   const reviewCount = clinic.googleReviewCount ?? clinic.reviewCount
 
+  // Compute the validation hint at render time so it stays in sync with
+  // the current form state - if the user fills a missing field, the
+  // hint shrinks to only what's still missing without an effect.
+  const validationMsg = (() => {
+    if (!hasAttemptedSubmit || canSubmit) return ''
+    const missing: string[] = []
+    if (!form.firstName) missing.push('Vorname')
+    if (!form.email) missing.push('E-Mail-Adresse')
+    if (!form.privacy) missing.push('Datenschutz-Häkchen')
+    return missing.length === 1
+      ? `Bitte noch ${missing[0]} ergänzen, dann kann's losgehen.`
+      : `Bitte noch ergänzen: ${missing.join(', ')}.`
+  })()
+
   const goToStep2 = () => {
     sendEvent('InquiryStep1Complete', { content_name: clinic.name, content_category: clinic.city, item_name: clinic.name, item_category: clinic.city, cta_variant: ctaVariant })
     setStep(2)
+  }
+
+  const handleSubmitClick = () => {
+    if (loading) return
+    const missing: string[] = []
+    if (!form.firstName) missing.push('Vorname')
+    if (!form.email) missing.push('E-Mail-Adresse')
+    if (!form.privacy) missing.push('Datenschutz-Häkchen')
+    sendEvent('InquirySubmitAttempted', {
+      content_name: clinic.name,
+      content_category: clinic.city,
+      item_name: clinic.name,
+      item_category: clinic.city,
+      cta_variant: ctaVariant,
+      missing_fields: missing.join(',') || 'none',
+      form_valid: missing.length === 0,
+    })
+    if (missing.length > 0) {
+      setHasAttemptedSubmit(true)
+      return
+    }
+    setHasAttemptedSubmit(false)
+    void handleSubmit()
   }
 
   const handleSubmit = async () => {
@@ -44,23 +81,16 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
     setLoading(true)
     setError(false)
     try {
-      if (SHEET_URL) {
-        await fetch(SHEET_URL, {
-          method: 'POST',
-          mode: 'no-cors',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            clinic: clinic.name,
-            clinicCity: clinic.city,
-            firstName: form.firstName,
-            lastName: form.lastName,
-            email: form.email,
-            phone: form.phone,
-            method: form.method || 'Erstberatung',
-            description: form.description,
-          }),
-        })
-      }
+      submitToSheet({
+        clinic: clinic.name,
+        clinicCity: clinic.city,
+        firstName: form.firstName,
+        lastName: form.lastName,
+        email: form.email,
+        phone: form.phone,
+        method: form.method || 'Erstberatung',
+        description: form.description,
+      })
       const leadEventId = generateEventId()
       const leadCustomData = {
         content_name: clinic.name,
@@ -261,10 +291,16 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
                 </div>
               )}
 
+              {validationMsg && (
+                <div role="alert" style={{ backgroundColor: '#FFF7E6', border: '1px solid #F5C97C', borderRadius: '4px', padding: '10px 14px', fontSize: '13px', color: '#8A5300', marginBottom: '12px' }}>
+                  {validationMsg}
+                </div>
+              )}
+
               <button
-                onClick={handleSubmit}
-                disabled={!canSubmit || loading}
-                style={{ backgroundColor: ctaColor, opacity: canSubmit && !loading ? 1 : 0.5, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '4px', height: '46px', width: '100%', cursor: canSubmit && !loading ? 'pointer' : 'not-allowed', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
+                onClick={handleSubmitClick}
+                aria-disabled={!canSubmit || loading}
+                style={{ backgroundColor: ctaColor, opacity: canSubmit && !loading ? 1 : 0.5, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '4px', height: '46px', width: '100%', cursor: loading ? 'not-allowed' : 'pointer', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
               >
                 {loading ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</> : 'Jetzt anfragen – die Praxis meldet sich'}
               </button>
