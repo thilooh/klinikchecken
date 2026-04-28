@@ -10,13 +10,14 @@
 //   function appendPraxisAnfrage(data) {
 //     const sheet = SpreadsheetApp.openById('<SHEET_ID>').getSheetByName('Praxis_Anfragen')
 //       || SpreadsheetApp.openById('<SHEET_ID>').insertSheet('Praxis_Anfragen')
+//     const a = data.answers || {}
+//     const cp = data.computedProfile || {}
 //     sheet.appendRow([new Date(), data.praxis.id, data.praxis.name,
 //       data.lead.vorname, data.lead.email, data.lead.plz,
 //       data.telefon || '', data.kontaktart, data.nachricht || '',
-//       data.answers.q1_lokalisation, data.answers.q2_trigger,
-//       data.answers.q3_groesse, data.answers.q4_hauttyp,
-//       (data.answers.q5_versucht || []).join(', '), data.answers.q6_zeitziel,
-//       data.consent_praxis, 'new'])
+//       cp.typ, a.q1_lokalisation, a.q2_trigger, a.q3_groesse, a.q4_hauttyp,
+//       a.q5_recognition, (a.q6_versucht || []).join(', '),
+//       a.q7_vermeidung, a.q8_zeitziel, data.consent_praxis, 'new'])
 //     return ContentService.createTextOutput(JSON.stringify({ ok: true }))
 //       .setMimeType(ContentService.MimeType.JSON)
 //   }

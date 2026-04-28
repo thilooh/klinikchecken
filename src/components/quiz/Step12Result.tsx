@@ -1,26 +1,33 @@
 import { useEffect, useMemo, useState } from 'react'
 import { RotateCcw } from 'lucide-react'
-import type { QuizAnswers, QuizLead } from '../../lib/quizState'
-import { Q1_DISPLAY, Q2_DISPLAY, Q3_DISPLAY, Q4_DISPLAY, Q6_DISPLAY } from '../../lib/quizDisplayMaps'
+import type { QuizAnswers, QuizLead, ComputedProfile } from '../../lib/quizState'
+import { Q1_DISPLAY, Q2_DISPLAY } from '../../lib/quizDisplayMaps'
+import {
+  getAuspraegungLabel,
+  getDringlichkeitLabel,
+  getProgressionHint,
+} from '../../lib/quizProfileCompute'
 import { getMethodRecommendation, getRanges, getRelevantMethods, getTimingHint } from '../../lib/quizRecommendations'
 import { sortPraxen, getCityCenter, type ScoredPraxis } from '../../lib/quizPraxenSort'
 import { useClinics } from '../../hooks/useClinics'
 import { matchCity } from '../../lib/cityMatch'
 import { sendEvent } from '../../lib/gtm'
 import { getCTAColor, getCTAVariant } from '../../lib/ctaVariant'
+import ScoreBar from './ScoreBar'
+import ComparisonTable from './ComparisonTable'
 import PraxisCard from './PraxisCard'
 import AnfrageModal from './AnfrageModal'
 
 interface Props {
   answers: QuizAnswers
   lead: QuizLead
+  profile: ComputedProfile
   onReset: () => void
 }
 
-// Initial visible count - "Mehr anzeigen" extends in steps of 10.
 const PAGE_SIZE = 12
 
-export default function Step10Result({ answers, lead, onReset }: Props) {
+export default function Step12Result({ answers, lead, profile, onReset }: Props) {
   const { clinics } = useClinics()
   const [contactPraxis, setContactPraxis] = useState<ScoredPraxis | null>(null)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
@@ -29,7 +36,8 @@ export default function Step10Result({ answers, lead, onReset }: Props) {
 
   const recommendation = useMemo(() => getMethodRecommendation(answers), [answers])
   const ranges = useMemo(() => getRanges(answers), [answers])
-  const timingHint = useMemo(() => getTimingHint(answers.q6_zeitziel), [answers.q6_zeitziel])
+  const timingHint = useMemo(() => getTimingHint(answers.q8_zeitziel), [answers.q8_zeitziel])
+  const progressionHint = useMemo(() => getProgressionHint(answers), [answers])
 
   const relevantMethods = useMemo(() => getRelevantMethods(answers), [answers])
   const userCity = useMemo(() => matchCity(lead.plz), [lead.plz])
@@ -39,51 +47,86 @@ export default function Step10Result({ answers, lead, onReset }: Props) {
     [clinics, userCoords, relevantMethods],
   )
 
-  // FindLocation fires when the personalised practice list materialises -
-  // this is the Meta-standard equivalent of "user provided a location to
-  // discover businesses". One fire per session, gated by a ref-style flag
-  // to avoid re-firing on every re-render.
+  // FindLocation fires when the personalised practice list materialises.
   useEffect(() => {
-    if (sortedPraxen.length === 0 && clinics.length > 0) return // still loading or empty
+    if (sortedPraxen.length === 0 && clinics.length > 0) return
     sendEvent('FindLocation', {
       content_type: 'methoden_quiz',
-      content_name: recommendation.primary,
-      item_name: recommendation.primary,
+      content_name: profile.typ,
+      item_name: profile.typ,
       plz: lead.plz,
       praxen_count: sortedPraxen.length,
+      computed_typ: profile.typ,
     })
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [recommendation.primary])
+  }, [profile.typ])
 
   const visiblePraxen = sortedPraxen.slice(0, visibleCount)
   const hasMore = visibleCount < sortedPraxen.length
 
-  const q5Real = answers.q5_versucht.filter(v => v !== 'nichts')
+  const sectionTitle: React.CSSProperties = {
+    fontSize: '13px', fontWeight: 700, letterSpacing: '0.05em',
+    color: '#003399', marginBottom: '10px', textTransform: 'uppercase' as const,
+  }
 
   return (
     <>
       {/* Plan card stays narrower than the parent container for
           readability of the long-form recommendation text. */}
       <div style={{ maxWidth: '640px', margin: '0 auto 24px', backgroundColor: '#fff', borderRadius: '8px', padding: '24px 20px', boxShadow: '0 1px 3px rgba(0,0,0,0.06)' }}>
-        <h2 style={{ fontSize: '22px', fontWeight: 800, color: '#0A1F44', marginBottom: '14px', lineHeight: 1.2 }}>
-          Dein persönlicher Beine-Plan, {lead.vorname || 'du'}
+        <h2 style={{ fontSize: '22px', fontWeight: 800, color: '#0A1F44', marginBottom: '20px', lineHeight: 1.2 }}>
+          Dein Befundprofil, {lead.vorname || 'du'}
         </h2>
 
-        <div style={{ backgroundColor: '#F4F7FF', borderRadius: '6px', padding: '14px 16px', marginBottom: '20px', fontSize: '14px', color: '#333', lineHeight: 1.7 }}>
-          <strong style={{ display: 'block', fontSize: '12px', letterSpacing: '0.05em', color: '#003399', marginBottom: '6px' }}>📋 DEINE ANGABEN</strong>
-          {answers.q1_lokalisation && <div>• Lokalisation: {Q1_DISPLAY[answers.q1_lokalisation]}</div>}
-          {answers.q2_trigger && <div>• Aufgetreten: {Q2_DISPLAY[answers.q2_trigger]}</div>}
-          {answers.q3_groesse && <div>• Ausprägung: {Q3_DISPLAY[answers.q3_groesse]}</div>}
-          {answers.q4_hauttyp && <div>• Hauttyp: {Q4_DISPLAY[answers.q4_hauttyp]}</div>}
-          <div>• Bisher probiert: {q5Real.length} {q5Real.length === 1 ? 'Strategie' : 'Strategien'}</div>
-          {answers.q6_zeitziel && <div>• Zeitziel: {Q6_DISPLAY[answers.q6_zeitziel]}</div>}
+        {/* Profile card - the headline summary */}
+        <div style={sectionTitle}>📊 Dein Besenreiser-Profil</div>
+        <div style={{ backgroundColor: '#FAFBFE', border: '1px solid #DDE3F5', borderRadius: '6px', padding: '16px 18px', marginBottom: '24px' }}>
+          <div style={{ marginBottom: '14px' }}>
+            <div style={{ fontSize: '12px', color: '#666', fontWeight: 600, marginBottom: '2px' }}>Typ</div>
+            <div style={{ fontSize: '17px', fontWeight: 700, color: '#0A1F44' }}>{profile.typ}</div>
+          </div>
+
+          {answers.q2_trigger && (
+            <div style={{ marginBottom: '14px' }}>
+              <div style={{ fontSize: '12px', color: '#666', fontWeight: 600, marginBottom: '2px' }}>Auslöser</div>
+              <div style={{ fontSize: '14px', color: '#333' }}>{Q2_DISPLAY[answers.q2_trigger]}</div>
+            </div>
+          )}
+
+          {answers.q1_lokalisation && (
+            <div style={{ marginBottom: '14px' }}>
+              <div style={{ fontSize: '12px', color: '#666', fontWeight: 600, marginBottom: '2px' }}>Lokalisation</div>
+              <div style={{ fontSize: '14px', color: '#333' }}>{Q1_DISPLAY[answers.q1_lokalisation]}</div>
+            </div>
+          )}
+
+          <div style={{ marginBottom: '14px' }}>
+            <div style={{ fontSize: '12px', color: '#666', fontWeight: 600, marginBottom: '6px' }}>Ausprägung</div>
+            <ScoreBar value={profile.auspraegungScore} max={8} label={getAuspraegungLabel(profile.auspraegungScore)} />
+          </div>
+
+          <div style={{ marginBottom: progressionHint ? '14px' : 0 }}>
+            <div style={{ fontSize: '12px', color: '#666', fontWeight: 600, marginBottom: '6px' }}>Behandlungs-Dringlichkeit</div>
+            <ScoreBar value={profile.dringlichkeitScore} max={6} label={getDringlichkeitLabel(profile.dringlichkeitScore)} />
+          </div>
+
+          {progressionHint && (
+            <div style={{ fontSize: '13px', color: '#444', backgroundColor: '#FFF8E1', border: '1px solid #F5DD8C', padding: '10px 12px', borderRadius: '4px', lineHeight: 1.6 }}>
+              <strong>Hinweis:</strong> {progressionHint}
+            </div>
+          )}
         </div>
 
-        <h3 style={{ fontSize: '16px', fontWeight: 700, color: '#003399', marginBottom: '8px' }}>
-          💡 IN FRAGE KOMMENDE METHODEN
-        </h3>
+        {/* Comparison table */}
+        <div style={sectionTitle}>⚖️ Was bei Besenreisern funktioniert — und was nicht</div>
+        <div style={{ marginBottom: '24px' }}>
+          <ComparisonTable />
+        </div>
+
+        {/* Method recommendation */}
+        <div style={sectionTitle}>💡 In Frage kommende Methoden</div>
         <p style={{ fontSize: '14px', color: '#444', lineHeight: 1.6, marginBottom: '10px' }}>
-          Bei vergleichbaren Befunden kommen in der Phlebologie häufig folgende Methoden zum Einsatz:
+          Bei vergleichbaren Befunden kommen in der {recommendation.fachgebiet} häufig folgende Methoden zum Einsatz:
         </p>
         <p style={{ fontSize: '17px', fontWeight: 700, color: '#0A1F44', marginBottom: '10px' }}>
           {recommendation.primary}
@@ -115,15 +158,10 @@ export default function Step10Result({ answers, lead, onReset }: Props) {
         )}
 
         <p style={{ fontSize: '12px', color: '#666', lineHeight: 1.6, marginBottom: 0 }}>
-          ℹ️ Was bei dir konkret nötig und sinnvoll ist, klärst du im persönlichen Erstgespräch — nur eine Phlebologin oder ein Phlebologe kann eine echte Diagnose stellen.
+          ℹ️ Was bei dir konkret nötig und sinnvoll ist, klärst du im persönlichen Erstgespräch — nur eine Phlebologin oder eine Dermatologin kann eine echte Diagnose stellen.
         </p>
       </div>
 
-      {/* Praxen-Liste sits directly on the gray page background -
-          no white wrapper - so the homepage-style ClinicCards have
-          their own visual breathing room rather than being nested in
-          a box that crops them. Header + disclaimer float above and
-          below as section labels. */}
       <div style={{ marginBottom: '12px', padding: '0 4px' }}>
         <h3 style={{ fontSize: '16px', fontWeight: 700, color: '#003399', marginBottom: '4px' }}>
           📍 PRAXEN IN DEINER NÄHE {userCity ? `(${userCity})` : `(PLZ ${lead.plz})`}
@@ -175,6 +213,7 @@ export default function Step10Result({ answers, lead, onReset }: Props) {
           praxis={contactPraxis}
           lead={lead}
           answers={answers}
+          profile={profile}
           onClose={() => setContactPraxis(null)}
         />
       )}

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { X, CheckCircle2, Loader2 } from 'lucide-react'
 import type { ScoredPraxis } from '../../lib/quizPraxenSort'
-import type { QuizAnswers, QuizLead } from '../../lib/quizState'
+import type { QuizAnswers, QuizLead, ComputedProfile } from '../../lib/quizState'
 import { sendEvent } from '../../lib/gtm'
 import { sentryCaptureMessage } from '../../lib/sentry'
 import { useModalDismiss } from '../../lib/useModalDismiss'
@@ -10,12 +10,13 @@ interface Props {
   praxis: ScoredPraxis
   lead: QuizLead
   answers: QuizAnswers
+  profile: ComputedProfile
   onClose: () => void
 }
 
 type Kontaktart = 'email' | 'telefon'
 
-export default function AnfrageModal({ praxis, lead, answers, onClose }: Props) {
+export default function AnfrageModal({ praxis, lead, answers, profile, onClose }: Props) {
   const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
   const [telefon, setTelefon] = useState('')
   const [kontaktart, setKontaktart] = useState<Kontaktart>('email')
@@ -52,6 +53,7 @@ export default function AnfrageModal({ praxis, lead, answers, onClose }: Props) 
           praxis: { id: praxis.id, name: praxis.name, email: praxis.praxis_email, tier: praxis.tier },
           lead,
           answers,
+          computedProfile: profile,
           telefon: telefon.trim(),
           kontaktart,
           nachricht: nachricht.trim(),

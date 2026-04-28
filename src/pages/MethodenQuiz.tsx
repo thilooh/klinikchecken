@@ -7,13 +7,15 @@ import {
   Step2Trigger,
   Step3Groesse,
   Step4Hauttyp,
-  Step5Versucht,
-  Step6Zeitziel,
-  Step7Pivot,
-  Step8Loading,
+  Step5Recognition,
+  Step6Versucht,
+  Step7Vermeidung,
+  Step8Zeitziel,
+  Step9Pivot,
+  Step10Loading,
 } from '../components/quiz/QuizSteps'
-import Step9Capture from '../components/quiz/Step9Capture'
-import Step10Result from '../components/quiz/Step10Result'
+import Step11Capture from '../components/quiz/Step11Capture'
+import Step12Result from '../components/quiz/Step12Result'
 import { useSeo, SITE_URL } from '../lib/seo'
 import { sendEvent } from '../lib/gtm'
 import {
@@ -26,28 +28,27 @@ import {
 
 export default function MethodenQuiz() {
   useSeo({
-    title: 'Welche Behandlung passt zu meinen Besenreisern? – 60-Sekunden-Beine-Check',
-    description: 'In 60 Sekunden zur passenden Behandlungsmethode: Sklerosierung, Laser oder IPL. Sieben Fragen zu Lokalisation, Befund und Hauttyp – plus Praxen in deiner Nähe.',
+    title: 'Welcher Besenreiser-Typ bist du? – 60-Sekunden-Befundprofil',
+    description: 'In 60 Sekunden zu deinem persönlichen Befundprofil: Typ, Ausprägung, passende Methoden — inhaltlich erstellt unter Mitwirkung von Phlebologen-Fachärzt:innen.',
     canonical: `${SITE_URL}/methoden-quiz`,
     ogType: 'article',
   })
 
   // Lazy initialiser hydrates from sessionStorage so a reload mid-quiz
   // keeps the user where they were. The persisted state has a 24h TTL
-  // (see loadPersisted) - older sessions start fresh.
+  // (see loadPersisted) - older sessions start fresh. Storage key v3
+  // makes any in-flight v2 sessions start fresh too.
   const [state, dispatch] = useReducer(quizReducer, INITIAL_QUIZ_STATE, init => loadPersisted() ?? init)
 
-  // Persist on every change so the next reload picks up.
   useEffect(() => { persist(state) }, [state])
 
   // Loader auto-advances; everything else triggers via user action.
   const goNext = () => dispatch({ type: 'GOTO', step: state.currentStep + 1 })
 
   // CustomizeProduct fires once when the recommendation appears
-  // (between loading and the result page) - matches the previous
-  // tracking behaviour in the old quiz.
+  // (between loading and the result page).
   useEffect(() => {
-    if (state.currentStep === 8) {
+    if (state.currentStep === 10) {
       sendEvent('CustomizeProduct', { content_type: 'methoden_quiz' })
     }
   }, [state.currentStep])
@@ -57,12 +58,10 @@ export default function MethodenQuiz() {
     dispatch({ type: 'RESET' })
   }
 
-  const showHeader = state.currentStep <= 7
-  // Step 10 needs more horizontal room for the homepage-style ClinicCard
-  // (logo + photo + content panels). 640 was tight, 820 matches the
-  // effective content width of the homepage results column (1200 minus
-  // sidebar), without a sidebar of our own.
-  const containerClass = state.currentStep === 10
+  const showHeader = state.currentStep <= 9
+  // Step 12 needs more horizontal room for the homepage-style ClinicCard
+  // (logo + photo + content panels). Steps 1-11 keep the tighter 640.
+  const containerClass = state.currentStep === 12
     ? 'max-w-[820px] mx-auto px-4'
     : 'max-w-[640px] mx-auto px-4'
 
@@ -86,34 +85,46 @@ export default function MethodenQuiz() {
             <Step4Hauttyp onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q4_hauttyp', value: v })} />
           )}
           {state.currentStep === 5 && (
-            <Step5Versucht
-              selected={state.answers.q5_versucht}
+            <Step5Recognition onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q5_recognition', value: v })} />
+          )}
+          {state.currentStep === 6 && (
+            <Step6Versucht
+              selected={state.answers.q6_versucht}
               onToggle={v => dispatch({ type: 'TOGGLE_VERSUCHT', value: v })}
               onContinue={goNext}
             />
           )}
-          {state.currentStep === 6 && (
-            <Step6Zeitziel onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q6_zeitziel', value: v })} />
-          )}
           {state.currentStep === 7 && (
-            <Step7Pivot answers={state.answers} onContinue={goNext} />
+            <Step7Vermeidung onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q7_vermeidung', value: v })} />
           )}
           {state.currentStep === 8 && (
-            <Step8Loading onDone={goNext} />
+            <Step8Zeitziel onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q8_zeitziel', value: v })} />
           )}
           {state.currentStep === 9 && (
-            <Step9Capture
+            <Step9Pivot answers={state.answers} onContinue={goNext} />
+          )}
+          {state.currentStep === 10 && (
+            <Step10Loading onDone={goNext} />
+          )}
+          {state.currentStep === 11 && (
+            <Step11Capture
               initial={state.lead}
               answers={state.answers}
-              onSubmitted={lead => {
+              onSubmitted={(lead, profile) => {
                 dispatch({ type: 'SET_LEAD', partial: lead })
+                dispatch({ type: 'SET_PROFILE', profile })
                 dispatch({ type: 'MARK_SUBMITTED' })
-                dispatch({ type: 'GOTO', step: 10 })
+                dispatch({ type: 'GOTO', step: 12 })
               }}
             />
           )}
-          {state.currentStep === 10 && (
-            <Step10Result answers={state.answers} lead={state.lead} onReset={reset} />
+          {state.currentStep === 12 && state.computedProfile && (
+            <Step12Result
+              answers={state.answers}
+              lead={state.lead}
+              profile={state.computedProfile}
+              onReset={reset}
+            />
           )}
         </div>
       </main>

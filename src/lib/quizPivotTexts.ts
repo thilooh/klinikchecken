@@ -1,55 +1,81 @@
-// Pivot-step (Step 7) text composition helpers. Three slots are
-// derived from the user's Q5 (Versucht) and Q1 (Lokalisation) state
-// rather than a flat lookup, so they live here next to the simpler
-// maps in quizDisplayMaps.ts.
+// Pivot-step (Step 9) text composition. V3 replaces the V2 "your
+// surface aids didn't fail you" framing with a Mechanism-Reframe:
+// the pivot now explains *why* surface aids couldn't have worked
+// (because Besenreiser are a vessel-level condition, not a skin
+// condition) and routes to the next step as "let's see what
+// actually treats the underlying mechanism".
 //
-// Wording vetted for HWG-compliance: no efficacy claims, no
-// disparaging comparisons against creams / compression / camouflage,
-// always closes with a reference to the Erstgespräch as the actual
-// diagnosis source.
+// Wording is medically conservative and HWG-vetted:
+// - "Klappenschwäche der feinen Venen" / "dauerhafte Erweiterung
+//   der feinen Gefäße" are accurate descriptions of the underlying
+//   mechanism without making a treatment promise.
+// - The face variant deliberately avoids the "Klappenschwäche"
+//   framing because facial teleangiectasias don't have valves -
+//   the mechanism there is permanent capillary dilation.
+
+import type { QuizAnswers } from './quizState'
 
 const NICHTS = 'nichts'
 
-function realTriedCount(q5_versucht: string[]): number {
-  return q5_versucht.filter(v => v !== NICHTS).length
+function realTriedCount(q6_versucht: string[]): number {
+  return q6_versucht.filter(v => v !== NICHTS).length
 }
 
-// Slot 2 - count-based bullet. Special-cases 0 and 1 so the
-// string never reads "Du hast schon 1 Strategie ausprobiert" (looks
-// like a placeholder bug).
-export function getBullet2Text(q5_versucht: string[]): string {
-  const count = realTriedCount(q5_versucht)
+// Bullet 2 - count-based phrasing for Q6. Word "eine" instead of
+// numeral "1" so the singular case doesn't read like a placeholder.
+export function getBullet2Text(q6_versucht: string[]): string {
+  const count = realTriedCount(q6_versucht)
   if (count === 0) return 'Du informierst dich gerade — bevor du etwas ausprobierst'
-  if (count === 1) return 'Du hast schon eine Strategie ausprobiert'
-  return `Du hast schon ${count} verschiedene Strategien ausprobiert`
+  if (count === 1) return 'Du hast schon eine Strategie probiert'
+  return `Du hast schon ${count} verschiedene Strategien probiert`
 }
 
-// Slot 4 - reframe sentence. Two variants based on whether the user
-// has tried anything yet. The "tried something" variant is stronger
-// than the original draft because it disarms a hidden worry ("habe
-// ich was Dummes gemacht?") rather than just restating the obvious.
-export function getReframeText(q5_versucht: string[]): string {
-  if (realTriedCount(q5_versucht) === 0) {
-    return 'Das ist der richtige Moment, sich vor dem Probieren zu informieren.'
-  }
-  return 'Das Problem ist nicht, dass du das Falsche probiert hast.'
-}
-
-// Slot 5 - bridge sentence explaining what the surface aids actually
-// do. Returns null when the user hasn't tried anything yet (the
-// bridge would be redundant; the reframe carries on its own).
-//
-// The Beine variant deliberately credits compression for the
-// blood-flow support it actually provides - more accurate AND less
-// vulnerable to UWG §5 disparagement claims than the earlier draft
-// that lumped it in with "wirkt nur auf der Haut".
-export function getBridgeText(
-  q1_lokalisation: string | null,
-  q5_versucht: string[],
-): string | null {
-  if (realTriedCount(q5_versucht) === 0) return null
+// Mechanism-reframe paragraph. Two paths: legs (vein valve story)
+// and face (capillary dilation story).
+export function getMechanismParagraph(q1_lokalisation: string | null): string {
   if (q1_lokalisation === 'gesicht') {
-    return 'Cremes, Make-up und kaschierende Pflege wirken auf der Haut — nicht auf die feinen Gefäße darunter, die die sichtbare Verfärbung verursachen. Für die Gefäße selbst gibt es eigene Verfahren in der Dermatologie.'
+    return 'Es sind nicht nur "geplatzte Äderchen". Es sind erweiterte Kapillargefäße direkt unter der dünnen Gesichtshaut — und der Grund, warum sie sichtbar werden, liegt in einer dauerhaften Erweiterung der feinen Gefäße, die du mit Pflege oder Make-up nicht zurückdrücken kannst.'
   }
-  return 'Cremes, Kompressionsstrümpfe und Camouflage wirken auf der Haut oder unterstützen den Blutrückfluss — sie behandeln aber nicht die feinen Gefäße, die die sichtbare Verfärbung verursachen. Für die Gefäße selbst gibt es eigene Verfahren in der Phlebologie.'
+  return 'Besenreiser sind keine Hautsache. Es sind erweiterte Gefäße direkt unter der Hautoberfläche — und der Grund, warum sie sichtbar werden, liegt in einer Klappenschwäche der feinen Venen, die du nicht selbst trainieren oder wegcremen kannst.'
+}
+
+// "Hier ist, was die meisten ... nie erfahren" headline. Shifts
+// based on Q1 so face users don't read "Besenreiser im Gesicht"
+// being introduced as a separate concept later in the same paragraph.
+export function getMechanismHeadline(q1_lokalisation: string | null): string {
+  if (q1_lokalisation === 'gesicht') {
+    return 'Hier ist, was die meisten Frauen über Besenreiser im Gesicht nie erfahren:'
+  }
+  return 'Hier ist, was die meisten Frauen über Besenreiser nie erfahren:'
+}
+
+// Why-the-aids-didn't-work follow-up. Same surface-aid call-out as
+// V2 but reframed from "they had a different job" so the user feels
+// uncomplicated rather than scolded.
+export function getAidsExplanation(q1_lokalisation: string | null): string {
+  if (q1_lokalisation === 'gesicht') {
+    return 'Das ist auch der Grund, warum Cremes, Camouflage und Beruhigungs-Pflege nicht funktionieren konnten — sie waren für ein anderes Problem gemacht.'
+  }
+  return 'Das ist auch der Grund, warum Cremes, Kompression und Hausmittel nicht funktionieren konnten — sie waren für ein anderes Problem gemacht.'
+}
+
+// Forward-look closer. Routes face users to Dermatologie /
+// Lasermedizin and leg users to Phlebologie - medically accurate
+// and UWG-safer (we don't conflate specialties).
+export function getForwardLook(q1_lokalisation: string | null): string {
+  if (q1_lokalisation === 'gesicht') {
+    return 'Auf der nächsten Seite siehst du dein persönliches Befundprofil und welche Verfahren in der Dermatologie und Lasermedizin genau dieses Gefäß-Problem behandeln.'
+  }
+  return 'Auf der nächsten Seite siehst du dein persönliches Befundprofil und welche Methoden in der Phlebologie genau dieses Gefäß-Problem behandeln.'
+}
+
+// Small helper exported so the pivot component reads cleanly.
+export function pivotTextFromAnswers(answers: QuizAnswers) {
+  return {
+    bullet2: getBullet2Text(answers.q6_versucht),
+    mechanismHeadline: getMechanismHeadline(answers.q1_lokalisation),
+    mechanismParagraph: getMechanismParagraph(answers.q1_lokalisation),
+    aidsExplanation: getAidsExplanation(answers.q1_lokalisation),
+    forwardLook: getForwardLook(answers.q1_lokalisation),
+  }
 }

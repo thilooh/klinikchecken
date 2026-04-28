@@ -8,15 +8,18 @@
 //   function doPost(e) {
 //     const data = JSON.parse(e.postData.contents)
 //     if (data.type === 'quiz_lead') return appendQuizLead(data)
+//     if (data.type === 'praxis_anfrage') return appendPraxisAnfrage(data)
 //     return appendInquiry(data) // existing behaviour
 //   }
 //   function appendQuizLead(data) {
 //     const sheet = SpreadsheetApp.openById('<SHEET_ID>').getSheetByName('Quiz_Leads')
 //       || SpreadsheetApp.openById('<SHEET_ID>').insertSheet('Quiz_Leads')
-//     sheet.appendRow([new Date(), data.lead.vorname, data.lead.email,
-//       data.lead.plz, data.answers.q1_lokalisation, data.answers.q2_trigger,
-//       data.answers.q3_groesse, data.answers.q4_hauttyp,
-//       (data.answers.q5_versucht || []).join(', '), data.answers.q6_zeitziel,
+//     const a = data.answers || {}
+//     const cp = data.computedProfile || {}
+//     sheet.appendRow([new Date(), data.lead.vorname, data.lead.email, data.lead.plz,
+//       a.q1_lokalisation, a.q2_trigger, a.q3_groesse, a.q4_hauttyp, a.q5_recognition,
+//       (a.q6_versucht || []).join(', '), a.q7_vermeidung, a.q8_zeitziel,
+//       cp.typ, cp.auspraegungScore, cp.dringlichkeitScore,
 //       data.lead.consent_data, data.lead.consent_marketing, 'new'])
 //     return ContentService.createTextOutput(JSON.stringify({ ok: true }))
 //       .setMimeType(ContentService.MimeType.JSON)

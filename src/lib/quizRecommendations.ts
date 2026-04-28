@@ -9,6 +9,11 @@ export type Recommendation = {
   primary: string
   description: string
   alternative?: string
+  // Specialty whose practices typically perform the recommended
+  // methods. Surfaces in the result page header and the practice
+  // section divider so face users see "Dermatologie" rather than
+  // "Phlebologie".
+  fachgebiet: 'Phlebologie' | 'Dermatologie und Lasermedizin'
 }
 
 export function getMethodRecommendation(answers: QuizAnswers): Recommendation {
@@ -16,7 +21,8 @@ export function getMethodRecommendation(answers: QuizAnswers): Recommendation {
   if (answers.q1_lokalisation === 'gesicht') {
     return {
       primary: 'IPL-Behandlung oder KTP-Laser',
-      description: 'Sehr feine Gefäße im Gesicht werden in vielen Phlebologie- und Dermatologiepraxen mit gepulstem Licht (IPL) oder dem präzisen KTP-Laser behandelt. Bei dichteren Befunden kommt teilweise ein Nd:YAG-Laser zum Einsatz.',
+      description: 'Sehr feine Gefäße im Gesicht werden in vielen Dermatologie- und Lasermedizin-Praxen mit gepulstem Licht (IPL) oder dem präzisen KTP-Laser behandelt. Bei dichteren Befunden kommt teilweise ein Nd:YAG-Laser zum Einsatz.',
+      fachgebiet: 'Dermatologie und Lasermedizin',
     }
   }
 
@@ -26,6 +32,7 @@ export function getMethodRecommendation(answers: QuizAnswers): Recommendation {
       primary: 'Mikroschaum-Sklerosierung',
       description: 'Die Sklerosierung gilt in der Phlebologie als Standardverfahren bei Besenreisern an den Beinen — und ist bei dunkleren Hauttypen häufig die sicherere Wahl, da bestimmte Laser-Wellenlängen bei Hauttyp 4–6 Pigmentveränderungen begünstigen können.',
       alternative: 'Nd:YAG-Laser kann bei sehr feinen Gefäßen ergänzend besprochen werden — die Indikation klärt der Arzt.',
+      fachgebiet: 'Phlebologie',
     }
   }
 
@@ -35,6 +42,7 @@ export function getMethodRecommendation(answers: QuizAnswers): Recommendation {
       primary: 'Laser-Behandlung oder Sklerosierung',
       description: 'Sehr feine Besenreiser an den Beinen werden je nach Praxis und Befund mit Laser (Nd:YAG, KTP) oder Sklerosierung behandelt. Welche Methode bei dir besser passt, hängt vom genauen Befund ab.',
       alternative: 'Häufig kommt eine Kombination beider Methoden zum Einsatz.',
+      fachgebiet: 'Phlebologie',
     }
   }
 
@@ -44,6 +52,7 @@ export function getMethodRecommendation(answers: QuizAnswers): Recommendation {
       primary: 'Mikroschaum-Sklerosierung',
       description: 'Bei größeren oder flächigen Befunden an den Beinen ist die Mikroschaum-Sklerosierung in der Phlebologie das verbreitetste Verfahren. Der Schaum verteilt sich gleichmäßig im Gefäß und behandelt auch verzweigte Areale.',
       alternative: 'Bei einzelnen größeren Gefäßen kann zusätzlich eine Mini-Phlebektomie besprochen werden.',
+      fachgebiet: 'Phlebologie',
     }
   }
 
@@ -52,6 +61,7 @@ export function getMethodRecommendation(answers: QuizAnswers): Recommendation {
     primary: 'Mikroschaum-Sklerosierung',
     description: 'Die Mikroschaum-Sklerosierung ist in der Phlebologie ein etabliertes Verfahren bei Besenreisern an den Beinen. Welche Methode bei dir konkret in Frage kommt, klärt das Erstgespräch.',
     alternative: 'Je nach Befund kann auch eine Laser-Behandlung ergänzend besprochen werden.',
+    fachgebiet: 'Phlebologie',
   }
 }
 

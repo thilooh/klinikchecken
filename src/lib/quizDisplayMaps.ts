@@ -38,7 +38,14 @@ export const Q4_DISPLAY: Record<string, string> = {
   dunkler: 'dunkler / mediterran / POC (Typ 4–6)',
 }
 
-export const Q5_DISPLAY: Record<string, string> = {
+export const Q5_RECOGNITION_DISPLAY: Record<string, string> = {
+  schwimmbad: '"Im Schwimmbad lege ich das Handtuch erst ab, wenn ich im Wasser bin."',
+  lange_hosen: '"Im Sommer trage ich lieber lange Hosen als kurze."',
+  fotos: '"Auf Fotos verstecke ich die Beine — Kleid bis zum Knöchel oder gar nicht hin."',
+  stoert_aber_alltag: '"Mich stört es, aber im Alltag denke ich nicht ständig dran."',
+}
+
+export const Q6_DISPLAY: Record<string, string> = {
   cremes: 'Cremes oder Gels',
   kompression: 'Kompressionsstrümpfe',
   camouflage: 'Camouflage / Make-up',
@@ -48,28 +55,24 @@ export const Q5_DISPLAY: Record<string, string> = {
   nichts: 'Noch nichts probiert',
 }
 
-export const Q6_DISPLAY: Record<string, string> = {
+export const Q7_VERMEIDUNG_DISPLAY: Record<string, string> = {
+  voellig_zu: 'stimme völlig zu',
+  eher_zu: 'stimme eher zu',
+  eher_nicht: 'stimme eher nicht zu',
+  gar_nicht: 'stimme gar nicht zu',
+}
+
+// Used in the pivot interstitial bullet "Du hast {{Q7_TEXT}}".
+export const Q7_PIVOT_TEXT: Record<string, string> = {
+  voellig_zu: 'wegen deiner Beine schon Dinge vermieden',
+  eher_zu: 'wegen deiner Beine schon mal etwas vermieden',
+  eher_nicht: 'dich davon im Alltag noch nicht stark einschränken lassen',
+  gar_nicht: 'es im Alltag nicht ständig im Kopf',
+}
+
+export const Q8_DISPLAY: Record<string, string> = {
   diesen_sommer: 'diesen Sommer',
   anlass: 'ein konkreter Anlass',
   kein_druck: 'kein Zeitdruck',
   naechster_sommer: 'nächster Sommer',
-}
-
-// Pivot bullet 3 - free-formed sentences (not "Bis ___ willst du was
-// ändern" which produced ungrammatical results for kein_druck).
-export const Q6_PIVOT_BULLET: Record<string, string> = {
-  diesen_sommer: 'Du willst noch vor diesem Sommer Ergebnisse sehen',
-  anlass: 'Du hast einen konkreten Anlass im Kopf',
-  kein_druck: 'Du willst es angehen — ohne festen Zeitrahmen',
-  naechster_sommer: 'Du gibst dir Zeit bis zum nächsten Sommer',
-}
-
-// Pivot forward-look (last sentence) - varies by Q1 because face
-// teleangiectasias are dermatology / laser-medicine territory, not
-// phlebology. Three beine_* values share the same text.
-export const Q1_FORWARD_LOOK: Record<string, string> = {
-  beine_unten: 'Auf der nächsten Seite siehst du, welche Methoden bei Befunden wie deinem in der Phlebologie eingesetzt werden — als Vorbereitung auf dein Erstgespräch.',
-  beine_oben: 'Auf der nächsten Seite siehst du, welche Methoden bei Befunden wie deinem in der Phlebologie eingesetzt werden — als Vorbereitung auf dein Erstgespräch.',
-  beine_mehrere: 'Auf der nächsten Seite siehst du, welche Methoden bei Befunden wie deinem in der Phlebologie eingesetzt werden — als Vorbereitung auf dein Erstgespräch.',
-  gesicht: 'Auf der nächsten Seite siehst du, welche Verfahren bei feinen Gefäßen im Gesicht in der Dermatologie und Lasermedizin eingesetzt werden — als Vorbereitung auf dein Erstgespräch.',
 }

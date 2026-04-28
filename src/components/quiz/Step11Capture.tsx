@@ -1,8 +1,9 @@
 import { useState } from 'react'
 import { Loader2 } from 'lucide-react'
-import type { QuizLead, QuizAnswers } from '../../lib/quizState'
+import type { QuizLead, QuizAnswers, ComputedProfile } from '../../lib/quizState'
 import { sendEvent } from '../../lib/gtm'
 import { sentryCaptureMessage } from '../../lib/sentry'
+import { computeProfile } from '../../lib/quizProfileCompute'
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
 const PLZ_RE = /^\d{5}$/
@@ -19,10 +20,10 @@ function validate(form: { vorname: string; email: string; plz: string; consent_d
 interface Props {
   initial: QuizLead
   answers: QuizAnswers
-  onSubmitted: (lead: QuizLead) => void
+  onSubmitted: (lead: QuizLead, profile: ComputedProfile) => void
 }
 
-export default function Step9Capture({ initial, answers, onSubmitted }: Props) {
+export default function Step11Capture({ initial, answers, onSubmitted }: Props) {
   const [form, setForm] = useState<QuizLead>(initial)
   const [errors, setErrors] = useState<Record<string, string>>({})
   const [touched, setTouched] = useState(false)
@@ -48,11 +49,14 @@ export default function Step9Capture({ initial, answers, onSubmitted }: Props) {
     if (Object.keys(errs).length > 0) return
     setLoading(true)
     setServerError(false)
+    // Compute the profile here so it's available to send and to the
+    // Lead/CAPI events even when the sheet write fails.
+    const computedProfile = computeProfile(answers)
     try {
       const res = await fetch('/.netlify/functions/quiz-submit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ type: 'quiz_lead', lead: form, answers }),
+        body: JSON.stringify({ type: 'quiz_lead', lead: form, answers, computedProfile }),
         keepalive: true,
       })
       if (!res.ok) {
@@ -72,16 +76,19 @@ export default function Step9Capture({ initial, answers, onSubmitted }: Props) {
     } finally {
       setLoading(false)
       // Lead event fires regardless of sheet outcome - the user did
-      // submit, Meta should know about it. The graceful degradation
-      // also lets users continue to step 10 even when storage fails.
+      // submit, Meta should know about it. Graceful degradation
+      // also lets users continue to step 12 even when storage fails.
       sendEvent('Lead', {
         content_type: 'methoden_quiz',
-        content_name: 'quiz_lead',
-        item_name: 'quiz_lead',
+        content_name: computedProfile.typ,
+        item_name: computedProfile.typ,
         plz: form.plz.trim(),
         consent_marketing: form.consent_marketing,
+        computed_typ: computedProfile.typ,
+        auspraegung: computedProfile.auspraegungScore,
+        dringlichkeit: computedProfile.dringlichkeitScore,
       }, { email: form.email })
-      onSubmitted(form)
+      onSubmitted(form, computedProfile)
     }
   }
 
@@ -98,13 +105,13 @@ export default function Step9Capture({ initial, answers, onSubmitted }: Props) {
   return (
     <div style={{ backgroundColor: '#fff', borderRadius: '8px', padding: '24px 20px', boxShadow: '0 1px 3px rgba(0,0,0,0.06)' }}>
       <div style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', backgroundColor: '#E5F4ED', color: '#0A7C4A', padding: '4px 10px', borderRadius: '20px', fontSize: '12px', fontWeight: 700, marginBottom: '12px' }}>
-        ✓ Deine Analyse ist fertig
+        ✓ Dein Befundprofil ist fertig
       </div>
       <h2 style={{ fontSize: '20px', fontWeight: 700, color: '#0A1F44', marginBottom: '8px', lineHeight: 1.3 }}>
-        Wohin schicken wir deinen Plan?
+        Wohin schicken wir dein Profil?
       </h2>
       <p style={{ fontSize: '14px', color: '#444', marginBottom: '20px', lineHeight: 1.5 }}>
-        Auf Basis deiner 7 Antworten zeigen wir dir, welche Methoden bei deinem Befund typischerweise infrage kommen — und Praxen in deiner Nähe.
+        Auf Basis deiner 8 Antworten haben wir dein persönliches Profil erstellt — Typ, Ausprägung und passende Methoden.
       </p>
 
       <div style={{ marginBottom: '14px' }}>
@@ -145,7 +152,7 @@ export default function Step9Capture({ initial, answers, onSubmitted }: Props) {
           style={{ accentColor: '#003399', flexShrink: 0, marginTop: '2px', width: '16px', height: '16px' }}
         />
         <span>
-          Ich willige ein, dass meine Quiz-Antworten zur Erstellung meines Plans verarbeitet werden. Wenn ich eine Praxis kontaktiere, dürfen meine Angaben an diese Praxis weitergegeben werden.
+          Ich willige ein, dass meine Quiz-Antworten zur Erstellung meines Profils verarbeitet werden. Wenn ich eine Praxis kontaktiere, dürfen meine Angaben an diese Praxis weitergegeben werden.
           {' '}<a href="/datenschutz" target="_blank" rel="noopener noreferrer" style={{ color: '#003399' }}>Datenschutz</a>. *
         </span>
       </label>
@@ -163,7 +170,7 @@ export default function Step9Capture({ initial, answers, onSubmitted }: Props) {
 
       {serverError && (
         <div role="alert" style={{ backgroundColor: '#FFF7E6', border: '1px solid #F5C97C', borderRadius: '4px', padding: '10px 14px', fontSize: '13px', color: '#8A5300', marginBottom: '12px' }}>
-          Speichern hat einen Moment nicht geklappt — wir bringen dich trotzdem zum Plan. Falls du die Mail nicht erhältst, melde dich bitte.
+          Speichern hat einen Moment nicht geklappt — wir bringen dich trotzdem zum Profil. Falls du die Mail nicht erhältst, melde dich bitte.
         </div>
       )}
 
@@ -178,11 +185,11 @@ export default function Step9Capture({ initial, answers, onSubmitted }: Props) {
       >
         {loading
           ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</>
-          : 'Plan ansehen + Praxen in der Nähe →'}
+          : 'Profil ansehen + Praxen in der Nähe →'}
       </button>
 
       <p style={{ fontSize: '12px', color: '#888', marginTop: '12px', textAlign: 'center' }}>
-        Du bekommst den Plan auch per Mail — praktisch, wenn du ihn dir später nochmal ansehen willst.
+        Du bekommst dein Profil auch per Mail — praktisch, wenn du es später nochmal ansehen willst.
       </p>
     </div>
   )
