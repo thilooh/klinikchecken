@@ -62,7 +62,9 @@ export default function Step10Result({ answers, lead, onReset }: Props) {
 
   return (
     <>
-      <div style={{ backgroundColor: '#fff', borderRadius: '8px', padding: '24px 20px', boxShadow: '0 1px 3px rgba(0,0,0,0.06)', marginBottom: '16px' }}>
+      {/* Plan card stays narrower than the parent container for
+          readability of the long-form recommendation text. */}
+      <div style={{ maxWidth: '640px', margin: '0 auto 24px', backgroundColor: '#fff', borderRadius: '8px', padding: '24px 20px', boxShadow: '0 1px 3px rgba(0,0,0,0.06)' }}>
         <h2 style={{ fontSize: '22px', fontWeight: 800, color: '#0A1F44', marginBottom: '14px', lineHeight: 1.2 }}>
           Dein persönlicher Beine-Plan, {lead.vorname || 'du'}
         </h2>
@@ -117,45 +119,50 @@ export default function Step10Result({ answers, lead, onReset }: Props) {
         </p>
       </div>
 
-      <div style={{ backgroundColor: '#fff', borderRadius: '8px', padding: '20px', boxShadow: '0 1px 3px rgba(0,0,0,0.06)', marginBottom: '16px' }}>
-        <h3 style={{ fontSize: '16px', fontWeight: 700, color: '#003399', marginBottom: '6px' }}>
+      {/* Praxen-Liste sits directly on the gray page background -
+          no white wrapper - so the homepage-style ClinicCards have
+          their own visual breathing room rather than being nested in
+          a box that crops them. Header + disclaimer float above and
+          below as section labels. */}
+      <div style={{ marginBottom: '12px', padding: '0 4px' }}>
+        <h3 style={{ fontSize: '16px', fontWeight: 700, color: '#003399', marginBottom: '4px' }}>
           📍 PRAXEN IN DEINER NÄHE {userCity ? `(${userCity})` : `(PLZ ${lead.plz})`}
         </h3>
-        <p style={{ fontSize: '12px', color: '#666', marginBottom: '14px' }}>
+        <p style={{ fontSize: '12px', color: '#666' }}>
           Sortiert nach Methoden-Übereinstimmung mit deinen Angaben und Entfernung.
         </p>
-
-        {sortedPraxen.length === 0 ? (
-          <p style={{ fontSize: '14px', color: '#666' }}>
-            Wir laden gleich passende Praxen für dich…
-          </p>
-        ) : (
-          <>
-            {visiblePraxen.map((p, i) => (
-              <PraxisCard
-                key={p.id}
-                praxis={p}
-                ctaColor={ctaColor}
-                onContact={setContactPraxis}
-                index={i}
-              />
-            ))}
-            {hasMore && (
-              <button
-                type="button"
-                onClick={() => setVisibleCount(c => c + 10)}
-                style={{ width: '100%', background: 'none', border: '1px solid #DDE3F5', color: '#003399', padding: '10px', borderRadius: '6px', cursor: 'pointer', fontWeight: 600, fontSize: '13px', marginTop: '6px' }}
-              >
-                Mehr anzeigen ({sortedPraxen.length - visibleCount} weitere)
-              </button>
-            )}
-          </>
-        )}
-
-        <p style={{ fontSize: '11px', color: '#888', marginTop: '14px', lineHeight: 1.5 }}>
-          ℹ️ Diese Übersicht ersetzt keine ärztliche Diagnose. Die Reihenfolge basiert auf Methoden-Übereinstimmung mit deinen Angaben, Entfernung und Premium-Mitgliedschaft der Praxen.
-        </p>
       </div>
+
+      {sortedPraxen.length === 0 ? (
+        <p style={{ fontSize: '14px', color: '#666', padding: '0 4px', marginBottom: '20px' }}>
+          Wir laden gleich passende Praxen für dich…
+        </p>
+      ) : (
+        <>
+          {visiblePraxen.map((p, i) => (
+            <PraxisCard
+              key={p.id}
+              praxis={p}
+              ctaColor={ctaColor}
+              onContact={setContactPraxis}
+              index={i}
+            />
+          ))}
+          {hasMore && (
+            <button
+              type="button"
+              onClick={() => setVisibleCount(c => c + 10)}
+              style={{ width: '100%', background: 'none', border: '1px solid #DDE3F5', color: '#003399', padding: '10px', borderRadius: '6px', cursor: 'pointer', fontWeight: 600, fontSize: '13px', marginTop: '6px', marginBottom: '8px' }}
+            >
+              Mehr anzeigen ({sortedPraxen.length - visibleCount} weitere)
+            </button>
+          )}
+        </>
+      )}
+
+      <p style={{ fontSize: '11px', color: '#888', marginTop: '8px', marginBottom: '20px', padding: '0 4px', lineHeight: 1.5 }}>
+        ℹ️ Diese Übersicht ersetzt keine ärztliche Diagnose. Die Reihenfolge basiert auf Methoden-Übereinstimmung mit deinen Angaben, Entfernung und Premium-Mitgliedschaft der Praxen.
+      </p>
 
       <div style={{ textAlign: 'center', marginBottom: '20px' }}>
         <button onClick={onReset} style={{ background: 'none', border: 'none', color: '#0052CC', cursor: 'pointer', display: 'inline-flex', alignItems: 'center', gap: '4px', fontSize: '13px' }}>

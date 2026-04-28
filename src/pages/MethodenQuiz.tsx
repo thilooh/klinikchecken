@@ -58,12 +58,19 @@ export default function MethodenQuiz() {
   }
 
   const showHeader = state.currentStep <= 7
+  // Step 10 needs more horizontal room for the homepage-style ClinicCard
+  // (logo + photo + content panels). 640 was tight, 820 matches the
+  // effective content width of the homepage results column (1200 minus
+  // sidebar), without a sidebar of our own.
+  const containerClass = state.currentStep === 10
+    ? 'max-w-[820px] mx-auto px-4'
+    : 'max-w-[640px] mx-auto px-4'
 
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       <Navbar />
       <main style={{ flex: 1, backgroundColor: '#F4F4F4', padding: '24px 0 48px' }}>
-        <div className="max-w-[640px] mx-auto px-4">
+        <div className={containerClass}>
           {showHeader && <QuizHeader step={state.currentStep} />}
 
           {state.currentStep === 1 && (
