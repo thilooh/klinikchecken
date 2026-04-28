@@ -20,7 +20,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
   const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
   const [form, setForm] = useState({
     firstName: '', lastName: '', email: '', phone: '',
-    method: '', description: '', privacy: false,
+    method: 'Beratung gewünscht', description: '', privacy: false,
   })
   const [submitted, setSubmitted] = useState(false)
   const [loading, setLoading] = useState(false)
@@ -181,7 +181,7 @@ export default function MultiInquiryModal({ clinics, onClose, onClearSelection, 
               <div style={{ marginBottom: '12px' }}>
                 <label style={{ display: 'block', fontSize: '12px', color: '#333', fontWeight: 700, marginBottom: '4px' }}>Welche Methode interessiert dich?</label>
                 <select value={form.method} onChange={e => setForm({ ...form, method: e.target.value })} style={{ ...field, backgroundColor: '#fff' }}>
-                  <option value="">Bin mir noch nicht sicher - die Praxen empfehlen mir die passende Methode</option>
+                  <option value="Beratung gewünscht">Bin mir noch nicht sicher – die Praxen empfehlen mir die passende Methode</option>
                   {Array.from(new Set(clinics.flatMap(c => c.methods))).map(m => (
                     <option key={m} value={m}>{m}</option>
                   ))}

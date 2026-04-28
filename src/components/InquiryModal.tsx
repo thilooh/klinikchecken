@@ -19,7 +19,7 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
   const [step, setStep] = useState<1 | 2>(1)
   const [form, setForm] = useState({
     firstName: '', lastName: '', email: '', phone: '',
-    method: '', description: '', privacy: false,
+    method: 'Beratung gewünscht', description: '', privacy: false,
   })
   const [submitted, setSubmitted] = useState(false)
   const [loading, setLoading] = useState(false)
@@ -152,11 +152,10 @@ export default function InquiryModal({ clinic, onClose, ctaColor = '#FF6600', ct
               </div>
 
               <div style={{ marginBottom: '16px' }}>
-                <label style={{ display: 'block', fontSize: '13px', color: '#333', fontWeight: 700, marginBottom: '6px' }}>Welche Methode interessiert dich? *</label>
+                <label style={{ display: 'block', fontSize: '13px', color: '#333', fontWeight: 700, marginBottom: '6px' }}>Welche Methode interessiert dich?</label>
                 <select value={form.method} onChange={e => setForm({ ...form, method: e.target.value })} style={{ ...field, backgroundColor: '#fff' }}>
-                  <option value="">Bitte auswählen</option>
+                  <option value="Beratung gewünscht">Bin mir noch nicht sicher – Praxis empfiehlt</option>
                   {clinic.methods.map(m => <option key={m} value={m}>{m}</option>)}
-                  <option value="Beratung gewünscht">Bin mir noch nicht sicher - Praxis empfiehlt</option>
                 </select>
               </div>
 
