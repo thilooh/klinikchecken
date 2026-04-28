@@ -10,7 +10,7 @@ import { clinicIdFromSlug, citySlug } from '../lib/slug'
 import { useSeo, SITE_URL } from '../lib/seo'
 import { sendEvent } from '../lib/gtm'
 import { generateEventId, sendCapi } from '../lib/capi'
-import { getCTAVariant } from '../lib/ctaVariant'
+import { getCTAVariant, getCTAColor } from '../lib/ctaVariant'
 import type { Clinic } from '../types/clinic'
 
 export default function ClinicPage() {
@@ -61,6 +61,8 @@ export default function ClinicPage() {
 
   const [showInquiry, setShowInquiry] = useState(false)
   const [showReviews, setShowReviews] = useState(false)
+  const [ctaVariant] = useState(() => getCTAVariant())
+  const ctaColor = getCTAColor(ctaVariant)
 
   // Direct landing on /praxis/:slug should fire ViewContent for SEO
   // attribution - same event the home-page card opens fire from
@@ -104,7 +106,7 @@ export default function ClinicPage() {
 
   const onInquire = (c: Clinic) => {
     const eventId = generateEventId()
-    const data = { content_name: c.name, content_category: c.city, item_name: c.name, item_category: c.city, value: 1, currency: 'EUR', cta_variant: getCTAVariant() }
+    const data = { content_name: c.name, content_category: c.city, item_name: c.name, item_category: c.city, value: 1, currency: 'EUR', cta_variant: ctaVariant }
     sendEvent('InitiateCheckout', data, undefined, eventId)
     sendCapi('InitiateCheckout', eventId, data)
     setShowInquiry(true)
@@ -168,7 +170,7 @@ export default function ClinicPage() {
                 )}
 
                 <button onClick={() => onInquire(clinic)} style={{
-                  backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '16px',
+                  backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '16px',
                   border: 'none', borderRadius: '6px', padding: '13px 28px', cursor: 'pointer',
                 }}>
                   Kostenlos anfragen
@@ -239,7 +241,7 @@ export default function ClinicPage() {
             <h2 style={{ fontSize: '20px', marginBottom: '8px' }}>Direkt mit {clinic.name} Kontakt aufnehmen</h2>
             <p style={{ fontSize: '14px', opacity: 0.85, marginBottom: '16px' }}>Beschreib kurz dein Anliegen - die Praxis meldet sich für die Terminabsprache.</p>
             <button onClick={() => onInquire(clinic)} style={{
-              backgroundColor: '#FF6600', color: '#fff', fontWeight: 700, fontSize: '16px',
+              backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '16px',
               border: 'none', borderRadius: '6px', padding: '13px 32px', cursor: 'pointer',
             }}>
               Kostenlos anfragen →
@@ -254,7 +256,7 @@ export default function ClinicPage() {
       </main>
       <Footer />
 
-      <InquiryModal clinic={showInquiry ? clinic : null} onClose={() => setShowInquiry(false)} />
+      <InquiryModal clinic={showInquiry ? clinic : null} onClose={() => setShowInquiry(false)} ctaColor={ctaColor} ctaVariant={ctaVariant} />
       {showReviews && (
         <Suspense fallback={null}>
           <GoogleReviewsModal clinic={clinic} onClose={() => setShowReviews(false)} />
