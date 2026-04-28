@@ -209,8 +209,8 @@ export default function App() {
               }}>
                 <span style={{ fontSize: '20px', flexShrink: 0 }}>🎯</span>
                 <div style={{ flex: 1, minWidth: 0 }}>
-                  <div style={{ fontSize: '13px', fontWeight: 700, color: '#0A1F44' }}>Unsicher welche Methode?</div>
-                  <div style={{ fontSize: '12px', color: '#555' }}>3-Fragen-Check zeigt dir Verödung, Laser oder IPL.</div>
+                  <div style={{ fontSize: '13px', fontWeight: 700, color: '#0A1F44' }}>Welcher Besenreiser-Typ bist du?</div>
+                  <div style={{ fontSize: '12px', color: '#555' }}>60-Sekunden-Check zeigt dir Methode und Praxis-Match.</div>
                 </div>
                 <span style={{ fontSize: '13px', fontWeight: 700, color: '#003399', whiteSpace: 'nowrap' }}>Quiz starten →</span>
               </a>
