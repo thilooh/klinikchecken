@@ -72,35 +72,49 @@ export default function AboutPage() {
             Wir haben besenreiser-check.de gegründet, damit Frauen diesen Glücksfaktor aus der Entscheidung nehmen können.
           </p>
 
-          {/* What we do */}
+          {/* What we do - honest description */}
           <h2 style={h2}>Was wir konkret tun</h2>
           <p style={p}>
-            Wir prüfen Praxen - Phlebologen, Dermatologen, Venenzentren - auf ihre Eignung für Besenreiser-Behandlungen. Nur wer unsere Prüfung besteht, wird auf besenreiser-check.de gelistet. Aktuell sind das 229 Praxen in 72 Städten. Geprüft haben wir mehr als doppelt so viele.
+            besenreiser-check.de ist eine kuratierte Übersicht von Phlebologie-, Dermatologie- und Venenpraxen in Deutschland, die Besenreiser behandeln. Wir aggregieren öffentlich verfügbare Daten - Adressen, Behandlungsmethoden, Google-Bewertungen, Öffnungszeiten - und ergänzen sie um manuell recherchierte Informationen zum Behandlungs-Schwerpunkt der Praxis.
+          </p>
+          <p style={p}>
+            Aktuell sind 227 Praxen in über 70 deutschen Städten gelistet. Bewertungen werden automatisch von Google synchronisiert; andere Felder pflegen wir manuell.
           </p>
 
           <div style={{ backgroundColor: '#F7F9FF', border: '1px solid #D8E3FF', borderRadius: '6px', padding: '20px 24px', marginBottom: '24px' }}>
-            <p style={{ fontSize: '14px', fontWeight: 700, color: '#0A1F44', marginBottom: '16px' }}>Was wir prüfen:</p>
+            <p style={{ fontSize: '14px', fontWeight: 700, color: '#0A1F44', marginBottom: '16px' }}>Welche Kriterien wir bei der Auswahl ansetzen:</p>
             <ul style={{ margin: 0, padding: 0 }}>
-              <CriterionRow title="Facharzt-Qualifikation">
-                Phlebologie, Dermatologie oder Gefäßchirurgie? Wir verifizieren das über den Eintrag bei der zuständigen Ärztekammer. Wir listen nur Praxen mit fachärztlicher Leitung in einem dieser Bereiche.
+              <CriterionRow title="Fachärztlicher Hintergrund">
+                Wir listen Praxen mit fachärztlichem Hintergrund in Phlebologie, Dermatologie oder Gefäßchirurgie - sofern dieser über das öffentliche Praxis-Profil oder die zuständige Ärztekammer einsehbar ist.
               </CriterionRow>
-              <CriterionRow title="Behandlungs-Schwerpunkt">
-                Eine Praxis, die im Jahr 30 Besenreiser-Behandlungen macht, ist etwas anderes als eine, die 1.500 macht. Wir bevorzugen Spezialisten.
+              <CriterionRow title="Behandlungs-Spektrum">
+                Die Praxis bietet die Behandlung von Besenreisern als Teil des Leistungsspektrums an und kommuniziert die verwendeten Methoden (Sklerosierung, Laser, IPL) öffentlich.
               </CriterionRow>
-              <CriterionRow title="Bewertungs-Lage">
-                Mindestens 4,5 Sterne aus 50+ verifizierten Google-Bewertungen. Praxen mit gemischtem Ruf werden weiter geprüft, oft direkt mit Patientinnen-Gesprächen.
-              </CriterionRow>
-              <CriterionRow title="Methoden-Transparenz">
-                Welche Verfahren bietet die Praxis an? Sklerosierung? Laser? Kombination? Praxen, die das nicht offen kommunizieren, listen wir nicht.
+              <CriterionRow title="Patientenstimmen">
+                Die Praxis hat öffentlich einsehbare Google-Bewertungen mit substanzieller Anzahl an Stimmen. Bewertungs-Score und -Anzahl beeinflussen die Standard-Sortierung.
               </CriterionRow>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '12px', listStyle: 'none' }}>
                 <span style={{ color: '#003399', fontWeight: 700, flexShrink: 0, marginTop: '1px', fontSize: '15px' }}>◆</span>
                 <span style={{ fontSize: '15px', color: '#333', lineHeight: 1.7 }}>
-                  <strong style={{ color: '#0A1F44' }}>Preis-Klarheit</strong> - Wer auf Anfrage "kommt drauf an" sagt, fliegt. Eine Spanne muss kommunizierbar sein.
+                  <strong style={{ color: '#0A1F44' }}>Praxis-Erreichbarkeit</strong> - vollständige öffentliche Kontaktdaten (Adresse, Telefon, gepflegte Webseite oder Google-Eintrag).
                 </span>
               </li>
             </ul>
+            <p style={{ fontSize: '13px', color: '#666', lineHeight: 1.6, marginTop: '16px', marginBottom: 0 }}>
+              Eine medizinische Eignungs-Beurteilung deines individuellen Befunds können wir nicht leisten und ersetzen wir nicht - dafür ist das Erstgespräch in der Praxis da.
+            </p>
           </div>
+
+          {/* Sortierung */}
+          <h2 style={h2}>Wie die Reihenfolge zustande kommt</h2>
+          <p style={p}>
+            Sortiert wird nach drei Kriterien:
+          </p>
+          <ul style={{ margin: 0, padding: 0, marginBottom: '16px' }}>
+            <CheckItem><strong>Methoden-Übereinstimmung</strong> mit deiner Auswahl - filterst du nach Sklerosierung, kommen Sklerosierungs-Praxen zuerst.</CheckItem>
+            <CheckItem><strong>Patientenstimmen</strong> - kombiniert aus Bewertungs-Score und Anzahl der Bewertungen, damit Praxen mit wenigen, sehr guten Bewertungen nicht künstlich vor Praxen mit vielen guten landen.</CheckItem>
+            <CheckItem><strong>Entfernung zu deinem Standort</strong>, sofern bekannt (über deine PLZ-Eingabe oder den ungefähren Standort aus dem Browser).</CheckItem>
+          </ul>
 
           {/* Cost */}
           <h2 style={h2}>Die wichtigste Frage zuerst: Was kostet dich das?</h2>
@@ -111,48 +125,37 @@ export default function AboutPage() {
             Du zahlst auf besenreiser-check.de keinen Cent - und die Behandlung in der Praxis kostet dich genauso viel, als hättest du dich direkt an die Klinik gewandt. Es gibt keinen Aufschlag, keine versteckte Gebühr, keine Vermittlungs-Pauschale auf deiner Rechnung.
           </p>
 
-          {/* Business model */}
-          <h2 style={h2}>Wie wir uns finanzieren - ohne Schönfärberei</h2>
+          {/* Business model - corrected to match the actual listing-fee model */}
+          <h2 style={h2}>Wie wir uns finanzieren</h2>
           <p style={p}>
-            Wir bekommen von der Praxis eine Provision, wenn wir ihr eine Patientinnen-Anfrage vermitteln. Das ist das gleiche Modell, mit dem Plattformen wie Check24 oder Verivox arbeiten - und es ist der Grund, warum unsere Nutzung für dich kostenlos ist.
+            Praxen können sich für eine monatliche Gebühr als <strong>Premium-Partner</strong> eintragen lassen. Premium-Listings sind in der Übersicht mit dem Hinweis "Anzeige" gekennzeichnet und werden in der Reihenfolge bevorzugt - allerdings nicht <em>vor</em> einer Praxis, deren Methoden besser zu deinen Quiz-Antworten passen.
           </p>
           <p style={p}>
-            Wir verstehen, dass das eine Frage aufwirft: "Wenn ihr Geld bekommt, sobald ich anfrage - habt ihr dann nicht ein Interesse daran, mich zur Anfrage zu drängen, egal ob die Praxis gut zu mir passt?"
+            Eine Provision pro Anfrage oder pro Behandlung gibt es nicht. Das wäre nach § 31 der Musterberufsordnung für Ärzte (MBO-Ä) auch nicht zulässig. Wir verdienen ausschließlich an der monatlichen Listing-Gebühr - unabhängig davon, wie viele Anfragen über uns bei der jeweiligen Praxis ankommen.
           </p>
-          <p style={p}>Das ist eine berechtigte Frage. Hier ist, wie wir damit umgehen:</p>
 
           <div style={{ borderLeft: '3px solid #003399', paddingLeft: '20px', marginBottom: '24px' }}>
-            <p style={p}>
-              <strong>Wir verdienen nicht an einzelnen Anfragen - wir verdienen an Vertrauen über die Zeit.</strong> Eine Patientin, die schlecht beraten wird, kommt nicht wieder. Eine Patientin, die schlecht beraten wird, hinterlässt eine schlechte Bewertung. Eine Patientin, die schlecht beraten wird, erzählt es ihrer besten Freundin. Unser Geschäftsmodell funktioniert nur dann langfristig, wenn die Praxen, an die wir vermitteln, gute Arbeit machen - sonst zerbricht die Plattform an sich selbst.
-            </p>
-            <p style={p}>
-              Das gleiche gilt für die Praxen. Eine Praxis, die unzufriedene Patientinnen produziert, bekommt keine Folge-Anfragen mehr - weder von uns, noch von Mundpropaganda. In einem Provisionsmodell ist das ihr eigenes Problem. Praxen, die mit uns zusammenarbeiten, wissen das. Sie haben ein wirtschaftliches Eigeninteresse daran, dass du als Patientin gut behandelt wirst und zufrieden bist. Das Modell setzt für beide Seiten die richtigen Anreize.
-            </p>
             <p style={{ ...p, marginBottom: 0 }}>
-              <strong>Wir prüfen mehr Praxen, als wir aufnehmen.</strong> Eine Aufnahme erfolgt nur bei vollständiger Erfüllung unserer Kriterien (Facharzt-Qualifikation, dokumentierter Behandlungs-Schwerpunkt, transparente Patientenstimmen). Eine Praxis, die zahlen würde aber unsere Kriterien nicht erfüllt, bringt uns kurzfristig Geld - und langfristig würde sie das Vertrauen der Patientinnen kosten. Diese Rechnung machen wir.
+              <strong>Was Premium-Mitgliedschaft NICHT beeinflusst:</strong> die <em>Aufnahme</em> einer Praxis in unsere Übersicht. Wir listen auch Praxen ohne Premium-Vertrag, sofern unsere Auswahl-Kriterien erfüllt sind. Eine Praxis kann sich also nicht "ein Listing kaufen", wenn sie unsere Kriterien nicht erfüllt - und Premium hebt sie nicht über fachlich besser passende Mitbewerber. Premium beeinflusst die Sichtbarkeit (Reihenfolge + Markierung), nicht die Aufnahme.
             </p>
           </div>
-
-          <p style={p}>
-            <strong>Die Reihenfolge der Praxen lässt sich nicht kaufen.</strong> Sortiert wird ausschließlich nach fachlichen Kriterien: Facharzt-Qualifikation, dokumentiertem Behandlungs-Schwerpunkt, Patientinnen-Bewertungen und Entfernung zu deinem Standort. Angebote für eine Vorzugs-Platzierung gegen Bezahlung werden abgelehnt.
-          </p>
 
           {/* What you take away */}
           <h2 style={h2}>Was du daraus konkret mitnehmen kannst</h2>
           <ul style={{ margin: 0, padding: 0, marginBottom: '16px' }}>
-            <CheckItem>Du zahlst nichts - die Provision wird zwischen uns und der Praxis verrechnet, nicht über deinen Behandlungspreis.</CheckItem>
-            <CheckItem>Wir empfehlen dir nicht die Praxis, die uns am meisten zahlt - wir empfehlen dir die, die zu dir passt.</CheckItem>
-            <CheckItem>Sowohl wir als auch die Praxen verdienen nur dann nachhaltig, wenn du am Ende zufrieden bist. Das ist kein moralischer Anspruch - es ist die wirtschaftliche Logik unseres Modells.</CheckItem>
-            <CheckItem>Wenn deine Erfahrung mit einer Praxis schlecht ist, schadet das uns mehr als der Praxis. Schreib uns also gerne - wir hören wirklich zu.</CheckItem>
+            <CheckItem>Du zahlst nichts - und die Behandlungs-Rechnung der Praxis enthält keinen Aufschlag durch uns.</CheckItem>
+            <CheckItem>Mit "Anzeige" markierte Praxen sind zahlende Premium-Partner. Die Auswahl der gezeigten Praxen ist davon unabhängig.</CheckItem>
+            <CheckItem>Die Reihenfolge richtet sich primär nach Methoden-Match und Patientenstimmen, nicht nach Tier.</CheckItem>
+            <CheckItem>Wir treffen keine medizinische Diagnose - nur eine Ärztin oder ein Arzt kann das im Erstgespräch.</CheckItem>
           </ul>
 
           {/* vs competitors */}
           <h2 style={h2}>Was uns von Jameda oder Doctolib unterscheidet</h2>
           <p style={p}>
-            Jameda und Doctolib sind exzellente allgemeine Arzt-Plattformen - aber sie machen keine Vorauswahl auf Indikation. Bei Jameda findest du jeden Dermatologen deiner Stadt, ob er Besenreiser jeden Tag behandelt oder einmal im Quartal. Wir trennen vor.
+            Jameda und Doctolib sind allgemeine Arzt-Plattformen - bei Jameda findest du jeden Dermatologen deiner Stadt, ob er Besenreiser jeden Tag behandelt oder einmal im Quartal. Wir sind ein <strong>indikationsspezifischer Vergleich</strong>: wir listen ausschließlich Praxen, die Besenreiser-Behandlung als dokumentiertes Leistungs-Angebot führen.
           </p>
           <p style={p}>
-            Wir sind keine Buchungs-Software. Wir sind ein Kuratoren-Service. Der Unterschied: Bei einer Buchungs-Software bist du im Vorteil, wenn du bereits weißt, zu welcher Praxis du willst. Bei einem Kuratoren-Service bist du im Vorteil, wenn du wissen willst, welche Praxis zu dir passen könnte.
+            Wir sind keine Buchungs-Software. Wir sind eine kuratierte Auswahl + ein 60-Sekunden-Quiz, das dich von "irgendeine Praxis suchen" zu "die richtige Praxis kontaktieren" bringt.
           </p>
 
           {/* Team */}
@@ -163,7 +166,7 @@ export default function AboutPage() {
             </p>
           </div>
           <p style={p}>
-            Wir sind keine Großfirma. Wir sind ein kleines Team, das ursprünglich aus persönlicher Frustration mit der Suche nach guten Spezialisten heraus entstanden ist. Eine von uns hat selbst zwei Praxen besucht, bevor sie die Behandlung bekam, die sie wollte - und dachte: "Das muss leichter gehen." Genau hier liegt die Idee.
+            Wir sind keine Großfirma. Wir sind ein kleines Team, das ursprünglich aus persönlicher Frustration mit der Suche nach guten Spezialistinnen heraus entstanden ist. Eine von uns hat selbst zwei Praxen besucht, bevor sie die Behandlung bekam, die sie wollte - und dachte: "Das muss leichter gehen."
           </p>
 
           {/* No requirements */}
@@ -181,17 +184,14 @@ export default function AboutPage() {
             Deine Anfragedaten gehen ausschließlich an die Praxis, die du angefragt hast. Nicht an Versicherer. Nicht an Werbenetzwerke. Nicht an andere Plattformen. Nicht an dritte Anbieter.
           </p>
           <p style={p}>
-            Wenn du parallele Anfragen an mehrere Praxen stellst (das geht, ein Klick), gehen die Daten an genau diese Praxen - und sonst nirgendwohin. Mehr Details findest du in unserer{' '}
+            Wenn du parallele Anfragen an mehrere Praxen stellst, gehen die Daten an genau diese Praxen - und sonst nirgendwohin. Mehr Details findest du in unserer{' '}
             <a href="/datenschutz" style={{ color: '#003399', fontWeight: 600 }}>Datenschutzerklärung</a>.
           </p>
 
           {/* Feedback */}
           <h2 style={h2}>Wenn etwas nicht stimmt</h2>
           <p style={p}>
-            Sollte deine Erfahrung mit einer von uns gelisteten Praxis nicht den Standards entsprechen, die wir versprechen - schreib uns. Wir prüfen jede Rückmeldung. Wenn sich Schwächen zeigen, sprechen wir mit der Praxis. Wenn sich Muster zeigen, fliegen Praxen aus der Plattform.
-          </p>
-          <p style={{ ...p, fontWeight: 600, color: '#0A1F44' }}>
-            Eine Plattform, die nie eine Praxis entfernt, ist eine Plattform, die nicht prüft. Wir prüfen.
+            Sollte deine Erfahrung mit einer von uns gelisteten Praxis nicht den Standards entsprechen, die wir kommunizieren - schreib uns. Wir gehen jeder Rückmeldung nach. Bei wiederholter negativer Resonanz wird eine Praxis aus der Übersicht genommen.
           </p>
 
           {/* CTA */}

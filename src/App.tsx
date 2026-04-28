@@ -39,7 +39,7 @@ const defaultFilters: FilterState = {
     kassenpatient: false,
     ratenzahlung: false,
     parking: false,
-    certified: true,
+    certified: false,
   },
   sortBy: 'rating',
   searchCity: '',          // No city by default; cascade in App.tsx fills it.

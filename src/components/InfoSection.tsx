@@ -11,7 +11,7 @@ export default function InfoSection() {
             </h3>
             {[
               { num: 1, title: 'Suchen', text: 'Geben Sie Ihren Ort und Ihre gewünschte Behandlung ein.' },
-              { num: 2, title: 'Vergleichen', text: 'Vergleichen Sie Preise, Methoden und Bewertungen geprüfter Kliniken.' },
+              { num: 2, title: 'Vergleichen', text: 'Vergleichen Sie Preise, Methoden und Bewertungen spezialisierter Kliniken.' },
               { num: 3, title: 'Anfragen', text: 'Senden Sie eine kostenlose Anfrage direkt an Ihre Wunschklinik.' },
             ].map(step => (
               <div key={step.num} style={{ display: 'flex', gap: '12px', marginBottom: '14px', alignItems: 'flex-start' }}>

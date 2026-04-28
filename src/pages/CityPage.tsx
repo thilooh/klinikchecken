@@ -33,10 +33,10 @@ export default function CityPage() {
 
   useSeo({
     title: city
-      ? `Besenreiser entfernen ${city} – ${cityClinics.length} geprüfte Praxen 2026 | Besenreiser-Check.de`
+      ? `Besenreiser entfernen ${city} – ${cityClinics.length} Praxen 2026 | Besenreiser-Check.de`
       : 'Stadt nicht gefunden | Besenreiser-Check.de',
     description: city
-      ? `${cityClinics.length} geprüfte Phlebologen, Dermatologen und Venenzentren in ${city}. Echte Patientenbewertungen, Methodenvergleich, kostenlose Anfrage.`
+      ? `${cityClinics.length} Phlebologen, Dermatologen und Venenzentren in ${city}. Echte Patientenbewertungen, Methodenvergleich, kostenlose Anfrage.`
       : undefined,
     canonical: city ? `${SITE_URL}/besenreiser/${citySlug(city)}` : undefined,
     ogType: 'website',
@@ -106,7 +106,7 @@ export default function CityPage() {
             Besenreiser entfernen in {city}
           </h1>
           <p style={{ fontSize: '15px', color: '#555', marginBottom: '24px', lineHeight: 1.6 }}>
-            {cityClinics.length} geprüfte Phlebologen, Dermatologen und Venenzentren in {city} -
+            {cityClinics.length} Phlebologen, Dermatologen und Venenzentren in {city} -
             sortiert nach Patientenbewertungen und Behandlungsvolumen.
           </p>
 

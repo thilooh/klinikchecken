@@ -12,8 +12,8 @@ type SeoOptions = {
   jsonLd?: Record<string, unknown> | Record<string, unknown>[]
 }
 
-const DEFAULT_TITLE = 'Besenreiser-Check.de – Geprüfte Besenreiser-Praxen in deiner Stadt'
-const DEFAULT_DESC = '227 geprüfte Phlebologen, Dermatologen und Venenzentren. Echte Bewertungen, transparente Preise. Kostenlos anfragen – schnelle Antwort.'
+const DEFAULT_TITLE = 'Besenreiser-Check.de – Spezialisierte Besenreiser-Praxen in deiner Stadt'
+const DEFAULT_DESC = '227 Phlebologen, Dermatologen und Venenzentren. Echte Bewertungen, transparente Preise. Kostenlos anfragen – schnelle Antwort.'
 
 function setMeta(selector: string, attr: 'name' | 'property', key: string, content: string) {
   let el = document.head.querySelector<HTMLMetaElement>(selector)

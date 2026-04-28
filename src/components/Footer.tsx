@@ -16,7 +16,7 @@ export default function Footer() {
       links: [
         { label: 'Über uns', href: '/ueber-uns' },
         { label: 'Ratgeber', href: '/ratgeber' },
-        { label: 'Methode-Check', href: '/methoden-quiz' },
+        { label: 'Methoden-Check', href: '/methoden-quiz' },
       ],
     },
     {

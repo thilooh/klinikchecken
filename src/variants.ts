@@ -18,7 +18,7 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
   a: {
     hero: {
       headline: 'Endlich wieder Bein zeigen. Mit der richtigen Praxis.',
-      subheadline: 'Geprüfte Phlebologen, Dermatologen und Venenzentren - sortiert nach Facharzt-Qualifikation und Patientenstimmen.',
+      subheadline: 'Phlebologen, Dermatologen und Venenzentren - sortiert nach Facharzt-Qualifikation und Patientenstimmen.',
     },
     card: {
       subline: c => c.headline,
@@ -27,8 +27,8 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
   },
   b: {
     hero: {
-      headline: 'Besenreiser weg - für immer. Geprüfte Spezialisten in deiner Stadt.',
-      subheadline: 'Nur Praxen mit nachgewiesener Fachexpertise und echten Patientenstimmen.',
+      headline: 'Spezialisierte Besenreiser-Praxen in deiner Stadt.',
+      subheadline: 'Sortiert nach Facharzt-Qualifikation und echten Patientenstimmen.',
     },
     card: {
       subline: c =>
@@ -40,8 +40,8 @@ export const VARIANTS: Record<VariantKey, VariantConfig> = {
   },
   c: {
     hero: {
-      headline: 'Geprüfte Besenreiser-Praxen. Transparent. Fachärztlich qualifiziert.',
-      subheadline: 'Transparente Bewertungen, echte Facharzt-Qualifikation, klare Preise.',
+      headline: 'Spezialisierte Besenreiser-Praxen. Transparent. Fachärztlich.',
+      subheadline: 'Transparente Bewertungen, Facharzt-Qualifikation, klare Preise.',
     },
     card: {
       subline: c => c.usp[0] ?? c.headline,

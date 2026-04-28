@@ -46,7 +46,7 @@ export default function Sidebar({ filters, setFilters }: Props) {
       selectedMethods: [],
       minRating: 0,
       maxDistance: 999,
-      extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: true },
+      extras: { freeConsultation: false, onlineBooking: false, evening: false, kassenpatient: false, ratenzahlung: false, parking: false, certified: false },
     })
   }
 
@@ -160,10 +160,12 @@ export default function Sidebar({ filters, setFilters }: Props) {
           <input type="checkbox" style={{ accentColor: '#003399' }} />
           Phlebologe
         </label>
-        <label style={S.label}>
-          <input type="checkbox" checked={filters.extras.certified} onChange={() => toggleExtra('certified')} style={{ accentColor: '#003399', cursor: 'pointer' }} />
-          Geprüft
-        </label>
+        {/* "Geprüft"-Filter entfernt: alle 227 Klinik-Einträge waren
+            certified=true, der Checkbox filterte also nichts und war
+            UWG-grenzwertig (Behauptung einer Prüfung ohne dokumentierte
+            Kriterien). Die Filterlogik in useFilteredClinics greift den
+            Wert weiterhin auf - bleibt funktionsfähig falls ein echter
+            Zertifizierungsfilter später wieder rein soll. */}
       </div>
     </aside>
   )

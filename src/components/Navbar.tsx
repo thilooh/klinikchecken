@@ -9,7 +9,7 @@ export default function Navbar() {
 
   const navLinks = [
     { label: 'Praxen finden', to: '/' },
-    { label: 'Methode-Check', to: '/methoden-quiz' },
+    { label: 'Methoden-Check', to: '/methoden-quiz' },
     { label: 'Ratgeber', to: '/ratgeber' },
     { label: 'Über uns', to: '/ueber-uns' },
   ]

@@ -8422,7 +8422,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Halle (Saale)", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Halle (Saale)',
+    headline: 'Besenreiser-Spezialist in Halle (Saale)',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Halle (Saale)',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -8474,7 +8474,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Halle (Saale)", "IPL-Behandlung"],
-    headline: 'Geprüfte Besenreiser-Praxis in Halle (Saale)',
+    headline: 'Besenreiser-Spezialist in Halle (Saale)',
     usp: [
       '5.0 Sterne (84 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Halle (Saale)',
@@ -8526,7 +8526,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Halle (Saale)", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Halle (Saale)',
+    headline: 'Besenreiser-Spezialist in Halle (Saale)',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Halle (Saale)',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -8578,7 +8578,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Mönchengladbach", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Mönchengladbach',
+    headline: 'Besenreiser-Spezialist in Mönchengladbach',
     usp: [
       '4.9 Sterne (79 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mönchengladbach',
@@ -8630,7 +8630,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Mönchengladbach", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Mönchengladbach',
+    headline: 'Besenreiser-Spezialist in Mönchengladbach',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mönchengladbach',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -8687,7 +8687,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Mönchengladbach", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Mönchengladbach',
+    headline: 'Besenreiser-Spezialist in Mönchengladbach',
     usp: [
       '4.8 Sterne (99 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Mönchengladbach',
@@ -8739,7 +8739,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Gelsenkirchen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gelsenkirchen',
+    headline: 'Besenreiser-Spezialist in Gelsenkirchen',
     usp: [
       '4.5 Sterne bei 164 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gelsenkirchen',
@@ -8791,7 +8791,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Gelsenkirchen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gelsenkirchen',
+    headline: 'Besenreiser-Spezialist in Gelsenkirchen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gelsenkirchen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -8843,7 +8843,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Gelsenkirchen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gelsenkirchen',
+    headline: 'Besenreiser-Spezialist in Gelsenkirchen',
     usp: [
       '4.5 Sterne bei 345 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gelsenkirchen',
@@ -8895,7 +8895,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Krefeld", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Krefeld',
+    headline: 'Besenreiser-Spezialist in Krefeld',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Krefeld',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -8947,7 +8947,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: true,
     tags: ["Krefeld", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Krefeld',
+    headline: 'Besenreiser-Spezialist in Krefeld',
     usp: [
       '5.0 Sterne bei 201 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Krefeld',
@@ -8999,7 +8999,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Krefeld", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Krefeld',
+    headline: 'Besenreiser-Spezialist in Krefeld',
     usp: [
       '4.9 Sterne (72 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Krefeld',
@@ -9051,7 +9051,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Oberhausen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Oberhausen',
+    headline: 'Besenreiser-Spezialist in Oberhausen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oberhausen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9103,7 +9103,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Oberhausen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Oberhausen',
+    headline: 'Besenreiser-Spezialist in Oberhausen',
     usp: [
       '4.7 Sterne (55 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oberhausen',
@@ -9155,7 +9155,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: true,
     tags: ["Oberhausen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Oberhausen',
+    headline: 'Besenreiser-Spezialist in Oberhausen',
     usp: [
       '4.8 Sterne bei 129 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oberhausen',
@@ -9212,7 +9212,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Hagen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hagen',
+    headline: 'Besenreiser-Spezialist in Hagen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hagen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9264,7 +9264,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Hagen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hagen',
+    headline: 'Besenreiser-Spezialist in Hagen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hagen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9316,7 +9316,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Hagen", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hagen',
+    headline: 'Besenreiser-Spezialist in Hagen',
     usp: [
       '4.1 Sterne (370 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hagen',
@@ -9368,7 +9368,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Hamm", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hamm',
+    headline: 'Besenreiser-Spezialist in Hamm',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hamm',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9420,7 +9420,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Hamm", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hamm',
+    headline: 'Besenreiser-Spezialist in Hamm',
     usp: [
       '4.6 Sterne bei 120 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hamm',
@@ -9477,7 +9477,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Hamm", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hamm',
+    headline: 'Besenreiser-Spezialist in Hamm',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hamm',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9529,7 +9529,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Ludwigshafen am Rhein", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Ludwigshafen am Rhein',
+    headline: 'Besenreiser-Spezialist in Ludwigshafen am Rhein',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ludwigshafen am Rhein',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9586,7 +9586,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Ludwigshafen am Rhein", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Ludwigshafen am Rhein',
+    headline: 'Besenreiser-Spezialist in Ludwigshafen am Rhein',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ludwigshafen am Rhein',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9643,7 +9643,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Ludwigshafen am Rhein", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Ludwigshafen am Rhein',
+    headline: 'Besenreiser-Spezialist in Ludwigshafen am Rhein',
     usp: [
       '4.9 Sterne (52 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ludwigshafen am Rhein',
@@ -9700,7 +9700,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Oldenburg", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Oldenburg',
+    headline: 'Besenreiser-Spezialist in Oldenburg',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oldenburg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9757,7 +9757,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Oldenburg", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Oldenburg',
+    headline: 'Besenreiser-Spezialist in Oldenburg',
     usp: [
       '5.0 Sterne (81 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oldenburg',
@@ -9814,7 +9814,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Oldenburg", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Oldenburg',
+    headline: 'Besenreiser-Spezialist in Oldenburg',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Oldenburg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9866,7 +9866,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Osnabrück", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Osnabrück',
+    headline: 'Besenreiser-Spezialist in Osnabrück',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Osnabrück',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -9923,7 +9923,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Osnabrück", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Osnabrück',
+    headline: 'Besenreiser-Spezialist in Osnabrück',
     usp: [
       '4.5 Sterne (72 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Osnabrück',
@@ -9975,7 +9975,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Osnabrück", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Osnabrück',
+    headline: 'Besenreiser-Spezialist in Osnabrück',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Osnabrück',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10032,7 +10032,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Leverkusen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Leverkusen',
+    headline: 'Besenreiser-Spezialist in Leverkusen',
     usp: [
       '4.4 Sterne (219 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Leverkusen',
@@ -10084,7 +10084,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Leverkusen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Leverkusen',
+    headline: 'Besenreiser-Spezialist in Leverkusen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Leverkusen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10136,7 +10136,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Leverkusen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Leverkusen',
+    headline: 'Besenreiser-Spezialist in Leverkusen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Leverkusen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10188,7 +10188,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Solingen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Solingen',
+    headline: 'Besenreiser-Spezialist in Solingen',
     usp: [
       '4.5 Sterne (60 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Solingen',
@@ -10245,7 +10245,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Solingen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Solingen',
+    headline: 'Besenreiser-Spezialist in Solingen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Solingen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10302,7 +10302,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Solingen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Solingen',
+    headline: 'Besenreiser-Spezialist in Solingen',
     usp: [
       '4.1 Sterne (236 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Solingen',
@@ -10354,7 +10354,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Paderborn", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Paderborn',
+    headline: 'Besenreiser-Spezialist in Paderborn',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Paderborn',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10411,7 +10411,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Paderborn", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Paderborn',
+    headline: 'Besenreiser-Spezialist in Paderborn',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Paderborn',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10468,7 +10468,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Paderborn", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Paderborn',
+    headline: 'Besenreiser-Spezialist in Paderborn',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Paderborn',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10520,7 +10520,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Darmstadt", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Darmstadt',
+    headline: 'Besenreiser-Spezialist in Darmstadt',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Darmstadt',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10572,7 +10572,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Darmstadt", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Darmstadt',
+    headline: 'Besenreiser-Spezialist in Darmstadt',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Darmstadt',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10624,7 +10624,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: true,
     tags: ["Darmstadt", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Darmstadt',
+    headline: 'Besenreiser-Spezialist in Darmstadt',
     usp: [
       '4.9 Sterne bei 167 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Darmstadt',
@@ -10681,7 +10681,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Neuss", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Neuss',
+    headline: 'Besenreiser-Spezialist in Neuss',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Neuss',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10733,7 +10733,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: true,
     tags: ["Neuss", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Neuss',
+    headline: 'Besenreiser-Spezialist in Neuss',
     usp: [
       '4.9 Sterne bei 296 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Neuss',
@@ -10785,7 +10785,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Neuss", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Neuss',
+    headline: 'Besenreiser-Spezialist in Neuss',
     usp: [
       '4.7 Sterne bei 180 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Neuss',
@@ -10837,7 +10837,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Ingolstadt", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Ingolstadt',
+    headline: 'Besenreiser-Spezialist in Ingolstadt',
     usp: [
       '57 verifizierte Google-Bewertungen von echten Patienten',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ingolstadt',
@@ -10894,7 +10894,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Ingolstadt", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Ingolstadt',
+    headline: 'Besenreiser-Spezialist in Ingolstadt',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ingolstadt',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -10951,7 +10951,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Ingolstadt", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Ingolstadt',
+    headline: 'Besenreiser-Spezialist in Ingolstadt',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Ingolstadt',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11008,7 +11008,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Heilbronn", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Heilbronn',
+    headline: 'Besenreiser-Spezialist in Heilbronn',
     usp: [
       '85 verifizierte Google-Bewertungen von echten Patienten',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Heilbronn',
@@ -11065,7 +11065,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Heilbronn", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Heilbronn',
+    headline: 'Besenreiser-Spezialist in Heilbronn',
     usp: [
       '4.2 Sterne (206 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Heilbronn',
@@ -11122,7 +11122,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Heilbronn", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Heilbronn',
+    headline: 'Besenreiser-Spezialist in Heilbronn',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Heilbronn',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11179,7 +11179,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: true,
     tags: ["Pforzheim", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Pforzheim',
+    headline: 'Besenreiser-Spezialist in Pforzheim',
     usp: [
       '4.8 Sterne bei 143 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Pforzheim',
@@ -11236,7 +11236,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Pforzheim", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Pforzheim',
+    headline: 'Besenreiser-Spezialist in Pforzheim',
     usp: [
       '4.8 Sterne (51 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Pforzheim',
@@ -11288,7 +11288,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: true,
     tags: ["Pforzheim", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Pforzheim',
+    headline: 'Besenreiser-Spezialist in Pforzheim',
     usp: [
       '4.9 Sterne bei 105 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Pforzheim',
@@ -11340,7 +11340,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Wolfsburg", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Wolfsburg',
+    headline: 'Besenreiser-Spezialist in Wolfsburg',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wolfsburg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11392,7 +11392,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Wolfsburg", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Wolfsburg',
+    headline: 'Besenreiser-Spezialist in Wolfsburg',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wolfsburg',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11444,7 +11444,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Wolfsburg", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Wolfsburg',
+    headline: 'Besenreiser-Spezialist in Wolfsburg',
     usp: [
       '4.0 Sterne (104 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Wolfsburg',
@@ -11501,7 +11501,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Erlangen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Erlangen',
+    headline: 'Besenreiser-Spezialist in Erlangen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Erlangen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11553,7 +11553,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Erlangen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Erlangen',
+    headline: 'Besenreiser-Spezialist in Erlangen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Erlangen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11605,7 +11605,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Erlangen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Erlangen',
+    headline: 'Besenreiser-Spezialist in Erlangen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Erlangen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11657,7 +11657,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Reutlingen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Reutlingen',
+    headline: 'Besenreiser-Spezialist in Reutlingen',
     usp: [
       '4.8 Sterne (96 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Reutlingen',
@@ -11714,7 +11714,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Reutlingen", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Reutlingen',
+    headline: 'Besenreiser-Spezialist in Reutlingen',
     usp: [
       '4.8 Sterne (78 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Reutlingen',
@@ -11771,7 +11771,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Reutlingen", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Reutlingen',
+    headline: 'Besenreiser-Spezialist in Reutlingen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Reutlingen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11823,7 +11823,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Koblenz", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Koblenz',
+    headline: 'Besenreiser-Spezialist in Koblenz',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Koblenz',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11875,7 +11875,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Koblenz", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Koblenz',
+    headline: 'Besenreiser-Spezialist in Koblenz',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Koblenz',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11927,7 +11927,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Koblenz", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Koblenz',
+    headline: 'Besenreiser-Spezialist in Koblenz',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Koblenz',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -11979,7 +11979,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Jena", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Jena',
+    headline: 'Besenreiser-Spezialist in Jena',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Jena',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12036,7 +12036,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Jena", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Jena',
+    headline: 'Besenreiser-Spezialist in Jena',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Jena',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12088,7 +12088,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: true,
     tags: ["Jena", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Jena',
+    headline: 'Besenreiser-Spezialist in Jena',
     usp: [
       '4.9 Sterne bei 187 Google-Bewertungen – hervorragend bewertet',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Jena',
@@ -12145,7 +12145,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Trier", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Trier',
+    headline: 'Besenreiser-Spezialist in Trier',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Trier',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12202,7 +12202,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Trier", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Trier',
+    headline: 'Besenreiser-Spezialist in Trier',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Trier',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12254,7 +12254,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Trier", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Trier',
+    headline: 'Besenreiser-Spezialist in Trier',
     usp: [
       '4.4 Sterne (90 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Trier',
@@ -12311,7 +12311,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Schwerin", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Schwerin',
+    headline: 'Besenreiser-Spezialist in Schwerin',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Schwerin',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12368,7 +12368,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Schwerin", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Schwerin',
+    headline: 'Besenreiser-Spezialist in Schwerin',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Schwerin',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12425,7 +12425,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Schwerin", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Schwerin',
+    headline: 'Besenreiser-Spezialist in Schwerin',
     usp: [
       '4.4 Sterne (50 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Schwerin',
@@ -12482,7 +12482,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Gera", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gera',
+    headline: 'Besenreiser-Spezialist in Gera',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gera',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12539,7 +12539,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Gera", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gera',
+    headline: 'Besenreiser-Spezialist in Gera',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gera',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12596,7 +12596,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Gera", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gera',
+    headline: 'Besenreiser-Spezialist in Gera',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gera',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12653,7 +12653,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Hildesheim", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hildesheim',
+    headline: 'Besenreiser-Spezialist in Hildesheim',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hildesheim',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12710,7 +12710,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Hildesheim", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hildesheim',
+    headline: 'Besenreiser-Spezialist in Hildesheim',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hildesheim',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12767,7 +12767,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Hildesheim", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Hildesheim',
+    headline: 'Besenreiser-Spezialist in Hildesheim',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Hildesheim',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12824,7 +12824,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Siegen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Siegen',
+    headline: 'Besenreiser-Spezialist in Siegen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Siegen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12876,7 +12876,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 6 Std.',
     featured: false,
     tags: ["Siegen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Siegen',
+    headline: 'Besenreiser-Spezialist in Siegen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Siegen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12928,7 +12928,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'heute',
     featured: false,
     tags: ["Siegen", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Siegen',
+    headline: 'Besenreiser-Spezialist in Siegen',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Siegen',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -12985,7 +12985,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 1 Std.',
     featured: false,
     tags: ["Gütersloh", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gütersloh',
+    headline: 'Besenreiser-Spezialist in Gütersloh',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gütersloh',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -13037,7 +13037,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 2 Std.',
     featured: false,
     tags: ["Gütersloh", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gütersloh',
+    headline: 'Besenreiser-Spezialist in Gütersloh',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gütersloh',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -13089,7 +13089,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 3 Std.',
     featured: false,
     tags: ["Gütersloh", "Laser (Nd:YAG)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Gütersloh',
+    headline: 'Besenreiser-Spezialist in Gütersloh',
     usp: [
       '5.0 Sterne (74 Bewertungen) – überdurchschnittliche Patientenzufriedenheit',
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Gütersloh',
@@ -13146,7 +13146,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 4 Std.',
     featured: false,
     tags: ["Cottbus", "IPL-Behandlung"],
-    headline: 'Geprüfte Besenreiser-Praxis in Cottbus',
+    headline: 'Besenreiser-Spezialist in Cottbus',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Cottbus',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -13198,7 +13198,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 30 Min.',
     featured: false,
     tags: ["Cottbus", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Cottbus',
+    headline: 'Besenreiser-Spezialist in Cottbus',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Cottbus',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
@@ -13255,7 +13255,7 @@ export const clinics: Clinic[] = [
     lastInquiry: 'vor 5 Std.',
     featured: false,
     tags: ["Cottbus", "Verödung (Sklerotherapie)"],
-    headline: 'Geprüfte Besenreiser-Praxis in Cottbus',
+    headline: 'Besenreiser-Spezialist in Cottbus',
     usp: [
       'Phlebologische Fachpraxis – spezialisiert auf Venenheilkunde in Cottbus',
       'Modernste Behandlungsgeräte für dauerhaft schöne Beine',
