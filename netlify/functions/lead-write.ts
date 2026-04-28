@@ -37,6 +37,18 @@ export const handler = async (event: {
     return { statusCode: 400, headers: CORS, body: JSON.stringify({ error: 'Invalid JSON' }) }
   }
 
+  // Diagnostic log: hostname + path shape only, never the full URL.
+  // Lets the team verify GOOGLE_SHEET_URL points at script.google.com
+  // without leaking the deployment ID. Remove once the pipeline is stable.
+  let urlHost = 'unparseable'
+  let urlPathHint = ''
+  try {
+    const u = new URL(sheetUrl)
+    urlHost = u.hostname
+    urlPathHint = u.pathname.replace(/\/[^/]{10,}/g, '/<id>')
+  } catch { /* logged as unparseable */ }
+  console.log(`[lead-write] target=${urlHost}${urlPathHint}`)
+
   try {
     const res = await fetch(sheetUrl, {
       method: 'POST',
