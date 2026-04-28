@@ -15,11 +15,11 @@ const S = {
 }
 
 const METHOD_GUIDE = [
-  { name: 'Verödung', desc: 'Injektion eines Verschäumungsmittels direkt ins Gefäß – besonders effektiv für kleine bis mittelgroße Besenreiser.' },
-  { name: 'Nd:YAG Laser', desc: 'Laser-Energie durch die Haut – ideal für tiefere, blaue Adern und größere Gefäße.' },
-  { name: 'Diode Laser', desc: 'Ähnlich wie Nd:YAG, besonders schonend – gut bei heller Haut und feinen roten Äderchen.' },
-  { name: 'IPL', desc: 'Breitbandlicht für sehr feine, oberflächliche Rötungen und haarfädige Gefäße.' },
-  { name: 'Radiofrequenz', desc: 'Wärmebehandlung für hartnäckige Gefäße – wird oft kombiniert mit Verödung eingesetzt.' },
+  { name: 'Sklerotherapie', desc: 'Injektion eines Verödungsmittels direkt ins Gefäß – besonders effektiv für kleine bis mittelgroße Besenreiser.' },
+  { name: 'Schaumsklerotherapie', desc: 'Aufgeschäumtes Verödungsmittel für größere Besenreiser und retikuläre Venen – effizienter als die flüssige Variante.' },
+  { name: 'Laser (Nd:YAG)', desc: 'Laser-Energie durch die Haut – ideal für tiefere, blaue Adern und feine bis mittlere Gefäße ohne Nadel.' },
+  { name: 'IPL', desc: 'Breitbandlicht für sehr feine, oberflächliche Rötungen und haarfädige Gefäße – meist im Gesicht.' },
+  { name: 'Radiofrequenzablation', desc: 'Wärmebehandlung für größere Stammvenen / Krampfadern – minimal-invasiv über Katheter.' },
 ]
 
 function StarDisplay({ count }: { count: number }) {

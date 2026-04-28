@@ -2,29 +2,24 @@ import { useMemo } from 'react'
 import type { Clinic, FilterState } from '../types/clinic'
 import { haversineKm } from '../lib/geo'
 
-// Maps each filter UI label to the substrings that should match clinic.methods
-// entries. Using an explicit table avoids the previous split('(')[0] heuristic
-// which silently let "Laser (KTP)" match Nd:YAG/Diode listings.
-// Exported so landing pages (e.g. MethodePage) match the same way as the
-// sidebar - otherwise users see clinics on the landing page that vanish when
-// they tick the matching checkbox.
-export const METHOD_KEYWORDS: Record<string, string[]> = {
-  'Verödung (Sklerotherapie)':  ['verödung', 'sklerotherapie', 'sklerosierung', 'mikrosklerotherapie', 'schaumverödung', 'schaumsklerotherapie'],
-  'Laser (Nd:YAG)':             ['nd:yag', 'ndyag'],
-  'Laser (KTP)':                ['ktp'],
-  'IPL-Behandlung':             ['ipl'],
-  'Mikroschaum-Sklerotherapie': ['mikroschaum'],
-  'Endovenöse Lasertherapie':   ['endovenös', 'endovenose', 'elves'],
-  'Radiofrequenztherapie':      ['radiofrequenz', 'radiowellen', 'rfa', 'venefit'],
-}
+// Canonical method labels. After data normalisation in clinics.ts, every
+// clinic.methods entry is one of these exact strings, so the filter just
+// does an exact `includes` check. Kept as a named export because MethodePage
+// also matches against this list.
+export const ALL_CANONICAL_METHODS = [
+  'Sklerotherapie',
+  'Schaumsklerotherapie',
+  'Laser (Nd:YAG)',
+  'KTP-Laser',
+  'IPL',
+  'Endovenöser Laser',
+  'Radiofrequenzablation',
+  'ClariVein',
+  'Venenoperation',
+] as const
 
 export function clinicMatchesMethod(clinic: Clinic, filterLabel: string): boolean {
-  const keywords = METHOD_KEYWORDS[filterLabel]
-  if (!keywords) return false
-  return clinic.methods.some(cm => {
-    const lower = cm.toLowerCase()
-    return keywords.some(kw => lower.includes(kw))
-  })
+  return clinic.methods.includes(filterLabel)
 }
 
 export function useFilteredClinics(clinics: Clinic[], filters: FilterState): Clinic[] {

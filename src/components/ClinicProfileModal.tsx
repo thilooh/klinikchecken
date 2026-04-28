@@ -40,20 +40,26 @@ const extras: { key: keyof Clinic; label: string; icon: string }[] = [
 ]
 
 const METHOD_COLORS: Record<string, string> = {
-  'Verödung':                  '#E8F5E9',
-  'Mikroschaum-Sklerotherapie':'#E8F5E9',
-  'Nd:YAG Laser':              '#E3F2FD',
-  'Laser':                     '#E3F2FD',
-  'KTP-Laser':                 '#E3F2FD',
-  'IPL-Behandlung':            '#FFF3E0',
+  'Sklerotherapie':        '#E8F5E9',
+  'Schaumsklerotherapie':  '#E8F5E9',
+  'Laser (Nd:YAG)':        '#E3F2FD',
+  'KTP-Laser':             '#E3F2FD',
+  'Endovenöser Laser':     '#E3F2FD',
+  'IPL':                   '#FFF3E0',
+  'Radiofrequenzablation': '#FBE9E7',
+  'ClariVein':             '#F3E5F5',
+  'Venenoperation':        '#FFEBEE',
 }
 const METHOD_TEXT: Record<string, string> = {
-  'Verödung':                  '#2E7D32',
-  'Mikroschaum-Sklerotherapie':'#2E7D32',
-  'Nd:YAG Laser':              '#1565C0',
-  'Laser':                     '#1565C0',
-  'KTP-Laser':                 '#1565C0',
-  'IPL-Behandlung':            '#E65100',
+  'Sklerotherapie':        '#2E7D32',
+  'Schaumsklerotherapie':  '#2E7D32',
+  'Laser (Nd:YAG)':        '#1565C0',
+  'KTP-Laser':             '#1565C0',
+  'Endovenöser Laser':     '#1565C0',
+  'IPL':                   '#E65100',
+  'Radiofrequenzablation': '#BF360C',
+  'ClariVein':             '#6A1B9A',
+  'Venenoperation':        '#B71C1C',
 }
 
 export default function ClinicProfileModal({ clinic, onClose, onInquire, onShowReviews, hasUserCoords = false }: Props) {

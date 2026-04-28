@@ -46,7 +46,7 @@ const METHODS: MethodInfo[] = [
     bestFor: 'Mittelgroße bis größere Besenreiser und retikuläre Venen, vor allem an den Beinen.',
     duration: '15-30 Minuten pro Sitzung',
     sessions: '3-6 Sitzungen, je nach Befund',
-    filterLabels: ['Verödung (Sklerotherapie)', 'Mikroschaum-Sklerotherapie'],
+    filterLabels: ['Sklerotherapie', 'Schaumsklerotherapie'],
   },
   {
     slug: 'laser',
@@ -68,7 +68,7 @@ const METHODS: MethodInfo[] = [
     bestFor: 'Sehr feine, oberflächliche Besenreiser, vor allem im Gesicht und an den Wangen.',
     duration: '15-30 Minuten pro Sitzung',
     sessions: '3-5 Sitzungen, je nach Befund',
-    filterLabels: ['Laser (Nd:YAG)', 'Laser (KTP)'],
+    filterLabels: ['Laser (Nd:YAG)', 'KTP-Laser'],
   },
   {
     slug: 'ipl',
@@ -88,7 +88,7 @@ const METHODS: MethodInfo[] = [
     bestFor: 'Feine Besenreiser im Gesicht, oft kombiniert mit Hautverjüngungs-Behandlungen.',
     duration: '20-40 Minuten pro Sitzung',
     sessions: '3-6 Sitzungen',
-    filterLabels: ['IPL-Behandlung'],
+    filterLabels: ['IPL'],
   },
 ]
 

@@ -45,9 +45,9 @@ export default function InfoSection() {
             <div style={{ backgroundColor: '#F4F4F4', borderRadius: '4px', padding: '12px', marginBottom: '12px' }}>
               <div style={{ fontSize: '12px', color: '#666', marginBottom: '6px' }}>Durchschnittliche Preise in Köln:</div>
               {[
-                { method: 'Verödung', price: '55–90 €' },
-                { method: 'Nd:YAG Laser', price: '90–160 €' },
-                { method: 'IPL-Behandlung', price: '80–140 €' },
+                { method: 'Sklerotherapie', price: '55–90 €' },
+                { method: 'Laser (Nd:YAG)', price: '90–160 €' },
+                { method: 'IPL', price: '80–140 €' },
               ].map(row => (
                 <div key={row.method} style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', padding: '4px 0', borderBottom: '1px solid #E8E8E8' }}>
                   <span style={{ color: '#333' }}>{row.method}</span>
@@ -79,11 +79,11 @@ export default function InfoSection() {
                 </thead>
                 <tbody>
                   {[
-                    { method: 'Verödung', suitable: 'Kleine Äderchen', sessions: '1–3' },
-                    { method: 'Nd:YAG Laser', suitable: 'Alle Größen', sessions: '2–4' },
-                    { method: 'Diode Laser', suitable: 'Mittelgroße', sessions: '2–5' },
+                    { method: 'Sklerotherapie', suitable: 'Kleine Äderchen', sessions: '1–3' },
+                    { method: 'Schaumsklerotherapie', suitable: 'Mittelgroße bis größere', sessions: '2–4' },
+                    { method: 'Laser (Nd:YAG)', suitable: 'Alle Größen', sessions: '2–4' },
                     { method: 'IPL', suitable: 'Flächige Areale', sessions: '3–6' },
-                    { method: 'Radiofrequenz', suitable: 'Tiefe Venen', sessions: '1–2' },
+                    { method: 'Radiofrequenzablation', suitable: 'Stammvenen', sessions: '1–2' },
                   ].map((row, i) => (
                     <tr key={row.method} style={{ backgroundColor: i % 2 === 0 ? '#F8F8F8' : '#fff' }}>
                       <td style={{ padding: '7px 10px', color: '#003399', fontWeight: 700, borderBottom: '1px solid #EEE' }}>{row.method}</td>

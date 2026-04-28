@@ -6,13 +6,13 @@
 // clinic.city is present in ALL_CITIES.
 
 export const ALL_METHODS = [
-  'Verödung (Sklerotherapie)',
+  'Sklerotherapie',
+  'Schaumsklerotherapie',
   'Laser (Nd:YAG)',
-  'Laser (KTP)',
-  'IPL-Behandlung',
-  'Mikroschaum-Sklerotherapie',
-  'Endovenöse Lasertherapie',
-  'Radiofrequenztherapie',
+  'KTP-Laser',
+  'IPL',
+  'Endovenöser Laser',
+  'Radiofrequenzablation',
 ]
 
 export const ALL_CITIES = [

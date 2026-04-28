@@ -22,9 +22,9 @@ export default function Footer() {
     {
       title: 'Methoden',
       links: [
-        { label: 'Verödung (Sklerotherapie)', href: '/methode/verodung' },
+        { label: 'Sklerotherapie (Verödung)', href: '/methode/verodung' },
         { label: 'Laser (Nd:YAG / KTP)',      href: '/methode/laser' },
-        { label: 'IPL-Behandlung',            href: '/methode/ipl' },
+        { label: 'IPL',                       href: '/methode/ipl' },
       ],
     },
     {
