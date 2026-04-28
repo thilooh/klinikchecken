@@ -3,7 +3,8 @@ import { Check } from 'lucide-react'
 import AnswerCard from './AnswerCard'
 import MultiSelectCard from './MultiSelectCard'
 import type { QuizAnswers } from '../../lib/quizState'
-import { Q2_PIVOT_TEXT, Q6_PIVOT_TEXT } from '../../lib/quizDisplayMaps'
+import { Q1_FORWARD_LOOK, Q2_PIVOT_TEXT, Q6_PIVOT_BULLET } from '../../lib/quizDisplayMaps'
+import { getBridgeText, getBullet2Text, getReframeText } from '../../lib/quizPivotTexts'
 
 // Card wrapper used by every question step. Keeps the marginBottom,
 // shadow, and padding consistent without re-typing it in each step.
@@ -146,16 +147,20 @@ export function Step6Zeitziel({ onSelect }: { onSelect: (v: string) => void }) {
   )
 }
 
-// Step 7 - Pivot interstitial. No options - just a reframe + continue.
-// Wording is intentionally defensive: we say cremes/kompression "wirken
-// auf der Haut, nicht auf das Gefäß darunter" instead of the brief's
-// stronger "können Besenreiser nicht entfernen" - same medical reality,
-// less UWG-comparative-advertising risk.
+// Step 7 - Pivot interstitial. Slot composition is delegated to
+// quizPivotTexts.ts so a copywriter can revise wording without
+// touching JSX. See that file's header for the HWG / UWG rationale.
 export function Step7Pivot({ answers, onContinue }: { answers: QuizAnswers; onContinue: () => void }) {
-  const q5Real = answers.q5_versucht.filter(v => v !== 'nichts')
-  const q5Empty = q5Real.length === 0
   const triggerText = answers.q2_trigger ? Q2_PIVOT_TEXT[answers.q2_trigger] : ''
-  const zeitzielText = answers.q6_zeitziel ? Q6_PIVOT_TEXT[answers.q6_zeitziel] : ''
+  const zeitzielBullet = answers.q6_zeitziel ? Q6_PIVOT_BULLET[answers.q6_zeitziel] : ''
+  const bullet2 = getBullet2Text(answers.q5_versucht)
+  const reframe = getReframeText(answers.q5_versucht)
+  const bridge = getBridgeText(answers.q1_lokalisation, answers.q5_versucht)
+  const forwardLook = answers.q1_lokalisation ? Q1_FORWARD_LOOK[answers.q1_lokalisation] : ''
+
+  const bulletStyle: React.CSSProperties = {
+    fontSize: '14px', color: '#444', padding: '4px 0', display: 'flex', gap: '8px',
+  }
 
   return (
     <StepCard>
@@ -165,34 +170,24 @@ export function Step7Pivot({ answers, onContinue }: { answers: QuizAnswers; onCo
       <p style={{ fontSize: '15px', color: '#444', marginBottom: '6px' }}>Du hast gerade gesagt:</p>
       <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 18px 0' }}>
         {triggerText && (
-          <li style={{ fontSize: '14px', color: '#444', padding: '4px 0', display: 'flex', gap: '8px' }}>
-            <span style={{ color: '#003399' }}>•</span>Sie sind {triggerText}
-          </li>
+          <li style={bulletStyle}><span style={{ color: '#003399' }}>•</span>Sie sind {triggerText}</li>
         )}
-        {q5Empty ? (
-          <li style={{ fontSize: '14px', color: '#444', padding: '4px 0', display: 'flex', gap: '8px' }}>
-            <span style={{ color: '#003399' }}>•</span>Du informierst dich gerade — gut so. Die meisten warten zu lange.
-          </li>
-        ) : (
-          <li style={{ fontSize: '14px', color: '#444', padding: '4px 0', display: 'flex', gap: '8px' }}>
-            <span style={{ color: '#003399' }}>•</span>Du hast schon {q5Real.length} {q5Real.length === 1 ? 'Strategie' : 'Strategien'} ausprobiert
-          </li>
-        )}
-        {zeitzielText && (
-          <li style={{ fontSize: '14px', color: '#444', padding: '4px 0', display: 'flex', gap: '8px' }}>
-            <span style={{ color: '#003399' }}>•</span>Bis {zeitzielText} willst du was ändern
-          </li>
+        <li style={bulletStyle}><span style={{ color: '#003399' }}>•</span>{bullet2}</li>
+        {zeitzielBullet && (
+          <li style={bulletStyle}><span style={{ color: '#003399' }}>•</span>{zeitzielBullet}</li>
         )}
       </ul>
 
-      <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, marginBottom: '10px' }}>
-        Das Problem ist nicht, dass nichts gewirkt hat.
+      <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, marginBottom: '14px' }}>
+        {reframe}
       </p>
-      <p style={{ fontSize: '14px', color: '#444', lineHeight: 1.6, marginBottom: '14px' }}>
-        Cremes, Kompressionsstrümpfe und Camouflage wirken auf der Haut — nicht auf das Gefäß darunter, das die sichtbare Verfärbung verursacht. Für die Behandlung der Gefäße selbst gibt es etablierte Verfahren in der Phlebologie.
-      </p>
+      {bridge && (
+        <p style={{ fontSize: '14px', color: '#444', lineHeight: 1.6, marginBottom: '14px' }}>
+          {bridge}
+        </p>
+      )}
       <p style={{ fontSize: '14px', color: '#444', lineHeight: 1.6, marginBottom: '20px' }}>
-        Auf der nächsten Seite siehst du, welche Methoden bei Befunden wie deinem in der Phlebologie eingesetzt werden — als Vorbereitung auf dein Erstgespräch.
+        {forwardLook}
       </p>
 
       <button
