@@ -103,11 +103,11 @@ export default function Step11Capture({ initial, answers, onSubmitted, variant =
         ✓ Deine Quiz-Auswertung ist fertig
       </div>
       <h2 style={{ fontSize: '20px', fontWeight: 700, color: '#0A1F44', marginBottom: '8px', lineHeight: 1.3 }}>
-        {variant === 'v2' ? 'Schick es mir per Mail.' : 'Wohin schicken wir dein Orientierungsprofil?'}
+        {variant === 'v2' ? 'Wir schicken dir alles per Mail.' : 'Wohin schicken wir dein Orientierungsprofil?'}
       </h2>
       <p style={{ fontSize: '14px', color: '#444', marginBottom: '12px', lineHeight: 1.5 }}>
         {variant === 'v2'
-          ? 'Du bekommst dein Profil per Mail - Typ, Ausprägung, in Frage kommende Methoden, plus Praxen in deiner Nähe. So kannst du es später nochmal ansehen, mit jemandem teilen, oder einfach überlegen, ohne dass ich dir auf die Pelle rücke.'
+          ? 'Profil, in Frage kommende Methoden, Praxen in deiner Nähe - alles in einer Mail. So kannst du es später nochmal ansehen, mit jemandem teilen oder in Ruhe überlegen, ohne dass wir dir auf die Pelle rücken.'
           : 'Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt - Typ, Ausprägung und passende Methoden.'}
       </p>
       <p style={{ fontSize: '12px', color: '#666', marginBottom: '20px', lineHeight: 1.5 }}>

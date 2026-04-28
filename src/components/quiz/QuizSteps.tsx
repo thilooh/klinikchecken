@@ -115,9 +115,10 @@ export function Step4Hauttyp({ onSelect, variant = 'v1' }: { onSelect: (v: strin
 // don't push everyone into a high-investment pivot regardless of
 // their actual emotional baseline.
 //
-// V2 adds a 1.5-second "Spiegel-Satz" pause between the click and
-// auto-advance to step 6 - reframes user's "ich bin oberflächlich"
-// to "das wird mir genommen". Hopkins / Halbert identity-shift.
+// V2 adds a "Spiegel-Satz" pause between the click and step 6.
+// User-paced: shows the mirror text with a manual Weiter button so
+// it can actually be read instead of being auto-skipped.
+// Hopkins / Halbert identity-shift.
 const STEP5_MIRROR_TEXT = 'Das ist nicht Eitelkeit. Das ist die unsichtbare Steuer, die du zahlst, weil dein Körper sich anders entschieden hat als du.'
 
 export function Step5Recognition({ onSelect, variant = 'v1' }: { onSelect: (v: string) => void; variant?: QuizVariant }) {
@@ -128,19 +129,29 @@ export function Step5Recognition({ onSelect, variant = 'v1' }: { onSelect: (v: s
       onSelect(value)
       return
     }
-    // Track which option was selected so we can render the mirror
-    // overlay; auto-advance after the dwell window.
+    // Park the answer locally; the user clicks Weiter to advance
+    // once they've actually read the mirror sentence.
     setMirrorFor(value)
-    window.setTimeout(() => onSelect(value), 1500)
   }
 
   if (variant === 'v2' && mirrorFor) {
     return (
       <StepCard>
         <div style={{ minHeight: '180px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', padding: '20px 8px' }}>
-          <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.6, maxWidth: '420px' }}>
+          <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.6, maxWidth: '420px', marginBottom: '24px' }}>
             {STEP5_MIRROR_TEXT}
           </p>
+          <button
+            type="button"
+            onClick={() => onSelect(mirrorFor)}
+            style={{
+              backgroundColor: '#003399', color: '#fff', fontWeight: 700, fontSize: '14px',
+              border: 'none', borderRadius: '6px', padding: '11px 24px', cursor: 'pointer',
+              minWidth: '140px',
+            }}
+          >
+            Weiter →
+          </button>
         </div>
       </StepCard>
     )
@@ -218,35 +229,48 @@ export function Step6Versucht({
 // zu" is the user telling themselves "my behaviour is influenced by
 // my Besenreiser" - the strongest investment anchor in the quiz.
 // V2 adds a "Stop-and-Mirror" pause after a committal answer
-// (voellig_zu / eher_zu) - 2 seconds of "Du hast gerade etwas
-// Wichtiges zugegeben." Sugarman slippery-slide confirmation, then
-// auto-advance. v1 advances immediately. Non-committal answers
-// (eher_nicht / gar_nicht) skip the mirror to avoid a hollow beat.
+// (voellig_zu / eher_zu) - "Du hast gerade etwas Wichtiges
+// zugegeben." Sugarman slippery-slide confirmation. User-paced: a
+// manual Weiter button so the sentence is actually read instead
+// of auto-skipped. Non-committal answers (eher_nicht / gar_nicht)
+// skip the mirror to avoid a hollow beat.
 const STEP7_MIRROR_TEXT = 'Du hast gerade etwas Wichtiges zugegeben. Den meisten ist das nicht bewusst.'
 
 export function Step7Vermeidung({ onSelect, variant = 'v1' }: {
   onSelect: (v: 'voellig_zu' | 'eher_zu' | 'eher_nicht' | 'gar_nicht') => void
   variant?: QuizVariant
 }) {
-  const [mirrorFor, setMirrorFor] = useState<string | null>(null)
+  const [mirrorFor, setMirrorFor] = useState<'voellig_zu' | 'eher_zu' | 'eher_nicht' | 'gar_nicht' | null>(null)
 
   const handleSelect = (value: 'voellig_zu' | 'eher_zu' | 'eher_nicht' | 'gar_nicht') => {
-    if (variant !== 'v2') {
-      onSelect(value)
+    if (variant !== 'v2') { onSelect(value); return }
+    // Only committal answers earn the mirror moment; non-committal
+    // answers pass through immediately so the flow stays brisk.
+    if (value === 'voellig_zu' || value === 'eher_zu') {
+      setMirrorFor(value)
       return
     }
-    setMirrorFor(value)
-    const dwell = (value === 'voellig_zu' || value === 'eher_zu') ? 2000 : 400
-    window.setTimeout(() => onSelect(value), dwell)
+    onSelect(value)
   }
 
   if (variant === 'v2' && (mirrorFor === 'voellig_zu' || mirrorFor === 'eher_zu')) {
     return (
       <StepCard>
         <div style={{ minHeight: '180px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', padding: '20px 8px' }}>
-          <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.6, maxWidth: '420px' }}>
+          <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.6, maxWidth: '420px', marginBottom: '24px' }}>
             {STEP7_MIRROR_TEXT}
           </p>
+          <button
+            type="button"
+            onClick={() => onSelect(mirrorFor)}
+            style={{
+              backgroundColor: '#003399', color: '#fff', fontWeight: 700, fontSize: '14px',
+              border: 'none', borderRadius: '6px', padding: '11px 24px', cursor: 'pointer',
+              minWidth: '140px',
+            }}
+          >
+            Weiter →
+          </button>
         </div>
       </StepCard>
     )
