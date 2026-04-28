@@ -39,3 +39,13 @@
   for = "/reviews/*"
   [headers.values]
     Cache-Control = "public, max-age=86400"
+
+# clinics.json + treatments.json get refreshed via GitHub Actions (Google
+# Reviews sync) and on every code deploy. 1-day cache balances Lighthouse
+# "efficient cache lifetime" against staleness when ratings update.
+# Atomic Netlify deploys invalidate at the CDN edge regardless of the
+# Cache-Control value, so a fresh deploy still hits users immediately.
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
