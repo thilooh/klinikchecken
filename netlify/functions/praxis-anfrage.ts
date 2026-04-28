@@ -48,12 +48,9 @@ export const handler = async (event: {
   if (parsed.type !== 'praxis_anfrage' || parsed.consent_praxis !== true || !parsed.praxis?.id) {
     return { statusCode: 400, headers: CORS, body: JSON.stringify({ error: 'Missing required fields or consent' }) }
   }
-  // Tier-gating mirror of the frontend: basic clinics never expose
-  // the modal, but defence-in-depth - reject explicitly if a request
-  // somehow gets crafted for one.
-  if (parsed.praxis.tier === 'basic') {
-    return { statusCode: 403, headers: CORS, body: JSON.stringify({ error: 'Praxis nicht kontaktierbar' }) }
-  }
+  // TODO: once real premium contracts exist, reject `basic` here for
+  // defence-in-depth (the brief calls for tier-gating). Currently every
+  // clinic is tier='basic' so a 403 would block every quiz inquiry.
 
   try {
     const res = await fetch(sheetUrl, {

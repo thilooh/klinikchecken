@@ -7,6 +7,7 @@ import { sortPraxen, getCityCenter, type ScoredPraxis } from '../../lib/quizPrax
 import { useClinics } from '../../hooks/useClinics'
 import { matchCity } from '../../lib/cityMatch'
 import { sendEvent } from '../../lib/gtm'
+import { getCTAColor, getCTAVariant } from '../../lib/ctaVariant'
 import PraxisCard from './PraxisCard'
 import AnfrageModal from './AnfrageModal'
 
@@ -23,6 +24,8 @@ export default function Step10Result({ answers, lead, onReset }: Props) {
   const { clinics } = useClinics()
   const [contactPraxis, setContactPraxis] = useState<ScoredPraxis | null>(null)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
+  const [ctaVariant] = useState(() => getCTAVariant())
+  const ctaColor = getCTAColor(ctaVariant)
 
   const recommendation = useMemo(() => getMethodRecommendation(answers), [answers])
   const ranges = useMemo(() => getRanges(answers), [answers])
@@ -128,8 +131,14 @@ export default function Step10Result({ answers, lead, onReset }: Props) {
           </p>
         ) : (
           <>
-            {visiblePraxen.map(p => (
-              <PraxisCard key={p.id} praxis={p} onContact={setContactPraxis} />
+            {visiblePraxen.map((p, i) => (
+              <PraxisCard
+                key={p.id}
+                praxis={p}
+                ctaColor={ctaColor}
+                onContact={setContactPraxis}
+                index={i}
+              />
             ))}
             {hasMore && (
               <button

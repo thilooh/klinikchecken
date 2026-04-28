@@ -9,7 +9,6 @@ import { QUIZ_METHOD_TO_CANONICAL, type QuizMethodKey } from './quizRecommendati
 
 export type ScoredPraxis = Clinic & {
   isMatch: boolean
-  distance_km: number
 }
 
 export function isMethodMatch(clinic: Clinic, relevantQuizMethods: QuizMethodKey[]): boolean {
@@ -35,11 +34,13 @@ export function sortPraxen(
     .map(c => ({
       ...c,
       isMatch: isMethodMatch(c, relevantQuizMethods),
-      distance_km: userCoords
+      // Overwrite the type's distanceKm so ClinicCard renders the
+      // distance from the quiz user's PLZ rather than a stale value.
+      distanceKm: userCoords
         ? Math.round(haversineKm(userCoords.lat, userCoords.lng, c.lat as number, c.lng as number) * 10) / 10
         : Number.POSITIVE_INFINITY,
     }))
-    .filter(p => !userCoords || p.distance_km <= MAX_DISTANCE_KM)
+    .filter(p => !userCoords || p.distanceKm <= MAX_DISTANCE_KM)
     .sort((a, b) => {
       // 1. Match first (UWG-safer than tier-first - the "passend"
       //    framing on the result page must reflect actual fit)
@@ -49,7 +50,7 @@ export function sortPraxen(
         return TIER_RANK[a.tier] - TIER_RANK[b.tier]
       }
       // 3. Distance
-      return a.distance_km - b.distance_km
+      return a.distanceKm - b.distanceKm
     })
 }
 
