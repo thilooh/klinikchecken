@@ -12,7 +12,10 @@ import {
   Step7Pivot,
   Step8Loading,
 } from '../components/quiz/QuizSteps'
+import Step9Capture from '../components/quiz/Step9Capture'
+import Step10Result from '../components/quiz/Step10Result'
 import { useSeo, SITE_URL } from '../lib/seo'
+import { sendEvent } from '../lib/gtm'
 import {
   INITIAL_QUIZ_STATE,
   loadPersisted,
@@ -39,6 +42,20 @@ export default function MethodenQuiz() {
 
   // Loader auto-advances; everything else triggers via user action.
   const goNext = () => dispatch({ type: 'GOTO', step: state.currentStep + 1 })
+
+  // CustomizeProduct fires once when the recommendation appears
+  // (between loading and the result page) - matches the previous
+  // tracking behaviour in the old quiz.
+  useEffect(() => {
+    if (state.currentStep === 8) {
+      sendEvent('CustomizeProduct', { content_type: 'methoden_quiz' })
+    }
+  }, [state.currentStep])
+
+  const reset = () => {
+    clearPersisted()
+    dispatch({ type: 'RESET' })
+  }
 
   const showHeader = state.currentStep <= 7
 
@@ -78,26 +95,22 @@ export default function MethodenQuiz() {
             <Step8Loading onDone={goNext} />
           )}
           {state.currentStep === 9 && (
-            <PlaceholderStep title="Step 9 – Lead-Capture" onReset={() => { clearPersisted(); dispatch({ type: 'RESET' }) }} />
+            <Step9Capture
+              initial={state.lead}
+              answers={state.answers}
+              onSubmitted={lead => {
+                dispatch({ type: 'SET_LEAD', partial: lead })
+                dispatch({ type: 'MARK_SUBMITTED' })
+                dispatch({ type: 'GOTO', step: 10 })
+              }}
+            />
           )}
           {state.currentStep === 10 && (
-            <PlaceholderStep title="Step 10 – Plan + Praxen" onReset={() => { clearPersisted(); dispatch({ type: 'RESET' }) }} />
+            <Step10Result answers={state.answers} lead={state.lead} onReset={reset} />
           )}
         </div>
       </main>
       <Footer />
-    </div>
-  )
-}
-
-// Placeholder until Phase 3/4 ship. Lets the user click through the
-// new quiz end-to-end and confirms the state machine wires correctly.
-function PlaceholderStep({ title, onReset }: { title: string; onReset: () => void }) {
-  return (
-    <div style={{ backgroundColor: '#fff', borderRadius: '8px', padding: '24px 20px', boxShadow: '0 1px 3px rgba(0,0,0,0.06)', textAlign: 'center' }}>
-      <h2 style={{ fontSize: '20px', fontWeight: 700, color: '#0A1F44', marginBottom: '12px' }}>{title}</h2>
-      <p style={{ fontSize: '14px', color: '#666', marginBottom: '16px' }}>Wird in der nächsten Phase implementiert.</p>
-      <button onClick={onReset} style={{ background: 'none', border: 'none', color: '#0052CC', cursor: 'pointer', fontSize: '13px', textDecoration: 'underline' }}>Quiz neu starten</button>
     </div>
   )
 }
