@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { X, CheckCircle2, Loader2 } from 'lucide-react'
+import { X, CheckCircle2, Loader2, Check } from 'lucide-react'
 import type { ScoredPraxis } from '../../lib/quizPraxenSort'
 import type { QuizAnswers, QuizLead, ComputedProfile } from '../../lib/quizState'
 import { sentryCaptureMessage } from '../../lib/sentry'
@@ -13,14 +13,29 @@ interface Props {
   answers: QuizAnswers
   profile: ComputedProfile
   onClose: () => void
+  variant?: 'v1' | 'v2' | 'v3' | 'v4'
 }
 
 type Kontaktart = 'email' | 'telefon'
+type Wunschzeit = 'vormittag' | 'nachmittag' | 'abend' | 'egal'
 
-export default function AnfrageModal({ praxis, lead, answers, profile, onClose }: Props) {
+const WUNSCHZEIT_OPTIONS: Array<{ value: Wunschzeit; label: string }> = [
+  { value: 'vormittag', label: 'Vormittag' },
+  { value: 'nachmittag', label: 'Nachmittag' },
+  { value: 'abend', label: 'Abend' },
+  { value: 'egal', label: 'Egal' },
+]
+
+const WUNSCHZEIT_LABEL: Record<Wunschzeit, string> = {
+  vormittag: 'Vormittag', nachmittag: 'Nachmittag', abend: 'Abend', egal: 'Egal',
+}
+
+export default function AnfrageModal({ praxis, lead, answers, profile, onClose, variant = 'v1' }: Props) {
+  const isV4 = variant === 'v4'
   const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
   const [telefon, setTelefon] = useState('')
   const [kontaktart, setKontaktart] = useState<Kontaktart>('email')
+  const [wunschzeit, setWunschzeit] = useState<Wunschzeit | null>(null)
   const [nachricht, setNachricht] = useState('')
   const [consent, setConsent] = useState(false)
   const [submitted, setSubmitted] = useState(false)
@@ -43,6 +58,14 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose }
     if (!consent || loading) return
     setLoading(true)
     setError(false)
+    // V4: kontaktart-radio is gone. Infer from telefon presence and
+    // prepend Wunschzeit to nachricht so the GAS sheet shape stays
+    // backwards-compatible without a schema migration.
+    const trimmedTel = telefon.trim()
+    const effectiveKontaktart: Kontaktart = isV4 ? (trimmedTel ? 'telefon' : 'email') : kontaktart
+    const effectiveNachricht = isV4 && wunschzeit
+      ? `Wunschzeit: ${WUNSCHZEIT_LABEL[wunschzeit]}${nachricht.trim() ? `\n\n${nachricht.trim()}` : ''}`
+      : nachricht.trim()
     try {
       const res = await fetch('/.netlify/functions/praxis-anfrage', {
         method: 'POST',
@@ -53,9 +76,9 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose }
           lead,
           answers,
           computedProfile: profile,
-          telefon: telefon.trim(),
-          kontaktart,
-          nachricht: nachricht.trim(),
+          telefon: trimmedTel,
+          kontaktart: effectiveKontaktart,
+          nachricht: effectiveNachricht,
           consent_praxis: true,
         }),
         keepalive: true,
@@ -134,37 +157,85 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose }
             </div>
           ) : (
             <>
-              <p style={{ fontSize: '13px', color: '#666', marginBottom: '14px', lineHeight: 1.5 }}>
-                Wir geben deine Quiz-Antworten und Kontaktdaten an die Praxis weiter, damit sie dir ein passendes Erstgespräch anbieten kann.
-              </p>
+              {isV4 ? (
+                /* V4: prefill summary - the user sees exactly what
+                   the praxis receives. Transparency = trust, kills the
+                   "wer sieht meine Antworten" objection before the form. */
+                <div style={{ backgroundColor: '#F4F7FF', border: '1px solid #DDE3F5', borderRadius: '6px', padding: '12px 14px', marginBottom: '14px' }}>
+                  <div style={{ fontSize: '12px', color: '#003399', fontWeight: 700, letterSpacing: '0.04em', marginBottom: '6px' }}>
+                    WIR SENDEN MIT DEINER ANFRAGE
+                  </div>
+                  <div style={{ fontSize: '13px', color: '#0A1F44', lineHeight: 1.5 }}>
+                    Vorname, E-Mail, PLZ und deine Quiz-Antworten. <strong>{praxis.name}</strong> sieht das, sonst niemand.
+                  </div>
+                </div>
+              ) : (
+                <p style={{ fontSize: '13px', color: '#666', marginBottom: '14px', lineHeight: 1.5 }}>
+                  Wir geben deine Quiz-Antworten und Kontaktdaten an die Praxis weiter, damit sie dir ein passendes Erstgespräch anbieten kann.
+                </p>
+              )}
 
               <div style={{ marginBottom: '12px' }}>
                 <label htmlFor="anfrage-tel" style={{ display: 'block', fontSize: '12px', fontWeight: 700, color: '#0A1F44', marginBottom: '4px' }}>
-                  Telefon <span style={{ fontWeight: 400, color: '#888' }}>(optional, beschleunigt Rückruf)</span>
+                  Telefon <span style={{ fontWeight: 400, color: '#888' }}>(optional, falls die Praxis lieber kurz anruft)</span>
                 </label>
                 <input id="anfrage-tel" type="tel" autoComplete="tel" value={telefon} onChange={e => setTelefon(e.target.value)} style={inputStyle} placeholder="+49 …" />
               </div>
 
-              <div style={{ marginBottom: '12px' }}>
-                <span style={{ display: 'block', fontSize: '12px', fontWeight: 700, color: '#0A1F44', marginBottom: '6px' }}>Bevorzugte Kontaktart</span>
-                <div style={{ display: 'flex', gap: '12px' }}>
-                  <label style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '13px', cursor: 'pointer' }}>
-                    <input type="radio" name="kontaktart" value="email" checked={kontaktart === 'email'} onChange={() => setKontaktart('email')} style={{ accentColor: '#003399' }} />
-                    E-Mail
-                  </label>
-                  <label style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '13px', cursor: 'pointer' }}>
-                    <input type="radio" name="kontaktart" value="telefon" checked={kontaktart === 'telefon'} onChange={() => setKontaktart('telefon')} style={{ accentColor: '#003399' }} />
-                    Telefon
-                  </label>
+              {isV4 ? (
+                /* V4 replaces the kontaktart radio with a wunschzeit
+                   pill picker - more useful signal for the praxis,
+                   kontaktart is inferred from telefon presence. */
+                <div style={{ marginBottom: '12px' }}>
+                  <span style={{ display: 'block', fontSize: '12px', fontWeight: 700, color: '#0A1F44', marginBottom: '6px' }}>
+                    Wunschzeit für Rückruf <span style={{ fontWeight: 400, color: '#888' }}>(optional)</span>
+                  </span>
+                  <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
+                    {WUNSCHZEIT_OPTIONS.map(opt => {
+                      const selected = wunschzeit === opt.value
+                      return (
+                        <button
+                          key={opt.value}
+                          type="button"
+                          onClick={() => setWunschzeit(selected ? null : opt.value)}
+                          style={{
+                            padding: '6px 12px', fontSize: '13px', fontWeight: 600,
+                            border: `1px solid ${selected ? '#003399' : '#DDE3F5'}`,
+                            backgroundColor: selected ? '#003399' : '#fff',
+                            color: selected ? '#fff' : '#0A1F44',
+                            borderRadius: '20px', cursor: 'pointer',
+                          }}
+                        >
+                          {opt.label}
+                        </button>
+                      )
+                    })}
+                  </div>
                 </div>
-              </div>
+              ) : (
+                <div style={{ marginBottom: '12px' }}>
+                  <span style={{ display: 'block', fontSize: '12px', fontWeight: 700, color: '#0A1F44', marginBottom: '6px' }}>Bevorzugte Kontaktart</span>
+                  <div style={{ display: 'flex', gap: '12px' }}>
+                    <label style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '13px', cursor: 'pointer' }}>
+                      <input type="radio" name="kontaktart" value="email" checked={kontaktart === 'email'} onChange={() => setKontaktart('email')} style={{ accentColor: '#003399' }} />
+                      E-Mail
+                    </label>
+                    <label style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '13px', cursor: 'pointer' }}>
+                      <input type="radio" name="kontaktart" value="telefon" checked={kontaktart === 'telefon'} onChange={() => setKontaktart('telefon')} style={{ accentColor: '#003399' }} />
+                      Telefon
+                    </label>
+                  </div>
+                </div>
+              )}
 
               <div style={{ marginBottom: '14px' }}>
                 <label htmlFor="anfrage-msg" style={{ display: 'block', fontSize: '12px', fontWeight: 700, color: '#0A1F44', marginBottom: '4px' }}>
-                  Nachricht an die Praxis <span style={{ fontWeight: 400, color: '#888' }}>(optional)</span>
+                  {isV4
+                    ? <>Notiz an die Praxis <span style={{ fontWeight: 400, color: '#888' }}>(optional, z.B. wenn du etwas Bestimmtes erwähnen willst)</span></>
+                    : <>Nachricht an die Praxis <span style={{ fontWeight: 400, color: '#888' }}>(optional)</span></>}
                 </label>
                 <textarea
-                  id="anfrage-msg" value={nachricht} onChange={e => setNachricht(e.target.value)} rows={3}
+                  id="anfrage-msg" value={nachricht} onChange={e => setNachricht(e.target.value)} rows={isV4 ? 2 : 3}
                   style={{ ...inputStyle, height: 'auto', padding: '8px 12px', resize: 'vertical' }}
                 />
               </div>
@@ -203,6 +274,24 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose }
                   {loading ? <><Loader2 size={14} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesendet…</> : 'Anfrage senden →'}
                 </button>
               </div>
+
+              {isV4 && (
+                /* Objection killers - defensible only. Skipped:
+                   "zahlt oft die Krankenkasse" - Besenreiser sind idR
+                   IGeL, das wäre UWG-Risiko. */
+                <div style={{ marginTop: '12px', display: 'flex', flexDirection: 'column', gap: '6px' }}>
+                  {[
+                    'Du verpflichtest dich zu nichts.',
+                    'Du erfährst, was bei dir konkret in Frage kommt.',
+                    'Die Antwort kommt von der Praxis direkt — nicht von uns.',
+                  ].map(line => (
+                    <div key={line} style={{ display: 'flex', alignItems: 'flex-start', gap: '6px', fontSize: '12px', color: '#555', lineHeight: 1.4 }}>
+                      <Check size={13} color="#0A7C4A" style={{ flexShrink: 0, marginTop: '2px' }} />
+                      <span>{line}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
             </>
           )}
         </div>

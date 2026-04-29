@@ -17,18 +17,25 @@ import ScoreBar from './ScoreBar'
 import ComparisonTable from './ComparisonTable'
 import PraxisCard from './PraxisCard'
 import AnfrageModal from './AnfrageModal'
+import Step12ResultV4 from './Step12ResultV4'
 
 interface Props {
   answers: QuizAnswers
   lead: QuizLead
   profile: ComputedProfile
   onReset: () => void
-  variant?: 'v1' | 'v2' | 'v3'
+  variant?: 'v1' | 'v2' | 'v3' | 'v4'
 }
 
 const PAGE_SIZE = 12
 
 export default function Step12Result({ answers, lead, profile, onReset, variant = 'v1' }: Props) {
+  // V4 has a structurally different layout (delivery-first, no
+  // re-pitch wall). Dispatch to its own component so this file
+  // stays focused on V1/V2/V3.
+  if (variant === 'v4') {
+    return <Step12ResultV4 answers={answers} lead={lead} profile={profile} onReset={onReset} />
+  }
   const { clinics } = useClinics()
   const [contactPraxis, setContactPraxis] = useState<ScoredPraxis | null>(null)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)

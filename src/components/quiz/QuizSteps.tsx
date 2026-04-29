@@ -13,6 +13,11 @@ import { pivotTextFromAnswers } from '../../lib/quizPivotTexts'
 // /methoden-quiz-3 = v3 (DR strip - one specific truth per step,
 // numeric where defensible). Each step accepts an optional variant
 // prop; v1 stays unchanged so the A/B/C test has a stable baseline.
+//
+// /methoden-quiz-4 (v4) reuses the V3 funnel for steps 1-11 verbatim
+// (the page passes variant="v3" through here) and only diverges in
+// Step 12 + the inquiry modal. So this file does not need a "v4"
+// branch - the divergence lives in Step12Result and AnfrageModal.
 export type QuizVariant = 'v1' | 'v2' | 'v3'
 
 // Helper texts per step. v2 stacks the doubt; v3 strips to one
