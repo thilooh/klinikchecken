@@ -55,24 +55,44 @@ function StepCard({ children }: { children: React.ReactNode }) {
   )
 }
 
-function StepHeader({ idx, total, prompt, helpText }: { idx: number; total: number; prompt: string; helpText: string }) {
+function StepHeader({ idx, total, prompt, helpText }: { idx: number; total: number; prompt: string; helpText: React.ReactNode }) {
   return (
     <>
       <div style={{ fontSize: '12px', color: '#888', fontWeight: 700, marginBottom: '4px', letterSpacing: '0.05em' }}>
         FRAGE {idx} / {total}
       </div>
       <h2 style={{ fontSize: '19px', fontWeight: 700, color: '#0A1F44', marginBottom: '6px', lineHeight: 1.3 }}>{prompt}</h2>
-      <p style={{ fontSize: '13px', color: '#666', marginBottom: '18px' }}>{helpText}</p>
+      <div style={{ fontSize: '13px', color: '#666', marginBottom: '18px' }}>{helpText}</div>
     </>
   )
 }
 
 const Q_TOTAL = 8
 
+// V3 Step 1 help renders as three distinct lines: action prompt,
+// the body-part → specialty mapping as small pills, and the
+// "selten beides" caveat in italics. Easier to scan than the
+// dense one-paragraph version that ran on mobile.
+const STEP1_V3_HELP = (
+  <>
+    <div style={{ marginBottom: '8px' }}>Klick auf den Bereich.</div>
+    <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', marginBottom: '8px' }}>
+      <span style={{ backgroundColor: '#F4F7FF', border: '1px solid #DDE3F5', borderRadius: '4px', padding: '4px 10px', fontSize: '12px', color: '#0A1F44' }}>
+        <strong>Beine</strong> → Phlebologie
+      </span>
+      <span style={{ backgroundColor: '#F4F7FF', border: '1px solid #DDE3F5', borderRadius: '4px', padding: '4px 10px', fontSize: '12px', color: '#0A1F44' }}>
+        <strong>Gesicht</strong> → Dermatologie
+      </span>
+    </div>
+    <div style={{ fontSize: '12px', fontStyle: 'italic', color: '#888' }}>Eine Praxis kann selten beides.</div>
+  </>
+)
+
 export function Step1Lokalisation({ onSelect, variant = 'v1' }: { onSelect: (v: string) => void; variant?: QuizVariant }) {
+  const help = variant === 'v3' ? STEP1_V3_HELP : HELP_TEXT[1][variant]
   return (
     <StepCard>
-      <StepHeader idx={1} total={Q_TOTAL} prompt="Wo möchtest du sie loswerden?" helpText={HELP_TEXT[1][variant]} />
+      <StepHeader idx={1} total={Q_TOTAL} prompt="Wo möchtest du sie loswerden?" helpText={help} />
       <BodyMap selected={null} onSelect={onSelect} />
     </StepCard>
   )
