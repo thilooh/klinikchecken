@@ -350,9 +350,31 @@ const STEP9_V2_PARAGRAPHS_GESICHT = [
 ]
 
 const STEP9_V3_PARAGRAPHS_BEINE = [
-  'Eine Besenreiser-Ader sitzt 0,5 bis 1 mm unter der Hautoberfläche.',
-  'Eine Creme zieht etwa 0,02 mm tief ein.',
-  'Cremes erreichen die Ader nie. Die Methoden in der Phlebologie tun das.',
+  'Eine Besenreiser-Ader liegt im Mittel etwa 0,46 mm unter der Hautoberfläche.¹',
+  'Cremes wirken hauptsächlich in der Hornschicht der Haut - etwa 0,02 mm tief.²',
+  'Sie erreichen die Ader nie. Die Methoden in der Phlebologie tun das.',
+]
+
+// Sourced footnote data for the V3 Beine pivot. Wired as super-script
+// markers in the paragraphs above; rendered as a small citation block
+// underneath the reframe so the depth-math claim is verifiable.
+//   1) 0,46 mm = mean histological depth of telangiectasia (post-
+//      capillary venules in superficial dermis).
+//   2) Stratum corneum thickness 10-20 µm; conventional cream actives
+//      typically not detectable below ~20 µm = 0,02 mm.
+const STEP9_V3_FOOTNOTES_BEINE: Array<{ marker: string; text: string; href: string; linkText: string }> = [
+  {
+    marker: '¹',
+    text: 'Mittlere Tiefe von Besenreisern (Teleangiektasien) im superficialen Korium.',
+    href: 'https://plasticsurgerykey.com/pathophysiology-of-telangiectasias/',
+    linkText: 'Plastic Surgery Key – Pathophysiology of Telangiectasias',
+  },
+  {
+    marker: '²',
+    text: 'Hornschicht-Dicke (Stratum corneum) typisch 10-20 µm. Wirkstoffe konventioneller Cremes sind tiefer meist nicht nachweisbar.',
+    href: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC2577912/',
+    linkText: 'PMC – Determination of Stratum Corneum Thickness',
+  },
 ]
 
 const STEP9_V3_PARAGRAPHS_GESICHT = [
@@ -419,6 +441,20 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
               {para}
             </p>
           ))}
+          {/* Footnote citations - only on V3 Beine path where the
+              reframe contains numeric claims that need backing. */}
+          {isV3 && !isFace && (
+            <div style={{ fontSize: '11px', color: '#777', borderTop: '1px solid #E5E9F2', paddingTop: '10px', marginTop: '-10px', marginBottom: '18px', lineHeight: 1.55 }}>
+              {STEP9_V3_FOOTNOTES_BEINE.map(fn => (
+                <p key={fn.marker} style={{ margin: '0 0 6px 0' }}>
+                  <span style={{ fontWeight: 700 }}>{fn.marker}</span> {fn.text}{' '}
+                  <a href={fn.href} target="_blank" rel="noopener noreferrer" style={{ color: '#0052CC' }}>
+                    {fn.linkText} ↗
+                  </a>
+                </p>
+              ))}
+            </div>
+          )}
         </>
       ) : (
         <>
