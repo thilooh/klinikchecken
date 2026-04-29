@@ -9,35 +9,39 @@ import type { QuizAnswers } from '../../lib/quizState'
 import { Q2_PIVOT_TEXT, Q7_PIVOT_TEXT } from '../../lib/quizDisplayMaps'
 import { pivotTextFromAnswers } from '../../lib/quizPivotTexts'
 
-// /methoden-quiz   = v1 (control). /methoden-quiz-2 = v2 (DR rewrite).
-// Each step accepts an optional variant prop; v2 triggers the
-// frame-shift seeds + pause patterns from the copywriter analysis.
-// v1 stays untouched so the A/B test has a stable baseline.
-export type QuizVariant = 'v1' | 'v2'
+// /methoden-quiz   = v1 (control). /methoden-quiz-2 = v2 (DR claim-stack).
+// /methoden-quiz-3 = v3 (DR strip - one specific truth per step,
+// numeric where defensible). Each step accepts an optional variant
+// prop; v1 stays unchanged so the A/B/C test has a stable baseline.
+export type QuizVariant = 'v1' | 'v2' | 'v3'
 
-// Helper texts per step. v2 plants the "you don't understand the
-// problem yet" doubt at every step, instead of holding it all for
-// the pivot. See the analysis doc for rationale per step.
+// Helper texts per step. v2 stacks the doubt; v3 strips to one
+// specific, unfalsifiable truth (Hopkins / Halbert specificity rule).
 const HELP_TEXT: Record<1 | 2 | 3 | 4 | 5, Record<QuizVariant, string>> = {
   1: {
     v1: 'Klick auf den Bereich, der dich am meisten stört.',
     v2: 'Klick auf den Bereich, der dich am meisten stört. Der Ort entscheidet, welche Methode überhaupt funktionieren kann - Beine und Gesicht sind zwei verschiedene Behandlungsdisziplinen.',
+    v3: 'Klick auf den Bereich. Beine = Phlebologie. Gesicht = Dermatologie. Eine Praxis kann selten beides.',
   },
   2: {
     v1: 'Damit wir einschätzen, was bei dir hilfreich sein könnte.',
     v2: 'Wann sie aufgetaucht sind, sagt mehr über die Ursache als über die Sichtbarkeit - und die Ursache entscheidet, was funktioniert.',
+    v3: 'Wann sie kamen, sagt mehr als wie sie aussehen.',
   },
   3: {
     v1: 'Größe und Verteilung sind für die Methodenwahl wichtig.',
     v2: 'Klein heißt nicht harmlos. Mittel heißt nicht behandlungsresistent. Was du gleich auswählst, sieht oft anders aus als das, was darunter passiert.',
+    v3: 'Eine 0,5-mm-Ader sieht im Spiegel oft kleiner aus, als sie ist.',
   },
   4: {
     v1: 'Damit wir dir Methoden zeigen, die bei deinem Hauttyp sicher sind.',
     v2: 'Bei dunkler Haut ist eine bestimmte Laser-Wellenlänge ein Risiko - und nicht jede Praxis spricht das offen an. Deshalb fragen wir.',
+    v3: 'Bei Hauttyp 4-6 brennt der falsche Laser die Pigmentierung. Deshalb fragen wir.',
   },
   5: {
     v1: 'Wähle aus, was dir am vertrautesten ist.',
     v2: 'Wähle aus, was dir am vertrautesten ist.',
+    v3: 'Wähle aus, was dir am vertrautesten ist.',
   },
 }
 
@@ -116,16 +120,22 @@ export function Step4Hauttyp({ onSelect, variant = 'v1' }: { onSelect: (v: strin
 // their actual emotional baseline.
 //
 // V2 adds a "Spiegel-Satz" pause between the click and step 6.
-// User-paced: shows the mirror text with a manual Weiter button so
-// it can actually be read instead of being auto-skipped.
-// Hopkins / Halbert identity-shift.
-const STEP5_MIRROR_TEXT = 'Das ist nicht Eitelkeit. Das ist die unsichtbare Steuer, die du zahlst, weil dein Körper sich anders entschieden hat als du.'
+// V3 swaps the metaphor for a strip-DR specific image: instead of
+// "unsichtbare Steuer" (vague), the V3 mirror points at the concrete
+// list of clothes / outings the user has been quietly skipping.
+// Reader can't argue because the list lives in their head.
+const STEP5_MIRROR_TEXTS: Record<QuizVariant, string> = {
+  v1: '',
+  v2: 'Das ist nicht Eitelkeit. Das ist die unsichtbare Steuer, die du zahlst, weil dein Körper sich anders entschieden hat als du.',
+  v3: 'Das ist nicht Eitelkeit. Das ist die Liste der Sachen, die du heimlich nicht mehr machst.',
+}
 
 export function Step5Recognition({ onSelect, variant = 'v1' }: { onSelect: (v: string) => void; variant?: QuizVariant }) {
   const [mirrorFor, setMirrorFor] = useState<string | null>(null)
+  const showMirror = variant === 'v2' || variant === 'v3'
 
   const handleSelect = (value: string) => {
-    if (variant !== 'v2') {
+    if (!showMirror) {
       onSelect(value)
       return
     }
@@ -134,12 +144,12 @@ export function Step5Recognition({ onSelect, variant = 'v1' }: { onSelect: (v: s
     setMirrorFor(value)
   }
 
-  if (variant === 'v2' && mirrorFor) {
+  if (showMirror && mirrorFor) {
     return (
       <StepCard>
         <div style={{ minHeight: '180px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', padding: '20px 8px' }}>
           <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.6, maxWidth: '420px', marginBottom: '24px' }}>
-            {STEP5_MIRROR_TEXT}
+            {STEP5_MIRROR_TEXTS[variant]}
           </p>
           <button
             type="button"
@@ -228,22 +238,24 @@ export function Step6Versucht({
 // The statement is a self-diagnosis prompt: clicking "stimme völlig
 // zu" is the user telling themselves "my behaviour is influenced by
 // my Besenreiser" - the strongest investment anchor in the quiz.
-// V2 adds a "Stop-and-Mirror" pause after a committal answer
-// (voellig_zu / eher_zu) - "Du hast gerade etwas Wichtiges
-// zugegeben." Sugarman slippery-slide confirmation. User-paced: a
-// manual Weiter button so the sentence is actually read instead
-// of auto-skipped. Non-committal answers (eher_nicht / gar_nicht)
-// skip the mirror to avoid a hollow beat.
-const STEP7_MIRROR_TEXT = 'Du hast gerade etwas Wichtiges zugegeben. Den meisten ist das nicht bewusst.'
+// V2: "Du hast gerade etwas Wichtiges zugegeben." (vague claim).
+// V3: echo the user's own answer back literally so the mirror is
+// a Trapdoor they can't argue with - they JUST clicked it.
+const STEP7_MIRROR_TEXTS: Record<QuizVariant, string> = {
+  v1: '',
+  v2: 'Du hast gerade etwas Wichtiges zugegeben. Den meisten ist das nicht bewusst.',
+  v3: 'Du hast gerade gesagt: Mein Verhalten richtet sich nach meinen Beinen.',
+}
 
 export function Step7Vermeidung({ onSelect, variant = 'v1' }: {
   onSelect: (v: 'voellig_zu' | 'eher_zu' | 'eher_nicht' | 'gar_nicht') => void
   variant?: QuizVariant
 }) {
   const [mirrorFor, setMirrorFor] = useState<'voellig_zu' | 'eher_zu' | 'eher_nicht' | 'gar_nicht' | null>(null)
+  const showMirror = variant === 'v2' || variant === 'v3'
 
   const handleSelect = (value: 'voellig_zu' | 'eher_zu' | 'eher_nicht' | 'gar_nicht') => {
-    if (variant !== 'v2') { onSelect(value); return }
+    if (!showMirror) { onSelect(value); return }
     // Only committal answers earn the mirror moment; non-committal
     // answers pass through immediately so the flow stays brisk.
     if (value === 'voellig_zu' || value === 'eher_zu') {
@@ -253,12 +265,12 @@ export function Step7Vermeidung({ onSelect, variant = 'v1' }: {
     onSelect(value)
   }
 
-  if (variant === 'v2' && (mirrorFor === 'voellig_zu' || mirrorFor === 'eher_zu')) {
+  if (showMirror && (mirrorFor === 'voellig_zu' || mirrorFor === 'eher_zu')) {
     return (
       <StepCard>
         <div style={{ minHeight: '180px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', padding: '20px 8px' }}>
           <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.6, maxWidth: '420px', marginBottom: '24px' }}>
-            {STEP7_MIRROR_TEXT}
+            {STEP7_MIRROR_TEXTS[variant]}
           </p>
           <button
             type="button"
@@ -317,6 +329,13 @@ export function Step8Zeitziel({ onSelect }: { onSelect: (v: string) => void; var
 // jemanden, der dort arbeiten darf, wo das Problem sitzt." Routes
 // the same forward-look (Phlebologie / Dermatologie+Lasermedizin)
 // based on Q1 to keep medical accuracy intact.
+//
+// V3 strips the pivot to a numeric trapdoor: the depth gap between
+// vessel (0,5-1 mm under skin) and cream penetration (~0,02 mm).
+// Reader does the math in their head; the conclusion is unfalsifiable.
+// HWG note: both depth values are within standard dermatology /
+// phlebology literature. Texter should keep two short citations on
+// file (cream stratum-corneum penetration; teleangiectasia depth).
 
 const STEP9_V2_PARAGRAPHS_BEINE = [
   'Was du an deinen Beinen siehst, ist nicht das Problem. Das ist nur die Stelle, an der das Problem an die Oberfläche durchschimmert.',
@@ -328,6 +347,18 @@ const STEP9_V2_PARAGRAPHS_GESICHT = [
   'Was du im Spiegel siehst, ist nicht das Problem. Das ist nur die Stelle, an der das Problem durchschimmert.',
   'Die Kapillargefäße darunter sind dauerhaft erweitert. Sie haben sich gegen ihren Ruhe-Zustand entschieden. Pflege, Make-up, Beruhigungs-Cremes - sie waren nie die Antwort. Sie waren nicht mal an der richtigen Stelle.',
   'Die Verfahren, die diese Gefäße tatsächlich behandeln, gibt es. Aber sie brauchen jemanden, der dort arbeiten darf, wo das Problem sitzt. Nicht obendrauf. Darunter.',
+]
+
+const STEP9_V3_PARAGRAPHS_BEINE = [
+  'Eine Besenreiser-Ader sitzt 0,5 bis 1 mm unter der Hautoberfläche.',
+  'Eine Creme zieht etwa 0,02 mm tief ein.',
+  'Cremes erreichen die Ader nie. Die Methoden in der Phlebologie tun das.',
+]
+
+const STEP9_V3_PARAGRAPHS_GESICHT = [
+  'Eine Kapillarader im Gesicht ist dauerhaft erweitert.',
+  'Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt.',
+  'Die Verfahren in der Dermatologie verkleinern die Ader. Pflege macht das nicht.',
 ]
 
 export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
@@ -345,9 +376,14 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
 
   // V2: three-paragraph "Symptom statt Ursache" reveal replacing
   // the clinical "Klappenschwäche der feinen Venen" framing.
-  const v2Paragraphs = answers.q1_lokalisation === 'gesicht'
-    ? STEP9_V2_PARAGRAPHS_GESICHT
-    : STEP9_V2_PARAGRAPHS_BEINE
+  // V3: depth-math trapdoor (0,5 mm vs 0,02 mm) - same Beine /
+  // Gesicht split, but Gesicht uses a "stays / goes" mechanism
+  // since the depth gap is smaller for face vessels.
+  const isV3 = variant === 'v3'
+  const isFace = answers.q1_lokalisation === 'gesicht'
+  const v2Paragraphs = isFace ? STEP9_V2_PARAGRAPHS_GESICHT : STEP9_V2_PARAGRAPHS_BEINE
+  const v3Paragraphs = isFace ? STEP9_V3_PARAGRAPHS_GESICHT : STEP9_V3_PARAGRAPHS_BEINE
+  const reframeParagraphs = isV3 ? v3Paragraphs : v2Paragraphs
 
   return (
     <StepCard>
@@ -367,9 +403,9 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
 
       <hr style={{ border: 'none', borderTop: '1px solid #E5E9F2', margin: '16px 0' }} />
 
-      {variant === 'v2' ? (
+      {(variant === 'v2' || variant === 'v3') ? (
         <>
-          {v2Paragraphs.map((para, i) => (
+          {reframeParagraphs.map((para, i) => (
             <p
               key={i}
               style={{
@@ -377,7 +413,7 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
                 color: i === 0 ? '#0A1F44' : '#444',
                 fontWeight: i === 0 ? 600 : 400,
                 lineHeight: 1.7,
-                marginBottom: i === v2Paragraphs.length - 1 ? '20px' : '14px',
+                marginBottom: i === reframeParagraphs.length - 1 ? '20px' : '14px',
               }}
             >
               {para}
@@ -418,9 +454,10 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
 // Step 10 - 2-second loader between Pivot and Lead-Capture. Three
 // rotating reassurance lines, auto-advance to step 11.
 //
-// V2 swaps the middle line for a "Did you know?"-style mini-truth
-// instead of pure reassurance - keeps the user reading rather than
-// just waiting.
+// V2 swaps the middle line for a "Did you know?"-style mini-truth.
+// V3 strips the middle line to a no-claim reassurance - lets the
+// pivot's depth-math do the work instead of a second mid-funnel
+// claim that would compete for the reader's bullshit budget.
 const LOADER_LINES_V1 = [
   'Wir gleichen deine Antworten ab…',
   'Wir stellen deine Auswertung zusammen…',
@@ -431,10 +468,15 @@ const LOADER_LINES_V2 = [
   'Was viele übersehen: dein Hauttyp entscheidet oft mehr als die Größe.',
   'Deine Auswertung ist fertig.',
 ]
+const LOADER_LINES_V3 = [
+  'Wir gleichen deine Antworten ab…',
+  'Wir filtern Praxen, die zu deinen Antworten passen.',
+  'Deine Auswertung ist fertig.',
+]
 
 export function Step10Loading({ onDone, variant = 'v1' }: { onDone: () => void; variant?: QuizVariant }) {
   const [lineIdx, setLineIdx] = useState(0)
-  const lines = variant === 'v2' ? LOADER_LINES_V2 : LOADER_LINES_V1
+  const lines = variant === 'v3' ? LOADER_LINES_V3 : variant === 'v2' ? LOADER_LINES_V2 : LOADER_LINES_V1
 
   useEffect(() => {
     const t1 = window.setTimeout(() => setLineIdx(1), 700)

@@ -22,7 +22,7 @@ interface Props {
   initial: QuizLead
   answers: QuizAnswers
   onSubmitted: (lead: QuizLead, profile: ComputedProfile) => void
-  variant?: 'v1' | 'v2'
+  variant?: 'v1' | 'v2' | 'v3'
 }
 
 export default function Step11Capture({ initial, answers, onSubmitted, variant = 'v1' }: Props) {
@@ -103,12 +103,18 @@ export default function Step11Capture({ initial, answers, onSubmitted, variant =
         ✓ Deine Quiz-Auswertung ist fertig
       </div>
       <h2 style={{ fontSize: '20px', fontWeight: 700, color: '#0A1F44', marginBottom: '8px', lineHeight: 1.3 }}>
-        {variant === 'v2' ? 'Wir schicken dir alles per Mail.' : 'Wohin schicken wir dein Orientierungsprofil?'}
+        {variant === 'v3'
+          ? "Wir schicken's dir per Mail."
+          : variant === 'v2'
+            ? 'Wir schicken dir alles per Mail.'
+            : 'Wohin schicken wir dein Orientierungsprofil?'}
       </h2>
       <p style={{ fontSize: '14px', color: '#444', marginBottom: '12px', lineHeight: 1.5 }}>
-        {variant === 'v2'
-          ? 'Profil, in Frage kommende Methoden, Praxen in deiner Nähe - alles in einer Mail. So kannst du es später nochmal ansehen, mit jemandem teilen oder in Ruhe überlegen, ohne dass wir dir auf die Pelle rücken.'
-          : 'Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt - Typ, Ausprägung und passende Methoden.'}
+        {variant === 'v3'
+          ? 'Du liest, wann du willst.'
+          : variant === 'v2'
+            ? 'Profil, in Frage kommende Methoden, Praxen in deiner Nähe - alles in einer Mail. So kannst du es später nochmal ansehen, mit jemandem teilen oder in Ruhe überlegen, ohne dass wir dir auf die Pelle rücken.'
+            : 'Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt - Typ, Ausprägung und passende Methoden.'}
       </p>
       <p style={{ fontSize: '12px', color: '#666', marginBottom: '20px', lineHeight: 1.5 }}>
         Das Profil ist eine Orientierungshilfe und keine ärztliche Diagnose.

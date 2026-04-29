@@ -23,7 +23,7 @@ interface Props {
   lead: QuizLead
   profile: ComputedProfile
   onReset: () => void
-  variant?: 'v1' | 'v2'
+  variant?: 'v1' | 'v2' | 'v3'
 }
 
 const PAGE_SIZE = 12
@@ -123,6 +123,11 @@ export default function Step12Result({ answers, lead, profile, onReset, variant 
         {variant === 'v2' && (
           <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.5, marginBottom: '12px' }}>
             Erinnerst du dich, was du probiert hast? Hier ist, warum es nicht reichen konnte.
+          </p>
+        )}
+        {variant === 'v3' && (
+          <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.5, marginBottom: '12px' }}>
+            Vier davon erreichen die Ader nicht. Zwei schon.
           </p>
         )}
         <div style={{ marginBottom: '24px' }}>
