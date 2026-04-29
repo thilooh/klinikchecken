@@ -92,7 +92,7 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose }
   }
 
   const inputStyle: React.CSSProperties = {
-    width: '100%', height: '40px', padding: '0 12px', fontSize: '14px',
+    width: '100%', height: '44px', padding: '0 12px', fontSize: '14px',
     border: '1px solid #DDE3F5', borderRadius: '6px', boxSizing: 'border-box', outline: 'none',
   }
 

@@ -44,7 +44,8 @@ export default function StatementAgreement({ statement, onSelect }: Props) {
             type="button"
             onClick={() => onSelect(opt.value)}
             style={{
-              padding: '12px 10px',
+              padding: '14px 10px',
+              minHeight: '52px',
               border: '1px solid #DDE3F5',
               borderRadius: '6px',
               backgroundColor: '#fff',
