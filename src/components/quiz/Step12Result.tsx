@@ -127,7 +127,7 @@ export default function Step12Result({ answers, lead, profile, onReset, variant 
         )}
         {variant === 'v3' && (
           <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.5, marginBottom: '12px' }}>
-            Vier davon erreichen die Ader nicht. Zwei schon.
+            Vier arbeiten an der Oberfläche. Zwei arbeiten an der Ader selbst.
           </p>
         )}
         <div style={{ marginBottom: '24px' }}>

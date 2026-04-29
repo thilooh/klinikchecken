@@ -111,7 +111,7 @@ export default function Step11Capture({ initial, answers, onSubmitted, variant =
       </h2>
       <p style={{ fontSize: '14px', color: '#444', marginBottom: '12px', lineHeight: 1.5 }}>
         {variant === 'v3'
-          ? 'Du liest, wann du willst.'
+          ? 'Profil + Praxen in einer Mail. Wir rufen nicht an. Eine Praxis kontaktiert dich nur, wenn du sie selbst anfragst.'
           : variant === 'v2'
             ? 'Profil, in Frage kommende Methoden, Praxen in deiner Nähe - alles in einer Mail. So kannst du es später nochmal ansehen, mit jemandem teilen oder in Ruhe überlegen, ohne dass wir dir auf die Pelle rücken.'
             : 'Auf Basis deiner 8 Antworten haben wir dein persönliches Orientierungsprofil zusammengestellt - Typ, Ausprägung und passende Methoden.'}
@@ -195,7 +195,7 @@ export default function Step11Capture({ initial, answers, onSubmitted, variant =
       </button>
 
       <p style={{ fontSize: '12px', color: '#888', marginTop: '12px', textAlign: 'center' }}>
-        Du bekommst dein Orientierungsprofil auch per Mail - praktisch, wenn du es später nochmal ansehen willst.
+        Du bekommst dein Orientierungsprofil auch per Mail, wenn du es später nochmal ansehen willst.
       </p>
     </div>
   )

@@ -41,7 +41,7 @@ export default function ComparisonTable() {
                 Maßnahme
               </th>
               <th style={{ padding: '10px 12px', textAlign: 'center', fontWeight: 700, color: '#0A1F44', borderBottom: '1px solid #DDE3F5', whiteSpace: 'nowrap' }}>
-                Behandelt Gefäß
+                Setzt am Gefäß an
               </th>
               <th style={{ padding: '10px 12px', textAlign: 'center', fontWeight: 700, color: '#0A1F44', borderBottom: '1px solid #DDE3F5', whiteSpace: 'nowrap' }}>
                 Aufwand

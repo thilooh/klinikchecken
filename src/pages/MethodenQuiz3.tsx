@@ -134,7 +134,7 @@ export default function MethodenQuiz3() {
             <Step7Vermeidung variant="v3" onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q7_vermeidung', value: v })} />
           )}
           {state.currentStep === 8 && (
-            <Step8Zeitziel onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q8_zeitziel', value: v })} />
+            <Step8Zeitziel variant="v3" onSelect={v => dispatch({ type: 'ANSWER_SINGLE', key: 'q8_zeitziel', value: v })} />
           )}
           {state.currentStep === 9 && (
             <Step9Pivot variant="v3" answers={state.answers} onContinue={goNext} />

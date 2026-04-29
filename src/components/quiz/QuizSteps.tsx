@@ -304,10 +304,19 @@ export function Step7Vermeidung({ onSelect, variant = 'v1' }: {
   )
 }
 
-export function Step8Zeitziel({ onSelect }: { onSelect: (v: string) => void; variant?: QuizVariant }) {
+// V3 swaps the generic "Zeitrahmen entscheidet"-Helper for a Strip-DR
+// specific: numeric, method-rooted, prepares the Step 9 pivot. V1/V2
+// keep the original for now to preserve their A/B baseline.
+const STEP8_HELP_TEXT: Record<QuizVariant, string> = {
+  v1: 'Der Zeitrahmen entscheidet mit, wann du am besten startest.',
+  v2: 'Der Zeitrahmen entscheidet mit, wann du am besten startest.',
+  v3: 'Sklerotherapie braucht typischerweise 4-6 Wochen Abheilung pro Sitzung. Laser oft weniger. Beides nicht über Nacht.',
+}
+
+export function Step8Zeitziel({ onSelect, variant = 'v1' }: { onSelect: (v: string) => void; variant?: QuizVariant }) {
   return (
     <StepCard>
-      <StepHeader idx={8} total={Q_TOTAL} prompt="Bis wann möchtest du Ergebnisse sehen?" helpText="Der Zeitrahmen entscheidet mit, wann du am besten startest." />
+      <StepHeader idx={8} total={Q_TOTAL} prompt="Bis wann möchtest du Ergebnisse sehen?" helpText={STEP8_HELP_TEXT[variant]} />
       <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
         <AnswerCard label="Vor diesem Sommer" onSelect={() => onSelect('diesen_sommer')} />
         <AnswerCard label="Vor einem konkreten Anlass" sub="(Hochzeit, Urlaub, Geburtstag)" onSelect={() => onSelect('anlass')} />
@@ -371,7 +380,7 @@ const STEP9_V3_FOOTNOTES_BEINE: Array<{ marker: string; text: string; href: stri
   },
   {
     marker: '²',
-    text: 'Hornschicht-Dicke (Stratum corneum) typisch 10-20 µm. Wirkstoffe konventioneller Cremes sind tiefer meist nicht nachweisbar.',
+    text: 'Hornschicht-Dicke (Stratum corneum) typisch 10-20 µm. Topisch applizierte Cremes ohne Penetration-Enhancer werden in der Hornschicht abgebaut.',
     href: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC2577912/',
     linkText: 'PMC – Determination of Stratum Corneum Thickness',
   },
@@ -380,7 +389,7 @@ const STEP9_V3_FOOTNOTES_BEINE: Array<{ marker: string; text: string; href: stri
 const STEP9_V3_PARAGRAPHS_GESICHT = [
   'Eine Kapillarader im Gesicht ist dauerhaft erweitert.',
   'Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt.',
-  'Die Verfahren in der Dermatologie verkleinern die Ader. Pflege macht das nicht.',
+  'Die Verfahren in der Dermatologie setzen direkt an der Ader an. Pflege liegt darüber.',
 ]
 
 export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
@@ -390,7 +399,7 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
 }) {
   const triggerText = answers.q2_trigger ? Q2_PIVOT_TEXT[answers.q2_trigger] : ''
   const vermeidungText = answers.q7_vermeidung ? Q7_PIVOT_TEXT[answers.q7_vermeidung] : ''
-  const t = pivotTextFromAnswers(answers)
+  const t = pivotTextFromAnswers(answers, variant)
 
   const bulletStyle: React.CSSProperties = {
     fontSize: '14px', color: '#444', padding: '4px 0', display: 'flex', gap: '8px',

@@ -30,6 +30,34 @@ export function getBullet2Text(q6_versucht: string[]): string {
   return `Du hast schon ${count} verschiedene Strategien probiert`
 }
 
+// V3 variant - names the things by name instead of just counting them.
+// The trapdoor is stronger when the user reads HER OWN list back.
+// Shorter labels than Q6_DISPLAY so the bullet stays scannable.
+const Q6_BULLET_LABEL: Record<string, string> = {
+  cremes: 'Cremes',
+  kompression: 'Kompression',
+  camouflage: 'Camouflage',
+  selftanner: 'Self-Tanner',
+  hausmittel: 'Hausmittel',
+  verstecken: 'Verstecken unter Kleidung',
+}
+
+function joinAnd(items: string[]): string {
+  if (items.length === 0) return ''
+  if (items.length === 1) return items[0]
+  if (items.length === 2) return `${items[0]} und ${items[1]}`
+  return `${items.slice(0, -1).join(', ')} und ${items[items.length - 1]}`
+}
+
+export function getBullet2TextV3(q6_versucht: string[]): string {
+  const real = q6_versucht.filter(v => v !== NICHTS)
+  if (real.length === 0) return 'Du informierst dich gerade - bevor du etwas ausprobierst'
+  const labels = real.map(v => Q6_BULLET_LABEL[v]).filter(Boolean)
+  if (labels.length === 1) return `Du hast ${labels[0]} probiert`
+  if (labels.length === 2) return `Du hast ${joinAnd(labels)} probiert`
+  return `Du hast ${labels.length} verschiedene Wege probiert: ${joinAnd(labels)}`
+}
+
 // Mechanism-reframe paragraph. Two paths: legs (vein valve story)
 // and face (capillary dilation story).
 export function getMechanismParagraph(q1_lokalisation: string | null): string {
@@ -69,10 +97,11 @@ export function getForwardLook(q1_lokalisation: string | null): string {
   return 'Auf der nächsten Seite siehst du deine persönliche Auswertung und welche Methoden in der Phlebologie genau dieses Gefäß-Problem behandeln.'
 }
 
-// Small helper exported so the pivot component reads cleanly.
-export function pivotTextFromAnswers(answers: QuizAnswers) {
+// Small helper exported so the pivot component reads cleanly. V3 swaps
+// bullet 2 for the literal-list version; everything else stays shared.
+export function pivotTextFromAnswers(answers: QuizAnswers, variant: 'v1' | 'v2' | 'v3' = 'v1') {
   return {
-    bullet2: getBullet2Text(answers.q6_versucht),
+    bullet2: variant === 'v3' ? getBullet2TextV3(answers.q6_versucht) : getBullet2Text(answers.q6_versucht),
     mechanismHeadline: getMechanismHeadline(answers.q1_lokalisation),
     mechanismParagraph: getMechanismParagraph(answers.q1_lokalisation),
     aidsExplanation: getAidsExplanation(answers.q1_lokalisation),
