@@ -67,12 +67,30 @@ export function trackQuizCustomize(answers: QuizAnswers, ctaVariant: string): vo
   })
 }
 
+// "Qualified" lead = at least one strong intent signal:
+// emotional commitment (Q7 vermeidung voellig/eher zu) OR time
+// pressure (Q8 zeitziel diesen_sommer/anlass). ~50% of completions
+// hit the bar at current data, which keeps the Lead-event volume
+// just above Meta's ~50 events/week ML optimisation threshold while
+// filtering out the cheapest form-fillers (the Q5_recognition
+// "stoert_aber_alltag" / Q8 "kein_druck" cluster).
+//
+// Low-intent completions still fire CompleteRegistration (Pixel
+// only, no CAPI) so they stay reachable for retargeting + audience
+// building - we just don't tell Meta to optimise on them.
+function isQualifiedLead(answers: QuizAnswers): boolean {
+  const v = answers.q7_vermeidung
+  const z = answers.q8_zeitziel
+  return v === 'voellig_zu' || v === 'eher_zu' || z === 'diesen_sommer' || z === 'anlass'
+}
+
 export function trackQuizLead(
   answers: QuizAnswers,
   lead: QuizLead,
   profile: ComputedProfile,
   ctaVariant: string,
 ): void {
+  const qualified = isQualifiedLead(answers)
   const eventId = generateEventId()
   const data = {
     ...baseParams(answers, ctaVariant),
@@ -83,10 +101,19 @@ export function trackQuizLead(
     computed_typ: profile.typ,
     auspraegung: profile.auspraegungScore,
     dringlichkeit: profile.dringlichkeitScore,
+    intent: qualified ? 'qualified' : 'low',
   }
   const userData = { email: lead.email }
-  sendEvent('Lead', data, userData, eventId)
-  sendCapi('Lead', eventId, data, userData)
+  if (qualified) {
+    // Pixel + CAPI - the clean signal Meta's optimiser learns on.
+    sendEvent('Lead', data, userData, eventId)
+    sendCapi('Lead', eventId, data, userData)
+  } else {
+    // Pixel only - separate event so the Lead optimiser stays clean.
+    // CompleteRegistration is one of Meta's standard events so GTM
+    // and Audiences pick it up natively.
+    sendEvent('CompleteRegistration', data, userData, eventId)
+  }
 }
 
 export function trackQuizFindLocation(
