@@ -37,11 +37,33 @@
       "translated": false
     },
     {
+      "author_name": "Marc Zeihen",
+      "author_url": "https://www.google.com/maps/contrib/114952537127863820056/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIl37sZZhKgxE7VJBXPTTQmm25HvHAyUeI8O2Lmg4ev2XhskA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war gestern mit meiner Mutter in der Gefäßpraxis Dr. Linz in Leverkusen. Ich selber bin auch Patient in dieser Praxis.\nWir haben uns bei diesem Facharzt sehr gut aufgehoben gefühlt. Sowohl der Arzt als auch das gesamte Team sind ausgesprochen freundlich, hilfsbereit und nehmen sich Zeit für die Patienten. Die Behandlung wurde verständlich erklärt und auf Fragen wurde geduldig eingegangen. Man merkt sofort, dass hier Wert auf eine angenehme Atmosphäre und eine gute Betreuung gelegt wird. Insgesamt eine sehr positive Erfahrung – ich kann diese Praxis uneingeschränkt weiterempfehlen.",
+      "time": 1776339596,
+      "translated": false
+    },
+    {
       "author_name": "Lotto & Tabak Studio",
       "author_url": "https://www.google.com/maps/contrib/111415636527512395581/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOh7GwcXqyky-iSev2wlLcKzqxXTy7YRcgws1pqFSQzHH23w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1776285432,
+      "translated": false
+    },
+    {
+      "author_name": "Lotto & Tabak Studio",
+      "author_url": "https://www.google.com/maps/contrib/111415636527512395581/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOh7GwcXqyky-iSev2wlLcKzqxXTy7YRcgws1pqFSQzHH23w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1776285432,
       "translated": false
@@ -78,5 +100,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:07.978Z"
+  "lastUpdated": "2026-05-01T07:25:23.437Z"
 }

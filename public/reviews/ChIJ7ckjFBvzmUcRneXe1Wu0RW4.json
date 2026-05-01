@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "I Won (I. Won)",
+      "author_url": "https://www.google.com/maps/contrib/106528136289548104305/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZJbj_EY7t9v1H3dDh6eCf2QSH7I6tP9mDSU8gf484WH4eZf_oWQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Ralf ist sehr geduldig und nimmt sich immer Zeit. Kenne ich aus anderen Praxen auch anders.  Bin froh gewechselt zu haben und jetzt eine tolle Hautärztin mit tollem Team gefunden zu haben! Ein herzliches Dankeschön an die ganze Praxis!",
+      "time": 1777371249,
+      "translated": false
+    },
+    {
       "author_name": "suzana nesic",
       "author_url": "https://www.google.com/maps/contrib/107495706521930342349/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIo_mJDJwb5mjOyWTpCuZTxq2f5EoSjKz0oM1IGwldDlZOVYw=s128-c0x00000000-cc-rp-mo",
@@ -60,11 +72,11 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 14,
+  "reviewCount": 15,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:14.964Z"
+  "lastUpdated": "2026-05-01T07:25:31.222Z"
 }

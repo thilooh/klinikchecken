@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Angelika Gröseling",
+      "author_url": "https://www.google.com/maps/contrib/117891113777588155594/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKZvq8KDaqvNqBTfMbPawBnts2HwdBjcOlmQF83_T5l1PuFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Endlich eine Praxis/einen Arzt gefunden die meine Erkrankung erkannt hat und entsprechend therapiert. Danke😇",
+      "time": 1777538739,
+      "translated": false
+    },
+    {
+      "author_name": "Melis Tüven",
+      "author_url": "https://www.google.com/maps/contrib/102333053282544076507/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWDA8qzmc95GCx67lVKaxGED_JGXxmRg18zIaCI7ZWMB3DqQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meiner Behandlung im Dermazentrum Neuss bei Dr. med. Martin Hermans und seinem Team sehr zufrieden. Die Beratung war ausführlich, verständlich und individuell auf meine Bedürfnisse abgestimmt. Ich habe mich von Anfang an gut aufgehoben und ernst genommen gefühlt. Das gesamte Team ist ausgesprochen freundlich, professionell und bestens organisiert, sodass es kaum Wartezeiten gab. Die Atmosphäre in der Praxis ist angenehm und man merkt, dass hier großen Wert auf das Wohl der Patienten gelegt wird. Die Behandlung selbst verlief sehr angenehm und das Ergebnis hat meine Erwartungen sogar übertroffen. Ich kann die Praxis und das gesamte Team uneingeschränkt weiterempfehlen!",
+      "time": 1777387126,
+      "translated": false
+    },
+    {
       "author_name": "Unknown User",
       "author_url": "https://www.google.com/maps/contrib/103894275955116127726/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Margaret",
+      "author_url": "https://www.google.com/maps/contrib/104917659084351051768/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8gk9z3XoRPXXxL-8lc8QqxW5NoUUy62d6TnQnJZ7ro64t=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Alles top! Nettes Personal, der Arzt ist sehr freundlich und nimmt sich Zeit für die Patienten. Vielen Dank!",
+      "time": 1777013254,
+      "translated": false
+    },
+    {
       "author_name": "Hanspeter Esser",
       "author_url": "https://www.google.com/maps/contrib/118118249215945776194/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6dCKJuL9GvGOWPHUYaYMoLsQW8Iv9pKtVbo03sq2Xsarhkcc=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin über das Internet auf diese Praxis aufmerksam geworden und habe mich dazu entschlossen, einen umfassenden 3D-Gesamtkörperscan meiner Muttermale machen zu lassen.\n\nVon Anfang an habe ich mich hier sehr gut aufgehoben gefühlt:\nNetter und respektvoller Umgang, alles völlig unkompliziert und transparent erklärt. Termine habe ich sehr schnell bekommen, ohne lange Wartezeiten. Auch das Preis-Leistungs-Verhältnis ist aus meiner Sicht absolut stimmig – was will man mehr?\n\nIch kann diese Praxis wirklich jedem weiterempfehlen, der seine Muttermale professionell und gründlich kontrollieren lassen möchte.",
+      "time": 1776949803,
+      "translated": false
+    },
+    {
+      "author_name": "Hanspeter Esser",
+      "author_url": "https://www.google.com/maps/contrib/118118249215945776194/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6dCKJuL9GvGOWPHUYaYMoLsQW8Iv9pKtVbo03sq2Xsarhkcc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin über das Internet auf diese Praxis aufmerksam geworden und habe mich dazu entschlossen, einen umfassenden 3D-Gesamtkörperscan meiner Muttermale machen zu lassen.\n\nVon Anfang an habe ich mich hier sehr gut aufgehoben gefühlt:\nNetter und respektvoller Umgang, alles völlig unkompliziert und transparent erklärt. Termine habe ich sehr schnell bekommen, ohne lange Wartezeiten. Auch das Preis-Leistungs-Verhältnis ist aus meiner Sicht absolut stimmig – was will man mehr?\n\nIch kann diese Praxis wirklich jedem weiterempfehlen, der seine Muttermale professionell und gründlich kontrollieren lassen möchte.",
       "time": 1776949803,
       "translated": false
@@ -86,11 +134,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 296,
+  "reviewCount": 298,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:10.827Z"
+  "lastUpdated": "2026-05-01T07:25:26.598Z"
 }

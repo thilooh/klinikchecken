@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "László Pálinkás",
+      "author_url": "https://www.google.com/maps/contrib/103357903617313635083/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV9J0rXCaOEiPxLhvcimrTNivTcqvyroD8u_s7jpCS8IRH1hzR=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777378759,
+      "translated": false
+    },
+    {
       "author_name": "Matthias Schneider",
       "author_url": "https://www.google.com/maps/contrib/115374315850355011986/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp5ZblpqPDawhE_7Nh1hTYXgYiCyWl238Y_nDapC_omBZk6lQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -33,6 +43,18 @@
       "translated": false
     },
     {
+      "author_name": "Szabolcs Krisztián",
+      "author_url": "https://www.google.com/maps/contrib/115864105655662946834/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhkupHbp7kexg47ZaVJxieNI_1vjZmnE1z5-xuczmRTBh3qvYy=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin empört! Ich war heute mit meiner 17-jährigen Tochter dort, die Ausschlag und braune Flecken hat. Als Erstes hieß es, dass man, falls man noch nie dort war, einen Überweisungsschein vom Hausarzt braucht. Wir haben einen besorgt, und dann meinte die kleine, schwarze Angestellte am Empfang, wir bräuchten einen Notfall-Überweisungsschein – das sei ja nicht gut. Dann hat sie mich auch noch ausgelacht! Unfassbar! Ist das der Grund, warum man eine Krankenversicherung hat?",
+      "time": 1775571482,
+      "translated": false
+    },
+    {
       "author_name": "blah.",
       "author_url": "https://www.google.com/maps/contrib/113990299616353924005/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVme9dieM-bH6D9cvKZDqjD0mk8EnCaipxMaawjdHb1us6gktVs=s128-c0x00000000-cc-rp-mo-ba2",
@@ -54,11 +76,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-04-28T07:30:52.616Z"
+  "lastUpdated": "2026-05-01T07:25:06.194Z"
 }

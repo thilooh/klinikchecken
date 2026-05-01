@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Schmitz Frank",
+      "author_url": "https://www.google.com/maps/contrib/101325039570857464416/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEpNu9DCRIEpPhAMsV9YpFrw1jqjZ3sMayjSC63cbz6p3KmZk8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an Frau Doktor Venten sowie das gesamte Team. Die Praxis sowie alle Mitarbeiter sind bestens organisiert, strukturiert und sehr freundlich und kompetent. Frau Dr. Venten überzeugt durch fachliche Kompetenz gepaart mit dem richtigen Einfühlungsvermögen für die Patienten. Eine absolute Empfehlung für Vorsorge, Behandlung und Nachsorge! ☺️👍🏻",
+      "time": 1777398655,
+      "translated": false
+    },
+    {
       "author_name": "Sven Hinzmann",
       "author_url": "https://www.google.com/maps/contrib/102720377631740199589/reviews",
       "language": "de",
@@ -62,11 +74,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:02.574Z"
+  "lastUpdated": "2026-05-01T07:25:17.351Z"
 }

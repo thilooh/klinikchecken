@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jutta Schlenker",
+      "author_url": "https://www.google.com/maps/contrib/102863494088123638921/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxp6ce0Mm-a0_WagQ8PcttBCnLFLBiBil8RmmFvpQ0fMFRw2L8oQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das gesamte Team ist sehr freundlich, super Organisation und die Beratung wegen und Betreuung bei der ambulanten OP sehr gut. Absolute Weiterempfehlung!",
+      "time": 1777387199,
+      "translated": false
+    },
+    {
       "author_name": "Ercan Akkaya",
       "author_url": "https://www.google.com/maps/contrib/116454010425215680751/reviews",
       "language": "de",
@@ -74,11 +86,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 97,
+  "reviewCount": 98,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:31:14.519Z"
+  "lastUpdated": "2026-05-01T07:25:30.761Z"
 }

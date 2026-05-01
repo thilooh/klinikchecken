@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marion Ney",
+      "author_url": "https://www.google.com/maps/contrib/104530105993917247733/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKv1kxzvpoFD3emRCYM58zLBtxaj2OhYQXfKIKpvBoWbLfCbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diesen Hautarzt nur wärmstens empfehlen! Ich habe mich von Anfang an sehr gut aufgehoben gefühlt – das gesamte Team ist freundlich, hilfsbereit und professionell.\nDie Behandlung selbst war schnell, schmerzarm und wurde sehr sorgfältig durchgeführt. Der Arzt hat sich Zeit genommen, alles verständlich zu erklären, und ist auf meine Fragen eingegangen. Auch die Praxis ist modern und gut organisiert, sodass es kaum Wartezeiten gab.\nInsgesamt eine rundum positive Erfahrung – ich komme bei Bedarf auf jeden Fall wieder!",
+      "time": 1777549359,
+      "translated": false
+    },
+    {
       "author_name": "MOS 1",
       "author_url": "https://www.google.com/maps/contrib/113343841922093380927/reviews",
       "language": "de",
@@ -23,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "Paul Meyer",
+      "author_url": "https://www.google.com/maps/contrib/100868454693112446007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcXLd0lhWUYOdLsMpHXKgJB0Whpyj4A6plFqZ_9qyASTkFUg4=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1776933281,
+      "translated": false
+    },
+    {
       "author_name": "Hans Jürgen Roth",
       "author_url": "https://www.google.com/maps/contrib/111152952784021052323/reviews",
       "language": "de",
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV15DzGMMM7nW9PnqM-mecJKlN7G_hPOjB2kTqdiLtgOZFpW3x2=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor einer Woche",
+      "text": "Kompetenter Arzt, unfreundliches Personal.",
+      "time": 1776275568,
+      "translated": false
+    },
+    {
+      "author_name": "Hans Jürgen Roth",
+      "author_url": "https://www.google.com/maps/contrib/111152952784021052323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV15DzGMMM7nW9PnqM-mecJKlN7G_hPOjB2kTqdiLtgOZFpW3x2=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Kompetenter Arzt, unfreundliches Personal.",
       "time": 1776275568,
       "translated": false
@@ -94,11 +128,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 251,
+  "reviewCount": 252,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:30:49.995Z"
+  "lastUpdated": "2026-05-01T07:25:03.356Z"
 }

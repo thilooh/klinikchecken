@@ -1,11 +1,35 @@
 {
   "reviews": [
     {
+      "author_name": "Burghard Bendel van der Beek",
+      "author_url": "https://www.google.com/maps/contrib/117056939202771231934/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbTiJdInEJXXUW9eu34ypsEPKyVj0RD42zLsbJPFhhrG87QNoi=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "In sauberem Ambiente, ruhig, freundlich und nett, wird einem kompetent geholfen.\nDie Terminvereinbarung wird eingehalten.\nFazit, sehr empfehlenswert.",
+      "time": 1777390011,
+      "translated": false
+    },
+    {
       "author_name": "Kevin Radloff",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
       "text": "Von der Anmeldung bis zur Behandlung lief alles sehr angenehm schnell und freundlich. Frau Dr. Germann hat eine ruhige, zugewandte Art und erklärt die einzelnen Schritte super. Fühle mich gut beraten und in sicheren Händen. Auch das Team im Hintergrund wirkt eingespielt und hilfsbereit – das merkt man im gesamten Ablauf. Danke und bis zum nächsten Mal!",
       "time": 1776804157
+    },
+    {
+      "author_name": "Kevin Radloff",
+      "author_url": "https://www.google.com/maps/contrib/110334562374205711712/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMisLhz1dmxE1NTKkmHhmpIlXkGtiJf5sTh_PF6gNZuAJ8DA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Von der Anmeldung bis zur Behandlung lief alles sehr angenehm schnell und freundlich. Frau Dr. Germann hat eine ruhige, zugewandte Art und erklärt die einzelnen Schritte super. Fühle mich gut beraten und in sicheren Händen. Auch das Team im Hintergrund wirkt eingespielt und hilfsbereit – das merkt man im gesamten Ablauf. Danke und bis zum nächsten Mal!",
+      "time": 1776804157,
+      "translated": false
     },
     {
       "author_name": "Holger Kusserow",
@@ -47,7 +71,7 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 91,
+  "reviewCount": 92,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:34.485Z"
+  "lastUpdated": "2026-05-01T07:24:46.240Z"
 }

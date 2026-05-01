@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jörg Kellermann",
+      "author_url": "https://www.google.com/maps/contrib/107280449310306129663/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKrKstrBpVa_RwB5Y2-k4EkHP0RMzveOffG9P-H1iknSkY_H0MCA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr guter Hautarzt,  kaum Wartezeiten und sehr freundliche Mitarbeiter.",
+      "time": 1777544425,
+      "translated": false
+    },
+    {
       "author_name": "Ervin Music",
       "author_url": "https://www.google.com/maps/contrib/108698643979443970456/reviews",
       "language": "de",
@@ -59,6 +71,16 @@
       "translated": false
     },
     {
+      "author_name": "Sven Schmitt",
+      "author_url": "https://www.google.com/maps/contrib/101069696078754912452/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXzg2-Hqrc0kWIOoAwvw7G4A0XBL1nB6_Fb_IuwOMf5ZoAsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1776389319,
+      "translated": false
+    },
+    {
       "author_name": "Vanessa Wulf",
       "author_url": "https://www.google.com/maps/contrib/105869397604287018583/reviews",
       "language": "de",
@@ -107,12 +129,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 222,
+  "rating": 4.3,
+  "reviewCount": 214,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-04-28T07:30:50.641Z"
+  "lastUpdated": "2026-05-01T07:25:04.066Z"
 }

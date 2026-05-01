@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marc -",
+      "author_url": "https://www.google.com/maps/contrib/109680270239176157115/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt8TF-9WfaTlGii5mviKxJlVNXn_FH4IDKOR1Q7P9KZJZ9QA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hier wird Ihnen NICHT geholfen!\nVor zwei Monaten angerufen – Bandansage – Termin gemacht – heute angekommen – ich kein Privatpatient – die ältere grauhaarige Dame am Empfang: „Sie haben aber Privat statt Kasse angegeben!“ Mir wurde suggeriert, dass Fehler nicht menschlich sind, sondern einem das Gefühl geben – wir machen keine Fehler – Es gab nicht mal einen Kompromiss für einen neuen Termin.\nMöchten Sie sich ärgern – rufen Sie hier an!\nMein Hausarzt bekommt die Mitteilung: Schicke deine Patienten mit Überweisung woanders hin.\nEmpfehlung = Null!\nHier bekommt der Patient das Gefühl: Willkommen in der Zweiklassengesellschaft.",
+      "time": 1777570937,
+      "translated": false
+    },
+    {
       "author_name": "Ute Naujock",
       "author_url": "https://www.google.com/maps/contrib/111532685733755074314/reviews",
       "language": "de",
@@ -35,11 +47,31 @@
       "translated": false
     },
     {
+      "author_name": "Ali Irfan Peksoylu",
+      "author_url": "https://www.google.com/maps/contrib/115955012538978992315/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIh7wzLMrOc71Q_gFfepHi2YtD4Q2j0ZBkEs5_VgiTVySM5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1776863729,
+      "translated": false
+    },
+    {
       "author_name": "Mike",
       "author_url": "https://www.google.com/maps/contrib/117975451412286173140/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtYkUjL9srngOlmhg4j_jOQrhE0OTjuHAhqqDCiOQqFZESr_rt=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1775715297,
+      "translated": false
+    },
+    {
+      "author_name": "Mike",
+      "author_url": "https://www.google.com/maps/contrib/117975451412286173140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtYkUjL9srngOlmhg4j_jOQrhE0OTjuHAhqqDCiOQqFZESr_rt=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1775715297,
       "translated": false
@@ -80,11 +112,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 126,
+  "reviewCount": 127,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:30:44.466Z"
+  "lastUpdated": "2026-05-01T07:24:57.392Z"
 }

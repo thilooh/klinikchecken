@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dominik",
+      "author_url": "https://www.google.com/maps/contrib/109159819099901356658/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzuSDPdSgygK2g6-eEsjP2JaFJaZ__5BZ0Vba0qnOUTzeGGwOp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Arzt und ein tolles Team 💪",
+      "time": 1777541325,
+      "translated": false
+    },
+    {
       "author_name": "Ecaterina Sajin",
       "author_url": "https://www.google.com/maps/contrib/111545592471598046095/reviews",
       "language": "de",
@@ -58,11 +70,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 36,
+  "reviewCount": 37,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-04-28T07:31:15.398Z"
+  "lastUpdated": "2026-05-01T07:25:31.731Z"
 }

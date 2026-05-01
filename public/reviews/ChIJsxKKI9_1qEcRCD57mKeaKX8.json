@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christian",
+      "author_url": "https://www.google.com/maps/contrib/104801952922617870010/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImRXISDbl3xDguYZVQg15e4eaPY72JbBOYuBsAH5MeNOcoeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr freundliches Team. Rundum zufrieden von der Anmeldung bis hin zur Behandlung. Ein sehr schönes Ärztehaus mit Wohlfülfaktor. Sehr zu empfehlen.",
+      "time": 1777466706,
+      "translated": false
+    },
+    {
       "author_name": "Klaus von Keiser",
       "author_url": "https://www.google.com/maps/contrib/115139605569405266795/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEMzLwOSeo8h_jZTtEtCjIq0Fzf42J2OzxZuwkuw7qFbsWK8uF=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Schnelle Terminvergabe. Professioneller Empfang. Verständliche Anweisungen. Alles digital. Saubere und komfortable Einrichtung. Zuvorkommendes Personal. Freundlicher und kompetenter Dr. Al-Salamah. Ich werde die Einrichtung weiterempfehlen.",
+      "time": 1777015290,
+      "translated": true
+    },
+    {
+      "author_name": "Klaus von Keiser",
+      "author_url": "https://www.google.com/maps/contrib/115139605569405266795/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEMzLwOSeo8h_jZTtEtCjIq0Fzf42J2OzxZuwkuw7qFbsWK8uF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Schnelle Terminvergabe. Professioneller Empfang. Verständliche Anweisungen. Alles digital. Saubere und komfortable Einrichtung. Zuvorkommendes Personal. Freundlicher und kompetenter Dr. Al-Salamah. Ich werde die Einrichtung weiterempfehlen.",
       "time": 1777015290,
       "translated": true
@@ -74,11 +98,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 143,
+  "reviewCount": 144,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:30:58.457Z"
+  "lastUpdated": "2026-05-01T07:25:12.655Z"
 }

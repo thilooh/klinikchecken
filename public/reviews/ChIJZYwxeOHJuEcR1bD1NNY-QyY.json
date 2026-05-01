@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jan Luca",
+      "author_url": "https://www.google.com/maps/contrib/117949012982466024600/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWIML7IpSAAco0DuWVN_fM0GTQJNN6TDl__Paiu8owCjKkMTAX=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777452626,
+      "translated": false
+    },
+    {
       "author_name": "Elias",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
@@ -25,6 +35,18 @@
       "relative_time_description": "vor einer Woche",
       "text": "Über die Leistung der Ärzte kann ich hier nichts sagen, da ich bereits an der Rezeptionistin gescheitert bin... Nach erfolgter Hautkrebs-OP am Augenlied durch den Augenarzt wollte ich ein weiteres ganzkörper Screening machen lassen, was lt. Rezeptionistin nicht mehr nötig sei, da der Krebs ja bereits entfernt wurde...\nWenn Doktoren Hack/Lazek diese Rezension lesen, besprechen Sie vielleicht mal mit Ihrem Team, wer in Ihrem Haus Diagnosen stellt.",
       "time": 1776249143
+    },
+    {
+      "author_name": "Roland Kern",
+      "author_url": "https://www.google.com/maps/contrib/109930828340008919575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcMgazvZ09V_fGpfrnIgbLDI6A5h2AqAIiT9e-16TjJkurJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Über die Leistung der Ärzte kann ich hier nichts sagen, da ich bereits an der Rezeptionistin gescheitert bin... Nach erfolgter Hautkrebs-OP am Augenlied durch den Augenarzt wollte ich ein weiteres ganzkörper Screening machen lassen, was lt. Rezeptionistin nicht mehr nötig sei, da der Krebs ja bereits entfernt wurde...\nWenn Doktoren Hack/Lazek diese Rezension lesen, besprechen Sie vielleicht mal mit Ihrem Team, wer in Ihrem Haus Diagnosen stellt.",
+      "time": 1776249143,
+      "translated": false
     },
     {
       "author_name": "Dominik Breidohr",
@@ -61,7 +83,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 92,
+  "reviewCount": 93,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:35.931Z"
+  "lastUpdated": "2026-05-01T07:24:47.775Z"
 }

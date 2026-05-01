@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Sanaz Abdolrazagh",
+      "author_url": "https://www.google.com/maps/contrib/107393046128931738683/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJAbHeSTCq2888UacFf-nQRFsjJjoBjgCWsxN0TI8N52t7Bg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe bereits am 5. Januar über Doctolib einen Termin für den 5. Mai vereinbart.\nEine Woche vor dem Termin wurde dieser plötzlich wegen Krankheit abgesagt. Das kann natürlich passieren – jedoch war es danach unmöglich, jemanden telefonisch zu erreichen. Außerdem gab es keine Möglichkeit, einen neuen Termin zu vereinbaren.\nDieses Verhalten empfinde ich als sehr unprofessionell und verantwortungslos, besonders wenn man mehrere Monate auf einen Termin gewartet hat.\n\nIch bin sehr enttäuscht und kann diese Praxis leider nicht weiterempfehlen.",
+      "time": 1777539931,
+      "translated": false
+    },
+    {
+      "author_name": "saeed padkan",
+      "author_url": "https://www.google.com/maps/contrib/118165368945375884273/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXASU2hda8_ssORR3epSH5-8T6wsu-kpcUp82l1SUnyg6oEtJCH=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach fast zwei Monaten Wartezeit sind wir heute zum Termin erschienen – nur um vor Ort zu erfahren, dass dieser kurzfristig abgesagt wurde. Eine Benachrichtigung habe ich nicht erhalten.\nGerade bei einem akuten Problem ist das absolut unverständlich. Eine bessere Organisation und Kommunikation wäre dringend notwendig",
+      "time": 1777468498,
+      "translated": false
+    },
+    {
+      "author_name": "Johannes Mayerreges",
+      "author_url": "https://www.google.com/maps/contrib/112679886963634935460/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4e83gtw4m5MQo490_9S92U-L2Ar7IPaGsP_RFLfzzzsVLeQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777378058,
+      "translated": false
+    },
+    {
       "author_name": "Antonia",
       "author_url": "https://www.google.com/maps/contrib/100210214741758382898/reviews",
       "language": "de",
@@ -94,11 +128,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 159,
+  "reviewCount": 160,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-04-28T07:30:51.518Z"
+  "lastUpdated": "2026-05-01T07:25:05.010Z"
 }

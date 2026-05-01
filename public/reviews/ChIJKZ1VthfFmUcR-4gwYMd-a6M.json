@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ahmed Maghraoui",
+      "author_url": "https://www.google.com/maps/contrib/101215367743870202864/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJTTccQLaogrD9fC8UlHb76vmURESSz0j-CXN5ukvMXfWBXg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine echte Enttäuschung und ein eklatanter Mangel an Transparenz, typisch deutsch eben.",
+      "time": 1777386037,
+      "translated": true
+    },
+    {
       "author_name": "Ni C (Nick)",
       "author_url": "https://www.google.com/maps/contrib/117169074841014524798/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Ingo Schonert",
+      "author_url": "https://www.google.com/maps/contrib/109710855051060040469/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPWxeoTM8tA2I5dPXWQGeJoPJa-tFwDJaZlZxEKauewd0bPfw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war vor vielen Jahren letztmals bei meinem bisherigen Hautarzt. Durch Zufall bin ich bei Frau Dr.Kohler zur Hautkrebsvorsorge gelandet. Frau Dr.Kohler hat mich äußerst intensiv untersucht und alle meine Fragen sehr einfühlsam, freundlich und ausführlich beantwortet. Positiv erwähnen möchte ich auch die zwei sehr netten Mitarbeiterinnen am Empfang. Der Praxisinhaber kann sich sehr glücklich schätzen so ein herzliches, kompetentes und freundliches Team zu haben.",
+      "time": 1776345555,
+      "translated": false
+    },
+    {
       "author_name": "Motte",
       "author_url": "https://www.google.com/maps/contrib/100616202006067365809/reviews",
       "language": "de",
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjaw48KkjKXKCpBOwVEz2EG5omm18Hr_9bH8IL0r_-M4cwNT-O=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Frau Dr. Kohler war super freundlich und auch alle MFA die ich getroffen habe waren herzlich und bemüht.\nGesundheit ist immer ein sensibles Thema und umso wichtiger ist es, Menschen Emotionen zu zeigen und sie positiv aufzunehmen.\n\nIch hatte sehr Angst vor meinem Termin, da ich nicht wusste was dabei rauskommt, aber mir wurde alles gut erklärt und ich wurde gut beraten.",
+      "time": 1776335182,
+      "translated": false
+    },
+    {
+      "author_name": "Motte",
+      "author_url": "https://www.google.com/maps/contrib/100616202006067365809/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjaw48KkjKXKCpBOwVEz2EG5omm18Hr_9bH8IL0r_-M4cwNT-O=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Frau Dr. Kohler war super freundlich und auch alle MFA die ich getroffen habe waren herzlich und bemüht.\nGesundheit ist immer ein sensibles Thema und umso wichtiger ist es, Menschen Emotionen zu zeigen und sie positiv aufzunehmen.\n\nIch hatte sehr Angst vor meinem Termin, da ich nicht wusste was dabei rauskommt, aber mir wurde alles gut erklärt und ich wurde gut beraten.",
       "time": 1776335182,
       "translated": false
@@ -74,7 +110,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 307,
+  "reviewCount": 308,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:42.282Z"
+  "lastUpdated": "2026-05-01T07:24:54.946Z"
 }

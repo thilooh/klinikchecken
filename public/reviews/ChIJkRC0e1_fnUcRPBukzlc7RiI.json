@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Schöberl",
+      "author_url": "https://www.google.com/maps/contrib/117283846333752493471/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-8YihyP1eLX3-tpkybbv_Y9UJXbf3o1K3t8OWvIDZp2N6Sw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777376995,
+      "translated": false
+    },
+    {
       "author_name": "Stephanie Frohnauer",
       "author_url": "https://www.google.com/maps/contrib/115404163731257944527/reviews",
       "language": "de",
@@ -60,7 +70,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 112,
+  "reviewCount": 113,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:38.988Z"
+  "lastUpdated": "2026-05-01T07:24:51.225Z"
 }

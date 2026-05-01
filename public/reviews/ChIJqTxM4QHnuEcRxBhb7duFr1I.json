@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sandra THETMEYER",
+      "author_url": "https://www.google.com/maps/contrib/101811572875670211297/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1mgDmwKWY0Elp1NcRrF2KkMgK0Z7J7SqVYBWI2cBCRE__5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr begeistert von dem gesamten Team der Praxis! Alle sind sehr freundlich und geduldig! Die Termine werden stets pünktlich eingehalten.Die Ärzte sind absolute Spitzenklasse.Hier wird sich noch Zeit für die Patienten genommen und alles ab und erklärt! Ohne die fachliche Kompetenz von Dr.Topp wäre meine Hüftkopfnekrose nicht erkannt worden.Durch seine Erfahrung konnte er mir helfen! Danke auch an die Damen, die in der Praxis arbeiten.!!!",
+      "time": 1777449858,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Gumpmann",
       "author_url": "https://www.google.com/maps/contrib/103838190683321824829/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Namenslos",
+      "author_url": "https://www.google.com/maps/contrib/117681390913194904727/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9AIewcBmLkRgFRn6y6cRK_zgXCiMfw-fPDWVZCqmCiU-tag=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Der Arzt ist eig sehr sehr gut , nur geht leider sehr sehr selten wer ans Telefon!",
+      "time": 1769692113,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele Rusack",
       "author_url": "https://www.google.com/maps/contrib/112803351655210774577/reviews",
       "language": "de",
@@ -62,11 +86,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 164,
+  "reviewCount": 163,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:31:02.789Z"
+  "lastUpdated": "2026-05-01T07:25:17.587Z"
 }

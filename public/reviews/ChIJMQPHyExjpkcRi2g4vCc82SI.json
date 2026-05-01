@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "christin katzmann",
+      "author_url": "https://www.google.com/maps/contrib/108669400431506035689/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhDTqEVEyG7SIbQuut826fEQL0vfow6TF7D8XSUHI1PPik_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Team und sehr kompetent ,kann ich allen nur weiterempfehlen !!!",
+      "time": 1777470670,
+      "translated": false
+    },
+    {
       "author_name": "N. E.",
       "author_url": "https://www.google.com/maps/contrib/112843847829973068103/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_-QITMzRfsfXzAjyDtEmV3AentT6RkeRYc58w4VqOFS_U1kI=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Das gesamte Team ist sehr freundlich und hilfsbereit. Ich habe mich bei Fr. Dr. Guellil sowohl fachlich als auch menschlich sehr gut aufgehoben gefühlt.",
+      "time": 1776935467,
+      "translated": false
+    },
+    {
+      "author_name": "B. Lehmkuhl",
+      "author_url": "https://www.google.com/maps/contrib/101891065782499613009/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_-QITMzRfsfXzAjyDtEmV3AentT6RkeRYc58w4VqOFS_U1kI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Das gesamte Team ist sehr freundlich und hilfsbereit. Ich habe mich bei Fr. Dr. Guellil sowohl fachlich als auch menschlich sehr gut aufgehoben gefühlt.",
       "time": 1776935467,
       "translated": false
@@ -80,11 +104,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 85,
+  "reviewCount": 86,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:01.727Z"
+  "lastUpdated": "2026-05-01T07:25:16.384Z"
 }

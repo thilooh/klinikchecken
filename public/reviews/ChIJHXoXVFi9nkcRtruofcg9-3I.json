@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Judith Wimmer - Feng Shui & Coaching",
+      "author_url": "https://www.google.com/maps/contrib/117565103442699321005/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWdC5gK7eQOHpz8eTSIxE4kJSKL-Rs6SfUrcCgJay7VfL81D-K=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Liebes Team der Station 9! Herzlichen Dank für die gute Betreuung unseres Papas, der aufgrund eines Schlaganfalls auf Station war. Ihr habt dazu beigetragen, dass sich sein Gesundheitszustand rasch verbessert hat. Sowohl die PflegerInnen (besonderer Dank gilt Omar!), die regelmäßig vorbeigeschaut haben, als auch die motivierenden PhysiotherapeutInnen (danke Maria) und die Ärzte waren hilfsbereit und fachlich genau. Besonderer Dank an Schwester Andrea von Station 9, die ihr Team so menschlich engagiert führt!\nAußerdem möchte ich noch anmerken, dass Papa sofort gemerkt hat, dass bis zu den Lebensmitteln Wert auf Qualität gelegt wird - Brot und Semmeln sind nämlich von einem Augsburger Bäcker - und das schmeckt man!",
+      "time": 1777473683,
+      "translated": false
+    },
+    {
+      "author_name": "Marwin Kreft",
+      "author_url": "https://www.google.com/maps/contrib/117575481011113823434/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmMTcXa72oT-Kh_Gt3ZA7TA4W8bVjLdY6Hpcb60Oa0RbLkHA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777452623,
+      "translated": false
+    },
+    {
       "author_name": "Günter Schütz",
       "author_url": "https://www.google.com/maps/contrib/100964819932041747579/reviews",
       "language": "de",
@@ -74,11 +96,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 386,
+  "reviewCount": 388,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-04-28T07:30:51.300Z"
+  "lastUpdated": "2026-05-01T07:25:04.777Z"
 }

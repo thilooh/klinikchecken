@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Svea Naguschewski",
+      "author_url": "https://www.google.com/maps/contrib/100203215133930781982/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAJtjYSgZlhY5C_8wwvjf-1OtEXd6TayOu8bQfokB5D3F4Ew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Online Termin gebucht, sehr nettes und kompetentes Praxisteam, sehr gründliche Untersuchung durch Prof. Dr. Krengel. Diese Praxis ist auf jeden Fall zu empfehlen.",
+      "time": 1777568879,
+      "translated": false
+    },
+    {
+      "author_name": "Hilke Papenberg",
+      "author_url": "https://www.google.com/maps/contrib/111754514108642157790/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8N2oYArbnVPIseUZATch0HZVDWwNQVA4CxBSjXU5POOXeVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777548726,
+      "translated": false
+    },
+    {
+      "author_name": "Olaf Mohr",
+      "author_url": "https://www.google.com/maps/contrib/109475167328272398728/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzN73HzeI33QSHJCO1L1QXXVgbsDSsZhi-sjdz59l39Vou4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777457150,
+      "translated": false
+    },
+    {
+      "author_name": "Dieter Rainer",
+      "author_url": "https://www.google.com/maps/contrib/105276486109017278663/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL30SRTveBO9E85bJ9hKsPfrkh-C6-jxrpjcvniR62o1ctbsA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Online-Buchung ist etwas mühsehlig für gesetzl. Versicherte. Man muss täglich aufs Neue sein Glück versuchen. Drum nur vier Sterne. Aber ansonsten, wenn man seinen Termin hat, läuft alles prima am Schnürchen und die Anmeldung als auch die Behandlung war sehr kompetent und ausführlich.",
+      "time": 1777387860,
+      "translated": false
+    },
+    {
+      "author_name": "Hans-Peter Schilp",
+      "author_url": "https://www.google.com/maps/contrib/106406132358020760308/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3zjEjAwNxrXeUx9hjtI8otY9rxKQ8soqHCrRlgKtLxiDAvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette und kompetente Ärztin",
+      "time": 1777379975,
+      "translated": false
+    },
+    {
       "author_name": "Yannik L.",
       "author_url": "https://www.google.com/maps/contrib/117713702517740324234/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB5EjPOrIkZRC0b30qtsQjPnDHtj9tjs2XObrsLTNMDLwaTw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -72,11 +128,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2235,
+  "reviewCount": 2241,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:30:46.677Z"
+  "lastUpdated": "2026-05-01T07:24:59.772Z"
 }

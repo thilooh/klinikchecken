@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "A. W.",
+      "author_url": "https://www.google.com/maps/contrib/103722346788206292336/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLWy0weQwrZs-SwEWGuniogSzJNkv-6yzJPJlHAbZV64osmg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Komme nun zum dritten Mal hier her weil beim ersten Mal der Termin ohne Bescheid zu geben abgesagt wurde- als ich schon am Empfang stand! Beim zweiten Termin wurde mir dann gesagt dass ich in eine andere Location in Charlottenburg müsse, wurde mit keinem wort erwähnt. Die Empfangsdamen wirken nicht sonderlich interessiert oder engagiert hier mehr Klarheit zu schaffen.\nDarf jetzt zum dritten (!) Mal hin um hoffentlich endlich eine Behandlung zu bekommen.",
+      "time": 1777551427,
+      "translated": false
+    },
+    {
       "author_name": "Esther Thomas",
       "author_url": "https://www.google.com/maps/contrib/105931661075276198553/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "deniz sibel vural",
+      "author_url": "https://www.google.com/maps/contrib/114318826791310229593/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKD96RvdBv6EdNGSorKOyFOEaaWOXZHIGkKL8TRMcyxyn1fKOI=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Unmöglich dass ich hintereinander drei Tage angerufen hab, konnte jedoch niemand erreichen, nur nervende Musik, kann nicht möglich sein, ich brauche so schnell wie möglich eine neue Überweisung für neue Quartal und habe auch eine Email vor 3 Tagen geschickt, jedoch bisher ohne Antwort.",
+      "time": 1776951866,
+      "translated": false
+    },
+    {
       "author_name": "Kathrin Wenke",
       "author_url": "https://www.google.com/maps/contrib/105995081020946316782/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc60IZJYRMcZ3pgq2ZEnb-GPGF1TIqqV23qE8eAvYmJdZDmQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Unglaublich  lieb und  freundlich  tolle  Menschen, Dankeschön",
+      "time": 1776795647,
+      "translated": false
+    },
+    {
+      "author_name": "Kathrin Wenke",
+      "author_url": "https://www.google.com/maps/contrib/105995081020946316782/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc60IZJYRMcZ3pgq2ZEnb-GPGF1TIqqV23qE8eAvYmJdZDmQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Unglaublich  lieb und  freundlich  tolle  Menschen, Dankeschön",
       "time": 1776795647,
       "translated": false
@@ -62,7 +98,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 149,
+  "reviewCount": 150,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:38.105Z"
+  "lastUpdated": "2026-05-01T07:24:50.253Z"
 }

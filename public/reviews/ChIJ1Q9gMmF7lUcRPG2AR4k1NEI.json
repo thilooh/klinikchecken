@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mala",
+      "author_url": "https://www.google.com/maps/contrib/101532684074800304379/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbH3ilimTAR8wSR77ZGcjFvtRElpqUjXz1Byl_LaLHB7Bv01Y=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Dame ans Telefon null hilfsbereit",
+      "time": 1777543237,
+      "translated": false
+    },
+    {
       "author_name": "Natalia Homann",
       "author_url": "https://www.google.com/maps/contrib/116557187580737887769/reviews",
       "language": "de",
@@ -59,12 +71,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 24,
+  "rating": 4,
+  "reviewCount": 25,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:31:16.658Z"
+  "lastUpdated": "2026-05-01T07:25:33.198Z"
 }

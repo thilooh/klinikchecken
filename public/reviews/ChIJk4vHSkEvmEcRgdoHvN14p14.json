@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Steinle",
+      "author_url": "https://www.google.com/maps/contrib/115436206296248501739/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEhd4B3Mjd1BGKGzk2cSTbCUH815U_g_sQPK2wsxhI_LTU8L00qA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich bei Dr. Salzer sehr gut aufgehoben. Er nimmt sich Zeit und ist sehr professionell. Die Wartezeiten von mehr als einer Stunde des mal trotz Termin ist allerdings jedes Mal sehr ärgerlich. Daher gibt zwei Sterne weniger.",
+      "time": 1777370197,
+      "translated": false
+    },
+    {
+      "author_name": "Netflix Binge",
+      "author_url": "https://www.google.com/maps/contrib/105908059535716344285/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXKBQd5GXt1mdlmNcfO9seG3t0Vg6lEKPspL4xTVz16JkRpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Inhaber droht mit Verleumdung, selbst wenn Sie in gutem Glauben handeln.",
+      "time": 1777369408,
+      "translated": true
+    },
+    {
+      "author_name": "Smith XI",
+      "author_url": "https://www.google.com/maps/contrib/114006228792808911362/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLG2mmwXMP5_9WoojYczl0rkUAROS5dl_dkr5WMi8oz8RZ08g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777369356,
+      "translated": false
+    },
+    {
       "author_name": "E. Mo",
       "author_url": "https://www.google.com/maps/contrib/115824574774055029651/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO3zMSQksNSgtjPNoUGlf738POGRUt6zo6_qHC4AvpYI1Yhw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Stanciu Ihnen möchte ich von Herzen danken. Wahrscheinlich habe ich Ihnen mein Leben zu verdanken.\n\nSie waren diejenige, die bei mir ein bösartiges Melanom erkannt und sofort gehandelt hat. Zuvor war ich bei einem anderen Arzt in einer anderen Praxis, der es lediglich als normales Muttermal eingestuft hatte. Sie jedoch haben mir aufmerksam zugehört, meine Schilderungen ernst genommen und umgehend reagiert.\n\nDank Ihrer Sorgfalt, Ihrer hohen fachlichen Kompetenz und Ihrer schnellen Entscheidung konnte das Melanom rechtzeitig entfernt werden. Dafür bin ich Ihnen auf ewig dankbar.\n\nVon Herzen: Danke!",
+      "time": 1776885731,
+      "translated": false
+    },
+    {
+      "author_name": "Sabrina Cosgun",
+      "author_url": "https://www.google.com/maps/contrib/110711823966767755345/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO3zMSQksNSgtjPNoUGlf738POGRUt6zo6_qHC4AvpYI1Yhw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Frau Dr. Stanciu Ihnen möchte ich von Herzen danken. Wahrscheinlich habe ich Ihnen mein Leben zu verdanken.\n\nSie waren diejenige, die bei mir ein bösartiges Melanom erkannt und sofort gehandelt hat. Zuvor war ich bei einem anderen Arzt in einer anderen Praxis, der es lediglich als normales Muttermal eingestuft hatte. Sie jedoch haben mir aufmerksam zugehört, meine Schilderungen ernst genommen und umgehend reagiert.\n\nDank Ihrer Sorgfalt, Ihrer hohen fachlichen Kompetenz und Ihrer schnellen Entscheidung konnte das Melanom rechtzeitig entfernt werden. Dafür bin ich Ihnen auf ewig dankbar.\n\nVon Herzen: Danke!",
       "time": 1776885731,
       "translated": false
@@ -74,11 +120,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 201,
+  "reviewCount": 204,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:31:12.137Z"
+  "lastUpdated": "2026-05-01T07:25:28.054Z"
 }

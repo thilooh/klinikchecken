@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Abbi kelly",
+      "author_url": "https://www.google.com/maps/contrib/107377083998589560654/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGZwlJ4c0nAvqWK77cL-19fzh9z8y2cPnyqrM-lFgZWcTBoFM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen Termin zur Haarsprechstunde bei Renate Quaisser. Stolze 50€ hat sie dafür abgerechnet. Ich war sage und schreibe 4min in diesem Behandlungszimmer und wurde mit tschüss verabschiedet ohne, dass sie nur einmal meine Haare in der Hand hatte, geschweige denn meine Kopfhaut man angeschaut hätte oder ähnliches. ABSOLUTE ABZOCKE!! Kann ich absolut nicht empfehlen, hatte dann erneut eine bei einem anderen Dermatologen und kann nun bestätigen, dass sie einfach kein Bock hatte zu arbeiten und Geld einsacken wollte weil so läuft KEINE Haarsprechstunde ab. Rate auch jedem von dieser Praxis ab auch in Zukunft.",
+      "time": 1777549050,
+      "translated": false
+    },
+    {
+      "author_name": "Aniko Hassemer",
+      "author_url": "https://www.google.com/maps/contrib/114119125851863699575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ9rDVKuKp-nUc00SHIJV0s3RjohRyG-eBPEuib658sJqmBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette, kompetente Beratung bei der Vergabe meines Termins,  danke hr. Schwerdt",
+      "time": 1777523849,
+      "translated": false
+    },
+    {
       "author_name": "C M",
       "author_url": "https://www.google.com/maps/contrib/105643595587443331524/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZbjdoHaew4hZYGrD2yjJzGJfEZ6MRC0G9Gqy3zGQ0IYK_WQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit der Behandlung in diser Hautarztpraxis sehr zufrieden.\nFrau Dr. Born nimmt sich Zeit für die Anamnese und hört\naufmerksam zu. Die medizinischen Fragen werden verständlich beantwortet. Die Untersuchung ist sehr gewissenhaft. Man fühlt sich gut aufgehoben.",
+      "time": 1776947699,
+      "translated": false
+    },
+    {
+      "author_name": "Thorsten Hörner",
+      "author_url": "https://www.google.com/maps/contrib/117227956780493170783/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZbjdoHaew4hZYGrD2yjJzGJfEZ6MRC0G9Gqy3zGQ0IYK_WQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin mit der Behandlung in diser Hautarztpraxis sehr zufrieden.\nFrau Dr. Born nimmt sich Zeit für die Anamnese und hört\naufmerksam zu. Die medizinischen Fragen werden verständlich beantwortet. Die Untersuchung ist sehr gewissenhaft. Man fühlt sich gut aufgehoben.",
       "time": 1776947699,
       "translated": false
@@ -74,11 +110,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 271,
+  "reviewCount": 273,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:30:59.555Z"
+  "lastUpdated": "2026-05-01T07:25:13.900Z"
 }

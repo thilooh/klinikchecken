@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Berit Haustein",
+      "author_url": "https://www.google.com/maps/contrib/115015954431942150909/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTiSGWZYdJVCLp7Bd7ZHTZL2qWR-0zFsDFegtxLf51MmG9WQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine großartige Klinik!!! Ich war zu einer ambulanten Operation im ambulanten Operationszentrum,  in durfte danach noch auf der Komfortstation meinen „ Rausch“ ausschlafen. Einfach toll! Freundliches Personal, die PatientInnen werden bestmöglich umsorgt und versorgt. Vielen, vielen Dank an alle: Schwestern, Pfleger, Ärzte!!!!",
+      "time": 1777388830,
+      "translated": false
+    },
+    {
+      "author_name": "Robert Büttner (Netix86)",
+      "author_url": "https://www.google.com/maps/contrib/118322366010007679937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf4LvMAHNJuYvv98Q7siJqfU0SX6ydnsch1nc0N3iASmdoQ0Am=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes und freundliches Personal.\nSchön eingerichtete Zimmer.",
+      "time": 1777382293,
+      "translated": false
+    },
+    {
       "author_name": "Uta Heinrich",
       "author_url": "https://www.google.com/maps/contrib/112977951851151125840/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZv2jGMN2WMKBpUdFG_rjY7hcjF-3TFe-p7iNVXl2yV8LH6geEww=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich begab mich in die Obhut der Schwestern, der Ärztinnen und Ärzte für eine ambulante Behandlung.\n\nMein Dank richtet sich an alle diese Menschen, weil ich mich durch das freundliche und behutsame Vorgehen sehr sicher gefühlt habe.",
+      "time": 1776963124,
+      "translated": false
+    },
+    {
+      "author_name": "Kay",
+      "author_url": "https://www.google.com/maps/contrib/106972621725259431479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZv2jGMN2WMKBpUdFG_rjY7hcjF-3TFe-p7iNVXl2yV8LH6geEww=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich begab mich in die Obhut der Schwestern, der Ärztinnen und Ärzte für eine ambulante Behandlung.\n\nMein Dank richtet sich an alle diese Menschen, weil ich mich durch das freundliche und behutsame Vorgehen sehr sicher gefühlt habe.",
       "time": 1776963124,
       "translated": false
@@ -72,11 +108,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 416,
+  "reviewCount": 418,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-04-28T07:30:46.023Z"
+  "lastUpdated": "2026-05-01T07:24:59.061Z"
 }
