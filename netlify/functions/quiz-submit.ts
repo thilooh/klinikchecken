@@ -165,10 +165,14 @@ Datenschutz: https://besenreiser-check.de/datenschutz
 }
 
 async function sendAuswertungMail(p: EmailPayload): Promise<{ ok: boolean; error?: string }> {
-  const apiKey = process.env.BREVO_API_KEY
+  const apiKey = process.env.BREVO_API_KEY?.trim()
   if (!apiKey) return { ok: false, error: 'BREVO_API_KEY not configured' }
-  const senderEmail = process.env.BREVO_SENDER_EMAIL || 'kontakt@besenreiser-check.de'
-  const senderName = process.env.BREVO_SENDER_NAME || 'Besenreiser-Check'
+  // Defensive logging - sanitised so the secret never lands in logs.
+  // Lets us see "key arrives at length N starting xkeysib-..." without
+  // leaking the value.
+  const sanitised = `len=${apiKey.length} prefix=${apiKey.slice(0, 8)}…${apiKey.slice(-4)}`
+  const senderEmail = process.env.BREVO_SENDER_EMAIL?.trim() || 'kontakt@besenreiser-check.de'
+  const senderName = process.env.BREVO_SENDER_NAME?.trim() || 'Besenreiser-Check'
 
   try {
     const res = await fetch('https://api.brevo.com/v3/smtp/email', {
@@ -185,7 +189,7 @@ async function sendAuswertungMail(p: EmailPayload): Promise<{ ok: boolean; error
     })
     if (!res.ok) {
       const errText = await res.text().catch(() => '')
-      return { ok: false, error: `Brevo ${res.status}: ${errText.slice(0, 200)}` }
+      return { ok: false, error: `Brevo ${res.status}: ${errText.slice(0, 200)} [key ${sanitised}]` }
     }
     return { ok: true }
   } catch (err) {
