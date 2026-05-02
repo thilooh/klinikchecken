@@ -8,3 +8,6 @@ dist/
 .DS_Store
 Thumbs.db
 npm-debug.log*
+
+# Local-only email-template previews (regenerated on demand)
+auswertung-email-preview.html
