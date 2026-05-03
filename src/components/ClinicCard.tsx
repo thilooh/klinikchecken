@@ -25,6 +25,11 @@ interface Props {
   hasUserCoords?: boolean
   /** 0-based position in the result list - first 3 are eager-loaded, rest lazy. */
   index?: number
+  /** Suppresses the bottom action footer (Profil + Anfragen buttons + the
+   *  optional select button). Used on /auswertung where the calendar widget
+   *  below is the action surface and a duplicate inquiry button creates
+   *  choice-paralysis. Title-click still opens the profile modal. */
+  hideActions?: boolean
 }
 
 
@@ -94,7 +99,7 @@ function USPs({ items, small }: { items: string[]; small?: boolean }) {
   )
 }
 
-export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600', hasUserCoords = false, index = 99 }: Props) {
+export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected = false, onToggleSelect, ctaColor = '#FF6600', hasUserCoords = false, index = 99, hideActions = false }: Props) {
   const eagerLoad = index < 3
   const imgLoading = eagerLoad ? 'eager' as const : 'lazy' as const
   const imgFetchPriority = index === 0 ? 'high' as const : 'auto' as const
@@ -243,7 +248,7 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
             </div>
           </div>
 
-          {onToggleSelect && (
+          {!hideActions && onToggleSelect && (
             <button
               onClick={onToggleSelect}
               style={{
@@ -266,10 +271,12 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
               {isSelected ? 'Ausgewählt - tippen zum Entfernen' : 'Zur Vergleichs-Anfrage hinzufügen'}
             </button>
           )}
+          {!hideActions && (
           <div style={{ display: 'flex', gap: '8px', padding: '12px 16px 16px', borderTop: '1px solid #EEEEEE' }}>
             <button onClick={openProfile} style={{ flex: 1, backgroundColor: '#fff', color: '#666', fontWeight: 500, fontSize: '15px', border: '1px solid #CCC', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>Profil ansehen</button>
             <button onClick={() => onInquire(clinic)} style={{ flex: 1, backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '15px', border: 'none', borderRadius: '6px', padding: '14px 10px', cursor: 'pointer' }}>{vt.cta}</button>
           </div>
+          )}
         </div>
 
         {/* ====== DESKTOP ====== */}
@@ -359,9 +366,13 @@ export default function ClinicCard({ clinic, onInquire, cardVariant, isSelected 
                 )}
               </div>
               <div>
+                {!hideActions && (
                 <button onClick={() => onInquire(clinic)} style={{ backgroundColor: ctaColor, color: '#fff', fontWeight: 700, fontSize: '14px', border: 'none', borderRadius: '4px', height: '38px', width: '160px', cursor: 'pointer', marginBottom: '6px' }}>{vt.cta}</button>
+                )}
+                {!hideActions && (
                 <button onClick={openProfile} style={{ backgroundColor: '#fff', color: '#666', fontSize: '13px', border: '1px solid #CCC', borderRadius: '4px', height: '34px', width: '160px', cursor: 'pointer', marginBottom: onToggleSelect ? '6px' : '0' }}>Profil ansehen</button>
-                {onToggleSelect && (
+                )}
+                {!hideActions && onToggleSelect && (
                   <button
                     onClick={onToggleSelect}
                     style={{
