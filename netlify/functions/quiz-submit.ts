@@ -29,6 +29,11 @@ const CORS = {
 
 type ParsedBody = {
   type?: string
+  // Funnel variant the user took. Currently only 'v5' triggers a
+  // tonal branch in the email (V2-style "Erinnerst du dich"-opener
+  // wrapping the V3 depth-math). Other variants (or undefined) get
+  // the default V3 email - tonally generic but functionally correct.
+  variant?: string
   lead?: {
     vorname?: string
     email?: string
@@ -212,6 +217,10 @@ type EmailPayload = {
   // hormonal trigger (schwangerschaft / wechseljahre).
   flaechig: boolean
   hormonalTrigger: boolean
+  // V5 = synthesis variant - email gets a V2-tonal "Erinnerst du
+  // dich..."-callback before the V3 depth-math content so the
+  // inbox arrival matches the quiz tonality.
+  isV5: boolean
 }
 
 // Subset of the clinic JSON that the email needs - just enough to
@@ -444,6 +453,28 @@ function buildHormonalNoteText(hormonal: boolean): string | null {
   return buildHormonalNote(hormonal)
 }
 
+// V5-only opener that bridges V2's "Erinnerst du dich"-tonality to
+// the V3 depth-math content the email otherwise leads with. Renders
+// only for V5 senders + when the user actually tried at least one
+// real treatment (so the callback has something to refer to). For
+// V5 users who tried nothing, falls back to a neutral opener so we
+// don't fabricate context.
+function buildV5Opener(p: EmailPayload): string | null {
+  if (!p.isV5) return null
+  const labels = p.tried.filter(v => v in Q6_LABEL).map(v => Q6_LABEL[v])
+  if (labels.length === 0) {
+    return 'Erinnerst du dich? Du informierst dich gerade — bevor du etwas ausprobierst. Hier ist, was bei dir wirklich helfen kann.'
+  }
+  const list = labels.length === 1 ? labels[0] : labels.length === 2
+    ? `${labels[0]} und ${labels[1]}`
+    : `${labels.slice(0, -1).join(', ')} und ${labels[labels.length - 1]}`
+  return `Erinnerst du dich? Du hast ${list} probiert. Sie waren nicht an der falschen Stelle, weil du dich falsch entschieden hast — sie waren nicht an der richtigen Stelle, weil sie dafür gar nicht gebaut sind.`
+}
+
+function buildV5OpenerText(p: EmailPayload): string | null {
+  return buildV5Opener(p)
+}
+
 // buildSubject is now superseded by pickSubject (which does A/B
 // rotation across 4 variants per path). Kept off-disk - all subject
 // generation goes through pickSubject in sendAuswertungMail.
@@ -525,6 +556,7 @@ function renderEmailHtml(p: EmailPayload): string {
   const hauttypNote = buildHauttypNote(p.hauttypDark, p.isFace)
   const flaechigNote = buildFlaechigNote(p.flaechig, p.isFace)
   const hormonalNote = buildHormonalNote(p.hormonalTrigger)
+  const v5Opener = buildV5Opener(p)
 
   // Inline praxis card - one practice featured, rest live on the
   // recovery page. Only renders when we have both a city match and
@@ -544,11 +576,18 @@ function renderEmailHtml(p: EmailPayload): string {
     ? `<p style="margin:0 0 4px; font-size:14px; color:#666; line-height:1.4;">${p.vorname}, hier ist deine Auswertung.</p>`
     : ''
 
-  const versuchtBlock = versuchtCallback
+  // V5 opener replaces the generic Q6 callback when active - same
+  // tonal slot, V5-specific wording. For non-V5 sends, the standard
+  // Q6 callback renders if applicable.
+  const versuchtBlock = v5Opener
     ? `<tr><td style="padding:0 24px 18px;">
+<p style="margin:0; font-size:14px; color:#0A1F44; line-height:1.6; padding:12px 14px; background-color:#F4F7FF; border-left:3px solid #003399; border-radius:4px;">${v5Opener}</p>
+</td></tr>`
+    : versuchtCallback
+      ? `<tr><td style="padding:0 24px 18px;">
 <p style="margin:0; font-size:14px; color:#0A1F44; line-height:1.6; padding:12px 14px; background-color:#FAFBFE; border:1px solid #DDE3F5; border-radius:4px;">${versuchtCallback}</p>
 </td></tr>`
-    : ''
+      : ''
 
   const hauttypBlock = hauttypNote
     ? `<tr><td style="padding:0 24px 16px;">
@@ -722,10 +761,13 @@ function renderEmailText(p: EmailPayload): string {
     ? 'Make-up überdeckt. Pflege beruhigt. Beides erreicht die Ader nicht.'
     : '0,46 mm. Genau dort sitzt das Problem.'
   const greetingPrefix = p.vorname ? `${p.vorname}, hier ist deine Auswertung.\n\n` : ''
-  const versuchtTextBlock = versuchtCallback ? `\n\n${versuchtCallback}` : ''
   const hauttypTextBlock = hauttypNote ? `\n\n${hauttypNote}` : ''
   const flaechigTextBlock = flaechigNote ? `\n\n${flaechigNote}` : ''
   const hormonalTextBlock = hormonalNote ? `\n\n${hormonalNote}` : ''
+  const v5OpenerText = buildV5OpenerText(p)
+  const versuchtTextBlock = v5OpenerText
+    ? `\n\n${v5OpenerText}`
+    : versuchtCallback ? `\n\n${versuchtCallback}` : ''
   const timingTextBlock = timingBlock ? `\n\n${timingBlock.headline.toUpperCase()}\n${timingBlock.body}` : ''
   const praxisTextBlock = p.topPraxis
     ? `\n\nEINE PRAXIS, DIE ZU DEINEM PROFIL PASST:\n${p.topPraxis.name} (${p.topPraxis.city}${p.topPraxis.district ? ', ' + p.topPraxis.district : ''})\n${p.topPraxis.methods.slice(0, 3).join(' · ')}\n${p.isFace ? 'Dermatologie — arbeitet an der Kapillarader im Gesicht' : 'Phlebologie — arbeitet an der Ader, nicht an der Haut'}${p.topPraxis.foundedYear ? `\nSeit ${p.topPraxis.foundedYear}` : ''}${p.topPraxis.doctor ? ` · ${p.topPraxis.doctor}${p.topPraxis.qualification ? ', ' + p.topPraxis.qualification : ''}` : ''}\n→ Erstgespräch anfragen: ${p.recoveryUrl}\n(Du verpflichtest dich zu nichts.)`
@@ -835,6 +877,7 @@ async function sendAuswertungMail(p: EmailPayload): Promise<{ ok: boolean; error
           p.qualified ? 'intent_qualified' : 'intent_low',
           p.isFace ? 'path_gesicht' : 'path_beine',
           p.topPraxis ? 'praxis_inline' : 'praxis_generic',
+          p.isV5 ? 'funnel_v5' : 'funnel_other',
         ],
       }),
     })
@@ -923,6 +966,7 @@ export const handler = async (event: {
       topPraxis,
       flaechig: parsed.answers?.q3_groesse === 'flaechig',
       hormonalTrigger: parsed.answers?.q2_trigger === 'schwangerschaft' || parsed.answers?.q2_trigger === 'wechseljahre',
+      isV5: parsed.variant === 'v5',
     })
     if (!emailRes.ok) {
       console.warn('[quiz-submit] auswertung email failed:', emailRes.error)

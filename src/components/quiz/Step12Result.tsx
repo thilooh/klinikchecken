@@ -24,17 +24,17 @@ interface Props {
   lead: QuizLead
   profile: ComputedProfile
   onReset: () => void
-  variant?: 'v1' | 'v2' | 'v3' | 'v4'
+  variant?: 'v1' | 'v2' | 'v3' | 'v4' | 'v5'
 }
 
 const PAGE_SIZE = 12
 
 export default function Step12Result({ answers, lead, profile, onReset, variant = 'v1' }: Props) {
-  // V4 has a structurally different layout (delivery-first, no
-  // re-pitch wall). Dispatch to its own component so this file
-  // stays focused on V1/V2/V3.
-  if (variant === 'v4') {
-    return <Step12ResultV4 answers={answers} lead={lead} profile={profile} onReset={onReset} />
+  // V4 + V5 use the delivery-first layout (no re-pitch wall). V5
+  // dispatches the same component but threads its variant through so
+  // the lead-zeile can echo the V2 "Erinnerst du dich" callback.
+  if (variant === 'v4' || variant === 'v5') {
+    return <Step12ResultV4 answers={answers} lead={lead} profile={profile} onReset={onReset} variant={variant} />
   }
   const { clinics } = useClinics()
   const [contactPraxis, setContactPraxis] = useState<ScoredPraxis | null>(null)

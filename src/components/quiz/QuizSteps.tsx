@@ -16,37 +16,53 @@ import { pivotTextFromAnswers } from '../../lib/quizPivotTexts'
 //
 // /methoden-quiz-4 (v4) reuses the V3 funnel for steps 1-11 verbatim
 // (the page passes variant="v3" through here) and only diverges in
-// Step 12 + the inquiry modal. So this file does not need a "v4"
-// branch - the divergence lives in Step12Result and AnfrageModal.
-export type QuizVariant = 'v1' | 'v2' | 'v3'
+// Step 12 + the inquiry modal.
+//
+// /methoden-quiz-5 (v5) is the synthesis after V2 emerged as best
+// performer over the first 100+ leads: V2's tonal assets (claim-
+// stack helpers, "unsichtbare Steuer" mirror, "Was ich daraus lerne"
+// CTA, "Pelle rücken" Step 11) + V3's mechanism asset (depth-math
+// pivot with footnotes, Q4-hauttyp safety note, Q3-flächig hint) +
+// V4's delivery-first Step 12. V5 also branches the Step 5 / Step 7
+// mirrors based on the user's actual answer to avoid the reactance
+// when the V2 mirror fires for the low-pain "stoert_aber_alltag"
+// cluster (41% of leads at the time of writing).
+export type QuizVariant = 'v1' | 'v2' | 'v3' | 'v5'
 
 // Helper texts per step. v2 stacks the doubt; v3 strips to one
 // specific, unfalsifiable truth (Hopkins / Halbert specificity rule).
+// v5 reuses v2 verbatim for steps 1-3, v3 for step 4 (more concrete
+// safety language wins for the 20% dunkler-Hauttyp users).
 const HELP_TEXT: Record<1 | 2 | 3 | 4 | 5, Record<QuizVariant, string>> = {
   1: {
     v1: 'Klick auf den Bereich, der dich am meisten stört.',
     v2: 'Klick auf den Bereich, der dich am meisten stört. Der Ort entscheidet, welche Methode überhaupt funktionieren kann - Beine und Gesicht sind zwei verschiedene Behandlungsdisziplinen.',
     v3: 'Klick auf den Bereich. Beine = Phlebologie. Gesicht = Dermatologie. Eine Praxis kann selten beides.',
+    v5: 'Klick auf den Bereich, der dich am meisten stört. Der Ort entscheidet, welche Methode überhaupt funktionieren kann - Beine und Gesicht sind zwei verschiedene Behandlungsdisziplinen.',
   },
   2: {
     v1: 'Damit wir einschätzen, was bei dir hilfreich sein könnte.',
     v2: 'Wann sie aufgetaucht sind, sagt mehr über die Ursache als über die Sichtbarkeit - und die Ursache entscheidet, was funktioniert.',
     v3: 'Wann sie kamen, sagt mehr als wie sie aussehen.',
+    v5: 'Wann sie aufgetaucht sind, sagt mehr über die Ursache als über die Sichtbarkeit - und die Ursache entscheidet, was funktioniert.',
   },
   3: {
     v1: 'Größe und Verteilung sind für die Methodenwahl wichtig.',
     v2: 'Klein heißt nicht harmlos. Mittel heißt nicht behandlungsresistent. Was du gleich auswählst, sieht oft anders aus als das, was darunter passiert.',
     v3: 'Eine 0,5-mm-Ader sieht im Spiegel oft kleiner aus, als sie ist.',
+    v5: 'Klein heißt nicht harmlos. Mittel heißt nicht behandlungsresistent. Was du gleich auswählst, sieht oft anders aus als das, was darunter passiert.',
   },
   4: {
     v1: 'Damit wir dir Methoden zeigen, die bei deinem Hauttyp sicher sind.',
     v2: 'Bei dunkler Haut ist eine bestimmte Laser-Wellenlänge ein Risiko - und nicht jede Praxis spricht das offen an. Deshalb fragen wir.',
     v3: 'Bei Hauttyp 4-6 brennt der falsche Laser die Pigmentierung. Deshalb fragen wir.',
+    v5: 'Bei Hauttyp 4-6 brennt der falsche Laser die Pigmentierung - und nicht jede Praxis spricht das offen an. Deshalb fragen wir.',
   },
   5: {
     v1: 'Wähle aus, was dir am vertrautesten ist.',
     v2: 'Wähle aus, was dir am vertrautesten ist.',
     v3: 'Wähle aus, was dir am vertrautesten ist.',
+    v5: 'Wähle aus, was dir am vertrautesten ist.',
   },
 }
 
@@ -153,11 +169,27 @@ const STEP5_MIRROR_TEXTS: Record<QuizVariant, string> = {
   v1: '',
   v2: 'Das ist nicht Eitelkeit. Das ist die unsichtbare Steuer, die du zahlst, weil dein Körper sich anders entschieden hat als du.',
   v3: 'Das ist nicht Eitelkeit. Das ist die Liste der Sachen, die du heimlich nicht mehr machst.',
+  // V5 picks the mirror dynamically based on the answer (see
+  // step5MirrorForV5). This entry is a fallback only - rarely
+  // reached because the function below shadows it.
+  v5: 'Das ist nicht Eitelkeit. Das ist die unsichtbare Steuer, die du zahlst, weil dein Körper sich anders entschieden hat als du.',
+}
+
+// V5 mirror branching: 41% of leads in the first 100+ clicked the
+// "stoert_aber_alltag" low-pain escape. Showing them the V2 "unsichtbare
+// Steuer" mirror is voice-mismatch and risks reactance ("ich hab
+// gerade gesagt es stört mich nicht"). Soften for that one answer,
+// keep V2's strong mirror for the high-pain answers.
+function step5MirrorForV5(answer: string): string {
+  if (answer === 'stoert_aber_alltag') {
+    return 'Du sagst, es stört dich kaum. Trotzdem klickst du dich gerade durchs Quiz. Das passt für viele zusammen.'
+  }
+  return 'Das ist nicht Eitelkeit. Das ist die unsichtbare Steuer, die du zahlst, weil dein Körper sich anders entschieden hat als du.'
 }
 
 export function Step5Recognition({ onSelect, variant = 'v1' }: { onSelect: (v: string) => void; variant?: QuizVariant }) {
   const [mirrorFor, setMirrorFor] = useState<string | null>(null)
-  const showMirror = variant === 'v2' || variant === 'v3'
+  const showMirror = variant === 'v2' || variant === 'v3' || variant === 'v5'
 
   const handleSelect = (value: string) => {
     if (!showMirror) {
@@ -170,11 +202,12 @@ export function Step5Recognition({ onSelect, variant = 'v1' }: { onSelect: (v: s
   }
 
   if (showMirror && mirrorFor) {
+    const mirrorText = variant === 'v5' ? step5MirrorForV5(mirrorFor) : STEP5_MIRROR_TEXTS[variant]
     return (
       <StepCard>
         <div style={{ minHeight: '180px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', padding: '20px 8px' }}>
           <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.6, maxWidth: '420px', marginBottom: '24px' }}>
-            {STEP5_MIRROR_TEXTS[variant]}
+            {mirrorText}
           </p>
           <button
             type="button"
@@ -227,9 +260,11 @@ export function Step6Versucht({
   variant?: QuizVariant
 }) {
   const canContinue = selected.length > 0
-  // v2 frames the next step as insight, not friction. Drayton Bird:
-  // every button label should sell the next click.
-  const buttonLabel = variant === 'v2' ? 'Was ich daraus lerne →' : 'Weiter →'
+  // v2 + v5 frame the next step as insight, not friction. Drayton
+  // Bird: every button label should sell the next click. V5 inherits
+  // V2 here because "Was ich daraus lerne →" is one of V2's measurable
+  // assets and the synthesis variant should keep proven wins.
+  const buttonLabel = (variant === 'v2' || variant === 'v5') ? 'Was ich daraus lerne →' : 'Weiter →'
   return (
     <StepCard>
       <StepHeader idx={6} total={Q_TOTAL} prompt="Was hast du bisher schon versucht?" helpText="Mehrfachauswahl möglich." />
@@ -270,6 +305,20 @@ const STEP7_MIRROR_TEXTS: Record<QuizVariant, string> = {
   v1: '',
   v2: 'Du hast gerade etwas Wichtiges zugegeben. Den meisten ist das nicht bewusst.',
   v3: 'Du hast gerade gesagt: Mein Verhalten richtet sich nach meinen Beinen.',
+  // V5 picks dynamically (see step7MirrorForV5). Fallback only.
+  v5: 'Du hast gerade etwas Wichtiges zugegeben. Den meisten ist das nicht bewusst.',
+}
+
+// V5 mirror branching: V2's blanket "Du hast etwas Wichtiges
+// zugegeben" overshoots when she only clicked "eher zu" - she
+// could think "Hab ich nicht so gesagt" and lose trust. For
+// voellig_zu keep V2's strong wording. For eher_zu echo her actual
+// (softer) statement back so the mirror stays unwiderlegbar.
+function step7MirrorForV5(answer: 'voellig_zu' | 'eher_zu'): string {
+  if (answer === 'voellig_zu') {
+    return 'Du hast gerade etwas Wichtiges zugegeben. Den meisten ist das nicht bewusst.'
+  }
+  return 'Du hast gerade gesagt: in den letzten 12 Monaten hast du etwas wegen deiner Beine vermieden.'
 }
 
 export function Step7Vermeidung({ onSelect, variant = 'v1' }: {
@@ -277,7 +326,7 @@ export function Step7Vermeidung({ onSelect, variant = 'v1' }: {
   variant?: QuizVariant
 }) {
   const [mirrorFor, setMirrorFor] = useState<'voellig_zu' | 'eher_zu' | 'eher_nicht' | 'gar_nicht' | null>(null)
-  const showMirror = variant === 'v2' || variant === 'v3'
+  const showMirror = variant === 'v2' || variant === 'v3' || variant === 'v5'
 
   const handleSelect = (value: 'voellig_zu' | 'eher_zu' | 'eher_nicht' | 'gar_nicht') => {
     if (!showMirror) { onSelect(value); return }
@@ -291,11 +340,12 @@ export function Step7Vermeidung({ onSelect, variant = 'v1' }: {
   }
 
   if (showMirror && (mirrorFor === 'voellig_zu' || mirrorFor === 'eher_zu')) {
+    const mirrorText = variant === 'v5' ? step7MirrorForV5(mirrorFor) : STEP7_MIRROR_TEXTS[variant]
     return (
       <StepCard>
         <div style={{ minHeight: '180px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', padding: '20px 8px' }}>
           <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.6, maxWidth: '420px', marginBottom: '24px' }}>
-            {STEP7_MIRROR_TEXTS[variant]}
+            {mirrorText}
           </p>
           <button
             type="button"
@@ -336,6 +386,9 @@ const STEP8_HELP_TEXT: Record<QuizVariant, string> = {
   v1: 'Der Zeitrahmen entscheidet mit, wann du am besten startest.',
   v2: 'Der Zeitrahmen entscheidet mit, wann du am besten startest.',
   v3: 'Sklerotherapie braucht typischerweise 4-6 Wochen Abheilung pro Sitzung. Laser oft weniger. Beides nicht über Nacht.',
+  // V5 inherits V3's specificity here - the generic V2 helper kills
+  // momentum right before the pivot, V3's specifics set up Step 9.
+  v5: 'Sklerotherapie braucht typischerweise 4-6 Wochen Abheilung pro Sitzung. Laser oft weniger. Beides nicht über Nacht.',
 }
 
 export function Step8Zeitziel({ onSelect, variant = 'v1' }: { onSelect: (v: string) => void; variant?: QuizVariant }) {
@@ -417,6 +470,23 @@ const STEP9_V3_PARAGRAPHS_GESICHT = [
   'Die Verfahren in der Dermatologie setzen direkt an der Ader an. Pflege liegt darüber.',
 ]
 
+// V5 Beine pivot - synthesis: V2's story-form three paragraphs (the
+// emotional Schwartz-stage-3 frame) + V3's depth-math as paragraph
+// 4 (the evidence). Same footnotes as V3. "Sport" replaced with
+// "Hausmittel" to dodge the UWG-grenzwertig anti-sport claim.
+const STEP9_V5_PARAGRAPHS_BEINE = [
+  'Was du an deinen Beinen siehst, ist nicht das Problem. Das ist nur die Stelle, an der das Problem an die Oberfläche durchschimmert.',
+  'Die Adern darunter sind erweitert. Sie haben sich unter der Haut entschieden, mehr Platz zu nehmen. Cremes, Hausmittel, Self-Tanner - sie waren nie die Antwort. Sie waren nicht mal an der richtigen Stelle.',
+  'Genauer gesagt: Eine Besenreiser-Ader liegt im Mittel etwa 0,46 mm unter der Hautoberfläche.¹ Cremes wirken in der Hornschicht der Haut - etwa 0,02 mm tief.² Sie erreichen die Ader nie.',
+  'Die Methoden, die das tun, gibt es. Sklerotherapie und Laser arbeiten direkt an der Ader, nicht obendrauf.',
+]
+
+const STEP9_V5_PARAGRAPHS_GESICHT = [
+  'Was du im Spiegel siehst, ist nicht das Problem. Das ist nur die Stelle, an der das Problem durchschimmert.',
+  'Die Kapillargefäße darunter sind dauerhaft erweitert. Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt. Pflege und Beruhigungs-Cremes wirken in der Hautoberfläche, nicht an der Ader darunter.',
+  'Die Verfahren in der Dermatologie setzen direkt an der Ader an. Pflege liegt darüber.',
+]
+
 export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
   answers: QuizAnswers
   onContinue: () => void
@@ -435,16 +505,26 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
   // V3: depth-math trapdoor (0,5 mm vs 0,02 mm) - same Beine /
   // Gesicht split, but Gesicht uses a "stays / goes" mechanism
   // since the depth gap is smaller for face vessels.
+  // V5: synthesis. V2's three paragraphs + V3's depth-math as a
+  // fourth + footnotes. Headline upgraded to specificity-anchor
+  // ("0,46 mm. So tief reichen deine Cremes nicht.") per Caples.
   const isV3 = variant === 'v3'
+  const isV5 = variant === 'v5'
   const isFace = answers.q1_lokalisation === 'gesicht'
   const v2Paragraphs = isFace ? STEP9_V2_PARAGRAPHS_GESICHT : STEP9_V2_PARAGRAPHS_BEINE
   const v3Paragraphs = isFace ? STEP9_V3_PARAGRAPHS_GESICHT : STEP9_V3_PARAGRAPHS_BEINE
-  const reframeParagraphs = isV3 ? v3Paragraphs : v2Paragraphs
+  const v5Paragraphs = isFace ? STEP9_V5_PARAGRAPHS_GESICHT : STEP9_V5_PARAGRAPHS_BEINE
+  const reframeParagraphs = isV5 ? v5Paragraphs : (isV3 ? v3Paragraphs : v2Paragraphs)
+  const headline = isV5
+    ? (isFace ? 'Was du im Spiegel siehst, ist nicht das Problem.' : '0,46 mm. So tief reichen deine Cremes nicht.')
+    : 'Kurz mal ehrlich.'
+  const showFootnotes = (isV3 || isV5) && !isFace
+  const renderRich = variant === 'v2' || isV3 || isV5
 
   return (
     <StepCard>
-      <h2 style={{ fontSize: '20px', fontWeight: 700, color: '#0A1F44', marginBottom: '14px', lineHeight: 1.3 }}>
-        Kurz mal ehrlich.
+      <h2 style={{ fontSize: isV5 ? '22px' : '20px', fontWeight: 700, color: '#0A1F44', marginBottom: '14px', lineHeight: 1.25 }}>
+        {headline}
       </h2>
       <p style={{ fontSize: '15px', color: '#444', marginBottom: '6px' }}>Du hast gerade gesagt:</p>
       <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 18px 0' }}>
@@ -459,7 +539,7 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
 
       <hr style={{ border: 'none', borderTop: '1px solid #E5E9F2', margin: '16px 0' }} />
 
-      {(variant === 'v2' || variant === 'v3') ? (
+      {renderRich ? (
         <>
           {reframeParagraphs.map((para, i) => (
             <p
@@ -475,9 +555,9 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
               {para}
             </p>
           ))}
-          {/* Footnote citations - only on V3 Beine path where the
+          {/* Footnote citations - V3 + V5 Beine path where the
               reframe contains numeric claims that need backing. */}
-          {isV3 && !isFace && (
+          {showFootnotes && (
             <div style={{ fontSize: '11px', color: '#777', borderTop: '1px solid #E5E9F2', paddingTop: '10px', marginTop: '-10px', marginBottom: '18px', lineHeight: 1.55 }}>
               {STEP9_V3_FOOTNOTES_BEINE.map(fn => (
                 <p key={fn.marker} style={{ margin: '0 0 6px 0' }}>
@@ -546,7 +626,10 @@ const LOADER_LINES_V3 = [
 
 export function Step10Loading({ onDone, variant = 'v1' }: { onDone: () => void; variant?: QuizVariant }) {
   const [lineIdx, setLineIdx] = useState(0)
-  const lines = variant === 'v3' ? LOADER_LINES_V3 : variant === 'v2' ? LOADER_LINES_V2 : LOADER_LINES_V1
+  // V5 reuses V3's neutral loader - the V2 mid-load claim ("Hauttyp
+  // entscheidet oft mehr als die Größe") competes with the pivot
+  // for the reader's attention budget right when she's about to act.
+  const lines = (variant === 'v3' || variant === 'v5') ? LOADER_LINES_V3 : variant === 'v2' ? LOADER_LINES_V2 : LOADER_LINES_V1
 
   useEffect(() => {
     const t1 = window.setTimeout(() => setLineIdx(1), 700)

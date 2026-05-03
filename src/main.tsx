@@ -12,6 +12,7 @@ import MethodenQuiz from './pages/MethodenQuiz.tsx'
 import MethodenQuiz2 from './pages/MethodenQuiz2.tsx'
 import MethodenQuiz3 from './pages/MethodenQuiz3.tsx'
 import MethodenQuiz4 from './pages/MethodenQuiz4.tsx'
+import MethodenQuiz5 from './pages/MethodenQuiz5.tsx'
 import AuswertungPage from './pages/AuswertungPage.tsx'
 import NotFoundPage from './pages/NotFoundPage.tsx'
 import RouteTracker from './components/RouteTracker'
@@ -49,6 +50,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
             <Route path="/methoden-quiz-2" element={<MethodenQuiz2 />} />
             <Route path="/methoden-quiz-3" element={<MethodenQuiz3 />} />
             <Route path="/methoden-quiz-4" element={<MethodenQuiz4 />} />
+            <Route path="/methoden-quiz-5" element={<MethodenQuiz5 />} />
             <Route path="/auswertung" element={<AuswertungPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>

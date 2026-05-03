@@ -97,11 +97,13 @@ export function getForwardLook(q1_lokalisation: string | null): string {
   return 'Auf der nächsten Seite siehst du deine persönliche Auswertung und welche Methoden in der Phlebologie genau dieses Gefäß-Problem behandeln.'
 }
 
-// Small helper exported so the pivot component reads cleanly. V3 swaps
-// bullet 2 for the literal-list version; everything else stays shared.
-export function pivotTextFromAnswers(answers: QuizAnswers, variant: 'v1' | 'v2' | 'v3' = 'v1') {
+// Small helper exported so the pivot component reads cleanly. V3 + V5
+// swap bullet 2 for the literal-list version; everything else stays
+// shared.
+export function pivotTextFromAnswers(answers: QuizAnswers, variant: 'v1' | 'v2' | 'v3' | 'v5' = 'v1') {
+  const useNamed = variant === 'v3' || variant === 'v5'
   return {
-    bullet2: variant === 'v3' ? getBullet2TextV3(answers.q6_versucht) : getBullet2Text(answers.q6_versucht),
+    bullet2: useNamed ? getBullet2TextV3(answers.q6_versucht) : getBullet2Text(answers.q6_versucht),
     mechanismHeadline: getMechanismHeadline(answers.q1_lokalisation),
     mechanismParagraph: getMechanismParagraph(answers.q1_lokalisation),
     aidsExplanation: getAidsExplanation(answers.q1_lokalisation),

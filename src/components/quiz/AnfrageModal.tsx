@@ -13,7 +13,7 @@ interface Props {
   answers: QuizAnswers
   profile: ComputedProfile
   onClose: () => void
-  variant?: 'v1' | 'v2' | 'v3' | 'v4'
+  variant?: 'v1' | 'v2' | 'v3' | 'v4' | 'v5'
 }
 
 type Kontaktart = 'email' | 'telefon'
@@ -31,7 +31,10 @@ const WUNSCHZEIT_LABEL: Record<Wunschzeit, string> = {
 }
 
 export default function AnfrageModal({ praxis, lead, answers, profile, onClose, variant = 'v1' }: Props) {
-  const isV4 = variant === 'v4'
+  // V4 + V5 both use the streamlined modal (prefill summary,
+  // wunschzeit pills, three objection killers) - V5 inherits V4's
+  // delivery-first surface verbatim.
+  const isV4 = variant === 'v4' || variant === 'v5'
   const dialogRef = useModalDismiss<HTMLDivElement>(onClose)
   const [telefon, setTelefon] = useState('')
   const [kontaktart, setKontaktart] = useState<Kontaktart>('email')

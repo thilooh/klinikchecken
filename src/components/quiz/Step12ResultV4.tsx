@@ -39,11 +39,15 @@ interface Props {
   lead: QuizLead
   profile: ComputedProfile
   onReset: () => void
+  // V5 reuses this layout but adds an extra V2-style "Erinnerst du
+  // dich..."-callback above the praxis list. Other variants render
+  // unchanged.
+  variant?: 'v4' | 'v5'
 }
 
 const PAGE_SIZE = 12
 
-export default function Step12ResultV4({ answers, lead, profile, onReset }: Props) {
+export default function Step12ResultV4({ answers, lead, profile, onReset, variant = 'v4' }: Props) {
   const { clinics } = useClinics()
   const [contactPraxis, setContactPraxis] = useState<ScoredPraxis | null>(null)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
@@ -129,6 +133,15 @@ export default function Step12ResultV4({ answers, lead, profile, onReset }: Prop
             ? 'Laser und feinste Verödung erreichen die Ader. Beides bekommst du nur in der Praxis.'
             : 'Sklerotherapie und Laser arbeiten an der Ader. Beides bekommst du nur in der Praxis.'}
         </div>
+      )}
+
+      {/* V5-only Step 7 callback - "Erinnerst du dich, was du
+          probiert hast?" preserves V2's emotional re-engagement
+          right before the praxis list. */}
+      {variant === 'v5' && (
+        <p style={{ fontSize: '15px', color: '#0A1F44', fontWeight: 600, lineHeight: 1.5, marginBottom: '12px', padding: '0 4px' }}>
+          Erinnerst du dich, was du probiert hast? Hier ist, womit es weitergeht.
+        </p>
       )}
 
       {/* Q6 multi-treatment acknowledgment - if she's tried 3+ real
