@@ -1,5 +1,7 @@
 import { useEffect, useRef } from 'react'
+import { Link } from 'react-router-dom'
 import ArticleLayout from './ArticleLayout'
+import { CTABox, FAQSection, TableOfContents, type FAQItem, type TocSection } from './components'
 import { sendEvent } from '../../lib/gtm'
 
 const sans = "'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
@@ -9,9 +11,7 @@ const CTA_HREF = '/praxen?utm_source=fb&utm_medium=ratgeber&utm_campaign=kosten'
 const SLUG = 'besenreiser-entfernen-kosten'
 const URL = `https://www.besenreiser-check.de/ratgeber/${SLUG}`
 
-// Section IDs used by both <h2> elements and the table of contents.
-// Order = order on page = order in TOC.
-const SECTIONS: Array<{ id: string; label: string }> = [
+const SECTIONS: TocSection[] = [
   { id: 'kostenuebersicht', label: 'Kostenübersicht: Was kostet welche Methode?' },
   { id: 'preisfaktoren', label: 'Was beeinflusst den Preis konkret?' },
   { id: 'krankenkasse', label: 'Übernimmt die Krankenkasse die Kosten?' },
@@ -23,33 +23,6 @@ const SECTIONS: Array<{ id: string; label: string }> = [
   { id: 'faq', label: 'Häufig gestellte Fragen zu den Kosten' },
   { id: 'wie-vorgehen', label: 'So gehst du jetzt am besten vor' },
 ]
-
-function TableOfContents() {
-  return (
-    <nav
-      aria-label="Inhalt"
-      style={{
-        background: '#F4F7FF',
-        border: '1px solid #DDE5F5',
-        borderRadius: '6px',
-        padding: '20px 24px',
-        margin: '8px 0 32px',
-        fontFamily: sans,
-      }}
-    >
-      <div style={{ fontSize: '13px', fontWeight: 700, color: '#0A1F44', letterSpacing: '0.04em', textTransform: 'uppercase', marginBottom: '10px' }}>
-        Inhalt
-      </div>
-      <ol style={{ margin: 0, padding: '0 0 0 18px', color: '#003399', fontSize: '15px', lineHeight: 1.7 }}>
-        {SECTIONS.map(s => (
-          <li key={s.id} style={{ margin: '2px 0' }}>
-            <a href={`#${s.id}`} style={{ color: '#003399', textDecoration: 'none' }}>{s.label}</a>
-          </li>
-        ))}
-      </ol>
-    </nav>
-  )
-}
 
 interface CostRow {
   method: string
@@ -125,58 +98,7 @@ const tdStyle: React.CSSProperties = {
   lineHeight: 1.5,
 }
 
-interface CTABoxProps {
-  heading: string
-  text: string
-  ctaText: string
-  ctaHref: string
-  variant?: 'default' | 'primary'
-  trackName?: string
-}
-
-function CTABox({ heading, text, ctaText, ctaHref, variant = 'default', trackName }: CTABoxProps) {
-  const primary = variant === 'primary'
-  return (
-    <div
-      style={{
-        background: primary ? '#003399' : '#F0F5FF',
-        border: primary ? '1px solid #003399' : '1px solid #C8D8FF',
-        borderRadius: '8px',
-        padding: '26px 28px',
-        margin: '36px 0',
-        fontFamily: sans,
-      }}
-    >
-      <p style={{ fontSize: '17px', fontWeight: 700, color: primary ? '#fff' : '#0A1F44', margin: '0 0 8px', lineHeight: 1.35 }}>
-        {heading}
-      </p>
-      <p style={{ fontSize: '14px', color: primary ? '#D8E3FF' : '#555', lineHeight: 1.6, margin: '0 0 18px' }}>
-        {text}
-      </p>
-      <a
-        href={ctaHref}
-        onClick={() => sendEvent('RatgeberCtaClick', { content_name: trackName ?? `kosten-${variant}` })}
-        style={{
-          display: 'inline-block',
-          background: primary ? '#FFD700' : '#003399',
-          color: primary ? '#0A1F44' : '#fff',
-          fontWeight: 700,
-          fontSize: '15px',
-          padding: '13px 26px',
-          borderRadius: '6px',
-          textDecoration: 'none',
-          minHeight: '44px',
-          lineHeight: '18px',
-        }}
-      >
-        {ctaText} →
-      </a>
-    </div>
-  )
-}
-
-interface FAQItemData { q: string; a: string }
-const FAQS: FAQItemData[] = [
+const FAQS: FAQItem[] = [
   {
     q: 'Wie viel kostet die Besenreiser-Entfernung pro Sitzung?',
     a: 'Eine einzelne Sitzung kostet je nach Methode zwischen 80 und 300 €. Verödung beginnt bei etwa 80-150 € pro Sitzung, Laser- und Schaumverödung liegen typischerweise bei 150-250 €, Premiumpraxen in Großstädten verlangen bis zu 300 € pro Sitzung.',
@@ -210,44 +132,6 @@ const FAQS: FAQItemData[] = [
     a: 'Behandlungen im Ausland werden teils mit deutlich niedrigeren Preisen beworben. Was selten dazu gesagt wird: Bei Komplikationen oder Folgebehandlungen reisen Patienten mehrfach an, und die deutsche Krankenkasse springt bei Problemen in der Regel nicht ein. Für eine ambulante Behandlung wie die Besenreiser-Entfernung lohnt sich der Aufwand selten.',
   },
 ]
-
-function FAQSection() {
-  return (
-    <div style={{ margin: '1em 0 2em' }}>
-      {FAQS.map((f, i) => (
-        <details
-          key={i}
-          style={{
-            borderTop: i === 0 ? '1px solid #E4E8F0' : 'none',
-            borderBottom: '1px solid #E4E8F0',
-            padding: '14px 0',
-            fontFamily: sans,
-          }}
-        >
-          <summary
-            style={{
-              fontSize: '16px',
-              fontWeight: 700,
-              color: '#0A1F44',
-              cursor: 'pointer',
-              listStyle: 'none',
-              display: 'flex',
-              justifyContent: 'space-between',
-              alignItems: 'center',
-              gap: '12px',
-            }}
-          >
-            <span>{f.q}</span>
-            <span style={{ color: '#888', fontWeight: 400, fontSize: '20px', lineHeight: 1, flexShrink: 0 }}>+</span>
-          </summary>
-          <p style={{ fontSize: '15px', color: '#444', lineHeight: 1.7, margin: '12px 0 4px' }}>
-            {f.a}
-          </p>
-        </details>
-      ))}
-    </div>
-  )
-}
 
 // Article + FAQPage + BreadcrumbList in a single @graph object,
 // because ArticleLayout takes one schemaData blob and injects one
@@ -361,7 +245,7 @@ export default function BesenreiserEntfernenKostenPage() {
         ganz Deutschland zusammengetragen und zeigen dir, womit du realistisch rechnen musst.
       </p>
 
-      <TableOfContents />
+      <TableOfContents sections={SECTIONS} />
 
       <h2 id="kostenuebersicht" className="art-h2">Kostenübersicht: Was kostet welche Methode?</h2>
       <p className="art-p">
@@ -603,8 +487,12 @@ export default function BesenreiserEntfernenKostenPage() {
       <p className="art-p">
         <strong>Spezialisierung des Behandlers.</strong> Idealerweise ein Phlebologe (Facharzt für
         Venenheilkunde) oder ein Dermatologe mit nachgewiesener Erfahrung in der Sklerotherapie
-        und Lasertherapie. Frag konkret: <em>"Wie viele Besenreiser-Behandlungen führen Sie pro
-        Monat durch?"</em>
+        und Lasertherapie. Welche Facharztrichtungen überhaupt infrage kommen und worauf du
+        achten solltest, erklären wir im Detail im Ratgeber{' '}
+        <Link to="/ratgeber/welcher-arzt-besenreiser" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Welcher Arzt entfernt Besenreiser?
+        </Link>{' '}
+        Frag konkret: <em>"Wie viele Besenreiser-Behandlungen führen Sie pro Monat durch?"</em>
       </p>
       <p className="art-p">
         <strong>Voruntersuchung mit Duplex-Sonografie.</strong> Eine seriöse Praxis untersucht vor
@@ -626,7 +514,7 @@ export default function BesenreiserEntfernenKostenPage() {
       />
 
       <h2 id="faq" className="art-h2">Häufig gestellte Fragen zu den Kosten</h2>
-      <FAQSection />
+      <FAQSection faqs={FAQS} />
 
       <h2 id="wie-vorgehen" className="art-h2">So gehst du jetzt am besten vor</h2>
       <p className="art-p">

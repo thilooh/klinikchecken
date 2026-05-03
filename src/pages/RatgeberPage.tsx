@@ -41,6 +41,15 @@ const ARTICLES: ArticleCard[] = [
     live: true,
   },
   {
+    title: 'Welcher Arzt entfernt Besenreiser?',
+    description:
+      'Phlebologe, Dermatologe oder Hausarzt - welcher Facharzt ist die richtige Anlaufstelle? Was hinter den Bezeichnungen steckt und worauf du bei der Praxis-Wahl achten solltest.',
+    href: '/ratgeber/welcher-arzt-besenreiser',
+    date: '3. Mai 2026',
+    readTime: '8 Min',
+    live: true,
+  },
+  {
     title: 'Besenreiser oder Krampfader? Den Unterschied erkennen',
     description:
       'Beide sind sichtbare Venenveränderungen - aber mit sehr unterschiedlicher Bedeutung. Wann du unbedingt einen Arzt aufsuchen solltest.',
