@@ -8,3 +8,6 @@ dist/
 .DS_Store
 Thumbs.db
 npm-debug.log*
+
+# Local email preview / dev artifacts
+*-email-preview.html
