@@ -182,7 +182,7 @@ const STEP5_MIRROR_TEXTS: Record<QuizVariant, string> = {
 // keep V2's strong mirror for the high-pain answers.
 function step5MirrorForV5(answer: string): string {
   if (answer === 'stoert_aber_alltag') {
-    return 'Du sagst, es stört dich kaum. Trotzdem klickst du dich gerade durchs Quiz. Das passt für viele zusammen.'
+    return 'Du sagst, es stört dich kaum. Trotzdem bist du gerade hier. Das passt zusammen, bei den meisten.'
   }
   return 'Das ist nicht Eitelkeit. Das ist die unsichtbare Steuer, die du zahlst, weil dein Körper sich anders entschieden hat als du.'
 }
@@ -471,19 +471,22 @@ const STEP9_V3_PARAGRAPHS_GESICHT = [
 ]
 
 // V5 Beine pivot - synthesis: V2's story-form three paragraphs (the
-// emotional Schwartz-stage-3 frame) + V3's depth-math as paragraph
-// 4 (the evidence). Same footnotes as V3. "Sport" replaced with
-// "Hausmittel" to dodge the UWG-grenzwertig anti-sport claim.
+// emotional Schwartz-stage-3 frame) + V3's depth-math split into two
+// short paragraphs (mobile readability) + standalone "Sie erreichen
+// die Ader nie." for kicker emphasis. Same footnotes as V3. "Sport"
+// replaced with "Hausmittel" to dodge the UWG-grenzwertig anti-sport
+// claim.
 const STEP9_V5_PARAGRAPHS_BEINE = [
   'Was du an deinen Beinen siehst, ist nicht das Problem. Das ist nur die Stelle, an der das Problem an die Oberfläche durchschimmert.',
   'Die Adern darunter sind erweitert. Sie haben sich unter der Haut entschieden, mehr Platz zu nehmen. Cremes, Hausmittel, Self-Tanner - sie waren nie die Antwort. Sie waren nicht mal an der richtigen Stelle.',
-  'Genauer gesagt: Eine Besenreiser-Ader liegt im Mittel etwa 0,46 mm unter der Hautoberfläche.¹ Cremes wirken in der Hornschicht der Haut - etwa 0,02 mm tief.² Sie erreichen die Ader nie.',
+  'Eine Besenreiser-Ader liegt im Mittel 0,46 mm unter der Hautoberfläche.¹ Cremes wirken in der Hornschicht - etwa 0,02 mm tief.²',
+  'Sie erreichen die Ader nie.',
   'Die Methoden, die das tun, gibt es. Sklerotherapie und Laser arbeiten direkt an der Ader, nicht obendrauf.',
 ]
 
 const STEP9_V5_PARAGRAPHS_GESICHT = [
-  'Was du im Spiegel siehst, ist nicht das Problem. Das ist nur die Stelle, an der das Problem durchschimmert.',
-  'Die Kapillargefäße darunter sind dauerhaft erweitert. Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt. Pflege und Beruhigungs-Cremes wirken in der Hautoberfläche, nicht an der Ader darunter.',
+  'Eine Kapillarader im Gesicht ist dauerhaft erweitert. Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt.',
+  'Pflege und Beruhigungs-Cremes wirken in der Hautoberfläche, nicht an der Ader darunter.',
   'Die Verfahren in der Dermatologie setzen direkt an der Ader an. Pflege liegt darüber.',
 ]
 
@@ -516,7 +519,7 @@ export function Step9Pivot({ answers, onContinue, variant = 'v1' }: {
   const v5Paragraphs = isFace ? STEP9_V5_PARAGRAPHS_GESICHT : STEP9_V5_PARAGRAPHS_BEINE
   const reframeParagraphs = isV5 ? v5Paragraphs : (isV3 ? v3Paragraphs : v2Paragraphs)
   const headline = isV5
-    ? (isFace ? 'Was du im Spiegel siehst, ist nicht das Problem.' : '0,46 mm. So tief reichen deine Cremes nicht.')
+    ? (isFace ? 'Make-up überdeckt sie. Pflege nicht.' : '0,46 mm. So tief reichen deine Cremes nicht.')
     : 'Kurz mal ehrlich.'
   const showFootnotes = (isV3 || isV5) && !isFace
   const renderRich = variant === 'v2' || isV3 || isV5

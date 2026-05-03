@@ -160,17 +160,14 @@ export default function Step12ResultV4({ answers, lead, profile, onReset, varian
 
       {/* Anti-shame line - dissolves the avoidance pattern from Step 7
           before the inquiry click. */}
-      <p style={{ fontSize: '13px', color: '#555', marginBottom: '8px', padding: '0 4px', lineHeight: 1.5 }}>
+      <p style={{ fontSize: '13px', color: '#555', marginBottom: '16px', padding: '0 4px', lineHeight: 1.5 }}>
         Praxen sehen Besenreiser täglich. Für sie ist das Routine.
       </p>
 
-      {/* Multi-Anfrage tip - lifts the "ich darf nur eine anfragen"
-          ceiling. Strategically valuable: more leads per user. */}
-      <p style={{ fontSize: '13px', color: '#444', backgroundColor: '#FFF8E1', border: '1px solid #F5DD8C', padding: '10px 12px', borderRadius: '4px', marginBottom: '16px', lineHeight: 1.5 }}>
-        💡 <strong>Tipp:</strong> Frag bei 2-3 Praxen gleichzeitig an. Antwortzeiten und Termine variieren - Praxen erwarten das.
-      </p>
-
-      {/* Praxen list */}
+      {/* Praxen list - placed directly after the anti-shame line so
+          users hit the action surface fast. The Multi-Anfrage tip
+          moved below the visible cards because it's strategic
+          context, not a precondition for clicking the first one. */}
       {sortedPraxen.length === 0 ? (
         <p style={{ fontSize: '14px', color: '#666', padding: '0 4px', marginBottom: '20px' }}>
           Wir laden gleich passende Praxen für dich…
@@ -186,6 +183,11 @@ export default function Step12ResultV4({ answers, lead, profile, onReset, varian
               isTopMatch={i === 0 && p.isMatch}
             />
           ))}
+          {/* Multi-Anfrage tip after the visible praxen - strategic
+              hint for users still browsing, not a header above. */}
+          <p style={{ fontSize: '13px', color: '#444', backgroundColor: '#FFF8E1', border: '1px solid #F5DD8C', padding: '10px 12px', borderRadius: '4px', marginTop: '8px', marginBottom: '12px', lineHeight: 1.5 }}>
+            💡 <strong>Tipp:</strong> Frag bei 2-3 Praxen gleichzeitig an. Antwortzeiten und Termine variieren - Praxen erwarten das.
+          </p>
           {hasMore && (
             <button
               type="button"
