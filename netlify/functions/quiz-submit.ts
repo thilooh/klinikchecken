@@ -160,13 +160,13 @@ type EmailPayload = {
   city: string | null
 }
 
-const CTA_URL = 'https://besenreiser-check.de/methoden-quiz?utm_source=email&utm_medium=transactional&utm_campaign=quiz_auswertung_v2'
+const CTA_URL = 'https://besenreiser-check.de/methoden-quiz?utm_source=email&utm_medium=transactional&utm_campaign=quiz_auswertung_v3'
 
 function buildSubject(p: EmailPayload): string {
   const namePart = p.vorname ? `${p.vorname}, ` : ''
   return p.isFace
-    ? `${namePart}deine Auswertung — und warum Make-up nicht reicht`
-    : `${namePart}deine Auswertung — und der Grund, warum Cremes nicht reichen konnten`
+    ? `${namePart}Make-up überdeckt sie. Was sie wegmacht.`
+    : `${namePart}die 0,46 mm, die deine Cremes nie erreichen konnten`
 }
 
 function buildPreheader(p: EmailPayload): string {
@@ -181,10 +181,32 @@ function buildProfileLine(p: EmailPayload): string {
   return `${p.typ} ${wo}, ${p.auspraegungLower}, ${p.dringlichkeitShort}`
 }
 
+// Future-pacing - re-anchors the Step 7 avoidance pattern as a
+// motivation, not a guarantee. Hedged ("bei vielen", "häufigste
+// Motivation", "keine Garantie") for HWG safety. Concrete examples
+// (Schwimmbad, kurze Hose, Foto am Strand / Make-up-Schicht) so the
+// reader sees their own life, not an abstract outcome.
+function buildFuturePacing(p: EmailPayload): string {
+  return p.isFace
+    ? 'Was das praktisch heißt: bei vielen Patientinnen wird nach 2-4 Sitzungen die Schicht Make-up überflüssig, mit der sie die Adern morgens überdecken. Das ist keine Garantie. Es ist die häufigste Motivation.'
+    : 'Was das praktisch heißt: bei vielen Patientinnen wird nach 2-4 Sitzungen wieder möglich, was sie vorher gemieden haben — Schwimmbad, kurze Hose, Foto am Strand. Das ist keine Garantie. Es ist die häufigste Motivation.'
+}
+
 function renderEmailHtml(p: EmailPayload): string {
-  const greeting = p.vorname ? `${p.vorname}, hier ist deine Auswertung` : 'Hier ist deine Auswertung'
   const profileLine = buildProfileLine(p)
   const stadtZeile = p.city ? `in ${p.city}` : 'in deiner Region'
+  const stadtCta = p.city ? ` in ${p.city}` : ''
+  const futurePacing = buildFuturePacing(p)
+
+  // H1 = magnetic hook (Schwartz: channel existing desire onto the
+  // mechanism). Greeting moves to a smaller line below so the H1 is
+  // doing the heavy lifting, not "Lisa, hier ist deine Auswertung."
+  const h1 = p.isFace
+    ? 'Make-up überdeckt. Pflege beruhigt. Beides erreicht die Ader nicht.'
+    : '0,46 mm. Genau dort sitzt das Problem.'
+  const greetingLine = p.vorname
+    ? `<p style="margin:0 0 4px; font-size:14px; color:#666; line-height:1.4;">${p.vorname}, hier ist deine Auswertung.</p>`
+    : ''
 
   // Pivot block - depth-math for Beine, stays-goes for Gesicht. Footnotes
   // only render on the Beine path because it's the only one with numeric
@@ -239,13 +261,17 @@ function renderEmailHtml(p: EmailPayload): string {
 <tr><td style="background-color:#003399; padding:18px 24px;"><div style="font-size:17px; font-weight:700; color:#fff; letter-spacing:0.02em;">Besenreiser-Check</div></td></tr>
 
 <tr><td style="padding:28px 24px 8px;">
-<h1 style="margin:0 0 12px; font-size:22px; font-weight:800; color:#0A1F44; line-height:1.3;">${greeting}</h1>
+${greetingLine}
+<h1 style="margin:0 0 14px; font-size:24px; font-weight:800; color:#0A1F44; line-height:1.25;">${h1}</h1>
 <p style="margin:0 0 16px; font-size:14px; color:#0A1F44; line-height:1.5;"><strong>Dein Profil in einer Zeile:</strong> ${profileLine}.</p>
 </td></tr>
 
 <tr><td style="padding:0 24px 16px;">
-<h2 style="margin:0 0 10px; font-size:16px; font-weight:700; color:#0A1F44; line-height:1.4;">Was bei dir aller Wahrscheinlichkeit nach wirkt — und was nicht.</h2>
 ${pivotBlock}
+</td></tr>
+
+<tr><td style="padding:0 24px 18px;">
+<p style="margin:0; font-size:14px; color:#0A1F44; line-height:1.6; padding:14px 16px; background-color:#F4F7FF; border-left:3px solid #003399; border-radius:4px;">${futurePacing}</p>
 </td></tr>
 
 <tr><td style="padding:0 24px 12px;">
@@ -254,11 +280,15 @@ ${methodsBlock}
 <p style="margin:0; font-size:13px; color:#555; line-height:1.5; font-style:italic;">Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.</p>
 </td></tr>
 
-<tr><td style="padding:18px 24px 12px;">
+<tr><td style="padding:18px 24px 18px;" align="center">
+<a href="${CTA_URL}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Praxen${stadtCta} ansehen →</a>
+</td></tr>
+
+<tr><td style="padding:0 24px 12px;">
 <h2 style="margin:0 0 12px; font-size:15px; font-weight:700; color:#0A1F44;">Drei Sachen, die viele vorher fragen:</h2>
 <div style="margin-bottom:12px;">
 <div style="font-size:13px; font-weight:700; color:#0A1F44; margin-bottom:2px;">"Verpflichte ich mich, wenn ich anfrage?"</div>
-<div style="font-size:13px; color:#444; line-height:1.5;">Nein. Eine Anfrage ist eine Anfrage. Du kannst den Termin annehmen, einen anderen vorschlagen oder nicht antworten.</div>
+<div style="font-size:13px; color:#444; line-height:1.5;">Nein. Eine Anfrage ist eine Anfrage. Wenn die Praxis sich meldet, kannst du einen Termin annehmen, einen anderen vorschlagen oder nicht antworten — alles okay. Du bist zu nichts verpflichtet.</div>
 </div>
 <div style="margin-bottom:12px;">
 <div style="font-size:13px; font-weight:700; color:#0A1F44; margin-bottom:2px;">"Was kostet das Erstgespräch?"</div>
@@ -270,12 +300,8 @@ ${methodsBlock}
 </div>
 </td></tr>
 
-<tr><td style="padding:14px 24px 6px;">
-<p style="margin:0 0 12px; font-size:14px; color:#0A1F44; line-height:1.5;">${p.vorname ? `${p.vorname}, hier` : 'Hier'} kannst du Praxen ${stadtZeile} sehen, die zu deinem Profil passen:</p>
-</td></tr>
-
-<tr><td style="padding:0 24px 14px;" align="center">
-<a href="${CTA_URL}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Erstgespräch anfragen →</a>
+<tr><td style="padding:8px 24px 14px;" align="center">
+<a href="${CTA_URL}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Mein Erstgespräch anfragen →</a>
 </td></tr>
 
 <tr><td style="padding:0 24px 18px;">
@@ -299,9 +325,14 @@ ${footnotesBlock}
 }
 
 function renderEmailText(p: EmailPayload): string {
-  const greeting = p.vorname ? `${p.vorname}, hier ist deine Auswertung` : 'Hier ist deine Auswertung'
   const profileLine = buildProfileLine(p)
   const stadtZeile = p.city ? `in ${p.city}` : 'in deiner Region'
+  const stadtCta = p.city ? ` in ${p.city}` : ''
+  const futurePacing = buildFuturePacing(p)
+  const h1 = p.isFace
+    ? 'Make-up überdeckt. Pflege beruhigt. Beides erreicht die Ader nicht.'
+    : '0,46 mm. Genau dort sitzt das Problem.'
+  const greetingPrefix = p.vorname ? `${p.vorname}, hier ist deine Auswertung.\n\n` : ''
 
   const pivotText = p.isFace
     ? `Eine Kapillarader im Gesicht ist dauerhaft erweitert. Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt. Pflege und Beruhigungs-Cremes wirken in der Hautoberfläche, nicht an der Ader darunter.
@@ -333,14 +364,15 @@ Lichtimpulse von außen, koagulieren die Ader. Gut bei sehr feinen Oberflächen-
 [1] Mittlere Tiefe von Besenreisern (Teleangiektasien) im superficialen Korium. Quelle: Plastic Surgery Key — Pathophysiology of Telangiectasias.
 [2] Hornschicht-Dicke (Stratum corneum) typisch 10-20 µm. Topisch applizierte Cremes ohne Penetration-Enhancer werden tiefer meist nicht nachweisbar. Quelle: PMC — Determination of Stratum Corneum Thickness.`
 
-  return `${greeting}
+  return `${greetingPrefix}${h1}
 
 Dein Profil in einer Zeile: ${profileLine}.
 
 
-WAS BEI DIR ALLER WAHRSCHEINLICHKEIT NACH WIRKT — UND WAS NICHT.
-
 ${pivotText}
+
+
+${futurePacing}
 
 
 ${methodsText}
@@ -348,10 +380,13 @@ ${methodsText}
 Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.
 
 
+→ Praxen${stadtCta} ansehen: ${CTA_URL}
+
+
 DREI SACHEN, DIE VIELE VORHER FRAGEN:
 
 "Verpflichte ich mich, wenn ich anfrage?"
-Nein. Eine Anfrage ist eine Anfrage. Du kannst den Termin annehmen, einen anderen vorschlagen oder nicht antworten.
+Nein. Eine Anfrage ist eine Anfrage. Wenn die Praxis sich meldet, kannst du einen Termin annehmen, einen anderen vorschlagen oder nicht antworten — alles okay. Du bist zu nichts verpflichtet.
 
 "Was kostet das Erstgespräch?"
 In vielen Praxen kostenfrei oder im niedrigen 2-stelligen Bereich. Behandlung später typischerweise 80-300 € pro Sitzung. Reine Besenreiser-Behandlung gilt meistens als kosmetisch und wird von gesetzlichen Kassen nicht übernommen.
@@ -360,9 +395,7 @@ In vielen Praxen kostenfrei oder im niedrigen 2-stelligen Bereich. Behandlung sp
 In den meisten Praxen 1-3 Wochen. Frag bei 2-3 Praxen gleichzeitig an — die schnellste antwortet zuerst. Praxen erwarten das.
 
 
-${p.vorname ? `${p.vorname}, hier` : 'Hier'} kannst du Praxen ${stadtZeile} sehen, die zu deinem Profil passen:
-
-→ Erstgespräch anfragen: ${CTA_URL}
+→ Mein Erstgespräch anfragen: ${CTA_URL}
 
 Tipp: bei 2-3 Praxen gleichzeitig anfragen kostet dich 5 zusätzliche Minuten und spart Wartezeit.${footnotesText}
 
