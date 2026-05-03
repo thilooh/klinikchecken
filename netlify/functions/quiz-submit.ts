@@ -325,8 +325,12 @@ function buildRecoveryUrl(parsed: ParsedBody): string {
   return `${base}/auswertung?utm_source=email&utm_medium=transactional&utm_campaign=quiz_auswertung_v3&d=${token}`
 }
 
-// Subject A/B variants - 4 per path. pickSubject returns variant id
-// (A/B/C/D) tagged in Brevo so open rate per variant is filterable.
+// Subject A/B variants - 4 per path per funnel-tonality. pickSubject
+// returns variant id (A/B/C/D) tagged in Brevo so open rate per
+// variant is filterable.
+//
+// V3-tonal variants for V1/V2/V3/V4 senders - lead with mechanism
+// specifics (0,46 mm / 0,02 mm depth-math, "Make-up überdeckt").
 const SUBJECT_VARIANTS_BEINE: Array<{ id: string; build: (vorname: string) => string }> = [
   { id: 'A', build: v => `${v ? v + ', ' : ''}die 0,46 mm, die deine Cremes nie erreichen konnten` },
   { id: 'B', build: v => `${v ? v + ', ' : ''}der 0,02-mm-Grund, warum Cremes nicht reichen` },
@@ -341,8 +345,28 @@ const SUBJECT_VARIANTS_FACE: Array<{ id: string; build: (vorname: string) => str
   { id: 'D', build: v => `${v ? v + ', ' : ''}was Pflege erreicht - und was nicht` },
 ]
 
+// V5-tonal variants - reuse V2's emotional re-engagement (Step 7
+// callback "was du probiert hast", Step 9 "an der falschen Stelle"
+// reframe) instead of V3's clinical specificity. Voice-consistent
+// with the V5 quiz funnel and the V5 email opener.
+const SUBJECT_VARIANTS_V5_BEINE: Array<{ id: string; build: (vorname: string) => string }> = [
+  { id: 'V5-A', build: v => `${v ? v + ', ' : ''}was du probiert hast - und warum es nicht reichen konnte` },
+  { id: 'V5-B', build: v => `${v ? v + ', ' : ''}erinnerst du dich, was du probiert hast?` },
+  { id: 'V5-C', build: v => `${v ? v + ', ' : ''}hier ist nochmal, womit es weitergeht` },
+  { id: 'V5-D', build: v => `${v ? v + ', ' : ''}deine Cremes waren nicht falsch. Sie waren an der falschen Stelle.` },
+]
+
+const SUBJECT_VARIANTS_V5_FACE: Array<{ id: string; build: (vorname: string) => string }> = [
+  { id: 'V5-A', build: v => `${v ? v + ', ' : ''}was du probiert hast - und warum es nicht reichen konnte` },
+  { id: 'V5-B', build: v => `${v ? v + ', ' : ''}was Make-up nicht schafft` },
+  { id: 'V5-C', build: v => `${v ? v + ', ' : ''}hier ist nochmal, womit es weitergeht` },
+  { id: 'V5-D', build: v => `${v ? v + ', ' : ''}Make-up überdeckt sie. Was sie wegmacht.` },
+]
+
 function pickSubject(p: EmailPayload): { id: string; subject: string } {
-  const variants = p.isFace ? SUBJECT_VARIANTS_FACE : SUBJECT_VARIANTS_BEINE
+  const variants = p.isV5
+    ? (p.isFace ? SUBJECT_VARIANTS_V5_FACE : SUBJECT_VARIANTS_V5_BEINE)
+    : (p.isFace ? SUBJECT_VARIANTS_FACE : SUBJECT_VARIANTS_BEINE)
   const v = variants[Math.floor(Math.random() * variants.length)]
   return { id: v.id, subject: v.build(p.vorname) }
 }
@@ -430,14 +454,18 @@ function buildHauttypNoteText(hauttypDark: boolean, isFace: boolean): string | n
 // user reported a flächige/netzartige Verteilung. Schaumsklerotherapie
 // is the path-relevant method for diffuse patterns. HWG-defensible
 // (sachliche Methoden-Information, kein Wirksamkeitsclaim).
-function buildFlaechigNote(flaechig: boolean, isFace: boolean): string | null {
+// Personalised with the user's vorname so it reads as direct
+// acknowledgment of her specific answer, not generic site copy.
+function buildFlaechigNote(flaechig: boolean, isFace: boolean, vorname: string): string | null {
   if (!flaechig || isFace) return null
-  return 'Bei <strong>flächiger Verteilung</strong> setzen Phlebologen häufig auf <strong>Schaumsklerotherapie</strong> - sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.'
+  const namePrefix = vorname ? `${vorname}, ` : ''
+  return `${namePrefix}du hast eine <strong>flächige Verteilung</strong> angegeben. Bei dem Befund setzen Phlebologen häufig auf <strong>Schaumsklerotherapie</strong> - sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.`
 }
 
-function buildFlaechigNoteText(flaechig: boolean, isFace: boolean): string | null {
+function buildFlaechigNoteText(flaechig: boolean, isFace: boolean, vorname: string): string | null {
   if (!flaechig || isFace) return null
-  return 'Bei FLÄCHIGER VERTEILUNG setzen Phlebologen häufig auf Schaumsklerotherapie - sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.'
+  const namePrefix = vorname ? `${vorname}, ` : ''
+  return `${namePrefix}du hast eine FLÄCHIGE VERTEILUNG angegeben. Bei dem Befund setzen Phlebologen häufig auf Schaumsklerotherapie - sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.`
 }
 
 // Q2 hormonal-trigger note - schwangerschaft + wechseljahre are 39%
@@ -453,23 +481,22 @@ function buildHormonalNoteText(hormonal: boolean): string | null {
   return buildHormonalNote(hormonal)
 }
 
-// V5-only opener that bridges V2's "Erinnerst du dich"-tonality to
-// the V3 depth-math content the email otherwise leads with. Renders
-// only for V5 senders + when the user actually tried at least one
-// real treatment (so the callback has something to refer to). For
-// V5 users who tried nothing, falls back to a neutral opener that
-// stays within HWG-defensible language ("in Frage kommt" instead of
-// "wirklich helfen").
+// V5-only opener. Mirrors the Step 12 lead-zeile ("Erinnerst du dich,
+// was du probiert hast? Hier ist, womit es weitergeht.") so the email
+// reads as a continuation of the auswertung surface, not a fresh
+// pitch. Renders only for V5 senders. Branches by whether she
+// actually tried any real treatment - empty case stays HWG-safe with
+// "in Frage kommt" instead of "wirklich helfen".
 function buildV5Opener(p: EmailPayload): string | null {
   if (!p.isV5) return null
   const labels = p.tried.filter(v => v in Q6_LABEL).map(v => Q6_LABEL[v])
   if (labels.length === 0) {
-    return 'Erinnerst du dich? Du informierst dich gerade, bevor du etwas ausprobierst. Hier ist, was bei vergleichbaren Befunden in Frage kommt.'
+    return 'Hier ist nochmal, womit es weitergeht. Du informierst dich gerade, bevor du etwas ausprobierst. Was bei vergleichbaren Befunden in Frage kommt:'
   }
   const list = labels.length === 1 ? labels[0] : labels.length === 2
     ? `${labels[0]} und ${labels[1]}`
     : `${labels.slice(0, -1).join(', ')} und ${labels[labels.length - 1]}`
-  return `Erinnerst du dich? Du hast ${list} probiert. Alle haben einen Effekt. Nur nicht da, wo das Problem sitzt.`
+  return `Hier ist nochmal, womit es weitergeht. Du hast ${list} probiert. Alle haben einen Effekt. Nur nicht da, wo das Problem sitzt.`
 }
 
 function buildV5OpenerText(p: EmailPayload): string | null {
@@ -555,7 +582,7 @@ function renderEmailHtml(p: EmailPayload): string {
   const versuchtCallback = buildVersuchtCallback(p.tried)
   const timingBlock = buildTimingBlock(p.zeitziel, p.isFace)
   const hauttypNote = buildHauttypNote(p.hauttypDark, p.isFace)
-  const flaechigNote = buildFlaechigNote(p.flaechig, p.isFace)
+  const flaechigNote = buildFlaechigNote(p.flaechig, p.isFace, p.vorname)
   const hormonalNote = buildHormonalNote(p.hormonalTrigger)
   const v5Opener = buildV5Opener(p)
 
@@ -756,7 +783,7 @@ function renderEmailText(p: EmailPayload): string {
   const versuchtCallback = buildVersuchtCallback(p.tried)
   const timingBlock = buildTimingBlock(p.zeitziel, p.isFace)
   const hauttypNote = buildHauttypNoteText(p.hauttypDark, p.isFace)
-  const flaechigNote = buildFlaechigNoteText(p.flaechig, p.isFace)
+  const flaechigNote = buildFlaechigNoteText(p.flaechig, p.isFace, p.vorname)
   const hormonalNote = buildHormonalNoteText(p.hormonalTrigger)
   const h1 = p.isFace
     ? 'Make-up überdeckt. Pflege beruhigt. Beides erreicht die Ader nicht.'
