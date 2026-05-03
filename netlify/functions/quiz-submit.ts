@@ -224,7 +224,8 @@ type EmailPayload = {
 }
 
 // Subset of the clinic JSON that the email needs - just enough to
-// render the inline 1-praxis-card and the discipline label.
+// render the inline 1-praxis-card in homepage-ClinicCard style:
+// logo, photo, USPs, tags, Google rating, hours.
 type Clinic = {
   id: number
   name: string
@@ -236,17 +237,37 @@ type Clinic = {
   methods: string[]
   tier?: string
   foundedYear?: number
+  openHours?: string
+  googleRating?: number
+  googleReviewCount?: number
+  placeId?: string
+  usp?: string[]
+  freeConsultation?: boolean
+  onlineBooking?: boolean
+  eveningAppointments?: boolean
+  ratenzahlung?: boolean
+  parking?: boolean
+  media?: { logo?: string; streetview?: string; map?: string }
 }
 
 type TopPraxis = {
+  id: number
   name: string
   city: string
   district?: string
+  address?: string
   methods: string[]
   doctor?: string
   qualification?: string
   foundedYear?: number
   isPaidPartner: boolean
+  openHours?: string
+  googleRating?: number
+  googleReviewCount?: number
+  placeId?: string
+  usp?: string[]
+  tags: string[]
+  logoUrl?: string
 }
 
 // Clinic methods that are relevant per quiz-path. Used to prefer
@@ -292,15 +313,38 @@ function findTopPraxis(clinics: Clinic[] | null, city: string | null, isFace: bo
   )
   const c = sorted[0]
   if (!c) return null
+  // Tags mirror the homepage ClinicCard's ClinicTags row. Only the
+  // useful boolean-extras get a pill; "Sa geöffnet" detection is
+  // dropped because email render doesn't have parseable openHours
+  // logic available.
+  const tags: string[] = []
+  if (c.freeConsultation) tags.push('Kostenlose Erstberatung')
+  if (c.onlineBooking) tags.push('Online-Buchung')
+  if (c.eveningAppointments) tags.push('Abendtermine')
+  if (c.ratenzahlung) tags.push('Ratenzahlung')
+  if (c.parking) tags.push('Parkplätze')
+  // Logo URL: clinic media.logo is a relative path like
+  // "/clinic-photos/xxx-logo.png". Email needs an absolute URL.
+  const baseSite = (process.env.URL?.trim() || 'https://besenreiser-check.de').replace(/\/$/, '')
+  const logoUrl = c.media?.logo ? (c.media.logo.startsWith('http') ? c.media.logo : `${baseSite}${c.media.logo}`) : undefined
   return {
+    id: c.id,
     name: c.name,
     city: c.city,
     district: c.district,
+    address: c.address,
     methods: c.methods,
     doctor: c.doctor,
     qualification: c.qualification,
     foundedYear: c.foundedYear,
     isPaidPartner: c.tier === 'premium_plus' || c.tier === 'premium',
+    openHours: c.openHours,
+    googleRating: c.googleRating,
+    googleReviewCount: c.googleReviewCount,
+    placeId: c.placeId,
+    usp: c.usp,
+    tags,
+    logoUrl,
   }
 }
 
@@ -507,39 +551,98 @@ function buildV5OpenerText(p: EmailPayload): string | null {
 // rotation across 4 variants per path). Kept off-disk - all subject
 // generation goes through pickSubject in sendAuswertungMail.
 
-// HTML for the single inline praxis card. Mirrors the visual shape
-// of PraxisCardV4 (1×1×1×1) but stripped to email-safe markup
-// (tables + inline styles, no flex). The Premium-Partner badge sits
-// above the card when applicable - UWG §5a wants paid placements
-// labelled regardless of context.
-function buildPraxisCardHtml(praxis: TopPraxis, recoveryUrl: string, isFace: boolean): string {
-  const discipline = isFace
-    ? '<strong>Dermatologie</strong> - arbeitet an der Kapillarader im Gesicht'
-    : '<strong>Phlebologie</strong> - arbeitet an der Ader, nicht an der Haut'
+// HTML for the single inline praxis card. Email-safe rebuild of the
+// homepage ClinicCard layout (logo, name, rating, address,
+// schwerpunkt, USPs, tag-pills) using only tables + inline styles -
+// no flex/grid, no JS. Premium-Partner badge stays at top when
+// applicable for UWG §5a compliance.
+function buildPraxisCardHtml(praxis: TopPraxis, recoveryUrl: string, _isFace: boolean): string {
+  void _isFace
+  // Doctor / qualification dedupe + proof composition.
   const proofParts: string[] = []
   if (praxis.foundedYear) proofParts.push(`Seit ${praxis.foundedYear}`)
-  if (praxis.doctor) {
-    proofParts.push(praxis.qualification ? `${praxis.doctor}, ${praxis.qualification}` : praxis.doctor)
-  } else if (praxis.qualification) {
-    proofParts.push(praxis.qualification)
+  const doctorTrim = (praxis.doctor || '').trim()
+  const qualTrim = (praxis.qualification || '').trim()
+  if (doctorTrim && qualTrim && doctorTrim !== qualTrim) {
+    proofParts.push(`${doctorTrim}, ${qualTrim}`)
+  } else if (doctorTrim) {
+    proofParts.push(doctorTrim)
+  } else if (qualTrim) {
+    proofParts.push(qualTrim)
   }
   const proofLine = proofParts.length > 0
-    ? `<div style="font-size:12px; color:#666; line-height:1.4; margin-bottom:14px;">${proofParts.join(' · ')}</div>`
+    ? `<div style="font-size:11px; color:#666; line-height:1.4; margin-bottom:12px;">${escapeHtml(proofParts.join(' · '))}</div>`
     : ''
+
   const partnerBadge = praxis.isPaidPartner
-    ? `<div style="display:inline-block; background-color:#003399; color:#fff; font-size:10px; font-weight:700; letter-spacing:0.05em; padding:3px 8px; border-radius:3px 3px 0 0; margin-bottom:0;">PREMIUM-PARTNER · ANZEIGE</div>`
+    ? `<table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="background-color:#003399; color:#fff; font-size:10px; font-weight:700; letter-spacing:0.05em; padding:4px 10px; border-radius:3px 3px 0 0;">PREMIUM-PARTNER · ANZEIGE</td></tr></table>`
     : ''
+
+  // Logo banner at the top of the card. Skipped if no media.logo so
+  // unbranded entries don't show a placeholder void. Uses absolute
+  // URL (built via baseSite + relative path in findTopPraxis).
+  const logoBlock = praxis.logoUrl
+    ? `<tr><td align="center" style="background-color:#fff; padding:18px 16px; border-bottom:1px solid #EEEEEE;"><img src="${escapeHtml(praxis.logoUrl)}" alt="${escapeHtml(praxis.name)} Logo" width="200" style="max-width:200px; max-height:120px; height:auto; display:inline-block;" /></td></tr>`
+    : ''
+
+  // Google rating row - clickable. With placeId the recovery URL
+  // takes them back to /auswertung where the ClinicCard's reviews
+  // modal opens; without placeId fall back to Google Maps in a new
+  // tab so they still get to read the reviews.
+  const ratingRow = (praxis.googleRating && praxis.googleRating > 0 && praxis.googleReviewCount && praxis.googleReviewCount > 0)
+    ? (() => {
+        const reviewsUrl = praxis.placeId
+          ? recoveryUrl
+          : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(praxis.name + ' ' + (praxis.address || praxis.city))}`
+        const stars = '★'.repeat(Math.round(praxis.googleRating!))
+        return `<div style="margin-bottom:10px;"><a href="${reviewsUrl}" style="text-decoration:none; color:inherit;"><span style="font-size:13px; color:#FFB400; letter-spacing:1px;">${stars}</span> <span style="font-size:14px; font-weight:700; color:#111;">${praxis.googleRating!.toFixed(1)}</span> <span style="font-size:12px; color:#0052CC; text-decoration:underline;">${praxis.googleReviewCount} Google-Bewertungen lesen ›</span></a></div>`
+      })()
+    : ''
+
+  const addressLine = praxis.address
+    ? `<div style="font-size:13px; color:#555; margin-bottom:6px;">📍 ${escapeHtml(praxis.address)}${praxis.district && !praxis.address.includes(praxis.district) ? `, ${escapeHtml(praxis.district)}` : ''}</div>`
+    : `<div style="font-size:13px; color:#555; margin-bottom:6px;">📍 ${escapeHtml(praxis.city)}${praxis.district ? ` · ${escapeHtml(praxis.district)}` : ''}</div>`
+
+  const schwerpunktBlock = `<div style="font-size:13px; color:#555; margin-bottom:10px;">🎯 <strong>Schwerpunkt:</strong> ${escapeHtml(praxis.methods.slice(0, 4).join(' · '))}</div>`
+
+  const uspBlock = (praxis.usp && praxis.usp.length > 0)
+    ? `<div style="margin-bottom:10px;">${praxis.usp.slice(0, 3).map(item => `<div style="font-size:13px; color:#444; line-height:1.45; margin-bottom:3px;"><span style="color:#00A651; font-weight:700;">✓</span> ${escapeHtml(item)}</div>`).join('')}</div>`
+    : ''
+
+  // Tag-pills mirror the homepage ClinicTags color palette exactly so
+  // the email card reads as the homepage card.
+  const tagBg: Record<string, { bg: string; color: string }> = {
+    'Kostenlose Erstberatung': { bg: '#00A651', color: '#fff' },
+    'Online-Buchung': { bg: '#E8F0FF', color: '#003399' },
+    'Abendtermine': { bg: '#FFF3E0', color: '#B45309' },
+    'Ratenzahlung': { bg: '#F3E8FF', color: '#6B21A8' },
+    'Parkplätze': { bg: '#F0F0F0', color: '#444' },
+  }
+  const tagsBlock = praxis.tags.length > 0
+    ? `<div style="margin-bottom:12px;">${praxis.tags.map(t => {
+        const c = tagBg[t] || { bg: '#F0F0F0', color: '#444' }
+        return `<span style="display:inline-block; background-color:${c.bg}; color:${c.color}; font-size:11px; font-weight:600; padding:3px 8px; border-radius:4px; margin:0 4px 4px 0;">${escapeHtml(t)}</span>`
+      }).join('')}</div>`
+    : ''
+
   return `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td>${partnerBadge}</td></tr>
-<tr><td style="background-color:#fff; border:1px solid #DDDDDD; border-radius:6px; padding:16px 18px;">
-<div style="display:inline-block; background-color:#E8F0FF; color:#003399; font-size:10px; font-weight:700; letter-spacing:0.04em; padding:3px 8px; border-radius:20px; margin-bottom:8px;">BESTE ÜBEREINSTIMMUNG MIT DEINEM PROFIL</div>
-<h3 style="margin:0 0 6px; font-size:16px; font-weight:700; color:#0A1F44; line-height:1.3;">${escapeHtml(praxis.name)}</h3>
-<div style="font-size:13px; color:#0A1F44; font-weight:600; margin-bottom:4px;">${escapeHtml(praxis.methods.slice(0, 3).join(' · '))}</div>
-<div style="font-size:13px; color:#444; margin-bottom:10px; line-height:1.4;">${discipline}</div>
-<div style="font-size:13px; color:#555; margin-bottom:${proofLine ? '6px' : '14px'};">📍 ${escapeHtml(praxis.city)}${praxis.district ? ` · ${escapeHtml(praxis.district)}` : ''}</div>
+${partnerBadge ? `<tr><td>${partnerBadge}</td></tr>` : ''}
+<tr><td style="background-color:#fff; border:1px solid #DDDDDD; border-radius:6px; overflow:hidden;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+${logoBlock}
+<tr><td style="padding:14px 16px;">
+<div style="display:inline-block; background-color:#E8F0FF; color:#003399; font-size:10px; font-weight:700; letter-spacing:0.04em; padding:3px 8px; border-radius:20px; margin-bottom:10px;">✨ BESTE ÜBEREINSTIMMUNG MIT DEINEM PROFIL</div>
+<h3 style="margin:0 0 6px; font-size:17px; font-weight:700; color:#0A1F44; line-height:1.3;">${escapeHtml(praxis.name)}</h3>
+${ratingRow}
+${addressLine}
+${schwerpunktBlock}
+${uspBlock}
+${tagsBlock}
 ${proofLine}
-<a href="${recoveryUrl}" style="display:block; background-color:#003399; color:#fff; font-weight:700; font-size:14px; text-decoration:none; padding:12px 16px; border-radius:6px; text-align:center;">Erstgespräch anfragen →</a>
+<a href="${recoveryUrl}" style="display:block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 16px; border-radius:6px; text-align:center;">Mein Termin sichern →</a>
 <div style="font-size:11px; color:#888; text-align:center; margin-top:6px; font-style:italic;">Du verpflichtest dich zu nichts.</div>
+</td></tr>
+</table>
 </td></tr></table>`
 }
 
