@@ -651,15 +651,6 @@ export default function BesenreiserEntfernenKostenPage() {
         der Behandlung mehrere Wochen vor UV-Strahlung geschützt werden muss. Wer im April
         beginnt, kommt mit der Behandlung leicht in den Sommer hinein - das ist ungünstig.
       </p>
-
-      <CTABox
-        heading="Bereit, eine Praxis zu finden?"
-        text="Über 200 spezialisierte Praxen für Besenreiser-Behandlung in Deutschland - mit Bewertungen, Methoden und Standorten."
-        ctaText="Praxen in deiner Stadt anzeigen"
-        ctaHref={CTA_HREF}
-        variant="primary"
-        trackName="kosten-final"
-      />
     </ArticleLayout>
   )
 }
