@@ -196,7 +196,7 @@ export function Step5Recognition({ onSelect, variant = 'v1' }: { onSelect: (v: s
     <StepCard>
       <StepHeader idx={5} total={Q_TOTAL} prompt="Welcher dieser Sätze klingt am ehesten nach dir?" helpText={HELP_TEXT[5][variant]} />
       <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-        <AnswerCard label='"Im Schwimmbad lege ich das Handtuch erst ab, wenn ich im Wasser bin."' onSelect={() => handleSelect('schwimmbad')} />
+        <AnswerCard label='"Ich habe seit Jahren keinen Rock mehr getragen."' onSelect={() => handleSelect('schwimmbad')} />
         <AnswerCard label='"Im Sommer trage ich lieber lange Hosen als kurze."' onSelect={() => handleSelect('lange_hosen')} />
         <AnswerCard label='"Auf Fotos verstecke ich die Beine - Kleid bis zum Knöchel oder gar nicht hin."' onSelect={() => handleSelect('fotos')} />
         <AnswerCard label='"Mich stört es, aber im Alltag denke ich nicht ständig dran."' onSelect={() => handleSelect('stoert_aber_alltag')} />

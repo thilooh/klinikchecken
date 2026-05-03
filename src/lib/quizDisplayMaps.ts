@@ -39,7 +39,11 @@ export const Q4_DISPLAY: Record<string, string> = {
 }
 
 export const Q5_RECOGNITION_DISPLAY: Record<string, string> = {
-  schwimmbad: '"Im Schwimmbad lege ich das Handtuch erst ab, wenn ich im Wasser bin."',
+  // Value 'schwimmbad' is preserved for sheet-data continuity. Label
+  // changed 2026-05-03 because the original VoC quote was selected
+  // 0/61 times in the first month - replaced with a behavioral
+  // observation that resonates more universally.
+  schwimmbad: '"Ich habe seit Jahren keinen Rock mehr getragen."',
   lange_hosen: '"Im Sommer trage ich lieber lange Hosen als kurze."',
   fotos: '"Auf Fotos verstecke ich die Beine - Kleid bis zum Knöchel oder gar nicht hin."',
   stoert_aber_alltag: '"Mich stört es, aber im Alltag denke ich nicht ständig dran."',

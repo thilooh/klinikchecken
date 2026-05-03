@@ -38,6 +38,7 @@ type ParsedBody = {
   }
   answers?: {
     q1_lokalisation?: string | null
+    q2_trigger?: string | null
     q3_groesse?: string | null
     q4_hauttyp?: string | null
     q6_versucht?: string[]
@@ -136,6 +137,46 @@ const PLZ_PREFIX_TO_CITY: Array<[string[], string]> = [
   [['19'], 'Schwerin'],
   [['31'], 'Hildesheim'],
   [['03'], 'Cottbus'],
+  // Extension 2026-05-03 - added based on real lead PLZs that were
+  // falling back to "deiner Region". Same prefixes as
+  // src/lib/cityMatch.ts. Order preserved for deterministic matching
+  // when prefixes have equal length.
+  [['35'], 'Gießen'],
+  [['350', '352'], 'Marburg'],
+  [['36'], 'Fulda'],
+  [['320', '322'], 'Herford'],
+  [['327', '328', '329'], 'Detmold'],
+  [['324', '325'], 'Minden'],
+  [['465', '466', '467', '468'], 'Wesel'],
+  [['463', '464'], 'Bocholt'],
+  [['730', '731', '732', '733'], 'Göppingen'],
+  [['720', '721'], 'Tübingen'],
+  [['780'], 'Villingen-Schwenningen'],
+  [['785', '786'], 'Tuttlingen'],
+  [['784'], 'Konstanz'],
+  [['880', '881', '882'], 'Ravensburg'],
+  [['883', '884'], 'Biberach'],
+  [['877'], 'Memmingen'],
+  [['873', '874'], 'Kempten'],
+  [['840', '841'], 'Landshut'],
+  [['940', '941'], 'Passau'],
+  [['950'], 'Hof'],
+  [['954'], 'Bayreuth'],
+  [['960'], 'Bamberg'],
+  [['985'], 'Suhl'],
+  [['830', '831'], 'Rosenheim'],
+  [['716'], 'Ludwigsburg'],
+  [['737', '738'], 'Esslingen'],
+  [['77'], 'Offenburg'],
+  [['676', '677'], 'Kaiserslautern'],
+  [['675'], 'Worms'],
+  [['213', '214'], 'Lüneburg'],
+  [['249'], 'Flensburg'],
+  [['184', '185'], 'Stralsund'],
+  [['170', '171'], 'Neubrandenburg'],
+  [['994'], 'Weimar'],
+  [['085'], 'Plauen'],
+  [['080', '081'], 'Zwickau'],
 ]
 
 function cityFromPlz(plz: string): string | null {
@@ -166,6 +207,11 @@ type EmailPayload = {
   hauttypDark: boolean
   recoveryUrl: string
   topPraxis: TopPraxis | null
+  // Added 2026-05-03 - data-driven personalisation based on the
+  // first 61 leads where 49% had flächige Befunde and 39% had a
+  // hormonal trigger (schwangerschaft / wechseljahre).
+  flaechig: boolean
+  hormonalTrigger: boolean
 }
 
 // Subset of the clinic JSON that the email needs - just enough to
@@ -371,6 +417,33 @@ function buildHauttypNoteText(hauttypDark: boolean, isFace: boolean): string | n
   return `WICHTIG FÜR DICH: bei Hauttyp 4-6 sollte mit längerwelligem Laser (Nd:YAG, 1064 nm) gearbeitet werden. ${isFace ? 'Im Gesicht' : 'An den Beinen'} bergen kürzere Wellenlängen ein Pigment-Risiko. Frag in der Praxis explizit nach Nd:YAG, bevor du dich entscheidest.`
 }
 
+// Q3 flächig hint - rendered next to the methods callouts when the
+// user reported a flächige/netzartige Verteilung. Schaumsklerotherapie
+// is the path-relevant method for diffuse patterns. HWG-defensible
+// (sachliche Methoden-Information, kein Wirksamkeitsclaim).
+function buildFlaechigNote(flaechig: boolean, isFace: boolean): string | null {
+  if (!flaechig || isFace) return null
+  return 'Bei <strong>flächiger Verteilung</strong> setzen Phlebologen häufig auf <strong>Schaumsklerotherapie</strong> — sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.'
+}
+
+function buildFlaechigNoteText(flaechig: boolean, isFace: boolean): string | null {
+  if (!flaechig || isFace) return null
+  return 'Bei FLÄCHIGER VERTEILUNG setzen Phlebologen häufig auf Schaumsklerotherapie — sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.'
+}
+
+// Q2 hormonal-trigger note - schwangerschaft + wechseljahre are 39%
+// of leads. Progression-Hint already exists in Step 12 V4 but is
+// missing in the email. Mirrors getProgressionHint wording from
+// src/lib/quizProfileCompute.ts but kept self-contained here.
+function buildHormonalNote(hormonal: boolean): string | null {
+  if (!hormonal) return null
+  return 'Hormonell entstandene Besenreiser werden ohne Behandlung erfahrungsgemäß nicht weniger — oft kommen über die Jahre weitere dazu.'
+}
+
+function buildHormonalNoteText(hormonal: boolean): string | null {
+  return buildHormonalNote(hormonal)
+}
+
 // buildSubject is now superseded by pickSubject (which does A/B
 // rotation across 4 variants per path). Kept off-disk - all subject
 // generation goes through pickSubject in sendAuswertungMail.
@@ -450,6 +523,8 @@ function renderEmailHtml(p: EmailPayload): string {
   const versuchtCallback = buildVersuchtCallback(p.tried)
   const timingBlock = buildTimingBlock(p.zeitziel, p.isFace)
   const hauttypNote = buildHauttypNote(p.hauttypDark, p.isFace)
+  const flaechigNote = buildFlaechigNote(p.flaechig, p.isFace)
+  const hormonalNote = buildHormonalNote(p.hormonalTrigger)
 
   // Inline praxis card - one practice featured, rest live on the
   // recovery page. Only renders when we have both a city match and
@@ -478,6 +553,18 @@ function renderEmailHtml(p: EmailPayload): string {
   const hauttypBlock = hauttypNote
     ? `<tr><td style="padding:0 24px 16px;">
 <p style="margin:0; font-size:13px; color:#444; line-height:1.55; padding:12px 14px; background-color:#FFF8E1; border:1px solid #F5DD8C; border-radius:4px;">${hauttypNote}</p>
+</td></tr>`
+    : ''
+
+  const flaechigBlock = flaechigNote
+    ? `<tr><td style="padding:0 24px 16px;">
+<p style="margin:0; font-size:13px; color:#0A1F44; line-height:1.55; padding:12px 14px; background-color:#FAFBFE; border:1px solid #DDE3F5; border-radius:4px;">${flaechigNote}</p>
+</td></tr>`
+    : ''
+
+  const hormonalBlock = hormonalNote
+    ? `<tr><td style="padding:0 24px 16px;">
+<p style="margin:0; font-size:13px; color:#444; line-height:1.55; padding:12px 14px; background-color:#FFF8E1; border:1px solid #F5DD8C; border-radius:4px;">⏳ ${hormonalNote}</p>
 </td></tr>`
     : ''
 
@@ -558,11 +645,15 @@ ${pivotBlock}
 <p style="margin:0; font-size:14px; color:#0A1F44; line-height:1.6; padding:14px 16px; background-color:#F4F7FF; border-left:3px solid #003399; border-radius:4px;">${futurePacing}</p>
 </td></tr>
 
+${hormonalBlock}
+
 <tr><td style="padding:0 24px 12px;">
 <p style="margin:0 0 10px; font-size:14px; color:#0A1F44; font-weight:600; line-height:1.5;">An die Ader selbst kommen ${p.isFace ? 'in der Dermatologie folgende Verfahren' : 'zwei Methoden'}:</p>
 ${methodsBlock}
 <p style="margin:0; font-size:13px; color:#555; line-height:1.5; font-style:italic;">Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.</p>
 </td></tr>
+
+${flaechigBlock}
 
 ${hauttypBlock}
 
@@ -625,12 +716,16 @@ function renderEmailText(p: EmailPayload): string {
   const versuchtCallback = buildVersuchtCallback(p.tried)
   const timingBlock = buildTimingBlock(p.zeitziel, p.isFace)
   const hauttypNote = buildHauttypNoteText(p.hauttypDark, p.isFace)
+  const flaechigNote = buildFlaechigNoteText(p.flaechig, p.isFace)
+  const hormonalNote = buildHormonalNoteText(p.hormonalTrigger)
   const h1 = p.isFace
     ? 'Make-up überdeckt. Pflege beruhigt. Beides erreicht die Ader nicht.'
     : '0,46 mm. Genau dort sitzt das Problem.'
   const greetingPrefix = p.vorname ? `${p.vorname}, hier ist deine Auswertung.\n\n` : ''
   const versuchtTextBlock = versuchtCallback ? `\n\n${versuchtCallback}` : ''
   const hauttypTextBlock = hauttypNote ? `\n\n${hauttypNote}` : ''
+  const flaechigTextBlock = flaechigNote ? `\n\n${flaechigNote}` : ''
+  const hormonalTextBlock = hormonalNote ? `\n\n${hormonalNote}` : ''
   const timingTextBlock = timingBlock ? `\n\n${timingBlock.headline.toUpperCase()}\n${timingBlock.body}` : ''
   const praxisTextBlock = p.topPraxis
     ? `\n\nEINE PRAXIS, DIE ZU DEINEM PROFIL PASST:\n${p.topPraxis.name} (${p.topPraxis.city}${p.topPraxis.district ? ', ' + p.topPraxis.district : ''})\n${p.topPraxis.methods.slice(0, 3).join(' · ')}\n${p.isFace ? 'Dermatologie — arbeitet an der Kapillarader im Gesicht' : 'Phlebologie — arbeitet an der Ader, nicht an der Haut'}${p.topPraxis.foundedYear ? `\nSeit ${p.topPraxis.foundedYear}` : ''}${p.topPraxis.doctor ? ` · ${p.topPraxis.doctor}${p.topPraxis.qualification ? ', ' + p.topPraxis.qualification : ''}` : ''}\n→ Erstgespräch anfragen: ${p.recoveryUrl}\n(Du verpflichtest dich zu nichts.)`
@@ -679,7 +774,7 @@ ${futurePacing}
 
 ${methodsText}
 
-Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.${hauttypTextBlock}${timingTextBlock}${praxisTextBlock}
+Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.${flaechigTextBlock}${hauttypTextBlock}${timingTextBlock}${hormonalTextBlock}${praxisTextBlock}
 
 
 ${p.topPraxis ? `→ Alle Praxen${stadtCta} ansehen: ${p.recoveryUrl}` : `→ Praxen${stadtCta} ansehen: ${p.recoveryUrl}`}
@@ -826,6 +921,8 @@ export const handler = async (event: {
       hauttypDark: parsed.answers?.q4_hauttyp === 'dunkler',
       recoveryUrl,
       topPraxis,
+      flaechig: parsed.answers?.q3_groesse === 'flaechig',
+      hormonalTrigger: parsed.answers?.q2_trigger === 'schwangerschaft' || parsed.answers?.q2_trigger === 'wechseljahre',
     })
     if (!emailRes.ok) {
       console.warn('[quiz-submit] auswertung email failed:', emailRes.error)

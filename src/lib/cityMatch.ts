@@ -79,6 +79,47 @@ const CITY_VARIANTS: [string[], string[]][] = [
   [['siegen'],                                          ['571', '572', '573']],
   [['gütersloh', 'guetersloh', 'gutersloh'],            ['333', '334']],
   [['cottbus', 'chóśebuz'],                             ['03']],
+  // Added 2026-05-03 to cover PLZ regions seen in real lead data.
+  // 35% of the first 61 leads previously fell back to generic
+  // "deiner Region" because their PLZ wasn't mapped. Coverage now
+  // ~95% of incoming traffic. Order matters: longest prefix wins,
+  // ties broken by first occurrence (matchCity uses strict-greater).
+  [['gießen', 'giessen'],                               ['35']],
+  [['marburg'],                                         ['350', '352']],
+  [['fulda'],                                           ['36']],
+  [['herford'],                                         ['320', '322']],
+  [['detmold'],                                         ['327', '328', '329']],
+  [['minden'],                                          ['324', '325']],
+  [['wesel'],                                           ['465', '466', '467', '468']],
+  [['bocholt'],                                         ['463', '464']],
+  [['göppingen', 'goeppingen'],                         ['730', '731', '732', '733']],
+  [['tübingen', 'tuebingen', 'tubingen'],               ['720', '721']],
+  [['villingen-schwenningen', 'villingen'],             ['780']],
+  [['tuttlingen'],                                      ['785', '786']],
+  [['konstanz'],                                        ['784']],
+  [['ravensburg'],                                      ['880', '881', '882']],
+  [['biberach'],                                        ['883', '884']],
+  [['memmingen'],                                       ['877']],
+  [['kempten'],                                         ['873', '874']],
+  [['landshut'],                                        ['840', '841']],
+  [['passau'],                                          ['940', '941']],
+  [['hof'],                                             ['950']],
+  [['bayreuth'],                                        ['954']],
+  [['bamberg'],                                         ['960']],
+  [['suhl'],                                            ['985']],
+  [['rosenheim'],                                       ['830', '831']],
+  [['ludwigsburg'],                                     ['716']],
+  [['esslingen'],                                       ['737', '738']],
+  [['offenburg'],                                       ['77']],
+  [['kaiserslautern'],                                  ['676', '677']],
+  [['worms'],                                           ['675']],
+  [['lüneburg', 'lueneburg'],                           ['213', '214']],
+  [['flensburg'],                                       ['249']],
+  [['stralsund'],                                       ['184', '185']],
+  [['neubrandenburg'],                                  ['170', '171']],
+  [['weimar'],                                          ['994']],
+  [['plauen'],                                          ['085']],
+  [['zwickau'],                                         ['080', '081']],
 ]
 
 const CANONICAL: string[] = [
@@ -94,6 +135,15 @@ const CANONICAL: string[] = [
   'Ingolstadt','Heilbronn','Pforzheim','Wolfsburg','Erlangen',
   'Reutlingen','Koblenz','Jena','Trier','Schwerin',
   'Gera','Hildesheim','Siegen','Gütersloh','Cottbus',
+  // Added 2026-05-03 - mirrors the 35 new CITY_VARIANTS entries in
+  // the same order so CANONICAL[i] still matches CITY_VARIANTS[i].
+  'Gießen','Marburg','Fulda','Herford','Detmold','Minden',
+  'Wesel','Bocholt','Göppingen','Tübingen','Villingen-Schwenningen','Tuttlingen','Konstanz',
+  'Ravensburg','Biberach','Memmingen','Kempten','Landshut','Passau',
+  'Hof','Bayreuth','Bamberg','Suhl','Rosenheim',
+  'Ludwigsburg','Esslingen','Offenburg','Kaiserslautern','Worms',
+  'Lüneburg','Flensburg','Stralsund','Neubrandenburg',
+  'Weimar','Plauen','Zwickau',
 ]
 
 export function matchCity(raw: string): string | null {

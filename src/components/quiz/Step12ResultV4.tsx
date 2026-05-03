@@ -131,6 +131,20 @@ export default function Step12ResultV4({ answers, lead, profile, onReset }: Prop
         </div>
       )}
 
+      {/* Q6 multi-treatment acknowledgment - if she's tried 3+ real
+          treatments (not "nichts" or "verstecken"), echo her own list
+          back. Trapdoor mechanic with her own data. Renders nothing
+          for users who tried 0-2 things. */}
+      {(() => {
+        const realTreatments = (answers.q6_versucht || []).filter(v => v !== 'nichts' && v !== 'verstecken')
+        if (realTreatments.length < 3) return null
+        return (
+          <p style={{ fontSize: '14px', color: '#0A1F44', backgroundColor: '#FAFBFE', border: '1px solid #DDE3F5', borderLeft: '3px solid #003399', padding: '10px 14px', borderRadius: '4px', marginBottom: '12px', lineHeight: 1.5, fontWeight: 500 }}>
+            Du hast {realTreatments.length} verschiedene Wege probiert. Was bleibt: zwei, die wirklich an der Ader arbeiten.
+          </p>
+        )
+      })()}
+
       {/* Anti-shame line - dissolves the avoidance pattern from Step 7
           before the inquiry click. */}
       <p style={{ fontSize: '13px', color: '#555', marginBottom: '8px', padding: '0 4px', lineHeight: 1.5 }}>
