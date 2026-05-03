@@ -164,6 +164,132 @@ type EmailPayload = {
   tried: string[]
   zeitziel: string | null
   hauttypDark: boolean
+  recoveryUrl: string
+  topPraxis: TopPraxis | null
+}
+
+// Subset of the clinic JSON that the email needs - just enough to
+// render the inline 1-praxis-card and the discipline label.
+type Clinic = {
+  id: number
+  name: string
+  city: string
+  district?: string
+  address?: string
+  doctor?: string
+  qualification?: string
+  methods: string[]
+  tier?: string
+  foundedYear?: number
+}
+
+type TopPraxis = {
+  name: string
+  city: string
+  district?: string
+  methods: string[]
+  doctor?: string
+  qualification?: string
+  foundedYear?: number
+  isPaidPartner: boolean
+}
+
+// Clinic methods that are relevant per quiz-path. Used to prefer
+// clinics that actually offer something matching the user's profile
+// when picking the "top praxis" inlined into the email.
+const LEG_RELEVANT = new Set(['Sklerotherapie', 'Schaumsklerotherapie', 'Endovenöser Laser', 'ClariVein', 'Laser (Nd:YAG)', 'Radiofrequenzablation', 'Venenoperation'])
+const FACE_RELEVANT = new Set(['Laser (Nd:YAG)', 'KTP-Laser', 'IPL'])
+
+let clinicsCache: Clinic[] | null = null
+let clinicsLoadInflight: Promise<Clinic[]> | null = null
+
+// Lazy-load clinics.json from the deployed static asset. Cached at
+// module scope so subsequent invocations on the same warm container
+// reuse the same array. Failure surfaces as null upstream so the
+// email still ships - just without the inline-praxis block.
+async function loadClinics(): Promise<Clinic[] | null> {
+  if (clinicsCache) return clinicsCache
+  if (clinicsLoadInflight) return clinicsLoadInflight
+  const url = (process.env.URL?.trim() || 'https://besenreiser-check.de').replace(/\/$/, '') + '/data/clinics.json'
+  clinicsLoadInflight = fetch(url)
+    .then(r => {
+      if (!r.ok) throw new Error(`clinics.json ${r.status}`)
+      return r.json() as Promise<Clinic[]>
+    })
+    .then(data => { clinicsCache = data; clinicsLoadInflight = null; return data })
+    .catch(err => { clinicsLoadInflight = null; console.warn('[quiz-submit] loadClinics failed:', err); return null as unknown as Clinic[] })
+  return clinicsLoadInflight
+}
+
+// Picks one praxis to feature inline in the email. Heuristic only -
+// the result page does the proper sort (with user coords + match-tier-
+// distance). Here we just want one defensible name; the rest of the
+// list lives one click away.
+function findTopPraxis(clinics: Clinic[] | null, city: string | null, isFace: boolean): TopPraxis | null {
+  if (!clinics || clinics.length === 0 || !city) return null
+  const inCity = clinics.filter(c => c.city === city)
+  if (inCity.length === 0) return null
+  const relevant = isFace ? FACE_RELEVANT : LEG_RELEVANT
+  const matched = inCity.filter(c => c.methods.some(m => relevant.has(m)))
+  const tierRank: Record<string, number> = { premium_plus: 0, premium: 1, basic: 2 }
+  const sorted = (matched.length > 0 ? matched : inCity).slice().sort(
+    (a, b) => (tierRank[a.tier ?? 'basic'] ?? 9) - (tierRank[b.tier ?? 'basic'] ?? 9),
+  )
+  const c = sorted[0]
+  if (!c) return null
+  return {
+    name: c.name,
+    city: c.city,
+    district: c.district,
+    methods: c.methods,
+    doctor: c.doctor,
+    qualification: c.qualification,
+    foundedYear: c.foundedYear,
+    isPaidPartner: c.tier === 'premium_plus' || c.tier === 'premium',
+  }
+}
+
+// Compact base64url snapshot of the auswertung state. Mirrors the
+// browser-side encoder in src/lib/auswertungToken.ts so the recovery
+// link the email puts in the user's inbox lands on a fully hydrated
+// /auswertung page without a re-quiz.
+function encodeRecoveryToken(parsed: ParsedBody): string | null {
+  if (!parsed.lead || !parsed.answers || !parsed.computedProfile) return null
+  const snapshot = {
+    answers: parsed.answers,
+    lead: parsed.lead,
+    profile: parsed.computedProfile,
+  }
+  return Buffer.from(JSON.stringify(snapshot)).toString('base64url')
+}
+
+function buildRecoveryUrl(parsed: ParsedBody): string {
+  const token = encodeRecoveryToken(parsed)
+  const base = (process.env.URL?.trim() || 'https://besenreiser-check.de').replace(/\/$/, '')
+  if (!token) return `${base}/methoden-quiz?utm_source=email&utm_medium=transactional&utm_campaign=quiz_auswertung_v3`
+  return `${base}/auswertung?utm_source=email&utm_medium=transactional&utm_campaign=quiz_auswertung_v3&d=${token}`
+}
+
+// Subject A/B variants - 4 per path. pickSubject returns variant id
+// (A/B/C/D) tagged in Brevo so open rate per variant is filterable.
+const SUBJECT_VARIANTS_BEINE: Array<{ id: string; build: (vorname: string) => string }> = [
+  { id: 'A', build: v => `${v ? v + ', ' : ''}die 0,46 mm, die deine Cremes nie erreichen konnten` },
+  { id: 'B', build: v => `${v ? v + ', ' : ''}der 0,02-mm-Grund, warum Cremes nicht reichen` },
+  { id: 'C', build: v => `${v ? v + ', ' : ''}deine Auswertung — und ein Reframe zur Tiefe` },
+  { id: 'D', build: v => `${v ? v + ', ' : ''}was Cremes in 0,02 mm leisten — und wo das Problem sitzt` },
+]
+
+const SUBJECT_VARIANTS_FACE: Array<{ id: string; build: (vorname: string) => string }> = [
+  { id: 'A', build: v => `${v ? v + ', ' : ''}Make-up überdeckt sie. Was sie wegmacht.` },
+  { id: 'B', build: v => `${v ? v + ', ' : ''}warum Make-up den Spiegel betrügt` },
+  { id: 'C', build: v => `${v ? v + ', ' : ''}deine Auswertung — die Adern hinter dem Make-up` },
+  { id: 'D', build: v => `${v ? v + ', ' : ''}was Pflege erreicht — und was nicht` },
+]
+
+function pickSubject(p: EmailPayload): { id: string; subject: string } {
+  const variants = p.isFace ? SUBJECT_VARIANTS_FACE : SUBJECT_VARIANTS_BEINE
+  const v = variants[Math.floor(Math.random() * variants.length)]
+  return { id: v.id, subject: v.build(p.vorname) }
 }
 
 // Q6 labels for the named "you tried X, Y, Z" callback. Intentionally
@@ -245,13 +371,52 @@ function buildHauttypNoteText(hauttypDark: boolean, isFace: boolean): string | n
   return `WICHTIG FÜR DICH: bei Hauttyp 4-6 sollte mit längerwelligem Laser (Nd:YAG, 1064 nm) gearbeitet werden. ${isFace ? 'Im Gesicht' : 'An den Beinen'} bergen kürzere Wellenlängen ein Pigment-Risiko. Frag in der Praxis explizit nach Nd:YAG, bevor du dich entscheidest.`
 }
 
-const CTA_URL = 'https://besenreiser-check.de/methoden-quiz?utm_source=email&utm_medium=transactional&utm_campaign=quiz_auswertung_v3'
+// buildSubject is now superseded by pickSubject (which does A/B
+// rotation across 4 variants per path). Kept off-disk - all subject
+// generation goes through pickSubject in sendAuswertungMail.
 
-function buildSubject(p: EmailPayload): string {
-  const namePart = p.vorname ? `${p.vorname}, ` : ''
-  return p.isFace
-    ? `${namePart}Make-up überdeckt sie. Was sie wegmacht.`
-    : `${namePart}die 0,46 mm, die deine Cremes nie erreichen konnten`
+// HTML for the single inline praxis card. Mirrors the visual shape
+// of PraxisCardV4 (1×1×1×1) but stripped to email-safe markup
+// (tables + inline styles, no flex). The Premium-Partner badge sits
+// above the card when applicable - UWG §5a wants paid placements
+// labelled regardless of context.
+function buildPraxisCardHtml(praxis: TopPraxis, recoveryUrl: string, isFace: boolean): string {
+  const discipline = isFace
+    ? '<strong>Dermatologie</strong> — arbeitet an der Kapillarader im Gesicht'
+    : '<strong>Phlebologie</strong> — arbeitet an der Ader, nicht an der Haut'
+  const proofParts: string[] = []
+  if (praxis.foundedYear) proofParts.push(`Seit ${praxis.foundedYear}`)
+  if (praxis.doctor) {
+    proofParts.push(praxis.qualification ? `${praxis.doctor}, ${praxis.qualification}` : praxis.doctor)
+  } else if (praxis.qualification) {
+    proofParts.push(praxis.qualification)
+  }
+  const proofLine = proofParts.length > 0
+    ? `<div style="font-size:12px; color:#666; line-height:1.4; margin-bottom:14px;">${proofParts.join(' · ')}</div>`
+    : ''
+  const partnerBadge = praxis.isPaidPartner
+    ? `<div style="display:inline-block; background-color:#003399; color:#fff; font-size:10px; font-weight:700; letter-spacing:0.05em; padding:3px 8px; border-radius:3px 3px 0 0; margin-bottom:0;">PREMIUM-PARTNER · ANZEIGE</div>`
+    : ''
+  return `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td>${partnerBadge}</td></tr>
+<tr><td style="background-color:#fff; border:1px solid #DDDDDD; border-radius:6px; padding:16px 18px;">
+<div style="display:inline-block; background-color:#E8F0FF; color:#003399; font-size:10px; font-weight:700; letter-spacing:0.04em; padding:3px 8px; border-radius:20px; margin-bottom:8px;">BESTE ÜBEREINSTIMMUNG MIT DEINEM PROFIL</div>
+<h3 style="margin:0 0 6px; font-size:16px; font-weight:700; color:#0A1F44; line-height:1.3;">${escapeHtml(praxis.name)}</h3>
+<div style="font-size:13px; color:#0A1F44; font-weight:600; margin-bottom:4px;">${escapeHtml(praxis.methods.slice(0, 3).join(' · '))}</div>
+<div style="font-size:13px; color:#444; margin-bottom:10px; line-height:1.4;">${discipline}</div>
+<div style="font-size:13px; color:#555; margin-bottom:${proofLine ? '6px' : '14px'};">📍 ${escapeHtml(praxis.city)}${praxis.district ? ` · ${escapeHtml(praxis.district)}` : ''}</div>
+${proofLine}
+<a href="${recoveryUrl}" style="display:block; background-color:#003399; color:#fff; font-weight:700; font-size:14px; text-decoration:none; padding:12px 16px; border-radius:6px; text-align:center;">Erstgespräch anfragen →</a>
+<div style="font-size:11px; color:#888; text-align:center; margin-top:6px; font-style:italic;">Du verpflichtest dich zu nichts.</div>
+</td></tr></table>`
+}
+
+// Minimal HTML escape for praxis-name / methods strings injected
+// into the inline card. The clinic data is internal and reasonably
+// trusted, but we still escape - costs nothing and prevents one
+// stray '&' from breaking the email markup.
+function escapeHtml(s: string): string {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
 }
 
 function buildPreheader(p: EmailPayload): string {
@@ -285,6 +450,14 @@ function renderEmailHtml(p: EmailPayload): string {
   const versuchtCallback = buildVersuchtCallback(p.tried)
   const timingBlock = buildTimingBlock(p.zeitziel, p.isFace)
   const hauttypNote = buildHauttypNote(p.hauttypDark, p.isFace)
+
+  // Inline praxis card - one practice featured, rest live on the
+  // recovery page. Only renders when we have both a city match and
+  // at least one practice in that city; otherwise a generic "Praxen
+  // ansehen →" button shows in its place.
+  const praxisCard = p.topPraxis
+    ? buildPraxisCardHtml(p.topPraxis, p.recoveryUrl, p.isFace)
+    : ''
 
   // H1 = magnetic hook (Schwartz: channel existing desire onto the
   // mechanism). Greeting moves to a smaller line below so the H1 is
@@ -395,9 +568,14 @@ ${hauttypBlock}
 
 ${timingHtmlBlock}
 
-<tr><td style="padding:6px 24px 18px;" align="center">
-<a href="${CTA_URL}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Praxen${stadtCta} ansehen →</a>
-</td></tr>
+${praxisCard
+  ? `<tr><td style="padding:0 24px 6px;"><div style="font-size:11px; font-weight:700; color:#003399; letter-spacing:0.05em; margin-bottom:8px;">📍 ${p.city ? `EINE PRAXIS IN ${p.city.toUpperCase()}` : 'EINE PRAXIS IN DEINER NÄHE'}</div>${praxisCard}</td></tr>
+<tr><td style="padding:0 24px 18px;" align="center">
+<a href="${p.recoveryUrl}" style="font-size:13px; color:#0052CC; text-decoration:underline;">Alle Praxen${stadtCta} ansehen →</a>
+</td></tr>`
+  : `<tr><td style="padding:6px 24px 18px;" align="center">
+<a href="${p.recoveryUrl}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Praxen${stadtCta} ansehen →</a>
+</td></tr>`}
 
 <tr><td style="padding:0 24px 12px;">
 <h2 style="margin:0 0 12px; font-size:15px; font-weight:700; color:#0A1F44;">Drei Sachen, die viele vorher fragen:</h2>
@@ -416,7 +594,7 @@ ${timingHtmlBlock}
 </td></tr>
 
 <tr><td style="padding:8px 24px 14px;" align="center">
-<a href="${CTA_URL}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Mein Erstgespräch anfragen →</a>
+<a href="${p.recoveryUrl}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Mein Erstgespräch anfragen →</a>
 </td></tr>
 
 <tr><td style="padding:0 24px 18px;">
@@ -454,6 +632,9 @@ function renderEmailText(p: EmailPayload): string {
   const versuchtTextBlock = versuchtCallback ? `\n\n${versuchtCallback}` : ''
   const hauttypTextBlock = hauttypNote ? `\n\n${hauttypNote}` : ''
   const timingTextBlock = timingBlock ? `\n\n${timingBlock.headline.toUpperCase()}\n${timingBlock.body}` : ''
+  const praxisTextBlock = p.topPraxis
+    ? `\n\nEINE PRAXIS, DIE ZU DEINEM PROFIL PASST:\n${p.topPraxis.name} (${p.topPraxis.city}${p.topPraxis.district ? ', ' + p.topPraxis.district : ''})\n${p.topPraxis.methods.slice(0, 3).join(' · ')}\n${p.isFace ? 'Dermatologie — arbeitet an der Kapillarader im Gesicht' : 'Phlebologie — arbeitet an der Ader, nicht an der Haut'}${p.topPraxis.foundedYear ? `\nSeit ${p.topPraxis.foundedYear}` : ''}${p.topPraxis.doctor ? ` · ${p.topPraxis.doctor}${p.topPraxis.qualification ? ', ' + p.topPraxis.qualification : ''}` : ''}\n→ Erstgespräch anfragen: ${p.recoveryUrl}\n(Du verpflichtest dich zu nichts.)`
+    : ''
 
   const pivotText = p.isFace
     ? `Eine Kapillarader im Gesicht ist dauerhaft erweitert. Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt. Pflege und Beruhigungs-Cremes wirken in der Hautoberfläche, nicht an der Ader darunter.
@@ -498,10 +679,10 @@ ${futurePacing}
 
 ${methodsText}
 
-Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.${hauttypTextBlock}${timingTextBlock}
+Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.${hauttypTextBlock}${timingTextBlock}${praxisTextBlock}
 
 
-→ Praxen${stadtCta} ansehen: ${CTA_URL}
+${p.topPraxis ? `→ Alle Praxen${stadtCta} ansehen: ${p.recoveryUrl}` : `→ Praxen${stadtCta} ansehen: ${p.recoveryUrl}`}
 
 
 DREI SACHEN, DIE VIELE VORHER FRAGEN:
@@ -516,7 +697,7 @@ In vielen Praxen kostenfrei oder im niedrigen 2-stelligen Bereich. Behandlung sp
 In den meisten Praxen 1-3 Wochen. Frag bei 2-3 Praxen gleichzeitig an — die schnellste antwortet zuerst. Praxen erwarten das.
 
 
-→ Mein Erstgespräch anfragen: ${CTA_URL}
+→ Mein Erstgespräch anfragen: ${p.recoveryUrl}
 
 Tipp: bei 2-3 Praxen gleichzeitig anfragen kostet dich 5 zusätzliche Minuten und spart Wartezeit.${footnotesText}
 
@@ -536,6 +717,7 @@ async function sendAuswertungMail(p: EmailPayload): Promise<{ ok: boolean; error
   const senderEmail = process.env.BREVO_SENDER_EMAIL?.trim() || 'kontakt@besenreiser-check.de'
   const senderName = process.env.BREVO_SENDER_NAME?.trim() || 'Besenreiser-Check'
 
+  const picked = pickSubject(p)
   try {
     const res = await fetch('https://api.brevo.com/v3/smtp/email', {
       method: 'POST',
@@ -543,13 +725,21 @@ async function sendAuswertungMail(p: EmailPayload): Promise<{ ok: boolean; error
       body: JSON.stringify({
         sender: { name: senderName, email: senderEmail },
         to: [{ email: p.email, name: p.vorname || undefined }],
-        subject: buildSubject(p),
+        subject: picked.subject,
         htmlContent: renderEmailHtml(p),
         textContent: renderEmailText(p),
+        // Tags drive Brevo Activity-segmenting:
+        //   quiz_auswertung_v3       - template version
+        //   subject_<A|B|C|D>        - A/B variant for open-rate analysis
+        //   intent_<qualified|low>   - mirrors trackQuizLead split
+        //   path_<beine|gesicht>     - quiz path
+        //   praxis_<inline|generic>  - whether the email has an inline praxis card
         tags: [
-          'quiz_auswertung_v2',
+          'quiz_auswertung_v3',
+          `subject_${picked.id}`,
           p.qualified ? 'intent_qualified' : 'intent_low',
           p.isFace ? 'path_gesicht' : 'path_beine',
+          p.topPraxis ? 'praxis_inline' : 'praxis_generic',
         ],
       }),
     })
@@ -612,6 +802,14 @@ export const handler = async (event: {
   const cp = parsed.computedProfile
   if (cp?.typ && typeof cp.auspraegungScore === 'number' && typeof cp.dringlichkeitScore === 'number') {
     const plz = parsed.lead.plz?.trim() || ''
+    const city = cityFromPlz(plz)
+    const isFace = parsed.answers?.q1_lokalisation === 'gesicht'
+    // Load clinics in parallel with email construction. If the fetch
+    // fails or city is unknown, topPraxis comes back null and the
+    // email falls back to its generic CTA - never blocks the send.
+    const clinics = await loadClinics()
+    const topPraxis = findTopPraxis(clinics, city, isFace)
+    const recoveryUrl = buildRecoveryUrl(parsed)
     const emailRes = await sendAuswertungMail({
       vorname: parsed.lead.vorname?.trim() || '',
       email: parsed.lead.email,
@@ -620,12 +818,14 @@ export const handler = async (event: {
       auspraegung: auspraegungLabel(cp.auspraegungScore),
       auspraegungLower: auspraegungLabel(cp.auspraegungScore).toLowerCase(),
       dringlichkeitShort: dringlichkeitShort(cp.dringlichkeitScore),
-      isFace: parsed.answers?.q1_lokalisation === 'gesicht',
+      isFace,
       qualified: isQualifiedLead(parsed.answers),
-      city: cityFromPlz(plz),
+      city,
       tried: parsed.answers?.q6_versucht ?? [],
       zeitziel: parsed.answers?.q8_zeitziel ?? null,
       hauttypDark: parsed.answers?.q4_hauttyp === 'dunkler',
+      recoveryUrl,
+      topPraxis,
     })
     if (!emailRes.ok) {
       console.warn('[quiz-submit] auswertung email failed:', emailRes.error)
