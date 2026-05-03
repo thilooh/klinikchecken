@@ -38,6 +38,9 @@ type ParsedBody = {
   }
   answers?: {
     q1_lokalisation?: string | null
+    q3_groesse?: string | null
+    q4_hauttyp?: string | null
+    q6_versucht?: string[]
     q7_vermeidung?: string | null
     q8_zeitziel?: string | null
   }
@@ -158,6 +161,88 @@ type EmailPayload = {
   isFace: boolean
   qualified: boolean
   city: string | null
+  tried: string[]
+  zeitziel: string | null
+  hauttypDark: boolean
+}
+
+// Q6 labels for the named "you tried X, Y, Z" callback. Intentionally
+// excludes "nichts" (no treatment attempted) and "verstecken"
+// (coping strategy, not a treatment that "works at the wrong place"
+// the way Cremes/Kompression/Camouflage do). Keeping verstecken in
+// would make the "all have echte Effekte but not at the vessel"
+// callback nonsensical.
+const Q6_LABEL: Record<string, string> = {
+  cremes: 'Cremes',
+  kompression: 'Kompression',
+  camouflage: 'Camouflage',
+  selftanner: 'Self-Tanner',
+  hausmittel: 'Hausmittel',
+}
+
+function joinAnd(items: string[]): string {
+  if (items.length === 0) return ''
+  if (items.length === 1) return items[0]
+  if (items.length === 2) return `${items[0]} und ${items[1]}`
+  return `${items.slice(0, -1).join(', ')} und ${items[items.length - 1]}`
+}
+
+// Trapdoor-style callback: the user reads HER OWN list back. Stronger
+// than the abstract pivot because she can't argue with what she just
+// clicked. Returns null when she hasn't tried any actual treatment -
+// the line would feel weird then.
+function buildVersuchtCallback(tried: string[]): string | null {
+  const labels = tried.filter(v => v in Q6_LABEL).map(v => Q6_LABEL[v])
+  if (labels.length === 0) return null
+  const list = joinAnd(labels)
+  if (labels.length === 1) {
+    return `Du hast ${list} probiert. Das hat einen echten Effekt — aber nicht den, eine bereits erweiterte Ader zu verschließen.`
+  }
+  return `Du hast ${list} probiert. Alle haben echte Effekte — aber keiner ist dafür gemacht, eine bereits erweiterte Ader zu verschließen.`
+}
+
+// Concrete timing block per Q8. Replaces the generic "frag bei 2-3
+// gleichzeitig an" tipp with a timeline that actually maps to the
+// reader's stated horizon.
+function buildTimingBlock(zeitziel: string | null, isFace: boolean): { headline: string; body: string } | null {
+  switch (zeitziel) {
+    case 'diesen_sommer':
+      return {
+        headline: 'Du willst bis Sommer Ergebnisse sehen.',
+        body: `${isFace ? 'Laser-' : 'Sklero- und Laser-'}Sitzungen brauchen typischerweise 4-6 Wochen Abstand. Für sichtbare Reduktion bis Spätsommer hast du noch knapp Zeit, wenn du diese Woche das Erstgespräch klärst.`,
+      }
+    case 'anlass':
+      return {
+        headline: 'Für deinen Anlass.',
+        body: 'Üblicherweise kalkuliert man 3-4 Monate vor dem Termin Behandlungsstart. Frag im Erstgespräch direkt nach diesem Zeitfenster — die Praxis kann sagen, ob es bei deinem Befund realistisch ist.',
+      }
+    case 'kein_druck':
+      return {
+        headline: 'Ohne Zeitdruck kannst du das mit Ruhe angehen.',
+        body: 'Optimaler Behandlungsbeginn ist Spätherbst bis Frühjahr — die Adern haben dann Zeit zum Abbau, bevor wieder Sommer ist. Ein Erstgespräch jetzt klärt früh, ohne dass du dich zu etwas verpflichtest.',
+      }
+    case 'naechster_sommer':
+      return {
+        headline: 'Für sichtbare Beine im nächsten Sommer.',
+        body: 'Behandlungsbeginn idealerweise Spätherbst bis Frühjahr. Ein Erstgespräch jetzt klärt, was bei dir passt — Behandlung startet, wenn es für dich gut ist.',
+      }
+    default:
+      return null
+  }
+}
+
+// Safety-relevant note for Hauttyp 4-6: shorter laser wavelengths
+// (e.g. KTP 532 nm, IPL) carry pigmentation risk. Nd:YAG (1064 nm)
+// is the safer default. HWG-defensible: this is sachlich-medizinische
+// Information, kein Heilversprechen.
+function buildHauttypNote(hauttypDark: boolean, isFace: boolean): string | null {
+  if (!hauttypDark) return null
+  return `<strong>Wichtig für dich:</strong> bei Hauttyp 4-6 sollte mit längerwelligem Laser (Nd:YAG, 1064&nbsp;nm) gearbeitet werden. ${isFace ? 'Im Gesicht' : 'An den Beinen'} bergen kürzere Wellenlängen ein Pigment-Risiko. Frag in der Praxis explizit nach Nd:YAG, bevor du dich entscheidest.`
+}
+
+function buildHauttypNoteText(hauttypDark: boolean, isFace: boolean): string | null {
+  if (!hauttypDark) return null
+  return `WICHTIG FÜR DICH: bei Hauttyp 4-6 sollte mit längerwelligem Laser (Nd:YAG, 1064 nm) gearbeitet werden. ${isFace ? 'Im Gesicht' : 'An den Beinen'} bergen kürzere Wellenlängen ein Pigment-Risiko. Frag in der Praxis explizit nach Nd:YAG, bevor du dich entscheidest.`
 }
 
 const CTA_URL = 'https://besenreiser-check.de/methoden-quiz?utm_source=email&utm_medium=transactional&utm_campaign=quiz_auswertung_v3'
@@ -197,6 +282,9 @@ function renderEmailHtml(p: EmailPayload): string {
   const stadtZeile = p.city ? `in ${p.city}` : 'in deiner Region'
   const stadtCta = p.city ? ` in ${p.city}` : ''
   const futurePacing = buildFuturePacing(p)
+  const versuchtCallback = buildVersuchtCallback(p.tried)
+  const timingBlock = buildTimingBlock(p.zeitziel, p.isFace)
+  const hauttypNote = buildHauttypNote(p.hauttypDark, p.isFace)
 
   // H1 = magnetic hook (Schwartz: channel existing desire onto the
   // mechanism). Greeting moves to a smaller line below so the H1 is
@@ -206,6 +294,27 @@ function renderEmailHtml(p: EmailPayload): string {
     : '0,46 mm. Genau dort sitzt das Problem.'
   const greetingLine = p.vorname
     ? `<p style="margin:0 0 4px; font-size:14px; color:#666; line-height:1.4;">${p.vorname}, hier ist deine Auswertung.</p>`
+    : ''
+
+  const versuchtBlock = versuchtCallback
+    ? `<tr><td style="padding:0 24px 18px;">
+<p style="margin:0; font-size:14px; color:#0A1F44; line-height:1.6; padding:12px 14px; background-color:#FAFBFE; border:1px solid #DDE3F5; border-radius:4px;">${versuchtCallback}</p>
+</td></tr>`
+    : ''
+
+  const hauttypBlock = hauttypNote
+    ? `<tr><td style="padding:0 24px 16px;">
+<p style="margin:0; font-size:13px; color:#444; line-height:1.55; padding:12px 14px; background-color:#FFF8E1; border:1px solid #F5DD8C; border-radius:4px;">${hauttypNote}</p>
+</td></tr>`
+    : ''
+
+  const timingHtmlBlock = timingBlock
+    ? `<tr><td style="padding:0 24px 18px;">
+<div style="padding:14px 16px; background-color:#F4F7FF; border-left:3px solid #003399; border-radius:4px;">
+<div style="font-size:14px; font-weight:700; color:#0A1F44; margin-bottom:4px;">${timingBlock.headline}</div>
+<div style="font-size:13px; color:#444; line-height:1.55;">${timingBlock.body}</div>
+</div>
+</td></tr>`
     : ''
 
   // Pivot block - depth-math for Beine, stays-goes for Gesicht. Footnotes
@@ -266,6 +375,8 @@ ${greetingLine}
 <p style="margin:0 0 16px; font-size:14px; color:#0A1F44; line-height:1.5;"><strong>Dein Profil in einer Zeile:</strong> ${profileLine}.</p>
 </td></tr>
 
+${versuchtBlock}
+
 <tr><td style="padding:0 24px 16px;">
 ${pivotBlock}
 </td></tr>
@@ -280,7 +391,11 @@ ${methodsBlock}
 <p style="margin:0; font-size:13px; color:#555; line-height:1.5; font-style:italic;">Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.</p>
 </td></tr>
 
-<tr><td style="padding:18px 24px 18px;" align="center">
+${hauttypBlock}
+
+${timingHtmlBlock}
+
+<tr><td style="padding:6px 24px 18px;" align="center">
 <a href="${CTA_URL}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Praxen${stadtCta} ansehen →</a>
 </td></tr>
 
@@ -329,10 +444,16 @@ function renderEmailText(p: EmailPayload): string {
   const stadtZeile = p.city ? `in ${p.city}` : 'in deiner Region'
   const stadtCta = p.city ? ` in ${p.city}` : ''
   const futurePacing = buildFuturePacing(p)
+  const versuchtCallback = buildVersuchtCallback(p.tried)
+  const timingBlock = buildTimingBlock(p.zeitziel, p.isFace)
+  const hauttypNote = buildHauttypNoteText(p.hauttypDark, p.isFace)
   const h1 = p.isFace
     ? 'Make-up überdeckt. Pflege beruhigt. Beides erreicht die Ader nicht.'
     : '0,46 mm. Genau dort sitzt das Problem.'
   const greetingPrefix = p.vorname ? `${p.vorname}, hier ist deine Auswertung.\n\n` : ''
+  const versuchtTextBlock = versuchtCallback ? `\n\n${versuchtCallback}` : ''
+  const hauttypTextBlock = hauttypNote ? `\n\n${hauttypNote}` : ''
+  const timingTextBlock = timingBlock ? `\n\n${timingBlock.headline.toUpperCase()}\n${timingBlock.body}` : ''
 
   const pivotText = p.isFace
     ? `Eine Kapillarader im Gesicht ist dauerhaft erweitert. Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt. Pflege und Beruhigungs-Cremes wirken in der Hautoberfläche, nicht an der Ader darunter.
@@ -366,7 +487,7 @@ Lichtimpulse von außen, koagulieren die Ader. Gut bei sehr feinen Oberflächen-
 
   return `${greetingPrefix}${h1}
 
-Dein Profil in einer Zeile: ${profileLine}.
+Dein Profil in einer Zeile: ${profileLine}.${versuchtTextBlock}
 
 
 ${pivotText}
@@ -377,7 +498,7 @@ ${futurePacing}
 
 ${methodsText}
 
-Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.
+Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.${hauttypTextBlock}${timingTextBlock}
 
 
 → Praxen${stadtCta} ansehen: ${CTA_URL}
@@ -502,6 +623,9 @@ export const handler = async (event: {
       isFace: parsed.answers?.q1_lokalisation === 'gesicht',
       qualified: isQualifiedLead(parsed.answers),
       city: cityFromPlz(plz),
+      tried: parsed.answers?.q6_versucht ?? [],
+      zeitziel: parsed.answers?.q8_zeitziel ?? null,
+      hauttypDark: parsed.answers?.q4_hauttyp === 'dunkler',
     })
     if (!emailRes.ok) {
       console.warn('[quiz-submit] auswertung email failed:', emailRes.error)
