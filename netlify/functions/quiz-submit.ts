@@ -727,10 +727,7 @@ ${hauttypBlock}
 ${timingHtmlBlock}
 
 ${praxisCard
-  ? `<tr><td style="padding:0 24px 6px;"><div style="font-size:11px; font-weight:700; color:#003399; letter-spacing:0.05em; margin-bottom:8px;">📍 ${p.city ? `EINE PRAXIS IN ${p.city.toUpperCase()}` : 'EINE PRAXIS IN DEINER NÄHE'}</div>${praxisCard}</td></tr>
-<tr><td style="padding:0 24px 18px;" align="center">
-<a href="${p.recoveryUrl}" style="font-size:13px; color:#0052CC; text-decoration:underline;">Alle Praxen${stadtCta} ansehen →</a>
-</td></tr>`
+  ? `<tr><td style="padding:0 24px 18px;"><div style="font-size:11px; font-weight:700; color:#003399; letter-spacing:0.05em; margin-bottom:8px;">📍 ${p.city ? `EINE PRAXIS IN ${p.city.toUpperCase()}` : 'EINE PRAXIS IN DEINER NÄHE'}</div>${praxisCard}</td></tr>`
   : `<tr><td style="padding:6px 24px 18px;" align="center">
 <a href="${p.recoveryUrl}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Praxen${stadtCta} ansehen →</a>
 </td></tr>`}
@@ -752,7 +749,7 @@ ${praxisCard
 </td></tr>
 
 <tr><td style="padding:8px 24px 14px;" align="center">
-<a href="${p.recoveryUrl}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Mein Erstgespräch anfragen →</a>
+<a href="${p.recoveryUrl}" style="display:inline-block; background-color:#003399; color:#fff; font-weight:700; font-size:15px; text-decoration:none; padding:14px 26px; border-radius:6px;">Mein Termin sichern →</a>
 </td></tr>
 
 <tr><td style="padding:0 24px 18px;">
@@ -847,7 +844,7 @@ ${methodsText}
 Welche Methode bei dir passt, hängt von Größe, Tiefe, Hauttyp und Lokalisation ab. Genau das wird im Erstgespräch geklärt.${flaechigTextBlock}${hauttypTextBlock}${timingTextBlock}${hormonalTextBlock}${praxisTextBlock}
 
 
-${p.topPraxis ? `→ Alle Praxen${stadtCta} ansehen: ${p.recoveryUrl}` : `→ Praxen${stadtCta} ansehen: ${p.recoveryUrl}`}
+${p.topPraxis ? '' : `→ Praxen${stadtCta} ansehen: ${p.recoveryUrl}`}
 
 
 DREI SACHEN, DIE VIELE VORHER FRAGEN:
@@ -862,7 +859,7 @@ In vielen Praxen kostenfrei oder im niedrigen 2-stelligen Bereich. Behandlung sp
 In den meisten Praxen 1-3 Wochen. Frag bei 2-3 Praxen gleichzeitig an - die schnellste antwortet zuerst. Praxen erwarten das.
 
 
-→ Mein Erstgespräch anfragen: ${p.recoveryUrl}
+→ Mein Termin sichern: ${p.recoveryUrl}
 
 Tipp: bei 2-3 Praxen gleichzeitig anfragen kostet dich 5 zusätzliche Minuten und spart Wartezeit.${footnotesText}
 
