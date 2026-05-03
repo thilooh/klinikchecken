@@ -26,10 +26,13 @@ const ARTICLES: ArticleCard[] = [
     live: true,
   },
   {
-    title: 'Verödung oder Laser? Methoden im Vergleich',
+    title: 'Besenreiser entfernen: Methoden im Vergleich',
     description:
-      'Sklerotherapie, Mikroschaum-Verödung, Nd:YAG-Laser - was hinter den Begriffen steckt und wann welche Methode geeignet ist.',
-    live: false,
+      'Verödung, Schaumverödung oder Nd:YAG-Laser - was hinter den Begriffen steckt, wann welche Methode passt und warum die Kombination oft das beste Ergebnis liefert.',
+    href: '/ratgeber/besenreiser-entfernen-methoden',
+    date: '3. Mai 2026',
+    readTime: '11 Min',
+    live: true,
   },
   {
     title: 'Besenreiser entfernen: Kosten 2026 im Überblick',

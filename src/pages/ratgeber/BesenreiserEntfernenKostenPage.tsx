@@ -283,7 +283,11 @@ export default function BesenreiserEntfernenKostenPage() {
         Verödung ist im Schnitt günstiger als Laser. Das liegt daran, dass die Materialkosten
         (Verödungsmittel) niedriger sind als die Anschaffungs- und Wartungskosten eines
         medizinischen Lasers. Die Schaumverödung liegt preislich oft zwischen klassischer
-        Verödung und Laser, kommt aber typischerweise mit weniger Sitzungen aus.
+        Verödung und Laser, kommt aber typischerweise mit weniger Sitzungen aus. Wie sich die
+        Verfahren technisch unterscheiden und wann welche Methode passt, erklären wir im{' '}
+        <Link to="/ratgeber/besenreiser-entfernen-methoden" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Methoden-Vergleich
+        </Link>.
       </p>
 
       <h3 className="art-h3">2. Anzahl der Sitzungen</h3>
@@ -345,10 +349,13 @@ export default function BesenreiserEntfernenKostenPage() {
 
       <h3 className="art-h3">Verödung (Sklerotherapie): 80 - 220 € pro Sitzung</h3>
       <p className="art-p">
-        Die klassische Verödung - auch Mikro-Sklerotherapie genannt - ist laut den medizinischen
-        Leitlinien die <strong>Methode der ersten Wahl bei Besenreisern</strong>. Ein
-        Verödungsmittel (meist Polidocanol) wird mit einer feinen Nadel direkt in die Besenreiser
-        injiziert.
+        Die klassische{' '}
+        <Link to="/ratgeber/besenreiser-entfernen-methoden#besenreiser-veroeden" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Verödung
+        </Link>
+        {' '}- auch Mikro-Sklerotherapie genannt - ist laut den medizinischen Leitlinien die{' '}
+        <strong>Methode der ersten Wahl bei Besenreisern</strong>. Ein Verödungsmittel (meist
+        Polidocanol) wird mit einer feinen Nadel direkt in die Besenreiser injiziert.
       </p>
       <p className="art-p">
         Die Preisspanne ist groß: Eine Praxis im ländlichen Raum berechnet ab ca. 85 € pro Bein
@@ -379,9 +386,13 @@ export default function BesenreiserEntfernenKostenPage() {
 
       <h3 className="art-h3">Laserbehandlung (Nd:YAG): 150 - 300 € pro Sitzung</h3>
       <p className="art-p">
-        Der Nd:YAG-Laser (Neodym-dotierter Yttrium-Aluminium-Granat-Laser) ist der medizinische
-        Goldstandard bei der Laser-Besenreiser-Behandlung. Die Lichtenergie wird vom Blutfarbstoff
-        absorbiert, erhitzt die Gefäßwand und führt zum Verschluss der Vene.
+        Der{' '}
+        <Link to="/ratgeber/besenreiser-entfernen-methoden#besenreiser-lasern" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Nd:YAG-Laser
+        </Link>
+        {' '}(Neodym-dotierter Yttrium-Aluminium-Granat-Laser) ist der medizinische Goldstandard
+        bei der Laser-Besenreiser-Behandlung. Die Lichtenergie wird vom Blutfarbstoff absorbiert,
+        erhitzt die Gefäßwand und führt zum Verschluss der Vene.
       </p>
       <p className="art-p">
         Wichtig zu wissen: Der Laser eignet sich vor allem für <strong>sehr feine, oberflächliche

@@ -7,6 +7,7 @@ import RatgeberPage from './pages/RatgeberPage.tsx'
 import PraxisWaehlenPage from './pages/ratgeber/PraxisWaehlenPage.tsx'
 import BesenreiserEntfernenKostenPage from './pages/ratgeber/BesenreiserEntfernenKostenPage.tsx'
 import WelcherArztBesenreiserPage from './pages/ratgeber/WelcherArztBesenreiserPage.tsx'
+import BesenreiserEntfernenMethodenPage from './pages/ratgeber/BesenreiserEntfernenMethodenPage.tsx'
 import ClinicPage from './pages/ClinicPage.tsx'
 import CityPage from './pages/CityPage.tsx'
 import MethodePage from './pages/MethodePage.tsx'
@@ -43,6 +44,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
             <Route path="/ratgeber/praxis-waehlen" element={<PraxisWaehlenPage />} />
             <Route path="/ratgeber/besenreiser-entfernen-kosten" element={<BesenreiserEntfernenKostenPage />} />
             <Route path="/ratgeber/welcher-arzt-besenreiser" element={<WelcherArztBesenreiserPage />} />
+            <Route path="/ratgeber/besenreiser-entfernen-methoden" element={<BesenreiserEntfernenMethodenPage />} />
             <Route path="/praxis/:slug" element={<ClinicPage />} />
             <Route path="/besenreiser/:city" element={<CityPage />} />
             <Route path="/methode/:method" element={<MethodePage />} />

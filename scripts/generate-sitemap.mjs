@@ -51,6 +51,7 @@ url(`${SITE}/ratgeber`, '0.7', 'weekly')
 url(`${SITE}/ratgeber/praxis-waehlen`, '0.7', 'monthly')
 url(`${SITE}/ratgeber/besenreiser-entfernen-kosten`, '0.9', 'monthly')
 url(`${SITE}/ratgeber/welcher-arzt-besenreiser`, '0.9', 'monthly')
+url(`${SITE}/ratgeber/besenreiser-entfernen-methoden`, '0.9', 'monthly')
 
 for (const m of methods) {
   url(`${SITE}/methode/${m}`, '0.8', 'monthly')

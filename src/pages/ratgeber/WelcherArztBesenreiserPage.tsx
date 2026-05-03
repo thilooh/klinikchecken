@@ -288,10 +288,20 @@ export default function WelcherArztBesenreiserPage() {
       <p className="art-p">
         <strong>2. Welche Methoden sind im Haus verfügbar?</strong>
         <br />
-        Eine Praxis, die <em>nur</em> Verödung anbietet, wird dir mit hoher Wahrscheinlichkeit
-        Verödung empfehlen - auch wenn Laser für deinen Befund besser wäre. Praxen mit beiden
-        Verfahren (Verödung + Laser, idealerweise auch Schaumverödung) können neutraler beraten
-        und im Zweifel kombinieren.
+        Eine Praxis, die <em>nur</em>{' '}
+        <Link to="/ratgeber/besenreiser-entfernen-methoden#besenreiser-veroeden" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Verödung
+        </Link>
+        {' '}anbietet, wird dir mit hoher Wahrscheinlichkeit Verödung empfehlen - auch wenn{' '}
+        <Link to="/ratgeber/besenreiser-entfernen-methoden#besenreiser-lasern" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Laser
+        </Link>
+        {' '}für deinen Befund besser wäre. Praxen mit beiden Verfahren (Verödung + Laser,
+        idealerweise auch Schaumverödung) können neutraler beraten und im Zweifel kombinieren.
+        Worin sich die Verfahren genau unterscheiden, erklären wir im{' '}
+        <Link to="/ratgeber/besenreiser-entfernen-methoden" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Methoden-Vergleich
+        </Link>.
       </p>
       <p className="art-p">
         <strong>3. Wird vor der Behandlung eine Duplex-Sonografie gemacht?</strong>
