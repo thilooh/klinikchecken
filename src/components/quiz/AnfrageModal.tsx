@@ -286,7 +286,7 @@ export default function AnfrageModal({ praxis, lead, answers, profile, onClose, 
                   {[
                     'Du verpflichtest dich zu nichts.',
                     'Du erfährst, was bei dir konkret in Frage kommt.',
-                    'Die Antwort kommt von der Praxis direkt — nicht von uns.',
+                    'Die Antwort kommt von der Praxis direkt - nicht von uns.',
                   ].map(line => (
                     <div key={line} style={{ display: 'flex', alignItems: 'flex-start', gap: '6px', fontSize: '12px', color: '#555', lineHeight: 1.4 }}>
                       <Check size={13} color="#0A7C4A" style={{ flexShrink: 0, marginTop: '2px' }} />

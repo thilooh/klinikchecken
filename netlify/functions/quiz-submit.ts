@@ -71,7 +71,7 @@ function dringlichkeitLabel(score: number): string {
 }
 
 // Used in the inline-profile sentence "{typ} {wo}, {auspraegungLower},
-// {dringlichkeitShort}." — strips the "Niedrig - " / "Hoch - " prefix
+// {dringlichkeitShort}." - strips the "Niedrig - " / "Hoch - " prefix
 // when present so the sentence reads naturally.
 function dringlichkeitShort(score: number): string {
   const label = dringlichkeitLabel(score)
@@ -330,15 +330,15 @@ function buildRecoveryUrl(parsed: ParsedBody): string {
 const SUBJECT_VARIANTS_BEINE: Array<{ id: string; build: (vorname: string) => string }> = [
   { id: 'A', build: v => `${v ? v + ', ' : ''}die 0,46 mm, die deine Cremes nie erreichen konnten` },
   { id: 'B', build: v => `${v ? v + ', ' : ''}der 0,02-mm-Grund, warum Cremes nicht reichen` },
-  { id: 'C', build: v => `${v ? v + ', ' : ''}deine Auswertung — und ein Reframe zur Tiefe` },
-  { id: 'D', build: v => `${v ? v + ', ' : ''}was Cremes in 0,02 mm leisten — und wo das Problem sitzt` },
+  { id: 'C', build: v => `${v ? v + ', ' : ''}deine Auswertung - und ein Reframe zur Tiefe` },
+  { id: 'D', build: v => `${v ? v + ', ' : ''}was Cremes in 0,02 mm leisten - und wo das Problem sitzt` },
 ]
 
 const SUBJECT_VARIANTS_FACE: Array<{ id: string; build: (vorname: string) => string }> = [
   { id: 'A', build: v => `${v ? v + ', ' : ''}Make-up überdeckt sie. Was sie wegmacht.` },
   { id: 'B', build: v => `${v ? v + ', ' : ''}warum Make-up den Spiegel betrügt` },
-  { id: 'C', build: v => `${v ? v + ', ' : ''}deine Auswertung — die Adern hinter dem Make-up` },
-  { id: 'D', build: v => `${v ? v + ', ' : ''}was Pflege erreicht — und was nicht` },
+  { id: 'C', build: v => `${v ? v + ', ' : ''}deine Auswertung - die Adern hinter dem Make-up` },
+  { id: 'D', build: v => `${v ? v + ', ' : ''}was Pflege erreicht - und was nicht` },
 ]
 
 function pickSubject(p: EmailPayload): { id: string; subject: string } {
@@ -377,9 +377,9 @@ function buildVersuchtCallback(tried: string[]): string | null {
   if (labels.length === 0) return null
   const list = joinAnd(labels)
   if (labels.length === 1) {
-    return `Du hast ${list} probiert. Das hat einen echten Effekt — aber nicht den, eine bereits erweiterte Ader zu verschließen.`
+    return `Du hast ${list} probiert. Das hat einen echten Effekt - aber nicht den, eine bereits erweiterte Ader zu verschließen.`
   }
-  return `Du hast ${list} probiert. Alle haben echte Effekte — aber keiner ist dafür gemacht, eine bereits erweiterte Ader zu verschließen.`
+  return `Du hast ${list} probiert. Alle haben echte Effekte - aber keiner ist dafür gemacht, eine bereits erweiterte Ader zu verschließen.`
 }
 
 // Concrete timing block per Q8. Replaces the generic "frag bei 2-3
@@ -395,17 +395,17 @@ function buildTimingBlock(zeitziel: string | null, isFace: boolean): { headline:
     case 'anlass':
       return {
         headline: 'Für deinen Anlass.',
-        body: 'Üblicherweise kalkuliert man 3-4 Monate vor dem Termin Behandlungsstart. Frag im Erstgespräch direkt nach diesem Zeitfenster — die Praxis kann sagen, ob es bei deinem Befund realistisch ist.',
+        body: 'Üblicherweise kalkuliert man 3-4 Monate vor dem Termin Behandlungsstart. Frag im Erstgespräch direkt nach diesem Zeitfenster - die Praxis kann sagen, ob es bei deinem Befund realistisch ist.',
       }
     case 'kein_druck':
       return {
         headline: 'Ohne Zeitdruck kannst du das mit Ruhe angehen.',
-        body: 'Optimaler Behandlungsbeginn ist Spätherbst bis Frühjahr — die Adern haben dann Zeit zum Abbau, bevor wieder Sommer ist. Ein Erstgespräch jetzt klärt früh, ohne dass du dich zu etwas verpflichtest.',
+        body: 'Optimaler Behandlungsbeginn ist Spätherbst bis Frühjahr - die Adern haben dann Zeit zum Abbau, bevor wieder Sommer ist. Ein Erstgespräch jetzt klärt früh, ohne dass du dich zu etwas verpflichtest.',
       }
     case 'naechster_sommer':
       return {
         headline: 'Für sichtbare Beine im nächsten Sommer.',
-        body: 'Behandlungsbeginn idealerweise Spätherbst bis Frühjahr. Ein Erstgespräch jetzt klärt, was bei dir passt — Behandlung startet, wenn es für dich gut ist.',
+        body: 'Behandlungsbeginn idealerweise Spätherbst bis Frühjahr. Ein Erstgespräch jetzt klärt, was bei dir passt - Behandlung startet, wenn es für dich gut ist.',
       }
     default:
       return null
@@ -432,12 +432,12 @@ function buildHauttypNoteText(hauttypDark: boolean, isFace: boolean): string | n
 // (sachliche Methoden-Information, kein Wirksamkeitsclaim).
 function buildFlaechigNote(flaechig: boolean, isFace: boolean): string | null {
   if (!flaechig || isFace) return null
-  return 'Bei <strong>flächiger Verteilung</strong> setzen Phlebologen häufig auf <strong>Schaumsklerotherapie</strong> — sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.'
+  return 'Bei <strong>flächiger Verteilung</strong> setzen Phlebologen häufig auf <strong>Schaumsklerotherapie</strong> - sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.'
 }
 
 function buildFlaechigNoteText(flaechig: boolean, isFace: boolean): string | null {
   if (!flaechig || isFace) return null
-  return 'Bei FLÄCHIGER VERTEILUNG setzen Phlebologen häufig auf Schaumsklerotherapie — sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.'
+  return 'Bei FLÄCHIGER VERTEILUNG setzen Phlebologen häufig auf Schaumsklerotherapie - sie behandelt mehrere Adern in einer Sitzung statt jede einzeln. Frag im Erstgespräch danach.'
 }
 
 // Q2 hormonal-trigger note - schwangerschaft + wechseljahre are 39%
@@ -446,7 +446,7 @@ function buildFlaechigNoteText(flaechig: boolean, isFace: boolean): string | nul
 // src/lib/quizProfileCompute.ts but kept self-contained here.
 function buildHormonalNote(hormonal: boolean): string | null {
   if (!hormonal) return null
-  return 'Hormonell entstandene Besenreiser werden ohne Behandlung erfahrungsgemäß nicht weniger — oft kommen über die Jahre weitere dazu.'
+  return 'Hormonell entstandene Besenreiser werden ohne Behandlung erfahrungsgemäß nicht weniger - oft kommen über die Jahre weitere dazu.'
 }
 
 function buildHormonalNoteText(hormonal: boolean): string | null {
@@ -457,18 +457,19 @@ function buildHormonalNoteText(hormonal: boolean): string | null {
 // the V3 depth-math content the email otherwise leads with. Renders
 // only for V5 senders + when the user actually tried at least one
 // real treatment (so the callback has something to refer to). For
-// V5 users who tried nothing, falls back to a neutral opener so we
-// don't fabricate context.
+// V5 users who tried nothing, falls back to a neutral opener that
+// stays within HWG-defensible language ("in Frage kommt" instead of
+// "wirklich helfen").
 function buildV5Opener(p: EmailPayload): string | null {
   if (!p.isV5) return null
   const labels = p.tried.filter(v => v in Q6_LABEL).map(v => Q6_LABEL[v])
   if (labels.length === 0) {
-    return 'Erinnerst du dich? Du informierst dich gerade — bevor du etwas ausprobierst. Hier ist, was bei dir wirklich helfen kann.'
+    return 'Erinnerst du dich? Du informierst dich gerade, bevor du etwas ausprobierst. Hier ist, was bei vergleichbaren Befunden in Frage kommt.'
   }
   const list = labels.length === 1 ? labels[0] : labels.length === 2
     ? `${labels[0]} und ${labels[1]}`
     : `${labels.slice(0, -1).join(', ')} und ${labels[labels.length - 1]}`
-  return `Erinnerst du dich? Du hast ${list} probiert. Sie waren nicht an der falschen Stelle, weil du dich falsch entschieden hast — sie waren nicht an der richtigen Stelle, weil sie dafür gar nicht gebaut sind.`
+  return `Erinnerst du dich? Du hast ${list} probiert. Alle haben einen Effekt. Nur nicht da, wo das Problem sitzt.`
 }
 
 function buildV5OpenerText(p: EmailPayload): string | null {
@@ -486,8 +487,8 @@ function buildV5OpenerText(p: EmailPayload): string | null {
 // labelled regardless of context.
 function buildPraxisCardHtml(praxis: TopPraxis, recoveryUrl: string, isFace: boolean): string {
   const discipline = isFace
-    ? '<strong>Dermatologie</strong> — arbeitet an der Kapillarader im Gesicht'
-    : '<strong>Phlebologie</strong> — arbeitet an der Ader, nicht an der Haut'
+    ? '<strong>Dermatologie</strong> - arbeitet an der Kapillarader im Gesicht'
+    : '<strong>Phlebologie</strong> - arbeitet an der Ader, nicht an der Haut'
   const proofParts: string[] = []
   if (praxis.foundedYear) proofParts.push(`Seit ${praxis.foundedYear}`)
   if (praxis.doctor) {
@@ -543,7 +544,7 @@ function buildProfileLine(p: EmailPayload): string {
 function buildFuturePacing(p: EmailPayload): string {
   return p.isFace
     ? 'Was das praktisch heißt: bei vielen Patientinnen wird nach 2-4 Sitzungen die Schicht Make-up überflüssig, mit der sie die Adern morgens überdecken. Das ist keine Garantie. Es ist die häufigste Motivation.'
-    : 'Was das praktisch heißt: bei vielen Patientinnen wird nach 2-4 Sitzungen wieder möglich, was sie vorher gemieden haben — Schwimmbad, kurze Hose, Foto am Strand. Das ist keine Garantie. Es ist die häufigste Motivation.'
+    : 'Was das praktisch heißt: bei vielen Patientinnen wird nach 2-4 Sitzungen wieder möglich, was sie vorher gemieden haben - Schwimmbad, kurze Hose, Foto am Strand. Das ist keine Garantie. Es ist die häufigste Motivation.'
 }
 
 function renderEmailHtml(p: EmailPayload): string {
@@ -624,7 +625,7 @@ function renderEmailHtml(p: EmailPayload): string {
 <p style="margin:0 0 12px; font-size:14px; color:#444; line-height:1.6;">Make-up legt sich darüber. Abends ist es weg. Die Ader bleibt. Pflege und Beruhigungs-Cremes wirken in der Hautoberfläche, nicht an der Ader darunter.</p>
 <p style="margin:0 0 8px; font-size:14px; color:#444; line-height:1.6;">Das ist kein Versagen deiner Pflege. Das ist eine Frage des Wirkorts.</p>`
     : `<p style="margin:0 0 12px; font-size:15px; color:#0A1F44; font-weight:600; line-height:1.5;">Eine Besenreiser-Ader liegt im Mittel 0,46&nbsp;mm unter der Hautoberfläche.<sup style="font-size:10px;">¹</sup></p>
-<p style="margin:0 0 12px; font-size:14px; color:#444; line-height:1.6;">Cremes wirken hauptsächlich in der Hornschicht — etwa 0,02&nbsp;mm tief.<sup style="font-size:10px;">²</sup></p>
+<p style="margin:0 0 12px; font-size:14px; color:#444; line-height:1.6;">Cremes wirken hauptsächlich in der Hornschicht - etwa 0,02&nbsp;mm tief.<sup style="font-size:10px;">²</sup></p>
 <p style="margin:0 0 8px; font-size:14px; color:#444; line-height:1.6;">Das ist kein Versagen deiner Cremes. Das ist eine Frage der Tiefe.</p>`
 
   // Methods - Beine has Sklero + Laser, Face has just Laser (Sklero is
@@ -633,7 +634,7 @@ function renderEmailHtml(p: EmailPayload): string {
     ? `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#FAFBFE; border:1px solid #DDE3F5; border-radius:6px; margin-bottom:12px;">
 <tr><td style="padding:14px 16px;">
 <div style="font-size:14px; font-weight:700; color:#0A1F44; margin-bottom:4px;">Laser (z.B. KTP, Nd:YAG)</div>
-<div style="font-size:13px; color:#444; line-height:1.5;">Lichtimpulse von außen, koagulieren die feine Kapillarader. Bei dunkleren Hauttypen wird üblicherweise Nd:YAG (1064 nm) eingesetzt — diese Wellenlänge wird vom Hautpigment kaum aufgenommen.</div>
+<div style="font-size:13px; color:#444; line-height:1.5;">Lichtimpulse von außen, koagulieren die feine Kapillarader. Bei dunkleren Hauttypen wird üblicherweise Nd:YAG (1064 nm) eingesetzt - diese Wellenlänge wird vom Hautpigment kaum aufgenommen.</div>
 </td></tr></table>`
     : `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#FAFBFE; border:1px solid #DDE3F5; border-radius:6px; margin-bottom:8px;">
 <tr><td style="padding:14px 16px;">
@@ -650,8 +651,8 @@ function renderEmailHtml(p: EmailPayload): string {
     ? ''
     : `<tr><td style="padding:0 24px 16px;">
 <div style="font-size:11px; color:#777; line-height:1.55; border-top:1px solid #E5E9F2; padding-top:10px;">
-<p style="margin:0 0 4px;"><strong>¹</strong> Mittlere Tiefe von Besenreisern (Teleangiektasien) im superficialen Korium. Quelle: <a href="https://plasticsurgerykey.com/pathophysiology-of-telangiectasias/" style="color:#0052CC;">Plastic Surgery Key — Pathophysiology of Telangiectasias</a>.</p>
-<p style="margin:0;"><strong>²</strong> Hornschicht-Dicke (Stratum corneum) typisch 10-20&nbsp;µm. Topisch applizierte Cremes ohne Penetration-Enhancer werden tiefer meist nicht nachweisbar. Quelle: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2577912/" style="color:#0052CC;">PMC — Determination of Stratum Corneum Thickness</a>.</p>
+<p style="margin:0 0 4px;"><strong>¹</strong> Mittlere Tiefe von Besenreisern (Teleangiektasien) im superficialen Korium. Quelle: <a href="https://plasticsurgerykey.com/pathophysiology-of-telangiectasias/" style="color:#0052CC;">Plastic Surgery Key - Pathophysiology of Telangiectasias</a>.</p>
+<p style="margin:0;"><strong>²</strong> Hornschicht-Dicke (Stratum corneum) typisch 10-20&nbsp;µm. Topisch applizierte Cremes ohne Penetration-Enhancer werden tiefer meist nicht nachweisbar. Quelle: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2577912/" style="color:#0052CC;">PMC - Determination of Stratum Corneum Thickness</a>.</p>
 </div>
 </td></tr>`
 
@@ -711,7 +712,7 @@ ${praxisCard
 <h2 style="margin:0 0 12px; font-size:15px; font-weight:700; color:#0A1F44;">Drei Sachen, die viele vorher fragen:</h2>
 <div style="margin-bottom:12px;">
 <div style="font-size:13px; font-weight:700; color:#0A1F44; margin-bottom:2px;">"Verpflichte ich mich, wenn ich anfrage?"</div>
-<div style="font-size:13px; color:#444; line-height:1.5;">Nein. Eine Anfrage ist eine Anfrage. Wenn die Praxis sich meldet, kannst du einen Termin annehmen, einen anderen vorschlagen oder nicht antworten — alles okay. Du bist zu nichts verpflichtet.</div>
+<div style="font-size:13px; color:#444; line-height:1.5;">Nein. Eine Anfrage ist eine Anfrage. Wenn die Praxis sich meldet, kannst du einen Termin annehmen, einen anderen vorschlagen oder nicht antworten - alles okay. Du bist zu nichts verpflichtet.</div>
 </div>
 <div style="margin-bottom:12px;">
 <div style="font-size:13px; font-weight:700; color:#0A1F44; margin-bottom:2px;">"Was kostet das Erstgespräch?"</div>
@@ -719,7 +720,7 @@ ${praxisCard
 </div>
 <div>
 <div style="font-size:13px; font-weight:700; color:#0A1F44; margin-bottom:2px;">"Wie schnell bekomme ich einen Termin?"</div>
-<div style="font-size:13px; color:#444; line-height:1.5;">In den meisten Praxen 1-3 Wochen. Frag bei 2-3 Praxen gleichzeitig an — die schnellste antwortet zuerst. Praxen erwarten das.</div>
+<div style="font-size:13px; color:#444; line-height:1.5;">In den meisten Praxen 1-3 Wochen. Frag bei 2-3 Praxen gleichzeitig an - die schnellste antwortet zuerst. Praxen erwarten das.</div>
 </div>
 </td></tr>
 
@@ -770,7 +771,7 @@ function renderEmailText(p: EmailPayload): string {
     : versuchtCallback ? `\n\n${versuchtCallback}` : ''
   const timingTextBlock = timingBlock ? `\n\n${timingBlock.headline.toUpperCase()}\n${timingBlock.body}` : ''
   const praxisTextBlock = p.topPraxis
-    ? `\n\nEINE PRAXIS, DIE ZU DEINEM PROFIL PASST:\n${p.topPraxis.name} (${p.topPraxis.city}${p.topPraxis.district ? ', ' + p.topPraxis.district : ''})\n${p.topPraxis.methods.slice(0, 3).join(' · ')}\n${p.isFace ? 'Dermatologie — arbeitet an der Kapillarader im Gesicht' : 'Phlebologie — arbeitet an der Ader, nicht an der Haut'}${p.topPraxis.foundedYear ? `\nSeit ${p.topPraxis.foundedYear}` : ''}${p.topPraxis.doctor ? ` · ${p.topPraxis.doctor}${p.topPraxis.qualification ? ', ' + p.topPraxis.qualification : ''}` : ''}\n→ Erstgespräch anfragen: ${p.recoveryUrl}\n(Du verpflichtest dich zu nichts.)`
+    ? `\n\nEINE PRAXIS, DIE ZU DEINEM PROFIL PASST:\n${p.topPraxis.name} (${p.topPraxis.city}${p.topPraxis.district ? ', ' + p.topPraxis.district : ''})\n${p.topPraxis.methods.slice(0, 3).join(' · ')}\n${p.isFace ? 'Dermatologie - arbeitet an der Kapillarader im Gesicht' : 'Phlebologie - arbeitet an der Ader, nicht an der Haut'}${p.topPraxis.foundedYear ? `\nSeit ${p.topPraxis.foundedYear}` : ''}${p.topPraxis.doctor ? ` · ${p.topPraxis.doctor}${p.topPraxis.qualification ? ', ' + p.topPraxis.qualification : ''}` : ''}\n→ Erstgespräch anfragen: ${p.recoveryUrl}\n(Du verpflichtest dich zu nichts.)`
     : ''
 
   const pivotText = p.isFace
@@ -778,7 +779,7 @@ function renderEmailText(p: EmailPayload): string {
 
 Das ist kein Versagen deiner Pflege. Das ist eine Frage des Wirkorts.`
     : `Eine Besenreiser-Ader liegt im Mittel 0,46 mm unter der Hautoberfläche.[1]
-Cremes wirken hauptsächlich in der Hornschicht — etwa 0,02 mm tief.[2]
+Cremes wirken hauptsächlich in der Hornschicht - etwa 0,02 mm tief.[2]
 
 Das ist kein Versagen deiner Cremes. Das ist eine Frage der Tiefe.`
 
@@ -786,7 +787,7 @@ Das ist kein Versagen deiner Cremes. Das ist eine Frage der Tiefe.`
     ? `An die Ader selbst kommen in der Dermatologie folgende Verfahren:
 
 LASER (z.B. KTP, Nd:YAG)
-Lichtimpulse von außen, koagulieren die feine Kapillarader. Bei dunkleren Hauttypen wird üblicherweise Nd:YAG (1064 nm) eingesetzt — diese Wellenlänge wird vom Hautpigment kaum aufgenommen.`
+Lichtimpulse von außen, koagulieren die feine Kapillarader. Bei dunkleren Hauttypen wird üblicherweise Nd:YAG (1064 nm) eingesetzt - diese Wellenlänge wird vom Hautpigment kaum aufgenommen.`
     : `An die Ader selbst kommen zwei Methoden:
 
 SKLEROTHERAPIE
@@ -800,8 +801,8 @@ Lichtimpulse von außen, koagulieren die Ader. Gut bei sehr feinen Oberflächen-
     : `
 
 ---
-[1] Mittlere Tiefe von Besenreisern (Teleangiektasien) im superficialen Korium. Quelle: Plastic Surgery Key — Pathophysiology of Telangiectasias.
-[2] Hornschicht-Dicke (Stratum corneum) typisch 10-20 µm. Topisch applizierte Cremes ohne Penetration-Enhancer werden tiefer meist nicht nachweisbar. Quelle: PMC — Determination of Stratum Corneum Thickness.`
+[1] Mittlere Tiefe von Besenreisern (Teleangiektasien) im superficialen Korium. Quelle: Plastic Surgery Key - Pathophysiology of Telangiectasias.
+[2] Hornschicht-Dicke (Stratum corneum) typisch 10-20 µm. Topisch applizierte Cremes ohne Penetration-Enhancer werden tiefer meist nicht nachweisbar. Quelle: PMC - Determination of Stratum Corneum Thickness.`
 
   return `${greetingPrefix}${h1}
 
@@ -825,13 +826,13 @@ ${p.topPraxis ? `→ Alle Praxen${stadtCta} ansehen: ${p.recoveryUrl}` : `→ Pr
 DREI SACHEN, DIE VIELE VORHER FRAGEN:
 
 "Verpflichte ich mich, wenn ich anfrage?"
-Nein. Eine Anfrage ist eine Anfrage. Wenn die Praxis sich meldet, kannst du einen Termin annehmen, einen anderen vorschlagen oder nicht antworten — alles okay. Du bist zu nichts verpflichtet.
+Nein. Eine Anfrage ist eine Anfrage. Wenn die Praxis sich meldet, kannst du einen Termin annehmen, einen anderen vorschlagen oder nicht antworten - alles okay. Du bist zu nichts verpflichtet.
 
 "Was kostet das Erstgespräch?"
 In vielen Praxen kostenfrei oder im niedrigen 2-stelligen Bereich. Behandlung später typischerweise 80-300 € pro Sitzung. Reine Besenreiser-Behandlung gilt meistens als kosmetisch und wird von gesetzlichen Kassen nicht übernommen.
 
 "Wie schnell bekomme ich einen Termin?"
-In den meisten Praxen 1-3 Wochen. Frag bei 2-3 Praxen gleichzeitig an — die schnellste antwortet zuerst. Praxen erwarten das.
+In den meisten Praxen 1-3 Wochen. Frag bei 2-3 Praxen gleichzeitig an - die schnellste antwortet zuerst. Praxen erwarten das.
 
 
 → Mein Erstgespräch anfragen: ${p.recoveryUrl}

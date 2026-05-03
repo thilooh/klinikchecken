@@ -167,7 +167,7 @@ export default function Step12ResultV4({ answers, lead, profile, onReset, varian
       {/* Multi-Anfrage tip - lifts the "ich darf nur eine anfragen"
           ceiling. Strategically valuable: more leads per user. */}
       <p style={{ fontSize: '13px', color: '#444', backgroundColor: '#FFF8E1', border: '1px solid #F5DD8C', padding: '10px 12px', borderRadius: '4px', marginBottom: '16px', lineHeight: 1.5 }}>
-        💡 <strong>Tipp:</strong> Frag bei 2-3 Praxen gleichzeitig an. Antwortzeiten und Termine variieren — Praxen erwarten das.
+        💡 <strong>Tipp:</strong> Frag bei 2-3 Praxen gleichzeitig an. Antwortzeiten und Termine variieren - Praxen erwarten das.
       </p>
 
       {/* Praxen list */}
@@ -220,7 +220,7 @@ export default function Step12ResultV4({ answers, lead, profile, onReset, varian
           marginBottom: drawerOpen ? '8px' : '20px',
         }}
       >
-        <span>Warum diese Praxen — und nicht Cremes oder Kompression?</span>
+        <span>Warum diese Praxen - und nicht Cremes oder Kompression?</span>
         {drawerOpen ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
       </button>
       {drawerOpen && (
@@ -234,7 +234,7 @@ export default function Step12ResultV4({ answers, lead, profile, onReset, varian
 
       {/* UWG-required transparency line - paid placements + sort logic. */}
       <p style={{ fontSize: '11px', color: '#888', marginTop: '8px', marginBottom: '20px', padding: '0 4px', lineHeight: 1.5 }}>
-        ℹ️ Die Reihenfolge basiert auf Methoden-Übereinstimmung mit deinen Angaben sowie Entfernung. Mit <strong>„Anzeige"</strong> markierte Praxen sind zahlende Premium-Partner — die Auswahl der gezeigten Praxen ist unabhängig vom Premium-Status.
+        ℹ️ Die Reihenfolge basiert auf Methoden-Übereinstimmung mit deinen Angaben sowie Entfernung. Mit <strong>„Anzeige"</strong> markierte Praxen sind zahlende Premium-Partner - die Auswahl der gezeigten Praxen ist unabhängig vom Premium-Status.
       </p>
 
       <div style={{ textAlign: 'center', marginBottom: '20px' }}>

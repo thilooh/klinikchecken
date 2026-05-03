@@ -103,7 +103,7 @@ export default function PraxisCardV4({ praxis, ctaColor, onContact, isTopMatch }
 
         {/* Villain-Match - discipline + reframe anchor */}
         <div style={{ fontSize: '13px', color: '#444', marginBottom: '10px', lineHeight: 1.4 }}>
-          <strong>{discipline.name}</strong> — {discipline.reframe}
+          <strong>{discipline.name}</strong> - {discipline.reframe}
         </div>
 
         {/* Promise - distance + opening */}
