@@ -14,7 +14,7 @@
 // writes to the GAS Termin_Anfragen tab.
 
 import { useEffect, useMemo, useState } from 'react'
-import { ChevronDown, ChevronUp, MapPin, RotateCcw, Sparkles } from 'lucide-react'
+import { ChevronDown, ChevronUp, MapPin, RotateCcw, Sparkles, Star } from 'lucide-react'
 import type { QuizAnswers, QuizLead, ComputedProfile } from '../../lib/quizState'
 import {
   getAuspraegungLabel,
@@ -53,6 +53,42 @@ function disciplineFor(praxis: ScoredPraxis): { name: string; reframe: string } 
     return { name: 'Dermatologie', reframe: 'arbeitet an der Kapillarader im Gesicht' }
   }
   return { name: 'Phlebologie / Dermatologie', reframe: 'arbeitet an der Ader' }
+}
+
+// Match-reason line - tells the visitor WHY this specific practice
+// matches her profile. Without this the "DEIN MATCH" badge is just
+// a claim; with it the badge has Hopkins-style reason-why backing.
+// Picks the most-specific reason available given the user's quiz
+// answers + the practice's methods. Returns null when nothing
+// matches (rare - falls back to "DEIN MATCH" badge alone).
+function matchReason(praxis: ScoredPraxis, answers: QuizAnswers): string | null {
+  const isFace = answers.q1_lokalisation === 'gesicht'
+  const groesse = answers.q3_groesse
+  const hauttyp = answers.q4_hauttyp
+  const methods = new Set(praxis.methods)
+
+  if (!isFace && groesse === 'flaechig' && methods.has('Schaumsklerotherapie')) {
+    return 'Diese Praxis bietet Schaumsklerotherapie - bei flächigen Befunden wie deinem die Methode der Wahl.'
+  }
+  if (hauttyp === 'dunkler' && methods.has('Laser (Nd:YAG)')) {
+    return 'Diese Praxis arbeitet mit Nd:YAG (1064 nm) - der sicheren Wellenlänge für deinen Hauttyp.'
+  }
+  if (!isFace && groesse === 'fein' && (methods.has('Laser (Nd:YAG)') || methods.has('KTP-Laser'))) {
+    return 'Diese Praxis bietet Laser-Verfahren - bei sehr feinen Adern wie deinen oft erste Wahl.'
+  }
+  if (!isFace && (groesse === 'mittel' || groesse === 'groesser') && methods.has('Sklerotherapie')) {
+    return 'Diese Praxis bietet Sklerotherapie - bei mittleren bis größeren Adern Standard.'
+  }
+  if (isFace && (methods.has('Laser (Nd:YAG)') || methods.has('KTP-Laser') || methods.has('IPL'))) {
+    return 'Diese Praxis arbeitet mit Laser-Verfahren, die direkt an der Kapillarader im Gesicht ansetzen.'
+  }
+  if (methods.has('Sklerotherapie') || methods.has('Schaumsklerotherapie')) {
+    return 'Diese Praxis bietet Sklero-Verfahren, die direkt an der Ader arbeiten.'
+  }
+  if (methods.has('Laser (Nd:YAG)') || methods.has('KTP-Laser')) {
+    return 'Diese Praxis arbeitet mit Laser-Verfahren, die direkt an der Ader arbeiten.'
+  }
+  return null
 }
 
 export default function Step12ResultV4({ answers, lead, profile, onReset }: Props) {
@@ -111,7 +147,7 @@ export default function Step12ResultV4({ answers, lead, profile, onReset }: Prop
         </p>
       </div>
 
-      {topPraxis && <FeaturedPraxisCard praxis={topPraxis} />}
+      {topPraxis && <FeaturedPraxisCard praxis={topPraxis} answers={answers} />}
 
       {topPraxis ? (
         <TerminWidget praxis={topPraxis} lead={lead} answers={answers} profile={profile} />
@@ -248,30 +284,48 @@ export default function Step12ResultV4({ answers, lead, profile, onReset }: Prop
 // "Erstgespräch anfragen" CTA, because the calendar widget below is
 // the action surface. Visually distinct (slightly larger) so it
 // reads as "your match" rather than just an item in a list.
-function FeaturedPraxisCard({ praxis }: { praxis: ScoredPraxis }) {
+//
+// Adds vs PraxisCardV4: DEIN-MATCH badge, match-reason line that
+// justifies the badge with quiz-aware specificity, Google rating
+// row when available (UWG-defensible social proof, no marketing
+// claim). Also dedupes doctor / qualification when they hold the
+// same string and hides distance when 0 km (same-city case).
+function FeaturedPraxisCard({ praxis, answers }: { praxis: ScoredPraxis; answers: QuizAnswers }) {
   const isPaidPartner = praxis.tier === 'premium_plus' || praxis.tier === 'premium'
   const openToday = isOpenToday(praxis.openHours)
   const appointmentOnly = isAppointmentOnly(praxis.openHours)
   const discipline = disciplineFor(praxis)
+  const reason = matchReason(praxis, answers)
 
-  const distanceText = Number.isFinite(praxis.distanceKm) ? `${praxis.distanceKm} km` : null
+  const distanceText = Number.isFinite(praxis.distanceKm) && praxis.distanceKm > 0
+    ? `${praxis.distanceKm} km`
+    : null
   const openText = appointmentOnly
     ? 'Termin nach Vereinbarung'
     : openToday
       ? `Heute geöffnet${praxis.openHours ? ` · ${praxis.openHours.split(/,\s*/)[0]}` : ''}`
       : 'Heute geschlossen'
 
+  // Doctor / qualification dedupe - some clinic rows have the same
+  // text in both fields (e.g. "Facharzt für Innere Medizin und
+  // Angiologie") which previously printed the string twice.
   const proofParts: string[] = []
   if (praxis.foundedYear) proofParts.push(`Seit ${praxis.foundedYear}`)
-  if (praxis.doctor) {
-    proofParts.push(praxis.qualification ? `${praxis.doctor}, ${praxis.qualification}` : praxis.doctor)
-  } else if (praxis.qualification) {
-    proofParts.push(praxis.qualification)
+  const doctorTrim = (praxis.doctor || '').trim()
+  const qualTrim = (praxis.qualification || '').trim()
+  if (doctorTrim && qualTrim && doctorTrim !== qualTrim) {
+    proofParts.push(`${doctorTrim}, ${qualTrim}`)
+  } else if (doctorTrim) {
+    proofParts.push(doctorTrim)
+  } else if (qualTrim) {
+    proofParts.push(qualTrim)
   }
   const proof = proofParts.join(' · ')
 
+  const hasRating = praxis.googleRating && praxis.googleRating > 0 && praxis.googleReviewCount && praxis.googleReviewCount > 0
+
   return (
-    <div style={{ marginBottom: '14px', position: 'relative' }}>
+    <div style={{ marginBottom: '16px', position: 'relative' }}>
       {isPaidPartner && (
         <div style={{
           display: 'inline-flex', alignItems: 'center', gap: '6px',
@@ -305,16 +359,30 @@ function FeaturedPraxisCard({ praxis }: { praxis: ScoredPraxis }) {
           {praxis.name}
         </h2>
 
+        {hasRating && (
+          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '10px' }}>
+            <Star size={15} color="#FFB400" fill="#FFB400" />
+            <span style={{ fontSize: '14px', fontWeight: 700, color: '#0A1F44' }}>{praxis.googleRating!.toFixed(1)}</span>
+            <span style={{ fontSize: '12px', color: '#666' }}>· {praxis.googleReviewCount} Google-Bewertungen</span>
+          </div>
+        )}
+
         <div style={{ fontSize: '14px', color: '#0A1F44', fontWeight: 600, marginBottom: '4px' }}>
           {praxis.methods.join(' · ')}
         </div>
 
-        <div style={{ fontSize: '13px', color: '#444', marginBottom: '12px', lineHeight: 1.5 }}>
+        <div style={{ fontSize: '13px', color: '#444', marginBottom: reason ? '10px' : '12px', lineHeight: 1.5 }}>
           <strong>{discipline.name}</strong> - {discipline.reframe}
         </div>
 
-        <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '13px', color: '#555', marginBottom: proof ? '6px' : '0' }}>
-          <MapPin size={13} style={{ flexShrink: 0 }} />
+        {reason && (
+          <div style={{ fontSize: '13px', color: '#0A1F44', lineHeight: 1.5, padding: '10px 12px', backgroundColor: '#F4F7FF', border: '1px solid #DDE3F5', borderRadius: '4px', marginBottom: '12px' }}>
+            ✓ {reason}
+          </div>
+        )}
+
+        <div style={{ display: 'flex', alignItems: 'flex-start', gap: '6px', fontSize: '13px', color: '#555', marginBottom: proof ? '6px' : '0' }}>
+          <MapPin size={13} style={{ flexShrink: 0, marginTop: '2px' }} />
           <span>
             {distanceText && <>{distanceText} · </>}
             {praxis.city}{praxis.district ? ` · ${praxis.district}` : ''} · <span style={{ color: appointmentOnly ? '#0052CC' : openToday ? '#00A651' : '#CC0000', fontWeight: 600 }}>{openText}</span>
