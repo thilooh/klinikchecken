@@ -173,7 +173,7 @@ export default function TerminWidget({ praxis, lead, answers, profile }: Props) 
   return (
     <div style={{ backgroundColor: '#fff', border: '1px solid #DDE3F5', borderRadius: '8px', padding: '20px 18px', marginBottom: '20px' }}>
       <h3 style={{ fontSize: '17px', fontWeight: 700, color: '#0A1F44', marginTop: 0, marginBottom: '4px' }}>
-        Wann passt&apos;s dir?
+        Sicher dir deinen Erstgespräch-Termin bei {praxis.name}.
       </h3>
       <p style={{ fontSize: '13px', color: '#666', marginTop: 0, marginBottom: '16px', lineHeight: 1.5 }}>
         Wähl 1 bis 3 Wunsch-Zeiten. Die Praxis bestätigt einen davon innerhalb 1-2 Werktagen.
@@ -223,7 +223,7 @@ export default function TerminWidget({ praxis, lead, answers, profile }: Props) 
 
       {selected.length > 0 && (
         <div style={{ backgroundColor: '#F4F7FF', border: '1px solid #DDE3F5', borderRadius: '4px', padding: '10px 12px', marginBottom: '14px', fontSize: '13px', color: '#0A1F44', lineHeight: 1.5 }}>
-          <strong>{selected.length} {selected.length === 1 ? 'Slot' : 'Slots'} gewählt:</strong>{' '}
+          <strong>{selected.length} {selected.length === 1 ? 'Wunsch-Zeit' : 'Wunsch-Zeiten'} gewählt:</strong>{' '}
           {selected.map((s, i) => {
             const dayDate = days.find(d => formatDateKey(d) === s.date)
             return (
@@ -270,6 +270,16 @@ export default function TerminWidget({ praxis, lead, answers, profile }: Props) 
         </div>
       )}
 
+      {/* Trust microsignals moved ABOVE the submit button - Hormozi
+          risk-reversal-before-decision. The user reads "verpflichtest
+          dich zu nichts" while still hovering over the CTA, not after
+          having already decided. */}
+      <div style={{ marginBottom: '12px', display: 'flex', flexDirection: 'column', gap: '4px', fontSize: '12px', color: '#0A7C4A', lineHeight: 1.4 }}>
+        <span>✓ Du verpflichtest dich zu nichts.</span>
+        <span>✓ Antwort kommt direkt von der Praxis.</span>
+        <span>✓ Erstgespräch kostenfrei oder im niedrigen 2-stelligen Bereich.</span>
+      </div>
+
       <button
         type="button"
         onClick={submit}
@@ -287,12 +297,6 @@ export default function TerminWidget({ praxis, lead, answers, profile }: Props) 
           ? <><Loader2 size={16} style={{ animation: 'spin 1s linear infinite' }} /> Wird gesichert…</>
           : 'Wunsch-Termin sichern →'}
       </button>
-
-      <div style={{ marginTop: '10px', display: 'flex', flexDirection: 'column', gap: '4px', fontSize: '11px', color: '#888', textAlign: 'center', fontStyle: 'italic' }}>
-        <span>✓ Du verpflichtest dich zu nichts.</span>
-        <span>✓ Antwort kommt direkt von der Praxis.</span>
-        <span>✓ Erstgespräch kostenfrei oder im niedrigen 2-stelligen Bereich.</span>
-      </div>
     </div>
   )
 }

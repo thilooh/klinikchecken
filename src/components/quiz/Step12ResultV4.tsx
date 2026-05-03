@@ -142,7 +142,7 @@ export default function Step12ResultV4({ answers, lead, profile, onReset }: Prop
         </h1>
         <p style={{ fontSize: '14px', color: '#444', margin: 0, lineHeight: 1.5 }}>
           {topPraxis
-            ? `Wähl 1-3 Wunsch-Zeiten unten. ${topPraxis.name} bestätigt einen davon innerhalb von 1-2 Werktagen.`
+            ? `Wähl unten 1-3 Wunsch-Zeiten. ${topPraxis.name} schaut sich ${isFace ? 'deine Adern im Gesicht' : 'deine Beine'} an, sagt dir was sie sieht und macht einen konkreten Behandlungsvorschlag.`
             : 'Wir laden gleich passende Praxen für dich.'}
         </p>
       </div>
@@ -178,7 +178,7 @@ export default function Step12ResultV4({ answers, lead, profile, onReset }: Prop
               marginBottom: otherOpen ? '8px' : '12px',
             }}
           >
-            <span>{`${otherPraxen.length} weitere Praxen in ${cityLabel}`}</span>
+            <span>{topPraxis ? `Falls ${topPraxis.name} nicht passt: ${otherPraxen.length} andere in ${cityLabel}` : `${otherPraxen.length} weitere Praxen in ${cityLabel}`}</span>
             {otherOpen ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
           {otherOpen && otherPraxen.map(p => (
@@ -360,10 +360,19 @@ function FeaturedPraxisCard({ praxis, answers }: { praxis: ScoredPraxis; answers
         </h2>
 
         {hasRating && (
-          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '10px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '12px' }}>
             <Star size={15} color="#FFB400" fill="#FFB400" />
             <span style={{ fontSize: '14px', fontWeight: 700, color: '#0A1F44' }}>{praxis.googleRating!.toFixed(1)}</span>
             <span style={{ fontSize: '12px', color: '#666' }}>· {praxis.googleReviewCount} Google-Bewertungen</span>
+          </div>
+        )}
+
+        {/* Match-reason directly under name+rating - Schwartz hierarchy:
+            experienced-benefit before features. Reason justifies the
+            DEIN-MATCH badge before the user reads methods+discipline. */}
+        {reason && (
+          <div style={{ fontSize: '13px', color: '#0A1F44', lineHeight: 1.5, padding: '10px 12px', backgroundColor: '#F4F7FF', border: '1px solid #DDE3F5', borderRadius: '4px', marginBottom: '12px' }}>
+            ✓ {reason}
           </div>
         )}
 
@@ -371,15 +380,9 @@ function FeaturedPraxisCard({ praxis, answers }: { praxis: ScoredPraxis; answers
           {praxis.methods.join(' · ')}
         </div>
 
-        <div style={{ fontSize: '13px', color: '#444', marginBottom: reason ? '10px' : '12px', lineHeight: 1.5 }}>
+        <div style={{ fontSize: '13px', color: '#444', marginBottom: '12px', lineHeight: 1.5 }}>
           <strong>{discipline.name}</strong> - {discipline.reframe}
         </div>
-
-        {reason && (
-          <div style={{ fontSize: '13px', color: '#0A1F44', lineHeight: 1.5, padding: '10px 12px', backgroundColor: '#F4F7FF', border: '1px solid #DDE3F5', borderRadius: '4px', marginBottom: '12px' }}>
-            ✓ {reason}
-          </div>
-        )}
 
         <div style={{ display: 'flex', alignItems: 'flex-start', gap: '6px', fontSize: '13px', color: '#555', marginBottom: proof ? '6px' : '0' }}>
           <MapPin size={13} style={{ flexShrink: 0, marginTop: '2px' }} />
