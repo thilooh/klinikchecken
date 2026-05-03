@@ -13,7 +13,7 @@
 // calendar widget routes a separate /termin-buchen function that
 // writes to the GAS Termin_Anfragen tab.
 
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState, lazy, Suspense } from 'react'
 import { ChevronDown, ChevronUp, MapPin, RotateCcw, Sparkles, Star } from 'lucide-react'
 import type { QuizAnswers, QuizLead, ComputedProfile } from '../../lib/quizState'
 import {
@@ -32,6 +32,10 @@ import ComparisonTable from './ComparisonTable'
 import PraxisCardV4 from './PraxisCardV4'
 import AnfrageModal from './AnfrageModal'
 import TerminWidget from './TerminWidget'
+
+// Lazy-loaded so the modal stays out of the main bundle - only
+// downloaded when the user clicks the rating row.
+const GoogleReviewsModal = lazy(() => import('../GoogleReviewsModal'))
 
 interface Props {
   answers: QuizAnswers
@@ -296,6 +300,23 @@ function FeaturedPraxisCard({ praxis, answers }: { praxis: ScoredPraxis; answers
   const appointmentOnly = isAppointmentOnly(praxis.openHours)
   const discipline = disciplineFor(praxis)
   const reason = matchReason(praxis, answers)
+  const [showReviews, setShowReviews] = useState(false)
+
+  // Click handler - if we have a placeId we can show the rich
+  // GoogleReviewsModal (rendered text + author + time). If not we
+  // fall back to opening Google Maps in a new tab so the user still
+  // gets to read the reviews, just on Google's side.
+  const openReviews = () => {
+    if (praxis.placeId) {
+      setShowReviews(true)
+    } else {
+      window.open(
+        `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(praxis.name + ' ' + (praxis.address || ''))}`,
+        '_blank',
+        'noopener,noreferrer',
+      )
+    }
+  }
 
   const distanceText = Number.isFinite(praxis.distanceKm) && praxis.distanceKm > 0
     ? `${praxis.distanceKm} km`
@@ -360,11 +381,20 @@ function FeaturedPraxisCard({ praxis, answers }: { praxis: ScoredPraxis; answers
         </h2>
 
         {hasRating && (
-          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '12px' }}>
+          <button
+            type="button"
+            onClick={openReviews}
+            style={{
+              display: 'inline-flex', alignItems: 'center', gap: '6px',
+              marginBottom: '12px', padding: 0, background: 'none', border: 'none',
+              cursor: 'pointer', textAlign: 'left',
+            }}
+          >
             <Star size={15} color="#FFB400" fill="#FFB400" />
             <span style={{ fontSize: '14px', fontWeight: 700, color: '#0A1F44' }}>{praxis.googleRating!.toFixed(1)}</span>
-            <span style={{ fontSize: '12px', color: '#666' }}>· {praxis.googleReviewCount} Google-Bewertungen</span>
-          </div>
+            <span style={{ fontSize: '12px', color: '#003399', fontWeight: 600, textDecoration: 'underline' }}>· {praxis.googleReviewCount} Google-Bewertungen lesen</span>
+            <span style={{ color: '#003399', fontSize: '13px' }}>›</span>
+          </button>
         )}
 
         {/* Match-reason directly under name+rating - Schwartz hierarchy:
@@ -398,6 +428,11 @@ function FeaturedPraxisCard({ praxis, answers }: { praxis: ScoredPraxis; answers
           </div>
         )}
       </div>
+      {showReviews && (
+        <Suspense fallback={null}>
+          <GoogleReviewsModal clinic={praxis} onClose={() => setShowReviews(false)} />
+        </Suspense>
+      )}
     </div>
   )
 }
