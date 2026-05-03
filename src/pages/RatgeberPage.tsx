@@ -32,10 +32,13 @@ const ARTICLES: ArticleCard[] = [
     live: false,
   },
   {
-    title: 'Was eine Besenreiser-Behandlung kostet',
+    title: 'Besenreiser entfernen: Kosten 2026 im Überblick',
     description:
-      'Preise variieren stark je nach Praxis, Region und Methode. Was du realistisch einplanen solltest - und woran du überhöhte Angebote erkennst.',
-    live: false,
+      'Was eine Besenreiser-Entfernung wirklich kostet - Preise pro Sitzung, Gesamtkosten für beide Beine und was die Krankenkasse übernimmt.',
+    href: '/ratgeber/besenreiser-entfernen-kosten',
+    date: '3. Mai 2026',
+    readTime: '9 Min',
+    live: true,
   },
   {
     title: 'Besenreiser oder Krampfader? Den Unterschied erkennen',
