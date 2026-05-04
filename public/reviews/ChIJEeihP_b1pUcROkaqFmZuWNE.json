@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Elvira",
+      "author_url": "https://www.google.com/maps/contrib/108692948541907732805/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTtLMePLOutLfNYcgPuos5PYv5Q3Bw9UcV6HG4-vx5FhUETg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bloß Hände weg von dieser Praxis!\nSehr, sehr unfreundliches, unhöflich und überhaupt nicht hilfsbereites Personal. Besonders blonde Anmeldeschwester! Bin Langzeitpatient. Donnerstag: Aussage:\"Neuer Untersuchungstermin geht nicht. Nur online.Und da braucht man es auch nicht versuchen, da es keine  Termine bis August 2026 gibt. Ausschließlich Krebsvorsorge.\" Die Krönung: Mein Rezept wurde nicht auf der KKarte gespeichert.....bereits 2x in der Apotheke deshalb angetreten. Daher Montag zum Wochenstart nochmaliges Erscheinen in der Praxis meinerseits..... \"Antwort, ja wird vorraussichtlich erst morgen vom Doc bearbeitet, muss er erst noch elektronisch freigeben. Ich solle doch bei DocMorris auf der App nachschauen, ob es und wann es vielleicht freigegeben wurde. App -DocMorris kenne ich nicht - will ich auch nicht- soviel zum Thema Hilfsbereitschaft. Die Bezeichnung Anmeldeschwester ist keinen Cent wert! Ach ja, die telefonische Erreichbarkeit => N U L L!\nDiese Praxis schaufelt gerade ihr eigenes Grab! Bye, ihr seht mich nie wieder!",
+      "time": 1777879505,
+      "translated": false
+    },
+    {
       "author_name": "Jolina S.",
       "author_url": "https://www.google.com/maps/contrib/105105895344462730099/reviews",
       "language": "de",
@@ -98,11 +110,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 117,
+  "reviewCount": 118,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-01T07:24:59.302Z"
+  "lastUpdated": "2026-05-04T07:46:39.816Z"
 }

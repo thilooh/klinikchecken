@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Frank Köhne",
+      "author_url": "https://www.google.com/maps/contrib/111583605587176193187/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5gjiX8MqtkDBE4lkPmJnViRMZNQZ82dqSToirSTok-U-7HaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr freundlich, sauber, gute Beratung, keine große Wartezeit, was braucht man mehr.",
+      "time": 1772464799,
+      "translated": false
+    },
+    {
       "author_name": "Sorosh A",
       "author_url": "https://www.google.com/maps/contrib/114147161938167748519/reviews",
       "language": "de",
@@ -62,5 +74,5 @@
   "rating": 2.3,
   "reviewCount": 95,
   "summary": [],
-  "lastUpdated": "2026-05-01T07:24:49.046Z"
+  "lastUpdated": "2026-05-04T07:46:30.172Z"
 }

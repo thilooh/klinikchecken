@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "SmvNVw AwByDq",
+      "author_url": "https://www.google.com/maps/contrib/102031152276474561988/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI-SzpzlyaYicnewT2cSj1OkaU8KJ8NFOBwYWzJP9WxAeEoQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Medizinerin hat sich eine Hautveränderung angeschaut und wollte diese ohne Diagnose, oder weitere Diagnostik rausschneiden.",
+      "time": 1777802505,
+      "translated": false
+    },
+    {
       "author_name": "Peter Hüttenwirth",
       "author_url": "https://www.google.com/maps/contrib/109793432815539218534/reviews",
       "language": "de",
@@ -122,5 +134,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-01T07:25:18.069Z"
+  "lastUpdated": "2026-05-04T07:46:57.871Z"
 }

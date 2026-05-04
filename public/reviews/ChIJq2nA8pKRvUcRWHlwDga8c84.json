@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Soviha Krause",
+      "author_url": "https://www.google.com/maps/contrib/100373748634574959667/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXLtHxAQafDUG99EfDt0tVXw5priE4Geo5xqxn6c4Oulh5eA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Am Anfang hatte ich beim telefonischen Vorgespräch zunächst den Eindruck, dass alles gut organisiert war. Auch meine möglichen Uhrzeiten für einn Termin und die Beratung wurde in Ruhe besprochen/durchgeführt und es wurde sich Zeit genommen.\n\nMein Wunsch, von einer Frau behandelt zu werden, wurde dabei angesprochen und später auch an der Rezeption noch einmal erwähnt. Trotzdem kam es dann vor Ort zu einer kurzen Verwechslung, sodass ich zunächst einem männlichen Behandler zugeordnet wurde. Wo genau die Information verloren gegangen ist, kann ich nicht sagen, das wurde dann aber schnell und unkompliziert geklärt.\n\nDie Untersuchung selbst war für mich ehrlich gesagt ziemlich ungewohnt, aber die Mitarbeiterin (Isabell) hat die Situation sehr angenehm und ruhig, mit Witz gestaltet, sodass ich mich trotz Nervosität wohlgefühlt habe.\n\nAuch die Ärztin (Dr. Steiner) war sehr freundlich und hat sich Zeit genommen und mir einige Tipps gegeben, was ich super fand.\n\nInsgesamt habe ich mich bei beiden gut aufgehoben gefühlt und einen weiteren Termin ausgemacht, auch wenn die Behandlung an sich natürlich keine alltägliche oder besonders angenehme Situation ist.\n\n5 Sterne für die Arbeit von Isabell und Dr. Steiner!\n\nBis zum nächsten mal.",
+      "time": 1777755234,
+      "translated": false
+    },
+    {
       "author_name": "Abbi kelly",
       "author_url": "https://www.google.com/maps/contrib/107377083998589560654/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi1Q4QiKXtCpb24Vf9UWolCOfND93aMfv5eI8UZHckyFZJEA=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Über die Praxis selbst kann ich noch keine Bewertung abgeben da es beim 1. Termin aus Gründen nicht zu einer Behandlung kam (darum „nur“ 4 Sterne) …. aber über Herrn Joseph Schwerdt — von ihm wurde ich angerufen. Er informierte mich über gewisse Änderungen bzgl. Leistungen der KK und vereinbarte mit mir einen neuen Termin. Herr Schwerdt war sehr freundlich und aufmerksam - vielen Dank für das angenehme Telefonat.",
+      "time": 1777096262,
+      "translated": false
+    },
+    {
+      "author_name": "C M",
+      "author_url": "https://www.google.com/maps/contrib/105643595587443331524/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi1Q4QiKXtCpb24Vf9UWolCOfND93aMfv5eI8UZHckyFZJEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Über die Praxis selbst kann ich noch keine Bewertung abgeben da es beim 1. Termin aus Gründen nicht zu einer Behandlung kam (darum „nur“ 4 Sterne) …. aber über Herrn Joseph Schwerdt — von ihm wurde ich angerufen. Er informierte mich über gewisse Änderungen bzgl. Leistungen der KK und vereinbarte mit mir einen neuen Termin. Herr Schwerdt war sehr freundlich und aufmerksam - vielen Dank für das angenehme Telefonat.",
       "time": 1777096262,
       "translated": false
@@ -116,5 +140,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-01T07:25:13.900Z"
+  "lastUpdated": "2026-05-04T07:46:53.904Z"
 }

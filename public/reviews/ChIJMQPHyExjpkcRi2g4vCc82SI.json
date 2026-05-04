@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sandra. 0107",
+      "author_url": "https://www.google.com/maps/contrib/100268946677287328141/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgMwd3UP91hH0J9KUXcQFglav3jIRb6BAejJK1X0NU2UFEO3Ye=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr respektvoller Umgang mit den Patienten in einem schönen Ambiente. Danke an Frau Dr. Guellil für das tolle Ergebnis.",
+      "time": 1777644296,
+      "translated": false
+    },
+    {
       "author_name": "christin katzmann",
       "author_url": "https://www.google.com/maps/contrib/108669400431506035689/reviews",
       "language": "de",
@@ -104,11 +116,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 86,
+  "reviewCount": 87,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-01T07:25:16.384Z"
+  "lastUpdated": "2026-05-04T07:46:56.264Z"
 }

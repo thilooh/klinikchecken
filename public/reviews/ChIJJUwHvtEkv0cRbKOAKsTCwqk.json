@@ -39,6 +39,16 @@
       "time": 1772650245
     },
     {
+      "author_name": "Astrid Nöcker",
+      "author_url": "https://www.google.com/maps/contrib/104785910805456301156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyLD-4mryv25Ca2vcOpLunyxcS4pipvE5zccr8INH1nqz22g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1772650245,
+      "translated": false
+    },
+    {
       "author_name": "Richard Krause",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
@@ -75,5 +85,5 @@
   "rating": 4.8,
   "reviewCount": 73,
   "summary": [],
-  "lastUpdated": "2026-05-01T07:24:46.000Z"
+  "lastUpdated": "2026-05-04T07:46:27.301Z"
 }

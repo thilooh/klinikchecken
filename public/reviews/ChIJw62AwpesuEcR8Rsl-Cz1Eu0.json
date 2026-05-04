@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Rudolf Wetzels",
+      "author_url": "https://www.google.com/maps/contrib/101828436028492841806/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaCEecVruV48iYfnN56wTYE_DSIY5wn_phYNNzd1x41LrXNu8K8g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777669847,
+      "translated": false
+    },
+    {
       "author_name": "Schmitz Frank",
       "author_url": "https://www.google.com/maps/contrib/101325039570857464416/reviews",
       "language": "de",
@@ -74,11 +84,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-01T07:25:17.351Z"
+  "lastUpdated": "2026-05-04T07:46:57.157Z"
 }

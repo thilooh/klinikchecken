@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Erich Zeus",
+      "author_url": "https://www.google.com/maps/contrib/106693524849823046823/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgUBAMKWzCTBHWXHyngQfZVhI42LU19wNxjBWiEiLWye9pUw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777758267,
+      "translated": false
+    },
+    {
+      "author_name": "Marion Hahn",
+      "author_url": "https://www.google.com/maps/contrib/115093838080213727502/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbDDRdHLioxCnIQ_4cZacgIx1Hn6g5sVRVxIV4w4k6MWKw3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte eine Venen- OP. Von der Diagnostik bis zur OP und der Nachbehandlung fühlte ich mich bestens aufgehoben. Neben der hervorragenden Aufklärung und Behandlung möchte ich den sehr wertschätzenden Umgang aller Mitarbeitenden betonen. Ein großes Dankeschön an die Abteilung der Phlebologie und an die Tagesklinik. Würde ich jederzeit weiterempfehlen.",
+      "time": 1777664692,
+      "translated": false
+    },
+    {
       "author_name": "Judith Wimmer - Feng Shui & Coaching",
       "author_url": "https://www.google.com/maps/contrib/117565103442699321005/reviews",
       "language": "de",
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxk9fQFzXpJ6iTTpwW4VloPUTt_ys6h8LSGY3U5AGo8LkY_RZSpg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur Abklärung eines Leidens für drei Tage vor Ort und ich habe mich auf der Station wohl gefühlt. Die Zimmerausstattung war OK und das (kostenpflichtige) WLAN hervorragend. Ein Spaziergang im Klinikgarten ist sehr angenehm. Die Mitarbeiter waren freundlich und zuvorkommend und auf meine Wünsche wurde eingegangen.",
+      "time": 1777192516,
+      "translated": false
+    },
+    {
+      "author_name": "Günter Schütz",
+      "author_url": "https://www.google.com/maps/contrib/100964819932041747579/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxk9fQFzXpJ6iTTpwW4VloPUTt_ys6h8LSGY3U5AGo8LkY_RZSpg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war zur Abklärung eines Leidens für drei Tage vor Ort und ich habe mich auf der Station wohl gefühlt. Die Zimmerausstattung war OK und das (kostenpflichtige) WLAN hervorragend. Ein Spaziergang im Klinikgarten ist sehr angenehm. Die Mitarbeiter waren freundlich und zuvorkommend und auf meine Wünsche wurde eingegangen.",
       "time": 1777192516,
       "translated": false
@@ -96,11 +130,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 388,
+  "reviewCount": 390,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-01T07:25:04.777Z"
+  "lastUpdated": "2026-05-04T07:46:45.044Z"
 }

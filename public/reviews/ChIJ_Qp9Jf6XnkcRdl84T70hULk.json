@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marie Sonnenschirm",
+      "author_url": "https://www.google.com/maps/contrib/107502422719034474412/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu1BB4OF5x7Ugz4uYMwPL6I0WDLvOwT6FRqMItgirBnJe86Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe Anfang des Jahres einen Termin über Doctolib gebucht. Dieser wurde nun nach 5 Monaten Wartezeit einfach ersatzlos abgesagt. Und das einen Tag vorher!\nZumal ich dort schon mal war und kein Neupatient bin.",
+      "time": 1777867715,
+      "translated": false
+    },
+    {
       "author_name": "Sanaz Abdolrazagh",
       "author_url": "https://www.google.com/maps/contrib/107393046128931738683/reviews",
       "language": "de",
@@ -42,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7pchnXzWliupwM_wKvgY9-KAw0F1oJF_X8RXiAkesqkoamw=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich weiß nicht so recht, hat sich eher wie schnelles abfertigen angefühlt, ohne richtig zu untersuchen einfach schnell zwei Cremes verschrieben und innerhalb von 5 Minuten war ich schon wieder aus der Praxis draußen... habe mich nicht aufgehoben gefühlt, hier wird nur das Symptome behandelt aber nicht nach der Ursache geschaut. Meiner Meinung nach",
+      "time": 1777151688,
+      "translated": false
+    },
+    {
+      "author_name": "Antonia",
+      "author_url": "https://www.google.com/maps/contrib/100210214741758382898/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7pchnXzWliupwM_wKvgY9-KAw0F1oJF_X8RXiAkesqkoamw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich weiß nicht so recht, hat sich eher wie schnelles abfertigen angefühlt, ohne richtig zu untersuchen einfach schnell zwei Cremes verschrieben und innerhalb von 5 Minuten war ich schon wieder aus der Praxis draußen... habe mich nicht aufgehoben gefühlt, hier wird nur das Symptome behandelt aber nicht nach der Ursache geschaut. Meiner Meinung nach",
       "time": 1777151688,
       "translated": false
@@ -127,12 +151,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 160,
+  "rating": 4.6,
+  "reviewCount": 161,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-01T07:25:05.010Z"
+  "lastUpdated": "2026-05-04T07:46:45.260Z"
 }

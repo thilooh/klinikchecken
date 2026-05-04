@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Franzy",
+      "author_url": "https://www.google.com/maps/contrib/100114898940752842834/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIC3myNNWsnsqhlB6cEJKl_SSoHHmmCADU88N0aHxfJaKhk73V2=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe 50 Minuten für einen 5 minütigen Lasertermin gewartet. Leider war auch das Ergebnis nicht so, wie vorher besprochen und von mir erhofft sowie erwartet - das Muttermal im Gesicht ist nicht verschwunden, sondern noch genauso sichtbar, wie vorher. Ich muss mich nochmal behandeln lassen und hoffentlich professioneller versorgt werden.",
+      "time": 1777751526,
+      "translated": false
+    },
+    {
       "author_name": "J. R.",
       "author_url": "https://www.google.com/maps/contrib/103534065404971888436/reviews",
       "language": "de",
@@ -110,11 +122,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 149,
+  "reviewCount": 150,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-01T07:24:56.408Z"
+  "lastUpdated": "2026-05-04T07:46:37.040Z"
 }
