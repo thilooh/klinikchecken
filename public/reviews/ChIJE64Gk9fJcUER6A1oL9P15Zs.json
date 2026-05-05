@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Katja Meier",
+      "author_url": "https://www.google.com/maps/contrib/100239915015558192531/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwOBgjjld2VwbcjM7KMmCL6HzcbXFlD2JH4dGvovM5gpYQPg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Mitarbeiter\nMir wurde schnell geholfen\nEingriff lässt sich gut aushalten\nWartezeiten eigentlich kaum vorhanden,  musste nie länger als 5 Minuten warten\nEinfach top\n‐-----------------------------\nKorrektur Mai 2026\nSo eine unfreundliche Empfangsmitarbeiterin habe ich noch nie erlebt. Werde dort definitiv nicht mehr vorstellig werden.\nEigentlich schade,  Praxis modern und alle anderen Mitarbeiter sehr freundlich",
+      "time": 1778000498,
+      "translated": false
+    },
+    {
       "author_name": "Annette Richter",
       "author_url": "https://www.google.com/maps/contrib/112526055599424705104/reviews",
       "language": "de",
@@ -88,5 +100,5 @@
   "rating": 3.8,
   "reviewCount": 71,
   "summary": [],
-  "lastUpdated": "2026-05-05T16:57:06.072Z"
+  "lastUpdated": "2026-05-05T17:04:57.972Z"
 }
