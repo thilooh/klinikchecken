@@ -101,8 +101,18 @@ async function fetchStaticMap(lat, lng) {
   url.searchParams.set('language', 'de')
   url.searchParams.set('key', GOOGLE_KEY)
   const r = await fetch(url.toString())
-  if (!r.ok) return null
-  return Buffer.from(await r.arrayBuffer())
+  if (!r.ok) {
+    const body = await r.text().catch(() => '')
+    console.error(`    [staticmap HTTP ${r.status}] ${body.slice(0, 240)}`)
+    return null
+  }
+  const ct = r.headers.get('content-type') ?? ''
+  const buf = Buffer.from(await r.arrayBuffer())
+  if (!ct.startsWith('image/')) {
+    console.error(`    [staticmap unexpected content-type ${ct}] ${buf.slice(0, 240).toString('utf8')}`)
+    return null
+  }
+  return buf
 }
 
 // ─── File helpers ────────────────────────────────────────────────────────────
