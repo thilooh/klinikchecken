@@ -1,0 +1,62 @@
+{
+  "reviews": [
+    {
+      "author_name": "Tareq Yassien",
+      "author_url": "https://www.google.com/maps/contrib/110399620458252173738/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJcuLmNYsp8Bfu1LTYDqhqjICrCPHRkyH1BgtWy_wQ9_0kDQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war das erste Mal bei Frau Dr. Grill und bin rundum begeistert. Vom Empfang an der Rezeption bis zur Behandlung durch die Ärztin war das gesamte Team super freundlich und hilfsbereit.\n\nDie Beratung, der Ablauf der OP sowie die Nachkontrolle waren hervorragend organisiert und sehr professionell. Mit dem Ergebnis bin ich sehr zufrieden.\n\nVielen Dank an das gesamte Team!",
+      "time": 1777460687,
+      "translated": false
+    },
+    {
+      "author_name": "Udo Klimt",
+      "author_url": "https://www.google.com/maps/contrib/114739347035783148603/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIghEM1tF5vg9LWgZrz7RVrqrENVlBbo1XgY9Z7Kwx6EjA-oQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1777153764,
+      "translated": false
+    },
+    {
+      "author_name": "Marie Dussmann",
+      "author_url": "https://www.google.com/maps/contrib/111383802566480340159/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT80Ki3kxZVMD5i6x2jmWuZzOXvQT7AYqL11pSbLiQlFQZ7w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1776235594,
+      "translated": false
+    },
+    {
+      "author_name": "Gabi Schefler",
+      "author_url": "https://www.google.com/maps/contrib/110137786139328682553/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY5VIj3iB5oVxYUXa5ByOhnh6oK7S7JvemIhAqwCIvUPNjzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Die Einrichtung ist einfach klasse. Sehr fürsorglich,  sehr im Sinne der Patienten. Sehr zu empfehlen. Herzlichen Dank an Dr. Caletti und an das ganze Team wundebarer Schwestern.",
+      "time": 1775026738,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Gregor",
+      "author_url": "https://www.google.com/maps/contrib/114767203758182998597/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX5Yn8CgyUuN6lqXRqKWqEDF0QSJPLYRq-oXtFdLfdzKZykw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1775016093,
+      "translated": false
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 188,
+  "summary": [],
+  "lastUpdated": "2026-05-05T16:23:48.941Z"
+}
