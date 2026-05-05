@@ -2,6 +2,9 @@
 // Fetch Google Streetview + Static Map images for clinics that have a
 // placeId + lat/lng but lack streetview/map in their `media` field.
 //
+// Note: requires both `Street View Static API` and `Maps Static API`
+// enabled on the API key's Google Cloud project.
+//
 // Saves to public/images/clinic-<id>/streetview.jpg and map.png and
 // patches the clinic's `media` block in src/data/clinics.ts in place.
 //
