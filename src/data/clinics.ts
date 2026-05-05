@@ -1773,7 +1773,7 @@ export const clinics: Clinic[] = [
     tier: 'basic',
     praxis_email: 'bitschth@gmail.com',
     webseite: 'https://www.aiva-institut.de',
-    media: { logo: '/images/clinic-230/logo.png' },
+    media: { logo: '/images/clinic-230/logo.png', streetview: '/images/clinic-230/streetview.jpg' },
     treatmentInfo: {
       intro: 'AIVA Aesthetics & Longevity ist eine Premium-Aesthetic-Klinik in Berlin Mitte mit klarem Fokus auf ästhetische Behandlungen. Besenreiser werden mit klassischer Verödung und dem Nd:YAG-Laser behandelt - je nach Befund auch in Kombination.',
       methodDetails: [
@@ -1822,7 +1822,7 @@ export const clinics: Clinic[] = [
     tier: 'basic',
     praxis_email: 'bitschth@gmail.com',
     webseite: 'https://www.hlcp.de',
-    media: { logo: '/images/clinic-231/logo.png' },
+    media: { logo: '/images/clinic-231/logo.png', streetview: '/images/clinic-231/streetview.jpg' },
     treatmentInfo: {
       intro: 'Das Haut- und Lasercentrum Potsdam/Berlin (HLCP) unter Leitung von Dr. Tanja Fischer ist eine etablierte dermatologische Premium-Praxis mit vier Standorten. Das eigene Phlebologikum bündelt sämtliche Verfahren zur Besenreiser-Behandlung an einem Ort.',
       methodDetails: [
@@ -1877,7 +1877,7 @@ export const clinics: Clinic[] = [
     tier: 'basic',
     praxis_email: 'bitschth@gmail.com',
     webseite: 'https://www.schoenehaut.de',
-    media: { logo: '/images/clinic-232/logo.png' },
+    media: { logo: '/images/clinic-232/logo.png', streetview: '/images/clinic-232/streetview.jpg' },
     treatmentInfo: {
       intro: 'Schöne Haut Berlin unter Leitung von Dr. med. Meike Schröder ist eine dermatologische Praxis mit klarem Schwerpunkt auf aesthetische Medizin. Die Besenreiser-Behandlung umfasst sowohl die klassische Sklerosierung als auch die Nd:YAG-Lasertherapie.',
       methodDetails: [
@@ -1931,7 +1931,7 @@ export const clinics: Clinic[] = [
     tier: 'basic',
     praxis_email: 'bitschth@gmail.com',
     webseite: 'https://www.dermatologikum-berlin.de',
-    media: { logo: '/images/clinic-233/logo.png' },
+    media: { logo: '/images/clinic-233/logo.png', streetview: '/images/clinic-233/streetview.jpg' },
     treatmentInfo: {
       intro: 'Das Dermatologikum Berlin gehört zur deutschlandweit bekannten Dermatologikum-Gruppe, ursprünglich aus Hamburg. Die Berliner Praxis verbindet etablierte Premium-Reputation mit klarer aesthetischer Ausrichtung. Besenreiser werden bevorzugt als Kombinationsbehandlung aus Sklerotherapie und Nd:YAG-Laser therapiert.',
       methodDetails: [
@@ -1982,7 +1982,7 @@ export const clinics: Clinic[] = [
     tier: 'basic',
     praxis_email: 'bitschth@gmail.com',
     webseite: 'https://www.belladerma.de',
-    media: { logo: '/images/clinic-234/logo.png' },
+    media: { logo: '/images/clinic-234/logo.png', streetview: '/images/clinic-234/streetview.jpg' },
     treatmentInfo: {
       intro: 'BellaDerma Berlin ist eine reine Aesthetic-Klinik mit Fokus auf Lasertherapie - bewusst ohne Kassen-Mischbetrieb. Über 19 Jahre Erfahrung in der Lasermedizin und ein eigener Akademie-Betrieb für die Aus- und Weiterbildung. Pricing ist transparent kommuniziert (150-300 € pro Behandlung).',
       methodDetails: [
