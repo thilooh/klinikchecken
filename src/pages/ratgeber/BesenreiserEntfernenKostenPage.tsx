@@ -116,6 +116,21 @@ const FAQS: FAQItem[] = [
     a: 'Im Durchschnitt ist die klassische Verödung etwas günstiger als die Laserbehandlung - aber die Anzahl der nötigen Sitzungen entscheidet, was am Ende wirklich teurer ist. Bei kleinen, oberflächlichen Besenreisern kann der Laser mit 2-3 Sitzungen unterm Strich preiswerter sein als 5 Verödungssitzungen.',
   },
   {
+    q: 'Was kostet die Erstberatung beim Phlebologen?',
+    a: 'Die Erstberatung kostet in der Regel zwischen 50 und 100 €, in spezialisierten Privatpraxen auch mehr. Bei medizinischer Indikation kann die Beratung von der gesetzlichen Krankenkasse übernommen werden. Reine ästhetische Beratungen sind grundsätzlich Privatleistung.',
+    aNode: (
+      <>
+        Die Erstberatung kostet in der Regel zwischen 50 und 100 €, in spezialisierten
+        Privatpraxen auch mehr. Bei medizinischer Indikation kann die Beratung von der
+        gesetzlichen Krankenkasse übernommen werden. Reine ästhetische Beratungen sind
+        grundsätzlich Privatleistung. Mehr zur Wahl der richtigen Praxis im Ratgeber{' '}
+        <Link to="/ratgeber/welcher-arzt-besenreiser" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Welcher Arzt entfernt Besenreiser?
+        </Link>
+      </>
+    ),
+  },
+  {
     q: 'Sind die Kosten steuerlich absetzbar?',
     a: 'Rein kosmetische Behandlungen gelten nicht als außergewöhnliche Belastung im steuerlichen Sinn. Wenn die Behandlung medizinisch notwendig ist, kann sie unter bestimmten Voraussetzungen abgesetzt werden - am besten mit dem Steuerberater klären.',
   },
@@ -214,8 +229,8 @@ export default function BesenreiserEntfernenKostenPage() {
   return (
     <ArticleLayout
       meta={{
-        pageTitle: 'Besenreiser entfernen Kosten 2026: Preise & Krankenkasse | Besenreiser-Check',
-        pageDescription: 'Was kostet eine Besenreiser-Entfernung wirklich? Aktuelle Preise pro Sitzung & Gesamtkosten für Laser, Verödung und Schaumverödung - plus: Was die Krankenkasse zahlt.',
+        pageTitle: 'Besenreiser entfernen: Kosten 2026 | Besenreiser-Check',
+        pageDescription: 'Was kostet eine Besenreiser-Entfernung in Deutschland? Preise pro Sitzung, Gesamtkosten für beide Beine - und was die Krankenkasse übernimmt.',
         canonicalPath: `/ratgeber/${SLUG}`,
         schemaData: SCHEMA,
       }}
@@ -538,7 +553,11 @@ export default function BesenreiserEntfernenKostenPage() {
         <strong>1. Drei Praxen vergleichen.</strong> Hol dir Erstberatungs-Termine bei zwei bis
         drei spezialisierten Praxen in deiner Stadt. Bei den meisten kostet die Erstberatung
         zwischen 50 und 100 € - diese Investition spart dir später leicht das Mehrfache, weil du
-        Methoden und Preise vergleichen kannst.
+        Methoden und Preise vergleichen kannst. Welche Facharztrichtung sich für dich am besten
+        eignet, klären wir im Ratgeber{' '}
+        <Link to="/ratgeber/welcher-arzt-besenreiser" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Welcher Arzt entfernt Besenreiser?
+        </Link>
       </p>
       <p className="art-p">
         <strong>2. Schriftlichen Heil- und Kostenplan einfordern.</strong> Eine seriöse Praxis

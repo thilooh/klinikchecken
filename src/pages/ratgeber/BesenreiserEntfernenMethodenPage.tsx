@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import ArticleLayout from './ArticleLayout'
-import { CTABox, FAQSection, TableOfContents, type FAQItem, type TocSection } from './components'
+import { CTABox, FAQSection, TableOfContents, useHashScroll, type FAQItem, type TocSection } from './components'
 import { sendEvent } from '../../lib/gtm'
 
 const sans = "'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
@@ -113,6 +113,18 @@ const FAQS: FAQItem[] = [
   {
     q: 'Was ist günstiger: Laser oder Verödung?',
     a: 'Im Durchschnitt ist die klassische Verödung pro Sitzung günstiger als die Laserbehandlung. Aber: Die Anzahl der nötigen Sitzungen entscheidet, was am Ende wirklich teurer ist. Bei sehr feinen Besenreisern kann der Laser mit 2-3 Sitzungen unterm Strich preiswerter sein als 5 Verödungssitzungen.',
+    aNode: (
+      <>
+        Im Durchschnitt ist die klassische Verödung pro Sitzung günstiger als die
+        Laserbehandlung. Aber: Die Anzahl der nötigen Sitzungen entscheidet, was am Ende
+        wirklich teurer ist. Bei sehr feinen Besenreisern kann der Laser mit 2-3 Sitzungen
+        unterm Strich preiswerter sein als 5 Verödungssitzungen. Konkrete Preisspannen pro
+        Methode findest du im Ratgeber{' '}
+        <Link to="/ratgeber/besenreiser-entfernen-kosten" style={{ color: '#003399', textDecoration: 'underline' }}>
+          Besenreiser entfernen: Kosten 2026
+        </Link>.
+      </>
+    ),
   },
   {
     q: 'Tut die Behandlung weh?',
@@ -153,15 +165,15 @@ const SCHEMA = {
   '@graph': [
     {
       '@type': 'Article',
-      headline: 'Besenreiser entfernen: Methoden im Vergleich (Verödung, Laser & Schaumverödung)',
-      description: 'Verödung, Laser oder Schaumverödung - welche Methode ist die richtige? Aktueller Vergleich aller Behandlungsmethoden für Besenreiser inkl. Vor-/Nachteilen, Sitzungen, Kosten und Erfahrungen.',
+      headline: 'Besenreiser entfernen: Methoden im Vergleich',
+      description: 'Verödung, Laser oder Schaumverödung - welche Methode ist die richtige? Vergleich der etablierten Verfahren mit Vor- und Nachteilen, Sitzungen und Kosten.',
       image: 'https://www.besenreiser-check.de/besenreiser-check-logo5.png',
       datePublished: '2026-05-03',
       dateModified: '2026-05-03',
       author: {
         '@type': 'Organization',
-        name: 'Besenreiser-Check.de',
-        url: 'https://www.besenreiser-check.de',
+        name: 'Redaktion Besenreiser-Check.de',
+        url: 'https://www.besenreiser-check.de/ueber-uns',
       },
       publisher: {
         '@type': 'Organization',
@@ -184,27 +196,12 @@ const SCHEMA = {
     {
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Startseite', item: 'https://www.besenreiser-check.de/' },
+        { '@type': 'ListItem', position: 1, name: 'Startseite', item: 'https://www.besenreiser-check.de' },
         { '@type': 'ListItem', position: 2, name: 'Ratgeber', item: 'https://www.besenreiser-check.de/ratgeber' },
         { '@type': 'ListItem', position: 3, name: 'Besenreiser entfernen: Methoden im Vergleich', item: URL },
       ],
     },
   ],
-}
-
-// Scroll to the hash target after the article mounts. Browsers sometimes
-// fail to honour the hash when the document is still streaming in CSR -
-// run after paint to be safe.
-function useHashScroll() {
-  useEffect(() => {
-    if (typeof window === 'undefined') return
-    if (!window.location.hash) return
-    const id = window.location.hash.slice(1)
-    requestAnimationFrame(() => {
-      const el = document.getElementById(id)
-      if (el) el.scrollIntoView({ behavior: 'auto', block: 'start' })
-    })
-  }, [])
 }
 
 export default function BesenreiserEntfernenMethodenPage() {
@@ -239,8 +236,8 @@ export default function BesenreiserEntfernenMethodenPage() {
   return (
     <ArticleLayout
       meta={{
-        pageTitle: 'Besenreiser entfernen: Methoden im Vergleich (Verödung, Laser, Schaum) | Besenreiser-Check',
-        pageDescription: 'Verödung, Laser oder Schaumverödung - welche Methode ist die richtige? Vergleich aller Behandlungsmethoden für Besenreiser inkl. Vor-/Nachteilen, Sitzungen, Kosten und Erfahrungen.',
+        pageTitle: 'Besenreiser entfernen: Methoden im Vergleich | Besenreiser-Check',
+        pageDescription: 'Verödung, Laser oder Schaumverödung - welche Methode ist die richtige? Vergleich der etablierten Verfahren mit Vor- und Nachteilen, Sitzungen und Kosten.',
         canonicalPath: `/ratgeber/${SLUG}`,
         schemaData: SCHEMA,
       }}
@@ -304,6 +301,14 @@ export default function BesenreiserEntfernenMethodenPage() {
       <p className="art-p">
         Der Laser hat seine eigene Berechtigung - aber bei einer ganz bestimmten Untergruppe von
         Besenreisern. Welche das ist, klären wir gleich.
+      </p>
+      <p className="art-p">
+        Wer die Behandlung durchführt, ist ebenso entscheidend wie die gewählte Methode. Welche
+        Facharztrichtungen für Besenreiser infrage kommen und worauf du bei der Praxis-Wahl
+        achten solltest, erklären wir im Ratgeber{' '}
+        <Link to="/ratgeber/welcher-arzt-besenreiser" style={linkStyle}>
+          Welcher Arzt entfernt Besenreiser?
+        </Link>
       </p>
 
       <h2 id="besenreiser-veroeden" className="art-h2">Methode 1: Verödung (Sklerotherapie)</h2>

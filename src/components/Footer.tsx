@@ -20,6 +20,15 @@ export default function Footer() {
       ],
     },
     {
+      title: 'Ratgeber',
+      links: [
+        { label: 'Methoden im Vergleich',           href: '/ratgeber/besenreiser-entfernen-methoden' },
+        { label: 'Kosten 2026',                     href: '/ratgeber/besenreiser-entfernen-kosten' },
+        { label: 'Welcher Arzt entfernt Besenreiser?', href: '/ratgeber/welcher-arzt-besenreiser' },
+        { label: 'Eine Praxis wählen',              href: '/ratgeber/praxis-waehlen' },
+      ],
+    },
+    {
       title: 'Methoden',
       links: [
         { label: 'Sklerotherapie (Verödung)', href: '/methode/verodung' },

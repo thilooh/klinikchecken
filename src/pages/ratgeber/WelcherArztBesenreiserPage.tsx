@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import ArticleLayout from './ArticleLayout'
-import { CTABox, FAQSection, TableOfContents, type FAQItem, type TocSection } from './components'
+import { CTABox, FAQSection, TableOfContents, useHashScroll, type FAQItem, type TocSection } from './components'
 import { sendEvent } from '../../lib/gtm'
 
 const CTA_HREF = '/praxen?utm_source=fb&utm_medium=ratgeber&utm_campaign=arzt'
@@ -31,7 +31,7 @@ const FAQS: FAQItem[] = [
   },
   {
     q: 'Was kostet die Erstberatung beim Phlebologen?',
-    a: 'Die Erstberatung bei einem Phlebologen kostet in der Regel zwischen 50 und 100 €, in spezialisierten Privatpraxen auch mehr. Falls eine medizinische Indikation vorliegt, kann die Beratung von der gesetzlichen Krankenkasse übernommen werden. Reine ästhetische Beratungen sind grundsätzlich Privatleistung. Eine ausführliche Übersicht der Behandlungs- und Beratungskosten findest du im Ratgeber Besenreiser entfernen: Kosten 2026.',
+    a: 'Die Erstberatung bei einem Phlebologen kostet in der Regel zwischen 50 und 100 €, in spezialisierten Privatpraxen auch mehr. Falls eine medizinische Indikation vorliegt, kann die Beratung von der gesetzlichen Krankenkasse übernommen werden. Reine ästhetische Beratungen sind grundsätzlich Privatleistung.',
     aNode: (
       <>
         Die Erstberatung bei einem Phlebologen kostet in der Regel zwischen 50 und 100 €, in
@@ -72,15 +72,15 @@ const SCHEMA = {
   '@graph': [
     {
       '@type': 'Article',
-      headline: 'Welcher Arzt entfernt Besenreiser? Phlebologe, Dermatologe oder Hautarzt',
-      description: 'Welcher Facharzt ist die richtige Anlaufstelle für Besenreiser? Wir erklären die Unterschiede zwischen Phlebologe, Dermatologe und Hausarzt - und worauf du bei der Praxis-Wahl achten solltest.',
+      headline: 'Welcher Arzt entfernt Besenreiser?',
+      description: 'Phlebologe, Dermatologe oder Hausarzt - welcher Facharzt ist die richtige Anlaufstelle für Besenreiser? Was die Bezeichnung bedeutet und worauf du achten solltest.',
       image: 'https://www.besenreiser-check.de/besenreiser-check-logo5.png',
       datePublished: '2026-05-03',
       dateModified: '2026-05-03',
       author: {
         '@type': 'Organization',
-        name: 'Besenreiser-Check.de',
-        url: 'https://www.besenreiser-check.de',
+        name: 'Redaktion Besenreiser-Check.de',
+        url: 'https://www.besenreiser-check.de/ueber-uns',
       },
       publisher: {
         '@type': 'Organization',
@@ -103,7 +103,7 @@ const SCHEMA = {
     {
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Startseite', item: 'https://www.besenreiser-check.de/' },
+        { '@type': 'ListItem', position: 1, name: 'Startseite', item: 'https://www.besenreiser-check.de' },
         { '@type': 'ListItem', position: 2, name: 'Ratgeber', item: 'https://www.besenreiser-check.de/ratgeber' },
         { '@type': 'ListItem', position: 3, name: 'Welcher Arzt entfernt Besenreiser?', item: URL },
       ],
@@ -119,6 +119,8 @@ export default function WelcherArztBesenreiserPage() {
       content_category: 'ratgeber',
     })
   }, [])
+
+  useHashScroll()
 
   const fired = useRef({ d50: false, d100: false })
   useEffect(() => {
@@ -141,8 +143,8 @@ export default function WelcherArztBesenreiserPage() {
   return (
     <ArticleLayout
       meta={{
-        pageTitle: 'Welcher Arzt entfernt Besenreiser? Phlebologe oder Hautarzt | Besenreiser-Check',
-        pageDescription: 'Welcher Facharzt ist die richtige Anlaufstelle für Besenreiser? Phlebologe, Dermatologe oder Hausarzt - wir erklären die Unterschiede und worauf du bei der Praxis-Wahl achten solltest.',
+        pageTitle: 'Welcher Arzt entfernt Besenreiser? | Besenreiser-Check',
+        pageDescription: 'Phlebologe, Dermatologe oder Hausarzt - welcher Facharzt ist die richtige Anlaufstelle für Besenreiser? Was die Bezeichnung bedeutet und worauf du achten solltest.',
         canonicalPath: `/ratgeber/${SLUG}`,
         schemaData: SCHEMA,
       }}
