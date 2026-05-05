@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Monique Östlind",
+      "author_url": "https://www.google.com/maps/contrib/101280415366116929922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI708egDK5cuehdecLgQb9AFbS7bp3QT-UDl9mX8zXzBA6u9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Update: Die Thematik wurde von der Leiterin persönlich gelöst und ich bedanke mich, jetzt bin ich rundum zufrieden!\n\nIch habe im Dermatologikum Hamburg in der Abteilung Lasertherapie drei Behandlungen zur Behandlung von Rosazea durchführen lassen. Leider war ich mit zwei der drei Sitzungen und dem Ergebnis sehr unzufrieden, da sich mein Hautbild teilweise sogar verschlechtert hat. Ich habe das anschließend reklamiert und um eine Überprüfung bzw. Stellungnahme gebeten. Die einzige Rückmeldung war jedoch, dass ich gerne erneut einen Termin vereinbaren könne – allerdings als weitere Behandlung auf eigene Kosten. Eine inhaltliche Auseinandersetzung mit meiner Reklamation oder eine erkennbare Bereitschaft, das Ergebnis zu prüfen, habe ich dabei nicht erlebt. Gerade bei einer spezialisierten dermatologischen Einrichtung hätte ich deutlich mehr Verantwortungsbewusstsein im Umgang mit Patientenfeedback erwartet. Für mich persönlich war die Erfahrung daher sehr enttäuschend.",
+      "time": 1777999457,
+      "translated": false
+    },
+    {
       "author_name": "Ahmed Shihab",
       "author_url": "https://www.google.com/maps/contrib/104126565161631110792/reviews",
       "language": "de",
@@ -154,5 +166,5 @@
   "rating": 4.4,
   "reviewCount": 416,
   "summary": [],
-  "lastUpdated": "2026-05-05T16:23:51.828Z"
+  "lastUpdated": "2026-05-05T16:48:47.428Z"
 }
