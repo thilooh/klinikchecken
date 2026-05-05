@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Becker Becker",
+      "author_url": "https://www.google.com/maps/contrib/103364903297145882695/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFSNalnqYQS7mdcA_UXyQD4yWOfL4lgch0_TSXM2WjeifgJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Tolle Praxis, freundliches Personal, kompetente Ärzte, vorbildlich, weiter so. Erstaunlich kurze Wartezeit. 6 Sterne 🌟",
+      "time": 1777381228,
+      "translated": false
+    },
+    {
       "author_name": "Silvia Schulz",
       "author_url": "https://www.google.com/maps/contrib/115987715135459893290/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWowiWMiV2w4orvIzi70oGYCwBVl_e3apG_dfWbqCORmZvUnYvk=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Nett und Kompetent",
+      "time": 1777239547,
+      "translated": false
+    },
+    {
+      "author_name": "Silvia Schulz",
+      "author_url": "https://www.google.com/maps/contrib/115987715135459893290/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWowiWMiV2w4orvIzi70oGYCwBVl_e3apG_dfWbqCORmZvUnYvk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Nett und Kompetent",
       "time": 1777239547,
       "translated": false
@@ -37,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Stefan Kramer",
+      "author_url": "https://www.google.com/maps/contrib/115536539474040510111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLINowgEE60vMk9ZJCjP5ANMNi5GVUTqrTFThZs7yTFh57ZKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr kompetentes und freundliches Team, beide Ärzte (Vater und Sohn) nehmen sich Zeit fürs Patientengespräch und untersuchen sehr genau.... der Empfang und die Terminvergabe durch das Praxisteam ist herzlich und zuvorkommend.",
+      "time": 1776669916,
+      "translated": false
+    },
+    {
       "author_name": "Nadine Klemens",
       "author_url": "https://www.google.com/maps/contrib/101987726161543673591/reviews",
       "language": "de",
@@ -44,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEcP6ajJvjs2drrC4DxKtp-FjgE2OrjiEypcML0kPYp1bWSA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin seit 2024 regelmäßig zur Behandlung in dieser Praxis.\nHier merkt man gleich beim reinkommen eine sehr freundliche Atmosphäre ! Die Arzthelferin sind sehr bemüht und gehen auf alle Wünsche ein. Ich kann die Praxis von Dr.Veit nur empfehlen!",
+      "time": 1775756298,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine Klemens",
+      "author_url": "https://www.google.com/maps/contrib/101987726161543673591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEcP6ajJvjs2drrC4DxKtp-FjgE2OrjiEypcML0kPYp1bWSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin seit 2024 regelmäßig zur Behandlung in dieser Praxis.\nHier merkt man gleich beim reinkommen eine sehr freundliche Atmosphäre ! Die Arzthelferin sind sehr bemüht und gehen auf alle Wünsche ein. Ich kann die Praxis von Dr.Veit nur empfehlen!",
       "time": 1775756298,
       "translated": false
@@ -86,11 +134,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 44,
+  "reviewCount": 45,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:31:16.445Z"
+  "lastUpdated": "2026-05-05T15:27:19.984Z"
 }

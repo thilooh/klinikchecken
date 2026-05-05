@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Diana",
+      "author_url": "https://www.google.com/maps/contrib/104766059468109590624/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKi0th9amZZJTI3uUj61pd1FOFq1C6rDcyaF9QwOkgZT9tRptA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777983181,
+      "translated": false
+    },
+    {
+      "author_name": "SmvNVw AwByDq",
+      "author_url": "https://www.google.com/maps/contrib/102031152276474561988/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI-SzpzlyaYicnewT2cSj1OkaU8KJ8NFOBwYWzJP9WxAeEoQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Medizinerin hat sich eine Hautveränderung angeschaut und wollte diese ohne Diagnose, oder weitere Diagnostik rausschneiden.",
+      "time": 1777802505,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Hüttenwirth",
+      "author_url": "https://www.google.com/maps/contrib/109793432815539218534/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKNg3wfr-TtZcBEiUXLGuI8DDm5j_yWP-nMcrkLRaMQ02Rl_IK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Praxisteam und sehr gute Ärzte!! Geringe Wartezeiten! Dafür 5 von 5 ⭐️",
+      "time": 1777548109,
+      "translated": false
+    },
+    {
+      "author_name": "aleyna_ 76",
+      "author_url": "https://www.google.com/maps/contrib/103891966741038124516/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVq-JybDww_zYyKNF9ArQj-j6cZwWlpaN199dBvOHqdKVXyw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider kann ich die Praxis garnicht empfehlen. Es wird sich meiner Meinung nach nicht wirklich um die Patienten gekümmert, man fühlt sich nicht ernst genommen. Für einen Termin muss man meistens 4-5 Monate warten und telefonisch kann man die Praxis auch nicht erreichen. Mir wurde vor kurzem eine Creme geschrieben wodurch ich Aufschlag bekommen habe. Als ich dann in der Praxis war wurde ich einfach nach Hause geschickt.",
+      "time": 1777534543,
+      "translated": false
+    },
+    {
+      "author_name": "Klaus Porath",
+      "author_url": "https://www.google.com/maps/contrib/110602525582656112511/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXS6lFCOeJnjzhFxNtGxbIHv_RH4_xC7lLSJVJDd7WL5Zytw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Team, nette und kompetente Beratung durch den Arzt und extrem kurze Wartezeit. Wir kamen bereits 2 Minuten vor dem eigentlichen Termin an die Reihe. Absolut empfehlenswert.",
+      "time": 1777454843,
+      "translated": false
+    },
+    {
       "author_name": "Abed Remmo",
       "author_url": "https://www.google.com/maps/contrib/106345649427381484561/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPwpHTlepDUNCurjW_6RBThyVlYG8tSRqhGVPb0MOVsStTNDA=s128-c0x00000000-cc-rp-mo",
@@ -80,11 +138,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 346,
+  "reviewCount": 350,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:31:03.237Z"
+  "lastUpdated": "2026-05-05T15:27:04.992Z"
 }

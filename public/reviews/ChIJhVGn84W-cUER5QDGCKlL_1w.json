@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christiane Sch",
+      "author_url": "https://www.google.com/maps/contrib/102732934185799671141/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfx1K8in-hrCuCVDzPxssjsyvuGNQl1qEsbjkBKQsaxossUrJD=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider kein schönes Erlebnis, Freundlichkeit wird in dieser Praxis nicht groß geschrieben, geschweige denn das man mit seinen Problemen ernst genommen wird.\nDer Arzt hat was gegen Adipöse Menschen! Leider kann man keine null Sterne vergeben",
+      "time": 1777801948,
+      "translated": false
+    },
+    {
       "author_name": "Klausns Trrash",
       "author_url": "https://www.google.com/maps/contrib/104633130376279219989/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuIgJgAvHJ9jmMzj8bMD-L7mqJFfubHoDuWN243gmMSHGU1Y8b=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Sabi ist sehr nett und kompetent\nDie Dame an der Rezeption, allerdings unglaublich arrogant und unfreundlich",
+      "time": 1777288260,
+      "translated": false
+    },
+    {
+      "author_name": "Klausns Trrash",
+      "author_url": "https://www.google.com/maps/contrib/104633130376279219989/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuIgJgAvHJ9jmMzj8bMD-L7mqJFfubHoDuWN243gmMSHGU1Y8b=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr. Sabi ist sehr nett und kompetent\nDie Dame an der Rezeption, allerdings unglaublich arrogant und unfreundlich",
       "time": 1777288260,
       "translated": false
@@ -47,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "Heike Vaassen",
+      "author_url": "https://www.google.com/maps/contrib/105637000533070771782/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkw6faFct9Ld_YoulVzatA4jDEFo3w-Isw4fW2DchHFRnr9w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Nachdem ich die bisherigen Rezensionen gelesen hatte, war ich zunächst sehr verunsichert. Dies kann ich jedoch in keinster Weise bestätigen. Ich hatte letzte Woche meinen ersten Termin in der Praxis und habe mich gut betreut gefühlt. Der Arzt war aufmerksam und hat wichtige Aspekte erkannt, ohne dass ich diese ausführlich schildern musste. Er ist sensibel mit der Situation umgegangen und hat mir auch bei weniger angenehmen Diagnosen alles ruhig und verständlich erklärt.\nDas Team war freundlich und bemüht, den Ablauf angenehm zu gestalten.",
+      "time": 1772440565,
+      "translated": false
+    },
+    {
       "author_name": "P. W.",
       "author_url": "https://www.google.com/maps/contrib/106721558898244000280/reviews",
       "language": "de",
@@ -69,12 +105,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 80,
+  "rating": 4.8,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:31:02.141Z"
+  "lastUpdated": "2026-05-05T15:27:03.774Z"
 }

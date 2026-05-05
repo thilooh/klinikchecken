@@ -8,6 +8,18 @@
       "time": 1776854412
     },
     {
+      "author_name": "Eric Freywald",
+      "author_url": "https://www.google.com/maps/contrib/113815771031719738669/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkEzIYWSXQ2XVZGL2qLUtZbQ1OMLz6G9D3fnaqtRJ3Zeow1NHy=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Frau Dr. Wieber nimmt sich ernsthaft und ehrlich des Problems an und nimmt sich Zeit für Anamnese, Diagnostik und Empfehlung. Vielen Dank!",
+      "time": 1776854412,
+      "translated": false
+    },
+    {
       "author_name": "Andy Laessing",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
@@ -20,6 +32,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRdpd2ysaZIq4_nvYHFRhko6VZm7vp2ceOPPRjdmDxha004g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1774857773,
+      "translated": false
+    },
+    {
+      "author_name": "Andy Laessing",
+      "author_url": "https://www.google.com/maps/contrib/106752583962888439377/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRdpd2ysaZIq4_nvYHFRhko6VZm7vp2ceOPPRjdmDxha004g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1774857773,
       "translated": false
@@ -53,5 +75,5 @@
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-04-28T07:30:31.558Z"
+  "lastUpdated": "2026-05-05T15:26:29.523Z"
 }

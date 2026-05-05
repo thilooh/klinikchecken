@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "jamil eid",
+      "author_url": "https://www.google.com/maps/contrib/104305366029751078798/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjGuAcutNafU024IMUBZCvNtR_3KNfZfWse_FyGu2m04RUoCk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777971934,
+      "translated": false
+    },
+    {
+      "author_name": "S. L.",
+      "author_url": "https://www.google.com/maps/contrib/109729084798932558926/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-A3Q_xBUx4UHtRJUBiqvRIxq1Vz0PfLnyAOcJVItwZN8vDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr einfühlsam und verständnisvoll. Das gesamte Team sehr hilfsbereit und zuvorkommend.\nDie Ärztin sehr genau erklärend, wissend. Zudem ungemein akkurat und gebildet.  Sie kann was und hat Spaß am/im Beruf. Immer wieder gerne. Vielen Dank Silke L.",
+      "time": 1777883231,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra. 0107",
+      "author_url": "https://www.google.com/maps/contrib/100268946677287328141/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgMwd3UP91hH0J9KUXcQFglav3jIRb6BAejJK1X0NU2UFEO3Ye=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr respektvoller Umgang mit den Patienten in einem schönen Ambiente. Danke an Frau Dr. Guellil für das tolle Ergebnis.",
+      "time": 1777644296,
+      "translated": false
+    },
+    {
+      "author_name": "christin katzmann",
+      "author_url": "https://www.google.com/maps/contrib/108669400431506035689/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhDTqEVEyG7SIbQuut826fEQL0vfow6TF7D8XSUHI1PPik_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Team und sehr kompetent ,kann ich allen nur weiterempfehlen !!!",
+      "time": 1777470670,
+      "translated": false
+    },
+    {
       "author_name": "N. E.",
       "author_url": "https://www.google.com/maps/contrib/112843847829973068103/reviews",
       "language": "de",
@@ -8,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI08TZmJbdo7gbeIkPVQLOQ8FcdLVR1lYngrdj8Tcsvvp3Zog=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum begeistert von der Praxis! Alles ist wirklich top – man fühlt sich vom ersten Moment an wohl und gut aufgehoben.\nDie Mitarbeiterinen  an der Rezeption sind sehr nett, freundlich und zuvorkommend, man wird immer herzlich empfangen und kompetent betreut.\nDie Ärzte sind absolute Profis: Sie nehmen sich Zeit, beraten ausführlich und verständlich, sodass man sich in jeder Hinsicht sicher fühlt.\nAuch die Kosmetikerin leistet hervorragende Arbeit – sehr professionell, sorgfältig und mit tollen Ergebnissen.\nIch habe mich jederzeit bestens betreut gefühlt und bin mit den Ergebnissen mehr als zufrieden. Klare Empfehlung!",
+      "time": 1777311073,
+      "translated": false
+    },
+    {
+      "author_name": "N. E.",
+      "author_url": "https://www.google.com/maps/contrib/112843847829973068103/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI08TZmJbdo7gbeIkPVQLOQ8FcdLVR1lYngrdj8Tcsvvp3Zog=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin rundum begeistert von der Praxis! Alles ist wirklich top – man fühlt sich vom ersten Moment an wohl und gut aufgehoben.\nDie Mitarbeiterinen  an der Rezeption sind sehr nett, freundlich und zuvorkommend, man wird immer herzlich empfangen und kompetent betreut.\nDie Ärzte sind absolute Profis: Sie nehmen sich Zeit, beraten ausführlich und verständlich, sodass man sich in jeder Hinsicht sicher fühlt.\nAuch die Kosmetikerin leistet hervorragende Arbeit – sehr professionell, sorgfältig und mit tollen Ergebnissen.\nIch habe mich jederzeit bestens betreut gefühlt und bin mit den Ergebnissen mehr als zufrieden. Klare Empfehlung!",
       "time": 1777311073,
       "translated": false
@@ -80,11 +138,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 85,
+  "reviewCount": 89,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:01.727Z"
+  "lastUpdated": "2026-05-05T15:27:03.292Z"
 }

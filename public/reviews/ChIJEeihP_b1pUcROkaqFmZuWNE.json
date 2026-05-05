@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Elvira",
+      "author_url": "https://www.google.com/maps/contrib/108692948541907732805/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTtLMePLOutLfNYcgPuos5PYv5Q3Bw9UcV6HG4-vx5FhUETg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bloß Hände weg von dieser Praxis!\nSehr, sehr unfreundliches, unhöflich und überhaupt nicht hilfsbereites Personal. Besonders blonde Anmeldeschwester! Bin Langzeitpatient. Donnerstag: Aussage:\"Neuer Untersuchungstermin geht nicht. Nur online.Und da braucht man es auch nicht versuchen, da es keine  Termine bis August 2026 gibt. Ausschließlich Krebsvorsorge.\" Die Krönung: Mein Rezept wurde nicht auf der KKarte gespeichert.....bereits 2x in der Apotheke deshalb angetreten. Daher Montag zum Wochenstart nochmaliges Erscheinen in der Praxis meinerseits..... \"Antwort, ja wird vorraussichtlich erst morgen vom Doc bearbeitet, muss er erst noch elektronisch freigeben. Ich solle doch bei DocMorris auf der App nachschauen, ob es und wann es vielleicht freigegeben wurde. App -DocMorris kenne ich nicht - will ich auch nicht- soviel zum Thema Hilfsbereitschaft. Die Bezeichnung Anmeldeschwester ist keinen Cent wert! Ach ja, die telefonische Erreichbarkeit => N U L L!\nDiese Praxis schaufelt gerade ihr eigenes Grab! Bye, ihr seht mich nie wieder!",
+      "time": 1777879505,
+      "translated": false
+    },
+    {
       "author_name": "Jolina S.",
       "author_url": "https://www.google.com/maps/contrib/105105895344462730099/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjLcurzcIXbxKEVdnJYvTJ2660wMCpdBf7ebhDSyqOnfRQiA=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Also gegen dem Personal und Ärzteteam kann ich nichts negatives sagen,aber das Bestellsytem ist total daneben. Telefonisch geht schon mal gar nichts,auch nicht zu den manchmal angegebenen Zeiten zu.11 bis 12.Das ist ein Witz ,erst geht keiner ran und ab 12 ertönt dann ,sie rufen außerhalb der Öffnungszeiten an.Und so geht es eigentlich den ganzen Tag. Auf der sogenannten Website, ja Pech gehabt rotes Ausrufezeichen \"Keine Termine \".Also ist man gezwungen den weiten Weg auf sich zu nehmen, persönlich vorzusprechen ,da gibt es dann noch einen Termin, kannst du da nicht dienstlich oder aus anderen Gründen, was soll ich sagen, das nennt sich Nachsorge !!!!!!!?????? Einfach unvorstellbar.\nWenn man dann vor Ort ist,mehrere Schwestern stehen oft vorn,aber das Telefon, ich weiß nicht ,will glaube nicht gehört werden.",
+      "time": 1775798139,
+      "translated": false
+    },
+    {
+      "author_name": "Silvia",
+      "author_url": "https://www.google.com/maps/contrib/111842421826340891719/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjLcurzcIXbxKEVdnJYvTJ2660wMCpdBf7ebhDSyqOnfRQiA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Also gegen dem Personal und Ärzteteam kann ich nichts negatives sagen,aber das Bestellsytem ist total daneben. Telefonisch geht schon mal gar nichts,auch nicht zu den manchmal angegebenen Zeiten zu.11 bis 12.Das ist ein Witz ,erst geht keiner ran und ab 12 ertönt dann ,sie rufen außerhalb der Öffnungszeiten an.Und so geht es eigentlich den ganzen Tag. Auf der sogenannten Website, ja Pech gehabt rotes Ausrufezeichen \"Keine Termine \".Also ist man gezwungen den weiten Weg auf sich zu nehmen, persönlich vorzusprechen ,da gibt es dann noch einen Termin, kannst du da nicht dienstlich oder aus anderen Gründen, was soll ich sagen, das nennt sich Nachsorge !!!!!!!?????? Einfach unvorstellbar.\nWenn man dann vor Ort ist,mehrere Schwestern stehen oft vorn,aber das Telefon, ich weiß nicht ,will glaube nicht gehört werden.",
       "time": 1775798139,
       "translated": false
@@ -80,5 +104,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-04-28T07:30:46.237Z"
+  "lastUpdated": "2026-05-05T15:26:45.727Z"
 }

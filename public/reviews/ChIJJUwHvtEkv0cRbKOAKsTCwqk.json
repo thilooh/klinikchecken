@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Birgit Sölzer",
+      "author_url": "https://www.google.com/maps/contrib/112900985275649212974/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9z0wV9wav5KpWofs7y3WU1JOkteC5VyROltTaxrsS1tkIybIL=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bekam sehr schnell einen Termin und musste auch nicht lange warten. Die Mitarbeitenden sind alle sehr freundlich und der Arzt hat mir die Untersuchung sehr verständlich erklärt.",
+      "time": 1777558263,
+      "translated": false
+    },
+    {
       "author_name": "Christa Wessolly",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
@@ -20,6 +32,18 @@
       "translated": false
     },
     {
+      "author_name": "Christa Wessolly",
+      "author_url": "https://www.google.com/maps/contrib/113043838924455984561/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJy4bJTBiujkVRW9mHR3dG5lgqNQIz0Pp3K_J7yZgZxlYvz3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Freundliches Personal, Termin gerecht dran gekommen.  Alles super.",
+      "time": 1776691256,
+      "translated": false
+    },
+    {
       "author_name": "Astrid Nöcker",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
@@ -27,11 +51,33 @@
       "time": 1772650245
     },
     {
+      "author_name": "Astrid Nöcker",
+      "author_url": "https://www.google.com/maps/contrib/104785910805456301156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyLD-4mryv25Ca2vcOpLunyxcS4pipvE5zccr8INH1nqz22g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1772650245,
+      "translated": false
+    },
+    {
       "author_name": "Richard Krause",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
       "text": "In den letzten Wochen hatte ich mehrere Termine in der Praxis.\nEs gab keine Wartezeiten, das Personal stets freundlich und\nohne Hektik. Ich wurde von Herrn Dr. Galkin operiert, er\nübernahm auch die weiteren Behandlungen. Herr Dr. Galkin\nmachte einen sehr ruhigen und freundlichen Eindruck und\nklärte mich über den Eingriff ausführlich auf. Ich kann diese\nPraxis mit gutem Vertrauen weiter empfehlen.",
       "time": 1769792094
+    },
+    {
+      "author_name": "Richard Krause",
+      "author_url": "https://www.google.com/maps/contrib/100555104203015037512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMLDmzrFA2GyAf51pV0ofwpCC6kFbX_9xwOPiv3pM9FjnDsA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "In den letzten Wochen hatte ich mehrere Termine in der Praxis.\nEs gab keine Wartezeiten, das Personal stets freundlich und\nohne Hektik. Ich wurde von Herrn Dr. Galkin operiert, er\nübernahm auch die weiteren Behandlungen. Herr Dr. Galkin\nmachte einen sehr ruhigen und freundlichen Eindruck und\nklärte mich über den Eingriff ausführlich auf. Ich kann diese\nPraxis mit gutem Vertrauen weiter empfehlen.",
+      "time": 1769792094,
+      "translated": false
     },
     {
       "author_name": "N L",
@@ -49,7 +95,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 72,
+  "reviewCount": 73,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:34.261Z"
+  "lastUpdated": "2026-05-05T15:26:33.162Z"
 }

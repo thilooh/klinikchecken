@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Lennox",
+      "author_url": "https://www.google.com/maps/contrib/118256403320555981058/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwBvw9PF_eik6d4xD2AmAjgeOTaExw0WRa4GuaV2286kJoWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr guter Hautarzt,sehr nette Ärzte",
+      "time": 1777971873,
+      "translated": false
+    },
+    {
+      "author_name": "Angelika Gröseling",
+      "author_url": "https://www.google.com/maps/contrib/117891113777588155594/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKZvq8KDaqvNqBTfMbPawBnts2HwdBjcOlmQF83_T5l1PuFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Endlich eine Praxis/einen Arzt gefunden die meine Erkrankung erkannt hat und entsprechend therapiert. Danke😇",
+      "time": 1777538739,
+      "translated": false
+    },
+    {
+      "author_name": "Melis Tüven",
+      "author_url": "https://www.google.com/maps/contrib/102333053282544076507/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWDA8qzmc95GCx67lVKaxGED_JGXxmRg18zIaCI7ZWMB3DqQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin mit meiner Behandlung im Dermazentrum Neuss bei Dr. med. Martin Hermans und seinem Team sehr zufrieden. Die Beratung war ausführlich, verständlich und individuell auf meine Bedürfnisse abgestimmt. Ich habe mich von Anfang an gut aufgehoben und ernst genommen gefühlt. Das gesamte Team ist ausgesprochen freundlich, professionell und bestens organisiert, sodass es kaum Wartezeiten gab. Die Atmosphäre in der Praxis ist angenehm und man merkt, dass hier großen Wert auf das Wohl der Patienten gelegt wird. Die Behandlung selbst verlief sehr angenehm und das Ergebnis hat meine Erwartungen sogar übertroffen. Ich kann die Praxis und das gesamte Team uneingeschränkt weiterempfehlen!",
+      "time": 1777387126,
+      "translated": false
+    },
+    {
       "author_name": "Unknown User",
       "author_url": "https://www.google.com/maps/contrib/103894275955116127726/reviews",
       "language": "de",
@@ -13,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Unknown User",
+      "author_url": "https://www.google.com/maps/contrib/103894275955116127726/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBwPj76c6GRBFvpfFWE24L3OFp5M_VBkSmmpZVnTzvquWO6V63=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die Klinik war makellos sauber und das Personal unglaublich höflich und kompetent. Der Arzt war nicht nur höflich, sondern auch sehr sachkundig in seinem Fachgebiet. Ich kann diese Klinik wärmstens empfehlen!",
+      "time": 1777024814,
+      "translated": false
+    },
+    {
       "author_name": "Margaret",
       "author_url": "https://www.google.com/maps/contrib/104917659084351051768/reviews",
       "language": "de",
@@ -20,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8gk9z3XoRPXXxL-8lc8QqxW5NoUUy62d6TnQnJZ7ro64t=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Alles top! Nettes Personal, der Arzt ist sehr freundlich und nimmt sich Zeit für die Patienten. Vielen Dank!",
+      "time": 1777013254,
+      "translated": false
+    },
+    {
+      "author_name": "Margaret",
+      "author_url": "https://www.google.com/maps/contrib/104917659084351051768/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8gk9z3XoRPXXxL-8lc8QqxW5NoUUy62d6TnQnJZ7ro64t=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Alles top! Nettes Personal, der Arzt ist sehr freundlich und nimmt sich Zeit für die Patienten. Vielen Dank!",
       "time": 1777013254,
       "translated": false
@@ -86,11 +146,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 296,
+  "reviewCount": 299,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:10.827Z"
+  "lastUpdated": "2026-05-05T15:27:13.469Z"
 }

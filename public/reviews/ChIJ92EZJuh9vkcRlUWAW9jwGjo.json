@@ -1,11 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "Thea E",
+      "author_url": "https://www.google.com/maps/contrib/116688495316790114039/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnDIINjarj90iEuyzwjQUiEVKDQLdVrbbnNkPl0kjHY1cKsA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777409391,
+      "translated": false
+    },
+    {
       "author_name": "Waleed Rasoulo",
       "author_url": "https://www.google.com/maps/contrib/112975153939560598088/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDgXZ48-A7mCoNWu1YZzr3Eo7ZSbkengm8t0p3I-_nFHTiIx3f=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1774990568,
+      "translated": false
+    },
+    {
+      "author_name": "Waleed Rasoulo",
+      "author_url": "https://www.google.com/maps/contrib/112975153939560598088/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDgXZ48-A7mCoNWu1YZzr3Eo7ZSbkengm8t0p3I-_nFHTiIx3f=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1774990568,
       "translated": false
@@ -79,12 +99,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 21,
+  "rating": 4.4,
+  "reviewCount": 22,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:31:15.184Z"
+  "lastUpdated": "2026-05-05T15:27:18.522Z"
 }

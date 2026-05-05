@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Dirk-Michael Jäger",
+      "author_url": "https://www.google.com/maps/contrib/109590772814279178726/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6X6qJgdqx8CR1LIjaPjcrspWE6qOEklQ2MxNwyTXSs0bLLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ausführliche Untersuchung (Vorsorgetermin) mit anschließender Besprechung der Ergebnisse. Fühlte mich fachlich sehr gut aufgehoben. Freundliches Personal an der Annahme. Einzige kritische Anmerkung. Es ist sehr schwer einen online Termin zu buchen!",
+      "time": 1777993550,
+      "translated": false
+    },
+    {
+      "author_name": "Laura Rudolph",
+      "author_url": "https://www.google.com/maps/contrib/101862867249806264662/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeGiTHDDXwNMUr-vK7ST8HFyrzY2BRJKIO3pzVDyD2Bz9lWg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777982513,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin Seitz",
+      "author_url": "https://www.google.com/maps/contrib/114992670158076927394/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJi6RcaTbzPQPw1LKFDtPTOtzrwPhekz6M--Qecp3X14_1oPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War bei der Ein-Fleck-Sprechstunde, super organisiert, freundlicher Empfang und toller Arzt. Es wurde auch direkt die Abtragung vorgenommen, was eine erneute Vorstellung hierfür nicht notwendig macht! Eine rundum tolle Sache! Vielen lieben Dank",
+      "time": 1777980425,
+      "translated": false
+    },
+    {
+      "author_name": "Alex X",
+      "author_url": "https://www.google.com/maps/contrib/112076461201923636133/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8ZoV-w65Pp6i_fw7gX5au-DBWVHo3ggZh2JoJ1KqsPpcLdQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Praxis, Herr Dr. Haase sehr nett und nimmt sich Zeit. Er erklärt die Dinge auch. Einziges Manko ist das es keine telefonische Erreichbarkeit gibt. Termine gehen über Onlinebuchung oder über die Notfallsprechstunden. Bleibe gerne dort Patient.",
+      "time": 1777974780,
+      "translated": false
+    },
+    {
+      "author_name": "Lina E",
+      "author_url": "https://www.google.com/maps/contrib/102326744494590375664/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv5GNreuZuHiQtGkyHn3ZMFXQPNeH0MLr7p78afqjU_Zg9vkzRrw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777901981,
+      "translated": false
+    },
+    {
       "author_name": "Yannik L.",
       "author_url": "https://www.google.com/maps/contrib/117713702517740324234/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB5EjPOrIkZRC0b30qtsQjPnDHtj9tjs2XObrsLTNMDLwaTw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -72,11 +128,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2235,
+  "reviewCount": 2246,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:30:46.677Z"
+  "lastUpdated": "2026-05-05T15:26:46.199Z"
 }

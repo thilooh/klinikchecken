@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sabrina Class",
+      "author_url": "https://www.google.com/maps/contrib/109651978120302520105/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2qvWFVsyPVYFqdrjJiXx7UR9L1q_Ezj6x8a9BBkG7ssU4eA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte vor ein paar Wochen meine Nasen-Op bei Herrn Prof. Dr. Maier. Bei mir handelte es sich durch einen Autounfall vor vielen Jahren um eine komplexere Op. Die Nase musste außen wie innen begradigt werden, sowie ein durch den Bruch entstandener Höcker entfernt werden. Schmerzen waren absolut auszuhalten und eine starke Schwellung hatte ich lediglich an einem Tag (was bei der aufwendigen Op zu erwarten war). Mit der Betreuung von Frau Claudia und ihrem Team bin ich ebenfalls sehr zufrieden. Außerdem möchte ich erwähnen, dass das Preis-Leistungsverhältnis absolut top ist! Keine 10 000€ für eine Nasen-Op.\nVielen Dank Herr prof. Dr. Maier und Team! ♥️",
+      "time": 1777957073,
+      "translated": false
+    },
+    {
       "author_name": "Sebastian D",
       "author_url": "https://www.google.com/maps/contrib/113272972204190025896/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQrqURXS_msQ89EoTf7IhJT4btWpSC2jOfwlQagqlOFarqFw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Unser Sohn ist seit 2 Jahren dort bei Dr. Mühlmeier Patient und wir fühlen uns unfassbar gut aufgehoben. Es wir sich Zeit für das Kind genommen, die Bedürfnisse und Sorgen der Eltern werden stets ernst genommen und zu allem Überfluss bekommt man immer einen Termin innerhalb weniger Tage. Ich kann die Klinik jedem uneingeschränkt empfehlen.",
+      "time": 1776957333,
+      "translated": false
+    },
+    {
+      "author_name": "Sebastian D",
+      "author_url": "https://www.google.com/maps/contrib/113272972204190025896/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQrqURXS_msQ89EoTf7IhJT4btWpSC2jOfwlQagqlOFarqFw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Unser Sohn ist seit 2 Jahren dort bei Dr. Mühlmeier Patient und wir fühlen uns unfassbar gut aufgehoben. Es wir sich Zeit für das Kind genommen, die Bedürfnisse und Sorgen der Eltern werden stets ernst genommen und zu allem Überfluss bekommt man immer einen Termin innerhalb weniger Tage. Ich kann die Klinik jedem uneingeschränkt empfehlen.",
       "time": 1776957333,
       "translated": false
@@ -49,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "hansi horst",
+      "author_url": "https://www.google.com/maps/contrib/105831148289856848239/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwJeatL8jKbTMXufCefa8iQXH0Fopw3CoqNzNXIFFQHso87Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Einige 'Ärzte des Areion Kompetenzzentrums betrachten Ihre hilfesuchenden Patienten als Vermögensabschöpfungsquelle!\n\nFachlich: 5/5\nGeschäftlich: erbrachte Leistungen mit abgerechneter Leistung gegenchecken empfohlen!",
+      "time": 1769926918,
+      "translated": false
+    },
+    {
       "author_name": "Dieter Müller",
       "author_url": "https://www.google.com/maps/contrib/115290588021440971070/reviews",
       "language": "de",
@@ -62,11 +98,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 134,
+  "reviewCount": 135,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:30:52.835Z"
+  "lastUpdated": "2026-05-05T15:26:53.169Z"
 }

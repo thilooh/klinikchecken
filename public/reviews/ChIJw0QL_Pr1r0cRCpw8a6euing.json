@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Barbara",
+      "author_url": "https://www.google.com/maps/contrib/101155815730565696708/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdFTYBu4JZzOy4QaWXAKFG5-elUshOHCFzTUPt_LHHnNu7ZA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777963833,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Langnickel",
+      "author_url": "https://www.google.com/maps/contrib/107448587541100069513/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5F_K3PEQZLCwo6VI-EvX54GHYU6dbmUVEiUbCOIw14jxaroD5=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Klasse Betreuung, alle freundlich zuvorkommend einfach Top",
+      "time": 1777567179,
+      "translated": false
+    },
+    {
       "author_name": "Ivona Jankovic",
       "author_url": "https://www.google.com/maps/contrib/104805591645546511798/reviews",
       "language": "hr",
@@ -11,6 +33,18 @@
       "text": "Veoma cisto uredno ,bila sam sa prijateljem koji je vec tamo operirana,njegove recenzije su 5,0",
       "time": 1776964509,
       "translated": false
+    },
+    {
+      "author_name": "Ivona Jankovic",
+      "author_url": "https://www.google.com/maps/contrib/104805591645546511798/reviews",
+      "language": "de",
+      "original_language": "hr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9QYKPDBsgvEv9OWk6mMyQRKIBwmrolCKFyrsq6I71rsoS0Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr sauber und ordentlich. Ich war mit einem Freund dort, der sich dort bereits einer Operation unterzogen hatte; seine Bewertung liegt bei 5,0.",
+      "time": 1776964509,
+      "translated": true
     },
     {
       "author_name": "Lothar Ludwig",
@@ -32,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2jCyqjjeTlN_7eTzTVqSDYUH7f5Fr1e4kiRFsCreBcaueHA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Idyllisch gelegene Klinik mit hervorragenden Ärzten für Venenleiden und Orthopädie",
+      "time": 1775474837,
+      "translated": false
+    },
+    {
+      "author_name": "Lothar Ludwig",
+      "author_url": "https://www.google.com/maps/contrib/107541640597404475132/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2jCyqjjeTlN_7eTzTVqSDYUH7f5Fr1e4kiRFsCreBcaueHA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Idyllisch gelegene Klinik mit hervorragenden Ärzten für Venenleiden und Orthopädie",
       "time": 1775474837,
       "translated": false
@@ -72,11 +118,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 141,
+  "reviewCount": 143,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-04-28T07:30:45.580Z"
+  "lastUpdated": "2026-05-05T15:26:44.937Z"
 }

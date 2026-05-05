@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Haertel",
+      "author_url": "https://www.google.com/maps/contrib/100609497009520493175/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrdQu1pRGNXin9lzGXNh9ZZ5SIhqGx9OABye9iaFHfbLE3Ubis=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Im September 2025 wurde mir hier ein Lipom entfernt. Mai 2026 habe ich das neu entstandene Lipom bei einem anderen Arzt wieder entfernen lassen. Was für ein grosser Unterschied sowohl während der Op als auch nach der OP. Kann die Praxis wirklich nicht empfehlen",
+      "time": 1777629231,
+      "translated": false
+    },
+    {
+      "author_name": "Jan Luca",
+      "author_url": "https://www.google.com/maps/contrib/117949012982466024600/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWIML7IpSAAco0DuWVN_fM0GTQJNN6TDl__Paiu8owCjKkMTAX=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777452626,
+      "translated": false
+    },
+    {
       "author_name": "Elias",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
@@ -20,11 +42,35 @@
       "translated": false
     },
     {
+      "author_name": "Elias",
+      "author_url": "https://www.google.com/maps/contrib/112371488380949642340/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHIpPq5ucPzqapXiCagO2MSXtSk1T9-EcReys8nxRSQ0JBKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war vor kurzem beim Hautarzt im MVZ am Reeser Platz wegen eines Knubbels auf meiner Kopfhaut. Die Ärztin dort meinte, es sei eine verstopfte Talgdrüse und die Entfernung würde 150 € kosten.\n\nDa mir das teuer vorkam, habe ich mir eine zweite Meinung eingeholt – bei Dr. Brandt in Rath. Er erklärte mir, dass es sich nicht um eine verstopfte Talgdrüse, sondern um ein Muttermal handelt. Die Entfernung hätte er sogar ohne zusätzliche Kosten durchgeführt.\n\nIch bin sehr froh, dass ich mir noch eine zweite Meinung geholt habe. Dr. Brandt war außerdem sehr freundlich und zuvorkommend. Persönlich habe ich dort eine deutlich bessere Erfahrung gemacht.",
+      "time": 1776636288,
+      "translated": false
+    },
+    {
       "author_name": "Roland Kern",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
       "text": "Über die Leistung der Ärzte kann ich hier nichts sagen, da ich bereits an der Rezeptionistin gescheitert bin... Nach erfolgter Hautkrebs-OP am Augenlied durch den Augenarzt wollte ich ein weiteres ganzkörper Screening machen lassen, was lt. Rezeptionistin nicht mehr nötig sei, da der Krebs ja bereits entfernt wurde...\nWenn Doktoren Hack/Lazek diese Rezension lesen, besprechen Sie vielleicht mal mit Ihrem Team, wer in Ihrem Haus Diagnosen stellt.",
       "time": 1776249143
+    },
+    {
+      "author_name": "Roland Kern",
+      "author_url": "https://www.google.com/maps/contrib/109930828340008919575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcMgazvZ09V_fGpfrnIgbLDI6A5h2AqAIiT9e-16TjJkurJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Über die Leistung der Ärzte kann ich hier nichts sagen, da ich bereits an der Rezeptionistin gescheitert bin... Nach erfolgter Hautkrebs-OP am Augenlied durch den Augenarzt wollte ich ein weiteres ganzkörper Screening machen lassen, was lt. Rezeptionistin nicht mehr nötig sei, da der Krebs ja bereits entfernt wurde...\nWenn Doktoren Hack/Lazek diese Rezension lesen, besprechen Sie vielleicht mal mit Ihrem Team, wer in Ihrem Haus Diagnosen stellt.",
+      "time": 1776249143,
+      "translated": false
     },
     {
       "author_name": "Dominik Breidohr",
@@ -60,8 +106,8 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 92,
+  "rating": 4.3,
+  "reviewCount": 94,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:35.931Z"
+  "lastUpdated": "2026-05-05T15:26:35.183Z"
 }

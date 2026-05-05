@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Petra Karell",
+      "author_url": "https://www.google.com/maps/contrib/102359206056290797591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB42qCkxuNO_FWk6MkQh4-AVXLYRrB6xFBoGhvUNdK8c6URQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein Mann und ich haben uns schon öfter dort die Krampfadern entfernen lassen. Sind jedes Mal mehr als zufrieden. Frau Dr. Brunner und Frau Dr.Woronowicz machen eine super Arbeit. Hatten nie Probleme. Auch die Angestellten sind immer sehr freundlich. Man fühlt sich dort gut aufgehoben. Immer wieder gerne. Weiter so.",
+      "time": 1777393591,
+      "translated": false
+    },
+    {
       "author_name": "Sandra Saleem",
       "author_url": "https://www.google.com/maps/contrib/103703827228622283241/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYwz_pQ-o2InREgbqDAu8K0-Qu3dy97oFf1W5DbfmXfJgtPtSSKw=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYwz_pQ-o2InREgbqDAu8K0-Qu3dy97oFf1W5DbfmXfJgtPtSSKw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1776679838,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra Saleem",
+      "author_url": "https://www.google.com/maps/contrib/103703827228622283241/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYwz_pQ-o2InREgbqDAu8K0-Qu3dy97oFf1W5DbfmXfJgtPtSSKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1776679838,
       "translated": false
@@ -68,11 +90,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 51,
+  "reviewCount": 52,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:30:55.664Z"
+  "lastUpdated": "2026-05-05T15:26:56.287Z"
 }

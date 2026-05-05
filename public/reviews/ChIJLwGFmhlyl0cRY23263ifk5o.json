@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Oliver Gall",
+      "author_url": "https://www.google.com/maps/contrib/118141524582570556458/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbbDCuAdmhINzJHcq_Do8enXzVvbU1Nh5NA6tqq1l9P51GsQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Guter Arzt und gutes Team.fphle mich gut aufgehoben.kann ich weiterempfehlen",
+      "time": 1777562993,
+      "translated": false
+    },
+    {
       "author_name": "Gerlinde Reiling",
       "author_url": "https://www.google.com/maps/contrib/108193604731166051210/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbFfAPbw7pCL-CPZdcEOdtQvFm4WUOsws0N3fZTftfrRdKRA=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbFfAPbw7pCL-CPZdcEOdtQvFm4WUOsws0N3fZTftfrRdKRA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1776672462,
+      "translated": false
+    },
+    {
+      "author_name": "Gerlinde Reiling",
+      "author_url": "https://www.google.com/maps/contrib/108193604731166051210/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbFfAPbw7pCL-CPZdcEOdtQvFm4WUOsws0N3fZTftfrRdKRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1776672462,
       "translated": false
@@ -40,6 +62,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnhlY5D0-PTiIYDLgSgHap17O18h151dVnmqbObedUiMdgYw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "War das erste Mal bei Dr. Hammer.habe einen sehr guten Eindruck von dieser Praxis. Er hat mir sehr deutlich und ohne Umschweife erklärt, was Sache ist. Vor allen Dingen hat mir seine Aussage gefallen \"Da können Sie ruhig quetschen mit dem Kompressionsgerät, es tut mit Sicherheit gut, behebt aber die Ursache nicht. Die Strümpfe, die er mir verschrieben hat, sitzen einwandfrei. Werde in ein paar Monaten wieder vorbeischaun, auch die Rezeptionein tolles Team",
+      "time": 1776665234,
+      "translated": false
+    },
+    {
+      "author_name": "Sylke Jaenecke",
+      "author_url": "https://www.google.com/maps/contrib/115286530832917409173/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnhlY5D0-PTiIYDLgSgHap17O18h151dVnmqbObedUiMdgYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "War das erste Mal bei Dr. Hammer.habe einen sehr guten Eindruck von dieser Praxis. Er hat mir sehr deutlich und ohne Umschweife erklärt, was Sache ist. Vor allen Dingen hat mir seine Aussage gefallen \"Da können Sie ruhig quetschen mit dem Kompressionsgerät, es tut mit Sicherheit gut, behebt aber die Ursache nicht. Die Strümpfe, die er mir verschrieben hat, sitzen einwandfrei. Werde in ein paar Monaten wieder vorbeischaun, auch die Rezeptionein tolles Team",
       "time": 1776665234,
       "translated": false
@@ -60,6 +94,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRxDaGfj30iCOOkxq-0oOuzimP5b4xXDQUs0gNciDW3S35ow=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1776115392,
+      "translated": false
+    },
+    {
+      "author_name": "Elena Schneider",
+      "author_url": "https://www.google.com/maps/contrib/113904508953376095155/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRxDaGfj30iCOOkxq-0oOuzimP5b4xXDQUs0gNciDW3S35ow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1776115392,
       "translated": false
@@ -90,11 +134,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 51,
+  "reviewCount": 52,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:12.782Z"
+  "lastUpdated": "2026-05-05T15:27:15.836Z"
 }

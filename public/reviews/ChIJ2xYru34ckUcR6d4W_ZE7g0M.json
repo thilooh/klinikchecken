@@ -1,11 +1,45 @@
 {
   "reviews": [
     {
+      "author_name": "Viktor Tirischkin",
+      "author_url": "https://www.google.com/maps/contrib/102652216201884912029/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUV5IyM8k66gSmk0U81RdaR-vRz5_TuXHG6-RLe0f1cXDfvmYMm=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich und mein Kind waren so unendlich dankbar als wir den Zuschlag für eine Terminanfrage in dieser überaus renommierten Praxis bekommen haben. Nach nur 3. Monate Wartezeit durften wir endlich die Stätte des Wirkens der Halbgötter in Weiß und Ihrer Bediensteten beehren. Hierfür mussten durch uns zahlreiche Hürden gemeistert werden; Nach dem die Freistellung von Arbeit, Schule, Koordination Abholzeiten über mehrere Onlineformulare, Mailkommunikation, Koordination mit Lehr- und Arbeitskräften und Letztens das Schulessen abbestellt gemeistert war, war es soweit, die Weichen für den Besuch waren gestellt und dem Behandlungsglück stand scheinbar nichts im Wege. Die Pforte im Dritten liegt hoch, der Einlass will verdient werden. Beim Anblick des Zuritt war uns klar, zwischen uns und denen uns Welten trennten, Plexiglasplatten sind ein unmissverständliches Zeichen, man will sich vom gemeinen erheben.\nOh Schreck der Schlüssel! bei all dem machen und Unvollkommenheit, die Karte, nicht dabei, wir sind nicht würdig. Die Dame Mahnte \"wenn Sie zum Einkaufen gehen, brauchen Sie das Geld\" und alles Eindringliche hat nichts genützt, das Kind verängstigt, wir mussten gehen.\n\nAlso auch nur Verkäufer...\n\nBeachte, eine Termin-Absage in dieser Stätte gleicht einer Herabwürdigung, du wirst für alle Zeit verstoßen ;-)",
+      "time": 1777991722,
+      "translated": false
+    },
+    {
+      "author_name": "Master G",
+      "author_url": "https://www.google.com/maps/contrib/117879150369069635736/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5b8eICMVNCilSPekgjM4UmGDZZtdDXhJ0kdF7NRZ3q3U3OC9k=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Dr. med. Athanasios Theodoridis – einer der besten Hautärzte, bei denen ich in den letzten Jahren war.\nSehr nett und professionell. Er hat meine auffälligen Muttermale gescannt und bewertet.\nDazu gab es noch ein paar Tipps zum beginnend lichter werdenden Haar.\nTop Doc! Danke",
+      "time": 1777973767,
+      "translated": false
+    },
+    {
       "author_name": "Valentin Bauer",
       "author_url": "https://www.google.com/maps/contrib/111549128758791962886/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd3QDu3LoCfLrPzDRMnWna8NzgMmM3FcProtq1qPv2q2f1uLuD=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1775814931,
+      "translated": false
+    },
+    {
+      "author_name": "Valentin Bauer",
+      "author_url": "https://www.google.com/maps/contrib/111549128758791962886/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd3QDu3LoCfLrPzDRMnWna8NzgMmM3FcProtq1qPv2q2f1uLuD=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1775814931,
       "translated": false
@@ -18,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILzRAk96DIyx758pd7g80eWiezE20KFC2UYuHN-BJjhqBjfQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich hatte am 30.03 an beiden Beinen eine Venen OP und bin Super zufrieden. Das ganze Team ist sehr nett und hilfsbereit. Vielen Dank für alles. LG...und Frohe Ostern..",
+      "time": 1775147307,
+      "translated": false
+    },
+    {
+      "author_name": "Claudia Hübsch",
+      "author_url": "https://www.google.com/maps/contrib/107978236243019579964/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILzRAk96DIyx758pd7g80eWiezE20KFC2UYuHN-BJjhqBjfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich hatte am 30.03 an beiden Beinen eine Venen OP und bin Super zufrieden. Das ganze Team ist sehr nett und hilfsbereit. Vielen Dank für alles. LG...und Frohe Ostern..",
       "time": 1775147307,
       "translated": false
@@ -57,12 +103,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 164,
+  "rating": 4.3,
+  "reviewCount": 166,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:30:51.967Z"
+  "lastUpdated": "2026-05-05T15:26:52.047Z"
 }

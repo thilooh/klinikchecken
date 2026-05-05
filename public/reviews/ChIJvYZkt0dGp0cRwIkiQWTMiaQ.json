@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Isabel Wohlgemuth",
+      "author_url": "https://www.google.com/maps/contrib/115506282023926569173/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVqt0lfujOtW2uLp7SlsHBFI2zAtxyfwPLqW5hd-RTtzAOu23_=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meine Erfahrungen waren durchweg positiv. Ich habe eine Untersuchung und Behandlung aus Angst lange rausgezögert. Rückblickend war das jedoch völlig unbegründet. Beim ersten Termin wurden bei mir mehrere defekte Venenklappen festgestellt und eine Operation empfohlen. Aus Angst vor einer OP, habe ich danach noch einmal einen Termin vereinbart, bei dem Dr. Jablonski mir den Eingriff genau erklärt hat. Seine ruhige, kompetente und verständnisvolle Art hat mich wirklich beruhigt. Ich hatte wirklich das Gefühl, dass er meine Sorgen ernst nimmt. Am Tag meiner OP war das ganze Team auch durchweg freundlich. Mir wurde alles im Vorfeld immer genau erklärt und die OP selbst verging wie im Flug. Ich hatte auch während des Eingriffs keine Schmerzen und wurde gut betreut. Die Nachsorge erfolgt ebenso gewissenhaft. Man braucht sich wirklich keine Sorgen machen. Meine Ängste im Vorfeld wären nicht nötig gewesen und ich kann die Praxis und Herrn Dr. Jablonski wärmstens weiterempfehlen.",
+      "time": 1777379851,
+      "translated": false
+    },
+    {
       "author_name": "margit jentzsch",
       "author_url": "https://www.google.com/maps/contrib/111543090920844860441/reviews",
       "language": "de",
@@ -62,11 +74,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 45,
+  "reviewCount": 46,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-04-28T07:30:57.169Z"
+  "lastUpdated": "2026-05-05T15:26:57.988Z"
 }

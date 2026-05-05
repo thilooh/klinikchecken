@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bert Poeten",
+      "author_url": "https://www.google.com/maps/contrib/116289088828961378017/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS6sXN1RGGXZK7vcTiJvgeYiME8U9leQjS96ahSSrs812SeNLp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit ca. 5 Jahren bei Herrn Dr. Krug in Behandlung und jedesmal äußerst zufrieden. Dr. Krug ist kompetent, gründlich, freundlich und geduldig. Jede Frage wird ausführlich und eindeutig beantwortet.\nWas mir besonders gefällt: Dr. Krug sieht den gesamten Menschen mit all seinen Sorgen und Ängsten, nicht nur ein paar Meter Blutgefäße!\nDie Praxis ist bestens organisiert, alle Mitarbeiterinnen ausgesprochen hilfsbereit.\nUneingeschränkte Empfehlung!!!",
+      "time": 1777969043,
+      "translated": false
+    },
+    {
       "author_name": "Joachim Neve",
       "author_url": "https://www.google.com/maps/contrib/115615652815690293066/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoG8u_dmlgEx7xBZFuAFSblw0l-SJL-5TFNALoLrkY5YU5Ff6iMA=s128-c0x00000000-cc-rp-mo-ba4",
@@ -18,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfGGAn1WLjx-smzeu4XMBvAiNv5t4X2LWdt1k6xz8KXvTBrmskbw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "sehr professionell,sehr kompetent, freundliche Rundum-Versorgung",
+      "time": 1772781978,
+      "translated": false
+    },
+    {
+      "author_name": "Alfried Große",
+      "author_url": "https://www.google.com/maps/contrib/117877085684633208302/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfGGAn1WLjx-smzeu4XMBvAiNv5t4X2LWdt1k6xz8KXvTBrmskbw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "sehr professionell,sehr kompetent, freundliche Rundum-Versorgung",
       "time": 1772781978,
       "translated": false
@@ -59,8 +83,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 42,
+  "rating": 4.7,
+  "reviewCount": 43,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:42.716Z"
+  "lastUpdated": "2026-05-05T15:26:41.784Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Michael zur Heiden",
+      "author_url": "https://www.google.com/maps/contrib/106185790843895825242/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJolmxrwcoYM3c_dd4SEwcxoRA4OPzsHY49T3zyG_MdFbPDMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Behandlung !!!",
+      "time": 1777655025,
+      "translated": false
+    },
+    {
+      "author_name": "Guido Röttgers",
+      "author_url": "https://www.google.com/maps/contrib/111748176462509453863/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRZIM1hpNMBEbeRvHkJvK2uoJ-b0bPWGP8yIwhaXAr4GXTjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis von Frau Dr. Haut ist hervorragend geführt und organisiert. Kurze Wartezeiten, moderne Einrichtung und Geräte sowie eine wirklich tolle Arbeit wird geboten.\nWenn auch etwas teurer als andere Praxen, kann ich Frau Dr. Haut in jedem Fall empfehlen.",
+      "time": 1777396367,
+      "translated": false
+    },
+    {
       "author_name": "Hikar Aydin",
       "author_url": "https://www.google.com/maps/contrib/113632147669384469795/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWQy634uNhLALt_ovHk9DI47VvJPOJRJ51Of1yogb-2iE5tw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Personal und Ärztin sehr freundlich, kümmernd, erklärend und fürsorglich. Man geht mit einem guten Gefühl aus der Praxis wieder raus.",
+      "time": 1776237912,
+      "translated": false
+    },
+    {
+      "author_name": "Hikar Aydin",
+      "author_url": "https://www.google.com/maps/contrib/113632147669384469795/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWQy634uNhLALt_ovHk9DI47VvJPOJRJ51Of1yogb-2iE5tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Personal und Ärztin sehr freundlich, kümmernd, erklärend und fürsorglich. Man geht mit einem guten Gefühl aus der Praxis wieder raus.",
       "time": 1776237912,
       "translated": false
@@ -25,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Tanja Hagemeister",
+      "author_url": "https://www.google.com/maps/contrib/105683137546797467179/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfoEhVMd9HOnvNMPaB7azYhCq-3FYE1obyPviBfXxJF4TTs2qu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war mit meinen beiden Mädels in der Praxis und wir wurden sehr gut und ausführlich untersucht und beraten - wirklich sehr freundlich und professionell! Wir fühlen uns in guten Händen!",
+      "time": 1776178179,
+      "translated": false
+    },
+    {
       "author_name": "wolfgang eckholt",
       "author_url": "https://www.google.com/maps/contrib/107796119293903273934/reviews",
       "language": "de",
@@ -32,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCkjdUoJx4ZPCp-rVV81iCKwp6dYP2Hy5jI0RAtRajuHbQuw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Die Praxis ist ausgezeichnet organisiert und arbeitet mit einem gut funktionierenden Zeitplan. Die höchst moderne Ausstattung Eröffnet Die unterschiedlichsten Behandlungsmethoden, von denen ich schon einige erlebt habe (Patient seit 2021). Das Haut Screening, z.B. mit Fotografischer Unterstützung, basiert stets auf einer sehr genauen Untersuchung durch Frau Doktor Haut selbst. Der persönliche Einsatz der Ärztin erscheint mir maximal; z.B. schafft sie es stets auch im laufenden Betrieb, ungeplante, unvorhersehbare kleine Operationen ad hoc unterzubringen. Die Kooperation mit einem Labor für Histologie funktioniert gut. Nach fünfjähriger Erfahrung mit mehreren Besuchen im Jahr bin ich Von der Qualität der Arbeit in dieser Praxis überzeugt.",
+      "time": 1776161042,
+      "translated": false
+    },
+    {
+      "author_name": "wolfgang eckholt",
+      "author_url": "https://www.google.com/maps/contrib/107796119293903273934/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCkjdUoJx4ZPCp-rVV81iCKwp6dYP2Hy5jI0RAtRajuHbQuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Die Praxis ist ausgezeichnet organisiert und arbeitet mit einem gut funktionierenden Zeitplan. Die höchst moderne Ausstattung Eröffnet Die unterschiedlichsten Behandlungsmethoden, von denen ich schon einige erlebt habe (Patient seit 2021). Das Haut Screening, z.B. mit Fotografischer Unterstützung, basiert stets auf einer sehr genauen Untersuchung durch Frau Doktor Haut selbst. Der persönliche Einsatz der Ärztin erscheint mir maximal; z.B. schafft sie es stets auch im laufenden Betrieb, ungeplante, unvorhersehbare kleine Operationen ad hoc unterzubringen. Die Kooperation mit einem Labor für Histologie funktioniert gut. Nach fünfjähriger Erfahrung mit mehreren Besuchen im Jahr bin ich Von der Qualität der Arbeit in dieser Praxis überzeugt.",
       "time": 1776161042,
       "translated": false
@@ -74,11 +134,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 74,
+  "reviewCount": 76,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:20.057Z"
+  "lastUpdated": "2026-05-05T15:27:24.032Z"
 }

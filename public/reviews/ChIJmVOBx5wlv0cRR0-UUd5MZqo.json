@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "elif Gencer",
+      "author_url": "https://www.google.com/maps/contrib/108406678616111349395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVfnDV9mU0Wb2PcZjUA2FscZl1q3lVkptWBoSi7hixQQ2iQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin absolut begeistert von der Praxis Derma Cologne. Man fühlt sich direkt wohl – das Team ist super freundlich und gleichzeitig total professionell.\n\nDie Beratung war ausführlich, ehrlich und individuell auf mich abgestimmt, ohne dass einem etwas aufgedrängt wird. Die Behandlung selbst war auf höchstem Niveau und ich habe schnell Verbesserungen gesehen.\n\nAuch die Atmosphäre ist einfach top: modern, sauber und sehr angenehm. Ich kann die Praxis von Herzen weiterempfehlen und komme definitiv wieder!",
+      "time": 1777389821,
+      "translated": false
+    },
+    {
       "author_name": "S K",
       "author_url": "https://www.google.com/maps/contrib/101742474909894029994/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "S K",
+      "author_url": "https://www.google.com/maps/contrib/101742474909894029994/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ-oOCBEzfZKt73Mi9yR7W-Uyo16ItV1ZJh2dHlet5OJFoxQ8KyQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Früher war ich gerne in dieser Praxis, aber leider hat die Qualität deutlich nachgelassen.\n\nDie Organisation wirkt chaotisch – man wird jedes Mal von einem anderen Arzt behandelt, die rothaarige mfg ist ultra laut und unfreundlich.\n\nBei der Entfernung eines Muttermals wurde mir zunächst gesagt, es sei alles in Ordnung. Nach dem Laborbericht sollte dann plötzlich nochmal nachgeschnitten werden, da angeblich noch ein minimaler Rest vorhanden sei. Für mich war das nicht nachvollziehbar und wirkte insgesamt wenig sorgfältig.\n\nInsgesamt hatte ich nicht das Gefühl, gut aufgehoben zu sein, und werde die Praxis daher nicht mehr aufsuchen.",
+      "time": 1777138823,
+      "translated": false
+    },
+    {
       "author_name": "Leon",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
@@ -20,11 +44,35 @@
       "time": 1776849352
     },
     {
+      "author_name": "Leon",
+      "author_url": "https://www.google.com/maps/contrib/108858437468675154124/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6Ik0qDqm-gVqZZ_UTnzmfHAzVbNmeWihT1AkfotltVm62wQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nimmt laut Buchungsportal keine neuen gesetzlichen Patienten an. Da ich mich erst durch den Anrufroboter und Doktolib kämpfen und klicken musste, um das herauszufinden, dachte ich, erwähne ich das hier mal.",
+      "time": 1776849352,
+      "translated": false
+    },
+    {
       "author_name": "Murat gözübüyük",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
       "text": "Ich bin langjähriger Patient in dieser Praxis.  Termine werden schnell vergeben auch bei Rezeptanfragen kann ich nichts bemängeln. Ich kann diese Praxis sehr gut weiterempfehlen.",
       "time": 1776337307
+    },
+    {
+      "author_name": "Murat gözübüyük",
+      "author_url": "https://www.google.com/maps/contrib/101092532586086655810/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdkqqDZBQZwVFoo8Ozt213afjAOtDXJf3J2n_KdwFpGSLzyUk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin langjähriger Patient in dieser Praxis.  Termine werden schnell vergeben auch bei Rezeptanfragen kann ich nichts bemängeln. Ich kann diese Praxis sehr gut weiterempfehlen.",
+      "time": 1776337307,
+      "translated": false
     },
     {
       "author_name": "Julian",
@@ -49,7 +97,7 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 49,
+  "reviewCount": 50,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:34.020Z"
+  "lastUpdated": "2026-05-05T15:26:32.830Z"
 }

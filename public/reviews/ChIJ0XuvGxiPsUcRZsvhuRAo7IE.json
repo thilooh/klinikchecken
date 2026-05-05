@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Ahmed Shihab",
+      "author_url": "https://www.google.com/maps/contrib/104126565161631110792/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3bZaelnDF7Yy3ezPD-Gzh2aEFQEMM1wGqION90EnZfgoXUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach langen Monaten des Wartens und nachdem ich viel Geld bezahlt habe, habe ich entdeckt, dass die Ärzte überhaupt nicht wissen, was genau mein Problem ist, und sie kennen auch die Behandlungsmethode nicht. Der beste Ort, um Zeit und Geld ohne nennenswerte Ergebnisse zu verschwenden.",
+      "time": 1777920343,
+      "translated": false
+    },
+    {
+      "author_name": "Lars Richter",
+      "author_url": "https://www.google.com/maps/contrib/102306181383909127653/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW95__suh6R2btALT2s9HjS4YaRcNzRxUpFOdI2_8Op5-HNsTpe=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777911316,
+      "translated": false
+    },
+    {
+      "author_name": "Karina Peters",
+      "author_url": "https://www.google.com/maps/contrib/112762237052858163460/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVvKqxYxSNaDTvhQbjWy1qVmBIqm2bt3S7fAtQi2poJTqKWg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "„Absolute Empfehlung für Haar- und Kopfhautprobleme!\nNach langer Suche habe ich hier endlich Hilfe gefunden. Frau Dr. Strobel hat sich sehr viel Zeit für die Diagnose (Folliculitis decalvans/LPP) genommen und einen klaren Behandlungsplan erstellt. Man fühlt sich hier als Patient mit komplexen Problemen ernst genommen und fachlich auf höchstem Niveau betreut. Auch wenn man als Selbstzahler kommt: Die Expertise ist jeden Cent wert!“",
+      "time": 1777564540,
+      "translated": false
+    },
+    {
+      "author_name": "Dietmar Hartinger",
+      "author_url": "https://www.google.com/maps/contrib/107052400428013442383/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNWOxs3sPl590WKEZShgNV-95xg-jsIKQ7HU-Nf-6fpxjXAg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Letztes Jahr wurden die Einschränkungen des Gesichtsfeld durch meine Oberlider immer deutlicher.\nIm November 2025 ging ich ins Dermatologicum, Hamburg zum Vorgespräch.  Dort lernte ich Frau Dr. Dr. Stier kennen. Schnell wusste ich, dass ich, ohne es zu wissen, genau die richtige Ärztin gefunden habe - umfassende Beratung über die Möglichkeiten der Behandlung und die beste Mischung aus Kompetenz und Empathie.\nIm Februar 2026 war der OP-Termin. Zur OP durfte ich mir sogar meine Musik von U2 aussuchen - was für ein schöner Luxus.\nAlles lief bestens und heute genieße ich mein großes Sichtfeld jeden Tag.\nVielen lieben Dank dafür und alles Gute, liebe Frau Dr. Stier.",
+      "time": 1777542080,
+      "translated": false
+    },
+    {
       "author_name": "Verena",
       "author_url": "https://www.google.com/maps/contrib/111126555682642375377/reviews",
       "language": "de",
@@ -8,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE-KLA62tK_bD2siHJURXnKpJT2r5Z8LrBAiLOZU9dergTEUU=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Desaströse telefonische Erreichbarkeit, bzw. keine Erreichbarkeit. Obwohl das oft adressiert wurde, ändert sich nichts.",
+      "time": 1777356678,
+      "translated": false
+    },
+    {
+      "author_name": "Verena",
+      "author_url": "https://www.google.com/maps/contrib/111126555682642375377/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE-KLA62tK_bD2siHJURXnKpJT2r5Z8LrBAiLOZU9dergTEUU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Desaströse telefonische Erreichbarkeit, bzw. keine Erreichbarkeit. Obwohl das oft adressiert wurde, ändert sich nichts.",
       "time": 1777356678,
       "translated": false
@@ -94,7 +152,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 412,
+  "reviewCount": 416,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:40.241Z"
+  "lastUpdated": "2026-05-05T15:26:39.074Z"
 }

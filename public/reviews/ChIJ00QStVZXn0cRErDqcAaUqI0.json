@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "nesrin G.",
+      "author_url": "https://www.google.com/maps/contrib/110817952128830199787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8IKRXIqmgdRtTC4e089kRFN5stGw8k4j5EOQqVS53kq7iZK4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "5/5 Sterne – absolute Empfehlung!\n\nIch bin sehr zufrieden mit meiner Behandlung. Für die Untersuchung musste ich nicht lange warten, und die Ärztin hat die Behandlung direkt durchgeführt. Auch nach dem Eingriff hat sie sich sehr aufmerksam und fürsorglich um mich gekümmert.\n\nDie Behandlung liegt jetzt zwei Wochen zurück, und bisher habe ich keinerlei negative Hautreaktionen. Das Erscheinungsbild meiner sichtbaren Äderchen hat sich bereits deutlich verbessert – für das endgültige Ergebnis muss ich natürlich noch etwas abwarten.\n\nBesonders positiv hervorheben möchte ich auch die ehrliche und transparente Beratung zu den Kosten. Man hatte jederzeit das Gefühl, fair und offen informiert zu werden.\n\nDie Ärztin sowie das gesamte Team waren außerdem ausgesprochen freundlich, herzlich und professionell.\n\nIch kann die Praxis mit bestem Gewissen weiterempfehlen!",
+      "time": 1777400051,
+      "translated": false
+    },
+    {
       "author_name": "Sebastian Peters",
       "author_url": "https://www.google.com/maps/contrib/117178835226930151882/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYcL4aGoFBb0li5QNSay6SXMsoM4ax1pDLdgnXVCGdwWVK3Sfd=s128-c0x00000000-cc-rp-mo",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Annamaria Brunhuber",
+      "author_url": "https://www.google.com/maps/contrib/108974578857055662077/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFQLq2ByRS8a2gDBHpTBU7gt1itI5EKOmfruZq8EPV52zT0w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "War zur Hautkrebsvorsorge als Selbstzahler dort. Die Ärztin war sehr nett, hat alles super erklärt und sich viel Zeit genommen, man fühlt sich wohl. Auch die Dame am Empfang war sehr freundlich. Alles top.",
+      "time": 1770125099,
+      "translated": false
+    },
+    {
       "author_name": "Лиза Сидоренко",
       "author_url": "https://www.google.com/maps/contrib/103607637961366379611/reviews",
       "language": "de",
@@ -42,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcb-2GSXSdgpPiT8geZd8-rb50TeRlPeYU8uZJWhkkhVMJWNY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Eine hervorragende Praxis! Ich bin zufällig vorbeigekommen, habe sie gesehen und bin ohne Terminal hineingegangen, um nach dem Preis zu fragen und einen Termin zu vereinbaren. Ich wurde sofort von einer sehr freundlichen Rezeptionistin und einem sehr freundlichen Arzt behandelt. Am nächsten Morgen wurde mir ein Termin gegeben, und alles war in einem Besuch erledigt. Keine Wartezeiten, keine Schlangen, kein Stress und keine Nervosität. Ausgezeichnet!",
+      "time": 1770033516,
+      "translated": true
+    },
+    {
+      "author_name": "Лиза Сидоренко",
+      "author_url": "https://www.google.com/maps/contrib/103607637961366379611/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcb-2GSXSdgpPiT8geZd8-rb50TeRlPeYU8uZJWhkkhVMJWNY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Eine hervorragende Praxis! Ich bin zufällig vorbeigekommen, habe sie gesehen und bin ohne Terminal hineingegangen, um nach dem Preis zu fragen und einen Termin zu vereinbaren. Ich wurde sofort von einer sehr freundlichen Rezeptionistin und einem sehr freundlichen Arzt behandelt. Am nächsten Morgen wurde mir ein Termin gegeben, und alles war in einem Besuch erledigt. Keine Wartezeiten, keine Schlangen, kein Stress und keine Nervosität. Ausgezeichnet!",
       "time": 1770033516,
       "translated": true
@@ -72,7 +108,7 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 12,
+  "reviewCount": 13,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:41.386Z"
+  "lastUpdated": "2026-05-05T15:26:40.354Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Annette Richter",
+      "author_url": "https://www.google.com/maps/contrib/112526055599424705104/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3UUvBzX46677mT97-yZNp-ZM_p-FdJjIM6cb8f4vgBcNpJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank für die nette freundliche und zuvorkommende Behandlung!😀",
+      "time": 1777459905,
+      "translated": false
+    },
+    {
       "author_name": "Vera Stecker",
       "author_url": "https://www.google.com/maps/contrib/107909895581435702768/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyG_afz_D1GEv9DXj34G5150tr80bGZefVdreoVY7Mmk5iZw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Eigentlich wollte ich erstmal nur eine Beratung und habe freundlich an der Anmeldung nachgefragt. Das war schon zuviel. Ich wurde von der \"Dame\" wie von einem \"Bullterrier\" weggebissen. Wobei das eine Beleidigung für alle Bullterrier ist.\nSo eine unfreundliche, böse Person ist mir tatsächlich noch nie begegnet.\nIhren Rat, es gäbe ja noch andere, die diese Leistungen anbieten, beherzige ich nun gerne. Danke für nichts.",
+      "time": 1775737002,
+      "translated": false
+    },
+    {
+      "author_name": "Vera Stecker",
+      "author_url": "https://www.google.com/maps/contrib/107909895581435702768/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyG_afz_D1GEv9DXj34G5150tr80bGZefVdreoVY7Mmk5iZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Eigentlich wollte ich erstmal nur eine Beratung und habe freundlich an der Anmeldung nachgefragt. Das war schon zuviel. Ich wurde von der \"Dame\" wie von einem \"Bullterrier\" weggebissen. Wobei das eine Beleidigung für alle Bullterrier ist.\nSo eine unfreundliche, böse Person ist mir tatsächlich noch nie begegnet.\nIhren Rat, es gäbe ja noch andere, die diese Leistungen anbieten, beherzige ich nun gerne. Danke für nichts.",
       "time": 1775737002,
       "translated": false
@@ -62,7 +86,7 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 70,
+  "reviewCount": 71,
   "summary": [],
-  "lastUpdated": "2026-04-28T07:30:40.456Z"
+  "lastUpdated": "2026-05-05T15:26:39.319Z"
 }

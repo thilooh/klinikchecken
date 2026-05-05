@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Mosblech",
+      "author_url": "https://www.google.com/maps/contrib/118063810465652707929/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHJGCr1yRiXvKxA6syPkOVVaeB9yCOGu_P1c3NWtkTjMo9jQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider keine gute Erfahrung bei diesem Hautarzt.\nAm Empfang wurde ich unfreundlich behandelt, und man hatte das Gefühl, ausgelacht zu werden. Als besorgte Mutter wurde ich überhaupt nicht ernst genommen. Statt Verständnis oder Empathie zu zeigen, wirkte der Umgang respektlos und abweisend. So sollte man mit Patienten und Angehörigen nicht umgehen. Ich habe mich dort sehr unwohl gefühlt und würde die Praxis nicht weiterempfehlen.",
+      "time": 1777894027,
+      "translated": false
+    },
+    {
+      "author_name": "Rudolf Wetzels",
+      "author_url": "https://www.google.com/maps/contrib/101828436028492841806/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaCEecVruV48iYfnN56wTYE_DSIY5wn_phYNNzd1x41LrXNu8K8g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777669847,
+      "translated": false
+    },
+    {
+      "author_name": "Schmitz Frank",
+      "author_url": "https://www.google.com/maps/contrib/101325039570857464416/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEpNu9DCRIEpPhAMsV9YpFrw1jqjZ3sMayjSC63cbz6p3KmZk8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an Frau Doktor Venten sowie das gesamte Team. Die Praxis sowie alle Mitarbeiter sind bestens organisiert, strukturiert und sehr freundlich und kompetent. Frau Dr. Venten überzeugt durch fachliche Kompetenz gepaart mit dem richtigen Einfühlungsvermögen für die Patienten. Eine absolute Empfehlung für Vorsorge, Behandlung und Nachsorge! ☺️👍🏻",
+      "time": 1777398655,
+      "translated": false
+    },
+    {
       "author_name": "Sven Hinzmann",
       "author_url": "https://www.google.com/maps/contrib/102720377631740199589/reviews",
       "language": "de",
@@ -62,11 +96,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 100,
+  "reviewCount": 102,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-04-28T07:31:02.574Z"
+  "lastUpdated": "2026-05-05T15:27:04.266Z"
 }
