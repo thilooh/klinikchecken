@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import ArticleLayout from './ArticleLayout'
-import { CTABox, FAQSection, TableOfContents, type FAQItem, type TocSection } from './components'
+import { CTABox, FAQSection, TableOfContents, useHashScroll, type FAQItem, type TocSection } from './components'
 import { sendEvent } from '../../lib/gtm'
 
 const sans = "'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
@@ -141,15 +141,15 @@ const SCHEMA = {
   '@graph': [
     {
       '@type': 'Article',
-      headline: 'Besenreiser entfernen: Kosten 2026 im Überblick (Laser, Verödung & Co.)',
-      description: 'Was kostet eine Besenreiser-Entfernung wirklich? Aktuelle Preise pro Sitzung & Gesamtkosten für Laser, Verödung und Schaumverödung - plus: Was die Krankenkasse zahlt.',
+      headline: 'Besenreiser entfernen: Kosten 2026 im Überblick',
+      description: 'Was kostet eine Besenreiser-Entfernung in Deutschland? Preise pro Sitzung, Gesamtkosten für beide Beine - und was die Krankenkasse übernimmt.',
       image: 'https://www.besenreiser-check.de/besenreiser-check-logo5.png',
       datePublished: '2026-05-03',
       dateModified: '2026-05-03',
       author: {
         '@type': 'Organization',
-        name: 'Besenreiser-Check.de',
-        url: 'https://www.besenreiser-check.de',
+        name: 'Redaktion Besenreiser-Check.de',
+        url: 'https://www.besenreiser-check.de/ueber-uns',
       },
       publisher: {
         '@type': 'Organization',
@@ -172,7 +172,7 @@ const SCHEMA = {
     {
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Startseite', item: 'https://www.besenreiser-check.de/' },
+        { '@type': 'ListItem', position: 1, name: 'Startseite', item: 'https://www.besenreiser-check.de' },
         { '@type': 'ListItem', position: 2, name: 'Ratgeber', item: 'https://www.besenreiser-check.de/ratgeber' },
         { '@type': 'ListItem', position: 3, name: 'Besenreiser entfernen: Kosten', item: URL },
       ],
@@ -189,6 +189,8 @@ export default function BesenreiserEntfernenKostenPage() {
       content_category: 'ratgeber',
     })
   }, [])
+
+  useHashScroll()
 
   // Scroll-depth tracking (50%, 100%) - same pattern as PraxisWaehlenPage convention.
   const fired = useRef({ d50: false, d100: false })

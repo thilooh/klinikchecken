@@ -1,6 +1,22 @@
 // Shared components for ratgeber articles. Each article still owns its
 // own SECTIONS list and FAQS list - these components just render them.
+import { useEffect } from 'react'
 import { sendEvent } from '../../lib/gtm'
+
+// SPA hash navigation: when arriving at /article#section, the hash often
+// resolves before the article body has mounted, so the browser fails to
+// scroll. This hook schedules a scrollIntoView for the next paint.
+export function useHashScroll() {
+  useEffect(() => {
+    if (typeof window === 'undefined') return
+    if (!window.location.hash) return
+    const id = window.location.hash.slice(1)
+    requestAnimationFrame(() => {
+      const el = document.getElementById(id)
+      if (el) el.scrollIntoView({ behavior: 'auto', block: 'start' })
+    })
+  }, [])
+}
 
 const sans = "'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
 

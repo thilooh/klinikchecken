@@ -60,20 +60,59 @@ export default function ArticleLayout({
   onCtaClick,
   children,
 }: ArticleLayoutProps) {
-  // Set page title + meta description
+  // Set page title + meta description + canonical + per-article OG/Twitter tags.
+  // SPA caveat: social crawlers (Facebook/LinkedIn/WhatsApp) don't render JS, so
+  // they still see the static og:* tags from index.html. This useEffect is purely
+  // for Googlebot, which does render JS. A static-prerender step would be needed
+  // to fix social-share previews; tracked separately.
   useEffect(() => {
     const prev = document.title
     document.title = meta.pageTitle
+
     const desc = document.querySelector('meta[name="description"]')
     const prevDesc = desc?.getAttribute('content') ?? ''
     desc?.setAttribute('content', meta.pageDescription)
+
     const canon = document.querySelector('link[rel="canonical"]')
     const prevCanon = canon?.getAttribute('href') ?? ''
-    canon?.setAttribute('href', `https://www.besenreiser-check.de${meta.canonicalPath}`)
+    const articleUrl = `https://www.besenreiser-check.de${meta.canonicalPath}`
+    canon?.setAttribute('href', articleUrl)
+
+    // Update or create-on-demand OG/Twitter meta tags. We track each tag's
+    // previous content (or whether we created it from scratch) so the cleanup
+    // restores the head exactly.
+    function setMeta(
+      attr: 'name' | 'property',
+      key: string,
+      value: string,
+    ): () => void {
+      let el = document.querySelector(`meta[${attr}="${key}"]`) as HTMLMetaElement | null
+      if (el) {
+        const prev = el.getAttribute('content') ?? ''
+        el.setAttribute('content', value)
+        return () => el?.setAttribute('content', prev)
+      }
+      el = document.createElement('meta')
+      el.setAttribute(attr, key)
+      el.setAttribute('content', value)
+      document.head.appendChild(el)
+      return () => el?.remove()
+    }
+
+    const restorers: Array<() => void> = [
+      setMeta('property', 'og:title', meta.pageTitle),
+      setMeta('property', 'og:description', meta.pageDescription),
+      setMeta('property', 'og:url', articleUrl),
+      setMeta('property', 'og:type', 'article'),
+      setMeta('name', 'twitter:title', meta.pageTitle),
+      setMeta('name', 'twitter:description', meta.pageDescription),
+    ]
+
     return () => {
       document.title = prev
       desc?.setAttribute('content', prevDesc)
       canon?.setAttribute('href', prevCanon)
+      restorers.forEach(r => r())
     }
   }, [meta])
 
