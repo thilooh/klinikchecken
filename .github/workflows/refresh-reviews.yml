@@ -3,6 +3,14 @@ name: Refresh clinic reviews
 on:
   schedule:
     - cron: '0 5 */3 * *'   # every 3 days at 05:00 UTC, runs against main
+  push:
+    paths:
+      # Auto-fire when one of the sync scripts itself changes - lets a
+      # regular `git push` trigger a fresh sync on the same branch
+      # without needing the workflow_dispatch UI.
+      - 'scripts/fetch-clinic-streetview-map.mjs'
+      - 'scripts/fetch-clinic-photos.mjs'
+      - 'scripts/sync-google-data.mjs'
   workflow_dispatch:
     inputs:
       branch:
@@ -25,7 +33,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.inputs.branch || 'main' }}
+          # workflow_dispatch passes a branch input; push events default
+          # to github.ref_name (the branch the push landed on); the
+          # cron path falls back to main.
+          ref: ${{ github.event.inputs.branch || github.ref_name || 'main' }}
 
       - uses: actions/setup-node@v4
         with:
@@ -48,6 +59,11 @@ jobs:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: node scripts/fetch-clinic-photos.mjs
 
+      - name: Fetch clinic streetview + static maps
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: node scripts/fetch-clinic-streetview-map.mjs
+
       - name: Commit & push if anything changed
         run: |
           git config user.name  "github-actions[bot]"
@@ -55,5 +71,5 @@ jobs:
           git add public/reviews/ public/images/ src/data/clinics.ts
           git diff --staged --quiet && echo "No changes." || (
             git commit -m "Sync clinic Google data $(date -u +%Y-%m-%d)"
-            git push origin HEAD:"${{ github.event.inputs.branch || 'main' }}"
+            git push origin HEAD:"${{ github.event.inputs.branch || github.ref_name || 'main' }}"
           )
