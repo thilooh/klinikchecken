@@ -206,9 +206,54 @@ if (!reviewsOnly) {
       const blocks = parseClinics(source)
       const block = blocks.find(b => b.id === p.id)
       if (!block) continue
-      const blockText = source.slice(block.start, block.end)
-      const updated = blockText.replace(/placeId:\s*''/, `placeId: '${p.placeId}'`)
-      source = source.slice(0, block.start) + updated + source.slice(block.end)
+      let blockText = source.slice(block.start, block.end)
+
+      // 1. Set placeId. Either replace the empty literal, or insert a new
+      //    line if the field is missing entirely. Anchor the insert after
+      //    googleReviewCount (preferred) or reviewCount (fallback).
+      if (/placeId:\s*''/.test(blockText)) {
+        blockText = blockText.replace(/placeId:\s*''/, `placeId: '${p.placeId}'`)
+      } else if (!/\bplaceId:/.test(blockText)) {
+        const inserted = blockText.replace(
+          /(\bgoogleReviewCount:\s*\d+,\n|\breviewCount:\s*\d+,\n)/,
+          m => `${m}    placeId: '${p.placeId}',\n`,
+        )
+        blockText = inserted
+      }
+
+      // 2. Sync rating / reviewCount / googleRating / googleReviewCount
+      //    with the Text-Search numbers. Replace if present, insert if not.
+      if (typeof p.rating === 'number') {
+        const r = p.rating.toFixed(1)
+        if (/\brating:\s+[\d.]+/.test(blockText)) {
+          blockText = blockText.replace(/(\brating:\s+)[\d.]+/, `$1${r}`)
+        }
+        if (/\bgoogleRating:\s+[\d.]+/.test(blockText)) {
+          blockText = blockText.replace(/(\bgoogleRating:\s+)[\d.]+/, `$1${r}`)
+        }
+      }
+      if (typeof p.total === 'number') {
+        if (/\breviewCount:\s+\d+/.test(blockText)) {
+          blockText = blockText.replace(/(\breviewCount:\s+)\d+/, `$1${p.total}`)
+        }
+        if (/\bgoogleReviewCount:\s+\d+/.test(blockText)) {
+          blockText = blockText.replace(/(\bgoogleReviewCount:\s+)\d+/, `$1${p.total}`)
+        }
+      }
+
+      // 3. Insert googleRating / googleReviewCount if missing. Anchor after
+      //    the reviewCount line so the field order stays consistent with
+      //    the rest of the file.
+      if (typeof p.rating === 'number' && !/\bgoogleRating:/.test(blockText)) {
+        const r = p.rating.toFixed(1)
+        const t = p.total ?? 0
+        blockText = blockText.replace(
+          /(\breviewCount:\s+\d+,\n)/,
+          `$1    googleRating: ${r},\n    googleReviewCount: ${t},\n`,
+        )
+      }
+
+      source = source.slice(0, block.start) + blockText + source.slice(block.end)
     }
     fs.writeFileSync(CLINICS_TS, source)
     console.log(`\nPatched ${patches.length} placeIds in clinics.ts`)
