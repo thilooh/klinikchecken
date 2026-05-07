@@ -73,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Roland Kern",
+      "author_url": "https://www.google.com/maps/contrib/109930828340008919575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcMgazvZ09V_fGpfrnIgbLDI6A5h2AqAIiT9e-16TjJkurJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Über die Leistung der Ärzte kann ich hier nichts sagen, da ich bereits an der Rezeptionistin gescheitert bin... Nach erfolgter Hautkrebs-OP am Augenlied durch den Augenarzt wollte ich ein weiteres ganzkörper Screening machen lassen, was lt. Rezeptionistin nicht mehr nötig sei, da der Krebs ja bereits entfernt wurde...\nWenn Doktoren Hack/Lazek diese Rezension lesen, besprechen Sie vielleicht mal mit Ihrem Team, wer in Ihrem Haus Diagnosen stellt.",
+      "time": 1776249143,
+      "translated": false
+    },
+    {
       "author_name": "Dominik Breidohr",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
@@ -85,6 +97,18 @@
       "relative_time_description": "vor einem Monat",
       "text": "Ich empfehle diese Praxis nicht, habe mich hier als Patient nicht gut behandelt gefühlt, eine andere Praxis gefunden - die wesentlich besser ist.",
       "time": 1772685866
+    },
+    {
+      "author_name": "S H",
+      "author_url": "https://www.google.com/maps/contrib/115131669783700338615/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKulNcpW4DZTHonamn6YPsbHM3MgkXbMsRkEO-Y1-8tITuSQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Ich empfehle diese Praxis nicht, habe mich hier als Patient nicht gut behandelt gefühlt, eine andere Praxis gefunden - die wesentlich besser ist.",
+      "time": 1772685866,
+      "translated": false
     },
     {
       "author_name": "Enver Hopf",
@@ -106,8 +130,8 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 94,
+  "rating": 4.5,
+  "reviewCount": 91,
   "summary": [],
-  "lastUpdated": "2026-05-04T07:46:28.977Z"
+  "lastUpdated": "2026-05-07T07:41:56.014Z"
 }

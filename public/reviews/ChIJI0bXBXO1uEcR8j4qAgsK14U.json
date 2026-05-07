@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lennox",
+      "author_url": "https://www.google.com/maps/contrib/118256403320555981058/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwBvw9PF_eik6d4xD2AmAjgeOTaExw0WRa4GuaV2286kJoWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr guter Hautarzt,sehr nette Ärzte",
+      "time": 1777971873,
+      "translated": false
+    },
+    {
       "author_name": "Angelika Gröseling",
       "author_url": "https://www.google.com/maps/contrib/117891113777588155594/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWDA8qzmc95GCx67lVKaxGED_JGXxmRg18zIaCI7ZWMB3DqQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meiner Behandlung im Dermazentrum Neuss bei Dr. med. Martin Hermans und seinem Team sehr zufrieden. Die Beratung war ausführlich, verständlich und individuell auf meine Bedürfnisse abgestimmt. Ich habe mich von Anfang an gut aufgehoben und ernst genommen gefühlt. Das gesamte Team ist ausgesprochen freundlich, professionell und bestens organisiert, sodass es kaum Wartezeiten gab. Die Atmosphäre in der Praxis ist angenehm und man merkt, dass hier großen Wert auf das Wohl der Patienten gelegt wird. Die Behandlung selbst verlief sehr angenehm und das Ergebnis hat meine Erwartungen sogar übertroffen. Ich kann die Praxis und das gesamte Team uneingeschränkt weiterempfehlen!",
+      "time": 1777387126,
+      "translated": false
+    },
+    {
+      "author_name": "Melis Tüven",
+      "author_url": "https://www.google.com/maps/contrib/102333053282544076507/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWDA8qzmc95GCx67lVKaxGED_JGXxmRg18zIaCI7ZWMB3DqQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin mit meiner Behandlung im Dermazentrum Neuss bei Dr. med. Martin Hermans und seinem Team sehr zufrieden. Die Beratung war ausführlich, verständlich und individuell auf meine Bedürfnisse abgestimmt. Ich habe mich von Anfang an gut aufgehoben und ernst genommen gefühlt. Das gesamte Team ist ausgesprochen freundlich, professionell und bestens organisiert, sodass es kaum Wartezeiten gab. Die Atmosphäre in der Praxis ist angenehm und man merkt, dass hier großen Wert auf das Wohl der Patienten gelegt wird. Die Behandlung selbst verlief sehr angenehm und das Ergebnis hat meine Erwartungen sogar übertroffen. Ich kann die Praxis und das gesamte Team uneingeschränkt weiterempfehlen!",
       "time": 1777387126,
       "translated": false
@@ -146,11 +170,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 298,
+  "reviewCount": 299,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-04T07:47:06.010Z"
+  "lastUpdated": "2026-05-07T07:42:35.982Z"
 }

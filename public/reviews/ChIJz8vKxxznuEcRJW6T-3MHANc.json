@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "Ferdinand Islakar",
+      "author_url": "https://www.google.com/maps/contrib/101653111900003387277/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1kDWd8j5idzeHZsXwlqGjVUEfLFYwt7beZg93ymbI8WzNP4Hd8Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die besten Hautärzte die ich je gehabt habe,gehen auf einen ein,nach einen Termin kommt man schnell dran,das Personal ist sehr freundlich und Hilfsbereit.",
+      "time": 1778093958,
+      "translated": false
+    },
+    {
+      "author_name": "Tini Will",
+      "author_url": "https://www.google.com/maps/contrib/115221661116969754970/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrt2AwFgeq-i-th-8eVLfCEYng8g8hwPf0Y1SNE6mS-U8kLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte meinen Termin über Doctolib gebucht, was auch problemlos funktioniert hat. Leider ist es mir nicht möglich, den Hautarzttermin wahrzunehmen, da der Fahrstuhl in der Praxis seit Wochen defekt ist.\n\nDa ich auf Sauerstoff und einen Rollator angewiesen bin, kann ich die Praxis ohne funktionierenden Aufzug nicht erreichen. Zusätzlich ist die Praxis telefonisch nicht erreichbar, sodass ich keine Möglichkeit habe, das Problem direkt zu klären.",
+      "time": 1778080150,
+      "translated": false
+    },
+    {
+      "author_name": "Culita Belciu",
+      "author_url": "https://www.google.com/maps/contrib/115075822455900319173/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi4fCJX46vYe7VW7OZXg0Ue4Wb9m3KM8sneXTk7de_vFqaunI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778051270,
+      "translated": false
+    },
+    {
+      "author_name": "Diana",
+      "author_url": "https://www.google.com/maps/contrib/104766059468109590624/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKi0th9amZZJTI3uUj61pd1FOFq1C6rDcyaF9QwOkgZT9tRptA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777983181,
+      "translated": false
+    },
+    {
       "author_name": "SmvNVw AwByDq",
       "author_url": "https://www.google.com/maps/contrib/102031152276474561988/reviews",
       "language": "de",
@@ -128,11 +172,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 349,
+  "reviewCount": 353,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:46:57.871Z"
+  "lastUpdated": "2026-05-07T07:42:27.490Z"
 }

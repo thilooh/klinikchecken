@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Barbara",
+      "author_url": "https://www.google.com/maps/contrib/101155815730565696708/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdFTYBu4JZzOy4QaWXAKFG5-elUshOHCFzTUPt_LHHnNu7ZA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777963833,
+      "translated": false
+    },
+    {
       "author_name": "Michael Langnickel",
       "author_url": "https://www.google.com/maps/contrib/107448587541100069513/reviews",
       "language": "de",
@@ -61,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "Lothar Ludwig",
+      "author_url": "https://www.google.com/maps/contrib/107541640597404475132/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2jCyqjjeTlN_7eTzTVqSDYUH7f5Fr1e4kiRFsCreBcaueHA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
+      "text": "Idyllisch gelegene Klinik mit hervorragenden Ärzten für Venenleiden und Orthopädie",
+      "time": 1775474837,
+      "translated": false
+    },
+    {
       "author_name": "Indra - Lena Kögler",
       "author_url": "https://www.google.com/maps/contrib/103584437876299498665/reviews",
       "language": "de",
@@ -96,11 +118,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 142,
+  "reviewCount": 143,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-04T07:46:39.135Z"
+  "lastUpdated": "2026-05-07T07:42:07.107Z"
 }

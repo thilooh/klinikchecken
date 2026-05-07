@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Monique Östlind",
+      "author_url": "https://www.google.com/maps/contrib/101280415366116929922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI708egDK5cuehdecLgQb9AFbS7bp3QT-UDl9mX8zXzBA6u9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Update: Die Thematik wurde von der Leiterin persönlich gelöst und ich bedanke mich, jetzt bin ich rundum zufrieden!\n\nIch habe im Dermatologikum Hamburg in der Abteilung Lasertherapie drei Behandlungen zur Behandlung von Rosazea durchführen lassen. Leider war ich mit zwei der drei Sitzungen und dem Ergebnis sehr unzufrieden, da sich mein Hautbild teilweise sogar verschlechtert hat. Ich habe das anschließend reklamiert und um eine Überprüfung bzw. Stellungnahme gebeten. Die einzige Rückmeldung war jedoch, dass ich gerne erneut einen Termin vereinbaren könne – allerdings als weitere Behandlung auf eigene Kosten. Eine inhaltliche Auseinandersetzung mit meiner Reklamation oder eine erkennbare Bereitschaft, das Ergebnis zu prüfen, habe ich dabei nicht erlebt. Gerade bei einer spezialisierten dermatologischen Einrichtung hätte ich deutlich mehr Verantwortungsbewusstsein im Umgang mit Patientenfeedback erwartet. Für mich persönlich war die Erfahrung daher sehr enttäuschend.",
+      "time": 1777999457,
+      "translated": false
+    },
+    {
+      "author_name": "Ahmed Shihab",
+      "author_url": "https://www.google.com/maps/contrib/104126565161631110792/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3bZaelnDF7Yy3ezPD-Gzh2aEFQEMM1wGqION90EnZfgoXUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach langen Monaten des Wartens und nachdem ich viel Geld bezahlt habe, habe ich entdeckt, dass die Ärzte überhaupt nicht wissen, was genau mein Problem ist, und sie kennen auch die Behandlungsmethode nicht. Der beste Ort, um Zeit und Geld ohne nennenswerte Ergebnisse zu verschwenden.",
+      "time": 1777920343,
+      "translated": false
+    },
+    {
+      "author_name": "Lars Richter",
+      "author_url": "https://www.google.com/maps/contrib/102306181383909127653/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW95__suh6R2btALT2s9HjS4YaRcNzRxUpFOdI2_8Op5-HNsTpe=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777911316,
+      "translated": false
+    },
+    {
       "author_name": "Karina Peters",
       "author_url": "https://www.google.com/maps/contrib/112762237052858163460/reviews",
       "language": "de",
@@ -130,7 +164,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 414,
+  "reviewCount": 416,
   "summary": [],
-  "lastUpdated": "2026-05-04T07:46:33.542Z"
+  "lastUpdated": "2026-05-07T07:42:00.955Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Vi Del",
+      "author_url": "https://www.google.com/maps/contrib/101764751977087689264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5IhuY4i7ugF1xqlZ7jGjyuJniD96jefYWOOkFqrAkydIoug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termine werden zuverlässig eingehalten - keine Wartezeiten. Praxis sehr gut organisiert. Gesamtes Team sehr freundlich.",
+      "time": 1778070169,
+      "translated": false
+    },
+    {
+      "author_name": "Bettina Rosanowski",
+      "author_url": "https://www.google.com/maps/contrib/104301174005478141295/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfAV5Ov0qY0m7Ka9H9Yz8g_1UOHo6yQzspwtB3gXWTCAK9jQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich weiß nicht, was überwiegt. Die Wut oder die Enttäuschung, wie hier mit Patienten umgegangen wird. Wir sind seit vielen Jahren Patienten in dieser Hautarztpraxis. Mein Mann hat weißen Hautkrebs und es gab schon Zeiten, wo er alle 3 Monate zur Kontrolle musste und ihm auch schon des öfteren etwas entfernt werden musste. Bei der letzten Kontrolle im Januar diesen Jahres war alles in Ordnung, so dass er in einem Jahr wieder kommen soll.\nJetzt hat sich innerhalb von ein paar Tagen eine komische verdickte Stelle am Kopf gebildet, wo man nicht wusste, was das ist. Anrufen kann man in der Praxis nicht, da geht keiner ans Telefon. Termin über Doktorlib bekommt man frühestens im Oktober. Also ist mein Mann am Montag in die Praxis gefahren und hat gefragt, ob sich das ein Arzt kurz anschauen kann. Das wäre eine Sache von 1 Minute gewesen und er hätte selbstverständlich auch mehrere Stunden gewartet. Er wäre einfach froh gewesen, wenn sich das jemand angesehen hätte. Die Arzthelferin an der Rezeption wollte ihm einen Termin für Oktober geben oder er soll zum Hausarzt gehen!!! So geht man doch nicht mit Patienten um. Ich weiß,  die Praxis ist voll und es gibt lange Wartezeiten, aber das wäre wirklich im Vorbeigehen erledigt gewesen und wir hätten gewusst, ob es schlimm ist oder nicht. Wir werden uns jedenfalls eine andere Hautarztpraxis suchen wo man noch menschlich behandelt wird.",
+      "time": 1778065952,
+      "translated": false
+    },
+    {
       "author_name": "Marie Sonnenschirm",
       "author_url": "https://www.google.com/maps/contrib/107502422719034474412/reviews",
       "language": "de",
@@ -151,12 +175,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 161,
+  "rating": 4.7,
+  "reviewCount": 160,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-04T07:46:45.260Z"
+  "lastUpdated": "2026-05-07T07:42:13.995Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M S",
+      "author_url": "https://www.google.com/maps/contrib/116084773621066886988/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHsZOs5euIvt5aShKMkHC2ACO3HPwmDG70dqySYHKyXcmA2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärzte sind top, auch nach Übernahme der Praxis von Frau Dr. Baumgartne\nAber die MFA, am Empfangsbereich :(\nVon unfreundlich, genervt, gelangweilt bis hin zum Fremdschämen, alles dabei.\nSchade, da fehlt das Bewusstsein für den ersten Eindruck und das Gesicht der Praxis.",
+      "time": 1777897605,
+      "translated": false
+    },
+    {
       "author_name": "Evelyn stam",
       "author_url": "https://www.google.com/maps/contrib/117992310792792793275/reviews",
       "language": "de",
@@ -73,6 +85,18 @@
       "translated": false
     },
     {
+      "author_name": "Kaiulani (Kaiulani)",
+      "author_url": "https://www.google.com/maps/contrib/109515804811863470544/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUduA2QQ25Zzn_rW4e5BYBi6udibHWp9c4WHQ3oU8ZFtH3VgL2fKA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 6 Monaten",
+      "text": "Ich war heute wegen der Diagnose Stammvaricosis (Krampfadererkrankung, die einer kleinen OP bedarf) in der Praxis beim Seepark und möchte diesen Eintrag ganz bewusst Frau Dr. Casetti widmen, da sie mich behandelt hat.\n\nMan hat im Leben leider schon die ein oder andere Erfahrung mit Ärzten gemacht, die wenig Zeit oder Lust haben und kaum richtig zuhören oder untersuchen. Frau Dr. Casetti ist das genaue Gegenteil! Sie ist eine junge, unglaublich freundliche und hochprofessionelle Ärztin, die bereits in den ersten Sekunden so aufgeschlossen und empathisch war, dass meine gesamte Anspannung sofort verflog.\nSie ist unglaublich auf Zack, erfasst das Anliegen schnell, stellt die richtigen Fragen und nimmt sich wirklich die Zeit, einen ausreden zu lassen und auf einen einzugehen. Sie hat mich anschließend an das erste Gespräch eingehend per Ultraschall untersucht. Ich konnte währenddessen jederzeit mitschauen und sie erklärte mir jeden Schritt und das was man auf dem Bildschirm gesehen hat. Sie war stets darauf bedacht, dass ich gedanklich mitkomme und alles verstehe. Eine Kleinigkeit, die ihre Empathie zeigt: Während ich für die Untersuchung auf einem erhöhten Hocker stand, fragte sie mehrfach nach, ob es meinem Kreislauf gut geht, nicht das mir schwindelig wird und ich da runterplumse.\n\nZum Ende des Termins hat sie mich umfassend über den bevorstehenden Eingriff aufgeklärt und mir sogar den Closure Fast Katheter gezeigt, der zum Einsatz kommten wird. Leider wird sie die OP nicht selbst durchführen (diese Ehre wird Herrn Dr. Hoffmann zuteil), aber da ich durch die anderen positiven Bewertungen schon viel Gutes über ihn gehört habe, bin ich völlig angstfrei und freue mich sogar darauf, in so guten Händen zu sein :)",
+      "time": 1762432874,
+      "translated": false
+    },
+    {
       "author_name": "Ben B",
       "author_url": "https://www.google.com/maps/contrib/107821343904087976611/reviews",
       "language": "de",
@@ -98,11 +122,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 94,
+  "reviewCount": 95,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:46:45.958Z"
+  "lastUpdated": "2026-05-07T07:42:14.741Z"
 }

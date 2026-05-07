@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Hotel Strandkind",
+      "author_url": "https://www.google.com/maps/contrib/105725589858075113194/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxfKmkMvKZ5-h33T_l_iN_-0SzUXLcWiVJnM1_NvSW819qESY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine Wartezeit, tolle Ärztin, super sorgfältige Untersuchung, eine Praxis zum Wohlfühlen. Vielen Dank an das tolle Team.",
+      "time": 1778079868,
+      "translated": false
+    },
+    {
+      "author_name": "Kassy W.",
+      "author_url": "https://www.google.com/maps/contrib/108579902502458799755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiT1tV8uydbr2CEooXmaJmEuJlIA8z6x1KPB6dovN_6gO6mUI-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zufrieden. Online gebucht. Innerhalb sehr kurzer Zeit einen Termin bekommen.\nNetter Empfang. Kurze Wartezeit. Angenehme Atmosphäre. Ich habe mich angemessen \"gehört\" gefühlt.\nAbsolut empfehlenswert.",
+      "time": 1778069896,
+      "translated": false
+    },
+    {
+      "author_name": "Simone Schuetz",
+      "author_url": "https://www.google.com/maps/contrib/110217797343161806464/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWo-7DhKv8gnu0uxgL8MWuXA6dzAA01LYBJIRt4kZEeXqR2z5MkBQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wie immer super..freundlich, kompetent,  Danke Fr Dr Niebuhr",
+      "time": 1778066907,
+      "translated": false
+    },
+    {
+      "author_name": "Ralf Barth",
+      "author_url": "https://www.google.com/maps/contrib/115919310546624748495/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVh5vUpcnTx3vmKpoM1-mBMqQPWMCRfX_zU9lbPsHt4SrO2fbo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778009748,
+      "translated": false
+    },
+    {
+      "author_name": "Dirk-Michael Jäger",
+      "author_url": "https://www.google.com/maps/contrib/109590772814279178726/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6X6qJgdqx8CR1LIjaPjcrspWE6qOEklQ2MxNwyTXSs0bLLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ausführliche Untersuchung (Vorsorgetermin) mit anschließender Besprechung der Ergebnisse. Fühlte mich fachlich sehr gut aufgehoben. Freundliches Personal an der Annahme. Einzige kritische Anmerkung. Es ist sehr schwer einen online Termin zu buchen!",
+      "time": 1777993550,
+      "translated": false
+    },
+    {
       "author_name": "Svea Naguschewski",
       "author_url": "https://www.google.com/maps/contrib/100203215133930781982/reviews",
       "language": "de",
@@ -128,11 +186,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2241,
+  "reviewCount": 2249,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-04T07:46:40.271Z"
+  "lastUpdated": "2026-05-07T07:42:08.377Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Raffi Shawito",
+      "author_url": "https://www.google.com/maps/contrib/102902653402967397873/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIryWQly3odxwuEOwoJmA2L6HFBuJNocz-6fSH6jefIvBTs1g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778132550,
+      "translated": false
+    },
+    {
       "author_name": "Ley Ley",
       "author_url": "https://www.google.com/maps/contrib/108038855126935622394/reviews",
       "language": "de",
@@ -70,11 +80,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 113,
+  "reviewCount": 114,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:46:37.503Z"
+  "lastUpdated": "2026-05-07T07:42:05.285Z"
 }

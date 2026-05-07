@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jersy",
+      "author_url": "https://www.google.com/maps/contrib/101077693784499111912/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJevKO8Ipram97NbrlnVIeg8x6SKed_YHB7l0vGi4eImKHKRu-O=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ärztin sehr nett, aber an der Anmeldung wurde ich von einer Mitarbeiterin (blond, mittleres Alter) richtig unverschämt angegangen. Erst sagte sie\" ja bitte\" zu mir, dann wollte ich ihr den Zettel der Hautärztin geben....dann fuhr sie mich plötzlich an.....ich sollte doch zu der Kollegin (die gerade nicht an ihrem Platz war). Ich sagte dann \"wie bitte\"!? Dann schaute sie mich mit Todesblick an und hörte nicht auf mich zu fixieren.",
+      "time": 1778054142,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin & Guido",
+      "author_url": "https://www.google.com/maps/contrib/107779826452524058361/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVp6XZcb97vxUNzOavKZPYzniGypYKXl2xK7_29rKvB2GEdd-Vo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich",
+      "time": 1777902621,
+      "translated": false
+    },
+    {
       "author_name": "Frau S",
       "author_url": "https://www.google.com/maps/contrib/109596441554177295813/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN7ZxWxg50W8g3TD_kytYX7Sv2PTOjJEZNIxfP2TINes8NX3c=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ein wirklich toller Grund für meine erste Google Bewertung: Frau Dr. Rouihem.\nSehr freundliche und empathische Ärztin, bei der man sich wirklich gut aufgehoben fühlt. Sie hört zu und erklärt alles verständlich. Die Behandlung ist kompetent und sorgfältig. Klare Empfehlung!",
+      "time": 1777297068,
+      "translated": false
+    },
+    {
+      "author_name": "Frau S",
+      "author_url": "https://www.google.com/maps/contrib/109596441554177295813/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN7ZxWxg50W8g3TD_kytYX7Sv2PTOjJEZNIxfP2TINes8NX3c=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ein wirklich toller Grund für meine erste Google Bewertung: Frau Dr. Rouihem.\nSehr freundliche und empathische Ärztin, bei der man sich wirklich gut aufgehoben fühlt. Sie hört zu und erklärt alles verständlich. Die Behandlung ist kompetent und sorgfältig. Klare Empfehlung!",
       "time": 1777297068,
       "translated": false
@@ -56,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZPvZ7024bDwYF7-X7MG-8QQBG5BvsltEPZE3phEKXzG41rw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr nette Ärzte",
+      "time": 1775466667,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Dieckmann",
+      "author_url": "https://www.google.com/maps/contrib/101301689866385687277/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZPvZ7024bDwYF7-X7MG-8QQBG5BvsltEPZE3phEKXzG41rw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr nette Ärzte",
       "time": 1775466667,
       "translated": false
@@ -146,11 +194,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 121,
+  "reviewCount": 123,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:47:00.501Z"
+  "lastUpdated": "2026-05-07T07:42:30.153Z"
 }

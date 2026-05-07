@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manuela Schoknecht",
+      "author_url": "https://www.google.com/maps/contrib/109680817442330833927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfrHIx9YezTCPyuMP_bICGYaG94LEA-mTiCC9sgYKISQjspg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wollte für meinen Mann einen Termin machen... nehmen keine neuen Patienten auf...ok...fragte dann warum man nirgendwo einen Termin oder Arzt findet..die Dame am Telefon...da müssen sie sich an den Staat wenden und nicht an uns ...die mussten ja alles reinlassen und hat aufgelegt....habe dann noch einmal angerufen und gefragt warum sie einfach auflegen muss und so respektlos ist ... und ich deutsch bin und nicht Ausländer... WIEDER AUFGELEGT",
+      "time": 1777975832,
+      "translated": false
+    },
+    {
       "author_name": "Jana Hansen-Beck",
       "author_url": "https://www.google.com/maps/contrib/102319403713458247441/reviews",
       "language": "de",
@@ -60,11 +72,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 71,
+  "reviewCount": 72,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:46:37.741Z"
+  "lastUpdated": "2026-05-07T07:42:05.543Z"
 }

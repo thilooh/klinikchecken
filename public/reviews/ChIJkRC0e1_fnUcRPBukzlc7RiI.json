@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Thomas Schöberl",
+      "author_url": "https://www.google.com/maps/contrib/117283846333752493471/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-8YihyP1eLX3-tpkybbv_Y9UJXbf3o1K3t8OWvIDZp2N6Sw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1777376995,
+      "translated": false
+    },
+    {
       "author_name": "Stephanie Frohnauer",
       "author_url": "https://www.google.com/maps/contrib/115404163731257944527/reviews",
       "language": "de",
@@ -57,6 +67,18 @@
       "translated": false
     },
     {
+      "author_name": "CMINGA",
+      "author_url": "https://www.google.com/maps/contrib/105698948933094416184/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhGMu4oqAhW47ylEMypKnwE_7vQrSNFbZEQDooee6rB9dt=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Frau Dr. med. Esther Wißmüller hat mich voll und ganz überzeugt.\nEine Ärztin mit Leidenschaft am Beruf.\nPraxis 10/10\nPersonal 10/10\nBehandlung 10/10\nVielen Dank !",
+      "time": 1770117556,
+      "translated": false
+    },
+    {
       "author_name": "OCTALIS enabling new solutions",
       "author_url": "https://www.google.com/maps/contrib/109846798501645747331/reviews",
       "language": "de",
@@ -72,5 +94,5 @@
   "rating": 4.6,
   "reviewCount": 113,
   "summary": [],
-  "lastUpdated": "2026-05-04T07:46:32.222Z"
+  "lastUpdated": "2026-05-07T07:41:59.483Z"
 }

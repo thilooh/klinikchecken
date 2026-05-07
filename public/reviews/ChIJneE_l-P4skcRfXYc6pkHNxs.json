@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ka Kg",
+      "author_url": "https://www.google.com/maps/contrib/110303890659395863865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbvi4O_9NAp2opmE0qaf8_iwXFxuaPI9loXkm6w_ezLOevdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe sehr lange auf einen Termin für meine Tochter warten müssen (im Februar Termin für Mitte Mai bekommen). Der junge Arzt machte den Eindruck, als kämen wir ihm nun wirklich sehr ungelegen. Er hat meine Tochter in Windeseile abgefertigt und mit einer Diagnose praktisch verscheucht, ohne Aspekte wie Empathie und Zuversichtlichkeit für eine 15Jährige im Gespräch rüberbringen zu können. Es ging um Hautprobleme im Gesicht, und sie ist davon schon sehr angefasst, und nun fühlt sie sich einfach noch ein bisschen unwohler. Ja - die Wartezeit war nicht vorhanden, Wartezimmer leer, Praxis sauber und gut organisiert - aber aufgehoben haben wir uns nicht gefühlt. Insofern: Sorry, dass wir gestört haben.",
+      "time": 1778073034,
+      "translated": false
+    },
+    {
       "author_name": "Paradiescreme Vanille",
       "author_url": "https://www.google.com/maps/contrib/111062675560519055518/reviews",
       "language": "de",
@@ -73,12 +85,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 95,
+  "rating": 4.2,
+  "reviewCount": 96,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:46:38.427Z"
+  "lastUpdated": "2026-05-07T07:42:06.330Z"
 }

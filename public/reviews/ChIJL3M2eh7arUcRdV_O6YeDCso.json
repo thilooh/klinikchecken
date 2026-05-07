@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Daniele Regge",
+      "author_url": "https://www.google.com/maps/contrib/114718347748714234498/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqbK1i6MgM09tGqMiNHUJ3FmKkg9HZWRAGSSkUCMsiorKhAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777919820,
+      "translated": false
+    },
+    {
       "author_name": "Friederike H.",
       "author_url": "https://www.google.com/maps/contrib/116422705331237511398/reviews",
       "language": "de",
@@ -59,12 +69,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 17,
+  "rating": 4.7,
+  "reviewCount": 18,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:47:12.596Z"
+  "lastUpdated": "2026-05-07T07:42:43.110Z"
 }

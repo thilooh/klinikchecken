@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Rainer Niehues",
+      "author_url": "https://www.google.com/maps/contrib/105754394057435785732/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrXde4UYcicK3i4dPbvL0wUO26XJr-bMTAZjLO239uMck8aQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nettes Personal und Ärzte",
+      "time": 1777508787,
+      "translated": false
+    },
+    {
       "author_name": "Pit Budde",
       "author_url": "https://www.google.com/maps/contrib/107411323221944036667/reviews",
       "language": "de",
@@ -59,6 +71,16 @@
       "translated": false
     },
     {
+      "author_name": "Monika K.",
+      "author_url": "https://www.google.com/maps/contrib/102836414256133209514/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZvTms03M8k5RIlVDgklVtKwDuHP3YTJnDLIRBHsQGN3AM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1772704293,
+      "translated": false
+    },
+    {
       "author_name": "Sebastian T",
       "author_url": "https://www.google.com/maps/contrib/100830668792056830166/reviews",
       "language": "de",
@@ -84,5 +106,5 @@
   "rating": 3.7,
   "reviewCount": 115,
   "summary": [],
-  "lastUpdated": "2026-05-04T07:46:30.418Z"
+  "lastUpdated": "2026-05-07T07:41:57.546Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marie Krämer",
+      "author_url": "https://www.google.com/maps/contrib/100452652621035006433/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLH33fSf9JTDT5DczULpLcmPDSF7gHXmJIRUT-V72S63H84-ypYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach einer Ärztin mit schlechter Beratung war ich auf der Suche nach jmd, bei dem ich mich gut aufgehoben fühle. Frau Rösing hat meine Sorgen direkt ernst genommen und ist auf meine Anliegen sehe umfassend und gründlich eingegangen, sodass ich mich sehr wohl gefühlt habe.",
+      "time": 1777973115,
+      "translated": false
+    },
+    {
       "author_name": "HaWe Winkler",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
@@ -13,6 +25,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqQJDI_6Paqpv5kCfJ1FyT2JiO20LlczR2qR9GPXtEOsRUYg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1775575963,
+      "translated": false
+    },
+    {
+      "author_name": "HaWe Winkler",
+      "author_url": "https://www.google.com/maps/contrib/108457348797506454037/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqQJDI_6Paqpv5kCfJ1FyT2JiO20LlczR2qR9GPXtEOsRUYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1775575963,
       "translated": false
@@ -59,11 +81,11 @@
     }
   ],
   "rating": 3,
-  "reviewCount": 139,
+  "reviewCount": 140,
   "summary": [
     "Für Hautkrebsscreening empfohlen — Ärztin nimmt sich Zeit und erklärt verständlich",
     "Freundliche Atmosphäre, Erstpatienten fühlen sich wohl",
     "Vereinzelte Kritik: Behandlung wirkte oberflächlich, Produkte werden aktiv empfohlen"
   ],
-  "lastUpdated": "2026-05-04T07:46:24.273Z"
+  "lastUpdated": "2026-05-07T07:41:50.824Z"
 }

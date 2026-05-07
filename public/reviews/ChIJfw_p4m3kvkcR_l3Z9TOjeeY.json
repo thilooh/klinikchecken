@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Dahmen",
+      "author_url": "https://www.google.com/maps/contrib/115229771924572060957/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYhHHajngcm0az47xbAyM_hlsZyJE4jxjgX-LLb5k8cGAWfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zur Behandlungsqualität kann ich leider nichts sagen, da mir zum 2. Mal kurzfristig (taggleich) der Termin storniert wurde. Wartezeit für einen neuen Termin jeweils ca. 6 Monate.\nEs erfolgt keine direkte Benachrichtigung, warum der Termin storniert wurde, sondern lediglich eine Absage via doctolib. Zum 2. Mal einen Urlaubstag für nichts \"geopfert\".\n\nTelefonisch ist die Praxis nicht erreichbar, auf E-Mails wird nicht geantwortet.",
+      "time": 1778136786,
+      "translated": false
+    },
+    {
+      "author_name": "Denisa",
+      "author_url": "https://www.google.com/maps/contrib/108473037852919982382/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIz6kP1-rQsW1AeO-ix8NgdhLfsgMI0qYCRw2Xp2oPh96Hw_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe selten so eine unfreundliche Person gesehen. Abgehoben und die Nase irgendwo oben als hätte sie den Nobelpreis gewonnen. Da gehe ich nicht mehr hin.",
+      "time": 1778058774,
+      "translated": false
+    },
+    {
+      "author_name": "SirSam007",
+      "author_url": "https://www.google.com/maps/contrib/116192356895849673717/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJgN5CYj8Pp6Uw9wbYAv74buoEw_l5svNBtB5hwqZuXZdrHUgD=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider äußerst negativ. Keine fachgerechte Beratung, Untersuchung hat 1 Sekunde gedauert und die angeordnete Therapie entsprechend nicht angeschlagen. Hab dann mehrfach einen neuen Termin vereinbart, der dann immer kurz vorher abgesagt wurde, nachdem ich Monate drauf gewartet habe.",
+      "time": 1778054622,
+      "translated": false
+    },
+    {
+      "author_name": "Damsiii53",
+      "author_url": "https://www.google.com/maps/contrib/112500744261499137886/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0kI72gPRILQCCSmS2ABqGrRkC__Mu0Ezg02oZjrUaPeSBOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Arztpraxis wirklich von Herzen weiterempfehlen!\n\nSchon beim Betreten fühlt man sich direkt wohl – das gesamte Team ist unglaublich freundlich, aufmerksam und nimmt sich wirklich Zeit für die Patienten. Man merkt sofort, dass hier nicht nur Professionalität, sondern auch echtes Interesse am Wohlbefinden im Mittelpunkt steht.\n\nDie Organisation ist top, Wartezeiten sind kurz und alles läuft sehr strukturiert ab. Besonders beeindruckt hat mich, wie einfühlsam und verständlich alles erklärt wird – man fühlt sich ernst genommen und bestens aufgehoben.\n\nSo eine Kombination aus Kompetenz, Herzlichkeit und Service findet man wirklich selten. Vielen Dank an das gesamte Team für die tolle Betreuung!\n\nAbsolute Empfehlung!",
+      "time": 1777901312,
+      "translated": false
+    },
+    {
       "author_name": "zina laila",
       "author_url": "https://www.google.com/maps/contrib/102420726745904806294/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU3rjjNmW5-f8sTHWuMQ1-1rpxNODkZB1tu21ojkyzsYzPfHVS=s128-c0x00000000-cc-rp-mo-ba4",
@@ -127,12 +175,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 108,
+  "rating": 4.3,
+  "reviewCount": 112,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:46:41.202Z"
+  "lastUpdated": "2026-05-07T07:42:09.399Z"
 }

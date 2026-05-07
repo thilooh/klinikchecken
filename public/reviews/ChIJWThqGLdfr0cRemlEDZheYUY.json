@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Irene Cebulla",
+      "author_url": "https://www.google.com/maps/contrib/117288853612615270572/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5AVaRyzH5quZGh9OfUR3zu4eca0e7PeFbeeAitncRaYoZsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal, sehr gute Betreuung und umfangreiche Antworten des Arztes haben mir den Aufenthalt hier sehr angenehm gemacht.\n\nDankeschön an alle Schwestern und Ärzte\nIrene Cebulla",
+      "time": 1778074655,
+      "translated": false
+    },
+    {
+      "author_name": "Jens Kirschner",
+      "author_url": "https://www.google.com/maps/contrib/107822603255697695261/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRD5lOijiaPEMbnlrkImCnbl65adHTYzggRCuDM11PYJFLAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "100 Prozent in allen Bereichen mehr geht nicht vielen Dank",
+      "time": 1778057101,
+      "translated": false
+    },
+    {
       "author_name": "Berit Haustein",
       "author_url": "https://www.google.com/maps/contrib/115015954431942150909/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTiSGWZYdJVCLp7Bd7ZHTZL2qWR-0zFsDFegtxLf51MmG9WQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Eine großartige Klinik!!! Ich war zu einer ambulanten Operation im ambulanten Operationszentrum,  in durfte danach noch auf der Komfortstation meinen „ Rausch“ ausschlafen. Einfach toll! Freundliches Personal, die PatientInnen werden bestmöglich umsorgt und versorgt. Vielen, vielen Dank an alle: Schwestern, Pfleger, Ärzte!!!!",
+      "time": 1777388830,
+      "translated": false
+    },
+    {
+      "author_name": "Berit Haustein",
+      "author_url": "https://www.google.com/maps/contrib/115015954431942150909/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTiSGWZYdJVCLp7Bd7ZHTZL2qWR-0zFsDFegtxLf51MmG9WQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Eine großartige Klinik!!! Ich war zu einer ambulanten Operation im ambulanten Operationszentrum,  in durfte danach noch auf der Komfortstation meinen „ Rausch“ ausschlafen. Einfach toll! Freundliches Personal, die PatientInnen werden bestmöglich umsorgt und versorgt. Vielen, vielen Dank an alle: Schwestern, Pfleger, Ärzte!!!!",
       "time": 1777388830,
       "translated": false
@@ -25,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Robert Büttner (Netix86)",
+      "author_url": "https://www.google.com/maps/contrib/118322366010007679937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf4LvMAHNJuYvv98Q7siJqfU0SX6ydnsch1nc0N3iASmdoQ0Am=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr nettes und freundliches Personal.\nSchön eingerichtete Zimmer.",
+      "time": 1777382293,
+      "translated": false
+    },
+    {
       "author_name": "Uta Heinrich",
       "author_url": "https://www.google.com/maps/contrib/112977951851151125840/reviews",
       "language": "de",
@@ -32,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVDXtK0qZ5MjOnUF2GORVdK6vlAeNJCPpBG5oeJ3JqTSS2zA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an das gesamte Team. Sowohl der OP, Aufwachraum als auch die Bettenstation sind sehr professionell, sehr menschlich und so was von freundlich. Dankeschön. Nur zu empfehlen",
+      "time": 1777293501,
+      "translated": false
+    },
+    {
+      "author_name": "Uta Heinrich",
+      "author_url": "https://www.google.com/maps/contrib/112977951851151125840/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVDXtK0qZ5MjOnUF2GORVdK6vlAeNJCPpBG5oeJ3JqTSS2zA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Vielen Dank an das gesamte Team. Sowohl der OP, Aufwachraum als auch die Bettenstation sind sehr professionell, sehr menschlich und so was von freundlich. Dankeschön. Nur zu empfehlen",
       "time": 1777293501,
       "translated": false
@@ -120,11 +180,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 418,
+  "reviewCount": 420,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-04T07:46:39.575Z"
+  "lastUpdated": "2026-05-07T07:42:07.613Z"
 }

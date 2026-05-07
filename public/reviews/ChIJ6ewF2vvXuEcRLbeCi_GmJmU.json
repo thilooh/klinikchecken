@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jaroslaw Andrzejewski",
+      "author_url": "https://www.google.com/maps/contrib/100677957061042828994/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ22XvjKlBF1M2ULnzWKPOvw3csbsHJnmIDNCWCXq71fJnB8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mehr als zufrieden mit dieser Hautarztpraxis! Schon beim Betreten fühlt man sich gut aufgehoben - die Atmosphäre ist freundlich und professionell zugleich.\nDie Ärztin ist äußerst kompetent, nimmt sich viel Zeit für eine gründliche Untersuchung und erklärt alles verständlich und in Ruhe. Man merkt sofort, dass hier das Wohl der Patienten im Mittelpunkt steht.\nAuch auf Fragen wird ausführlich eingegangen, ohne dass man sich gehetzt fühlt.\nEin großes Lob geht auch an das gesamte Praxisteam: immer freundlich, hilfsbereit und bestens organisiert. Termine werden gut eingehalten, und man wird herzlich empfangen.\nIch kann diese Praxis uneingeschränkt weiterempfehlen - hier ist man in den besten Händen 😊",
+      "time": 1777987963,
+      "translated": false
+    },
+    {
       "author_name": "Cleopatra",
       "author_url": "https://www.google.com/maps/contrib/101761896719481584347/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWsPNFzWRfA8QRHRM_RbUp-jkHqVQUOBMJcyi3Fg5Kk1STBQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin seit einem Jahr bei Fr. Dr. Dith in Behandlung und kann sie als Hautärztin nur wärmstens empfehlen. Sie hat meine Diagnose sofort erkannt und das Ergebnis der Behandlung war mehr als zufriedenstellend. Sie ist sehr freundlich und nimmt sich Zeit für ihre Patienten. Auch das Praxisteam ist sehr nett und gut organisiert.\n\nAbsolute Empfehlung!",
+      "time": 1776877854,
+      "translated": false
+    },
+    {
+      "author_name": "Dilber Öncü",
+      "author_url": "https://www.google.com/maps/contrib/103546211711222842173/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWsPNFzWRfA8QRHRM_RbUp-jkHqVQUOBMJcyi3Fg5Kk1STBQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin seit einem Jahr bei Fr. Dr. Dith in Behandlung und kann sie als Hautärztin nur wärmstens empfehlen. Sie hat meine Diagnose sofort erkannt und das Ergebnis der Behandlung war mehr als zufriedenstellend. Sie ist sehr freundlich und nimmt sich Zeit für ihre Patienten. Auch das Praxisteam ist sehr nett und gut organisiert.\n\nAbsolute Empfehlung!",
       "time": 1776877854,
       "translated": false
@@ -98,11 +122,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 217,
+  "reviewCount": 218,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:46:43.235Z"
+  "lastUpdated": "2026-05-07T07:42:11.708Z"
 }

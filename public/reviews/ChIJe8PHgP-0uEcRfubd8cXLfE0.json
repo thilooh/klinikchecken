@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jennifer Stenzel",
+      "author_url": "https://www.google.com/maps/contrib/102263352197075004510/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFHzZ5TbhzufBxb-N2gH-LJn-jDbqOBe0XF7yimWmg9xxmg9hV=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider bekomme ich nicht die Chance hier einen Termin zu buchen. Bereits 3 mal wurde mir der Termim kurzfristig abgesagt. Ich kann es kaum in Worte fassen.\nSeit November 2025 versuche ich dort einen Termin zu bekommen, jedoch ohne Erfolg.\nEinfach eine Frechheit.",
+      "time": 1778081514,
+      "translated": false
+    },
+    {
       "author_name": "ToPRo",
       "author_url": "https://www.google.com/maps/contrib/109989796976141011683/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgBSPRPN_60WMCEsxu6dP_IxNyY1qo9N3dyzNga64v3lJ2YFA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -40,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFjjx9DZX5P1mh88hrl60rQIsgQewO7yJqTNYqanAEZqCi5A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin seit einigen Jahren dort und kann nur Positives berichten; Termine werden bis auf ein paar Minuten genau eingehalten; Beratung und Behandlung ist sehr kompetent und Dr. Zons nimmt sich Zeit. Nur zu empfehlen!! Danke, auch an das Team!",
+      "time": 1776703361,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfgang Broermann",
+      "author_url": "https://www.google.com/maps/contrib/109946105478943916935/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFjjx9DZX5P1mh88hrl60rQIsgQewO7yJqTNYqanAEZqCi5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin seit einigen Jahren dort und kann nur Positives berichten; Termine werden bis auf ein paar Minuten genau eingehalten; Beratung und Behandlung ist sehr kompetent und Dr. Zons nimmt sich Zeit. Nur zu empfehlen!! Danke, auch an das Team!",
       "time": 1776703361,
       "translated": false
@@ -64,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsM8lGqDBnYzh_kFws-cQn9InHAC5r8PpR_A3JPzjw1rPI5w=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Erfahrungen! Eine Praxis, bei der man merkt, dass die Ärzte ihren Job mit Herzblut machen. Sehr ausführliche Untersuchungen, alles wird genau erklärt und alle Fragen beantwortet. Man nimmt sich Zeit für seine Anliegen. Dabei ist die ganze Atmosphäre angenehm und das Team durchweg nett, besonders die Ärztin Frau Reuvers. Komme seit langer Zeit und immer sehr gerne wieder.",
+      "time": 1776681058,
+      "translated": false
+    },
+    {
+      "author_name": "Julian Kammann",
+      "author_url": "https://www.google.com/maps/contrib/113973627193428882355/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsM8lGqDBnYzh_kFws-cQn9InHAC5r8PpR_A3JPzjw1rPI5w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr gute Erfahrungen! Eine Praxis, bei der man merkt, dass die Ärzte ihren Job mit Herzblut machen. Sehr ausführliche Untersuchungen, alles wird genau erklärt und alle Fragen beantwortet. Man nimmt sich Zeit für seine Anliegen. Dabei ist die ganze Atmosphäre angenehm und das Team durchweg nett, besonders die Ärztin Frau Reuvers. Komme seit langer Zeit und immer sehr gerne wieder.",
       "time": 1776681058,
       "translated": false
@@ -154,11 +190,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 181,
+  "reviewCount": 182,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:47:06.244Z"
+  "lastUpdated": "2026-05-07T07:42:36.240Z"
 }

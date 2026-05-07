@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christiane Sch",
+      "author_url": "https://www.google.com/maps/contrib/102732934185799671141/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfx1K8in-hrCuCVDzPxssjsyvuGNQl1qEsbjkBKQsaxossUrJD=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider kein schönes Erlebnis, Freundlichkeit wird in dieser Praxis nicht groß geschrieben, geschweige denn das man mit seinen Problemen ernst genommen wird.\nDer Arzt hat was gegen Adipöse Menschen! Leider kann man keine null Sterne vergeben",
+      "time": 1777801948,
+      "translated": false
+    },
+    {
       "author_name": "Klausns Trrash",
       "author_url": "https://www.google.com/maps/contrib/104633130376279219989/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuIgJgAvHJ9jmMzj8bMD-L7mqJFfubHoDuWN243gmMSHGU1Y8b=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Sabi ist sehr nett und kompetent\nDie Dame an der Rezeption, allerdings unglaublich arrogant und unfreundlich",
+      "time": 1777288260,
+      "translated": false
+    },
+    {
+      "author_name": "Klausns Trrash",
+      "author_url": "https://www.google.com/maps/contrib/104633130376279219989/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuIgJgAvHJ9jmMzj8bMD-L7mqJFfubHoDuWN243gmMSHGU1Y8b=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr. Sabi ist sehr nett und kompetent\nDie Dame an der Rezeption, allerdings unglaublich arrogant und unfreundlich",
       "time": 1777288260,
       "translated": false
@@ -81,12 +105,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 80,
+  "rating": 4.8,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-04T07:46:56.723Z"
+  "lastUpdated": "2026-05-07T07:42:26.282Z"
 }

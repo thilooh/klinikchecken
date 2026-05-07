@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jiejie Schilling",
+      "author_url": "https://www.google.com/maps/contrib/103653751891332724294/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyTNp_qnzTXh28x72OhXnfNO61VEwf3-y8PwhqSNt_DicP0XQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Telefonisch keine Möglichkeit mit Mitarbeitern zu sprechen. Nur online Portal aber Anfragen mit Online Portal wurde nie wieder bearbeitet und man bekam KEINE Rückmeldung!!!!!!!!!!!!!!!!!!!!!\nWas soll es????",
+      "time": 1778047211,
+      "translated": false
+    },
+    {
       "author_name": "S. R.",
       "author_url": "https://www.google.com/maps/contrib/100788460989323851512/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Ramona Mühlhäuser",
+      "author_url": "https://www.google.com/maps/contrib/102454588178010966626/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqfLKasp1FNhjq6CfNFtjHrmVlzldwpy8V56ka21nISOAxrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Ich musste nicht warten, kam sofort dran und das ganze Team ist super freundlich und kompetent. Ich habe mich super wohl gefühlt und der Arzt hat auch alles sehr gut erklärt ,er hat sich viel Zeit genommen und alles ernst genommen.\nRundum zufrieden, kann ich nur empfehlen",
+      "time": 1770214416,
+      "translated": false
+    },
+    {
       "author_name": "Dagmar Weber",
       "author_url": "https://www.google.com/maps/contrib/110093270118753074062/reviews",
       "language": "de",
@@ -85,8 +109,8 @@
       "translated": false
     }
   ],
-  "rating": 3.4,
-  "reviewCount": 41,
+  "rating": 3.3,
+  "reviewCount": 42,
   "summary": [],
-  "lastUpdated": "2026-05-04T07:46:34.980Z"
+  "lastUpdated": "2026-05-07T07:42:02.478Z"
 }

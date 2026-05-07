@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Julius Crones",
+      "author_url": "https://www.google.com/maps/contrib/103771045224279948392/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzTe_tteDr5iZ84vRxymJBfoUuPjvoyVeXrl2DhjELY-PptA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "1 von 5 Sternen\n\nAm Anfang wirkte alles noch sehr positiv: Ich habe schnell einen Termin bekommen und musste kaum warten. Leider war die Erfahrung ab dem Gespräch mit Dr. Krokowski absolut enttäuschend.\n\nIch habe ihm meine Situation erklärt und hatte das Gefühl, dass er mich sehr schnell abgewürgt hat. Mir wurde einfach eine Creme verschrieben, ohne wirklich zu erklären, warum genau diese Behandlung geeignet sein soll. Als ich höflich nachfragen wollte, wurde das anscheinend als frech aufgefasst.\n\nDr. Krokowski wurde daraufhin unfreundlich, ist einfach aus dem Raum gegangen und hat meine Fragen komplett ignoriert. So ein respektloser Umgang mit Patienten ist mir ehrlich gesagt noch nie passiert.\n\nDie mit Abstand unfreundlichste Erfahrung, die ich jemals bei einem Arzt gemacht habe.",
+      "time": 1778069900,
+      "translated": false
+    },
+    {
       "author_name": "M & M",
       "author_url": "https://www.google.com/maps/contrib/106069124018197972421/reviews",
       "language": "de",
@@ -121,12 +133,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 52,
+  "rating": 4.7,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-04T07:46:54.853Z"
+  "lastUpdated": "2026-05-07T07:42:24.281Z"
 }

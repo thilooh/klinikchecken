@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bettina Schaaf",
+      "author_url": "https://www.google.com/maps/contrib/109492175119849470500/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb7rVF3UmPC2gfas-bpI0vNo9W6akcErBPbSEYXGKXjjec0g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war das erste mal in dieser Praxis und war sehr zufrieden, das Personal sehr kompetent und freundlich und auch Dr.Curelaru hat sich Zeit genommen und mir alles erklärt. Da geh ich auch gerne wieder hin.👍",
+      "time": 1777895144,
+      "translated": false
+    },
+    {
       "author_name": "Dominik",
       "author_url": "https://www.google.com/maps/contrib/109159819099901356658/reviews",
       "language": "de",
@@ -30,6 +42,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbreIx7p_l9xvIjdG-rFDZE5a6xJ_HOMgIUTeRkYh6Zw0XOb0=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1772783881,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Toma",
+      "author_url": "https://www.google.com/maps/contrib/116294581739163664799/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbreIx7p_l9xvIjdG-rFDZE5a6xJ_HOMgIUTeRkYh6Zw0XOb0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1772783881,
       "translated": false
@@ -70,11 +92,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 37,
+  "reviewCount": 38,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-05-04T07:47:10.779Z"
+  "lastUpdated": "2026-05-07T07:42:41.132Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Björn",
+      "author_url": "https://www.google.com/maps/contrib/107452349428550252809/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8DG-_eWFB942_IDOl2_lcJzhMfgOp69-T-PcgoxFlJk4sGQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777932133,
+      "translated": false
+    },
+    {
       "author_name": "Dirk Krönung",
       "author_url": "https://www.google.com/maps/contrib/101472999851434291622/reviews",
       "language": "de",
@@ -84,11 +94,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 55,
+  "reviewCount": 56,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-05-04T07:46:59.045Z"
+  "lastUpdated": "2026-05-07T07:42:28.722Z"
 }

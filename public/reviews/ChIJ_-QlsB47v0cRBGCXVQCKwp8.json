@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Burghard Bendel van der Beek",
+      "author_url": "https://www.google.com/maps/contrib/117056939202771231934/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbTiJdInEJXXUW9eu34ypsEPKyVj0RD42zLsbJPFhhrG87QNoi=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "In sauberem Ambiente, ruhig, freundlich und nett, wird einem kompetent geholfen.\nDie Terminvereinbarung wird eingehalten.\nFazit, sehr empfehlenswert.",
+      "time": 1777390011,
+      "translated": false
+    },
+    {
       "author_name": "Kevin Radloff",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
@@ -27,6 +39,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMisLhz1dmxE1NTKkmHhmpIlXkGtiJf5sTh_PF6gNZuAJ8DA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Von der Anmeldung bis zur Behandlung lief alles sehr angenehm schnell und freundlich. Frau Dr. Germann hat eine ruhige, zugewandte Art und erklärt die einzelnen Schritte super. Fühle mich gut beraten und in sicheren Händen. Auch das Team im Hintergrund wirkt eingespielt und hilfsbereit – das merkt man im gesamten Ablauf. Danke und bis zum nächsten Mal!",
+      "time": 1776804157,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Radloff",
+      "author_url": "https://www.google.com/maps/contrib/110334562374205711712/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMisLhz1dmxE1NTKkmHhmpIlXkGtiJf5sTh_PF6gNZuAJ8DA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Von der Anmeldung bis zur Behandlung lief alles sehr angenehm schnell und freundlich. Frau Dr. Germann hat eine ruhige, zugewandte Art und erklärt die einzelnen Schritte super. Fühle mich gut beraten und in sicheren Händen. Auch das Team im Hintergrund wirkt eingespielt und hilfsbereit – das merkt man im gesamten Ablauf. Danke und bis zum nächsten Mal!",
       "time": 1776804157,
       "translated": false
@@ -66,11 +90,35 @@
       "time": 1772726799
     },
     {
+      "author_name": "Lisa Müller (Lisamueller8906)",
+      "author_url": "https://www.google.com/maps/contrib/110100487260264066667/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLn836KdqNY49EVXeTIB5hhcw41llOGmmuk1a9LqJ4u5uXjxw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Bin super zufrieden!\nTolles Ambiente , freundliches Personal an der Anmeldung.\nHab super spontan für den selben Tag am Nachmittag einen Termin bekommen, was als Kassenpatient:in ein 6er im Lotto ist. Daher nimmt man auch gerne mal Fahrten mit der Kvb >1h in Kauf.\nWurde von Frau Dr. Hasagic behandelt. Super freundlich, man fühlt sich ernst genommen und sie nimmt sich Zeit.\nDiese Praxis ist ein wirklicher Glücksfund! 🍀",
+      "time": 1772726799,
+      "translated": false
+    },
+    {
       "author_name": "Michael Winterlich",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
       "text": "Hallo,\nich bin positiv überrascht das hier sehr engagierte Ärzte arbeiten.\nMeine Frau war auch hier in Behandlung und war auch begeistert. Daraufhin habe ich einen Termin gemacht und war bei Frau Lena Germann in Behandlung. Richtig gut beraten und diagnostiziert worden. Es gib doch noch Praxen, wo man auf nette und kompetente Ärzte trifft.",
       "time": 1770308110
+    },
+    {
+      "author_name": "Michael Winterlich",
+      "author_url": "https://www.google.com/maps/contrib/109547425960482069145/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvZwLBFUzGEO1VfzG58u7zUEm0ZiplbpENQFE3he4TZS8jvQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Hallo,\nich bin positiv überrascht das hier sehr engagierte Ärzte arbeiten.\nMeine Frau war auch hier in Behandlung und war auch begeistert. Daraufhin habe ich einen Termin gemacht und war bei Frau Lena Germann in Behandlung. Richtig gut beraten und diagnostiziert worden. Es gib doch noch Praxen, wo man auf nette und kompetente Ärzte trifft.",
+      "time": 1770308110,
+      "translated": false
     },
     {
       "author_name": "Saskia Wieber",
@@ -83,5 +131,5 @@
   "rating": 3.9,
   "reviewCount": 92,
   "summary": [],
-  "lastUpdated": "2026-05-04T07:46:27.521Z"
+  "lastUpdated": "2026-05-07T07:41:54.460Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tima O.",
+      "author_url": "https://www.google.com/maps/contrib/109775331981048674856/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL79r-3J8cfmO3OPYLimzHmMGWFioqldCW8cdRpTxDhHnsRpA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe eine außerordentlich positive Erfahrung in der Gefäßpraxis. Von Anfang an war der Empfang unfassbar herzlich, die Mitarbeiterinnen am Empfang sind wirklich bemerkenswert aufmerksam und machen Dinge möglich, an die ich lange nicht geglaubt hätte. Man fühlt sich sofort willkommen und gut aufgehoben.\n\nDer Behandlungsablauf war klar erklärt. Dr Cilbirt sich viel Zeit genommen, war kompetent, aufmerksam und erklärt geduldig alle Schritte. Besonders gut gefallen hat mir, wie umfassend er mich aufgeklärt hat, sodass ich mich sicher und gut informiert fühle.\n\nInsgesamt fühle ich mich in dieser Praxis äußerst wohl und gut betreut. Vielen Dank an das gesamte Team !!!\nihr macht einen großartigen Job! Kurzer Nachtrag: Heute am 6.5.26 wieder vor Ort gewesen.. was soll ich sagen.. ich bin einfach nur begeistert!!!! Von Herzen auch für heute tausend Dank!!! TOLLES TEAM AM EMPFANG! IHR MACHT EINEN GROSSARTIGEN JOB ❣️",
+      "time": 1778051797,
+      "translated": false
+    },
+    {
       "author_name": "Wolle LEV",
       "author_url": "https://www.google.com/maps/contrib/104424191829659548878/reviews",
       "language": "de",
@@ -93,6 +105,16 @@
       "translated": false
     },
     {
+      "author_name": "Lotto & Tabak Studio",
+      "author_url": "https://www.google.com/maps/contrib/111415636527512395581/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOh7GwcXqyky-iSev2wlLcKzqxXTy7YRcgws1pqFSQzHH23w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1776285432,
+      "translated": false
+    },
+    {
       "author_name": "Marion Horstmann",
       "author_url": "https://www.google.com/maps/contrib/103622607947680701334/reviews",
       "language": "de",
@@ -124,5 +146,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-04T07:47:03.059Z"
+  "lastUpdated": "2026-05-07T07:42:32.773Z"
 }

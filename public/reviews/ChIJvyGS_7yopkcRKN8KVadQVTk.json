@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ella",
+      "author_url": "https://www.google.com/maps/contrib/117576217626566902693/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLx9SrcSG6-ZtRi3uiscB_nqDWYkCQn5HDpHkjQIYMV_3Y6OQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bis jetzt 2 mal dort und habe relativ Zeitnah/ einmal sehr spontan 2 Tage später einen Termin bekommen. Jedes Mal saß ich keine 5 Minuten im Wartezimmer. Es wurde sich Zeit genommen für mich und alles ordentlich abgeklärt. Es war möglich, innerhalb eines Termines ein Erstgespräch durchzuführen, zu Röntgen und das Bild auch zu besprechen/auszuwerten. Das hatte ich bis jetzt bei keinem Arzt, und es hat vielleicht 30 Minuten gedauert.",
+      "time": 1778076847,
+      "translated": false
+    },
+    {
       "author_name": "Jana Kirchner",
       "author_url": "https://www.google.com/maps/contrib/113774171050846257774/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5L0w4cUhhk5aHRVGpVNha7OWzNMpo6u_Kb0xw3A8urPV8gRYZ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Enrico Matischewski",
+      "author_url": "https://www.google.com/maps/contrib/106485265107642806478/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKpXGzhiyfVd1cXO9h9HmbBj-ah97G6k7jAQxZzl-NQibwdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Danke für die gute Betreuung vor und nach der OP.Das Praxisteam sowie Schwestern ,Ärzte und Anästhesisten waren sehr freundlich und haben alles super erklärt.Auch wurde einen versucht mit ruhiger und spaßiger Art die Angst vor der OP zu nehmen.Ich würde mich jederzeit wieder für die Praxis Zollmann & Kollegen entscheiden.",
+      "time": 1776273217,
+      "translated": false
+    },
+    {
       "author_name": "A. Müller",
       "author_url": "https://www.google.com/maps/contrib/111140390669650272863/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWfVYbF9F6873s97AadOC54HGGuXWbdCLUhoRTHAKgn3J42A=s128-c0x00000000-cc-rp-mo-ba3",
@@ -55,6 +79,16 @@
       "translated": false
     },
     {
+      "author_name": "A. Müller",
+      "author_url": "https://www.google.com/maps/contrib/111140390669650272863/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWfVYbF9F6873s97AadOC54HGGuXWbdCLUhoRTHAKgn3J42A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1776246257,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele Stöbe",
       "author_url": "https://www.google.com/maps/contrib/107506709233668506016/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwR6t_j4mb7PcaBKHX8It41R9uIAywQzZubKFFxZUDrZoGE07ffQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -70,6 +104,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwR6t_j4mb7PcaBKHX8It41R9uIAywQzZubKFFxZUDrZoGE07ffQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1775477301,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele Stöbe",
+      "author_url": "https://www.google.com/maps/contrib/107506709233668506016/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwR6t_j4mb7PcaBKHX8It41R9uIAywQzZubKFFxZUDrZoGE07ffQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1775477301,
       "translated": false
@@ -100,11 +144,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 188,
+  "reviewCount": 189,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-05-04T07:47:11.665Z"
+  "lastUpdated": "2026-05-07T07:42:42.113Z"
 }
