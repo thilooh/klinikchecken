@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Robin Braun",
+      "author_url": "https://www.google.com/maps/contrib/117738899911360775185/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDz5hqpFASc_xhb359AcLDBs_iJHq_ApSD9-2MQcx0wGdp8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eines der schlechtesten Hautärzte in der Umgebung. Gefühlt ist es wie Fließbandarbeit. Ich waren vor Ort da ich einen Ausschlag auf der Haut hatte der nicht weg ging und juckte, dieser wurde mir entfernt und untersucht. Ich sollte mich nach 4 Wochen nochmals melden und musste dann vor Ort und als ich da waren haben sie gesagt das sie kein ergebniss hatten und auch im Protokoll nichts davon steh das mir etwas entfernt wurde. Termine absagen geht nur telefonische wenn nach 3 Stunden irgendwann einmal jemand an das Telefon geht. Es spricht gefühlt keiner deutsch und versteht einen. Ich empfehle jedem einen anderen Hautarzt zu suchen und zu finden.",
+      "time": 1778142693,
+      "translated": false
+    },
+    {
       "author_name": "Martina Hübner",
       "author_url": "https://www.google.com/maps/contrib/105939029526164063688/reviews",
       "language": "de",
@@ -190,11 +202,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 206,
+  "reviewCount": 204,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:37.465Z"
+  "lastUpdated": "2026-05-10T07:25:20.302Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Djavad Blalaie",
+      "author_url": "https://www.google.com/maps/contrib/114005491617778334828/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQ04JgqalNfuPajY2dSdi9kPY6XtRzq_JaA3tP-o3lni84BHc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bewertung für Dr. J. Thönnissen, Hautärztin\n\nIch hatte recently einen Termin bei Dr. Thönnissen zur Warzenbehandlung und kann nur Positives berichten. Die Praxis ist gut organisiert, und ich hatte kaum Wartezeiten, was ich sehr schätze. Es ist empfehlenswert, im Voraus zu buchen, um einen reibungslosen Ablauf zu gewährleisten.\n\nAls Selbstzahler war ich ebenfalls sehr zufrieden mit der Behandlung und dem Service. Dr. Thönnissen ist äußerst kompetent und hat sich viel Zeit für meine Anliegen genommen. Ich kann sie uneingeschränkt weiterempfehlen!",
+      "time": 1778166838,
+      "translated": false
+    },
+    {
+      "author_name": "Heino Fock",
+      "author_url": "https://www.google.com/maps/contrib/115578162324596746828/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlLTp0v8P7m18bd5Iha73Zbf2bkPITpkdwy0FsL8DwFFXHwNc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetent- schneller Termin!",
+      "time": 1778160622,
+      "translated": false
+    },
+    {
       "author_name": "Hotel Strandkind",
       "author_url": "https://www.google.com/maps/contrib/105725589858075113194/reviews",
       "language": "de",
@@ -186,11 +210,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2249,
+  "reviewCount": 2250,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-07T07:42:08.377Z"
+  "lastUpdated": "2026-05-10T07:24:52.393Z"
 }

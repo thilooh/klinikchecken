@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Misra Totanji",
+      "author_url": "https://www.google.com/maps/contrib/105910997604602068133/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIwrbNu2o-a6yBlQN3eweBxY7zb3SbTjywp2BdyOYu-h90=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Am liebsten würde ich 0 Stern geben.\nWir sind für meine 2 Jährige Tochter zu diesem Arzt gegangen. Er ist überhaupt nicht zuvorkommend, ist auf unsere Fragen teilweise nicht eingegangen. Wollte nicht mal untersuchen?!?!?! Wollte uns nach 10 min nach Hause schicken.\nAm Ende hat er uns laut angebrüllt, weil wir genaue Untersuchung wollten!!!!\nSolche Menschen sollten kein Arzt werden.",
+      "time": 1778321517,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Schneider",
+      "author_url": "https://www.google.com/maps/contrib/101808646793895772703/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTZOuuIoR-anXc4jTY6wTWnO3Zd9JqD5x7cXW4NKrxTGscPb1kXA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte heute einen Termin zur Hautkrebsvorsorge um 9:30 Uhr als selbstzahlender Kassenpatient. Grundsätzlich habe ich Verständnis für längere Wartezeiten, jedoch wurden offensichtlich mindestens 6 andere Patienten vor mir aufgerufen, die nach mir eingetroffen sind.\n\nNachdem ich nachgefragt hatte, wurde mir zugesichert, dass es sich um einen Fehler handele und ich als Nächster an der Reihe sei. Trotzdem wurden anschließend erneut zwei weitere Patienten vor mir behandelt. Daraufhin habe ich mich entschieden, den Termin abzubrechen und die Praxis zu verlassen.\n\nInsgesamt habe ich rund zwei Stunden gewartet, ohne behandelt zu werden. Das Personal war zwar freundlich, jedoch hinterlässt die Organisation der Abläufe keinen guten Eindruck.\n\nAus meiner Erfahrung kann ich die Praxis daher leider nicht weiterempfehlen.",
+      "time": 1778321044,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Hurtig",
+      "author_url": "https://www.google.com/maps/contrib/108880357788852920730/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUIwRoC3guwyO5r13wb1igCdB9tL8J7HrUSjpAx2kZswiIBQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde eben von einem sehr freundlichen Mitarbeiter der Praxis an meinen jährlichen Hauskrebsscreening Plus Termin erinnert und in diesem Zusammenhang über weitere Leistungen der Praxis aufgeklärt. Das Gespräch mit Joseph Schwerdt war informativ und er war so nett, gleich passende und zeitnahe Screeningtermine für mich und meinen Mann zu finden. Da in meiner Familie verstärkt weißer Hautkrebs auftritt, bin ich über die Möglichkeit der engmaschigen screenings sehr froh! Vielen Dank!!",
+      "time": 1778242558,
+      "translated": false
+    },
+    {
+      "author_name": "Faig Badil",
+      "author_url": "https://www.google.com/maps/contrib/108804966733805638944/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrCGOgWO3kSwbHgUNjIan479tOSmQokYrLPFNUFBLQWA0Ozg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "„Herr Josef Schwerdt von BAG QUIST hat mich sehr kompetent und freundlich beraten. Er hat sich Zeit genommen, alles verständlich zu erklären, und ich habe mich während des gesamten Gesprächs bestens aufgehoben gefühlt. Vielen Dank für die professionelle Unterstützung – absolut empfehlenswert!",
+      "time": 1778230540,
+      "translated": false
+    },
+    {
+      "author_name": "Ademau Ryspekova",
+      "author_url": "https://www.google.com/maps/contrib/105963703578666705287/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqQEiy3M-iLZqyRJZKGHqKaGFyUW64_ZbxPII4njC9hEkc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778142541,
+      "translated": false
+    },
+    {
       "author_name": "Julia",
       "author_url": "https://www.google.com/maps/contrib/117737229667068574221/reviews",
       "language": "de",
@@ -194,11 +252,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 280,
+  "reviewCount": 283,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:23.300Z"
+  "lastUpdated": "2026-05-10T07:25:06.612Z"
 }

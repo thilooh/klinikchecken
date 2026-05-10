@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Aishah Bennett",
+      "author_url": "https://www.google.com/maps/contrib/104437228767818805888/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhRUhFZL8C7gebuWn8VOFAV-UHDWfr-B-uvr_KTn9Pk3rKbyrB=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolutely wonderful service from a great team",
+      "time": 1778339920,
+      "translated": false
+    },
+    {
+      "author_name": "V M",
+      "author_url": "https://www.google.com/maps/contrib/118236545394761981069/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG_XMLq9axmN6vjcq-hWeUONSwLvRmKDFrNtaiojmFyOw_yQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778251235,
+      "translated": false
+    },
+    {
       "author_name": "Chris",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
@@ -48,8 +70,8 @@
       "time": 1726128169
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 21,
+  "rating": 4,
+  "reviewCount": 23,
   "summary": [],
-  "lastUpdated": "2026-05-07T07:41:54.719Z"
+  "lastUpdated": "2026-05-10T07:24:38.604Z"
 }

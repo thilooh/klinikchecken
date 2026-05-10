@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gerhard Specht",
+      "author_url": "https://www.google.com/maps/contrib/105014531063075278523/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5cEPxj--4CV3Z-mGjjCvl8k2WiA8-DVY7ctKwxFw28cBB8A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Beste Hautärztin. Sie und Ihr Team sind spitzenmäßig. Immer super freundlich und kaum Wartezeit",
+      "time": 1778262070,
+      "translated": false
+    },
+    {
       "author_name": "A. Jung",
       "author_url": "https://www.google.com/maps/contrib/112946934540394869486/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB9s2B4vLqsvC7bLrs6sGl8DrE_BNG_KBkxfw0XuitLA46HQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Ärztin, sehr freundlich und nimmt sich Zeit.",
+      "time": 1777568873,
+      "translated": false
+    },
+    {
+      "author_name": "A. Jung",
+      "author_url": "https://www.google.com/maps/contrib/112946934540394869486/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB9s2B4vLqsvC7bLrs6sGl8DrE_BNG_KBkxfw0XuitLA46HQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Tolle Ärztin, sehr freundlich und nimmt sich Zeit.",
       "time": 1777568873,
       "translated": false
@@ -37,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Cengiz",
+      "author_url": "https://www.google.com/maps/contrib/108567611731580502569/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpw2Kk_QoUkC880POCL1xREvqwGmKE-ClosbJFwnjH2TNXoLM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin sehr zufrieden mit meiner Dermatologin. Sie ist sehr freundlich und nimmt sich Zeit, um sich meine Anliegen genau anzuhören. Auch das gesamte Team ist sehr nett und organisiert. Klare Empfehlung meinerseits.",
+      "time": 1776952329,
+      "translated": false
+    },
+    {
       "author_name": "Sonja Sarwari",
       "author_url": "https://www.google.com/maps/contrib/116242335676395097442/reviews",
       "language": "de",
@@ -56,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXGFjGtZxLLarOY8N2OLnMgreSuORE0Lau_E0B5K9lV_GYtUUj=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Bin zufrieden, die Ärztin ist toll!!👍👍👍👍",
+      "time": 1776352230,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja Sarwari",
+      "author_url": "https://www.google.com/maps/contrib/116242335676395097442/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXGFjGtZxLLarOY8N2OLnMgreSuORE0Lau_E0B5K9lV_GYtUUj=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Bin zufrieden, die Ärztin ist toll!!👍👍👍👍",
       "time": 1776352230,
       "translated": false
@@ -158,11 +206,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 142,
+  "reviewCount": 143,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-07T07:42:14.236Z"
+  "lastUpdated": "2026-05-10T07:24:57.957Z"
 }

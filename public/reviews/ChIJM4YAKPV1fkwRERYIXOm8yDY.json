@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Info",
+      "author_url": "https://www.google.com/maps/contrib/100739397431391632235/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7-_lpFfTFF8ay2gXfXiRmaRXKrToy3hucql0ZNMClNVK-8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Kacik ist einer der wenigen Spezialisten in Deutschland, die sich mit ME/CFS und den Folgen von COVID-19 auskennen, diese diagnostizieren und behandeln.\nSeine Behandlung, Begleitung und fachliche Expertise haben meine Lebenssituation entscheidend verbessert. Dafür bin ich sehr dankbar. 🙏",
+      "time": 1778165251,
+      "translated": false
+    },
+    {
       "author_name": "m s",
       "author_url": "https://www.google.com/maps/contrib/110893791552679916577/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBMPS0cF9AOwMjlYwViBS1j0k3mwnhW6Cj64GYs4HP4qxJmw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "In dieser Praxis steht der Patient im Vordergrund. Vom Ankommen bis zum Abschied wird Rücksicht genommen - auf Einschränkungen, Wünsche und Bedürfnisse. Die Mitarbeiter sind sehr gut ausgebildet, einfühlsam und optimieren die Abläufe, sodass kaum Wartezeiten entstehen. Dr. Kacik nimmt sich sehr viel Zeit für die Komplexität der Krankheitsbilder, hört zu und besticht durch seine Expertise. Selbst im Wartezimmer gibt es bequeme Sessel und Gehörschutz für Patienten mit akustischer Belastungsintoleranz. Ich komme immer wieder gerne hierher und kann die Praxis uneingeschränkt weiterempfehlen.",
+      "time": 1777055066,
+      "translated": false
+    },
+    {
+      "author_name": "m s",
+      "author_url": "https://www.google.com/maps/contrib/110893791552679916577/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBMPS0cF9AOwMjlYwViBS1j0k3mwnhW6Cj64GYs4HP4qxJmw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "In dieser Praxis steht der Patient im Vordergrund. Vom Ankommen bis zum Abschied wird Rücksicht genommen - auf Einschränkungen, Wünsche und Bedürfnisse. Die Mitarbeiter sind sehr gut ausgebildet, einfühlsam und optimieren die Abläufe, sodass kaum Wartezeiten entstehen. Dr. Kacik nimmt sich sehr viel Zeit für die Komplexität der Krankheitsbilder, hört zu und besticht durch seine Expertise. Selbst im Wartezimmer gibt es bequeme Sessel und Gehörschutz für Patienten mit akustischer Belastungsintoleranz. Ich komme immer wieder gerne hierher und kann die Praxis uneingeschränkt weiterempfehlen.",
       "time": 1777055066,
       "translated": false
@@ -164,11 +188,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 84,
+  "reviewCount": 85,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-05-07T07:42:10.679Z"
+  "lastUpdated": "2026-05-10T07:24:54.604Z"
 }

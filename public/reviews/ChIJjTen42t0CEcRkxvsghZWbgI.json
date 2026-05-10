@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Daniel Lehmann",
+      "author_url": "https://www.google.com/maps/contrib/111979888569449605082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOcW98-BDgAOr6-CH5NoWQXyfyfeI6PSZnTWF9hMU_2hvk_A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 6 Monaten",
+      "text": "",
+      "time": 1762773104,
+      "translated": false
+    },
+    {
       "author_name": "Khava",
       "author_url": "https://www.google.com/maps/contrib/109757976225260447512/reviews",
       "language": "de",
@@ -18,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMz7sc0yohfAL7I74PLQhn_KEP7mTsMPn1jCiMw7USESnNDz5t=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 9 Monaten",
+      "text": "Mit akutem Thrombose-Verdacht in die Praxis gekommen – und eiskalt weggeschickt. Kein Mitgefühl, keine Hilfe, keine Untersuchung. Eine Fachpraxis, die im Notfall versagt, ist schlicht nutzlos. Absolut verantwortungslos und enttäuschend.",
+      "time": 1752224905,
+      "translated": false
+    },
+    {
+      "author_name": "Khava",
+      "author_url": "https://www.google.com/maps/contrib/109757976225260447512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMz7sc0yohfAL7I74PLQhn_KEP7mTsMPn1jCiMw7USESnNDz5t=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 10 Monaten",
       "text": "Mit akutem Thrombose-Verdacht in die Praxis gekommen – und eiskalt weggeschickt. Kein Mitgefühl, keine Hilfe, keine Untersuchung. Eine Fachpraxis, die im Notfall versagt, ist schlicht nutzlos. Absolut verantwortungslos und enttäuschend.",
       "time": 1752224905,
       "translated": false
@@ -66,5 +88,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:47.170Z"
+  "lastUpdated": "2026-05-10T07:25:29.683Z"
 }

@@ -45,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "Kalle Grausam",
+      "author_url": "https://www.google.com/maps/contrib/101558851147362541284/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWME0JQ9mkEgt1MDcshIUpztXTBOC6sdNEJjVX8p_IwTuP340z4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1777096923,
+      "translated": false
+    },
+    {
       "author_name": "KG Coaching",
       "author_url": "https://www.google.com/maps/contrib/103319766640894500693/reviews",
       "language": "de",
@@ -105,6 +115,18 @@
       "translated": false
     },
     {
+      "author_name": "Marius Lindauer",
+      "author_url": "https://www.google.com/maps/contrib/118018370691193451701/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAewTLFbtpNqGfXQl9uQ8-ma9sUysW7-geFkyn__NnPB2uLdzFPA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Nach 6 Jahren als zufriedener Patient bei Herrn Dr. Wahn war es heute für mich das letzte Mal in der Praxis. Obwohl ich einen Termin als erster des Tages um 08:00 Uhr hatte (was für meine Arbeit wichtig ist), musste ich 45min lang warten. Als Herr Wahn endlich kam, weder Begrüßung noch Entschuldigung. Es war nur die Frage, was heute dran sein würde. Als ich ihm sagte, dass ich einen Termin für zwei Anliegen hatte, wurde gleich abgewiegelt, dass ja nur eine Sache pro Termin gemacht werden könnte. Auf meine Frage, wie ich das wissen sollte, da die Terminbestätigung das nicht erwähnt, wurde mir nur vorgeworfen, dass ich pampig sei. Ich fühlte mich hier weder ernst genommen noch war Herr Dr. Wahn interessiert eine Lösung zu finden, für einen Fehler, der in seinem Haus entstanden war. Ende der Geschichte war, dass Herr Dr. Wahn die gesamte Behandlung verweigert hat und meinte, dass er es nicht nötig hätte mir eine Rechnung zu stellen, der er ja tausende pro Woche davon stelle würde. Meine Eindruck daraus kann daher nur sein, dass es ihm nur um die Maximierungen der Rechnung geht und nicht um den einzelnen Patienten. Sehr schade.\nIch kann das alles nicht nachvollziehen, was da in ihm abging oder was für einen Stress er vielleicht schon zuvor am Tag hatte. Aber so eine Erfahrung will ich mir als Patient trotzdem nicht nochmal antun und werde mir eine andere Praxis suchen.",
+      "time": 1776412740,
+      "translated": false
+    },
+    {
       "author_name": "Rina M",
       "author_url": "https://www.google.com/maps/contrib/105807630184559080042/reviews",
       "language": "de",
@@ -151,14 +173,26 @@
       "text": "Dr. Matziris war unfreundlich und herablassend und hat sich nicht für meine Beschwerden interessiert. Ich hatte das Gefühl, einfach nur schnell abgefertigt zu werden. Auf Fragen wurde kaum eingegangen, und eine ernsthafte Untersuchung fand nicht statt. Dazu kam, dass er undeutlich gesprochen hat, was die Situation noch frustrierender gemacht hat. Ich habe mich dort nicht ernst genommen und schlecht behandelt gefühlt – definitiv keine Empfehlung.",
       "time": 1776177340,
       "translated": false
+    },
+    {
+      "author_name": "Linda Valle",
+      "author_url": "https://www.google.com/maps/contrib/117790569631237857591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzfTAiyU3PqI9Cu9kwELAJ9r8wvAAk2z4gG1E58iCZ9YgzCbuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Dr. Matziris war unfreundlich und herablassend und hat sich nicht für meine Beschwerden interessiert. Ich hatte das Gefühl, einfach nur schnell abgefertigt zu werden. Auf Fragen wurde kaum eingegangen, und eine ernsthafte Untersuchung fand nicht statt. Dazu kam, dass er undeutlich gesprochen hat, was die Situation noch frustrierender gemacht hat. Ich habe mich dort nicht ernst genommen und schlecht behandelt gefühlt – definitiv keine Empfehlung.",
+      "time": 1776177340,
+      "translated": false
     }
   ],
   "rating": 4.5,
-  "reviewCount": 244,
+  "reviewCount": 243,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-07T07:42:04.258Z"
+  "lastUpdated": "2026-05-10T07:24:48.499Z"
 }

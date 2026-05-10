@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Katharina Breitbach",
+      "author_url": "https://www.google.com/maps/contrib/116706791838147102072/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZXx-DF-2uhyT2M0d__b8J23_DJBJdj7oT51GmkeJBuFdHqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetenter Arzt, sehr freundliches Personal. OP ohne Probleme.",
+      "time": 1778222257,
+      "translated": false
+    },
+    {
       "author_name": "Thea E",
       "author_url": "https://www.google.com/maps/contrib/116688495316790114039/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnDIINjarj90iEuyzwjQUiEVKDQLdVrbbnNkPl0kjHY1cKsA=s128-c0x00000000-cc-rp-mo",
@@ -110,11 +122,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 22,
+  "reviewCount": 23,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:40.897Z"
+  "lastUpdated": "2026-05-10T07:25:23.574Z"
 }

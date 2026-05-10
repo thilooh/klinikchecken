@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Florian",
+      "author_url": "https://www.google.com/maps/contrib/112949253692953321937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnK2qeSVi_GiE2XSZ4F6VMmMdUJSeBFoEIwhwhIGJHzSjytA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Praxis mit fachlich fundierten und freundlichen Ärzten. Je einen Stern Abzug gibt es für die teils nur sehr mäßig freundlichen Mitarbeiterinnen am Empfang und die sehr langen Wartezeiten in der Warteschleife am Telefon (oft >20 Minuten). Man fühlt sich -abseits der eigentlichen Behandlung- streckenweise eher wie ein AOK-Patient und nicht wie in einer Privatpraxis",
+      "time": 1778173363,
+      "translated": false
+    },
+    {
+      "author_name": "Christiane Matthies",
+      "author_url": "https://www.google.com/maps/contrib/105307645926952677399/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrluYcUpDmsYm1CZDe6bxRxOvD8xPjqFEAICV1awOUlhr_2Izn=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Da fühlt man sich sehr gut beraten bestens betreut und es wird sofort gehandelt. Vielen Dank an das tolle Team",
+      "time": 1778169666,
+      "translated": false
+    },
+    {
+      "author_name": "J L",
+      "author_url": "https://www.google.com/maps/contrib/113072584773524011410/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0a2jb9h-FHVD7iyqeHXBnR1TEuVGWIiq_8n_bWbDE06Ppzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Frau Dr. Wagner zu einem Beratungsgespräch für eine Narbenkorrektur.\nIch fragte vor dem Gespräch wie viel es kosten würde. Mir wurde versichert, dass ich nicht mehr als 50€ zahlen müsste. Das Gespräch ging c.a 10 Minuten. Ich zeigte kurz meine Narbe und es wurde für 1 oder 2 Sekunden ein Gerät an die Narbe gehalten.\n\nAbgerechnet wurde eine Zeitaufwendige Untersuchung und eine zeitaufwendige Dermatoskopie und dementsprechend ein deutlich höherer Betrag als 50€. Ich habe natürlich sofort versucht das Problem mit der Abrechnungsstelle zu klären. Die Dame meinte, dass sie dies mit der Ärztin klären würde. Doch diese blieb bei der zeitaufwendigen Behandlung und Untersuchung. Auf meine Einwände, dass es sich keinesfalls um eine zeitaufwendige Behandlung gehandelt haben könnte, wurde überhaupt nicht eingegangen.\n\nSchade, dass ein Arztbesuch jetzt zu einem Fall für meinen Anwalt wird. Kulanz und das Einsehen von Fehlern ist bei dieser Praxis definitiv nicht angesagt.",
+      "time": 1778153243,
+      "translated": false
+    },
+    {
       "author_name": "Monique Östlind",
       "author_url": "https://www.google.com/maps/contrib/101280415366116929922/reviews",
       "language": "de",
@@ -164,7 +200,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 416,
+  "reviewCount": 419,
   "summary": [],
-  "lastUpdated": "2026-05-07T07:42:00.955Z"
+  "lastUpdated": "2026-05-10T07:24:45.353Z"
 }

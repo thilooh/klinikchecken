@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Silke S.",
+      "author_url": "https://www.google.com/maps/contrib/103479753752361608940/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtGiyfd9k2PIaKiFsS1yg-ywg5sRUeC3dB30DVE4ol213asJ4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zum zweiten Mal im Venenzentrum bei Herrn Dr. Neugebauer und bin wieder sehr zufrieden gewesen. Sehr freundlicher und kompetenter Arzt, der sich Zeit nimmt und alles verständlich erklärt. Besonders positiv fand ich, dass ich ohne lange Wartezeit direkt drangekommen bin. Auch die Damen an der Anmeldung waren sehr freundlich und organisiert. Insgesamt eine sehr angenehme Erfahrung – absolut empfehlenswert.",
+      "time": 1778236282,
+      "translated": false
+    },
+    {
       "author_name": "Andrew Hilkowitz",
       "author_url": "https://www.google.com/maps/contrib/114359582050104299049/reviews",
       "language": "de",
@@ -170,11 +182,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 143,
+  "reviewCount": 144,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:37.978Z"
+  "lastUpdated": "2026-05-10T07:25:20.779Z"
 }

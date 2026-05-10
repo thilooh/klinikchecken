@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "A. H.",
+      "author_url": "https://www.google.com/maps/contrib/110857054165214274121/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbG8HZwiQVNBCDEm0v_AmMxTcp5f0YKsAalHHu2M42pPhX-A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gute Klinik, freundliches Personal",
+      "time": 1778170375,
+      "translated": true
+    },
+    {
       "author_name": "John Bassissa",
       "author_url": "https://www.google.com/maps/contrib/112285724797084006799/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-CZMX-wm5LReUAi7sbQRCz4ogSbuCFVrNvay2QhAqQ0cAYWGu=s128-c0x00000000-cc-rp-mo-ba3",
@@ -81,6 +93,18 @@
       "translated": false
     },
     {
+      "author_name": "Batul Daud Aga",
+      "author_url": "https://www.google.com/maps/contrib/107842564916765955250/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgjzlwvvjfDXmr4aRxvBdz7C37YpknQWmIPmqOCJ0eiu3F-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr kompetente Ärztin und ein ausgesprochen freundliches Team.\nEin großes Lob für die Professionalität dieser Praxis.",
+      "time": 1775758474,
+      "translated": false
+    },
+    {
       "author_name": "Salah",
       "author_url": "https://www.google.com/maps/contrib/102391506040257272871/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzFkk4IQnbZGb_be294FpDYWXdmvkqyLKNKrfpr2k8lxrAVAPZlQ=s128-c0x00000000-cc-rp-mo-ba5",
@@ -106,6 +130,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzFkk4IQnbZGb_be294FpDYWXdmvkqyLKNKrfpr2k8lxrAVAPZlQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1775718260,
+      "translated": false
+    },
+    {
+      "author_name": "Salah",
+      "author_url": "https://www.google.com/maps/contrib/102391506040257272871/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzFkk4IQnbZGb_be294FpDYWXdmvkqyLKNKrfpr2k8lxrAVAPZlQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1775718260,
       "translated": false
@@ -160,11 +194,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 417,
+  "reviewCount": 418,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:11.453Z"
+  "lastUpdated": "2026-05-10T07:24:55.306Z"
 }

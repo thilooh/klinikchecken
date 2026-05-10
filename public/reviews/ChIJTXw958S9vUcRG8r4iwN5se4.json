@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Christ",
+      "author_url": "https://www.google.com/maps/contrib/109191338941285563359/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKez1yoYdSdwWWFuO_qONKC6eFVDBopfN0CAL-Ii4lZwuh5QA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Trotz der Mitteilung eine auffällige Stelle auf der Brust zu haben verlangte man eine Zuzahlung zur Untersuchung. Ich verneinte. Die Damen am Empfang waren so mit sich selbst beschäftigt, dass sie mir nicht richtig zuhörten. Vor den Verlassen der Praxis eine blutverschmierte Patienten Toilette vorgefunden. Spätestens da war ich froh den Termin nicht wahr genommen zu haben!",
+      "time": 1778248855,
+      "translated": false
+    },
+    {
+      "author_name": "John Vzone",
+      "author_url": "https://www.google.com/maps/contrib/110291251122015393980/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSfCZcLbJ1bRaLAPVvEFHwXShcfz0l_bI1U9_55RcU0OrkDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Anmerkung zu meinem 1 Stern 08.05.2026:\nGoogle sagt:\n\"Es wurden Rezensionen zu diesem Ort entfernt\nIm vergangenen Jahr wurden 51 bis 100 Bewertungen aufgrund einer Beschwerde wegen Diffamierung nach deutschem Recht entfernt.\"\n\nDas sagt genug. Dieses Feature von Google gibt es erst seit kurzem - Veröffentlichung dieser Daten.",
+      "time": 1778228474,
+      "translated": false
+    },
+    {
+      "author_name": "sascha hertach",
+      "author_url": "https://www.google.com/maps/contrib/112353912660353207687/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhbPNZIfLH8suG2L_1iZlJMyxDP3kPtMAR-iyU0xpP6YBieg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine der chaotischsten Arztpraxen die ich jemals besucht habe. Mangels Alternativen war ich seid einigen Jahren dort Patient. Teilweise Wartezeiten von fast 2 Stunden. Herr Dr. Broichmamn ist ein klassischer Gott in Weiss. Unfreundlich und immer kurz angebunden. Ich habe ihn noch nie lächeln gesehen. Die anderen Ärzte scheinen sich dem Bild von ihm immer mehr zu nähern. Selbst als Privatpatient hat man das Gefühl zu stören. Mir tun die Mitarbeiter leid, die dort arbeiten. Scheinbar ist das Klima zwischen den Angestellten gar nicht so schlecht. Mein Fazit: mit den Jahren immer schlechter geworden.",
+      "time": 1778188423,
+      "translated": false
+    },
+    {
       "author_name": "Sarah Kdjt",
       "author_url": "https://www.google.com/maps/contrib/102675435329749480471/reviews",
       "language": "de",
@@ -61,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "LS",
+      "author_url": "https://www.google.com/maps/contrib/102203402729522924519/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnk2T6yiS3hQmlve-odq3cCIlU_gy6P9TMhkgJQDR9O9Yx-N0=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "War zum ersten Mal mit meiner Tochter da und Frau Dr Marianne Arz war super lieb und einfühlsam. Dank ihr konnte meiner Tochter endlich geholfen werden\n\n1 Stern Abzug, dass man seit mehreren Tagen niemanden übers Telefon erreicht, trotz mehrfachen anrufens und ewigem warten.",
+      "time": 1776421497,
+      "translated": false
+    },
+    {
       "author_name": "Karolina Julia",
       "author_url": "https://www.google.com/maps/contrib/104947228601283713779/reviews",
       "language": "de",
@@ -110,11 +158,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 138,
+  "reviewCount": 141,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:23.062Z"
+  "lastUpdated": "2026-05-10T07:25:06.371Z"
 }

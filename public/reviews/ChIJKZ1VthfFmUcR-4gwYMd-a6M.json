@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Marion Schäfer",
+      "author_url": "https://www.google.com/maps/contrib/103435011824708000533/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_EkARUJrvedxklgUYFS7L7SMrrsHcqSe2_UOFCfoaxiICAeRz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war und bin Patientin von Dr. Antonia Dekorsy und bin sehr glücklich mit Ihrer exzellenten Behandlung und der super netten Betreuung. Von Herzen Danke!",
+      "time": 1778323245,
+      "translated": false
+    },
+    {
+      "author_name": "krishna wagner",
+      "author_url": "https://www.google.com/maps/contrib/104283402217547824532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU788ER4V0JvEhXNLlLWJ_KqbxLwrma6J7CfZSAc59IF6-EaOb5=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778191562,
+      "translated": false
+    },
+    {
+      "author_name": "Konni K.",
+      "author_url": "https://www.google.com/maps/contrib/101238266742165678517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfoM6OROjwWBfTI3o9VLgUN86oTp0VSeGMgSCS47XBk00S_g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Hamann ist meine Ärztin, kompetent, natürlich und authentisch.\nDa freut man sich schon fast auf die Behandlung und die Schmerzen sind halb so wild.",
+      "time": 1778158378,
+      "translated": false
+    },
+    {
       "author_name": "Ahmed Maghraoui",
       "author_url": "https://www.google.com/maps/contrib/101215367743870202864/reviews",
       "language": "de",
@@ -158,7 +192,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 308,
+  "reviewCount": 311,
   "summary": [],
-  "lastUpdated": "2026-05-07T07:42:03.245Z"
+  "lastUpdated": "2026-05-10T07:24:47.525Z"
 }

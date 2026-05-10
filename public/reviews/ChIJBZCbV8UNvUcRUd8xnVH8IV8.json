@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Gioia",
+      "author_url": "https://www.google.com/maps/contrib/106559944321527807658/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxPceHemgZtU3uEdc-TFKqayxh3xOEXjoyvYkqYOEKdMTJlO8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich froh, mich für Dr. Abbas Kodeih entschieden zu haben. Schon beim Beratungsgespräch hatte ich ein sehr gutes Gefühl, weil ehrlich auf meine Wünsche eingegangen wurde und alles genau erklärt wurde. Meine Liposuktion im Februar ist sehr gut verlaufen und ich habe mich während der gesamten Behandlung jederzeit gut aufgehoben gefühlt. Besonders positiv fand ich die freundliche Art des Teams und die professionelle Betreuung auch nach der OP. Mit meinem Ergebnis bin ich sehr zufrieden und würde die Praxis jederzeit weiterempfehlen.❤️❤️❤️❤️",
+      "time": 1778184374,
+      "translated": false
+    },
+    {
+      "author_name": "Valentina Valentina",
+      "author_url": "https://www.google.com/maps/contrib/114874490347872557235/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPOnkrFVtwvB9iq9D4baNKEYsMpN3y-y_xXceLVBpofLh4pQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein großes Dankeschön an Dr. Abbas Kodeih und das gesamte Praxisteam! Ich hatte im Februar meine Liposuktion dort und bin wirklich sehr zufrieden. Von der Beratung bis zur Nachsorge habe ich mich jederzeit ernst genommen und bestens betreut gefühlt. Dr. Abbas Kodeih ist ein sehr professioneller, einfühlsamer und erfahrener Arzt, bei dem man sich sofort sicher fühlt. Auch das Team war immer freundlich und hilfsbereit. Ich kann die Praxis mit gutem Gewissen weiterempfehlen❤️",
+      "time": 1778184189,
+      "translated": false
+    },
+    {
       "author_name": "Zlatko Li",
       "author_url": "https://www.google.com/maps/contrib/111481409782348655026/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzkpw8gY4j3D0G1dBbS2Ja7HNFGiYJODntTB9ddYhMiL_V2Q=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzkpw8gY4j3D0G1dBbS2Ja7HNFGiYJODntTB9ddYhMiL_V2Q=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1776365007,
+      "translated": false
+    },
+    {
+      "author_name": "Zlatko Li",
+      "author_url": "https://www.google.com/maps/contrib/111481409782348655026/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzkpw8gY4j3D0G1dBbS2Ja7HNFGiYJODntTB9ddYhMiL_V2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1776365007,
       "translated": false
@@ -124,7 +158,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 96,
+  "reviewCount": 98,
   "summary": [],
-  "lastUpdated": "2026-05-07T07:41:57.033Z"
+  "lastUpdated": "2026-05-10T07:24:41.269Z"
 }

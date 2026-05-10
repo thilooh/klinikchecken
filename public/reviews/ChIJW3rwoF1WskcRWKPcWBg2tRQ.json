@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tobi Nofre",
+      "author_url": "https://www.google.com/maps/contrib/117603762621881957529/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmQS2UFCk9kDkGoV_qyjLq9Aknjti94rxsJpY5sJZKucVYgQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "In der Praxis ist es immer sehr voll ,die Mitarbeiter waren immer freundlich und wir können nur gutes von der Praxis sagen.",
+      "time": 1778362165,
+      "translated": false
+    },
+    {
       "author_name": "Hayat Aydin",
       "author_url": "https://www.google.com/maps/contrib/114048478176712062694/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt8TF-9WfaTlGii5mviKxJlVNXn_FH4IDKOR1Q7P9KZJZ9QA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Hier wird Ihnen NICHT geholfen!\nVor zwei Monaten angerufen – Bandansage – Termin gemacht – heute angekommen – ich kein Privatpatient – die ältere grauhaarige Dame am Empfang: „Sie haben aber Privat statt Kasse angegeben!“ Mir wurde suggeriert, dass Fehler nicht menschlich sind, sondern einem das Gefühl geben – wir machen keine Fehler – Es gab nicht mal einen Kompromiss für einen neuen Termin.\nMöchten Sie sich ärgern – rufen Sie hier an!\nMein Hausarzt bekommt die Mitteilung: Schicke deine Patienten mit Überweisung woanders hin.\nEmpfehlung = Null!\nHier bekommt der Patient das Gefühl: Willkommen in der Zweiklassengesellschaft.",
+      "time": 1777570937,
+      "translated": false
+    },
+    {
+      "author_name": "Marc -",
+      "author_url": "https://www.google.com/maps/contrib/109680270239176157115/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt8TF-9WfaTlGii5mviKxJlVNXn_FH4IDKOR1Q7P9KZJZ9QA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Hier wird Ihnen NICHT geholfen!\nVor zwei Monaten angerufen – Bandansage – Termin gemacht – heute angekommen – ich kein Privatpatient – die ältere grauhaarige Dame am Empfang: „Sie haben aber Privat statt Kasse angegeben!“ Mir wurde suggeriert, dass Fehler nicht menschlich sind, sondern einem das Gefühl geben – wir machen keine Fehler – Es gab nicht mal einen Kompromiss für einen neuen Termin.\nMöchten Sie sich ärgern – rufen Sie hier an!\nMein Hausarzt bekommt die Mitteilung: Schicke deine Patienten mit Überweisung woanders hin.\nEmpfehlung = Null!\nHier bekommt der Patient das Gefühl: Willkommen in der Zweiklassengesellschaft.",
       "time": 1777570937,
       "translated": false
@@ -160,11 +184,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 129,
+  "reviewCount": 130,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:05.797Z"
+  "lastUpdated": "2026-05-10T07:24:50.003Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Heinz Kuntze",
+      "author_url": "https://www.google.com/maps/contrib/102273464978788628299/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwwND9OapuaT6UpPcN4IOVjp54qQvNSzytvhBCp6aXJGZIUQ-u=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schnell Termin bekommen.\nFreundliche zuvor kommende Mitarbeiter.",
+      "time": 1778227542,
+      "translated": false
+    },
+    {
       "author_name": "R. F.",
       "author_url": "https://www.google.com/maps/contrib/114716546600978804807/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpwq9cSmxG8nnfsSrPs_NXZC26PAld0ZqcvJdmCNvib4hM-g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zum dritten Mal da und bin wirklich sehr zufrieden. Der Empfang ist jedes Mal freundlich und herzlich, und die Praxis macht insgesamt einen sehr professionellen Eindruck.\n\nIch habe mich von Anfang an sehr gut aufgehoben gefühlt und ein perfekt abgestimmtes Behandlungskonzept bekommen. Ich war bei Jan zur kosmetischen Behandlung (Microneedling in Kombination mit Exosomen und Polynukleotiden) und bin mit dem Ergebnis mehr als glücklich.",
+      "time": 1777544838,
+      "translated": false
+    },
+    {
+      "author_name": "R. F.",
+      "author_url": "https://www.google.com/maps/contrib/114716546600978804807/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpwq9cSmxG8nnfsSrPs_NXZC26PAld0ZqcvJdmCNvib4hM-g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute zum dritten Mal da und bin wirklich sehr zufrieden. Der Empfang ist jedes Mal freundlich und herzlich, und die Praxis macht insgesamt einen sehr professionellen Eindruck.\n\nIch habe mich von Anfang an sehr gut aufgehoben gefühlt und ein perfekt abgestimmtes Behandlungskonzept bekommen. Ich war bei Jan zur kosmetischen Behandlung (Microneedling in Kombination mit Exosomen und Polynukleotiden) und bin mit dem Ergebnis mehr als glücklich.",
       "time": 1777544838,
       "translated": false
@@ -51,6 +75,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOOU1jRHsguAAjrUqhuGzyuociRWrn6yiPT3A3NPudkZZFDWOF=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nettes, englischsprachiges Team. Absolut empfehlenswert!",
+      "time": 1776327013,
+      "translated": true
+    },
+    {
+      "author_name": "Cyriane Beltrami",
+      "author_url": "https://www.google.com/maps/contrib/106271779618669094395/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOOU1jRHsguAAjrUqhuGzyuociRWrn6yiPT3A3NPudkZZFDWOF=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr nettes, englischsprachiges Team. Absolut empfehlenswert!",
       "time": 1776327013,
       "translated": true
@@ -157,7 +193,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 295,
+  "reviewCount": 296,
   "summary": [],
-  "lastUpdated": "2026-05-07T07:41:56.270Z"
+  "lastUpdated": "2026-05-10T07:24:40.246Z"
 }

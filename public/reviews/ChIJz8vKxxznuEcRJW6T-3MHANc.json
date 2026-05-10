@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Swaghetti Yolonese69",
+      "author_url": "https://www.google.com/maps/contrib/109841324594460933663/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfXHjV_we1IIHQV7qtAk2DYypikbk52Akwa7DuqcE_wxqwgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778340747,
+      "translated": false
+    },
+    {
       "author_name": "Ferdinand Islakar",
       "author_url": "https://www.google.com/maps/contrib/101653111900003387277/reviews",
       "language": "de",
@@ -172,11 +182,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 353,
+  "reviewCount": 354,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:27.490Z"
+  "lastUpdated": "2026-05-10T07:25:10.637Z"
 }

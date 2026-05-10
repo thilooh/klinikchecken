@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bardak76",
+      "author_url": "https://www.google.com/maps/contrib/111230562451317964544/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjvkB3H0QmiBtqNrH5ZEbxlnOYhbVGl0FyiVQTTYJBghBWYORh=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde richtig über den Tisch gezogen. Es ging eigentlich um eine Warze. Knapp zwei Jahre bin ich alle zwei Wochen zum vereisen hin gegangen udn habe für jeden Besuch 10 Euro gezahlt. Hin und wieder kam eine Ärztin um sich die Warze unter der Lupe anzuschauen. Zweimal ist es vorgekommen, dass es hieß: es ist vorbei, Sie brauchen nicht mehr zu kommen. Nach wenigen Tagen bis Wochen habe ich an der Stelle schmerz verspürt, also bin ich wieder hin udn es hieß zu mir, es muss neu behandelt werden. Das Resultat? Ich habe insgesamt knapp 500 € aus eigener Tasche gezahlt, hab immernoch die selben Beschwerden. Zusätzlich erhalte ich alle paar Monaten eine neue Rechnung aus unterschiedlichen Zeiträumen. Leider wurde ich Opfer so einer Nische um paar Groschen zu verdienen.",
+      "time": 1778341482,
+      "translated": false
+    },
+    {
       "author_name": "DerGeist",
       "author_url": "https://www.google.com/maps/contrib/114232989407142365602/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDBMpsZiOpWitKPb67wiuPCUFXgs41guQG2da5898xJdZu61U=s128-c0x00000000-cc-rp-mo-ba3",
@@ -168,11 +180,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 221,
+  "reviewCount": 222,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:17.019Z"
+  "lastUpdated": "2026-05-10T07:25:00.591Z"
 }

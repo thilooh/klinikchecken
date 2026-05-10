@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jessy",
+      "author_url": "https://www.google.com/maps/contrib/102095855517492893612/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0hXUithfzqLGyW-MkRXvkPEGfW7WRtDkWi3wVHijnldJjvbUs2g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte letztes Jahr im April eine endovenöse lasertherapie bei Frau Dr. Med. Milka Janjic. Hervorragend!! Sie ist eine super tolle erfahrene Ärztin. Sie klärt einen sehr gut auf, druckt die Information aus. Gibt Tips, berät sehr gut und nimmt sich Zeit. Ich habe mich beim ersten Mal sofort wohl gefühlt. Die OP verlief sehr gut. Ich war ein bisschen aufgeregt aber die Ärztin und Assistent-innen waren entspannt u. Freundlich , so dass meine Aufregung vorbei ging. Der Kontrollbesuch war natürlich auch super entspannt, lustig und vor allem herzlich. Vielen vielen Dank an Frau dr. med. Janjic. Bin mit allem sehr zufrieden. Bis zum nächsten Kontrollbesuch und für alle, alles Gute!",
+      "time": 1778163840,
+      "translated": false
+    },
+    {
       "author_name": "marko",
       "author_url": "https://www.google.com/maps/contrib/105582817966984733213/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnp4hXvuMIgHbOvyzqCXVY1mTurcWGN3p8pPaXtvLw10Cr=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Dr Janjic ist tolle Ärztin, sie nimmt Zeit für die Patienten ich kann nur weiter empfehlen und  Dankeschön für tolle Team. ❤️",
+      "time": 1773094052,
+      "translated": false
+    },
+    {
+      "author_name": "Münevver Ayvaz",
+      "author_url": "https://www.google.com/maps/contrib/114444624376335226756/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnp4hXvuMIgHbOvyzqCXVY1mTurcWGN3p8pPaXtvLw10Cr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Dr Janjic ist tolle Ärztin, sie nimmt Zeit für die Patienten ich kann nur weiter empfehlen und  Dankeschön für tolle Team. ❤️",
       "time": 1773094052,
       "translated": false
@@ -74,11 +98,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 159,
+  "reviewCount": 160,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-07T07:42:22.555Z"
+  "lastUpdated": "2026-05-10T07:25:05.901Z"
 }

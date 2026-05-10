@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "K",
+      "author_url": "https://www.google.com/maps/contrib/111018201503615226983/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcqoa9X-xb2HYF1V6jdd0MKdT0ugYXY1ofRrmGM4cLPEW1sqY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war am 17.04.26 in der Praxis.\nDie Tageszeit kennt hier anscheinend niemand von den Arzthelferinnen/Arzthelfern.\nErstes Manko: Mann unterschreibt eine Erklärung, dass man Aufgeklärt wurde obwohl man nicht aufgeklärt wurde.\n2. Man zahlt vor der Behandlung (Selbstzahler) 50€.\n3. Nach der Untersuchung wird gefragt was denn noch sei, ich wollte eine Rechnung.\n4. Kassenschnitt von der EC Zahlung: 50€, Liqidation: 48,26€!?\nDa ich am Freitag Nachmittag keine Lust mehr hatte groß zu diskutieren, habe ich es dabei belassen.\n5. Ziffer 750 (Auflichtmikroskopie) auf der Liquidation wurde garnicht durchgeführt.\nAuch nach mehrmaligen E-Mail Verkehr keine Klärung.\nEinziger Plus Punkt, die Ärztin war super nett und alle Fragen beantwortet.",
+      "time": 1778177319,
+      "translated": false
+    },
+    {
       "author_name": "Jennifer Stenzel",
       "author_url": "https://www.google.com/maps/contrib/102263352197075004510/reviews",
       "language": "de",
@@ -190,11 +202,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 182,
+  "reviewCount": 183,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:36.240Z"
+  "lastUpdated": "2026-05-10T07:25:19.117Z"
 }

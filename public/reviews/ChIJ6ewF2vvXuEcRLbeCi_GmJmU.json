@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Beate Harmansa",
+      "author_url": "https://www.google.com/maps/contrib/101093381631214404800/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKq6IJMKTGJw9nazTow_JjPgZIndZPu4crkBGBZ6Mgbk5WhGw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Team, Top Ärztin. Hat sich ohne Termin für meinen kleinen Sohn direkt Zeit genommen. Super Praxis",
+      "time": 1778242615,
+      "translated": false
+    },
+    {
+      "author_name": "Alexandra G",
+      "author_url": "https://www.google.com/maps/contrib/110058686138320935008/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCEp6eVHfkP_FAC7WoJOzjrUWWP4SZ2hPoXPuDsXrVfXBybQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schon seit Jahren bei Dr. Dith in Behandlung und ich fühle mich von Anfang an sehr gut aufgehoben. Sie nimmt sich Zeit und ist sehr aufmerksam.\nKann ich nur weiterempfehlen!",
+      "time": 1778176180,
+      "translated": false
+    },
+    {
       "author_name": "Jaroslaw Andrzejewski",
       "author_url": "https://www.google.com/maps/contrib/100677957061042828994/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKv_uw1bIxDTBX24V_c_QnQeklH7qbBYvKZ_zKz-XQdi78ijIl=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Frau Dith ist freundlich, allerdings hatte ich das Gefühl, dass sie schnell Feierabend haben möchte, da sie zu einer Frage keine Auskunft/Meinung gegeben hatte, obwohl sie aus dem Bereich kommt. Die ein MTA war sehr grob und knallte die Tür laut zu, kam mitten in Behandlung ins Behandlungszimmer und hörte das ganze Gespräch zu. Das war unangenehm. Die jüngere Ärztin mit kurzen blonden Haaren total genervt und hautscreening 42€ Umsonst bezahlt  für 5 min. Behandlung Ohne Aufklärung",
+      "time": 1777041596,
+      "translated": false
+    },
+    {
+      "author_name": "Cleopatra",
+      "author_url": "https://www.google.com/maps/contrib/101761896719481584347/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKv_uw1bIxDTBX24V_c_QnQeklH7qbBYvKZ_zKz-XQdi78ijIl=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Frau Dith ist freundlich, allerdings hatte ich das Gefühl, dass sie schnell Feierabend haben möchte, da sie zu einer Frage keine Auskunft/Meinung gegeben hatte, obwohl sie aus dem Bereich kommt. Die ein MTA war sehr grob und knallte die Tür laut zu, kam mitten in Behandlung ins Behandlungszimmer und hörte das ganze Gespräch zu. Das war unangenehm. Die jüngere Ärztin mit kurzen blonden Haaren total genervt und hautscreening 42€ Umsonst bezahlt  für 5 min. Behandlung Ohne Aufklärung",
       "time": 1777041596,
       "translated": false
@@ -122,11 +158,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 218,
+  "reviewCount": 220,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-07T07:42:11.708Z"
+  "lastUpdated": "2026-05-10T07:24:55.549Z"
 }

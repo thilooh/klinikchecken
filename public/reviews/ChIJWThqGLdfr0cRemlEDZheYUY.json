@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Nancy Mrozik",
+      "author_url": "https://www.google.com/maps/contrib/105788943346826143347/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXU26BuqYYBGp13QH06htcj1wExy2Kc3DdcUjUfmechMIHDK95=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal und kompetente freundliche Ärtzte. Sehr zu empfehlen.",
+      "time": 1778221446,
+      "translated": false
+    },
+    {
+      "author_name": "Hella Bittmann",
+      "author_url": "https://www.google.com/maps/contrib/111357734815756595234/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiyUmBIjl0gChdTaHIwW8mWkozkdVuJ9EmmVRBWnqkxGayOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War heute im MVZ \"AltstadtQurtier\"Abteilung Gefäßmedizin  in der Tagesklinik . . Schon die Begrüßung als Patientin war sehr, sehr, freundlich. Rundum wurde man als Patientin ,egal ob Pflegepersonal ,Anästhesie oder Arzt , sehr zuvorkommend behandelt. Es herrscht eine sehr schöne Atmosphäre und jeder Wunsch wird einem  erfüllt . Möchte mich nochmals bei allen Beteiligten bedanken und ich fühlte mich sehr aufgehoben  .",
+      "time": 1778171919,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Rockel",
+      "author_url": "https://www.google.com/maps/contrib/108865240808933235386/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKCgCF4UfvpTEai8zKpOxiFMHfl9dgMTQn9Z947lJkJ1yCbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Betreuung, sehr gutes Tesm",
+      "time": 1778152538,
+      "translated": false
+    },
+    {
       "author_name": "Irene Cebulla",
       "author_url": "https://www.google.com/maps/contrib/117288853612615270572/reviews",
       "language": "de",
@@ -180,11 +216,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 420,
+  "reviewCount": 423,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-07T07:42:07.613Z"
+  "lastUpdated": "2026-05-10T07:24:51.677Z"
 }
