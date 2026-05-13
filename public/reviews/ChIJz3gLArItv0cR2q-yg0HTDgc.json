@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sarah",
+      "author_url": "https://www.google.com/maps/contrib/108337803453257456932/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5ETp8kevPFwGjP5p97dP-4nQ4k6f5AWhIatR1xJ9Od08sCdE=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Behandlung selbst war angenehm, der Arzt war freundlich, hat sich viel Zeit genommen und mich fachlich gut beraten.\n\nLeider hatte ich am Empfang eine sehr enttäuschende Erfahrung bezüglich der Preiskommunikation. Die Preise wurden aus meiner Sicht missverständlich erklärt, sodass ich am Ende deutlich mehr zahlen musste als erwartet. Gerade bei Laserbehandlungen würde ich mir Preise künftig immer vorab schriftlich bestätigen lassen.\n\nSchade fand ich außerdem den Umgang mit der Situation: Statt das Missverständnis freundlich zu klären, empfand ich den Empfang leider als sehr unfreundlich. Am Ende wurde ich nicht einmal verabschiedet, obwohl ich selbst jederzeit höflich geblieben bin.\n\nMit der Behandlung war ich soweit zufrieden, der Umgang am Empfang hat meinen Gesamteindruck jedoch leider deutlich negativ beeinflusst und würde stark überlegen, ob ich nochmal wiederkommen würde.",
+      "time": 1778656771,
+      "translated": false
+    },
+    {
       "author_name": "Heinz Kuntze",
       "author_url": "https://www.google.com/maps/contrib/102273464978788628299/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNEOX296nqxEftBqT5EF-c08JFEgQgIGYsfZr_MdFXJHDk6Akr=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war gerade für ein Beratungsgespräch bezüglich einer Laserbehandlung da. Dr. Rizan Omaj hat mich wirklich sehr gut über die Behandlung von Narben aufgeklärt und mir ehrliche Prognosen gestellt. Ich bin sehr dankbar für die ehrliche Aufklärung, da mir nun eine teure Behandlung erspart bleibt die wahrscheinlich kaum etwas bei meiner Narbe gebracht hätte. Auch das Personal war sehr freundlich, weshalb ich die Praxis sehr weiterempfehlen kann.",
+      "time": 1777382742,
+      "translated": false
+    },
+    {
+      "author_name": "Amalia Schönfeld",
+      "author_url": "https://www.google.com/maps/contrib/106658202734188225832/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNEOX296nqxEftBqT5EF-c08JFEgQgIGYsfZr_MdFXJHDk6Akr=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war gerade für ein Beratungsgespräch bezüglich einer Laserbehandlung da. Dr. Rizan Omaj hat mich wirklich sehr gut über die Behandlung von Narben aufgeklärt und mir ehrliche Prognosen gestellt. Ich bin sehr dankbar für die ehrliche Aufklärung, da mir nun eine teure Behandlung erspart bleibt die wahrscheinlich kaum etwas bei meiner Narbe gebracht hätte. Auch das Personal war sehr freundlich, weshalb ich die Praxis sehr weiterempfehlen kann.",
       "time": 1777382742,
       "translated": false
@@ -193,7 +217,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 296,
+  "reviewCount": 297,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:40.246Z"
+  "lastUpdated": "2026-05-13T07:48:04.991Z"
 }

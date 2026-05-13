@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sina Wagner",
+      "author_url": "https://www.google.com/maps/contrib/100394866622671440219/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDtXv7Heg27yMiKV6R8I17OK_nxrXocV-Njc9EXf9HEY3aNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe mich sehr wohl dort  gefühlt. Wurde sehr freundlich empfangen und der kleine Eingriff war super unkompliziert. Würde jederzeit wieder hin gehen.",
+      "time": 1778519375,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrike Ehnes",
+      "author_url": "https://www.google.com/maps/contrib/107806744921600076626/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYHFEreMcRV2xfpz_n4ubhGrYLZUze0fEeipTQ2fm63DRPAdvx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Terminplanung, keine Wartezeit. Sehr nette kompetente Ärztin. Sehr empfehlenswert.",
+      "time": 1778512371,
+      "translated": false
+    },
+    {
       "author_name": "S-M-U E",
       "author_url": "https://www.google.com/maps/contrib/100900782813754962930/reviews",
       "language": "de",
@@ -37,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Master G",
+      "author_url": "https://www.google.com/maps/contrib/117879150369069635736/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5b8eICMVNCilSPekgjM4UmGDZZtdDXhJ0kdF7NRZ3q3U3OC9k=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war heute bei Dr. med. Athanasios Theodoridis – einer der besten Hautärzte, bei denen ich in den letzten Jahren war.\nSehr nett und professionell. Er hat meine auffälligen Muttermale gescannt und bewertet.\nDazu gab es noch ein paar Tipps zum beginnend lichter werdenden Haar.\nTop Doc! Danke",
+      "time": 1777973767,
+      "translated": false
+    },
+    {
       "author_name": "Valentin Bauer",
       "author_url": "https://www.google.com/maps/contrib/111549128758791962886/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd3QDu3LoCfLrPzDRMnWna8NzgMmM3FcProtq1qPv2q2f1uLuD=s128-c0x00000000-cc-rp-mo-ba3",
@@ -62,6 +98,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd3QDu3LoCfLrPzDRMnWna8NzgMmM3FcProtq1qPv2q2f1uLuD=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1775814931,
+      "translated": false
+    },
+    {
+      "author_name": "Valentin Bauer",
+      "author_url": "https://www.google.com/maps/contrib/111549128758791962886/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd3QDu3LoCfLrPzDRMnWna8NzgMmM3FcProtq1qPv2q2f1uLuD=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1775814931,
       "translated": false
@@ -148,11 +194,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 166,
+  "reviewCount": 168,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:24:58.203Z"
+  "lastUpdated": "2026-05-13T07:48:22.959Z"
 }

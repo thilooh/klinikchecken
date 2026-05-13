@@ -1,11 +1,45 @@
 {
   "reviews": [
     {
+      "author_name": "Roland Klein",
+      "author_url": "https://www.google.com/maps/contrib/109851811119102349560/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI6LqcUbhSWyaHs-oXXLqo2EYHKBvieZ5aHTt_WYEFPktYjA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Degenhardt weiß was sie tut. Die beiden letzten Ärzte die mich operiert und behandelt haben eher NICHT. Interessanter weise sind sie auch NICHT auf dem Bild. Scheint reine Glücksache, an WEN man gerät ? Klarer Termin wegen Nachbehandlung Tumor. Begann mit der Frage: \"Was kann ich für sie tun ??\"  Auf versprochenen Rückruf und Termin warte ich auch schon seit 3 Wochen. Stark \"durchwachsen\" das Team. Halten Sie Versprechen ein  .. und ich beurteile besser",
+      "time": 1778613442,
+      "translated": false
+    },
+    {
+      "author_name": "Kateryna Kunitska",
+      "author_url": "https://www.google.com/maps/contrib/117080009428138708144/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBAmApJMtUuguq-cDGt4OAgbwhRkk6GZngkn-F5f2oSkarXrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann nicht allgemein die Praxis bewerten, allerdings kann ich über den Artz Christoforos Christofi sagen.Sehr netter aber unqualifizierter Artz. Es wurde eine Entscheidung getroffen Dermatitis einfach mit Schwarzem Tee zu behandeln 🫣",
+      "time": 1778583280,
+      "translated": false
+    },
+    {
       "author_name": "Jürgen Krämer",
       "author_url": "https://www.google.com/maps/contrib/107700410336534496140/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcTEIMW1Baz0q-kv_sX6vIb6MymUpBrhzuXsK1dwbd5pz6mFU=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1777880258,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen Krämer",
+      "author_url": "https://www.google.com/maps/contrib/107700410336534496140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcTEIMW1Baz0q-kv_sX6vIb6MymUpBrhzuXsK1dwbd5pz6mFU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1777880258,
       "translated": false
@@ -165,12 +199,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 63,
+  "rating": 4.7,
+  "reviewCount": 65,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:25:08.042Z"
+  "lastUpdated": "2026-05-13T07:48:33.016Z"
 }

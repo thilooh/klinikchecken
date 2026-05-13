@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manuela Goetz",
+      "author_url": "https://www.google.com/maps/contrib/115103160334221805133/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoE3P8uopl9n3y95-1n91Xm6HYCiUPN8IcI13g02jyng6OPLc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hier ist man mit Venenbeschwerden sehr gut aufgehoben. Freundliche,  ruhige und sachliche Behandlung. Man nimmt sich Zeit. Bei akuten Problemen gibt es sofort einen Termin.\nBin mit dem Arzt und dem Praxisteam sehr zufrieden.\nTiefgarage erleichtert den Besuch.",
+      "time": 1778404526,
+      "translated": false
+    },
+    {
       "author_name": "Toni Fuchs",
       "author_url": "https://www.google.com/maps/contrib/106646741277311239541/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9mYu8aRRF4GtARzn6tgq62rMFWQ9o6b1X-wPVD0ndRww3qw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Bin bei Dr. Willeke in Behandlung. Sehr angenehm, persönlich und professionell.\nDas zählt ebenso für das Personal.",
+      "time": 1776062716,
+      "translated": false
+    },
+    {
+      "author_name": "Toni Fuchs",
+      "author_url": "https://www.google.com/maps/contrib/106646741277311239541/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9mYu8aRRF4GtARzn6tgq62rMFWQ9o6b1X-wPVD0ndRww3qw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Bin bei Dr. Willeke in Behandlung. Sehr angenehm, persönlich und professionell.\nDas zählt ebenso für das Personal.",
       "time": 1776062716,
       "translated": false
@@ -105,12 +129,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 49,
+  "rating": 4.3,
+  "reviewCount": 50,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-10T07:25:17.944Z"
+  "lastUpdated": "2026-05-13T07:48:43.163Z"
 }

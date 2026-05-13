@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Martina P",
+      "author_url": "https://www.google.com/maps/contrib/112948244461451572691/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4zetWpgOiUE_68eLgUPZxTDcUTsw4upv8kr_mEcF2TzIJ5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super freundliche Ärzte und MFAs, man kann sich hier richtig wohl fühlen!",
+      "time": 1778587251,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra Brockmann",
+      "author_url": "https://www.google.com/maps/contrib/109096777605899962156/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1pEC0y-UaDInZNXdrtPfR-7fEjRNgdARPZTUKyflpUAHfe8U=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es dauert immer etwas bis man dran ist, aber die Herzlichkeit mit der man empfangen wird und die gute Beratung von Frau Mrowka machen das in Bestzeit wieder wett !",
+      "time": 1778583255,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Sibbers",
+      "author_url": "https://www.google.com/maps/contrib/112042682402283574525/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqW3uGFsTqd5AJjsqEIB9DdPJZ-ixTBgLdbBplSZw9DUe5TQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Hautkrebsscreening verlief sehr angenehm und sachlich, das anschließende Gespräch samt weiterer Untersuchung bei Dr. Haase empfand ich als kompetent und sehr freundlich und zugewandt.",
+      "time": 1778533810,
+      "translated": false
+    },
+    {
+      "author_name": "Katharina G",
+      "author_url": "https://www.google.com/maps/contrib/102839102095737305374/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLs-C7eoibRIIuNhlxX3qOXGB2URkrQZSCVDr1P454LHTmddQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute erneut in der Praxis bei Dr. Haase und kann sie jedem wirklich weiter empfehlen. Online Termin gebucht, bestätigt und eine Erinnerungs-E-Mail erhalten. Sehr freundlicher Empfang und gar keine Wartezeit. Während der Behandlung war Dr. Haase sehr freundlich und bemüht, es mir so komfortabel und angenehm wie möglich zu machen!\nEine freundliche und ruhige Atmosphäre bei allen Mitarbeitenden.\nKlar Empfehlung von mir.",
+      "time": 1778496464,
+      "translated": false
+    },
+    {
+      "author_name": "Nusku Summer",
+      "author_url": "https://www.google.com/maps/contrib/103352134429668129597/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAFSiP2jVewdMHs1mBIe8HSqNQYXqjsEaKfCym5zLN8PKgPvk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ist inzwischen kaum noch nachvollziehbar, wie schwierig es in Deutschland geworden ist, einen Termin für eine Krebsvorsorge zu bekommen. Man wird auf Online-Terminvergaben verwiesen, doch freie Termine gibt es praktisch nie.\n\nWofür zahlt man eigentlich hohe Krankenversicherungsbeiträge, wenn notwendige Vorsorgeuntersuchungen kaum erreichbar sind und Untersuchungen oft nur oberflächlich durchgeführt werden? Prävention wird ständig propagiert, aber in der Realität scheitert es bereits an einem simplen Termin.\n\nDie gesamte Situation wirkt nur noch frustrierend und hoffnungslos.",
+      "time": 1778493362,
+      "translated": false
+    },
+    {
       "author_name": "Djavad Blalaie",
       "author_url": "https://www.google.com/maps/contrib/114005491617778334828/reviews",
       "language": "de",
@@ -210,11 +270,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2250,
+  "reviewCount": 2255,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-10T07:24:52.393Z"
+  "lastUpdated": "2026-05-13T07:48:16.983Z"
 }

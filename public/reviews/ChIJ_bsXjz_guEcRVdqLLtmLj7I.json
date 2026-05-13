@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Khalil Hussein",
+      "author_url": "https://www.google.com/maps/contrib/100014355002740068929/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO8jD6lv0GaV-jjP1DpfbhYGJbxUDBon1hiRLbqDCU6eGoWEhS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "👍👍👍👍",
+      "time": 1778567137,
+      "translated": true
+    },
+    {
       "author_name": "ALI Adem",
       "author_url": "https://www.google.com/maps/contrib/113833148825198953608/reviews",
       "language": "de",
@@ -164,11 +176,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 246,
+  "reviewCount": 247,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:24:56.046Z"
+  "lastUpdated": "2026-05-13T07:48:20.760Z"
 }

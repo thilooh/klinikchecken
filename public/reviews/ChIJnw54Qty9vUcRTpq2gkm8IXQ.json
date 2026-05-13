@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lisa Schmitt",
+      "author_url": "https://www.google.com/maps/contrib/107024022622150933408/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJo90pYgkM8YUnhoZoGyvqU6jeqdUCoU8i-AT7jm9T41itFAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vordergründig war man nett und der Arzt schien zumindest in puncto medizinischer Einordnung kompetent...da man aber meine Behinderung komplett ignorieren und nicht auf meinen Mehrbedarf eingehen wollte, musste ich eine geplante OP absagen. Hauptsächlich lag dies am Verweigern der Kommunikation mit mir und meinen Pflegepersonen. Da man hier auf Patient:innen nicht angewiesen zu sein scheint, ist das okay....ich hoffe dennoch, dass die Kommunikationsstrukturen überdacht werden. Meinen angeforderten medizinischen Bericht bekam mein Hausarzt bis heute nicht zugestellt....schade.",
+      "time": 1778432209,
+      "translated": false
+    },
+    {
       "author_name": "Jessy",
       "author_url": "https://www.google.com/maps/contrib/102095855517492893612/reviews",
       "language": "de",
@@ -98,11 +110,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 160,
+  "reviewCount": 161,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-10T07:25:05.901Z"
+  "lastUpdated": "2026-05-13T07:48:30.810Z"
 }

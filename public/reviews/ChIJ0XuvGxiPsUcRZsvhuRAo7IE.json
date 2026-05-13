@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ingrid Findorff",
+      "author_url": "https://www.google.com/maps/contrib/112373292896479202922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_P85X884nRgi1P59VDBphVwzW29uOa7Nu3FRzTDQ4VgWUkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war wegen einer Krampfader OP bei Dr. Bachar El Jamal in Behandlung und bin sehr zufrieden. Das ganze Team ist total nett und ich fühlte mich sehr gut aufgehoben und betreut. Ich kann es nur weiterempfehlen.",
+      "time": 1778575225,
+      "translated": false
+    },
+    {
       "author_name": "Florian",
       "author_url": "https://www.google.com/maps/contrib/112949253692953321937/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Monique Östlind",
+      "author_url": "https://www.google.com/maps/contrib/101280415366116929922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI708egDK5cuehdecLgQb9AFbS7bp3QT-UDl9mX8zXzBA6u9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Update: Die Thematik wurde von der Leiterin persönlich gelöst und ich bedanke mich, jetzt bin ich rundum zufrieden!\n\nIch habe im Dermatologikum Hamburg in der Abteilung Lasertherapie drei Behandlungen zur Behandlung von Rosazea durchführen lassen. Leider war ich mit zwei der drei Sitzungen und dem Ergebnis sehr unzufrieden, da sich mein Hautbild teilweise sogar verschlechtert hat. Ich habe das anschließend reklamiert und um eine Überprüfung bzw. Stellungnahme gebeten. Die einzige Rückmeldung war jedoch, dass ich gerne erneut einen Termin vereinbaren könne – allerdings als weitere Behandlung auf eigene Kosten. Eine inhaltliche Auseinandersetzung mit meiner Reklamation oder eine erkennbare Bereitschaft, das Ergebnis zu prüfen, habe ich dabei nicht erlebt. Gerade bei einer spezialisierten dermatologischen Einrichtung hätte ich deutlich mehr Verantwortungsbewusstsein im Umgang mit Patientenfeedback erwartet. Für mich persönlich war die Erfahrung daher sehr enttäuschend.",
+      "time": 1777999457,
+      "translated": false
+    },
+    {
       "author_name": "Ahmed Shihab",
       "author_url": "https://www.google.com/maps/contrib/104126565161631110792/reviews",
       "language": "de",
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3bZaelnDF7Yy3ezPD-Gzh2aEFQEMM1wGqION90EnZfgoXUA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Nach langen Monaten des Wartens und nachdem ich viel Geld bezahlt habe, habe ich entdeckt, dass die Ärzte überhaupt nicht wissen, was genau mein Problem ist, und sie kennen auch die Behandlungsmethode nicht. Der beste Ort, um Zeit und Geld ohne nennenswerte Ergebnisse zu verschwenden.",
+      "time": 1777920343,
+      "translated": false
+    },
+    {
+      "author_name": "Ahmed Shihab",
+      "author_url": "https://www.google.com/maps/contrib/104126565161631110792/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3bZaelnDF7Yy3ezPD-Gzh2aEFQEMM1wGqION90EnZfgoXUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Nach langen Monaten des Wartens und nachdem ich viel Geld bezahlt habe, habe ich entdeckt, dass die Ärzte überhaupt nicht wissen, was genau mein Problem ist, und sie kennen auch die Behandlungsmethode nicht. Der beste Ort, um Zeit und Geld ohne nennenswerte Ergebnisse zu verschwenden.",
       "time": 1777920343,
       "translated": false
@@ -202,5 +238,5 @@
   "rating": 4.4,
   "reviewCount": 419,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:45.353Z"
+  "lastUpdated": "2026-05-13T07:48:09.819Z"
 }

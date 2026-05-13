@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Josef Krämer",
+      "author_url": "https://www.google.com/maps/contrib/114334347781136624227/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUO4bg9U_pqyj8LUUp9j9bzTz-2Dxfihxhtrj3XNIcx1QfnEMHLkw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dauert Monate bis man einen Termin bekommt und dann sitzt man noch ewig im Wartezimmer. Das brechend voll ist und Patienten auf dem Boden sitzen müssen. Zur Freundlichkeit des Personals, sag ich lieber nichts... das wäre nicht so freundlich was mir da einfällt.",
+      "time": 1778589951,
+      "translated": false
+    },
+    {
       "author_name": "Vi Del",
       "author_url": "https://www.google.com/maps/contrib/101764751977087689264/reviews",
       "language": "de",
@@ -200,11 +212,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 159,
+  "reviewCount": 160,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-10T07:24:57.727Z"
+  "lastUpdated": "2026-05-13T07:48:22.470Z"
 }

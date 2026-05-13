@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Zebelkhan Wbn",
+      "author_url": "https://www.google.com/maps/contrib/106511293884037745337/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8_yBmLNxSNL5WtDXxT-sDAyLDC8JljIc8SOjHJAalbtOXGSZ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778553695,
+      "translated": false
+    },
+    {
       "author_name": "Peter Christ",
       "author_url": "https://www.google.com/maps/contrib/109191338941285563359/reviews",
       "language": "de",
@@ -158,11 +168,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 141,
+  "reviewCount": 139,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:25:06.371Z"
+  "lastUpdated": "2026-05-13T07:48:31.302Z"
 }

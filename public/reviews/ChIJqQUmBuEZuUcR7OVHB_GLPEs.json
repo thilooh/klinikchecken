@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Annika Schlicht",
+      "author_url": "https://www.google.com/maps/contrib/104976024857612922279/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbD4ss5gNpEA4aeeN6L9IXmeUH9WLusCU4MAHPZE20xMoXPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine Praxis, die weder telefonisch noch per E-Mail erreichbar ist und wenn man einen akuten Schub hat wird man weg geschickt. Ich bin auch schon länger da, aber in solchen Fällen, wo man wirklich einen Arzt kurzfristig braucht ist man hier defintiv falsch. Ich bin echt sauer und enttäuscht.",
+      "time": 1778657298,
+      "translated": false
+    },
+    {
+      "author_name": "Fatma Bannach",
+      "author_url": "https://www.google.com/maps/contrib/106879676474874190761/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHVTWLFAdR0nGzxuCfTsdw3EVGbKKuRfNsBQwS5ZD8VeIk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute mit meiner Tochter in der Hansaklinik.Den Termin buchten wir vor 6 Monaten...Nun, meine Tochter hat ihre Versichtern-Karte vergessen und ich schilderte dies der Arzthelferin im Eingang.Diese meinte,dass das dann nicht ginge.Auf meine Nachfrage,dass ich diese nachreichen kann, verneinte sie.Dieser Termin war für meine Tochter sehr wichtig und ich fragte,ob ich dann als Selbstzahler diesen Termin für meine Tochter in Anspruch nehmen kann.Auch dies wurde verneint... Patientenorientierung, Kooperation, Berufsethos nicht zu erkennen....Die Ärzte moegen gut sein,aber was nützt es,wenn man solche Mitarbeiter vorne sitzen hat.",
+      "time": 1778606990,
+      "translated": false
+    },
+    {
+      "author_name": "Lena Hücking",
+      "author_url": "https://www.google.com/maps/contrib/106439504015006180763/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKeeJi-d28ml1tb_Yh0SDAHJVc9x24iWPGK4hrBYVecPIwaA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sind garnicht erst bis ins Wartezimmer, geschweige denn zum Arzt gekommen. Musste mich mit Baby/Kleinkind und Kinderwagen wortwörtlich durch die Menschenmenge kämpfen. Nach 45 Minuten Fahrt dort angekommen und an der Rezeption trotzdem nicht einmal drangekommen.\nAlles völlig überfüllt, chaotisch und gestresst. Die einzige freundliche bzw organisierte Person war die Dame am ersten Empfang, die erklärt hat, wo man hin muss. Ansonsten leider eine absolute Katastrophe. Ohne Behandlung wieder nach Hause gefahren, haben uns suuuuuper unwohlt gefühlt. Für uns definitiv nie wieder.\n\nZu der Behandlung an sich kann ich aufgrund dessen nichts sagen.",
+      "time": 1778491373,
+      "translated": false
+    },
+    {
+      "author_name": "Ursula Krause",
+      "author_url": "https://www.google.com/maps/contrib/114844573150713640837/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_ifGcSmJuEDfD4SwGie_Ts6CFK5-KkQ7Ih9SERKWuEilvvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Assistenzarzt Kirsch hat mit mir ein sehr intensives Vorgespräch geführt  mit anschließender Diagnose.\nIch bedanke mich für die fachlich und auch menschlich hervorragende Behandlung.\nIch kann Herrn Kirsch nur weiter empfehlen.",
+      "time": 1778424570,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Austen",
       "author_url": "https://www.google.com/maps/contrib/116210918994489143867/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ08fACL4L77Dd1GWfScej5B4qwXJI4-r0vS_vyGcKjhX4NRg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -175,8 +223,8 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 281,
+  "rating": 4.6,
+  "reviewCount": 284,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:42.128Z"
+  "lastUpdated": "2026-05-13T07:48:06.629Z"
 }

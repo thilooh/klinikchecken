@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Metcher",
+      "author_url": "https://www.google.com/maps/contrib/113530535039517306653/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8Xa1PRVby1AsN0w3fEhdnJ1MPjRKXZ9glNHcwHZ0gHx1wIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärztin ist wirklich sehr kompetent! Sehr einfühlsam, freundlich, nimmt sich Zeit zuzuhören und beantwortet sehr ausführlich alle Fragen. Hat meiner Tochter sehr geholfen, alle Tipps haben uns sofort geholfen!",
+      "time": 1778618081,
+      "translated": false
+    },
+    {
       "author_name": "Aaron Schroeter",
       "author_url": "https://www.google.com/maps/contrib/101311405481199992787/reviews",
       "language": "de",
@@ -114,11 +126,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 73,
+  "reviewCount": 74,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-10T07:25:11.351Z"
+  "lastUpdated": "2026-05-13T07:48:36.373Z"
 }

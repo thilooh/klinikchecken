@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Radu Iosif",
+      "author_url": "https://www.google.com/maps/contrib/100631612105810668949/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAlBxMZ7OeVU5xjtlA4sz8JQ01-AlM1SMKfNF8bq8FtIO3oFuS=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778607295,
+      "translated": false
+    },
+    {
       "author_name": "Martina Göbl",
       "author_url": "https://www.google.com/maps/contrib/113333218651762055385/reviews",
       "language": "de",
@@ -74,7 +84,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 45,
+  "reviewCount": 46,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:46.309Z"
+  "lastUpdated": "2026-05-13T07:48:10.840Z"
 }

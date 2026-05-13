@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Gabriele Vierzig-Rostek",
+      "author_url": "https://www.google.com/maps/contrib/113813196991140768344/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWpuhF1NExJSBS4egE_MjEivlrZTyBL8SQQOLY_vKhmfFTCPs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich werde in der Praxis von Dr Himmrich betreut und fühle mich dort sehr gut aufgehoben!",
+      "time": 1778617795,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele Vierzig-Rostek",
+      "author_url": "https://www.google.com/maps/contrib/114558415489623407912/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0vP-zrYWBoyJYh8nmg28UPMrFvpyFrejJ34cVT3oCOwJ0SBRN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit dieser Praxis sehr zufrieden und gehe immer wieder gerne hin. Man wird dort kompetent beraten und gut betreut! Mein behandelnder Arzt dort ist Dr. Himmrich und ich fühlte mich von Anfang an sehr wohl!",
+      "time": 1778582110,
+      "translated": false
+    },
+    {
       "author_name": "Shanna Lehmann",
       "author_url": "https://www.google.com/maps/contrib/102042928141440074452/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaClwPul7wm8HtAIwMM_y5JhhWfOq6pLmKg2MFZ219rTqumA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin aufgrund meiner Rosazea bei Herrn Doktor Busch in Behandlung und damit sehr zufrieden. Er vermittelt realistische Ziele und ist immer, freundlich und nimmt sich die nötige Zeit für die Behandlung. Ich  kann die Praxis, insbesondere Herrn Busch, sehr empfehlen.",
+      "time": 1777420835,
+      "translated": false
+    },
+    {
+      "author_name": "G S",
+      "author_url": "https://www.google.com/maps/contrib/106679878997800879004/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaClwPul7wm8HtAIwMM_y5JhhWfOq6pLmKg2MFZ219rTqumA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin aufgrund meiner Rosazea bei Herrn Doktor Busch in Behandlung und damit sehr zufrieden. Er vermittelt realistische Ziele und ist immer, freundlich und nimmt sich die nötige Zeit für die Behandlung. Ich  kann die Praxis, insbesondere Herrn Busch, sehr empfehlen.",
       "time": 1777420835,
       "translated": false
@@ -68,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFfCNiGFECpCcV3hQVFbrJw-QoyFEltNmvhuLVnqYla7p2xw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Warteschleife ist lachhaft. Man wartet über eine Stunde in der Warteschleife und ist angeblich „1. in der Leitung“. Aber es geht keiner ans Telefon, das geht dann bis 18:00 und um diese Zeit schliesst die Praxis.",
+      "time": 1777390650,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Heuyer",
+      "author_url": "https://www.google.com/maps/contrib/116288590267363170595/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFfCNiGFECpCcV3hQVFbrJw-QoyFEltNmvhuLVnqYla7p2xw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Warteschleife ist lachhaft. Man wartet über eine Stunde in der Warteschleife und ist angeblich „1. in der Leitung“. Aber es geht keiner ans Telefon, das geht dann bis 18:00 und um diese Zeit schliesst die Praxis.",
       "time": 1777390650,
       "translated": false
@@ -193,7 +241,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 197,
+  "reviewCount": 198,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:39.429Z"
+  "lastUpdated": "2026-05-13T07:48:04.220Z"
 }

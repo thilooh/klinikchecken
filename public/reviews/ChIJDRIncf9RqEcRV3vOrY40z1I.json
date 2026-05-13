@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andrea Heinrich",
+      "author_url": "https://www.google.com/maps/contrib/111326018998552563536/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtW4yh3JhDDnk0WefWshkvIlnJrXI4LBRJnIvZKH-1-Xm8GMx9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte gerade meinen Eingriff gehabt. Vielen lieben Dank an das Praxisteam für den herzlichen Empfang und an das Ärzteteam das mir meine Ängste genommen hat. Im Aufwachraum habe ich danach einen Kaffee bekommen.",
+      "time": 1778490518,
+      "translated": false
+    },
+    {
       "author_name": "A. W.",
       "author_url": "https://www.google.com/maps/contrib/103722346788206292336/reviews",
       "language": "de",
@@ -145,6 +157,18 @@
       "translated": false
     },
     {
+      "author_name": "Kathrin Wenke",
+      "author_url": "https://www.google.com/maps/contrib/105995081020946316782/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc60IZJYRMcZ3pgq2ZEnb-GPGF1TIqqV23qE8eAvYmJdZDmQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Unglaublich  lieb und  freundlich  tolle  Menschen, Dankeschön",
+      "time": 1776795647,
+      "translated": false
+    },
+    {
       "author_name": "Silvana Düring",
       "author_url": "https://www.google.com/maps/contrib/111948608041934438178/reviews",
       "language": "de",
@@ -169,6 +193,18 @@
       "translated": false
     },
     {
+      "author_name": "C E",
+      "author_url": "https://www.google.com/maps/contrib/101569959867512911074/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8rbOPio2V_remu3l0Oy9gRZx2P8RlCMQvHU5h3aDQYmhBjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war im September für mein Lipödem  und einen Venenfehler dort und war wirklich sehr zufrieden.\nMein Folgetermin (den ich vor 7 Monaten gemacht habe) wurde jetzt bereits zum zweiten Mal abgesagt. Online kostet der Termin plötzlich 290€\nPer Mail und telefonisch meldet sich seit Wochen niemand.\nBin wirklich sehr enttäuscht",
+      "time": 1776165814,
+      "translated": false
+    },
+    {
       "author_name": "Oleksandra Kardash",
       "author_url": "https://www.google.com/maps/contrib/101919718079062958259/reviews",
       "language": "de",
@@ -184,5 +220,5 @@
   "rating": 4.8,
   "reviewCount": 139,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:42.971Z"
+  "lastUpdated": "2026-05-13T07:48:07.320Z"
 }

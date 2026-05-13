@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Nele Gericke",
+      "author_url": "https://www.google.com/maps/contrib/105962164251512312812/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKW4UhTTAE5ixFAxI2FZ9xJKPt8Ld5ng6C1ChpJ8JPRbJy2Eg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778587545,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Bremer",
+      "author_url": "https://www.google.com/maps/contrib/104300589785443890050/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8FshLldAXz5Gks3jsDIVZniRRHPCr-r6mjcnhxEXyGBpi0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte heute eine Hernien-OP ambulant. Tolles Team, alle super nett, für meine erste Vollnarkose Top Erfahrungen 👌🏼",
+      "time": 1778583043,
+      "translated": false
+    },
+    {
+      "author_name": "Tom K.",
+      "author_url": "https://www.google.com/maps/contrib/102595543954953063479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKy9Z_BCZNerh4DwzeIITWX4p4RP8HQ-oNq4U0KWMjZitSQreuH=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "4 Sternezimmer, unheimlich nettes Personal, kompetente Ärzte, toll durchorganisiert. Komme gerne wieder 😅",
+      "time": 1778577488,
+      "translated": false
+    },
+    {
+      "author_name": "Grott Mariella",
+      "author_url": "https://www.google.com/maps/contrib/117773945204407503980/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJWspGlf4txj3Gc4_ZA1DtTertbLBndtw3_nbAD1Cfgog7A0_Z=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war nach einer Hämorrhoiden-OP auf der Komfortstation des MVZ \"Im Altstadtquartier\" Magdeburg.\n\nZunächst zur OP: Bei der Voruntersuchung und Narkosesprechstunde war alles verständlich und umfangreich erklärt.\n\nDer OP-Tag selbst war gut strukturiert und alles auf meine Behandlung vorbereitet.\n\nGROẞEN DANK an Frau Kalisch. Das Vorgespräch war super. Alle Fragen hat sie kompetent beantwortet, so dass eine Laie alles verstanden hat. Auch in den zwei Gesprächen nach der OP hat sie alles verständlich erklärt.\n\nDie Schwestern auf dem Komfortstation waren allesamt freundlich und für alle Anliegen da. Alle hier leisten, so weit ich das beurteilen darf, eine super Arbeit. Dankeschön!\n\nDie Zimmer, der Flur, der kleine Speisenraum war alles tipptopp sauber. Frühstück und Abendbrot waren mehr als reichlich.\n\nEine gute Idee für das MVZ hier eine Komfortstation zu haben.\n\nNochmal großen Dank!",
+      "time": 1778568909,
+      "translated": false
+    },
+    {
       "author_name": "Nancy Mrozik",
       "author_url": "https://www.google.com/maps/contrib/105788943346826143347/reviews",
       "language": "de",
@@ -216,11 +262,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 423,
+  "reviewCount": 427,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-10T07:24:51.677Z"
+  "lastUpdated": "2026-05-13T07:48:16.278Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M M",
+      "author_url": "https://www.google.com/maps/contrib/115198558507532343256/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITPicLXEg_BsmQepIQoDq1cMwmS2lCdOUITnMqgDCWo9NSxQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Noch nie eine so schnelle und reibungslose Leberfleckkontrolle mit Leberfleckentfernung und anschließender Besprechung gehabt.\n\n5/5",
+      "time": 1778602083,
+      "translated": false
+    },
+    {
       "author_name": "Kirsten Schulze",
       "author_url": "https://www.google.com/maps/contrib/106143326345376207727/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Kirsten Schulze",
+      "author_url": "https://www.google.com/maps/contrib/106143326345376207727/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMD-0I1rPTs0YzuGNBE6w4_7Sr9R3bxovoF6RV0lA3gpqeVvi5Iw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich wurde noch nie so gut betreut wie hier. Die Ärzte, vor allem Fr. Dr. Möller, und das gesamte Team sind sehr freundlich, fachlich kompetent, auf dem neusten Stand und einfach nur gut. Trotz vollem Haus, Notfällen und engem Terminplan werden Termine eingehalten, manche Wartezeiten sind absolut zumutbar.\nEin Beispiel an sehr guter Praxisorganisation - Schade, dass nicht alle Praxen so sind.\nVielen Dank an das gesamte Team!!!",
+      "time": 1777314885,
+      "translated": false
+    },
+    {
       "author_name": "Bailey Bierhuizen",
       "author_url": "https://www.google.com/maps/contrib/109682097569474587816/reviews",
       "language": "de",
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTu342P6X14inenDA3FW8TNlK6qvidRmcHvEBhrwv-_Qdgf54=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr schlechtes Personal Termin erst nach 2 Monate unglückliches Personal sehr fresh",
+      "time": 1776165191,
+      "translated": false
+    },
+    {
+      "author_name": "S R",
+      "author_url": "https://www.google.com/maps/contrib/114479375049946239716/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTu342P6X14inenDA3FW8TNlK6qvidRmcHvEBhrwv-_Qdgf54=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr schlechtes Personal Termin erst nach 2 Monate unglückliches Personal sehr fresh",
       "time": 1776165191,
       "translated": false
@@ -182,11 +218,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 139,
+  "reviewCount": 140,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:25:06.132Z"
+  "lastUpdated": "2026-05-13T07:48:31.051Z"
 }

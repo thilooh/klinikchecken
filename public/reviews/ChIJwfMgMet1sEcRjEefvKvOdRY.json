@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Patricia Pohl",
+      "author_url": "https://www.google.com/maps/contrib/113318436705535145263/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITw5Nlf4yIN6qd9riMLBwhcQhTK3wlAkpWpJiePiqzA82JfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde leider wieder direkt nach Hause geschickt weil ich im online Termin die falsche Diagnose eingegeben hätte für die Terminplanung. Auch auf konkrete Nachfrage wurde mir bestätigt, dass der Arzt nun eine Lücke habe und gar keinen Patienten visitieren würde anstatt dass ich mit meinem Anliegen zu ihm kommen könne ob wohl ich einen Termin bei ihm hatte, da ich den falschen Betreff eingegeben hatte. Also musste ich einen komplett neuen Termin vereinbaren und der Arzt hat eine Lücke.",
+      "time": 1778482263,
+      "translated": false
+    },
+    {
       "author_name": "Franzy",
       "author_url": "https://www.google.com/maps/contrib/100114898940752842834/reviews",
       "language": "de",
@@ -146,11 +158,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 150,
+  "reviewCount": 151,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:24:49.009Z"
+  "lastUpdated": "2026-05-13T07:48:13.567Z"
 }

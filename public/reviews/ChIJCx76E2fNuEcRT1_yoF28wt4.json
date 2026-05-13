@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Svenja Hammes",
+      "author_url": "https://www.google.com/maps/contrib/103406034048117515168/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgsFINqigFqUei-LJplduVhgJWXKVgZWkob7IK0ADYadJ4EQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fr Dr Schmauder-Cyba ist eine tolle, kompetente Ärztin , sie hat das Herz am rechten Fleck und ist sehr empathisch und menschlich einwandfrei. Ich fühle mich bei ihr sehr gut aufgehoben.\nDie anderen Ärzte welche ich dort bisher kennengelernt habe sind aber ebenfalls empfehlenswert.",
+      "time": 1778590664,
+      "translated": false
+    },
+    {
       "author_name": "Gisela Sandri",
       "author_url": "https://www.google.com/maps/contrib/116529170702180213473/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRcGHFbL-J5JNMoeGRdeuAvKGkgY880wCvVp03Zzbar6y-yQ=s128-c0x00000000-cc-rp-mo-ba2",
@@ -18,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfqplddQK0rEsGA-XrfRu8uRm5e4M-6DQPDwLlKCsMU5ZT1H2Jdg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Personal, Termine einfach zu erhalten, kleine Eingriffe vorab gut erklärt, saubere Einrichtung.",
+      "time": 1777881962,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Glatz",
+      "author_url": "https://www.google.com/maps/contrib/111198846262966542648/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfqplddQK0rEsGA-XrfRu8uRm5e4M-6DQPDwLlKCsMU5ZT1H2Jdg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nettes Personal, Termine einfach zu erhalten, kleine Eingriffe vorab gut erklärt, saubere Einrichtung.",
       "time": 1777881962,
       "translated": false
@@ -178,11 +202,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 240,
+  "reviewCount": 241,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-05-10T07:25:17.043Z"
+  "lastUpdated": "2026-05-13T07:48:42.213Z"
 }

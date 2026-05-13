@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sar Kev",
+      "author_url": "https://www.google.com/maps/contrib/101153311175362636297/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVRo6DiUjWzf9Dly3RH4JkKkKPBddmHna4WaGmZxndFTUNgg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778417542,
+      "translated": false
+    },
+    {
       "author_name": "Swaghetti Yolonese69",
       "author_url": "https://www.google.com/maps/contrib/109841324594460933663/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfXHjV_we1IIHQV7qtAk2DYypikbk52Akwa7DuqcE_wxqwgA=s128-c0x00000000-cc-rp-mo",
@@ -40,6 +50,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi4fCJX46vYe7VW7OZXg0Ue4Wb9m3KM8sneXTk7de_vFqaunI=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778051270,
+      "translated": false
+    },
+    {
+      "author_name": "Culita Belciu",
+      "author_url": "https://www.google.com/maps/contrib/115075822455900319173/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi4fCJX46vYe7VW7OZXg0Ue4Wb9m3KM8sneXTk7de_vFqaunI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1778051270,
       "translated": false
@@ -182,11 +202,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 354,
+  "reviewCount": 355,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:25:10.637Z"
+  "lastUpdated": "2026-05-13T07:48:35.645Z"
 }

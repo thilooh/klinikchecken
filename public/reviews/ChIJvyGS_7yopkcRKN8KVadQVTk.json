@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Baum",
+      "author_url": "https://www.google.com/maps/contrib/104590969110057384289/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJegK8vrWiqhD_IkIcjmHopLF8qSYG4KEeqUoBQuSnHesT2kQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an das gesamte Team! Die Versorgung ist rundherum optimal und ich fühle in kompetenten Händen.",
+      "time": 1778425984,
+      "translated": false
+    },
+    {
+      "author_name": "Marco Schwarz",
+      "author_url": "https://www.google.com/maps/contrib/109277323675608895437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIArNPT6rSthfM6wEAoyaicBMHnPDJ-DyhI_jSRGnuQNYTdRg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778410429,
+      "translated": false
+    },
+    {
       "author_name": "Franziska Schönfeld",
       "author_url": "https://www.google.com/maps/contrib/116076312031293962426/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDdPIKkvera-ZppC9V2mZWXpin7qj6zMnnjWBCENo97JPtLmw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -163,12 +185,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 190,
+  "rating": 4.8,
+  "reviewCount": 192,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-05-10T07:25:24.735Z"
+  "lastUpdated": "2026-05-13T07:48:50.236Z"
 }

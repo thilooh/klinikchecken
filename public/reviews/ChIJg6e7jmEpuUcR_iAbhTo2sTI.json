@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ali Aldekhan",
+      "author_url": "https://www.google.com/maps/contrib/103688781186420091923/reviews",
+      "language": "ar",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUphUC6XtEOUE7Svu2VIsdOQR2ATzTbHeD9O40cMxAL9OM_t2rq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "افضل دكتور شكرا الك مرى أخرى بعد معناة مع الدكاترة الاوربيين لم يجدو حل\nالحمدلله الدكتور لقى الحل\nوالحمدلله أستطيع العمل\nشكرا لك من اعماق قلبي\nربي يحفضك\nانت والكادر المحترم\nجميعكم محترمين",
+      "time": 1778514772,
+      "translated": false
+    },
+    {
       "author_name": "Silke Schmidt",
       "author_url": "https://www.google.com/maps/contrib/112594626198367310490/reviews",
       "language": "de",
@@ -40,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNhoSGUcm4cbQ6itL9g8dVz-zlZMpK32-826JCVeqyKxgf6uuh=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1777308730,
+      "translated": false
+    },
+    {
+      "author_name": "Tailyn Diaz",
+      "author_url": "https://www.google.com/maps/contrib/107126930904238567197/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNhoSGUcm4cbQ6itL9g8dVz-zlZMpK32-826JCVeqyKxgf6uuh=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1777308730,
       "translated": false
@@ -196,11 +218,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 169,
+  "reviewCount": 170,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:24:55.791Z"
+  "lastUpdated": "2026-05-13T07:48:20.517Z"
 }

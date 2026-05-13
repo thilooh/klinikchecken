@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Elmie Lala",
+      "author_url": "https://www.google.com/maps/contrib/116649727720476814969/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9hQzRq7WprInjUyoBb07QYhmc-hOC8Q0Rla-KhEckaZENuQfM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nicht so freundlich :)",
+      "time": 1778622990,
+      "translated": false
+    },
+    {
+      "author_name": "Betül",
+      "author_url": "https://www.google.com/maps/contrib/111211938218773467387/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrdCqjmdkUWplrTGAajSeWaunJ1N-4NgKwEHHUQk-gOJQ-dOWV=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen privat bezahlten Termin, da man momentan überhaupt keine andere Chance hat an Terminen zu kommen. Also hatte ich etwas Hoffnung, dass dieser Termin eine Lösung für mein Problem hergibt. Leider kaum, ich hatte den Termin bei Dr. Matziris, als ich anfangen wollte zu sprechen wurde ich direkt unterbrochen und konnte nichtmal mein Problem schildern. Mir wurde direkt irgendeine Creme aufgeschrieben in der Hoffnung von einem Termin zum anderen zu kommen. Der Arzt redet viel zu schnell und undeutlich, ist direkt genervt wenn man sagt man versteht ihn nicht. Leider komplette Geld- und Zeitverschwendung. Sehr unprofessionell und schlecht. Das restliche Personal wie die Damen am Empfang waren sehr lieb!",
+      "time": 1778578462,
+      "translated": false
+    },
+    {
+      "author_name": "Bernd Philip",
+      "author_url": "https://www.google.com/maps/contrib/102298958822017784675/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlFU1vF9BcJ3A6R9AsgwgodOzKkeKkxFCli7DQ-MTF_X4lX_T-=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Ärzte und Ausstattung",
+      "time": 1778515017,
+      "translated": false
+    },
+    {
       "author_name": "sebi fuma",
       "author_url": "https://www.google.com/maps/contrib/101125223035746382311/reviews",
       "language": "de",
@@ -20,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrLo5G52b9N2TV3Z-o9BSAIFjeX3XYO0NCtL-hGCtZcmU_aVd3=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Absolute Frechheit diese Praxis,... Ich musste trotz Termin über 30 Minuten warten, um dann in weniger als einer Minute abgespeist zu werden. Wenn der Arzt schon zu einem sagt, ja, da kann man nichts machen, ohne sich die Beschwerden richtig anzuschauen und/oder anzuhören.... heftig einfach nur heftig. Ich suche mir einen anderen Hautarzt, so schwer das heutzutage ist....",
+      "time": 1777301561,
+      "translated": false
+    },
+    {
+      "author_name": "sebi fuma",
+      "author_url": "https://www.google.com/maps/contrib/101125223035746382311/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrLo5G52b9N2TV3Z-o9BSAIFjeX3XYO0NCtL-hGCtZcmU_aVd3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Absolute Frechheit diese Praxis,... Ich musste trotz Termin über 30 Minuten warten, um dann in weniger als einer Minute abgespeist zu werden. Wenn der Arzt schon zu einem sagt, ja, da kann man nichts machen, ohne sich die Beschwerden richtig anzuschauen und/oder anzuhören.... heftig einfach nur heftig. Ich suche mir einen anderen Hautarzt, so schwer das heutzutage ist....",
       "time": 1777301561,
       "translated": false
@@ -188,11 +236,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 243,
+  "reviewCount": 247,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-10T07:24:48.499Z"
+  "lastUpdated": "2026-05-13T07:48:13.079Z"
 }

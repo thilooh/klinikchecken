@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Daria Rodziewicz",
+      "author_url": "https://www.google.com/maps/contrib/109116689396521210456/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKirfPcYP9EmHCG3KpWevhTGSZhfgIu6m3r27dZ97TjJoMv7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Paschenko, Sie ist the best:)",
+      "time": 1778578826,
+      "translated": false
+    },
+    {
       "author_name": "Katja Seifried",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
@@ -46,6 +58,16 @@
       "time": 1768125009
     },
     {
+      "author_name": "Isabell Kremser",
+      "author_url": "https://www.google.com/maps/contrib/108105450448394684434/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpA8xy-Tl0quHO3it8IQG1J5DpkNJjJyxkyfgZlDytQiBggDg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "",
+      "time": 1768125009,
+      "translated": false
+    },
+    {
       "author_name": "Newport Kramer",
       "rating": 4,
       "relative_time_description": "vor 6 Monaten",
@@ -73,7 +95,7 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 93,
+  "reviewCount": 94,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:38.855Z"
+  "lastUpdated": "2026-05-13T07:48:03.655Z"
 }

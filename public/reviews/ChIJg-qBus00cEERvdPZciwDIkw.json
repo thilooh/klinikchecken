@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Jörg Ehlert",
+      "author_url": "https://www.google.com/maps/contrib/114078293831944238486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLok18UuzxudAtyHI2nMSomVAMZJHy8pJAQuQJFga6FH8ZK0g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1777999044,
+      "translated": false
+    },
+    {
       "author_name": "Andre Kaminski",
       "author_url": "https://www.google.com/maps/contrib/109953366271016858496/reviews",
       "language": "de",
@@ -130,5 +140,5 @@
   "rating": 3.6,
   "reviewCount": 30,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:48.256Z"
+  "lastUpdated": "2026-05-13T07:48:12.835Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Monique Marques",
+      "author_url": "https://www.google.com/maps/contrib/105698822879445812852/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRBlKpcun3MXYeN2nlIOsyzzlplbipoIi4oMWwYdEjWfNzQykMrw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778582998,
+      "translated": false
+    },
+    {
       "author_name": "Yasmin Linz",
       "author_url": "https://www.google.com/maps/contrib/105740270652543545954/reviews",
       "language": "de",
@@ -61,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "A. C.",
+      "author_url": "https://www.google.com/maps/contrib/114359650671943557314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXOGCXOFiXHVVTbQ7vg6LbbXr3S1GMyhpL40qVWKUWLdGbWg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr nette mitarbeiter ubd erstklasse Behandlung.\nSuoer Arzt sehrvzu empfehlen",
+      "time": 1776155510,
+      "translated": false
+    },
+    {
       "author_name": "Baris Celik",
       "author_url": "https://www.google.com/maps/contrib/108196201241842721108/reviews",
       "language": "de",
@@ -92,6 +114,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8dfmhMVfoICOTJHPxrAZBM7xlohCcxqeCttWlWjPRGI6Lxw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war äußerst zufrieden mit\nHerrn Dr. Hölper – die Operation verlief reibungslos und schmerzfrei.\nEin herzliches Dankeschön auch an das Empfangsteam, das besonders freundlich und zuvorkommend war.",
+      "time": 1776091564,
+      "translated": false
+    },
+    {
+      "author_name": "Baris Celik",
+      "author_url": "https://www.google.com/maps/contrib/108196201241842721108/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8dfmhMVfoICOTJHPxrAZBM7xlohCcxqeCttWlWjPRGI6Lxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich war äußerst zufrieden mit\nHerrn Dr. Hölper – die Operation verlief reibungslos und schmerzfrei.\nEin herzliches Dankeschön auch an das Empfangsteam, das besonders freundlich und zuvorkommend war.",
       "time": 1776091564,
       "translated": false
@@ -206,7 +240,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 150,
+  "reviewCount": 151,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:40.600Z"
+  "lastUpdated": "2026-05-13T07:48:05.227Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Klaus Karl-Heinz",
+      "author_url": "https://www.google.com/maps/contrib/110392504498039429188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLSuxq2puPVWeIgBt2xcDc1j0L1KzCyycpucvpnVT1R7F1Uw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin in der Hautarzt-Praxis Quist sehr gut betreut worden und super zufrieden mit Frau Dr. Quaißer Beratung und Behandlung.\nVielen Dank",
+      "time": 1778609491,
+      "translated": false
+    },
+    {
+      "author_name": "Karin Fuchs",
+      "author_url": "https://www.google.com/maps/contrib/103149036719360705721/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0JbJMFH10ibty-VI8wa5GmjAkh1swsV6Tg4vCSpjVtk82=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles super - freundliches Team und schnelle Behandlung.",
+      "time": 1778609303,
+      "translated": false
+    },
+    {
+      "author_name": "Tamara Sp",
+      "author_url": "https://www.google.com/maps/contrib/106513322354928930834/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUab6w8ZuFNUgLIZVUjTKosF_V-M12dZBbDuxs7wwumkP0iTvo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Beratung, Infos und Gesprächspartner\nDanke Herr Schwerdt für ihren Anruf",
+      "time": 1778489225,
+      "translated": false
+    },
+    {
       "author_name": "Misra Totanji",
       "author_url": "https://www.google.com/maps/contrib/105910997604602068133/reviews",
       "language": "de",
@@ -252,11 +288,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 283,
+  "reviewCount": 285,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:25:06.612Z"
+  "lastUpdated": "2026-05-13T07:48:31.557Z"
 }

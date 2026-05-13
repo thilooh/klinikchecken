@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anita Eisele",
+      "author_url": "https://www.google.com/maps/contrib/108106132706845334644/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY3Hz9UcY452nfpYq7j6tRJiRZ8VYCR0zlbjnxXCl85IBQ_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war schon öfter in der Praxis in Behandlung. Hautärztlich und auch kosmetisch. Dr Silber und sein Team sind sehr freundlich und kompetent. Ich fühle mich hier sehr gut aufgehoben!",
+      "time": 1778422637,
+      "translated": false
+    },
+    {
       "author_name": "Nati Li",
       "author_url": "https://www.google.com/maps/contrib/100307622927072783652/reviews",
       "language": "de",
@@ -55,6 +67,16 @@
       "translated": false
     },
     {
+      "author_name": "Olga Root",
+      "author_url": "https://www.google.com/maps/contrib/112338077093446075036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK63f9bF1y571I160R07sxnirI5EmBPpSKUJ929Bq9vCkEuhw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1776708411,
+      "translated": false
+    },
+    {
       "author_name": "Monika Flaig",
       "author_url": "https://www.google.com/maps/contrib/108120772066541802514/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ2jWhrrQpIvXGXybtEwFvhU-jgQlG3DrCUgUd_9TJF0yj7nbl=s128-c0x00000000-cc-rp-mo-ba6",
@@ -97,6 +119,18 @@
       "translated": false
     },
     {
+      "author_name": "LV",
+      "author_url": "https://www.google.com/maps/contrib/103279430259106677616/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzsHlLodMY_z8RFNvmedynTxBCTB1rjDIdKAYEFOuObgD8IQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Schnell einen Termin bekommen, sehr kompetenter Arzt, der mir gut weiterhelfen konnte. Auch der Empfang war sehr freundlich. Habe mich gut aufgehoben gefühlt.",
+      "time": 1773265591,
+      "translated": false
+    },
+    {
       "author_name": "Patrick Noack",
       "author_url": "https://www.google.com/maps/contrib/106129493875898569577/reviews",
       "language": "de",
@@ -134,11 +168,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 78,
+  "reviewCount": 79,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:25:23.091Z"
+  "lastUpdated": "2026-05-13T07:48:48.519Z"
 }

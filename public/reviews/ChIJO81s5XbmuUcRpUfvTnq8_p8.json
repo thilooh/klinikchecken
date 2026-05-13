@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ralf Hagedorn",
+      "author_url": "https://www.google.com/maps/contrib/101278032623282467421/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh9A-laoA8DW4lYs8RirwOXh-Dzy1aPHp_fNc7Df0NxSq7MA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe mir von Dr Feller die Krampfadern\nziehen lassen\nKompetenter Arzt, freundliches Team, schöne helle Praxis und das Nakoseteam die unteranderem mit Dr Feller zusammenarbeiten\nKann ich weiterempfehlen",
+      "time": 1778533576,
+      "translated": false
+    },
+    {
       "author_name": "Michelle",
       "author_url": "https://www.google.com/maps/contrib/107123532947194896880/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-V09peyV39vdjtMsHqjvc4hl1tjpIRJZPCnj-8wO9NQnCoMe_dQ=s128-c0x00000000-cc-rp-mo",
@@ -21,11 +33,31 @@
       "translated": false
     },
     {
+      "author_name": "Michelle",
+      "author_url": "https://www.google.com/maps/contrib/107123532947194896880/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-V09peyV39vdjtMsHqjvc4hl1tjpIRJZPCnj-8wO9NQnCoMe_dQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1777293992,
+      "translated": false
+    },
+    {
       "author_name": "Ines",
       "author_url": "https://www.google.com/maps/contrib/114604776429168273762/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzkrFlOnz0r-0nfdTxyCMbF1JIhLo1CnhH_Ce9hSqUIRWxKvRO=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1770811931,
+      "translated": false
+    },
+    {
+      "author_name": "Ines",
+      "author_url": "https://www.google.com/maps/contrib/114604776429168273762/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzkrFlOnz0r-0nfdTxyCMbF1JIhLo1CnhH_Ce9hSqUIRWxKvRO=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1770811931,
       "translated": false
@@ -104,11 +136,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 73,
+  "reviewCount": 74,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-10T07:25:15.365Z"
+  "lastUpdated": "2026-05-13T07:48:40.522Z"
 }

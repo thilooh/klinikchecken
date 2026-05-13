@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Iris H.",
+      "author_url": "https://www.google.com/maps/contrib/103214431950657938868/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFdFDD1htTaDn-8MhMl2vL1U_0Lrs6tKTjIptOA0RNPNs4cw8m=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778656839,
+      "translated": false
+    },
+    {
       "author_name": "Klaus GECK",
       "author_url": "https://www.google.com/maps/contrib/111728859885888981673/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN4Ac5QXwl93IKaCNxt2lEtjT6uptdr5aJ5JrAb48BseqJKSg=s128-c0x00000000-cc-rp-mo",
@@ -26,6 +36,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN4Ac5QXwl93IKaCNxt2lEtjT6uptdr5aJ5JrAb48BseqJKSg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1776671678,
+      "translated": false
+    },
+    {
+      "author_name": "Klaus GECK",
+      "author_url": "https://www.google.com/maps/contrib/111728859885888981673/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN4Ac5QXwl93IKaCNxt2lEtjT6uptdr5aJ5JrAb48BseqJKSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1776671678,
       "translated": false
@@ -98,6 +118,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWz1_0fWZ3FXxvr_K9eDsQT6JWxunx0oTfQrcZWniAwg0Gvmq-=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Vorab: Meine Bewertung bezieht sich auf das MVZ.\n\nIch bin mehr als zufrieden mit meinem Termin in der Klinik, vom Empfang bis zum Arztbesuch.\n\nAm Empfang wurde ich als Neupatientin super freundlich begrüßt, Herr Dr. Baier hat sich Zeit genommen, mich ernstgenommen und mir alles für die Therapie des Lipödems in die Wege geleitet.\n\nDie Rezepte etc. wurden dann wieder super schnell ausgestellt und ich weiß nun, was zu tun ist.",
+      "time": 1775839995,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Spier",
+      "author_url": "https://www.google.com/maps/contrib/116362119260430009520/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWz1_0fWZ3FXxvr_K9eDsQT6JWxunx0oTfQrcZWniAwg0Gvmq-=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Vorab: Meine Bewertung bezieht sich auf das MVZ.\n\nIch bin mehr als zufrieden mit meinem Termin in der Klinik, vom Empfang bis zum Arztbesuch.\n\nAm Empfang wurde ich als Neupatientin super freundlich begrüßt, Herr Dr. Baier hat sich Zeit genommen, mich ernstgenommen und mir alles für die Therapie des Lipödems in die Wege geleitet.\n\nDie Rezepte etc. wurden dann wieder super schnell ausgestellt und ich weiß nun, was zu tun ist.",
       "time": 1775839995,
       "translated": false
@@ -159,12 +191,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 167,
+  "rating": 4.5,
+  "reviewCount": 168,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-10T07:24:53.135Z"
+  "lastUpdated": "2026-05-13T07:48:17.723Z"
 }

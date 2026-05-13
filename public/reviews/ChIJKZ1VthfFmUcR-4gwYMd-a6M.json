@@ -59,6 +59,18 @@
       "translated": true
     },
     {
+      "author_name": "Ahmed Maghraoui",
+      "author_url": "https://www.google.com/maps/contrib/101215367743870202864/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJTTccQLaogrD9fC8UlHb76vmURESSz0j-CXN5ukvMXfWBXg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Eine echte Enttäuschung und ein eklatanter Mangel an Transparenz, typisch deutsch eben.",
+      "time": 1777386037,
+      "translated": true
+    },
+    {
       "author_name": "Ni C (Nick)",
       "author_url": "https://www.google.com/maps/contrib/117169074841014524798/reviews",
       "language": "de",
@@ -114,6 +126,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVftDbKu3xA5tJkhoSAYp04PX9O54nHle6Tra5FRuRSMdVs18s=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Schnelle terminvergabe.. nettes team..sehr herzlich, professionell und kompetent...kurze wartezeit..also ich war das erste mal dort und bin sehr beeindruckt gewesen...kann ich nur weiterempfehlen!!",
+      "time": 1776451132,
+      "translated": false
+    },
+    {
+      "author_name": "Fabio Salvaggio",
+      "author_url": "https://www.google.com/maps/contrib/112182690396973249603/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVftDbKu3xA5tJkhoSAYp04PX9O54nHle6Tra5FRuRSMdVs18s=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Schnelle terminvergabe.. nettes team..sehr herzlich, professionell und kompetent...kurze wartezeit..also ich war das erste mal dort und bin sehr beeindruckt gewesen...kann ich nur weiterempfehlen!!",
       "time": 1776451132,
       "translated": false
@@ -191,8 +215,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 311,
+  "rating": 4.6,
+  "reviewCount": 309,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:47.525Z"
+  "lastUpdated": "2026-05-13T07:48:12.104Z"
 }

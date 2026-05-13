@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kevin A",
+      "author_url": "https://www.google.com/maps/contrib/109678648646818861211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUf-UnXj91odI4cYSpxq3Z0U0RlIToy2NT21rK-eb2kV9_GlCp=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn ich 0 Sterne geben könnte, würde ich es tun. Also 2x hintereinander so von der Frau Doktor abgefrühstückt zu werden, habe ich noch nie erlebt. Bei Schmerzen und offensichtlich kosmetischer Problemstellung wird man nicht ernst genommen und man solle es „akzeptieren“. Es wird keine Erklärung zum Befund, zu weiteren Behandlungsmöglichkeiten oder der Ursache gegeben. Die Stelle wird sich nicht einmal angeschaut. Zusätzlich kommt man überhaupt nicht zu Wort und es wird einem ins Wort gefallen. „Ich habe eine Narbe, die tut auch manchmal weh - gibt Dinge im Leben, die muss man halt akzeptieren.“ Was ist das eigentlich für eine unprofessionelle und unfreundliche Art und Weise mit einem Patienten umzugehen. Verabschiedet wird man auch nicht, da wird man einfach im Behandlungsraum nach 1,5 min „Gespräch“ sitzen gelassen und wie schon beim letzten Mal weiter verwiesen.\nSo etwas habe ich noch nie erlebt. Kann jedem nur ans Herz legen einen großen Bogen um die Praxis zu machen.",
+      "time": 1778495171,
+      "translated": false
+    },
+    {
       "author_name": "Peter Haertel",
       "author_url": "https://www.google.com/maps/contrib/100609497009520493175/reviews",
       "language": "de",
@@ -140,10 +152,22 @@
       "text": "1 Stunde wartezeit. Nimmt euch genug wartezeit trotz erteilten Termin. Bin froh das mein Ehemann  mit mir war sonst hätte ich keine Chance  mit 2 Kindern  da 1 Std zu warten",
       "time": 1771942241,
       "translated": false
+    },
+    {
+      "author_name": "Sandra",
+      "author_url": "https://www.google.com/maps/contrib/113843630494690239439/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULb0tPa0ZnU6xyRBnBScDpzXlY7qFoU3ZWBv0Ps46vGzI7c0E=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Hatte einen Termin und bin recht pünktlich dran gekommen.Mein Arzt war sehr nett und er hat mir was meine trockene Haut angeht geholfen.Hatte viele Hautcremes vorher ausprobiert, die aber nicht geholfen haben.Cetaphil pro Urea 10% hat sofort ein gutes Hautgefühl gegeben.Werde die anderen Cremeproben aber auch noch testen.Vielen Dank.",
+      "time": 1770817490,
+      "translated": false
     }
   ],
   "rating": 4.5,
-  "reviewCount": 91,
+  "reviewCount": 89,
   "summary": [],
-  "lastUpdated": "2026-05-10T07:24:40.006Z"
+  "lastUpdated": "2026-05-13T07:48:04.741Z"
 }

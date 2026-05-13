@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Petra Franzen",
+      "author_url": "https://www.google.com/maps/contrib/115124270330724373195/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUH4GIXHmgkQHtrDcgtozQCiKtvYHW4j6-2kxZz0rG7DjXHWJY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war dort, weil ich mir Unterstützung bei meinem Lipödemproblem erhofft hatte. Ich habe Kompression verordnet bekommen. Lymphdraingerezept ist abgelehnt worden, weil ich keine Venenprobleme habe und der Arzt meint das würde nicht helfen. Die Krankenkasse erwartet, dass man beides macht, bevor man überhaupt einen Antrag zur Lipsunktion stellen kann. Tja, so komme ich nicht weiter. Der Mann ist Gefäßchirug. Mit Lipödem ist man dort wohl nicht richtig aufgehoben.",
+      "time": 1778479848,
+      "translated": false
+    },
+    {
       "author_name": "Christiane Sch",
       "author_url": "https://www.google.com/maps/contrib/102732934185799671141/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Klausns Trrash",
+      "author_url": "https://www.google.com/maps/contrib/104633130376279219989/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuIgJgAvHJ9jmMzj8bMD-L7mqJFfubHoDuWN243gmMSHGU1Y8b=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Dr. Sabi ist sehr nett und kompetent\nDie Dame an der Rezeption, allerdings unglaublich arrogant und unfreundlich",
+      "time": 1777288260,
+      "translated": false
+    },
+    {
       "author_name": "Aboudy Alfarhan",
       "author_url": "https://www.google.com/maps/contrib/110857328604488888845/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmSJ04p4nNpGghVxdLppJz-zXw5sNKsaqwBUH-sTQrUeo9eJg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Dr. Shadi ist wirklich wunderbar. Möge er/sie immer weiter aufsteigen und Gott ihm/ihr Erfolg und Segen schenken. 🌷🌸",
+      "time": 1773243824,
+      "translated": true
+    },
+    {
+      "author_name": "Aboudy Alfarhan",
+      "author_url": "https://www.google.com/maps/contrib/110857328604488888845/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmSJ04p4nNpGghVxdLppJz-zXw5sNKsaqwBUH-sTQrUeo9eJg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Dr. Shadi ist wirklich wunderbar. Möge er/sie immer weiter aufsteigen und Gott ihm/ihr Erfolg und Segen schenken. 🌷🌸",
       "time": 1773243824,
       "translated": true
@@ -115,12 +151,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 81,
+  "rating": 4.9,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:25:09.447Z"
+  "lastUpdated": "2026-05-13T07:48:34.462Z"
 }

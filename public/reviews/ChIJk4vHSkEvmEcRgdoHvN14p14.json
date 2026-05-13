@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Tilmann Binder",
+      "author_url": "https://www.google.com/maps/contrib/104202275269159638179/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw6OokXGF4nA33uMUJBvWYfyWxTPT3B1DF5d5bVsI2WPZBg7xbYw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778483770,
+      "translated": false
+    },
+    {
       "author_name": "Robin Braun",
       "author_url": "https://www.google.com/maps/contrib/117738899911360775185/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNaIkytWCefZ9rsZd3YqrN5V8qxdOwio4rukOG98oqoBK6sIbq=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Seit Jahren in Besten Händen bei Frau Dr. Kaschubowski !",
+      "time": 1777907466,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Hübner",
+      "author_url": "https://www.google.com/maps/contrib/105939029526164063688/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNaIkytWCefZ9rsZd3YqrN5V8qxdOwio4rukOG98oqoBK6sIbq=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Seit Jahren in Besten Händen bei Frau Dr. Kaschubowski !",
       "time": 1777907466,
       "translated": false
@@ -61,6 +83,18 @@
       "translated": false
     },
     {
+      "author_name": "Anna Steinle",
+      "author_url": "https://www.google.com/maps/contrib/115436206296248501739/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEhd4B3Mjd1BGKGzk2cSTbCUH815U_g_sQPK2wsxhI_LTU8L00qA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich fühle mich bei Dr. Salzer sehr gut aufgehoben. Er nimmt sich Zeit und ist sehr professionell. Die Wartezeiten von mehr als einer Stunde des mal trotz Termin ist allerdings jedes Mal sehr ärgerlich. Daher gibt zwei Sterne weniger.",
+      "time": 1777370197,
+      "translated": false
+    },
+    {
       "author_name": "Netflix Binge",
       "author_url": "https://www.google.com/maps/contrib/105908059535716344285/reviews",
       "language": "de",
@@ -80,6 +114,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXKBQd5GXt1mdlmNcfO9seG3t0Vg6lEKPspL4xTVz16JkRpw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Der Inhaber droht mit Verleumdung, selbst wenn Sie in gutem Glauben handeln.",
+      "time": 1777369408,
+      "translated": true
+    },
+    {
+      "author_name": "Netflix Binge",
+      "author_url": "https://www.google.com/maps/contrib/105908059535716344285/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXKBQd5GXt1mdlmNcfO9seG3t0Vg6lEKPspL4xTVz16JkRpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Der Inhaber droht mit Verleumdung, selbst wenn Sie in gutem Glauben handeln.",
       "time": 1777369408,
       "translated": true
@@ -201,12 +247,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 204,
+  "rating": 4.4,
+  "reviewCount": 195,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-10T07:25:20.302Z"
+  "lastUpdated": "2026-05-13T07:48:45.636Z"
 }
