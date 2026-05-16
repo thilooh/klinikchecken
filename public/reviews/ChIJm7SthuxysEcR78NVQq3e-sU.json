@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "P. B.",
+      "author_url": "https://www.google.com/maps/contrib/109168547096321884880/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPeZqM8wiXw1iHXVR-ri6RiGp7PPgZXAdR3c8-gH4XS5k4qA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider hat Herr Wahn keine Empathie.Als Kassenpatient fühlt man sich nicht willkommen.Die OP war okay bei Dr Matzritis, aber es ist wie eine Abfertigung.",
+      "time": 1778821676,
+      "translated": false
+    },
+    {
+      "author_name": "Stephan Helms",
+      "author_url": "https://www.google.com/maps/contrib/103685646049932265331/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfBhZ42hsgCrZkZtFEFcJjDl-ZEpXU_umjYpnSZtMZXZKphQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778680423,
+      "translated": false
+    },
+    {
       "author_name": "Elmie Lala",
       "author_url": "https://www.google.com/maps/contrib/116649727720476814969/reviews",
       "language": "de",
@@ -236,11 +258,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 247,
+  "reviewCount": 249,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-13T07:48:13.079Z"
+  "lastUpdated": "2026-05-16T07:12:29.948Z"
 }

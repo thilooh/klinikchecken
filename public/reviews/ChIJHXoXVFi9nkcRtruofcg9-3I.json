@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Gabriela Meise",
+      "author_url": "https://www.google.com/maps/contrib/117649587434020201954/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVFUMADx6fizuAVofz-JaVwsh36SL4HUCWsqv8zcdxt3hssYU-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war im MVZ im EG und kann über das ganze Praxisteam nur positives berichten.\nFreundlich , kompetente fleißiges Team!\nTop Arzt 👍🏼 Ich war bei Dr. Schmid.",
+      "time": 1778682012,
+      "translated": false
+    },
+    {
+      "author_name": "Daniela Rommel",
+      "author_url": "https://www.google.com/maps/contrib/100881049397186228429/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqIGw06IbQkYwQqTW2R4es7f2gOx0hg4po84QDkHPJtZo5YA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Ärzte, Pflegepersonal und auch Reinigungskräfte. Alle freundlich und kompetent",
+      "time": 1778680052,
+      "translated": false
+    },
+    {
       "author_name": "Ingrid Scheller",
       "author_url": "https://www.google.com/maps/contrib/107253668453698655839/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxYDOCoDZlvsdJsC7IIxNxztCM61VRaqVdiVrlciUq_h-luD4=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wenn man schon in ein Krankenhaus muss! Ich bin wirklich von der Freundlichkeit und Kompetenz begeistert. Alle waren sehr hilfsbereit. Das Essen ( was während eine Krankenhausaufenthalt nicht unwichtig ist) war sehr gut.",
+      "time": 1778218533,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Scheller",
+      "author_url": "https://www.google.com/maps/contrib/107253668453698655839/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxYDOCoDZlvsdJsC7IIxNxztCM61VRaqVdiVrlciUq_h-luD4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Wenn man schon in ein Krankenhaus muss! Ich bin wirklich von der Freundlichkeit und Kompetenz begeistert. Alle waren sehr hilfsbereit. Das Essen ( was während eine Krankenhausaufenthalt nicht unwichtig ist) war sehr gut.",
       "time": 1778218533,
       "translated": false
@@ -52,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbDDRdHLioxCnIQ_4cZacgIx1Hn6g5sVRVxIV4w4k6MWKw3g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich hatte eine Venen- OP. Von der Diagnostik bis zur OP und der Nachbehandlung fühlte ich mich bestens aufgehoben. Neben der hervorragenden Aufklärung und Behandlung möchte ich den sehr wertschätzenden Umgang aller Mitarbeitenden betonen. Ein großes Dankeschön an die Abteilung der Phlebologie und an die Tagesklinik. Würde ich jederzeit weiterempfehlen.",
+      "time": 1777664692,
+      "translated": false
+    },
+    {
+      "author_name": "Marion Hahn",
+      "author_url": "https://www.google.com/maps/contrib/115093838080213727502/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbDDRdHLioxCnIQ_4cZacgIx1Hn6g5sVRVxIV4w4k6MWKw3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich hatte eine Venen- OP. Von der Diagnostik bis zur OP und der Nachbehandlung fühlte ich mich bestens aufgehoben. Neben der hervorragenden Aufklärung und Behandlung möchte ich den sehr wertschätzenden Umgang aller Mitarbeitenden betonen. Ein großes Dankeschön an die Abteilung der Phlebologie und an die Tagesklinik. Würde ich jederzeit weiterempfehlen.",
       "time": 1777664692,
       "translated": false
@@ -186,11 +234,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 390,
+  "reviewCount": 392,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-13T07:48:22.234Z"
+  "lastUpdated": "2026-05-16T07:12:38.889Z"
 }

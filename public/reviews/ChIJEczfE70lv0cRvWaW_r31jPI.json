@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Flo",
+      "author_url": "https://www.google.com/maps/contrib/101358547131869921213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpzWaFEjMI-hsaS9d55hmRtKYBkF3N_bDvT3w8SpCKHCqlPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Arzt hat mich operiert und tolle volle Brüste!lg mary",
+      "time": 1778886834,
+      "translated": false
+    },
+    {
       "author_name": "Sheima El hammouti laarbi",
       "author_url": "https://www.google.com/maps/contrib/109060526894195707971/reviews",
       "language": "es",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-pBajC1GNb-An9b7j87920VDj733yvgYZKBUd8bJMs8nOTA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schon seit Jahren Patientin von Dr. Esfahani. Er ist der Allerbeste. Als Make up Artist ist es mir wichtig, dass die Eingriffe natürlich aussehen, er kann einen bestens beraten. Die Praxis ist superschön und sauber und seine Mitarbeiter*innen sind immer sehr freundlich. Außerdem ist er auch ein hervorragender Arzt- hat er doch auch noch prompt nebenbei meine Schulter behandelt und kuriert.",
+      "time": 1778235872,
+      "translated": false
+    },
+    {
+      "author_name": "Peggy L.",
+      "author_url": "https://www.google.com/maps/contrib/115890541223542034599/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-pBajC1GNb-An9b7j87920VDj733yvgYZKBUd8bJMs8nOTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin schon seit Jahren Patientin von Dr. Esfahani. Er ist der Allerbeste. Als Make up Artist ist es mir wichtig, dass die Eingriffe natürlich aussehen, er kann einen bestens beraten. Die Praxis ist superschön und sauber und seine Mitarbeiter*innen sind immer sehr freundlich. Außerdem ist er auch ein hervorragender Arzt- hat er doch auch noch prompt nebenbei meine Schulter behandelt und kuriert.",
       "time": 1778235872,
       "translated": false
@@ -63,6 +87,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPiH4b41uK-L4-pX_AjHSFspeX1QtLwNJ15N_sG64YpVz2ng=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich hatte eine Fettabsaugung und eine Männerbrust-OP bei Dr. Babak Esfahani – das Ergebnis ist großartig! Das gesamte Team war äußerst freundlich und professionell. Ich bin rundum zufrieden und kann ihn absolut empfehlen!",
+      "time": 1776167605,
+      "translated": false
+    },
+    {
+      "author_name": "Elay Sezer",
+      "author_url": "https://www.google.com/maps/contrib/104593257463238595231/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPiH4b41uK-L4-pX_AjHSFspeX1QtLwNJ15N_sG64YpVz2ng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich hatte eine Fettabsaugung und eine Männerbrust-OP bei Dr. Babak Esfahani – das Ergebnis ist großartig! Das gesamte Team war äußerst freundlich und professionell. Ich bin rundum zufrieden und kann ihn absolut empfehlen!",
       "time": 1776167605,
       "translated": false
@@ -163,5 +199,5 @@
     "Eingriffe verlaufen schmerzfrei und komplikationslos, auch komplexe Korrekturen gelingen",
     "Das gesamte Team wird als herzlich, einfühlsam und professionell beschrieben"
   ],
-  "lastUpdated": "2026-05-13T07:47:59.464Z"
+  "lastUpdated": "2026-05-16T07:12:16.402Z"
 }

@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Tatjana S",
+      "author_url": "https://www.google.com/maps/contrib/104267668582945336866/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3R5whtkt-CGmKcPxCHzxoeBviwIZXpTnOU_dxffNhFfVEOSkp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hab mich super aufgehoben gefühlt. Die Beratung war sehr ausführlich und man hat sich viel Zeit für mich genommen. Auch nach der Behandlung gab es noch zwei Kontrolltermine. Insgesamt einfach ein sehr gutes Gefühl. Kann ich auf jeden Fall weiterempfehlen 😊",
+      "time": 1778786322,
+      "translated": false
+    },
+    {
+      "author_name": "Elvira Frischetto",
+      "author_url": "https://www.google.com/maps/contrib/114952740969287023678/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpT26GxYDvvh7CaDShlxMesAjfIalfHzi2zs3ST8xztqDHgg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal und Arzt. die Arbeit an meiner Tochter wurde mit größter Sorgfalt und Präzision erledigt.",
+      "time": 1778770450,
+      "translated": false
+    },
+    {
+      "author_name": "Deniz Sarıca",
+      "author_url": "https://www.google.com/maps/contrib/109520221267282195060/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9XXQPGZIoEaix8-p9BrvJngolP_Gb_-94c7S1g8W7jl9jHAEv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778757505,
+      "translated": false
+    },
+    {
       "author_name": "Mona Mustapha",
       "author_url": "https://www.google.com/maps/contrib/114106098175091805656/reviews",
       "language": "de",
@@ -242,11 +276,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 202,
+  "reviewCount": 205,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-13T07:48:36.139Z"
+  "lastUpdated": "2026-05-16T07:12:52.731Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ha Be",
+      "author_url": "https://www.google.com/maps/contrib/108673783403694462731/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqaO9cbg8905pcbAnIOe1_HH9NePUZKVeQPh-bgUgK7coq2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778699058,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele Vierzig-Rostek",
       "author_url": "https://www.google.com/maps/contrib/113813196991140768344/reviews",
       "language": "de",
@@ -25,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Klaudija",
+      "author_url": "https://www.google.com/maps/contrib/112332390642736798110/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmfE5TeFjcOcFk__k_9u62qMDOtY3cofEk8G6Z3dyoqPMDog=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Trotz Termin über eine Stunde gewartet. Dann mal nachgefragt, weil alle Patienten die nach uns kamen schon dran gekommen waren. Wichtig im PC geguckt und uns nochmal ins Wartezimmer gebeten. Keine Info. Nichts. Hatte das Gefühl, dass man uns vergessen hat.Habe auch gesagt das ich sonst gerne einen neuen Termin vereinbaren kann. Nehmen Sie bitte nochmal kurz im Wartezimmer Platz. Kurz? Nochmal über 30 Minuten gewartet. Wofür? Zwei Minuten in einer ein qm Kabine zu dritt. Meine Tochter(11jahre) hat die bluse bei offener Tür ausziehen müssen. Geht es noch? Dann lieber wie früher, ohne Termin und man stellt sich aufs warten ein.",
+      "time": 1778081976,
+      "translated": false
+    },
+    {
       "author_name": "Shanna Lehmann",
       "author_url": "https://www.google.com/maps/contrib/102042928141440074452/reviews",
       "language": "de",
@@ -44,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeDByPHr7czX4ZsP1BXcOUBi36TkU6LHndw7zw0qrOHu9_qg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war heute in der Praxis Dermatologie am Luegplatz bei Frau Steinkusch und bin wirklich begeistert. Sie hat sich unglaublich viel Zeit für mich genommen, mich gründlich untersucht und alles ganz ruhig und verständlich erklärt. Dabei war sie nicht nur fachlich top, sondern auch sehr freundlich und einfühlsam. Man fühlt sich sofort gut aufgehoben und ernst genommen. So eine Ärztin findet man nicht oft, absolute Empfehlung!",
+      "time": 1777487579,
+      "translated": false
+    },
+    {
+      "author_name": "Shanna Lehmann",
+      "author_url": "https://www.google.com/maps/contrib/102042928141440074452/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeDByPHr7czX4ZsP1BXcOUBi36TkU6LHndw7zw0qrOHu9_qg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war heute in der Praxis Dermatologie am Luegplatz bei Frau Steinkusch und bin wirklich begeistert. Sie hat sich unglaublich viel Zeit für mich genommen, mich gründlich untersucht und alles ganz ruhig und verständlich erklärt. Dabei war sie nicht nur fachlich top, sondern auch sehr freundlich und einfühlsam. Man fühlt sich sofort gut aufgehoben und ernst genommen. So eine Ärztin findet man nicht oft, absolute Empfehlung!",
       "time": 1777487579,
       "translated": false
@@ -241,7 +275,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 198,
+  "reviewCount": 200,
   "summary": [],
-  "lastUpdated": "2026-05-13T07:48:04.220Z"
+  "lastUpdated": "2026-05-16T07:12:21.261Z"
 }

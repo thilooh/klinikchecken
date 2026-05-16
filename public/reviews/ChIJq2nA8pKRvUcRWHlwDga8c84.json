@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Hanna L.",
+      "author_url": "https://www.google.com/maps/contrib/114874814287522035262/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTfCDWOhB-u3opYtzjUtA-oAmJ4Jl-EWFGtkrxSx5bPFBuEg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war jahrelang Patientin der Praxis, aber es wird Kassenpatienten mittlerweile wahnsinnig schwer gemacht, überhaupt noch Termine zu bekommen. Auf doctolib sind Notfalltermine sogar als Selbstzahlerleistung angegeben... Notfälle! Für andere Termine gibt es auch keine Slots mehr. Dann macht doch bitte die Praxis zu einer Privatpraxis, das wäre ehrlicher. Ich werde mir nun einen neuen Hautarzt suchen müssen. leider.",
+      "time": 1778878216,
+      "translated": false
+    },
+    {
+      "author_name": "Sevda Celik",
+      "author_url": "https://www.google.com/maps/contrib/106454341906446317562/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVgQfe7PZYtEHM26Gjfnh9-leMEAPi8df_wiZ94__7WbOlqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Schwert war bei der Terminvergabe am Telefon sehr freundlich und hat mir den Ablauf ausführlich erklärt.. Vielen Dank",
+      "time": 1778663263,
+      "translated": false
+    },
+    {
       "author_name": "Klaus Karl-Heinz",
       "author_url": "https://www.google.com/maps/contrib/110392504498039429188/reviews",
       "language": "de",
@@ -288,11 +312,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 285,
+  "reviewCount": 282,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:31.557Z"
+  "lastUpdated": "2026-05-16T07:12:48.092Z"
 }

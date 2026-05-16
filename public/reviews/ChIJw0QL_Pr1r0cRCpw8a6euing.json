@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Manuela Köllner",
+      "author_url": "https://www.google.com/maps/contrib/101137351152136839255/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCcuBSoWl7kRRt5Fi-lQpAzMcTFnD9ItdiNFu0I_3hrPmg1Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778194202,
+      "translated": false
+    },
+    {
       "author_name": "Barbara",
       "author_url": "https://www.google.com/maps/contrib/101155815730565696708/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdFTYBu4JZzOy4QaWXAKFG5-elUshOHCFzTUPt_LHHnNu7ZA=s128-c0x00000000-cc-rp-mo-ba4",
@@ -50,6 +60,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5F_K3PEQZLCwo6VI-EvX54GHYU6dbmUVEiUbCOIw14jxaroD5=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super Klasse Betreuung, alle freundlich zuvorkommend einfach Top",
+      "time": 1777567179,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Langnickel",
+      "author_url": "https://www.google.com/maps/contrib/107448587541100069513/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5F_K3PEQZLCwo6VI-EvX54GHYU6dbmUVEiUbCOIw14jxaroD5=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super Klasse Betreuung, alle freundlich zuvorkommend einfach Top",
       "time": 1777567179,
       "translated": false
@@ -86,6 +108,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9QYKPDBsgvEv9OWk6mMyQRKIBwmrolCKFyrsq6I71rsoS0Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr sauber und ordentlich. Ich war mit einem Freund dort, der sich dort bereits einer Operation unterzogen hatte; seine Bewertung liegt bei 5,0.",
+      "time": 1776964509,
+      "translated": true
+    },
+    {
+      "author_name": "Ivona Jankovic",
+      "author_url": "https://www.google.com/maps/contrib/104805591645546511798/reviews",
+      "language": "de",
+      "original_language": "hr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9QYKPDBsgvEv9OWk6mMyQRKIBwmrolCKFyrsq6I71rsoS0Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr sauber und ordentlich. Ich war mit einem Freund dort, der sich dort bereits einer Operation unterzogen hatte; seine Bewertung liegt bei 5,0.",
       "time": 1776964509,
       "translated": true
@@ -168,5 +202,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-13T07:48:15.771Z"
+  "lastUpdated": "2026-05-16T07:12:32.611Z"
 }

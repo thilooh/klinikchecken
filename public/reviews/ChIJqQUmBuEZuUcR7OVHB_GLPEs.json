@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "S D",
+      "author_url": "https://www.google.com/maps/contrib/100897343328419442670/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkARLBdL4jhFInvsANBGqAPQooNNS06fiVia6dStL07J33jg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Trotz meines Termins habe ich 45 Minuten gewartet, und niemand konnte mir sagen, wie lange es noch dauert. Dann sollte man besser keine Termine vergeben, wenn sie nicht eingehalten werden können.",
+      "time": 1778837544,
+      "translated": false
+    },
+    {
+      "author_name": "Derma Medica",
+      "author_url": "https://www.google.com/maps/contrib/101518614665716730551/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJdqZaIvb0wH8xLRxGjZvUyicm9aYg8A3_1My1x34JMzlRRTh1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir fühlten uns von der Hansaklinik professionell betreut. Freundliches Personal, klare Informationen und eine angenehme Atmosphäre. Die Behandlung war kompetent und der Ablauf gut organisiert.",
+      "time": 1778676517,
+      "translated": false
+    },
+    {
       "author_name": "Annika Schlicht",
       "author_url": "https://www.google.com/maps/contrib/104976024857612922279/reviews",
       "language": "de",
@@ -224,7 +248,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 284,
+  "reviewCount": 286,
   "summary": [],
-  "lastUpdated": "2026-05-13T07:48:06.629Z"
+  "lastUpdated": "2026-05-16T07:12:23.587Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Veronika Jütten",
+      "author_url": "https://www.google.com/maps/contrib/108270522075584218550/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsGSjyeahsFimO8lNMVuaWksYSqgab9s1Gyv61rawf7J-G5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte heute Mittag meinen ersten Termin bei Dr.Sade...leider total enttäuschend!! Unfreundliche Begrüßung am Empfang (Menschen, die zu ihnen kommen sind in der Regel aufgeregt und unsicher...da kann ein Lächeln tatsächlich Wunder wirken!!) Die erste Frage war, ob ich offene Stellen an den Beinen habe, darauf sagte ich, dass ich seit einigen Monaten eine Autoimmunerkrankung habe, die leider entzündliche Stellen an meinem Körper auslöst. Diese Stellen wurden dann von den Damen! am Empfang begutachtet...von einer eher angewidert schauend, die andere sagte sofort 'Damit behandelt sie der Arzt nicht'. (Es sind eher kleine Stellen!)Ich war entsetzt, dass das nicht von Dr. Sade persönlich entschieden wurde. Damit hätte ich durchaus leben können. Aber so???\nMir wurde dann auch noch gesagt, dass das wegen der Hygiene ist...da hatte ich auch noch das Gefühl dreckig und stinkend dort angekommen zu sein.(Was natürlich nicht der Fall war!!)Und was machen Menschen, die mit offenen Beinen zu ihnen kommen??Es gab keine vernünftige Erklärung...NEIN, ich wurde an eine Praxis im Bethesta Krankenhaus verwiesen...unglaublich...\nSehr schade, hätte mir eine Begegnung mit Dr. Sade gewünscht.\nWenn man mit Menschen arbeitet, sollte man auf jeden Fall große Empathie besitzen...besonders, wenn es sich um kranke Menschen handelt!! Ich weiß, wovon ich spreche...\n(Eigentlich hätte ich garkeinen Stern vergeben!!)",
+      "time": 1778868643,
+      "translated": false
+    },
+    {
       "author_name": "Petra Franzen",
       "author_url": "https://www.google.com/maps/contrib/115124270330724373195/reviews",
       "language": "de",
@@ -151,12 +163,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 80,
+  "rating": 4.8,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:34.462Z"
+  "lastUpdated": "2026-05-16T07:12:50.944Z"
 }

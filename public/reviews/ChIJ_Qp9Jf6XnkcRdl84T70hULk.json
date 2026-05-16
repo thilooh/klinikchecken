@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Gabriela Meise",
+      "author_url": "https://www.google.com/maps/contrib/117649587434020201954/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVFUMADx6fizuAVofz-JaVwsh36SL4HUCWsqv8zcdxt3hssYU-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778681875,
+      "translated": false
+    },
+    {
       "author_name": "Josef Krämer",
       "author_url": "https://www.google.com/maps/contrib/114334347781136624227/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5IhuY4i7ugF1xqlZ7jGjyuJniD96jefYWOOkFqrAkydIoug=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Termine werden zuverlässig eingehalten - keine Wartezeiten. Praxis sehr gut organisiert. Gesamtes Team sehr freundlich.",
+      "time": 1778070169,
+      "translated": false
+    },
+    {
+      "author_name": "Vi Del",
+      "author_url": "https://www.google.com/maps/contrib/101764751977087689264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5IhuY4i7ugF1xqlZ7jGjyuJniD96jefYWOOkFqrAkydIoug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Termine werden zuverlässig eingehalten - keine Wartezeiten. Praxis sehr gut organisiert. Gesamtes Team sehr freundlich.",
       "time": 1778070169,
       "translated": false
@@ -68,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJAbHeSTCq2888UacFf-nQRFsjJjoBjgCWsxN0TI8N52t7Bg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich habe bereits am 5. Januar über Doctolib einen Termin für den 5. Mai vereinbart.\nEine Woche vor dem Termin wurde dieser plötzlich wegen Krankheit abgesagt. Das kann natürlich passieren – jedoch war es danach unmöglich, jemanden telefonisch zu erreichen. Außerdem gab es keine Möglichkeit, einen neuen Termin zu vereinbaren.\nDieses Verhalten empfinde ich als sehr unprofessionell und verantwortungslos, besonders wenn man mehrere Monate auf einen Termin gewartet hat.\n\nIch bin sehr enttäuscht und kann diese Praxis leider nicht weiterempfehlen.",
+      "time": 1777539931,
+      "translated": false
+    },
+    {
+      "author_name": "Sanaz Abdolrazagh",
+      "author_url": "https://www.google.com/maps/contrib/107393046128931738683/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJAbHeSTCq2888UacFf-nQRFsjJjoBjgCWsxN0TI8N52t7Bg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich habe bereits am 5. Januar über Doctolib einen Termin für den 5. Mai vereinbart.\nEine Woche vor dem Termin wurde dieser plötzlich wegen Krankheit abgesagt. Das kann natürlich passieren – jedoch war es danach unmöglich, jemanden telefonisch zu erreichen. Außerdem gab es keine Möglichkeit, einen neuen Termin zu vereinbaren.\nDieses Verhalten empfinde ich als sehr unprofessionell und verantwortungslos, besonders wenn man mehrere Monate auf einen Termin gewartet hat.\n\nIch bin sehr enttäuscht und kann diese Praxis leider nicht weiterempfehlen.",
       "time": 1777539931,
       "translated": false
@@ -212,11 +246,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 160,
+  "reviewCount": 161,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-13T07:48:22.470Z"
+  "lastUpdated": "2026-05-16T07:12:39.114Z"
 }

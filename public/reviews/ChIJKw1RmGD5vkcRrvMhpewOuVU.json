@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "HEIKE Mertes- Biewer",
+      "author_url": "https://www.google.com/maps/contrib/101393428224110464878/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVh-XrrJ_IiaKRHjXkOSuyCW4F1OA02Sz0Hbx-_j1SG7IlKuAf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen herzlichen Dank für die gute Betreuung und Versorgung meiner Beine. Ich habe mich hier sehr gut aufgehoben gefühlt. Die Doktoren sehr einfühlsam und professionell, die Schwestern hilfsbereit und würdevoll. Die Philosophie des Hause hat Nachahmungscharakter.\nVielen Dank ,die Klinik werde ich auf jedenfall weiterempfehlen.",
+      "time": 1778833246,
+      "translated": false
+    },
+    {
       "author_name": "Iris H.",
       "author_url": "https://www.google.com/maps/contrib/103214431950657938868/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFdFDD1htTaDn-8MhMl2vL1U_0Lrs6tKTjIptOA0RNPNs4cw8m=s128-c0x00000000-cc-rp-mo",
@@ -82,6 +94,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqRBXPQU6iKGel3-g-ze96SZQt4x47MhmE4gu1VBVw7JUEZw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich empfinde das aufrichtige Bedürfnis, mich noch einmal – und zwar öffentlich – bei Herrn Dr. Vanovac zu bedanken, zunächst für seine außergewöhnliche Menschlichkeit und darüber hinaus für das hohe Maß an fachlicher Kompetenz, das er gezeigt hat.\nDer operative Eingriff wurde am Dienstag durchgeführt, doch besonders hervorheben möchte ich den gesamten Umgang sowie die Betreuung, dank derer ich mich während meines Aufenthalts nahezu wie im Urlaub und nicht in einer klinischen Umgebung gefühlt habe. Ein solches Maß an Aufmerksamkeit, Professionalität und Empathie hinterlässt einen nachhaltig beeindruckenden Eindruck.\nNochmals vielen Dank.\nMeine aufrichtige Empfehlung für diese Klinik!",
+      "time": 1776358244,
+      "translated": false
+    },
+    {
+      "author_name": "Adnan Memic",
+      "author_url": "https://www.google.com/maps/contrib/116774407493114803313/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqRBXPQU6iKGel3-g-ze96SZQt4x47MhmE4gu1VBVw7JUEZw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich empfinde das aufrichtige Bedürfnis, mich noch einmal – und zwar öffentlich – bei Herrn Dr. Vanovac zu bedanken, zunächst für seine außergewöhnliche Menschlichkeit und darüber hinaus für das hohe Maß an fachlicher Kompetenz, das er gezeigt hat.\nDer operative Eingriff wurde am Dienstag durchgeführt, doch besonders hervorheben möchte ich den gesamten Umgang sowie die Betreuung, dank derer ich mich während meines Aufenthalts nahezu wie im Urlaub und nicht in einer klinischen Umgebung gefühlt habe. Ein solches Maß an Aufmerksamkeit, Professionalität und Empathie hinterlässt einen nachhaltig beeindruckenden Eindruck.\nNochmals vielen Dank.\nMeine aufrichtige Empfehlung für diese Klinik!",
       "time": 1776358244,
       "translated": false
@@ -191,12 +215,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 168,
+  "rating": 4.6,
+  "reviewCount": 169,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-13T07:48:17.723Z"
+  "lastUpdated": "2026-05-16T07:12:34.558Z"
 }

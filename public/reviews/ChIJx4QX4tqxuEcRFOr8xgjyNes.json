@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Aaron Schroeter",
+      "author_url": "https://www.google.com/maps/contrib/101311405481199992787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCC0VOFpKQtxDV2SeReQylWOLKkxNejj0S9TD46FbYtBWV8NES=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Unerreichbar via Telefon oder Website.",
+      "time": 1778166518,
+      "translated": false
+    },
+    {
       "author_name": "Egon Schütze",
       "author_url": "https://www.google.com/maps/contrib/111244076821153884529/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAyzCDBsw9GUoujSPLefLsxso0MI7r0oTP-x5vbC93C2CLVpWc=s128-c0x00000000-cc-rp-mo",
@@ -55,11 +67,31 @@
       "translated": false
     },
     {
+      "author_name": "Egon Schütze",
+      "author_url": "https://www.google.com/maps/contrib/111244076821153884529/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAyzCDBsw9GUoujSPLefLsxso0MI7r0oTP-x5vbC93C2CLVpWc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1776425856,
+      "translated": false
+    },
+    {
       "author_name": "Veronica Lavric",
       "author_url": "https://www.google.com/maps/contrib/114365816116590515977/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwskjeHNXslOv3siQU55O4MhMu_BSWxYirkcyxYA4y2OoW_1ASug=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1773650107,
+      "translated": false
+    },
+    {
+      "author_name": "Veronica Lavric",
+      "author_url": "https://www.google.com/maps/contrib/114365816116590515977/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwskjeHNXslOv3siQU55O4MhMu_BSWxYirkcyxYA4y2OoW_1ASug=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1773650107,
       "translated": false
@@ -132,5 +164,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-13T07:48:36.373Z"
+  "lastUpdated": "2026-05-16T07:12:52.987Z"
 }

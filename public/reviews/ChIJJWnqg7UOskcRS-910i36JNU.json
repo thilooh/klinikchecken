@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Ulrike Bolk",
+      "author_url": "https://www.google.com/maps/contrib/100108703236541242310/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn2zol4nt-ti5mB7KcZvk4THY0W0F83KNJJTXyUfbvN4Bp9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine Wartezeit. Kompetente Ärztin, sehr freundlich, die nach der Untersuchung der verdächtigen Hautstelle sogleich die Probenentnahme organisierte, damit ich nicht zu einem neuen Termin kommen musste.\nAuch die Freundlichkeit der Mitarbeiterinnen in der Anmeldung muss ich loben.",
+      "time": 1778768017,
+      "translated": false
+    },
+    {
+      "author_name": "Hajo Suellau",
+      "author_url": "https://www.google.com/maps/contrib/108322286228884270960/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWw4lba4aeZXUUdN0iKBHN7F8Ev3a0MGtvtSpFIaAEr08bmqzY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778710048,
+      "translated": false
+    },
+    {
+      "author_name": "Vau St",
+      "author_url": "https://www.google.com/maps/contrib/113722959099396575334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdUjBulzMZFY3qX95mEZmEEGiLZT9LZaPT0pz30N3sdG38XQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fühlte mich kompetent und gut behandelt. Wenn mein Fußnagel ein so freundliches Lächeln hätte wie die Kollegin beim Empfang, hätte ich nicht zu kommen brauchen.",
+      "time": 1778672844,
+      "translated": false
+    },
+    {
       "author_name": "Martina P",
       "author_url": "https://www.google.com/maps/contrib/112948244461451572691/reviews",
       "language": "de",
@@ -270,11 +304,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2255,
+  "reviewCount": 2258,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-13T07:48:16.983Z"
+  "lastUpdated": "2026-05-16T07:12:33.830Z"
 }

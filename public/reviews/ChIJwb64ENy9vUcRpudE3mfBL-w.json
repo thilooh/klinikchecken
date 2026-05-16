@@ -85,6 +85,18 @@
       "translated": true
     },
     {
+      "author_name": "Bailey Bierhuizen",
+      "author_url": "https://www.google.com/maps/contrib/109682097569474587816/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7_AWf2rMJAbm3ELP9hSPBAyVfBSHckODBIC-NE28nAtCJz3ZKwA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Dr. Kurtenbach hatte viel Geduld mit meiner Tochter.",
+      "time": 1776435353,
+      "translated": true
+    },
+    {
       "author_name": "A. B.",
       "author_url": "https://www.google.com/maps/contrib/107101193349509950428/reviews",
       "language": "de",
@@ -152,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTu342P6X14inenDA3FW8TNlK6qvidRmcHvEBhrwv-_Qdgf54=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr schlechtes Personal Termin erst nach 2 Monate unglückliches Personal sehr fresh",
+      "time": 1776165191,
+      "translated": false
+    },
+    {
+      "author_name": "S R",
+      "author_url": "https://www.google.com/maps/contrib/114479375049946239716/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTu342P6X14inenDA3FW8TNlK6qvidRmcHvEBhrwv-_Qdgf54=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr schlechtes Personal Termin erst nach 2 Monate unglückliches Personal sehr fresh",
       "time": 1776165191,
       "translated": false
@@ -224,5 +248,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:31.051Z"
+  "lastUpdated": "2026-05-16T07:12:47.602Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Let‘s Fetz",
+      "author_url": "https://www.google.com/maps/contrib/118198495754035750282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_Or2bQmEuT1uN-mbKcrpUryS5rR5vBGsPMg7zqW9iatOZYA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich werde stets intensiv und sehr gut beraten. Das ganze Team, wie natürlich auch Dr. Last selber, haben viel Fachwissen und nutzen dies hervorragend um bestmögliche Ergebnisse für ihre Kund:innen zu erzielen.\nDanke",
+      "time": 1778660744,
+      "translated": false
+    },
+    {
       "author_name": "Mandy Stadelmann",
       "author_url": "https://www.google.com/maps/contrib/114683136193483326727/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Mandy Stadelmann",
+      "author_url": "https://www.google.com/maps/contrib/114683136193483326727/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOdWjM7MasNxlPYqTM_aBM9DjQ34J2rNhgPa_T2iFWEnvLNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kann die Praxis von Frau Dr. Last mit bestem Gewissen weiterempfehlen. Frau Dr. Last ist eine äußerst kompetente Ärztin, sie lässt keine Fragen offen und berät immer individuell zu jedem „Problem“, welches man als Patient mitbringt. Sie rät auch ehrlich von Behandlungen ab, wenn diese nicht den gewünschten Erfolg bringen können.\nAuch das ganze Team ist immer freundlich und erkundigt sich zwischendurch nach dem Wohlbefinden. Ich komme gerne wieder!\n5 ⭐️⭐️⭐️⭐️⭐️ von mir",
+      "time": 1777040967,
+      "translated": false
+    },
+    {
       "author_name": "Simone Bruski",
       "author_url": "https://www.google.com/maps/contrib/112147242080406255121/reviews",
       "language": "de",
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaDmC-Lk3fB3kBW1uxGmMYkJBH_q1vZOpIP3jTYnBsjCdz0g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sculptra, pico und botox ... Alle Behandlungen haben ihren gewünschten Effekt gebracht und ich bin sehr zufrieden mit der Umsetzung und dem Ergebnis.",
+      "time": 1776937416,
+      "translated": false
+    },
+    {
+      "author_name": "Simone Bruski",
+      "author_url": "https://www.google.com/maps/contrib/112147242080406255121/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaDmC-Lk3fB3kBW1uxGmMYkJBH_q1vZOpIP3jTYnBsjCdz0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sculptra, pico und botox ... Alle Behandlungen haben ihren gewünschten Effekt gebracht und ich bin sehr zufrieden mit der Umsetzung und dem Ergebnis.",
       "time": 1776937416,
       "translated": false
@@ -206,11 +242,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 129,
+  "reviewCount": 130,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:30.564Z"
+  "lastUpdated": "2026-05-16T07:12:47.118Z"
 }

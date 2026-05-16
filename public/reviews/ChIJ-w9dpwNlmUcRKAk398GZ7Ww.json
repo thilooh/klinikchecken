@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christel Rudolf",
+      "author_url": "https://www.google.com/maps/contrib/114368359676525695876/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbp6a7j0vWW3g3qN3qj_aS53pFiZoCycRoliLF8AUAS58AgECGaw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Untersuchung sehr gut, Ärzte und alle dort sehr nett und freundlich",
+      "time": 1778874807,
+      "translated": false
+    },
+    {
       "author_name": "László Pálinkás",
       "author_url": "https://www.google.com/maps/contrib/103357903617313635083/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV9J0rXCaOEiPxLhvcimrTNivTcqvyroD8u_s7jpCS8IRH1hzR=s128-c0x00000000-cc-rp-mo-ba2",
@@ -56,6 +68,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp5ZblpqPDawhE_7Nh1hTYXgYiCyWl238Y_nDapC_omBZk6lQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1776413993,
+      "translated": false
+    },
+    {
+      "author_name": "Matthias Schneider",
+      "author_url": "https://www.google.com/maps/contrib/115374315850355011986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp5ZblpqPDawhE_7Nh1hTYXgYiCyWl238Y_nDapC_omBZk6lQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1776413993,
       "translated": false
@@ -170,11 +192,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 142,
+  "reviewCount": 143,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-13T07:48:23.696Z"
+  "lastUpdated": "2026-05-16T07:12:40.338Z"
 }

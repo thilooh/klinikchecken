@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Bo Knut Fjell",
+      "author_url": "https://www.google.com/maps/contrib/106833843801370149609/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSLpD_-3KLverL2fTXAgXa1RfnGF8JykxheXFiMXYu1edaxoT72Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Was soll ich schreiben?\nSo ganz verstehe ich die Welt nicht mehr.\nEs gibt wirklich noch Praxen, bei denen du zügig einen Termin bekommst, bei denen du keine gefühlte 6 Stunden im komplett überfüllten Wartezimmer sitzt, bei denen das Personal freundlich und kompetent ist und Ärztinnen und Ärzte arbeiten, die sich wirklich noch Zeit nehmen und den Patienten nicht als Nummer abarbeiten.\n\nIch sage Danke und bitte macht so weiter. Sowas findet man nicht mehr im Saar-Pfalz Kreis.\n\nDa fahre ich gerne durch das halbe Saarland.",
+      "time": 1778827676,
+      "translated": false
+    },
+    {
+      "author_name": "Lothar Gadzimski",
+      "author_url": "https://www.google.com/maps/contrib/114591631350896687384/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrZBZtLhQMbT9as_h8STTpaQTT9Guw7lFyV2Fv88caLGKXLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Praxisteam. Ich wurde von Dr. Christofi behandelt. Er ist sehr nett und hat ein offenes Ohr für seine Patienten. Geht auf seine Patienten ein und wirkt sehr kompetent.",
+      "time": 1778693815,
+      "translated": false
+    },
+    {
       "author_name": "Roland Klein",
       "author_url": "https://www.google.com/maps/contrib/109851811119102349560/reviews",
       "language": "de",
@@ -200,11 +224,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 65,
+  "reviewCount": 67,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:33.016Z"
+  "lastUpdated": "2026-05-16T07:12:49.530Z"
 }

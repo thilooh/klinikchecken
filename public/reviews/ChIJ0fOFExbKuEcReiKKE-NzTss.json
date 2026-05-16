@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nadine Breuer",
+      "author_url": "https://www.google.com/maps/contrib/118117203994160182287/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZv1YMrAM6ysLyvgV1QHLQKfDiVPF4RG9Rya4boiCZ0JMFvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr empfehlenswerte Praxis mit ehrlicher Beratung und viel Einfühlungsvermögen. Hier stehen der Patient und ein natürlich schönes Ergebnis im Vordergrund – nicht der Umsatz. Frau Sandmann und Frau Paschenko kann ich uneingeschränkt empfehlen.",
+      "time": 1778691884,
+      "translated": false
+    },
+    {
       "author_name": "Daria Rodziewicz",
       "author_url": "https://www.google.com/maps/contrib/109116689396521210456/reviews",
       "language": "de",
@@ -95,7 +107,7 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 94,
+  "reviewCount": 95,
   "summary": [],
-  "lastUpdated": "2026-05-13T07:48:03.655Z"
+  "lastUpdated": "2026-05-16T07:12:20.592Z"
 }

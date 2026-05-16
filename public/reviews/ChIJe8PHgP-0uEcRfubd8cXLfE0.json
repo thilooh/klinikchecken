@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Yıldız Başaran",
+      "author_url": "https://www.google.com/maps/contrib/117139113173487186081/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9YwCTJNHvDTya8r4qP2p0PPQ_zurWn_r3OfwnW-9t6vLm-2Qo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Über einen Monat auf einen Termin gewartet. Erst wurde die Uhrzeit geändert, danach der Termin komplett abgesagt. Trotz eines sich verschlechternden Hautproblems wurde keine Alternative angeboten. Sehr unfreundliche und respektlose Kommunikation. Als Patient fühlt man sich leider überhaupt nicht ernst genommen.",
+      "time": 1778677910,
+      "translated": false
+    },
+    {
       "author_name": "K",
       "author_url": "https://www.google.com/maps/contrib/111018201503615226983/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "K",
+      "author_url": "https://www.google.com/maps/contrib/111018201503615226983/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcqoa9X-xb2HYF1V6jdd0MKdT0ugYXY1ofRrmGM4cLPEW1sqY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war am 17.04.26 in der Praxis.\nDie Tageszeit kennt hier anscheinend niemand von den Arzthelferinnen/Arzthelfern.\nErstes Manko: Mann unterschreibt eine Erklärung, dass man Aufgeklärt wurde obwohl man nicht aufgeklärt wurde.\n2. Man zahlt vor der Behandlung (Selbstzahler) 50€.\n3. Nach der Untersuchung wird gefragt was denn noch sei, ich wollte eine Rechnung.\n4. Kassenschnitt von der EC Zahlung: 50€, Liqidation: 48,26€!?\nDa ich am Freitag Nachmittag keine Lust mehr hatte groß zu diskutieren, habe ich es dabei belassen.\n5. Ziffer 750 (Auflichtmikroskopie) auf der Liquidation wurde garnicht durchgeführt.\nAuch nach mehrmaligen E-Mail Verkehr keine Klärung.\nEinziger Plus Punkt, die Ärztin war super nett und alle Fragen beantwortet.",
+      "time": 1778177319,
+      "translated": false
+    },
+    {
       "author_name": "Jennifer Stenzel",
       "author_url": "https://www.google.com/maps/contrib/102263352197075004510/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFHzZ5TbhzufBxb-N2gH-LJn-jDbqOBe0XF7yimWmg9xxmg9hV=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Leider bekomme ich nicht die Chance hier einen Termin zu buchen. Bereits 3 mal wurde mir der Termim kurzfristig abgesagt. Ich kann es kaum in Worte fassen.\nSeit November 2025 versuche ich dort einen Termin zu bekommen, jedoch ohne Erfolg.\nEinfach eine Frechheit.",
+      "time": 1778081514,
+      "translated": false
+    },
+    {
+      "author_name": "Jennifer Stenzel",
+      "author_url": "https://www.google.com/maps/contrib/102263352197075004510/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFHzZ5TbhzufBxb-N2gH-LJn-jDbqOBe0XF7yimWmg9xxmg9hV=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Leider bekomme ich nicht die Chance hier einen Termin zu buchen. Bereits 3 mal wurde mir der Termim kurzfristig abgesagt. Ich kann es kaum in Worte fassen.\nSeit November 2025 versuche ich dort einen Termin zu bekommen, jedoch ohne Erfolg.\nEinfach eine Frechheit.",
       "time": 1778081514,
       "translated": false
@@ -236,11 +272,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 183,
+  "reviewCount": 184,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:44.399Z"
+  "lastUpdated": "2026-05-16T07:13:00.919Z"
 }

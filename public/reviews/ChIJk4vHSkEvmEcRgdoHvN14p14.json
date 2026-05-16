@@ -151,6 +151,16 @@
       "translated": false
     },
     {
+      "author_name": "Smith XI",
+      "author_url": "https://www.google.com/maps/contrib/114006228792808911362/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLG2mmwXMP5_9WoojYczl0rkUAROS5dl_dkr5WMi8oz8RZ08g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1777369356,
+      "translated": false
+    },
+    {
       "author_name": "E. Mo",
       "author_url": "https://www.google.com/maps/contrib/115824574774055029651/reviews",
       "language": "de",
@@ -247,12 +257,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 195,
+  "rating": 4.6,
+  "reviewCount": 187,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:45.636Z"
+  "lastUpdated": "2026-05-16T07:13:02.111Z"
 }

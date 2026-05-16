@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "krishna wagner",
+      "author_url": "https://www.google.com/maps/contrib/104283402217547824532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU788ER4V0JvEhXNLlLWJ_KqbxLwrma6J7CfZSAc59IF6-EaOb5=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778191562,
+      "translated": false
+    },
+    {
       "author_name": "Konni K.",
       "author_url": "https://www.google.com/maps/contrib/101238266742165678517/reviews",
       "language": "de",
@@ -30,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfoM6OROjwWBfTI3o9VLgUN86oTp0VSeGMgSCS47XBk00S_g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Hamann ist meine Ärztin, kompetent, natürlich und authentisch.\nDa freut man sich schon fast auf die Behandlung und die Schmerzen sind halb so wild.",
+      "time": 1778158378,
+      "translated": false
+    },
+    {
+      "author_name": "Konni K.",
+      "author_url": "https://www.google.com/maps/contrib/101238266742165678517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfoM6OROjwWBfTI3o9VLgUN86oTp0VSeGMgSCS47XBk00S_g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Frau Dr. Hamann ist meine Ärztin, kompetent, natürlich und authentisch.\nDa freut man sich schon fast auf die Behandlung und die Schmerzen sind halb so wild.",
       "time": 1778158378,
       "translated": false
@@ -143,6 +165,18 @@
       "translated": false
     },
     {
+      "author_name": "Fabio Salvaggio",
+      "author_url": "https://www.google.com/maps/contrib/112182690396973249603/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVftDbKu3xA5tJkhoSAYp04PX9O54nHle6Tra5FRuRSMdVs18s=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Schnelle terminvergabe.. nettes team..sehr herzlich, professionell und kompetent...kurze wartezeit..also ich war das erste mal dort und bin sehr beeindruckt gewesen...kann ich nur weiterempfehlen!!",
+      "time": 1776451132,
+      "translated": false
+    },
+    {
       "author_name": "Ingo Schonert",
       "author_url": "https://www.google.com/maps/contrib/109710855051060040469/reviews",
       "language": "de",
@@ -218,5 +252,5 @@
   "rating": 4.6,
   "reviewCount": 309,
   "summary": [],
-  "lastUpdated": "2026-05-13T07:48:12.104Z"
+  "lastUpdated": "2026-05-16T07:12:28.972Z"
 }

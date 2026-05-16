@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Astrid Rodenberg",
+      "author_url": "https://www.google.com/maps/contrib/116915037111215252432/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWntZLVqd_ZdiiarnWyDQ70G-i6ppPajbWdr1k3rGuPHVPQQI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Erstes Mal da gewesen, kaum Wartezeit, super freundlich, toller Service, immer gerne wieder. Vielen Dank nochmal",
+      "time": 1778667121,
+      "translated": false
+    },
+    {
       "author_name": "Jess",
       "author_url": "https://www.google.com/maps/contrib/109938192033412554029/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp8XEaYmNK8J5SYoM0E1YTXQKCQnxMPQRr89o4PoZlWZTmLQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich ein Fan von der Praxis. Fühle mich gut aufgehoben und ernst genommen. Jedoch einen Stern Abzug für die telefonische Erreichbarkeit. Ich versuche seit zwei Wochen meine Ergebnisse zu erfahren, komme aber mit den Ki-Antwortsystem nicht weiter. Ich würde echt gerne einfach mit einem Mitarbeiter sprechen können, so wie früher eben. Ich hoffe man kann das anpassen, bin mit den Telefonaten sehr frustriert.",
+      "time": 1778166703,
+      "translated": false
+    },
+    {
+      "author_name": "Jess",
+      "author_url": "https://www.google.com/maps/contrib/109938192033412554029/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp8XEaYmNK8J5SYoM0E1YTXQKCQnxMPQRr89o4PoZlWZTmLQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin wirklich ein Fan von der Praxis. Fühle mich gut aufgehoben und ernst genommen. Jedoch einen Stern Abzug für die telefonische Erreichbarkeit. Ich versuche seit zwei Wochen meine Ergebnisse zu erfahren, komme aber mit den Ki-Antwortsystem nicht weiter. Ich würde echt gerne einfach mit einem Mitarbeiter sprechen können, so wie früher eben. Ich hoffe man kann das anpassen, bin mit den Telefonaten sehr frustriert.",
       "time": 1778166703,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKZvq8KDaqvNqBTfMbPawBnts2HwdBjcOlmQF83_T5l1PuFw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Endlich eine Praxis/einen Arzt gefunden die meine Erkrankung erkannt hat und entsprechend therapiert. Danke😇",
+      "time": 1777538739,
+      "translated": false
+    },
+    {
+      "author_name": "Angelika Gröseling",
+      "author_url": "https://www.google.com/maps/contrib/117891113777588155594/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKZvq8KDaqvNqBTfMbPawBnts2HwdBjcOlmQF83_T5l1PuFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Endlich eine Praxis/einen Arzt gefunden die meine Erkrankung erkannt hat und entsprechend therapiert. Danke😇",
       "time": 1777538739,
       "translated": false
@@ -230,11 +266,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 300,
+  "reviewCount": 301,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-13T07:48:44.136Z"
+  "lastUpdated": "2026-05-16T07:13:00.675Z"
 }

@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "Jürgen Krämer",
+      "author_url": "https://www.google.com/maps/contrib/107700410336534496140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcTEIMW1Baz0q-kv_sX6vIb6MymUpBrhzuXsK1dwbd5pz6mFU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778160406,
+      "translated": false
+    },
+    {
       "author_name": "SB",
       "author_url": "https://www.google.com/maps/contrib/100368978760548069537/reviews",
       "language": "de",
@@ -54,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYv31RJUyrWRvE7Tsvns6jaJmeWD-zB2VLKyJiJgzUaPo2Ww=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 3,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Die Praxis ist gut aber die Erreichbarkeit muss einfach verbessert werden. Ich habe heute nach über 30 Minuten in der Warteschleife aufgegeben. Eine Mailadresse oder ein Kontaktformular gibt es leider auch nicht. Somit ist es unmöglich, die Praxis bei Rückfragen oder anderen Anliegen zu kontaktieren und das passt leider nicht.",
+      "time": 1776932783,
+      "translated": false
+    },
+    {
+      "author_name": "SB",
+      "author_url": "https://www.google.com/maps/contrib/100368978760548069537/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYv31RJUyrWRvE7Tsvns6jaJmeWD-zB2VLKyJiJgzUaPo2Ww=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Die Praxis ist gut aber die Erreichbarkeit muss einfach verbessert werden. Ich habe heute nach über 30 Minuten in der Warteschleife aufgegeben. Eine Mailadresse oder ein Kontaktformular gibt es leider auch nicht. Somit ist es unmöglich, die Praxis bei Rückfragen oder anderen Anliegen zu kontaktieren und das passt leider nicht.",
       "time": 1776932783,
       "translated": false
@@ -122,5 +144,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:33.252Z"
+  "lastUpdated": "2026-05-16T07:12:49.772Z"
 }

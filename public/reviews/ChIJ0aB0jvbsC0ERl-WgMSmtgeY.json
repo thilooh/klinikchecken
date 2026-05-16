@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Daniela Martini",
+      "author_url": "https://www.google.com/maps/contrib/105787646138232101889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9M1C4OvK1nACXAo_KyS-Z0YroE8nTZ1oCpKGUk6I1ed_Buwm3=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778672288,
+      "translated": false
+    },
+    {
       "author_name": "Silke S.",
       "author_url": "https://www.google.com/maps/contrib/103479753752361608940/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtGiyfd9k2PIaKiFsS1yg-ywg5sRUeC3dB30DVE4ol213asJ4=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zum zweiten Mal im Venenzentrum bei Herrn Dr. Neugebauer und bin wieder sehr zufrieden gewesen. Sehr freundlicher und kompetenter Arzt, der sich Zeit nimmt und alles verständlich erklärt. Besonders positiv fand ich, dass ich ohne lange Wartezeit direkt drangekommen bin. Auch die Damen an der Anmeldung waren sehr freundlich und organisiert. Insgesamt eine sehr angenehme Erfahrung – absolut empfehlenswert.",
+      "time": 1778236282,
+      "translated": false
+    },
+    {
+      "author_name": "Silke S.",
+      "author_url": "https://www.google.com/maps/contrib/103479753752361608940/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtGiyfd9k2PIaKiFsS1yg-ywg5sRUeC3dB30DVE4ol213asJ4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute zum zweiten Mal im Venenzentrum bei Herrn Dr. Neugebauer und bin wieder sehr zufrieden gewesen. Sehr freundlicher und kompetenter Arzt, der sich Zeit nimmt und alles verständlich erklärt. Besonders positiv fand ich, dass ich ohne lange Wartezeit direkt drangekommen bin. Auch die Damen an der Anmeldung waren sehr freundlich und organisiert. Insgesamt eine sehr angenehme Erfahrung – absolut empfehlenswert.",
       "time": 1778236282,
       "translated": false
@@ -145,6 +167,18 @@
       "translated": false
     },
     {
+      "author_name": "Hubert Seibold",
+      "author_url": "https://www.google.com/maps/contrib/102307782796921644777/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQvQumX-Lf5WWFzsIVdDXc9YLAmmL4JInNnkdKtg9MZZwugw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "War zum Lasern meiner Krampfadern hier. Das Team in der Praxis ist super . Besonderen Dank an Dr. Med. M. Tenholt der alles super gemacht und auch erklärt hat. Ich kann leider nur 5 Sterne geben, sonst hätte ich mehr gegeben. Absolut kompetent und sehr sympathisch. Sollte ich an linken Fuß das Problem bekommen dann gehe ich zu 100 Prozent wieder zu Dt. Tenholt.",
+      "time": 1776254196,
+      "translated": false
+    },
+    {
       "author_name": "Agnes Cakar",
       "author_url": "https://www.google.com/maps/contrib/112214965515063939712/reviews",
       "language": "de",
@@ -218,11 +252,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 144,
+  "reviewCount": 145,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:46.107Z"
+  "lastUpdated": "2026-05-16T07:13:02.593Z"
 }

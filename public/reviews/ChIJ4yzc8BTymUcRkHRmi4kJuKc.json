@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sevinc demir",
+      "author_url": "https://www.google.com/maps/contrib/114999374276697964427/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ55YLzwiaZz6e5QW8eoT9Jw90ymkOUSb32g4MVwclUm5DD4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe sehr schnell online einen Termin bekommen – das war leider auch der einzige positive Punkt.\nDa Facharzttermine normalerweise schwer zu bekommen sind, habe ich bewusst akzeptiert, zu einer Ärztin in Weiterbildung zu gehen.\nDie Untersuchung wirkte allerdings sehr oberflächlich. Es wurde nur kurz auf die betroffene Stelle geschaut und direkt aus der Entfernung die Diagnose „Schuppenflechte“ gestellt. Mir wurde ein Gel verschrieben, das letztlich nicht passend war, da es sich offenbar gar nicht um Schuppenflechte handelt.\nInsgesamt bin ich daher enttäuscht und werde nun einen anderen Arzt aufsuchen müssen – auch wenn dort die Wartezeit vermutlich deutlich länger ist. Leider hatte ich den Eindruck, dass noch zu wenig Erfahrung vorhanden ist.",
+      "time": 1778785913,
+      "translated": false
+    },
+    {
       "author_name": "Anita Eisele",
       "author_url": "https://www.google.com/maps/contrib/108106132706845334644/reviews",
       "language": "de",
@@ -11,6 +23,18 @@
       "text": "Ich war schon öfter in der Praxis in Behandlung. Hautärztlich und auch kosmetisch. Dr Silber und sein Team sind sehr freundlich und kompetent. Ich fühle mich hier sehr gut aufgehoben!",
       "time": 1778422637,
       "translated": false
+    },
+    {
+      "author_name": "Nati Li",
+      "author_url": "https://www.google.com/maps/contrib/100307622927072783652/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYiLjTkfoQlUDJ6vjWiK1Fuh8S_Y3S--qIil1fyrFenPFEe34=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Wir haben recht schnell einen Termin bekommen, was für solche Einrichtungen eher ungewöhnlich ist. Die Mitarbeiter waren freundlich und hilfsbereit, und die Wartezeit war minimal. Den Eingang zu finden, war allerdings etwas knifflig; er befindet sich auf der linken Seite des Gebäudes, und das Schild ist genauso grau wie das Gebäude selbst.",
+      "time": 1778161285,
+      "translated": true
     },
     {
       "author_name": "Nati Li",
@@ -167,12 +191,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 79,
+  "rating": 4.8,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-13T07:48:48.519Z"
+  "lastUpdated": "2026-05-16T07:13:04.962Z"
 }
