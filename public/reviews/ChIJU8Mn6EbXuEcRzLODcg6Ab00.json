@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Oroba Durdur",
+      "author_url": "https://www.google.com/maps/contrib/111192050759335174006/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyRfVFMkZT1Yc7FqL9629Sis_qkVVqShG3Mz2cr83AHw3bqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778920325,
+      "translated": false
+    },
+    {
       "author_name": "A. H.",
       "author_url": "https://www.google.com/maps/contrib/110857054165214274121/reviews",
       "language": "de",
@@ -228,11 +238,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 418,
+  "reviewCount": 419,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-16T07:12:36.714Z"
+  "lastUpdated": "2026-05-19T08:26:25.456Z"
 }

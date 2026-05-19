@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Julia Müller",
+      "author_url": "https://www.google.com/maps/contrib/116365548174624582320/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJD7gEUwhHuH4MLakJwC7WCJJYvu9KuFO15ntTcYmkw8HIvkbU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich während des gesamten Behandlungsverlaufs im Team von Hauthe Esthetique sehr wohl gefühlt.\n\n- schnelle Terminvereinbarung\n- alle nehmen sich ausreichend Zeit, sodass man sich rundum versorgt und aufgehoben fühlt; insgesamt sehr herzlich (was ich als wichtigsten Punkt sehe)\n- super Vorgespräch mit ausreichend Raum für Fragen\n- während der Behandlung kamen immer wieder Schwestern und haben sich erkundigt, ob alles in Ordnung ist oder noch etwas gebraucht wird\n- die Nachbehandlung und Pflege wurde ebenfalls super durchgeführt (Fäden ziehen, Pflege, Produktempfehlungen)\n- Erreichbarkeit war ebenfalls gut\n\nDer Praxiseingang lässt sich von außen zunächst schlecht finden, da es im hinteren Bereich eines Wohnhauses liegt. (nur als Hinweis)\n\nDanke an Dr. Hägele und das gesamte Team!",
+      "time": 1779097395,
+      "translated": false
+    },
+    {
       "author_name": "Daniela Siegler",
       "author_url": "https://www.google.com/maps/contrib/113546456087198593376/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMx6SACq4YqGZSqKm-to149zADo3C9c9gua6YCHA4pCxvx3w=s128-c0x00000000-cc-rp-mo",
@@ -41,6 +53,16 @@
       "translated": false
     },
     {
+      "author_name": "Daniela Siegler",
+      "author_url": "https://www.google.com/maps/contrib/113546456087198593376/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMx6SACq4YqGZSqKm-to149zADo3C9c9gua6YCHA4pCxvx3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1776669838,
+      "translated": false
+    },
+    {
       "author_name": "Birca Andriana",
       "author_url": "https://www.google.com/maps/contrib/117312261789272012873/reviews",
       "language": "de",
@@ -48,6 +70,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9uZNAxrQ0V-AcQpd6xlCnG_cpN8aQ_54w4MitzsXO7JsOlQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr freundliche Betreung und Profesionele Behandlung.\nEine absolute Empfehlung.",
+      "time": 1771351215,
+      "translated": false
+    },
+    {
+      "author_name": "Birca Andriana",
+      "author_url": "https://www.google.com/maps/contrib/117312261789272012873/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9uZNAxrQ0V-AcQpd6xlCnG_cpN8aQ_54w4MitzsXO7JsOlQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Sehr freundliche Betreung und Profesionele Behandlung.\nEine absolute Empfehlung.",
       "time": 1771351215,
       "translated": false
@@ -98,11 +132,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 52,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-16T07:12:45.174Z"
+  "lastUpdated": "2026-05-19T08:26:33.739Z"
 }

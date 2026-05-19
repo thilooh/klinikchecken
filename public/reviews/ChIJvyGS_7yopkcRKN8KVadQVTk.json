@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Hans Hackelberg",
+      "author_url": "https://www.google.com/maps/contrib/117159960298556667384/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJm9SXjsiEMtpsHEWrQzkMEoFp_-Q3Fcfq41mKqTAd2OCw-=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fließband. Allerdings nicht das schnellste. Nachkontrolle mit Wartezeit von 2h. „Leider haben wir Sie vergessen“. Naja, nicht so schlimm, dafür brauch man sich auch nicht entschuldigen… Danke für Nichts",
+      "time": 1779089997,
+      "translated": false
+    },
+    {
+      "author_name": "Uwe Schädel",
+      "author_url": "https://www.google.com/maps/contrib/103160280819623553043/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxOcLZ-m31nj_HKyzq9bVi-q4TCjdr6iTmNA1YjkQGBEK4IA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778949740,
+      "translated": false
+    },
+    {
       "author_name": "Michael Baum",
       "author_url": "https://www.google.com/maps/contrib/104590969110057384289/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJegK8vrWiqhD_IkIcjmHopLF8qSYG4KEeqUoBQuSnHesT2kQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an das gesamte Team! Die Versorgung ist rundherum optimal und ich fühle in kompetenten Händen.",
+      "time": 1778425984,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Baum",
+      "author_url": "https://www.google.com/maps/contrib/104590969110057384289/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJegK8vrWiqhD_IkIcjmHopLF8qSYG4KEeqUoBQuSnHesT2kQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Vielen Dank an das gesamte Team! Die Versorgung ist rundherum optimal und ich fühle in kompetenten Händen.",
       "time": 1778425984,
       "translated": false
@@ -23,11 +57,31 @@
       "translated": false
     },
     {
+      "author_name": "Marco Schwarz",
+      "author_url": "https://www.google.com/maps/contrib/109277323675608895437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIArNPT6rSthfM6wEAoyaicBMHnPDJ-DyhI_jSRGnuQNYTdRg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778410429,
+      "translated": false
+    },
+    {
       "author_name": "Franziska Schönfeld",
       "author_url": "https://www.google.com/maps/contrib/116076312031293962426/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDdPIKkvera-ZppC9V2mZWXpin7qj6zMnnjWBCENo97JPtLmw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778392649,
+      "translated": false
+    },
+    {
+      "author_name": "Franziska Schönfeld",
+      "author_url": "https://www.google.com/maps/contrib/116076312031293962426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDdPIKkvera-ZppC9V2mZWXpin7qj6zMnnjWBCENo97JPtLmw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1778392649,
       "translated": false
@@ -208,11 +262,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 192,
+  "reviewCount": 194,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-05-16T07:13:06.633Z"
+  "lastUpdated": "2026-05-19T08:26:54.621Z"
 }

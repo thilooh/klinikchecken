@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Olga",
+      "author_url": "https://www.google.com/maps/contrib/108081447095846416573/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFFjdtwwi8YQHQXadRf4hCd796n53H2qE2Bt7i_ep3QYcR5Xn4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bitte unbedingt meiden! Termine dauernd zu lange, unprofessionelle Ärzte, und noch viel schlimmeres Praxisteam! Keine Zahnwurzelbehandlung ist möglich. Dokumentation passt nicht. Glauben Sie mir, besser fernbleiben!\nDie Hautarztpraxis, reine Katastrophe! Die Leute wollen oder können nicht arbeiten, schlechte Atmosphäre beim Personal, spürbar für die Kunden und Patienten. Sehr unprofessionell..!",
+      "time": 1779138452,
+      "translated": false
+    },
+    {
       "author_name": "Renate Schmidt-Ong",
       "author_url": "https://www.google.com/maps/contrib/113335911261102219799/reviews",
       "language": "de",
@@ -277,12 +289,12 @@
       "translated": false
     }
   ],
-  "rating": 5,
-  "reviewCount": 77,
+  "rating": 4.9,
+  "reviewCount": 78,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-16T07:13:10.928Z"
+  "lastUpdated": "2026-05-19T08:26:58.769Z"
 }

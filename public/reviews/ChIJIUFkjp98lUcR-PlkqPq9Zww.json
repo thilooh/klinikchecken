@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ursula Burckhardt",
+      "author_url": "https://www.google.com/maps/contrib/111170977613241379754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOBM35BfISZVueD3Wq7UQwHn6M00b-ZVl54Oln3Lx8U0RS4A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mit Termin pünktlich dran gekommen. Dr Veithvist ein sehr kompetenter Facharzt den ich sehr schätze. Die Untersuchungen geschehen schnell und das Personal ist trotz viel Arbeit nett und hilfsbereit.",
+      "time": 1779124917,
+      "translated": false
+    },
+    {
       "author_name": "Becker Becker",
       "author_url": "https://www.google.com/maps/contrib/103364903297145882695/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWowiWMiV2w4orvIzi70oGYCwBVl_e3apG_dfWbqCORmZvUnYvk=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Nett und Kompetent",
+      "time": 1777239547,
+      "translated": false
+    },
+    {
+      "author_name": "Silvia Schulz",
+      "author_url": "https://www.google.com/maps/contrib/115987715135459893290/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWowiWMiV2w4orvIzi70oGYCwBVl_e3apG_dfWbqCORmZvUnYvk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Nett und Kompetent",
       "time": 1777239547,
       "translated": false
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLINowgEE60vMk9ZJCjP5ANMNi5GVUTqrTFThZs7yTFh57ZKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr kompetentes und freundliches Team, beide Ärzte (Vater und Sohn) nehmen sich Zeit fürs Patientengespräch und untersuchen sehr genau.... der Empfang und die Terminvergabe durch das Praxisteam ist herzlich und zuvorkommend.",
+      "time": 1776669916,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Kramer",
+      "author_url": "https://www.google.com/maps/contrib/115536539474040510111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLINowgEE60vMk9ZJCjP5ANMNi5GVUTqrTFThZs7yTFh57ZKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr kompetentes und freundliches Team, beide Ärzte (Vater und Sohn) nehmen sich Zeit fürs Patientengespräch und untersuchen sehr genau.... der Empfang und die Terminvergabe durch das Praxisteam ist herzlich und zuvorkommend.",
       "time": 1776669916,
       "translated": false
@@ -194,11 +230,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 45,
+  "reviewCount": 46,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-16T07:13:06.887Z"
+  "lastUpdated": "2026-05-19T08:26:54.851Z"
 }

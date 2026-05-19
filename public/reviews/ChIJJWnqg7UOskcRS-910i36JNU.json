@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Rolf Künzel",
+      "author_url": "https://www.google.com/maps/contrib/116558001584996500691/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqF6mBPhhjXdACO4rm799VGvedGFDPngF2PYxSTJuGRbFn8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779118686,
+      "translated": false
+    },
+    {
       "author_name": "Ulrike Bolk",
       "author_url": "https://www.google.com/maps/contrib/100108703236541242310/reviews",
       "language": "de",
@@ -304,11 +314,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2258,
+  "reviewCount": 2259,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-16T07:12:33.830Z"
+  "lastUpdated": "2026-05-19T08:26:22.340Z"
 }

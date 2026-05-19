@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Anton Mouritsen",
+      "author_url": "https://www.google.com/maps/contrib/105462596165107929417/reviews",
+      "language": "de",
+      "original_language": "da",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLepP0LVy5YmAT-k-uJkq34r5IdROMRX8A_yuclkncDpNzRuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fantastischer Service und ein tolles Erlebnis.",
+      "time": 1778959081,
+      "translated": true
+    },
+    {
+      "author_name": "Mads Dyrløv",
+      "author_url": "https://www.google.com/maps/contrib/110995260771262075190/reviews",
+      "language": "de",
+      "original_language": "da",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK99NFnbbRCVgAZpCLaTfN1IIrmhygVGdMa7kQX4zJBWOlw9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fantastische Erfahrung im Dermazentrum Neuss! Wirklich herzliches und professionelles Personal!",
+      "time": 1778958963,
+      "translated": true
+    },
+    {
       "author_name": "Astrid Rodenberg",
       "author_url": "https://www.google.com/maps/contrib/116915037111215252432/reviews",
       "language": "de",
@@ -266,11 +290,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 301,
+  "reviewCount": 303,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-16T07:13:00.675Z"
+  "lastUpdated": "2026-05-19T08:26:48.765Z"
 }

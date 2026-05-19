@@ -13,6 +13,16 @@
       "translated": false
     },
     {
+      "author_name": "Leni Lenis",
+      "author_url": "https://www.google.com/maps/contrib/109659600362642291048/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoYo0Wxm9Rne-RM7iJzigJYm9F6-pU2DrJePQCXWcuIPtFRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778521997,
+      "translated": false
+    },
+    {
       "author_name": "K",
       "author_url": "https://www.google.com/maps/contrib/111018201503615226983/reviews",
       "language": "de",
@@ -86,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgBSPRPN_60WMCEsxu6dP_IxNyY1qo9N3dyzNga64v3lJ2YFA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1777208517,
+      "translated": false
+    },
+    {
+      "author_name": "ToPRo",
+      "author_url": "https://www.google.com/maps/contrib/109989796976141011683/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgBSPRPN_60WMCEsxu6dP_IxNyY1qo9N3dyzNga64v3lJ2YFA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1777208517,
       "translated": false
@@ -272,11 +292,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 184,
+  "reviewCount": 185,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-16T07:13:00.919Z"
+  "lastUpdated": "2026-05-19T08:26:49.006Z"
 }

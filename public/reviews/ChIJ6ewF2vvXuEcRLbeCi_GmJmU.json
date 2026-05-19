@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lea Haubrich",
+      "author_url": "https://www.google.com/maps/contrib/117592578730347127488/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtMYtmX3sDajwC3UDq-eFA6e_N3PwMl3ZcseSuMfmJbX0xpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Team! Hier wird direkt geholfen - kann ich einfach nur empfehlen ! Fühle mich sehr gut aufgehoben",
+      "time": 1779114991,
+      "translated": false
+    },
+    {
       "author_name": "Beate Harmansa",
       "author_url": "https://www.google.com/maps/contrib/101093381631214404800/reviews",
       "language": "de",
@@ -218,11 +230,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 220,
+  "reviewCount": 222,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-16T07:12:36.954Z"
+  "lastUpdated": "2026-05-19T08:26:25.693Z"
 }

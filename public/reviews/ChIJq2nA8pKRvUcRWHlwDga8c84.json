@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Hüseyin Ilias",
+      "author_url": "https://www.google.com/maps/contrib/117460402462285598023/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHRGMKeL36e5n0Wrd4rudSHv8V2zEqLRvSJ28Zk2RflBb2S6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor kurzer Zeit in der Praxis und wurde ohne lange Wartezeit direkt ins Labor aufgerufen. Die Blutentnahme lief Schnell und die Dame hat mich sehr freundlich empfangen. Ich wurde betreut von Julia König. Danke für den reibungslosen Termin.",
+      "time": 1779137910,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Meinhard",
+      "author_url": "https://www.google.com/maps/contrib/110679659241844831004/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRF25oAja4a6d0BrOaW0i3KV_pBwNoC_kf_-0x7QOcWB130g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hautsceening bei Fr.Dr. Quaisser war sehr angenehm und kompetent!\n\nIch fühle mich in dieser Praxis sehr gut aufgehoben, alle Mitarbeiter sind nett und freundlich",
+      "time": 1779113978,
+      "translated": false
+    },
+    {
+      "author_name": "Mirjeta Sarikaya",
+      "author_url": "https://www.google.com/maps/contrib/100712690794700886628/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlh6tzYpsfUYRMpCDLYfDCym6uMACSwlayqsTi4NXTydy9Xhzr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Am Telefon wurde ich sehr freundlich von der Fr Schulte auf das Online Portal hongewiesen sodass schnellst möglich eine Beratung stattfinden konnte.\nDas Personal ist sehr freundlich und sehr bemüht alles schnellstens zu erfüllen.",
+      "time": 1779097931,
+      "translated": false
+    },
+    {
+      "author_name": "C. Fleischhauer",
+      "author_url": "https://www.google.com/maps/contrib/110271666580537777080/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLESaUffExAXyDVqIbHkAWBbLjq2BASo9bsz7BLKk2P7WOZiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich bei der Hautkrebsvorsorge sehr gut aufgehoben gefühlt. Frau Dr. Quiasser war freundlich, gründlich und hat sich Zeit für alle Fragen genommen. Die Untersuchung verlief professionell und angenehm. Auch das Praxisteam war sehr nett und organisiert. Klare Empfehlung!",
+      "time": 1779094826,
+      "translated": false
+    },
+    {
       "author_name": "Hanna L.",
       "author_url": "https://www.google.com/maps/contrib/114874814287522035262/reviews",
       "language": "de",
@@ -312,11 +360,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 282,
+  "reviewCount": 286,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-16T07:12:48.092Z"
+  "lastUpdated": "2026-05-19T08:26:36.560Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "AJ'z",
+      "author_url": "https://www.google.com/maps/contrib/118423414052697645035/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI1vL9bRmoAnDPWZ_4qX9nMZ5O9q2DMzIGXBT1PseWShKgtEqIAA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr liebes Personal, super Atmosphäre 👍🏼👍🏼😊... Sehr kompetent... Auch im OP und Aufwachraum",
+      "time": 1779174024,
+      "translated": false
+    },
+    {
+      "author_name": "Corinna Foltys",
+      "author_url": "https://www.google.com/maps/contrib/116152581903592902239/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7bpgYyyeZ_hhGU01qXzMM7WZ7vtam_jBcsS4r2LcSwuf1vQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte hier einen kurzstationären Aufenthalt mit Untersuchung und Eingriff/ OP und habe mich jederzeit bestens aufgehoben gefühlt. Das gesamte Team war unglaublich freundlich, herzlich und hilfsbereit, sodass man sich fast gar nicht wie in einer Klinik gefühlt hat.\n\nBesonders positiv war, wie einfühlsam mir meine Ängste vor dem Eingriff genommen wurden. Auch die Verpflegung war sehr gut. Vielen Dank an das gesamte Team für die tolle Betreuung!",
+      "time": 1779165635,
+      "translated": false
+    },
+    {
       "author_name": "Nele Gericke",
       "author_url": "https://www.google.com/maps/contrib/105962164251512312812/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKW4UhTTAE5ixFAxI2FZ9xJKPt8Ld5ng6C1ChpJ8JPRbJy2Eg=s128-c0x00000000-cc-rp-mo",
@@ -274,11 +298,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 427,
+  "reviewCount": 429,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-16T07:12:33.112Z"
+  "lastUpdated": "2026-05-19T08:26:21.639Z"
 }

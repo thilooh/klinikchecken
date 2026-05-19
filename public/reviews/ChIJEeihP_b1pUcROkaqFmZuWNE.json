@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sibylle Schmoock",
+      "author_url": "https://www.google.com/maps/contrib/108552715222141576034/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0k-m-BriRbTNak9g6ZSo3MKn8NrKxl_5lI-ZV9pqxZ_rwGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit 2020 Patient in Praxis von Dr. Brücher. Bis zum 31.12.2023 lief alles super. Rezept online bestellen oder in der Praxis abholen ohne irgendwelche Dikussionen jeder Zeit möglich. Mit Einführung der E-Rezepte gab es heftige Diskussionen mit den Schwestern bei Rezepten da nicht verstanden wurde das meine Krankenkassenkarte keine elektonische ist dort kann nichts aufgespeichert werde. Also nachwievor ein Papierrezept. Dann kam der ober gau. Die Salbe die mir Dr. Brücher vor Jahren verschrieben hat und wo ich jeder Zeit mir ein Rezept holen konnte war aufeinmal nach einer Meinung einer Ärztin die mich noch nie behandelt hatte für den täglichen Gebrauch nicht mehr geeignet. Bei einem Termin in der Praxis traf ich dann auf einen Assistenzarzt, der mir den Rat gab ich soll nicht kratzen wenn es juckt sondern klopfen. Ich bekam auch kein Rezept für die von Dr. Brücher schon immer verschriebenen Salbe mit der Aussage Dr. Brücher ist nicht in Praxis und somit kann er nicht gefragt werden zu den von ihm getroffenen Behandlungen. Ich kam mir etwas veralbert vor und suchte spontan nach der Versteckten Kamera.",
+      "time": 1779025058,
+      "translated": false
+    },
+    {
       "author_name": "Elvira",
       "author_url": "https://www.google.com/maps/contrib/108692948541907732805/reviews",
       "language": "de",
@@ -97,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Karsten Glause",
+      "author_url": "https://www.google.com/maps/contrib/101704012504505620580/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJ3UTeyxxVXVfw1A5rBIQdl6qJixtE_zPkAK5NtAE0DTtDnA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Es waren alle sehr freundlich,  ich war schnell dran und es hat auch nicht lange gedauert",
+      "time": 1771387954,
+      "translated": false
+    },
+    {
       "author_name": "Margret",
       "author_url": "https://www.google.com/maps/contrib/108047180511219912608/reviews",
       "language": "de",
@@ -133,6 +157,18 @@
       "translated": false
     },
     {
+      "author_name": "Angelique John",
+      "author_url": "https://www.google.com/maps/contrib/103250521159424482345/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIoTE07OLLU9Fdig0JsdiCcIB4Z65AMOEnBeC_1F7Mqv7j_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Ende 2023 bin ich Wochen mit einer Maske rumgelaufen, weil ich ein 4cm Geschwür an der Lippe hatte.\nHab eine Überweisung vom Hausarzt bekommen und dazu eine Empfehlung nach Schönebeck, natürlich bin ich auch da zuerst hin, leider eine riesen Enttäuschung, sehr unhöflich meinten die es gibt bis Mai '24 sowieso kein Termin mehr und haben mir einen neuen Termin zur Besprechung in 1 Monat gegeben...ich hab auf dem Rückweg geweint, weil ich einen wichtigen Termin in einem Monat hatte und ich mich da einfach nicht aufgehoben gefühlt hab.\n\nIch hab dann gegoogelt und bin auf diese Praxis gestoßen.\nIch dachte, Schaden kann es nicht und  bin dann nach meiner Arbeit, kurz vor Praxisschluss erst hin, ich war damals 19 und nach der schlechten Erfahrung sehr nervös und verunsichert, doch die Rezeptionistin war sehr freundlich und hat ein bisschen gescherzt, was mich aufgemuntert hat.\nHab für den nächsten Morgen gleich einen Termin bekommen (natürlich weiß ich, dass dies nicht immer möglich ist und das sollten einige im Hinterkopf behalten).\nNächsten morgen, musste ich dann noch einiges ausfüllen und hab eine halbe Stunde gewartet, wurde dann aufgerufen für die Untersuchung, auch hier waren alle sehr freundlich.\nHab am gleichen Morgen noch die kleine OP gehabt, diese war zwar schmerzhaft, aber auszuhalten und ich wurde mehrfach gefragt, ob alles in Ordnung ist!\n\nIch war so froh und hab meine Mum angerufen und ein bisschen geweint, weil alles doch noch geklappt hat.\nEs war eine riesen Last, die da weg war.\nIch bin diesem Praxisteam sehr Dankbar!\n\nAuch 2 Jahre später ist noch alles super und trotz Befürchtung es könnte wiederkommen, ist alles gut verheilt und nichts wiederbekommen!",
+      "time": 1768575055,
+      "translated": false
+    },
+    {
       "author_name": "willi müller",
       "author_url": "https://www.google.com/maps/contrib/108525975254283987344/reviews",
       "language": "de",
@@ -157,12 +193,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 114,
+  "rating": 4.7,
+  "reviewCount": 115,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-16T07:12:33.354Z"
+  "lastUpdated": "2026-05-19T08:26:21.872Z"
 }

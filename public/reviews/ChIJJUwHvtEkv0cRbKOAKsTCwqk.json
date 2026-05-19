@@ -80,6 +80,18 @@
       "translated": false
     },
     {
+      "author_name": "Christa Wessolly",
+      "author_url": "https://www.google.com/maps/contrib/113043838924455984561/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJy4bJTBiujkVRW9mHR3dG5lgqNQIz0Pp3K_J7yZgZxlYvz3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Freundliches Personal, Termin gerecht dran gekommen.  Alles super.",
+      "time": 1776691256,
+      "translated": false
+    },
+    {
       "author_name": "Astrid Nöcker",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
@@ -123,6 +135,18 @@
       "time": 1768570995
     },
     {
+      "author_name": "N L",
+      "author_url": "https://www.google.com/maps/contrib/107540285157410780946/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6eDLoL6_mSTGep3l7JIdSZEymUBCT5Wg52_VtFRwoh2idUhE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Super kompetente Ärzte! Freundliches Personal\nKeine lange Wartezeiten",
+      "time": 1768570995,
+      "translated": false
+    },
+    {
       "author_name": "R B",
       "rating": 5,
       "relative_time_description": "vor 4 Monaten",
@@ -133,5 +157,5 @@
   "rating": 4.8,
   "reviewCount": 73,
   "summary": [],
-  "lastUpdated": "2026-05-16T07:12:19.627Z"
+  "lastUpdated": "2026-05-19T08:26:09.036Z"
 }

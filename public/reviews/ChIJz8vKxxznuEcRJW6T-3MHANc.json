@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Günes Kukuoglu",
+      "author_url": "https://www.google.com/maps/contrib/103082409332147399406/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIofJ40hQAwCJKkQyZ5kNwRxB3DLFQsdMgx-ElT3tVoj71hOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hallo, ich kann leider nicht eine Topbewertung hier abgeben.\nAllgemein gibt es nicht wirklich etwas zu beanstanden. Aber heute wurden mir drei Muttermale entfernt, alles gut dachte ich erstmal, aber der Verband da drauf wurde nicht ordentlich gemacht. Der eine fiel mir kurz danach in der Praxis schon auf. Die Wundstelle lag bei einem nicht unter der Kompresse vom Pflaster sondern unter dem Klebeband. In der Praxis habe ich drauf hingewiesen aber die Arzthelferin die es gemacht hatte meinte es sei nicht schlimm. Ok naja, bin dann so nach Hause gegangen und zu Hause da fiel mir der Andere am Nacken brennend auf und meine Frau sah dass dieser Verband auch nicht korrekt auf der Wundstelle lag, die Hälfte lag wieder unter einem Klebeband. Ich mein, sowas kann ja nicht gut bzw. in Ordnung sein oder ? Ich wünsche mir dass auf so etwas in Zukunft bitte auch geachtet wird. Ich hoffe nun dass die Stellen nur ganz korrekt abheilen und dass sie kosmetisch auch gut hinterher aussehen werden. Ansonsten war ich mit der Praxis ganz zufrieden bis jetzt.",
+      "time": 1779131977,
+      "translated": false
+    },
+    {
       "author_name": "Gayos Globolevich",
       "author_url": "https://www.google.com/maps/contrib/115415676837457498433/reviews",
       "language": "de",
@@ -23,11 +35,31 @@
       "translated": false
     },
     {
+      "author_name": "Sar Kev",
+      "author_url": "https://www.google.com/maps/contrib/101153311175362636297/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVRo6DiUjWzf9Dly3RH4JkKkKPBddmHna4WaGmZxndFTUNgg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778417542,
+      "translated": false
+    },
+    {
       "author_name": "Swaghetti Yolonese69",
       "author_url": "https://www.google.com/maps/contrib/109841324594460933663/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfXHjV_we1IIHQV7qtAk2DYypikbk52Akwa7DuqcE_wxqwgA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778340747,
+      "translated": false
+    },
+    {
+      "author_name": "Swaghetti Yolonese69",
+      "author_url": "https://www.google.com/maps/contrib/109841324594460933663/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfXHjV_we1IIHQV7qtAk2DYypikbk52Akwa7DuqcE_wxqwgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1778340747,
       "translated": false
@@ -238,11 +270,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 356,
+  "reviewCount": 357,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-16T07:12:52.248Z"
+  "lastUpdated": "2026-05-19T08:26:40.544Z"
 }

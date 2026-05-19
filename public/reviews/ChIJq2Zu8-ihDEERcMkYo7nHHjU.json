@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "KH",
+      "author_url": "https://www.google.com/maps/contrib/105701211367504225184/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPmuHrqIHPXN5Prf9bZkUuWEMIKEjAq37qiAgi9Z__mnZAWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bürokratisch sehr holprig (wichtige Dokumente unvollständig, Vorname im Arztbrief vergessen). Als ich sachlich um Vervollständigung bat, wurde Dr. Riedel persönlich schriftlich ausfällig. Statt professionellem Fehlermanagement gab es eine herablassende Belehrung („gut gemeinter Tipp von der Generation aus der Arbeitswelt“) und Verweise auf seine eigene „gesellschaftliche Leistung an die Jugend“. Nicht zu empfehlen. Schade, dass der professionelle Umgang auf Augenhöhe hier scheinbar mit dem Alter des Patienten variiert, menschlich und organisatorisch war das leider eine Enttäuschung.",
+      "time": 1779086158,
+      "translated": false
+    },
+    {
       "author_name": "mihaella gogeoman",
       "author_url": "https://www.google.com/maps/contrib/106299672329548487358/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBArvbhvdE_JjDCM2zhlBXngxA7Yb2pgDdlzeI_E9cxDEOpuGD=s128-c0x00000000-cc-rp-mo",
@@ -69,6 +81,18 @@
       "translated": false
     },
     {
+      "author_name": "Katarina SG",
+      "author_url": "https://www.google.com/maps/contrib/105852876570877269836/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqrpTIBobZbn4qne0IW-pHvdFqTE1ywrazCXvjrSjpTcUhRABZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Wurde selten so schlecht in einer Praxis behandelt.\nNach einer, für mich ungewohnten, allergischen Reaktion auf ein Lebensmittel wollte ich einen Allergietest machen um den ganzen auf die Spur zu kommen.\nDie Arzthelferin versicherte mir auf meine Warnung, das Blut abnehmen bei mir manchmal schwierig ist, dass sie das problemlos kann. Daraufhin stochert sie mir in beiden Armen so lange herum, bis ich sie bitten muss aufzuhören. Auf mein Schmerzen erfülltes Gezucke und Stöhnen beim herumbewegen der Nadel in meinen Armen wurde null reagiert oder sich entschuldigt. Nach dem 3ten Versuch (zweiter Versuch im gleichem Arm) hat es endlich geklappt.\n\nAls der Allergietest dann unauffällig zurückkam und ich dann die Besprechung mit der Ärztin hatte, sagte diese wortwörtlich zu mir ich solle mir \"nicht zu viel einbilden\".\n\nKann ich wirklich keinem empfehlen.",
+      "time": 1776755100,
+      "translated": false
+    },
+    {
       "author_name": "I M",
       "author_url": "https://www.google.com/maps/contrib/106660509299541309372/reviews",
       "language": "de",
@@ -117,6 +141,18 @@
       "translated": false
     },
     {
+      "author_name": "I M",
+      "author_url": "https://www.google.com/maps/contrib/106660509299541309372/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoE14Iin3fcnm2K0237dDbHaL9zlRPFxMpEwdJrJFqZL-Zsg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Möchte einen Termin für ein Hautscreening haben, online gibt es mehrere Optionen. Allerdings bekommt man nur Termine, wenn man eine Option mit Aufzahlung wählt ... weiss man ja sofort welche Wertschätzung man als Patient erfahren wird. Wollte mich telefonisch noch zu den Optionen beraten lassen und wissen wie viel Zeit ich einplanen sollte für Wartezeit und Behandlung. Aber dort geht stundenlang niemand ans Telefon, nur der Telefonagent der nach 5 Minuten auflegt.",
+      "time": 1776694386,
+      "translated": false
+    },
+    {
       "author_name": "Lotti",
       "author_url": "https://www.google.com/maps/contrib/114180460318065685904/reviews",
       "language": "de",
@@ -148,6 +184,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJwpVMYBXne_bqfquwoPTBHAI-fEnvTL-3svx4jCLnLNhIAw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Leider war die Ärztin sehr unfreundlich. Die anstehende Mittagspause war sehr viel wichtiger als die Untersuchung.",
+      "time": 1776508150,
+      "translated": false
+    },
+    {
+      "author_name": "Lotti",
+      "author_url": "https://www.google.com/maps/contrib/114180460318065685904/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJwpVMYBXne_bqfquwoPTBHAI-fEnvTL-3svx4jCLnLNhIAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Leider war die Ärztin sehr unfreundlich. Die anstehende Mittagspause war sehr viel wichtiger als die Untersuchung.",
       "time": 1776508150,
       "translated": false
@@ -237,12 +285,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 262,
+  "rating": 4.5,
+  "reviewCount": 263,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-16T07:12:42.541Z"
+  "lastUpdated": "2026-05-19T08:26:31.122Z"
 }

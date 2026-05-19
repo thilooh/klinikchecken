@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Beate Hübner",
+      "author_url": "https://www.google.com/maps/contrib/100612484710573097494/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBw9iDnhWY23yZyNasayHZOqpZ2DKNRFr4OcY_vl3NFZgAOQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779100623,
+      "translated": false
+    },
+    {
       "author_name": "NeRi",
       "author_url": "https://www.google.com/maps/contrib/114649691408796189919/reviews",
       "language": "de",
@@ -32,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSsx6ptOiTX9yDHxBJdcLpsRJ6J4AQdY5d4kFGVYrLKU96YoE=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Absolut empfehlenswert!\nFrau Kern-Beckers ist sehr lieb und nimmt sich genug Zeit für Fragen.\nDas Team war auch sehr nett und freundlich.",
+      "time": 1777303189,
+      "translated": false
+    },
+    {
+      "author_name": "NeRi",
+      "author_url": "https://www.google.com/maps/contrib/114649691408796189919/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSsx6ptOiTX9yDHxBJdcLpsRJ6J4AQdY5d4kFGVYrLKU96YoE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Absolut empfehlenswert!\nFrau Kern-Beckers ist sehr lieb und nimmt sich genug Zeit für Fragen.\nDas Team war auch sehr nett und freundlich.",
       "time": 1777303189,
       "translated": false
@@ -154,11 +176,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 38,
+  "reviewCount": 39,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-16T07:12:52.486Z"
+  "lastUpdated": "2026-05-19T08:26:40.785Z"
 }
