@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sevda Altinay",
+      "author_url": "https://www.google.com/maps/contrib/107226074127225061083/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXKee-VhSsXDCyFDdylz4KGdwOY7wP4BdGR6V0PlspbZqwzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Dame die im Empfang stheht verdient noch nicht mal 1 sternchen, obwohl ich in der woche mehrmals gekommen bin hat die mich nicht reingelassen egal ob ich Mittag Nachmittag oder morgens früh da war heisst es immer heute ist OP Tag!!!",
+      "time": 1779352440,
+      "translated": false
+    },
+    {
       "author_name": "Anna Metcher",
       "author_url": "https://www.google.com/maps/contrib/113530535039517306653/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8Xa1PRVby1AsN0w3fEhdnJ1MPjRKXZ9glNHcwHZ0gHx1wIQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärztin ist wirklich sehr kompetent! Sehr einfühlsam, freundlich, nimmt sich Zeit zuzuhören und beantwortet sehr ausführlich alle Fragen. Hat meiner Tochter sehr geholfen, alle Tipps haben uns sofort geholfen!",
+      "time": 1778618081,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Metcher",
+      "author_url": "https://www.google.com/maps/contrib/113530535039517306653/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8Xa1PRVby1AsN0w3fEhdnJ1MPjRKXZ9glNHcwHZ0gHx1wIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Die Ärztin ist wirklich sehr kompetent! Sehr einfühlsam, freundlich, nimmt sich Zeit zuzuhören und beantwortet sehr ausführlich alle Fragen. Hat meiner Tochter sehr geholfen, alle Tipps haben uns sofort geholfen!",
       "time": 1778618081,
       "translated": false
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCC0VOFpKQtxDV2SeReQylWOLKkxNejj0S9TD46FbYtBWV8NES=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Unerreichbar via Telefon oder Website.",
+      "time": 1778166518,
+      "translated": false
+    },
+    {
+      "author_name": "Aaron Schroeter",
+      "author_url": "https://www.google.com/maps/contrib/101311405481199992787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCC0VOFpKQtxDV2SeReQylWOLKkxNejj0S9TD46FbYtBWV8NES=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Unerreichbar via Telefon oder Website.",
       "time": 1778166518,
       "translated": false
@@ -168,11 +204,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 74,
+  "reviewCount": 75,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-19T08:26:41.254Z"
+  "lastUpdated": "2026-05-22T08:21:23.047Z"
 }

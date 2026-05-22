@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hend Yassin",
+      "author_url": "https://www.google.com/maps/contrib/104699128436099862932/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ73HnrJ9pDgM5UWE5Wm_6cqCfV97-GUEFADf8aGln-SNPs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle kompetente Beratung, kein Aufdrängen von Behandlungen, freundliches Personal, tolle Ergebnisse. Sehr empfehlenswert.",
+      "time": 1779309905,
+      "translated": false
+    },
+    {
       "author_name": "Reeni P.",
       "author_url": "https://www.google.com/maps/contrib/116729195685015797386/reviews",
       "language": "de",
@@ -64,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjGuAcutNafU024IMUBZCvNtR_3KNfZfWse_FyGu2m04RUoCk=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1777971934,
+      "translated": false
+    },
+    {
+      "author_name": "jamil eid",
+      "author_url": "https://www.google.com/maps/contrib/104305366029751078798/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjGuAcutNafU024IMUBZCvNtR_3KNfZfWse_FyGu2m04RUoCk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1777971934,
       "translated": false
@@ -268,11 +290,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 91,
+  "reviewCount": 92,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-19T08:26:38.925Z"
+  "lastUpdated": "2026-05-22T08:21:20.772Z"
 }

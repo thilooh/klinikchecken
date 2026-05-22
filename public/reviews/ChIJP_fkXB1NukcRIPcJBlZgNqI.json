@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "S.",
+      "author_url": "https://www.google.com/maps/contrib/115757693027178291314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVjxskZTQpVUsyPgqQcLOxukwTJSFaafaDZ5EWjjCzHMFxeg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Mutter hatte heute einen Termin bei Herrn Rachkov. Ein sehr freundlicher Arzt und ein nettes, einfühlsames Praxisteam.",
+      "time": 1779310562,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Keuter",
       "author_url": "https://www.google.com/maps/contrib/109514891360749032704/reviews",
       "language": "de",
@@ -105,12 +117,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 10,
+  "rating": 4.3,
+  "reviewCount": 11,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:47.150Z"
+  "lastUpdated": "2026-05-22T08:21:28.841Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alissa weimer",
+      "author_url": "https://www.google.com/maps/contrib/115880386299307103172/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNfjE6b_TElwQjcAue6eq06U8QJ2jVcFTwp0HVvMjJEcQ83w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bisher zwar erst dreimal in der Praxis, habe mich dort aber jedes Mal sehr wohl und ernst genommen gefühlt. In der Praxis ist oft viel los und es herrscht teilweise ziemlich viel Betrieb, trotzdem sind die Empfangs- und Pflegekräfte wirklich außergewöhnlich freundlich, herzlich und verbreiten eine total positive Atmosphäre. Gerade das finde ich besonders hervorzuheben.\n\nAuch der behandelnde Arzt wirkte auf mich kompetent, hörte zu und ging auf meine Anliegen bezüglich meiner Akne ein. Mir wurde schnell und unkompliziert weitergeholfen und ich hatte nicht das Gefühl, einfach abgefertigt zu werden.\nIch persönlich war bei meinem letzten Besuch sehr schnell wieder raus, weil es bei mir aber auch nur um ein bereits besprochenes Rezept ging.\n\nInsgesamt habe ich die Praxis bisher aber wirklich als freundlich, organisiert und menschlich erlebt und kann sie definitiv weiterempfehlen.",
+      "time": 1779269418,
+      "translated": false
+    },
+    {
       "author_name": "Jutta Surges",
       "author_url": "https://www.google.com/maps/contrib/103180273146943161435/reviews",
       "language": "de",
@@ -213,7 +225,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 89,
+  "reviewCount": 90,
   "summary": [],
-  "lastUpdated": "2026-05-19T08:26:10.811Z"
+  "lastUpdated": "2026-05-22T08:20:53.521Z"
 }

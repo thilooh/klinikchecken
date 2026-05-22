@@ -45,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "krishna wagner",
+      "author_url": "https://www.google.com/maps/contrib/104283402217547824532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU788ER4V0JvEhXNLlLWJ_KqbxLwrma6J7CfZSAc59IF6-EaOb5=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1778191562,
+      "translated": false
+    },
+    {
       "author_name": "Konni K.",
       "author_url": "https://www.google.com/maps/contrib/101238266742165678517/reviews",
       "language": "de",
@@ -64,6 +74,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfoM6OROjwWBfTI3o9VLgUN86oTp0VSeGMgSCS47XBk00S_g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Frau Dr. Hamann ist meine Ärztin, kompetent, natürlich und authentisch.\nDa freut man sich schon fast auf die Behandlung und die Schmerzen sind halb so wild.",
+      "time": 1778158378,
+      "translated": false
+    },
+    {
+      "author_name": "Konni K.",
+      "author_url": "https://www.google.com/maps/contrib/101238266742165678517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfoM6OROjwWBfTI3o9VLgUN86oTp0VSeGMgSCS47XBk00S_g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Frau Dr. Hamann ist meine Ärztin, kompetent, natürlich und authentisch.\nDa freut man sich schon fast auf die Behandlung und die Schmerzen sind halb so wild.",
       "time": 1778158378,
       "translated": false
@@ -225,6 +247,18 @@
       "translated": false
     },
     {
+      "author_name": "Ingo Schonert",
+      "author_url": "https://www.google.com/maps/contrib/109710855051060040469/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPWxeoTM8tA2I5dPXWQGeJoPJa-tFwDJaZlZxEKauewd0bPfw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich war vor vielen Jahren letztmals bei meinem bisherigen Hautarzt. Durch Zufall bin ich bei Frau Dr.Kohler zur Hautkrebsvorsorge gelandet. Frau Dr.Kohler hat mich äußerst intensiv untersucht und alle meine Fragen sehr einfühlsam, freundlich und ausführlich beantwortet. Positiv erwähnen möchte ich auch die zwei sehr netten Mitarbeiterinnen am Empfang. Der Praxisinhaber kann sich sehr glücklich schätzen so ein herzliches, kompetentes und freundliches Team zu haben.",
+      "time": 1776345555,
+      "translated": false
+    },
+    {
       "author_name": "Motte",
       "author_url": "https://www.google.com/maps/contrib/100616202006067365809/reviews",
       "language": "de",
@@ -274,7 +308,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 309,
+  "reviewCount": 308,
   "summary": [],
-  "lastUpdated": "2026-05-19T08:26:17.576Z"
+  "lastUpdated": "2026-05-22T08:21:00.273Z"
 }

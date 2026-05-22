@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anna",
+      "author_url": "https://www.google.com/maps/contrib/113262017889291434302/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZJ1vdAcczU_vaSL_9JPTberHp0oB-ryz9RzOYGLLBWSmTxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es war mein erster Besuch und ich bin leider etwas enttäuscht. Ich war zum Hautkrebsscreening da und ich weis, das ist kein großer Act, aber ich hätte mir dennoch gewünscht, dass sich die Ärztin etwas mehr Zeit nimmt. Das screening ging 3min - wenn überhaupt - und es wurden nichtmal alle Muttermale angeschaut. Kopf, Zunge, Intimbereich wurden gänzlich weggelassen und Rücken kurz überflogen. Was soll das? Jeder predigt immer wie wichtig Hautkrebsvorsorge ist etc. und dann sowas! Echt enttäuschend gewesen.",
+      "time": 1779206418,
+      "translated": false
+    },
+    {
       "author_name": "Sevinc demir",
       "author_url": "https://www.google.com/maps/contrib/114999374276697964427/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYiLjTkfoQlUDJ6vjWiK1Fuh8S_Y3S--qIil1fyrFenPFEe34=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Wir haben recht schnell einen Termin bekommen, was für solche Einrichtungen eher ungewöhnlich ist. Die Mitarbeiter waren freundlich und hilfsbereit, und die Wartezeit war minimal. Den Eingang zu finden, war allerdings etwas knifflig; er befindet sich auf der linken Seite des Gebäudes, und das Schild ist genauso grau wie das Gebäude selbst.",
+      "time": 1778161285,
+      "translated": true
+    },
+    {
+      "author_name": "Nati Li",
+      "author_url": "https://www.google.com/maps/contrib/100307622927072783652/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYiLjTkfoQlUDJ6vjWiK1Fuh8S_Y3S--qIil1fyrFenPFEe34=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Wir haben recht schnell einen Termin bekommen, was für solche Einrichtungen eher ungewöhnlich ist. Die Mitarbeiter waren freundlich und hilfsbereit, und die Wartezeit war minimal. Den Eingang zu finden, war allerdings etwas knifflig; er befindet sich auf der linken Seite des Gebäudes, und das Schild ist genauso grau wie das Gebäude selbst.",
       "time": 1778161285,
       "translated": true
@@ -118,6 +142,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK63f9bF1y571I160R07sxnirI5EmBPpSKUJ929Bq9vCkEuhw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1776708411,
+      "translated": false
+    },
+    {
+      "author_name": "Olga Root",
+      "author_url": "https://www.google.com/maps/contrib/112338077093446075036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK63f9bF1y571I160R07sxnirI5EmBPpSKUJ929Bq9vCkEuhw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1776708411,
       "translated": false
@@ -220,5 +254,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:53.041Z"
+  "lastUpdated": "2026-05-22T08:21:34.547Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Leonie Graßmann",
+      "author_url": "https://www.google.com/maps/contrib/110651272358927825336/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXTJDKzRULx40p4Dz3v6UXsE-grbwS47KVAiP00PadgsVzHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit ca. 3 Jahren Patientin bei Dr. Kasten und seinem Team. Ich empfehle die Praxis ständig, jetzt auch endlich mal hier, denn diese professionelle, sorgfältige und zwischenmenschlich besonders angenehme Behandlung habe ich zuvor so noch nicht bei einem Hautarzt erlebt.\nDas regelmäßige Hautkrebs-Screening gibt mir Sicherheit, die Entfernung von Muttermalen läuft absolut reibungslos mit toller Wundheilung und meine Gesichtshaut wurde durch eingehende Beratung und kosmetische Behandlungen in der Praxis immer gesünder.\n\nVielen Dank für diese wunderbare medizinische Versorgung meiner Haut! Ich komme immer wieder gern und freue mich auf die lockeren und wohltuenden nächsten Termine.",
+      "time": 1779437961,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Herklotz",
+      "author_url": "https://www.google.com/maps/contrib/106906773037455760375/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_iOyjeoOnuJVfAU9yV7PfigDVVwncll0J4rOMVfVA9Cq8NJE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine hervorragende Praxis! Ich hatte eine Hautveränderung bemerkt und durfte deshalb sehr zeitnah vorbeikommen. Die Behandlung war schnell, kompetent und absolut professionell. Das gesamte Team ist sehr herzlich, sodass man sich sofort wohl und sicher fühlt. Das Vertrauensverhältnis stimmt einfach. Auch die Anfahrt ist stressfrei, da es sehr gute Parkmöglichkeiten direkt vor dem Haus gibt. 5 Sterne!",
+      "time": 1779287026,
+      "translated": false
+    },
+    {
       "author_name": "Rickie Schmid",
       "author_url": "https://www.google.com/maps/contrib/103491396329626312176/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTbIFWK99y5EEo34xkgjOCBwj4JT26txJYbF9yg-H3tI5--dc=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Freundliche Mitarbeiter, gute Praxisorganisation. Meist angemessene Wartezeiten. Mit der Behandlung war ich bisher durchweg zufrieden, kompetente und zugewandte Medizinerinnen/Mediziner.",
+      "time": 1777412174,
+      "translated": false
+    },
+    {
+      "author_name": "Rickie Schmid",
+      "author_url": "https://www.google.com/maps/contrib/103491396329626312176/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTbIFWK99y5EEo34xkgjOCBwj4JT26txJYbF9yg-H3tI5--dc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Freundliche Mitarbeiter, gute Praxisorganisation. Meist angemessene Wartezeiten. Mit der Behandlung war ich bisher durchweg zufrieden, kompetente und zugewandte Medizinerinnen/Mediziner.",
       "time": 1777412174,
       "translated": false
@@ -208,11 +244,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 221,
+  "reviewCount": 223,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:36.793Z"
+  "lastUpdated": "2026-05-22T08:21:18.712Z"
 }

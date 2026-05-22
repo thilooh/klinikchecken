@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andrea Sommer",
+      "author_url": "https://www.google.com/maps/contrib/111089425816532081023/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5W9HSuANKQ3y_tzPnYxb2ECOefBNigf4kbF9riv2sPxb2p45fDQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "👏Ein so gut durchorganisiertes hochkompetentes Fachteam an Schwestern, Pflegenden, Ärzten und OP Mitarbeitenden zu erleben war sehr angenehm und ich fühlte mich als Patientin stets sehr wohl.\nDie Umsorgung und die Menschlichkeit wird hier zum Glück gelebt, von Allen!\nIch danke dem gesamten MVZ Team um Frau Dr. Kalisch und Herr Dr. Thierfelder. 👏👏👏",
+      "time": 1779434516,
+      "translated": false
+    },
+    {
       "author_name": "AJ'z",
       "author_url": "https://www.google.com/maps/contrib/118423414052697645035/reviews",
       "language": "de",
@@ -35,6 +47,16 @@
       "translated": false
     },
     {
+      "author_name": "Nele Gericke",
+      "author_url": "https://www.google.com/maps/contrib/105962164251512312812/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKW4UhTTAE5ixFAxI2FZ9xJKPt8Ld5ng6C1ChpJ8JPRbJy2Eg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778587545,
+      "translated": false
+    },
+    {
       "author_name": "Jessica Bremer",
       "author_url": "https://www.google.com/maps/contrib/104300589785443890050/reviews",
       "language": "de",
@@ -42,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8FshLldAXz5Gks3jsDIVZniRRHPCr-r6mjcnhxEXyGBpi0w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Hatte heute eine Hernien-OP ambulant. Tolles Team, alle super nett, für meine erste Vollnarkose Top Erfahrungen 👌🏼",
+      "time": 1778583043,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Bremer",
+      "author_url": "https://www.google.com/maps/contrib/104300589785443890050/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8FshLldAXz5Gks3jsDIVZniRRHPCr-r6mjcnhxEXyGBpi0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Hatte heute eine Hernien-OP ambulant. Tolles Team, alle super nett, für meine erste Vollnarkose Top Erfahrungen 👌🏼",
       "time": 1778583043,
       "translated": false
@@ -298,11 +332,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 429,
+  "reviewCount": 430,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-19T08:26:21.639Z"
+  "lastUpdated": "2026-05-22T08:21:04.217Z"
 }

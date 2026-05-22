@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sefika Ayten",
+      "author_url": "https://www.google.com/maps/contrib/115913588255111771712/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJm1jD_YpEPC5Gs6RzrFca_uw52c3XyVwb_CDkP4c4oc5m0XA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr sehr ruhiger professioneller und netter Arzt, erklärt dir alles in Ruhe und die Behandlung war komplett schmerzfrei ( maseter Botox) habe mich sehr gut aufgehoben gefühlt. Bin wirklich sehr zufrieden und werde zukünftige Behandlungen definitiv wieder hier machen lassen. Danke nochmal.",
+      "time": 1779196204,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Konda",
+      "author_url": "https://www.google.com/maps/contrib/107313253787539728122/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFlUNo5mhMLk9VMhsU5CtiRWDjGlAsxLtK06q3L7YHZnt1mD4v=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich begeistert von dieser Klinik und kann sie von Herzen weiterempfehlen. Für mich ist es definitiv die beste Klinik in ganz Krefeld.\n\nDer Doktor ist nicht nur unglaublich kompetent, sondern auch ein sehr herzlicher und sympathischer Mensch. Er nimmt sich wirklich Zeit für seine Patienten, hört aufmerksam zu und man fühlt sich absolut ernst genommen und bestens beraten. Man merkt einfach, dass hier nicht alles schnell schnell gemacht wird, sondern dass Qualität und Wohlbefinden im Vordergrund stehen.\n\nAuch das gesamte Team ist super freundlich und professionell. Schon am Empfang wird man total lieb empfangen und fühlt sich direkt wohl und willkommen. Die Atmosphäre in der Klinik ist angenehm, entspannt und hochwertig zugleich.\n\nWas ich besonders toll finde: Man kann dort so viele verschiedene Behandlungen machen lassen, sodass man sich rundum gut aufgehoben fühlt. Egal ob Beratung, Beauty oder ästhetische Behandlungen – man merkt einfach, dass hier mit viel Erfahrung und Herz gearbeitet wird.\n\nVielen Dank an den Doktor und das ganze Team für die tolle Betreuung. Ich komme immer wieder gerne zurück ❤️",
+      "time": 1779185477,
+      "translated": false
+    },
+    {
       "author_name": "Tatjana S",
       "author_url": "https://www.google.com/maps/contrib/104267668582945336866/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3R5whtkt-CGmKcPxCHzxoeBviwIZXpTnOU_dxffNhFfVEOSkp=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich hab mich super aufgehoben gefühlt. Die Beratung war sehr ausführlich und man hat sich viel Zeit für mich genommen. Auch nach der Behandlung gab es noch zwei Kontrolltermine. Insgesamt einfach ein sehr gutes Gefühl. Kann ich auf jeden Fall weiterempfehlen 😊",
+      "time": 1778786322,
+      "translated": false
+    },
+    {
+      "author_name": "Tatjana S",
+      "author_url": "https://www.google.com/maps/contrib/104267668582945336866/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3R5whtkt-CGmKcPxCHzxoeBviwIZXpTnOU_dxffNhFfVEOSkp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich hab mich super aufgehoben gefühlt. Die Beratung war sehr ausführlich und man hat sich viel Zeit für mich genommen. Auch nach der Behandlung gab es noch zwei Kontrolltermine. Insgesamt einfach ein sehr gutes Gefühl. Kann ich auf jeden Fall weiterempfehlen 😊",
       "time": 1778786322,
       "translated": false
@@ -25,11 +61,33 @@
       "translated": false
     },
     {
+      "author_name": "Elvira Frischetto",
+      "author_url": "https://www.google.com/maps/contrib/114952740969287023678/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpT26GxYDvvh7CaDShlxMesAjfIalfHzi2zs3ST8xztqDHgg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr freundliches Personal und Arzt. die Arbeit an meiner Tochter wurde mit größter Sorgfalt und Präzision erledigt.",
+      "time": 1778770450,
+      "translated": false
+    },
+    {
       "author_name": "Deniz Sarıca",
       "author_url": "https://www.google.com/maps/contrib/109520221267282195060/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9XXQPGZIoEaix8-p9BrvJngolP_Gb_-94c7S1g8W7jl9jHAEv=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778757505,
+      "translated": false
+    },
+    {
+      "author_name": "Deniz Sarıca",
+      "author_url": "https://www.google.com/maps/contrib/109520221267282195060/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9XXQPGZIoEaix8-p9BrvJngolP_Gb_-94c7S1g8W7jl9jHAEv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1778757505,
       "translated": false
@@ -300,11 +358,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 205,
+  "reviewCount": 207,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-19T08:26:41.022Z"
+  "lastUpdated": "2026-05-22T08:21:22.817Z"
 }

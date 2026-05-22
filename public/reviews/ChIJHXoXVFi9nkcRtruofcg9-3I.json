@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel “Daniel k” Kurth",
+      "author_url": "https://www.google.com/maps/contrib/100776868689198766030/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITvplmJSadyaC_bgSCcbZpqqUvmqGOz737UStEwM5M0ayr=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779256550,
+      "translated": false
+    },
+    {
       "author_name": "Gabriela Meise",
       "author_url": "https://www.google.com/maps/contrib/117649587434020201954/reviews",
       "language": "de",
@@ -13,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Gabriela Meise",
+      "author_url": "https://www.google.com/maps/contrib/117649587434020201954/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVFUMADx6fizuAVofz-JaVwsh36SL4HUCWsqv8zcdxt3hssYU-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war im MVZ im EG und kann über das ganze Praxisteam nur positives berichten.\nFreundlich , kompetente fleißiges Team!\nTop Arzt 👍🏼 Ich war bei Dr. Schmid.",
+      "time": 1778682012,
+      "translated": false
+    },
+    {
       "author_name": "Daniela Rommel",
       "author_url": "https://www.google.com/maps/contrib/100881049397186228429/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqIGw06IbQkYwQqTW2R4es7f2gOx0hg4po84QDkHPJtZo5YA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Ärzte, Pflegepersonal und auch Reinigungskräfte. Alle freundlich und kompetent",
+      "time": 1778680052,
+      "translated": false
+    },
+    {
+      "author_name": "Daniela Rommel",
+      "author_url": "https://www.google.com/maps/contrib/100881049397186228429/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqIGw06IbQkYwQqTW2R4es7f2gOx0hg4po84QDkHPJtZo5YA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nette Ärzte, Pflegepersonal und auch Reinigungskräfte. Alle freundlich und kompetent",
       "time": 1778680052,
       "translated": false
@@ -44,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxYDOCoDZlvsdJsC7IIxNxztCM61VRaqVdiVrlciUq_h-luD4=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Wenn man schon in ein Krankenhaus muss! Ich bin wirklich von der Freundlichkeit und Kompetenz begeistert. Alle waren sehr hilfsbereit. Das Essen ( was während eine Krankenhausaufenthalt nicht unwichtig ist) war sehr gut.",
+      "time": 1778218533,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Scheller",
+      "author_url": "https://www.google.com/maps/contrib/107253668453698655839/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxYDOCoDZlvsdJsC7IIxNxztCM61VRaqVdiVrlciUq_h-luD4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Wenn man schon in ein Krankenhaus muss! Ich bin wirklich von der Freundlichkeit und Kompetenz begeistert. Alle waren sehr hilfsbereit. Das Essen ( was während eine Krankenhausaufenthalt nicht unwichtig ist) war sehr gut.",
       "time": 1778218533,
       "translated": false
@@ -244,11 +290,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 392,
+  "reviewCount": 393,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-19T08:26:27.588Z"
+  "lastUpdated": "2026-05-22T08:21:09.753Z"
 }

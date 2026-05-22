@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Silke Schönherr-Wagner",
+      "author_url": "https://www.google.com/maps/contrib/115808420705782781770/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_5yNTBVADbBG1lKNiVnjzebpFoBm-Bec32hd_zdphneh7uzX00g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche Mitarbeiterinnen und ein sehr kompetenter Arzt, bei dem ich mich gut beraten und gut aufgehoben fühle. Sehr gut fand ich den abendlichen Anruf von Dr. Pabst am Abend nach der ambulanten OP.\nIch bin insgesamt sehr zufrieden und würde mich jederzeit wieder für diese Praxis entscheiden.",
+      "time": 1779365920,
+      "translated": false
+    },
+    {
       "author_name": "Ulrike Neubert",
       "author_url": "https://www.google.com/maps/contrib/115106774357713644448/reviews",
       "language": "de",
@@ -122,11 +134,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 36,
+  "reviewCount": 37,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-19T08:26:20.621Z"
+  "lastUpdated": "2026-05-22T08:21:03.298Z"
 }

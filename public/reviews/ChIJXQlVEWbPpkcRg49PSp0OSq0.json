@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mel Malfoy",
+      "author_url": "https://www.google.com/maps/contrib/118193221365232173196/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpyym_YZgr1GkE56qbpRWiEz8CZMmDq2Q99cWbJ_yPU7rKqoqz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779202747,
+      "translated": false
+    },
+    {
       "author_name": "Paul Kadar",
       "author_url": "https://www.google.com/maps/contrib/102891475985031272459/reviews",
       "language": "de",
@@ -118,11 +128,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 44,
+  "reviewCount": 45,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-19T08:26:56.728Z"
+  "lastUpdated": "2026-05-22T08:21:38.202Z"
 }

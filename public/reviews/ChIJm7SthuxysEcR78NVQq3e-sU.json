@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Patrick Steih",
+      "author_url": "https://www.google.com/maps/contrib/111414079145854989526/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz6AR3feUx2mnZmnnEC9pK3AlguZBjMTZE_kCrPifY28L8zw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bereits beim reinkommen am Empfang hatte ich das Gefühl von allen etwas abzuverlangen und zu nerven obwohl ich bereits einen Termin zur Vorsorge hatte und mich nur anmelden wollte. Ich gebe mir immer Mühe nett und freundlich zu sein. Wurde leider gar nicht erwidert. Jeder hat Mal einen schlechten Tag. Vielleicht lags daran, BEI ALLEN. Dann kam der Arzt, genuschelt, kein Wort verstanden, egal ob ich eine Frage gestellt hab oder auf seine geantwortet habe, er hat drüber geredet und mich unterbrochen. Nach maximal 5 Minuten war alles oberflächlich abgescannt, die Lupe 3x aufgesetzt und auf meine Frage bezüglich eines lipoms auf den Rippen, welches beim Sport schmerzt neuerdings und wächst, kam nur die knappe Antwort, dass die Entfernung zu aufwendig sei und nicht lohnt.\nVielen Dank dafür. So schnell sind 73€ verbraten als Selbstzahler.",
+      "time": 1779375866,
+      "translated": false
+    },
+    {
+      "author_name": "Kristina K",
+      "author_url": "https://www.google.com/maps/contrib/112463468119753690039/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQUCU3v5ZoQOBlY0EGs5bLfoEe-6cAC1tHOu8ZyEpGccoRoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Spyridon Matziris zeigte ein äußerst unprofessionelles und respektloses Verhalten. Er hörte nicht richtig zu, unterbrach ständig und ließ mir keine Gelegenheit, meine Beschwerden vollständig zu schildern. Sein Ton war unfreundlich, hektisch und herablassend.\n\nIch hatte den Eindruck, dass er keinerlei Interesse daran hatte, den Patienten ernst zu nehmen. Statt aufmerksam zuzuhören und verständnisvoll zu reagieren, vermittelte er nur Stress und Ungeduld. So ein Verhalten ist für einen Arzt absolut unangemessen.\n\nIch habe mich während des gesamten Termins unwohl, nicht ernst genommen und respektlos behandelt gefühlt. Vertrauen zu diesem Arzt konnte ich überhaupt nicht aufbauen.\n\nIch kann Dr. Spyridon Matziris daher keinesfalls empfehlen und werde ihn definitiv nicht wieder aufsuchen. Zum Glück gibt es in derselben Praxis auch andere Ärzte, mit denen ich deutlich bessere Erfahrungen gemacht habe. Die Mitarbeiterinnen am Empfang waren zudem sehr freundlich und hilfsbereit.",
+      "time": 1779275926,
+      "translated": false
+    },
+    {
       "author_name": "Sabine H.",
       "author_url": "https://www.google.com/maps/contrib/118222752653426623548/reviews",
       "language": "de",
@@ -25,11 +49,33 @@
       "translated": false
     },
     {
+      "author_name": "P. B.",
+      "author_url": "https://www.google.com/maps/contrib/109168547096321884880/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPeZqM8wiXw1iHXVR-ri6RiGp7PPgZXAdR3c8-gH4XS5k4qA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider hat Herr Wahn keine Empathie.Als Kassenpatient fühlt man sich nicht willkommen.Die OP war okay bei Dr Matzritis, aber es ist wie eine Abfertigung.",
+      "time": 1778821676,
+      "translated": false
+    },
+    {
       "author_name": "Stephan Helms",
       "author_url": "https://www.google.com/maps/contrib/103685646049932265331/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfBhZ42hsgCrZkZtFEFcJjDl-ZEpXU_umjYpnSZtMZXZKphQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778680423,
+      "translated": false
+    },
+    {
+      "author_name": "Stephan Helms",
+      "author_url": "https://www.google.com/maps/contrib/103685646049932265331/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfBhZ42hsgCrZkZtFEFcJjDl-ZEpXU_umjYpnSZtMZXZKphQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1778680423,
       "translated": false
@@ -269,12 +315,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 249,
+  "rating": 4.4,
+  "reviewCount": 251,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-19T08:26:18.512Z"
+  "lastUpdated": "2026-05-22T08:21:01.217Z"
 }

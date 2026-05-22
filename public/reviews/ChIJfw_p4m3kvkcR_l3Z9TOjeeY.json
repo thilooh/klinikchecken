@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Raphael",
+      "author_url": "https://www.google.com/maps/contrib/112515025101586042620/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6HzGFMx-iZH2DB03kcWkUIyqysUP1kGGmfMpP_20uk5OnBzU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bucht hier nicht über Doctorlib. Wird eh wieder abgesagt.",
+      "time": 1779188666,
+      "translated": false
+    },
+    {
+      "author_name": "N. Ap.",
+      "author_url": "https://www.google.com/maps/contrib/113379805401500541869/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmc_dwudSU8uFwV9tPSbjnhCeWXEl5ABGvQWpuJNeGXHETYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin extrem enttäuscht über den Umgang mit Patienten in dieser Praxis. Ich habe monatelang auf meinen Termin gewartet. Dieser wurde von der Praxis ohne Ersatztermin abgesagt.\nGerade in der Dermatologie sind Wartezeiten ohnehin lang. Patienten nach monatelangem Warten ohne Alternative im Regen stehenzulassen, ist absolut unprofessionell.",
+      "time": 1779176285,
+      "translated": false
+    },
+    {
+      "author_name": "Jul Adm",
+      "author_url": "https://www.google.com/maps/contrib/102507508486128959769/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInnPp81kTPhhs65cWLhGl9mq-UD3KSutNvIJdBAsqwR0bVRK8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fast ein halbes Jahr auf den Termin gewartet (gesetzlich versichert) und dann 3 Wochen  vorher „aufgrund eines Notfalls“ abgesagt!?\nEin Notfall in 3 Wochen? Eine Frechheit!",
+      "time": 1779176075,
+      "translated": false
+    },
+    {
       "author_name": "Michael Dahmen",
       "author_url": "https://www.google.com/maps/contrib/115229771924572060957/reviews",
       "language": "de",
@@ -20,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYhHHajngcm0az47xbAyM_hlsZyJE4jxjgX-LLb5k8cGAWfg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Zur Behandlungsqualität kann ich leider nichts sagen, da mir zum 2. Mal kurzfristig (taggleich) der Termin storniert wurde. Wartezeit für einen neuen Termin jeweils ca. 6 Monate.\nEs erfolgt keine direkte Benachrichtigung, warum der Termin storniert wurde, sondern lediglich eine Absage via doctolib. Zum 2. Mal einen Urlaubstag für nichts \"geopfert\".\n\nTelefonisch ist die Praxis nicht erreichbar, auf E-Mails wird nicht geantwortet.",
+      "time": 1778136786,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Dahmen",
+      "author_url": "https://www.google.com/maps/contrib/115229771924572060957/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYhHHajngcm0az47xbAyM_hlsZyJE4jxjgX-LLb5k8cGAWfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Zur Behandlungsqualität kann ich leider nichts sagen, da mir zum 2. Mal kurzfristig (taggleich) der Termin storniert wurde. Wartezeit für einen neuen Termin jeweils ca. 6 Monate.\nEs erfolgt keine direkte Benachrichtigung, warum der Termin storniert wurde, sondern lediglich eine Absage via doctolib. Zum 2. Mal einen Urlaubstag für nichts \"geopfert\".\n\nTelefonisch ist die Praxis nicht erreichbar, auf E-Mails wird nicht geantwortet.",
       "time": 1778136786,
       "translated": false
@@ -44,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIz6kP1-rQsW1AeO-ix8NgdhLfsgMI0qYCRw2Xp2oPh96Hw_A=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich habe selten so eine unfreundliche Person gesehen. Abgehoben und die Nase irgendwo oben als hätte sie den Nobelpreis gewonnen. Da gehe ich nicht mehr hin.",
+      "time": 1778058774,
+      "translated": false
+    },
+    {
+      "author_name": "Denisa",
+      "author_url": "https://www.google.com/maps/contrib/108473037852919982382/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIz6kP1-rQsW1AeO-ix8NgdhLfsgMI0qYCRw2Xp2oPh96Hw_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich habe selten so eine unfreundliche Person gesehen. Abgehoben und die Nase irgendwo oben als hätte sie den Nobelpreis gewonnen. Da gehe ich nicht mehr hin.",
       "time": 1778058774,
       "translated": false
@@ -256,11 +316,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 114,
+  "reviewCount": 115,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:23.274Z"
+  "lastUpdated": "2026-05-22T08:21:05.847Z"
 }

@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Birgit Sölzer",
+      "author_url": "https://www.google.com/maps/contrib/112900985275649212974/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9z0wV9wav5KpWofs7y3WU1JOkteC5VyROltTaxrsS1tkIybIL=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bekam sehr schnell einen Termin und musste auch nicht lange warten. Die Mitarbeitenden sind alle sehr freundlich und der Arzt hat mir die Untersuchung sehr verständlich erklärt.",
+      "time": 1777558263,
+      "translated": false
+    },
+    {
       "author_name": "Christa Wessolly",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
@@ -87,6 +99,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJy4bJTBiujkVRW9mHR3dG5lgqNQIz0Pp3K_J7yZgZxlYvz3Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Freundliches Personal, Termin gerecht dran gekommen.  Alles super.",
+      "time": 1776691256,
+      "translated": false
+    },
+    {
+      "author_name": "Christa Wessolly",
+      "author_url": "https://www.google.com/maps/contrib/113043838924455984561/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJy4bJTBiujkVRW9mHR3dG5lgqNQIz0Pp3K_J7yZgZxlYvz3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Freundliches Personal, Termin gerecht dran gekommen.  Alles super.",
       "time": 1776691256,
       "translated": false
@@ -157,5 +181,5 @@
   "rating": 4.8,
   "reviewCount": 73,
   "summary": [],
-  "lastUpdated": "2026-05-19T08:26:09.036Z"
+  "lastUpdated": "2026-05-22T08:20:51.461Z"
 }

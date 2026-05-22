@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Chris C.",
+      "author_url": "https://www.google.com/maps/contrib/113263366622866015131/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHHCajCN7oCDtQZfunbVM1OpY7-SH3qMEnO8ndNUVnJDDEpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei der vorherigen Ärztin, Dr. Jumar, langjährige Patientin. Nun wurde die Praxis von Doceins übernommen. Als ich einen Termin vereinbaren wollte wurde mir mitgeteilt, dass ich als Patientin nicht mehr angenommen werde, da ich zu lange nicht da gewesen sei. Ich solle mir einen anderen Dermatologen suchen, was in Magdeburg zur Zeit aussichtslos ist. Ich bin immer noch schockiert über ein solches Vorgehen. 1 Stern ist dafür leider noch zu viel.",
+      "time": 1779288921,
+      "translated": false
+    },
+    {
       "author_name": "Kaddy Chris",
       "author_url": "https://www.google.com/maps/contrib/102622327908117137941/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUkP-YXDS7u88eAXU6Owxx3lkYCcZUdQUModgimkwDgLHzug=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "War gestern zum Screening / tolles Praxisteam: vom super freundlichen Empfang  bis hin zur Untersuchung (Frau Höfer), alles top / komme gerne in zwei Jahren wieder",
+      "time": 1776745084,
+      "translated": false
+    },
+    {
+      "author_name": "Kaddy Chris",
+      "author_url": "https://www.google.com/maps/contrib/102622327908117137941/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUkP-YXDS7u88eAXU6Owxx3lkYCcZUdQUModgimkwDgLHzug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "War gestern zum Screening / tolles Praxisteam: vom super freundlichen Empfang  bis hin zur Untersuchung (Frau Höfer), alles top / komme gerne in zwei Jahren wieder",
       "time": 1776745084,
       "translated": false
@@ -153,12 +177,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 47,
+  "rating": 4.2,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:22.103Z"
+  "lastUpdated": "2026-05-22T08:21:04.683Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Margit Gaerttner",
+      "author_url": "https://www.google.com/maps/contrib/111217654207892805183/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuGAuSMsvdF8IT8DHCHvYtWPgGwszEejsJkqfK2PV6yHsbaQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum ersten Mal in der Praxis. War sehr angenehm überrascht, freundlicher Empfang, keine Wartezeiten und das Gefühl bei einen kompetenten Arzt gelandet zu sein. Die Praxis ist modern gestaltet und liegt zentral. Kann ich sehr gerne weiterempfehlen",
+      "time": 1779223993,
+      "translated": false
+    },
+    {
       "author_name": "Ko Ti",
       "author_url": "https://www.google.com/maps/contrib/110704287787136347924/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhYciOy29sZrHtWeIBZRV29DXlKv5G7xN-4HfXvi97CPkFucA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich hatte heute Morgen einen Termin und wurde leider wieder weggeschickt. Ich habe den Termin über die app Doctolib bekommen. Leider sind die wie es scheint vollbeschäftigten Damen so überlastet das sie nicht mal Morgens einen Anruf entgegen nehmen können, und das bei Arbeitsbeginn!!! Dann nämlich hätte ich mir die Hinfahrt ersparen können. Ganz schlechte Kommunikation!!!! Über die Ärzte kann ich nichts sagen aber in der Verwaltung stimmt einiges nicht.",
+      "time": 1776848423,
+      "translated": false
+    },
+    {
+      "author_name": "Malcolm x",
+      "author_url": "https://www.google.com/maps/contrib/113429943813464941104/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhYciOy29sZrHtWeIBZRV29DXlKv5G7xN-4HfXvi97CPkFucA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich hatte heute Morgen einen Termin und wurde leider wieder weggeschickt. Ich habe den Termin über die app Doctolib bekommen. Leider sind die wie es scheint vollbeschäftigten Damen so überlastet das sie nicht mal Morgens einen Anruf entgegen nehmen können, und das bei Arbeitsbeginn!!! Dann nämlich hätte ich mir die Hinfahrt ersparen können. Ganz schlechte Kommunikation!!!! Über die Ärzte kann ich nichts sagen aber in der Verwaltung stimmt einiges nicht.",
       "time": 1776848423,
       "translated": false
@@ -157,6 +181,18 @@
       "translated": false
     },
     {
+      "author_name": "Lor Karo",
+      "author_url": "https://www.google.com/maps/contrib/118062623081339894004/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJPfJl6HvybINVmrW2m7S87KNEwf4i3go5qvc77tpnRUZF0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Hatte heute einen Termin. Dr.Nagy ist leider nicht mehr in der Praxis.Hatte einen Termin bei einem Herren Dr. und bin damit leider komplett unzufrieden.Wurde gefragt warum ich da bin, dabei sollte ich einen Kontrolltermin machen, habe Beschwerden, und wurde auch operiert.Für mich war der Termin null zielführend und absolut nicht qualitativ - dafür dass ich ein Jahr auf diesen Termin gewartet habe und auch hier meine erste OP hatte.",
+      "time": 1768901200,
+      "translated": false
+    },
+    {
       "author_name": "Maja Bastian",
       "author_url": "https://www.google.com/maps/contrib/114206521800064203847/reviews",
       "language": "de",
@@ -194,11 +230,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 86,
+  "reviewCount": 87,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:50.038Z"
+  "lastUpdated": "2026-05-22T08:21:31.591Z"
 }

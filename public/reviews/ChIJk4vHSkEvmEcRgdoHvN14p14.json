@@ -127,6 +127,18 @@
       "translated": false
     },
     {
+      "author_name": "Anna Steinle",
+      "author_url": "https://www.google.com/maps/contrib/115436206296248501739/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEhd4B3Mjd1BGKGzk2cSTbCUH815U_g_sQPK2wsxhI_LTU8L00qA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich fühle mich bei Dr. Salzer sehr gut aufgehoben. Er nimmt sich Zeit und ist sehr professionell. Die Wartezeiten von mehr als einer Stunde des mal trotz Termin ist allerdings jedes Mal sehr ärgerlich. Daher gibt zwei Sterne weniger.",
+      "time": 1777370197,
+      "translated": false
+    },
+    {
       "author_name": "Netflix Binge",
       "author_url": "https://www.google.com/maps/contrib/105908059535716344285/reviews",
       "language": "de",
@@ -158,6 +170,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXKBQd5GXt1mdlmNcfO9seG3t0Vg6lEKPspL4xTVz16JkRpw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Der Inhaber droht mit Verleumdung, selbst wenn Sie in gutem Glauben handeln.",
+      "time": 1777369408,
+      "translated": true
+    },
+    {
+      "author_name": "Netflix Binge",
+      "author_url": "https://www.google.com/maps/contrib/105908059535716344285/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXKBQd5GXt1mdlmNcfO9seG3t0Vg6lEKPspL4xTVz16JkRpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Der Inhaber droht mit Verleumdung, selbst wenn Sie in gutem Glauben handeln.",
       "time": 1777369408,
       "translated": true
@@ -290,11 +314,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 191,
+  "reviewCount": 190,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:50.269Z"
+  "lastUpdated": "2026-05-22T08:21:31.815Z"
 }

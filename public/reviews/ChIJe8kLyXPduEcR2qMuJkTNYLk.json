@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Annette Kamphausen",
+      "author_url": "https://www.google.com/maps/contrib/104250007592568299034/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqL-QjgkqcM1SMuqe6L7pI5y5pk3xGMIh1dU2lt5FlKEotxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Dr. Krug ist ein sehr netter, kompetenter und empathischer Arzt, der sich Zeit nimmt und die Fragen und Sorgen der Patienten ernst nimmt. Auch sein gesamtes Team ist sehr freundlich und aufgeschlossen. Ich fühle mich dort sehr gut aufgehoben und kann die Praxis wärmstens empfehlen.",
+      "time": 1778169629,
+      "translated": false
+    },
+    {
       "author_name": "Bert Poeten",
       "author_url": "https://www.google.com/maps/contrib/116289088828961378017/reviews",
       "language": "de",
@@ -66,6 +78,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoG8u_dmlgEx7xBZFuAFSblw0l-SJL-5TFNALoLrkY5YU5Ff6iMA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1774007051,
+      "translated": false
+    },
+    {
+      "author_name": "Joachim Neve",
+      "author_url": "https://www.google.com/maps/contrib/115615652815690293066/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoG8u_dmlgEx7xBZFuAFSblw0l-SJL-5TFNALoLrkY5YU5Ff6iMA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1774007051,
       "translated": false
@@ -134,5 +156,5 @@
   "rating": 4.7,
   "reviewCount": 44,
   "summary": [],
-  "lastUpdated": "2026-05-19T08:26:18.047Z"
+  "lastUpdated": "2026-05-22T08:21:00.743Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marie",
+      "author_url": "https://www.google.com/maps/contrib/116508635963056418591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCXv_wj2o-7fSEw01vRLO8tVkPD79kCqm6jDt8b3bPsa7dng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis, tolle Ärztin und super MFA‘s.\nIch kann die Praxis vom Herzen weiter empfehlen. Das Team überzeugt nicht nur durch Kompetenz sondern zusätzlich auch durch Sympathie. Rundum top 👍",
+      "time": 1779187438,
+      "translated": false
+    },
+    {
       "author_name": "Lea Haubrich",
       "author_url": "https://www.google.com/maps/contrib/117592578730347127488/reviews",
       "language": "de",
@@ -61,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Alexandra G",
+      "author_url": "https://www.google.com/maps/contrib/110058686138320935008/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCEp6eVHfkP_FAC7WoJOzjrUWWP4SZ2hPoXPuDsXrVfXBybQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin schon seit Jahren bei Dr. Dith in Behandlung und ich fühle mich von Anfang an sehr gut aufgehoben. Sie nimmt sich Zeit und ist sehr aufmerksam.\nKann ich nur weiterempfehlen!",
+      "time": 1778176180,
+      "translated": false
+    },
+    {
       "author_name": "Jaroslaw Andrzejewski",
       "author_url": "https://www.google.com/maps/contrib/100677957061042828994/reviews",
       "language": "de",
@@ -80,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ22XvjKlBF1M2ULnzWKPOvw3csbsHJnmIDNCWCXq71fJnB8A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin mehr als zufrieden mit dieser Hautarztpraxis! Schon beim Betreten fühlt man sich gut aufgehoben - die Atmosphäre ist freundlich und professionell zugleich.\nDie Ärztin ist äußerst kompetent, nimmt sich viel Zeit für eine gründliche Untersuchung und erklärt alles verständlich und in Ruhe. Man merkt sofort, dass hier das Wohl der Patienten im Mittelpunkt steht.\nAuch auf Fragen wird ausführlich eingegangen, ohne dass man sich gehetzt fühlt.\nEin großes Lob geht auch an das gesamte Praxisteam: immer freundlich, hilfsbereit und bestens organisiert. Termine werden gut eingehalten, und man wird herzlich empfangen.\nIch kann diese Praxis uneingeschränkt weiterempfehlen - hier ist man in den besten Händen 😊",
+      "time": 1777987963,
+      "translated": false
+    },
+    {
+      "author_name": "Jaroslaw Andrzejewski",
+      "author_url": "https://www.google.com/maps/contrib/100677957061042828994/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ22XvjKlBF1M2ULnzWKPOvw3csbsHJnmIDNCWCXq71fJnB8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin mehr als zufrieden mit dieser Hautarztpraxis! Schon beim Betreten fühlt man sich gut aufgehoben - die Atmosphäre ist freundlich und professionell zugleich.\nDie Ärztin ist äußerst kompetent, nimmt sich viel Zeit für eine gründliche Untersuchung und erklärt alles verständlich und in Ruhe. Man merkt sofort, dass hier das Wohl der Patienten im Mittelpunkt steht.\nAuch auf Fragen wird ausführlich eingegangen, ohne dass man sich gehetzt fühlt.\nEin großes Lob geht auch an das gesamte Praxisteam: immer freundlich, hilfsbereit und bestens organisiert. Termine werden gut eingehalten, und man wird herzlich empfangen.\nIch kann diese Praxis uneingeschränkt weiterempfehlen - hier ist man in den besten Händen 😊",
       "time": 1777987963,
       "translated": false
@@ -230,11 +266,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 222,
+  "reviewCount": 223,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:25.693Z"
+  "lastUpdated": "2026-05-22T08:21:07.928Z"
 }

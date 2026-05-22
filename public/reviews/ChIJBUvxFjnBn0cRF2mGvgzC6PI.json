@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Vanessa Brebant",
+      "author_url": "https://www.google.com/maps/contrib/101383881050566529794/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXV4oM_vTZuTfZIv_iQtUl8kGAiu_wRkffu8-VuGwPeDAHYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis mit sehr hoher Kompetenz!",
+      "time": 1779292554,
+      "translated": false
+    },
+    {
       "author_name": "Julia Kürzinger",
       "author_url": "https://www.google.com/maps/contrib/100898067593794196787/reviews",
       "language": "de",
@@ -198,11 +210,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 50,
+  "reviewCount": 51,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-19T08:26:32.091Z"
+  "lastUpdated": "2026-05-22T08:21:14.104Z"
 }

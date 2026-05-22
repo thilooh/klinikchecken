@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Faiza Salam",
+      "author_url": "https://www.google.com/maps/contrib/102246095053055090619/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLisE5sMHHd4MbzZXQk2AoV9nk8M76WIUzmTb04OhwYowDECg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779391639,
+      "translated": false
+    },
+    {
+      "author_name": "Mustafa Ghulam",
+      "author_url": "https://www.google.com/maps/contrib/116108280105288213633/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlf6UXppXvdAvsdSBzAL-_2h7lRtn--p8Vsbj5kmu90bILQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ist keine Hautarzt ist nur eine Kosmetik Laden ,sehr unfreundliches Team der Kassen Rechnungsstelle muss eingeschaltet werden .",
+      "time": 1779262703,
+      "translated": false
+    },
+    {
       "author_name": "Manuela Schoknecht",
       "author_url": "https://www.google.com/maps/contrib/109680817442330833927/reviews",
       "language": "de",
@@ -25,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Manuela Schoknecht",
+      "author_url": "https://www.google.com/maps/contrib/109680817442330833927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfrHIx9YezTCPyuMP_bICGYaG94LEA-mTiCC9sgYKISQjspg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Wollte für meinen Mann einen Termin machen... nehmen keine neuen Patienten auf...ok...fragte dann warum man nirgendwo einen Termin oder Arzt findet..die Dame am Telefon...da müssen sie sich an den Staat wenden und nicht an uns ...die mussten ja alles reinlassen und hat aufgelegt....habe dann noch einmal angerufen und gefragt warum sie einfach auflegen muss und so respektlos ist ... und ich deutsch bin und nicht Ausländer... WIEDER AUFGELEGT",
+      "time": 1777975832,
+      "translated": false
+    },
+    {
       "author_name": "Jana Hansen-Beck",
       "author_url": "https://www.google.com/maps/contrib/102319403713458247441/reviews",
       "language": "de",
@@ -32,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3CdYQ-WJ__XQbN0iRFYbU4bm6mB076Mv6sRZ_RISjT9_lmA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Sehr freundliches, kompetentes Personal und eine gute Beratung durch den Arzt. Sehr umsichtig.",
+      "time": 1768909370,
+      "translated": false
+    },
+    {
+      "author_name": "Jana Hansen-Beck",
+      "author_url": "https://www.google.com/maps/contrib/102319403713458247441/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3CdYQ-WJ__XQbN0iRFYbU4bm6mB076Mv6sRZ_RISjT9_lmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Sehr freundliches, kompetentes Personal und eine gute Beratung durch den Arzt. Sehr umsichtig.",
       "time": 1768909370,
       "translated": false
@@ -117,12 +163,12 @@
       "translated": true
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 72,
+  "rating": 4.7,
+  "reviewCount": 74,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:19.685Z"
+  "lastUpdated": "2026-05-22T08:21:02.372Z"
 }

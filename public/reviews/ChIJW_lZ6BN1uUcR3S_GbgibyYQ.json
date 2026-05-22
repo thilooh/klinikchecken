@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Crane",
+      "author_url": "https://www.google.com/maps/contrib/100070627714840863629/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5-UCh3KuXh6GlUffW9-iInsJeHCxZes010av_J8oSfCBbOzKy=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Spitze!",
+      "time": 1779180718,
+      "translated": true
+    },
+    {
       "author_name": "Marco Steuer",
       "author_url": "https://www.google.com/maps/contrib/109181568210303923447/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJjfJhXGP0AmBiFHPFIgasGT5HKXIZFc3KWDk6xb-AdBwBnor0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778603995,
+      "translated": false
+    },
+    {
+      "author_name": "Marco Steuer",
+      "author_url": "https://www.google.com/maps/contrib/109181568210303923447/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJjfJhXGP0AmBiFHPFIgasGT5HKXIZFc3KWDk6xb-AdBwBnor0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1778603995,
       "translated": false
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJevKO8Ipram97NbrlnVIeg8x6SKed_YHB7l0vGi4eImKHKRu-O=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "vor einer Woche",
+      "text": "Ärztin sehr nett, aber an der Anmeldung wurde ich von einer Mitarbeiterin (blond, mittleres Alter) richtig unverschämt angegangen. Erst sagte sie\" ja bitte\" zu mir, dann wollte ich ihr den Zettel der Hautärztin geben....dann fuhr sie mich plötzlich an.....ich sollte doch zu der Kollegin (die gerade nicht an ihrem Platz war). Ich sagte dann \"wie bitte\"!? Dann schaute sie mich mit Todesblick an und hörte nicht auf mich zu fixieren.",
+      "time": 1778054142,
+      "translated": false
+    },
+    {
+      "author_name": "Jersy",
+      "author_url": "https://www.google.com/maps/contrib/101077693784499111912/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJevKO8Ipram97NbrlnVIeg8x6SKed_YHB7l0vGi4eImKHKRu-O=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ärztin sehr nett, aber an der Anmeldung wurde ich von einer Mitarbeiterin (blond, mittleres Alter) richtig unverschämt angegangen. Erst sagte sie\" ja bitte\" zu mir, dann wollte ich ihr den Zettel der Hautärztin geben....dann fuhr sie mich plötzlich an.....ich sollte doch zu der Kollegin (die gerade nicht an ihrem Platz war). Ich sagte dann \"wie bitte\"!? Dann schaute sie mich mit Todesblick an und hörte nicht auf mich zu fixieren.",
       "time": 1778054142,
       "translated": false
@@ -288,11 +322,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 124,
+  "reviewCount": 125,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:43.157Z"
+  "lastUpdated": "2026-05-22T08:21:24.924Z"
 }

@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "janet bekir",
+      "author_url": "https://www.google.com/maps/contrib/107314145121980541630/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzhZafX0gajJXyRPWvhDdtGi0-GRNC1TjVU6DPD7oC-k9EBg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778611289,
+      "translated": false
+    },
+    {
       "author_name": "petra pietzke",
       "author_url": "https://www.google.com/maps/contrib/106631761750814415544/reviews",
       "language": "de",
@@ -54,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIh2Xn6y76oqy1o1qN_i2aXvCJ6N6TANAn9vVqoONIirCc5aQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super danke",
+      "time": 1778148746,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Jamroz",
+      "author_url": "https://www.google.com/maps/contrib/117755860850210587270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIh2Xn6y76oqy1o1qN_i2aXvCJ6N6TANAn9vVqoONIirCc5aQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super danke",
       "time": 1778148746,
       "translated": false
@@ -282,5 +304,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-19T08:26:46.439Z"
+  "lastUpdated": "2026-05-22T08:21:28.145Z"
 }

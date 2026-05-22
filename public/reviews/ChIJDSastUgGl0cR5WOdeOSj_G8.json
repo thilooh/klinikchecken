@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Chiller Chiller",
+      "author_url": "https://www.google.com/maps/contrib/111464731312302104462/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxFq19cMxdYO0jJ25V5EVCW9s0ubPKCALfrkWvyqnFj5bhnQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Hautarzt ist super. Ich musste nicht lange auf meinen Termin warten und bisher haben sie mir immer gut Weiter geholfen.",
+      "time": 1779341172,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Barthold",
+      "author_url": "https://www.google.com/maps/contrib/113919267579492986119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4ZlkZgoBCLNtQBvPxERFeLo5xwjyXiqgBJVzMverBuIZsx-Jc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Winkler ist eine sehr kompetente und herzliche Ärztin, die sich Zeit für ihre Patienten nimmt. Generell ist das gesamte Personal sehr entgegenkommend und freundlich",
+      "time": 1779191305,
+      "translated": false
+    },
+    {
       "author_name": "Bardak76",
       "author_url": "https://www.google.com/maps/contrib/111230562451317964544/reviews",
       "language": "de",
@@ -40,6 +64,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDBMpsZiOpWitKPb67wiuPCUFXgs41guQG2da5898xJdZu61U=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778139459,
+      "translated": false
+    },
+    {
+      "author_name": "DerGeist",
+      "author_url": "https://www.google.com/maps/contrib/114232989407142365602/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDBMpsZiOpWitKPb67wiuPCUFXgs41guQG2da5898xJdZu61U=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1778139459,
       "translated": false
@@ -64,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSodPQ1do1I6x1NwwpoyzP2-1ufHyGy-ErvAx2__vvRrX5=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Kann ich nicht beurteilen, keine Terminvergabe möglich!\nVersuche nun seit 4 Tagen telefonisch einen Termin zu vereinbaren, probiere es ca. 10x am Tag.\nVl. liegt es daran das ich gesetzlich versichert bin. Nach der Auswahl im Telefonmenü (Innungskasse/Privat/Gesetzlich) klingelt es ein paar Sekunden, dann kommt die Ansage das \"leider\" alle Mitarbeiter im Gespräch sind und das war es dann.\nAuf einen versprochenen Rückruf warte ich noch immer...",
+      "time": 1777976148,
+      "translated": false
+    },
+    {
+      "author_name": "Dede Mann (dedemann)",
+      "author_url": "https://www.google.com/maps/contrib/115429474631889132275/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSodPQ1do1I6x1NwwpoyzP2-1ufHyGy-ErvAx2__vvRrX5=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Kann ich nicht beurteilen, keine Terminvergabe möglich!\nVersuche nun seit 4 Tagen telefonisch einen Termin zu vereinbaren, probiere es ca. 10x am Tag.\nVl. liegt es daran das ich gesetzlich versichert bin. Nach der Auswahl im Telefonmenü (Innungskasse/Privat/Gesetzlich) klingelt es ein paar Sekunden, dann kommt die Ansage das \"leider\" alle Mitarbeiter im Gespräch sind und das war es dann.\nAuf einen versprochenen Rückruf warte ich noch immer...",
       "time": 1777976148,
       "translated": false
@@ -250,11 +296,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 222,
+  "reviewCount": 224,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:30.653Z"
+  "lastUpdated": "2026-05-22T08:21:12.747Z"
 }

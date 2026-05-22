@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "باقة ورد",
+      "author_url": "https://www.google.com/maps/contrib/104695160531973485248/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDwogNjz2t9GjBpxRVI0t1fsI-d8St5y_LsArhabQT_MuXq9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine hochqualifizierte Ärztin, die hervorragende Arbeit leistet. Ich kann einen Besuch bei ihr wärmstens empfehlen; die Erfahrung spricht für sich.",
+      "time": 1779214773,
+      "translated": true
+    },
+    {
       "author_name": "Oroba Durdur",
       "author_url": "https://www.google.com/maps/contrib/111192050759335174006/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyRfVFMkZT1Yc7FqL9629Sis_qkVVqShG3Mz2cr83AHw3bqg=s128-c0x00000000-cc-rp-mo",
@@ -35,6 +47,18 @@
       "translated": true
     },
     {
+      "author_name": "A. H.",
+      "author_url": "https://www.google.com/maps/contrib/110857054165214274121/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbG8HZwiQVNBCDEm0v_AmMxTcp5f0YKsAalHHu2M42pPhX-A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Gute Klinik, freundliches Personal",
+      "time": 1778170375,
+      "translated": true
+    },
+    {
       "author_name": "John Bassissa",
       "author_url": "https://www.google.com/maps/contrib/112285724797084006799/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-CZMX-wm5LReUAi7sbQRCz4ogSbuCFVrNvay2QhAqQ0cAYWGu=s128-c0x00000000-cc-rp-mo-ba3",
@@ -60,6 +84,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-CZMX-wm5LReUAi7sbQRCz4ogSbuCFVrNvay2QhAqQ0cAYWGu=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1777381014,
+      "translated": false
+    },
+    {
+      "author_name": "John Bassissa",
+      "author_url": "https://www.google.com/maps/contrib/112285724797084006799/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-CZMX-wm5LReUAi7sbQRCz4ogSbuCFVrNvay2QhAqQ0cAYWGu=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1777381014,
       "translated": false
@@ -238,11 +272,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 419,
+  "reviewCount": 420,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-19T08:26:25.456Z"
+  "lastUpdated": "2026-05-22T08:21:07.693Z"
 }

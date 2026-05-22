@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Birgit Irrittje",
+      "author_url": "https://www.google.com/maps/contrib/100877185911335704406/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKABL-yzJ4nJAm3C_zLPYHSGn_9z4xfqONLtK0BeRA9gzJNUw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann mich insgesamt nur positiv über meinen Besuch in der Praxis Haut Partner äußern!\nGute Erreichbarkeit, sehr ansprechende Praxisräume, nettes und zuvorkommendes Personal, moderne Gerätetechnik und last but not least: ein sehr kompetenter, ruhiger und geduldiger Prof. Dr. Krengel 😊\nIn 2 Jahren sehen wir uns auf jeden Fall wieder 👍🏼",
+      "time": 1779371864,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan",
+      "author_url": "https://www.google.com/maps/contrib/109291751339016012835/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBxNY8N-ZAxfYHmGQVXkSlvCbFNZ_kOmJFbTaPLZB8Q3lZ2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Würde sehr gut und herzlich untersucht/behandelt kann ich nur weiterempfehlen",
+      "time": 1779363189,
+      "translated": false
+    },
+    {
+      "author_name": "Kathleen Kamberg",
+      "author_url": "https://www.google.com/maps/contrib/113686947231489082392/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6P1ssOKTXPRkxV8U6jyVbiyvYIdRdmRUab927aYGKS0_VcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779356759,
+      "translated": false
+    },
+    {
+      "author_name": "Horizont 58",
+      "author_url": "https://www.google.com/maps/contrib/102478257336834598245/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnJAW80LsYdGuH-dmKl2bj3Bd6JlF7Gknd6g7Z8sqVIgHmtVo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779352650,
+      "translated": false
+    },
+    {
+      "author_name": "Pascal Schlemo",
+      "author_url": "https://www.google.com/maps/contrib/102600304620089402334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTijM7xCzkAGdfam8rIvLj0jzZ3Ao_kZSfhhJyF_C5bVzP_IDw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Praxis, freundliche Mitarbeiter und kompetente Ärzte, die sich Zeit nehmen. Da können sich wirklich einige Arztpraxen etwas von abgucken. Weiter so!!",
+      "time": 1779214535,
+      "translated": false
+    },
+    {
       "author_name": "Rolf Künzel",
       "author_url": "https://www.google.com/maps/contrib/116558001584996500691/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqF6mBPhhjXdACO4rm799VGvedGFDPngF2PYxSTJuGRbFn8g=s128-c0x00000000-cc-rp-mo",
@@ -314,11 +370,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2259,
+  "reviewCount": 2263,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-19T08:26:22.340Z"
+  "lastUpdated": "2026-05-22T08:21:04.918Z"
 }

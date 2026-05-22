@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Mohammed Fattah",
+      "author_url": "https://www.google.com/maps/contrib/111738374661862553471/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCCSkjKR-GaBpItP2gR0otf8IQ5XpCUDO9oeBko9abzh5JLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Diese unglaublich positive und freundliche Truppe kann ich nur wärmstens empfehlen. Top Arbeit, top Kommunikation und alles ging schnell und ohne Probleme. 💯",
+      "time": 1779361074,
+      "translated": false
+    },
+    {
+      "author_name": "Oguzhan Sancak",
+      "author_url": "https://www.google.com/maps/contrib/100763133289701817283/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSa7C77Sby7ZFquxSyqokfNhQoX38VAzLEloZak_cALnjSVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Hautarzt kann ich nur weiterempfehlen!",
+      "time": 1779187765,
+      "translated": false
+    },
+    {
+      "author_name": "Google Nutzer",
+      "author_url": "https://www.google.com/maps/contrib/114915478091663572834/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLodRQwxL2HqvCEO9DBT4AYvvAzXRYL9RrbqjYul1i3DhjQjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "top kompentente freundliche praxis! dr. hermans anti pigment nach 3-4 monatiger anwendung nur abends hat mir sichtbar gegen pigmentflecken geholfen! kann ich jedem nur empfehlen das mal zu probieren!",
+      "time": 1779183893,
+      "translated": false
+    },
+    {
       "author_name": "Anton Mouritsen",
       "author_url": "https://www.google.com/maps/contrib/105462596165107929417/reviews",
       "language": "de",
@@ -290,11 +326,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 303,
+  "reviewCount": 306,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-19T08:26:48.765Z"
+  "lastUpdated": "2026-05-22T08:21:30.440Z"
 }
