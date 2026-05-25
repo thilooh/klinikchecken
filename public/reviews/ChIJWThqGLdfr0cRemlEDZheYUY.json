@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ebs",
+      "author_url": "https://www.google.com/maps/contrib/117471527516778310352/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRYQq7sNmMKoWHr7P4ZAbVC1SgthKaU-kuSmU8WbochKFgFnO7IQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetente Beratung und sehr organisierter Ablauf.",
+      "time": 1779513636,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Sommer",
       "author_url": "https://www.google.com/maps/contrib/111089425816532081023/reviews",
       "language": "de",
@@ -332,11 +344,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 430,
+  "reviewCount": 431,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-22T08:21:04.217Z"
+  "lastUpdated": "2026-05-25T08:55:26.378Z"
 }

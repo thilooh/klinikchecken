@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Billy Armand",
+      "author_url": "https://www.google.com/maps/contrib/114267795441961405214/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkZG_COXHieT2lUUM3X3MUDg42ND32j5xpyssVAU8Qw6Z6nzx0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "MFA schreien durch die Gänge, Empfang braucht ewig für simpelste Aufgaben. Arzt kommt ins Behandlungszimmer, sagt nichts und spielt erstmal ein paar Minuten am Handy. Unfassbar",
+      "time": 1779480346,
+      "translated": false
+    },
+    {
       "author_name": "Zebelkhan Wbn",
       "author_url": "https://www.google.com/maps/contrib/106511293884037745337/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8_yBmLNxSNL5WtDXxT-sDAyLDC8JljIc8SOjHJAalbtOXGSZ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -237,12 +249,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 138,
+  "rating": 4.3,
+  "reviewCount": 139,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:18.251Z"
+  "lastUpdated": "2026-05-25T08:55:39.955Z"
 }

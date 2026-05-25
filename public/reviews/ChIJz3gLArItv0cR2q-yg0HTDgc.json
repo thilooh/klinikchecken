@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Happy Life",
+      "author_url": "https://www.google.com/maps/contrib/102479154419038175367/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh0nonDZWNpqQ4UAarGmw67yaUj3p0hJMveFIVANvSLwYOHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zum 2. Mal für ein Microneedling mit PRP be Herrn Dr. Omaj und bin wiedermal super zufrieden. Alle sind super freundlich und empathisch. Dr. Omaj nimmt sich viel Zeit und beantwortet alle Fragen. Man fühlt sich sehr wohl :-)",
+      "time": 1779441862,
+      "translated": false
+    },
+    {
       "author_name": "Lulu Rustum",
       "author_url": "https://www.google.com/maps/contrib/104542486888858338096/reviews",
       "language": "de",
@@ -321,7 +333,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 295,
+  "reviewCount": 292,
   "summary": [],
-  "lastUpdated": "2026-05-22T08:20:53.759Z"
+  "lastUpdated": "2026-05-25T08:55:16.456Z"
 }

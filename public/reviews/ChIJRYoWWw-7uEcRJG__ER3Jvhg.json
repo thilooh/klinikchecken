@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Meike Theuerkauf",
+      "author_url": "https://www.google.com/maps/contrib/100318656318647356061/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRhSwyq2GW_FZ-_g_yQZnZ4UdJtK9dHYhVNq8PHNkn6q0bfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super zufrieden. Man wird so lieb in der Praxis begrüßt. Ich fühle mich toll beraten und grossartig behandelt.",
+      "time": 1779480385,
+      "translated": false
+    },
+    {
       "author_name": "Sefika Ayten",
       "author_url": "https://www.google.com/maps/contrib/115913588255111771712/reviews",
       "language": "de",
@@ -358,11 +370,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 207,
+  "reviewCount": 208,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-22T08:21:22.817Z"
+  "lastUpdated": "2026-05-25T08:55:44.334Z"
 }

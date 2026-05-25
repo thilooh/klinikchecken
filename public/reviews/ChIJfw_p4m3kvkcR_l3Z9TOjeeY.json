@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Adel Seido",
+      "author_url": "https://www.google.com/maps/contrib/103560287673258457597/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQYL-Wk452RTe2vVzLPN1Wn3KRloI_fhC-OWX_rwEqvLsZu7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779443138,
+      "translated": false
+    },
+    {
       "author_name": "Raphael",
       "author_url": "https://www.google.com/maps/contrib/112515025101586042620/reviews",
       "language": "de",
@@ -316,11 +326,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 115,
+  "reviewCount": 116,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:05.847Z"
+  "lastUpdated": "2026-05-25T08:55:27.946Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sehezada Selmic",
+      "author_url": "https://www.google.com/maps/contrib/100042946406650789233/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvA7DtMsZDuSePuja3EhEET137yAeYIxIIny3xwcQOGp5qsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe meine Krampfadern op vor zwei Tagen gehabt und bin Mega begeistert,\nTolles Team alle liebevoll, hilfsbereit ,sehr kompetent ich hab mich gut aufgehoben gefühlt.Sie wissen was sie tun.\nVielen Dank an alle vorallem, an den Arzt Dr.Jozef Halasz und sein Team",
+      "time": 1779448278,
+      "translated": false
+    },
+    {
       "author_name": "Nikklass42",
       "author_url": "https://www.google.com/maps/contrib/105540936044869534220/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJo90pYgkM8YUnhoZoGyvqU6jeqdUCoU8i-AT7jm9T41itFAQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Vordergründig war man nett und der Arzt schien zumindest in puncto medizinischer Einordnung kompetent...da man aber meine Behinderung komplett ignorieren und nicht auf meinen Mehrbedarf eingehen wollte, musste ich eine geplante OP absagen. Hauptsächlich lag dies am Verweigern der Kommunikation mit mir und meinen Pflegepersonen. Da man hier auf Patient:innen nicht angewiesen zu sein scheint, ist das okay....ich hoffe dennoch, dass die Kommunikationsstrukturen überdacht werden. Meinen angeforderten medizinischen Bericht bekam mein Hausarzt bis heute nicht zugestellt....schade.",
+      "time": 1778432209,
+      "translated": false
+    },
+    {
+      "author_name": "Lisa Schmitt",
+      "author_url": "https://www.google.com/maps/contrib/107024022622150933408/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJo90pYgkM8YUnhoZoGyvqU6jeqdUCoU8i-AT7jm9T41itFAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Vordergründig war man nett und der Arzt schien zumindest in puncto medizinischer Einordnung kompetent...da man aber meine Behinderung komplett ignorieren und nicht auf meinen Mehrbedarf eingehen wollte, musste ich eine geplante OP absagen. Hauptsächlich lag dies am Verweigern der Kommunikation mit mir und meinen Pflegepersonen. Da man hier auf Patient:innen nicht angewiesen zu sein scheint, ist das okay....ich hoffe dennoch, dass die Kommunikationsstrukturen überdacht werden. Meinen angeforderten medizinischen Bericht bekam mein Hausarzt bis heute nicht zugestellt....schade.",
       "time": 1778432209,
       "translated": false
@@ -182,11 +206,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 163,
+  "reviewCount": 164,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-22T08:21:17.795Z"
+  "lastUpdated": "2026-05-25T08:55:39.517Z"
 }

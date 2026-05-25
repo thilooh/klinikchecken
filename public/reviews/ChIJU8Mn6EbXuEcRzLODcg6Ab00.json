@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Lilav Sido",
+      "author_url": "https://www.google.com/maps/contrib/101387323740714662737/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL_ldFgJsJStxgTbpMyZVrkNKjqsx7YF-6ymp-im7p7__y4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärztin ist sehr kompetent und arbeitet äußerst sauber.\nDie beste Ärztin! 😍❤️",
+      "time": 1779616620,
+      "translated": true
+    },
+    {
+      "author_name": "Arin Ibrahim",
+      "author_url": "https://www.google.com/maps/contrib/104416024936582281607/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsnGpiDvK81eyvD_2988KIspuKt_YNIfZ6ZYctvYgL-7HUKyfeWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mir von Christine die Wangen und Lippen aufspritzen lassen, und es war wirklich ein tolles Erlebnis 🤍 Ich habe überhaupt keine Schmerzen gespürt, ihre Hand war so sanft, mashallah, und das Ergebnis ist so sauber und natürlich geworden, dass man sich selbst noch mehr liebt 🥹 Jedes Mal, wenn ich in den Spiegel schaue, finde ich, dass mein Gesicht schöner geworden ist, und das endgültige Ergebnis wird in einer Woche sichtbar sein, wenn die Schwellung abgeklungen ist 😍 Es ist wirklich wow!",
+      "time": 1779615387,
+      "translated": true
+    },
+    {
       "author_name": "باقة ورد",
       "author_url": "https://www.google.com/maps/contrib/104695160531973485248/reviews",
       "language": "de",
@@ -18,6 +42,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyRfVFMkZT1Yc7FqL9629Sis_qkVVqShG3Mz2cr83AHw3bqg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1778920325,
+      "translated": false
+    },
+    {
+      "author_name": "Oroba Durdur",
+      "author_url": "https://www.google.com/maps/contrib/111192050759335174006/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyRfVFMkZT1Yc7FqL9629Sis_qkVVqShG3Mz2cr83AHw3bqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1778920325,
       "translated": false
@@ -272,11 +306,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 420,
+  "reviewCount": 422,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:07.693Z"
+  "lastUpdated": "2026-05-25T08:55:29.736Z"
 }

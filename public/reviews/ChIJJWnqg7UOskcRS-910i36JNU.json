@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "reiner latsch",
+      "author_url": "https://www.google.com/maps/contrib/111291680787942924498/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKWCTx6ZQt2jxQ6ndbK1D5-jkxPG1-BYxPN4cZV1pLmsb9mw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termin unkompliziert online gebucht, Termin wurde sehr pünktlich eingehalten. Kurze Ein-Fleck-Sprechstunde  ist überaus praktisch, könnte gut Vorbild für andere Arztpraxen sein. Behandelnde Ärztin war sehr freundlich und kompetent, half sehr schnell.",
+      "time": 1779452394,
+      "translated": false
+    },
+    {
       "author_name": "Birgit Irrittje",
       "author_url": "https://www.google.com/maps/contrib/100877185911335704406/reviews",
       "language": "de",
@@ -370,11 +382,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2263,
+  "reviewCount": 2262,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-22T08:21:04.918Z"
+  "lastUpdated": "2026-05-25T08:55:27.056Z"
 }

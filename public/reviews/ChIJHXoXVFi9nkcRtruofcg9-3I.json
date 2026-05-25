@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Barbara Higl",
+      "author_url": "https://www.google.com/maps/contrib/100896077567816224903/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrN-11ummRQ30EiZejCEwxO69OwnSqG8LbndEEPHddxr1jPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte mich von Herzen bei der Neurologie des Vincentinum bedanken. Schon bei der Aufnahme wurde mein Ehemann äußerst freundlich, respektvoll und professionell empfangen. Man hatte sofort das Gefühl, gut aufgehoben zu sein.\n\nDie Pflege während des Aufenthalts war hervorragend: aufmerksam, einfühlsam, hilfsbereit und jederzeit geduldig. Auch in stressigen Situationen blieb das gesamte Team stets freundlich und zugewandt.\n\nBesonders positiv hervorheben möchte ich die angenehme Atmosphäre auf der Station, die gute Organisation und die menschliche Betreuung. Der gesamte Aufenthalt meines Ehemannes war geprägt von Kompetenz, Fürsorge und Wertschätzung.\n\nVielen Dank an alle Ärztinnen, Ärzte, Pflegekräfte und Mitarbeitenden der Neurologie im Vincentinum für die ausgezeichnete Betreuung. Ich kann diese Station uneingeschränkt weiterempfehlen.",
+      "time": 1779532564,
+      "translated": false
+    },
+    {
       "author_name": "Daniel “Daniel k” Kurth",
       "author_url": "https://www.google.com/maps/contrib/100776868689198766030/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITvplmJSadyaC_bgSCcbZpqqUvmqGOz737UStEwM5M0ayr=s128-c0x00000000-cc-rp-mo-ba2",
@@ -290,11 +302,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 393,
+  "reviewCount": 394,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-22T08:21:09.753Z"
+  "lastUpdated": "2026-05-25T08:55:31.719Z"
 }

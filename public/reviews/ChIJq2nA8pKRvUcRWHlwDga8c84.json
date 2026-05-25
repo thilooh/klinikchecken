@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Marlene",
+      "author_url": "https://www.google.com/maps/contrib/111881133138319722035/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxFrtIXDmAGL_lVbDObYKnus2Nr9gVFcRH8RI8R3VljZccv-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war das erste Mal in der Praxis und hatte eine sehr kompetente und einfühlsame Ärztin. Frau Dr. Ahmadzadeh hat mir mit meinen Beschwerden sehr gut geholfen und auch das Anmeldepersonal und die Arzthelferinnen waren freundlich. Das einzig Negative ist der viel zu lange Fragebogen, den man am Anfang ausfüllen muss.",
+      "time": 1779617690,
+      "translated": false
+    },
+    {
+      "author_name": "Leo Korn",
+      "author_url": "https://www.google.com/maps/contrib/103848792989812898263/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyUzJuQXKYTv7ttLzQQEk4XIvJY6bZddAEDDv5gStemQC72w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Moderne Praxis, freundliches und kompetentes Team.\nImmer gerne wieder",
+      "time": 1779532652,
+      "translated": false
+    },
+    {
       "author_name": "Jason Gbur",
       "author_url": "https://www.google.com/maps/contrib/102969978321462736197/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL79TRJ7RpZ8LykqKGNSdJOHkoBizs9jLEntouyWAk-9a5zYw=s128-c0x00000000-cc-rp-mo",
@@ -370,11 +394,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 287,
+  "reviewCount": 289,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:18.481Z"
+  "lastUpdated": "2026-05-25T08:55:40.177Z"
 }

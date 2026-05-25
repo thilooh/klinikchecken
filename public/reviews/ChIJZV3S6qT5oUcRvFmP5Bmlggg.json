@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manfred Schindelek",
+      "author_url": "https://www.google.com/maps/contrib/101467119250665776486/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIhO6FNKbMry4f8iyBokscusAatM7cWr6q7PzzUPl3tYg_sxS2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles top, von Beratung über Behandlung und Nachsorge bis zur Abrechnung",
+      "time": 1779606047,
+      "translated": false
+    },
+    {
       "author_name": "Anja Ackermann",
       "author_url": "https://www.google.com/maps/contrib/116717947557086283141/reviews",
       "language": "de",
@@ -110,11 +122,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 8,
+  "reviewCount": 9,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-05-22T08:21:33.637Z"
+  "lastUpdated": "2026-05-25T08:55:54.587Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sylvia",
+      "author_url": "https://www.google.com/maps/contrib/110040419150172118542/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2gg8gmrxKlTJEp9WMx-Dx0JrGhOjeV00ExGIk89-n9JqsXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach mehreren erfolglosen Arztbesuchen endlich eine klare Ursache für meine Beschwerden zu finden, war für mich eine große Erleichterung. Vielen Dank für die kompetente, einfühlsame und professionelle Betreuung – diese Praxis ist absolut empfehlenswert.\n\nBesonders hervorheben möchte ich Herrn Dr. Kaune: Ich war mit der Untersuchung mehr als zufrieden. Er hat sich viel Zeit genommen und mir die medizinische Situation verständlich, ausführlich und ruhig erklärt. Man fühlt sich hier bestens aufgehoben und ernst genommen. Klare Empfehlung!",
+      "time": 1779536760,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Kuchem",
       "author_url": "https://www.google.com/maps/contrib/105372787347307544996/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnobw1O7EpKdwIlq-XiW9GF482VI0IFKDbWMcCYae-KWTTNov2=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Es handelt sich hier um ein ganz tolles Dermatologikum. Alles in einem Hause und die telefonische Erreichbarkeit ist auch besser als bei vielen anderen Ärzten.\nSehr freundliches Personal und bisher hatte ich auch nie längere Wartezeiten als 20 Minuten😎\nDr. Kaune ist auch ein sehr guter und humorvoller Arzt.\nIch fühle mich dort insgesamt sehr gut aufgehoben und ist eine absolute Weiter Empfehlung.",
+      "time": 1777025658,
+      "translated": false
+    },
+    {
+      "author_name": "Heiko B.",
+      "author_url": "https://www.google.com/maps/contrib/116423012853104180121/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnobw1O7EpKdwIlq-XiW9GF482VI0IFKDbWMcCYae-KWTTNov2=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Es handelt sich hier um ein ganz tolles Dermatologikum. Alles in einem Hause und die telefonische Erreichbarkeit ist auch besser als bei vielen anderen Ärzten.\nSehr freundliches Personal und bisher hatte ich auch nie längere Wartezeiten als 20 Minuten😎\nDr. Kaune ist auch ein sehr guter und humorvoller Arzt.\nIch fühle mich dort insgesamt sehr gut aufgehoben und ist eine absolute Weiter Empfehlung.",
       "time": 1777025658,
       "translated": false
@@ -278,11 +302,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 189,
+  "reviewCount": 190,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:01.915Z"
+  "lastUpdated": "2026-05-25T08:55:24.156Z"
 }

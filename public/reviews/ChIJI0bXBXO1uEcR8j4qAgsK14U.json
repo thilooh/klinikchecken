@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anni Mostert",
+      "author_url": "https://www.google.com/maps/contrib/108285024592075994039/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYR1LiImqGhssFdCwIO2oO5P2A7MznzfIn9rORXPUX6H5syg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Beratung ist super und die Ärzte nehmen sich wirklich Zeit. Leider erhält man einen Termin erst in 4-6 Monaten, weshalb man frühzeitig einen ausmachen sollte. Ansonsten gibt es nichts zu bemängeln.",
+      "time": 1779440000,
+      "translated": false
+    },
+    {
       "author_name": "Mohammed Fattah",
       "author_url": "https://www.google.com/maps/contrib/111738374661862553471/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLepP0LVy5YmAT-k-uJkq34r5IdROMRX8A_yuclkncDpNzRuQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Fantastischer Service und ein tolles Erlebnis.",
+      "time": 1778959081,
+      "translated": true
+    },
+    {
+      "author_name": "Anton Mouritsen",
+      "author_url": "https://www.google.com/maps/contrib/105462596165107929417/reviews",
+      "language": "de",
+      "original_language": "da",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLepP0LVy5YmAT-k-uJkq34r5IdROMRX8A_yuclkncDpNzRuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Fantastischer Service und ein tolles Erlebnis.",
       "time": 1778959081,
       "translated": true
@@ -332,5 +356,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-22T08:21:30.440Z"
+  "lastUpdated": "2026-05-25T08:55:51.556Z"
 }

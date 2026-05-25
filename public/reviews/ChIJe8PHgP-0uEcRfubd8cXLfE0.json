@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "dietmarleila",
+      "author_url": "https://www.google.com/maps/contrib/103856582067147230692/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2ciC2mQQ5l5s6C1cXUouPfipFFgsSORWqz39uNQSoXKxKbg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779612006,
+      "translated": false
+    },
+    {
       "author_name": "Daniel Pikulski",
       "author_url": "https://www.google.com/maps/contrib/108619031813173526003/reviews",
       "language": "de",
@@ -338,11 +348,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 187,
+  "reviewCount": 188,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:30.670Z"
+  "lastUpdated": "2026-05-25T08:55:51.779Z"
 }

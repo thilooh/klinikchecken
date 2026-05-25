@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Carmen Hackbarth",
+      "author_url": "https://www.google.com/maps/contrib/110736188033782127902/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3Ffjaf1ewzj_qXKjx9iNW0m6bHR55DFSNJ-jvX_LAlTR2CXQj=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "8 Stunden in der Notaufnahme verbracht",
+      "time": 1779529750,
+      "translated": false
+    },
+    {
       "author_name": "Camper 1970 GmbH",
       "author_url": "https://www.google.com/maps/contrib/113064043351919491747/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgCFiXe3EXP6gN3wfmXdCiTLEyn_8AVmkUUpYK0sGax-LdJQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Mein Mann hatte heute dort einen Termin.\nDas es sowas noch gibt 🍀❤️super nettes Team, tolle Ärztin Frau Dr.Zander ,wir fühlten uns super aufgehoben.\nKommen sehr gerne wieder.\nVielen Dank für alles.",
+      "time": 1771869718,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Triebel",
+      "author_url": "https://www.google.com/maps/contrib/103690664231450417615/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgCFiXe3EXP6gN3wfmXdCiTLEyn_8AVmkUUpYK0sGax-LdJQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Mein Mann hatte heute dort einen Termin.\nDas es sowas noch gibt 🍀❤️super nettes Team, tolle Ärztin Frau Dr.Zander ,wir fühlten uns super aufgehoben.\nKommen sehr gerne wieder.\nVielen Dank für alles.",
       "time": 1771869718,
       "translated": false
@@ -106,11 +130,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 80,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:06.314Z"
+  "lastUpdated": "2026-05-25T08:55:28.397Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Annette Lipschinski",
+      "author_url": "https://www.google.com/maps/contrib/111007270498499549674/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9dGqkHOrpMydvL2l4cFebP-otuKFUsIWzlPl3yL65ZOQqXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schöne gepflegte Klinik,innen wie außen. Ich war in einem 2-Bettzimmer untergebracht.  Hat man aus dem Fenster geschaut,  sieht man eine gepflegte Parkanlage mit Springbrunnen.. Das Essen wird hier selber gekocht  und zubereitet.  Total lecker. Zimmer sauber.  Pflegepersonal sehr freundlich und hilfsbereit.\nDr.Al-Mekhlaif hat mich am21.5.26 an der HWS operiert. Nun bin ich gespannt auf den Heilungsprozess.  Bisher ersteinma",
+      "time": 1779479311,
+      "translated": false
+    },
+    {
       "author_name": "Manuela Köllner",
       "author_url": "https://www.google.com/maps/contrib/101137351152136839255/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCcuBSoWl7kRRt5Fi-lQpAzMcTFnD9ItdiNFu0I_3hrPmg1Q=s128-c0x00000000-cc-rp-mo-ba2",
@@ -169,6 +181,18 @@
       "translated": true
     },
     {
+      "author_name": "Ivona Jankovic",
+      "author_url": "https://www.google.com/maps/contrib/104805591645546511798/reviews",
+      "language": "de",
+      "original_language": "hr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9QYKPDBsgvEv9OWk6mMyQRKIBwmrolCKFyrsq6I71rsoS0Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr sauber und ordentlich. Ich war mit einem Freund dort, der sich dort bereits einer Operation unterzogen hatte; seine Bewertung liegt bei 5,0.",
+      "time": 1776964509,
+      "translated": true
+    },
+    {
       "author_name": "Lothar Ludwig",
       "author_url": "https://www.google.com/maps/contrib/107541640597404475132/reviews",
       "language": "de",
@@ -240,11 +264,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 144,
+  "reviewCount": 145,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-22T08:21:03.743Z"
+  "lastUpdated": "2026-05-25T08:55:25.940Z"
 }

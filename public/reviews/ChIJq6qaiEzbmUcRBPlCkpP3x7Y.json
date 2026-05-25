@@ -97,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "René Fuchs",
+      "author_url": "https://www.google.com/maps/contrib/111349320544253146711/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAOcQVI15aNNm_CwqFm-0Eh271BXi33Sh4dd_hYhcgh0KvAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich wurde in der Praxis gut beraten und behandelt (med.)",
+      "time": 1777028691,
+      "translated": false
+    },
+    {
       "author_name": "D. H.",
       "author_url": "https://www.google.com/maps/contrib/107174236701653752787/reviews",
       "language": "de",
@@ -172,5 +184,5 @@
   "rating": 3.5,
   "reviewCount": 101,
   "summary": [],
-  "lastUpdated": "2026-05-22T08:21:00.047Z"
+  "lastUpdated": "2026-05-25T08:55:22.371Z"
 }

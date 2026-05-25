@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dennis Pöhler",
+      "author_url": "https://www.google.com/maps/contrib/106426555045864525061/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINXlwyZGvOTc6Oybbi8c0L1Glw7AZpWQom29_nyG3PvTnWgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich begeistert es ging alles sehr schnell und alles verlief reibungslos.\nEs war eigentlich nur ein Beratungsgespräch vereinbart, aber er hat direkt den Eingriff gemacht und ich habe mich gut aufgehoben gefühlt",
+      "time": 1779551301,
+      "translated": false
+    },
+    {
       "author_name": "Kelly Maria",
       "author_url": "https://www.google.com/maps/contrib/111466810999692954797/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-LaNpTX7PuKSVBHnH16HbgWfDHRSpqTXGjWE7JzBNUujWzA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war in der Praxis Ludwigshafen für Botox und Lippenunterspritzung und bin mehr als begeistert mit dem Ergebnis ! Frau Dr. Keil ist eine Künstlerin und einfach die Beste die ich je hatte !",
+      "time": 1778231044,
+      "translated": false
+    },
+    {
+      "author_name": "Kelly Maria",
+      "author_url": "https://www.google.com/maps/contrib/111466810999692954797/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-LaNpTX7PuKSVBHnH16HbgWfDHRSpqTXGjWE7JzBNUujWzA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war in der Praxis Ludwigshafen für Botox und Lippenunterspritzung und bin mehr als begeistert mit dem Ergebnis ! Frau Dr. Keil ist eine Künstlerin und einfach die Beste die ich je hatte !",
       "time": 1778231044,
       "translated": false
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHFhUbj6H6uURWNxbqpZAHDwCrItSBuVFvVYmIx-EGF_JY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich habe in dieser Klinik sehr positive Erfahrungen gemacht. Die Atmosphäre ist sauber, professionell und einladend, vom ersten Moment an. Der Arzt nimmt sich Zeit zum Zuhören, erklärt alles klar und verständlich und sorgt dafür, dass man sich während der gesamten Behandlung wohlfühlt. Die Sorgfalt und Liebe zum Detail sind hervorragend, und die Ergebnisse sprechen für sich. Absolut empfehlenswert für alle, die eine zuverlässige und qualitativ hochwertige Klinik für Dermatologie und Laserbehandlungen suchen.",
+      "time": 1777135520,
+      "translated": false
+    },
+    {
+      "author_name": "Gloria Hallelujah wood",
+      "author_url": "https://www.google.com/maps/contrib/101501768799361877055/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHFhUbj6H6uURWNxbqpZAHDwCrItSBuVFvVYmIx-EGF_JY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich habe in dieser Klinik sehr positive Erfahrungen gemacht. Die Atmosphäre ist sauber, professionell und einladend, vom ersten Moment an. Der Arzt nimmt sich Zeit zum Zuhören, erklärt alles klar und verständlich und sorgt dafür, dass man sich während der gesamten Behandlung wohlfühlt. Die Sorgfalt und Liebe zum Detail sind hervorragend, und die Ergebnisse sprechen für sich. Absolut empfehlenswert für alle, die eine zuverlässige und qualitativ hochwertige Klinik für Dermatologie und Laserbehandlungen suchen.",
       "time": 1777135520,
       "translated": false
@@ -156,11 +192,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 53,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:25.836Z"
+  "lastUpdated": "2026-05-25T08:55:47.178Z"
 }

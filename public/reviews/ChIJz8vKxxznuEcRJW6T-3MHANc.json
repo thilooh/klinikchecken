@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Ali Souliman",
+      "author_url": "https://www.google.com/maps/contrib/112689641502901099349/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ7ObQO4cP0_EZP1BmkS-dgQUFGKpysmWILfjxtVvQdC-O-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider bin ich sehr unzufrieden. Mein Termin wurde zweimal hintereinander von der Praxis abgesagt, obwohl ich insgesamt fast sechs Monate gewartet habe. Das ist für Patienten wirklich enttäuschend und organisatorisch sehr schlecht. Ich hätte mir mehr Zuverlässigkeit und bessere Kommunikation gewünscht",
+      "time": 1779466816,
+      "translated": false
+    },
+    {
+      "author_name": "Marlen B.",
+      "author_url": "https://www.google.com/maps/contrib/101594582280348179032/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK7kvyO53wNZ9FAMo9Pr1bwhrTQyTC4Nt7X41paRBpH5E5Mg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Da die telefonische Erreichbarkeit nicht gegeben ist und laut Band die Termine unproblematisch online gemacht werden können, habe ich es gewagt. Tatsächlich konnte ein Termin für den nächsten Tag ausgewählt werden. Traurigerweise, versuchen die guten Damen vorne die Patienten förmlich dazu zu zwingen eine Behandlung in Anspruch zu nehmen die gar nicht benötigt wird. Ich habe also einen Termin vereinbart, was bedeutet ein gewisses Zeitfenster und ein Arzt sind dafür eingeplant gewesen, weil ich aber nicht ein komplettes Screening machen lassen wollte, darf ich zur Sprechstunde Ende August wiederkommen..",
+      "time": 1779440287,
+      "translated": false
+    },
+    {
       "author_name": "Günes Kukuoglu",
       "author_url": "https://www.google.com/maps/contrib/103082409332147399406/reviews",
       "language": "de",
@@ -10,6 +34,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Hallo, ich kann leider nicht eine Topbewertung hier abgeben.\nAllgemein gibt es nicht wirklich etwas zu beanstanden. Aber heute wurden mir drei Muttermale entfernt, alles gut dachte ich erstmal, aber der Verband da drauf wurde nicht ordentlich gemacht. Der eine fiel mir kurz danach in der Praxis schon auf. Die Wundstelle lag bei einem nicht unter der Kompresse vom Pflaster sondern unter dem Klebeband. In der Praxis habe ich drauf hingewiesen aber die Arzthelferin die es gemacht hatte meinte es sei nicht schlimm. Ok naja, bin dann so nach Hause gegangen und zu Hause da fiel mir der Andere am Nacken brennend auf und meine Frau sah dass dieser Verband auch nicht korrekt auf der Wundstelle lag, die Hälfte lag wieder unter einem Klebeband. Ich mein, sowas kann ja nicht gut bzw. in Ordnung sein oder ? Ich wünsche mir dass auf so etwas in Zukunft bitte auch geachtet wird. Ich hoffe nun dass die Stellen nur ganz korrekt abheilen und dass sie kosmetisch auch gut hinterher aussehen werden. Ansonsten war ich mit der Praxis ganz zufrieden bis jetzt.",
       "time": 1779131977,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Müller",
+      "author_url": "https://www.google.com/maps/contrib/102031152276474561988/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI-SzpzlyaYicnewT2cSj1OkaU8KJ8NFOBwYWzJP9WxAeEoQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die Medizinerin hat sich eine Hautveränderung angeschaut und wollte diese ohne Diagnose, oder weitere Diagnostik rausschneiden.",
+      "time": 1779087225,
       "translated": false
     },
     {
@@ -293,12 +329,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 356,
+  "rating": 4.4,
+  "reviewCount": 358,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-22T08:21:22.369Z"
+  "lastUpdated": "2026-05-25T08:55:43.895Z"
 }
