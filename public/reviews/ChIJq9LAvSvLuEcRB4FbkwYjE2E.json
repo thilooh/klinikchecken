@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Walter Boden",
+      "author_url": "https://www.google.com/maps/contrib/101408308964074698835/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7zHktadQae1MfENGgSVx4E6MHF3sUolgMPdx85mRxV-999kfM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war selten so beeindruckt von einer medizinischen Behandlung wie bei diesem Gefäßchirurgen. Vom ersten Gespräch bis zur Nachsorge hat einfach alles gestimmt. Man merkt sofort, dass hier absolute Kompetenz, jahrelange Erfahrung und echte Leidenschaft für den Beruf zusammenkommen.\n\nDie Operation verlief nicht nur perfekt, sondern die gesamte Atmosphäre war außergewöhnlich professionell, ruhig und gleichzeitig menschlich. Was eigentlich eine belastende OP hätte sein können, fühlte sich durch die hervorragende Betreuung fast wie ein perfekt organisiertes Event an. Jeder Handgriff saß, das gesamte Team war freundlich, aufmerksam und bestens eingespielt.\n\nBesonders hervorheben möchte ich die verständliche Aufklärung, die enorme Ruhe des Arztes und das Gefühl, jederzeit in den besten Händen zu sein. Genau so stellt man sich moderne Medizin auf höchstem Niveau vor.\n\nFür mich ganz klar: absolute Spitzenklasse und mehr als verdiente 5 Sterne. Vielen Dank für diese außergewöhnliche Leistung und Betreuung!",
+      "time": 1779819341,
+      "translated": false
+    },
+    {
       "author_name": "Ines Dickmanns",
       "author_url": "https://www.google.com/maps/contrib/111913194193062450908/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhpsCTOWvluyTh8DIjJ54MSVcPqAhN3rTriflPoxbusFPG3E77=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr nett freundlich und hat sich viel Zeit genommen. Seeeehr gut",
+      "time": 1777108764,
+      "translated": false
+    },
+    {
+      "author_name": "Ines Dickmanns",
+      "author_url": "https://www.google.com/maps/contrib/111913194193062450908/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhpsCTOWvluyTh8DIjJ54MSVcPqAhN3rTriflPoxbusFPG3E77=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr nett freundlich und hat sich viel Zeit genommen. Seeeehr gut",
       "time": 1777108764,
       "translated": false
@@ -205,11 +229,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 75,
+  "reviewCount": 76,
   "summary": [
     "Dr. Kusenack nimmt sich außergewöhnlich viel Zeit — Patienten reisen teils extra aus dem Ausland an",
     "Krampfader-Behandlungen mit sehr hoher Erfolgsrate, persönliche Nachsorge noch am OP-Abend",
     "Familiäre, vertrauensvolle Atmosphäre — auch Angehörige werden daraufhin Patienten"
   ],
-  "lastUpdated": "2026-05-25T08:55:13.130Z"
+  "lastUpdated": "2026-05-28T08:41:24.002Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Stephan Werkmeister",
+      "author_url": "https://www.google.com/maps/contrib/112398076848759730630/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPXHAZO8yqqYiB0whZ6IyqDOoDkRov_Asgpc7MM5MFxWcdTg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von der Rezeption bis zu den behandelnden Ärzten sind alle sehr professionell und freundlich.",
+      "time": 1779797407,
+      "translated": false
+    },
+    {
       "author_name": "Hans Hackelberg",
       "author_url": "https://www.google.com/maps/contrib/117159960298556667384/reviews",
       "language": "de",
@@ -316,11 +328,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 194,
+  "reviewCount": 195,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-05-25T08:55:56.960Z"
+  "lastUpdated": "2026-05-28T08:42:12.152Z"
 }

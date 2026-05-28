@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Lydia Veltrup",
+      "author_url": "https://www.google.com/maps/contrib/109017200506515991683/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwWKfUE_eyUu86XbX8vf9tYoiaYYFLfWPwRpwPHGx2I8g2xw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schon seit ein paar Jahren Patientin bei Frau Dr. Haut und finde sie wirklich toll. Mega sympathisch aber auch sehr professionell. Ich empfehle sie sehr gerne weiter!",
+      "time": 1779897508,
+      "translated": false
+    },
+    {
+      "author_name": "P Diddy",
+      "author_url": "https://www.google.com/maps/contrib/114487223248486747883/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU9ugaEViLngO07Z4nr3WluZAGKsXEZ90SAOJc2SLsvhN6ZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Moderne Praxis, freundliche und kompetente Ärztin. Ich habe dort ein gutes Gefühl.",
+      "time": 1779800840,
+      "translated": false
+    },
+    {
       "author_name": "Olga",
       "author_url": "https://www.google.com/maps/contrib/108081447095846416573/reviews",
       "language": "de",
@@ -49,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Renate Schmidt-Ong",
+      "author_url": "https://www.google.com/maps/contrib/113335911261102219799/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVASChcgIQyciSg4Jfa1Nr9nOZqfP76xNEYeymXkLnk3vcXlc56mw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Praxis ist sehr zu empfehlen. Frau Doktor und ihr Team beantworten alle meine Fragen geduldig und kompetent. Laserbehandlung daraufhin (im Gesicht) direkt durchgeführt. Dankeschön",
+      "time": 1778066891,
+      "translated": false
+    },
+    {
       "author_name": "Matthias Lilge",
       "author_url": "https://www.google.com/maps/contrib/110812005451338881223/reviews",
       "language": "de",
@@ -80,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUqUUlvOrM6IdebkHcQatUoBaURF4fkyKGHSC8GoXZ2Re5IQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr kompetentes und freundliches Team unter der Leitung von Frau Dr. Haut.\nDie Praxis besticht durch modernste Ausstattung, so dass Behandlungen nach aktuellem Stand der Wissenschaft erfolgen können.\nHier fühlt man sich gut aufgehoben.",
+      "time": 1778004866,
+      "translated": false
+    },
+    {
+      "author_name": "Matthias Lilge",
+      "author_url": "https://www.google.com/maps/contrib/110812005451338881223/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUqUUlvOrM6IdebkHcQatUoBaURF4fkyKGHSC8GoXZ2Re5IQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr kompetentes und freundliches Team unter der Leitung von Frau Dr. Haut.\nDie Praxis besticht durch modernste Ausstattung, so dass Behandlungen nach aktuellem Stand der Wissenschaft erfolgen können.\nHier fühlt man sich gut aufgehoben.",
       "time": 1778004866,
       "translated": false
@@ -338,11 +386,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 77,
+  "reviewCount": 79,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-25T08:56:00.819Z"
+  "lastUpdated": "2026-05-28T08:42:16.348Z"
 }

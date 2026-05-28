@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Varusschlacht",
+      "author_url": "https://www.google.com/maps/contrib/108898559932005211600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1v9ooe5YArQBpPy_5uvdm4oc2qZ40zqbRmW5c_ajiiZuRyw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Grenzner - der Mann ist einfach ein Profi  - und menschlich durch nichts zu ersetzen",
+      "time": 1779887474,
+      "translated": false
+    },
+    {
+      "author_name": "Renate -56",
+      "author_url": "https://www.google.com/maps/contrib/109648414260087039402/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOWHacWzMRaNHrnQK92YrcJKLl9uXIlcj9bts8j-OOsxhSZA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank, Herr Dr. Grenzer für die kompetente, freundliche Beratung und die Behandlung mit dem Radiofrequenz Gerät.\nIch weiss mich bei Ihnen gut aufgehoben und nehme gerne eine längere Anfahrtszeit in Kauf.\nGerne werde ich Sie weiterempfehlen....\nFreundliche Grüße\nRenate",
+      "time": 1779835941,
+      "translated": false
+    },
+    {
       "author_name": "Christel Rudolf",
       "author_url": "https://www.google.com/maps/contrib/114368359676525695876/reviews",
       "language": "de",
@@ -60,6 +84,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV9J0rXCaOEiPxLhvcimrTNivTcqvyroD8u_s7jpCS8IRH1hzR=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1777378759,
+      "translated": false
+    },
+    {
+      "author_name": "László Pálinkás",
+      "author_url": "https://www.google.com/maps/contrib/103357903617313635083/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV9J0rXCaOEiPxLhvcimrTNivTcqvyroD8u_s7jpCS8IRH1hzR=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1777378759,
       "translated": false
@@ -224,11 +258,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 143,
+  "reviewCount": 145,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-25T08:55:33.033Z"
+  "lastUpdated": "2026-05-28T08:41:46.339Z"
 }

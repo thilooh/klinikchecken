@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Laber Backe",
+      "author_url": "https://www.google.com/maps/contrib/103982497730185885764/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbj3owLO5VyCrMM5WLadbPFLhXmyBP7Z_x5G-cPRqfmRW8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Gestern mehrfach angerufen keiner geht ran….nach dem Tausendsten Versuch endlich ein Lebenszeichen….dann der Hammer 😅😂🤣 „wir haben momentan viel zu tun, und keine Zeit für solche Sachen “ 🤦 Hallo!!! Möchte meine Befunde!!! Absolut daneben und unprofessionell….nie wieder diese Praxis!!!",
+      "time": 1779248557,
+      "translated": false
+    },
+    {
       "author_name": "Marie",
       "author_url": "https://www.google.com/maps/contrib/116508635963056418591/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Marie",
+      "author_url": "https://www.google.com/maps/contrib/116508635963056418591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCXv_wj2o-7fSEw01vRLO8tVkPD79kCqm6jDt8b3bPsa7dng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Tolle Praxis, tolle Ärztin und super MFA‘s.\nIch kann die Praxis vom Herzen weiter empfehlen. Das Team überzeugt nicht nur durch Kompetenz sondern zusätzlich auch durch Sympathie. Rundum top 👍",
+      "time": 1779187438,
+      "translated": false
+    },
+    {
       "author_name": "Lea Haubrich",
       "author_url": "https://www.google.com/maps/contrib/117592578730347127488/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtMYtmX3sDajwC3UDq-eFA6e_N3PwMl3ZcseSuMfmJbX0xpA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Team! Hier wird direkt geholfen - kann ich einfach nur empfehlen ! Fühle mich sehr gut aufgehoben",
+      "time": 1779114991,
+      "translated": false
+    },
+    {
+      "author_name": "Lea Haubrich",
+      "author_url": "https://www.google.com/maps/contrib/117592578730347127488/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtMYtmX3sDajwC3UDq-eFA6e_N3PwMl3ZcseSuMfmJbX0xpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super nettes Team! Hier wird direkt geholfen - kann ich einfach nur empfehlen ! Fühle mich sehr gut aufgehoben",
       "time": 1779114991,
       "translated": false
@@ -284,5 +320,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-25T08:55:29.961Z"
+  "lastUpdated": "2026-05-28T08:41:42.991Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Mikel Sodenberg",
+      "author_url": "https://www.google.com/maps/contrib/103331206423414877997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV7WSD52nWJVbFjSU_p2rpRJ0gr6e6iq5qb8Bn7VfNJ6GegQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "after my wife had an appointment one month ago to attach a heart rate and blood pressure monitor, she came only to know that they don't have the device currently, with no prior information.\ndisrespect for the patient's time and utter unprofessionallity.\n\nNachdem meine Frau vor einem Monat einen Termin vereinbart hatte, um ein Herzfrequenz- und Blutdruckmessgerät anlegen zu lassen, musste sie – ohne jegliche Vorabinformation – vor Ort feststellen, dass das Gerät derzeit gar nicht verfügbar war.\nEin völliger Mangel an Respekt vor der Zeit des Patienten sowie absolute Unprofessionalität.",
+      "time": 1779955709,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfgang Huß",
+      "author_url": "https://www.google.com/maps/contrib/112729184647727823861/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6pfX94jL_4hKnRbNUdvy9DifXND_TnBz4VWfBZciQ2oBJmF-k8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top OP, top Betreuung",
+      "time": 1779807179,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Nickl",
+      "author_url": "https://www.google.com/maps/contrib/103821290616241472324/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV69UBP-xsDoDC-pwt8O0zUt0o81vl3mqlqrqWSyBHb9Rq7964=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut.",
+      "time": 1779701963,
+      "translated": false
+    },
+    {
       "author_name": "Ebs",
       "author_url": "https://www.google.com/maps/contrib/117471527516778310352/reviews",
       "language": "de",
@@ -344,11 +380,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 431,
+  "reviewCount": 434,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-25T08:55:26.378Z"
+  "lastUpdated": "2026-05-28T08:41:39.124Z"
 }

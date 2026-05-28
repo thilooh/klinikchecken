@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Oliver Huhn",
+      "author_url": "https://www.google.com/maps/contrib/112915076571424126271/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPVGQpPWPk_AcSQIfIS7mmqNGTMhpyCmtZZ0kXaBVO8v5MvyaU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr guter Arzt. Er hat sich viel Zeit für eine ausführliche Beratung genommen und die Untersuchung sehr kompetent, sorgfältig und mit viel Empathie durchgeführt. Ich habe mich bestens aufgehoben gefühlt und kann diese Praxis uneingeschränkt weiterempfehlen.",
+      "time": 1779948255,
+      "translated": false
+    },
+    {
       "author_name": "elif Gencer",
       "author_url": "https://www.google.com/maps/contrib/108406678616111349395/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVfnDV9mU0Wb2PcZjUA2FscZl1q3lVkptWBoSi7hixQQ2iQA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin absolut begeistert von der Praxis Derma Cologne. Man fühlt sich direkt wohl – das Team ist super freundlich und gleichzeitig total professionell.\n\nDie Beratung war ausführlich, ehrlich und individuell auf mich abgestimmt, ohne dass einem etwas aufgedrängt wird. Die Behandlung selbst war auf höchstem Niveau und ich habe schnell Verbesserungen gesehen.\n\nAuch die Atmosphäre ist einfach top: modern, sauber und sehr angenehm. Ich kann die Praxis von Herzen weiterempfehlen und komme definitiv wieder!",
+      "time": 1777389821,
+      "translated": false
+    },
+    {
+      "author_name": "elif Gencer",
+      "author_url": "https://www.google.com/maps/contrib/108406678616111349395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVfnDV9mU0Wb2PcZjUA2FscZl1q3lVkptWBoSi7hixQQ2iQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich bin absolut begeistert von der Praxis Derma Cologne. Man fühlt sich direkt wohl – das Team ist super freundlich und gleichzeitig total professionell.\n\nDie Beratung war ausführlich, ehrlich und individuell auf mich abgestimmt, ohne dass einem etwas aufgedrängt wird. Die Behandlung selbst war auf höchstem Niveau und ich habe schnell Verbesserungen gesehen.\n\nAuch die Atmosphäre ist einfach top: modern, sauber und sehr angenehm. Ich kann die Praxis von Herzen weiterempfehlen und komme definitiv wieder!",
       "time": 1777389821,
       "translated": false
@@ -229,7 +253,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [],
-  "lastUpdated": "2026-05-25T08:55:14.356Z"
+  "lastUpdated": "2026-05-28T08:41:25.518Z"
 }

@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "Gabriele Heske",
+      "author_url": "https://www.google.com/maps/contrib/116335563252742727123/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvvEspkD7g2J4foRan59sjJIkQEqSYmoqrekDj2zz1qN-WSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778134761,
+      "translated": false
+    },
+    {
       "author_name": "Regina Scholz",
       "author_url": "https://www.google.com/maps/contrib/101692666594300883721/reviews",
       "language": "de",
@@ -62,6 +72,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKe_ZHkrK_KnwT9Li-5W0GW01Eq-BRjChZbM4P0EF3DoAvBKA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "War sehr zufrieden...Termin super pünktlich geklappt...leider echt schlechte Parksituation",
+      "time": 1778133114,
+      "translated": false
+    },
+    {
+      "author_name": "Regina Scholz",
+      "author_url": "https://www.google.com/maps/contrib/101692666594300883721/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKe_ZHkrK_KnwT9Li-5W0GW01Eq-BRjChZbM4P0EF3DoAvBKA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "War sehr zufrieden...Termin super pünktlich geklappt...leider echt schlechte Parksituation",
       "time": 1778133114,
       "translated": false
@@ -110,6 +132,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhJFA8m1fh8RO5mTNC_PLZRFVzgTuOYrRoAxO0ZTzNN-tNlA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Nicht zu empfehlen. Wer Wert drauf legt wie ein Mensch behandelt zu werden sollte sich ein anderen Hautarzt suchen. Unter aller Menschen würde.",
+      "time": 1777454637,
+      "translated": false
+    },
+    {
+      "author_name": "Niklas Unbekannt",
+      "author_url": "https://www.google.com/maps/contrib/104035299798348250096/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhJFA8m1fh8RO5mTNC_PLZRFVzgTuOYrRoAxO0ZTzNN-tNlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Nicht zu empfehlen. Wer Wert drauf legt wie ein Mensch behandelt zu werden sollte sich ein anderen Hautarzt suchen. Unter aller Menschen würde.",
       "time": 1777454637,
       "translated": false
@@ -214,5 +248,5 @@
   "rating": 4,
   "reviewCount": 120,
   "summary": [],
-  "lastUpdated": "2026-05-25T08:55:22.815Z"
+  "lastUpdated": "2026-05-28T08:41:35.331Z"
 }

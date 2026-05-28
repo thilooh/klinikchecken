@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Angela Silb",
+      "author_url": "https://www.google.com/maps/contrib/110226780332478797201/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYeHt4glU3iGeRKb-xuKepIq_l9HAgnabk16T3iQDkj_uHJSU=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Arzt hat mich im Liegen untersucht und zumindest eine akute Thrombose ausgeschlossen – für mein eigentliches Problem, dass der Arm beim Hängenlassen anschwillt und blau anläuft, wurde allerdings kein Ultraschall im Sitzen/unter Belastung gemacht. Dabei wurde mir in der Notaufnahme extra geraten, einen Gefäßchirurg aufzusuchen, damit dieser einen dynamischen Doppler-Ultraschall durchführen kann. Stattdessen lief es darauf hinaus, dass man das hier nicht weiter untersuchen könne, ich müsse dafür in ein fachgerichtetes Krankenhaus. Eine Überweisung hierfür habe ich aber nicht bekommen, was der Hauptgrund für meine Enttäuschung ist. Andrerseits hat sich der Arzt Zeit für das Gespräch genommen, wirkte freundlich und hat auch versucht mir seinen Standpunkt deutlich zu machen. Ich vermute daher mal, dass mein Fall einfach zu kompliziert war, dennoch hätte man auf meinen Wunsch (wie es mir im KH empfohlen wurde), den Doppler im Sitzen zur Anwendung zu bringen, eingehen können, anstatt sich nur auf das gängige Schema (Arm heben, Puls testen) zu verlassen und mich ohne Überweisung \"weiterzuschicken\" .",
+      "time": 1779786633,
+      "translated": false
+    },
+    {
       "author_name": "Veronika Jütten",
       "author_url": "https://www.google.com/maps/contrib/108270522075584218550/reviews",
       "language": "de",
@@ -204,5 +216,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-25T08:55:42.804Z"
+  "lastUpdated": "2026-05-28T08:41:56.723Z"
 }

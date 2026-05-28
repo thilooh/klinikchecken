@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Sabine Schumacher",
+      "author_url": "https://www.google.com/maps/contrib/110897966602080210535/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVhCZrH9dlsIcg15nOU14LFvQx-i6YfjsutUaI7ZlQiW9gYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1779216384,
+      "translated": false
+    },
+    {
       "author_name": "Ali Aldekhan",
       "author_url": "https://www.google.com/maps/contrib/103688781186420091923/reviews",
       "language": "ar",
@@ -30,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUphUC6XtEOUE7Svu2VIsdOQR2ATzTbHeD9O40cMxAL9OM_t2rq=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sie sind der beste Arzt, vielen Dank noch einmal! Nachdem ich mich mit europäischen Ärzten herumgeschlagen hatte, die keine Lösung finden konnten, habe ich Gott sei Dank endlich einen Arzt gefunden. Gott sei Dank kann ich jetzt wieder arbeiten. Vielen Dank von ganzem Herzen. Möge Gott Sie und Ihr geschätztes Team beschützen. Sie alle sind sehr respektabel.",
+      "time": 1778514772,
+      "translated": true
+    },
+    {
+      "author_name": "Ali Aldekhan",
+      "author_url": "https://www.google.com/maps/contrib/103688781186420091923/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUphUC6XtEOUE7Svu2VIsdOQR2ATzTbHeD9O40cMxAL9OM_t2rq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sie sind der beste Arzt, vielen Dank noch einmal! Nachdem ich mich mit europäischen Ärzten herumgeschlagen hatte, die keine Lösung finden konnten, habe ich Gott sei Dank endlich einen Arzt gefunden. Gott sei Dank kann ich jetzt wieder arbeiten. Vielen Dank von ganzem Herzen. Möge Gott Sie und Ihr geschätztes Team beschützen. Sie alle sind sehr respektabel.",
       "time": 1778514772,
       "translated": true
@@ -118,6 +140,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNhoSGUcm4cbQ6itL9g8dVz-zlZMpK32-826JCVeqyKxgf6uuh=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1777308730,
+      "translated": false
+    },
+    {
+      "author_name": "Tailyn Diaz",
+      "author_url": "https://www.google.com/maps/contrib/107126930904238567197/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNhoSGUcm4cbQ6itL9g8dVz-zlZMpK32-826JCVeqyKxgf6uuh=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1777308730,
       "translated": false
@@ -328,5 +360,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-25T08:55:30.179Z"
+  "lastUpdated": "2026-05-28T08:41:43.225Z"
 }

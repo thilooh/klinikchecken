@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Marc",
+      "author_url": "https://www.google.com/maps/contrib/103612956715948361841/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoYE1JnH9Ue5NEbjUyMCQ9ZS5FuTzNBUKKoWbxLHF63wfIdA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hab mich gut aufgehoben gefühlt, das ist echt eine Praxis, die weiß, was sie macht. War schnell und unkompliziert.",
+      "time": 1779867413,
+      "translated": false
+    },
+    {
+      "author_name": "Heidelberger Wohnen GmbH",
+      "author_url": "https://www.google.com/maps/contrib/115775951018721765833/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYxPMOtI8eGcK90ozwWHg-stRPkG9HxFIqIohLzT8xZrcfgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Spitze",
+      "time": 1779861379,
+      "translated": true
+    },
+    {
       "author_name": "Oliver Gall",
       "author_url": "https://www.google.com/maps/contrib/118141524582570556458/reviews",
       "language": "de",
@@ -268,11 +292,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 52,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-25T08:55:53.525Z"
+  "lastUpdated": "2026-05-28T08:42:08.432Z"
 }

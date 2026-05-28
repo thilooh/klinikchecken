@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Elke 1",
+      "author_url": "https://www.google.com/maps/contrib/107420970420026929257/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjPLdSpzyDHOxTIm6kckK5ZM5_XOsfVGoDjuX7UruN97qzDg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ist ein bißchen auf Schicki Micki gemacht. Hatte ein Hautscreening, war nach knapp 10 Minuten fertig,  und ich habe einen Haufen Leberflecke. Hoffe,  offen gesagt, dass die Untersuchung gründlich genug war. Der Arzt war aber sehr nett.",
+      "time": 1779818909,
+      "translated": false
+    },
+    {
+      "author_name": "Dragana Gjorgjieva",
+      "author_url": "https://www.google.com/maps/contrib/109119370573780902708/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcVbJAMQjDsHM0XHHhRMWoMQUndf0J9B8Ufkg2gBCGpsVhfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden und kann diese Praxis allen empfehlen.\nDas Personal ist sehr freundlich und beantwortet alle Fragen. Es ist einfach, einen Termin zu vereinbaren.\nEin besonderer Dank geht an Dr. Yassin und Dr. Tijana – sie waren sehr nett zu mir und alles ging sehr schnell und reibungslos.",
+      "time": 1779809165,
+      "translated": false
+    },
+    {
       "author_name": "Dennis Pöhler",
       "author_url": "https://www.google.com/maps/contrib/106426555045864525061/reviews",
       "language": "de",
@@ -109,6 +133,18 @@
       "translated": false
     },
     {
+      "author_name": "Gloria Hallelujah wood",
+      "author_url": "https://www.google.com/maps/contrib/101501768799361877055/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHFhUbj6H6uURWNxbqpZAHDwCrItSBuVFvVYmIx-EGF_JY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich habe in dieser Klinik sehr positive Erfahrungen gemacht. Die Atmosphäre ist sauber, professionell und einladend, vom ersten Moment an. Der Arzt nimmt sich Zeit zum Zuhören, erklärt alles klar und verständlich und sorgt dafür, dass man sich während der gesamten Behandlung wohlfühlt. Die Sorgfalt und Liebe zum Detail sind hervorragend, und die Ergebnisse sprechen für sich. Absolut empfehlenswert für alle, die eine zuverlässige und qualitativ hochwertige Klinik für Dermatologie und Laserbehandlungen suchen.",
+      "time": 1777135520,
+      "translated": false
+    },
+    {
       "author_name": "Christian Wolf",
       "author_url": "https://www.google.com/maps/contrib/103142439488343805871/reviews",
       "language": "de",
@@ -192,11 +228,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 54,
+  "reviewCount": 56,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-25T08:55:47.178Z"
+  "lastUpdated": "2026-05-28T08:42:01.448Z"
 }

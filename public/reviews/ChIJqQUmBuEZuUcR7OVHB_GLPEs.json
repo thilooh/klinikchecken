@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lau Ra",
+      "author_url": "https://www.google.com/maps/contrib/105242319367099725094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1LBwABYhXsDXw4m1ImpF_9ZrBh2jbo4puW0ZSTPGqqfpQWw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir waren 2x hier und heute war das letzte Mal. Die Organisation in der Praxis ist eine absolute Katastrophe, man steht teilweise über 30 Minuten an um sich anzumelden. Außerdem ist man jedes Mal bei einem anderen (zufälligen) Arzt.",
+      "time": 1779810835,
+      "translated": false
+    },
+    {
       "author_name": "Jeanne B.",
       "author_url": "https://www.google.com/maps/contrib/106578362948581242080/reviews",
       "language": "de",
@@ -344,7 +356,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 289,
+  "reviewCount": 290,
   "summary": [],
-  "lastUpdated": "2026-05-25T08:55:17.814Z"
+  "lastUpdated": "2026-05-28T08:41:29.812Z"
 }

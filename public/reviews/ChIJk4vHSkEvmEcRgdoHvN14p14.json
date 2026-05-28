@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Noah Fehr",
+      "author_url": "https://www.google.com/maps/contrib/111701849492709313885/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO7HJOp8tomqcHWeQntiOBxWSe093YDnuXfvitnnPSRhVMQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich muss seit 1 Stunde 20 min auf meinen Termin warten bis ich dran bin",
+      "time": 1779812300,
+      "translated": false
+    },
+    {
       "author_name": "Elena Schwarz",
       "author_url": "https://www.google.com/maps/contrib/116823446093608330337/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOC9rkViXXCjWeZdZAsZ3oZRxW0v-a9-n3c6wqn6AofBURt5eG=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779133237,
+      "translated": false
+    },
+    {
+      "author_name": "Elena Schwarz",
+      "author_url": "https://www.google.com/maps/contrib/116823446093608330337/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOC9rkViXXCjWeZdZAsZ3oZRxW0v-a9-n3c6wqn6AofBURt5eG=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1779133237,
       "translated": false
@@ -89,6 +111,18 @@
       "translated": false
     },
     {
+      "author_name": "Martina Hübner",
+      "author_url": "https://www.google.com/maps/contrib/105939029526164063688/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNaIkytWCefZ9rsZd3YqrN5V8qxdOwio4rukOG98oqoBK6sIbq=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Seit Jahren in Besten Händen bei Frau Dr. Kaschubowski !",
+      "time": 1777907466,
+      "translated": false
+    },
+    {
       "author_name": "funky junky",
       "author_url": "https://www.google.com/maps/contrib/113666543473955448490/reviews",
       "language": "de",
@@ -144,6 +178,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEhd4B3Mjd1BGKGzk2cSTbCUH815U_g_sQPK2wsxhI_LTU8L00qA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich fühle mich bei Dr. Salzer sehr gut aufgehoben. Er nimmt sich Zeit und ist sehr professionell. Die Wartezeiten von mehr als einer Stunde des mal trotz Termin ist allerdings jedes Mal sehr ärgerlich. Daher gibt zwei Sterne weniger.",
+      "time": 1777370197,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Steinle",
+      "author_url": "https://www.google.com/maps/contrib/115436206296248501739/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEhd4B3Mjd1BGKGzk2cSTbCUH815U_g_sQPK2wsxhI_LTU8L00qA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich fühle mich bei Dr. Salzer sehr gut aufgehoben. Er nimmt sich Zeit und ist sehr professionell. Die Wartezeiten von mehr als einer Stunde des mal trotz Termin ist allerdings jedes Mal sehr ärgerlich. Daher gibt zwei Sterne weniger.",
       "time": 1777370197,
       "translated": false
@@ -324,11 +370,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 190,
+  "reviewCount": 191,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-25T08:55:52.857Z"
+  "lastUpdated": "2026-05-28T08:42:07.634Z"
 }

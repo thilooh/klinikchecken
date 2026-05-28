@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Eslem Karaoğlu",
+      "author_url": "https://www.google.com/maps/contrib/112867620243094423908/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoY2fM5bLQO5jUcSyExsRcERlWdXe6xKee8H5ommveigNNig=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Praxis nur empfehlen, ich habe mir dort mein Fibrom entfernen lassen und bin sehr zufrieden. Die Ärztin war sehr freundlich und verständnisvoll und hat die Behandlung sehr angenehm gestaltet. Die Behandlung verlief komplett schmerzfrei und ging sehr schnell. Ich kam auch sehr schnell dran und hatte keine Wartezeit 😊",
+      "time": 1779868310,
+      "translated": false
+    },
+    {
       "author_name": "Okan S",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
@@ -181,11 +193,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 94,
+  "reviewCount": 95,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-05-25T08:55:11.352Z"
+  "lastUpdated": "2026-05-28T08:41:21.651Z"
 }

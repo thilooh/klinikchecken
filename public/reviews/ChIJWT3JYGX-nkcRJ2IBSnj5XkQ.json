@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mama",
+      "author_url": "https://www.google.com/maps/contrib/116136178324654889342/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTUuMo-47UZRjTZFNs1wXU_aEyRsEx2i-aurucDnGIcZi_VA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor 2 Wochen,bei Dr.Brandenberg,der mir eine Überweisung ,die die sehr unfreundliche Sprechstundenhilfe ins Klinikum FAXEN sollte und mich angeplafft hat,ob das richtig sei,das Sie es machen sollte!!!!!\nAls ich ja sagte,lief sie rum..ich weis nicht ob sie was anderes gemacht hat oder in echt mein Fax abgeschickt hat! Sie hat mir die Überweisung in Hand gedrückt und tschüss!\n\nEine Woche später angerufen,keine Rückmeldung vom Klinikum...Ich sollte warten!!!!\nJetzt 2 Wochen später immer noch keine anruf vom Klinikum!!!!\nHeute bei Brandenberg angerufen...ich sollte denen noch Zeit geben...\nHeute selber im Klinikum angerufen...\nOH EIN WUNDER!!!!\nEs gibt keinen Überweisungsschein von mir...ich tauch da erst gar nicht auf!!!!!!!!!\nIch hab wahnsinnige Schmerzen und die Sind unfähig ein Faxgerät zu bedienen!!!!!\nAlso DANKE...für NIX",
+      "time": 1779797494,
+      "translated": false
+    },
+    {
       "author_name": "TipOk",
       "author_url": "https://www.google.com/maps/contrib/102744498644836271677/reviews",
       "language": "de",
@@ -141,12 +153,12 @@
       "translated": false
     }
   ],
-  "rating": 3.8,
-  "reviewCount": 57,
+  "rating": 3.7,
+  "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-25T08:55:51.994Z"
+  "lastUpdated": "2026-05-28T08:42:06.681Z"
 }

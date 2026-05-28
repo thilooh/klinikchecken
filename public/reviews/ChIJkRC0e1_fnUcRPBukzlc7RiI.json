@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alexandra Angermaier-Abdirabo",
+      "author_url": "https://www.google.com/maps/contrib/106990359171315219003/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7t6xagor_gre6wivdzldYE_jXP8FmNyww-EclbZi2E6CNHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen Termin zur Hautkrebsvorsorge bei Frau Augustin – und habe mich rundum wohlgefühlt! Sie hat sich viel Zeit genommen, alles sehr gründlich erklärt und mich kompetent sowie empathisch beraten. Man merkt sofort, dass ihr das Wohl ihrer Patient:innen wirklich am Herzen liegt. Ich bin mit einem sehr guten und sicheren Gefühl aus dem Termin gegangen und kann Frau Augustin absolut weiterempfehlen!",
+      "time": 1779872876,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Schöberl",
       "author_url": "https://www.google.com/maps/contrib/117283846333752493471/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-8YihyP1eLX3-tpkybbv_Y9UJXbf3o1K3t8OWvIDZp2N6Sw=s128-c0x00000000-cc-rp-mo",
@@ -41,6 +53,16 @@
       "translated": false
     },
     {
+      "author_name": "Thomas Schöberl",
+      "author_url": "https://www.google.com/maps/contrib/117283846333752493471/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-8YihyP1eLX3-tpkybbv_Y9UJXbf3o1K3t8OWvIDZp2N6Sw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1777376995,
+      "translated": false
+    },
+    {
       "author_name": "Stephanie Frohnauer",
       "author_url": "https://www.google.com/maps/contrib/115404163731257944527/reviews",
       "language": "de",
@@ -48,6 +70,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI85rKouPWckYlrx_RRPALkkCo7hXIEEpom2an472VY0gtADQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Ich habe dort angerufen und am selben Tag noch ganz spontan einen Termin bekommen zu einem Erstgespräch mit der Ärztin.\nUnd für den nächsten Tag hatte ich bereits einen Behandlungstermin erhalten.\nEin sehr nettes Team, guter Service und gute Arbeit.\nIch würde auf alle Fälle wieder kommen.",
+      "time": 1771960344,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Frohnauer",
+      "author_url": "https://www.google.com/maps/contrib/115404163731257944527/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI85rKouPWckYlrx_RRPALkkCo7hXIEEpom2an472VY0gtADQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Ich habe dort angerufen und am selben Tag noch ganz spontan einen Termin bekommen zu einem Erstgespräch mit der Ärztin.\nUnd für den nächsten Tag hatte ich bereits einen Behandlungstermin erhalten.\nEin sehr nettes Team, guter Service und gute Arbeit.\nIch würde auf alle Fälle wieder kommen.",
       "time": 1771960344,
       "translated": false
@@ -136,5 +170,5 @@
   "rating": 4.6,
   "reviewCount": 113,
   "summary": [],
-  "lastUpdated": "2026-05-25T08:55:19.310Z"
+  "lastUpdated": "2026-05-28T08:41:31.494Z"
 }

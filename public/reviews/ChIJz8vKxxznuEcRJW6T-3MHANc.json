@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "The Roth",
+      "author_url": "https://www.google.com/maps/contrib/109340670691592203270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3NWMg6uoqNjFOI-5rRD52EnBYzOb6ffS0tnCwvj4XAiUIEA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Privat versichert morgen Termine frei, gesetzlich in 4 Monaten, weil \"keine Termine\".\n\nÜber 100 gelöschte Bewertungen 😅😅",
+      "time": 1779834021,
+      "translated": false
+    },
+    {
       "author_name": "Ali Souliman",
       "author_url": "https://www.google.com/maps/contrib/112689641502901099349/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIofJ40hQAwCJKkQyZ5kNwRxB3DLFQsdMgx-ElT3tVoj71hOA=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Hallo, ich kann leider nicht eine Topbewertung hier abgeben.\nAllgemein gibt es nicht wirklich etwas zu beanstanden. Aber heute wurden mir drei Muttermale entfernt, alles gut dachte ich erstmal, aber der Verband da drauf wurde nicht ordentlich gemacht. Der eine fiel mir kurz danach in der Praxis schon auf. Die Wundstelle lag bei einem nicht unter der Kompresse vom Pflaster sondern unter dem Klebeband. In der Praxis habe ich drauf hingewiesen aber die Arzthelferin die es gemacht hatte meinte es sei nicht schlimm. Ok naja, bin dann so nach Hause gegangen und zu Hause da fiel mir der Andere am Nacken brennend auf und meine Frau sah dass dieser Verband auch nicht korrekt auf der Wundstelle lag, die Hälfte lag wieder unter einem Klebeband. Ich mein, sowas kann ja nicht gut bzw. in Ordnung sein oder ? Ich wünsche mir dass auf so etwas in Zukunft bitte auch geachtet wird. Ich hoffe nun dass die Stellen nur ganz korrekt abheilen und dass sie kosmetisch auch gut hinterher aussehen werden. Ansonsten war ich mit der Praxis ganz zufrieden bis jetzt.",
+      "time": 1779131977,
+      "translated": false
+    },
+    {
+      "author_name": "Günes Kukuoglu",
+      "author_url": "https://www.google.com/maps/contrib/103082409332147399406/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIofJ40hQAwCJKkQyZ5kNwRxB3DLFQsdMgx-ElT3tVoj71hOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Hallo, ich kann leider nicht eine Topbewertung hier abgeben.\nAllgemein gibt es nicht wirklich etwas zu beanstanden. Aber heute wurden mir drei Muttermale entfernt, alles gut dachte ich erstmal, aber der Verband da drauf wurde nicht ordentlich gemacht. Der eine fiel mir kurz danach in der Praxis schon auf. Die Wundstelle lag bei einem nicht unter der Kompresse vom Pflaster sondern unter dem Klebeband. In der Praxis habe ich drauf hingewiesen aber die Arzthelferin die es gemacht hatte meinte es sei nicht schlimm. Ok naja, bin dann so nach Hause gegangen und zu Hause da fiel mir der Andere am Nacken brennend auf und meine Frau sah dass dieser Verband auch nicht korrekt auf der Wundstelle lag, die Hälfte lag wieder unter einem Klebeband. Ich mein, sowas kann ja nicht gut bzw. in Ordnung sein oder ? Ich wünsche mir dass auf so etwas in Zukunft bitte auch geachtet wird. Ich hoffe nun dass die Stellen nur ganz korrekt abheilen und dass sie kosmetisch auch gut hinterher aussehen werden. Ansonsten war ich mit der Praxis ganz zufrieden bis jetzt.",
       "time": 1779131977,
       "translated": false
@@ -330,11 +354,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 358,
+  "reviewCount": 359,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-25T08:55:43.895Z"
+  "lastUpdated": "2026-05-28T08:41:57.910Z"
 }

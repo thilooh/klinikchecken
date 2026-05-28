@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kanzlei-Clausen und-D'Amico",
+      "author_url": "https://www.google.com/maps/contrib/117762097621816305984/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUspJwf__3DL6fxyWgc1s-KxNjCDCL81cHj99bc6jsuqroTKgLc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis! Ich war mit meiner Tochter bei Hr. Dr. Haase. Er ist ausgesprochen freundlich und zugewandt und ist toll auf die Jugendliche eingegangen. Ohne medizinisch geschult zu sein und deshalb nicht in der Lage die ärztliche Kompetenz beurteilen zu können, wir fühlten uns sehr gut aufgehoben, beraten und verstanden. Nicht ausschlaggebend, aber trotzdem ein fettes Plus: Die Praxisräume sind sehr modern und geschmackvoll eingerichtet. Absolut empfehlenswert.",
+      "time": 1779789326,
+      "translated": false
+    },
+    {
       "author_name": "reiner latsch",
       "author_url": "https://www.google.com/maps/contrib/111291680787942924498/reviews",
       "language": "de",
@@ -382,11 +394,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2262,
+  "reviewCount": 2263,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-25T08:55:27.056Z"
+  "lastUpdated": "2026-05-28T08:41:39.841Z"
 }

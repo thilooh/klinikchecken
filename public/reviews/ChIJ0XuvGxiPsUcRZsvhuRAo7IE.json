@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Алеша",
+      "author_url": "https://www.google.com/maps/contrib/105463712950194305481/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDIbsI25fEpWZ0OjUpOAeh1QF6CGpGcG6H-n_vivIZfgg9_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wartete drei Wochen auf ein Rezept. Soweit ich das verstanden habe, schickten sie mir zunächst eine Kopie des alten Rezepts. Leider hat auch die neue Behandlung mein Hautproblem nicht gelöst, und ich war enttäuscht über die fast 300 Euro, die ich ausgegeben hatte.",
+      "time": 1779719525,
+      "translated": true
+    },
+    {
       "author_name": "Elke",
       "author_url": "https://www.google.com/maps/contrib/110195010267827298516/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJi4_9DnDqjonthNXRlwjshgEdm4yfJfmK0gJ_0mOLKlA5zGA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Alles bestens. Allerdings nur für Selbstzahler.",
+      "time": 1778696946,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas P.",
+      "author_url": "https://www.google.com/maps/contrib/109169685554889838813/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJi4_9DnDqjonthNXRlwjshgEdm4yfJfmK0gJ_0mOLKlA5zGA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Alles bestens. Allerdings nur für Selbstzahler.",
       "time": 1778696946,
       "translated": false
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_P85X884nRgi1P59VDBphVwzW29uOa7Nu3FRzTDQ4VgWUkQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war wegen einer Krampfader OP bei Dr. Bachar El Jamal in Behandlung und bin sehr zufrieden. Das ganze Team ist total nett und ich fühlte mich sehr gut aufgehoben und betreut. Ich kann es nur weiterempfehlen.",
+      "time": 1778575225,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Findorff",
+      "author_url": "https://www.google.com/maps/contrib/112373292896479202922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_P85X884nRgi1P59VDBphVwzW29uOa7Nu3FRzTDQ4VgWUkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war wegen einer Krampfader OP bei Dr. Bachar El Jamal in Behandlung und bin sehr zufrieden. Das ganze Team ist total nett und ich fühlte mich sehr gut aufgehoben und betreut. Ich kann es nur weiterempfehlen.",
       "time": 1778575225,
       "translated": false
@@ -344,7 +380,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 421,
+  "reviewCount": 422,
   "summary": [],
-  "lastUpdated": "2026-05-25T08:55:20.593Z"
+  "lastUpdated": "2026-05-28T08:41:32.856Z"
 }

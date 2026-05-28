@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M. Hab.",
+      "author_url": "https://www.google.com/maps/contrib/110368778496386222258/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxbLZe_Kc_cR7M-2OeW0Nd9eCIuMHCNfQso9rxjF0iEkXCjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Kauffold und sein Team arbeitet sehr professionell und ist sehr gut organisiert. Von der telefonischen Terminvereinbarung über das Erstgespräch, die OP-Vorbereitung, die persönliche Begrüßung und Verabschiedung im ambulanten OP, der persönliche Anruf des Arztes am Abend nach der OP bis hin zu den organisierten Nachsorgeterminen, immer freundlich, kompetent und patientenorientiert. Ich hatte zu keiner Zeit das Gefühl \"eine Nummer von vielen zu sein\", habe mich von Anfang an sehr gut beraten und betreut gefühlt. Das hat Vertrauen geschaffen und Ängste genommen. Ich bin dankbar und glücklich, dass mich die Suche nach \"dem richtigen Facharzt\" zu Herrn Dr.  Kauffold und seinem Team geführt hat.\nVielen Dank an Sie,  Herr Dr.  Kauffold und Ihr Praxis-/OP-Team.\nM. Habicht",
+      "time": 1779822069,
+      "translated": false
+    },
+    {
       "author_name": "Christine Wickner",
       "author_url": "https://www.google.com/maps/contrib/111073027900903210043/reviews",
       "language": "de",
@@ -144,5 +156,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen"
   ],
-  "lastUpdated": "2026-05-25T08:55:58.266Z"
+  "lastUpdated": "2026-05-28T08:42:13.568Z"
 }

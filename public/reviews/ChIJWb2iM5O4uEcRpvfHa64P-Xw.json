@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Horn",
+      "author_url": "https://www.google.com/maps/contrib/111873086659920059431/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhjy_rEdshcY10L5nGzRMvfVK6-kEZrHSTB8R2A4GXVucwpoxK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Personal und sehr gute Diagnose. Bin sehr zufrieden.",
+      "time": 1779875341,
+      "translated": false
+    },
+    {
       "author_name": "Murat Topal",
       "author_url": "https://www.google.com/maps/contrib/116925054324488816213/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwWEildURUOGUwU-BQ7DktMqA_E2wj1ytlh5Gv9zUtjtpS3Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779190022,
+      "translated": false
+    },
+    {
+      "author_name": "Murat Topal",
+      "author_url": "https://www.google.com/maps/contrib/116925054324488816213/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwWEildURUOGUwU-BQ7DktMqA_E2wj1ytlh5Gv9zUtjtpS3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1779190022,
       "translated": false
@@ -152,11 +174,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 108,
+  "reviewCount": 109,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-25T08:55:31.503Z"
+  "lastUpdated": "2026-05-28T08:41:44.693Z"
 }

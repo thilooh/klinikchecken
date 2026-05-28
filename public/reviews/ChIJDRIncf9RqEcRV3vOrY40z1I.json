@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Loui p",
+      "author_url": "https://www.google.com/maps/contrib/109096128717052566517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3PNMAOjfBYTFeLgowqGKbG8PK0V4UBY95XYMBJeXN59aUGpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779906034,
+      "translated": false
+    },
+    {
+      "author_name": "Nuroj",
+      "author_url": "https://www.google.com/maps/contrib/104010381742849366733/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0ZJ636EBb4YWfR4wyBVcuB-stxYM-KtPyzNNsHRqJb-QOJQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Mahoozi hat bei mir keinen vertrauenswürdigen Eindruck hinterlassen. Mein persönliches Empfinden ist, dass wirtschaftliche Interessen stärker im Vordergrund stehen als die ernsthafte Auseinandersetzung mit meinen Beschwerden.\nNach den Behandlungen hatte ich erhebliche Schmerzen und konnte teilweise 2–3 Tage kaum laufen, obwohl mir vorher erklärt wurde, dass keine nennenswerten Nachwirkungen zu erwarten seien. Bei der Nachkontrolle wurde auf diese Beschwerden zunächst gar nicht eingegangen. Als ich sie selbst ansprach, nahm er sie gar nicht ernst und beendete das Gespräch mit der Aussage  jetzt haben sie ja keine Schmerzen mehr.\nZusätzlich entstand für mich eine hohe finanzielle Belastung. Trotz mehrfacher vorheriger Nachfrage bezüglich der Kostenübernahme durch meine private Krankenversicherung, die der Dr sehr entschlossen bejahte, wurden nicht alle Behandlungskosten übernommen. Dadurch sind für mich derzeit über 1.600 € offen. Seit 2 Monaten versuche ich hierzu eine Klärung mit der Praxis zu erreichen, leider bisher ohne zufriedenstellende Rückmeldung. Dies sei Herr Dr Mahoozis Aufgabe und der reagiert schlicht nicht.\nLassen Sie die Finger von dieser Praxis",
+      "time": 1779862577,
+      "translated": false
+    },
+    {
       "author_name": "Nadine Schnee",
       "author_url": "https://www.google.com/maps/contrib/111055384100008260168/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfpDOOrNxKKmsBm_X4xSRxIZUxGo_JwNRqkmu3X9bXeuEx9g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute morgen dort um mir von Dr Pantlen die Oberlider straffen zu lassen.\nHabe es mir insgesamt viel unangenehmer vorgestellt da ist nur eine örtliche Betäubung war aber die OP verlief sehr gut und war recht kurzweilig.\nSowohl die Ärzte als auch das Personal waren sehr freundlich und fürsorglich.\nKann ich nur weiterempfehlen. Top",
+      "time": 1779276077,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine Schnee",
+      "author_url": "https://www.google.com/maps/contrib/111055384100008260168/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfpDOOrNxKKmsBm_X4xSRxIZUxGo_JwNRqkmu3X9bXeuEx9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute morgen dort um mir von Dr Pantlen die Oberlider straffen zu lassen.\nHabe es mir insgesamt viel unangenehmer vorgestellt da ist nur eine örtliche Betäubung war aber die OP verlief sehr gut und war recht kurzweilig.\nSowohl die Ärzte als auch das Personal waren sehr freundlich und fürsorglich.\nKann ich nur weiterempfehlen. Top",
       "time": 1779276077,
       "translated": false
@@ -32,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtW4yh3JhDDnk0WefWshkvIlnJrXI4LBRJnIvZKH-1-Xm8GMx9=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Hatte gerade meinen Eingriff gehabt. Vielen lieben Dank an das Praxisteam für den herzlichen Empfang und an das Ärzteteam das mir meine Ängste genommen hat. Im Aufwachraum habe ich danach einen Kaffee bekommen.",
+      "time": 1778490518,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Heinrich",
+      "author_url": "https://www.google.com/maps/contrib/111326018998552563536/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtW4yh3JhDDnk0WefWshkvIlnJrXI4LBRJnIvZKH-1-Xm8GMx9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Hatte gerade meinen Eingriff gehabt. Vielen lieben Dank an das Praxisteam für den herzlichen Empfang und an das Ärzteteam das mir meine Ängste genommen hat. Im Aufwachraum habe ich danach einen Kaffee bekommen.",
       "time": 1778490518,
       "translated": false
@@ -289,8 +335,8 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 137,
+  "rating": 4.8,
+  "reviewCount": 139,
   "summary": [],
-  "lastUpdated": "2026-05-25T08:55:18.421Z"
+  "lastUpdated": "2026-05-28T08:41:30.518Z"
 }

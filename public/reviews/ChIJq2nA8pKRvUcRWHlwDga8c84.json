@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Natascha-Pia B.",
+      "author_url": "https://www.google.com/maps/contrib/110373418228734981530/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqFLLw3sAS7ke15i-MccGFj05W8QN-0McM7IAAPjZau60qnw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mehrere Sitzungen auf dem Emsella Stuhl in der Kosmetikabteilung bei Dr. Quist gemacht, auf Empfehlung meiner Frauenärztin, die übrigens nichts mit dieser Praxis zu tun hat.\nLeider habe ich von Anfang an keinerlei Verbesserung gespürt. Trotzdem wurde mir, nachdem ich das angesprochen habe, immer wieder gesagt, ich solle noch mehr Sitzungen buchen. Am Ende habe ich über 1000 Euro bezahlt und absolut nichts davon gehabt.\nIch bin unglaublich enttäuscht und fühle mich im Nachhinein einfach nur traurig und hilflos. Für manche Menschen sind 1000 Euro vielleicht nicht viel, aber als Mutter von zwei Kindern ist das für mich eine riesige Summe. Ich habe so gehofft, dass diese Behandlung hilft und habe dem Ganzen vertraut.\nStatt ehrlicher Worte hatte ich das Gefühl, dass es nur darum ging, weitere Termine zu verkaufen. Für mich war das eine sehr bittere Erfahrung.",
+      "time": 1779779074,
+      "translated": false
+    },
+    {
+      "author_name": "Clivia Wurzbach",
+      "author_url": "https://www.google.com/maps/contrib/109105052645199872518/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzjeOWe4YVebndTLksdeN0t6M6lXVmcjqrcSDxhezOtTiXOw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach einer Terminanfrage bzgl. Haarausfall wurde ich sehr freundlich telefonisch aufgeklärt, dass dieses Problem grundsätzlich eine Leistung für Selbstzahler ist und die erste Beratung ab 50€ kosten würde.\nDa frage ich mich, warum danach die Dermatologie im Zentrum Wiesbaden die Erstberatung über die Gesetzliche KV abrechnen konnte - zumal bei mir nun eine Krankheit als Ursache diagnostiziert wurde und es kein Beauty-Thema war.\n\nEs gibt ja auch kaum noch Hautärzte, die gesetzlich Versicherte überhaupt noch annehmen und falls doch - dann nur als Selbstzahler oder mit einem Termin viele Monate später.\n\nVon fehlenden Notfallsprechstunden (gerade bei Hautproblemen wichtig) möchte ich gar nicht anfangen. Soll man damit dann die Notaufnahmen der Krankenhäuser belasten?\nFür lukrative Schönheitseingriffe gibt es erstaunlicherweise überall sofort Termine.",
+      "time": 1779717542,
+      "translated": false
+    },
+    {
       "author_name": "Marlene",
       "author_url": "https://www.google.com/maps/contrib/111881133138319722035/reviews",
       "language": "de",
@@ -30,6 +54,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL79TRJ7RpZ8LykqKGNSdJOHkoBizs9jLEntouyWAk-9a5zYw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779352687,
+      "translated": false
+    },
+    {
+      "author_name": "Jason Gbur",
+      "author_url": "https://www.google.com/maps/contrib/102969978321462736197/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL79TRJ7RpZ8LykqKGNSdJOHkoBizs9jLEntouyWAk-9a5zYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1779352687,
       "translated": false
@@ -394,11 +428,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 289,
+  "reviewCount": 291,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-25T08:55:40.177Z"
+  "lastUpdated": "2026-05-28T08:41:53.899Z"
 }

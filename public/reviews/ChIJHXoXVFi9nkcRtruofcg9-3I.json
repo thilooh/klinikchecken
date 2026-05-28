@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Norbert Sanislo",
+      "author_url": "https://www.google.com/maps/contrib/113200091794287658727/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNx3Me1wR7y9LUkqA3iSjTB2o0R1Sy85Wqaohsw5wpm9lubrqA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779910234,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Liebold",
+      "author_url": "https://www.google.com/maps/contrib/116587207400898238203/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIyo8wqfx2pXI8OG7hE0U7a3Wj_XSeg0a0Ll1F6cj5lf4GxA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zur Entfernung von Krampfadern konnte schnell und zügig ein Termin für mich gemacht werden. Herr Dr. Meinhold hat hier kompetent die Voruntersuchung und die ambulante OP mit seinem Team durchgeführt, welches stets freundlich und nett war. Bei mir kamen zwei Methoden zur Anwendung, das Veröden mit Hitze durch Radiofrequenzen bzw. Laser, sowie das \"klassische\" Ziehen.",
+      "time": 1779713525,
+      "translated": false
+    },
+    {
       "author_name": "Barbara Higl",
       "author_url": "https://www.google.com/maps/contrib/100896077567816224903/reviews",
       "language": "de",
@@ -18,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITvplmJSadyaC_bgSCcbZpqqUvmqGOz737UStEwM5M0ayr=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779256550,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel “Daniel k” Kurth",
+      "author_url": "https://www.google.com/maps/contrib/100776868689198766030/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITvplmJSadyaC_bgSCcbZpqqUvmqGOz737UStEwM5M0ayr=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1779256550,
       "translated": false
@@ -42,6 +74,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVFUMADx6fizuAVofz-JaVwsh36SL4HUCWsqv8zcdxt3hssYU-=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war im MVZ im EG und kann über das ganze Praxisteam nur positives berichten.\nFreundlich , kompetente fleißiges Team!\nTop Arzt 👍🏼 Ich war bei Dr. Schmid.",
+      "time": 1778682012,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriela Meise",
+      "author_url": "https://www.google.com/maps/contrib/117649587434020201954/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVFUMADx6fizuAVofz-JaVwsh36SL4HUCWsqv8zcdxt3hssYU-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war im MVZ im EG und kann über das ganze Praxisteam nur positives berichten.\nFreundlich , kompetente fleißiges Team!\nTop Arzt 👍🏼 Ich war bei Dr. Schmid.",
       "time": 1778682012,
       "translated": false
@@ -302,11 +346,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 394,
+  "reviewCount": 395,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-05-25T08:55:31.719Z"
+  "lastUpdated": "2026-05-28T08:41:44.933Z"
 }
