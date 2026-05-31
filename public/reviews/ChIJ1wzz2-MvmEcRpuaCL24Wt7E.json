@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Karthikeyan S",
+      "author_url": "https://www.google.com/maps/contrib/107778625313039253640/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtsXcmR8QZ2ayJMROZ2ET8FhVru5RSqkJr85RR70sapv7aMeVx=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenigstens könnten Ärzte grundlegende Englischkenntnisse erwerben, anstatt Patienten beim ersten Besuch aufzufordern, einen Übersetzer für Deutsch mitzubringen, obwohl sie sich auf mittlerem Niveau verständigen können. Das ist wirklich beschämend.\nIch kann diese Praxis absolut nicht empfehlen. Sie ist ausschließlich für Deutschsprachige bestimmt, obwohl bei der Terminbuchung angegeben wird, Englisch und Deutsch zu sprechen. Diese falsche Information bitte ich Sie, zu korrigieren. So vermeiden Patienten, die falsche Erwartungen an Ihre Praxis haben.",
+      "time": 1780173966,
+      "translated": true
+    },
+    {
+      "author_name": "ElEmKaKe",
+      "author_url": "https://www.google.com/maps/contrib/101175593126784893600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVpLNjY53UCmQCXSGAiYSKYuOyCD6ABQxV9iHd63CqQssTK98=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kann zur Praxis nicht viel sagen außer das die Dame am Telefon sehr unfreundlich ist.",
+      "time": 1780060209,
+      "translated": false
+    },
+    {
+      "author_name": "Macan Salahudini",
+      "author_url": "https://www.google.com/maps/contrib/105007486073421554221/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9ODABkPTtmXpOw2c1XkO7Vl2vR-do7TEn2d7-Tux_VoBwv4E=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Dr. Baltussen hat mich vor 15 Jahren am Vorderkreuzband operiert. Ich habe ihn weder vor, noch nach der OP jemals gesehen. Es hat sich herausgestellt, dass er das Kreuzband zu steil eingesetzt hat, sodass zwei weitere OPs gefolgt haben, bei einem anderen besseren Orthopäden. Wegen ihm habe ich jetzt Arthrose 3. Grades, weil sich mein Knorpel schneller abgenutzt hat, wegen seiner Pfuschleistung. Danke dafür. Karma wird das Regeln, viele Grüße.",
+      "time": 1779552431,
+      "translated": false
+    },
+    {
       "author_name": "Margit Gaerttner",
       "author_url": "https://www.google.com/maps/contrib/111217654207892805183/reviews",
       "language": "de",
@@ -266,11 +302,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 87,
+  "reviewCount": 90,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:42:07.387Z"
+  "lastUpdated": "2026-05-31T08:13:57.342Z"
 }

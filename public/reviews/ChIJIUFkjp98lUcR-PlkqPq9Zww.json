@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Günter Edlinger",
+      "author_url": "https://www.google.com/maps/contrib/112056717432600362479/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4soD30-Y8kALew3vIMW-ULD2CfXk99LjQUsHpoIIdsA48Ug=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779977901,
+      "translated": false
+    },
+    {
       "author_name": "Bernd Szyszka",
       "author_url": "https://www.google.com/maps/contrib/109279402738265715490/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbuWh30PUwE8efwOVWMsf1Gw3GJnIaAoAdWOGBR_XXmoChZA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -90,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFSNalnqYQS7mdcA_UXyQD4yWOfL4lgch0_TSXM2WjeifgJA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Tolle Praxis, freundliches Personal, kompetente Ärzte, vorbildlich, weiter so. Erstaunlich kurze Wartezeit. 6 Sterne 🌟",
+      "time": 1777381228,
+      "translated": false
+    },
+    {
+      "author_name": "Becker Becker",
+      "author_url": "https://www.google.com/maps/contrib/103364903297145882695/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFSNalnqYQS7mdcA_UXyQD4yWOfL4lgch0_TSXM2WjeifgJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Tolle Praxis, freundliches Personal, kompetente Ärzte, vorbildlich, weiter so. Erstaunlich kurze Wartezeit. 6 Sterne 🌟",
       "time": 1777381228,
       "translated": false
@@ -312,11 +334,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:42:12.387Z"
+  "lastUpdated": "2026-05-31T08:14:02.375Z"
 }

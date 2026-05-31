@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ralf Tölle",
+      "author_url": "https://www.google.com/maps/contrib/114370220756425490186/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKg64rYhICb2BGpNaee4JPDmgqsHOL14FZzBOJaNUuXtlaiw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nur ein Stern da nicht erbrachte Leistungen abgerechnet wurden,auf E-Mails wird nur lapidar geantwortet oder gar nicht, statt dessen erhält man eine Mahnung mit dem Hinweis man hätte schon eine Erinnerung bekommen,was auch nicht stimmt. Diese Praxis werde ich nicht wieder aufsuchen. Mal sehen was die Ärztekammer dazu sagt .",
+      "time": 1780049058,
+      "translated": false
+    },
+    {
       "author_name": "The Roth",
       "author_url": "https://www.google.com/maps/contrib/109340670691592203270/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Ali Souliman",
+      "author_url": "https://www.google.com/maps/contrib/112689641502901099349/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ7ObQO4cP0_EZP1BmkS-dgQUFGKpysmWILfjxtVvQdC-O-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider bin ich sehr unzufrieden. Mein Termin wurde zweimal hintereinander von der Praxis abgesagt, obwohl ich insgesamt fast sechs Monate gewartet habe. Das ist für Patienten wirklich enttäuschend und organisatorisch sehr schlecht. Ich hätte mir mehr Zuverlässigkeit und bessere Kommunikation gewünscht",
+      "time": 1779466816,
+      "translated": false
+    },
+    {
       "author_name": "Marlen B.",
       "author_url": "https://www.google.com/maps/contrib/101594582280348179032/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK7kvyO53wNZ9FAMo9Pr1bwhrTQyTC4Nt7X41paRBpH5E5Mg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Da die telefonische Erreichbarkeit nicht gegeben ist und laut Band die Termine unproblematisch online gemacht werden können, habe ich es gewagt. Tatsächlich konnte ein Termin für den nächsten Tag ausgewählt werden. Traurigerweise, versuchen die guten Damen vorne die Patienten förmlich dazu zu zwingen eine Behandlung in Anspruch zu nehmen die gar nicht benötigt wird. Ich habe also einen Termin vereinbart, was bedeutet ein gewisses Zeitfenster und ein Arzt sind dafür eingeplant gewesen, weil ich aber nicht ein komplettes Screening machen lassen wollte, darf ich zur Sprechstunde Ende August wiederkommen..",
+      "time": 1779440287,
+      "translated": false
+    },
+    {
+      "author_name": "Marlen B.",
+      "author_url": "https://www.google.com/maps/contrib/101594582280348179032/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK7kvyO53wNZ9FAMo9Pr1bwhrTQyTC4Nt7X41paRBpH5E5Mg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Da die telefonische Erreichbarkeit nicht gegeben ist und laut Band die Termine unproblematisch online gemacht werden können, habe ich es gewagt. Tatsächlich konnte ein Termin für den nächsten Tag ausgewählt werden. Traurigerweise, versuchen die guten Damen vorne die Patienten förmlich dazu zu zwingen eine Behandlung in Anspruch zu nehmen die gar nicht benötigt wird. Ich habe also einen Termin vereinbart, was bedeutet ein gewisses Zeitfenster und ein Arzt sind dafür eingeplant gewesen, weil ich aber nicht ein komplettes Screening machen lassen wollte, darf ich zur Sprechstunde Ende August wiederkommen..",
       "time": 1779440287,
       "translated": false
@@ -354,11 +390,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 359,
+  "reviewCount": 360,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:41:57.910Z"
+  "lastUpdated": "2026-05-31T08:13:48.047Z"
 }

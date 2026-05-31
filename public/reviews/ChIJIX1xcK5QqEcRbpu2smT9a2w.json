@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Hans Schicketanz",
+      "author_url": "https://www.google.com/maps/contrib/111126489937686206395/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID6NqVXZcw6nWkYLWH_lcbpJcRfBxf8ocFz1M9r24cmxxspQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780141707,
+      "translated": false
+    },
+    {
       "author_name": "Jasmin D.",
       "author_url": "https://www.google.com/maps/contrib/108731339594081203716/reviews",
       "language": "de",
@@ -86,7 +96,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 10,
+  "reviewCount": 11,
   "summary": [],
-  "lastUpdated": "2026-05-28T08:41:30.773Z"
+  "lastUpdated": "2026-05-31T08:13:21.498Z"
 }

@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Elke",
+      "author_url": "https://www.google.com/maps/contrib/110195010267827298516/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoRwxn5i-YjG40VNyuIYUwK6W15YGUAaTyvCgeZXBw7mduqQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war vor einiger Zeit zu zwei Korrekturbehandlungen in Behandlung bei Frau Dr. Eimer. Mein Résumé: Eine hervorragende Ärztin, die mit viel Engagement, Freundlichkeit und Kompetenz punktet. Nachdem die Narben so langsam verblassen, bin ich mit der Ergebnis mehr als zufrieden.\nDie Klinik ist gut organisiert, Feundlichkeit, Verbindlichkeit und Pünktlichkeit sind selbstverständlich.\nIn jeder Hinsicht eine uneingeschränkte Weiterempfehlung.",
+      "time": 1779004098,
+      "translated": false
+    },
+    {
       "author_name": "Thomas P.",
       "author_url": "https://www.google.com/maps/contrib/109169685554889838813/reviews",
       "language": "de",
@@ -140,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnK2qeSVi_GiE2XSZ4F6VMmMdUJSeBFoEIwhwhIGJHzSjytA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr gute Praxis mit fachlich fundierten und freundlichen Ärzten. Je einen Stern Abzug gibt es für die teils nur sehr mäßig freundlichen Mitarbeiterinnen am Empfang und die sehr langen Wartezeiten in der Warteschleife am Telefon (oft >20 Minuten). Man fühlt sich -abseits der eigentlichen Behandlung- streckenweise eher wie ein AOK-Patient und nicht wie in einer Privatpraxis",
+      "time": 1778173363,
+      "translated": false
+    },
+    {
+      "author_name": "Florian",
+      "author_url": "https://www.google.com/maps/contrib/112949253692953321937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnK2qeSVi_GiE2XSZ4F6VMmMdUJSeBFoEIwhwhIGJHzSjytA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr gute Praxis mit fachlich fundierten und freundlichen Ärzten. Je einen Stern Abzug gibt es für die teils nur sehr mäßig freundlichen Mitarbeiterinnen am Empfang und die sehr langen Wartezeiten in der Warteschleife am Telefon (oft >20 Minuten). Man fühlt sich -abseits der eigentlichen Behandlung- streckenweise eher wie ein AOK-Patient und nicht wie in einer Privatpraxis",
       "time": 1778173363,
       "translated": false
@@ -382,5 +406,5 @@
   "rating": 4.4,
   "reviewCount": 422,
   "summary": [],
-  "lastUpdated": "2026-05-28T08:41:32.856Z"
+  "lastUpdated": "2026-05-31T08:13:23.566Z"
 }

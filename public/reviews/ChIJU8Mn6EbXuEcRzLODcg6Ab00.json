@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rom Nai",
+      "author_url": "https://www.google.com/maps/contrib/102536269015163557617/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyaT0T81c7bZZ2x_ze3r_FPhVFe5hcH2qingqBdc9-bNnijw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nicht die beste…",
+      "time": 1780124933,
+      "translated": false
+    },
+    {
       "author_name": "Lilav Sido",
       "author_url": "https://www.google.com/maps/contrib/101387323740714662737/reviews",
       "language": "de",
@@ -64,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyRfVFMkZT1Yc7FqL9629Sis_qkVVqShG3Mz2cr83AHw3bqg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778920325,
+      "translated": false
+    },
+    {
+      "author_name": "Oroba Durdur",
+      "author_url": "https://www.google.com/maps/contrib/111192050759335174006/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyRfVFMkZT1Yc7FqL9629Sis_qkVVqShG3Mz2cr83AHw3bqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1778920325,
       "translated": false
@@ -318,11 +340,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 422,
+  "reviewCount": 423,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:41:42.732Z"
+  "lastUpdated": "2026-05-31T08:13:33.139Z"
 }

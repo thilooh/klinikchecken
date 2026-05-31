@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "COSMIN XD",
+      "author_url": "https://www.google.com/maps/contrib/103528498566140381089/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPeWlMQLY4rL5uvrisgt0w-CGpy5qDZIskU3w4jflQ5bIAg5I=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine Antwort ,Personal hat keine Lust ab 9:30 reden mit Kunde",
+      "time": 1780040217,
+      "translated": false
+    },
+    {
       "author_name": "M S",
       "author_url": "https://www.google.com/maps/contrib/116084773621066886988/reviews",
       "language": "de",
@@ -181,12 +193,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 95,
+  "rating": 4,
+  "reviewCount": 96,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:41:45.868Z"
+  "lastUpdated": "2026-05-31T08:13:36.184Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Schneider",
+      "author_url": "https://www.google.com/maps/contrib/112065869236698280270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0j3GYYX1aX2bFjrtagQCcKMXs8KmTiKC44jEUS-rNn1Gfh_GXzQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles super Freundlich und guter Arztder alles Erklärt hat sehr zu empfehlen",
+      "time": 1779960653,
+      "translated": false
+    },
+    {
       "author_name": "M.S.M. Comedy",
       "author_url": "https://www.google.com/maps/contrib/109260418414713051621/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrXde4UYcicK3i4dPbvL0wUO26XJr-bMTAZjLO239uMck8aQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Nettes Personal und Ärzte",
+      "time": 1777508787,
+      "translated": false
+    },
+    {
+      "author_name": "Rainer Niehues",
+      "author_url": "https://www.google.com/maps/contrib/105754394057435785732/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrXde4UYcicK3i4dPbvL0wUO26XJr-bMTAZjLO239uMck8aQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Nettes Personal und Ärzte",
       "time": 1777508787,
       "translated": false
@@ -212,7 +236,7 @@
     }
   ],
   "rating": 3.6,
-  "reviewCount": 116,
+  "reviewCount": 117,
   "summary": [],
-  "lastUpdated": "2026-05-28T08:41:29.572Z"
+  "lastUpdated": "2026-05-31T08:13:20.284Z"
 }

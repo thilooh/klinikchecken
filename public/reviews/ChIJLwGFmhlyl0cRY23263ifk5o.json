@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alexander Buchmann",
+      "author_url": "https://www.google.com/maps/contrib/101350098847147513000/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKynUn-ljXEyYqGuhZgU6CO5Sz7cDu76_reuVu4wxEHXJOQyg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Unternehmen hat sich echt Zeit genommen, um alles zu erklären. Fühlte mich gut aufgehoben dort.",
+      "time": 1780028479,
+      "translated": false
+    },
+    {
       "author_name": "Marc",
       "author_url": "https://www.google.com/maps/contrib/103612956715948361841/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbbDCuAdmhINzJHcq_Do8enXzVvbU1Nh5NA6tqq1l9P51GsQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Guter Arzt und gutes Team.fphle mich gut aufgehoben.kann ich weiterempfehlen",
+      "time": 1777562993,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Gall",
+      "author_url": "https://www.google.com/maps/contrib/118141524582570556458/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbbDCuAdmhINzJHcq_Do8enXzVvbU1Nh5NA6tqq1l9P51GsQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "Guter Arzt und gutes Team.fphle mich gut aufgehoben.kann ich weiterempfehlen",
       "time": 1777562993,
       "translated": false
@@ -292,11 +316,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 54,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-28T08:42:08.432Z"
+  "lastUpdated": "2026-05-31T08:13:58.458Z"
 }

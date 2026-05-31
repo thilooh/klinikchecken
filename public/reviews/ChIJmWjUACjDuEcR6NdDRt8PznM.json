@@ -149,6 +149,18 @@
       "translated": false
     },
     {
+      "author_name": "Niklas Unbekannt",
+      "author_url": "https://www.google.com/maps/contrib/104035299798348250096/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhJFA8m1fh8RO5mTNC_PLZRFVzgTuOYrRoAxO0ZTzNN-tNlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "Nicht zu empfehlen. Wer Wert drauf legt wie ein Mensch behandelt zu werden sollte sich ein anderen Hautarzt suchen. Unter aller Menschen würde.",
+      "time": 1777454637,
+      "translated": false
+    },
+    {
       "author_name": "register muell",
       "author_url": "https://www.google.com/maps/contrib/107004202422649880725/reviews",
       "language": "de",
@@ -180,6 +192,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1rCzu0H4_himg-GnD-hC3Vk9nlIL1CaD1oOkqdhaQrH1O6Fs=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Leider sehr unfreundlich am Empfang behandelt worden. Bin schon lange Patient, aber suche mir jetzt eine andere Praxis. Die Ärzte sind top, aber die Dame am Empfang hat es durch ihre \"freundliche\" Art geschafft, mich anderweitig umzusehen. Schade",
+      "time": 1774855534,
+      "translated": false
+    },
+    {
+      "author_name": "register muell",
+      "author_url": "https://www.google.com/maps/contrib/107004202422649880725/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1rCzu0H4_himg-GnD-hC3Vk9nlIL1CaD1oOkqdhaQrH1O6Fs=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Leider sehr unfreundlich am Empfang behandelt worden. Bin schon lange Patient, aber suche mir jetzt eine andere Praxis. Die Ärzte sind top, aber die Dame am Empfang hat es durch ihre \"freundliche\" Art geschafft, mich anderweitig umzusehen. Schade",
       "time": 1774855534,
       "translated": false
@@ -248,5 +272,5 @@
   "rating": 4,
   "reviewCount": 120,
   "summary": [],
-  "lastUpdated": "2026-05-28T08:41:35.331Z"
+  "lastUpdated": "2026-05-31T08:13:25.877Z"
 }

@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Selin S.",
+      "author_url": "https://www.google.com/maps/contrib/107445872456476966978/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM__n-L7-sINcSE_Y49h3Jzc6x46F8zDAStyUu2ioaP3bFBow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780052012,
+      "translated": false
+    },
+    {
+      "author_name": "Edith Niehof",
+      "author_url": "https://www.google.com/maps/contrib/106560280049154791475/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJar0n7MemxAIKsSTky7cniPUuCkiFKUPFg6KmLP0ybkmuspA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779967308,
+      "translated": false
+    },
+    {
       "author_name": "Lydia Veltrup",
       "author_url": "https://www.google.com/maps/contrib/109017200506515991683/reviews",
       "language": "de",
@@ -386,11 +406,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 79,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-28T08:42:16.348Z"
+  "lastUpdated": "2026-05-31T08:14:06.257Z"
 }

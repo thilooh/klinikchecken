@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Kathrin Bentfeld-Holtgrewe",
+      "author_url": "https://www.google.com/maps/contrib/105887301541284533706/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTPtl_eR2fHg25_XPEHuraoEtNqhFTtlTRqaOUP2Ouo9hTpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780079277,
+      "translated": false
+    },
+    {
       "author_name": "S.",
       "author_url": "https://www.google.com/maps/contrib/115757693027178291314/reviews",
       "language": "de",
@@ -142,11 +152,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 11,
+  "reviewCount": 12,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:42:04.570Z"
+  "lastUpdated": "2026-05-31T08:13:54.589Z"
 }

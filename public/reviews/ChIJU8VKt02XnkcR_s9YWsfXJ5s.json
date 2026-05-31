@@ -57,6 +57,18 @@
       "translated": false
     },
     {
+      "author_name": "Gerhard Specht",
+      "author_url": "https://www.google.com/maps/contrib/105014531063075278523/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5cEPxj--4CV3Z-mGjjCvl8k2WiA8-DVY7ctKwxFw28cBB8A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Beste Hautärztin. Sie und Ihr Team sind spitzenmäßig. Immer super freundlich und kaum Wartezeit",
+      "time": 1778262070,
+      "translated": false
+    },
+    {
       "author_name": "A. Jung",
       "author_url": "https://www.google.com/maps/contrib/112946934540394869486/reviews",
       "language": "de",
@@ -100,6 +112,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB9s2B4vLqsvC7bLrs6sGl8DrE_BNG_KBkxfw0XuitLA46HQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Tolle Ärztin, sehr freundlich und nimmt sich Zeit.",
+      "time": 1777568873,
+      "translated": false
+    },
+    {
+      "author_name": "A. Jung",
+      "author_url": "https://www.google.com/maps/contrib/112946934540394869486/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB9s2B4vLqsvC7bLrs6sGl8DrE_BNG_KBkxfw0XuitLA46HQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Tolle Ärztin, sehr freundlich und nimmt sich Zeit.",
       "time": 1777568873,
       "translated": false
@@ -364,5 +388,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-28T08:41:45.402Z"
+  "lastUpdated": "2026-05-31T08:13:35.721Z"
 }

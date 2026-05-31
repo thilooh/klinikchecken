@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Nadya Guellil",
+      "author_url": "https://www.google.com/maps/contrib/116602720500387024730/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-ZlUt1RLWTmqKrQ4Gt9Hpj6frDN4smZoAskAaIwYNTuVQEQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780047416,
+      "translated": false
+    },
+    {
       "author_name": "Clau Di",
       "author_url": "https://www.google.com/maps/contrib/117374006048384528965/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRhSwyq2GW_FZ-_g_yQZnZ4UdJtK9dHYhVNq8PHNkn6q0bfA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super zufrieden. Man wird so lieb in der Praxis begrüßt. Ich fühle mich toll beraten und grossartig behandelt.",
+      "time": 1779480385,
+      "translated": false
+    },
+    {
+      "author_name": "Meike Theuerkauf",
+      "author_url": "https://www.google.com/maps/contrib/100318656318647356061/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRhSwyq2GW_FZ-_g_yQZnZ4UdJtK9dHYhVNq8PHNkn6q0bfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super zufrieden. Man wird so lieb in der Praxis begrüßt. Ich fühle mich toll beraten und grossartig behandelt.",
       "time": 1779480385,
       "translated": false
@@ -406,11 +428,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 209,
+  "reviewCount": 210,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-28T08:41:58.375Z"
+  "lastUpdated": "2026-05-31T08:13:48.513Z"
 }

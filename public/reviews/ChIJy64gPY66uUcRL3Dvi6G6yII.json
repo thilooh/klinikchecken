@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Tom Esau",
+      "author_url": "https://www.google.com/maps/contrib/103099624822305852595/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzOiTCNpzjlXYUTB_OFH4uqfVrcaT4MSRSHMYdNtBjNvulPxY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Empfehlung!\nSchon beim Empfang wurde ich sehr freundlich begrüßt. Dr. Schlarb hat mich zur Tattooentfernung äußerst kompetent, ehrlich und transparent beraten. Man fühlt sich sofort gut aufgehoben und merkt, dass hier viel Wert auf Patientenzufriedenheit gelegt wird. Nach dem ersten Termin bin ich bereits sehr zufrieden und freue mich auf die weitere Behandlung. Vielen Dank an das gesamte Team! 👏🏻",
+      "time": 1780059136,
+      "translated": false
+    },
+    {
+      "author_name": "Beril Yapıcı",
+      "author_url": "https://www.google.com/maps/contrib/100969504555843611194/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4XdWl0_cMluvmNKyRXluB5Qfg9ViQfj2gDuWwMb7xw2Jq7Von=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "I've experienced poor communication skills as an international caller with the secretary. I asked for information and wish to schedule an appointment over the phone. After she answered, she said, \"Please hold on for a moment\" while seeking information, and then the call dropped. I attempted to call back three more times, but I suspect that since they recognized my number, they chose not to answer.",
+      "time": 1780052315,
+      "translated": false
+    },
+    {
       "author_name": "A. A.",
       "author_url": "https://www.google.com/maps/contrib/117119428334715906050/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-lpHCblmtycBUNgP_W1XL_2V7keoZOX6D5HqcYIdIoyEHuw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -26,6 +50,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-lpHCblmtycBUNgP_W1XL_2V7keoZOX6D5HqcYIdIoyEHuw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1778195302,
+      "translated": false
+    },
+    {
+      "author_name": "A. A.",
+      "author_url": "https://www.google.com/maps/contrib/117119428334715906050/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-lpHCblmtycBUNgP_W1XL_2V7keoZOX6D5HqcYIdIoyEHuw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1778195302,
       "translated": false
@@ -136,11 +170,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 86,
+  "reviewCount": 88,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:41:41.775Z"
+  "lastUpdated": "2026-05-31T08:13:32.202Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Merve Yakar",
+      "author_url": "https://www.google.com/maps/contrib/102477560712540737145/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGz3HeZbuiZzT2DbebncQyjZeYAh8JzHfYUa_hl2zwx0zViw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schnell einen Termin bekommen und die MFAs an der Anmeldung waren wirklich freundlich.\n\nJetzt kommt leider das große Aber:\nDie Ärztin hat mich sehr von oben herab behandelt und meine Problematik überhaupt nicht ernst genommen. Sie hat mir einfach irgendwelche Tester gegeben, die gerade auf dem Tisch lagen, und meinte damit sei alles gut. Dabei weiß ich selbst, dass genau solche Proben bei fungal acne/problematischer Haut Trigger auslösen können.\n\nIch hatte die Rezensionen vorher gelesen, wollte mir aber trotzdem mein eigenes Bild machen. Im Nachhinein muss ich leider sagen, dass die Bewertungen für mich absolut nachvollziehbar sind.",
+      "time": 1780035817,
+      "translated": false
+    },
+    {
       "author_name": "Ben Sen",
       "author_url": "https://www.google.com/maps/contrib/104838092996764380517/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnspzMx_UPtpebMZD95WfhMg_hDjKvjUaPM7kQwEoGLHrB2Q=s128-c0x00000000-cc-rp-mo-ba3",
@@ -302,11 +314,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 115,
+  "reviewCount": 116,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:41:44.409Z"
+  "lastUpdated": "2026-05-31T08:13:34.780Z"
 }

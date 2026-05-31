@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Krueger",
+      "author_url": "https://www.google.com/maps/contrib/117151293623358754501/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrTXQPxuV32dDtYdKtL3JUc1ayrmULYgkxLioP2a7K1zI5KQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr entspanntes Team, helle moderne Einrichtung\nVielen Dank",
+      "time": 1780062023,
+      "translated": false
+    },
+    {
       "author_name": "Mikel Sodenberg",
       "author_url": "https://www.google.com/maps/contrib/103331206423414877997/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRYQq7sNmMKoWHr7P4ZAbVC1SgthKaU-kuSmU8WbochKFgFnO7IQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetente Beratung und sehr organisierter Ablauf.",
+      "time": 1779513636,
+      "translated": false
+    },
+    {
+      "author_name": "Ebs",
+      "author_url": "https://www.google.com/maps/contrib/117471527516778310352/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRYQq7sNmMKoWHr7P4ZAbVC1SgthKaU-kuSmU8WbochKFgFnO7IQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr kompetente Beratung und sehr organisierter Ablauf.",
       "time": 1779513636,
       "translated": false
@@ -380,11 +404,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 434,
+  "reviewCount": 435,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-05-28T08:41:39.124Z"
+  "lastUpdated": "2026-05-31T08:13:29.590Z"
 }

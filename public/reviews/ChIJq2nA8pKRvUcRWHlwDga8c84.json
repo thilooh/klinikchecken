@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Na Spa",
+      "author_url": "https://www.google.com/maps/contrib/103556448040516581297/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsCED16zwVqdyjLzCbhDE-XBieKq9SH8vRcaE8aAVPWQ-wMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wollte mir im ästhetischen Bereich dieser Arztpraxis den Damenbart weglasern lassen.\nTelefonisch wurde mir mitgeteilt, dass ich erst zum Vorgespräch mit der Ärztin muss. Das fand ich gut, da ich eine Autoimmunerkrankung der Haut habe.\nAn diesem Tage wurde ich aber direkt in die Kosmetik geschickt. Ich hab das dann erst mal so hingenommen. Die Dame hat sich kurz mein Gesicht angeguckt, alles erklärt und dann ging es auch schon los. Das Ergebnis war auch überzeugend.\nBeim zweiten Termin war das Gerät wohl doppelt gebucht und ich wurde schnell, schnell abgefertigt. Die Behandlung dauerte gefühlt nur halb so lange und das Ergebnis war eher lala. Natürlich habe ich den vollen Preis bezahlt.\nDer dritte Termin wurde mir wegen Krankheit abgesagt. Das verstehe ich, passiert! Wir haben ein Datum zwei Wochen später vereinbart.\nDieses wurde mir dann aber wieder einen Tag vorher abgesagt. Da ich meinen eigenen Arbeitstag um solche Termine herum plane, kann ich das nicht jedes Mal spontan umplanen. Zumal man die Behandlung alle 4 Wochen machen soll. So sind ja ständig unnötige Lücken, was sicher auf lange Sicht das Ergebnis beeinträchtigt.\nIch werde mir jetzt einen neuen Anbieter suchen.",
+      "time": 1780142030,
+      "translated": false
+    },
+    {
+      "author_name": "Miroslav Kropac",
+      "author_url": "https://www.google.com/maps/contrib/116412028529893129390/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfThawgZq-aS46b45WBfEesbavhZ3o0IhdBjUwnX_lcp80Lw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bereits im vergangenen Jahr im Rahmen einer Studie Patient bei Frau Dr. Dr. Desch und habe mich nun erneut aufgrund meiner Akne und starker Nebenwirkungen einer vorherigen Isotretinoin-Therapie an sie gewandt.\n\nIch habe selten eine Ärztin erlebt, die sich so viel Zeit nimmt, aufmerksam zuhört und wirklich auf die individuelle Situation eingeht. Frau Dr. Dr. Desch hat sich meinen gesamten Verlauf inklusive Blutwerten genau angeschaut und gemeinsam mit mir ausführlich über mögliche Alternativen gesprochen. Besonders bedanken möchte ich mich auch dafür, dass mir trotz meiner Situation sehr schnell ein Termin ermöglicht wurde.\n\nIch fand außerdem sehr positiv, dass meine Nebenwirkungen ernst genommen wurden und nicht einfach nur standardmäßig behandelt wurde. Die Beratung war sehr kompetent, verständlich und gleichzeitig menschlich angenehm.\n\nIch habe mich dort deutlich besser aufgehoben gefühlt als beim vorherigen Dermatologen und bin sehr froh, nun einen strukturierten Behandlungsplan sowie eine langfristige Betreuung zu haben.\n\nAuch das Praxisteam war freundlich und organisiert.\n\nVielen Dank an Frau Dr. Dr. Desch und das gesamte Team!",
+      "time": 1780051796,
+      "translated": false
+    },
+    {
+      "author_name": "Stefanie Diederich",
+      "author_url": "https://www.google.com/maps/contrib/108521163208308796556/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_8vHDPS9klWJ5OaUAC5PLI601xFhksuKt7TEsfypCo3NeVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich sehr gut durch Frau Dr. Desch persönlich, sowie online begleitet. Schneller, unkomplizierter Kontakt durch onlineDoctor möglich.",
+      "time": 1779965982,
+      "translated": false
+    },
+    {
       "author_name": "Natascha-Pia B.",
       "author_url": "https://www.google.com/maps/contrib/110373418228734981530/reviews",
       "language": "de",
@@ -428,11 +464,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 291,
+  "reviewCount": 294,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:41:53.899Z"
+  "lastUpdated": "2026-05-31T08:13:44.078Z"
 }

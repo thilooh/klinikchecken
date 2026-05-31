@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jimbo James",
+      "author_url": "https://www.google.com/maps/contrib/110865386936984924857/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhXcwtRqk4ETVkZIXYU3T5OzMWb_oFB9rHdf3rd-atxhJNh9X6=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche und kompetente ärztin und man fühlt sich sehr gut aufgehoben 😊",
+      "time": 1780053097,
+      "translated": false
+    },
+    {
       "author_name": "Eslem Karaoğlu",
       "author_url": "https://www.google.com/maps/contrib/112867620243094423908/reviews",
       "language": "de",
@@ -154,6 +166,18 @@
       "translated": false
     },
     {
+      "author_name": "Pia Al",
+      "author_url": "https://www.google.com/maps/contrib/110952707971062438777/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_izULA1pHYKcBf2u2MUv_iuzEzQ0xhFGlYy-nvts_nutsEA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Höchstprofessionelles Hautkrebsscreening! Alles tiptop, sehr sehr nette Ärztin.\nEs wurde genau hingeschaut und bestens beraten. Vielen Dank",
+      "time": 1774883427,
+      "translated": false
+    },
+    {
       "author_name": "Petra Gl",
       "rating": 2,
       "relative_time_description": "vor 2 Monaten",
@@ -193,11 +217,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 95,
+  "reviewCount": 96,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-05-28T08:41:21.651Z"
+  "lastUpdated": "2026-05-31T08:13:12.383Z"
 }

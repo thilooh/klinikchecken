@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Vasanti Heyer",
+      "author_url": "https://www.google.com/maps/contrib/112941620667248874790/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtye6Pv00EiW1plLX9rHJ-xEFOhwuwTpwEo6rMOGvxRrLLoddP=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schöne Praxis.  Super nettes Team und ich wurde gut beraten. Der Arzt hat sich Zeit genommen. Wartezeit war kurz. Empfehlung!",
+      "time": 1780039047,
+      "translated": false
+    },
+    {
+      "author_name": "Matthias Studer",
+      "author_url": "https://www.google.com/maps/contrib/115450760773168819773/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgxlCRvyj05Urtby30NT1kmP2MQeeH61BWubOtaCuTuJ9GuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich, bin genau pünktlich zum Termin drangekommen, sehr gut.",
+      "time": 1779995883,
+      "translated": false
+    },
+    {
+      "author_name": "S. Exner",
+      "author_url": "https://www.google.com/maps/contrib/108466532431033885415/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6YbhvzFX9cyeWlLBb9kTfcpyQYeFy_eATvUFKQBHsrRIjR-Br=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top, kurzfristig Termin online bekommen und in der Praxis alles super freundlich.",
+      "time": 1779959468,
+      "translated": false
+    },
+    {
+      "author_name": "Isolde Schreckenberger",
+      "author_url": "https://www.google.com/maps/contrib/101665426484678884793/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBHkJRmlLEBsb_GQUTJ1O0scbdfEYfALqqhChoU9VnTydimw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779958930,
+      "translated": false
+    },
+    {
       "author_name": "Kanzlei-Clausen und-D'Amico",
       "author_url": "https://www.google.com/maps/contrib/117762097621816305984/reviews",
       "language": "de",
@@ -394,11 +440,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2263,
+  "reviewCount": 2267,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-28T08:41:39.841Z"
+  "lastUpdated": "2026-05-31T08:13:30.292Z"
 }

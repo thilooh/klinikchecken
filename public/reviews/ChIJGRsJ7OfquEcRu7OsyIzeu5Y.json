@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Justyna Michalski (Kalina)",
+      "author_url": "https://www.google.com/maps/contrib/100481958198724287329/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIB3MhKNus7uJanh7A-a1CMtE-hnWMH2_A8kpNRFKMDqVa5jg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Toller Arzt und ein großartiges Team.\n\nDer Arzt nimmt sich wirklich Zeit, erklärt alles verständlich und beantwortet jede Frage ausführlich. Neben seiner enormen fachlichen Kompetenz ist er sehr höflich, offen und gibt einem einfach ein gutes Gefühl.\n\nIch wurde dort operiert und bin mit dem Verlauf und dem Ergebnis überglücklich. Ich bin noch jung und man sieht heute kaum noch Spuren der Operation, was mir persönlich sehr wichtig war.\n\nDie Praxis, der Arzt und das ganze Team sind einfach in jeder Hinsicht modern und menschlich zugleich. :)\nEs wäre schön, wenn sich manche Praxen davon eine Scheibe abschneiden würden.",
+      "time": 1780001515,
+      "translated": false
+    },
+    {
       "author_name": "Björn",
       "author_url": "https://www.google.com/maps/contrib/107452349428550252809/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8DG-_eWFB942_IDOl2_lcJzhMfgOp69-T-PcgoxFlJk4sGQ=s128-c0x00000000-cc-rp-mo-ba5",
@@ -196,11 +208,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 56,
+  "reviewCount": 57,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-05-28T08:41:59.093Z"
+  "lastUpdated": "2026-05-31T08:13:49.206Z"
 }

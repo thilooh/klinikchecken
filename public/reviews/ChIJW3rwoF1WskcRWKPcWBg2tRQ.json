@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "JF K",
+      "author_url": "https://www.google.com/maps/contrib/109311210584200038375/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_-qjC5tObLj3GKMS_GMV2WkoiIueS7hnJKT2QKiVVMJ36cw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super freundliches und zuvorkommendes Personal. Obwohl ich einen Termin verpasst hatte, wurde ich spontan trotzdem noch drangenommen. Die Räumlichkeiten sind sehr sauber und der Wartebereich ist gemütlich eingerichtet. Außerdem ist der Standort sehr gut erreichbar. Insgesamt wirkt alles organisiert, kundenorientiert und angenehm.",
+      "time": 1780051053,
+      "translated": false
+    },
+    {
+      "author_name": "MoinMoinKiel",
+      "author_url": "https://www.google.com/maps/contrib/109981046754944951582/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1TH97cJrTdnfnAsXK6iqzrrILjDD9ijXH1AYTzOqJ3-x_3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Trotz Überweisung vom Hausarzt musste ich fast 3 Monate auf einen Termin warten. Am Behandlungstag durfte ich dann zusätzlich noch fast eine Stunde im Wartezimmer warten. Besonders unangenehm war außerdem die Dame an der Rezeption, die leider sehr unhöflich war. Während ich gewartet habe, wurde einfach eine andere Patientin vor mir drangenommen, ohne Erklärung oder Kommunikation. Insgesamt leider keine gute Erfahrung.",
+      "time": 1779987642,
+      "translated": false
+    },
+    {
       "author_name": "mfmn1803",
       "author_url": "https://www.google.com/maps/contrib/101086353035994419438/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJg6zTAkTfqVARNbjmeb7xbfFZQHcFzOGwwKzAVvbV-W8oriQ=s128-c0x00000000-cc-rp-mo",
@@ -36,6 +60,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfp-65SYIRdx_eJdE5el76E-nH1EET9he8Syeo2DyWVh_G9TNi=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1778857390,
+      "translated": false
+    },
+    {
+      "author_name": "wolfgang ohrtmann",
+      "author_url": "https://www.google.com/maps/contrib/111251983207550537780/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfp-65SYIRdx_eJdE5el76E-nH1EET9he8Syeo2DyWVh_G9TNi=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1778857390,
       "translated": false
@@ -60,6 +94,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_GVYzO3Q3LzNRjNCFK-9A0PbsmHWGBvd6bPPWXhX4CSjl0FI=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin sehr zufrieden - keine Wartezeit und nette freundliche sowie kompetente Beratung!!",
+      "time": 1778767044,
+      "translated": false
+    },
+    {
+      "author_name": "Kirstin Ewert",
+      "author_url": "https://www.google.com/maps/contrib/102809125589661645361/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_GVYzO3Q3LzNRjNCFK-9A0PbsmHWGBvd6bPPWXhX4CSjl0FI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin sehr zufrieden - keine Wartezeit und nette freundliche sowie kompetente Beratung!!",
       "time": 1778767044,
       "translated": false
@@ -344,11 +390,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 133,
+  "reviewCount": 135,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-28T08:41:37.456Z"
+  "lastUpdated": "2026-05-31T08:13:27.931Z"
 }

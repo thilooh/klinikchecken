@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nima Akbari Moghaddam",
+      "author_url": "https://www.google.com/maps/contrib/118320699544994322755/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgu8oVkvqgPD4jFOFGM86ypBgDzbckkhBEO9OEqDCjhIK1aJs1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher und professioneller Arzt und Mitarbeiter :)",
+      "time": 1780059611,
+      "translated": true
+    },
+    {
       "author_name": "Martin",
       "author_url": "https://www.google.com/maps/contrib/108190173834839675291/reviews",
       "language": "de",
@@ -166,11 +178,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 115,
+  "reviewCount": 116,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-28T08:41:50.626Z"
+  "lastUpdated": "2026-05-31T08:13:40.795Z"
 }
