@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marietta Cartus",
+      "author_url": "https://www.google.com/maps/contrib/110446354877996120481/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWXLLvCdJvkD5_sDgzte0_oNWn5ZtF75jXn78--jGpMuVJ4Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nett und Höfflich Sehr freundlich\nGut Beratung sehr zufrieden",
+      "time": 1780300386,
+      "translated": false
+    },
+    {
       "author_name": "Jannine",
       "author_url": "https://www.google.com/maps/contrib/104872101273243750291/reviews",
       "language": "de",
@@ -370,5 +382,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-05-31T08:13:54.294Z"
+  "lastUpdated": "2026-06-01T10:18:11.690Z"
 }

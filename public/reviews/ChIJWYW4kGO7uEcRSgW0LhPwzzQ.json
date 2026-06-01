@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Herr Moerenkarl",
+      "author_url": "https://www.google.com/maps/contrib/111764369623989792351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVynGXqqzY9l63AwsOBaPkYyPUfwRayx5ETIxPOyg-5RsTXuiwoNw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Strukturen\nGute Ärztin Dr. Kern",
+      "time": 1780251901,
+      "translated": false
+    },
+    {
       "author_name": "Weronika Trawnik",
       "author_url": "https://www.google.com/maps/contrib/113145709628788042642/reviews",
       "language": "de",
@@ -254,11 +266,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 42,
+  "reviewCount": 43,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-31T08:13:48.283Z"
+  "lastUpdated": "2026-06-01T10:18:05.751Z"
 }

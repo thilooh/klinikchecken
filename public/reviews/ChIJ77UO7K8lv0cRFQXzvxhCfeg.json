@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Amin Namousi",
+      "author_url": "https://www.google.com/maps/contrib/112254569691747317846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJjVMo_m35YnQlOf42Zo3oajvA_51raQOvU8Q5iWKJSfgwhQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780288248,
+      "translated": false
+    },
+    {
       "author_name": "Jimbo James",
       "author_url": "https://www.google.com/maps/contrib/110865386936984924857/reviews",
       "language": "de",
@@ -217,11 +227,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 96,
+  "reviewCount": 97,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-05-31T08:13:12.383Z"
+  "lastUpdated": "2026-06-01T10:17:32.029Z"
 }

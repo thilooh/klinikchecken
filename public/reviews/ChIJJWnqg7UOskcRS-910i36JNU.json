@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Matthias",
+      "author_url": "https://www.google.com/maps/contrib/107817571642543438684/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgQwG1WhhLah6oAdL2Tixy46sECaVJIZuk1-hRF3y3bsTc9s1H=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Haase ist eine fantastische und einfühlsame Ärztin. Sie hat mich komplett abgeholt und so gut es ging Sorgen abgenommen und die notwendigen weiteren Untersuchungen eingeleitet. Ich würde immer wieder zu ihr gehen.",
+      "time": 1780302852,
+      "translated": false
+    },
+    {
       "author_name": "Vasanti Heyer",
       "author_url": "https://www.google.com/maps/contrib/112941620667248874790/reviews",
       "language": "de",
@@ -440,11 +452,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2267,
+  "reviewCount": 2268,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-05-31T08:13:30.292Z"
+  "lastUpdated": "2026-06-01T10:17:48.049Z"
 }

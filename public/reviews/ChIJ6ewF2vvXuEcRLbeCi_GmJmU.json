@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kulla Gaitanidou",
+      "author_url": "https://www.google.com/maps/contrib/111068332277845369576/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo6F_vV7eG5u165q8_stilTTynlwLSsg6_uPpvmLONoWeabg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolles Team. Sehr nette und souveräne Ärztin, hat sich viel Zeit für mich genommen. Ich habe mich toll aufgehoben gefühlt. Man fühlt sich als Patientin ernst genommen.\nGanz kurze Wartezeit.\nVielen Dank!",
+      "time": 1780243918,
+      "translated": false
+    },
+    {
       "author_name": "Laber Backe",
       "author_url": "https://www.google.com/maps/contrib/103982497730185885764/reviews",
       "language": "de",
@@ -350,11 +362,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 224,
+  "reviewCount": 225,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-05-31T08:13:33.382Z"
+  "lastUpdated": "2026-06-01T10:17:51.077Z"
 }
