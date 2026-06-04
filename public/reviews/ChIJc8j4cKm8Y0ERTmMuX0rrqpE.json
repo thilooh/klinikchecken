@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Stefan Rebbin",
+      "author_url": "https://www.google.com/maps/contrib/114785178287975842051/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM-WB6_aXI9a0e520Ba9EjtXEUNRTlJAX2wrlTjsnDHadYRrCoUw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das war super! Ich war zum ersten Mal bei Dr. Lamprecht zur Kontrolle meiner Venen und mir gefiel es hier außerordentlich gut. Das begann schon bei der freundlichen Aufnahme der Dame am der Anmeldung und bei der eigentlichen Untersuchung. Nach einer gründlichen Anamnese wurden meine Venen geschallt und dabei alles umfangreich erklärt. Alles in allem hatten wir ein gutes Gespräch. Ich fühlte mich gut aufgehoben und behandelt. Ich kann diese Praxis weiter empfehlen!",
+      "time": 1780334533,
+      "translated": false
+    },
+    {
+      "author_name": "Zehra seyrek",
+      "author_url": "https://www.google.com/maps/contrib/105139773139509808964/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKw6dm2YZiQbmSb50jhxF3wrgHVGE2YfgvsNUT1Sdhrh_l0Ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr enttäuschender Arztbesuch.\nDer Arzt zeigte kaum Interesse an meinen Beschwerden und ging nicht angemessen auf meine Fragen ein. Statt einer professionellen und respektvollen Behandlung fühlte ich mich mehrfach herabgesetzt und nicht ernst genommen. Die Kommunikation war unfreundlich und teilweise belehrend. Ich habe mich als Patientin nicht willkommen gefühlt und kann die Praxis daher nicht empfehlen.\n\nLeider nicht einmal einen Stern wert.",
+      "time": 1780323199,
+      "translated": false
+    },
+    {
       "author_name": "Annika Marie Meister",
       "author_url": "https://www.google.com/maps/contrib/108907009367861408253/reviews",
       "language": "de",
@@ -218,7 +242,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 75,
+  "reviewCount": 77,
   "summary": [],
-  "lastUpdated": "2026-06-01T10:17:40.976Z"
+  "lastUpdated": "2026-06-04T08:46:25.649Z"
 }

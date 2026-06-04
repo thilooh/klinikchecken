@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Doris Spiess",
+      "author_url": "https://www.google.com/maps/contrib/102410966734996833095/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK77EuZD261Pq94tD3lOShqWqHG4jO4WpShEnHuelhhxi-bvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war mit meiner 14 jährigen Tochter dort. Schon bei der Terminvereinbarung wurden wir sehr unfreundlich behandelt. Am liebsten hätte man uns gar keinen Termin gegeben. Als wir schließlich nach 3 Monaten einen Termin bekommen haben, war der in 5 Minuten erledigt. Bei meiner Tochter lag der Verdacht auf eine Durchblutungsstörung vor, jedoch hat der Arzt keine Untersuchung durchgeführt sondern fragte nur, ob sie Drogen nimmt oder raucht, er fragte sogar mehrmals nach. Echt unglaublich. Als ich noch fragen wollte, ob ein Ohnmachtsanfall damit verbunden sein könnte, diktierte er schon seinen Arztbrief, der darüber hinaus auch noch Fehler enthielt. Bei allem Verständnis für seine „Diagnose“ hätte er etwas einfühlsamer sein müssen. Total unempathisch und arrogant. Er hat sich noch nicht einmal vorgestellt. Immerhin hatten wir keine Wartezeit. Wir könnten in 6 Jahren nochmal kommen.",
+      "time": 1780518617,
+      "translated": false
+    },
+    {
       "author_name": "Hülya Kaplan",
       "author_url": "https://www.google.com/maps/contrib/110410191289438300578/reviews",
       "language": "de",
@@ -50,6 +62,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9M1C4OvK1nACXAo_KyS-Z0YroE8nTZ1oCpKGUk6I1ed_Buwm3=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1778672288,
+      "translated": false
+    },
+    {
+      "author_name": "Daniela Martini",
+      "author_url": "https://www.google.com/maps/contrib/105787646138232101889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9M1C4OvK1nACXAo_KyS-Z0YroE8nTZ1oCpKGUk6I1ed_Buwm3=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1778672288,
       "translated": false
@@ -368,11 +390,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 146,
+  "reviewCount": 147,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:18:15.455Z"
+  "lastUpdated": "2026-06-04T08:47:00.814Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Jacqueline Lücking",
+      "author_url": "https://www.google.com/maps/contrib/112265458217415539040/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVjOj99QJhnquQBc6u00O4xsthGKmFOwSb5uHzdjSr1GjepA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr moderne Praxis. Sehr nettes Personal und Ärzte, war bisher 3 oder 4 mal dort.\nTerminvergabe ist vor Ort persönlich am einfachsten. Telefonisch komme ich nicht durch und die online Termine sind für Kassen Patient ausgebucht. Vor Ort habe ich sehr schnell einen Termin bekommen",
+      "time": 1780480123,
+      "translated": false
+    },
+    {
+      "author_name": "Ute Hartmann",
+      "author_url": "https://www.google.com/maps/contrib/117071380348652808244/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoznfUbMUuepT9U3BoPg3Uqy0Csvy7nb-AwjVn4OTDvUWQkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Personal in der Anmeldung war sehr freundlich, die Wartezeit sehr kurz(10 Min.),\nder Arzt war sehr einfühlsam, zugewandt und nahm sich Zeit für Erklärungen und Beantwortung all meiner Fragen.\nSehr zu empfehlende Praxis.",
+      "time": 1780418269,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Quil",
+      "author_url": "https://www.google.com/maps/contrib/108026010442835067316/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiwlGaA3i__9xT1oClAvn7HVQtryHXmtnzQz_66sJ6I_X7Id-H=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Trotz Termin ewig lange Wartezeit",
+      "time": 1780385367,
+      "translated": false
+    },
+    {
       "author_name": "Heike Zachau",
       "author_url": "https://www.google.com/maps/contrib/111070140929522054817/reviews",
       "language": "de",
@@ -8,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPYz4iU5I7wgX9hKJNshTA3gkHMwcjRJXl9YybBjdzqg7xnIdQ=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute mal wieder zu einer OP in der Praxis, das ist gut gelaufen, aber was nicht in Ordnung finde ,wenn ein Arzt die OP Schwester vor dem Patienten,nicht gut behandelt, alles was sie gemacht hat war nicht richtig ,Ich finde das das nicht ,Sie ist richtig nett und sehr freundlich, habe mich bei Ihr sehr wohl gefühlt ,das ganze Praxis Personal ist sehr freundlich, aber Der Arzt müsste doch froh sein mit Ihnen arbeiten zu dürfen.",
+      "time": 1779957166,
+      "translated": false
+    },
+    {
+      "author_name": "Heike Zachau",
+      "author_url": "https://www.google.com/maps/contrib/111070140929522054817/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPYz4iU5I7wgX9hKJNshTA3gkHMwcjRJXl9YybBjdzqg7xnIdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute mal wieder zu einer OP in der Praxis, das ist gut gelaufen, aber was nicht in Ordnung finde ,wenn ein Arzt die OP Schwester vor dem Patienten,nicht gut behandelt, alles was sie gemacht hat war nicht richtig ,Ich finde das das nicht ,Sie ist richtig nett und sehr freundlich, habe mich bei Ihr sehr wohl gefühlt ,das ganze Praxis Personal ist sehr freundlich, aber Der Arzt müsste doch froh sein mit Ihnen arbeiten zu dürfen.",
       "time": 1779957166,
       "translated": false
@@ -376,11 +424,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 253,
+  "reviewCount": 256,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-01T10:17:44.339Z"
+  "lastUpdated": "2026-06-04T08:46:29.164Z"
 }

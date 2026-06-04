@@ -103,6 +103,16 @@
       "translated": false
     },
     {
+      "author_name": "M M",
+      "author_url": "https://www.google.com/maps/contrib/107052255645696338494/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN-7oWO1PcgsyLMq832BAVJagdkPJ7SQW_9DbHZgZ4rTqCnx0=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778742118,
+      "translated": false
+    },
+    {
       "author_name": "Sarah",
       "author_url": "https://www.google.com/maps/contrib/108337803453257456932/reviews",
       "language": "de",
@@ -393,5 +403,5 @@
   "rating": 4.5,
   "reviewCount": 292,
   "summary": [],
-  "lastUpdated": "2026-06-01T10:17:37.132Z"
+  "lastUpdated": "2026-06-04T08:46:21.339Z"
 }

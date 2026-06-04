@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Oliver Hofmann",
+      "author_url": "https://www.google.com/maps/contrib/107402500764526029281/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4uLtHhLH0jlLV0ZBy62BIOEhvAuIzuKcySjNO8ECYUe3jytcZ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetentes Team .\nNur schlecht das man telefonisch nie durchkommt",
+      "time": 1780553724,
+      "translated": false
+    },
+    {
+      "author_name": "Bianca Heimen",
+      "author_url": "https://www.google.com/maps/contrib/108281401237894354420/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuaVZjm2W_VrgwXnEoa9iRD8kCOm0ApTPXhnOAlj4oQSfv4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nachdem wir für unsere Tochter einen Hautarzt gesucht hatten und von vielen Praxen abgewiesen wurden, weil keine Neupatienten aufgenommen wurden, wandten wir uns an die Praxis von Dr. Quist in Mainz. Dort wurden wir freundlich aufgenommen und erhielten zeitnah einen Termin.\n\nWir wurden nicht enttäuscht: Frau Quist behandelte unsere Tochter persönlich und nahm sich ausreichend Zeit für ihre Anliegen. Aufgrund dieser positiven Erfahrung wechselte ich ebenfalls in die Praxis und wurde von Frau Dr. Desch betreut. Sie ist eine sehr nette und kompetente Ärztin, die mir alles verständlich erklärte und auf meine Fragen einging.\n\nWir fühlen uns in dieser Praxis sehr gut aufgehoben und können sie uneingeschränkt weiterempfehlen.",
+      "time": 1780431881,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Kawelke",
+      "author_url": "https://www.google.com/maps/contrib/109213941441392002865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6WjO-JLBKZ28eU7pYG8cSHZd9c4MP1nUVTdG6_iYBoMqXSw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Hautarzt und sehr nettees Personal kann ich nur empfehlen weiter so",
+      "time": 1780412202,
+      "translated": false
+    },
+    {
+      "author_name": "Volker Pfeifer",
+      "author_url": "https://www.google.com/maps/contrib/105518587824014472900/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0TzLi3r4Yahw040a6wxy8xB1oPVgJoVVaS1RET01vDBU59g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war als Betreuer meiner Mutter (92) mehrfach bei Dr. BORN in Behandlung.\nDie Kommunikation war sehr gut auf die Patientin abgestimmt. Die teilweise komplizierteren ambulanten Eingriffe wurden ausgiebig und einfühlsam besprochen. Die Eingriffe verliefen tadellos wie zuvor eingeschätzt. Wir danken Frau Dr. Born und dem Team für diese hervorragende Arbeit.",
+      "time": 1780411949,
+      "translated": false
+    },
+    {
+      "author_name": "Artur",
+      "author_url": "https://www.google.com/maps/contrib/106460536922316479381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi6kLFAl7p-DwP7yjh816IITfey0je0vy69zFlzkJP4nkKAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis! Frau Schmidt war sehr freundlich und kompetent, hat sich Zeit genommen und alles klar erklärt. Gerne wieder.",
+      "time": 1780331059,
+      "translated": false
+    },
+    {
       "author_name": "Na Spa",
       "author_url": "https://www.google.com/maps/contrib/103556448040516581297/reviews",
       "language": "de",
@@ -464,11 +524,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 294,
+  "reviewCount": 299,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:18:01.621Z"
+  "lastUpdated": "2026-06-04T08:46:46.749Z"
 }

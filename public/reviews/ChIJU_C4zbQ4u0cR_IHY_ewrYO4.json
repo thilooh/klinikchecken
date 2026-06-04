@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ina-Elisabeth Kunzlmann",
+      "author_url": "https://www.google.com/maps/contrib/105287698397956758920/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLixkrqg8lwUyoell5aYk3yoc6MI9GnaMmIxNk8KAXG70pPug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Was für eine tolle Erfahrung, sowohl bereits am Telefon bei der Terminvereinbarung als auch im persönlichen Erstkontakt-supernette Dame am Empfang!\nUnd Dr Krokowski selber: sehr sehr nett, respektvoll und entängstigend.\nIch bin überrascht und beinahe schon glücklich!\nVielen Dank, ❤️\nIch empfehle Sie allzugern weiter",
+      "time": 1780324576,
+      "translated": false
+    },
+    {
       "author_name": "Thorsten Koerner",
       "author_url": "https://www.google.com/maps/contrib/111534312098012959171/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx80HDl3rFSQFicBDHU0CyZPKlX6EoH8qKig6tkLGf_V19bA=s128-c0x00000000-cc-rp-mo-ba2",
@@ -83,6 +95,18 @@
       "translated": false
     },
     {
+      "author_name": "M & M",
+      "author_url": "https://www.google.com/maps/contrib/106069124018197972421/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOiSye9l7q58U6VX0vz2hbLP9Pijz2NMQOmWEYmhfXioR0M2Md=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Alles bestens, vielen Dank!",
+      "time": 1777847034,
+      "translated": false
+    },
+    {
       "author_name": "Michael Klug",
       "author_url": "https://www.google.com/maps/contrib/102974600298037086291/reviews",
       "language": "de",
@@ -150,6 +174,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLceVLpc4xhrmLlFECD-Xvgcg5ueqD9deREY0_QA6y65hCeKA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich war zum ersten Mal dort zu einer reinen Krebsfürsorge und ich war begeistert. Der Arzt war super sympathisch, ich habe während der Untersuchung meine Fragen gestellt, er hat alle höflich und kompetent beantwortet und war wieder raus. Die Empfangsdame war sympathisch und vor allem die Abwicklung war rasch. Die Pflegerin war auch super lieb. Also ich bin wirklich begeistert, das hat man selten, dass das ganze Praxisteam einen super netten Eindruck macht. Von daher absolute Weiterempfehlung, ich komme wieder. Einziger \"Abzug\" war die Wartezeit. Termin 13 Uhr, dran war ich um 13.45 Uhr, aber bei all den Menschen, die dort innerhalb kürzester Zeit \"absolviert\" wurden war das absolut okay. Hier in der Praxis versteht man anscheinend wirklich was von reibungslosem Ablauf. :)",
+      "time": 1775196612,
+      "translated": false
+    },
+    {
+      "author_name": "Anja Taieb",
+      "author_url": "https://www.google.com/maps/contrib/115426235362781531149/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLceVLpc4xhrmLlFECD-Xvgcg5ueqD9deREY0_QA6y65hCeKA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich war zum ersten Mal dort zu einer reinen Krebsfürsorge und ich war begeistert. Der Arzt war super sympathisch, ich habe während der Untersuchung meine Fragen gestellt, er hat alle höflich und kompetent beantwortet und war wieder raus. Die Empfangsdame war sympathisch und vor allem die Abwicklung war rasch. Die Pflegerin war auch super lieb. Also ich bin wirklich begeistert, das hat man selten, dass das ganze Praxisteam einen super netten Eindruck macht. Von daher absolute Weiterempfehlung, ich komme wieder. Einziger \"Abzug\" war die Wartezeit. Termin 13 Uhr, dran war ich um 13.45 Uhr, aber bei all den Menschen, die dort innerhalb kürzester Zeit \"absolviert\" wurden war das absolut okay. Hier in der Praxis versteht man anscheinend wirklich was von reibungslosem Ablauf. :)",
       "time": 1775196612,
       "translated": false
@@ -228,11 +264,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 53,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-01T10:18:02.579Z"
+  "lastUpdated": "2026-06-04T08:46:47.667Z"
 }

@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Elisabeth Philippi",
+      "author_url": "https://www.google.com/maps/contrib/118023061104635232582/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKreEYNTNv7gTKf_hqywRw-VIANZ1vVBbIoaDezRW0ru7Weog=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr freundliche Atmosphäre und kompetente Behandlung.  Fühlte mich bestens aufgehoben.",
+      "time": 1777998379,
+      "translated": false
+    },
+    {
       "author_name": "Jacqueline",
       "author_url": "https://www.google.com/maps/contrib/109850716956483567794/reviews",
       "language": "de",
@@ -154,5 +166,5 @@
   "rating": 5,
   "reviewCount": 21,
   "summary": [],
-  "lastUpdated": "2026-06-01T10:17:39.801Z"
+  "lastUpdated": "2026-06-04T08:46:24.481Z"
 }

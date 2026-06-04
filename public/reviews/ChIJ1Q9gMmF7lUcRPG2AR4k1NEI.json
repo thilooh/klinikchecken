@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manfred Leiendecker",
+      "author_url": "https://www.google.com/maps/contrib/114045800313058629351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-3ZEcUapODdhz3AXNkoRT0EOBWh_BNquZu09eQnnIu-pLdF0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe kurzfristig einen Termin bekommen. Die Medizinischen Fachangestellten und der Arzt waren sehr kompetent und freundlich. Während der Untersuchung wurden die Befunde angesprochen und eine erste Empfehlung ausgesprochen. Das war für mich als Patient in diesem Falle sehr beruhigend, und ich muss nicht auf den nächsten Hausbesuch achten. Vielen Dank an das gesamte Praxisteam!",
+      "time": 1780324669,
+      "translated": false
+    },
+    {
       "author_name": "Mala",
       "author_url": "https://www.google.com/maps/contrib/101532684074800304379/reviews",
       "language": "de",
@@ -190,11 +202,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 25,
+  "reviewCount": 26,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:18:19.820Z"
+  "lastUpdated": "2026-06-04T08:47:05.273Z"
 }

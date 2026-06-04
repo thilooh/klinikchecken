@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Holger Lambert",
+      "author_url": "https://www.google.com/maps/contrib/116164399772711374203/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYo5LSi_wVn7q32jBf178vj1cUDzSocmi24yRrK_lXk4ezKA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nettes Team,",
+      "time": 1780473309,
+      "translated": false
+    },
+    {
       "author_name": "Munshi Arif Rashid",
       "author_url": "https://www.google.com/maps/contrib/104633594524945071797/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLazqn94UwDyt_GmPdZPNutCxjInTsV94P5oWyMaze_FckeNQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Seit mittlerweile drei Monaten bin ich Patient bei MVZ Dermatologie & Ästhetik Kleinblittersdorf und ich bin wirklich begeistert von dem gesamten Team und dem Service.\n\nVom Empfang bis zu den Ärzten sind alle stets freundlich, respektvoll und hilfsbereit. Man wird immer mit einem Lächeln empfangen und fühlt sich als Patient wirklich ernst genommen und gut aufgehoben.\n\nBesonders beeindruckt hat mich die schnelle Unterstützung während eines akuten Schubs meiner Hautprobleme. Nachdem ich angerufen hatte, wurde ich bereits nach etwa 30 Minuten zurückgerufen und bekam trotz voller Auslastung einen Termin für den nächsten Tag. Obwohl an diesem Tag sehr viel los war, hat sich das Team Zeit genommen und sich hervorragend um mich gekümmert.\n\nZuvor war ich bei einer anderen Praxis in Saarbrücken in Behandlung, und der Unterschied in Service, Freundlichkeit und Patientenbetreuung ist wirklich enorm.\n\nEin großes Dankeschön an das gesamte Team – absolut empfehlenswert!",
+      "time": 1779202569,
+      "translated": false
+    },
+    {
+      "author_name": "Munshi Arif Rashid",
+      "author_url": "https://www.google.com/maps/contrib/104633594524945071797/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLazqn94UwDyt_GmPdZPNutCxjInTsV94P5oWyMaze_FckeNQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Seit mittlerweile drei Monaten bin ich Patient bei MVZ Dermatologie & Ästhetik Kleinblittersdorf und ich bin wirklich begeistert von dem gesamten Team und dem Service.\n\nVom Empfang bis zu den Ärzten sind alle stets freundlich, respektvoll und hilfsbereit. Man wird immer mit einem Lächeln empfangen und fühlt sich als Patient wirklich ernst genommen und gut aufgehoben.\n\nBesonders beeindruckt hat mich die schnelle Unterstützung während eines akuten Schubs meiner Hautprobleme. Nachdem ich angerufen hatte, wurde ich bereits nach etwa 30 Minuten zurückgerufen und bekam trotz voller Auslastung einen Termin für den nächsten Tag. Obwohl an diesem Tag sehr viel los war, hat sich das Team Zeit genommen und sich hervorragend um mich gekümmert.\n\nZuvor war ich bei einer anderen Praxis in Saarbrücken in Behandlung, und der Unterschied in Service, Freundlichkeit und Patientenbetreuung ist wirklich enorm.\n\nEin großes Dankeschön an das gesamte Team – absolut empfehlenswert!",
       "time": 1779202569,
       "translated": false
@@ -92,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrZBZtLhQMbT9as_h8STTpaQTT9Guw7lFyV2Fv88caLGKXLw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Super nettes Praxisteam. Ich wurde von Dr. Christofi behandelt. Er ist sehr nett und hat ein offenes Ohr für seine Patienten. Geht auf seine Patienten ein und wirkt sehr kompetent.",
+      "time": 1778693815,
+      "translated": false
+    },
+    {
+      "author_name": "Lothar Gadzimski",
+      "author_url": "https://www.google.com/maps/contrib/114591631350896687384/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrZBZtLhQMbT9as_h8STTpaQTT9Guw7lFyV2Fv88caLGKXLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Super nettes Praxisteam. Ich wurde von Dr. Christofi behandelt. Er ist sehr nett und hat ein offenes Ohr für seine Patienten. Geht auf seine Patienten ein und wirkt sehr kompetent.",
       "time": 1778693815,
       "translated": false
@@ -164,6 +200,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBAmApJMtUuguq-cDGt4OAgbwhRkk6GZngkn-F5f2oSkarXrg=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich kann nicht allgemein die Praxis bewerten, allerdings kann ich über den Artz Christoforos Christofi sagen.Sehr netter aber unqualifizierter Artz. Es wurde eine Entscheidung getroffen Dermatitis einfach mit Schwarzem Tee zu behandeln 🫣",
+      "time": 1778583280,
+      "translated": false
+    },
+    {
+      "author_name": "Kateryna Kunitska",
+      "author_url": "https://www.google.com/maps/contrib/117080009428138708144/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBAmApJMtUuguq-cDGt4OAgbwhRkk6GZngkn-F5f2oSkarXrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich kann nicht allgemein die Praxis bewerten, allerdings kann ich über den Artz Christoforos Christofi sagen.Sehr netter aber unqualifizierter Artz. Es wurde eine Entscheidung getroffen Dermatitis einfach mit Schwarzem Tee zu behandeln 🫣",
       "time": 1778583280,
       "translated": false
@@ -360,5 +408,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:18:03.031Z"
+  "lastUpdated": "2026-06-04T08:46:48.164Z"
 }

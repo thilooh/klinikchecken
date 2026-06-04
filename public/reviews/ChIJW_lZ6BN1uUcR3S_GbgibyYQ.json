@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "otto neumann",
+      "author_url": "https://www.google.com/maps/contrib/114512697920933828000/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqeCSb4XjZWpfOHHGgFPHN7qf1t614G80sRPq8wtorB1zNGuVs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Eine absolute Freundlichkeit,\nSehr nett und super organisiert.\nDie Behandlung (Ärztliche Untersuchung sehr präzise)\nHatte was auf dem Kopf, hab Punkte auf dem Arm , immer präzise Antwort .\n\nDanke in aller Regel",
+      "time": 1779891268,
+      "translated": false
+    },
+    {
       "author_name": "Gülsüm Celik",
       "author_url": "https://www.google.com/maps/contrib/112554057210492836596/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5B2AO1cJpmJaJx9pTRLHvMcCnVehpWDiX_qzOVv6sicto3w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr sehr freundliche Mfa's und Ärztinnen. Die Ärztin hat sich Zeit genommen und war total freundlich dabei und hat mich auch noch zusätzlich sehr beruhigt. Einfach Top",
+      "time": 1779889781,
+      "translated": false
+    },
+    {
+      "author_name": "Gülsüm Celik",
+      "author_url": "https://www.google.com/maps/contrib/112554057210492836596/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5B2AO1cJpmJaJx9pTRLHvMcCnVehpWDiX_qzOVv6sicto3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr sehr freundliche Mfa's und Ärztinnen. Die Ärztin hat sich Zeit genommen und war total freundlich dabei und hat mich auch noch zusätzlich sehr beruhigt. Einfach Top",
       "time": 1779889781,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5-UCh3KuXh6GlUffW9-iInsJeHCxZes010av_J8oSfCBbOzKy=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Spitze!",
+      "time": 1779180718,
+      "translated": true
+    },
+    {
+      "author_name": "Crane",
+      "author_url": "https://www.google.com/maps/contrib/100070627714840863629/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5-UCh3KuXh6GlUffW9-iInsJeHCxZes010av_J8oSfCBbOzKy=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Spitze!",
       "time": 1779180718,
       "translated": true
@@ -86,6 +122,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJjfJhXGP0AmBiFHPFIgasGT5HKXIZFc3KWDk6xb-AdBwBnor0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1778603995,
+      "translated": false
+    },
+    {
+      "author_name": "Marco Steuer",
+      "author_url": "https://www.google.com/maps/contrib/109181568210303923447/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJjfJhXGP0AmBiFHPFIgasGT5HKXIZFc3KWDk6xb-AdBwBnor0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1778603995,
       "translated": false
@@ -398,5 +444,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:18:08.018Z"
+  "lastUpdated": "2026-06-04T08:46:53.297Z"
 }

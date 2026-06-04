@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Sowa",
+      "author_url": "https://www.google.com/maps/contrib/105819631708663499741/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFT2sGHlizb80NFULcSTqq13ePxgmmWQdpOXPs3fLVtkbW=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Haase ist einfach rundum klasse, nimmt sich Zeit und ich fühle mich bei ihr sehr gut aufgehoben. Danke dafür",
+      "time": 1780514078,
+      "translated": false
+    },
+    {
+      "author_name": "Hanife Yesildag",
+      "author_url": "https://www.google.com/maps/contrib/105987530657320643781/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUR9yf6iAof1in8LFqSvSz39uURcKEMmz7XhqwXe5bVlCisgLansg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr guter und proffessioneler Arzt",
+      "time": 1780506842,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin Höppner",
+      "author_url": "https://www.google.com/maps/contrib/111329409386973680360/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfhcJI_fUmgjpo3fb7Ced9eMtTvtdT77nyoYz4ROce84ZokQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780501475,
+      "translated": false
+    },
+    {
+      "author_name": "Silke Richter",
+      "author_url": "https://www.google.com/maps/contrib/104100955722674885700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9_Tevfh5NlEnUgC9khN6Enj3LboYFV8lvdEp6MM4ry-3Jf80PqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich würde  gut  behandelt  war alles gut",
+      "time": 1780485193,
+      "translated": false
+    },
+    {
+      "author_name": "stier",
+      "author_url": "https://www.google.com/maps/contrib/109893963141199090675/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQCbGLnYBZKsPIXyn5CkiFjirNzRupqH6AIheM7UEWnz8CbAU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780474080,
+      "translated": false
+    },
+    {
       "author_name": "Matthias",
       "author_url": "https://www.google.com/maps/contrib/107817571642543438684/reviews",
       "language": "de",
@@ -452,11 +508,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2268,
+  "reviewCount": 2274,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-01T10:17:48.049Z"
+  "lastUpdated": "2026-06-04T08:46:32.877Z"
 }

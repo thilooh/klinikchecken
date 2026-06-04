@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jennifer Dahlem",
+      "author_url": "https://www.google.com/maps/contrib/105519702051058981273/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCEzGumb4pZahiG-SxEiNio8jATuErbzBufBIVOLaJkliAZA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn ich könnte, würde ich der Rosenparkklinik 10 Sterne geben.\nIch habe die Fettverteilungsstörung Lipödem an Beinen und Armen und wurde von Herrn Dr. Weirich in der Rosenparkklinik im letzten Jahr drei Mal operiert (Innenbeine/Außenbeine/Arme). Herr Dr. Weirich ist nicht nur Arzt, er ist ein wahrer Künstler. Es gibt keine \"Erinnerungen\" mehr an das Lipödem, keine Dellen, keine Verklebungen, selbst die Narbenschnitte sieht man nicht mehr. Die Versorgung bei und nach den Eingriffen ist ebenfalls auf sehr hohem Niveau, Schwester Annette, Schwester Bozenka, Schwester Nele - um nur ein paar zu nennen, standen mir in jeder Minute zur Seite, jede Angst, jeder Schmerz wird ernst genommen und liebevoll begleitet/behoben. Innerhalb von 1 1/2 Wochen war ich sogar wieder arbeitsbereit. Ich möchte jedem, der sich überlegt eine Liposuktion durchführen zu lassen, sehr ans Herz legen, sich in der Rosenparkklinik behandeln zu lassen. Absolute Empfehlung.",
+      "time": 1780409955,
+      "translated": false
+    },
+    {
       "author_name": "MONIKA Weidner",
       "author_url": "https://www.google.com/maps/contrib/115878221773855326010/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8XAo3IwJkHPToxVRpG_sLN4SY2S-OmDDbbfnqKHVjqg5Rgg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich hatte im September eine Fettabsaugung bei Frau Dr. Duma.Sie ist eine fantastische Ärztin und das Ergebnis ist einfach der Hammer. Das ganze Team der Rosenpark Klink ist super freundlich. Ich habe mich so wohl gefühlt,dass ich in 2 Wochen ein weiteres Beratungsgespräch für eine OP gebucht habe.\n\nIch hatte im April eine Brustverkleinerung bei Herrn Dr. Rüger, und ich kann Herrn Dr. Rüger gar nicht genug danken für das fantastische Ergebnis, ich bin total glücklich 😃 bedanken möchte ich mich auch bei dem gesamten Team der Rosenparkklinik. Die Damen am Empfang, die OP Schwestern, dem Narkosearzt und den Schwestern die sich nach der OP so toll um mich gekümmert haben 🙏 ihr seid einfach spitze.\nVielen vielen Dank für alles 🤗\nIch werde die Rosenpark Klinik immer wieder weiter empfehlen.\nViele liebe Grüße\nM. Weidner",
+      "time": 1777754645,
+      "translated": false
+    },
+    {
+      "author_name": "MONIKA Weidner",
+      "author_url": "https://www.google.com/maps/contrib/115878221773855326010/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8XAo3IwJkHPToxVRpG_sLN4SY2S-OmDDbbfnqKHVjqg5Rgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich hatte im September eine Fettabsaugung bei Frau Dr. Duma.Sie ist eine fantastische Ärztin und das Ergebnis ist einfach der Hammer. Das ganze Team der Rosenpark Klink ist super freundlich. Ich habe mich so wohl gefühlt,dass ich in 2 Wochen ein weiteres Beratungsgespräch für eine OP gebucht habe.\n\nIch hatte im April eine Brustverkleinerung bei Herrn Dr. Rüger, und ich kann Herrn Dr. Rüger gar nicht genug danken für das fantastische Ergebnis, ich bin total glücklich 😃 bedanken möchte ich mich auch bei dem gesamten Team der Rosenparkklinik. Die Damen am Empfang, die OP Schwestern, dem Narkosearzt und den Schwestern die sich nach der OP so toll um mich gekümmert haben 🙏 ihr seid einfach spitze.\nVielen vielen Dank für alles 🤗\nIch werde die Rosenpark Klinik immer wieder weiter empfehlen.\nViele liebe Grüße\nM. Weidner",
       "time": 1777754645,
       "translated": false
@@ -302,11 +326,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 168,
+  "reviewCount": 169,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-01T10:18:13.034Z"
+  "lastUpdated": "2026-06-04T08:46:58.382Z"
 }

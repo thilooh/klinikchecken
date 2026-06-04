@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tushal Singh",
+      "author_url": "https://www.google.com/maps/contrib/110709975754007229860/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgWVBSMkPRyzOBUO-4UuK0MqvpuZW0WvSz9cV4XowwCAoyi97O=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zunächst einmal wollte ich bei meiner Bewertung niemanden namentlich erwähnen, aber Ihre Antwort hat mich zum Umdenken bewegt.\nDie Ärztin hat sich nicht einmal bemüht, mich zu verstehen. Sie redete einfach drauflos, weil sie den Termin so schnell wie möglich beenden wollte, und war zudem unhöflich. Ich war schon bei vielen Ärzten und Praxen in Deutschland und habe mich noch nie so unwohl und ignoriert gefühlt. Was meine Sprache betrifft: Wenn ein Arzt Probleme mit meiner Sprache (Englisch) hat, sollte er mir mitteilen, dass er mich nicht behandeln kann, ohne seine Muttersprache zu beherrschen.\nWas das Verspotten meines Geburtsdatums angeht: Diese Antwort ist diskriminierend und ein schwerwiegender Verstoß gegen die ärztliche Schweigepflicht. Meine persönlichen medizinischen Daten zu verwenden, um meine Bewertung zu diskreditieren, verstößt gegen die DSGVO und die ärztliche Ethik. Nachdem ich das Missverständnis aufgeklärt hatte, und nachdem ich das Formular ausgefüllt hatte, hieß es, dass man Fehler korrigieren sollte. Ihre Antwort erweckt jedoch den Eindruck, als würden Sie einen Patienten auf Google bloßstellen und sich über ihn lustig machen. Das schadet Ihrem Ruf als Praxis.",
+      "time": 1780329040,
+      "translated": true
+    },
+    {
       "author_name": "Silvia S.",
       "author_url": "https://www.google.com/maps/contrib/108669041650952642542/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb1oS4XrZlRiFW6ct4tPH8m3ykHOehVqDMcYHJB-Lk5mGstA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin mit der Behandlung und der gesamten Betreuung in der Praxis sehr zufrieden. Das gesamte Team war freundlich, aufmerksam und professionell, sodass ich mich von Anfang an gut aufgehoben gefühlt habe.\nBesonders positiv war das ausführliche und angenehme Vorgespräch mit Dr. Olbrich. Er hat sich viel Zeit genommen, alles verständlich erklärt und ist auf alle Fragen ausführlich eingegangen. Dadurch hatte ich vor der OP ein sehr gutes und sicheres Gefühl.\nAuch der Eingriff selbst verlief problemlos und professionell. Insgesamt eine Praxis mit sehr kompetentem und herzlichem Team, die ich definitiv weiterempfehlen kann.",
+      "time": 1779119007,
+      "translated": false
+    },
+    {
+      "author_name": "Silvia S.",
+      "author_url": "https://www.google.com/maps/contrib/108669041650952642542/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb1oS4XrZlRiFW6ct4tPH8m3ykHOehVqDMcYHJB-Lk5mGstA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin mit der Behandlung und der gesamten Betreuung in der Praxis sehr zufrieden. Das gesamte Team war freundlich, aufmerksam und professionell, sodass ich mich von Anfang an gut aufgehoben gefühlt habe.\nBesonders positiv war das ausführliche und angenehme Vorgespräch mit Dr. Olbrich. Er hat sich viel Zeit genommen, alles verständlich erklärt und ist auf alle Fragen ausführlich eingegangen. Dadurch hatte ich vor der OP ein sehr gutes und sicheres Gefühl.\nAuch der Eingriff selbst verlief problemlos und professionell. Insgesamt eine Praxis mit sehr kompetentem und herzlichem Team, die ich definitiv weiterempfehlen kann.",
       "time": 1779119007,
       "translated": false
@@ -241,12 +265,12 @@
       "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 156,
+  "rating": 3.9,
+  "reviewCount": 157,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-01T10:17:50.380Z"
+  "lastUpdated": "2026-06-04T08:46:35.210Z"
 }

@@ -1,9 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "Isabell Bohlender",
+      "author_url": "https://www.google.com/maps/contrib/103988848004349907549/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhLvsb6aZiWTiqVF4sBuhK_evt57O92VyFIGhtUhWT-N8uZ1ub=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich in dieser Praxis sehr wohlgefühlt, ich war jetzt ein paar mal zur Hautkrebsvorsorge dort, jedes Mal bei einer anderen Ärztin, die aber allesamt sehr nett und super gründlich waren. Und auch die Damen an der Rezeption sind immer freundlich und hilfsbereit. Danke dafür!-:)",
+      "time": 1780386006,
+      "translated": false
+    },
+    {
       "author_name": "Amin Namousi",
       "author_url": "https://www.google.com/maps/contrib/112254569691747317846/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJjVMo_m35YnQlOf42Zo3oajvA_51raQOvU8Q5iWKJSfgwhQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780288248,
+      "translated": false
+    },
+    {
+      "author_name": "Mimoun aissa",
+      "author_url": "https://www.google.com/maps/contrib/107672953148209834228/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIZF4Wc6H8D-k0KTPjs8VZK14VVJ0ETLNkUroa4Qe6rp2Uqxw=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
       "text": "",
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoY2fM5bLQO5jUcSyExsRcERlWdXe6xKee8H5ommveigNNig=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Praxis nur empfehlen, ich habe mir dort mein Fibrom entfernen lassen und bin sehr zufrieden. Die Ärztin war sehr freundlich und verständnisvoll und hat die Behandlung sehr angenehm gestaltet. Die Behandlung verlief komplett schmerzfrei und ging sehr schnell. Ich kam auch sehr schnell dran und hatte keine Wartezeit 😊",
+      "time": 1779868310,
+      "translated": false
+    },
+    {
+      "author_name": "Eslem Karaoğlu",
+      "author_url": "https://www.google.com/maps/contrib/112867620243094423908/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoY2fM5bLQO5jUcSyExsRcERlWdXe6xKee8H5ommveigNNig=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann diese Praxis nur empfehlen, ich habe mir dort mein Fibrom entfernen lassen und bin sehr zufrieden. Die Ärztin war sehr freundlich und verständnisvoll und hat die Behandlung sehr angenehm gestaltet. Die Behandlung verlief komplett schmerzfrei und ging sehr schnell. Ich kam auch sehr schnell dran und hatte keine Wartezeit 😊",
       "time": 1779868310,
       "translated": false
@@ -227,11 +261,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 97,
+  "reviewCount": 98,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-06-01T10:17:32.029Z"
+  "lastUpdated": "2026-06-04T08:46:15.035Z"
 }

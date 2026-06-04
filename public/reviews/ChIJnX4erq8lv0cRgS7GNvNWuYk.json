@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dörle Dörle",
+      "author_url": "https://www.google.com/maps/contrib/101664612584211185627/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIct-jIFzJicmrNX8sgHPjvRHVqGefwHgxwZiT-MutCJzl6yQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ein Stern für die zentrale Lage.\nÄrztin nicht zu empfehlen.",
+      "time": 1779817667,
+      "translated": false
+    },
+    {
       "author_name": "Marie Krämer",
       "author_url": "https://www.google.com/maps/contrib/100452652621035006433/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLH33fSf9JTDT5DczULpLcmPDSF7gHXmJIRUT-V72S63H84-ypYA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Nach einer Ärztin mit schlechter Beratung war ich auf der Suche nach jmd, bei dem ich mich gut aufgehoben fühle. Frau Rösing hat meine Sorgen direkt ernst genommen und ist auf meine Anliegen sehe umfassend und gründlich eingegangen, sodass ich mich sehr wohl gefühlt habe.",
+      "time": 1777973115,
+      "translated": false
+    },
+    {
+      "author_name": "Marie Krämer",
+      "author_url": "https://www.google.com/maps/contrib/100452652621035006433/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLH33fSf9JTDT5DczULpLcmPDSF7gHXmJIRUT-V72S63H84-ypYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Nach einer Ärztin mit schlechter Beratung war ich auf der Suche nach jmd, bei dem ich mich gut aufgehoben fühle. Frau Rösing hat meine Sorgen direkt ernst genommen und ist auf meine Anliegen sehe umfassend und gründlich eingegangen, sodass ich mich sehr wohl gefühlt habe.",
       "time": 1777973115,
       "translated": false
@@ -124,6 +148,18 @@
       "translated": false
     },
     {
+      "author_name": "Celine",
+      "author_url": "https://www.google.com/maps/contrib/108861242642904045618/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvjDRp_HV4OcyghR--jhoxMnQ6EkteKLrVNXnYd_ipSLbwlQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
+      "text": "Ich kann Frau Dr Rösing nur wärmstens empfehlen. Ich bin wirklich sehr zufrieden mit der Behandlung. Mein Hautbild hat sich deutlich verbessert und ich fühle mich fachlich wie menschlich sehr gut aufgehoben. Die Ärztin nimmt sich Zeit und erklärt alles verständlich. Auch die Praxis ist sehr schön und hat eine tolle Lage. Absolute Empfehlung!",
+      "time": 1767451478,
+      "translated": false
+    },
+    {
       "author_name": "Fkleli",
       "rating": 1,
       "relative_time_description": "vor 4 Monaten",
@@ -149,11 +185,11 @@
     }
   ],
   "rating": 3,
-  "reviewCount": 140,
+  "reviewCount": 141,
   "summary": [
     "Für Hautkrebsscreening empfohlen — Ärztin nimmt sich Zeit und erklärt verständlich",
     "Freundliche Atmosphäre, Erstpatienten fühlen sich wohl",
     "Vereinzelte Kritik: Behandlung wirkte oberflächlich, Produkte werden aktiv empfohlen"
   ],
-  "lastUpdated": "2026-06-01T10:17:32.325Z"
+  "lastUpdated": "2026-06-04T08:46:15.402Z"
 }

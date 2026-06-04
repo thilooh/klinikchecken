@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Gawliczek",
+      "author_url": "https://www.google.com/maps/contrib/104942830295676807495/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuI4ZH_kyL8nIYXt6uTwID7yBbs7XRsGPcixmoeSD9h-BimPa6=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nette Schwestern, Zimmer sehr modern und Ärzte fachlich bestens. Habe mich bei meinem Aufenthalt sehr wohl gefühlt",
+      "time": 1780472184,
+      "translated": false
+    },
+    {
+      "author_name": "Robert Rietschel",
+      "author_url": "https://www.google.com/maps/contrib/104708871220819648669/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUFQoYvi2b-uRHOM0w68mZIML7LrW0AS3iXr-A4RSQYJw8Ow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780403101,
+      "translated": false
+    },
+    {
+      "author_name": "Missa Mi",
+      "author_url": "https://www.google.com/maps/contrib/101079177316337851132/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZRy2JIdrXHLlDxSM4cd6RrYYNBSPVKnZlDGQBWHqR4gFdXA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles super, sehr neu und freundlich und ganz prima. Bester Aufenthalt.",
+      "time": 1780403091,
+      "translated": false
+    },
+    {
       "author_name": "Peter Krueger",
       "author_url": "https://www.google.com/maps/contrib/117151293623358754501/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV7WSD52nWJVbFjSU_p2rpRJ0gr6e6iq5qb8Bn7VfNJ6GegQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "after my wife had an appointment one month ago to attach a heart rate and blood pressure monitor, she came only to know that they don't have the device currently, with no prior information.\ndisrespect for the patient's time and utter unprofessionallity.\n\nNachdem meine Frau vor einem Monat einen Termin vereinbart hatte, um ein Herzfrequenz- und Blutdruckmessgerät anlegen zu lassen, musste sie – ohne jegliche Vorabinformation – vor Ort feststellen, dass das Gerät derzeit gar nicht verfügbar war.\nEin völliger Mangel an Respekt vor der Zeit des Patienten sowie absolute Unprofessionalität.",
+      "time": 1779955709,
+      "translated": false
+    },
+    {
+      "author_name": "Mikel Sodenberg",
+      "author_url": "https://www.google.com/maps/contrib/103331206423414877997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV7WSD52nWJVbFjSU_p2rpRJ0gr6e6iq5qb8Bn7VfNJ6GegQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "after my wife had an appointment one month ago to attach a heart rate and blood pressure monitor, she came only to know that they don't have the device currently, with no prior information.\ndisrespect for the patient's time and utter unprofessionallity.\n\nNachdem meine Frau vor einem Monat einen Termin vereinbart hatte, um ein Herzfrequenz- und Blutdruckmessgerät anlegen zu lassen, musste sie – ohne jegliche Vorabinformation – vor Ort feststellen, dass das Gerät derzeit gar nicht verfügbar war.\nEin völliger Mangel an Respekt vor der Zeit des Patienten sowie absolute Unprofessionalität.",
       "time": 1779955709,
       "translated": false
@@ -416,11 +462,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 435,
+  "reviewCount": 438,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-01T10:17:47.326Z"
+  "lastUpdated": "2026-06-04T08:46:32.182Z"
 }

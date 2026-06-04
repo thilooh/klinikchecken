@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "André Eichholz",
+      "author_url": "https://www.google.com/maps/contrib/118130016160583195889/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_S_whLo2QaVzx-uPwIAL60X_TCuzSvie9wBsqpLVLOQPsE0DN_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Trotz eines Ausschlags , der Pusteln bildete und Juckte wurde ich abgelehnt. Sehr unfreundliches Praxispersonal. 👎🏻👎🏻👎🏻",
+      "time": 1780479065,
+      "translated": false
+    },
+    {
       "author_name": "AMD",
       "author_url": "https://www.google.com/maps/contrib/114279037830566958599/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO7HJOp8tomqcHWeQntiOBxWSe093YDnuXfvitnnPSRhVMQA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich muss seit 1 Stunde 20 min auf meinen Termin warten bis ich dran bin",
+      "time": 1779812300,
+      "translated": false
+    },
+    {
+      "author_name": "Noah Fehr",
+      "author_url": "https://www.google.com/maps/contrib/111701849492709313885/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO7HJOp8tomqcHWeQntiOBxWSe093YDnuXfvitnnPSRhVMQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich muss seit 1 Stunde 20 min auf meinen Termin warten bis ich dran bin",
       "time": 1779812300,
       "translated": false
@@ -52,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOC9rkViXXCjWeZdZAsZ3oZRxW0v-a9-n3c6wqn6AofBURt5eG=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1779133237,
+      "translated": false
+    },
+    {
+      "author_name": "Elena Schwarz",
+      "author_url": "https://www.google.com/maps/contrib/116823446093608330337/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOC9rkViXXCjWeZdZAsZ3oZRxW0v-a9-n3c6wqn6AofBURt5eG=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1779133237,
       "translated": false
@@ -403,12 +437,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 193,
+  "rating": 4.4,
+  "reviewCount": 194,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:18:14.986Z"
+  "lastUpdated": "2026-06-04T08:47:00.323Z"
 }

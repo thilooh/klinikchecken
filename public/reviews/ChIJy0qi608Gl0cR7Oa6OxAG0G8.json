@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "『SYR』 HAMZAツ",
+      "author_url": "https://www.google.com/maps/contrib/114112477526349745812/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSk6l5C1A_U5ti4sVR-JiTOSqT9GCdDX9ztk0ck4f0vQpw4kQ9=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nehmen keine neue Kunden mehr an....",
+      "time": 1780323117,
+      "translated": false
+    },
+    {
       "author_name": "Cansu Schmunk",
       "author_url": "https://www.google.com/maps/contrib/102651680628079733344/reviews",
       "language": "de",
@@ -97,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Jörg Stein",
+      "author_url": "https://www.google.com/maps/contrib/117567703849656968729/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdoBCqJNN6gRwJSrHREi0YFWtoS3RbkQvx4ZGSbn-mqoQdP14Utw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich bin schon viele Jahre hier in Behandlung und habe mich immer gut aufgehoben gefühlt. Heute wurde ich von einer Ärztin mit asiatischem Aussehen behandelt. Die Konversation war durch sie extrem kühl und minimalistisch gehalten. Es hat sich für mich angefühlt,als würde sie eine lästige Aufgabe nur schnell abarbeiten wollen. Sie wollte mir für meine Krebsvorstufe auf der Lippe eine Diclofenac Salbe verschreiben. Den Wirkstoff hat sie mir erst auf Nachfrage genannt, die Salbe vorher als sehr aggressiv betitelt. Ich sagte zu ihr, dass ich Apotheker bin und diesen Wirkstoff überhaupt nicht als aggressiv kenne (im Nachhinein habe ich in Erfahrung gebracht, dass er dafür off Label angewendet wird, aber gerade auf der Lippe eine sehr kleine Erfolgsrate hat). Nun hatte sie plötzlich die Alternative der Vereisung parat. Dem habe ich dann zugestimmt.\nAuch ihre Vorschläge, wie ich dies künftig vermeiden könnte, waren nicht wirklich hilfreich und schienen mir einfach schnell aus der Luft gegriffen um einfach irgendetwas zu sagen.\nAufgrund der bisher guten Erfahrungen gebe ich zwei Sterne, aber diese letzte Erfahrung war nur einen Stern wert.",
+      "time": 1778069977,
+      "translated": false
+    },
+    {
       "author_name": "Yvonne Weber",
       "author_url": "https://www.google.com/maps/contrib/111728594262162803378/reviews",
       "language": "de",
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKF6jKMvgWBWF0xD-e8OMm76hVv0XCNi66HCfL_gtHRKNvwAA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr schöne und angenehme Praxis. Ein sehr freundlicher Empfang und die Ärztin hat sich viel Zeit gelassen und alles toll erklärt. Auch die Arzthelferin, die das EKG gemacht hat, war sehr freundlich und professionell. Ich kann die Praxis nur weiterempfehlen. Top",
+      "time": 1778050934,
+      "translated": false
+    },
+    {
+      "author_name": "Yvonne Weber",
+      "author_url": "https://www.google.com/maps/contrib/111728594262162803378/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKF6jKMvgWBWF0xD-e8OMm76hVv0XCNi66HCfL_gtHRKNvwAA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr schöne und angenehme Praxis. Ein sehr freundlicher Empfang und die Ärztin hat sich viel Zeit gelassen und alles toll erklärt. Auch die Arzthelferin, die das EKG gemacht hat, war sehr freundlich und professionell. Ich kann die Praxis nur weiterempfehlen. Top",
       "time": 1778050934,
       "translated": false
@@ -390,11 +426,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 1108,
+  "reviewCount": 1109,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-01T10:17:55.715Z"
+  "lastUpdated": "2026-06-04T08:46:40.580Z"
 }

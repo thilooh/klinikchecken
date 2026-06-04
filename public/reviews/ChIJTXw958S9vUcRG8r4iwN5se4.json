@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Sandra Bach",
+      "author_url": "https://www.google.com/maps/contrib/104108984523093936972/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ5GVQi9RbP15NDOfq__2QgDTfsxbhHe3pTCP_3nYXMUZXhA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Hautkrebsvorsorge in dieser Praxis und habe mich leider weder willkommen noch gut aufgehoben gefühlt.\n\nBereits an der Anmeldung empfand ich den Umgangston als sehr kühl und teilweise befehlend. Dieser Eindruck setzte sich im Behandlungszimmer fort. Die Kommunikation beschränkte sich weitgehend auf kurze Anweisungen wie „Setzen Sie sich“, „Machen Sie sich frei“ oder „Drehen Sie sich um“. Freundliche Erklärungen oder eine persönliche Ansprache habe ich vermisst.\n\nAuch die Untersuchung selbst empfand ich als unangenehm. Der Arzt blieb während der gesamten Untersuchung sitzen und ich hatte das Gefühl, eher abgearbeitet als behandelt zu werden. Besonders irritiert hat mich, dass auf meine Bemerkung zu einem zuvor als auffällig eingestuften Leberfleck kaum eingegangen wurde. Ob dieser gezielt untersucht wurde, konnte ich nicht erkennen.\n\nDarüber hinaus hatte ich persönlich nicht den Eindruck einer besonders gründlichen Hautkrebsvorsorge. Andere Hautärzte, bei denen ich in der Vergangenheit zur Vorsorge war, haben deutlich umfassender untersucht.\n\nAm Ende wurde mir lediglich mitgeteilt, dass kein Hautkrebs vorliege und ich mich wieder anziehen könne. Für eine Vorsorgeuntersuchung, bei der Vertrauen und ein respektvoller Umgang besonders wichtig sind, war das für mich eine enttäuschende Erfahrung.\n\nIch kann nur meine persönliche Wahrnehmung schildern, würde diese Praxis für Hautkrebsvorsorge jedoch nicht erneut aufsuchen.",
+      "time": 1780335840,
+      "translated": false
+    },
+    {
       "author_name": "Nazar Bandit",
       "author_url": "https://www.google.com/maps/contrib/109226890692095169918/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8H6QROebEcfz47H8203zan1nHPwoQFptrNWMRzC-9zjYt8Q=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779810179,
+      "translated": false
+    },
+    {
+      "author_name": "Nazar Bandit",
+      "author_url": "https://www.google.com/maps/contrib/109226890692095169918/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8H6QROebEcfz47H8203zan1nHPwoQFptrNWMRzC-9zjYt8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1779810179,
       "translated": false
@@ -21,11 +43,31 @@
       "translated": false
     },
     {
+      "author_name": "Nazar Buialskyi",
+      "author_url": "https://www.google.com/maps/contrib/112380930059105764046/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZbWo5aBcqAPTLvuh-euFsqQ2qBEo1Q4XQFeck78i_lWz_Nw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1779810062,
+      "translated": false
+    },
+    {
       "author_name": "Lesya",
       "author_url": "https://www.google.com/maps/contrib/103615160219520357240/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJREHQcdV4Pb_b_YN5kepJHHEFpJpESf6XICzCLMKuogYkVyQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779809847,
+      "translated": false
+    },
+    {
+      "author_name": "Lesya",
+      "author_url": "https://www.google.com/maps/contrib/103615160219520357240/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJREHQcdV4Pb_b_YN5kepJHHEFpJpESf6XICzCLMKuogYkVyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1779809847,
       "translated": false
@@ -68,6 +110,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8_yBmLNxSNL5WtDXxT-sDAyLDC8JljIc8SOjHJAalbtOXGSZ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1778553695,
+      "translated": false
+    },
+    {
+      "author_name": "Zebelkhan Wbn",
+      "author_url": "https://www.google.com/maps/contrib/106511293884037745337/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8_yBmLNxSNL5WtDXxT-sDAyLDC8JljIc8SOjHJAalbtOXGSZ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1778553695,
       "translated": false
@@ -290,11 +342,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:18:01.399Z"
+  "lastUpdated": "2026-06-04T08:46:46.520Z"
 }

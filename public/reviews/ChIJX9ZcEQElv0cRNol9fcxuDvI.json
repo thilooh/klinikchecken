@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ska Ska",
+      "author_url": "https://www.google.com/maps/contrib/115459739965134832983/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI94Nv0ewz4nahTGlvo6ojf_igj9eRyIkqsC8j3Q2kyrT3vFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette und freundliche Praxis",
+      "time": 1780319868,
+      "translated": false
+    },
+    {
       "author_name": "Eric Freywald",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
@@ -163,11 +175,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 180,
+  "reviewCount": 181,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-06-01T10:17:32.582Z"
+  "lastUpdated": "2026-06-04T08:46:15.757Z"
 }

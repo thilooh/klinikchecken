@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sven Sternhagen",
+      "author_url": "https://www.google.com/maps/contrib/103547648714849047745/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3xAbw2ZKeifndz4W4wD1G6VnaIw9lHkzlHwEVIAQN5TXCeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herausragende Haartransplantation – Professionalität auf höchstem Niveau\nMeine Erfahrung im Dermatologikum Hamburg bei Frau Dr. Mahmood und ihrem Team war durchweg hervorragend. Die Haartransplantation verlief absolut professionell und ich fühlte mich vom ersten Moment an bestens betreut.\nBesonders beeindruckt hat mich die außergewöhnliche Sorgfalt und Präzision, mit der gearbeitet wurde. Trotz des umfangreichen Eingriffs, der sich über zwei Tage mit jeweils etwa 9 Stunden erstreckte, war die Atmosphäre stets konzentriert und beruhigend. Die hygienischen Standards waren vorbildlich.\nMeine Highlights:\n- Exzellente medizinische Expertise von Frau Dr. Mahmood\n- Höchste Qualität in Ausführung und Hygiene\n- Einfühlsame und kontinuierliche Betreuung während des gesamten Prozesses\n- Vertrauensvolle Kommunikation bei einem anspruchsvollen, mehrtägigen Eingriff\nIch bin mit dem Ergebnis überaus zufrieden und kann das Dermatologikum Hamburg uneingeschränkt weiterempfehlen.\nEin großes Dankeschön an das gesamte Team!",
+      "time": 1780485905,
+      "translated": false
+    },
+    {
+      "author_name": "Jonas Kanwischer",
+      "author_url": "https://www.google.com/maps/contrib/101550582338741887336/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE70WwdxKmw3m6NB_U8ga_6Vuhfuj3Sub6ZQsEJllqk5eT=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vorab-Kostenschätzung für private Leistung lag leider 30-50% unterhalb von den tatsächlichen Kosten.\n\nMit der Ärztin und ihrer Behandlung selbst bin ich zufrieden gewesen.",
+      "time": 1780348565,
+      "translated": false
+    },
+    {
       "author_name": "Алеша",
       "author_url": "https://www.google.com/maps/contrib/105463712950194305481/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDIbsI25fEpWZ0OjUpOAeh1QF6CGpGcG6H-n_vivIZfgg9_w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich wartete drei Wochen auf ein Rezept. Soweit ich das verstanden habe, schickten sie mir zunächst eine Kopie des alten Rezepts. Leider hat auch die neue Behandlung mein Hautproblem nicht gelöst, und ich war enttäuscht über die fast 300 Euro, die ich ausgegeben hatte.",
+      "time": 1779719525,
+      "translated": true
+    },
+    {
+      "author_name": "Алеша",
+      "author_url": "https://www.google.com/maps/contrib/105463712950194305481/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDIbsI25fEpWZ0OjUpOAeh1QF6CGpGcG6H-n_vivIZfgg9_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich wartete drei Wochen auf ein Rezept. Soweit ich das verstanden habe, schickten sie mir zunächst eine Kopie des alten Rezepts. Leider hat auch die neue Behandlung mein Hautproblem nicht gelöst, und ich war enttäuscht über die fast 300 Euro, die ich ausgegeben hatte.",
       "time": 1779719525,
       "translated": true
@@ -80,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJi4_9DnDqjonthNXRlwjshgEdm4yfJfmK0gJ_0mOLKlA5zGA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Alles bestens. Allerdings nur für Selbstzahler.",
+      "time": 1778696946,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas P.",
+      "author_url": "https://www.google.com/maps/contrib/109169685554889838813/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJi4_9DnDqjonthNXRlwjshgEdm4yfJfmK0gJ_0mOLKlA5zGA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Alles bestens. Allerdings nur für Selbstzahler.",
       "time": 1778696946,
       "translated": false
@@ -404,7 +452,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 422,
+  "reviewCount": 424,
   "summary": [],
-  "lastUpdated": "2026-06-01T10:17:41.356Z"
+  "lastUpdated": "2026-06-04T08:46:26.059Z"
 }

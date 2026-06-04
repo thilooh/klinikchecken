@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Tasche51",
+      "author_url": "https://www.google.com/maps/contrib/102690324418851214202/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJguMxfV8YqAJC0VNV4p9IiGuN7naG9Vf-egPg4SaRiov9k3g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super tolle Beratung, auch telefonisch. Alle sehr nett. Danke",
+      "time": 1780421894,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan J",
+      "author_url": "https://www.google.com/maps/contrib/110182037721938788393/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8iiQ-OeZlijHUxhA5T8_Dc84D51F23NaSGTedOrtPQUowpmg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780384347,
+      "translated": false
+    },
+    {
       "author_name": "Alexander Buchmann",
       "author_url": "https://www.google.com/maps/contrib/101350098847147513000/reviews",
       "language": "de",
@@ -25,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Marc",
+      "author_url": "https://www.google.com/maps/contrib/103612956715948361841/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoYE1JnH9Ue5NEbjUyMCQ9ZS5FuTzNBUKKoWbxLHF63wfIdA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Hab mich gut aufgehoben gefühlt, das ist echt eine Praxis, die weiß, was sie macht. War schnell und unkompliziert.",
+      "time": 1779867413,
+      "translated": false
+    },
+    {
       "author_name": "Heidelberger Wohnen GmbH",
       "author_url": "https://www.google.com/maps/contrib/115775951018721765833/reviews",
       "language": "de",
@@ -32,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYxPMOtI8eGcK90ozwWHg-stRPkG9HxFIqIohLzT8xZrcfgA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Spitze",
+      "time": 1779861379,
+      "translated": true
+    },
+    {
+      "author_name": "Heidelberger Wohnen GmbH",
+      "author_url": "https://www.google.com/maps/contrib/115775951018721765833/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYxPMOtI8eGcK90ozwWHg-stRPkG9HxFIqIohLzT8xZrcfgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Spitze",
       "time": 1779861379,
       "translated": true
@@ -316,11 +362,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 55,
+  "reviewCount": 57,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-01T10:18:15.795Z"
+  "lastUpdated": "2026-06-04T08:47:01.146Z"
 }

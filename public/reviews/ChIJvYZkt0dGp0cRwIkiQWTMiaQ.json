@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gabi Mueller",
+      "author_url": "https://www.google.com/maps/contrib/100812616948701280829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5LEvdBcYh3n6QgXHx9cfrsHUd_XjoZ5p9gcXoAcEHo-ycnQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes und geduldiges Team, danke das es euch gibt.",
+      "time": 1780474443,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Schwarzer",
       "author_url": "https://www.google.com/maps/contrib/106903175796929195775/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOaf5xnxLEIC2w6UrnG2umS-POt5ACWK8_Ig4b2sO6Pr6bmw=s128-c0x00000000-cc-rp-mo",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOaf5xnxLEIC2w6UrnG2umS-POt5ACWK8_Ig4b2sO6Pr6bmw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1778617069,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Schwarzer",
+      "author_url": "https://www.google.com/maps/contrib/106903175796929195775/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOaf5xnxLEIC2w6UrnG2umS-POt5ACWK8_Ig4b2sO6Pr6bmw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1778617069,
       "translated": false
@@ -176,11 +198,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:17:59.163Z"
+  "lastUpdated": "2026-06-04T08:46:44.130Z"
 }

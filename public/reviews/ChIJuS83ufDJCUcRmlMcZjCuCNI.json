@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hoppsie",
+      "author_url": "https://www.google.com/maps/contrib/112100137847931963076/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiCoBZXB7WBtBH3SCUDYiY8jaCyITTxaLor5Wj5blxWM_mgZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Terminmanagment ohne erwähnenswert Wartezeiten. Freundlicher, sympathischer und fachkundiger Doktor. Danke für die Unterstützung!",
+      "time": 1780537418,
+      "translated": false
+    },
+    {
       "author_name": "Juliane Schmack",
       "author_url": "https://www.google.com/maps/contrib/104055945072266885304/reviews",
       "language": "de",
@@ -222,11 +234,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 96,
+  "reviewCount": 97,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:17:58.715Z"
+  "lastUpdated": "2026-06-04T08:46:43.643Z"
 }

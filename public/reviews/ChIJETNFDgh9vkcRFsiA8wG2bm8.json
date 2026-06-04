@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Patricia Gippert",
+      "author_url": "https://www.google.com/maps/contrib/103667615591456417387/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-mgHRgdViJ4Zn2U5MpxiJkGgZRppiIj2OZ0d5K8SBv_AW1w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Dr. Curelaru in Koblenz und kann nur Positives berichten. Vom ersten Moment an habe ich mich super aufgehoben gefühlt. Dr. Curelaru hat sich viel Zeit genommen, alle meine Fragen ausführlich beantwortet und eine wirklich kompetente Behandlung geboten. Das gesamte Team ist zudem unglaublich nett und freundlich. Ich kann diese Praxis wärmstens empfehlen!\nSchön, dass es noch so unglaublich freundliche Menschen gibt!\nDanke für ALLES!",
+      "time": 1780506808,
+      "translated": false
+    },
+    {
       "author_name": "Michael Berger",
       "author_url": "https://www.google.com/maps/contrib/104572095048795366964/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb7rVF3UmPC2gfas-bpI0vNo9W6akcErBPbSEYXGKXjjec0g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war das erste mal in dieser Praxis und war sehr zufrieden, das Personal sehr kompetent und freundlich und auch Dr.Curelaru hat sich Zeit genommen und mir alles erklärt. Da geh ich auch gerne wieder hin.👍",
+      "time": 1777895144,
+      "translated": false
+    },
+    {
+      "author_name": "Bettina Schaaf",
+      "author_url": "https://www.google.com/maps/contrib/109492175119849470500/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb7rVF3UmPC2gfas-bpI0vNo9W6akcErBPbSEYXGKXjjec0g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war das erste mal in dieser Praxis und war sehr zufrieden, das Personal sehr kompetent und freundlich und auch Dr.Curelaru hat sich Zeit genommen und mir alles erklärt. Da geh ich auch gerne wieder hin.👍",
       "time": 1777895144,
       "translated": false
@@ -236,11 +260,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 39,
+  "reviewCount": 40,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-06-01T10:18:18.463Z"
+  "lastUpdated": "2026-06-04T08:47:03.880Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Katrin",
+      "author_url": "https://www.google.com/maps/contrib/105598464881248011084/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZc8miMaZroLsaz2ljpveR-BjaNe4B6UhEHp1DNJT1wcIhHQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen Termin wegen kreisrundem Haarausfall. Die Gründe für diesen wollte Hr. Steinmann nicht untersuchen, sondern mir sofort eine Eigenbluttherapie einreden. Da ich schwanger bin, sollte ich jedoch unterschreiben, dass er keine Haftung übernimmt, sollte etwas mit dem Kind passieren. Außerdem wollte er am gleichen Tag mit der Behandlung starten. Ich erklärte, dass ich darüber gerne erst nachdenken und mir eine zweite Meinung einholen wollen würde. Er wirkte nicht begeistert,  verließ den Raum und schickte mir eine Arzthelferin mit den Worten „Die ist schwanger.“ hinein. Diese hat mich über die Eigenblutbehandlung aufgeklärt. Auch hier sagte ich, dass ich diese vorerst nicht möchte. Dennoch wurde mir das Gespräch aufgezwungen. Beim Hinausgehen musste ich dafür 20 Euro bezahlen, was mir vorher auch wiederum nicht gesagt wurde. Ich kann diese Praxis wirklich nicht empfehlen.",
+      "time": 1780477055,
+      "translated": false
+    },
+    {
       "author_name": "Petra Latour",
       "author_url": "https://www.google.com/maps/contrib/100368017972849951935/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyCETcHusVkTXjKRpTwGj7pG74WNECnZwIFYXp_hXML70lkg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ist sehr schlecht wenn die nur pprivatpatienten holen und keine rentnerin soweit sind wir schon die haben doch mal gesagt die wollten den menschebn helfen so wie es ist nur die geld haben",
+      "time": 1778665488,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Latour",
+      "author_url": "https://www.google.com/maps/contrib/100368017972849951935/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyCETcHusVkTXjKRpTwGj7pG74WNECnZwIFYXp_hXML70lkg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ist sehr schlecht wenn die nur pprivatpatienten holen und keine rentnerin soweit sind wir schon die haben doch mal gesagt die wollten den menschebn helfen so wie es ist nur die geld haben",
       "time": 1778665488,
       "translated": false
@@ -80,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInU_Mwp4_J2Y1v2oaFiuchh3oft271qTihzKEWZcTKfU7CVw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ein riesen Dankeschön geht an Frau Dr.Needer und ihre netten Arzthelferinnen :)\nVielen Dank für die schnelle Hilfe",
+      "time": 1778095916,
+      "translated": false
+    },
+    {
+      "author_name": "Melina Winkler",
+      "author_url": "https://www.google.com/maps/contrib/108474196521661784276/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInU_Mwp4_J2Y1v2oaFiuchh3oft271qTihzKEWZcTKfU7CVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ein riesen Dankeschön geht an Frau Dr.Needer und ihre netten Arzthelferinnen :)\nVielen Dank für die schnelle Hilfe",
       "time": 1778095916,
       "translated": false
@@ -222,11 +258,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 92,
+  "reviewCount": 93,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-01T10:18:20.039Z"
+  "lastUpdated": "2026-06-04T08:47:05.509Z"
 }

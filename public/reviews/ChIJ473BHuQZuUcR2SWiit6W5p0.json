@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Cathy Witte",
+      "author_url": "https://www.google.com/maps/contrib/117429944253888017372/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfSdSzZM3d7JCqtVEb1CtBge7l-0RsTmmD0GnselFhib7Fbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kam mit Verdacht auf Lipödem in die Praxis zu Dr. Swienty. Er gab mir schon vor der richtigen Untersuchung zu verstehen, dass er meine Beschwerden nicht ernst nimmt und meine Symptome auf Adipositas schiebt. Außerdem sagte der Arzt zu mir, dass ich gar kein Lipödem haben kann, weil ich nicht genug Schmerzen habe.\nIch habe dort leider genau das erlebt, was viele andere Frauen auch erleben. Beschwerden werden herunter gespielt und man wird nicht ernst genommen.\nMittlerweile habe ich von zwei anderen Ärzten die richtige Diagnose erhalten und habe bald meine erste OP.\nDie Praxis an der Kampstraße kann ich auf jeden Fall nicht empfehlen.",
+      "time": 1780471755,
+      "translated": false
+    },
+    {
       "author_name": "Peter Schneider",
       "author_url": "https://www.google.com/maps/contrib/112065869236698280270/reviews",
       "language": "de",
@@ -248,7 +260,7 @@
     }
   ],
   "rating": 3.6,
-  "reviewCount": 117,
+  "reviewCount": 118,
   "summary": [],
-  "lastUpdated": "2026-06-01T10:17:38.258Z"
+  "lastUpdated": "2026-06-04T08:46:22.767Z"
 }
