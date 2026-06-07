@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Anni Mostert",
+      "author_url": "https://www.google.com/maps/contrib/108285024592075994039/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYR1LiImqGhssFdCwIO2oO5P2A7MznzfIn9rORXPUX6H5syg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Die Beratung ist super und die Ärzte nehmen sich wirklich Zeit. Leider erhält man einen Termin erst in 4-6 Monaten, weshalb man frühzeitig einen ausmachen sollte. Ansonsten gibt es nichts zu bemängeln.",
+      "time": 1779440000,
+      "translated": false
+    },
+    {
       "author_name": "Mohammed Fattah",
       "author_url": "https://www.google.com/maps/contrib/111738374661862553471/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCCSkjKR-GaBpItP2gR0otf8IQ5XpCUDO9oeBko9abzh5JLg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Diese unglaublich positive und freundliche Truppe kann ich nur wärmstens empfehlen. Top Arbeit, top Kommunikation und alles ging schnell und ohne Probleme. 💯",
+      "time": 1779361074,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammed Fattah",
+      "author_url": "https://www.google.com/maps/contrib/111738374661862553471/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCCSkjKR-GaBpItP2gR0otf8IQ5XpCUDO9oeBko9abzh5JLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Diese unglaublich positive und freundliche Truppe kann ich nur wärmstens empfehlen. Top Arbeit, top Kommunikation und alles ging schnell und ohne Probleme. 💯",
       "time": 1779361074,
       "translated": false
@@ -152,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLepP0LVy5YmAT-k-uJkq34r5IdROMRX8A_yuclkncDpNzRuQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Fantastischer Service und ein tolles Erlebnis.",
+      "time": 1778959081,
+      "translated": true
+    },
+    {
+      "author_name": "Anton Mouritsen",
+      "author_url": "https://www.google.com/maps/contrib/105462596165107929417/reviews",
+      "language": "de",
+      "original_language": "da",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLepP0LVy5YmAT-k-uJkq34r5IdROMRX8A_yuclkncDpNzRuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Fantastischer Service und ein tolles Erlebnis.",
       "time": 1778959081,
       "translated": true
@@ -440,5 +476,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-04T08:46:58.863Z"
+  "lastUpdated": "2026-06-07T08:23:28.131Z"
 }

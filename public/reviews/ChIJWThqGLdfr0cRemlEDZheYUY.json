@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Mario Langer",
+      "author_url": "https://www.google.com/maps/contrib/105590122018351367094/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTG1BvnBN7OgbqQEv6X7lxla9RocFagClaHyJdUGwdsegywQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780661363,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Schneider",
+      "author_url": "https://www.google.com/maps/contrib/113255375123117256753/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIL6UAlmTYt_74xy-RUgWKgtjqoQSQGd3dBNEktuTnvijFmQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es gibt nichts zu meckern",
+      "time": 1780659703,
+      "translated": false
+    },
+    {
+      "author_name": "Jana Westphal",
+      "author_url": "https://www.google.com/maps/contrib/107047710991199677422/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_Aw5WknVveZu1a6LU8f9jeAjSVMW0L_dI0wzT2qg7jkRgDQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Amb . Krampdader-Op.\nVorbereitung und Ablauf super abgestimmt und organisiert.  Die Komfortstationnist sehr modern und das Personal sit sehr zuvorkommend. Anästhesie und Op - Team waren sehr einfühlsam.  Man hat sich super aufgehoben gefühlt.",
+      "time": 1780646069,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Gawliczek",
       "author_url": "https://www.google.com/maps/contrib/104942830295676807495/reviews",
       "language": "de",
@@ -462,11 +496,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 438,
+  "reviewCount": 441,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-04T08:46:32.182Z"
+  "lastUpdated": "2026-06-07T08:23:01.797Z"
 }

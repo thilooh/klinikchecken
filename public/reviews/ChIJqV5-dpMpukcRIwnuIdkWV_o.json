@@ -11,11 +11,31 @@
       "translated": false
     },
     {
+      "author_name": "Selin S.",
+      "author_url": "https://www.google.com/maps/contrib/107445872456476966978/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM__n-L7-sINcSE_Y49h3Jzc6x46F8zDAStyUu2ioaP3bFBow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1780052012,
+      "translated": false
+    },
+    {
       "author_name": "Edith Niehof",
       "author_url": "https://www.google.com/maps/contrib/106560280049154791475/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJar0n7MemxAIKsSTky7cniPUuCkiFKUPFg6KmLP0ybkmuspA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1779967308,
+      "translated": false
+    },
+    {
+      "author_name": "Edith Niehof",
+      "author_url": "https://www.google.com/maps/contrib/106560280049154791475/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJar0n7MemxAIKsSTky7cniPUuCkiFKUPFg6KmLP0ybkmuspA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1779967308,
       "translated": false
@@ -136,6 +156,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVASChcgIQyciSg4Jfa1Nr9nOZqfP76xNEYeymXkLnk3vcXlc56mw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Praxis ist sehr zu empfehlen. Frau Doktor und ihr Team beantworten alle meine Fragen geduldig und kompetent. Laserbehandlung daraufhin (im Gesicht) direkt durchgeführt. Dankeschön",
+      "time": 1778066891,
+      "translated": false
+    },
+    {
+      "author_name": "Renate Schmidt-Ong",
+      "author_url": "https://www.google.com/maps/contrib/113335911261102219799/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVASChcgIQyciSg4Jfa1Nr9nOZqfP76xNEYeymXkLnk3vcXlc56mw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Praxis ist sehr zu empfehlen. Frau Doktor und ihr Team beantworten alle meine Fragen geduldig und kompetent. Laserbehandlung daraufhin (im Gesicht) direkt durchgeführt. Dankeschön",
       "time": 1778066891,
       "translated": false
@@ -448,5 +480,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-04T08:47:09.027Z"
+  "lastUpdated": "2026-06-07T08:23:38.129Z"
 }

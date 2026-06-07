@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Klaus-Peter Stiehl",
+      "author_url": "https://www.google.com/maps/contrib/105664630449808861729/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpr_FrT8BpVoY3JGOzszT4LVM3MhKyFemzbEs0yWauWZxZ6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780817802,
+      "translated": false
+    },
+    {
+      "author_name": "Tim Gerhardt",
+      "author_url": "https://www.google.com/maps/contrib/104765990987173905174/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0cEm1NuAEj3QhXX4WTkNm7SbPPDC0Wx_kEsb5PxhWw_EoYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schnelle und kompetente Terminvereinbarung durch Frau Schmidt. Vor Ort auch sehr nettes Personal und professionelle Beratung durch den behandelnden Arzt.",
+      "time": 1780647861,
+      "translated": false
+    },
+    {
       "author_name": "Oliver Hofmann",
       "author_url": "https://www.google.com/maps/contrib/107402500764526029281/reviews",
       "language": "de",
@@ -524,11 +546,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 299,
+  "reviewCount": 301,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-04T08:46:46.749Z"
+  "lastUpdated": "2026-06-07T08:23:16.106Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kati",
+      "author_url": "https://www.google.com/maps/contrib/106376124705966303974/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJi_08SzHcXq3SgXPy1uePCfJkPZ5rPnTQhPhFRqde09Fo3KsE=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war kürzlich zum Beratungstermin dort und bin positiv überrascht. Tolles freundliches Team und die Ärztin hat eine beruhigende freundliche Ausstrahlung. Ich wurde sehr gut aufgeklärt, es wurde sich sehr viel Zeit für all meine Fragen genommen und ich freue mich auf den Termin zur Behandlung.❤️",
+      "time": 1780734427,
+      "translated": false
+    },
+    {
       "author_name": "Alexandra Sittig",
       "author_url": "https://www.google.com/maps/contrib/111713886107888207600/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhMW60Be2ESv2uP51ZJY17upaH_LbQcz2NjZj4GOSKzw54uw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin rundum zufrieden. Von der Terminbuchung, über den Empfang, die tolle Einrichtung, die Freundlichkeit und die Behandlung selber. Danke, dass ich da sein durfte und vielen Dank für die positive Erfahrung. Bleibt bitte alle genau so, wie ihr seid. Ganz liebe Grüße",
+      "time": 1778246579,
+      "translated": false
+    },
+    {
+      "author_name": "Alexandra Sittig",
+      "author_url": "https://www.google.com/maps/contrib/111713886107888207600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhMW60Be2ESv2uP51ZJY17upaH_LbQcz2NjZj4GOSKzw54uw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich bin rundum zufrieden. Von der Terminbuchung, über den Empfang, die tolle Einrichtung, die Freundlichkeit und die Behandlung selber. Danke, dass ich da sein durfte und vielen Dank für die positive Erfahrung. Bleibt bitte alle genau so, wie ihr seid. Ganz liebe Grüße",
       "time": 1778246579,
       "translated": false
@@ -146,11 +170,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 93,
+  "reviewCount": 94,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-04T08:46:33.342Z"
+  "lastUpdated": "2026-06-07T08:23:02.987Z"
 }

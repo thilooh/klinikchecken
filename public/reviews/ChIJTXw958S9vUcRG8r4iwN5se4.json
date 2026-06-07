@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bruce Wayne",
+      "author_url": "https://www.google.com/maps/contrib/105914999529241866946/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYQCt0ipH2rpTKRyQOgbhgB1eAAHU9UGYMuTUekIMAMQ-rEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man steht 20 Minuten an der Türschwelle bis man endlich am Empfang dran kommt (kann mal passieren). Aber wenn man innerhalb von 20 weiteren Minuten, es immer noch nicht geschafft hat ein Rezept unterschreiben zu lassen, obwohl die Praxis fast leer ist mittlerweile, ist das schwierig. Insgesamt knapp 90 Minuten für einen 5 Minuten Termin verschwendet. Muss man wollen",
+      "time": 1780579737,
+      "translated": false
+    },
+    {
       "author_name": "Sandra Bach",
       "author_url": "https://www.google.com/maps/contrib/104108984523093936972/reviews",
       "language": "de",
@@ -341,12 +353,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 142,
+  "rating": 4.2,
+  "reviewCount": 143,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-04T08:46:46.520Z"
+  "lastUpdated": "2026-06-07T08:23:15.882Z"
 }

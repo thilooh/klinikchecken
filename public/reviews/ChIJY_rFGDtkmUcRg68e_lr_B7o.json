@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Bi Xi",
+      "author_url": "https://www.google.com/maps/contrib/101232699560893904926/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQbe6auzSQEYK-EgFYc2pKjogMup-aG5OMbctv57dLewzf1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780655846,
+      "translated": false
+    },
+    {
       "author_name": "K H",
       "author_url": "https://www.google.com/maps/contrib/114023583352855858420/reviews",
       "language": "de",
@@ -304,11 +314,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 82,
+  "reviewCount": 83,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-04T08:46:39.639Z"
+  "lastUpdated": "2026-06-07T08:23:09.261Z"
 }

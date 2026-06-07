@@ -13,6 +13,18 @@
       "translated": true
     },
     {
+      "author_name": "Ziad Ahmad",
+      "author_url": "https://www.google.com/maps/contrib/101413734024686819880/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYlQGLxqza8VCOt2wsdRuDz_H0gHO_gDP0x6bHVpg0264pl3Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich möchte keinen Kommentar.",
+      "time": 1780160976,
+      "translated": true
+    },
+    {
       "author_name": "Ibrahim Al Saghir",
       "author_url": "https://www.google.com/maps/contrib/106211907220328507203/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyf8GhrWG14UK-daoPTLUEAcbq1JagDI636mZVDhv61d7UPVca=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Al-Jubouri ist ein Arzt im wahrsten Sinne des Wortes und zeichnet sich zudem durch ein tadelloses ethisches Verhalten aus.\n\nAlle Mitarbeiter, die mit ihm zusammenarbeiten, sind hilfsbereit und freundlich.",
+      "time": 1779982566,
+      "translated": true
+    },
+    {
+      "author_name": "Ibrahim Al Saghir",
+      "author_url": "https://www.google.com/maps/contrib/106211907220328507203/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyf8GhrWG14UK-daoPTLUEAcbq1JagDI636mZVDhv61d7UPVca=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr. Al-Jubouri ist ein Arzt im wahrsten Sinne des Wortes und zeichnet sich zudem durch ein tadelloses ethisches Verhalten aus.\n\nAlle Mitarbeiter, die mit ihm zusammenarbeiten, sind hilfsbereit und freundlich.",
       "time": 1779982566,
       "translated": true
@@ -65,6 +89,16 @@
       "translated": false
     },
     {
+      "author_name": "hussein alkhamis (Abo ali)",
+      "author_url": "https://www.google.com/maps/contrib/100460487870148226518/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX24CUMJoOPweImtP2FibYJz17khfGZQYs2dR6Gnt6XA4Gv7cgD=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1779380710,
+      "translated": false
+    },
+    {
       "author_name": "Mohamad Albrdan",
       "author_url": "https://www.google.com/maps/contrib/109429275820335074636/reviews",
       "language": "de",
@@ -84,6 +118,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXigJaJ6uwRyr2X01YCvv_b6LyUAJF1d9u99JaWOj_Es1Ac2vQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "toll",
+      "time": 1779368925,
+      "translated": true
+    },
+    {
+      "author_name": "Mohamad Albrdan",
+      "author_url": "https://www.google.com/maps/contrib/109429275820335074636/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXigJaJ6uwRyr2X01YCvv_b6LyUAJF1d9u99JaWOj_Es1Ac2vQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "toll",
       "time": 1779368925,
       "translated": true
@@ -410,5 +456,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-04T08:46:52.828Z"
+  "lastUpdated": "2026-06-07T08:23:22.141Z"
 }

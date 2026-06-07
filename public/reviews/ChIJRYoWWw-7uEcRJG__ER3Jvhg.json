@@ -1,11 +1,57 @@
 {
   "reviews": [
     {
+      "author_name": "Sandra O",
+      "author_url": "https://www.google.com/maps/contrib/110697319632544382475/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJkUi4KfuVPRd15t2EkaokBvdAcIoU8_4w9d6XAsu7cNASVqCc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute und ausführliche Beratung vor der Behandlung!",
+      "time": 1780764359,
+      "translated": false
+    },
+    {
+      "author_name": "Black Woman",
+      "author_url": "https://www.google.com/maps/contrib/110967874997127205194/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLm4q9j23jGJKJEqowiStHVns83BKkBXUUGUIlCxgbpPOd-cQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Parkmöglichkeit vorhanden.  Aufzug ist vorhanden .\n\nSehr freundliche helle Einrichtung , netter Empfang.  Die Behandlung ist sehr einfühlsam.  Sehr sympathischer Arzt  , mit viel Empathie . Ich bin glücklich diese Einrichtung entdeckt zu haben .",
+      "time": 1780569025,
+      "translated": false
+    },
+    {
+      "author_name": "Albert Baws",
+      "author_url": "https://www.google.com/maps/contrib/111219680679851805299/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpsZJRnusD3zzE51yVz0olTtCldWXEX3QCdaCn_BCW86veQEhm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Einer der besten Ärzte, die ich je kennengelernt habe. Er sprach ausschließlich Englisch mit mir, obwohl ich kaum Deutsch kann. Er hat mich hervorragend behandelt und beraten und ist darüber hinaus ein äußerst charismatischer und sehr freundlicher Mann. 10/10",
+      "time": 1780567876,
+      "translated": true
+    },
+    {
       "author_name": "Nadya Guellil",
       "author_url": "https://www.google.com/maps/contrib/116602720500387024730/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-ZlUt1RLWTmqKrQ4Gt9Hpj6frDN4smZoAskAaIwYNTuVQEQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780047416,
+      "translated": false
+    },
+    {
+      "author_name": "Nadya Guellil",
+      "author_url": "https://www.google.com/maps/contrib/116602720500387024730/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-ZlUt1RLWTmqKrQ4Gt9Hpj6frDN4smZoAskAaIwYNTuVQEQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1780047416,
       "translated": false
@@ -464,11 +510,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 210,
+  "reviewCount": 212,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-04T08:46:51.181Z"
+  "lastUpdated": "2026-06-07T08:23:20.506Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Susanne Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/115647456110840672634/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUaZEJokeJZmxcM9g1apL01g2AN0RnSfYP0Z8AmuxJwwAbqw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780642141,
+      "translated": false
+    },
+    {
       "author_name": "Stephan Werkmeister",
       "author_url": "https://www.google.com/maps/contrib/112398076848759730630/reviews",
       "language": "de",
@@ -86,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxOcLZ-m31nj_HKyzq9bVi-q4TCjdr6iTmNA1YjkQGBEK4IA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1778949740,
+      "translated": false
+    },
+    {
+      "author_name": "Uwe Schädel",
+      "author_url": "https://www.google.com/maps/contrib/103160280819623553043/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxOcLZ-m31nj_HKyzq9bVi-q4TCjdr6iTmNA1YjkQGBEK4IA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1778949740,
       "translated": false
@@ -393,12 +413,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 193,
+  "rating": 4.9,
+  "reviewCount": 194,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-06-04T08:47:04.805Z"
+  "lastUpdated": "2026-06-07T08:23:34.003Z"
 }

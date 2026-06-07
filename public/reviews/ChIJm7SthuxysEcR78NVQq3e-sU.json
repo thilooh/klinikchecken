@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Chiman Alothman",
+      "author_url": "https://www.google.com/maps/contrib/115941391074702142997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8owfWUId3EY2XZZRvrs2N7xeaUC3FMq36BA3GSXECQhlFHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Guten Tag, Leute, meine Frau hat einen Termin bei dieser Praxis und dann dreimal normalerweise bezahlen, danach wir haben von vier Mal gezahlt.Bei cosmetik normalerweise schnell und Tattoo.Viermal hat gemacht und bis jetzt noch nicht weg.",
+      "time": 1780591379,
+      "translated": false
+    },
+    {
       "author_name": "Jacqueline Lücking",
       "author_url": "https://www.google.com/maps/contrib/112265458217415539040/reviews",
       "language": "de",
@@ -424,11 +436,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 256,
+  "reviewCount": 257,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-04T08:46:29.164Z"
+  "lastUpdated": "2026-06-07T08:22:58.789Z"
 }

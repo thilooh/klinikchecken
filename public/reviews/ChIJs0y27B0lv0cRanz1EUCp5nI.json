@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Nicole Harward",
+      "author_url": "https://www.google.com/maps/contrib/106053435281132633805/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_iIG8GS9OusiVtnFa41saKdVIhKhk6l_-xlkSVQKwxs6Lxg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Grauenvolle Erreichbarkeit. Brauchte meine 2. Behandlung niemand geht ans Telefon muss wegen diesem Grund schon zum 2. Mal den Chirurg wechseln",
+      "time": 1780803871,
+      "translated": false
+    },
+    {
+      "author_name": "Iris Redepenning",
+      "author_url": "https://www.google.com/maps/contrib/113215413447945025039/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPG02bFMfb8fpXN13nLPsr_Hr9-KP8yKgHX_5qeKI98K78G1mjEQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780580068,
+      "translated": false
+    },
+    {
       "author_name": "Yk berre",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
@@ -181,11 +203,11 @@
     }
   ],
   "rating": 3.2,
-  "reviewCount": 122,
+  "reviewCount": 124,
   "summary": [
     "Akuttermine kurzfristig verfügbar, behandelnde Ärzte als freundlich beschrieben",
     "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
     "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
   ],
-  "lastUpdated": "2026-06-04T08:46:16.096Z"
+  "lastUpdated": "2026-06-07T08:22:47.164Z"
 }

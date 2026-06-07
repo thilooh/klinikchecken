@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Dr. Volker Classen",
+      "author_url": "https://www.google.com/maps/contrib/107760140318924513796/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnTrEr7g4FsPmZcGWdLtSE5QS1E04lJw_Y6YGwzsGEZ8giDCtm=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780580586,
+      "translated": false
+    },
+    {
       "author_name": "Manfred Neuser",
       "author_url": "https://www.google.com/maps/contrib/115232593579442844334/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmquEaLdRkM_Ja09bfc9Oqs6iMQ4gLEBQZv2M91rmgjxmRQHB3qQ=s128-c0x00000000-cc-rp-mo-ba5",
@@ -93,6 +103,18 @@
       "translated": false
     },
     {
+      "author_name": "B. R.",
+      "author_url": "https://www.google.com/maps/contrib/104040531793773262805/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhgu3Fx32geV5XLatTW7v1yFyDxofIZuEpiZekOO96HFQFIoRc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Der Kontakt mit dieser Praxis war leider sehr enttäuschend.\n\nMeine chronische problem wurde dort über einen längeren Zeitraum im Wesentlichen nur symptomatisch behandelt. Als ich eine weiterführende diagnostische Abklärung ansprechen wollte, gestaltete sich die Kommunikation äußerst schwierig.\n\nZunächst war per E-Mail mehrfach geklärt werden, ob ich überhaupt Patientin der Praxis bin, obwohl ich dort bereits behandelt worden. Erst nach mehreren Nachrichten und der erneuten Angabe meiner persönlichen Daten wurde dies bestätigt.\n\nAnschließend wurde ich auf telefonischen Kontakt verwiesen. Über das Telefonsystem war jedoch zunächst kein Durchkommen möglich. Als ich schließlich zurückgerufen wurde, wurde ich während des Gesprächs mehrfach unterbrochen.\n\nBesonders irritierend war die Aussage, dass ich als Patientin selbst genau wissen müsse, welche Allergietests durchgeführt werden sollen. Von einer fachärztlichen Praxis würde ich jedoch erwarten, dass zumindest eine medizinische Einschätzung zu möglichen diagnostischen Schritten gegeben wird.\n\nDas Gespräch wurde schließlich abrupt beendet.\n\nDie Ärzte selbst waren in früheren Terminen freundlich. Leider wirken Organisation und Kommunikation der Praxis insgesamt wenig strukturiert, was für Patienten mit komplexeren Anliegen sehr frustrierend sein kann.",
+      "time": 1772791656,
+      "translated": false
+    },
+    {
       "author_name": "Felix Endres",
       "author_url": "https://www.google.com/maps/contrib/105479109948135668898/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBOZNhYZkLADje7qFFegcYRhsVwmnIO2oda0EajpfFlh-_5QlX6g=s128-c0x00000000-cc-rp-mo-ba4",
@@ -174,11 +196,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 69,
+  "reviewCount": 70,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-04T08:46:42.947Z"
+  "lastUpdated": "2026-06-07T08:23:12.445Z"
 }

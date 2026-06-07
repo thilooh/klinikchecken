@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "U S-H",
+      "author_url": "https://www.google.com/maps/contrib/103927043914401912006/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRU_z03LoqAmAOkOigGey-D58Tr_cyeUWQua-EyQdDuU88Pg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "War heute zum ersten Besuch in der großen Praxis mit vielen Ärzten. Hautveränderung anschauen lassen und Beratung.\nDie Ärztin, Frau Berstecher, war überaus sympathisch. Effektiv und sichtlich kompetent konnte die Sache geklärt werden! Auch das andere Team effektiv und zackig. Sehr gut. Habe meine 50 km Anfahrt nicht bereut.",
+      "time": 1780063278,
+      "translated": false
+    },
+    {
       "author_name": "Marion Schäfer",
       "author_url": "https://www.google.com/maps/contrib/103435011824708000533/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_EkARUJrvedxklgUYFS7L7SMrrsHcqSe2_UOFCfoaxiICAeRz=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war und bin Patientin von Dr. Antonia Dekorsy und bin sehr glücklich mit Ihrer exzellenten Behandlung und der super netten Betreuung. Von Herzen Danke!",
+      "time": 1778323245,
+      "translated": false
+    },
+    {
+      "author_name": "Marion Schäfer",
+      "author_url": "https://www.google.com/maps/contrib/103435011824708000533/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_EkARUJrvedxklgUYFS7L7SMrrsHcqSe2_UOFCfoaxiICAeRz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich war und bin Patientin von Dr. Antonia Dekorsy und bin sehr glücklich mit Ihrer exzellenten Behandlung und der super netten Betreuung. Von Herzen Danke!",
       "time": 1778323245,
       "translated": false
@@ -113,6 +137,16 @@
       "translated": false
     },
     {
+      "author_name": "krishna wagner",
+      "author_url": "https://www.google.com/maps/contrib/104283402217547824532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU788ER4V0JvEhXNLlLWJ_KqbxLwrma6J7CfZSAc59IF6-EaOb5=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1778191562,
+      "translated": false
+    },
+    {
       "author_name": "Konni K.",
       "author_url": "https://www.google.com/maps/contrib/101238266742165678517/reviews",
       "language": "de",
@@ -156,6 +190,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfoM6OROjwWBfTI3o9VLgUN86oTp0VSeGMgSCS47XBk00S_g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Frau Dr. Hamann ist meine Ärztin, kompetent, natürlich und authentisch.\nDa freut man sich schon fast auf die Behandlung und die Schmerzen sind halb so wild.",
+      "time": 1778158378,
+      "translated": false
+    },
+    {
+      "author_name": "Konni K.",
+      "author_url": "https://www.google.com/maps/contrib/101238266742165678517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfoM6OROjwWBfTI3o9VLgUN86oTp0VSeGMgSCS47XBk00S_g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Frau Dr. Hamann ist meine Ärztin, kompetent, natürlich und authentisch.\nDa freut man sich schon fast auf die Behandlung und die Schmerzen sind halb so wild.",
       "time": 1778158378,
       "translated": false
@@ -380,5 +426,5 @@
   "rating": 4.6,
   "reviewCount": 310,
   "summary": [],
-  "lastUpdated": "2026-06-04T08:46:28.205Z"
+  "lastUpdated": "2026-06-07T08:22:57.854Z"
 }

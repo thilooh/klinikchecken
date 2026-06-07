@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "A. R.",
+      "author_url": "https://www.google.com/maps/contrib/104944370645358608336/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz_3SgqjZq2YQDbk3W6WkIh-6VxlvQUyBjukLgCcZlb_KjLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war schon mehrmals in dieser Praxis.\nTermin online gebucht, Erinnerung erhalten, freundlicher Empfang, kurze Wartezeit, ruhige und freundliche Mitarbeiterin, die sich auch gerne Zeit bei Fragen nimmt.\nDie Behandlung bei Prof. Dr. Krengel freundlich, ruhig und gründliche Untersuchung. Ich habe mich hier sehr wohl gefühlt und empfehle die Praxis gerne weiter.",
+      "time": 1780747381,
+      "translated": false
+    },
+    {
+      "author_name": "Frank",
+      "author_url": "https://www.google.com/maps/contrib/111139423265027771669/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZaWJdAO3H2gtMnu90DATmuLKsGmfH9xeUjaA1qrX6xk6ESQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles Super ! 11:00h einen Termin und pünktlich dran gekommen.\nVielen Dank an das tolle Team.",
+      "time": 1780669610,
+      "translated": false
+    },
+    {
       "author_name": "Sowa",
       "author_url": "https://www.google.com/maps/contrib/105819631708663499741/reviews",
       "language": "de",
@@ -508,11 +532,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2274,
+  "reviewCount": 2276,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-04T08:46:32.877Z"
+  "lastUpdated": "2026-06-07T08:23:02.495Z"
 }

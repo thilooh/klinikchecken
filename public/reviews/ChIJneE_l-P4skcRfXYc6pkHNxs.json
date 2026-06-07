@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marion",
+      "author_url": "https://www.google.com/maps/contrib/103683445262980333722/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfVPiTp9nP7ioka-_-8wIqJ2t5V2QTfyJufGNdZt_zhw5NMA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die telefonische Erreichbarkeit ist wirklich schwierig oder ich hatte bisher einfach Pech… Ansonsten bin ich total begeistert von der Behandlung und jedem/jeder einzelnen Mitarbeitenden - alle unheimlich nett und fachlich und sozial kompetent.\n\nNachtrag: Die telefonische Erreichbarkeit ist unterirdisch. Ich frage mich auch, ob das mit der KV vereinbar ist. Eine KI wird da nicht ausreichend sein.",
+      "time": 1780643396,
+      "translated": false
+    },
+    {
       "author_name": "Sascha Liedtke",
       "author_url": "https://www.google.com/maps/contrib/108764365072494866324/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbvi4O_9NAp2opmE0qaf8_iwXFxuaPI9loXkm6w_ezLOevdQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich habe sehr lange auf einen Termin für meine Tochter warten müssen (im Februar Termin für Mitte Mai bekommen). Der junge Arzt machte den Eindruck, als kämen wir ihm nun wirklich sehr ungelegen. Er hat meine Tochter in Windeseile abgefertigt und mit einer Diagnose praktisch verscheucht, ohne Aspekte wie Empathie und Zuversichtlichkeit für eine 15Jährige im Gespräch rüberbringen zu können. Es ging um Hautprobleme im Gesicht, und sie ist davon schon sehr angefasst, und nun fühlt sie sich einfach noch ein bisschen unwohler. Ja - die Wartezeit war nicht vorhanden, Wartezimmer leer, Praxis sauber und gut organisiert - aber aufgehoben haben wir uns nicht gefühlt. Insofern: Sorry, dass wir gestört haben.",
+      "time": 1778073034,
+      "translated": false
+    },
+    {
+      "author_name": "Ka Kg",
+      "author_url": "https://www.google.com/maps/contrib/110303890659395863865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbvi4O_9NAp2opmE0qaf8_iwXFxuaPI9loXkm6w_ezLOevdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich habe sehr lange auf einen Termin für meine Tochter warten müssen (im Februar Termin für Mitte Mai bekommen). Der junge Arzt machte den Eindruck, als kämen wir ihm nun wirklich sehr ungelegen. Er hat meine Tochter in Windeseile abgefertigt und mit einer Diagnose praktisch verscheucht, ohne Aspekte wie Empathie und Zuversichtlichkeit für eine 15Jährige im Gespräch rüberbringen zu können. Es ging um Hautprobleme im Gesicht, und sie ist davon schon sehr angefasst, und nun fühlt sie sich einfach noch ein bisschen unwohler. Ja - die Wartezeit war nicht vorhanden, Wartezimmer leer, Praxis sauber und gut organisiert - aber aufgehoben haben wir uns nicht gefühlt. Insofern: Sorry, dass wir gestört haben.",
       "time": 1778073034,
       "translated": false
@@ -241,12 +265,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
+  "rating": 4.2,
   "reviewCount": 96,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-04T08:46:31.025Z"
+  "lastUpdated": "2026-06-07T08:23:00.630Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "l0511l",
+      "author_url": "https://www.google.com/maps/contrib/106554370745229547684/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaXSPHo9psgLnpLzT7XOCH3fKBxBR99njEnIR7_ornjTKLNHjt=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Telefonisch nicht erreichbar!!!",
+      "time": 1780566660,
+      "translated": false
+    },
+    {
       "author_name": "Muetaz Al yamani",
       "author_url": "https://www.google.com/maps/contrib/113886227941010817124/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsnlxLPaZzhpx-rOel8K6XUI8BR6FNQqMpk_APYsbXT_J1lQ0=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Herzlicher Dank für die hervorragende Betreuung\n\nHerr Dr.  Arayesh\n\nheute hatte meine Frau um 14:40 Uhr einen Termin in Ihrer Hautklinik zur Kontrolle auf Hautkrebs.\n\nDie Ärztin, die meine Frau empfangen und untersucht hat, war äußerst freundlich, aufmerksam und professionell. Sie hat sich viel Zeit genommen und meine Frau sehr gründlich untersucht. Ihre liebevolle Art und ihr Lächeln haben einen sehr positiven Eindruck hinterlassen.\n\nWir möchten uns ganz herzlich für diese tolle Betreuung bedanken. Es ist schön zu sehen, dass Ihre Klinik von so engagierten und menschlichen Fachkräften unterstützt wird.\n\nVielen Dank für die hervorragende Organisation und das freundliche Team. Wir wünschen Ihnen und Ihrem Team weiterhin viel Erfolg und alles Gute.\n\nMit freundlichen Grüßen\n\nMuetaz Al Yamani\n&\nFrau  Hajar  bouhrani",
+      "time": 1780082019,
+      "translated": false
+    },
+    {
+      "author_name": "Muetaz Al yamani",
+      "author_url": "https://www.google.com/maps/contrib/113886227941010817124/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsnlxLPaZzhpx-rOel8K6XUI8BR6FNQqMpk_APYsbXT_J1lQ0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Herzlicher Dank für die hervorragende Betreuung\n\nHerr Dr.  Arayesh\n\nheute hatte meine Frau um 14:40 Uhr einen Termin in Ihrer Hautklinik zur Kontrolle auf Hautkrebs.\n\nDie Ärztin, die meine Frau empfangen und untersucht hat, war äußerst freundlich, aufmerksam und professionell. Sie hat sich viel Zeit genommen und meine Frau sehr gründlich untersucht. Ihre liebevolle Art und ihr Lächeln haben einen sehr positiven Eindruck hinterlassen.\n\nWir möchten uns ganz herzlich für diese tolle Betreuung bedanken. Es ist schön zu sehen, dass Ihre Klinik von so engagierten und menschlichen Fachkräften unterstützt wird.\n\nVielen Dank für die hervorragende Organisation und das freundliche Team. Wir wünschen Ihnen und Ihrem Team weiterhin viel Erfolg und alles Gute.\n\nMit freundlichen Grüßen\n\nMuetaz Al Yamani\n&\nFrau  Hajar  bouhrani",
       "time": 1780082019,
       "translated": false
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxO_PmgfHzUDv2uzvgLRB8NWg-Aq6UpOsBTb-aFRnOGH_EwA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Mir wurde die Praxis für ein Hautscreening (Krebsvorsorge) empfohlen und ich kam zu Frau Dr. Christin Kappelmann und kann die Praxis und Ärztin nur empfehlen:) Super sauber, organisiert, Empfang überaus nett und ganz tolle, wissende, gründliche und liebe Ärztin. Nur zu empfehlen!",
+      "time": 1779395033,
+      "translated": false
+    },
+    {
+      "author_name": "Anna S. Kelevra",
+      "author_url": "https://www.google.com/maps/contrib/116996748655732928538/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxO_PmgfHzUDv2uzvgLRB8NWg-Aq6UpOsBTb-aFRnOGH_EwA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Mir wurde die Praxis für ein Hautscreening (Krebsvorsorge) empfohlen und ich kam zu Frau Dr. Christin Kappelmann und kann die Praxis und Ärztin nur empfehlen:) Super sauber, organisiert, Empfang überaus nett und ganz tolle, wissende, gründliche und liebe Ärztin. Nur zu empfehlen!",
       "time": 1779395033,
       "translated": false
@@ -338,11 +374,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 153,
+  "reviewCount": 154,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-04T08:46:29.636Z"
+  "lastUpdated": "2026-06-07T08:22:59.270Z"
 }

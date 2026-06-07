@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thorsten Hautz",
+      "author_url": "https://www.google.com/maps/contrib/117539482324642391315/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBkjquR-KERYAJo6dXKt4z6aqy9V20w47NI-PMblsh0wO7ZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "lange Wartezeit, unverschämte Rechnungen und dazu fehlerhaft. Medikamente verschrieben, die es nicht mehr gibt - laut mehrere Apotheker \"schon lange\". Ich hätte das Rezept gerne korrigieren lassen, leider ist ein Dutzend Anrufe ins Nirvana gelaufen.",
+      "time": 1780745173,
+      "translated": false
+    },
+    {
       "author_name": "Eva Hemmer",
       "author_url": "https://www.google.com/maps/contrib/112735619177798521137/reviews",
       "language": "de",
@@ -84,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcTEIMW1Baz0q-kv_sX6vIb6MymUpBrhzuXsK1dwbd5pz6mFU=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778160406,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen Krämer",
+      "author_url": "https://www.google.com/maps/contrib/107700410336534496140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcTEIMW1Baz0q-kv_sX6vIb6MymUpBrhzuXsK1dwbd5pz6mFU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1778160406,
       "translated": false
@@ -239,12 +261,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 35,
+  "rating": 4.6,
+  "reviewCount": 36,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-04T08:46:48.402Z"
+  "lastUpdated": "2026-06-07T08:23:17.741Z"
 }
