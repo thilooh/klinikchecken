@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Herr Moerenkarl",
+      "author_url": "https://www.google.com/maps/contrib/111764369623989792351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVynGXqqzY9l63AwsOBaPkYyPUfwRayx5ETIxPOyg-5RsTXuiwoNw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Strukturen\nGute Ärztin Dr. Kern",
+      "time": 1780251901,
+      "translated": false
+    },
+    {
       "author_name": "Weronika Trawnik",
       "author_url": "https://www.google.com/maps/contrib/113145709628788042642/reviews",
       "language": "de",
@@ -76,6 +88,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9_OMzcXNTFdlIJI7n6Lf2QxBf2Js83gi6t3nIqSQSf6PifQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1779871422,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrich “Emmerich” Tristan",
+      "author_url": "https://www.google.com/maps/contrib/109739291067126095221/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9_OMzcXNTFdlIJI7n6Lf2QxBf2Js83gi6t3nIqSQSf6PifQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1779871422,
       "translated": false
@@ -106,6 +128,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBw9iDnhWY23yZyNasayHZOqpZ2DKNRFr4OcY_vl3NFZgAOQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1779100623,
+      "translated": false
+    },
+    {
+      "author_name": "Beate Hübner",
+      "author_url": "https://www.google.com/maps/contrib/100612484710573097494/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBw9iDnhWY23yZyNasayHZOqpZ2DKNRFr4OcY_vl3NFZgAOQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1779100623,
       "translated": false
@@ -316,5 +348,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:23:20.281Z"
+  "lastUpdated": "2026-06-10T08:47:34.922Z"
 }

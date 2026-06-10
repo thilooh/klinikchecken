@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Jonas Kanwischer",
+      "author_url": "https://www.google.com/maps/contrib/101550582338741887336/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE70WwdxKmw3m6NB_U8ga_6Vuhfuj3Sub6ZQsEJllqk5eT=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Vorab-Kostenschätzung für private Leistung lag leider 30-50% unterhalb von den tatsächlichen Kosten.\n\nMit der Ärztin und ihrer Behandlung selbst bin ich zufrieden gewesen.",
+      "time": 1780348565,
+      "translated": false
+    },
+    {
       "author_name": "Алеша",
       "author_url": "https://www.google.com/maps/contrib/105463712950194305481/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDIbsI25fEpWZ0OjUpOAeh1QF6CGpGcG6H-n_vivIZfgg9_w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich wartete drei Wochen auf ein Rezept. Soweit ich das verstanden habe, schickten sie mir zunächst eine Kopie des alten Rezepts. Leider hat auch die neue Behandlung mein Hautproblem nicht gelöst, und ich war enttäuscht über die fast 300 Euro, die ich ausgegeben hatte.",
+      "time": 1779719525,
+      "translated": true
+    },
+    {
+      "author_name": "Алеша",
+      "author_url": "https://www.google.com/maps/contrib/105463712950194305481/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDIbsI25fEpWZ0OjUpOAeh1QF6CGpGcG6H-n_vivIZfgg9_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich wartete drei Wochen auf ein Rezept. Soweit ich das verstanden habe, schickten sie mir zunächst eine Kopie des alten Rezepts. Leider hat auch die neue Behandlung mein Hautproblem nicht gelöst, und ich war enttäuscht über die fast 300 Euro, die ich ausgegeben hatte.",
       "time": 1779719525,
       "translated": true
@@ -466,5 +490,5 @@
   "rating": 4.4,
   "reviewCount": 424,
   "summary": [],
-  "lastUpdated": "2026-06-07T08:22:55.772Z"
+  "lastUpdated": "2026-06-10T08:47:11.423Z"
 }

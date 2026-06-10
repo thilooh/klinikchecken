@@ -59,6 +59,18 @@
       "translated": false
     },
     {
+      "author_name": "Matthias Freyni",
+      "author_url": "https://www.google.com/maps/contrib/105680061953247225541/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5dU2bXfee3TxcC-TFHHXmJJ88Euo0Do3PdQJrtpREMewoIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Meine Frau und ich waren zum Hautscreening dort sowie bezüglich meines Gesichts . Wir hatten den Termin um 9.30 und waren nach Ankunft auch sofort dran . Herr Schugt persönlich hat sich um uns gekümmert und sich intensiv Zeit genommen . Wir können die Praxis ( sehr sauber ) nur empfehlen.\nKlare 5 Sterne",
+      "time": 1779810715,
+      "translated": false
+    },
+    {
       "author_name": "Lothar Lang",
       "author_url": "https://www.google.com/maps/contrib/113893623158756070956/reviews",
       "language": "de",
@@ -78,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLd9xj80KZoVMbf1DXINXh6EVSVZ2TQUZcZOevavbP8VKaDuQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Kann man empfehlen.",
+      "time": 1779788394,
+      "translated": false
+    },
+    {
+      "author_name": "Lothar Lang",
+      "author_url": "https://www.google.com/maps/contrib/113893623158756070956/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLd9xj80KZoVMbf1DXINXh6EVSVZ2TQUZcZOevavbP8VKaDuQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Kann man empfehlen.",
       "time": 1779788394,
       "translated": false
@@ -126,6 +150,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO8jD6lv0GaV-jjP1DpfbhYGJbxUDBon1hiRLbqDCU6eGoWEhS=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "👍👍👍👍",
+      "time": 1778567137,
+      "translated": true
+    },
+    {
+      "author_name": "Khalil Hussein",
+      "author_url": "https://www.google.com/maps/contrib/100014355002740068929/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO8jD6lv0GaV-jjP1DpfbhYGJbxUDBon1hiRLbqDCU6eGoWEhS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "👍👍👍👍",
       "time": 1778567137,
       "translated": true
@@ -366,11 +402,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 243,
+  "reviewCount": 242,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:23:05.995Z"
+  "lastUpdated": "2026-06-10T08:47:21.291Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Falk Guenther",
+      "author_url": "https://www.google.com/maps/contrib/114706659155138029675/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwpkJQ8OZ-eDRJ_L7Sqf7ugq_xgtixICPVvHP_9DXxMc5R3Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "4 Tage Klinikaufenthalt im Vincentinum in der Neurologie Abteilung Station 9;  wer will schon gerne in das Krankenhaus, aber wenn dann würde ich jederzeit wieder in das Vincentum;  Ich kann über sehr positive Erfahrung berichten bei der Diagnostik und Geräte, MRT Untersuchung, Ultraschall der Blutgefässe, Ultraschall des Herzens über die Speiseröhre, Untersuchung auf Thrombose an den Beinen;\n\nDie Aufnahme war zügig und unkompliziert, die Menschen sind wirklich menschlich, da fühlt man sich einfach gut aufgehoben; ich bin gesetzlich versichert, die Gespräche mit mehreren Ärzten waren ausführlich und TOP;  es \"menschelt\" in dem Laden, wenn schon krank und Krankenhaus, dann Vincentinum;\n\nEssen (vegan) war jeden Tag mega, da war ich mehr als positiv überrascht\n\nWünsche jedem beste Gesundheit, wenn schon Krankenhaus, dann jederzeit wieder Vincentinum, kann man nicht oft genug betonen",
+      "time": 1780994924,
+      "translated": false
+    },
+    {
+      "author_name": "Mustafa Fawakherji",
+      "author_url": "https://www.google.com/maps/contrib/108332040397827207995/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcgOeVx-VT4T_eXsDRiRfO5goyMNYKNsIjb5xAkrG0tExg8UaCsA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780865672,
+      "translated": false
+    },
+    {
       "author_name": "Otmar Metzenrath",
       "author_url": "https://www.google.com/maps/contrib/109527777337446161553/reviews",
       "language": "de",
@@ -52,6 +74,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIyo8wqfx2pXI8OG7hE0U7a3Wj_XSeg0a0Ll1F6cj5lf4GxA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Zur Entfernung von Krampfadern konnte schnell und zügig ein Termin für mich gemacht werden. Herr Dr. Meinhold hat hier kompetent die Voruntersuchung und die ambulante OP mit seinem Team durchgeführt, welches stets freundlich und nett war. Bei mir kamen zwei Methoden zur Anwendung, das Veröden mit Hitze durch Radiofrequenzen bzw. Laser, sowie das \"klassische\" Ziehen.",
+      "time": 1779713525,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Liebold",
+      "author_url": "https://www.google.com/maps/contrib/116587207400898238203/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIyo8wqfx2pXI8OG7hE0U7a3Wj_XSeg0a0Ll1F6cj5lf4GxA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Zur Entfernung von Krampfadern konnte schnell und zügig ein Termin für mich gemacht werden. Herr Dr. Meinhold hat hier kompetent die Voruntersuchung und die ambulante OP mit seinem Team durchgeführt, welches stets freundlich und nett war. Bei mir kamen zwei Methoden zur Anwendung, das Veröden mit Hitze durch Radiofrequenzen bzw. Laser, sowie das \"klassische\" Ziehen.",
       "time": 1779713525,
       "translated": false
@@ -426,11 +460,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 396,
+  "reviewCount": 398,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-07T08:23:07.343Z"
+  "lastUpdated": "2026-06-10T08:47:22.598Z"
 }

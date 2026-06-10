@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "C. Müller",
+      "author_url": "https://www.google.com/maps/contrib/108626590088187159368/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBIexI_QYxlst0uQQNi3l5Kbz6ZcnhiipUWNhQAikWyn7AgA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780939040,
+      "translated": false
+    },
+    {
       "author_name": "Натали",
       "author_url": "https://www.google.com/maps/contrib/116413814677645906430/reviews",
       "language": "ru",
@@ -217,8 +227,8 @@
       "translated": false
     }
   ],
-  "rating": 3.5,
-  "reviewCount": 101,
+  "rating": 3.6,
+  "reviewCount": 102,
   "summary": [],
-  "lastUpdated": "2026-06-07T08:22:57.627Z"
+  "lastUpdated": "2026-06-10T08:47:13.192Z"
 }

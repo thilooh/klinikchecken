@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Nina Müller",
+      "author_url": "https://www.google.com/maps/contrib/104295835345975251952/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYc0ivEqmBeCE3Pz_k4IzCZ-heLnYmVy0ZDK25-1JcNcjTUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super unfreundliches Abmeldepersonal. Von oben herab. Patienten werden nicht wertschätzend behandelt.",
+      "time": 1780997673,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Günter (Pegasus)",
+      "author_url": "https://www.google.com/maps/contrib/110505602699118236467/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcwcu8TtwSlRVGK8hcq3-mskYXOieEDiIhy62BedTLsQeoep1U=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin nicht als Patient da. Ist aber oft sehr voll. Ansonsten kann ich nix dazu sagen.",
+      "time": 1780952929,
+      "translated": false
+    },
+    {
+      "author_name": "Kay B.",
+      "author_url": "https://www.google.com/maps/contrib/101478429389103431103/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW819hma7biFiXVAQn5SNufexjQQGG8mS2Puw-KkFHQ0Gbtbro=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "4 Monate auf einen Termin gewarte (16:30) . Eine Stunde gewartet. Fünf Leute die nach mir reingekommen sind wurden vor mir aufgerufen. Auf Anfrage wurde mir dann gesagt es wird der Reihe nach aufgerufen. Frage mich  in welcher Reihe ich dann war. Nie wieder.",
+      "time": 1780934871,
+      "translated": false
+    },
+    {
       "author_name": "Lau Ra",
       "author_url": "https://www.google.com/maps/contrib/105242319367099725094/reviews",
       "language": "de",
@@ -20,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1LBwABYhXsDXw4m1ImpF_9ZrBh2jbo4puW0ZSTPGqqfpQWw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Wir waren 2x hier und heute war das letzte Mal. Die Organisation in der Praxis ist eine absolute Katastrophe, man steht teilweise über 30 Minuten an um sich anzumelden. Außerdem ist man jedes Mal bei einem anderen (zufälligen) Arzt.",
+      "time": 1779810835,
+      "translated": false
+    },
+    {
+      "author_name": "Lau Ra",
+      "author_url": "https://www.google.com/maps/contrib/105242319367099725094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1LBwABYhXsDXw4m1ImpF_9ZrBh2jbo4puW0ZSTPGqqfpQWw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Wir waren 2x hier und heute war das letzte Mal. Die Organisation in der Praxis ist eine absolute Katastrophe, man steht teilweise über 30 Minuten an um sich anzumelden. Außerdem ist man jedes Mal bei einem anderen (zufälligen) Arzt.",
       "time": 1779810835,
       "translated": false
@@ -464,7 +512,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 290,
+  "reviewCount": 293,
   "summary": [],
-  "lastUpdated": "2026-06-07T08:22:52.889Z"
+  "lastUpdated": "2026-06-10T08:47:08.571Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ingrid Zander",
+      "author_url": "https://www.google.com/maps/contrib/107901903339472828147/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgOReyZfWS77S-6Mys-1q3FiMuCsysPy0aVheZWEzJOgV9SQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Service und sehr nettes Personal",
+      "time": 1781014716,
+      "translated": false
+    },
+    {
       "author_name": "Cathy Witte",
       "author_url": "https://www.google.com/maps/contrib/117429944253888017372/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfSdSzZM3d7JCqtVEb1CtBge7l-0RsTmmD0GnselFhib7Fbg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kam mit Verdacht auf Lipödem in die Praxis zu Dr. Swienty. Er gab mir schon vor der richtigen Untersuchung zu verstehen, dass er meine Beschwerden nicht ernst nimmt und meine Symptome auf Adipositas schiebt. Außerdem sagte der Arzt zu mir, dass ich gar kein Lipödem haben kann, weil ich nicht genug Schmerzen habe.\nIch habe dort leider genau das erlebt, was viele andere Frauen auch erleben. Beschwerden werden herunter gespielt und man wird nicht ernst genommen.\nMittlerweile habe ich von zwei anderen Ärzten die richtige Diagnose erhalten und habe bald meine erste OP.\nDie Praxis an der Kampstraße kann ich auf jeden Fall nicht empfehlen.",
+      "time": 1780471755,
+      "translated": false
+    },
+    {
+      "author_name": "Cathy Witte",
+      "author_url": "https://www.google.com/maps/contrib/117429944253888017372/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfSdSzZM3d7JCqtVEb1CtBge7l-0RsTmmD0GnselFhib7Fbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kam mit Verdacht auf Lipödem in die Praxis zu Dr. Swienty. Er gab mir schon vor der richtigen Untersuchung zu verstehen, dass er meine Beschwerden nicht ernst nimmt und meine Symptome auf Adipositas schiebt. Außerdem sagte der Arzt zu mir, dass ich gar kein Lipödem haben kann, weil ich nicht genug Schmerzen habe.\nIch habe dort leider genau das erlebt, was viele andere Frauen auch erleben. Beschwerden werden herunter gespielt und man wird nicht ernst genommen.\nMittlerweile habe ich von zwei anderen Ärzten die richtige Diagnose erhalten und habe bald meine erste OP.\nDie Praxis an der Kampstraße kann ich auf jeden Fall nicht empfehlen.",
       "time": 1780471755,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlLiLXJMAOGygmSAD1Hf7dnXwFWP9O2J9sm34ZC1xaYYg5Gpxs=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich habe die Praxis aufgrund einer Diagnosestellung eines Phlebologen aufgesucht und vorab einen Termin vereinbart. Vor Ort stellte sich jedoch heraus, dass ich nicht wie erwartet beim entsprechenden Phlebologen, sondern bei einem Gefäßchirurgen eingeplant war. Dies ist mir leider erst später aufgefallen.\n\nAuf meine Nachfrage hin wurde mir lediglich mitgeteilt, dass ein neuer Termin erst im nächsten Quartal möglich sei, obwohl dies zeitlich aufgrund einer bereits geplanten Operation schwierig ist. Auch auf eine anschließende höfliche E-Mail mit der Bitte um Unterstützung erhielt ich keine Rückmeldung.\n\nBesonders enttäuschend war für mich der Umgang insgesamt: wenig Verständnis für die Situation und das Gefühl, eher verwaltet als ernst genommen zu werden.",
+      "time": 1779631267,
+      "translated": false
+    },
+    {
+      "author_name": "M.S.M. Comedy",
+      "author_url": "https://www.google.com/maps/contrib/109260418414713051621/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlLiLXJMAOGygmSAD1Hf7dnXwFWP9O2J9sm34ZC1xaYYg5Gpxs=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich habe die Praxis aufgrund einer Diagnosestellung eines Phlebologen aufgesucht und vorab einen Termin vereinbart. Vor Ort stellte sich jedoch heraus, dass ich nicht wie erwartet beim entsprechenden Phlebologen, sondern bei einem Gefäßchirurgen eingeplant war. Dies ist mir leider erst später aufgefallen.\n\nAuf meine Nachfrage hin wurde mir lediglich mitgeteilt, dass ein neuer Termin erst im nächsten Quartal möglich sei, obwohl dies zeitlich aufgrund einer bereits geplanten Operation schwierig ist. Auch auf eine anschließende höfliche E-Mail mit der Bitte um Unterstützung erhielt ich keine Rückmeldung.\n\nBesonders enttäuschend war für mich der Umgang insgesamt: wenig Verständnis für die Situation und das Gefühl, eher verwaltet als ernst genommen zu werden.",
       "time": 1779631267,
       "translated": false
@@ -272,7 +308,7 @@
     }
   ],
   "rating": 3.6,
-  "reviewCount": 118,
+  "reviewCount": 119,
   "summary": [],
-  "lastUpdated": "2026-06-07T08:22:52.649Z"
+  "lastUpdated": "2026-06-10T08:47:08.352Z"
 }

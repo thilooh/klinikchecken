@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Reiner App (Newsman)",
+      "author_url": "https://www.google.com/maps/contrib/111426555396476383654/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnu5AHA8navhHolcFRHcnsFFbgbeQKBzApvo8Xs2G_RNlaONuK8w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gutes Management, gute medizinische Versorgung.",
+      "time": 1781030414,
+      "translated": false
+    },
+    {
       "author_name": "Anna",
       "author_url": "https://www.google.com/maps/contrib/113262017889291434302/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY3Hz9UcY452nfpYq7j6tRJiRZ8VYCR0zlbjnxXCl85IBQ_w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war schon öfter in der Praxis in Behandlung. Hautärztlich und auch kosmetisch. Dr Silber und sein Team sind sehr freundlich und kompetent. Ich fühle mich hier sehr gut aufgehoben!",
+      "time": 1778422637,
+      "translated": false
+    },
+    {
+      "author_name": "Anita Eisele",
+      "author_url": "https://www.google.com/maps/contrib/108106132706845334644/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY3Hz9UcY452nfpYq7j6tRJiRZ8VYCR0zlbjnxXCl85IBQ_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war schon öfter in der Praxis in Behandlung. Hautärztlich und auch kosmetisch. Dr Silber und sein Team sind sehr freundlich und kompetent. Ich fühle mich hier sehr gut aufgehoben!",
       "time": 1778422637,
       "translated": false
@@ -328,11 +352,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 79,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:23:32.394Z"
+  "lastUpdated": "2026-06-10T08:47:46.437Z"
 }

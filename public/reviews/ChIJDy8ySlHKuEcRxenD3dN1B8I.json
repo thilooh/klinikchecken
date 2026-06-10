@@ -90,6 +90,18 @@
     },
     {
       "author_name": "Gabriele Vierzig-Rostek",
+      "author_url": "https://www.google.com/maps/contrib/113813196991140768344/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWpuhF1NExJSBS4egE_MjEivlrZTyBL8SQQOLY_vKhmfFTCPs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich werde in der Praxis von Dr Himmrich betreut und fühle mich dort sehr gut aufgehoben!",
+      "time": 1778617795,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele Vierzig-Rostek",
       "author_url": "https://www.google.com/maps/contrib/114558415489623407912/reviews",
       "language": "de",
       "original_language": "de",
@@ -132,6 +144,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0vP-zrYWBoyJYh8nmg28UPMrFvpyFrejJ34cVT3oCOwJ0SBRN=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin mit dieser Praxis sehr zufrieden und gehe immer wieder gerne hin. Man wird dort kompetent beraten und gut betreut! Mein behandelnder Arzt dort ist Dr. Himmrich und ich fühlte mich von Anfang an sehr wohl!",
+      "time": 1778582110,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele Vierzig-Rostek",
+      "author_url": "https://www.google.com/maps/contrib/114558415489623407912/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0vP-zrYWBoyJYh8nmg28UPMrFvpyFrejJ34cVT3oCOwJ0SBRN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich bin mit dieser Praxis sehr zufrieden und gehe immer wieder gerne hin. Man wird dort kompetent beraten und gut betreut! Mein behandelnder Arzt dort ist Dr. Himmrich und ich fühlte mich von Anfang an sehr wohl!",
       "time": 1778582110,
       "translated": false
@@ -463,5 +487,5 @@
   "rating": 4.3,
   "reviewCount": 200,
   "summary": [],
-  "lastUpdated": "2026-06-07T08:22:50.772Z"
+  "lastUpdated": "2026-06-10T08:47:06.543Z"
 }

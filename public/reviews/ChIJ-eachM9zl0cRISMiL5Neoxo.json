@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Omar Grini",
+      "author_url": "https://www.google.com/maps/contrib/113532132285380003107/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP8ktZz5K74Dg85-4_oCeCj_9dyoQNbSoHD7FtbWWV7PWEz56Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "She is amazing in her job very kind and polite always explaining in details for ur situation and what u have to do i definitely recommend her the woman knows and loves her job 11/10",
+      "time": 1780993719,
+      "translated": false
+    },
+    {
       "author_name": "Verena Peter",
       "author_url": "https://www.google.com/maps/contrib/104738437224128406771/reviews",
       "language": "de",
@@ -170,11 +182,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 106,
+  "reviewCount": 107,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:23:30.619Z"
+  "lastUpdated": "2026-06-10T08:47:44.688Z"
 }

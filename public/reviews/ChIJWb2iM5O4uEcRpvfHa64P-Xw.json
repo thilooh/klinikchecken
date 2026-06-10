@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ali Onsekiz",
+      "author_url": "https://www.google.com/maps/contrib/101926974771325749204/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUF6bsRsa6BePPvY88FvTx_dMMxmm-Aw526Xcvl9xlRhQbTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein herausragender Arzt mit absolutem Fachwissen und Empathie! Nach einer langen Leidensgeschichte mit monatelangen, stark juckenden und brennenden Hautbeschwerden (Quaddeln) am ganzen Körper, hat mir dieser Hautarzt endlich die richtige Diagnose gestellt und mir geholfen.Im Gegensatz zu anderen Ärzten zuvor, hat er sich unglaublich viel Zeit genommen, meine Haut ganz genau mit der Lupe untersucht und sofort die richtige, leitliniengerechte Therapie eingeleitet. Besonders beeindruckt hat mich seine Gründlichkeit: Er schaut über den Tellerrand hinaus und sucht gezielt nach den tieferen Ursachen im Körper (wie versteckten Infekten).Ich fühle mich in dieser Praxis zum ersten Mal fachlich absolut kompetent kontrolliert und menschlich rundum wohl. Ein großes Lob an diesen fantastischen Arzt für mich der Beste auf seinem Gebiet! Absolut zu empfehlen! Vielen dank an das ganze Praxisteam⭐️⭐️⭐️⭐️⭐️",
+      "time": 1781005018,
+      "translated": false
+    },
+    {
       "author_name": "Fritz Gutenberg",
       "author_url": "https://www.google.com/maps/contrib/107213220393653254934/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfDIRQ2JL024oWcCFmur8u5k3u1rwabvii0BZ93bV74fVG46k=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Termine von Frau Tala Alatassi werden regelmäßig abgesagt. Krankheitsbedingt.\nAuch gerne mal 3 Stunden bevor der Termin statt finden sollte. AbsolutesTermin Chaos. Werde mir nun einen neuen Arzt besorgen müssen.",
+      "time": 1780296527,
+      "translated": false
+    },
+    {
+      "author_name": "Fritz Gutenberg",
+      "author_url": "https://www.google.com/maps/contrib/107213220393653254934/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfDIRQ2JL024oWcCFmur8u5k3u1rwabvii0BZ93bV74fVG46k=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Termine von Frau Tala Alatassi werden regelmäßig abgesagt. Krankheitsbedingt.\nAuch gerne mal 3 Stunden bevor der Termin statt finden sollte. AbsolutesTermin Chaos. Werde mir nun einen neuen Arzt besorgen müssen.",
       "time": 1780296527,
       "translated": false
@@ -86,6 +110,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwWEildURUOGUwU-BQ7DktMqA_E2wj1ytlh5Gv9zUtjtpS3Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1779190022,
+      "translated": false
+    },
+    {
+      "author_name": "Murat Topal",
+      "author_url": "https://www.google.com/maps/contrib/116925054324488816213/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwWEildURUOGUwU-BQ7DktMqA_E2wj1ytlh5Gv9zUtjtpS3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1779190022,
       "translated": false
@@ -232,11 +266,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 111,
+  "reviewCount": 112,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:23:07.120Z"
+  "lastUpdated": "2026-06-10T08:47:22.379Z"
 }

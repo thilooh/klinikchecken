@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tolga63",
+      "author_url": "https://www.google.com/maps/contrib/102030008009372032480/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX47bwehBIqUSb8j_tJ_lvfvd8kY4lXpMnYG0uddzbSdyiA7zqp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute war ich zum zweiten Mal bei Frau Dr. Jasmin Last und bin erneut begeistert. Vom ersten Moment an fühlt man sich bei ihr sehr gut aufgehoben. Sie nimmt sich Zeit, hört aufmerksam zu, geht auf alle Fragen ein und erklärt alles verständlich und mit großer Kompetenz.\n\nBesonders schätze ich ihre freundliche, einfühlsame und menschliche Art. Man merkt sofort, dass ihr das Wohl ihrer Patienten wirklich am Herzen liegt. Auch das gesamte Praxisteam ist ausgesprochen freundlich, hilfsbereit und organisiert, sodass man sich rundum wohlfühlt.\n\nIch bin sehr dankbar, Frau Dr. Last gefunden zu haben, und kann sie von Herzen weiterempfehlen. Eine Ärztin, bei der fachliche Kompetenz und Menschlichkeit perfekt zusammenkommen.",
+      "time": 1781043908,
+      "translated": false
+    },
+    {
       "author_name": "Marlene P.",
       "author_url": "https://www.google.com/maps/contrib/114787511933313721084/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_Or2bQmEuT1uN-mbKcrpUryS5rR5vBGsPMg7zqW9iatOZYA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich werde stets intensiv und sehr gut beraten. Das ganze Team, wie natürlich auch Dr. Last selber, haben viel Fachwissen und nutzen dies hervorragend um bestmögliche Ergebnisse für ihre Kund:innen zu erzielen.\nDanke",
+      "time": 1778660744,
+      "translated": false
+    },
+    {
+      "author_name": "Let‘s Fetz",
+      "author_url": "https://www.google.com/maps/contrib/118198495754035750282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_Or2bQmEuT1uN-mbKcrpUryS5rR5vBGsPMg7zqW9iatOZYA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich werde stets intensiv und sehr gut beraten. Das ganze Team, wie natürlich auch Dr. Last selber, haben viel Fachwissen und nutzen dies hervorragend um bestmögliche Ergebnisse für ihre Kund:innen zu erzielen.\nDanke",
       "time": 1778660744,
       "translated": false
@@ -416,5 +440,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:23:15.174Z"
+  "lastUpdated": "2026-06-10T08:47:30.100Z"
 }

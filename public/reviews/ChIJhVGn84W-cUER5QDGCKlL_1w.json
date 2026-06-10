@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lilly Tiger",
+      "author_url": "https://www.google.com/maps/contrib/112314818285727352001/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLp4HKLioAGw8aVi9D0ROpednW6LL-PQRaW9gIyttVLgFgf1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Arzt ist sehr nett, erledigt schnell seine Arbeit (ob das immer gut ist weiß ich nicht). Die Zwei Damen an der Anmeldung sind aber völlig deplaziert. Unfreundlich, nicht hilfsbereit oder zuvorkommend. Eher abwertent dem Patienten gegenüber.",
+      "time": 1781068356,
+      "translated": false
+    },
+    {
       "author_name": "anna escada",
       "author_url": "https://www.google.com/maps/contrib/102985345476914909735/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYeHt4glU3iGeRKb-xuKepIq_l9HAgnabk16T3iQDkj_uHJSU=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor einer Woche",
+      "text": "Der Arzt hat mich im Liegen untersucht und zumindest eine akute Thrombose ausgeschlossen – für mein eigentliches Problem, dass der Arm beim Hängenlassen anschwillt und blau anläuft, wurde allerdings kein Ultraschall im Sitzen/unter Belastung gemacht. Dabei wurde mir in der Notaufnahme extra geraten, einen Gefäßchirurg aufzusuchen, damit dieser einen dynamischen Doppler-Ultraschall durchführen kann. Stattdessen lief es darauf hinaus, dass man das hier nicht weiter untersuchen könne, ich müsse dafür in ein fachgerichtetes Krankenhaus. Eine Überweisung hierfür habe ich aber nicht bekommen, was der Hauptgrund für meine Enttäuschung ist. Andrerseits hat sich der Arzt Zeit für das Gespräch genommen, wirkte freundlich und hat auch versucht mir seinen Standpunkt deutlich zu machen. Ich vermute daher mal, dass mein Fall einfach zu kompliziert war, dennoch hätte man auf meinen Wunsch (wie es mir im KH empfohlen wurde), den Doppler im Sitzen zur Anwendung zu bringen, eingehen können, anstatt sich nur auf das gängige Schema (Arm heben, Puls testen) zu verlassen und mich ohne Überweisung \"weiterzuschicken\" .",
+      "time": 1779786633,
+      "translated": false
+    },
+    {
+      "author_name": "Angela Silb",
+      "author_url": "https://www.google.com/maps/contrib/110226780332478797201/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYeHt4glU3iGeRKb-xuKepIq_l9HAgnabk16T3iQDkj_uHJSU=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Der Arzt hat mich im Liegen untersucht und zumindest eine akute Thrombose ausgeschlossen – für mein eigentliches Problem, dass der Arm beim Hängenlassen anschwillt und blau anläuft, wurde allerdings kein Ultraschall im Sitzen/unter Belastung gemacht. Dabei wurde mir in der Notaufnahme extra geraten, einen Gefäßchirurg aufzusuchen, damit dieser einen dynamischen Doppler-Ultraschall durchführen kann. Stattdessen lief es darauf hinaus, dass man das hier nicht weiter untersuchen könne, ich müsse dafür in ein fachgerichtetes Krankenhaus. Eine Überweisung hierfür habe ich aber nicht bekommen, was der Hauptgrund für meine Enttäuschung ist. Andrerseits hat sich der Arzt Zeit für das Gespräch genommen, wirkte freundlich und hat auch versucht mir seinen Standpunkt deutlich zu machen. Ich vermute daher mal, dass mein Fall einfach zu kompliziert war, dennoch hätte man auf meinen Wunsch (wie es mir im KH empfohlen wurde), den Doppler im Sitzen zur Anwendung zu bringen, eingehen können, anstatt sich nur auf das gängige Schema (Arm heben, Puls testen) zu verlassen und mich ohne Überweisung \"weiterzuschicken\" .",
       "time": 1779786633,
       "translated": false
@@ -177,6 +201,16 @@
       "translated": false
     },
     {
+      "author_name": "Jesus Casielles",
+      "author_url": "https://www.google.com/maps/contrib/109687347723001498093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfe-p-X4GZaE7oCF4g5qbrg1tAEd-7w1hLb9FLkZiPa5zQRZg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1773140209,
+      "translated": false
+    },
+    {
       "author_name": "Heike Vaassen",
       "author_url": "https://www.google.com/maps/contrib/105637000533070771782/reviews",
       "language": "de",
@@ -257,12 +291,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 80,
+  "rating": 4.8,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:23:18.894Z"
+  "lastUpdated": "2026-06-10T08:47:33.578Z"
 }

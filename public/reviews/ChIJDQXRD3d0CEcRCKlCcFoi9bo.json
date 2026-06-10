@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Uwe",
+      "author_url": "https://www.google.com/maps/contrib/113704936355506139308/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrTJj28KhgDL7mI6wmCeRTExXLVo35MBPKM5PKdNhCY6z0IA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nach Eintritt in das Behandlungszimmer wurde mir kein Sitzplatz angeboten. Auf meine Frage, ob ich wenigstens die Vorgeschichte meiner Beschwerden darstellen darf, kam ein klares \"Nein\". Alle Anweisungen der Ärztin erfolgten im Befehlston mit entsprechender Lautstärke unter Verweis auf die fortgeschrittene Zeit kurz nach Praxisschließung( ich war jedoch  zu diesem Zeitpunkt bereits über 1 Stunde zuvor bestellt). Als ich versehentlich ein Auge währende der Untersuchung öffnete, wurde ich angeschrien!  Auf meine Frage nach einem Befund fertigte mich die Ärztin mit allgemeinen Aussagen kurz und unwillig ab.\nInsgesamt ein empörendes und unangemessenes Auftreten ohne jede Spur von Empathie und ärztlicher Zugewandtheit!",
+      "time": 1780389953,
+      "translated": false
+    },
+    {
       "author_name": "Regina",
       "author_url": "https://www.google.com/maps/contrib/113426458177130612403/reviews",
       "language": "de",
@@ -88,5 +100,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:23:38.346Z"
+  "lastUpdated": "2026-06-10T08:47:52.039Z"
 }

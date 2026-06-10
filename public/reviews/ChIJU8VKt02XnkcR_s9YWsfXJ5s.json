@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sára Pilková",
+      "author_url": "https://www.google.com/maps/contrib/112517247331514938495/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8xMWEQfl-tsT9gf4C5Qb0Au2-sYOEJaqk-yktzYm09y-2rQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr lieb und hilfsbereit! Muss empfehlen:)",
+      "time": 1781077789,
+      "translated": false
+    },
+    {
       "author_name": "Kl Bö",
       "author_url": "https://www.google.com/maps/contrib/117930717403605298208/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj6tfoAm6RUu3R9YTy0U9P9NOPidAb4u0OW4QgSjDvwDwaKQ=s128-c0x00000000-cc-rp-mo",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj6tfoAm6RUu3R9YTy0U9P9NOPidAb4u0OW4QgSjDvwDwaKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1779196705,
+      "translated": false
+    },
+    {
+      "author_name": "Kl Bö",
+      "author_url": "https://www.google.com/maps/contrib/117930717403605298208/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj6tfoAm6RUu3R9YTy0U9P9NOPidAb4u0OW4QgSjDvwDwaKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1779196705,
       "translated": false
@@ -86,6 +108,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5cEPxj--4CV3Z-mGjjCvl8k2WiA8-DVY7ctKwxFw28cBB8A=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Beste Hautärztin. Sie und Ihr Team sind spitzenmäßig. Immer super freundlich und kaum Wartezeit",
+      "time": 1778262070,
+      "translated": false
+    },
+    {
+      "author_name": "Gerhard Specht",
+      "author_url": "https://www.google.com/maps/contrib/105014531063075278523/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5cEPxj--4CV3Z-mGjjCvl8k2WiA8-DVY7ctKwxFw28cBB8A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Beste Hautärztin. Sie und Ihr Team sind spitzenmäßig. Immer super freundlich und kaum Wartezeit",
       "time": 1778262070,
       "translated": false
@@ -404,11 +438,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 144,
+  "reviewCount": 145,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:23:07.802Z"
+  "lastUpdated": "2026-06-10T08:47:23.030Z"
 }

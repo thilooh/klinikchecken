@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "Monika M",
+      "author_url": "https://www.google.com/maps/contrib/105093808986731202748/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOFt3X1dFEaXoFCeIj58HMwYJLIx3B2G5SVDcaVqUZ47ayJfHb=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781039931,
+      "translated": false
+    },
+    {
+      "author_name": "Biggi Maas",
+      "author_url": "https://www.google.com/maps/contrib/112434421237364815628/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJRfGU72s4nZtZgdrqQdzAGoR6lI1ooF01XAugjsPGs_R2Vw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein großes Lob an das gesamte Praxisteam!!!\nIch fühle mich fachlich und auch menschlich sehr gut aufgehoben\nReibungsloser Ablauf, freundliche Atmosphäre und sehr kompetente Aufklärung ,Untersuchung und Behandlung\nDanke dafür!",
+      "time": 1781018755,
+      "translated": false
+    },
+    {
+      "author_name": "First Last",
+      "author_url": "https://www.google.com/maps/contrib/107989981275867528047/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrBRpqwQFRXpKf9WdKBIdy_CGzwiTaf7zi_mcx6KG9TH9X5-RQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider keine Empfehlung.  Statt nach Ursache der Erkrankung zu recherchieren,  wird empfohlen,  sich Gelnägel machen zu lassen, damit es keiner sieht.\n\nNachtrag: Kaum war meine Bewertung online, gab es über Google eine Nachricht eines Anwalt, welcher die Praxis vertritt. Ich durfte etliche Unterlagen einreichen,  um zu beweisen, dass ich tatsächlich Patient in dieser Praxis war. Ohne diese ganzen Dokumente hätte man meine Bewertung gelöscht. Es war ein ziemlicher Aufwand. Doch ich möchte andere mögliche Patienten vor dieser Praxis warnen.\n\nEine persönliche Meinung sollte sich in Bewertung nach einer Erfahrung wieder finden lassen.",
+      "time": 1781016082,
+      "translated": false
+    },
+    {
+      "author_name": "Daria Swieciaszek",
+      "author_url": "https://www.google.com/maps/contrib/101180543589363431558/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmc39ZJxVZZWNrfske3VXLb-TEp0IigS5vGKIyfSTxJIUJELs=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780913517,
+      "translated": false
+    },
+    {
       "author_name": "A. R.",
       "author_url": "https://www.google.com/maps/contrib/104944370645358608336/reviews",
       "language": "de",
@@ -532,11 +576,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2276,
+  "reviewCount": 2280,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:23:02.495Z"
+  "lastUpdated": "2026-06-10T08:47:17.903Z"
 }

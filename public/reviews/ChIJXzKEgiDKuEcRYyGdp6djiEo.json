@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Necro _979",
+      "author_url": "https://www.google.com/maps/contrib/108150045497260529443/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9FeWbtQBy14qYZBRxblOCef1vOcrQ_k466dYC4WDMYxs-5w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zwar skeptisch wegen den negativen Bewertungen, jedoch war meine Erfahrung eine ganz andere.\nAm Telefon und der Rezeption waren die Mitarbeiterinnen nett und hilfsbereit. Ich hatte Glück mit dem Termin, da einer plötzlich ausgefallen ist.\nIch hatte keine lange Wartezeit und die Ärztin war auch sehr hilfsbereit und freundlich.\nAlles in allem habe ich mich gut versorgt gefühlt. Parkplätze gibt es Vorort gegen Gebühr auch. Ansonsten im Nachbarparkhaus parken.",
+      "time": 1780987980,
+      "translated": false
+    },
+    {
       "author_name": "Barbara Schwarzer",
       "rating": 1,
       "relative_time_description": "vor 5 Monaten",
@@ -46,6 +58,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcUcL7am1peZFnylxPgIr5WQiDkrafXT0Qs7UldKd8Q93mYw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 9 Monaten",
+      "text": "Die „Gemeinschaftspraxis Hautärzte - Dr. Stefanie Humke“ hat die Vertretung der „Praxis Dr. Frohmann“ in Ratingen übernommen. Als Patient von Dr. Frohmann hatte ich diese Praxis zwecks eines Privatrezeptes telefonisch kontaktiert.\n\nDie Mitarbeiterin der Praxis hatte mir in einem ausgesprochen unhöflichen Tonfall mitgeteilt, dass man dafür nicht zuständig sei. Die Kapazitäten für Rezepte austellen seien erschöpft (was mir für Privatrezepte neu wäre). O-Ton: „Sie hätten sich vorher erkundigen müssen, wann ihr Arzt in Urlaub geht. Man sei nur für Notfälle zuständig.“\n\nSie werden sicherlich verstehen, dass vor 3 Monaten, als ich meinen Arzt zuletzt aufsuchte, dieser selbst noch nicht wusste wann er in Urlaub geht.\n\nDiese Urlaubsvertretung hat kläglich versagt. Gut, dass ich keinen Notfall hatte!",
+      "time": 1754917172,
+      "translated": false
+    },
+    {
+      "author_name": "ComplianceFirst",
+      "author_url": "https://www.google.com/maps/contrib/117481251954230359061/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcUcL7am1peZFnylxPgIr5WQiDkrafXT0Qs7UldKd8Q93mYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 10 Monaten",
       "text": "Die „Gemeinschaftspraxis Hautärzte - Dr. Stefanie Humke“ hat die Vertretung der „Praxis Dr. Frohmann“ in Ratingen übernommen. Als Patient von Dr. Frohmann hatte ich diese Praxis zwecks eines Privatrezeptes telefonisch kontaktiert.\n\nDie Mitarbeiterin der Praxis hatte mir in einem ausgesprochen unhöflichen Tonfall mitgeteilt, dass man dafür nicht zuständig sei. Die Kapazitäten für Rezepte austellen seien erschöpft (was mir für Privatrezepte neu wäre). O-Ton: „Sie hätten sich vorher erkundigen müssen, wann ihr Arzt in Urlaub geht. Man sei nur für Notfälle zuständig.“\n\nSie werden sicherlich verstehen, dass vor 3 Monaten, als ich meinen Arzt zuletzt aufsuchte, dieser selbst noch nicht wusste wann er in Urlaub geht.\n\nDiese Urlaubsvertretung hat kläglich versagt. Gut, dass ich keinen Notfall hatte!",
       "time": 1754917172,
       "translated": false
@@ -108,12 +132,12 @@
       "time": 1744807149
     }
   ],
-  "rating": 3.1,
-  "reviewCount": 41,
+  "rating": 3.2,
+  "reviewCount": 42,
   "summary": [
     "Erreichbarkeit und Ton am Telefon sowie an der Rezeption werden häufig kritisiert",
     "Hautkrebsscreening als oberflächlich empfunden, Zusatzleistungen werden aktiv angeboten",
     "Lange Wartezeiten auf Termine und Besprechungstermine wiederholt erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:22:48.390Z"
+  "lastUpdated": "2026-06-10T08:47:04.225Z"
 }

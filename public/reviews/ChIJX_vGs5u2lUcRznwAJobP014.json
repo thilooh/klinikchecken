@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Werner Günzel",
+      "author_url": "https://www.google.com/maps/contrib/114382298028484063115/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPpGbEuCvkUuQ5WAh74tF86Y6lwy_SFV1OBKGIrv95jlx05g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780909607,
+      "translated": false
+    },
+    {
       "author_name": "Thorsten Hautz",
       "author_url": "https://www.google.com/maps/contrib/117539482324642391315/reviews",
       "language": "de",
@@ -56,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEDcR3JpGwL48t3n5Qkub4lmyK1iHpOaypHEeDVQq2eTE_9g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 2,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich hatte heute den 2. Termin in dieser Privatpraxis. Beim 1. hatte ich mich schon über die Wartezeit geärgert. Heute hatte ich um 11.50h einen Termin, auf den ich mich eigentlich sehr gefreut hatte. Um 12.30h habe ich dann mal nachgefragt, wie lange es denn noch dauert. Die Antwort war, es wären noch 2 Patienten vor mir. Selbst bei ganz zügigem arbeiteten, hätte ich letztendlich mehr als 1 Std gewartet. Das geht gar nicht. Ich bin dann gegangen.  30 km umsonst gefahren und unnütz Zeit vergeudet.\nLeider ist die Praxis, für mich, nicht mehr diskutabel.",
+      "time": 1778501058,
+      "translated": false
+    },
+    {
+      "author_name": "Eva Hemmer",
+      "author_url": "https://www.google.com/maps/contrib/112735619177798521137/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEDcR3JpGwL48t3n5Qkub4lmyK1iHpOaypHEeDVQq2eTE_9g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich hatte heute den 2. Termin in dieser Privatpraxis. Beim 1. hatte ich mich schon über die Wartezeit geärgert. Heute hatte ich um 11.50h einen Termin, auf den ich mich eigentlich sehr gefreut hatte. Um 12.30h habe ich dann mal nachgefragt, wie lange es denn noch dauert. Die Antwort war, es wären noch 2 Patienten vor mir. Selbst bei ganz zügigem arbeiteten, hätte ich letztendlich mehr als 1 Std gewartet. Das geht gar nicht. Ich bin dann gegangen.  30 km umsonst gefahren und unnütz Zeit vergeudet.\nLeider ist die Praxis, für mich, nicht mehr diskutabel.",
       "time": 1778501058,
       "translated": false
@@ -262,11 +284,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 36,
+  "reviewCount": 37,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:23:17.741Z"
+  "lastUpdated": "2026-06-10T08:47:32.491Z"
 }

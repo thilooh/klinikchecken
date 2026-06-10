@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "sonja stotz",
+      "author_url": "https://www.google.com/maps/contrib/106309949454260525501/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTDZqg8Qd-cl5VF2wVD4KUguTJNOHOBKyVBhdCGPJ5lfnNJly1hw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Endlich eine Praxis welche die Erkrankung meiner Tochter richtig erkannt und behandelt hat!",
+      "time": 1781046058,
+      "translated": false
+    },
+    {
       "author_name": "Finja",
       "author_url": "https://www.google.com/maps/contrib/111437587142906527034/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBBwYy-bVSa6w7aHhoaR6j8SGGcYqUEQw-3pnBey8E0w9I0Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780328688,
+      "translated": false
+    },
+    {
+      "author_name": "Finja",
+      "author_url": "https://www.google.com/maps/contrib/111437587142906527034/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBBwYy-bVSa6w7aHhoaR6j8SGGcYqUEQw-3pnBey8E0w9I0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1780328688,
       "translated": false
@@ -90,6 +112,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4ZlkZgoBCLNtQBvPxERFeLo5xwjyXiqgBJVzMverBuIZsx-Jc=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Frau Dr. Winkler ist eine sehr kompetente und herzliche Ärztin, die sich Zeit für ihre Patienten nimmt. Generell ist das gesamte Personal sehr entgegenkommend und freundlich",
+      "time": 1779191305,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Barthold",
+      "author_url": "https://www.google.com/maps/contrib/113919267579492986119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4ZlkZgoBCLNtQBvPxERFeLo5xwjyXiqgBJVzMverBuIZsx-Jc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Frau Dr. Winkler ist eine sehr kompetente und herzliche Ärztin, die sich Zeit für ihre Patienten nimmt. Generell ist das gesamte Personal sehr entgegenkommend und freundlich",
       "time": 1779191305,
       "translated": false
@@ -448,11 +482,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 226,
+  "reviewCount": 227,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:23:10.389Z"
+  "lastUpdated": "2026-06-10T08:47:25.467Z"
 }

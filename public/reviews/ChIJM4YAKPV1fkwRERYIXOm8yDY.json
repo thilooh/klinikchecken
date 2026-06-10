@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Elina Novajas",
+      "author_url": "https://www.google.com/maps/contrib/108547614922263117004/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4kyR8SiLho7FYusAbQcNfRg52J4OUIE-YRk3EudreqViScA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit Oktober 2023 Patientin bei Dr. Kacik und einfach nur froh und dankbar, einen so tollen Arzt gefunden zu haben. Hierfür nehme ich auch gerne eine lange Anreise in Kauf!\nNach einer jahrzehntelangen Ärzte-Odyssee hat Dr. Kacik bei mir eine umfangreiche Diagnostik durchgeführt und die Ursachen für meine Beschwerden gefunden (ME/CFS, SFN, POTS, Post-Covid). Er überzeugt mit seiner sehr kompetenten, freundlichen und menschlichen Art und damit, dass er fachlich immer auf dem neusten Stand ist. Die Off-Lable-Therapie, die er verordnet hat, hilft mir ziemlich gut. Herr Dr. Kacik beantwortet alle Fragen und auch wenn sich im Laufe der Behandlung Unsicherheiten ergeben, antwortet er innerhalb kürzester Zeit auf Nachfragen per E-Mail. Die Praxis ist sehr gut organisiert und es herrscht eine freundliche Atmosphäre, sodass ich mich wirklich gut aufgehoben fühle …\nHerr Dr. Kacik hat mir kürzlich sehr geholfen, als ich in einer Klinik zur Behandlung war und seine Unterstützung brauchte.\nVielen Dank an das ganze ProVascular-Team und ganz besonders an Herrn Dr. Kacik!!!",
+      "time": 1780895108,
+      "translated": false
+    },
+    {
       "author_name": "Rick Wolfram",
       "author_url": "https://www.google.com/maps/contrib/103141928456363011185/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEcG2WVfa9oU3HvO6V5ShrxaoiRqKTwnmkp-T9E0aj2UZZcQ=s128-c0x00000000-cc-rp-mo",
@@ -36,6 +48,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEcG2WVfa9oU3HvO6V5ShrxaoiRqKTwnmkp-T9E0aj2UZZcQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778525252,
+      "translated": false
+    },
+    {
+      "author_name": "Rick Wolfram",
+      "author_url": "https://www.google.com/maps/contrib/103141928456363011185/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEcG2WVfa9oU3HvO6V5ShrxaoiRqKTwnmkp-T9E0aj2UZZcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1778525252,
       "translated": false
@@ -366,11 +388,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 86,
+  "reviewCount": 87,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-06-07T08:23:04.632Z"
+  "lastUpdated": "2026-06-10T08:47:19.930Z"
 }

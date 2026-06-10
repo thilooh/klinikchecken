@@ -35,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Stephan Werkmeister",
+      "author_url": "https://www.google.com/maps/contrib/112398076848759730630/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPXHAZO8yqqYiB0whZ6IyqDOoDkRov_Asgpc7MM5MFxWcdTg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Von der Rezeption bis zu den behandelnden Ärzten sind alle sehr professionell und freundlich.",
+      "time": 1779797407,
+      "translated": false
+    },
+    {
       "author_name": "Hans Hackelberg",
       "author_url": "https://www.google.com/maps/contrib/117159960298556667384/reviews",
       "language": "de",
@@ -159,6 +171,18 @@
       "translated": false
     },
     {
+      "author_name": "Michael Baum",
+      "author_url": "https://www.google.com/maps/contrib/104590969110057384289/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJegK8vrWiqhD_IkIcjmHopLF8qSYG4KEeqUoBQuSnHesT2kQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Vielen Dank an das gesamte Team! Die Versorgung ist rundherum optimal und ich fühle in kompetenten Händen.",
+      "time": 1778425984,
+      "translated": false
+    },
+    {
       "author_name": "Marco Schwarz",
       "author_url": "https://www.google.com/maps/contrib/109277323675608895437/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIArNPT6rSthfM6wEAoyaicBMHnPDJ-DyhI_jSRGnuQNYTdRg=s128-c0x00000000-cc-rp-mo-ba2",
@@ -194,6 +218,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIArNPT6rSthfM6wEAoyaicBMHnPDJ-DyhI_jSRGnuQNYTdRg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778410429,
+      "translated": false
+    },
+    {
+      "author_name": "Marco Schwarz",
+      "author_url": "https://www.google.com/maps/contrib/109277323675608895437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIArNPT6rSthfM6wEAoyaicBMHnPDJ-DyhI_jSRGnuQNYTdRg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1778410429,
       "translated": false
@@ -420,5 +454,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-06-07T08:23:34.003Z"
+  "lastUpdated": "2026-06-10T08:47:47.944Z"
 }

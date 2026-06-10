@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Seifert",
+      "author_url": "https://www.google.com/maps/contrib/105960121943252291108/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxIgv775hrmM-BAsGUtuvrfDjM-kti1mB1AYY3VjsgL0m9lQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte heute eine OP. Bin angenehm überrascht, freundliches Personal und zuvorkommend. Es wird sich um alles gekümmert. Vielen lieben Dank an alle, besonders einen Dank an Schw. Maria im Vorbereitungsraum.",
+      "time": 1780996479,
+      "translated": false
+    },
+    {
       "author_name": "Mario Langer",
       "author_url": "https://www.google.com/maps/contrib/105590122018351367094/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTG1BvnBN7OgbqQEv6X7lxla9RocFagClaHyJdUGwdsegywQ=s128-c0x00000000-cc-rp-mo",
@@ -42,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuI4ZH_kyL8nIYXt6uTwID7yBbs7XRsGPcixmoeSD9h-BimPa6=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super nette Schwestern, Zimmer sehr modern und Ärzte fachlich bestens. Habe mich bei meinem Aufenthalt sehr wohl gefühlt",
+      "time": 1780472184,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Gawliczek",
+      "author_url": "https://www.google.com/maps/contrib/104942830295676807495/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuI4ZH_kyL8nIYXt6uTwID7yBbs7XRsGPcixmoeSD9h-BimPa6=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super nette Schwestern, Zimmer sehr modern und Ärzte fachlich bestens. Habe mich bei meinem Aufenthalt sehr wohl gefühlt",
       "time": 1780472184,
       "translated": false
@@ -496,11 +520,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 441,
+  "reviewCount": 442,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-07T08:23:01.797Z"
+  "lastUpdated": "2026-06-10T08:47:17.221Z"
 }

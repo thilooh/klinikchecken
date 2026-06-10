@@ -41,6 +41,16 @@
       "translated": false
     },
     {
+      "author_name": "Monique Marques",
+      "author_url": "https://www.google.com/maps/contrib/105698822879445812852/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRBlKpcun3MXYeN2nlIOsyzzlplbipoIi4oMWwYdEjWfNzQykMrw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1778582998,
+      "translated": false
+    },
+    {
       "author_name": "Yasmin Linz",
       "author_url": "https://www.google.com/maps/contrib/105740270652543545954/reviews",
       "language": "de",
@@ -269,6 +279,18 @@
       "translated": true
     },
     {
+      "author_name": "Yaima",
+      "author_url": "https://www.google.com/maps/contrib/116800298767908350955/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIdq4Qy7n0P0_d46f6DYhgC7s61RT2aex1JSaDwNCcOvjZ6jTFVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Es ist eine Freude, einer so freundlichen, ruhigen und professionellen Ärztin zu begegnen. Es ist beeindruckend, wie viel Zeit sie sich nimmt, ihren Patienten aufmerksam zuzuhören. Ich kann mich nicht erinnern, wann ich zuletzt eine Ärztin mit solch hervorragenden Eigenschaften erlebt habe.",
+      "time": 1775647760,
+      "translated": true
+    },
+    {
       "author_name": "S.",
       "author_url": "https://www.google.com/maps/contrib/114359639512258840846/reviews",
       "language": "de",
@@ -332,5 +354,5 @@
   "rating": 4.9,
   "reviewCount": 151,
   "summary": [],
-  "lastUpdated": "2026-06-07T08:22:51.709Z"
+  "lastUpdated": "2026-06-10T08:47:07.457Z"
 }

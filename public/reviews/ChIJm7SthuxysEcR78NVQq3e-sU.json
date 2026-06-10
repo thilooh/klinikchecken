@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Ute Hartmann",
+      "author_url": "https://www.google.com/maps/contrib/117071380348652808244/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoznfUbMUuepT9U3BoPg3Uqy0Csvy7nb-AwjVn4OTDvUWQkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Das Personal in der Anmeldung war sehr freundlich, die Wartezeit sehr kurz(10 Min.),\nder Arzt war sehr einfühlsam, zugewandt und nahm sich Zeit für Erklärungen und Beantwortung all meiner Fragen.\nSehr zu empfehlende Praxis.",
+      "time": 1780418269,
+      "translated": false
+    },
+    {
       "author_name": "Martina Quil",
       "author_url": "https://www.google.com/maps/contrib/108026010442835067316/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiwlGaA3i__9xT1oClAvn7HVQtryHXmtnzQz_66sJ6I_X7Id-H=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Trotz Termin ewig lange Wartezeit",
+      "time": 1780385367,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Quil",
+      "author_url": "https://www.google.com/maps/contrib/108026010442835067316/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiwlGaA3i__9xT1oClAvn7HVQtryHXmtnzQz_66sJ6I_X7Id-H=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Trotz Termin ewig lange Wartezeit",
       "time": 1780385367,
       "translated": false
@@ -442,5 +466,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-07T08:22:58.789Z"
+  "lastUpdated": "2026-06-10T08:47:14.323Z"
 }

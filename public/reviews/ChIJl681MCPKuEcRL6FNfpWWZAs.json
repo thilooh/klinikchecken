@@ -85,6 +85,18 @@
       "translated": false
     },
     {
+      "author_name": "Jan Hugel",
+      "author_url": "https://www.google.com/maps/contrib/117071646751008658703/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLC14VqiEoRc1dlCAvk_QpJuMeNQf_eYVudjl9Jw6XLOdzlKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Frau Dr. Peveling-Oberhag nimmt sich Zeit, erklärt verständlich und arbeitet sehr sorgfältig. Ich habe mich fachlich und menschlich gut aufgehoben gefühlt. Die Praxis ist organisiert und angenehm ruhig. Klare Empfehlung. Gerne wieder!",
+      "time": 1778458822,
+      "translated": false
+    },
+    {
       "author_name": "Aishah Bennett",
       "author_url": "https://www.google.com/maps/contrib/104437228767818805888/reviews",
       "language": "en",
@@ -140,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhRUhFZL8C7gebuWn8VOFAV-UHDWfr-B-uvr_KTn9Pk3rKbyrB=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Absolut hervorragender Service von einem großartigen Team",
+      "time": 1778339920,
+      "translated": true
+    },
+    {
+      "author_name": "Aishah Bennett",
+      "author_url": "https://www.google.com/maps/contrib/104437228767818805888/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhRUhFZL8C7gebuWn8VOFAV-UHDWfr-B-uvr_KTn9Pk3rKbyrB=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Absolut hervorragender Service von einem großartigen Team",
       "time": 1778339920,
       "translated": true
@@ -229,5 +253,5 @@
   "rating": 4.1,
   "reviewCount": 24,
   "summary": [],
-  "lastUpdated": "2026-06-07T08:22:50.087Z"
+  "lastUpdated": "2026-06-10T08:47:05.877Z"
 }

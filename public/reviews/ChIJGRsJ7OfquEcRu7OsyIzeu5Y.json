@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin Tenbrink",
+      "author_url": "https://www.google.com/maps/contrib/104711783335102655162/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT78PF3xu-_zOajCnC3wobqfo8kLS0RNLfneRAwSQR_Q3C4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es tut mir leid es so schlecht bewerten zu müssen, aber wie man sehen kann ist man als Kassen Patient in dieser Praxis leider nur 2. Wahl\nBei beiden Ärzten kann man überhaupt keinen online Termin mehr haben. Weil keine Termine frei.\nKlickt man dann auf privat Patient sind in allen Kategorien Termine verfügbar.\nTrauriges Deutschland\nHier darf man nicht alt und Krank werden",
+      "time": 1780929689,
+      "translated": false
+    },
+    {
       "author_name": "Justyna Michalski (Kalina)",
       "author_url": "https://www.google.com/maps/contrib/100481958198724287329/reviews",
       "language": "de",
@@ -229,12 +241,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 57,
+  "rating": 4.6,
+  "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-06-07T08:23:21.201Z"
+  "lastUpdated": "2026-06-10T08:47:35.792Z"
 }

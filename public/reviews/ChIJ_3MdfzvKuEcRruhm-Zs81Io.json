@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Chiana Böcker",
+      "author_url": "https://www.google.com/maps/contrib/111847987452971585792/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_F7rbD954vS7phCIPHDZ3K0y2NCSUqdMHFIHUZmrdw1IOvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zwar sehr freundliches Personal und gute Pflegerische Versorgung. Aber für die Masse an Geld nahezu keine Veränderung passiert. Habe meine Nase operieren lassen und sie ist nur minimal verändert worden und das eigentliche Ziel schmäler und kleiner, ist vollständig verfehlt worden.\nOp ist ein Jahr her und man sieht nur das sie leicht abgeschliffen wurde und etwas schwung hat (das hatte ich mir auch gewünscht) diese Veränderung sieht man jedoch nur bei komplett entspanntem Gesicht.\nLeider nicht weiterzuempfehlen",
+      "time": 1781019970,
+      "translated": false
+    },
+    {
       "author_name": "Tara",
       "author_url": "https://www.google.com/maps/contrib/116487915879721532102/reviews",
       "language": "de",
@@ -493,7 +505,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 382,
+  "reviewCount": 383,
   "summary": [],
-  "lastUpdated": "2026-06-07T08:22:50.551Z"
+  "lastUpdated": "2026-06-10T08:47:06.319Z"
 }

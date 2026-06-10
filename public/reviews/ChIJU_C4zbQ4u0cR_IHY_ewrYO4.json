@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Слава Салтаганов",
+      "author_url": "https://www.google.com/maps/contrib/104555774735768004051/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlIj0fIEG5HOp7uJ0jm1W1PXP74ecTeRgplMnKkVM8ysqHeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781077951,
+      "translated": false
+    },
+    {
       "author_name": "Ina-Elisabeth Kunzlmann",
       "author_url": "https://www.google.com/maps/contrib/105287698397956758920/reviews",
       "language": "de",
@@ -13,11 +23,33 @@
       "translated": false
     },
     {
+      "author_name": "Ina-Elisabeth Kunzlmann",
+      "author_url": "https://www.google.com/maps/contrib/105287698397956758920/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLixkrqg8lwUyoell5aYk3yoc6MI9GnaMmIxNk8KAXG70pPug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Was für eine tolle Erfahrung, sowohl bereits am Telefon bei der Terminvereinbarung als auch im persönlichen Erstkontakt-supernette Dame am Empfang!\nUnd Dr Krokowski selber: sehr sehr nett, respektvoll und entängstigend.\nIch bin überrascht und beinahe schon glücklich!\nVielen Dank, ❤️\nIch empfehle Sie allzugern weiter",
+      "time": 1780324576,
+      "translated": false
+    },
+    {
       "author_name": "Thorsten Koerner",
       "author_url": "https://www.google.com/maps/contrib/111534312098012959171/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx80HDl3rFSQFicBDHU0CyZPKlX6EoH8qKig6tkLGf_V19bA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780259229,
+      "translated": false
+    },
+    {
+      "author_name": "Thorsten Koerner",
+      "author_url": "https://www.google.com/maps/contrib/111534312098012959171/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx80HDl3rFSQFicBDHU0CyZPKlX6EoH8qKig6tkLGf_V19bA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1780259229,
       "translated": false
@@ -138,6 +170,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1K74rWgjPIgJmYzmT71hgRJsUUiYyQ4vcXAshdLgs90FUAg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Verstehe die negativen Kommentare über Hautärzte nicht.  Fühle mich in der Praxis Dr. Krokowski wohl. Sie sind dort freundlich und ich bekomme stets kurzfristig einen Termin (Kassenpatient).  Dr. Krokowski ist ein angenehmer Arzt,  freundlich und kompetent,  einfach so wie man es erwartet",
+      "time": 1775731562,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Klug",
+      "author_url": "https://www.google.com/maps/contrib/102974600298037086291/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1K74rWgjPIgJmYzmT71hgRJsUUiYyQ4vcXAshdLgs90FUAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Verstehe die negativen Kommentare über Hautärzte nicht.  Fühle mich in der Praxis Dr. Krokowski wohl. Sie sind dort freundlich und ich bekomme stets kurzfristig einen Termin (Kassenpatient).  Dr. Krokowski ist ein angenehmer Arzt,  freundlich und kompetent,  einfach so wie man es erwartet",
       "time": 1775731562,
       "translated": false
@@ -264,11 +308,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 54,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:23:17.057Z"
+  "lastUpdated": "2026-06-10T08:47:31.845Z"
 }

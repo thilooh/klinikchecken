@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M. M.",
+      "author_url": "https://www.google.com/maps/contrib/115894678058921682745/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZGRVBz3qUk0tQabgSaMOJB20nDwJ5zyRrcnJRQFjNKtxbGBo=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin leider total unzufrieden mit meiner Sprechstunde bei Dr. Glocker. Ich hatte nicht das Gefühl, dass ich ernst genommen werde. Kein Allergietest, kaum Fragen, keine Untersuchung, einfach das Allheilmittel Kortisol bekommen. Hat gar nichts gebracht leider. Und auf diesen 5min-Termin habe ich 5 Monate gewartet… Die zwei Sterne sind nur wegen der modernen Praxis und den tollen Arzthelferinnen entstanden. Schade!",
+      "time": 1780413108,
+      "translated": false
+    },
+    {
       "author_name": "KH",
       "author_url": "https://www.google.com/maps/contrib/105701211367504225184/reviews",
       "language": "de",
@@ -349,6 +361,18 @@
       "translated": false
     },
     {
+      "author_name": "Flavia C.",
+      "author_url": "https://www.google.com/maps/contrib/102982575387352401727/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzmV4w83GF7UqcRxPXa-gIrofWIRbwhcfDYou7HiVgKYamupU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Ich habe relativ kurzfristig online einen Termin bekommen (ca. 2 Wochen Wartezeit), was ich sehr praktisch fand.\nBeim Termin wurde ich sehr freundlich empfangen, musste überhaupt nicht warten und habe mich während des gesamten Besuchs sehr wohl gefühlt.\nDie Praxis ist modern und gut organisiert, außerdem liegt sie sehr zentral, nur wenige Minuten zu Fuß von den Parkhäusern Kunsthalle oder Rosengarten entfernt.\nInsgesamt eine sehr angenehme Erfahrung. Klare Empfehlung!",
+      "time": 1775639567,
+      "translated": false
+    },
+    {
       "author_name": "tuxxut",
       "author_url": "https://www.google.com/maps/contrib/107733619254994832870/reviews",
       "language": "de",
@@ -410,11 +434,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 260,
+  "reviewCount": 261,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-07T08:23:10.854Z"
+  "lastUpdated": "2026-06-10T08:47:25.904Z"
 }

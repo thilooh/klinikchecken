@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M. Aydin",
+      "author_url": "https://www.google.com/maps/contrib/116501043075733564969/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5HM0WO_l_zwed2aMrFHLnTu8d7xiD23oqb0CuvIlTwX9-gQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach insgesamt drei Brustoperationen kann ich sagen, dass Dr. Babak Esfahani für mich mit Abstand die beste Entscheidung war.\n\nIch hatte bereits eine Brustvergrößerung und eine Straffung bei anderen Ärzten hinter mir und habe mich diesmal für einen Implantatwechsel in Kombination mit Eigenfetttransfer (Hybrid-Brustvergrößerung) entschieden. Entsprechend hoch waren meine Erwartungen und trotzdem wurden sie übertroffen.\n\nVom ersten Beratungsgespräch bis zur Nachsorge habe ich mich jederzeit bestens aufgehoben gefühlt. Dr. Sfhani hat sich unglaublich viel Zeit genommen, ist auf alle meine Wünsche eingegangen und hat gleichzeitig ehrlich und realistisch beraten. Seine ruhige, professionelle und menschliche Art hat mir sofort Vertrauen gegeben.\n\nDas Ergebnis ist einfach wunderschön geworden. Meine Brüste sehen unglaublich natürlich aus, fühlen sich natürlich an und passen perfekt zu meinem Körper. Genau dieses harmonische Ergebnis hatte ich mir immer gewünscht. Ich hätte ehrlich gesagt nicht gedacht, dass nach meiner Vorgeschichte noch einmal so eine Verbesserung möglich ist.\n\nAuch das gesamte Team war jederzeit freundlich, herzlich und professionell. Man merkt einfach, dass hier mit viel Erfahrung, Leidenschaft und höchstem Anspruch gearbeitet wird.\n\nFür mich war diese OP jeden einzelnen Cent wert und ich würde mich jederzeit wieder für Dr. Sfhani entscheiden. Eine absolute Empfehlung für alle, die Wert auf natürliche Ergebnisse, ehrliche Beratung und höchste chirurgische Qualität legen.\n\nVielen Dank für dieses großartige Ergebnis! ❤️✨",
+      "time": 1780907054,
+      "translated": false
+    },
+    {
       "author_name": "Sabrina Becker",
       "author_url": "https://www.google.com/maps/contrib/102484694180526550506/reviews",
       "language": "de",
@@ -152,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-pBajC1GNb-An9b7j87920VDj733yvgYZKBUd8bJMs8nOTA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich bin schon seit Jahren Patientin von Dr. Esfahani. Er ist der Allerbeste. Als Make up Artist ist es mir wichtig, dass die Eingriffe natürlich aussehen, er kann einen bestens beraten. Die Praxis ist superschön und sauber und seine Mitarbeiter*innen sind immer sehr freundlich. Außerdem ist er auch ein hervorragender Arzt- hat er doch auch noch prompt nebenbei meine Schulter behandelt und kuriert.",
+      "time": 1778235872,
+      "translated": false
+    },
+    {
+      "author_name": "Peggy L.",
+      "author_url": "https://www.google.com/maps/contrib/115890541223542034599/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-pBajC1GNb-An9b7j87920VDj733yvgYZKBUd8bJMs8nOTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich bin schon seit Jahren Patientin von Dr. Esfahani. Er ist der Allerbeste. Als Make up Artist ist es mir wichtig, dass die Eingriffe natürlich aussehen, er kann einen bestens beraten. Die Praxis ist superschön und sauber und seine Mitarbeiter*innen sind immer sehr freundlich. Außerdem ist er auch ein hervorragender Arzt- hat er doch auch noch prompt nebenbei meine Schulter behandelt und kuriert.",
       "time": 1778235872,
       "translated": false
@@ -312,12 +336,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
+  "rating": 5,
   "reviewCount": 140,
   "summary": [
     "Dr. Esfahani gilt als äußerst präziser Chirurg — Ergebnisse übertreffen laut Patienten oft die Erwartungen",
     "Eingriffe verlaufen schmerzfrei und komplikationslos, auch komplexe Korrekturen gelingen",
     "Das gesamte Team wird als herzlich, einfühlsam und professionell beschrieben"
   ],
-  "lastUpdated": "2026-06-07T08:22:47.426Z"
+  "lastUpdated": "2026-06-10T08:47:03.224Z"
 }

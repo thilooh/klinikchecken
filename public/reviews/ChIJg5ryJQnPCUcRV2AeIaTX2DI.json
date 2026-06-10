@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Qasem Mirzaei (‫قاسم میرزایی‬‎)",
+      "author_url": "https://www.google.com/maps/contrib/109124483526349393668/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm8sX5rW9KzRvqNC8th0jofZF4toIY9bh3czwcb48c9evcmNID=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Diese Arzt oder Ärztin nehmen Patienten nur mit Bargeld Rechnung. Keine Versicherungskarte",
+      "time": 1780990477,
+      "translated": false
+    },
+    {
       "author_name": "Nima Akbari Moghaddam",
       "author_url": "https://www.google.com/maps/contrib/118320699544994322755/reviews",
       "language": "de",
@@ -121,6 +133,18 @@
       "translated": false
     },
     {
+      "author_name": "Justus Niekamp",
+      "author_url": "https://www.google.com/maps/contrib/107876675527869842089/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3hNJcW39Spk4OP16Nfd0nNu1Pp3_bKhBGWLkaybG50h-wqtI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Absolut Empfehlenswert!\nDie Wartezeit betrug nur ca. 10 Minuten, die MFA waren sehr freundlich und hilfsbereit!\nMan kann sich Problemlos per Mail verständigen und der Arzt war auch super! Er hat sich Zeit genommen, Sachen erklärt und sich erkundigt, ob man selber noch Fragen hätte.",
+      "time": 1775748681,
+      "translated": false
+    },
+    {
       "author_name": "Oliver Funke",
       "author_url": "https://www.google.com/maps/contrib/111601632957650006657/reviews",
       "language": "de",
@@ -140,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbeSvz3ca7hTia03xy4SMWruaDtv6ccpVFCLzIbr1hQZJeEDAa=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Das Wichtigste zuerst: so gut wie keine Wartezeiten! Freundlicher Empfang und schnelle Hilfe. So stelle ich mir einen Arztbesuch vor.",
+      "time": 1773210198,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Funke",
+      "author_url": "https://www.google.com/maps/contrib/111601632957650006657/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbeSvz3ca7hTia03xy4SMWruaDtv6ccpVFCLzIbr1hQZJeEDAa=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Das Wichtigste zuerst: so gut wie keine Wartezeiten! Freundlicher Empfang und schnelle Hilfe. So stelle ich mir einen Arztbesuch vor.",
       "time": 1773210198,
       "translated": false
@@ -190,11 +226,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 116,
+  "reviewCount": 117,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-07T08:23:12.916Z"
+  "lastUpdated": "2026-06-10T08:47:27.878Z"
 }

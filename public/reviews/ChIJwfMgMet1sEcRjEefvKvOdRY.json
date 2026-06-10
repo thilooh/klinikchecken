@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Alex Melikh",
+      "author_url": "https://www.google.com/maps/contrib/102911511176107838597/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEs_Yru7W4aAqJWw59zvbhSP3D7SQ1QtyATNO9A45uwdzeVCU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich in dieser Praxis sehr gut aufgehoben gefühlt. Der Arzt und das gesamte Team waren jederzeit freundlich, zuvorkommend und professionell. Besonders hervorheben möchte ich die hohe Kompetenz des Arztes, der sich Zeit für meine Fragen genommen und alles verständlich erklärt hat. Die Behandlung selbst war deutlich angenehmer, als ich es mir vorher vorgestellt hatte. Insgesamt eine sehr positive Erfahrung.",
+      "time": 1781006779,
+      "translated": false
+    },
+    {
+      "author_name": "Der seelenraubende Botschafter",
+      "author_url": "https://www.google.com/maps/contrib/111504285546123974732/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQTsObtwzxMaT7ZUYcvV6w6hFt7uIHW-pwt9cbfzcAr1aWFE3m=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wollte einen Termin machen aber telefonisch schwer erreichbar bzw Anrufbeantworter.\nAuf Glück doch mit einer Mitarbeiterin am Telefon gesprochen für ein Termin, wurde aber dann ausgefragt und abgewimmelt.\nWas soll man dazu noch sagen das Gesundheitssystem ist überlastet und keiner hat mehr Bock jemanden zu behandeln oder zu helfen.",
+      "time": 1780928066,
+      "translated": false
+    },
+    {
       "author_name": "l0511l",
       "author_url": "https://www.google.com/maps/contrib/106554370745229547684/reviews",
       "language": "de",
@@ -374,11 +398,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 154,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:22:59.270Z"
+  "lastUpdated": "2026-06-10T08:47:14.771Z"
 }

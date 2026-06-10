@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Vesna Anusic",
+      "author_url": "https://www.google.com/maps/contrib/108515123570947295692/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK1n2avQ55UXXABSrVCndYzTplqATqYZpp7DIPrCgsdVUEHLBc=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war nicht so richtig zufrieden. Personal sehr nett.",
+      "time": 1779130188,
+      "translated": false
+    },
+    {
       "author_name": "HEIKE Mertes- Biewer",
       "author_url": "https://www.google.com/maps/contrib/101393428224110464878/reviews",
       "language": "de",
@@ -132,6 +144,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFdFDD1htTaDn-8MhMl2vL1U_0Lrs6tKTjIptOA0RNPNs4cw8m=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778656839,
+      "translated": false
+    },
+    {
+      "author_name": "Iris H.",
+      "author_url": "https://www.google.com/maps/contrib/103214431950657938868/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFdFDD1htTaDn-8MhMl2vL1U_0Lrs6tKTjIptOA0RNPNs4cw8m=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1778656839,
       "translated": false
@@ -368,5 +390,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-07T08:23:03.229Z"
+  "lastUpdated": "2026-06-10T08:47:18.577Z"
 }

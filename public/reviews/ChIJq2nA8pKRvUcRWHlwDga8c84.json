@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Miriam Kopelevich",
+      "author_url": "https://www.google.com/maps/contrib/101355974105916909435/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdojzMv5LrY8RAox7GsyUC2R8T13R018pQCggYLZqf4kKMJjai=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mag sein, dass der Arzt in dieser Praxis sehr kompetent ist. Die anderen Angestellten mit offensichtlichen Erziehungsdefiziten.\n\nNicht höfliche und nicht hilfsbereite Kommunikation auf Doctolib Portal! Von Anfragen soll ich absehen. Von Anfang an für meine Beschwerden soll mein Hausarzt ausreichen, die Kommunikation wurde geschlossen. In der neuen Kommunikation mit der Terminanfrage bekomme ich, ich soll nur über Doctolib buchen, wenn keine Termine, dann gibt es keine Kapazitäten, die Kommunikation wurde geschlossen. Ich nicht antworten. Die Person kann nicht sagen, ob die Praxis Kapazitäten für Neupatienten hat, und im Portal steht, dass die Neupatienten nicht Online buchen dürfen. Was ist das für Medpersonal?\n\nNachdem ich die anderen Kommentare gelesen habe, freue ich mich, dass ich lieber andere Praxis suche.",
+      "time": 1781002749,
+      "translated": false
+    },
+    {
+      "author_name": "Dominic Gaussmann",
+      "author_url": "https://www.google.com/maps/contrib/104179099911699795423/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6Cu8JBo7N9bdfuag2sgDa9UyJ8Bgju9Lm-CeCGF8hnca9BA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super kompetente Praxis- sehr nettes Team",
+      "time": 1780991361,
+      "translated": false
+    },
+    {
       "author_name": "Klaus-Peter Stiehl",
       "author_url": "https://www.google.com/maps/contrib/105664630449808861729/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpr_FrT8BpVoY3JGOzszT4LVM3MhKyFemzbEs0yWauWZxZ6A=s128-c0x00000000-cc-rp-mo",
@@ -546,11 +570,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 301,
+  "reviewCount": 303,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:23:16.106Z"
+  "lastUpdated": "2026-06-10T08:47:30.975Z"
 }

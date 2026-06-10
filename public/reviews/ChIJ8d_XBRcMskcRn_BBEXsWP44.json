@@ -241,6 +241,18 @@
       "translated": false
     },
     {
+      "author_name": "Sebastian Malmacker",
+      "author_url": "https://www.google.com/maps/contrib/105429762365007396093/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9IzZBRtex4wDb7WuBI0w_8vAKFHctmq7swHDzNQVxThzH08s=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Bei Frau Dr. Laske ist man, trotz vieler Patienten, nicht einfach einer von vielen. Man wird ernst genommen. Vielen Dank!",
+      "time": 1773268039,
+      "translated": false
+    },
+    {
       "author_name": "Beate K.",
       "author_url": "https://www.google.com/maps/contrib/109569751157579770259/reviews",
       "language": "de",
@@ -307,14 +319,26 @@
       "text": "Bin hier seit Jahren Patientin und sehr glücklich. Die Praxis ist sehr zentral gelegen. Frau Dr Laske nimmt sich Zeit, erklärt alles und geht auf Fragen ein.",
       "time": 1770586367,
       "translated": false
+    },
+    {
+      "author_name": "Sandra R.K.",
+      "author_url": "https://www.google.com/maps/contrib/101924508906483309009/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl2VJRXpa_veRNc_oGbDRhIvqD4jkohoN910PR05N2PMRkAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Bin hier seit Jahren Patientin und sehr glücklich. Die Praxis ist sehr zentral gelegen. Frau Dr Laske nimmt sich Zeit, erklärt alles und geht auf Fragen ein.",
+      "time": 1770586367,
+      "translated": false
     }
   ],
   "rating": 4.7,
-  "reviewCount": 137,
+  "reviewCount": 136,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-07T08:23:02.739Z"
+  "lastUpdated": "2026-06-10T08:47:18.128Z"
 }
