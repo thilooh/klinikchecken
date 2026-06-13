@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "Batuhan Firatoglu",
+      "author_url": "https://www.google.com/maps/contrib/108671031719331021258/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICT-gHeGOJIfPL1o6-lFY1gdTrfNZ_yKIwEatOpqICUmpBvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1779300730,
+      "translated": false
+    },
+    {
       "author_name": "Kübra Pjetrović",
       "author_url": "https://www.google.com/maps/contrib/102047589099208288323/reviews",
       "language": "de",
@@ -74,6 +84,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIPn-45PcG9GVipPhZoK1si2hfMoFZYk8vTcEd72nOTWAZuw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundliche Beratung. Motiviert und kompetent.",
+      "time": 1778751805,
+      "translated": false
+    },
+    {
+      "author_name": "Kübra Pjetrović",
+      "author_url": "https://www.google.com/maps/contrib/102047589099208288323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIPn-45PcG9GVipPhZoK1si2hfMoFZYk8vTcEd72nOTWAZuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr freundliche Beratung. Motiviert und kompetent.",
       "time": 1778751805,
       "translated": false
@@ -354,5 +376,5 @@
   "rating": 4.9,
   "reviewCount": 100,
   "summary": [],
-  "lastUpdated": "2026-06-10T08:47:07.918Z"
+  "lastUpdated": "2026-06-13T08:19:36.419Z"
 }

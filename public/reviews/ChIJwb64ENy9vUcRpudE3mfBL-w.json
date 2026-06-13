@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel Müller",
+      "author_url": "https://www.google.com/maps/contrib/114871527379053298187/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtoMNyJdyzFgWjKth0SJfQGxtLtWVP0Ra08B7YNqg9WMDQHs8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Trotz vereinbartem Termin wurde ich nicht behandelt und vorab auch nicht darüber informiert, dass der Termin ausfällt. Die Dame am Empfang war zudem unfreundlich. Ein neuer Termin war erst Monate später verfügbar. Schlechter Service und eine enttäuschende Erfahrung.",
+      "time": 1781090505,
+      "translated": false
+    },
+    {
       "author_name": "tiger",
       "author_url": "https://www.google.com/maps/contrib/116454004751946611575/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKA5jxm_Fed-O986Qt8u959kkLVmB9d8k6hy6JH3Gd4ItCPpw=s128-c0x00000000-cc-rp-mo",
@@ -86,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITPicLXEg_BsmQepIQoDq1cMwmS2lCdOUITnMqgDCWo9NSxQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Noch nie eine so schnelle und reibungslose Leberfleckkontrolle mit Leberfleckentfernung und anschließender Besprechung gehabt.\n\n5/5",
+      "time": 1778602083,
+      "translated": false
+    },
+    {
+      "author_name": "M M",
+      "author_url": "https://www.google.com/maps/contrib/115198558507532343256/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITPicLXEg_BsmQepIQoDq1cMwmS2lCdOUITnMqgDCWo9NSxQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Noch nie eine so schnelle und reibungslose Leberfleckkontrolle mit Leberfleckentfernung und anschließender Besprechung gehabt.\n\n5/5",
       "time": 1778602083,
       "translated": false
@@ -356,11 +380,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 140,
+  "reviewCount": 141,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:30.537Z"
+  "lastUpdated": "2026-06-13T08:20:01.450Z"
 }

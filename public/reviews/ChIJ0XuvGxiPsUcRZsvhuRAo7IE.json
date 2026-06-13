@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas S.",
+      "author_url": "https://www.google.com/maps/contrib/114195308664817694883/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuwbl4EfXkzyxs2SrHQP029XzpjZYqz_JgWfTHwmjBehDZzBfa=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr professionelle und kompetente Beratung sowie Behandlung von Herrn Dr. Karsai. Kann ich nur empfehlen.",
+      "time": 1781160944,
+      "translated": false
+    },
+    {
       "author_name": "Sven Sternhagen",
       "author_url": "https://www.google.com/maps/contrib/103547648714849047745/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3xAbw2ZKeifndz4W4wD1G6VnaIw9lHkzlHwEVIAQN5TXCeA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Herausragende Haartransplantation – Professionalität auf höchstem Niveau\nMeine Erfahrung im Dermatologikum Hamburg bei Frau Dr. Mahmood und ihrem Team war durchweg hervorragend. Die Haartransplantation verlief absolut professionell und ich fühlte mich vom ersten Moment an bestens betreut.\nBesonders beeindruckt hat mich die außergewöhnliche Sorgfalt und Präzision, mit der gearbeitet wurde. Trotz des umfangreichen Eingriffs, der sich über zwei Tage mit jeweils etwa 9 Stunden erstreckte, war die Atmosphäre stets konzentriert und beruhigend. Die hygienischen Standards waren vorbildlich.\nMeine Highlights:\n- Exzellente medizinische Expertise von Frau Dr. Mahmood\n- Höchste Qualität in Ausführung und Hygiene\n- Einfühlsame und kontinuierliche Betreuung während des gesamten Prozesses\n- Vertrauensvolle Kommunikation bei einem anspruchsvollen, mehrtägigen Eingriff\nIch bin mit dem Ergebnis überaus zufrieden und kann das Dermatologikum Hamburg uneingeschränkt weiterempfehlen.\nEin großes Dankeschön an das gesamte Team!",
+      "time": 1780485905,
+      "translated": false
+    },
+    {
+      "author_name": "Sven Sternhagen",
+      "author_url": "https://www.google.com/maps/contrib/103547648714849047745/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3xAbw2ZKeifndz4W4wD1G6VnaIw9lHkzlHwEVIAQN5TXCeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Herausragende Haartransplantation – Professionalität auf höchstem Niveau\nMeine Erfahrung im Dermatologikum Hamburg bei Frau Dr. Mahmood und ihrem Team war durchweg hervorragend. Die Haartransplantation verlief absolut professionell und ich fühlte mich vom ersten Moment an bestens betreut.\nBesonders beeindruckt hat mich die außergewöhnliche Sorgfalt und Präzision, mit der gearbeitet wurde. Trotz des umfangreichen Eingriffs, der sich über zwei Tage mit jeweils etwa 9 Stunden erstreckte, war die Atmosphäre stets konzentriert und beruhigend. Die hygienischen Standards waren vorbildlich.\nMeine Highlights:\n- Exzellente medizinische Expertise von Frau Dr. Mahmood\n- Höchste Qualität in Ausführung und Hygiene\n- Einfühlsame und kontinuierliche Betreuung während des gesamten Prozesses\n- Vertrauensvolle Kommunikation bei einem anspruchsvollen, mehrtägigen Eingriff\nIch bin mit dem Ergebnis überaus zufrieden und kann das Dermatologikum Hamburg uneingeschränkt weiterempfehlen.\nEin großes Dankeschön an das gesamte Team!",
       "time": 1780485905,
       "translated": false
@@ -488,7 +512,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 424,
+  "reviewCount": 425,
   "summary": [],
-  "lastUpdated": "2026-06-10T08:47:11.423Z"
+  "lastUpdated": "2026-06-13T08:19:40.151Z"
 }

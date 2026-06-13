@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Renata Kaplani",
+      "author_url": "https://www.google.com/maps/contrib/103562177338196839755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZNBZBvR7PIYmyxwv2WZ6KXw0awnf8SWS80mgtyWfyHqlSJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor einer Woche in der Praxis Dr. Sharaf und habe mich sehr gut aufgehoben gefühlt. Der Arzt ist freundlich ,klärt auf und nimmt sich Zeit für seine Patienten. Auch das Praxisteam ist nett und die Organisation läuft reibungslos. Sehr empfehlenswert!",
+      "time": 1781288099,
+      "translated": false
+    },
+    {
       "author_name": "Marina Lucia",
       "author_url": "https://www.google.com/maps/contrib/101885211129268564784/reviews",
       "language": "de",
@@ -72,6 +84,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9ZdFEzJOjL1OtkrJpR64oD5IPyhXPH5RaF4Py3QWcoInZJQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778697850,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Pawlewski",
+      "author_url": "https://www.google.com/maps/contrib/103294908699785620070/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9ZdFEzJOjL1OtkrJpR64oD5IPyhXPH5RaF4Py3QWcoInZJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1778697850,
       "translated": false
@@ -330,11 +352,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 68,
+  "reviewCount": 69,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:31.631Z"
+  "lastUpdated": "2026-06-13T08:20:02.736Z"
 }

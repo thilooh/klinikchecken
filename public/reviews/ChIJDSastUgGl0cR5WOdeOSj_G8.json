@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "BeTheLight",
+      "author_url": "https://www.google.com/maps/contrib/111209904621053710005/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSddcH23tC_e4Vj6qfkzZA2OK7Xirm4kwYFEtWN7XIOxSXZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich rufe seit über 7 Stunden an und es geht niemand ran. Unglaublich.\n\nNachtrag:\nIch bin dann wegen einem Notfall in die Praxis gekommen mit einem hochsensiblen Problem und wurde nach über zwei Stunden immer noch nicht dran genommen und unglaublich unfreundlich behandelt.",
+      "time": 1781251884,
+      "translated": false
+    },
+    {
       "author_name": "sonja stotz",
       "author_url": "https://www.google.com/maps/contrib/106309949454260525501/reviews",
       "language": "de",
@@ -76,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxFq19cMxdYO0jJ25V5EVCW9s0ubPKCALfrkWvyqnFj5bhnQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Der Hautarzt ist super. Ich musste nicht lange auf meinen Termin warten und bisher haben sie mir immer gut Weiter geholfen.",
+      "time": 1779341172,
+      "translated": false
+    },
+    {
+      "author_name": "Chiller Chiller",
+      "author_url": "https://www.google.com/maps/contrib/111464731312302104462/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxFq19cMxdYO0jJ25V5EVCW9s0ubPKCALfrkWvyqnFj5bhnQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Der Hautarzt ist super. Ich musste nicht lange auf meinen Termin warten und bisher haben sie mir immer gut Weiter geholfen.",
       "time": 1779341172,
       "translated": false
@@ -482,11 +506,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 227,
+  "reviewCount": 226,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:25.467Z"
+  "lastUpdated": "2026-06-13T08:19:55.666Z"
 }

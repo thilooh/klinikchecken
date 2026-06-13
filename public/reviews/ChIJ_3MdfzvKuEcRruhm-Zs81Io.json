@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tatjana Luba",
+      "author_url": "https://www.google.com/maps/contrib/117926826797432930344/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-VjjAi-7cizJN2DjEEfeUiS75F_hXwKL05Marbr6OKXTaKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider bin ich mit meiner Erfahrung in dieser Klinik sehr enttäuscht.\n\nIm Januar 2025 habe ich mich aufgrund einer tubulären Brustfehlbildung operieren lassen. Ziel der Operation war die Korrektur der Fehlbildung, eine Straffung der Brust sowie die Verkleinerung der Brustwarzenvorhöfe. Im Beratungsgespräch wurde auf Nachfrage meines Partners erklärt, dass die Narben aufgrund der Spezialisierung auf Schönheitschirurgie dezent ausfallen würden. Während meiner Nachkontrolle ist meine Ärztin verschwunden. Der neue Arzt hat an der Narbentherapie nicht weiter angesetzt.\n\nHeute, mehr als ein Jahr später, bin ich mit dem Ergebnis sehr unglücklich. Die Brust hängt weiterhin leicht und die Narben sind deutlich sichtbar, wulstig und teilweise schmerzhaft. Die zunächst empfohlene Behandlung mit Narbenpflastern brachte keine Verbesserung.\n\nEnttäuschend war jedoch der weitere Umgang mit meinem Anliegen. Für die Beantragung einer von der Klinik empfohlenen Versicherung musste ich den benötigten Unterlagen über Wochen hinweg hinterhertelefonieren. Obwohl ich diese seit Dezember 2025 regelmäßig angefordert hatte, erhielt ich sie erst Ende Februar 2026.\n\nDie Versicherung lehnte die Kostenübernahme anschließend ab (u.a. aufgrund des Arztbriefes).\n\nBesonders enttäuschend finde ich, dass nach einer für mich emotional und finanziell bedeutenden Operation nicht nur das Ergebnis, sondern auch die anschließende Betreuung und Kommunikation meinen Erwartungen nicht entsprochen haben. Bis heute habe ich keine weitere Antwort von der Klinik erhalten.\n\nAus meiner persönlichen Erfahrung kann ich die Klinik daher leider nicht weiterempfehlen.",
+      "time": 1781100919,
+      "translated": false
+    },
+    {
       "author_name": "Chiana Böcker",
       "author_url": "https://www.google.com/maps/contrib/111847987452971585792/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Tara",
+      "author_url": "https://www.google.com/maps/contrib/116487915879721532102/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdwjPnIEtq4Q9mjBlXE1jW2m-6Ctoc9UNrHumLMEdzWrRo8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Frau Dr. Münchow hat mich sehr einfühlsam beraten und mir ganz viel Sicherheit gegeben! Zuvor war ich in einer anderen Praxis zur Beratung und ich muss sagen, nachdem ich die Beratung von Frau Dr. Münchow erhielt, war für mich klar, nur Sie! Leider habe ich eine große Delle am Unterbauch bekommen und der Oberbauch ist fülliger als der Unterbauch…, dies auch Frau Dr. Münchow gezeigt und sie sagte, ich solle die Delle massieren. Nach einem Jahr ist es immernoch so! Nachdem ich bei meinem Hausarzt ein Ultraschall machen lassen habe, kam raus, dass dies totes Gewebe ist. Massage bringt da garnichts. Ende vom Lied: Die Klinik wollte mir eine weitere OP verkaufen. Bin leider echt enttäuscht und traurig. So viel Geld für Enttäuschung. .",
+      "time": 1780491226,
+      "translated": false
+    },
+    {
       "author_name": "Becca Zille",
       "author_url": "https://www.google.com/maps/contrib/116172135502464995955/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHIS_JZyMcg_C0LT8Pr2J1VyGp-e_8JhFdW_uWRuuuYbk3qA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Prof. Dr. zu Schwarzburg war die beste Entscheidung für mich. Das gesamte Team hat sich sehr einfühlsam um einen gekümmert. Jeder Zeit würde ich die Klinik und den Arzt weiter empfehlen. Es ging um eine Nasenkorrektur.",
+      "time": 1779877959,
+      "translated": false
+    },
+    {
+      "author_name": "Becca Zille",
+      "author_url": "https://www.google.com/maps/contrib/116172135502464995955/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHIS_JZyMcg_C0LT8Pr2J1VyGp-e_8JhFdW_uWRuuuYbk3qA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Prof. Dr. zu Schwarzburg war die beste Entscheidung für mich. Das gesamte Team hat sich sehr einfühlsam um einen gekümmert. Jeder Zeit würde ich die Klinik und den Arzt weiter empfehlen. Es ging um eine Nasenkorrektur.",
       "time": 1779877959,
       "translated": false
@@ -504,8 +540,8 @@
       "time": 1775807783
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 383,
+  "rating": 4.7,
+  "reviewCount": 384,
   "summary": [],
-  "lastUpdated": "2026-06-10T08:47:06.319Z"
+  "lastUpdated": "2026-06-13T08:19:34.706Z"
 }

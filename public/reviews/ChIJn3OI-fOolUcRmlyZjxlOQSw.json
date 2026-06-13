@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Isabelle V.",
+      "author_url": "https://www.google.com/maps/contrib/104671290152700114637/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFj-oiA03BAXZR3NaTPR6HBWMaUXMNVIw6WeCBih1pgBw5bCE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wegen meines Lipödems und Lymphödems bei Dr. Ugur in Behandlung und könnte mir keinen besseren Phlebologen vorstellen.\n\nDie längeren Wartezeiten nehme ich gerne in Kauf, da sich hier wirklich Zeit für die Patienten genommen wird. Dr. Ugur behandelt nicht nur – wie leider oft üblich – die Symptome, sondern betrachtet die Erkrankung und den Menschen als Ganzes.\n\nBesonders schätze ich seine direkte und offene Art. Nach meinen Erfahrungen mit anderen Ärzten, die häufig nur nach Schema F vorgehen, fühle ich mich hier endlich ernst genommen und individuell betreut.\n\nAuch Rezeptabholungen und Terminvereinbarungen laufen schnell und unkompliziert ab. Das gesamte Praxisteam war mir gegenüber stets freundlich, höflich und zuvorkommend.\n\nIch fühle mich hier sehr gut aufgehoben und kann die Praxis jedem empfehlen, der Wert auf eine kompetente und ganzheitliche Behandlung legt.",
+      "time": 1781202769,
+      "translated": false
+    },
+    {
+      "author_name": "Ramona",
+      "author_url": "https://www.google.com/maps/contrib/114405745890673993160/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIyB1mEfilmQY1sj8fp1pZ20uYXIlvGIKrEOyrzq9bkcIJkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Personal nehmen sich Zeit für Patienten",
+      "time": 1781156279,
+      "translated": false
+    },
+    {
       "author_name": "Marianne Schneider",
       "author_url": "https://www.google.com/maps/contrib/115846274277526133480/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIV5Ul_xpQb9ihiUlwbYVTWHRo3dfjY8pMiVQycUt4BhtxpDg=s128-c0x00000000-cc-rp-mo",
@@ -40,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtX2x7_ZxXEAim9FYIMjz3V0OvADeNpcn0UYasePfcw6Lu9Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Trotz sehr vielen Patienten war der Termin sehr gut in der Zeit, trotz vielen Patienten hatte Dr. Ugur Zeit für mich und alles bestens erklärt.\nDas Personal wahr sehr hilfsbereit und freundlich.\nVielen Dank.",
+      "time": 1779906749,
+      "translated": false
+    },
+    {
+      "author_name": "Klaus Huselstein",
+      "author_url": "https://www.google.com/maps/contrib/114311852387325245979/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtX2x7_ZxXEAim9FYIMjz3V0OvADeNpcn0UYasePfcw6Lu9Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Trotz sehr vielen Patienten war der Termin sehr gut in der Zeit, trotz vielen Patienten hatte Dr. Ugur Zeit für mich und alles bestens erklärt.\nDas Personal wahr sehr hilfsbereit und freundlich.\nVielen Dank.",
       "time": 1779906749,
       "translated": false
@@ -250,11 +286,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 121,
+  "reviewCount": 123,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-10T08:47:32.059Z"
+  "lastUpdated": "2026-06-13T08:20:03.265Z"
 }

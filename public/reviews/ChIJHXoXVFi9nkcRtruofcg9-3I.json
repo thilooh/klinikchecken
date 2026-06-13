@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin",
+      "author_url": "https://www.google.com/maps/contrib/103421251752396845624/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUXAAMGaLdI6orRLfAXtum2mu_nVGAg68e51KLY2PInJGFTUI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Abteilung für Phlebologie unter Dr. Meinhold ausnahmslos empfehlen. Ich fühlte mich zu jeder Zeit bestens aufgehoben. Vielen Dank nochmal!",
+      "time": 1781265398,
+      "translated": false
+    },
+    {
       "author_name": "Falk Guenther",
       "author_url": "https://www.google.com/maps/contrib/114706659155138029675/reviews",
       "language": "de",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Otmar Metzenrath",
+      "author_url": "https://www.google.com/maps/contrib/109527777337446161553/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTryNPoyULFmy84T_bmGzPVSeqGEK1dDdt7UWH8IA18iJxCA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Pflege und fachliche Kompetenz.",
+      "time": 1780654318,
+      "translated": false
+    },
+    {
       "author_name": "Norbert Sanislo",
       "author_url": "https://www.google.com/maps/contrib/113200091794287658727/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNx3Me1wR7y9LUkqA3iSjTB2o0R1Sy85Wqaohsw5wpm9lubrqA=s128-c0x00000000-cc-rp-mo-ba4",
@@ -50,6 +74,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNx3Me1wR7y9LUkqA3iSjTB2o0R1Sy85Wqaohsw5wpm9lubrqA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1779910234,
+      "translated": false
+    },
+    {
+      "author_name": "Norbert Sanislo",
+      "author_url": "https://www.google.com/maps/contrib/113200091794287658727/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNx3Me1wR7y9LUkqA3iSjTB2o0R1Sy85Wqaohsw5wpm9lubrqA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1779910234,
       "translated": false
@@ -460,11 +494,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 398,
+  "reviewCount": 399,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-10T08:47:22.598Z"
+  "lastUpdated": "2026-06-13T08:19:52.431Z"
 }

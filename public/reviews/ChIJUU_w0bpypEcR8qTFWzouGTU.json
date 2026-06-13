@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Pünktchen",
+      "author_url": "https://www.google.com/maps/contrib/108141967727085362271/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4K1Wm0kpPk4AR2O66MQCqIs3QKq0EFo4wqHkAk5pqoNEI8Qs=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schöne, neue Praxis nach Umzug. Das Personal ist sehr freundlich und kompetent.\nDer Wartebereich ist gemütlich, Wasser und was zu lesen steht den Wartenden frei zur Verfügung.\nDie Wartezeit ist gering!\nFrau Dr. Theus ist eine hervorragende Ärztin, sehr einfühlsam, immer freundlich, nimmt sich Zeit für ihre Patienten und hört zu! Ich fühle mich hier sehr gut aufgehoben, behandelt und mit meinen Sorgen verstanden. 👍❤️",
+      "time": 1781097934,
+      "translated": false
+    },
+    {
       "author_name": "Людмила Кучук",
       "author_url": "https://www.google.com/maps/contrib/115068322152195071440/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPjc00MzbNZGrIgckl-hZ6D_iRTae6jZj4I8kWsJfLdB37Vi2D=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich möchte mich ganz herzlich beim gesamten Team der Klinik in Erfurt Venen OP-Zentrum für die hervorragend durchgeführte Venenoperation bedanken!\nVom ersten Tag an habe ich mich sehr gut aufgehoben gefühlt. Die Ärzte, Krankenschwestern und das gesamte Personal waren freundlich, aufmerksam und sehr professionell. Alles wurde ruhig und verständlich erklärt, wodurch mir die Angst vor der Operation genommen wurde.\nDie Operation verlief ausgezeichnet und war perfekt organisiert. Auch nach dem Eingriff wurde ich fürsorglich betreut und unterstützt.\nEin besonderer Dank gilt dem Arzt für seine hohe Professionalität, seine sorgfältige Arbeit und seine menschliche Art. Jetzt fühle ich mich deutlich besser und bin sehr glücklich über das Ergebnis.\nIch bin sehr froh, dass ich mich für diese Klinik entschieden habe, und kann sie von Herzen weiterempfehlen.\nVielen Dank für Ihre großartige Arbeit, Ihre Fürsorge und Ihre Hilfe!",
+      "time": 1779969541,
+      "translated": false
+    },
+    {
+      "author_name": "Людмила Кучук",
+      "author_url": "https://www.google.com/maps/contrib/115068322152195071440/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPjc00MzbNZGrIgckl-hZ6D_iRTae6jZj4I8kWsJfLdB37Vi2D=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich möchte mich ganz herzlich beim gesamten Team der Klinik in Erfurt Venen OP-Zentrum für die hervorragend durchgeführte Venenoperation bedanken!\nVom ersten Tag an habe ich mich sehr gut aufgehoben gefühlt. Die Ärzte, Krankenschwestern und das gesamte Personal waren freundlich, aufmerksam und sehr professionell. Alles wurde ruhig und verständlich erklärt, wodurch mir die Angst vor der Operation genommen wurde.\nDie Operation verlief ausgezeichnet und war perfekt organisiert. Auch nach dem Eingriff wurde ich fürsorglich betreut und unterstützt.\nEin besonderer Dank gilt dem Arzt für seine hohe Professionalität, seine sorgfältige Arbeit und seine menschliche Art. Jetzt fühle ich mich deutlich besser und bin sehr glücklich über das Ergebnis.\nIch bin sehr froh, dass ich mich für diese Klinik entschieden habe, und kann sie von Herzen weiterempfehlen.\nVielen Dank für Ihre großartige Arbeit, Ihre Fürsorge und Ihre Hilfe!",
       "time": 1779969541,
       "translated": false
@@ -290,11 +314,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 60,
+  "reviewCount": 61,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:29.207Z"
+  "lastUpdated": "2026-06-13T08:19:59.939Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "D R",
+      "author_url": "https://www.google.com/maps/contrib/102311357639586204412/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKltPzh5SkjOEam6Qp4lQn5sfxi18I1IEhOroMLbzhrr5S53w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Tochter macht einen Allergietest.\nWartet Monate auf das Ergebnis.\nTest ergibt KEINE Allergie.\nBekommt Allergie Tabletten verschrieben.\n\nIch rufe an um ein Folgerezept zu holen.\nNenne mein Geburtsdatum und das Medikament, wird kontrolliert.\nKein Problem, einfach vorbeikommen damit die Karte eingelesen werden kann.\n30 min später dort angekommen, parken in Heilbronn läuft ja immer ganz toll und günstig. Gibt kein Rezept weil die letzte Kontrolluntersuchung zu lange her ist.\nMag ja gesetzlich so sein, aber es wäre schön wenn man auch an anderer Leute Zeit und Geld denkt.",
+      "time": 1781254552,
+      "translated": false
+    },
+    {
       "author_name": "L H",
       "author_url": "https://www.google.com/maps/contrib/101728846980923191838/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_S_whLo2QaVzx-uPwIAL60X_TCuzSvie9wBsqpLVLOQPsE0DN_Q=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Trotz eines Ausschlags , der Pusteln bildete und Juckte wurde ich abgelehnt. Sehr unfreundliches Praxispersonal. 👎🏻👎🏻👎🏻",
+      "time": 1780479065,
+      "translated": false
+    },
+    {
+      "author_name": "André Eichholz",
+      "author_url": "https://www.google.com/maps/contrib/118130016160583195889/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_S_whLo2QaVzx-uPwIAL60X_TCuzSvie9wBsqpLVLOQPsE0DN_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Trotz eines Ausschlags , der Pusteln bildete und Juckte wurde ich abgelehnt. Sehr unfreundliches Praxispersonal. 👎🏻👎🏻👎🏻",
       "time": 1780479065,
       "translated": false
@@ -486,11 +510,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 195,
+  "reviewCount": 196,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:43.821Z"
+  "lastUpdated": "2026-06-13T08:20:16.193Z"
 }

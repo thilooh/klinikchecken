@@ -1,6 +1,48 @@
 {
   "reviews": [
     {
+      "author_name": "Leonid Baskin",
+      "author_url": "https://www.google.com/maps/contrib/112090520886535487942/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPRRO0HSOoLRqYqBEmYzAzGY_Stv6gqBBCa-ak6uQEfxrfgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781263906,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver N.",
+      "author_url": "https://www.google.com/maps/contrib/109133673489397978544/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwgQL_rqvW-1j3Cf9PoGCg5cStfDf5WC5kyVhNCGMCq7fWbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781176057,
+      "translated": false
+    },
+    {
+      "author_name": "Rosel Rasheed",
+      "author_url": "https://www.google.com/maps/contrib/100114153867694509467/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOjkImpGd2EXe9ZpgbJ-rN1HXnPpBwTMnOL46png5TKEt0TW6yhQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin begeistert! Die Krankenschwestern sind so nett und freundlich, sie haben mich so gut behandelt, obwohl ich kein Deutsch spreche. Einige von ihnen sprechen Englisch und sie haben ihr Bestes gegeben. Ich werde es nie bereuen, hierher gekommen zu sein.",
+      "time": 1781095649,
+      "translated": true
+    },
+    {
+      "author_name": "fortuna lilian Fortuna",
+      "author_url": "https://www.google.com/maps/contrib/115496393531600972903/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLrz9h-8QcfGcntigN_FNhbeixOXxNBt4kK5as733y736mZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781094292,
+      "translated": false
+    },
+    {
       "author_name": "Michael Seifert",
       "author_url": "https://www.google.com/maps/contrib/105960121943252291108/reviews",
       "language": "de",
@@ -520,11 +562,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 442,
+  "reviewCount": 446,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-10T08:47:17.221Z"
+  "lastUpdated": "2026-06-13T08:19:46.485Z"
 }

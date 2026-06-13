@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Richling",
+      "author_url": "https://www.google.com/maps/contrib/109758092652963986640/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg9vcxPq3KK7Yw4YRI9b-KHImsIYOm5AWlM5cR5DcONoJUiZwn=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781338787,
+      "translated": false
+    },
+    {
       "author_name": "Detlef Blabla",
       "author_url": "https://www.google.com/maps/contrib/115742601073204568819/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQRpW7Qs63B2vqGD53N1SLJTQUWwJibzm5DCT0NuevtvhQUBE=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Das einzig Gute an dieser Praxis war, dass ich ziemlich schnell einen Termin bekam. Bin rein ins Behandlungszimmer und man hat mich abgefertigt wie eine Kuh vor der Schlachten ein paar Dinge abgefragt noch nicht einmal richtig geguckt und trotzdem wusste sie sofort, was Sache war.  Sie war noch nicht einmal mit mir in einem Behandlungszimmer, sondern sprach aus dem Nebenzimmer   Nach anderthalb Minuten so gut wie eine Ferndiagnose  Sehr sehr unprofessionell!!!",
+      "time": 1779976890,
+      "translated": false
+    },
+    {
+      "author_name": "Detlef Blabla",
+      "author_url": "https://www.google.com/maps/contrib/115742601073204568819/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQRpW7Qs63B2vqGD53N1SLJTQUWwJibzm5DCT0NuevtvhQUBE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Das einzig Gute an dieser Praxis war, dass ich ziemlich schnell einen Termin bekam. Bin rein ins Behandlungszimmer und man hat mich abgefertigt wie eine Kuh vor der Schlachten ein paar Dinge abgefragt noch nicht einmal richtig geguckt und trotzdem wusste sie sofort, was Sache war.  Sie war noch nicht einmal mit mir in einem Behandlungszimmer, sondern sprach aus dem Nebenzimmer   Nach anderthalb Minuten so gut wie eine Ferndiagnose  Sehr sehr unprofessionell!!!",
       "time": 1779976890,
       "translated": false
@@ -86,6 +108,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmq9TcbNIkqvkkS1iGbuIC_5NOE7rkUaG9O8nzBByVU-Hsly8=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Der ursprünglich bestätigte Termin zur Abklärung einer auffälligen Hautstelle wurde sehr kurzfristig abgesagt. Anschließend war über Doctolib kein neuer Termin mehr verfügbar. Gerade bei einem potenziell ernsten Anliegen hätte ich mir eine verlässlichere Kommunikation und eine transparentere Lösung gewünscht.",
+      "time": 1779394772,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Pikulski",
+      "author_url": "https://www.google.com/maps/contrib/108619031813173526003/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmq9TcbNIkqvkkS1iGbuIC_5NOE7rkUaG9O8nzBByVU-Hsly8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Der ursprünglich bestätigte Termin zur Abklärung einer auffälligen Hautstelle wurde sehr kurzfristig abgesagt. Anschließend war über Doctolib kein neuer Termin mehr verfügbar. Gerade bei einem potenziell ernsten Anliegen hätte ich mir eine verlässlichere Kommunikation und eine transparentere Lösung gewünscht.",
       "time": 1779394772,
       "translated": false
@@ -116,6 +150,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeeI9vvZ356N7bXwwqUkDDzuLcKTpR6ijpYrsnCd5AdSsBhA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1779285206,
+      "translated": false
+    },
+    {
+      "author_name": "Zeny Alexandra",
+      "author_url": "https://www.google.com/maps/contrib/105842292304066049012/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeeI9vvZ356N7bXwwqUkDDzuLcKTpR6ijpYrsnCd5AdSsBhA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1779285206,
       "translated": false
@@ -466,11 +510,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 187,
+  "reviewCount": 188,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:42.558Z"
+  "lastUpdated": "2026-06-13T08:20:14.974Z"
 }

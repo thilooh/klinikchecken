@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Cristiana Raposo",
+      "author_url": "https://www.google.com/maps/contrib/103906896758323845399/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIocagxviTa5TxYtIbvGSJZ37ZGK1FDBbhY_HX_2VAMgCfb_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider nicht zu empfehlen. Ich kam mit Beinschmerzen und einer Überweisung wegen Verdacht auf Lipödem. Die Überweisung wurde nicht angesehen, und die Untersuchung dauerte keine drei Minuten. Ich fühlte mich nicht ernst genommen bzw. auch nicht genug untersucht um irgendwas festzustellen zu können.\nAnsonsten war das Personal und der Facharzt trotzdem sehr freundlich",
+      "time": 1781190226,
+      "translated": false
+    },
+    {
       "author_name": "Lilly Tiger",
       "author_url": "https://www.google.com/maps/contrib/112314818285727352001/reviews",
       "language": "de",
@@ -298,5 +310,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:33.578Z"
+  "lastUpdated": "2026-06-13T08:20:04.960Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rafael",
+      "author_url": "https://www.google.com/maps/contrib/107800766858314662051/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRr_1dxhKSZk1hW06K709SA46jC8KChGJfkZcndtzp7IUd=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe die Praxis im vergangenen Herbst als Sozialarbeiter gemeinsam mit einem Klienten besucht. Leider habe ich den Umgangston der behandelnden Ärztin als unfreundlich und wenig respektvoll erlebt. Besonders negativ in Erinnerung geblieben ist mir eine Äußerung über meinen Beruf als Sozialarbeiter, die ich als abwertend und herabsetzend empfunden habe. Auch die spätere Einschätzung in den behandelnden Krankenhäusern wich deutlich von der Empfehlung der Ärztin ab. Insgesamt war dies für mich besonders menschlich aber auch fachlich eine sehr enttäuschende Erfahrung.",
+      "time": 1781248504,
+      "translated": false
+    },
+    {
       "author_name": "Christian",
       "author_url": "https://www.google.com/maps/contrib/117843313956343464934/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsdjRTDl0PH78XXnw0XnbjD2okTofT8-21W_aizQbqW6hHLw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war letztes Jahr dort zum Erstgespräch weil ich unglaubliche Schmerzen in den Beinen, Schwellungen etc. hatte.\nDie Ärztin war extrem unfreundlich und sagte mir das würde am Stress liegen und ich solle meine Ernährung umstellen (ich bin Sportlerin, achte demnach schon von klein auf sehr auf eine gesunde, ausgewogene Ernährung). Ich stand in Tränen aufgelöst vor ihr und sagte ich bin sicher, dass es Lipödem sein muss, woraufhin ich belächelt wurde und mir gesagt wurde dafür sei ich zu dünn, das könne nicht sein.\nVor einer Woche habe ich mich nochmal getraut einen anderen Arzt deshalb aufzusuchen, da die Schmerzen zunehmend gerade im Sommer schlimmer werden, woraufhin ich zweifellos mit Lipödem diagnostiziert wurde.\nDiese Praxis ist ein No Go. Man wird belächelt und nicht ernst genommen, da die Ärztin einem nicht helfen will (oder durch fehlendes Fachwissen einfach nicht kann). Wenn ich könnte würde ich 0 Sterne geben.",
+      "time": 1780059334,
+      "translated": false
+    },
+    {
+      "author_name": "Katharina Bücking",
+      "author_url": "https://www.google.com/maps/contrib/111418418699726789557/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsdjRTDl0PH78XXnw0XnbjD2okTofT8-21W_aizQbqW6hHLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war letztes Jahr dort zum Erstgespräch weil ich unglaubliche Schmerzen in den Beinen, Schwellungen etc. hatte.\nDie Ärztin war extrem unfreundlich und sagte mir das würde am Stress liegen und ich solle meine Ernährung umstellen (ich bin Sportlerin, achte demnach schon von klein auf sehr auf eine gesunde, ausgewogene Ernährung). Ich stand in Tränen aufgelöst vor ihr und sagte ich bin sicher, dass es Lipödem sein muss, woraufhin ich belächelt wurde und mir gesagt wurde dafür sei ich zu dünn, das könne nicht sein.\nVor einer Woche habe ich mich nochmal getraut einen anderen Arzt deshalb aufzusuchen, da die Schmerzen zunehmend gerade im Sommer schlimmer werden, woraufhin ich zweifellos mit Lipödem diagnostiziert wurde.\nDiese Praxis ist ein No Go. Man wird belächelt und nicht ernst genommen, da die Ärztin einem nicht helfen will (oder durch fehlendes Fachwissen einfach nicht kann). Wenn ich könnte würde ich 0 Sterne geben.",
       "time": 1780059334,
       "translated": false
@@ -124,6 +148,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzhZafX0gajJXyRPWvhDdtGi0-GRNC1TjVU6DPD7oC-k9EBg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1778611289,
+      "translated": false
+    },
+    {
+      "author_name": "janet bekir",
+      "author_url": "https://www.google.com/maps/contrib/107314145121980541630/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzhZafX0gajJXyRPWvhDdtGi0-GRNC1TjVU6DPD7oC-k9EBg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1778611289,
       "translated": false
@@ -465,12 +499,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 66,
+  "rating": 4.4,
+  "reviewCount": 67,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-10T08:47:40.163Z"
+  "lastUpdated": "2026-06-13T08:20:12.335Z"
 }

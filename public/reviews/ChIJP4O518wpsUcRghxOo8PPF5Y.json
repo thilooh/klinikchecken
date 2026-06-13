@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine",
+      "author_url": "https://www.google.com/maps/contrib/103921328335674099393/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGayDUQM76oJi_UUblZsLlOGjGBwjXi779Mo7psiRJrdYL8Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Dame am Telefon, Frau W., habe ich als sehr unprofessionell empfunden. Es wurde viel gekichert, die Dame machte am laufenden Band ( dumme) Scherzchen. 😱Ich habe jetzt einen Termin in Oldenburg. Das war eine ganz andere Liga......\nEhrlich gesagt, habe ich das hier nicht erwartet!\n2022 war ich mit meinem Vater mehrmals hier. Hier gab ea wohl einen Facharzt-/ Führungswechsel und mit den Damen an der Rezeption hatten wir 2022 keinerlei Probleme.",
+      "time": 1781203368,
+      "translated": false
+    },
+    {
       "author_name": "Sylvia",
       "author_url": "https://www.google.com/maps/contrib/110040419150172118542/reviews",
       "language": "de",
@@ -338,11 +350,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 189,
+  "reviewCount": 190,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:14.994Z"
+  "lastUpdated": "2026-06-13T08:19:44.043Z"
 }

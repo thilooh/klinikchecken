@@ -55,6 +55,16 @@
       "translated": false
     },
     {
+      "author_name": "Loui p",
+      "author_url": "https://www.google.com/maps/contrib/109096128717052566517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3PNMAOjfBYTFeLgowqGKbG8PK0V4UBY95XYMBJeXN59aUGpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1779906034,
+      "translated": false
+    },
+    {
       "author_name": "Nuroj",
       "author_url": "https://www.google.com/maps/contrib/104010381742849366733/reviews",
       "language": "de",
@@ -122,6 +132,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfpDOOrNxKKmsBm_X4xSRxIZUxGo_JwNRqkmu3X9bXeuEx9g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war heute morgen dort um mir von Dr Pantlen die Oberlider straffen zu lassen.\nHabe es mir insgesamt viel unangenehmer vorgestellt da ist nur eine örtliche Betäubung war aber die OP verlief sehr gut und war recht kurzweilig.\nSowohl die Ärzte als auch das Personal waren sehr freundlich und fürsorglich.\nKann ich nur weiterempfehlen. Top",
+      "time": 1779276077,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine Schnee",
+      "author_url": "https://www.google.com/maps/contrib/111055384100008260168/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfpDOOrNxKKmsBm_X4xSRxIZUxGo_JwNRqkmu3X9bXeuEx9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war heute morgen dort um mir von Dr Pantlen die Oberlider straffen zu lassen.\nHabe es mir insgesamt viel unangenehmer vorgestellt da ist nur eine örtliche Betäubung war aber die OP verlief sehr gut und war recht kurzweilig.\nSowohl die Ärzte als auch das Personal waren sehr freundlich und fürsorglich.\nKann ich nur weiterempfehlen. Top",
       "time": 1779276077,
       "translated": false
@@ -170,6 +192,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtW4yh3JhDDnk0WefWshkvIlnJrXI4LBRJnIvZKH-1-Xm8GMx9=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Hatte gerade meinen Eingriff gehabt. Vielen lieben Dank an das Praxisteam für den herzlichen Empfang und an das Ärzteteam das mir meine Ängste genommen hat. Im Aufwachraum habe ich danach einen Kaffee bekommen.",
+      "time": 1778490518,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Heinrich",
+      "author_url": "https://www.google.com/maps/contrib/111326018998552563536/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtW4yh3JhDDnk0WefWshkvIlnJrXI4LBRJnIvZKH-1-Xm8GMx9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Hatte gerade meinen Eingriff gehabt. Vielen lieben Dank an das Praxisteam für den herzlichen Empfang und an das Ärzteteam das mir meine Ängste genommen hat. Im Aufwachraum habe ich danach einen Kaffee bekommen.",
       "time": 1778490518,
       "translated": false
@@ -430,5 +464,5 @@
   "rating": 4.8,
   "reviewCount": 140,
   "summary": [],
-  "lastUpdated": "2026-06-10T08:47:09.165Z"
+  "lastUpdated": "2026-06-13T08:19:37.792Z"
 }

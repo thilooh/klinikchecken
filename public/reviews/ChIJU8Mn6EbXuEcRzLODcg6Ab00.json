@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Beata Siwa",
+      "author_url": "https://www.google.com/maps/contrib/111546589953975105081/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEC3sT7yJUQqgFe1jVPU8rTvF42krMW_YdHTI7B7LQkhPV1ys=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781333579,
+      "translated": false
+    },
+    {
       "author_name": "Marwa Mar0",
       "author_url": "https://www.google.com/maps/contrib/104993742489787765180/reviews",
       "language": "de",
@@ -80,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyaT0T81c7bZZ2x_ze3r_FPhVFe5hcH2qingqBdc9-bNnijw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Nicht die beste…",
+      "time": 1780124933,
+      "translated": false
+    },
+    {
+      "author_name": "Rom Nai",
+      "author_url": "https://www.google.com/maps/contrib/102536269015163557617/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyaT0T81c7bZZ2x_ze3r_FPhVFe5hcH2qingqBdc9-bNnijw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Nicht die beste…",
       "time": 1780124933,
       "translated": false
@@ -448,11 +470,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 426,
+  "reviewCount": 427,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:20.623Z"
+  "lastUpdated": "2026-06-13T08:19:50.262Z"
 }

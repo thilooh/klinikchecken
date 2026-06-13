@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Clark Kent",
+      "author_url": "https://www.google.com/maps/contrib/116897286141445079309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyGvaHju01m5e--biEywefWU162lp6px-H3ehcHQMxBPg4PnxuKg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundliches Personal und toller Arzt. Dr. Nasif nimmt sich Zeit und erklärt alles genau. Er nimmt sich Zeit für Fragen und schaut immer das es dem Patienten gut geht.",
+      "time": 1781252255,
+      "translated": false
+    },
+    {
+      "author_name": "Abdellah Nalbou",
+      "author_url": "https://www.google.com/maps/contrib/102074330384472456265/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO6cjRxkI4WTKyAUJ8rwHmf4YrsT8I9S6UUQOinPuz3bob3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Respektabel und arbeitet fleißig.",
+      "time": 1781081038,
+      "translated": true
+    },
+    {
       "author_name": "Frank Sichelschmidt",
       "author_url": "https://www.google.com/maps/contrib/106370659891317200578/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTS_davNYjHn1RQ-3qUMVlkbiHqHo3nybJcbY_MnPHyKgI-M8=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war zum Hijama/Schröpfen dort und bin echt zufrieden. Alles lief entspannt ab, man wurde freundlich empfangen und die Behandlung ging schnell und sauber. Habe mich gut aufgehoben gefühlt und kann es auf jeden Fall weiterempfehlen",
+      "time": 1779994499,
+      "translated": false
+    },
+    {
+      "author_name": "Dawud Rashid",
+      "author_url": "https://www.google.com/maps/contrib/116407207139953715108/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTS_davNYjHn1RQ-3qUMVlkbiHqHo3nybJcbY_MnPHyKgI-M8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war zum Hijama/Schröpfen dort und bin echt zufrieden. Alles lief entspannt ab, man wurde freundlich empfangen und die Behandlung ging schnell und sauber. Habe mich gut aufgehoben gefühlt und kann es auf jeden Fall weiterempfehlen",
       "time": 1779994499,
       "translated": false
@@ -458,11 +494,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 173,
+  "reviewCount": 174,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:21.075Z"
+  "lastUpdated": "2026-06-13T08:19:50.732Z"
 }

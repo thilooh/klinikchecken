@@ -47,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Tim Gerhardt",
+      "author_url": "https://www.google.com/maps/contrib/104765990987173905174/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0cEm1NuAEj3QhXX4WTkNm7SbPPDC0Wx_kEsb5PxhWw_EoYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Schnelle und kompetente Terminvereinbarung durch Frau Schmidt. Vor Ort auch sehr nettes Personal und professionelle Beratung durch den behandelnden Arzt.",
+      "time": 1780647861,
+      "translated": false
+    },
+    {
       "author_name": "Oliver Hofmann",
       "author_url": "https://www.google.com/maps/contrib/107402500764526029281/reviews",
       "language": "de",
@@ -54,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4uLtHhLH0jlLV0ZBy62BIOEhvAuIzuKcySjNO8ECYUe3jytcZ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetentes Team .\nNur schlecht das man telefonisch nie durchkommt",
+      "time": 1780553724,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Hofmann",
+      "author_url": "https://www.google.com/maps/contrib/107402500764526029281/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4uLtHhLH0jlLV0ZBy62BIOEhvAuIzuKcySjNO8ECYUe3jytcZ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr kompetentes Team .\nNur schlecht das man telefonisch nie durchkommt",
       "time": 1780553724,
       "translated": false
@@ -576,5 +600,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:30.975Z"
+  "lastUpdated": "2026-06-13T08:20:01.943Z"
 }

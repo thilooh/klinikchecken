@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Frau Bettina",
+      "author_url": "https://www.google.com/maps/contrib/105706260690610139682/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNub-84T794wi30TC6u1DArmqkMF3z84b3R8-In8u0lJTFkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mit einem Kind trotz Termin über eine Stunde warten zu müssen, um überhaupt in den Wartebereich vor dem Sprechzimmer zu kommen ist kein empfehlenswerter Zustand. Man muss die Termine 4 oder 6 Monate im Voraus machen und dann sind die Abläufen so schlecht geplant, dass man länger wartet als bei anderen Ärzten ohne Termin. Gerade bei einem Termin für ein Kind eine völlige Fehlplanung...",
+      "time": 1781271253,
+      "translated": false
+    },
+    {
+      "author_name": "Nick Schöffler",
+      "author_url": "https://www.google.com/maps/contrib/107372554107545025561/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUJCl3vVBcxSbntSVuf6a3nSp0GdPfPCX3c8s8FWesevVtWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut nicht zu empfehlen. Ich habe einen Termin vor 3 Monaten ausgemacht, ein paar Tage vorher wurde dieser dann grundlos per Mail abgesagt. Ich bat dann um Verschiebung kurzfristig aufgrund der ohnehin schon langen Wartezeit von 3 Monaten, daraufhin wurde mir gesagt das es kurzfristig keine Termine frei sind und ich wieder über 3 Monate auf einen neuen Termin warten soll. Absolut unverschämt...",
+      "time": 1781257433,
+      "translated": false
+    },
+    {
+      "author_name": "Susi Flege",
+      "author_url": "https://www.google.com/maps/contrib/108651712331549417586/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK653GZZtkfMo-oBiuxp16ba-CLlAnNRsM4s5rHU_3sTOJc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sorry, aber teilweise sind die Wartezeiten echt unterirrdisch. Fast 2 Std. für eine Minute Befundbesprechung.",
+      "time": 1781202845,
+      "translated": false
+    },
+    {
+      "author_name": "Rahmattullah Safdrie",
+      "author_url": "https://www.google.com/maps/contrib/118014975221623829216/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJRAHPp-GL8s3dhTd3k3sN1HH8WOpTYqwAPHlge3pBUYo3JBw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich komme gerne hierhin",
+      "time": 1781165661,
+      "translated": false
+    },
+    {
       "author_name": "Nina Müller",
       "author_url": "https://www.google.com/maps/contrib/104295835345975251952/reviews",
       "language": "de",
@@ -511,8 +559,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 293,
+  "rating": 4.5,
+  "reviewCount": 297,
   "summary": [],
-  "lastUpdated": "2026-06-10T08:47:08.571Z"
+  "lastUpdated": "2026-06-13T08:19:37.142Z"
 }

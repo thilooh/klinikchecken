@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Fick Frosch",
+      "author_url": "https://www.google.com/maps/contrib/104475407220581533921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmd4XFTaO20RFHL8_XJUUBDh1FJQ3d8ubdVqtOKmxmUJckrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781276356,
+      "translated": false
+    },
+    {
       "author_name": "Jana Döcker",
       "author_url": "https://www.google.com/maps/contrib/110197464503938017006/reviews",
       "language": "de",
@@ -49,6 +59,18 @@
       "translated": false
     },
     {
+      "author_name": "Ida Dewald",
+      "author_url": "https://www.google.com/maps/contrib/111100877509847568113/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI27jyW7WpEeWyiFWqFAWpaodrGwNb8-aQx3V4rr4kLIKt48Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich hatte erneut einen Termin in der Praxis und bin immer wieder begeistert, wie organisiert alles ist. Herr Dr. Schönleber hat mir alles ausführlich erklärt und mich dann operiert. Insgesamt eine freundliche und kompetente Betreuung.",
+      "time": 1779268036,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Hofer",
       "author_url": "https://www.google.com/maps/contrib/114538660282834510527/reviews",
       "language": "de",
@@ -132,6 +154,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIulaqnZamHNFkzHE__t7ajUNiPkL0WnLQpzQC4MQDHQwuf8A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778778990,
+      "translated": false
+    },
+    {
+      "author_name": "Ion Cirja",
+      "author_url": "https://www.google.com/maps/contrib/103574372221713182978/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIulaqnZamHNFkzHE__t7ajUNiPkL0WnLQpzQC4MQDHQwuf8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1778778990,
       "translated": false
@@ -425,12 +457,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 103,
+  "rating": 4.8,
+  "reviewCount": 104,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:46.216Z"
+  "lastUpdated": "2026-06-13T08:20:18.849Z"
 }

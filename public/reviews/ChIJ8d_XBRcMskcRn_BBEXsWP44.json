@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nils Radloff",
+      "author_url": "https://www.google.com/maps/contrib/100129090484099646895/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY2XxglHazHJZD3nO7FI2-PXY20w99B_pmu8fBzdEW6fcCUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Katastrophe unprofessionell 0,0 Dienstleister würde gar keinen Stern vergeben",
+      "time": 1781254621,
+      "translated": false
+    },
+    {
       "author_name": "Bianca Arndt",
       "author_url": "https://www.google.com/maps/contrib/108765248164246448541/reviews",
       "language": "de",
@@ -334,11 +346,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 136,
+  "reviewCount": 137,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:18.128Z"
+  "lastUpdated": "2026-06-13T08:19:47.491Z"
 }

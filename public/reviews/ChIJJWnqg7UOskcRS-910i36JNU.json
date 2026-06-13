@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Gerhard Soujon",
+      "author_url": "https://www.google.com/maps/contrib/102917310275651528117/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiEFzBZ6EUr4pnbCgb93_uHrpn-0DeWdrrR13HeRq6riplMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Besorgt über eine Hautveränderung habe ich online einen Termin in der \"Ein Fleck- Sprechstunde\" in dieser Praxis gebucht.\nUmgehend erhielt ich\n(als Kassenpatient) bereits für den nächsten Tag einen Termin bei Fr. Dr. Mrowka.\nSie trat mir sehr freundlich  gegenüber und gab nach der Untersuchung \"Entwarnung\".\nNach wenigen Minuten konnte beruhigt nach Hause gehen.\nIch empfehle diese Praxis uneingeschränkt, sowohl hinsichtlich der perfekten Terminvergabe, der modernen Praxisräume, des gesamten freundlichen Personals, als auch dieser kompetenten und empathischen Ärztin.\nVielen Dank!",
+      "time": 1781263536,
+      "translated": false
+    },
+    {
+      "author_name": "I. Pellegini",
+      "author_url": "https://www.google.com/maps/contrib/117523023949432601516/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSqU2naeqdF2HtzItzYGJ701ZrX2FhRDWKPjRzWzO8goEu7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine wirklich sehr tolle Praxis, fühle mich dort sehr gut aufgehoben.\nDie Ärzte sind sehr freundlich und kompetent!Dafür nehme ich auch gerne einen weiteren Fahrtweg in Kauf.",
+      "time": 1781206665,
+      "translated": false
+    },
+    {
+      "author_name": "Ilse Wassermann",
+      "author_url": "https://www.google.com/maps/contrib/105183336610024055586/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9IGzbW8cxhILHhlrVzVGWYeW2RVuYXqJEbCpyJgK8y4MdAPpk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wohne nicht in Lübeck, habe aber eine Einfleckuntersuchung bei Prof.Dr. Krengel wahrgenommen.\nIch habe mich über die Damen an der Rezeption gefreut, die sehr emphatisch auf mehrere unruhige Patientinnen reagierten.\nDie Untersuchung beim  Arzt war neben der unbestrittenen Fachkompetenz durch seine ruhige, freundliche Art geprägt, die mir sehr gut gefallen hat.\n\nI.Wassermann",
+      "time": 1781203789,
+      "translated": false
+    },
+    {
+      "author_name": "Sylvi Brechlin",
+      "author_url": "https://www.google.com/maps/contrib/109088669950099497778/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSyYqh7AtCZYSbU_jjIIYCEUg8Nyc0ast-JbNcZEjlXFWwKadI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin richtig begeistert. Ich war kaum im Wartezimmer angekommen wurde ich schon zum Professor reingerufen. Was eine nette Betreuung vom Anfang bis zum Ende. Innerhalb von 45 Minuten war ich mit meinem Termin fertig und fühlte mich kompetent betreut. Toll ⭐️⭐️⭐️⭐️⭐️",
+      "time": 1781199775,
+      "translated": false
+    },
+    {
+      "author_name": "Annelie Dierk",
+      "author_url": "https://www.google.com/maps/contrib/106983402461673648494/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJn6UdrZ7lnJYhqL6DDaAqIHKG8B_ACMK6WsiyUTgMqHeSHcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781179859,
+      "translated": false
+    },
+    {
       "author_name": "Monika M",
       "author_url": "https://www.google.com/maps/contrib/105093808986731202748/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOFt3X1dFEaXoFCeIj58HMwYJLIx3B2G5SVDcaVqUZ47ayJfHb=s128-c0x00000000-cc-rp-mo",
@@ -576,11 +634,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2280,
+  "reviewCount": 2287,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-10T08:47:17.903Z"
+  "lastUpdated": "2026-06-13T08:19:47.252Z"
 }

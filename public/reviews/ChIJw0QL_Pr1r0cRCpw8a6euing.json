@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Christine BaZi",
+      "author_url": "https://www.google.com/maps/contrib/102293340405209373545/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSRVtPuWzrijrG-jWaN5SDYK4s5-xTVsGfaRrqBltqEvfQyKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781087880,
+      "translated": false
+    },
+    {
       "author_name": "Birgit Dutko",
       "author_url": "https://www.google.com/maps/contrib/111996911608118143741/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcW_phezdjj78a3dvJQ9YnuQzaIKTgNy2NHOoR7DfNtAj5ow=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Es handelt sich hier um ein einladendes, wunderschönes Ambiente. Wir gehen hier gerne Essen und genießen auch den parkähnlichen Garten.\nMIit den Ärzten, beispielsweise Hautarzt sind wir sehr zufrieden und würden wir weiter empfehlen.",
+      "time": 1779942979,
+      "translated": false
+    },
+    {
+      "author_name": "Birgit Dutko",
+      "author_url": "https://www.google.com/maps/contrib/111996911608118143741/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcW_phezdjj78a3dvJQ9YnuQzaIKTgNy2NHOoR7DfNtAj5ow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Es handelt sich hier um ein einladendes, wunderschönes Ambiente. Wir gehen hier gerne Essen und genießen auch den parkähnlichen Garten.\nMIit den Ärzten, beispielsweise Hautarzt sind wir sehr zufrieden und würden wir weiter empfehlen.",
       "time": 1779942979,
       "translated": false
@@ -92,6 +114,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9dGqkHOrpMydvL2l4cFebP-otuKFUsIWzlPl3yL65ZOQqXw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr schöne gepflegte Klinik,innen wie außen. Ich war in einem 2-Bettzimmer untergebracht.  Hat man aus dem Fenster geschaut,  sieht man eine gepflegte Parkanlage mit Springbrunnen.. Das Essen wird hier selber gekocht  und zubereitet.  Total lecker. Zimmer sauber.  Pflegepersonal sehr freundlich und hilfsbereit.\nDr.Al-Mekhlaif hat mich am21.5.26 an der HWS operiert. Nun bin ich gespannt auf den Heilungsprozess.  Bisher ersteinma",
+      "time": 1779479311,
+      "translated": false
+    },
+    {
+      "author_name": "Annette Lipschinski",
+      "author_url": "https://www.google.com/maps/contrib/111007270498499549674/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9dGqkHOrpMydvL2l4cFebP-otuKFUsIWzlPl3yL65ZOQqXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr schöne gepflegte Klinik,innen wie außen. Ich war in einem 2-Bettzimmer untergebracht.  Hat man aus dem Fenster geschaut,  sieht man eine gepflegte Parkanlage mit Springbrunnen.. Das Essen wird hier selber gekocht  und zubereitet.  Total lecker. Zimmer sauber.  Pflegepersonal sehr freundlich und hilfsbereit.\nDr.Al-Mekhlaif hat mich am21.5.26 an der HWS operiert. Nun bin ich gespannt auf den Heilungsprozess.  Bisher ersteinma",
       "time": 1779479311,
       "translated": false
@@ -388,11 +422,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 147,
+  "reviewCount": 148,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-10T08:47:16.774Z"
+  "lastUpdated": "2026-06-13T08:19:45.999Z"
 }

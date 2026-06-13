@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Christiane Ullmann",
+      "author_url": "https://www.google.com/maps/contrib/116538575276230960470/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1i6TBApbaeSHj6MAdjwuyxlqnehQbDtMuXx0qIGALh-72rA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von der 1. Untersuchung zur Krampfader OP bis zur Nachuntersuchung eine sehr zu empfehlende Praxis. Die Damen am Empfang sind sehr freundlich, Frau Dr. Gassen erklärt alles ausführlich und berät über alle Möglichkeiten. Ich habe mich sehr gut betreut gefühlt!",
+      "time": 1781253006,
+      "translated": false
+    },
+    {
+      "author_name": "Lisa-Sophie Rabij",
+      "author_url": "https://www.google.com/maps/contrib/103036665956783077208/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmSL8OLBphW98Mjt4f2nxWu84lbXQrc3JWRBYfSx7vNoyojw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute in der Praxis und wurde bereits am Empfang sehr freundlich empfangen. Das gesamte Team ist ausgesprochen nett, sodass ich mich von Anfang an wohlgefühlt habe. Auch die Ärztin hat sich viel Zeit genommen und mir meine Angst sehr schnell genommen. Insgesamt bin ich wirklich begeistert von der Praxis und kann sie nur weiterempfehlen.",
+      "time": 1781110174,
+      "translated": false
+    },
+    {
       "author_name": "Michaela Rogge",
       "author_url": "https://www.google.com/maps/contrib/103380961979230085876/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhd9JMsNBUOyog4q988A2-0HVXgYGlw56kChr8Au8Gap2GZpmEew=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Moderne Praxis.\nLeider lange Wartezeiten, obwohl mit Termin.",
+      "time": 1779292150,
+      "translated": false
+    },
+    {
+      "author_name": "Michaela Rogge",
+      "author_url": "https://www.google.com/maps/contrib/103380961979230085876/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhd9JMsNBUOyog4q988A2-0HVXgYGlw56kChr8Au8Gap2GZpmEew=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Moderne Praxis.\nLeider lange Wartezeiten, obwohl mit Termin.",
       "time": 1779292150,
       "translated": false
@@ -452,11 +488,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 222,
+  "reviewCount": 224,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-10T08:47:39.493Z"
+  "lastUpdated": "2026-06-13T08:20:11.615Z"
 }

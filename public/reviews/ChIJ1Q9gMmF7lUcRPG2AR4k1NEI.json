@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "AnFi",
+      "author_url": "https://www.google.com/maps/contrib/109951440294874908852/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv6VtX4DKF9pHD3EVRepwfEudIZC5wcTkbXzy5vid3s07wUCg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Jochem ist ein sehr netter und kompetenter Arzt, der sich viel Zeit nimmt.\nDie Praxis ist sehr gut organisiert, sodass es kaum Wartezeit gibt.\nAuch die Mitarbeiter sind sehr nett.\nFür den Ruhestand wünsche ich Dr. Jochem alles Gute!\nHerzliche Grüße!",
+      "time": 1781112275,
+      "translated": false
+    },
+    {
       "author_name": "Manfred Leiendecker",
       "author_url": "https://www.google.com/maps/contrib/114045800313058629351/reviews",
       "language": "de",
@@ -226,11 +238,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 26,
+  "reviewCount": 27,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:48.379Z"
+  "lastUpdated": "2026-06-13T08:20:21.213Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Rina B",
+      "author_url": "https://www.google.com/maps/contrib/101879905251656984644/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg5r--kSy1AYebDHkiDPwkd9Xclu7Gj7H2ENM685eKSub94AQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war schon in der Praxis und hatte Termine gemacht, und ich habe 3-6x Absagen bekommen, weswegen ich die Praxis wechseln  werde. Ich fühle mich dort nicht mehr richtig aufgehoben.",
+      "time": 1781281696,
+      "translated": false
+    },
+    {
+      "author_name": "Marina M.",
+      "author_url": "https://www.google.com/maps/contrib/114836928552102664065/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLKerCQ_a-pR9Gfn48elPdSf5Nqp_n_sn9MMtoTBp3Z_k0BA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super tolles Team .. vielen Dank ..\nSchnelle Abwicklung\n\nFühlen uns sehr gut aufgehoben",
+      "time": 1781171219,
+      "translated": false
+    },
+    {
+      "author_name": "Dar Mars",
+      "author_url": "https://www.google.com/maps/contrib/107230158384898921878/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXANDEY3iW6oJY0L8aQVatJ35xLKqRa9fSGdufJeN0UwNyfxLnK=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bisher eigentlich gerne Patient in dieser Praxis, weshalb mich diese Erfahrung besonders enttäuscht hat.\n\nMein Termin war um 9:35 Uhr. Ich war um 9:38 Uhr vor Ort. Aufgrund einer Warteschlange an der Anmeldung wurde ich erst um 9:42 Uhr an der Rezeption aufgenommen. Dort wurde mir zunächst gesagt, dass es wegen meiner Verspätung sein könne, dass der Arzt mich nicht mehr annimmt. Nach weiterer Wartezeit wurde mir schließlich mitgeteilt, dass ich nicht behandelt werde und einen neuen Termin vereinbaren müsse.\n\nMir wurde erklärt, dass man in der Praxis am besten 15 bis 30 Minuten früher erscheinen solle. Wenn das tatsächlich Voraussetzung für die Wahrnehmung eines Termins ist, dann sollte dies klar und unmissverständlich bereits bei der Terminbuchung und in jeder Terminbestätigung kommuniziert werden.\n\nAlternativ sollte die Terminplanung so gestaltet sein, dass Patienten, die nur wenige Minuten nach der angegebenen Uhrzeit eintreffen, nicht direkt wieder nach Hause geschickt werden. Wer einen Termin um 9:35 Uhr erhält, darf erwarten, dass dieser Termin auch um 9:35 Uhr beginnt oder zumindest eine angemessene Toleranz besteht. Es erscheint mir unverhältnismäßig, einen Patienten wegen einer Verspätung von wenigen Minuten abzuweisen, insbesondere wenn vor Ort zunächst ohnehin noch Wartezeit an der Anmeldung entsteht.\n\nBesonders ärgerlich war für mich, dass ich den Termin kurzfristig erhalten hatte, dafür andere Pläne umorganisiert habe und extra angereist bin. Am Ende habe ich viel Zeit verloren, ohne überhaupt behandelt zu werden.\n\nMehr Transparenz bei den Erwartungen a die Ankunftszeit und eine realistischere Terminplanung würden solche Situationen vermeiden.",
+      "time": 1781166991,
+      "translated": false
+    },
+    {
       "author_name": "Sandra Elias",
       "author_url": "https://www.google.com/maps/contrib/112199825950586270219/reviews",
       "language": "de",
@@ -510,11 +546,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 365,
+  "reviewCount": 368,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-10T08:47:34.707Z"
+  "lastUpdated": "2026-06-13T08:20:06.212Z"
 }
