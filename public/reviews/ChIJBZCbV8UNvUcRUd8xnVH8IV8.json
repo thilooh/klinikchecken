@@ -101,6 +101,18 @@
       "translated": false
     },
     {
+      "author_name": "Kübra Pjetrović",
+      "author_url": "https://www.google.com/maps/contrib/102047589099208288323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIPn-45PcG9GVipPhZoK1si2hfMoFZYk8vTcEd72nOTWAZuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr freundliche Beratung. Motiviert und kompetent.",
+      "time": 1778751805,
+      "translated": false
+    },
+    {
       "author_name": "Gioia",
       "author_url": "https://www.google.com/maps/contrib/106559944321527807658/reviews",
       "language": "de",
@@ -271,6 +283,16 @@
       "translated": false
     },
     {
+      "author_name": "Zlatko Li",
+      "author_url": "https://www.google.com/maps/contrib/111481409782348655026/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzkpw8gY4j3D0G1dBbS2Ja7HNFGiYJODntTB9ddYhMiL_V2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1776365007,
+      "translated": false
+    },
+    {
       "author_name": "Sheyda Angourani",
       "author_url": "https://www.google.com/maps/contrib/112156483299695562864/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILgg43xWVs0sk7VdwDxJCSgMhUSKOxC3q92jQdJd1qPSvRQw=s128-c0x00000000-cc-rp-mo",
@@ -376,5 +398,5 @@
   "rating": 4.9,
   "reviewCount": 100,
   "summary": [],
-  "lastUpdated": "2026-06-13T08:19:36.419Z"
+  "lastUpdated": "2026-06-16T10:05:06.487Z"
 }

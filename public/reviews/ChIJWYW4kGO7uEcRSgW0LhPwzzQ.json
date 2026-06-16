@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Herr Moerenkarl",
+      "author_url": "https://www.google.com/maps/contrib/111764369623989792351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYg2b_Sx6OC_47MjCo5nIqJTIXtfVzwOfCEoCVPB2siTR0VhF_qw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr gute Strukturen\nGute Ärztin Dr. Kern",
+      "time": 1780251901,
+      "translated": false
+    },
+    {
       "author_name": "Weronika Trawnik",
       "author_url": "https://www.google.com/maps/contrib/113145709628788042642/reviews",
       "language": "de",
@@ -162,6 +174,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBw9iDnhWY23yZyNasayHZOqpZ2DKNRFr4OcY_vl3NFZgAOQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1779100623,
+      "translated": false
+    },
+    {
+      "author_name": "Beate Hübner",
+      "author_url": "https://www.google.com/maps/contrib/100612484710573097494/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBw9iDnhWY23yZyNasayHZOqpZ2DKNRFr4OcY_vl3NFZgAOQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1779100623,
       "translated": false
@@ -372,5 +394,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-13T08:20:06.449Z"
+  "lastUpdated": "2026-06-16T10:05:35.652Z"
 }

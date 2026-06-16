@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ilse Binapfl",
+      "author_url": "https://www.google.com/maps/contrib/104977239456894073914/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX09tbPq96Fav0kzib3gseY3au3izcLCLqgGiiGWzoyWB_o2xfNMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781578338,
+      "translated": false
+    },
+    {
+      "author_name": "Renate Lenz",
+      "author_url": "https://www.google.com/maps/contrib/112425227294637310571/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2xpKsI80X2SQ9klIUOg7KnnT9Vv6gH43bdCjeuE6QgZM24A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hervorragende medizinische Behandlung, sehr freundlich und kompetent.\nSehr zu empfehlen.",
+      "time": 1781511703,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin",
       "author_url": "https://www.google.com/maps/contrib/103421251752396845624/reviews",
       "language": "de",
@@ -25,11 +47,33 @@
       "translated": false
     },
     {
+      "author_name": "Falk Guenther",
+      "author_url": "https://www.google.com/maps/contrib/114706659155138029675/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwpkJQ8OZ-eDRJ_L7Sqf7ugq_xgtixICPVvHP_9DXxMc5R3Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "4 Tage Klinikaufenthalt im Vincentinum in der Neurologie Abteilung Station 9;  wer will schon gerne in das Krankenhaus, aber wenn dann würde ich jederzeit wieder in das Vincentum;  Ich kann über sehr positive Erfahrung berichten bei der Diagnostik und Geräte, MRT Untersuchung, Ultraschall der Blutgefässe, Ultraschall des Herzens über die Speiseröhre, Untersuchung auf Thrombose an den Beinen;\n\nDie Aufnahme war zügig und unkompliziert, die Menschen sind wirklich menschlich, da fühlt man sich einfach gut aufgehoben; ich bin gesetzlich versichert, die Gespräche mit mehreren Ärzten waren ausführlich und TOP;  es \"menschelt\" in dem Laden, wenn schon krank und Krankenhaus, dann Vincentinum;\n\nEssen (vegan) war jeden Tag mega, da war ich mehr als positiv überrascht\n\nWünsche jedem beste Gesundheit, wenn schon Krankenhaus, dann jederzeit wieder Vincentinum, kann man nicht oft genug betonen",
+      "time": 1780994924,
+      "translated": false
+    },
+    {
       "author_name": "Mustafa Fawakherji",
       "author_url": "https://www.google.com/maps/contrib/108332040397827207995/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcgOeVx-VT4T_eXsDRiRfO5goyMNYKNsIjb5xAkrG0tExg8UaCsA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780865672,
+      "translated": false
+    },
+    {
+      "author_name": "Mustafa Fawakherji",
+      "author_url": "https://www.google.com/maps/contrib/108332040397827207995/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcgOeVx-VT4T_eXsDRiRfO5goyMNYKNsIjb5xAkrG0tExg8UaCsA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1780865672,
       "translated": false
@@ -494,11 +538,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 399,
+  "reviewCount": 401,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-13T08:19:52.431Z"
+  "lastUpdated": "2026-06-16T10:05:22.195Z"
 }

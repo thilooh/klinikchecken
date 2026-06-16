@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Jenny S.",
+      "author_url": "https://www.google.com/maps/contrib/107247634148055099105/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNFaIutRvOhnmqqXRYP5skx82J11clnENRC4UeiTRx6H0EmodZhA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nie wieder!!! Ich kam mit einem ernsthaften Problem und wurde nicht ernstgenommen. Meine Erkrankung wurde nur belächelt und als 'Modekrankheit' betitelt. Dass ich aber ernstzunehmende Schmerzen, Probleme und Einschränkungen im alltäglichen Leben habe, wurde ignoriert und belächelt. Selbst als Tränen gefloßen sind, wurde der Doktor noch wütender und lauter!! Er hat mich kaum bis gar nicht ausreden lassen und war so respektlos mir gegenüber! So sauer war ich noch nie nach einem Arzttermin! Wenn ich könnte, würde ich keinen Stern vergeben. Eigentlich bewerte ich selten, aber DAS geht echt gar nicht!",
+      "time": 1781593540,
+      "translated": false
+    },
+    {
+      "author_name": "Angie (beautycolor)",
+      "author_url": "https://www.google.com/maps/contrib/104557612866013568958/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZotYdzsucnrINHC2Iy4861ok0mG0PqV8Nx1Sf5RuOsgm6QUU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Arzt hat eine akute Thrombose ausgeschlossen – für mein eigentliches Problem, dass der Arm beim Hängenlassen blau anläuft, wurde allerdings kein Ultraschall im Sitzen/unter Belastung gemacht. Dabei wurde mir in der Notaufnahme extra geraten, einen Gefäßchirurg aufzusuchen, damit dieser einen dynamischen Doppler-Ultraschall durchführen kann. Stattdessen lief es darauf hinaus, dass man das hier nicht weiter untersuchen könne, ich müsse dafür in ein fachgerichtetes Krankenhaus. Eine Überweisung hierfür habe ich aber nicht bekommen, was der Hauptgrund für meine Enttäuschung ist. Andrerseits hat sich der Arzt Zeit genommen, wirkte freundlich und hat auch versucht mir seinen Standpunkt deutlich zu machen. Ich vermute daher mal, dass mein Fall zu kompliziert war, dennoch hätte man auf die Empfehlung des Krankenhausarztes eingehen können anstatt sich nur auf das gängige Schema (Arm heben, Puls testen) zu verlassen und mich ohne Überweisung \"weiterzuschicken\" bzw im Kreis zu schicken.\n\nPs: Ich habe als Beweis meine Buchungsbestätigung (der Termin hat laut dieser auch normal stattgefunden) sowie Fotos vom Tag des Termins innerhalb der Praxis. ich war also wirklich Patientin 💪🏻",
+      "time": 1781537854,
+      "translated": false
+    },
+    {
+      "author_name": "B S",
+      "author_url": "https://www.google.com/maps/contrib/106532669805588599026/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsbhFcqqoiQdtF7M98FEdJOtRZfphHECz79wpv0KqBpaMbJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781535228,
+      "translated": false
+    },
+    {
       "author_name": "Cristiana Raposo",
       "author_url": "https://www.google.com/maps/contrib/103906896758323845399/reviews",
       "language": "de",
@@ -304,11 +338,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 81,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:20:04.960Z"
+  "lastUpdated": "2026-06-16T10:05:34.197Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Reel Gaming",
+      "author_url": "https://www.google.com/maps/contrib/106848514525452309510/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXP_Z2FGbEAVPC-5-u0sLj4OlobiunwqACsKpLn0KOr25UZ46iN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781526457,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Richling",
       "author_url": "https://www.google.com/maps/contrib/109758092652963986640/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg9vcxPq3KK7Yw4YRI9b-KHImsIYOm5AWlM5cR5DcONoJUiZwn=s128-c0x00000000-cc-rp-mo-ba4",
@@ -72,6 +82,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2ciC2mQQ5l5s6C1cXUouPfipFFgsSORWqz39uNQSoXKxKbg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1779612006,
+      "translated": false
+    },
+    {
+      "author_name": "dietmarleila",
+      "author_url": "https://www.google.com/maps/contrib/103856582067147230692/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2ciC2mQQ5l5s6C1cXUouPfipFFgsSORWqz39uNQSoXKxKbg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1779612006,
       "translated": false
@@ -510,11 +530,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 188,
+  "reviewCount": 189,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:20:14.974Z"
+  "lastUpdated": "2026-06-16T10:05:43.924Z"
 }

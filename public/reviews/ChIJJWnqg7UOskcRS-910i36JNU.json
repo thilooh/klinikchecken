@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Tanja Pankau",
+      "author_url": "https://www.google.com/maps/contrib/114020618301718232735/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0oBoBZgRcyXrAvXU_AczgdX0ajJrE5jiPeHYqVOToGTaPhA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781537052,
+      "translated": false
+    },
+    {
+      "author_name": "Rico Harms",
+      "author_url": "https://www.google.com/maps/contrib/103290976741359819654/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGiQ4logESiFca1DcK4tgTqfCJMW8BE4-ZQC6qpfC1gbFSgg_G=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schlichtweg ein sehr angenehmer Termin bei Frau Niebuhr! Zeit, Raum und Empathie hat vollends gestimmt!",
+      "time": 1781530778,
+      "translated": false
+    },
+    {
       "author_name": "Gerhard Soujon",
       "author_url": "https://www.google.com/maps/contrib/102917310275651528117/reviews",
       "language": "de",
@@ -634,11 +656,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2287,
+  "reviewCount": 2288,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-13T08:19:47.252Z"
+  "lastUpdated": "2026-06-16T10:05:17.108Z"
 }

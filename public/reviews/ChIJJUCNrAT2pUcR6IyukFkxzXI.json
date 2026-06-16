@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Martin Frehse",
+      "author_url": "https://www.google.com/maps/contrib/114892196721917309807/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJywSND1sz1O9V6RFtBcH3sKC0K8WF8jSBgUwmbe_a9nHETnQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781453516,
+      "translated": false
+    },
+    {
       "author_name": "Chris C.",
       "author_url": "https://www.google.com/maps/contrib/113263366622866015131/reviews",
       "language": "de",
@@ -238,11 +248,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 48,
+  "reviewCount": 49,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:19:46.989Z"
+  "lastUpdated": "2026-06-16T10:05:16.879Z"
 }

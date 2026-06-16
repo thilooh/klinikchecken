@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Shahad Al Ahmad",
+      "author_url": "https://www.google.com/maps/contrib/115831464385700934623/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3HbCJLYvlR2juzhVU7NwtpbCYx7gKooL2RchNs7ttFTV-bg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das gesamte Personal ist freundlich und sehr zuvorkommend. Der Arzt ist sehr kompetent und erfahren in seinem Fachgebiet.",
+      "time": 1781456067,
+      "translated": true
+    },
+    {
       "author_name": "Ziad Ahmad",
       "author_url": "https://www.google.com/maps/contrib/101413734024686819880/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": true
     },
     {
+      "author_name": "Ziad Ahmad",
+      "author_url": "https://www.google.com/maps/contrib/101413734024686819880/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYlQGLxqza8VCOt2wsdRuDz_H0gHO_gDP0x6bHVpg0264pl3Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich möchte keinen Kommentar.",
+      "time": 1780160976,
+      "translated": true
+    },
+    {
       "author_name": "Ibrahim Al Saghir",
       "author_url": "https://www.google.com/maps/contrib/106211907220328507203/reviews",
       "language": "de",
@@ -86,6 +110,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6f3_ZtYvGwGqdXLmlRmMFbsnf-DIPFfpbA2V-yOoDinFWy-Y=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1779646675,
+      "translated": false
+    },
+    {
+      "author_name": "Salem Almahmmad",
+      "author_url": "https://www.google.com/maps/contrib/112033023780830008082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6f3_ZtYvGwGqdXLmlRmMFbsnf-DIPFfpbA2V-yOoDinFWy-Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1779646675,
       "translated": false
@@ -500,5 +534,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-13T08:20:08.477Z"
+  "lastUpdated": "2026-06-16T10:05:37.535Z"
 }

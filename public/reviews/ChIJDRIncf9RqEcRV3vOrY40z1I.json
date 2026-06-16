@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dirk A.",
+      "author_url": "https://www.google.com/maps/contrib/106554184882607120171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj4n3o49DOOL0EYkmIE2E0hE2qPGuuokkIcnSvgLrbUL7s9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich enttäuscht.\nSolange es um die Privatzahlungen geht, erfährt man eine bevorzugte Behandlung. Bei der kassenärztlichen Nachkontrolle ist man dann wieder ein Mensch zweiter Klasse. Nach einer Anfahrt von über 200 Kilometern verspätete ich mich, aufgrund einer extremen  Verkehrslage, um ein paar Minuten. Nach über drei Stunden Anfahrt verweigerte mir die Ärztin die 10-minütige Untersuchung.",
+      "time": 1781559868,
+      "translated": false
+    },
+    {
       "author_name": "Natalie Wilke",
       "author_url": "https://www.google.com/maps/contrib/110107986079459332713/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHtBiepubrAPFYjXvsnEg-ayhbmcVgs1IR382nGpQAxwXaKw=s128-c0x00000000-cc-rp-mo",
@@ -464,5 +476,5 @@
   "rating": 4.8,
   "reviewCount": 140,
   "summary": [],
-  "lastUpdated": "2026-06-13T08:19:37.792Z"
+  "lastUpdated": "2026-06-16T10:05:07.850Z"
 }

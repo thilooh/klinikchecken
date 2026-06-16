@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Eric Utsch",
+      "author_url": "https://www.google.com/maps/contrib/116128094105013628072/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfLGyeYtHIViRXQRdFIMuEOyn5W37fozwTcM3-YDWIcbiuNzI=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Über Doctolib habe ich einen Termin im Januar für Juli 2026 vereinbaren können. Dieser wurde einfach ersatzlos Mitte Juni aufgrund von Urlaub abgesagt. Von der Praxis selbst kommt auf meine Nachfrage per Mail keine Antwort, telefonisch wurde auch mehrmals niemand erreicht. Wirkt insgesamt nicht gut organisiert. Schade, da die Bewertungen der Praxis eigentlich gut sind.",
+      "time": 1781428461,
+      "translated": false
+    },
+    {
       "author_name": "Georg Schwab",
       "author_url": "https://www.google.com/maps/contrib/115775477572341441161/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7mFmdRK-suJ6ogYFfzOLGB8piAVJ_RNx1AMoGvCoZEkdnwKA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -78,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-sTXdEoNwlStdpbWPOk8sAQOkAlQYuWrsJOfdo_fsJN8LqFoU=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Top , top , top ......\nAlles in allem einfach top",
+      "time": 1779740551,
+      "translated": false
+    },
+    {
+      "author_name": "Clau Son",
+      "author_url": "https://www.google.com/maps/contrib/109572150727927386597/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-sTXdEoNwlStdpbWPOk8sAQOkAlQYuWrsJOfdo_fsJN8LqFoU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Top , top , top ......\nAlles in allem einfach top",
       "time": 1779740551,
       "translated": false
@@ -491,12 +515,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 106,
+  "rating": 4.5,
+  "reviewCount": 107,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:19:48.228Z"
+  "lastUpdated": "2026-06-16T10:05:18.070Z"
 }

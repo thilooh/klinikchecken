@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Jusmann",
+      "author_url": "https://www.google.com/maps/contrib/115105716908400191801/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_YEQamphljzztyufAx9tMvswZIvaTOZzAO_y_KIJ_-0dcSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Normalerweise schreibe ich keine Bewertungen. Nach einem Jahr regelmäßiger Behandlungen bei Frau Guellil kann ich nicht anders, als zu sagen, dass ich endlich meine Ärztin gefunden habe!\n\nIch habe eine lange Odyssee hinter mir mit anderen Ärzt:innen. Nie war ich wirklich zufrieden. Es sah immer künstlich aus und nie wirklich wie ich es mir vorgestellt habe.\n\nFrau Guellil hat sich jedoch ganz genau angehört was mir wichtig ist und hat alles gegeben um das Ergebnis meiner Träume zu kreieren. Und ich bin wirklich perfektionistisch.. 😅\nSie arbeitet unfassbar professionell und hat ein besonderes Auge für natürlich aussehende Ästhetik, was meiner Meinung nach in der Branche wirklich selten ist. Ich habe mich in der Praxis stets sehr wohl und vor allem gesehen gefühlt. Es wird nur mit hochwertigen Präparaten gearbeitet und sehr großer Wert auf eine dauerhafte Zusammenarbeit gelegt.\n\nMittlerweile habe ich meine Freundinnen auch von ihr überzeugen können, wobei ich nicht viel sagen/tun musste. Die Ergebnisse sprachen für sich!!\n\nWenn ich jemals umziehen sollte, würde ich trotzdem Stunden fahren um mich von Frau Guellil behandeln zu lassen.\n\nEndlich happy! Tausend Dank!",
+      "time": 1781426682,
+      "translated": false
+    },
+    {
       "author_name": "Hend Yassin",
       "author_url": "https://www.google.com/maps/contrib/104699128436099862932/reviews",
       "language": "de",
@@ -464,11 +476,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 92,
+  "reviewCount": 93,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-13T08:20:04.498Z"
+  "lastUpdated": "2026-06-16T10:05:33.721Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Eric",
+      "author_url": "https://www.google.com/maps/contrib/113089784396046585794/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNjtM68tgIr_FfAiqbx63-VyHQIxMgVN5thmHbMms4rW_HQISmfg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Behandlung maximal auf Kommerz ausgerichtet, teils grenzwertige Arztgespräche und sehr lange Wartezeiten - auch für Privatpatienten. Bei mir folgte eine OP ohne Rücksprache von einer neuen Assistenzärztin, trotz vorheriger Behandlung durch Dr Quist. In Summe definitiv nicht zu empfehlen - alles “mehr Schein als Sein”… siehe auch Anzahl der gelöschten Google-Bewertungen.",
+      "time": 1781553865,
+      "translated": false
+    },
+    {
+      "author_name": "Inmediaspes Osthofen",
+      "author_url": "https://www.google.com/maps/contrib/107168985325626155048/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeshCU0F18teSRSpHMKABnYeCf2wxwHq-wc0SptBoVxSf1NN4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe selten so eine tolle Arztpraxis erlebt!  Schon an der Anmeldung eine mega freundliche Mitarbeiterin. Ein ehrliches Lächeln, nicht aufgesetzt und vorgespielt sondern ein Lächeln das von Herzen kam. Bei einem Hautarzt zum Screening Termin hat man ja vielleicht ein etwas mulmiges Gefühl......Dieses Gefühl war bei mir bei diesem Lächeln wie weggewischt. Dann eine hoch professionelle Datenerfassung über das Handy - digitales Hautscreening durch eine Mitarbeiterin - genau so nett und freundlich und das Gespräch bei Dr. Nagel super professionell auf Augenhöhe und total nett.  In einem Jahr komme ich sehr gerne wieder. Ich bin begeistert von dieser Praxis\n👍👍👍👍👍👍👍👍",
+      "time": 1781346708,
+      "translated": false
+    },
+    {
       "author_name": "Miriam Kopelevich",
       "author_url": "https://www.google.com/maps/contrib/101355974105916909435/reviews",
       "language": "de",
@@ -25,11 +49,33 @@
       "translated": false
     },
     {
+      "author_name": "Dominic Gaussmann",
+      "author_url": "https://www.google.com/maps/contrib/104179099911699795423/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6Cu8JBo7N9bdfuag2sgDa9UyJ8Bgju9Lm-CeCGF8hnca9BA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Super kompetente Praxis- sehr nettes Team",
+      "time": 1780991361,
+      "translated": false
+    },
+    {
       "author_name": "Klaus-Peter Stiehl",
       "author_url": "https://www.google.com/maps/contrib/105664630449808861729/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpr_FrT8BpVoY3JGOzszT4LVM3MhKyFemzbEs0yWauWZxZ6A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1780817802,
+      "translated": false
+    },
+    {
+      "author_name": "Klaus-Peter Stiehl",
+      "author_url": "https://www.google.com/maps/contrib/105664630449808861729/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpr_FrT8BpVoY3JGOzszT4LVM3MhKyFemzbEs0yWauWZxZ6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1780817802,
       "translated": false
@@ -594,11 +640,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 303,
+  "reviewCount": 305,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:20:01.943Z"
+  "lastUpdated": "2026-06-16T10:05:31.303Z"
 }

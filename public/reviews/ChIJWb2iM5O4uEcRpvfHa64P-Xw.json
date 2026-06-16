@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Carsten Ziesemer",
+      "author_url": "https://www.google.com/maps/contrib/101991623593415062343/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRjwjVKVRY6sOvE19zo172zZymBdKGOKh9awTKJfhM6NsaRg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781534222,
+      "translated": false
+    },
+    {
+      "author_name": "Jaspo C",
+      "author_url": "https://www.google.com/maps/contrib/109392852406457511139/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjPdZP4cWuUNnEd5sfD960-pNW3yE6jOnFJq59IxwxqIfiOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn man nicht auf eine Botoxbehandlung oder ähnliches wert legt, ist die Praxis eine ziemlich bescheidene Wahl. Die Ärztin hat eine Gesichtsrose nicht erkannt, was ziemlich bezeichnend sein sollte. Zum Glück hatte ich mir eine zweite Meinung eingeholt.",
+      "time": 1781525875,
+      "translated": false
+    },
+    {
       "author_name": "Ali Onsekiz",
       "author_url": "https://www.google.com/maps/contrib/101926974771325749204/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfDIRQ2JL024oWcCFmur8u5k3u1rwabvii0BZ93bV74fVG46k=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Termine von Frau Tala Alatassi werden regelmäßig abgesagt. Krankheitsbedingt.\nAuch gerne mal 3 Stunden bevor der Termin statt finden sollte. AbsolutesTermin Chaos. Werde mir nun einen neuen Arzt besorgen müssen.",
+      "time": 1780296527,
+      "translated": false
+    },
+    {
+      "author_name": "Fritz Gutenberg",
+      "author_url": "https://www.google.com/maps/contrib/107213220393653254934/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfDIRQ2JL024oWcCFmur8u5k3u1rwabvii0BZ93bV74fVG46k=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Termine von Frau Tala Alatassi werden regelmäßig abgesagt. Krankheitsbedingt.\nAuch gerne mal 3 Stunden bevor der Termin statt finden sollte. AbsolutesTermin Chaos. Werde mir nun einen neuen Arzt besorgen müssen.",
       "time": 1780296527,
       "translated": false
@@ -290,11 +324,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 112,
+  "reviewCount": 114,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-13T08:19:52.193Z"
+  "lastUpdated": "2026-06-16T10:05:21.961Z"
 }

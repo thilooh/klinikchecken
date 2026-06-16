@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "J. M.",
+      "author_url": "https://www.google.com/maps/contrib/111392305535942834879/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXirrCB0N4NcXEMrL7VL0jkElmYzF3XJTSZtnnFxfl2aukqHoZu=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Katastrophale Erreichbarkeit und mangelhafter Patientenservice.\n\nDer Service in dieser Praxis war leider von Anfang an extrem schlecht und hektisch – man fühlt sich hier als Patient zu keinem Zeitpunkt gut aufgehoben oder ernst genommen.\n\n​Da ich aktuell längerfristig krankgeschrieben bin, bat ich per E-Mail höflich darum, mir die Befunde der entnommenen Gewebeproben digital zukommen zu lassen. Die Reaktion? Erst tagelanges Schweigen, dann eine extrem unhöfliche Mail ohne jede Grußformel, dass E-Mail kein Kommunikationsweg sei und man anrufen solle.\n\n​Doch telefonisch ist absolut niemand zu erreichen. Man ruft ständig vergeblich an und landet in Dauerschleifen, aus denen man nach einiger Zeit einfach automatisch rausgeworfen wird. Wie soll man so bitte seine medizinischen Befunde erhalten?\n\n​Scheinbar ist man sich der überlaufenen Praxen so sicher, dass man einen respektvollen Umgang mit Patienten schlicht nicht mehr nötig hat. Nicht zu empfehlen!",
+      "time": 1781599524,
+      "translated": false
+    },
+    {
       "author_name": "D R",
       "author_url": "https://www.google.com/maps/contrib/102311357639586204412/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Gerhard Blabensteiner",
+      "author_url": "https://www.google.com/maps/contrib/109129784517501929218/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGAWqaOuNS74t3iiPT9yMWDf0q72F7iFl3lRfWHJXB5Nl1HA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Eine reine Katastrophe die Praxis, weder telefonisch noch via Mail ist jemand erreichbar. Meine Frau hat seit Monaten Probleme wegen einem Privatarzttermin aus dem Sommer 25. Die Honorarnote war völlig falsch, mit Diagnosen voll, die überhaupt nicht ihrem Termin entsprochen haben, weshalb Sie jetzt große Probleme mit ihrer Privatversicherung hat. Es ist aber niemand zu erreichen. Wahrscheinlich läuft es auf einen Rechtsanwaltsakt hinaus, einfach völlig unnötig und nervig, Sie bereut den Arzttermin äußerst. Wer dachte, dass aus der Abklärung eines harmlosen Muttermals monatelanger Adminstress entsteht.\n\nVielleicht sind die Ärzte sogar gut, aber die Verwaltung ist eine unangenehme Satire.",
+      "time": 1780932941,
+      "translated": false
+    },
+    {
       "author_name": "L H",
       "author_url": "https://www.google.com/maps/contrib/101728846980923191838/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI83SWyyu-rmp-RwFje4DuRj4uIrjUwLN6Xlz_3ppZmHn2HUN4=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Leider absolut nicht zu empfehlen. Hautkrebsvorsorgeuntersuchung wurde nur oberflächlich und unvollständig gemacht. Auch für ein weiteres Problem wurde nicht wirklich geholfen.",
+      "time": 1780848988,
+      "translated": false
+    },
+    {
+      "author_name": "L H",
+      "author_url": "https://www.google.com/maps/contrib/101728846980923191838/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI83SWyyu-rmp-RwFje4DuRj4uIrjUwLN6Xlz_3ppZmHn2HUN4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Leider absolut nicht zu empfehlen. Hautkrebsvorsorgeuntersuchung wurde nur oberflächlich und unvollständig gemacht. Auch für ein weiteres Problem wurde nicht wirklich geholfen.",
       "time": 1780848988,
       "translated": false
@@ -510,11 +546,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 196,
+  "reviewCount": 198,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:20:16.193Z"
+  "lastUpdated": "2026-06-16T10:05:45.122Z"
 }

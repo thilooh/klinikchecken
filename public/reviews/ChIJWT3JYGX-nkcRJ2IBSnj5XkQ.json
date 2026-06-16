@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manuela Wittmanm",
+      "author_url": "https://www.google.com/maps/contrib/108397074660093277197/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyF2B2Wb8llF77SXurG4Ip0DDfyLU_LDgJruphbQINIH39DQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr froh dass Hr. Dr. Brandenberg die OP vorgenommen hat und mir beim Heilverlauf zur Seite gestanden ist. Ich habe äussersten Respekt vor Herr Dr. Brandenberg und seinem Team, welches trotz der hohen Anzahl an Patienten strukturiert und sehr gut organisiert ist.  Vielen Dank!",
+      "time": 1781464177,
+      "translated": false
+    },
+    {
       "author_name": "Mirnes Maslic",
       "author_url": "https://www.google.com/maps/contrib/108216798985218179474/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6x3ll-cZiKNfI6XCowRMvIhlOXyCsdTiY1XYzSxZ3CPEH8g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Gefäßpraxis Ingolstadt uneingeschränkt weiterempfehlen. Von der Voruntersuchung bis zum Eingriff war alles hervorragend organisiert. Das gesamte Team war sehr freundlich, kompetent und hat sich ausreichend Zeit für Fragen genommen. Man fühlt sich von Anfang an gut aufgehoben und professionell betreut. Auch der Eingriff selbst verlief reibungslos und in angenehmer Atmosphäre.\nVielen Dank an das gesamte Team für die ausgezeichnete Betreuung!",
+      "time": 1780945042,
+      "translated": false
+    },
+    {
+      "author_name": "Mirnes Maslic",
+      "author_url": "https://www.google.com/maps/contrib/108216798985218179474/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6x3ll-cZiKNfI6XCowRMvIhlOXyCsdTiY1XYzSxZ3CPEH8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann die Gefäßpraxis Ingolstadt uneingeschränkt weiterempfehlen. Von der Voruntersuchung bis zum Eingriff war alles hervorragend organisiert. Das gesamte Team war sehr freundlich, kompetent und hat sich ausreichend Zeit für Fragen genommen. Man fühlt sich von Anfang an gut aufgehoben und professionell betreut. Auch der Eingriff selbst verlief reibungslos und in angenehmer Atmosphäre.\nVielen Dank an das gesamte Team für die ausgezeichnete Betreuung!",
       "time": 1780945042,
       "translated": false
@@ -133,6 +157,18 @@
       "translated": false
     },
     {
+      "author_name": "Annemarie Schnalle-Wünsch",
+      "author_url": "https://www.google.com/maps/contrib/113662948907905985499/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIor2YS07u1oP3Y444jspJ5sGppIVwgsY1-3d4uNKEgHYPCg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Ich wollte einen Termin für meinen Mann vereinbaren. Telefonisch keine Chance, also versuchte ich es per E-Mail. Keine Antwort, nicht einmal der Eingang wurde bestätigt. Ich dachte, vielleicht ist die erst E-Mail nicht angekommen, also zweiter Versuch. Wieder nichts, gar keine Reaktion. Sehr schade, man hätte wenigstens absagen können.",
+      "time": 1773762192,
+      "translated": false
+    },
+    {
       "author_name": "Beate Reder",
       "author_url": "https://www.google.com/maps/contrib/100243760823674699870/reviews",
       "language": "de",
@@ -202,11 +238,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 59,
+  "reviewCount": 60,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:20:15.220Z"
+  "lastUpdated": "2026-06-16T10:05:44.162Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "ezra puia",
+      "author_url": "https://www.google.com/maps/contrib/105406698675620630329/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuT3-NgAnhvYnropA8UsCQ6AQCPgkl_W2t5QXeCFXjkvnYfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Was kostet eine Gesichtsreinigung?",
+      "time": 1781528402,
+      "translated": false
+    },
+    {
       "author_name": "Selin S.",
       "author_url": "https://www.google.com/maps/contrib/107445872456476966978/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM__n-L7-sINcSE_Y49h3Jzc6x46F8zDAStyUu2ioaP3bFBow=s128-c0x00000000-cc-rp-mo",
@@ -518,11 +530,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 81,
+  "reviewCount": 82,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-13T08:20:25.052Z"
+  "lastUpdated": "2026-06-16T10:05:53.857Z"
 }

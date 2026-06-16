@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Werner Riebe",
+      "author_url": "https://www.google.com/maps/contrib/114903077289160181124/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHYuL9oPeiVlskDhkDqzM_4q63FXRrx1SPemavU4m3flN3Vw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mir bei Dr. Ahmad Alkhalil eine Krampfader am linken Bein entfernen lassen. Ich hatte mich für die modernste Art der Entfernung entschlossen. Dies ist VeanSeal Methode, bei der die Vene verklebt wird.\nIch bin mit dem Ergebnis sehr zufrieden, habe nach der Behandlung keinerlei Schmerzen oder Beeinträchtigungen gehabt, sondern konnte meinem Alltag ohne Krankschreibung oder Auszeit fortsetzen.\nNach ca. 3 Monaten sieht man nicht mehr, dass ich jemals eine Krampfader hatte.\nIch habe einen guten Arzt gefunden und natürlich auch Glück gehabt.\nWerner Riebe",
+      "time": 1781471332,
+      "translated": false
+    },
+    {
       "author_name": "Kathleen Jahnke",
       "author_url": "https://www.google.com/maps/contrib/116065077816562420858/reviews",
       "language": "de",
@@ -248,11 +260,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 115,
+  "reviewCount": 116,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:19:44.281Z"
+  "lastUpdated": "2026-06-16T10:05:14.264Z"
 }

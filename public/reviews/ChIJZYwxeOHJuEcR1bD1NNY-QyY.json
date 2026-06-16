@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Guido Daub",
+      "author_url": "https://www.google.com/maps/contrib/113253384163621754935/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqWQzT1vAj755lVimTRDpnZkM8UqOUBjzWa8wx_RkbRT1VeDSU4w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "So schlecht wurde ich noch nie von einer Ärztin behandelt - gedemütigt ohne Ende. Musste 30 Minuten nach einem Vorgespräch warten, habe nachgefragt, wann die Ärztin zurückkommt - sie hat mich schlicht vergessen und hatte keine Zeit mehr. Eine Horrorsituation. Dann bin ich gegangen. Dann kam ein Anruf, eine Frau fragte wo ich bin. Ich habe\nihr die Situation erläutert - zumindest sie hat sich entschuldigt. Diese Praxis betrete nie mehr. Die vielen Bewertungen sprechen für sich.\nLeider ist eine Topärztin nicht mehr da. Sie verstand ihr Handwerk und war empathisch.",
+      "time": 1781591913,
+      "translated": false
+    },
+    {
+      "author_name": "Hoang Tu",
+      "author_url": "https://www.google.com/maps/contrib/110616421780384769318/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGLuAcz42vNouGDhyYJxiUcYi0ckqPKh-ddh3I3G6jxNSfY2M9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes und kompetentes Personal. Die Behandlung ging schnell und effizient ohne Nettigkeit und Fürsorge einbüßen zu müssen. Sehr empfehlenswert",
+      "time": 1781512559,
+      "translated": false
+    },
+    {
       "author_name": "Alissa weimer",
       "author_url": "https://www.google.com/maps/contrib/115880386299307103172/reviews",
       "language": "de",
@@ -258,6 +282,16 @@
       "translated": false
     },
     {
+      "author_name": "Dominik Breidohr",
+      "author_url": "https://www.google.com/maps/contrib/115969331261870433021/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSmbYf5eVZtxvgNN1IrIUX9CxmVWa61W5IxG0u6lv9x1amRA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1773761764,
+      "translated": false
+    },
+    {
       "author_name": "S H",
       "rating": 3,
       "relative_time_description": "vor einem Monat",
@@ -344,8 +378,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 89,
+  "rating": 4.5,
+  "reviewCount": 91,
   "summary": [],
-  "lastUpdated": "2026-06-13T08:19:35.439Z"
+  "lastUpdated": "2026-06-16T10:05:05.428Z"
 }

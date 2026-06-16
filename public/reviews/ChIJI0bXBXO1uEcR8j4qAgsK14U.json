@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "MoLa 8",
+      "author_url": "https://www.google.com/maps/contrib/116250230332250146513/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIx93QsukYRudVRr8fCzwy9MUBKBecyaIlbICEYN9PRifANrMW-A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der KI - gestützte Hautscanner ( Selbstzahler Hautscreening) ,sowie das zusätzliche anschließende, manuelle Untersuchungsprozedere, war von Herrn Dr. persönlich vorgenommen worden. Für die insgesamte Untersuchung, sowie für die Beratung  und Auswertung des Scanners, hat er sich Zeit gelassen und alles in Ruhe und mit viel Symphatie & Humor erklärt! Habe mich gründlich & professionell untersucht, sowie gut aufgehoben gefühlt!👍 Empfehle das Dermazentrum Neuss definitiv weiter!",
+      "time": 1781532908,
+      "translated": false
+    },
+    {
       "author_name": "Anyway",
       "author_url": "https://www.google.com/maps/contrib/110216258316785838610/reviews",
       "language": "de",
@@ -530,11 +542,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 307,
+  "reviewCount": 308,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-13T08:20:14.738Z"
+  "lastUpdated": "2026-06-16T10:05:43.688Z"
 }

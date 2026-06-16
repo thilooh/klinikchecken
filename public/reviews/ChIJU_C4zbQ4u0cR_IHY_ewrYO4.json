@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jens Straßberger",
+      "author_url": "https://www.google.com/maps/contrib/105819357097894415628/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHTpkC8ylJ2nE04hmfELMTpsV1YyjolHReQffvlcD66gk8kE5u=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781379035,
+      "translated": false
+    },
+    {
       "author_name": "Слава Салтаганов",
       "author_url": "https://www.google.com/maps/contrib/104555774735768004051/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlIj0fIEG5HOp7uJ0jm1W1PXP74ecTeRgplMnKkVM8ysqHeg=s128-c0x00000000-cc-rp-mo",
@@ -35,6 +45,18 @@
       "translated": false
     },
     {
+      "author_name": "Ina-Elisabeth Kunzlmann",
+      "author_url": "https://www.google.com/maps/contrib/105287698397956758920/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLixkrqg8lwUyoell5aYk3yoc6MI9GnaMmIxNk8KAXG70pPug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Was für eine tolle Erfahrung, sowohl bereits am Telefon bei der Terminvereinbarung als auch im persönlichen Erstkontakt-supernette Dame am Empfang!\nUnd Dr Krokowski selber: sehr sehr nett, respektvoll und entängstigend.\nIch bin überrascht und beinahe schon glücklich!\nVielen Dank, ❤️\nIch empfehle Sie allzugern weiter",
+      "time": 1780324576,
+      "translated": false
+    },
+    {
       "author_name": "Thorsten Koerner",
       "author_url": "https://www.google.com/maps/contrib/111534312098012959171/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx80HDl3rFSQFicBDHU0CyZPKlX6EoH8qKig6tkLGf_V19bA=s128-c0x00000000-cc-rp-mo-ba2",
@@ -50,6 +72,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx80HDl3rFSQFicBDHU0CyZPKlX6EoH8qKig6tkLGf_V19bA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1780259229,
+      "translated": false
+    },
+    {
+      "author_name": "Thorsten Koerner",
+      "author_url": "https://www.google.com/maps/contrib/111534312098012959171/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx80HDl3rFSQFicBDHU0CyZPKlX6EoH8qKig6tkLGf_V19bA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1780259229,
       "translated": false
@@ -308,11 +340,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 55,
+  "reviewCount": 56,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-13T08:20:02.993Z"
+  "lastUpdated": "2026-06-16T10:05:32.298Z"
 }

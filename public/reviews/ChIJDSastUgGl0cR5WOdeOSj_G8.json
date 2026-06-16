@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "maracuja",
+      "author_url": "https://www.google.com/maps/contrib/100648119306784222484/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUktooeILcwdA3GLhoL23BLpEQ-eCf61ZqV3pvsgOUfrF4UA8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "es gibt die option für terminvereinbarung per email aber mein email terminanfrag ist einfach abgelehnt später. wenn das kein option ist, dann schreib nichts",
+      "time": 1781598742,
+      "translated": false
+    },
+    {
       "author_name": "BeTheLight",
       "author_url": "https://www.google.com/maps/contrib/111209904621053710005/reviews",
       "language": "de",
@@ -40,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBBwYy-bVSa6w7aHhoaR6j8SGGcYqUEQw-3pnBey8E0w9I0Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1780328688,
+      "translated": false
+    },
+    {
+      "author_name": "Finja",
+      "author_url": "https://www.google.com/maps/contrib/111437587142906527034/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBBwYy-bVSa6w7aHhoaR6j8SGGcYqUEQw-3pnBey8E0w9I0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1780328688,
       "translated": false
@@ -506,11 +528,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 226,
+  "reviewCount": 227,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-13T08:19:55.666Z"
+  "lastUpdated": "2026-06-16T10:05:25.349Z"
 }

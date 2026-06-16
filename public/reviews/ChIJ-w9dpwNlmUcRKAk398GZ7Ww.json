@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kuno Hauber",
+      "author_url": "https://www.google.com/maps/contrib/105862959290823000298/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKTKfOar7sFG4yIoTOB2oaHTtwhiGQt89widR-WV8g22abxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Dr. Grenzner. Ein super Arzt. Hört zu, nimmt sich Zeit, erklärt sehr ausführlich. Auch am Empfang ein sehr freundliches Team. Praxis nur zu empfehlen. Jederzeit wieder.",
+      "time": 1781533028,
+      "translated": false
+    },
+    {
       "author_name": "Danijela Bogojev",
       "author_url": "https://www.google.com/maps/contrib/111788940512869067824/reviews",
       "language": "de",
@@ -164,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbp6a7j0vWW3g3qN3qj_aS53pFiZoCycRoliLF8AUAS58AgECGaw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Untersuchung sehr gut, Ärzte und alle dort sehr nett und freundlich",
+      "time": 1778874807,
+      "translated": false
+    },
+    {
+      "author_name": "Christel Rudolf",
+      "author_url": "https://www.google.com/maps/contrib/114368359676525695876/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbp6a7j0vWW3g3qN3qj_aS53pFiZoCycRoliLF8AUAS58AgECGaw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Untersuchung sehr gut, Ärzte und alle dort sehr nett und freundlich",
       "time": 1778874807,
       "translated": false
@@ -388,11 +412,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 146,
+  "reviewCount": 147,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-13T08:19:53.923Z"
+  "lastUpdated": "2026-06-16T10:05:23.647Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Vivien daropi",
+      "author_url": "https://www.google.com/maps/contrib/101081478760268932313/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgmKZnSZTT0OtXbkwPvHlfdBwCeg_v0jryhn4mZX7SdQLiv0k=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde in der Klinik am Zuckerberg aufgrund eines Kreuzbandrisses von Dr. Zickler operiert. Dr. Zickler hat mich mit seiner kompetenten Art, den detaillierten Erklärungen und seinem fachlichen Know-how absolut überzeugt. Auch das gesamte Personal war hervorragend – alle waren fachlich kompetent und sehr freundlich. Auch das Essen war sehr lecker. Die Zimmer sind gut ausgestattet.\n\n​Kritisch anmerken muss ich jedoch das Thema Anästhesie. Obwohl ich im Vorgespräch bei Dr. Eberlein explizit darauf hingewiesen habe, dass ich Narkosen generell schlecht vertrage, fühlte ich mich mit meinem Anliegen schnell abgefertigt. Er ist nicht auf meine Bedenken eingegangen und mir wurde nicht viel erklärt. Leider hat sich meine Befürchtung dann auch bewahrheitet: Nach der OP hatte ich anderthalb Tage lang mit erheblichen Kreislaufproblemen zu kämpfen.\n\n​Trotz dieser unschönen Narkose-Erfahrung nach der OP, würde ich die Klinik weiterempfehlen.",
+      "time": 1781454475,
+      "translated": false
+    },
+    {
       "author_name": "Christine BaZi",
       "author_url": "https://www.google.com/maps/contrib/102293340405209373545/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSRVtPuWzrijrG-jWaN5SDYK4s5-xTVsGfaRrqBltqEvfQyKA=s128-c0x00000000-cc-rp-mo",
@@ -422,11 +434,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 148,
+  "reviewCount": 149,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-13T08:19:45.999Z"
+  "lastUpdated": "2026-06-16T10:05:15.931Z"
 }

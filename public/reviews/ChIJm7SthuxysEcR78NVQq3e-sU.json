@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jennifer Beckert",
+      "author_url": "https://www.google.com/maps/contrib/117089835543827954905/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_Fz-zYbgL35_IYaNpx04Pe1NN417FNNp5Bxke5_8e_Pj6ow=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die einzige Praxis weit und breit bei der ich als Kassenpatientin einen zeitnahen Termin bekommen habe. Super kurze Wartezeit. Dr. Cramer war total freundlich und zwei auffällige Stellen konnten direkt entfernt werden. Bin absolut zufrieden und würde die Praxis jederzeit weiterempfehlen.",
+      "time": 1781532104,
+      "translated": false
+    },
+    {
       "author_name": "Seda Türk",
       "author_url": "https://www.google.com/maps/contrib/115673466681716753131/reviews",
       "language": "de",
@@ -506,11 +518,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 259,
+  "reviewCount": 258,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-13T08:19:43.303Z"
+  "lastUpdated": "2026-06-16T10:05:13.310Z"
 }
