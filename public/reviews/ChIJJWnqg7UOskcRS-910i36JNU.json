@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Peer M",
+      "author_url": "https://www.google.com/maps/contrib/100723035255717058502/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr8s5F6VxmJPJgXrvqfuUZrw9pwUgJll0fjibz1t089Nzou9U=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "-Sehr netter Arzt!\n-Schöne Praxis\n-Sehr zufrieden\n- Danke!",
+      "time": 1781855216,
+      "translated": false
+    },
+    {
+      "author_name": "Heinrich Adolf",
+      "author_url": "https://www.google.com/maps/contrib/113891061067370239170/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCbFs1WgwVnXdReaJQWNomtnkhsR96obBi-8uGbGoyoi7VZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termin online gebucht, zeitnah per Email bestätigt. Erinnerung per E-Mail, fast keine Wartezeit, klare Diagnose, Folgetermin zur OP kurzfristig",
+      "time": 1781800269,
+      "translated": false
+    },
+    {
+      "author_name": "BEANCA Post",
+      "author_url": "https://www.google.com/maps/contrib/109441084996664483005/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJwIMryewim2YN51euImEAg4GsR9E_riLXI74cforjTds5HA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termin online gebucht, kaum Wartezeit und nette Arzthelferinnen am Empfang. Sehr freundliche und kompetente Beratung durch Dr. Haase. Er ist alle Fragen eingegangen und hat Lösungen gefunden. Top!",
+      "time": 1781795067,
+      "translated": false
+    },
+    {
+      "author_name": "Sven Reder",
+      "author_url": "https://www.google.com/maps/contrib/117999467694995413674/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDnfQwG_oldiS8f3vzqj7pG5jpAJ2CmOiRx7XcIC2I-1p40w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Online einen Termin gebucht, kaum Wartezeit gehabt. Nettes Team und ich hab mich bei der Ärztin sehr gut aufgehoben gefühlt. Top",
+      "time": 1781788518,
+      "translated": false
+    },
+    {
+      "author_name": "Solomiia Rodzinska",
+      "author_url": "https://www.google.com/maps/contrib/102966330369968367316/reviews",
+      "language": "ru",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5xLDUnnX06CXysGBoPYekJocANcVVwrdSO8BlrEZGcOTagsE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "10/10🙌",
+      "time": 1781782674,
+      "translated": false
+    },
+    {
       "author_name": "Tanja Pankau",
       "author_url": "https://www.google.com/maps/contrib/114020618301718232735/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0oBoBZgRcyXrAvXU_AczgdX0ajJrE5jiPeHYqVOToGTaPhA=s128-c0x00000000-cc-rp-mo",
@@ -656,11 +716,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2288,
+  "reviewCount": 2299,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:17.108Z"
+  "lastUpdated": "2026-06-19T09:26:57.984Z"
 }

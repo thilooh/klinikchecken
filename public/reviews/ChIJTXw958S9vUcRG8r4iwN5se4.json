@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Chris Taube",
+      "author_url": "https://www.google.com/maps/contrib/102003862339088383348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNmJHvOYGyHRAOeoUBXYMkA88P8S2hyt89KkZjWO3iSw_dDh36vA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Weiß eigentlich gar nicht, was ich dazu sagen soll. Absolute Massenabfertigung. Hautscreening wird nicht als Kassenleistung angeboten (wurde vorher telefonisch angekündigt, Kostenpunkt 80 Euro).\n\nIm Behandlungszimmer habe ich maximal 5 Minuten verbringen dürfen, nachdem Herr Dr. Broichmann erst ganz selbstverständlich von 100 Euro sprach und ich auf Nachfrage erfuhr, dass das Screening für 80 Euro lediglich mit dem Auflichtmikroskop stattfindet. Für 100 Euro erhalte man noch eine Dokumentation.\n\nFür gründlich hielt ich die Untersuchung nicht, Herr Dr. Broichmann war nach maximal 3 Minuten fertig. Auf Fragen oder Anliegen wurde nur das Nötigste geantwortet, es war als wäre er in größter Eile.\n\nAm Empfangsbereich standen auf der Theke schon die EC Karten Geräte bereit - Da weiß man eigentlich schon, was auf einen zukommt.\n\nWerde definitiv nicht wiederkommen.",
+      "time": 1781775005,
+      "translated": false
+    },
+    {
+      "author_name": "J L",
+      "author_url": "https://www.google.com/maps/contrib/115680058290422704610/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXER3sqTNHmrE4ZUqNd9BWww96icForCUzGsty_lWzCqN7_nILr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Jetter nahm sich Zeit all meine Anliegen zu besprechen und klärte mich ausführlich auf. Außerdem gab Sie mir weitere Tips und Empfehlungen. Der Eingriff verlief professionell und ohne Schmerzen.\nDie Arzthelferin Tiffany klärte mich vor der Behandlung ausführlich auf und nahm mir außergewöhnlich einfühlsam und freundlich jegliche Bedenken. Sie gab mir zusätzlich hilfreiche Tips und Zusatzinformationen. Eine solche außergewöhnlich freundliche und zuvorkommende Behandlung habe ich selten erlebt!\nInsgesamt war der Besuch der Praxis eine tolle und sehr positive Erfahrung.",
+      "time": 1781689353,
+      "translated": false
+    },
+    {
       "author_name": "Orsinox X",
       "author_url": "https://www.google.com/maps/contrib/107856301540391201808/reviews",
       "language": "de",
@@ -466,11 +490,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 142,
+  "reviewCount": 143,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:31.067Z"
+  "lastUpdated": "2026-06-19T09:27:10.773Z"
 }

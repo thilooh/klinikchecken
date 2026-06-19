@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Angelina Hack",
+      "author_url": "https://www.google.com/maps/contrib/114109514777241122736/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0w2IQ1uJcybt5bW_Q7y_bJkAUomxZcTy1B_sZaoE76iFIED9n=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "GANZ SCHLIMME KLINIK, nicht weiter zu empfehlen",
+      "time": 1781697146,
+      "translated": false
+    },
+    {
       "author_name": "Dingens",
       "author_url": "https://www.google.com/maps/contrib/108831938466994331182/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaaemb4B9Aq2ap9gHNHxqRQ_p-2KX7nMvvGJsh0DGcChex2A=s128-c0x00000000-cc-rp-mo",
@@ -18,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEBfz3a9CzNNPHBskOTahhay19GvJFR-_rPHURJqiAR72fsw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wir waren zu jeder Zeit dort gut aufgehoben. Uns würde schnellstmöglich geholfen und die Wartezeit auf einen Termin waren auch OK.",
+      "time": 1781184198,
+      "translated": false
+    },
+    {
+      "author_name": "Patrik Fischer",
+      "author_url": "https://www.google.com/maps/contrib/114402256071886482447/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEBfz3a9CzNNPHBskOTahhay19GvJFR-_rPHURJqiAR72fsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Wir waren zu jeder Zeit dort gut aufgehoben. Uns würde schnellstmöglich geholfen und die Wartezeit auf einen Termin waren auch OK.",
       "time": 1781184198,
       "translated": false
@@ -102,6 +126,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkkqolkmt-bI9XG5o9TUDS8JvJam0Lcis3vtWjEAsI8C2-sTo=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "War positiv überrascht.",
+      "time": 1779284942,
+      "translated": false
+    },
+    {
+      "author_name": "Jannine",
+      "author_url": "https://www.google.com/maps/contrib/104872101273243750291/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkkqolkmt-bI9XG5o9TUDS8JvJam0Lcis3vtWjEAsI8C2-sTo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "War positiv überrascht.",
       "time": 1779284942,
       "translated": false
@@ -518,11 +554,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 246,
+  "reviewCount": 247,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:41.814Z"
+  "lastUpdated": "2026-06-19T09:27:20.644Z"
 }

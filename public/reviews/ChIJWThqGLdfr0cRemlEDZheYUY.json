@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Einq Kontinuum",
+      "author_url": "https://www.google.com/maps/contrib/113563160974120360937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFUAt8Uaidym9g1PPllSyp0T3pOR8d6cfwTke5S2mPVrhtww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zu einer OP ambulant im MVZ. Das was man sonst so über Krankenhäuser hört, ist teilweise etwas gruselig. Hier ist aber alles perfekt. Sauber, zügig also kurze Wartezeiten, gut durchorganisiert. Am OP Tag, nette und wirklich fleißige Schwestern, Pfleger und Ärzte die sich um einen kümmern. Es wird freundlich auf Fragen geantwortet und der Herr Chirurg kommt auch nach der OP vorbei und erklärt alles nochmal ohne das man das Gefühl hat, hier ist Stress oder Hektik. Auf diesem Weg: Vielen Dank an das gesamte Team",
+      "time": 1781778725,
+      "translated": false
+    },
+    {
+      "author_name": "Guido Geisler",
+      "author_url": "https://www.google.com/maps/contrib/102435951755856064918/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKX8GEMD70wd55i3bXJKaVK-J5XFtWUJvrfNTtYy6MJcoYbfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781774611,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel L",
+      "author_url": "https://www.google.com/maps/contrib/104404726214684172391/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt1IqDZ2rxYsc6FLVLmd4HLCInf3KaT3DoF5PqCN0H3gvZKQY=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Zusammenarbeit. Aller Mitarbeiter. Super Service und sehr sauber. 👌",
+      "time": 1781772301,
+      "translated": false
+    },
+    {
+      "author_name": "ChrissP Bacon",
+      "author_url": "https://www.google.com/maps/contrib/118404688992533476418/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjDSdI2zl5B8xnS0TdpB92vnjaU82Yn6mx4dgUj7jAoSd-Mkk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Personal und kompetente ärzte",
+      "time": 1781690179,
+      "translated": false
+    },
+    {
       "author_name": "Leonid Baskin",
       "author_url": "https://www.google.com/maps/contrib/112090520886535487942/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPRRO0HSOoLRqYqBEmYzAzGY_Stv6gqBBCa-ak6uQEfxrfgA=s128-c0x00000000-cc-rp-mo",
@@ -562,11 +608,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 446,
+  "reviewCount": 450,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-16T10:05:16.398Z"
+  "lastUpdated": "2026-06-19T09:26:57.324Z"
 }

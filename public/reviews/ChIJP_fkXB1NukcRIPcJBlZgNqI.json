@@ -79,6 +79,18 @@
       "translated": false
     },
     {
+      "author_name": "S.",
+      "author_url": "https://www.google.com/maps/contrib/115757693027178291314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVjxskZTQpVUsyPgqQcLOxukwTJSFaafaDZ5EWjjCzHMFxeg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Meine Mutter hatte heute einen Termin bei Herrn Rachkov. Ein sehr freundlicher Arzt und ein nettes, einfühlsames Praxisteam.",
+      "time": 1779310562,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Keuter",
       "author_url": "https://www.google.com/maps/contrib/109514891360749032704/reviews",
       "language": "de",
@@ -118,6 +130,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp7acu-LRT_VQEuJnC4wHIHH3VtwxCeJVj90osHJMhWZW3=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 4 Monaten",
+      "text": "",
+      "time": 1768737905,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen Finke",
+      "author_url": "https://www.google.com/maps/contrib/108504489813518147859/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp7acu-LRT_VQEuJnC4wHIHH3VtwxCeJVj90osHJMhWZW3=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 5 Monaten",
       "text": "",
       "time": 1768737905,
       "translated": false
@@ -142,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI35TOhR-kW0Xua1Ml_HRJaaKRaNtVmTO1Tn672ZDp3-v15=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor 6 Monaten",
+      "text": "Versuche seit Wochen dort jemanden zu erreichen! Entweder ist besetzt oder es geht niemand dran. Habe es an verschiedenen Tagen und zu verschiedenen Zeiten probiert! Es gibt auch keine E-Mail Adresse. Dann sollen sie doch auf die Homepage schreiben, dass sie keine Patienten mehr annehmen!",
+      "time": 1763477603,
+      "translated": false
+    },
+    {
+      "author_name": "Olga Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/107734509829148645854/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI35TOhR-kW0Xua1Ml_HRJaaKRaNtVmTO1Tn672ZDp3-v15=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 7 Monaten",
       "text": "Versuche seit Wochen dort jemanden zu erreichen! Entweder ist besetzt oder es geht niemand dran. Habe es an verschiedenen Tagen und zu verschiedenen Zeiten probiert! Es gibt auch keine E-Mail Adresse. Dann sollen sie doch auf die Homepage schreiben, dass sie keine Patienten mehr annehmen!",
       "time": 1763477603,
       "translated": false
@@ -202,5 +236,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:42.048Z"
+  "lastUpdated": "2026-06-19T09:27:20.856Z"
 }

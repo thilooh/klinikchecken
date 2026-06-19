@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Susi Flege",
+      "author_url": "https://www.google.com/maps/contrib/108651712331549417586/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK653GZZtkfMo-oBiuxp16ba-CLlAnNRsM4s5rHU_3sTOJc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sorry, aber teilweise sind die Wartezeiten echt unterirrdisch. Fast 2 Std. für eine Minute Befundbesprechung.",
+      "time": 1781202845,
+      "translated": false
+    },
+    {
       "author_name": "Rahmattullah Safdrie",
       "author_url": "https://www.google.com/maps/contrib/118014975221623829216/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJRAHPp-GL8s3dhTd3k3sN1HH8WOpTYqwAPHlge3pBUYo3JBw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich komme gerne hierhin",
+      "time": 1781165661,
+      "translated": false
+    },
+    {
+      "author_name": "Rahmattullah Safdrie",
+      "author_url": "https://www.google.com/maps/contrib/118014975221623829216/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJRAHPp-GL8s3dhTd3k3sN1HH8WOpTYqwAPHlge3pBUYo3JBw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich komme gerne hierhin",
       "time": 1781165661,
       "translated": false
@@ -562,5 +586,5 @@
   "rating": 4.5,
   "reviewCount": 297,
   "summary": [],
-  "lastUpdated": "2026-06-16T10:05:07.221Z"
+  "lastUpdated": "2026-06-19T09:26:48.778Z"
 }

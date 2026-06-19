@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Larissa Scholten",
+      "author_url": "https://www.google.com/maps/contrib/113226212980479263498/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT064Majivmp_75G8RniTK8NWwLhnCaLQz7SnpsllVJ6ReNg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unfreundlich am Telefon. Es wurde gefragt ob sie noch neu Patienten aufnehmen. Es kam direkt ein, nein kann ich ihnen nicht weiter helfen, tschüss. Statt mir evtl. dann zu helfen, wo man evtl. es noch versuchen könnte, kam dann nur, ja versuchen sie es mal im Ärztehaus. Aber auch erst nachdem ich gefragt habe ob sie mir nicht weiter helfen könnte.",
+      "time": 1781604879,
+      "translated": false
+    },
+    {
       "author_name": "Carsten Ziesemer",
       "author_url": "https://www.google.com/maps/contrib/101991623593415062343/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRjwjVKVRY6sOvE19zo172zZymBdKGOKh9awTKJfhM6NsaRg=s128-c0x00000000-cc-rp-mo-ba2",
@@ -30,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUF6bsRsa6BePPvY88FvTx_dMMxmm-Aw526Xcvl9xlRhQbTQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ein herausragender Arzt mit absolutem Fachwissen und Empathie! Nach einer langen Leidensgeschichte mit monatelangen, stark juckenden und brennenden Hautbeschwerden (Quaddeln) am ganzen Körper, hat mir dieser Hautarzt endlich die richtige Diagnose gestellt und mir geholfen.Im Gegensatz zu anderen Ärzten zuvor, hat er sich unglaublich viel Zeit genommen, meine Haut ganz genau mit der Lupe untersucht und sofort die richtige, leitliniengerechte Therapie eingeleitet. Besonders beeindruckt hat mich seine Gründlichkeit: Er schaut über den Tellerrand hinaus und sucht gezielt nach den tieferen Ursachen im Körper (wie versteckten Infekten).Ich fühle mich in dieser Praxis zum ersten Mal fachlich absolut kompetent kontrolliert und menschlich rundum wohl. Ein großes Lob an diesen fantastischen Arzt für mich der Beste auf seinem Gebiet! Absolut zu empfehlen! Vielen dank an das ganze Praxisteam⭐️⭐️⭐️⭐️⭐️",
+      "time": 1781005018,
+      "translated": false
+    },
+    {
+      "author_name": "Ali Onsekiz",
+      "author_url": "https://www.google.com/maps/contrib/101926974771325749204/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUF6bsRsa6BePPvY88FvTx_dMMxmm-Aw526Xcvl9xlRhQbTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ein herausragender Arzt mit absolutem Fachwissen und Empathie! Nach einer langen Leidensgeschichte mit monatelangen, stark juckenden und brennenden Hautbeschwerden (Quaddeln) am ganzen Körper, hat mir dieser Hautarzt endlich die richtige Diagnose gestellt und mir geholfen.Im Gegensatz zu anderen Ärzten zuvor, hat er sich unglaublich viel Zeit genommen, meine Haut ganz genau mit der Lupe untersucht und sofort die richtige, leitliniengerechte Therapie eingeleitet. Besonders beeindruckt hat mich seine Gründlichkeit: Er schaut über den Tellerrand hinaus und sucht gezielt nach den tieferen Ursachen im Körper (wie versteckten Infekten).Ich fühle mich in dieser Praxis zum ersten Mal fachlich absolut kompetent kontrolliert und menschlich rundum wohl. Ein großes Lob an diesen fantastischen Arzt für mich der Beste auf seinem Gebiet! Absolut zu empfehlen! Vielen dank an das ganze Praxisteam⭐️⭐️⭐️⭐️⭐️",
       "time": 1781005018,
       "translated": false
@@ -323,12 +347,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 114,
+  "rating": 4.5,
+  "reviewCount": 115,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:21.961Z"
+  "lastUpdated": "2026-06-19T09:27:02.407Z"
 }

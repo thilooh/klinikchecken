@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Uwe Pühse",
+      "author_url": "https://www.google.com/maps/contrib/116791212726496954818/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKedBHjmm-L4XPGp-jYaMEohSq4n8xo7-OY0MBUrimuF1Sv=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Prof. Schwarz ist fachlich eine Kapazität auf seinem Gebiet und zudem ein einfühlsamer Arzt. Er führt zusammen mit seinen sehr freundlichen Mitarbeiterinnen eine vorbildliche Praxis. Sehr empfehlenswert!",
+      "time": 1781638154,
+      "translated": false
+    },
+    {
       "author_name": "Gabi Maier",
       "author_url": "https://www.google.com/maps/contrib/115080876539168485768/reviews",
       "language": "de",
@@ -170,11 +182,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 46,
+  "reviewCount": 47,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:23.397Z"
+  "lastUpdated": "2026-06-19T09:27:03.714Z"
 }

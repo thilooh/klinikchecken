@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "C",
+      "author_url": "https://www.google.com/maps/contrib/113206627109683527321/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpad9A9WFEuILvVtQl8TPOwf4Q47H7aa_Z1qyNzBcj_bB-CA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781724027,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan",
+      "author_url": "https://www.google.com/maps/contrib/108189089384836710747/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_nCw1vS3J7N9dUfGC_r3Mv8Qddo1n5nccus6kAW-d0Dqp9A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War heute das erste mal dort und kann die Praxis und die Ärztin absolut empfehlen. Ich bekam detaillierte Infos, aber dennoch lief alles schnell, effizient und immer sehr freundlich ab. Praxis-Organisation läuft scheinbar auch gut, weil Wartezeit hatte ich keine.",
+      "time": 1781709111,
+      "translated": false
+    },
+    {
       "author_name": "Sára Pilková",
       "author_url": "https://www.google.com/maps/contrib/112517247331514938495/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8xMWEQfl-tsT9gf4C5Qb0Au2-sYOEJaqk-yktzYm09y-2rQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr lieb und hilfsbereit! Muss empfehlen:)",
+      "time": 1781077789,
+      "translated": false
+    },
+    {
+      "author_name": "Sára Pilková",
+      "author_url": "https://www.google.com/maps/contrib/112517247331514938495/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8xMWEQfl-tsT9gf4C5Qb0Au2-sYOEJaqk-yktzYm09y-2rQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr lieb und hilfsbereit! Muss empfehlen:)",
       "time": 1781077789,
       "translated": false
@@ -48,6 +82,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj6tfoAm6RUu3R9YTy0U9P9NOPidAb4u0OW4QgSjDvwDwaKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1779196705,
+      "translated": false
+    },
+    {
+      "author_name": "Kl Bö",
+      "author_url": "https://www.google.com/maps/contrib/117930717403605298208/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj6tfoAm6RUu3R9YTy0U9P9NOPidAb4u0OW4QgSjDvwDwaKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1779196705,
       "translated": false
@@ -438,11 +482,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 145,
+  "reviewCount": 147,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:22.679Z"
+  "lastUpdated": "2026-06-19T09:27:03.064Z"
 }

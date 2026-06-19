@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Monika Klein",
+      "author_url": "https://www.google.com/maps/contrib/115656167261959936059/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK61sh4ro0Gfg24-fkvCHEfnYve5MSG_a7roTkvtZQ0BOAVaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetenter Arzt, freundliches, zuvorkommendes Klinikpersonal. Sehr zu empfehlen.",
+      "time": 1781799635,
+      "translated": false
+    },
+    {
+      "author_name": "Mateusz Chawrył",
+      "author_url": "https://www.google.com/maps/contrib/113929468144905150593/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKZW1FpT9jQD-aB0s-3D945n5Em5vsU8saHxgO65goVC7k4m3-XQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war noch nicht oft in Krankenhäusern, nur ein einziges Mal in meinem Leben, aber genau so wie in dieser Klinik stelle ich mir eine Betreuung auf höchstem Niveau vor. Angefangen bei den Pflegebediensteten über die Krankenschwestern, Krankenpfleger und Physiotherapeuten bis hin zu den Ärzten. Sollte jemand einmal hierherkommen, wird er die bestmögliche Betreuung erhalten. Vielen Dank! 🤝",
+      "time": 1781799478,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Dopfer",
+      "author_url": "https://www.google.com/maps/contrib/107132371414490269755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImWRTiyiGVPkm8BwJSNWa3NtRed_KOxImNjC7_XQNi6m2mpA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach einem jahrelangem Ärztemarathon mit 8 Ärzten hier endlich gelandet. Man wird absolut freundlich behandelt wie selten heutzutage. Und die Kompetenz von Fr. Wois ist unschlagbar. Hört zu und man fühlt sich endlich verstanden. Großes Lob. Vielen Dank an das gesamte Team.",
+      "time": 1781710582,
+      "translated": false
+    },
+    {
+      "author_name": "N D",
+      "author_url": "https://www.google.com/maps/contrib/111052155127498925284/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhAq9aPWO28RQl2Y3Tjd-QM8BqSqsAy-Y2Oz9c7jiB2fNc9g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Dr. Andreas Reinke.\nBei ihm fühlte ich mich sofort verstanden und aufgehoben.\nSeine fachliches und ruhiges auftreten ist besonders zu erwähnen.\nAuch das Sekräteriat ist gut organisiert.\nIch war auch 3 Tage stationär auf Station 10.\nHier auch alles neu und sauber.\nNur eines hat ein wenig gestört, nach Entlassung vom Zimmer Nachbar wurden das Bett und schmutzige Handtücher im Bad ein Tag liegen gelassen.\nZum Schluss zu sagen das VINCENTINUM IST EINE VORZEIGEKLINKIK in Augsburg.\nWeiter so......Vielen Dank an das ganze Team",
+      "time": 1781685558,
+      "translated": false
+    },
+    {
       "author_name": "Ilse Binapfl",
       "author_url": "https://www.google.com/maps/contrib/104977239456894073914/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX09tbPq96Fav0kzib3gseY3au3izcLCLqgGiiGWzoyWB_o2xfNMw=s128-c0x00000000-cc-rp-mo",
@@ -538,11 +586,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 401,
+  "reviewCount": 405,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-16T10:05:22.195Z"
+  "lastUpdated": "2026-06-19T09:27:02.631Z"
 }

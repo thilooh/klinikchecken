@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ibrahim Alsweissi",
+      "author_url": "https://www.google.com/maps/contrib/116672223802458993907/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3TgrgnfZQ_n2UXE00iKDZOqVJxO141DEGEKL4CiwUCkI6AQHD_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "The doctor and the entire team are friendly, competent, and approachable.\n\nI received thorough treatment along with clear and detailed explanations, as well as a prompt appointment.\n\nBoth Dr. Arayesh and Fr. Dr. Kappelmann communicate fluently in English and provided excellent medical care.\n\nI highly recommend this practice.\n\nMany thanks to Dr. Arayesh, Fr. Dr. Kappelmann, and the entire team for their professionalism and support.",
+      "time": 1781789335,
+      "translated": false
+    },
+    {
       "author_name": "Alex Melikh",
       "author_url": "https://www.google.com/maps/contrib/102911511176107838597/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEs_Yru7W4aAqJWw59zvbhSP3D7SQ1QtyATNO9A45uwdzeVCU=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich in dieser Praxis sehr gut aufgehoben gefühlt. Der Arzt und das gesamte Team waren jederzeit freundlich, zuvorkommend und professionell. Besonders hervorheben möchte ich die hohe Kompetenz des Arztes, der sich Zeit für meine Fragen genommen und alles verständlich erklärt hat. Die Behandlung selbst war deutlich angenehmer, als ich es mir vorher vorgestellt hatte. Insgesamt eine sehr positive Erfahrung.",
+      "time": 1781006779,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Melikh",
+      "author_url": "https://www.google.com/maps/contrib/102911511176107838597/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEs_Yru7W4aAqJWw59zvbhSP3D7SQ1QtyATNO9A45uwdzeVCU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe mich in dieser Praxis sehr gut aufgehoben gefühlt. Der Arzt und das gesamte Team waren jederzeit freundlich, zuvorkommend und professionell. Besonders hervorheben möchte ich die hohe Kompetenz des Arztes, der sich Zeit für meine Fragen genommen und alles verständlich erklärt hat. Die Behandlung selbst war deutlich angenehmer, als ich es mir vorher vorgestellt hatte. Insgesamt eine sehr positive Erfahrung.",
       "time": 1781006779,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaXSPHo9psgLnpLzT7XOCH3fKBxBR99njEnIR7_ornjTKLNHjt=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Telefonisch nicht erreichbar!!!",
+      "time": 1780566660,
+      "translated": false
+    },
+    {
+      "author_name": "l0511l",
+      "author_url": "https://www.google.com/maps/contrib/106554370745229547684/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaXSPHo9psgLnpLzT7XOCH3fKBxBR99njEnIR7_ornjTKLNHjt=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Telefonisch nicht erreichbar!!!",
       "time": 1780566660,
       "translated": false
@@ -446,11 +482,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 156,
+  "reviewCount": 157,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:13.779Z"
+  "lastUpdated": "2026-06-19T09:26:54.879Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Katja Walther",
+      "author_url": "https://www.google.com/maps/contrib/108163328053473206407/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInemRZ2lGuo0s5nLwrTYmbFJTBtchvNwfEbdYjiOzs3lTz-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eigentlich null sterne wert !!! Meine Mutter hatte online einen Termin bekommen dieser Termin wurde auch\nüber Doctolip auch bestätigt . Als meine Mutter mit Bus die Praxis erreicht hatte was mit ihrem Beschwerden schon sehr mühsam war. Sagte man ihr Sie käme jetzt nicht mehr dran ,die Praxis sei voll und sie solle doch im oktober wieder kommen.Meine Mutter hat gesagt sie würde auch 1-2 Std Wartezeit in Kauf nehmen ,sie möchte Hilfe und hat sich extra auf dem Weg gemacht und ist mit Terminbestätigung gekommen . Meine Mutter war aufgrund ihrer starken Beschwerden vorstellig und wurde unfreundlich und patzig weggeschickt . Nicht nur medizinische eine inkompetent Verhaltensweise aber so mit Menschen  umzugehen ist für mich einfach unvorstellbar und nicht vertretbar .",
+      "time": 1781619280,
+      "translated": false
+    },
+    {
       "author_name": "Angelika Bartsch",
       "author_url": "https://www.google.com/maps/contrib/112116508231357227261/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Z6pmSjiPyFaenmWBn_FvIMwxHCQb7gB6HDtQ-LIQL_Sc5XAq=s128-c0x00000000-cc-rp-mo-ba4",
@@ -23,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Clark Kent",
+      "author_url": "https://www.google.com/maps/contrib/116897286141445079309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyGvaHju01m5e--biEywefWU162lp6px-H3ehcHQMxBPg4PnxuKg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Freundliches Personal und toller Arzt. Dr. Nasif nimmt sich Zeit und erklärt alles genau. Er nimmt sich Zeit für Fragen und schaut immer das es dem Patienten gut geht.",
+      "time": 1781252255,
+      "translated": false
+    },
+    {
       "author_name": "Abdellah Nalbou",
       "author_url": "https://www.google.com/maps/contrib/102074330384472456265/reviews",
       "language": "de",
@@ -30,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO6cjRxkI4WTKyAUJ8rwHmf4YrsT8I9S6UUQOinPuz3bob3g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Respektabel und arbeitet fleißig.",
+      "time": 1781081038,
+      "translated": true
+    },
+    {
+      "author_name": "Abdellah Nalbou",
+      "author_url": "https://www.google.com/maps/contrib/102074330384472456265/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO6cjRxkI4WTKyAUJ8rwHmf4YrsT8I9S6UUQOinPuz3bob3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Respektabel und arbeitet fleißig.",
       "time": 1781081038,
       "translated": true
@@ -516,11 +552,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 175,
+  "reviewCount": 174,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:20.521Z"
+  "lastUpdated": "2026-06-19T09:27:01.094Z"
 }

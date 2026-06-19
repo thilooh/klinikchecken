@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tina Olek",
+      "author_url": "https://www.google.com/maps/contrib/118210974867561525474/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_h2LhVn2UjvhUqrdG5Rfh7kSD7ql1iSByEIV5Nmm0HD5jOioc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war am Montag bei Nadya Guellil Ästhetik Halle und habe mich von Anfang an sehr wohlgefühlt. Der Empfang war unglaublich herzlich und freundlich. Das Aufklärungsgespräch war ausführlich, ehrlich und sehr angenehm – alle meine Fragen wurden in Ruhe beantwortet.\n\nDie Behandlung selbst war professionell und verlief super. Mit dem Ergebnis bin ich mehr als zufrieden und freue mich jeden Tag darüber. Man merkt, dass hier mit viel Kompetenz, Sorgfalt und Herz gearbeitet wird.\n\nVielen Dank an das ganze Team für die tolle Betreuung. Ich komme sehr gerne wieder und kann die Praxis von Herzen weiterempfehlen! ❤️✨",
+      "time": 1781623458,
+      "translated": false
+    },
+    {
       "author_name": "Anna Jusmann",
       "author_url": "https://www.google.com/maps/contrib/115105716908400191801/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ73HnrJ9pDgM5UWE5Wm_6cqCfV97-GUEFADf8aGln-SNPs=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Tolle kompetente Beratung, kein Aufdrängen von Behandlungen, freundliches Personal, tolle Ergebnisse. Sehr empfehlenswert.",
+      "time": 1779309905,
+      "translated": false
+    },
+    {
+      "author_name": "Hend Yassin",
+      "author_url": "https://www.google.com/maps/contrib/104699128436099862932/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ73HnrJ9pDgM5UWE5Wm_6cqCfV97-GUEFADf8aGln-SNPs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Tolle kompetente Beratung, kein Aufdrängen von Behandlungen, freundliches Personal, tolle Ergebnisse. Sehr empfehlenswert.",
       "time": 1779309905,
       "translated": false
@@ -476,11 +500,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 93,
+  "reviewCount": 94,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:33.721Z"
+  "lastUpdated": "2026-06-19T09:27:13.203Z"
 }

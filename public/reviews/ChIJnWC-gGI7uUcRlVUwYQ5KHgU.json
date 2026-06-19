@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Mustafa Yaqubi",
+      "author_url": "https://www.google.com/maps/contrib/117614803915615403322/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBgPE0ewVqbSHfAPqGftjB-2hnn3lCLiTnMculaJ5OwTGdc8kq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kenne Dr. Al-Jebori schon seit vielen Jahren und schätze ihn sehr. Er ist einer der besten Ärzte, äußerst zuverlässig und immer freundlich. Ich empfehle ihn zu 100 % weiter.",
+      "time": 1781767511,
+      "translated": false
+    },
+    {
+      "author_name": "Rama Shahen",
+      "author_url": "https://www.google.com/maps/contrib/108153964415368233432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLj3vIB7VqvyGBNqcd_4zwr3v1sPve9POWx6m7pLjg6gxQmIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781703416,
+      "translated": false
+    },
+    {
       "author_name": "Shahad Al Ahmad",
       "author_url": "https://www.google.com/maps/contrib/115831464385700934623/reviews",
       "language": "de",
@@ -80,6 +102,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyf8GhrWG14UK-daoPTLUEAcbq1JagDI636mZVDhv61d7UPVca=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Dr. Al-Jubouri ist ein Arzt im wahrsten Sinne des Wortes und zeichnet sich zudem durch ein tadelloses ethisches Verhalten aus.\n\nAlle Mitarbeiter, die mit ihm zusammenarbeiten, sind hilfsbereit und freundlich.",
+      "time": 1779982566,
+      "translated": true
+    },
+    {
+      "author_name": "Ibrahim Al Saghir",
+      "author_url": "https://www.google.com/maps/contrib/106211907220328507203/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyf8GhrWG14UK-daoPTLUEAcbq1JagDI636mZVDhv61d7UPVca=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Dr. Al-Jubouri ist ein Arzt im wahrsten Sinne des Wortes und zeichnet sich zudem durch ein tadelloses ethisches Verhalten aus.\n\nAlle Mitarbeiter, die mit ihm zusammenarbeiten, sind hilfsbereit und freundlich.",
       "time": 1779982566,
       "translated": true
@@ -528,11 +562,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 380,
+  "reviewCount": 382,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:37.535Z"
+  "lastUpdated": "2026-06-19T09:27:16.704Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Mitch McMuffin",
+      "author_url": "https://www.google.com/maps/contrib/115090496096070806042/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfKZEWLJ3c3mQYydMH3TWFbnqvuk2xr2syPdOuX6iD5LrNb5s=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781710123,
+      "translated": false
+    },
+    {
+      "author_name": "Amir Hossein Mollashahi",
+      "author_url": "https://www.google.com/maps/contrib/109454781785476152892/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgPiMQqHIUGAdESFrCOMs2599wHYrYLCJgX_YYauwTWtEwSgJm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Personal an der Rezeption waren wirklich sympathisch, verständnisvoll und freundlich. Auch die Ärztin war sehr geduldig, hat mich mein Problem erst mal in Ruhe erklären lassen und mir dann ihre Meinung dazu gesagt. Ein wirklich sehr angenehmer Besuch.",
+      "time": 1781608445,
+      "translated": false
+    },
+    {
       "author_name": "Julian Platte",
       "author_url": "https://www.google.com/maps/contrib/107478451117807686965/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcZvXRq75i2swgXyyBK_aGhSlxHhI3tEWbWtYSnMEw4lOb9RF=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcZvXRq75i2swgXyyBK_aGhSlxHhI3tEWbWtYSnMEw4lOb9RF=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1780477498,
+      "translated": false
+    },
+    {
+      "author_name": "Julian Platte",
+      "author_url": "https://www.google.com/maps/contrib/107478451117807686965/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcZvXRq75i2swgXyyBK_aGhSlxHhI3tEWbWtYSnMEw4lOb9RF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1780477498,
       "translated": false
@@ -57,6 +89,18 @@
       "translated": false
     },
     {
+      "author_name": "Tascha B",
+      "author_url": "https://www.google.com/maps/contrib/105757734205792241504/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILcGF0_Vh4VCz5WfNvDflb-lpXF7Ox2JR1a4yIpRv57WzyiGs=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich habe mir in dieser Praxis eine Narbe mit RF-Microneedling behandeln lassen. Nach nun insgesamt 6 Sitzungen bin ich sehr glücklich mit dem Ergebnis. Herr Dr. Schugt ist wirklich kompetent und erklärt sein Vorgehen immer ausführlich.\n\nEin kleiner Kritikpunkt wäre jedoch, dass die Praxis leider weder per Telefon noch per Mail zu erreichen ist.\nInsgesamt aber ein sehr nettes Praxisteam!",
+      "time": 1779982376,
+      "translated": false
+    },
+    {
       "author_name": "Matthias Freyni",
       "author_url": "https://www.google.com/maps/contrib/105680061953247225541/reviews",
       "language": "de",
@@ -88,6 +132,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5dU2bXfee3TxcC-TFHHXmJJ88Euo0Do3PdQJrtpREMewoIQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Meine Frau und ich waren zum Hautscreening dort sowie bezüglich meines Gesichts . Wir hatten den Termin um 9.30 und waren nach Ankunft auch sofort dran . Herr Schugt persönlich hat sich um uns gekümmert und sich intensiv Zeit genommen . Wir können die Praxis ( sehr sauber ) nur empfehlen.\nKlare 5 Sterne",
+      "time": 1779810715,
+      "translated": false
+    },
+    {
+      "author_name": "Matthias Freyni",
+      "author_url": "https://www.google.com/maps/contrib/105680061953247225541/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5dU2bXfee3TxcC-TFHHXmJJ88Euo0Do3PdQJrtpREMewoIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Meine Frau und ich waren zum Hautscreening dort sowie bezüglich meines Gesichts . Wir hatten den Termin um 9.30 und waren nach Ankunft auch sofort dran . Herr Schugt persönlich hat sich um uns gekümmert und sich intensiv Zeit genommen . Wir können die Praxis ( sehr sauber ) nur empfehlen.\nKlare 5 Sterne",
       "time": 1779810715,
       "translated": false
@@ -448,11 +504,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 242,
+  "reviewCount": 244,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:20.768Z"
+  "lastUpdated": "2026-06-19T09:27:01.306Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michaela Johnson",
+      "author_url": "https://www.google.com/maps/contrib/102115524793065531267/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUEBTYL3deM1ODwS5_ddWcHbqarY_FKmEVPoKV3MoUf6ASaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Keine Ahnung, was in dieser Praxis los ist. Hatte versucht telefonisch jemanden zu erreichen, zu verschiedenen Zeiten+Tagen, es ging immer der AB an.\nHabe es mit einer E-Mail versucht - keine Reaktion.\nIch schickte einen Bekannten hin, da ich nicht in der Nähe wohne, er hat dann erstmal die volle Ladung schlechte Laune abbekommen.\nWir sollen öfters anrufen, uns auf dem Weg dorthin machen, uns vorstellen und hoffen dran zu kommen. Nee.\nTatsächlich gibt es noch Menschen die, wie auch die Mitarbeiter dort, eine Arbeit haben und auf einen Termin angewiesen sind.\nIch weiß, es fängt oben in der Politik an, aber so geht das nicht.\nDann schreibt auf eure Webseite, \"ihr erreicht uns leider nicht mehr telefonisch, Termine nur nach persönlichen Erscheinen\"",
+      "time": 1781119366,
+      "translated": false
+    },
+    {
       "author_name": "Marcus Hendrischk",
       "author_url": "https://www.google.com/maps/contrib/116985602167097847552/reviews",
       "language": "de",
@@ -89,6 +101,16 @@
       "translated": false
     },
     {
+      "author_name": "Faiza Salam",
+      "author_url": "https://www.google.com/maps/contrib/102246095053055090619/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLisE5sMHHd4MbzZXQk2AoV9nk8M76WIUzmTb04OhwYowDECg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1779391639,
+      "translated": false
+    },
+    {
       "author_name": "Mustafa Ghulam",
       "author_url": "https://www.google.com/maps/contrib/116108280105288213633/reviews",
       "language": "de",
@@ -132,6 +154,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlf6UXppXvdAvsdSBzAL-_2h7lRtn--p8Vsbj5kmu90bILQg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Es ist keine Hautarzt ist nur eine Kosmetik Laden ,sehr unfreundliches Team der Kassen Rechnungsstelle muss eingeschaltet werden .",
+      "time": 1779262703,
+      "translated": false
+    },
+    {
+      "author_name": "Mustafa Ghulam",
+      "author_url": "https://www.google.com/maps/contrib/116108280105288213633/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlf6UXppXvdAvsdSBzAL-_2h7lRtn--p8Vsbj5kmu90bILQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Es ist keine Hautarzt ist nur eine Kosmetik Laden ,sehr unfreundliches Team der Kassen Rechnungsstelle muss eingeschaltet werden .",
       "time": 1779262703,
       "translated": false
@@ -313,12 +347,12 @@
       "translated": true
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 75,
+  "rating": 4.6,
+  "reviewCount": 76,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:14.496Z"
+  "lastUpdated": "2026-06-19T09:26:55.530Z"
 }

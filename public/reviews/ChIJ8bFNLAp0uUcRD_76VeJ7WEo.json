@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Paul",
+      "author_url": "https://www.google.com/maps/contrib/117484041817396712035/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdl_-_NAZhTudA8ZTEaBy8wKXVVp8gBCiwRjK_711u4CeoU1f4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine reine Katerstrofe seit es dreimal Johanniter heisst. Armes Gesundheitssüstem.",
+      "time": 1781787723,
+      "translated": false
+    },
+    {
       "author_name": "Marco Exner",
       "author_url": "https://www.google.com/maps/contrib/117054455582778834213/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8HnZNI3AQlgOb7OcyydrRFyfymEY1uMwqJ6W4qIPFWoYX5T99=s128-c0x00000000-cc-rp-mo-ba4",
@@ -175,12 +187,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 13,
+  "rating": 3.9,
+  "reviewCount": 14,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:37.778Z"
+  "lastUpdated": "2026-06-19T09:27:16.921Z"
 }

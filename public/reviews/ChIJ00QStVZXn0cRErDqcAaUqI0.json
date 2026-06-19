@@ -237,6 +237,16 @@
       "translated": false
     },
     {
+      "author_name": "Sebastian Peters",
+      "author_url": "https://www.google.com/maps/contrib/117178835226930151882/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYcL4aGoFBb0li5QNSay6SXMsoM4ax1pDLdgnXVCGdwWVK3Sfd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1773996223,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Kleylein",
       "author_url": "https://www.google.com/maps/contrib/101867768586428416918/reviews",
       "language": "de",
@@ -336,5 +346,5 @@
   "rating": 5,
   "reviewCount": 15,
   "summary": [],
-  "lastUpdated": "2026-06-16T10:05:11.374Z"
+  "lastUpdated": "2026-06-19T09:26:52.689Z"
 }

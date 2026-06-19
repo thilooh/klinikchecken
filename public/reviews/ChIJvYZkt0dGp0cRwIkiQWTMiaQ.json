@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tine Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/110892776138353803338/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnY5cww6PvoWQG40SDorm-MT_JRSPtNqtar8vfcFZBFDPbHFs7=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist sehr zu empfehlen. Dr. Jablonski ist ein absolut kompetenter und sehr sympathischer Arzt und auch das Team ist spitze bis auf eine Schwester die leider sehr forsch und ungehalten ist. Durch Gespräche im Wartezimmer wurde klar das sie wohl schon immer so ist und da ich selber im Gesundheitswesen arbeite ist so ein Verhalten für mich völlig unverständlich. Vielleicht sollte da mal ein Gespräch mit der Betroffenen stattfinden.",
+      "time": 1781782645,
+      "translated": false
+    },
+    {
       "author_name": "Gabi Mueller",
       "author_url": "https://www.google.com/maps/contrib/100812616948701280829/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5LEvdBcYh3n6QgXHx9cfrsHUd_XjoZ5p9gcXoAcEHo-ycnQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr nettes und geduldiges Team, danke das es euch gibt.",
+      "time": 1780474443,
+      "translated": false
+    },
+    {
+      "author_name": "Gabi Mueller",
+      "author_url": "https://www.google.com/maps/contrib/100812616948701280829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5LEvdBcYh3n6QgXHx9cfrsHUd_XjoZ5p9gcXoAcEHo-ycnQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr nettes und geduldiges Team, danke das es euch gibt.",
       "time": 1780474443,
       "translated": false
@@ -193,6 +217,18 @@
       "translated": false
     },
     {
+      "author_name": "margit jentzsch",
+      "author_url": "https://www.google.com/maps/contrib/111543090920844860441/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6TfOU_h8n75goNWBNu-qW7yro57ER7_XkiLWXnc6qVzkkuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
+      "text": "Ich hatte vor einer Woche meine Krampfadern OP und möchte einfach Danke sagen. Sie sind ein super Team. Nette Schwestern und mit Frau Dr. Blechschmidt hatte ich eine erfahrene und wirklich gute Ärztin. Ich kann dieses Team wirklich weiterempfehlen und wünsche der ganzen Praxis alles Gute.",
+      "time": 1750269695,
+      "translated": false
+    },
+    {
       "author_name": "Agshin Naghi",
       "author_url": "https://www.google.com/maps/contrib/111634696864749049704/reviews",
       "language": "en",
@@ -242,11 +278,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 48,
+  "reviewCount": 49,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:28.699Z"
+  "lastUpdated": "2026-06-19T09:27:08.546Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Elwira Keck",
+      "author_url": "https://www.google.com/maps/contrib/114925447902576559177/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKo5EgbJ4082C0Oz4VOzi4caNfu6xLNYfldMGg7yzxpvchryA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war wegen  Beratung von Lipödem 2 Op Seit 01.01.2026 Kassenleistung da. Als Erstes ist mir gesagt worden, dass eine 3 D Scan als IGEl Leustung erforderlich ist 85 Euro (angeblich Vorgabe der Krankenkasse)\nIch bin gesetzlich Versichert und erst dannach habe ich erfahren, dass sie die op nur als Privatleistung operieren für die Beine ab Knie bis Knöchel 8815,36 Euro kosten würde.",
+      "time": 1781708188,
+      "translated": false
+    },
+    {
+      "author_name": "Alkhallouf",
+      "author_url": "https://www.google.com/maps/contrib/110877886506713079953/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNZkW3hsPWEkkxSDSsKaphToKGwKLcLyx-jzvWUuAR-DG21g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute ging niemand ans Telefon. Ich habe über zwanzig Mal angerufen, aber niemand hat geantwortet, also bin ich hingefahren, um einen Termin zu vereinbaren. Ich bin dafür insgesamt etwa 90 km gefahren.",
+      "time": 1781626079,
+      "translated": true
+    },
+    {
       "author_name": "Batuhan Firatoglu",
       "author_url": "https://www.google.com/maps/contrib/108671031719331021258/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICT-gHeGOJIfPL1o6-lFY1gdTrfNZ_yKIwEatOpqICUmpBvA=s128-c0x00000000-cc-rp-mo",
@@ -36,6 +60,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICT-gHeGOJIfPL1o6-lFY1gdTrfNZ_yKIwEatOpqICUmpBvA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1779300730,
+      "translated": false
+    },
+    {
+      "author_name": "Batuhan Firatoglu",
+      "author_url": "https://www.google.com/maps/contrib/108671031719331021258/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICT-gHeGOJIfPL1o6-lFY1gdTrfNZ_yKIwEatOpqICUmpBvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1779300730,
       "translated": false
@@ -396,7 +430,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [],
-  "lastUpdated": "2026-06-16T10:05:06.487Z"
+  "lastUpdated": "2026-06-19T09:26:48.102Z"
 }

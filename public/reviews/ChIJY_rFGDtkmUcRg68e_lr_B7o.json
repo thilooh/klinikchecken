@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Fyz Clk",
+      "author_url": "https://www.google.com/maps/contrib/112964986433181552020/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnTQ43zZDwX-mC38j0z8agjtRQCtv7YhuW6_TeFcV2FbO2H5fX=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach 6 Monaten Wartezeit wurde ich leider sehr enttäuscht. Meine Schmerzen wurden aus meiner Sicht nicht ernst genommen. Statt einer gründlichen Untersuchung bekam ich lediglich den Rat, abzunehmen und Sport zu treiben. Auf meine Aussage, dass ich aufgrund der Schmerzen kaum Sport machen kann, wurde kaum eingegangen. Ich habe die Praxis mit dem Gefühl verlassen, nicht ernst genommen und nicht respektvoll behandelt worden zu sein.",
+      "time": 1781801469,
+      "translated": false
+    },
+    {
       "author_name": "Bi Xi",
       "author_url": "https://www.google.com/maps/contrib/101232699560893904926/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQbe6auzSQEYK-EgFYc2pKjogMup-aG5OMbctv57dLewzf1A=s128-c0x00000000-cc-rp-mo",
@@ -76,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA21NlJmBKudcGQJ6uG3E-Vw4nUBRd6Zj9RqTe8k9-Rxqgmg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Besser geht es nicht! Einfache Terminvereinbarung über Chat, sehr gute Praxisorganisation, keine Wartezeit. Der Arzt nimmt sich viel Zeit erklärt alles ganz genau und ist sehr einfühlsam und fachlich ausgesprochen kompetent. Empfang sehr freundlich und schnell, Parkplätze vor dem Haus, Bahnhaltestelle ebenfalls. Ich kann die anderen Bewertungen absolut bestätigen. Auf meinen Termin habe ich 3 Wochen gewartet was als Neu Patientin bei einem Facharzt absolut passt.",
+      "time": 1779089125,
+      "translated": false
+    },
+    {
+      "author_name": "K H",
+      "author_url": "https://www.google.com/maps/contrib/114023583352855858420/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA21NlJmBKudcGQJ6uG3E-Vw4nUBRd6Zj9RqTe8k9-Rxqgmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Besser geht es nicht! Einfache Terminvereinbarung über Chat, sehr gute Praxisorganisation, keine Wartezeit. Der Arzt nimmt sich viel Zeit erklärt alles ganz genau und ist sehr einfühlsam und fachlich ausgesprochen kompetent. Empfang sehr freundlich und schnell, Parkplätze vor dem Haus, Bahnhaltestelle ebenfalls. Ich kann die anderen Bewertungen absolut bestätigen. Auf meinen Termin habe ich 3 Wochen gewartet was als Neu Patientin bei einem Facharzt absolut passt.",
       "time": 1779089125,
       "translated": false
@@ -395,12 +419,12 @@
       "translated": false
     }
   ],
-  "rating": 5,
-  "reviewCount": 83,
+  "rating": 4.9,
+  "reviewCount": 84,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:24.141Z"
+  "lastUpdated": "2026-06-19T09:27:04.370Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Uwe",
+      "author_url": "https://www.google.com/maps/contrib/102924493824750815396/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvcwgPzeUvo9ooKqBL2E3VKGPCZ6BZlUz73RI0-bKRJUnomg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781813255,
+      "translated": false
+    },
+    {
       "author_name": "Just Anyone",
       "author_url": "https://www.google.com/maps/contrib/113735593356144884854/reviews",
       "language": "de",
@@ -470,11 +480,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 169,
+  "reviewCount": 170,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:22.915Z"
+  "lastUpdated": "2026-06-19T09:27:03.279Z"
 }

@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Enes Akar",
+      "author_url": "https://www.google.com/maps/contrib/111915037030030669346/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxsi7RbtxIyvQs51gjbVDS7Ce9vi4IVVCf7z39HDHrO9XRgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781645810,
+      "translated": false
+    },
+    {
+      "author_name": "Vio Vio",
+      "author_url": "https://www.google.com/maps/contrib/112966743838394070975/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIukgwEzhUOEpFBhRwSxCB5Yw9ZJhI175TJgjIQgjTgea3Pow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781609631,
+      "translated": false
+    },
+    {
       "author_name": "Nils Dames",
       "author_url": "https://www.google.com/maps/contrib/102169909984441026374/reviews",
       "language": "de",
@@ -8,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2hphBPTaqf0T8zp4GX0yC4Hgb9njjnJf3ZlOibPM1-q3WgA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Top Praxis, super nettes und professionelles Team - 10/10. Komme gerne wieder.",
+      "time": 1781185775,
+      "translated": false
+    },
+    {
+      "author_name": "Nils Dames",
+      "author_url": "https://www.google.com/maps/contrib/102169909984441026374/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2hphBPTaqf0T8zp4GX0yC4Hgb9njjnJf3ZlOibPM1-q3WgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Top Praxis, super nettes und professionelles Team - 10/10. Komme gerne wieder.",
       "time": 1781185775,
       "translated": false
@@ -32,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-mgHRgdViJ4Zn2U5MpxiJkGgZRppiIj2OZ0d5K8SBv_AW1w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war heute bei Dr. Curelaru in Koblenz und kann nur Positives berichten. Vom ersten Moment an habe ich mich super aufgehoben gefühlt. Dr. Curelaru hat sich viel Zeit genommen, alle meine Fragen ausführlich beantwortet und eine wirklich kompetente Behandlung geboten. Das gesamte Team ist zudem unglaublich nett und freundlich. Ich kann diese Praxis wärmstens empfehlen!\nSchön, dass es noch so unglaublich freundliche Menschen gibt!\nDanke für ALLES!",
+      "time": 1780506808,
+      "translated": false
+    },
+    {
+      "author_name": "Patricia Gippert",
+      "author_url": "https://www.google.com/maps/contrib/103667615591456417387/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-mgHRgdViJ4Zn2U5MpxiJkGgZRppiIj2OZ0d5K8SBv_AW1w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war heute bei Dr. Curelaru in Koblenz und kann nur Positives berichten. Vom ersten Moment an habe ich mich super aufgehoben gefühlt. Dr. Curelaru hat sich viel Zeit genommen, alle meine Fragen ausführlich beantwortet und eine wirklich kompetente Behandlung geboten. Das gesamte Team ist zudem unglaublich nett und freundlich. Ich kann diese Praxis wärmstens empfehlen!\nSchön, dass es noch so unglaublich freundliche Menschen gibt!\nDanke für ALLES!",
       "time": 1780506808,
       "translated": false
@@ -308,11 +352,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 41,
+  "reviewCount": 43,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-06-16T10:05:48.644Z"
+  "lastUpdated": "2026-06-19T09:27:26.911Z"
 }

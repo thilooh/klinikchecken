@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Maurice Schröer",
+      "author_url": "https://www.google.com/maps/contrib/113973427564389412944/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtxkY5PgDH89p0v62lEu2snYCWmyz9KhQskJQrt7UVm_IUjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Najm ist einfach ein großartiger Arzt! Man fühlt sich bei ihm sofort gut aufgehoben, ernst genommen und kompetent beraten. Er nimmt sich Zeit, erklärt alles verständlich und begegnet einem dabei immer freundlich, herzlich und auf Augenhöhe. Fachlich top und menschlich genauso stark. Ich kann Dr. Najm wirklich uneingeschränkt weiterempfehlen, vielen Dank für die tolle Betreuung! Bedenkenlos 5 Sterne!",
+      "time": 1781788308,
+      "translated": false
+    },
+    {
+      "author_name": "Sara Plutowska",
+      "author_url": "https://www.google.com/maps/contrib/115644947293844017734/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAvXXK4uiSwo1vFjPtUp-xqepQrkuXj7Sa7YWDmyKNrzaMGRQR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich hier sehr wohl gefühlt. Alles wurde mir professionell und verständlich erklärt. Besonders beeindruckt hat mich, dass sich viel Zeit für die Kunden genommen wird und auf alle Fragen eingegangen wird. Sehr freundliches und kompetentes Team. Absolute Empfehlung! Ich würde jederzeit wiederkommen und mich immer wieder für Skin & Soul by Aleo Klinik entscheiden!🫶🏽",
+      "time": 1781606606,
+      "translated": false
+    },
+    {
       "author_name": "Fleur",
       "author_url": "https://www.google.com/maps/contrib/107335190901731219418/reviews",
       "language": "de",
@@ -590,11 +614,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 214,
+  "reviewCount": 216,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:35.885Z"
+  "lastUpdated": "2026-06-19T09:27:15.151Z"
 }

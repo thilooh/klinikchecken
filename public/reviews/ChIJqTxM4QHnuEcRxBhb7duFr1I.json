@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ali Alali",
+      "author_url": "https://www.google.com/maps/contrib/107641648485375912483/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ7qLlLFr9ZTX04Vwf0J6vDI0IbXkwUPXMt5EhQ5v_scvgU03M=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein wunderbarer Arzt, was seine Behandlung und seine Freundlichkeit betrifft.",
+      "time": 1781606624,
+      "translated": true
+    },
+    {
       "author_name": "Petra Kunkel",
       "author_url": "https://www.google.com/maps/contrib/116629799198276437382/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7MtWDgUrgL-xVoECOOfdrFh8cAHaVTTIy3BGrxhQLpiPl6pcD=s128-c0x00000000-cc-rp-mo-ba2",
@@ -194,6 +206,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbKRnAxofU5rfpYdnwlnoTK5qBax5YViar9657OQv1TYS19A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Mein Mann und ich sind seit Jahren Patienten von Dr. Topp und mit ihm sowie seinem Team sehr zufrieden. Herr Dr. Topp ist sehr kompetent und hilft, wo er nur kann. Terminvergaben verlaufen unkompliziert. Wir können Dr. Topp und sein Team mit gutem Gewissen sehr weiterempfehlen.",
+      "time": 1771248374,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Gumpmann",
+      "author_url": "https://www.google.com/maps/contrib/103838190683321824829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbKRnAxofU5rfpYdnwlnoTK5qBax5YViar9657OQv1TYS19A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Mein Mann und ich sind seit Jahren Patienten von Dr. Topp und mit ihm sowie seinem Team sehr zufrieden. Herr Dr. Topp ist sehr kompetent und hilft, wo er nur kann. Terminvergaben verlaufen unkompliziert. Wir können Dr. Topp und sein Team mit gutem Gewissen sehr weiterempfehlen.",
       "time": 1771248374,
       "translated": false
@@ -296,11 +320,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 164,
+  "reviewCount": 165,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:34.934Z"
+  "lastUpdated": "2026-06-19T09:27:14.280Z"
 }

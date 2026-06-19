@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Jeremy",
+      "author_url": "https://www.google.com/maps/contrib/113885848913490262187/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtmjgRik33Odj59vRgtX1ucAu8TLObFLAzwXgJFm6ihEP8ICA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1774001913,
+      "translated": false
+    },
+    {
       "author_name": "Frank Köhne",
       "author_url": "https://www.google.com/maps/contrib/111583605587176193187/reviews",
       "language": "de",
@@ -76,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJghBTO3ZhiPNuwEF6F1aIF31RSJn2lk2sQ-xVG9jdj2Xcfcc=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Ich habe wegen meiner zehnjährigen Tochter angerufen, weil sie einen Splitter unter der Haut hat. Die Dame am Telefon sagte zu mir: Tut mir leid, wir nehmen nur Selbstzahler und Privatpatienten.\n\nTraurig, aber wahr...",
+      "time": 1771249246,
+      "translated": false
+    },
+    {
+      "author_name": "Sorosh A",
+      "author_url": "https://www.google.com/maps/contrib/114147161938167748519/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJghBTO3ZhiPNuwEF6F1aIF31RSJn2lk2sQ-xVG9jdj2Xcfcc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Ich habe wegen meiner zehnjährigen Tochter angerufen, weil sie einen Splitter unter der Haut hat. Die Dame am Telefon sagte zu mir: Tut mir leid, wir nehmen nur Selbstzahler und Privatpatienten.\n\nTraurig, aber wahr...",
       "time": 1771249246,
       "translated": false
@@ -156,5 +178,5 @@
   "rating": 2.3,
   "reviewCount": 95,
   "summary": [],
-  "lastUpdated": "2026-06-16T10:05:06.744Z"
+  "lastUpdated": "2026-06-19T09:26:48.331Z"
 }

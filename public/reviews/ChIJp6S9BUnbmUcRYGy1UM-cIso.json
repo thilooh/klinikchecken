@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Lung",
+      "author_url": "https://www.google.com/maps/contrib/109326221892434126754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9z7kPJ04LYSHlCRehRgPFIdOEOs4dxWf0LL9-_FfRbYot3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es soll noch Menschen geben die einem helfen, ein großes Dankeschön,,,,das Krankenhaus macht nichts und verweist mich ins Venenzentrum, und die nehmen sich die Zeit und erklären einem alles.\nDanke ihr seid TOP",
+      "time": 1781771331,
+      "translated": false
+    },
+    {
       "author_name": "Tuba tugba",
       "author_url": "https://www.google.com/maps/contrib/100496130796828111180/reviews",
       "language": "de",
@@ -97,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Merdan",
+      "author_url": "https://www.google.com/maps/contrib/116969833966989799996/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBtSxd8d9WbDHxqcgciOtiyaE6amLrNJLvcAy0fsNg7cr7gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Sehr schlechter Arzt ! Wurde von Herr Christoph Arnold am 26.02 operiert an den Krampfadern, darauf 2 wochen später bin ich mit starken Wadenschmerzen am operierten Bein wieder hin, als Gefässchirurg hat er ein Ultraschallgemacht und hat nicht erkannt das ich unter Tiefbeinen Thrombose leide und wurde nach Hause geschickt  ich soll zum Orthopäden gehen das es Achillessehne sein kann. Tag später war ich beim Orthopäden der mich direkt in das Krankenhaus überwiesen hat und dort wurde die Thrombose festgestellt. Also Hauptsache Operieren Geld verdienen aber danach ist der Patient egal ob er an der Thrombose leidet wegen der Operation, sucht euch lieber ein anderen Venenarzt, wenn ihr fachliche Kompetenzen sucht, wenn ein Facharzt nicht mal eine Thrombose erkennen kann dann soll er zurücktreten als Venenarzt!",
+      "time": 1773930933,
+      "translated": false
+    },
+    {
       "author_name": "Claudia Klingel",
       "author_url": "https://www.google.com/maps/contrib/105011241105858223425/reviews",
       "language": "de",
@@ -157,8 +181,8 @@
       "translated": false
     }
   ],
-  "rating": 3.8,
-  "reviewCount": 58,
+  "rating": 3.9,
+  "reviewCount": 59,
   "summary": [],
-  "lastUpdated": "2026-06-16T10:05:11.848Z"
+  "lastUpdated": "2026-06-19T09:26:53.125Z"
 }

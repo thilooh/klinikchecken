@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Hany Dawood",
+      "author_url": "https://www.google.com/maps/contrib/103623350928001420429/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFMlz0ulSCed5k0waj4G3Njz7BME6-wZe8Sn9Z3wVCNY62xw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ans Telefon geht keiner, auf Mail antwortet man nicht. Was nun?",
+      "time": 1781782727,
+      "translated": false
+    },
+    {
+      "author_name": "Bernhard Kraemer",
+      "author_url": "https://www.google.com/maps/contrib/100439377537779645508/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8VoUQiQrd5FO_wDO8bLQChCdY4PoNZtt28J4l-t7hx-3iBPHoLw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Telefonisch nicht erreichbar. Ich habe es oft telefonisch versucht komme aber nicht durch. Ständig wird man aufgefordert später noch mal anzurufen. Auf der Webseite ist eine E-Mail-Adresse angegeben. Wenn man da hinschreibt, bekommt man die Antwort dass E-Mails nicht bearbeitet werden wegen Personalmangels. Unmöglich!",
+      "time": 1781682681,
+      "translated": false
+    },
+    {
       "author_name": "maracuja",
       "author_url": "https://www.google.com/maps/contrib/100648119306784222484/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "BeTheLight",
+      "author_url": "https://www.google.com/maps/contrib/111209904621053710005/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSddcH23tC_e4Vj6qfkzZA2OK7Xirm4kwYFEtWN7XIOxSXZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich rufe seit über 7 Stunden an und es geht niemand ran. Unglaublich.\n\nNachtrag:\nIch bin dann wegen einem Notfall in die Praxis gekommen mit einem hochsensiblen Problem und wurde nach über zwei Stunden immer noch nicht dran genommen und unglaublich unfreundlich behandelt.",
+      "time": 1781251884,
+      "translated": false
+    },
+    {
       "author_name": "sonja stotz",
       "author_url": "https://www.google.com/maps/contrib/106309949454260525501/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTDZqg8Qd-cl5VF2wVD4KUguTJNOHOBKyVBhdCGPJ5lfnNJly1hw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Endlich eine Praxis welche die Erkrankung meiner Tochter richtig erkannt und behandelt hat!",
+      "time": 1781046058,
+      "translated": false
+    },
+    {
+      "author_name": "sonja stotz",
+      "author_url": "https://www.google.com/maps/contrib/106309949454260525501/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTDZqg8Qd-cl5VF2wVD4KUguTJNOHOBKyVBhdCGPJ5lfnNJly1hw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Endlich eine Praxis welche die Erkrankung meiner Tochter richtig erkannt und behandelt hat!",
       "time": 1781046058,
       "translated": false
@@ -528,11 +576,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 227,
+  "reviewCount": 229,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:25.349Z"
+  "lastUpdated": "2026-06-19T09:27:05.462Z"
 }

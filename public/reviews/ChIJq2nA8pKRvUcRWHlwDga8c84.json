@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Vincent Schlenzig",
+      "author_url": "https://www.google.com/maps/contrib/106790032797312106682/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_OPrGJ1h7rercD4dAhJmtUREHSsawtw4SA5tdSaomEltQxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Ärzte und Empfangsteam. Ich fühle mich in sehr guten Händen bei Frau Dr. Dr. Desch und Kolleg:innen.",
+      "time": 1781783872,
+      "translated": false
+    },
+    {
+      "author_name": "D G",
+      "author_url": "https://www.google.com/maps/contrib/109763766772086224739/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmFqK66P44GMZTV9AAp0vGmUxPbQ56ECGR1nYOnZ95A6AYng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Schmidt war super freundlich und hat mir toll bei der Terminvergabe geholfen!",
+      "time": 1781620991,
+      "translated": false
+    },
+    {
       "author_name": "Eric",
       "author_url": "https://www.google.com/maps/contrib/113089784396046585794/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdojzMv5LrY8RAox7GsyUC2R8T13R018pQCggYLZqf4kKMJjai=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Mag sein, dass der Arzt in dieser Praxis sehr kompetent ist. Die anderen Angestellten mit offensichtlichen Erziehungsdefiziten.\n\nNicht höfliche und nicht hilfsbereite Kommunikation auf Doctolib Portal! Von Anfragen soll ich absehen. Von Anfang an für meine Beschwerden soll mein Hausarzt ausreichen, die Kommunikation wurde geschlossen. In der neuen Kommunikation mit der Terminanfrage bekomme ich, ich soll nur über Doctolib buchen, wenn keine Termine, dann gibt es keine Kapazitäten, die Kommunikation wurde geschlossen. Ich nicht antworten. Die Person kann nicht sagen, ob die Praxis Kapazitäten für Neupatienten hat, und im Portal steht, dass die Neupatienten nicht Online buchen dürfen. Was ist das für Medpersonal?\n\nNachdem ich die anderen Kommentare gelesen habe, freue ich mich, dass ich lieber andere Praxis suche.",
+      "time": 1781002749,
+      "translated": false
+    },
+    {
+      "author_name": "Miriam Kopelevich",
+      "author_url": "https://www.google.com/maps/contrib/101355974105916909435/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdojzMv5LrY8RAox7GsyUC2R8T13R018pQCggYLZqf4kKMJjai=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Mag sein, dass der Arzt in dieser Praxis sehr kompetent ist. Die anderen Angestellten mit offensichtlichen Erziehungsdefiziten.\n\nNicht höfliche und nicht hilfsbereite Kommunikation auf Doctolib Portal! Von Anfragen soll ich absehen. Von Anfang an für meine Beschwerden soll mein Hausarzt ausreichen, die Kommunikation wurde geschlossen. In der neuen Kommunikation mit der Terminanfrage bekomme ich, ich soll nur über Doctolib buchen, wenn keine Termine, dann gibt es keine Kapazitäten, die Kommunikation wurde geschlossen. Ich nicht antworten. Die Person kann nicht sagen, ob die Praxis Kapazitäten für Neupatienten hat, und im Portal steht, dass die Neupatienten nicht Online buchen dürfen. Was ist das für Medpersonal?\n\nNachdem ich die anderen Kommentare gelesen habe, freue ich mich, dass ich lieber andere Praxis suche.",
       "time": 1781002749,
       "translated": false
@@ -640,11 +676,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 305,
+  "reviewCount": 306,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:31.303Z"
+  "lastUpdated": "2026-06-19T09:27:10.992Z"
 }

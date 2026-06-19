@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Melanie Betzer",
+      "author_url": "https://www.google.com/maps/contrib/114443304070244898926/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlxRV1dU7TiNEiW2Gvju5NxqZnJ_61Z1U2DD8XEdKDbcaCuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr professionelle und individuelle Beratung und Ausführung seitens Dr.Hermans in meiner Botox und Hyaluronbehandlung.\nBin sehr zufrieden und das Ergebnis top.\nSehr zu empfehlen.",
+      "time": 1781725661,
+      "translated": false
+    },
+    {
+      "author_name": "Daniela van Straelen",
+      "author_url": "https://www.google.com/maps/contrib/102436385397400061446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPeVZNuwf7BVYsPbb2R0bXqWOh4_MCYqWrCPho1hMjJbkF0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Uneingeschränkte Empfehlung!!!\nIch war auf der Suche nach einem schnellen Hautscreeningtermin, weil ich mir aufgrund eines Muttermals große Sorgen gemacht habe. Die Praxis habe ich im Netz gefunden. Über Doctolib wäre ein Termin im Juli möglich gewesen.  - Absolut in Ordnung. Ich habe aber auch um Rückruf gebeten. 10 min später wurde ich kontaktiert und bekam einen Termin in den folgenden 3 Tagen. Diese Termine waren online noch nicht verfügbar. Das fand ich toll.\nDas Telefonat war sehr freundlich und annehmend. - Das Screening begann pünktlich. Ich fühlte mich mit meiner Nervosität sehr ernst genommen. Ich habe mich trotz des sensiblen Momentes wohl gefühlt. Mir wurde alles erklärt und ich konnte alle meine Fragen stellen. Es war ein emphatisches Gespräch auf Augenhöhe. Das Ergebnis bekommt man Dank des modernen Scanners sofort.\nDas Geld ist sehr gut investiert.\nHerzliche Grüße aus Velbert!\nDaniela van Straelen",
+      "time": 1781634675,
+      "translated": false
+    },
+    {
       "author_name": "MoLa 8",
       "author_url": "https://www.google.com/maps/contrib/116250230332250146513/reviews",
       "language": "de",
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYR1LiImqGhssFdCwIO2oO5P2A7MznzfIn9rORXPUX6H5syg=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Die Beratung ist super und die Ärzte nehmen sich wirklich Zeit. Leider erhält man einen Termin erst in 4-6 Monaten, weshalb man frühzeitig einen ausmachen sollte. Ansonsten gibt es nichts zu bemängeln.",
+      "time": 1779440000,
+      "translated": false
+    },
+    {
+      "author_name": "Anni Mostert",
+      "author_url": "https://www.google.com/maps/contrib/108285024592075994039/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYR1LiImqGhssFdCwIO2oO5P2A7MznzfIn9rORXPUX6H5syg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Die Beratung ist super und die Ärzte nehmen sich wirklich Zeit. Leider erhält man einen Termin erst in 4-6 Monaten, weshalb man frühzeitig einen ausmachen sollte. Ansonsten gibt es nichts zu bemängeln.",
       "time": 1779440000,
       "translated": false
@@ -542,11 +578,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 308,
+  "reviewCount": 310,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:43.688Z"
+  "lastUpdated": "2026-06-19T09:27:22.359Z"
 }

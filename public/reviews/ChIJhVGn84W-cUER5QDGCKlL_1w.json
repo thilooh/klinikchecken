@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Kathrin Walbrecht",
+      "author_url": "https://www.google.com/maps/contrib/116547061479005658754/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEXDaeGKcJUFG2Y5tX6aAYWURcoYkUCeuqfat3WCsDJHYQFg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781845867,
+      "translated": false
+    },
+    {
       "author_name": "Jenny S.",
       "author_url": "https://www.google.com/maps/contrib/107247634148055099105/reviews",
       "language": "de",
@@ -317,6 +327,18 @@
       "translated": false
     },
     {
+      "author_name": "P. W.",
+      "author_url": "https://www.google.com/maps/contrib/106721558898244000280/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI97fIEWtLa4jQGdIQhuEz8yd_nVTgQuSKNUYohRNFB-A50PQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
+      "text": "Sehr freundliches Personal und eine sehr gründliche Untersuchung!",
+      "time": 1767873479,
+      "translated": false
+    },
+    {
       "author_name": "Bülent Öztemiz",
       "author_url": "https://www.google.com/maps/contrib/117224828599898360151/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvco797Ej7wtrBIC2Mwa9IS691ZTN9zu6pYYLld--piDrBQA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -338,11 +360,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 80,
+  "reviewCount": 79,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-16T10:05:34.197Z"
+  "lastUpdated": "2026-06-19T09:27:13.631Z"
 }

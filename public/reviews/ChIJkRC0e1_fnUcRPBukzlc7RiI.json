@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Konstantina",
+      "author_url": "https://www.google.com/maps/contrib/112774840665843868862/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMdbk1APwxXvCZJ79acU3pyXNvvEsNemylFyuNbHJfxKXc51s=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich würde diese Praxis auf KEINEN Fall weiterempfehlen!!\nIch hatte einen Termin zur Beratung für eine Tattoo Entfernung. Der Termin hat weniger als 5 Minuten gedauert. Die Ärztin hat meine zwei kleinen Tattoos nur kurz von weitem angeschaut und mir den Preis gesagt, den ich mir nicht leisten konnte. Danach bin ich gegangen. Später habe ich eine Rechnung über 53,86 € bekommen für Leistungen die gar nicht stattgefunden haben. Ich habe mehrmals angerufen und bin auch persönlich in die Praxis gegangen um das zu klären. Eine Rückmeldung habe ich erst nach einer E-Mail bekommen! Danach wurde die Rechnung geändert…Am Betrag hat sich eigentlich fast nichts geändert. Am Ende habe ich fast 50€ bezahlt, nur um zu erfahren dass eine Sitzung zur Tattoo-Entfernung 200€ kostet(!!!)\nWahnsinn!",
+      "time": 1781808017,
+      "translated": false
+    },
+    {
       "author_name": "V l",
       "author_url": "https://www.google.com/maps/contrib/109468640963951171727/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJyYmXozIRrCG_okKStriqFZTMClm2TanosEdMJESLPvtQwA=s128-c0x00000000-cc-rp-mo-ba5",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJyYmXozIRrCG_okKStriqFZTMClm2TanosEdMJESLPvtQwA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 2,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1780401424,
+      "translated": false
+    },
+    {
+      "author_name": "V l",
+      "author_url": "https://www.google.com/maps/contrib/109468640963951171727/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJyYmXozIRrCG_okKStriqFZTMClm2TanosEdMJESLPvtQwA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1780401424,
       "translated": false
@@ -52,6 +74,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7t6xagor_gre6wivdzldYE_jXP8FmNyww-EclbZi2E6CNHw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich hatte einen Termin zur Hautkrebsvorsorge bei Frau Augustin – und habe mich rundum wohlgefühlt! Sie hat sich viel Zeit genommen, alles sehr gründlich erklärt und mich kompetent sowie empathisch beraten. Man merkt sofort, dass ihr das Wohl ihrer Patient:innen wirklich am Herzen liegt. Ich bin mit einem sehr guten und sicheren Gefühl aus dem Termin gegangen und kann Frau Augustin absolut weiterempfehlen!",
+      "time": 1779872876,
+      "translated": false
+    },
+    {
+      "author_name": "Alexandra Angermaier-Abdirabo",
+      "author_url": "https://www.google.com/maps/contrib/106990359171315219003/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7t6xagor_gre6wivdzldYE_jXP8FmNyww-EclbZi2E6CNHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich hatte einen Termin zur Hautkrebsvorsorge bei Frau Augustin – und habe mich rundum wohlgefühlt! Sie hat sich viel Zeit genommen, alles sehr gründlich erklärt und mich kompetent sowie empathisch beraten. Man merkt sofort, dass ihr das Wohl ihrer Patient:innen wirklich am Herzen liegt. Ich bin mit einem sehr guten und sicheren Gefühl aus dem Termin gegangen und kann Frau Augustin absolut weiterempfehlen!",
       "time": 1779872876,
       "translated": false
@@ -221,8 +255,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 114,
+  "rating": 4.5,
+  "reviewCount": 115,
   "summary": [],
-  "lastUpdated": "2026-06-16T10:05:08.801Z"
+  "lastUpdated": "2026-06-19T09:26:50.261Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "S. H. M.",
+      "author_url": "https://www.google.com/maps/contrib/114726563542270628561/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOuNnoAYEC9fpAeOIX5XydqmB2bl6WBMs880-veXqaegqhEmY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider sehr enttäuschend. Bei Frau Dr. Steinkusch hatte ich nicht den Eindruck, dass auf meine Beschwerden ausreichend eingegangen wurde. Die Beratung wirkte auf mich unsicher und wenig hilfreich. Würde ich nicht weiterempfehlen.👎",
+      "time": 1781700595,
+      "translated": false
+    },
+    {
       "author_name": "Ha Be",
       "author_url": "https://www.google.com/maps/contrib/108673783403694462731/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqaO9cbg8905pcbAnIOe1_HH9NePUZKVeQPh-bgUgK7coq2Q=s128-c0x00000000-cc-rp-mo",
@@ -519,7 +531,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 200,
+  "reviewCount": 201,
   "summary": [],
-  "lastUpdated": "2026-06-16T10:05:04.741Z"
+  "lastUpdated": "2026-06-19T09:26:46.776Z"
 }

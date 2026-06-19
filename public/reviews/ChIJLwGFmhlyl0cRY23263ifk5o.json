@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Enrico Huwiler",
+      "author_url": "https://www.google.com/maps/contrib/102417310739693894240/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3JKx_BEiqKMLzhvzelHjsKmllde6dG2hiwmZ9rVJBxDjUew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "TOP Praxis. Sehr freundliches Personal. Hilfsbereit alles bestens.",
+      "time": 1781692929,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Seyfried",
+      "author_url": "https://www.google.com/maps/contrib/105836905781974611232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJL8V9E1NRN2p8_xlh50h0cc4yKYZM6VFbmoa97JW4k_v9IlQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "ICh war heute mit meiner Mutter in der Praxis.Betonen möchte ich die freundliche kompetente Arzthelferin an der Reception.Sie war bereits bei der telefonischen Terminabsprache geduldig und sehr freundlich.Auch ihre Kollegin war,ebenso wie der Arzt selbst,professionell und freundlich.Wir können diese Prsxis nur bestens weiter empfehlen.Hervorheben Frau Eberle.Eine Arzthelferin mit Herz für den Patienten.Weiter So.Keine Selbstverständlichkeit in der heutigen Zeit.",
+      "time": 1781630918,
+      "translated": false
+    },
+    {
       "author_name": "Neptuns Ankerplatz",
       "author_url": "https://www.google.com/maps/contrib/106154009005352071414/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJguMxfV8YqAJC0VNV4p9IiGuN7naG9Vf-egPg4SaRiov9k3g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super tolle Beratung, auch telefonisch. Alle sehr nett. Danke",
+      "time": 1780421894,
+      "translated": false
+    },
+    {
+      "author_name": "Tasche51",
+      "author_url": "https://www.google.com/maps/contrib/102690324418851214202/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJguMxfV8YqAJC0VNV4p9IiGuN7naG9Vf-egPg4SaRiov9k3g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super tolle Beratung, auch telefonisch. Alle sehr nett. Danke",
       "time": 1780421894,
       "translated": false
@@ -256,6 +292,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbFfAPbw7pCL-CPZdcEOdtQvFm4WUOsws0N3fZTftfrRdKRA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1776672462,
+      "translated": false
+    },
+    {
+      "author_name": "Gerlinde Reiling",
+      "author_url": "https://www.google.com/maps/contrib/108193604731166051210/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbFfAPbw7pCL-CPZdcEOdtQvFm4WUOsws0N3fZTftfrRdKRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1776672462,
       "translated": false
@@ -432,11 +478,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 51,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-16T10:05:45.836Z"
+  "lastUpdated": "2026-06-19T09:27:24.357Z"
 }

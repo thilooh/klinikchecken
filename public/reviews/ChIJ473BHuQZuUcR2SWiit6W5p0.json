@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Lisa Beck",
+      "author_url": "https://www.google.com/maps/contrib/109618079991936965905/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfy6v-TFISHqT8FiBcSKLhjGtEOFoO_16uNtlvLmEcQj5zqA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1781104030,
+      "translated": false
+    },
+    {
       "author_name": "Ingrid Zander",
       "author_url": "https://www.google.com/maps/contrib/107901903339472828147/reviews",
       "language": "de",
@@ -18,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgOReyZfWS77S-6Mys-1q3FiMuCsysPy0aVheZWEzJOgV9SQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super Service und sehr nettes Personal",
+      "time": 1781014716,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Zander",
+      "author_url": "https://www.google.com/maps/contrib/107901903339472828147/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgOReyZfWS77S-6Mys-1q3FiMuCsysPy0aVheZWEzJOgV9SQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super Service und sehr nettes Personal",
       "time": 1781014716,
       "translated": false
@@ -42,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfSdSzZM3d7JCqtVEb1CtBge7l-0RsTmmD0GnselFhib7Fbg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich kam mit Verdacht auf Lipödem in die Praxis zu Dr. Swienty. Er gab mir schon vor der richtigen Untersuchung zu verstehen, dass er meine Beschwerden nicht ernst nimmt und meine Symptome auf Adipositas schiebt. Außerdem sagte der Arzt zu mir, dass ich gar kein Lipödem haben kann, weil ich nicht genug Schmerzen habe.\nIch habe dort leider genau das erlebt, was viele andere Frauen auch erleben. Beschwerden werden herunter gespielt und man wird nicht ernst genommen.\nMittlerweile habe ich von zwei anderen Ärzten die richtige Diagnose erhalten und habe bald meine erste OP.\nDie Praxis an der Kampstraße kann ich auf jeden Fall nicht empfehlen.",
+      "time": 1780471755,
+      "translated": false
+    },
+    {
+      "author_name": "Cathy Witte",
+      "author_url": "https://www.google.com/maps/contrib/117429944253888017372/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfSdSzZM3d7JCqtVEb1CtBge7l-0RsTmmD0GnselFhib7Fbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich kam mit Verdacht auf Lipödem in die Praxis zu Dr. Swienty. Er gab mir schon vor der richtigen Untersuchung zu verstehen, dass er meine Beschwerden nicht ernst nimmt und meine Symptome auf Adipositas schiebt. Außerdem sagte der Arzt zu mir, dass ich gar kein Lipödem haben kann, weil ich nicht genug Schmerzen habe.\nIch habe dort leider genau das erlebt, was viele andere Frauen auch erleben. Beschwerden werden herunter gespielt und man wird nicht ernst genommen.\nMittlerweile habe ich von zwei anderen Ärzten die richtige Diagnose erhalten und habe bald meine erste OP.\nDie Praxis an der Kampstraße kann ich auf jeden Fall nicht empfehlen.",
       "time": 1780471755,
       "translated": false
@@ -78,6 +112,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0j3GYYX1aX2bFjrtagQCcKMXs8KmTiKC44jEUS-rNn1Gfh_GXzQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Alles super Freundlich und guter Arztder alles Erklärt hat sehr zu empfehlen",
+      "time": 1779960653,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Schneider",
+      "author_url": "https://www.google.com/maps/contrib/112065869236698280270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0j3GYYX1aX2bFjrtagQCcKMXs8KmTiKC44jEUS-rNn1Gfh_GXzQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Alles super Freundlich und guter Arztder alles Erklärt hat sehr zu empfehlen",
       "time": 1779960653,
       "translated": false
@@ -344,5 +390,5 @@
   "rating": 3.6,
   "reviewCount": 120,
   "summary": [],
-  "lastUpdated": "2026-06-16T10:05:06.978Z"
+  "lastUpdated": "2026-06-19T09:26:48.555Z"
 }
