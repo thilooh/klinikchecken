@@ -1,6 +1,38 @@
 {
   "reviews": [
     {
+      "author_name": "Lorenz Mair",
+      "author_url": "https://www.google.com/maps/contrib/101260320316337470921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILjycWK8_D_04DkSUPgoPkxdS2Mokc4owv374mrdqbAaESxw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782103353,
+      "translated": false
+    },
+    {
+      "author_name": "Baschdi",
+      "author_url": "https://www.google.com/maps/contrib/109532732624095266540/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU2K-0uvLkW-a8i3xYF-p981gaR-gC-mCcNEu-QsFTliMDmwNHqQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782029822,
+      "translated": false
+    },
+    {
+      "author_name": "Phil Velican",
+      "author_url": "https://www.google.com/maps/contrib/108903894033970459499/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDTC9QGNHa9j6InS2l04u7mysU4iKe_evKntzphq_NzqTU6hI9HA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Danke",
+      "time": 1781976190,
+      "translated": false
+    },
+    {
       "author_name": "Monika Klein",
       "author_url": "https://www.google.com/maps/contrib/115656167261959936059/reviews",
       "language": "de",
@@ -586,11 +618,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 405,
+  "reviewCount": 408,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-19T09:27:02.631Z"
+  "lastUpdated": "2026-06-22T10:35:52.035Z"
 }

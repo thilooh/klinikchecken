@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Arian Ebrahimi",
+      "author_url": "https://www.google.com/maps/contrib/107162139838799542885/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJqew2xX4QslDyWErqH_Jn93LJtX31FmUHWR35D4RcUbbhUzdA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Busch ist ein hervorragender Hautarzt für alle Themen. Kann ich nur weiterempfehlen!",
+      "time": 1781863787,
+      "translated": false
+    },
+    {
       "author_name": "S. H. M.",
       "author_url": "https://www.google.com/maps/contrib/114726563542270628561/reviews",
       "language": "de",
@@ -531,7 +543,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 201,
+  "reviewCount": 202,
   "summary": [],
-  "lastUpdated": "2026-06-19T09:26:46.776Z"
+  "lastUpdated": "2026-06-22T10:35:36.339Z"
 }

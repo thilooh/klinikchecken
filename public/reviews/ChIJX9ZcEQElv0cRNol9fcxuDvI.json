@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Celine Kramer",
+      "author_url": "https://www.google.com/maps/contrib/115310119170750776700/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8DZjtlK16RHuzkG7JFwLKP8hcgMLBlK8kII4tduKJgAmTS7rO=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782074080,
+      "translated": false
+    },
+    {
       "author_name": "Zwitscher Vogel",
       "author_url": "https://www.google.com/maps/contrib/103953794861857855288/reviews",
       "language": "de",
@@ -116,6 +126,18 @@
       "translated": false
     },
     {
+      "author_name": "Eric Freywald",
+      "author_url": "https://www.google.com/maps/contrib/113815771031719738669/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkEzIYWSXQ2XVZGL2qLUtZbQ1OMLz6G9D3fnaqtRJ3Zeow1NHy=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Frau Dr. Wieber nimmt sich ernsthaft und ehrlich des Problems an und nimmt sich Zeit für Anamnese, Diagnostik und Empfehlung. Vielen Dank!",
+      "time": 1776854412,
+      "translated": false
+    },
+    {
       "author_name": "Andy Laessing",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
@@ -223,11 +245,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 181,
+  "reviewCount": 182,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-06-19T09:26:42.873Z"
+  "lastUpdated": "2026-06-22T10:35:32.538Z"
 }

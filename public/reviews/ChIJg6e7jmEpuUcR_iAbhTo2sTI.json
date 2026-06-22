@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "Angelika Bartsch",
+      "author_url": "https://www.google.com/maps/contrib/112116508231357227261/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Z6pmSjiPyFaenmWBn_FvIMwxHCQb7gB6HDtQ-LIQL_Sc5XAq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1781347582,
+      "translated": false
+    },
+    {
       "author_name": "Clark Kent",
       "author_url": "https://www.google.com/maps/contrib/116897286141445079309/reviews",
       "language": "de",
@@ -90,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf1kraYLq2ii_azFz7c_HvNGJByV3jK7LSth1YDrKbN0vGK5dZ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "War heute zum ersten mal hier, vorher bei Dr. Schmitt. Hatte keinen Termin und bin direkt drangekommen.\nD. Nasif ist sehr freundlich und kompetent. Hat mir direkt geholfen.\nSehr zu empfehlen!",
+      "time": 1780908455,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Sichelschmidt",
+      "author_url": "https://www.google.com/maps/contrib/106370659891317200578/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf1kraYLq2ii_azFz7c_HvNGJByV3jK7LSth1YDrKbN0vGK5dZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "War heute zum ersten mal hier, vorher bei Dr. Schmitt. Hatte keinen Termin und bin direkt drangekommen.\nD. Nasif ist sehr freundlich und kompetent. Hat mir direkt geholfen.\nSehr zu empfehlen!",
       "time": 1780908455,
       "translated": false
@@ -558,5 +580,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:01.094Z"
+  "lastUpdated": "2026-06-22T10:35:50.524Z"
 }

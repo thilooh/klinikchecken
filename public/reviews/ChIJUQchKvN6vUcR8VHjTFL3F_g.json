@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "No Name S.",
+      "author_url": "https://www.google.com/maps/contrib/115348565066685215274/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlOIRB4E-pAm8nOayN9Fr27ir_KqkVemA_deLsefYrixEMJRY_=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Danke an Schwester Fatma für die tolle und wertschätzende Unterstützung :) TOLLES PERSONAL 🤍🤍🤍\nDanke an Dr. Rüger, er macht es definitiv mit Herzblut. Liebevoll :)",
+      "time": 1781882564,
+      "translated": false
+    },
+    {
       "author_name": "Jennifer Dahlem",
       "author_url": "https://www.google.com/maps/contrib/105519702051058981273/reviews",
       "language": "de",
@@ -374,11 +386,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 169,
+  "reviewCount": 170,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-19T09:27:21.927Z"
+  "lastUpdated": "2026-06-22T10:36:11.193Z"
 }

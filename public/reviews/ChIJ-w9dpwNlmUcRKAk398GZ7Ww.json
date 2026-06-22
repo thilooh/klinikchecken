@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Florian Riedl",
+      "author_url": "https://www.google.com/maps/contrib/115676649632754401717/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqmldzdhuEn-4yhtYdLWU2WimX7U3ZAZfasRrv4OR6sQzMgQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super tolle Praxis mit einem Rundum Sorglos Paket. Das gesamte Team ist super freundlich und Mega lieb. Die OP welche ich hatte war 1a vorbereitet, das Aufwachen lief ohne Probleme und man wird extrem zuvorkommend behandelt. Hier nimmt man einem alle erdenklichen Ängste und geht sehr diskret mit allen Themen um. Die Fistel OP durch Dr. Grenzner kann ich nur jedem ans Herz legen der darüber schon mal nachgedacht hat. Stand jetzt 4 Wochen nach OP und ich bereue es keine Sekunde.\n\nHier ist man wirklich sehr gut aufgehoben und ich bin stolz so eine tolle Praxis in unserer Nähe zu wissen.",
+      "time": 1782070986,
+      "translated": false
+    },
+    {
       "author_name": "Kuno Hauber",
       "author_url": "https://www.google.com/maps/contrib/105862959290823000298/reviews",
       "language": "de",
@@ -448,11 +460,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 147,
+  "reviewCount": 148,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-19T09:27:03.937Z"
+  "lastUpdated": "2026-06-22T10:35:53.369Z"
 }

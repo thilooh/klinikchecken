@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anna",
+      "author_url": "https://www.google.com/maps/contrib/109765295168014023190/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4AglswipilMcnaw53r_4HNOH67WWw7dwJosgbegaQLBhZDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sternabzug würde ich für:\n- die telefonische Erreichbarkeit geben\n- den furchtbaren telefonbot der einfach nicht hilfreich ist 😅\nNun zum positiven:\n-Dafür ist das Praxisteam überaus freundlich\n- Auch mit Kindern kein Problem\n- die Ärztliche Behandlung ist für gesetzlich versicherte und das wohl bemerkt bei einem Facharzt, in meinen Augen unfassbar gut\n\nDeswegen trotzdem volle Punktzahl 💪",
+      "time": 1781895146,
+      "translated": false
+    },
+    {
       "author_name": "Mitch McMuffin",
       "author_url": "https://www.google.com/maps/contrib/115090496096070806042/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfKZEWLJ3c3mQYydMH3TWFbnqvuk2xr2syPdOuX6iD5LrNb5s=s128-c0x00000000-cc-rp-mo-ba4",
@@ -510,5 +522,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:01.306Z"
+  "lastUpdated": "2026-06-22T10:35:50.736Z"
 }

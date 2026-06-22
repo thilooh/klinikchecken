@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Liane Otto",
+      "author_url": "https://www.google.com/maps/contrib/100205062063026367021/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIh61bNhpGqv-CG-bhlQHOOBno5cglOulCyxydSROUq1yVR1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bei meiner Untersuchung wurde mir vom Arzt gesagt, dass eine Krampfader entfernt werden muss und dass außerdem mindestens 4 weitere Termine notwendig seien, um Gefäße an beiden Waden zu veröden ( keine Kassenleistung, 400 EUR pro Sitzung).\nHeute wollte ich mir diese Diagnose von einem anderen Facharzt bestätigen lassen, der konnte gar nichts finden, weder Krampfadern noch zu verödende Gefäße, alles absolut in Ordnung.\nIch bin nur fassungslos, den Rest kann man denken",
+      "time": 1781873514,
+      "translated": false
+    },
+    {
       "author_name": "Dirk A.",
       "author_url": "https://www.google.com/maps/contrib/106554184882607120171/reviews",
       "language": "de",
@@ -178,6 +190,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfpDOOrNxKKmsBm_X4xSRxIZUxGo_JwNRqkmu3X9bXeuEx9g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war heute morgen dort um mir von Dr Pantlen die Oberlider straffen zu lassen.\nHabe es mir insgesamt viel unangenehmer vorgestellt da ist nur eine örtliche Betäubung war aber die OP verlief sehr gut und war recht kurzweilig.\nSowohl die Ärzte als auch das Personal waren sehr freundlich und fürsorglich.\nKann ich nur weiterempfehlen. Top",
+      "time": 1779276077,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine Schnee",
+      "author_url": "https://www.google.com/maps/contrib/111055384100008260168/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfpDOOrNxKKmsBm_X4xSRxIZUxGo_JwNRqkmu3X9bXeuEx9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war heute morgen dort um mir von Dr Pantlen die Oberlider straffen zu lassen.\nHabe es mir insgesamt viel unangenehmer vorgestellt da ist nur eine örtliche Betäubung war aber die OP verlief sehr gut und war recht kurzweilig.\nSowohl die Ärzte als auch das Personal waren sehr freundlich und fürsorglich.\nKann ich nur weiterempfehlen. Top",
       "time": 1779276077,
       "translated": false
@@ -496,7 +520,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 140,
+  "reviewCount": 141,
   "summary": [],
-  "lastUpdated": "2026-06-19T09:26:49.378Z"
+  "lastUpdated": "2026-06-22T10:35:38.944Z"
 }

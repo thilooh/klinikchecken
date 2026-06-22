@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dominik van den Boom",
+      "author_url": "https://www.google.com/maps/contrib/104112911278948814677/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL917EmSZ1K6tWichFUBSophFw7sxIS0PTPg2H8pXvCQ0Picg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe die Praxis im Rahmen einer umfassenden Hautkrebsanalyse besucht und war einfach begeistert. Freundliche Mitarbeiter und der Arzt war sehr kompetent und fachkundig. Das High End Gerät für die Analyse hat mich absolut überzeugt und mir ein ruhiges Gefühl gegeben. Nächstes Jahr komme ich definitiv wieder 💪💪💪.",
+      "time": 1781980730,
+      "translated": false
+    },
+    {
       "author_name": "Melanie Betzer",
       "author_url": "https://www.google.com/maps/contrib/114443304070244898926/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDuflbque0wlHzRv6cm2EQLiDMUQlz1evvVHq0kjB64dctnorw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Endlich Ärzte, die sich auch für gesetzlich Versicherte Zeit nehmen! Dass ich das noch erleben darf. Ich fühle mich hier ernst genommen, und es wird erkennbar alles versucht, einem bestmöglich zu helfen. Auch die MFA am Empfang war äußerst hilfsbereit. Vielen Dank an Herrn Dr. Cheikh und das gesamte Team! 🌷",
+      "time": 1781274396,
+      "translated": false
+    },
+    {
+      "author_name": "Anyway",
+      "author_url": "https://www.google.com/maps/contrib/110216258316785838610/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDuflbque0wlHzRv6cm2EQLiDMUQlz1evvVHq0kjB64dctnorw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Endlich Ärzte, die sich auch für gesetzlich Versicherte Zeit nehmen! Dass ich das noch erleben darf. Ich fühle mich hier ernst genommen, und es wird erkennbar alles versucht, einem bestmöglich zu helfen. Auch die MFA am Empfang war äußerst hilfsbereit. Vielen Dank an Herrn Dr. Cheikh und das gesamte Team! 🌷",
       "time": 1781274396,
       "translated": false
@@ -578,11 +602,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 310,
+  "reviewCount": 311,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-19T09:27:22.359Z"
+  "lastUpdated": "2026-06-22T10:36:11.620Z"
 }

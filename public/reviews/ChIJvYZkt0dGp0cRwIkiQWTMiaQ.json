@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Jan Neubert",
+      "author_url": "https://www.google.com/maps/contrib/109245827797347800724/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1eghlf2hemVHA3mTRKsEcfavrFzW-ynmMGc92vsyEfEanLg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Praxisteam und die Ärzte einfach super",
+      "time": 1782044464,
+      "translated": false
+    },
+    {
+      "author_name": "Beata Galant",
+      "author_url": "https://www.google.com/maps/contrib/111020275864522251603/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpGtNV2-zOAfkN9BiLxwQPbydk3wKFfpBz6iF83KvanIyTOyYG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781861226,
+      "translated": false
+    },
+    {
       "author_name": "Tine Schmidt",
       "author_url": "https://www.google.com/maps/contrib/110892776138353803338/reviews",
       "language": "de",
@@ -277,12 +299,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 49,
+  "rating": 4.3,
+  "reviewCount": 51,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:08.546Z"
+  "lastUpdated": "2026-06-22T10:35:57.936Z"
 }

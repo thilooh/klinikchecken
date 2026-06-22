@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Hans-Jűrgen Schuster",
+      "author_url": "https://www.google.com/maps/contrib/105290523350514994137/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt9OS7vqpjNFps5HaIYpELZNstLW4UZpuTm20heommV7MCbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781969678,
+      "translated": false
+    },
+    {
       "author_name": "anno reed",
       "author_url": "https://www.google.com/maps/contrib/103726233334359732629/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0NdRcHtCN_qPuIbEuFOsZ3kdxGBZ1cxQv9KOuAxem_M5Z2Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit 4 Jahren regelmäßig bei Herrn Forkmann in Behandlung. Als meine Hausärztin mir damals eine Überweisung wg. Thromboseverdacht gab, behielt man mich sofort dort, und seitdem kann ich mich immer an die Praxis wenden, wenn ich ein diesbezügliches Problem habe. Ist es dringend, bekommt man auch zeitnah einen Termin. Mir gefallen Herrn Forkmanns ruhige Art, die ausführliche sachliche Aufklärung und vor allem seine Bereitschaft, Lösungen zu suchen, wenn es mal etwas komplizierter wird. Ich halte ihn für einen sehr kompententen und engagierten Arzt.",
+      "time": 1781462963,
+      "translated": false
+    },
+    {
+      "author_name": "anno reed",
+      "author_url": "https://www.google.com/maps/contrib/103726233334359732629/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0NdRcHtCN_qPuIbEuFOsZ3kdxGBZ1cxQv9KOuAxem_M5Z2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin seit 4 Jahren regelmäßig bei Herrn Forkmann in Behandlung. Als meine Hausärztin mir damals eine Überweisung wg. Thromboseverdacht gab, behielt man mich sofort dort, und seitdem kann ich mich immer an die Praxis wenden, wenn ich ein diesbezügliches Problem habe. Ist es dringend, bekommt man auch zeitnah einen Termin. Mir gefallen Herrn Forkmanns ruhige Art, die ausführliche sachliche Aufklärung und vor allem seine Bereitschaft, Lösungen zu suchen, wenn es mal etwas komplizierter wird. Ich halte ihn für einen sehr kompententen und engagierten Arzt.",
       "time": 1781462963,
       "translated": false
@@ -129,6 +151,16 @@
       "translated": false
     },
     {
+      "author_name": "Tino L.",
+      "author_url": "https://www.google.com/maps/contrib/109471173356810571560/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5_fFgGpxAfbFU1aNdbLkwH-8467d2Iv8aeTbRTOG7y1YCfBY=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 8 Monaten",
+      "text": "",
+      "time": 1761368556,
+      "translated": false
+    },
+    {
       "author_name": "Schuster Rosita",
       "author_url": "https://www.google.com/maps/contrib/114324597341416196279/reviews",
       "language": "de",
@@ -177,12 +209,12 @@
       "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 21,
+  "rating": 4.1,
+  "reviewCount": 22,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:08.994Z"
+  "lastUpdated": "2026-06-22T10:35:58.372Z"
 }

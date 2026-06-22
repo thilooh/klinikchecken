@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "L. G.",
+      "author_url": "https://www.google.com/maps/contrib/103559110135452160744/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIICWRTCUmu_CDisYXgBNlI6PeTDAD92lksSAdG97li9-qUbQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782041025,
+      "translated": false
+    },
+    {
       "author_name": "Kuraiko Hyde",
       "author_url": "https://www.google.com/maps/contrib/101213313646871385471/reviews",
       "language": "de",
@@ -80,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXKee-VhSsXDCyFDdylz4KGdwOY7wP4BdGR6V0PlspbZqwzQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Die Dame die im Empfang stheht verdient noch nicht mal 1 sternchen, obwohl ich in der woche mehrmals gekommen bin hat die mich nicht reingelassen egal ob ich Mittag Nachmittag oder morgens früh da war heisst es immer heute ist OP Tag!!!",
+      "time": 1779352440,
+      "translated": false
+    },
+    {
+      "author_name": "Sevda Altinay",
+      "author_url": "https://www.google.com/maps/contrib/107226074127225061083/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXKee-VhSsXDCyFDdylz4KGdwOY7wP4BdGR6V0PlspbZqwzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Die Dame die im Empfang stheht verdient noch nicht mal 1 sternchen, obwohl ich in der woche mehrmals gekommen bin hat die mich nicht reingelassen egal ob ich Mittag Nachmittag oder morgens früh da war heisst es immer heute ist OP Tag!!!",
       "time": 1779352440,
       "translated": false
@@ -367,12 +389,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 75,
+  "rating": 4.7,
+  "reviewCount": 76,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-19T09:27:15.370Z"
+  "lastUpdated": "2026-06-22T10:36:04.664Z"
 }

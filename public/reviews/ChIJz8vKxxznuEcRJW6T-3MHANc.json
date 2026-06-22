@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Ionatan Shelby",
+      "author_url": "https://www.google.com/maps/contrib/118043443350790754209/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAaFUafa3opb7QbEMpmEMtgfhEgw8P4FY8rQVf2v4qHpbnQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "wollte einen Termin vereinbaren. Dabei hatte ich Kontakt mit einer Ärztin in Raum 14.\nIch habe die Ärztin höflich nach einem Termin gefragt. Leider empfand ich ihre Reaktion als sehr unfreundlich und respektlos. Der Umgangston hat mich überrascht und verärgert, da ich lediglich eine normale Frage gestellt hatte.\nIch wünsche mir, dass Patienten in Ihrer Praxis respektvoll behandelt werden. Deshalb möchte ich Sie bitten, den Vorfall zu prüfen.",
+      "time": 1782114593,
+      "translated": false
+    },
+    {
+      "author_name": "Bernd Stutzmann",
+      "author_url": "https://www.google.com/maps/contrib/116391128149256074629/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-aa8PPNF4iOg0ZYWnfalZBbBEyWXXPtNwYsvKGEqOAOJAfG_ukg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782071547,
+      "translated": false
+    },
+    {
+      "author_name": "Mike Komosinski",
+      "author_url": "https://www.google.com/maps/contrib/101137307721849422803/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2mZ3k5PHf51kMSJK_VbKpmtWLK3Aiklv7tBWztD0QMGHBiA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Immer sehr freundlich da",
+      "time": 1781863103,
+      "translated": false
+    },
+    {
       "author_name": "Yasemin Tirkiz",
       "author_url": "https://www.google.com/maps/contrib/102434320766075743105/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg5r--kSy1AYebDHkiDPwkd9Xclu7Gj7H2ENM685eKSub94AQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war schon in der Praxis und hatte Termine gemacht, und ich habe 3-6x Absagen bekommen, weswegen ich die Praxis wechseln  werde. Ich fühle mich dort nicht mehr richtig aufgehoben.",
+      "time": 1781281696,
+      "translated": false
+    },
+    {
+      "author_name": "Rina B",
+      "author_url": "https://www.google.com/maps/contrib/101879905251656984644/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg5r--kSy1AYebDHkiDPwkd9Xclu7Gj7H2ENM685eKSub94AQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war schon in der Praxis und hatte Termine gemacht, und ich habe 3-6x Absagen bekommen, weswegen ich die Praxis wechseln  werde. Ich fühle mich dort nicht mehr richtig aufgehoben.",
       "time": 1781281696,
       "translated": false
@@ -606,11 +652,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 369,
+  "reviewCount": 372,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:14.704Z"
+  "lastUpdated": "2026-06-22T10:36:04.011Z"
 }

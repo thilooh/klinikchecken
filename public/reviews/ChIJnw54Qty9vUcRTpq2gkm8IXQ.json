@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Hasija Cinac",
+      "author_url": "https://www.google.com/maps/contrib/108420326770777013692/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBAcAhi0e9Vclu-TIsHDHrrFB9lvFRdhXb42jFDNhWgoknL34=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr  nettes  Erzte und  Mitarbeiter",
+      "time": 1782120849,
+      "translated": false
+    },
+    {
+      "author_name": "Leonie Du Plessis",
+      "author_url": "https://www.google.com/maps/contrib/105820905467422919117/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUotNpmR7mYpy8NW9mVTlbYx5RXooTz9ziV4HS33hrPO865bxqg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von der ersten Beratung bis zum Tag meiner Operation fühlte ich mich bei Frau Dr. Janjic und dem gesamten Team sehr willkommen und gut aufgehoben. Alle sind sehr professionell und freundlich. Frau Dr. Janjic erklärte mir im Vorfeld ausführlich die Behandlung und was mich am Operationstag sowie in der Nachsorge erwarten würde. Diese Erfahrung unterschied sich grundlegend von meiner vorherigen Operation vor einem Jahr in einer anderen Praxis.",
+      "time": 1782050096,
+      "translated": true
+    },
+    {
       "author_name": "Sehezada Selmic",
       "author_url": "https://www.google.com/maps/contrib/100042946406650789233/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvA7DtMsZDuSePuja3EhEET137yAeYIxIIny3xwcQOGp5qsg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich habe meine Krampfadern op vor zwei Tagen gehabt und bin Mega begeistert,\nTolles Team alle liebevoll, hilfsbereit ,sehr kompetent ich hab mich gut aufgehoben gefühlt.Sie wissen was sie tun.\nVielen Dank an alle vorallem, an den Arzt Dr.Jozef Halasz und sein Team",
+      "time": 1779448278,
+      "translated": false
+    },
+    {
+      "author_name": "Sehezada Selmic",
+      "author_url": "https://www.google.com/maps/contrib/100042946406650789233/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvA7DtMsZDuSePuja3EhEET137yAeYIxIIny3xwcQOGp5qsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich habe meine Krampfadern op vor zwei Tagen gehabt und bin Mega begeistert,\nTolles Team alle liebevoll, hilfsbereit ,sehr kompetent ich hab mich gut aufgehoben gefühlt.Sie wissen was sie tun.\nVielen Dank an alle vorallem, an den Arzt Dr.Jozef Halasz und sein Team",
       "time": 1779448278,
       "translated": false
@@ -386,11 +422,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 164,
+  "reviewCount": 166,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-19T09:27:10.327Z"
+  "lastUpdated": "2026-06-22T10:35:59.684Z"
 }

@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "Dingens",
+      "author_url": "https://www.google.com/maps/contrib/108831938466994331182/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaaemb4B9Aq2ap9gHNHxqRQ_p-2KX7nMvvGJsh0DGcChex2A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1781376081,
+      "translated": false
+    },
+    {
       "author_name": "Patrik Fischer",
       "author_url": "https://www.google.com/maps/contrib/114402256071886482447/reviews",
       "language": "de",
@@ -78,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWXLLvCdJvkD5_sDgzte0_oNWn5ZtF75jXn78--jGpMuVJ4Q=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nett und Höfflich Sehr freundlich\nGut Beratung sehr zufrieden",
+      "time": 1780300386,
+      "translated": false
+    },
+    {
+      "author_name": "Marietta Cartus",
+      "author_url": "https://www.google.com/maps/contrib/110446354877996120481/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWXLLvCdJvkD5_sDgzte0_oNWn5ZtF75jXn78--jGpMuVJ4Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr nett und Höfflich Sehr freundlich\nGut Beratung sehr zufrieden",
       "time": 1780300386,
       "translated": false
@@ -138,6 +160,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkkqolkmt-bI9XG5o9TUDS8JvJam0Lcis3vtWjEAsI8C2-sTo=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "War positiv überrascht.",
+      "time": 1779284942,
+      "translated": false
+    },
+    {
+      "author_name": "Jannine",
+      "author_url": "https://www.google.com/maps/contrib/104872101273243750291/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkkqolkmt-bI9XG5o9TUDS8JvJam0Lcis3vtWjEAsI8C2-sTo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "War positiv überrascht.",
       "time": 1779284942,
       "translated": false
@@ -560,5 +594,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-06-19T09:27:20.644Z"
+  "lastUpdated": "2026-06-22T10:36:09.901Z"
 }

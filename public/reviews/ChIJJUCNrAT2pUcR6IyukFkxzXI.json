@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Olivia Lapp",
+      "author_url": "https://www.google.com/maps/contrib/114899270935935463457/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAymGyhmmLxDTO0SHB5OIfW89UJFzCHVct_DjdfYlBd_ldJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nette und kompetente Ärztin und das Team ebenso. Fühle mich gut aufgehoben - vielen Dank.",
+      "time": 1781871414,
+      "translated": false
+    },
+    {
       "author_name": "Martin Frehse",
       "author_url": "https://www.google.com/maps/contrib/114892196721917309807/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJywSND1sz1O9V6RFtBcH3sKC0K8WF8jSBgUwmbe_a9nHETnQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781453516,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Frehse",
+      "author_url": "https://www.google.com/maps/contrib/114892196721917309807/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJywSND1sz1O9V6RFtBcH3sKC0K8WF8jSBgUwmbe_a9nHETnQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1781453516,
       "translated": false
@@ -66,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHHCajCN7oCDtQZfunbVM1OpY7-SH3qMEnO8ndNUVnJDDEpg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war bei der vorherigen Ärztin, Dr. Jumar, langjährige Patientin. Nun wurde die Praxis von Doceins übernommen. Als ich einen Termin vereinbaren wollte wurde mir mitgeteilt, dass ich als Patientin nicht mehr angenommen werde, da ich zu lange nicht da gewesen sei. Ich solle mir einen anderen Dermatologen suchen, was in Magdeburg zur Zeit aussichtslos ist. Ich bin immer noch schockiert über ein solches Vorgehen. 1 Stern ist dafür leider noch zu viel.",
+      "time": 1779288921,
+      "translated": false
+    },
+    {
+      "author_name": "Chris C.",
+      "author_url": "https://www.google.com/maps/contrib/113263366622866015131/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHHCajCN7oCDtQZfunbVM1OpY7-SH3qMEnO8ndNUVnJDDEpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war bei der vorherigen Ärztin, Dr. Jumar, langjährige Patientin. Nun wurde die Praxis von Doceins übernommen. Als ich einen Termin vereinbaren wollte wurde mir mitgeteilt, dass ich als Patientin nicht mehr angenommen werde, da ich zu lange nicht da gewesen sei. Ich solle mir einen anderen Dermatologen suchen, was in Magdeburg zur Zeit aussichtslos ist. Ich bin immer noch schockiert über ein solches Vorgehen. 1 Stern ist dafür leider noch zu viel.",
       "time": 1779288921,
       "translated": false
@@ -138,6 +172,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUkP-YXDS7u88eAXU6Owxx3lkYCcZUdQUModgimkwDgLHzug=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "War gestern zum Screening / tolles Praxisteam: vom super freundlichen Empfang  bis hin zur Untersuchung (Frau Höfer), alles top / komme gerne in zwei Jahren wieder",
+      "time": 1776745084,
+      "translated": false
+    },
+    {
+      "author_name": "Kaddy Chris",
+      "author_url": "https://www.google.com/maps/contrib/102622327908117137941/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUkP-YXDS7u88eAXU6Owxx3lkYCcZUdQUModgimkwDgLHzug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "War gestern zum Screening / tolles Praxisteam: vom super freundlichen Empfang  bis hin zur Untersuchung (Frau Höfer), alles top / komme gerne in zwei Jahren wieder",
       "time": 1776745084,
       "translated": false
@@ -260,11 +306,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 49,
+  "reviewCount": 50,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:26:57.759Z"
+  "lastUpdated": "2026-06-22T10:35:47.259Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ozzy Cleo",
+      "author_url": "https://www.google.com/maps/contrib/116767887078320709222/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH-JHI9dl5zZ8bWZbdByNtF7-KT_DBxgSZRwyXu37TZVQduAQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781935913,
+      "translated": false
+    },
+    {
       "author_name": "Perzer jones",
       "author_url": "https://www.google.com/maps/contrib/112347194746783091444/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSkr2R6a_9WbrSLPUA-L26b5ne6cD0YtK17T-0irq2-FkHgEM=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wir haben Ende letzten Jahres einen Termin gemacht für unsere Tochter. Am Termin Tag vor Ort wurde uns mitgeteilt, dass der Termin per Mail abgesagt wurden ist. Bis heute hat meine Frau keine E-Mail diesbezüglich erhalten. Heute nach viermonatiger Wartezeit , habe ich sicherheitshalber 2 Stunden vor dem Termin angerufen und nachgefragt. Am Telefon sagte man mir , dass der Termin erst um 12 Uhr sei. Eine absolute Frechheit, denn unser Termin ist um 11:10 Uhr gewesen . Das haben wir extra früher geplant, da ich ab 13 Uhr zur Arbeit fahren muss. Die Öffnungszeiten sind laut Google freitags immer 12 Uhr . Am Telefon sagte man mir , es sei bis 13 Uhr geöffnet . Es ist einfach eine Dreistigkeit, den Termin einfach anzupassen ohne uns zu informieren.  Organisation und Kommunikation ist nicht deren stärke. Kann ich absolut abraten .",
+      "time": 1781289741,
+      "translated": false
+    },
+    {
+      "author_name": "Perzer jones",
+      "author_url": "https://www.google.com/maps/contrib/112347194746783091444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSkr2R6a_9WbrSLPUA-L26b5ne6cD0YtK17T-0irq2-FkHgEM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Wir haben Ende letzten Jahres einen Termin gemacht für unsere Tochter. Am Termin Tag vor Ort wurde uns mitgeteilt, dass der Termin per Mail abgesagt wurden ist. Bis heute hat meine Frau keine E-Mail diesbezüglich erhalten. Heute nach viermonatiger Wartezeit , habe ich sicherheitshalber 2 Stunden vor dem Termin angerufen und nachgefragt. Am Telefon sagte man mir , dass der Termin erst um 12 Uhr sei. Eine absolute Frechheit, denn unser Termin ist um 11:10 Uhr gewesen . Das haben wir extra früher geplant, da ich ab 13 Uhr zur Arbeit fahren muss. Die Öffnungszeiten sind laut Google freitags immer 12 Uhr . Am Telefon sagte man mir , es sei bis 13 Uhr geöffnet . Es ist einfach eine Dreistigkeit, den Termin einfach anzupassen ohne uns zu informieren.  Organisation und Kommunikation ist nicht deren stärke. Kann ich absolut abraten .",
       "time": 1781289741,
       "translated": false
@@ -570,11 +592,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 130,
+  "reviewCount": 131,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:17.148Z"
+  "lastUpdated": "2026-06-22T10:36:06.427Z"
 }

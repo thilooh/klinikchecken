@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sabrina F",
+      "author_url": "https://www.google.com/maps/contrib/116936756922586850102/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNP9M15v8i2V6rZAN4nKdKZKZnlovxL83sUhYcULoa4y8ETbCd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781872545,
+      "translated": false
+    },
+    {
       "author_name": "Elwira Keck",
       "author_url": "https://www.google.com/maps/contrib/114925447902576559177/reviews",
       "language": "de",
@@ -430,7 +440,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [],
-  "lastUpdated": "2026-06-19T09:26:48.102Z"
+  "lastUpdated": "2026-06-22T10:35:37.667Z"
 }

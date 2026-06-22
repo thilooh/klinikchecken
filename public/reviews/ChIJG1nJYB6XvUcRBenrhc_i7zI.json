@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "T. C.",
+      "author_url": "https://www.google.com/maps/contrib/113417854896192497537/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK57iPdGaY6alvtjr79tkxrNlCTnUDPoPB7XxkFqwq_j2Qf5w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "20 Jahre Zyste begleitet, passend zum 20-jährigen Praxisjubiläum. Zufall oder Schicksal?\n\nNach der Entfernung meiner drei großen Zysten fühle ich mich wie neu geboren. Eine der Zysten hatte mich fast 20 Jahre begleitet, was für eine Erleichterung, endlich beschwerdefrei zu sein. Dr. Kasten hat diesen Tag humorvoll als „Liberation Day“ bezeichnet.\n\nNach jahrelanger Suche und unzähligen Arztbesuchen war Dr. Kasten der Erste, der sofort wusste, worum es sich handelt. Das hat mir unglaublich viel Hoffnung und Erleichterung gegeben.\n\nDr. Kasten arbeitet ruhig und präzise, ist dabei sympathisch und humorvoll. Großes Lob an ihn und das gesamte Team: Die Zusammenarbeit ist sehr professionell und eingespielt. Ich habe mich jederzeit gut aufgehoben gefühlt. Die OP verlief sehr gut und die Narbe ist kaum zu sehen.Was für ein tolles Ergebnis.\n\nIch bin unendlich dankbar, Dr. Kasten sowohl als Arzt als auch als Mensch kennengelernt zu haben.\n\nDiese positive Erfahrung möchte ich gerne mit anderen teilen und allen Mut machen, die noch zögern. Vielen Dank an Dr. Kasten, das gesamte Team und auch an meine Kinder, die mich ermutigt haben, dort hinzugehen.\n\nLiebe Grüße nach Mainz!",
+      "time": 1781897782,
+      "translated": false
+    },
+    {
       "author_name": "D. D.",
       "author_url": "https://www.google.com/maps/contrib/102176941186032787211/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpRosLq_O4T0LDbP-o30Yd6fxnuDJXDHX63yWKo5E9qrmo0w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Mein Dank geht an Frau Dr. Kasten. Professionelle Beratung und dementsprechende Behandlung. Danke auch an das freundliche Praxisteam.",
+      "time": 1780132270,
+      "translated": false
+    },
+    {
+      "author_name": "Tina Franzmann",
+      "author_url": "https://www.google.com/maps/contrib/101906235998931771888/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpRosLq_O4T0LDbP-o30Yd6fxnuDJXDHX63yWKo5E9qrmo0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Mein Dank geht an Frau Dr. Kasten. Professionelle Beratung und dementsprechende Behandlung. Danke auch an das freundliche Praxisteam.",
       "time": 1780132270,
       "translated": false
@@ -164,6 +188,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXTJDKzRULx40p4Dz3v6UXsE-grbwS47KVAiP00PadgsVzHA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich bin seit ca. 3 Jahren Patientin bei Dr. Kasten und seinem Team. Ich empfehle die Praxis ständig, jetzt auch endlich mal hier, denn diese professionelle, sorgfältige und zwischenmenschlich besonders angenehme Behandlung habe ich zuvor so noch nicht bei einem Hautarzt erlebt.\nDas regelmäßige Hautkrebs-Screening gibt mir Sicherheit, die Entfernung von Muttermalen läuft absolut reibungslos mit toller Wundheilung und meine Gesichtshaut wurde durch eingehende Beratung und kosmetische Behandlungen in der Praxis immer gesünder.\n\nVielen Dank für diese wunderbare medizinische Versorgung meiner Haut! Ich komme immer wieder gern und freue mich auf die lockeren und wohltuenden nächsten Termine.",
+      "time": 1779437961,
+      "translated": false
+    },
+    {
+      "author_name": "Leonie Graßmann",
+      "author_url": "https://www.google.com/maps/contrib/110651272358927825336/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXTJDKzRULx40p4Dz3v6UXsE-grbwS47KVAiP00PadgsVzHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich bin seit ca. 3 Jahren Patientin bei Dr. Kasten und seinem Team. Ich empfehle die Praxis ständig, jetzt auch endlich mal hier, denn diese professionelle, sorgfältige und zwischenmenschlich besonders angenehme Behandlung habe ich zuvor so noch nicht bei einem Hautarzt erlebt.\nDas regelmäßige Hautkrebs-Screening gibt mir Sicherheit, die Entfernung von Muttermalen läuft absolut reibungslos mit toller Wundheilung und meine Gesichtshaut wurde durch eingehende Beratung und kosmetische Behandlungen in der Praxis immer gesünder.\n\nVielen Dank für diese wunderbare medizinische Versorgung meiner Haut! Ich komme immer wieder gern und freue mich auf die lockeren und wohltuenden nächsten Termine.",
       "time": 1779437961,
       "translated": false
@@ -496,11 +532,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 226,
+  "reviewCount": 227,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:11.213Z"
+  "lastUpdated": "2026-06-22T10:36:00.544Z"
 }

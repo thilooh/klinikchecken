@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Matthias Fellersmann",
+      "author_url": "https://www.google.com/maps/contrib/106596113097034512946/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjilDSIkLSYmZ-Af4g4zg41oEGLwP_nB_U-ixkGteD7tjm-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundliches und kompetentes Personal, kurze Wartezeiten.",
+      "time": 1782123889,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Plein",
+      "author_url": "https://www.google.com/maps/contrib/104336403740594564713/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvjHq1gHcXcc8u-GwE7u0gdCx2Gj-MGzgloF6qDbcza_1jCw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782118027,
+      "translated": false
+    },
+    {
+      "author_name": "Matthias Mittenmang",
+      "author_url": "https://www.google.com/maps/contrib/106380526435686286247/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDvKUa05WhkQw059kWviHnV75eZXPegrfM-AsPMKMo70T-Rg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Da kam das Glück im rechten Moment, Donnerstag nach einem Termin gesucht und dann gleich für Freitag früh einen bekommen. Netter Empfang in neuen Räumen (über Aufzug Haus A zu erreichen), reibungslose Anmeldung und fast ohne Wartezeit zur Vorsorgeuntersuchung. Frau Dr. Winkelmann-Schirmer ist verbindlich, nett und macht einen kompetenten Eindruck, sie erledigt die Beschau gründlich und zügig. Nach nicht mal 15 Minuten in der Praxis stehe ich schon wieder vor dem Haus, im Regen. Aber auch der hörte dann bald auf. Ein guter  Start in den Tag.",
+      "time": 1781968888,
+      "translated": false
+    },
+    {
+      "author_name": "Putz Munter",
+      "author_url": "https://www.google.com/maps/contrib/115399900912854522537/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDCgbnYCDJfwSUPE5fsdhXZEiXwQL3v0EPOtzeYHcPcOdxWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Hautkrebsdiagnostik bei Prof.Dr. Krengel.\nEs lief alles wunderbar „unhektisch“ und sehr freundlich ab.\nEine gründliche und fachkundige Untersuchung, jetzt kann ich wieder beruhigt ein Jahr warten.\nVielen Dank!",
+      "time": 1781879777,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Geißler",
+      "author_url": "https://www.google.com/maps/contrib/109329812367577171991/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKM6IZAnoia9eDXOQ8QA2xkNaPqh-TvRzn3a3JP7yNRpg9ZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781862956,
+      "translated": false
+    },
+    {
       "author_name": "Peer M",
       "author_url": "https://www.google.com/maps/contrib/100723035255717058502/reviews",
       "language": "de",
@@ -716,11 +772,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2299,
+  "reviewCount": 2304,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-19T09:26:57.984Z"
+  "lastUpdated": "2026-06-22T10:35:47.484Z"
 }

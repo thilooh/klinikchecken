@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Check Check",
+      "author_url": "https://www.google.com/maps/contrib/100727858879612028394/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMsK1Br04iRVTX9e5MLJxONRjAnYcDtCsj5Zt_fz6nBaa2vDSSjA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war Heute das erste Mal hier. Vom Empfang bis zu den Untersuchungen und Behandlungen perfekt. Sehr freundliche Mitarbeiterinnen, sehr strukturierte Abläufe. Gefäßchirurg Marius\nAnte nahm sich ausreichend Zeit und erklärte alles ganz genau. Sehr freundlich und sehr sympathisch.\nKann die Praxis nur empfehlen!\nOliver Teichmann",
+      "time": 1781885791,
+      "translated": false
+    },
+    {
       "author_name": "Benjamin Brate",
       "author_url": "https://www.google.com/maps/contrib/105206058423528028915/reviews",
       "language": "de",
@@ -181,6 +193,18 @@
       "translated": false
     },
     {
+      "author_name": "Margit Weltermann",
+      "author_url": "https://www.google.com/maps/contrib/112832795972247480512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3tvR4LLOtI5EbbLEt4w1ElTgCVdQpJYkmUmNbN-Koi2CYZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Leider kann ich diese Praxis auf keinen Fall empfehlen! Ich wurde sehr schlecht beraten und habe mich nicht ernst genommen gefühlt!\nLetzten Sommer wurde ich von meinem Hausarzt zur Phlebologie überwiesen aufgrund von wirklich sehr schmerzhaften Krampfadern. Daraufhin bin ich extra von Saarbrücken nach Ludwigshafen gefahren, weil ich sonst nirgends einen Termin bekommen habe.\nBei der Untersuchung des Phlebologen wurde mir nur gesagt, dass ich gar keine richtigen Krampfadern hätte und er keine Notwendigkeit sähe, irgendetwas zu unternehmen. Meine Schmerzen wurden ignoriert.\nZusätzlich sagte er mir, die langen Kompressionsstrümpfe, die mir der Hausarzt verschrieben hat, wären unnötig, wenn überhaupt sollte ich Strümpfe tragen, die nur bis unters Knie gehen. Dafür stellte er mir ein Rezept aus.\nDiese Strümpfe konnte ich genau einmal tragen, weil der Bund so sehr auf die Stelle mit der schlimmsten Krampfader unterm Knie  gedrückt hat, dass es sehr weh tat.\n\nDiesen Monat hatte ich dann endlich den Termin in Saarbrücken und der Phlebologe riet mir dazu, die Betroffene Vene schnellstmöglich zu operieren, was eine Woche später passiert ist. Außerdem sagte er mir, ich solle mich schonmal dran gewöhne ab jetzt mit langen Strümpfen zu leben.\n\nInsgesamt war der Arzt im Venenzentrum Rhein-Pfalz absolut apathisch. Auf jegliche Versuche von mir, wenigstens Tipps für den Alltag zu bekommen, wurde auch nicht reagiert.\nEinzig das Team war sehr freundlich.\nDie Praxis in Ludwigshafen würde ich auf jeden Fall meiden wenn es irgendwie geht!",
+      "time": 1771676025,
+      "translated": false
+    },
+    {
       "author_name": "Michaela Mayer",
       "author_url": "https://www.google.com/maps/contrib/109817144348146133131/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrsL5yXVo9qujacFx0W1jDAbiLJVZk7j2HLl33HJMwUUoVfw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -224,11 +248,11 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 30,
+  "reviewCount": 31,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:17.584Z"
+  "lastUpdated": "2026-06-22T10:36:06.850Z"
 }

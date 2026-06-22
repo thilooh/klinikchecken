@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Анжелика Петрович Сидорович",
+      "author_url": "https://www.google.com/maps/contrib/112736215490082089114/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtJa6CbdsTrn4JB704DQyHcO3MDTpxIilBe86kwus1F2kL1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "1. erste Entfernung meines Leberflecks wurde ohne Betäubung gemacht und der Arzt hat sich wirklich unter aller Sau Verhalten!\nAm Ende der App schmiss er mit seinen Handschuhen nach mir, das sollte ich wohl lustig finden!\nDas war der Dr Broichmann oder wie auch immer er hieß.. total unsympathischer Mensch..\n2. jetzt bin ich hier zum Fäden ziehen, und kriege mit, dass ein Patient der erst 15 nach mir einen Termin zum Fäden ziehen hat, vor mir aufgerufen wird! Als ich das Personal deswegen angesprochen habe, hieß es ich soll die Angestellte ansprechen, die mir dann im Endeffekt die Fäden ziehen wird.\nDas war jetzt mein letzter Besuch hier.. da mir meine Nervenzellen wichtiger sind.\n\n3. die Frau Dr Arz ist echt super.. schade, dass nicht alle in der Praxis so mit Patienten umgehen wie sie..",
+      "time": 1782113413,
+      "translated": false
+    },
+    {
       "author_name": "Chris Taube",
       "author_url": "https://www.google.com/maps/contrib/102003862339088383348/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7-FvowQfUibO-pKc3c2bs41jRRgfsPxWG9RhdpWRy_zokog=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin vor vielen Jahren zum ersten Mal in dieser Praxis gewesen, zum Hautscreening. Damals har sich Dr. Broichmann viel Zeit genommen, mich von Kopf bis Fuß zu untersuchen. Neulich bin ich erneut zur Kontrolle da gewesen. Trotz Termin länger gewartet, in der heutigen Zeit nimmt man das aber mittlerweile hin, die Ärzte sind alle überlastet.\nEndlich im Untersuchungsraum mit dem Arzt wurden die Kosten für Screening, Mikroskop und Speicherung der Aufnahmen erst angesprochen, als ich schon nackt im Raum stand, sollte so die Unterlagen unterzeichnen. Denke das könnte durchaus würdevoller gestaltet werden.\nAngeschaut wurden lediglich exakt jene Stellen, die schon vor Jahren bildlich festgehalten worden sind. In wenigen Minuten fand ich mich auch schon vor der Tür. Nach Gründlichkeit hat sich das nicht angefühlt.\nHabe zudem kosmetisch störende Knubbel im Gesicht angesprochen, die könne man weglasern. Ich vertraue natürlich auf die Expertise dieser langjährigen Praxis, dennoch hätte ich mich über etwas Aufklärung gefreut. Ist das die optimalste Behandlung, wie läuft der Eingriff von statten, mit welchem Heilungsprozess ist das verbunden - im Sommer nicht ganz egal, nehme ich mal an.",
+      "time": 1781505810,
+      "translated": false
+    },
+    {
+      "author_name": "K. Müller",
+      "author_url": "https://www.google.com/maps/contrib/110483622128057795022/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7-FvowQfUibO-pKc3c2bs41jRRgfsPxWG9RhdpWRy_zokog=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin vor vielen Jahren zum ersten Mal in dieser Praxis gewesen, zum Hautscreening. Damals har sich Dr. Broichmann viel Zeit genommen, mich von Kopf bis Fuß zu untersuchen. Neulich bin ich erneut zur Kontrolle da gewesen. Trotz Termin länger gewartet, in der heutigen Zeit nimmt man das aber mittlerweile hin, die Ärzte sind alle überlastet.\nEndlich im Untersuchungsraum mit dem Arzt wurden die Kosten für Screening, Mikroskop und Speicherung der Aufnahmen erst angesprochen, als ich schon nackt im Raum stand, sollte so die Unterlagen unterzeichnen. Denke das könnte durchaus würdevoller gestaltet werden.\nAngeschaut wurden lediglich exakt jene Stellen, die schon vor Jahren bildlich festgehalten worden sind. In wenigen Minuten fand ich mich auch schon vor der Tür. Nach Gründlichkeit hat sich das nicht angefühlt.\nHabe zudem kosmetisch störende Knubbel im Gesicht angesprochen, die könne man weglasern. Ich vertraue natürlich auf die Expertise dieser langjährigen Praxis, dennoch hätte ich mich über etwas Aufklärung gefreut. Ist das die optimalste Behandlung, wie läuft der Eingriff von statten, mit welchem Heilungsprozess ist das verbunden - im Sommer nicht ganz egal, nehme ich mal an.",
       "time": 1781505810,
       "translated": false
@@ -490,11 +514,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 143,
+  "reviewCount": 144,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-19T09:27:10.773Z"
+  "lastUpdated": "2026-06-22T10:36:00.113Z"
 }
