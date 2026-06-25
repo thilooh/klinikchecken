@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marion Hager",
+      "author_url": "https://www.google.com/maps/contrib/103425958342585271250/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB3vie-t1vvr5SWdU_PZTaqTxztLOlz926HQtpi7D3IGMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nett und kompetent. Er hat mich vor bleibenden Schäden  bewahrt. Nachdem ich von einer Klinik zuhoeren bekommen hatte, in meinem Alter (72) J. würde man nicht operieren.",
+      "time": 1782125360,
+      "translated": false
+    },
+    {
       "author_name": "Katja Walther",
       "author_url": "https://www.google.com/maps/contrib/108163328053473206407/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInemRZ2lGuo0s5nLwrTYmbFJTBtchvNwfEbdYjiOzs3lTz-A=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Eigentlich null sterne wert !!! Meine Mutter hatte online einen Termin bekommen dieser Termin wurde auch\nüber Doctolip auch bestätigt . Als meine Mutter mit Bus die Praxis erreicht hatte was mit ihrem Beschwerden schon sehr mühsam war. Sagte man ihr Sie käme jetzt nicht mehr dran ,die Praxis sei voll und sie solle doch im oktober wieder kommen.Meine Mutter hat gesagt sie würde auch 1-2 Std Wartezeit in Kauf nehmen ,sie möchte Hilfe und hat sich extra auf dem Weg gemacht und ist mit Terminbestätigung gekommen . Meine Mutter war aufgrund ihrer starken Beschwerden vorstellig und wurde unfreundlich und patzig weggeschickt . Nicht nur medizinische eine inkompetent Verhaltensweise aber so mit Menschen  umzugehen ist für mich einfach unvorstellbar und nicht vertretbar .",
+      "time": 1781619280,
+      "translated": false
+    },
+    {
+      "author_name": "Katja Walther",
+      "author_url": "https://www.google.com/maps/contrib/108163328053473206407/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInemRZ2lGuo0s5nLwrTYmbFJTBtchvNwfEbdYjiOzs3lTz-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Eigentlich null sterne wert !!! Meine Mutter hatte online einen Termin bekommen dieser Termin wurde auch\nüber Doctolip auch bestätigt . Als meine Mutter mit Bus die Praxis erreicht hatte was mit ihrem Beschwerden schon sehr mühsam war. Sagte man ihr Sie käme jetzt nicht mehr dran ,die Praxis sei voll und sie solle doch im oktober wieder kommen.Meine Mutter hat gesagt sie würde auch 1-2 Std Wartezeit in Kauf nehmen ,sie möchte Hilfe und hat sich extra auf dem Weg gemacht und ist mit Terminbestätigung gekommen . Meine Mutter war aufgrund ihrer starken Beschwerden vorstellig und wurde unfreundlich und patzig weggeschickt . Nicht nur medizinische eine inkompetent Verhaltensweise aber so mit Menschen  umzugehen ist für mich einfach unvorstellbar und nicht vertretbar .",
       "time": 1781619280,
       "translated": false
@@ -76,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO6cjRxkI4WTKyAUJ8rwHmf4YrsT8I9S6UUQOinPuz3bob3g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Respektabel und arbeitet fleißig.",
+      "time": 1781081038,
+      "translated": true
+    },
+    {
+      "author_name": "Abdellah Nalbou",
+      "author_url": "https://www.google.com/maps/contrib/102074330384472456265/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO6cjRxkI4WTKyAUJ8rwHmf4YrsT8I9S6UUQOinPuz3bob3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Respektabel und arbeitet fleißig.",
       "time": 1781081038,
       "translated": true
@@ -574,11 +610,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 174,
+  "reviewCount": 175,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:35:50.524Z"
+  "lastUpdated": "2026-06-25T08:21:29.334Z"
 }

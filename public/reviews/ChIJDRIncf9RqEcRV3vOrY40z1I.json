@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Fri",
+      "author_url": "https://www.google.com/maps/contrib/107880857716098913264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdSXjK2GjGZznh1_9rmTAymwl5g8uImGl2Kgobf-QZ1-lqWiU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich selten so gut aufgehoben gefühlt bei einer Ärztin bzw. in einer Praxis wie hier. Vom Erstgespräch bis zur OP-Nachsorge hat alles super geklappt. Die Praxis ist sehr gut organisiert, Wartezeiten hatte ich kaum. Auch das Fachpersonal am Empfang und in der Anästhesie sind top! Vielen Dank :)",
+      "time": 1782285415,
+      "translated": false
+    },
+    {
       "author_name": "Liane Otto",
       "author_url": "https://www.google.com/maps/contrib/100205062063026367021/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj4n3o49DOOL0EYkmIE2E0hE2qPGuuokkIcnSvgLrbUL7s9Q=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich enttäuscht.\nSolange es um die Privatzahlungen geht, erfährt man eine bevorzugte Behandlung. Bei der kassenärztlichen Nachkontrolle ist man dann wieder ein Mensch zweiter Klasse. Nach einer Anfahrt von über 200 Kilometern verspätete ich mich, aufgrund einer extremen  Verkehrslage, um ein paar Minuten. Nach über drei Stunden Anfahrt verweigerte mir die Ärztin die 10-minütige Untersuchung.",
+      "time": 1781559868,
+      "translated": false
+    },
+    {
+      "author_name": "Dirk A.",
+      "author_url": "https://www.google.com/maps/contrib/106554184882607120171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj4n3o49DOOL0EYkmIE2E0hE2qPGuuokkIcnSvgLrbUL7s9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin wirklich enttäuscht.\nSolange es um die Privatzahlungen geht, erfährt man eine bevorzugte Behandlung. Bei der kassenärztlichen Nachkontrolle ist man dann wieder ein Mensch zweiter Klasse. Nach einer Anfahrt von über 200 Kilometern verspätete ich mich, aufgrund einer extremen  Verkehrslage, um ein paar Minuten. Nach über drei Stunden Anfahrt verweigerte mir die Ärztin die 10-minütige Untersuchung.",
       "time": 1781559868,
       "translated": false
@@ -94,6 +118,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3PNMAOjfBYTFeLgowqGKbG8PK0V4UBY95XYMBJeXN59aUGpA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1779906034,
+      "translated": false
+    },
+    {
+      "author_name": "Loui p",
+      "author_url": "https://www.google.com/maps/contrib/109096128717052566517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3PNMAOjfBYTFeLgowqGKbG8PK0V4UBY95XYMBJeXN59aUGpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1779906034,
       "translated": false
@@ -519,8 +553,8 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 141,
+  "rating": 4.9,
+  "reviewCount": 140,
   "summary": [],
-  "lastUpdated": "2026-06-22T10:35:38.944Z"
+  "lastUpdated": "2026-06-25T08:21:16.754Z"
 }

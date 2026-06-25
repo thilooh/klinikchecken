@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Felix Kuka",
+      "author_url": "https://www.google.com/maps/contrib/112165768683088988505/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwh2I8HmcwJLXTx75_iSMNu-XvCMbrneP9gClbxY4KMrGV-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich erreiche die Praxis nie.",
+      "time": 1782305796,
+      "translated": false
+    },
+    {
       "author_name": "Sarah.2503",
       "author_url": "https://www.google.com/maps/contrib/102016135190559789467/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhDv0lYIYnNHb-g7uilTuuYLzI1sKW_j1dDeU5dgRWoJ87vg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781544675,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah.2503",
+      "author_url": "https://www.google.com/maps/contrib/102016135190559789467/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhDv0lYIYnNHb-g7uilTuuYLzI1sKW_j1dDeU5dgRWoJ87vg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1781544675,
       "translated": false
@@ -102,6 +124,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFuqVwmHLDAKbOXssXnmE-pNMGWKqiA7_bjh2dGVolRUZr-A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Für mich der beste Arzt, bei dem ich je gewesen bin. Dr. Pabst nimmt sich Zeit und ist mit ehrlichem  Zuhören und Nachfragen stets am ganzen Menschen interessiert, auch weit über sein Fachgebiet hinaus .\nBei einer ambulanten OP fühlte ich mich bestens vom ganzen Team betreut.\nDie beiden Schwestern habe ich  stets freundlich erlebt.\nIch bin einmal jährlich zur Kontrolle dort und verlasse die Praxis jedesmal mit einem positiven Gefühl.",
+      "time": 1774531171,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrike Neubert",
+      "author_url": "https://www.google.com/maps/contrib/115106774357713644448/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFuqVwmHLDAKbOXssXnmE-pNMGWKqiA7_bjh2dGVolRUZr-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Für mich der beste Arzt, bei dem ich je gewesen bin. Dr. Pabst nimmt sich Zeit und ist mit ehrlichem  Zuhören und Nachfragen stets am ganzen Menschen interessiert, auch weit über sein Fachgebiet hinaus .\nBei einer ambulanten OP fühlte ich mich bestens vom ganzen Team betreut.\nDie beiden Schwestern habe ich  stets freundlich erlebt.\nIch bin einmal jährlich zur Kontrolle dort und verlasse die Praxis jedesmal mit einem positiven Gefühl.",
       "time": 1774531171,
       "translated": false
@@ -251,12 +285,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 38,
+  "rating": 4.6,
+  "reviewCount": 39,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-22T10:35:45.946Z"
+  "lastUpdated": "2026-06-25T08:21:24.335Z"
 }

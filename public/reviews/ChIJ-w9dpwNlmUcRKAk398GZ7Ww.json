@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Oliver Hirth",
+      "author_url": "https://www.google.com/maps/contrib/117802830163461692568/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNr0kiJNjZ-Xlr_krPnWmf2DJt8QXuHMP6WvjzPEqO2q8qBA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr Freundlich",
+      "time": 1782127621,
+      "translated": false
+    },
+    {
       "author_name": "Florian Riedl",
       "author_url": "https://www.google.com/maps/contrib/115676649632754401717/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKTKfOar7sFG4yIoTOB2oaHTtwhiGQt89widR-WV8g22abxw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Dr. Grenzner. Ein super Arzt. Hört zu, nimmt sich Zeit, erklärt sehr ausführlich. Auch am Empfang ein sehr freundliches Team. Praxis nur zu empfehlen. Jederzeit wieder.",
+      "time": 1781533028,
+      "translated": false
+    },
+    {
+      "author_name": "Kuno Hauber",
+      "author_url": "https://www.google.com/maps/contrib/105862959290823000298/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKTKfOar7sFG4yIoTOB2oaHTtwhiGQt89widR-WV8g22abxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute bei Dr. Grenzner. Ein super Arzt. Hört zu, nimmt sich Zeit, erklärt sehr ausführlich. Auch am Empfang ein sehr freundliches Team. Praxis nur zu empfehlen. Jederzeit wieder.",
       "time": 1781533028,
       "translated": false
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1v9ooe5YArQBpPy_5uvdm4oc2qZ40zqbRmW5c_ajiiZuRyw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Dr. Grenzner - der Mann ist einfach ein Profi  - und menschlich durch nichts zu ersetzen",
+      "time": 1779887474,
+      "translated": false
+    },
+    {
+      "author_name": "Varusschlacht",
+      "author_url": "https://www.google.com/maps/contrib/108898559932005211600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1v9ooe5YArQBpPy_5uvdm4oc2qZ40zqbRmW5c_ajiiZuRyw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Dr. Grenzner - der Mann ist einfach ein Profi  - und menschlich durch nichts zu ersetzen",
       "time": 1779887474,
       "translated": false
@@ -460,11 +496,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 148,
+  "reviewCount": 149,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-22T10:35:53.369Z"
+  "lastUpdated": "2026-06-25T08:21:32.425Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jörg Temming",
+      "author_url": "https://www.google.com/maps/contrib/106408037209225541839/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvsuBd6Yg8DumE-V3pmXpqVrUlKVaQa38QOwIOvWVlvMvOZmeQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetentes und routiniertes Team, Behandlung war erfolgreich.",
+      "time": 1782298878,
+      "translated": false
+    },
+    {
+      "author_name": "ArneBausG",
+      "author_url": "https://www.google.com/maps/contrib/102597828741793595085/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYq0KmJajnA-i83aUglFbfqRWeNRzW7P_Yg02gyH43SLpVBb0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles super liebe offene Leute. Man kann entspannt sein Problem erläutern und es wird einem aufmerksam zugehört. Die Behandlung war auch absolut reibungslos und man geht mit einem guten Gefühl wieder nach Hause. Kann ich nur empfehlen! 😁",
+      "time": 1782137647,
+      "translated": false
+    },
+    {
       "author_name": "Ralf Hagedorn",
       "author_url": "https://www.google.com/maps/contrib/101278032623282467421/reviews",
       "language": "de",
@@ -250,11 +274,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 74,
+  "reviewCount": 76,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-22T10:36:08.370Z"
+  "lastUpdated": "2026-06-25T08:21:48.817Z"
 }

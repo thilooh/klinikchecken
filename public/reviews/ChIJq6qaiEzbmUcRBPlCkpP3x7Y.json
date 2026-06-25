@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "C. Müller",
+      "author_url": "https://www.google.com/maps/contrib/108626590088187159368/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBIexI_QYxlst0uQQNi3l5Kbz6ZcnhiipUWNhQAikWyn7AgA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1780939040,
+      "translated": false
+    },
+    {
       "author_name": "Натали",
       "author_url": "https://www.google.com/maps/contrib/116413814677645906430/reviews",
       "language": "ru",
@@ -141,6 +151,18 @@
       "translated": false
     },
     {
+      "author_name": "René Fuchs",
+      "author_url": "https://www.google.com/maps/contrib/111349320544253146711/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAOcQVI15aNNm_CwqFm-0Eh271BXi33Sh4dd_hYhcgh0KvAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Ich wurde in der Praxis gut beraten und behandelt (med.)",
+      "time": 1777028691,
+      "translated": false
+    },
+    {
       "author_name": "D. H.",
       "author_url": "https://www.google.com/maps/contrib/107174236701653752787/reviews",
       "language": "de",
@@ -201,6 +223,18 @@
       "translated": false
     },
     {
+      "author_name": "Jens Langenbacher",
+      "author_url": "https://www.google.com/maps/contrib/110191142305962280210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgHMM6suCvaqJF8jPXqQ4qfKmXn6CX_f_3z65Vo5pGTYc4RA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Das war meine zweite OP und ich bin sehr zufrieden. Alles lief reibungslos ab, alle waren freundlich und alle Fragen wurden beantwortet.",
+      "time": 1771938417,
+      "translated": false
+    },
+    {
       "author_name": "Jörg Raff",
       "author_url": "https://www.google.com/maps/contrib/115213318470394989929/reviews",
       "language": "de",
@@ -252,5 +286,5 @@
   "rating": 3.5,
   "reviewCount": 101,
   "summary": [],
-  "lastUpdated": "2026-06-22T10:35:42.846Z"
+  "lastUpdated": "2026-06-25T08:21:20.988Z"
 }

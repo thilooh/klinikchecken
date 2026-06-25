@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Hawin Öner",
+      "author_url": "https://www.google.com/maps/contrib/105619797535043865846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNZPe5uDCeLYSjoIFw_f0Jo6tPg_X60ezxufyJebcfaiQ0Pg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782286136,
+      "translated": false
+    },
+    {
+      "author_name": "Melissa Riesen González",
+      "author_url": "https://www.google.com/maps/contrib/103482299760732597518/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwG88JAIilqL-4PAGm8fW4F-JWHaa1UVghdUSrRPzAQOfqeqmw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782138768,
+      "translated": false
+    },
+    {
       "author_name": "Bouali Ghizlane",
       "author_url": "https://www.google.com/maps/contrib/116861750615095160417/reviews",
       "language": "de",
@@ -567,7 +587,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 293,
+  "reviewCount": 295,
   "summary": [],
-  "lastUpdated": "2026-06-22T10:35:37.011Z"
+  "lastUpdated": "2026-06-25T08:21:14.442Z"
 }

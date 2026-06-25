@@ -35,11 +35,33 @@
       "translated": false
     },
     {
+      "author_name": "Mustafa Yaqubi",
+      "author_url": "https://www.google.com/maps/contrib/117614803915615403322/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBgPE0ewVqbSHfAPqGftjB-2hnn3lCLiTnMculaJ5OwTGdc8kq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich kenne Dr. Al-Jebori schon seit vielen Jahren und schätze ihn sehr. Er ist einer der besten Ärzte, äußerst zuverlässig und immer freundlich. Ich empfehle ihn zu 100 % weiter.",
+      "time": 1781767511,
+      "translated": false
+    },
+    {
       "author_name": "Rama Shahen",
       "author_url": "https://www.google.com/maps/contrib/108153964415368233432/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLj3vIB7VqvyGBNqcd_4zwr3v1sPve9POWx6m7pLjg6gxQmIg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781703416,
+      "translated": false
+    },
+    {
+      "author_name": "Rama Shahen",
+      "author_url": "https://www.google.com/maps/contrib/108153964415368233432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLj3vIB7VqvyGBNqcd_4zwr3v1sPve9POWx6m7pLjg6gxQmIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1781703416,
       "translated": false
@@ -602,5 +624,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-22T10:36:05.993Z"
+  "lastUpdated": "2026-06-25T08:21:46.248Z"
 }

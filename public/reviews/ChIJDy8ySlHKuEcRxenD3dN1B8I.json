@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Manuel T.",
+      "author_url": "https://www.google.com/maps/contrib/117995984029458430930/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOHStjf_Ou2pXOGZtFU6Y_H5nvVVNOvSJj9uSi-95vIPnREA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetent und freundlich.Bin sehr zufrieden und fühle mich sehr gut aufgehoben.",
+      "time": 1782364792,
+      "translated": false
+    },
+    {
+      "author_name": "Ma Ro",
+      "author_url": "https://www.google.com/maps/contrib/104206177217835972972/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFq8w9Kxm_oIKZBXVhGErZSXjat35yBu9z3kOhTF4ErmntcJs=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine richtige Untersuchung bekommen, kein richtiges Anamnesegespräch geführt worden. Wichtig war dem Arzt lediglich auf die teuren Laserbehandlungen hinzuweisen. Kann die Praxis nicht weiterempfehlen.",
+      "time": 1782322461,
+      "translated": false
+    },
+    {
+      "author_name": "A. S.",
+      "author_url": "https://www.google.com/maps/contrib/111415578674450711655/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYU_INNY9A4DrCZo3Obfo0MKdqNAd5AKR2rYaLmmIXP_Fq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Große Verfügbarkeit und freundliches Personal.",
+      "time": 1782160823,
+      "translated": true
+    },
+    {
       "author_name": "Arian Ebrahimi",
       "author_url": "https://www.google.com/maps/contrib/107162139838799542885/reviews",
       "language": "de",
@@ -20,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOuNnoAYEC9fpAeOIX5XydqmB2bl6WBMs880-veXqaegqhEmY=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Leider sehr enttäuschend. Bei Frau Dr. Steinkusch hatte ich nicht den Eindruck, dass auf meine Beschwerden ausreichend eingegangen wurde. Die Beratung wirkte auf mich unsicher und wenig hilfreich. Würde ich nicht weiterempfehlen.👎",
+      "time": 1781700595,
+      "translated": false
+    },
+    {
+      "author_name": "S. H. M.",
+      "author_url": "https://www.google.com/maps/contrib/114726563542270628561/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOuNnoAYEC9fpAeOIX5XydqmB2bl6WBMs880-veXqaegqhEmY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Leider sehr enttäuschend. Bei Frau Dr. Steinkusch hatte ich nicht den Eindruck, dass auf meine Beschwerden ausreichend eingegangen wurde. Die Beratung wirkte auf mich unsicher und wenig hilfreich. Würde ich nicht weiterempfehlen.👎",
       "time": 1781700595,
       "translated": false
@@ -543,7 +591,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 202,
+  "reviewCount": 205,
   "summary": [],
-  "lastUpdated": "2026-06-22T10:35:36.339Z"
+  "lastUpdated": "2026-06-25T08:21:13.553Z"
 }

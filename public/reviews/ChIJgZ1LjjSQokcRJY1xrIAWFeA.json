@@ -13,11 +13,33 @@
       "translated": false
     },
     {
+      "author_name": "Jutta Stöcker",
+      "author_url": "https://www.google.com/maps/contrib/112277834221285566627/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGHbYxd7h9ceAxj22bHbPc5yIBYNe3Q6_-5sENGXW4jmRxqQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Bin ohne Termin,sofort behandelt worden,super liebes Team und einfühlsamer,kompetenter Dr. Bohne.",
+      "time": 1781632215,
+      "translated": false
+    },
+    {
       "author_name": "Hermann Frietsch",
       "author_url": "https://www.google.com/maps/contrib/114456636896739485380/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOs5CkYZuIgyNqquhkF_6wn54opRIfvkGcUzlIb5KCklAYBg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781618116,
+      "translated": false
+    },
+    {
+      "author_name": "Hermann Frietsch",
+      "author_url": "https://www.google.com/maps/contrib/114456636896739485380/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOs5CkYZuIgyNqquhkF_6wn54opRIfvkGcUzlIb5KCklAYBg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1781618116,
       "translated": false
@@ -98,6 +120,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmquEaLdRkM_Ja09bfc9Oqs6iMQ4gLEBQZv2M91rmgjxmRQHB3qQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1779637220,
+      "translated": false
+    },
+    {
+      "author_name": "Manfred Neuser",
+      "author_url": "https://www.google.com/maps/contrib/115232593579442844334/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmquEaLdRkM_Ja09bfc9Oqs6iMQ4gLEBQZv2M91rmgjxmRQHB3qQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1779637220,
       "translated": false
@@ -298,5 +330,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:35:56.825Z"
+  "lastUpdated": "2026-06-25T08:21:36.252Z"
 }

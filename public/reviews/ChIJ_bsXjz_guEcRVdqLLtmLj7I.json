@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "gmze1im",
+      "author_url": "https://www.google.com/maps/contrib/111620387110603021004/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZOlq5Cki85YRKSnFN3_xAGUHMqFiqr1P7uCfMRMO4M3J57rc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782309610,
+      "translated": false
+    },
+    {
       "author_name": "Anna",
       "author_url": "https://www.google.com/maps/contrib/109765295168014023190/reviews",
       "language": "de",
@@ -23,6 +33,16 @@
       "translated": false
     },
     {
+      "author_name": "Mitch McMuffin",
+      "author_url": "https://www.google.com/maps/contrib/115090496096070806042/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfKZEWLJ3c3mQYydMH3TWFbnqvuk2xr2syPdOuX6iD5LrNb5s=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1781710123,
+      "translated": false
+    },
+    {
       "author_name": "Amir Hossein Mollashahi",
       "author_url": "https://www.google.com/maps/contrib/109454781785476152892/reviews",
       "language": "de",
@@ -30,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgPiMQqHIUGAdESFrCOMs2599wHYrYLCJgX_YYauwTWtEwSgJm=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Das Personal an der Rezeption waren wirklich sympathisch, verständnisvoll und freundlich. Auch die Ärztin war sehr geduldig, hat mich mein Problem erst mal in Ruhe erklären lassen und mir dann ihre Meinung dazu gesagt. Ein wirklich sehr angenehmer Besuch.",
+      "time": 1781608445,
+      "translated": false
+    },
+    {
+      "author_name": "Amir Hossein Mollashahi",
+      "author_url": "https://www.google.com/maps/contrib/109454781785476152892/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgPiMQqHIUGAdESFrCOMs2599wHYrYLCJgX_YYauwTWtEwSgJm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Das Personal an der Rezeption waren wirklich sympathisch, verständnisvoll und freundlich. Auch die Ärztin war sehr geduldig, hat mich mein Problem erst mal in Ruhe erklären lassen und mir dann ihre Meinung dazu gesagt. Ein wirklich sehr angenehmer Besuch.",
       "time": 1781608445,
       "translated": false
@@ -60,6 +92,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcZvXRq75i2swgXyyBK_aGhSlxHhI3tEWbWtYSnMEw4lOb9RF=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1780477498,
+      "translated": false
+    },
+    {
+      "author_name": "Julian Platte",
+      "author_url": "https://www.google.com/maps/contrib/107478451117807686965/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcZvXRq75i2swgXyyBK_aGhSlxHhI3tEWbWtYSnMEw4lOb9RF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1780477498,
       "translated": false
@@ -516,11 +558,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 244,
+  "reviewCount": 245,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:35:50.736Z"
+  "lastUpdated": "2026-06-25T08:21:29.575Z"
 }

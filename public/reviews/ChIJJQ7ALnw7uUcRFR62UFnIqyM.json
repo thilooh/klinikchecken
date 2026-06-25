@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Willi Bredenbroeker",
+      "author_url": "https://www.google.com/maps/contrib/117646867487574251514/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFTAwr6CYu3_rl2DsrmqFVZQTQVyMDQI8WT59UVEx2HZyZMp8D=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nette Praxis",
+      "time": 1782300585,
+      "translated": false
+    },
+    {
       "author_name": "Rainer Eglinsky",
       "author_url": "https://www.google.com/maps/contrib/103899045597839778190/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAGoNDEzx0VGmMnHiz4YBvAHJZbOwcmEu17y9M1mipV7HyPQ=s128-c0x00000000-cc-rp-mo-ba5",
@@ -214,11 +226,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 48,
+  "reviewCount": 49,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-06-22T10:36:05.535Z"
+  "lastUpdated": "2026-06-25T08:21:45.772Z"
 }

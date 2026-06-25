@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sonja W.",
+      "author_url": "https://www.google.com/maps/contrib/114235344749845935334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7NL5tehjJYwXMShkOaC-j0dNtbh1DlVUJsgY26KIncEp8GoQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Praxis empfehlen! Frau Lena Germann ist beim Screening gründlich vorgegangen und hat meine Fragen umfassend und sympathisch beantwortet.",
+      "time": 1782229759,
+      "translated": false
+    },
+    {
       "author_name": "Rainer Klein",
       "author_url": "https://www.google.com/maps/contrib/108459444514458626787/reviews",
       "language": "de",
@@ -303,7 +315,7 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 92,
+  "reviewCount": 93,
   "summary": [],
-  "lastUpdated": "2026-06-22T10:35:35.437Z"
+  "lastUpdated": "2026-06-25T08:21:12.436Z"
 }

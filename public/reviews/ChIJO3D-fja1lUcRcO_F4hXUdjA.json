@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Michi",
+      "author_url": "https://www.google.com/maps/contrib/114812651751683319246/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl3qWvggmoe1WzegpQVLHUVufwJ1IYmhgD80WadFKIzo0ZcLo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Mitarbeiter und Ärzte",
+      "time": 1782223732,
+      "translated": false
+    },
+    {
+      "author_name": "Milica Klein",
+      "author_url": "https://www.google.com/maps/contrib/105708984651438472594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSCRA2Q8RtncDySV0yepRIA6tMggcbRPvx8Bu18SKKmSgm=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782139465,
+      "translated": false
+    },
+    {
       "author_name": "Holger Lambert",
       "author_url": "https://www.google.com/maps/contrib/116164399772711374203/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYo5LSi_wVn7q32jBf178vj1cUDzSocmi24yRrK_lXk4ezKA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Nettes Team,",
+      "time": 1780473309,
+      "translated": false
+    },
+    {
+      "author_name": "Holger Lambert",
+      "author_url": "https://www.google.com/maps/contrib/116164399772711374203/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYo5LSi_wVn7q32jBf178vj1cUDzSocmi24yRrK_lXk4ezKA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Nettes Team,",
       "time": 1780473309,
       "translated": false
@@ -522,11 +556,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 68,
+  "reviewCount": 70,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:36:01.634Z"
+  "lastUpdated": "2026-06-25T08:21:41.513Z"
 }

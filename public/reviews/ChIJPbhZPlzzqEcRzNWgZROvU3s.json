@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tanja R",
+      "author_url": "https://www.google.com/maps/contrib/112668960919760887732/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeHcoIMIdFbC_1QZm7KIDo3ptaE47T-nO1JUjcxw1CdOmbFSke=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte im Abstand von einigen Wochen zwei PRP-Behandlungen durchführen lassen und muss wirklich sagen, dass ich mehr als zufrieden bin. Ich werde bald auch noch eine dritte Behandlung durchführen lassen. Nach dem ersten Mal war die Wirkung noch nicht wirklich ersichtlich, jedoch konnte ich nach der zweiten Behandlung im Augenbereich weniger Knitterfältchen erkennen! Frau Dr. Last nimmt sich sehr viel Zeit für einen und man fühlt sich wirklich wohl in der Praxis!",
+      "time": 1782296762,
+      "translated": false
+    },
+    {
       "author_name": "Tolga63",
       "author_url": "https://www.google.com/maps/contrib/102030008009372032480/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX47bwehBIqUSb8j_tJ_lvfvd8kY4lXpMnYG0uddzbSdyiA7zqp=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Heute war ich zum zweiten Mal bei Frau Dr. Jasmin Last und bin erneut begeistert. Vom ersten Moment an fühlt man sich bei ihr sehr gut aufgehoben. Sie nimmt sich Zeit, hört aufmerksam zu, geht auf alle Fragen ein und erklärt alles verständlich und mit großer Kompetenz.\n\nBesonders schätze ich ihre freundliche, einfühlsame und menschliche Art. Man merkt sofort, dass ihr das Wohl ihrer Patienten wirklich am Herzen liegt. Auch das gesamte Praxisteam ist ausgesprochen freundlich, hilfsbereit und organisiert, sodass man sich rundum wohlfühlt.\n\nIch bin sehr dankbar, Frau Dr. Last gefunden zu haben, und kann sie von Herzen weiterempfehlen. Eine Ärztin, bei der fachliche Kompetenz und Menschlichkeit perfekt zusammenkommen.",
+      "time": 1781043908,
+      "translated": false
+    },
+    {
+      "author_name": "Tolga63",
+      "author_url": "https://www.google.com/maps/contrib/102030008009372032480/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX47bwehBIqUSb8j_tJ_lvfvd8kY4lXpMnYG0uddzbSdyiA7zqp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Heute war ich zum zweiten Mal bei Frau Dr. Jasmin Last und bin erneut begeistert. Vom ersten Moment an fühlt man sich bei ihr sehr gut aufgehoben. Sie nimmt sich Zeit, hört aufmerksam zu, geht auf alle Fragen ein und erklärt alles verständlich und mit großer Kompetenz.\n\nBesonders schätze ich ihre freundliche, einfühlsame und menschliche Art. Man merkt sofort, dass ihr das Wohl ihrer Patienten wirklich am Herzen liegt. Auch das gesamte Praxisteam ist ausgesprochen freundlich, hilfsbereit und organisiert, sodass man sich rundum wohlfühlt.\n\nIch bin sehr dankbar, Frau Dr. Last gefunden zu haben, und kann sie von Herzen weiterempfehlen. Eine Ärztin, bei der fachliche Kompetenz und Menschlichkeit perfekt zusammenkommen.",
       "time": 1781043908,
       "translated": false
@@ -518,11 +542,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 132,
+  "reviewCount": 133,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:35:59.464Z"
+  "lastUpdated": "2026-06-25T08:21:39.148Z"
 }

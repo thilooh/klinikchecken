@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Reinhard Knorr",
+      "author_url": "https://www.google.com/maps/contrib/113529226230723140816/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIC20rV7LuBmcxTSbup3it55NyOeuLoieaW3EJIWODcmJ60MA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetente Praxis\nFreundlicher Empfang\nDr. Haase untersucht sehr emphatisch.\nFühle mich gut aufgehoben.",
+      "time": 1782320831,
+      "translated": false
+    },
+    {
+      "author_name": "Yvonnebraatz@gmail.com Braatz",
+      "author_url": "https://www.google.com/maps/contrib/114428767458047382491/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJne5vaPe4mP7yaavxnd6Ks13g_mnhDWxhii2Hyw4ii_SlMpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenig Wartezeit, kompetente , freundliche Beratung.\nEmpfehlenswerte Praxis!",
+      "time": 1782203555,
+      "translated": false
+    },
+    {
+      "author_name": "Christiane Rehne",
+      "author_url": "https://www.google.com/maps/contrib/109241776110727974535/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-pNnyYsxgirDem0MDApQE2a-YmR-uLE7B5nmv4_w2YynYvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es war alles super.  Die MFA super nett. Der Professor sehr nett,gründlich und kompetent.  Tolle moderne Praxis und sehr sauber.  Kaum Wartezeit. Vielen Dank ich komme gerne wieder.",
+      "time": 1782139815,
+      "translated": false
+    },
+    {
+      "author_name": "Paula Benecke",
+      "author_url": "https://www.google.com/maps/contrib/111463086727348771974/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHvkVGYe-5sWpy5r8FlF6St_2TViG-616Ob3vfgPz0mN25Lw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schnelle Terminvergabe, kurze Wartezeiten, sehr nettes Team und eine hervorragende Beratung durch Frau Thönnissen",
+      "time": 1782130914,
+      "translated": false
+    },
+    {
+      "author_name": "Bettina Henke",
+      "author_url": "https://www.google.com/maps/contrib/102840928402766261165/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjKLoutGEiTDcBEnot2iy7TWMfedInKFSjEJGcWOzVAwoCjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War bei Frau Niebuhr in Behandlung, kompetent, einfühlsam und ausführlich erklärt, kein Zeitdruck , keine Wartezeit....Empfangsdamen super freundlich:-)",
+      "time": 1782129887,
+      "translated": false
+    },
+    {
       "author_name": "Matthias Fellersmann",
       "author_url": "https://www.google.com/maps/contrib/106596113097034512946/reviews",
       "language": "de",
@@ -772,11 +832,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2304,
+  "reviewCount": 2307,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-22T10:35:47.484Z"
+  "lastUpdated": "2026-06-25T08:21:25.988Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Fleischmann",
+      "author_url": "https://www.google.com/maps/contrib/110188562268616157950/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgyMFxE95QY-oyt8J68TdMHfzm1lIz4OKY9hWk_CRW_b3bBHiH=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider nimmt sie keine Patienten mehr auf, wie viele Ärzte in der Lausitz.",
+      "time": 1782146476,
+      "translated": false
+    },
+    {
       "author_name": "Nadine Starick-Gabriel",
       "author_url": "https://www.google.com/maps/contrib/110602339522569863168/reviews",
       "language": "de",
@@ -129,12 +141,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 13,
+  "rating": 4.3,
+  "reviewCount": 14,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-22T10:36:21.001Z"
+  "lastUpdated": "2026-06-25T08:22:02.753Z"
 }

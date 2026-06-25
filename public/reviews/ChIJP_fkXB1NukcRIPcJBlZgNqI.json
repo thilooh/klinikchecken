@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ivelina Rachkova",
+      "author_url": "https://www.google.com/maps/contrib/112426548770013252400/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZo9tdurCekItfWPeAGbQyN6nNk3CohyHVIGrs4rTQ2N9kTME=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782231256,
+      "translated": false
+    },
+    {
       "author_name": "Kathrin Bentfeld-Holtgrewe",
       "author_url": "https://www.google.com/maps/contrib/105887301541284533706/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTPtl_eR2fHg25_XPEHuraoEtNqhFTtlTRqaOUP2Ouo9hTpw=s128-c0x00000000-cc-rp-mo",
@@ -263,12 +273,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 12,
+  "rating": 4.4,
+  "reviewCount": 13,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:36:10.116Z"
+  "lastUpdated": "2026-06-25T08:21:50.745Z"
 }

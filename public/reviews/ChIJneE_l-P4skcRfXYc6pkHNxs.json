@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Joachim Levy",
+      "author_url": "https://www.google.com/maps/contrib/102280561985480990400/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMP9xvTj4XXw7nT1T7kn9tywMp-yNLaYLgRezcKBkIN-ZrnZ39=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit mehreren Jahren bin ich Patient in dieser Praxis, bisher lediglich zur Hautkrebsvorsorge und bei kleineren Problemchen.\n\nTermine klappten immer recht flott, egal ob telefonisch oder online.\n\nDie Damen an der Anmeldung sind stets freundlich, aufmerksam, dem Patienten zugewandt und ja manchmal bleibt nicht viel Zeit für einen, kein Wunder bei der Frequenz an Patienten.\n\nBesonders hervorheben möchte ich Frau Hensler, die immer lächelnd und stets ein freundliches Wort übrig hat. Danke.\n\nÜber Frau Dr. Bandholz kann ich nur sagen: ich fühle mich sehr gut aufgehoben.\n\nDie Praxis bleibt weiterhin meine 1. Wahl.",
+      "time": 1782209934,
+      "translated": false
+    },
+    {
       "author_name": "Marion",
       "author_url": "https://www.google.com/maps/contrib/103683445262980333722/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2SKY56BTgr87e-UAUj2QdmaDzd_Z54qeko1k0JpSU1zmZQw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Nette Praxis. Sehr nettes Personal  gute Ärztin.",
+      "time": 1779802098,
+      "translated": false
+    },
+    {
+      "author_name": "Sascha Liedtke",
+      "author_url": "https://www.google.com/maps/contrib/108764365072494866324/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2SKY56BTgr87e-UAUj2QdmaDzd_Z54qeko1k0JpSU1zmZQw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Nette Praxis. Sehr nettes Personal  gute Ärztin.",
       "time": 1779802098,
       "translated": false
@@ -224,6 +248,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjz3HHJL4dhUvd40sJzaWDFD2bPb93K42qw3Oav34I4ZTvFg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Eine sehr freundliche Praxis. Großes Lob an die Mitarbeiter*innen.",
+      "time": 1776960853,
+      "translated": false
+    },
+    {
+      "author_name": "Paradiescreme Vanille",
+      "author_url": "https://www.google.com/maps/contrib/111062675560519055518/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjz3HHJL4dhUvd40sJzaWDFD2bPb93K42qw3Oav34I4ZTvFg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Eine sehr freundliche Praxis. Großes Lob an die Mitarbeiter*innen.",
       "time": 1776960853,
       "translated": false
@@ -326,11 +362,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 96,
+  "reviewCount": 97,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:35:45.730Z"
+  "lastUpdated": "2026-06-25T08:21:24.096Z"
 }

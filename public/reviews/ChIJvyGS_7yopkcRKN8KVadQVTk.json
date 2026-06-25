@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Uwe Schwabe",
+      "author_url": "https://www.google.com/maps/contrib/105054724578744628040/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJXtt8dXvmzfTYfcMPEJF0AP55Nm_r4fJ2C36ep1DE0sacnw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von Herzen ein großes Dankeschön an Frau Doktor Otto und ihr Team,",
+      "time": 1782280915,
+      "translated": false
+    },
+    {
       "author_name": "Ingolf Zenker",
       "author_url": "https://www.google.com/maps/contrib/103135162023021279387/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJknFfIVcqEn0502flU3DCuz5k1QNmKGCW0atFIDnVMccCfrw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Habe Finger machen lassen 👍👍👍",
+      "time": 1781691923,
+      "translated": false
+    },
+    {
+      "author_name": "Ingolf Zenker",
+      "author_url": "https://www.google.com/maps/contrib/103135162023021279387/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJknFfIVcqEn0502flU3DCuz5k1QNmKGCW0atFIDnVMccCfrw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Habe Finger machen lassen 👍👍👍",
       "time": 1781691923,
       "translated": false
@@ -86,6 +110,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPXHAZO8yqqYiB0whZ6IyqDOoDkRov_Asgpc7MM5MFxWcdTg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Von der Rezeption bis zu den behandelnden Ärzten sind alle sehr professionell und freundlich.",
+      "time": 1779797407,
+      "translated": false
+    },
+    {
+      "author_name": "Stephan Werkmeister",
+      "author_url": "https://www.google.com/maps/contrib/112398076848759730630/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPXHAZO8yqqYiB0whZ6IyqDOoDkRov_Asgpc7MM5MFxWcdTg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Von der Rezeption bis zu den behandelnden Ärzten sind alle sehr professionell und freundlich.",
       "time": 1779797407,
       "translated": false
@@ -502,11 +538,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 195,
+  "reviewCount": 196,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-06-22T10:36:16.933Z"
+  "lastUpdated": "2026-06-25T08:21:58.297Z"
 }

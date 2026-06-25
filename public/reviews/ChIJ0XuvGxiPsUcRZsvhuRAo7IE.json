@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Gabriel",
+      "author_url": "https://www.google.com/maps/contrib/106951710655649958441/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4KpKigs1yzNMEb21jf1HTIWbHX-SNmqhfoZ0KbWpidYBlYQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782290742,
+      "translated": false
+    },
+    {
+      "author_name": "Carsten Kessler",
+      "author_url": "https://www.google.com/maps/contrib/109906388973098089598/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLV7K_6IKZMorhUzN5ag0yHT_5pXIhvpU46qpKJDi9NybNE8w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "They do legs only, which is not clearly mentioned until you get to reception\n\nBooked my appointment via Doctolib 4 weeks ago leaving the patient fully in the blind\n\nThey wasted my time!",
+      "time": 1782219056,
+      "translated": false
+    },
+    {
       "author_name": "Ausland GH",
       "author_url": "https://www.google.com/maps/contrib/111082403181613659997/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBOlvpoNGDcQuYp3A1GsmPsfDBEXSL8s1HO1IZbkVZFybyRQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Drei Sterne, weil man schnell einen Termin bekommt und in vielen Bereichen gute Arbeit geleistet wird. Warnen muss ich aber Privatpatienten mit Selbstbeteiligung. Wenn ein Arzt ,mit einem Skalpell die Oberfläche der Haut abschabt, um eine Probe zu gewinnen, muss man dort mit der Abrechnung einer teuren Operation rechnen.\n\nAbgesehen von dieser Art der Abrechnung sind aber alle sehr nett und zuvorkommend.",
+      "time": 1781679178,
+      "translated": false
+    },
+    {
+      "author_name": "Ausland GH",
+      "author_url": "https://www.google.com/maps/contrib/111082403181613659997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBOlvpoNGDcQuYp3A1GsmPsfDBEXSL8s1HO1IZbkVZFybyRQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Drei Sterne, weil man schnell einen Termin bekommt und in vielen Bereichen gute Arbeit geleistet wird. Warnen muss ich aber Privatpatienten mit Selbstbeteiligung. Wenn ein Arzt ,mit einem Skalpell die Oberfläche der Haut abschabt, um eine Probe zu gewinnen, muss man dort mit der Abrechnung einer teuren Operation rechnen.\n\nAbgesehen von dieser Art der Abrechnung sind aber alle sehr nett und zuvorkommend.",
       "time": 1781679178,
       "translated": false
@@ -25,11 +59,33 @@
       "translated": false
     },
     {
+      "author_name": "Dominique Bremer",
+      "author_url": "https://www.google.com/maps/contrib/103973811682881607464/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsx9jjv9eibzyzfVNAbBlMtf5di1sOLQa1nYwJKwPHfHSAcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr komfortabel und fürsorglich. Nettes OP-Team, tolle Ärztin, perfektes Rundumpaket. Klasse Ergebnis!",
+      "time": 1781608712,
+      "translated": false
+    },
+    {
       "author_name": "Babak Alamdari",
       "author_url": "https://www.google.com/maps/contrib/104372741185095396282/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLO80D4gnyxOzjHmgOAED4oKvIa4qml72tB-xXYT2sLQo19jQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781536397,
+      "translated": false
+    },
+    {
+      "author_name": "Babak Alamdari",
+      "author_url": "https://www.google.com/maps/contrib/104372741185095396282/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLO80D4gnyxOzjHmgOAED4oKvIa4qml72tB-xXYT2sLQo19jQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1781536397,
       "translated": false
@@ -594,7 +650,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 428,
+  "reviewCount": 430,
   "summary": [],
-  "lastUpdated": "2026-06-22T10:35:41.083Z"
+  "lastUpdated": "2026-06-25T08:21:19.126Z"
 }

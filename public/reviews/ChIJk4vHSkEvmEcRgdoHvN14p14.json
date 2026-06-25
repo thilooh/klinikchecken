@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Marie Brodbeck",
+      "author_url": "https://www.google.com/maps/contrib/109223731266681368074/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAE9Dn2HUGl886kH7IM0LwdB38MFTdvG1-JXfLCEf4JWSxvV8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Guten Tag,\nhiermit möchte ich Herrn Talay ein großes Lob aussprechen. Bei ihm fühle ich mich sehr gut aufgehoben und kompetent beraten. Er nimmt sich Zeit, hört aufmerksam zu und gibt stets sein Bestes. Vielen Dank für die hervorragende Betreuung!",
+      "time": 1782331458,
+      "translated": false
+    },
+    {
+      "author_name": "Angelika Weißhaupt",
+      "author_url": "https://www.google.com/maps/contrib/101552264341531367425/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyC-Dy2fSI2bReKMoquLlTIJk4oKH082k0TAvlJQMW0RhGvVlOgQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Insgesamt bin ich mit den Abläufen von der Terminvergabe bis zur Behandlung und der Nachsorge zufrieden. Frau Dr. Exouzidou ist eine kompetente und aufmerksame Ärztin. Da in der gesamten Praxis immer viel los ist, können die langen Wartezeiten etwas anstrengend sein. Aber es lohnt sich!",
+      "time": 1782325005,
+      "translated": false
+    },
+    {
       "author_name": "J. M.",
       "author_url": "https://www.google.com/maps/contrib/111392305535942834879/reviews",
       "language": "de",
@@ -121,6 +145,18 @@
       "translated": false
     },
     {
+      "author_name": "André Eichholz",
+      "author_url": "https://www.google.com/maps/contrib/118130016160583195889/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVf8pwBXIrEO835-B_ygw1ry05YUEiX3d2N--imtcm9IsS0vZpxYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Trotz eines Ausschlags , der Pusteln bildete und Juckte wurde ich abgelehnt. Sehr unfreundliches Praxispersonal. 👎🏻👎🏻👎🏻",
+      "time": 1780479065,
+      "translated": false
+    },
+    {
       "author_name": "AMD",
       "author_url": "https://www.google.com/maps/contrib/114279037830566958599/reviews",
       "language": "de",
@@ -140,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCqAroasXeD1xB4kfUDHkH_Dxz9nF5R8GtEFXcDx1jKOIlTYKG=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Mein Termin wurde einfach vor 3 Stunden abgesagt wo ich lange drauf gewartet habe. Und jetzt muss ich sogar selber einen neuen buchen und wieder Monate lang warten.",
+      "time": 1780296345,
+      "translated": false
+    },
+    {
+      "author_name": "AMD",
+      "author_url": "https://www.google.com/maps/contrib/114279037830566958599/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCqAroasXeD1xB4kfUDHkH_Dxz9nF5R8GtEFXcDx1jKOIlTYKG=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Mein Termin wurde einfach vor 3 Stunden abgesagt wo ich lange drauf gewartet habe. Und jetzt muss ich sogar selber einen neuen buchen und wieder Monate lang warten.",
       "time": 1780296345,
       "translated": false
@@ -581,12 +629,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 198,
+  "rating": 4.5,
+  "reviewCount": 192,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:36:12.893Z"
+  "lastUpdated": "2026-06-25T08:21:53.849Z"
 }

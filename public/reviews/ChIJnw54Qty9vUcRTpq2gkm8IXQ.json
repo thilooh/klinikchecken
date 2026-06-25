@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jürgen S.",
+      "author_url": "https://www.google.com/maps/contrib/103447052926464632609/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWifdtmcQ9W-guMPL_V0kpWUuCpYRTmDi-_NGgSlEPGpQmbxts2=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termin bei Dr. Halasz, war schnell beendet. Ich soll dahin gehen wo ich vor 10 Jahren operiert wurde.( Krampfadern ziehen) Er könnte ja nicht ins blaue hinein sehen. Ich wollte nur das er mein Bein ansieht, und eine Meinung haben. Er machte dann so weiter, ein Wort nach dem anderen, wenn sie das nicht wollen, sagte ich , ziehe ich meine Schuhe wieder an und ich känzel hier die den Termin. Unfreundlich und frech.",
+      "time": 1782214162,
+      "translated": false
+    },
+    {
+      "author_name": "Engel",
+      "author_url": "https://www.google.com/maps/contrib/104271827388834412523/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL63QuREOmWgmix0dYKej76Vd9wmhmEJWrbrtJrnXUQzjhvCQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ohne Worte",
+      "time": 1782213412,
+      "translated": false
+    },
+    {
       "author_name": "Hasija Cinac",
       "author_url": "https://www.google.com/maps/contrib/108420326770777013692/reviews",
       "language": "de",
@@ -421,12 +445,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 166,
+  "rating": 4.6,
+  "reviewCount": 168,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-22T10:35:59.684Z"
+  "lastUpdated": "2026-06-25T08:21:39.380Z"
 }

@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Carlo",
+      "author_url": "https://www.google.com/maps/contrib/114722639245819634174/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKWkfaF0JHsns4Lmjc7JyQgin2mOeruUl8nkhyrTzfFx7Put4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin jetzt zum erstenmal hier, das was ich schonmal sagen kann, man sollte sich auf lange Wartenzeiten im Wartezimmer Einstellen, aber ist nun mal so\n...wenig Fachärzte, viele Patienten,",
+      "time": 1782368026,
+      "translated": false
+    },
+    {
+      "author_name": "hosshopf videos",
+      "author_url": "https://www.google.com/maps/contrib/114765777228540394734/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJv7j5ZdEWzEjrAsNFQbM2x86lyu0Tx_XpSthY5DtfvuUXaZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sollte nur Fäden gezogen werden und Befund Besprechung. Beides zusammen insgesamt 1 Minute gedauert. Gewartet habe ich 1,5 Stunden. Eingangsbereich wurde sichtlich längere Zeit nicht geputzt und gewischt, Stühle sind teilweise klebrig und dreckig.\nDennoch nette Ärzte.",
+      "time": 1782221914,
+      "translated": false
+    },
+    {
+      "author_name": "U S",
+      "author_url": "https://www.google.com/maps/contrib/116675871157553614049/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6dGe8QOete3biwmB8VUInttJEKbEh17AmapeJbwqE6fw1eA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kaum Wartezeit, sehr kompetenter netter Arzt Hr. Kirsch. Kompetenz und der Service hören leider bei den Mitarbeitenden auf, die die Kontaktanfragen bearbeiten. Der Arzt vergaß es, ein Rezept in der Akte zu hinterlegen. Es scheint nicht möglich zu sein, als Mitarbeiterin beim Arzt das Medikament zu erfragen, weshalb dann Anfragen des Patienten einfach ignoriert werden.",
+      "time": 1782199446,
+      "translated": false
+    },
+    {
+      "author_name": "EY",
+      "author_url": "https://www.google.com/maps/contrib/109044650468362334731/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLgAMCnEux2T6VB9AcUbQlxgcqtp0PPDJ2K6myNGlHMqEjmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wartezeiten nicht normal. Auch bei Kurzuntersuchungen, die ohne Termin ablaufen sollen, mehr als ne Stunde zu warten. Mit Termin nicht besser.",
+      "time": 1782126428,
+      "translated": false
+    },
+    {
       "author_name": "Frau Bettina",
       "author_url": "https://www.google.com/maps/contrib/105706260690610139682/reviews",
       "language": "de",
@@ -608,7 +656,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 297,
+  "reviewCount": 301,
   "summary": [],
-  "lastUpdated": "2026-06-22T10:35:38.337Z"
+  "lastUpdated": "2026-06-25T08:21:16.112Z"
 }

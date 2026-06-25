@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Natascha Langer",
+      "author_url": "https://www.google.com/maps/contrib/112241841362292385482/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcrYSZ9X1FBHRtmKmNpnjCSGnA-xzZDnBLwKi777Co4Vn6LjY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte bei Frau Dr. Haut einen kleinen medizinischen Eingriff und bin rundum zufrieden. Von der ersten Beratung bis zur Behandlung hat sie sich viel Zeit genommen, alles verständlich erklärt und ist auf meine Fragen eingegangen. Der Eingriff selbst verlief problemlos und ich habe mich jederzeit sehr gut aufgehoben gefühlt. Außerdem ist sie unglaublich sympathisch und schafft eine angenehme Atmosphäre. Ich kann die Praxis und insbesondere Frau Dr. Haut uneingeschränkt weiterempfehlen!",
+      "time": 1782236312,
+      "translated": false
+    },
+    {
       "author_name": "ezra puia",
       "author_url": "https://www.google.com/maps/contrib/105406698675620630329/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuT3-NgAnhvYnropA8UsCQ6AQCPgkl_W2t5QXeCFXjkvnYfw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Was kostet eine Gesichtsreinigung?",
+      "time": 1781528402,
+      "translated": false
+    },
+    {
+      "author_name": "ezra puia",
+      "author_url": "https://www.google.com/maps/contrib/105406698675620630329/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuT3-NgAnhvYnropA8UsCQ6AQCPgkl_W2t5QXeCFXjkvnYfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Was kostet eine Gesichtsreinigung?",
       "time": 1781528402,
       "translated": false
@@ -136,6 +160,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwWKfUE_eyUu86XbX8vf9tYoiaYYFLfWPwRpwPHGx2I8g2xw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin schon seit ein paar Jahren Patientin bei Frau Dr. Haut und finde sie wirklich toll. Mega sympathisch aber auch sehr professionell. Ich empfehle sie sehr gerne weiter!",
+      "time": 1779897508,
+      "translated": false
+    },
+    {
+      "author_name": "Lydia Veltrup",
+      "author_url": "https://www.google.com/maps/contrib/109017200506515991683/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwWKfUE_eyUu86XbX8vf9tYoiaYYFLfWPwRpwPHGx2I8g2xw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich bin schon seit ein paar Jahren Patientin bei Frau Dr. Haut und finde sie wirklich toll. Mega sympathisch aber auch sehr professionell. Ich empfehle sie sehr gerne weiter!",
       "time": 1779897508,
       "translated": false
@@ -574,11 +610,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 82,
+  "reviewCount": 83,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-22T10:36:20.784Z"
+  "lastUpdated": "2026-06-25T08:22:02.513Z"
 }

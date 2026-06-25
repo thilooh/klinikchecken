@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jay Nick",
+      "author_url": "https://www.google.com/maps/contrib/106456475751172003056/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLC-kj_Pk8pgRRJBLJXcxSZj0bfMmE8PF-0T14pXcm3DFWN4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Abu Nasir ist ein sehr kompetenter Arzt, sowohl im Bereich der Gefäßchirurgie als auch bei allgemeinchirurgischen Anliegen. Er hat mich und meine Kinder stets freundlich, professionell und zuverlässig behandelt. Wir fühlen uns bei ihm sehr gut aufgehoben und können ihn uneingeschränkt weiterempfehlen.",
+      "time": 1782241668,
+      "translated": false
+    },
+    {
       "author_name": "Rafael",
       "author_url": "https://www.google.com/maps/contrib/107800766858314662051/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOdewqOugB8M7wUFRaRYlbi5v7teU9ZuxD5sWEYSAkOwAPXYg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "War heute das erstmal bei dem Doktor,sehr Nett hört zu und erklärt alles wenn man eine frage stellt. Auch die Arzthelferinen waren sehr Nett,die Praxis kann man nur weiterempfehlen,Danke",
+      "time": 1780429590,
+      "translated": false
+    },
+    {
+      "author_name": "Christian",
+      "author_url": "https://www.google.com/maps/contrib/117843313956343464934/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOdewqOugB8M7wUFRaRYlbi5v7teU9ZuxD5sWEYSAkOwAPXYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "War heute das erstmal bei dem Doktor,sehr Nett hört zu und erklärt alles wenn man eine frage stellt. Auch die Arzthelferinen waren sehr Nett,die Praxis kann man nur weiterempfehlen,Danke",
       "time": 1780429590,
       "translated": false
@@ -154,6 +178,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD5zq36Oqfkco3ulot6FcA8TODfl2QSS2Em_t_VZr692BuyKMv=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1779532636,
+      "translated": false
+    },
+    {
+      "author_name": "Esam Hanony",
+      "author_url": "https://www.google.com/maps/contrib/102985586571236052329/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD5zq36Oqfkco3ulot6FcA8TODfl2QSS2Em_t_VZr692BuyKMv=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1779532636,
       "translated": false
@@ -555,12 +589,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 67,
+  "rating": 4.5,
+  "reviewCount": 68,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-22T10:36:09.460Z"
+  "lastUpdated": "2026-06-25T08:21:50.024Z"
 }

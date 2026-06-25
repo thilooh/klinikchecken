@@ -45,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "Georg Schwab",
+      "author_url": "https://www.google.com/maps/contrib/115775477572341441161/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7mFmdRK-suJ6ogYFfzOLGB8piAVJ_RNx1AMoGvCoZEkdnwKA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781029156,
+      "translated": false
+    },
+    {
       "author_name": "Mohammed YAZAMI",
       "author_url": "https://www.google.com/maps/contrib/104320688495643601893/reviews",
       "language": "de",
@@ -136,6 +146,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-sTXdEoNwlStdpbWPOk8sAQOkAlQYuWrsJOfdo_fsJN8LqFoU=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Top , top , top ......\nAlles in allem einfach top",
+      "time": 1779740551,
+      "translated": false
+    },
+    {
+      "author_name": "Clau Son",
+      "author_url": "https://www.google.com/maps/contrib/109572150727927386597/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-sTXdEoNwlStdpbWPOk8sAQOkAlQYuWrsJOfdo_fsJN8LqFoU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Top , top , top ......\nAlles in allem einfach top",
       "time": 1779740551,
       "translated": false
@@ -560,11 +582,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 107,
+  "reviewCount": 106,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-22T10:35:48.330Z"
+  "lastUpdated": "2026-06-25T08:21:26.953Z"
 }
