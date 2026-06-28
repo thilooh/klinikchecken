@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Oliver Pfister",
+      "author_url": "https://www.google.com/maps/contrib/104757648008960031797/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLVkJxBz5_zeE42X0uPXsK4PhQy9PaTUjAa60gRjw9PH62bA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von der Erstberatung bis zur Nachsorge alles einfach nur TOP.\nHabe mir selber eine Fettwulst am Hinterkopf weg operieren lassen, diese war ca. 11 cm lang haben ein TOP Endergebnis.\nVielen herzlichen Dank Herr Prof Maier, Sie haben mich glücklich gemacht.\nDie Operation war vor 14 Tagen ( wegen dem Nachher Bild )",
+      "time": 1782485037,
+      "translated": false
+    },
+    {
       "author_name": "Winfried Junker",
       "author_url": "https://www.google.com/maps/contrib/102226554651061799935/reviews",
       "language": "de",
@@ -422,11 +434,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 138,
+  "reviewCount": 139,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:32.664Z"
+  "lastUpdated": "2026-06-28T08:20:09.394Z"
 }

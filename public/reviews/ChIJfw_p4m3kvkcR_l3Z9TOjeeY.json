@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Maximilian Baum",
+      "author_url": "https://www.google.com/maps/contrib/105621218894923462173/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHfTfT7VD9G2tWicBjRHTAh6Y6orHOmlU8q17CcalnQssSQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut unseriös und sagt Termine, auf die man Monate gewartet hat, ohne Begründung ab",
+      "time": 1782542644,
+      "translated": false
+    },
+    {
       "author_name": "Eric Utsch",
       "author_url": "https://www.google.com/maps/contrib/116128094105013628072/reviews",
       "language": "de",
@@ -582,11 +594,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 106,
+  "reviewCount": 107,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:26.953Z"
+  "lastUpdated": "2026-06-28T08:20:03.964Z"
 }

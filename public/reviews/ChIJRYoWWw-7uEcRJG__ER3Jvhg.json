@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ali Joumo",
+      "author_url": "https://www.google.com/maps/contrib/104171426986639046509/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZX8bkZWXXv9hYyhW3gU4znThqNiPi-sxhuiqCO3zVJ28LXqRjjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine tolle Praxis! Die Mitarbeiter und Ärzte sind super nett, herzlich und extrem zuvorkommend. Man wird hier immer mit einem Lächeln empfangen. Vielen Dank für die tolle Betreuung!",
+      "time": 1782474729,
+      "translated": false
+    },
+    {
       "author_name": "Maurice Schröer",
       "author_url": "https://www.google.com/maps/contrib/113973427564389412944/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtxkY5PgDH89p0v62lEu2snYCWmyz9KhQskJQrt7UVm_IUjQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Najm ist einfach ein großartiger Arzt! Man fühlt sich bei ihm sofort gut aufgehoben, ernst genommen und kompetent beraten. Er nimmt sich Zeit, erklärt alles verständlich und begegnet einem dabei immer freundlich, herzlich und auf Augenhöhe. Fachlich top und menschlich genauso stark. Ich kann Dr. Najm wirklich uneingeschränkt weiterempfehlen, vielen Dank für die tolle Betreuung! Bedenkenlos 5 Sterne!",
+      "time": 1781788308,
+      "translated": false
+    },
+    {
+      "author_name": "Maurice Schröer",
+      "author_url": "https://www.google.com/maps/contrib/113973427564389412944/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtxkY5PgDH89p0v62lEu2snYCWmyz9KhQskJQrt7UVm_IUjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr. Najm ist einfach ein großartiger Arzt! Man fühlt sich bei ihm sofort gut aufgehoben, ernst genommen und kompetent beraten. Er nimmt sich Zeit, erklärt alles verständlich und begegnet einem dabei immer freundlich, herzlich und auf Augenhöhe. Fachlich top und menschlich genauso stark. Ich kann Dr. Najm wirklich uneingeschränkt weiterempfehlen, vielen Dank für die tolle Betreuung! Bedenkenlos 5 Sterne!",
       "time": 1781788308,
       "translated": false
@@ -660,11 +684,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 215,
+  "reviewCount": 216,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-25T08:21:44.599Z"
+  "lastUpdated": "2026-06-28T08:20:20.672Z"
 }

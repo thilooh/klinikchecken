@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Markus Salomon",
+      "author_url": "https://www.google.com/maps/contrib/112199443171093668684/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeFYlC1t-_OkZe_xEy3eLZwMe-9Ebztf7_YZkP7MNAb7feiQErRQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "Freundlich, aber nicht das beste Zeitmanagement",
+      "time": 1781868297,
+      "translated": false
+    },
+    {
       "author_name": "Laurenz Schmitt",
       "author_url": "https://www.google.com/maps/contrib/115490263842713255299/reviews",
       "language": "de",
@@ -116,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPVGQpPWPk_AcSQIfIS7mmqNGTMhpyCmtZZ0kXaBVO8v5MvyaU=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr guter Arzt. Er hat sich viel Zeit für eine ausführliche Beratung genommen und die Untersuchung sehr kompetent, sorgfältig und mit viel Empathie durchgeführt. Ich habe mich bestens aufgehoben gefühlt und kann diese Praxis uneingeschränkt weiterempfehlen.",
+      "time": 1779948255,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Huhn",
+      "author_url": "https://www.google.com/maps/contrib/112915076571424126271/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPVGQpPWPk_AcSQIfIS7mmqNGTMhpyCmtZZ0kXaBVO8v5MvyaU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr guter Arzt. Er hat sich viel Zeit für eine ausführliche Beratung genommen und die Untersuchung sehr kompetent, sorgfältig und mit viel Empathie durchgeführt. Ich habe mich bestens aufgehoben gefühlt und kann diese Praxis uneingeschränkt weiterempfehlen.",
       "time": 1779948255,
       "translated": false
@@ -188,6 +212,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVfnDV9mU0Wb2PcZjUA2FscZl1q3lVkptWBoSi7hixQQ2iQA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich bin absolut begeistert von der Praxis Derma Cologne. Man fühlt sich direkt wohl – das Team ist super freundlich und gleichzeitig total professionell.\n\nDie Beratung war ausführlich, ehrlich und individuell auf mich abgestimmt, ohne dass einem etwas aufgedrängt wird. Die Behandlung selbst war auf höchstem Niveau und ich habe schnell Verbesserungen gesehen.\n\nAuch die Atmosphäre ist einfach top: modern, sauber und sehr angenehm. Ich kann die Praxis von Herzen weiterempfehlen und komme definitiv wieder!",
+      "time": 1777389821,
+      "translated": false
+    },
+    {
+      "author_name": "elif Gencer",
+      "author_url": "https://www.google.com/maps/contrib/108406678616111349395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVfnDV9mU0Wb2PcZjUA2FscZl1q3lVkptWBoSi7hixQQ2iQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich bin absolut begeistert von der Praxis Derma Cologne. Man fühlt sich direkt wohl – das Team ist super freundlich und gleichzeitig total professionell.\n\nDie Beratung war ausführlich, ehrlich und individuell auf mich abgestimmt, ohne dass einem etwas aufgedrängt wird. Die Behandlung selbst war auf höchstem Niveau und ich habe schnell Verbesserungen gesehen.\n\nAuch die Atmosphäre ist einfach top: modern, sauber und sehr angenehm. Ich kann die Praxis von Herzen weiterempfehlen und komme definitiv wieder!",
       "time": 1777389821,
       "translated": false
@@ -399,5 +435,5 @@
   "rating": 4.1,
   "reviewCount": 50,
   "summary": [],
-  "lastUpdated": "2026-06-25T08:21:11.858Z"
+  "lastUpdated": "2026-06-28T08:19:49.812Z"
 }

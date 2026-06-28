@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "l. Römer",
+      "author_url": "https://www.google.com/maps/contrib/106523859829912945137/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTVkCfm6mnb3aYETAkc9LptOVl-r-3_YhjMK56JAuSD5McZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dieser eine Stern betrifft nicht die Behandlung, sondern das niemand ans Telefon geht. Ich habe es eine Stunde ununterbrochen  läuten lassen aber es geht niemand hin. Ich habe in der Praxis mit dem Handy probiert und es geht auch da niemand an Telefon.\nMan muss sich Online oder per App digital Anmelden, braucht aber ein Rezept in Papierform um eine Salbe zu bekommen.\nNachhaltig ist was anderes. Die Behandlung war wirklich OK, aber der Service ist eine Katastrophe. Die Mitarbeiter am Empfang sind aber alle sehr sehr Nett. Wie gesagt dieser eine Stern bezieht sich auf den Service und somit auf den Umgang mit seinen Patienten, die vielleicht nach der Behandlung nicht mehr ganz so wichtig sind, sonst würde man zumindest mal ans Telefon gehen.   Wie gesagt für die Behandlung selber ist die Praxis absolut Top.",
+      "time": 1782464795,
+      "translated": false
+    },
+    {
       "author_name": "Josh M. 3",
       "author_url": "https://www.google.com/maps/contrib/112003885357870190172/reviews",
       "language": "de",
@@ -526,11 +538,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 159,
+  "reviewCount": 160,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-25T08:21:31.236Z"
+  "lastUpdated": "2026-06-28T08:20:08.052Z"
 }

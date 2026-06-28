@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sergey Debelo",
+      "author_url": "https://www.google.com/maps/contrib/103373987571577799980/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcgmLSTQnbYQUIf2467kerd1u3SkFwKfjLbsqYABZJM-Uyhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782577979,
+      "translated": false
+    },
+    {
       "author_name": "Knut Knuti",
       "author_url": "https://www.google.com/maps/contrib/105078374777019633545/reviews",
       "language": "de",
@@ -510,11 +520,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 151,
+  "reviewCount": 152,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-25T08:21:24.808Z"
+  "lastUpdated": "2026-06-28T08:20:01.928Z"
 }

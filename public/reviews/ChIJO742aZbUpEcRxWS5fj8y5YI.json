@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Koko 8000",
+      "author_url": "https://www.google.com/maps/contrib/106575669201438543883/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHz0sg2hC23201G3WhlG00C7oTXifDuVr8gbt3yKiYmJCfZKFQjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein super tolles Team mit riesigem Wohlfühlfaktor und Fachwissen. In Kombination mit Selbstreflexion bekommt man bei Angelina und Team ein ganz neues Lebensgefühl!!\nDanke Ihr Lieben..macht weiter so, Ihr seid toll!!!💜",
+      "time": 1782541123,
+      "translated": false
+    },
+    {
       "author_name": "Ce La vie",
       "author_url": "https://www.google.com/maps/contrib/103162891686228035640/reviews",
       "language": "de",
@@ -274,11 +286,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 111,
+  "reviewCount": 112,
   "summary": [
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen für Besenreiser-Behandlung",
     "Patienten empfehlen die Praxis weiter"
   ],
-  "lastUpdated": "2026-06-25T08:21:42.002Z"
+  "lastUpdated": "2026-06-28T08:20:18.202Z"
 }

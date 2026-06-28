@@ -73,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Frau Bettina",
+      "author_url": "https://www.google.com/maps/contrib/105706260690610139682/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNub-84T794wi30TC6u1DArmqkMF3z84b3R8-In8u0lJTFkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Mit einem Kind trotz Termin über eine Stunde warten zu müssen, um überhaupt in den Wartebereich vor dem Sprechzimmer zu kommen ist kein empfehlenswerter Zustand. Man muss die Termine 4 oder 6 Monate im Voraus machen und dann sind die Abläufen so schlecht geplant, dass man länger wartet als bei anderen Ärzten ohne Termin. Gerade bei einem Termin für ein Kind eine völlige Fehlplanung...",
+      "time": 1781271253,
+      "translated": false
+    },
+    {
       "author_name": "Nick Schöffler",
       "author_url": "https://www.google.com/maps/contrib/107372554107545025561/reviews",
       "language": "de",
@@ -658,5 +670,5 @@
   "rating": 4.5,
   "reviewCount": 301,
   "summary": [],
-  "lastUpdated": "2026-06-25T08:21:16.112Z"
+  "lastUpdated": "2026-06-28T08:19:53.638Z"
 }

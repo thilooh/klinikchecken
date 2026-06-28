@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Wiebke Albert",
+      "author_url": "https://www.google.com/maps/contrib/107496544800963500617/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH9htyMlxqEptCD0YH41hh48_qkL01l4N5WE61JzCpt6hYcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles sehr angenehm 😊",
+      "time": 1782383292,
+      "translated": false
+    },
+    {
+      "author_name": "Maike Mitterwald",
+      "author_url": "https://www.google.com/maps/contrib/111847953190809680901/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOX5lBAS0EjTsknAci7oTw4RtXgpVqktMKzJQpuyJTyAR1Vg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sooo nette Schwestern und Ärzte hier im ambulanten operationszentrum.\nSuper Zimmer.....einfach klasse.\nHeutzutage gibt es das selten. Trotz der Hitze sind alle super gelaunt.😊",
+      "time": 1782378238,
+      "translated": false
+    },
+    {
       "author_name": "Steven.30-06",
       "author_url": "https://www.google.com/maps/contrib/117564467752415374214/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl04cLv3hmCmymPSyUTbfuASKQh-n-JjgFt0oQ6EbSV71_Tg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super nette und freundliche Schwestern und Ärzte. Sehr zu empfehlen wer Probleme mit der Leiste hat.",
+      "time": 1781870599,
+      "translated": false
+    },
+    {
+      "author_name": "Steven.30-06",
+      "author_url": "https://www.google.com/maps/contrib/117564467752415374214/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl04cLv3hmCmymPSyUTbfuASKQh-n-JjgFt0oQ6EbSV71_Tg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super nette und freundliche Schwestern und Ärzte. Sehr zu empfehlen wer Probleme mit der Leiste hat.",
       "time": 1781870599,
       "translated": false
@@ -25,11 +61,33 @@
       "translated": false
     },
     {
+      "author_name": "Einq Kontinuum",
+      "author_url": "https://www.google.com/maps/contrib/113563160974120360937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFUAt8Uaidym9g1PPllSyp0T3pOR8d6cfwTke5S2mPVrhtww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war zu einer OP ambulant im MVZ. Das was man sonst so über Krankenhäuser hört, ist teilweise etwas gruselig. Hier ist aber alles perfekt. Sauber, zügig also kurze Wartezeiten, gut durchorganisiert. Am OP Tag, nette und wirklich fleißige Schwestern, Pfleger und Ärzte die sich um einen kümmern. Es wird freundlich auf Fragen geantwortet und der Herr Chirurg kommt auch nach der OP vorbei und erklärt alles nochmal ohne das man das Gefühl hat, hier ist Stress oder Hektik. Auf diesem Weg: Vielen Dank an das gesamte Team",
+      "time": 1781778725,
+      "translated": false
+    },
+    {
       "author_name": "Guido Geisler",
       "author_url": "https://www.google.com/maps/contrib/102435951755856064918/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKX8GEMD70wd55i3bXJKaVK-J5XFtWUJvrfNTtYy6MJcoYbfQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1781774611,
+      "translated": false
+    },
+    {
+      "author_name": "Guido Geisler",
+      "author_url": "https://www.google.com/maps/contrib/102435951755856064918/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKX8GEMD70wd55i3bXJKaVK-J5XFtWUJvrfNTtYy6MJcoYbfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1781774611,
       "translated": false
@@ -632,11 +690,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 451,
+  "reviewCount": 453,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-25T08:21:25.279Z"
+  "lastUpdated": "2026-06-28T08:20:02.373Z"
 }

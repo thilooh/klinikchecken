@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "haiffa alsendi",
+      "author_url": "https://www.google.com/maps/contrib/108931120749569163180/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJU1_qzsZfdzBG3qAVlity815xpsQhw3bb6Tk4YZzmJu0qcEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin jetzt seit ein paar Monaten in der Praxis und bis jetzt wirklich sehr zufrieden. Das gesamte Team ist freundlich und man fühlt sich gut aufgehoben. Die Praxis ist sauber und gut organisiert, und die Wartezeiten sind auch meistens kurz.\n\nBesonders zufrieden bin ich mit Frau Winkelmann-Schirmer. Sie nimmt sich Zeit, hört aufmerksam zu und erklärt alles verständlich. Ich hatte von Anfang an das Gefühl, dass auf meine Anliegen eingegangen wird. Insgesamt kann ich die Praxis auf jeden Fall weiterempfehlen 😊",
+      "time": 1782464458,
+      "translated": false
+    },
+    {
+      "author_name": "Vanessa Völkmann",
+      "author_url": "https://www.google.com/maps/contrib/114686110207248304535/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIExKNNNLlbdmFPQ5mpKSqdSDoV3Sk_kBiMJvcS6W8D9D43Xw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782461647,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Rehfeldt",
+      "author_url": "https://www.google.com/maps/contrib/107563721319640263378/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp91aQpycPsstJHvLVD1vISLf9sJK_gNXSeRgN5oOUAcOfIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe am Mittwoch spontan einen Einfleck-Termin bei Frau Thönnissen bekommen. Die Ärztin machte auf mich einen sehr kompetenten und gründlichen Eindruck, ich fühlte mich sehr gut aufgehoben. Ich war schon mehrfach in der Praxis und habe durchweg positive Erfahrungen. Leider ist es oft recht schwierig, einen Termin zu bekommen.",
+      "time": 1782405327,
+      "translated": false
+    },
+    {
       "author_name": "Reinhard Knorr",
       "author_url": "https://www.google.com/maps/contrib/113529226230723140816/reviews",
       "language": "de",
@@ -832,11 +866,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2307,
+  "reviewCount": 2309,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-25T08:21:25.988Z"
+  "lastUpdated": "2026-06-28T08:20:03.061Z"
 }

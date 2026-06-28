@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ladan E",
+      "author_url": "https://www.google.com/maps/contrib/116288931926157544903/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpYOd6ImyOXo4zFOlMuj9JJxq5-wBOv3QVDIHK2vMBz4eRVdo_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war rundum sehr zufrieden mit der Behandlung. Alles war wirklich perfekt – von der Untersuchung bis zur Behandlung selbst. Die Frau Dr. Tijana Jestovic war sehr freundlich, hat sich Zeit genommen und alles verständlich erklärt. Ich habe mich jederzeit gut aufgehoben gefühlt und wurde sehr gut informiert. Insgesamt eine sehr positive Erfahrung, die ich absolut weiterempfehlen kann",
+      "time": 1782388263,
+      "translated": false
+    },
+    {
       "author_name": "Kardelen Konuk",
       "author_url": "https://www.google.com/maps/contrib/115587593405701677781/reviews",
       "language": "de",
@@ -109,6 +121,18 @@
       "translated": false
     },
     {
+      "author_name": "Elke 1",
+      "author_url": "https://www.google.com/maps/contrib/107420970420026929257/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjPLdSpzyDHOxTIm6kckK5ZM5_XOsfVGoDjuX7UruN97qzDg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ist ein bißchen auf Schicki Micki gemacht. Hatte ein Hautscreening, war nach knapp 10 Minuten fertig,  und ich habe einen Haufen Leberflecke. Hoffe,  offen gesagt, dass die Untersuchung gründlich genug war. Der Arzt war aber sehr nett.",
+      "time": 1779818909,
+      "translated": false
+    },
+    {
       "author_name": "Dragana Gjorgjieva",
       "author_url": "https://www.google.com/maps/contrib/109119370573780902708/reviews",
       "language": "de",
@@ -164,6 +188,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcVbJAMQjDsHM0XHHhRMWoMQUndf0J9B8Ufkg2gBCGpsVhfg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich bin sehr zufrieden und kann diese Praxis allen empfehlen.\nDas Personal ist sehr freundlich und beantwortet alle Fragen. Es ist einfach, einen Termin zu vereinbaren.\nEin besonderer Dank geht an Dr. Yassin und Dr. Tijana – sie waren sehr nett zu mir und alles ging sehr schnell und reibungslos.",
+      "time": 1779809165,
+      "translated": false
+    },
+    {
+      "author_name": "Dragana Gjorgjieva",
+      "author_url": "https://www.google.com/maps/contrib/109119370573780902708/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcVbJAMQjDsHM0XHHhRMWoMQUndf0J9B8Ufkg2gBCGpsVhfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich bin sehr zufrieden und kann diese Praxis allen empfehlen.\nDas Personal ist sehr freundlich und beantwortet alle Fragen. Es ist einfach, einen Termin zu vereinbaren.\nEin besonderer Dank geht an Dr. Yassin und Dr. Tijana – sie waren sehr nett zu mir und alles ging sehr schnell und reibungslos.",
       "time": 1779809165,
       "translated": false
@@ -468,11 +504,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 57,
+  "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:47.653Z"
+  "lastUpdated": "2026-06-28T08:20:23.570Z"
 }

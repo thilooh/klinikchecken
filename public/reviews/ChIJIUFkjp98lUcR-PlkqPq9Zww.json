@@ -41,6 +41,16 @@
       "translated": false
     },
     {
+      "author_name": "Günter Edlinger",
+      "author_url": "https://www.google.com/maps/contrib/112056717432600362479/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4soD30-Y8kALew3vIMW-ULD2CfXk99LjQUsHpoIIdsA48Ug=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1779977901,
+      "translated": false
+    },
+    {
       "author_name": "Bernd Szyszka",
       "author_url": "https://www.google.com/maps/contrib/109279402738265715490/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbuWh30PUwE8efwOVWMsf1Gw3GJnIaAoAdWOGBR_XXmoChZA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -245,6 +255,18 @@
       "translated": false
     },
     {
+      "author_name": "Becker Becker",
+      "author_url": "https://www.google.com/maps/contrib/103364903297145882695/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFSNalnqYQS7mdcA_UXyQD4yWOfL4lgch0_TSXM2WjeifgJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Tolle Praxis, freundliches Personal, kompetente Ärzte, vorbildlich, weiter so. Erstaunlich kurze Wartezeit. 6 Sterne 🌟",
+      "time": 1777381228,
+      "translated": false
+    },
+    {
       "author_name": "Silvia Schulz",
       "author_url": "https://www.google.com/maps/contrib/115987715135459893290/reviews",
       "language": "de",
@@ -312,6 +334,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWowiWMiV2w4orvIzi70oGYCwBVl_e3apG_dfWbqCORmZvUnYvk=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Nett und Kompetent",
+      "time": 1777239547,
+      "translated": false
+    },
+    {
+      "author_name": "Silvia Schulz",
+      "author_url": "https://www.google.com/maps/contrib/115987715135459893290/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWowiWMiV2w4orvIzi70oGYCwBVl_e3apG_dfWbqCORmZvUnYvk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Nett und Kompetent",
       "time": 1777239547,
       "translated": false
@@ -468,5 +502,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:58.538Z"
+  "lastUpdated": "2026-06-28T08:20:33.794Z"
 }

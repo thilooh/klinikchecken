@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ms RS",
+      "author_url": "https://www.google.com/maps/contrib/111943804730906255446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPQXQk7HgnzCG9ZIhfemVFakRgDqiI96xUALpkUEZdiF8B=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin letzte Woche (Juni 26) erneut wegen einer Thrombose vorstellig gewesen, nachdem ich seit 2021 bereits mehrfach im Venenzentrum aufgrund einer Thrombose und Lungenembolie vorstellig gewesen war.\n\n2021 wurde damals mit dem gegenüberliegenden Gerinnungsarzt Dr. Wüst gemeinsam Diagnostik durchgeführt.\n\nIm November 2025 bin ich zuletzt vorstellig gewesen wegen Schmerzen im linken Bein (nichts diagnostiziert).\n\nNun also im März eine weitere Thrombose und nun wieder dort vorstellig geworden. Dieses mal bei einem anderen Arzt. Für diesen behandelnden Arzt war es ein riesiges Problem dass ich keine elektronische Patientenakte habe und ich keine Unterlagen, auch von früher, dabei hatte. Man sollte ja eigentlich davon ausgehen können, wenn eben genau dieses Zentrum die Diagnostik getätigt hatte, die Unterlagen in der Praxis sind. Er ließ mich nicht ausreden - nur ich soll die Unterlagen zusammensammeln (die eigentlich dort ja weiterhin hätten sein sollen da ja genau dieses Zentrum die erste Behandlung bis November 2025 durchgeführt hatte?!) und anschließend einen neuen Termin machen. Ich habe ihm gesagt dass ich vom Krankenhaus keine weiteren Unterlagen hatte und meine Hausärztin weiß, dass ich mich mit den Fachbegriffen und Diagnosen sehr gut auskenne- wenn man mich ausreden lässt.\n\nIch arbeite seit Jahrzehnten mit Ärzten und Kliniken beruflich zusammen, doch solch ein Auftreten kam mir noch nie unter.\n\nDas Praxis Team ist jedoch super nett und Dr. Neugebauer war auch immer sehr kompetent und nett. Deswegen drei Sterne.",
+      "time": 1782612208,
+      "translated": false
+    },
+    {
       "author_name": "A. Fianni",
       "author_url": "https://www.google.com/maps/contrib/114130368509006975800/reviews",
       "language": "de",
@@ -544,11 +556,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 148,
+  "reviewCount": 149,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:54.332Z"
+  "lastUpdated": "2026-06-28T08:20:29.798Z"
 }

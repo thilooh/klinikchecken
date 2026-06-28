@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lotta Rothe",
+      "author_url": "https://www.google.com/maps/contrib/104781364219487281540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOguxCQ0tMHQmtxxr-NIDhrrnvkEYP2q-xS17Xh-HsWbA5xg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Ärzte und eine sehr gute Betreuung!",
+      "time": 1782468384,
+      "translated": false
+    },
+    {
       "author_name": "Reisefuchs",
       "author_url": "https://www.google.com/maps/contrib/103093640310579771365/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK57iPdGaY6alvtjr79tkxrNlCTnUDPoPB7XxkFqwq_j2Qf5w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "20 Jahre Zyste begleitet, passend zum 20-jährigen Praxisjubiläum. Zufall oder Schicksal?\n\nNach der Entfernung meiner drei großen Zysten fühle ich mich wie neu geboren. Eine der Zysten hatte mich fast 20 Jahre begleitet, was für eine Erleichterung, endlich beschwerdefrei zu sein. Dr. Kasten hat diesen Tag humorvoll als „Liberation Day“ bezeichnet.\n\nNach jahrelanger Suche und unzähligen Arztbesuchen war Dr. Kasten der Erste, der sofort wusste, worum es sich handelt. Das hat mir unglaublich viel Hoffnung und Erleichterung gegeben.\n\nDr. Kasten arbeitet ruhig und präzise, ist dabei sympathisch und humorvoll. Großes Lob an ihn und das gesamte Team: Die Zusammenarbeit ist sehr professionell und eingespielt. Ich habe mich jederzeit gut aufgehoben gefühlt. Die OP verlief sehr gut und die Narbe ist kaum zu sehen.Was für ein tolles Ergebnis.\n\nIch bin unendlich dankbar, Dr. Kasten sowohl als Arzt als auch als Mensch kennengelernt zu haben.\n\nDiese positive Erfahrung möchte ich gerne mit anderen teilen und allen Mut machen, die noch zögern. Vielen Dank an Dr. Kasten, das gesamte Team und auch an meine Kinder, die mich ermutigt haben, dort hinzugehen.\n\nLiebe Grüße nach Mainz!",
+      "time": 1781897782,
+      "translated": false
+    },
+    {
+      "author_name": "T. C.",
+      "author_url": "https://www.google.com/maps/contrib/113417854896192497537/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK57iPdGaY6alvtjr79tkxrNlCTnUDPoPB7XxkFqwq_j2Qf5w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "20 Jahre Zyste begleitet, passend zum 20-jährigen Praxisjubiläum. Zufall oder Schicksal?\n\nNach der Entfernung meiner drei großen Zysten fühle ich mich wie neu geboren. Eine der Zysten hatte mich fast 20 Jahre begleitet, was für eine Erleichterung, endlich beschwerdefrei zu sein. Dr. Kasten hat diesen Tag humorvoll als „Liberation Day“ bezeichnet.\n\nNach jahrelanger Suche und unzähligen Arztbesuchen war Dr. Kasten der Erste, der sofort wusste, worum es sich handelt. Das hat mir unglaublich viel Hoffnung und Erleichterung gegeben.\n\nDr. Kasten arbeitet ruhig und präzise, ist dabei sympathisch und humorvoll. Großes Lob an ihn und das gesamte Team: Die Zusammenarbeit ist sehr professionell und eingespielt. Ich habe mich jederzeit gut aufgehoben gefühlt. Die OP verlief sehr gut und die Narbe ist kaum zu sehen.Was für ein tolles Ergebnis.\n\nIch bin unendlich dankbar, Dr. Kasten sowohl als Arzt als auch als Mensch kennengelernt zu haben.\n\nDiese positive Erfahrung möchte ich gerne mit anderen teilen und allen Mut machen, die noch zögern. Vielen Dank an Dr. Kasten, das gesamte Team und auch an meine Kinder, die mich ermutigt haben, dort hinzugehen.\n\nLiebe Grüße nach Mainz!",
       "time": 1781897782,
       "translated": false
@@ -104,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpRosLq_O4T0LDbP-o30Yd6fxnuDJXDHX63yWKo5E9qrmo0w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Mein Dank geht an Frau Dr. Kasten. Professionelle Beratung und dementsprechende Behandlung. Danke auch an das freundliche Praxisteam.",
+      "time": 1780132270,
+      "translated": false
+    },
+    {
+      "author_name": "Tina Franzmann",
+      "author_url": "https://www.google.com/maps/contrib/101906235998931771888/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpRosLq_O4T0LDbP-o30Yd6fxnuDJXDHX63yWKo5E9qrmo0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Mein Dank geht an Frau Dr. Kasten. Professionelle Beratung und dementsprechende Behandlung. Danke auch an das freundliche Praxisteam.",
       "time": 1780132270,
       "translated": false
@@ -556,11 +592,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 227,
+  "reviewCount": 228,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:40.348Z"
+  "lastUpdated": "2026-06-28T08:20:16.628Z"
 }

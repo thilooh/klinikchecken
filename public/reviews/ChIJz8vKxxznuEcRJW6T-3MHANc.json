@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Hagedorn",
+      "author_url": "https://www.google.com/maps/contrib/118187695792191795464/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0rJlMphxG_oIb23OVWEOBfcICvd54jZMfV30BRl5z2oLfleT9=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782570344,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Kapteina-Vogel",
+      "author_url": "https://www.google.com/maps/contrib/106127455461533073171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzp2VDqpFL-r9Pz3vRSr7UfcjCrelYh1vFn-0CkjgXVp9hf38=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top, kure Wartezeit, super freundlich",
+      "time": 1782462237,
+      "translated": false
+    },
+    {
+      "author_name": "Kim",
+      "author_url": "https://www.google.com/maps/contrib/105660238132134355598/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCKSNitih7dXczTaShNU4pfBFjTVY7hiVDHlB04mt8TZV9eg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte mir vor einiger Zeit einen Termin als Neupatientin wegen zweier sich verändernder Muttermale über Doctolib gebucht. Der Termin sollte morgen sein. Er wurde kurzfristig kommentarlos abgesagt. Der nächste Termin ist im Oktober.\n\nIch hänge seit 50 Minuten in der telefonischen Warteschleife und habe jetzt, 16:00 Uhr, mit einem anderen Handy angerufen, vielleicht bringt es ja etwas. Es kam nur die Bandansage, dass ich außerhalb der Sprechzeiten - die bis 17:00 Uhr gehen und so auch am Band angesagt werden - anrufe...\n\nEdit: ich habe nach über 1,5 Stunden Wartezeit dann aufgegeben. Dann buche ich mir so einen Termin, mal gucken, ob ich den Richtigen erwische",
+      "time": 1782399088,
+      "translated": false
+    },
+    {
       "author_name": "Ionatan Shelby",
       "author_url": "https://www.google.com/maps/contrib/118043443350790754209/reviews",
       "language": "de",
@@ -652,11 +686,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 372,
+  "reviewCount": 375,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:44.130Z"
+  "lastUpdated": "2026-06-28T08:20:20.228Z"
 }

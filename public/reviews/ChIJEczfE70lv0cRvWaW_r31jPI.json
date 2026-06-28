@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "F I",
+      "author_url": "https://www.google.com/maps/contrib/105156290037012682137/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL53cWUQcY6gjPaqEtJBVcgsKIpfDpHFY9-Te4noLWvb1mTpw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "5 Sterne für Dr. medic. Corina Endres - tolle Ärztin im Be esthetic Team und absolut empfehlenswert!",
+      "time": 1782401203,
+      "translated": false
+    },
+    {
+      "author_name": "Tatjana Brückner",
+      "author_url": "https://www.google.com/maps/contrib/102062392328894626519/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_nv7ZFZVvIc2n7Tc42pJcxAoH8h5M5jDhkXO7kSxlNWQCVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann Dr. Esfahani nur wärmstens empfehlen. Er ist sowohl menschlich als auch fachlich einfach Top. Nach einer vorangegangen Straffung mit Vergrößerung vor Knapp 11 Jahren, hat er meine Implantate (die sowohl beschädigt als auch gefährlich waren) ausgetauscht. Sowohl bei ihm auch als seinem Team habe ich mich unfassbar gut aufgehoben gefühlt. Diese Erfahrung wünsche ich Jedem, vor allem, wenn man schon schlechte Erfahrungen mit Chrirugen gemacht hat, einfach Gold wert. Würde auch 10 Sterne geben wenn es möglich wäre. Danke Dr. Esfahani, ich bin endlich wieder happy :)",
+      "time": 1782394291,
+      "translated": false
+    },
+    {
       "author_name": "M. Aydin",
       "author_url": "https://www.google.com/maps/contrib/116501043075733564969/reviews",
       "language": "de",
@@ -421,11 +445,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 140,
+  "reviewCount": 142,
   "summary": [
     "Dr. Esfahani gilt als äußerst präziser Chirurg — Ergebnisse übertreffen laut Patienten oft die Erwartungen",
     "Eingriffe verlaufen schmerzfrei und komplikationslos, auch komplexe Korrekturen gelingen",
     "Das gesamte Team wird als herzlich, einfühlsam und professionell beschrieben"
   ],
-  "lastUpdated": "2026-06-25T08:21:09.255Z"
+  "lastUpdated": "2026-06-28T08:19:47.466Z"
 }

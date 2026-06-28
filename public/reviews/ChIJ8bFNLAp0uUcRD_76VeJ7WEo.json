@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hubert Zöllner",
+      "author_url": "https://www.google.com/maps/contrib/101379232222492237082/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwdo23glKuHyIvePJf2gP9tEtzQOe5Z6B_KPFgDGpHvjrI7UpQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wie immer geben sich alle mühe trotz aller Kürzungen gute Arbeit zu leisten.👍",
+      "time": 1782414260,
+      "translated": false
+    },
+    {
       "author_name": "Paul",
       "author_url": "https://www.google.com/maps/contrib/117484041817396712035/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdl_-_NAZhTudA8ZTEaBy8wKXVVp8gBCiwRjK_711u4CeoU1f4=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Eine reine Katerstrofe seit es dreimal Johanniter heisst. Armes Gesundheitssüstem.",
+      "time": 1781787723,
+      "translated": false
+    },
+    {
+      "author_name": "Paul",
+      "author_url": "https://www.google.com/maps/contrib/117484041817396712035/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdl_-_NAZhTudA8ZTEaBy8wKXVVp8gBCiwRjK_711u4CeoU1f4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Eine reine Katerstrofe seit es dreimal Johanniter heisst. Armes Gesundheitssüstem.",
       "time": 1781787723,
       "translated": false
@@ -188,11 +212,11 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 14,
+  "reviewCount": 15,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:46.481Z"
+  "lastUpdated": "2026-06-28T08:20:22.445Z"
 }

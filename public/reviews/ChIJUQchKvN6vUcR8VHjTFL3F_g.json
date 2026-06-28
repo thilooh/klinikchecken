@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Nina Jünger",
+      "author_url": "https://www.google.com/maps/contrib/109996238743865604420/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9VLHxu52h8DoAiV2nUPy691_oIIJ5FFQQmdjwl9CyfHYcJg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur Oberlidstraffung bei Dr.Duma - bin „erst“ 38 und trotzdem stört mich der müde Blick schon sehr lange.\nIch bin rundum zufrieden und auf das endgültige Ergebnis sehr gespannt - die OP verlief sehr unkompliziert. Natürlich ist man erstmal aufgeregt, aber Schwester Karin, der Anästhesist und dann auch Frau Dr.Duma selbst begleiten einen so entspannt durch die Zeit, dass man die Aufregung schnell ablegen kann. Von der OP selbst habe ich aufgrund des Dämmerschlafs kaum etwas mitbekommen, das war super so ❤️ wer hier noch überlegt: Es gibt keinen Grund… :) frei nach dem Motto: „Augen zu und durch“ - ihr werdet es nicht bereuen 🫶🏻\nDanke nochmal an das ganze Team der Rosenpark Klinik!!",
+      "time": 1782452952,
+      "translated": false
+    },
+    {
+      "author_name": "Irina Magaleas",
+      "author_url": "https://www.google.com/maps/contrib/102264444117695142880/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNY5vwfrjnpVyR5smIJ5AtVxra_WGinGoKzT8DU2tQNkxN4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782429288,
+      "translated": false
+    },
+    {
       "author_name": "No Name S.",
       "author_url": "https://www.google.com/maps/contrib/115348565066685215274/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlOIRB4E-pAm8nOayN9Fr27ir_KqkVemA_deLsefYrixEMJRY_=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Danke an Schwester Fatma für die tolle und wertschätzende Unterstützung :) TOLLES PERSONAL 🤍🤍🤍\nDanke an Dr. Rüger, er macht es definitiv mit Herzblut. Liebevoll :)",
+      "time": 1781882564,
+      "translated": false
+    },
+    {
+      "author_name": "No Name S.",
+      "author_url": "https://www.google.com/maps/contrib/115348565066685215274/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlOIRB4E-pAm8nOayN9Fr27ir_KqkVemA_deLsefYrixEMJRY_=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Danke an Schwester Fatma für die tolle und wertschätzende Unterstützung :) TOLLES PERSONAL 🤍🤍🤍\nDanke an Dr. Rüger, er macht es definitiv mit Herzblut. Liebevoll :)",
       "time": 1781882564,
       "translated": false
@@ -398,11 +432,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 170,
+  "reviewCount": 172,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-25T08:21:51.954Z"
+  "lastUpdated": "2026-06-28T08:20:27.551Z"
 }

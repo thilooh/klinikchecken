@@ -77,6 +77,16 @@
       "translated": false
     },
     {
+      "author_name": "Selin S.",
+      "author_url": "https://www.google.com/maps/contrib/107445872456476966978/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM__n-L7-sINcSE_Y49h3Jzc6x46F8zDAStyUu2ioaP3bFBow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1780052012,
+      "translated": false
+    },
+    {
       "author_name": "Edith Niehof",
       "author_url": "https://www.google.com/maps/contrib/106560280049154791475/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJar0n7MemxAIKsSTky7cniPUuCkiFKUPFg6KmLP0ybkmuspA=s128-c0x00000000-cc-rp-mo",
@@ -112,6 +122,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJar0n7MemxAIKsSTky7cniPUuCkiFKUPFg6KmLP0ybkmuspA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1779967308,
+      "translated": false
+    },
+    {
+      "author_name": "Edith Niehof",
+      "author_url": "https://www.google.com/maps/contrib/106560280049154791475/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJar0n7MemxAIKsSTky7cniPUuCkiFKUPFg6KmLP0ybkmuspA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1779967308,
       "translated": false
@@ -177,6 +197,18 @@
       "translated": false
     },
     {
+      "author_name": "Lydia Veltrup",
+      "author_url": "https://www.google.com/maps/contrib/109017200506515991683/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwWKfUE_eyUu86XbX8vf9tYoiaYYFLfWPwRpwPHGx2I8g2xw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich bin schon seit ein paar Jahren Patientin bei Frau Dr. Haut und finde sie wirklich toll. Mega sympathisch aber auch sehr professionell. Ich empfehle sie sehr gerne weiter!",
+      "time": 1779897508,
+      "translated": false
+    },
+    {
       "author_name": "P Diddy",
       "author_url": "https://www.google.com/maps/contrib/114487223248486747883/reviews",
       "language": "de",
@@ -220,6 +252,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU9ugaEViLngO07Z4nr3WluZAGKsXEZ90SAOJc2SLsvhN6ZA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Moderne Praxis, freundliche und kompetente Ärztin. Ich habe dort ein gutes Gefühl.",
+      "time": 1779800840,
+      "translated": false
+    },
+    {
+      "author_name": "P Diddy",
+      "author_url": "https://www.google.com/maps/contrib/114487223248486747883/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU9ugaEViLngO07Z4nr3WluZAGKsXEZ90SAOJc2SLsvhN6ZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Moderne Praxis, freundliche und kompetente Ärztin. Ich habe dort ein gutes Gefühl.",
       "time": 1779800840,
       "translated": false
@@ -610,11 +654,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 83,
+  "reviewCount": 82,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-25T08:22:02.513Z"
+  "lastUpdated": "2026-06-28T08:20:37.541Z"
 }

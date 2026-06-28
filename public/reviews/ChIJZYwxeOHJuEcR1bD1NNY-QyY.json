@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Federico Paolucci",
+      "author_url": "https://www.google.com/maps/contrib/115430677471491886618/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx69MCxgVsEMtokwvoW8P62GdeFZPLe6I_x0wffZqgspNfn5MH=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "unprofessionell, unorganisiert und nicht auf die Bedürfnisse der Patienten eingehend",
+      "time": 1781768730,
+      "translated": true
+    },
+    {
       "author_name": "LewisZan",
       "author_url": "https://www.google.com/maps/contrib/110774828127954973132/reviews",
       "language": "de",
@@ -438,8 +450,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 90,
+  "rating": 4.5,
+  "reviewCount": 91,
   "summary": [],
-  "lastUpdated": "2026-06-25T08:21:14.203Z"
+  "lastUpdated": "2026-06-28T08:19:51.778Z"
 }

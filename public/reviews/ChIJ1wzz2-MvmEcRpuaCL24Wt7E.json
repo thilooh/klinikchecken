@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "G. M.",
+      "author_url": "https://www.google.com/maps/contrib/106642778001677157280/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb09tF04vGonaUnh_tUrKoOuwCY379J2mjNnCeHykZsjIG5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich Anfang Mai unter \"das Messer\"  von Dr. Able wegen einer Venen OP am rechten Bein vertrauensvoll begeben - und bin nicht enttäuscht worden. Im Gegenteil: das OP Ergebnis war sehr gut, alles gut verheilt, nahezu schmerzfreier Verlauf. Der Arzt Dr. Able macht einen sehr kompetenten Eindruck und ist sehr freundlich und  nett....volle Punkt/Sternezahl",
+      "time": 1782461247,
+      "translated": false
+    },
+    {
       "author_name": "Tina Freyer",
       "author_url": "https://www.google.com/maps/contrib/110460064040166035438/reviews",
       "language": "de",
@@ -97,6 +109,18 @@
       "translated": true
     },
     {
+      "author_name": "Karthikeyan S",
+      "author_url": "https://www.google.com/maps/contrib/107778625313039253640/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtsXcmR8QZ2ayJMROZ2ET8FhVru5RSqkJr85RR70sapv7aMeVx=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Wenigstens könnten Ärzte grundlegende Englischkenntnisse erwerben, anstatt Patienten beim ersten Besuch aufzufordern, einen Übersetzer für Deutsch mitzubringen, obwohl sie sich auf mittlerem Niveau verständigen können. Das ist wirklich beschämend.\nIch kann diese Praxis absolut nicht empfehlen. Sie ist ausschließlich für Deutschsprachige bestimmt, obwohl bei der Terminbuchung angegeben wird, Englisch und Deutsch zu sprechen. Diese falsche Information bitte ich Sie, zu korrigieren. So vermeiden Patienten, die falsche Erwartungen an Ihre Praxis haben.",
+      "time": 1780173966,
+      "translated": true
+    },
+    {
       "author_name": "ElEmKaKe",
       "author_url": "https://www.google.com/maps/contrib/101175593126784893600/reviews",
       "language": "de",
@@ -140,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVpLNjY53UCmQCXSGAiYSKYuOyCD6ABQxV9iHd63CqQssTK98=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Kann zur Praxis nicht viel sagen außer das die Dame am Telefon sehr unfreundlich ist.",
+      "time": 1780060209,
+      "translated": false
+    },
+    {
+      "author_name": "ElEmKaKe",
+      "author_url": "https://www.google.com/maps/contrib/101175593126784893600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVpLNjY53UCmQCXSGAiYSKYuOyCD6ABQxV9iHd63CqQssTK98=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Kann zur Praxis nicht viel sagen außer das die Dame am Telefon sehr unfreundlich ist.",
       "time": 1780060209,
       "translated": false
@@ -512,5 +548,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:53.616Z"
+  "lastUpdated": "2026-06-28T08:20:29.120Z"
 }

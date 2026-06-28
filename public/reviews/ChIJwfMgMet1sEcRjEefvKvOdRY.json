@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Antonios Giourgas",
+      "author_url": "https://www.google.com/maps/contrib/109353008312475500583/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmKQ4_BA9d_F56L0RP-6q-CZ0sUeMwFCu4Ln3Y2ZauGyaqOcge=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782457252,
+      "translated": false
+    },
+    {
       "author_name": "Ibrahim Alsweissi",
       "author_url": "https://www.google.com/maps/contrib/116672223802458993907/reviews",
       "language": "en",
@@ -13,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Ibrahim Alsweissi",
+      "author_url": "https://www.google.com/maps/contrib/116672223802458993907/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3TgrgnfZQ_n2UXE00iKDZOqVJxO141DEGEKL4CiwUCkI6AQHD_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Der Arzt und das gesamte Team sind freundlich, kompetent und zugänglich.\n\nIch wurde gründlich behandelt und erhielt klare, detaillierte Erklärungen sowie umgehend einen Termin.\n\nSowohl Dr. Arayesh als auch Pater Dr. Kappelmann sprechen fließend Englisch und haben mich hervorragend medizinisch versorgt.\n\nIch kann diese Praxis uneingeschränkt empfehlen.\n\nVielen Dank an Dr. Arayesh, Pater Dr. Kappelmann und das gesamte Team für ihre Professionalität und Unterstützung.",
+      "time": 1781789335,
+      "translated": true
+    },
+    {
       "author_name": "Alex Melikh",
       "author_url": "https://www.google.com/maps/contrib/102911511176107838597/reviews",
       "language": "de",
@@ -116,6 +138,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaXSPHo9psgLnpLzT7XOCH3fKBxBR99njEnIR7_ornjTKLNHjt=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Telefonisch nicht erreichbar!!!",
+      "time": 1780566660,
+      "translated": false
+    },
+    {
+      "author_name": "l0511l",
+      "author_url": "https://www.google.com/maps/contrib/106554370745229547684/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaXSPHo9psgLnpLzT7XOCH3fKBxBR99njEnIR7_ornjTKLNHjt=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Telefonisch nicht erreichbar!!!",
       "time": 1780566660,
       "translated": false
@@ -517,12 +551,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 157,
+  "rating": 4.4,
+  "reviewCount": 158,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:22.677Z"
+  "lastUpdated": "2026-06-28T08:19:59.914Z"
 }

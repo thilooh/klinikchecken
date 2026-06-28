@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ilvars",
+      "author_url": "https://www.google.com/maps/contrib/105922857403553604948/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJtgbMMtbReef5r40nnxSMrczaZ2PFfFW7FKU3vEYRik13Qw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann es jedem empfehlen, das personal und die Ärzte sind einfach fabelhaft.",
+      "time": 1782401738,
+      "translated": false
+    },
+    {
       "author_name": "heart prince66",
       "author_url": "https://www.google.com/maps/contrib/110152406157254417545/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPjc00MzbNZGrIgckl-hZ6D_iRTae6jZj4I8kWsJfLdB37Vi2D=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich möchte mich ganz herzlich beim gesamten Team der Klinik in Erfurt Venen OP-Zentrum für die hervorragend durchgeführte Venenoperation bedanken!\nVom ersten Tag an habe ich mich sehr gut aufgehoben gefühlt. Die Ärzte, Krankenschwestern und das gesamte Personal waren freundlich, aufmerksam und sehr professionell. Alles wurde ruhig und verständlich erklärt, wodurch mir die Angst vor der Operation genommen wurde.\nDie Operation verlief ausgezeichnet und war perfekt organisiert. Auch nach dem Eingriff wurde ich fürsorglich betreut und unterstützt.\nEin besonderer Dank gilt dem Arzt für seine hohe Professionalität, seine sorgfältige Arbeit und seine menschliche Art. Jetzt fühle ich mich deutlich besser und bin sehr glücklich über das Ergebnis.\nIch bin sehr froh, dass ich mich für diese Klinik entschieden habe, und kann sie von Herzen weiterempfehlen.\nVielen Dank für Ihre großartige Arbeit, Ihre Fürsorge und Ihre Hilfe!",
+      "time": 1779969541,
+      "translated": false
+    },
+    {
+      "author_name": "Людмила Кучук",
+      "author_url": "https://www.google.com/maps/contrib/115068322152195071440/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPjc00MzbNZGrIgckl-hZ6D_iRTae6jZj4I8kWsJfLdB37Vi2D=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich möchte mich ganz herzlich beim gesamten Team der Klinik in Erfurt Venen OP-Zentrum für die hervorragend durchgeführte Venenoperation bedanken!\nVom ersten Tag an habe ich mich sehr gut aufgehoben gefühlt. Die Ärzte, Krankenschwestern und das gesamte Personal waren freundlich, aufmerksam und sehr professionell. Alles wurde ruhig und verständlich erklärt, wodurch mir die Angst vor der Operation genommen wurde.\nDie Operation verlief ausgezeichnet und war perfekt organisiert. Auch nach dem Eingriff wurde ich fürsorglich betreut und unterstützt.\nEin besonderer Dank gilt dem Arzt für seine hohe Professionalität, seine sorgfältige Arbeit und seine menschliche Art. Jetzt fühle ich mich deutlich besser und bin sehr glücklich über das Ergebnis.\nIch bin sehr froh, dass ich mich für diese Klinik entschieden habe, und kann sie von Herzen weiterempfehlen.\nVielen Dank für Ihre großartige Arbeit, Ihre Fürsorge und Ihre Hilfe!",
       "time": 1779969541,
       "translated": false
@@ -164,6 +188,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAKzaseY1BwLm-aLn2vckfQMDRPtLAFXgDrabA22hNwnUYNiw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich war heute zum Lasern meines Beines und habe mich von Anfang an sehr gut versorgt gefühlt.\nDer Arzt Herr Krajici sowie der Narkosearzt sind sehr kompetent und die Schwestern sehr freundlich\nIch hab mich rund herum gut aufgehoben gefühlt\nVielen Dank an das ganze Team",
+      "time": 1777287540,
+      "translated": false
+    },
+    {
+      "author_name": "Marion Bistron",
+      "author_url": "https://www.google.com/maps/contrib/116388555645461753650/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAKzaseY1BwLm-aLn2vckfQMDRPtLAFXgDrabA22hNwnUYNiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich war heute zum Lasern meines Beines und habe mich von Anfang an sehr gut versorgt gefühlt.\nDer Arzt Herr Krajici sowie der Narkosearzt sind sehr kompetent und die Schwestern sehr freundlich\nIch hab mich rund herum gut aufgehoben gefühlt\nVielen Dank an das ganze Team",
       "time": 1777287540,
       "translated": false
@@ -386,11 +422,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 62,
+  "reviewCount": 63,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:38.208Z"
+  "lastUpdated": "2026-06-28T08:20:14.577Z"
 }

@@ -283,6 +283,16 @@
       "translated": false
     },
     {
+      "author_name": "Elena Schwarz",
+      "author_url": "https://www.google.com/maps/contrib/116823446093608330337/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOC9rkViXXCjWeZdZAsZ3oZRxW0v-a9-n3c6wqn6AofBURt5eG=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1779133237,
+      "translated": false
+    },
+    {
       "author_name": "Tilmann Binder",
       "author_url": "https://www.google.com/maps/contrib/104202275269159638179/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw6OokXGF4nA33uMUJBvWYfyWxTPT3B1DF5d5bVsI2WPZBg7xbYw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -318,6 +328,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw6OokXGF4nA33uMUJBvWYfyWxTPT3B1DF5d5bVsI2WPZBg7xbYw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1778483770,
+      "translated": false
+    },
+    {
+      "author_name": "Tilmann Binder",
+      "author_url": "https://www.google.com/maps/contrib/104202275269159638179/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw6OokXGF4nA33uMUJBvWYfyWxTPT3B1DF5d5bVsI2WPZBg7xbYw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1778483770,
       "translated": false
@@ -378,6 +398,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNaIkytWCefZ9rsZd3YqrN5V8qxdOwio4rukOG98oqoBK6sIbq=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Seit Jahren in Besten Händen bei Frau Dr. Kaschubowski !",
+      "time": 1777907466,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Hübner",
+      "author_url": "https://www.google.com/maps/contrib/105939029526164063688/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNaIkytWCefZ9rsZd3YqrN5V8qxdOwio4rukOG98oqoBK6sIbq=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Seit Jahren in Besten Händen bei Frau Dr. Kaschubowski !",
       "time": 1777907466,
       "translated": false
@@ -630,11 +662,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 192,
+  "reviewCount": 191,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-25T08:21:53.849Z"
+  "lastUpdated": "2026-06-28T08:20:29.350Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Elena Pieper",
+      "author_url": "https://www.google.com/maps/contrib/110365160362262254321/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhXeClQSG-QL4i7Z_ffZzpneq85CM87qH6AO1nI3jcJlTm6L4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zu Anfang möchte ich mich – wenn es ginge – 1.000 Mal bei Dr. Ignatiadis bedanken. Seine fachliche Kompetenz sowie seine Empathie haben mich sowohl vor meiner Operation als auch danach das Gefühl gegeben, in den besten Händen zu sein. Das Ergebnis spricht ebenfalls für sich, denn mit einem so tollen Ergebnis hätte ich niemals gerechnet. Auf die weiteren Kontrolltermine freue ich mich schon sehr. Auch für die liebevolle Versorgung durch das Stationsteam und den Anästhesisten möchte ich mich herzlich bedanken. Mir hat es an nichts gefehlt.",
+      "time": 1782464339,
+      "translated": false
+    },
+    {
+      "author_name": "Lina _bgw",
+      "author_url": "https://www.google.com/maps/contrib/106563530984784334900/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHjN6P7AZtibSY-_Gp1O9PJDCRKO2wkwOtVfZiyYGIcZmU-w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Herzensempfehlung!\nIch bin mit meiner Behandlung bei Dr. Alexandros Ignatiadis in der Kö-Klinik Düsseldorf mehr als  zufrieden. Er vereint höchste Professionalität und Fachkompetenz mit einer unglaublich herzlichen und sympathischen Art. Er nimmt sich Zeit, geht auf alle Wünsche ein und setzt diese perfekt um.\n\nDas Ergebnis hat meine Erwartungen übertroffen und ich habe mich jederzeit bestens aufgehoben gefühlt. Wer einen kompetenten Arzt mit hervorragendem Fachwissen und einem Blick für natürliche, schöne Ergebnisse sucht, ist bei Dr. Ignitis genau richtig. Vielen Dank! 😊",
+      "time": 1782397342,
+      "translated": false
+    },
+    {
       "author_name": "Jessica Heinrich",
       "author_url": "https://www.google.com/maps/contrib/110196290811609622220/reviews",
       "language": "de",
@@ -673,7 +697,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 385,
+  "reviewCount": 387,
   "summary": [],
-  "lastUpdated": "2026-06-25T08:21:13.287Z"
+  "lastUpdated": "2026-06-28T08:19:51.091Z"
 }

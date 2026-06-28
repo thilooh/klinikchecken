@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Hasret Dursun",
+      "author_url": "https://www.google.com/maps/contrib/113249327233766485393/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK0qUml7XrlY3zxipPUh9yeMoPACHWZgcmzLjiUvnoxwyl_IfNKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Seit dem ersten Tag bin ich sehr zufrieden.\nIch habe mich jederzeit wohl und bestens aufgehoben gefühlt. Das gesamte Team ist unglaublich freundlich, hilfsbereit und nimmt sich Zeit für die Patienten.\n\nEin besonderes Dankeschön gilt Herrn Dr. Peter Galkin, der mich stets kompetent, verständlich und sehr einfühlsam behandelt hat. Seine ruhige Art und die ausführlichen Erklärungen haben mir viele Sorgen genommen.\n\nIch kann diese Klinik mit bestem Gewissen weiterempfehlen. Vielen Dank an das gesamte Team!",
+      "time": 1780183108,
+      "translated": false
+    },
+    {
       "author_name": "Unverblümt",
       "author_url": "https://www.google.com/maps/contrib/105294361881537160641/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2TvW6RgU_MQv4kTaTCn5TdqDWizCYYTIyKKt2mz5zr9NTvw=s128-c0x00000000-cc-rp-mo",
@@ -84,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2TvW6RgU_MQv4kTaTCn5TdqDWizCYYTIyKKt2mz5zr9NTvw=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1779975849,
+      "translated": false
+    },
+    {
+      "author_name": "Unverblümt",
+      "author_url": "https://www.google.com/maps/contrib/105294361881537160641/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2TvW6RgU_MQv4kTaTCn5TdqDWizCYYTIyKKt2mz5zr9NTvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1779975849,
       "translated": false
@@ -303,5 +325,5 @@
   "rating": 4.8,
   "reviewCount": 75,
   "summary": [],
-  "lastUpdated": "2026-06-25T08:21:12.183Z"
+  "lastUpdated": "2026-06-28T08:19:50.109Z"
 }
