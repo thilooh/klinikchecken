@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Mohammad Murad",
+      "author_url": "https://www.google.com/maps/contrib/117837029254009661336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3E37yZ3QtG6EHFCetLe20Jc7VwD5pmy7aMSi33AiLSB-_s94=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1782066527,
+      "translated": false
+    },
+    {
       "author_name": "Amaar Al Haje",
       "author_url": "https://www.google.com/maps/contrib/107876535942043899063/reviews",
       "language": "de",
@@ -98,6 +108,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3HbCJLYvlR2juzhVU7NwtpbCYx7gKooL2RchNs7ttFTV-bg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Das gesamte Personal ist freundlich und sehr zuvorkommend. Der Arzt ist sehr kompetent und erfahren in seinem Fachgebiet.",
+      "time": 1781456067,
+      "translated": true
+    },
+    {
+      "author_name": "Shahad Al Ahmad",
+      "author_url": "https://www.google.com/maps/contrib/115831464385700934623/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3HbCJLYvlR2juzhVU7NwtpbCYx7gKooL2RchNs7ttFTV-bg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Das gesamte Personal ist freundlich und sehr zuvorkommend. Der Arzt ist sehr kompetent und erfahren in seinem Fachgebiet.",
       "time": 1781456067,
       "translated": true
@@ -636,5 +658,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-28T08:20:22.219Z"
+  "lastUpdated": "2026-07-01T08:48:49.301Z"
 }

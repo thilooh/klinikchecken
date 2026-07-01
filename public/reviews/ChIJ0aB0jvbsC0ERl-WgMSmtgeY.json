@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ulrike Kern-Gebhardt",
+      "author_url": "https://www.google.com/maps/contrib/107818054836198648209/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ18M0GkhG28lfiI6gC4s2KsUk7xiNNt3l_hC2ctHC5waMgCdh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mega Ergebniss, er ist der Beste!! Super Team. Danke",
+      "time": 1782732101,
+      "translated": false
+    },
+    {
       "author_name": "Ms RS",
       "author_url": "https://www.google.com/maps/contrib/111943804730906255446/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7obp7sKWOUF45cgW4VWelNFE9VIlpccg2K8XP1Rz0Bwkdfg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Wegen meiner ausgeprägten Varikose habe ich mich in dieser Praxis vorgestellt und wurde von Anfang an sehr kompetent und ausführlich beraten. Bereits beim ersten Termin habe ich mich gut aufgehoben und wohlgefühlt. Die Praxis ist modern eingerichtet und verfügt über eine zeitgemäße technische Ausstattung.\nDie Operation verlief unkompliziert und auch die Nachsorge war gut organisiert. Das gesamte Team war freundlich, professionell und stets ansprechbar. Besonders erfreulich ist für mich das Ergebnis: Durch die Behandlung werde ich hoffentlich ein Stück Lebensqualität zurück gewinnen und hoffentlich kann ich bald mit Freude Röcke und Shorts tragen.\nIch kann den Arzt Dr. Weiler und sein Team uneingeschränkt weiterempfehlen.",
+      "time": 1780942222,
+      "translated": false
+    },
+    {
+      "author_name": "A. Fianni",
+      "author_url": "https://www.google.com/maps/contrib/114130368509006975800/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7obp7sKWOUF45cgW4VWelNFE9VIlpccg2K8XP1Rz0Bwkdfg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Wegen meiner ausgeprägten Varikose habe ich mich in dieser Praxis vorgestellt und wurde von Anfang an sehr kompetent und ausführlich beraten. Bereits beim ersten Termin habe ich mich gut aufgehoben und wohlgefühlt. Die Praxis ist modern eingerichtet und verfügt über eine zeitgemäße technische Ausstattung.\nDie Operation verlief unkompliziert und auch die Nachsorge war gut organisiert. Das gesamte Team war freundlich, professionell und stets ansprechbar. Besonders erfreulich ist für mich das Ergebnis: Durch die Behandlung werde ich hoffentlich ein Stück Lebensqualität zurück gewinnen und hoffentlich kann ich bald mit Freude Röcke und Shorts tragen.\nIch kann den Arzt Dr. Weiler und sein Team uneingeschränkt weiterempfehlen.",
       "time": 1780942222,
       "translated": false
@@ -104,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKspolwi87G99e9i-hzQmQxDmWuW89vah-E5hrMPL6e4IdFuA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Wir haben uns wegen der vielen positiven Bewertungen für das Venenzentrum in Pforzheim entschieden, wurden aber leider sehr enttäuscht.\n\nDer Arzt wollte nicht beide Beine gleichzeitig behandeln und meinte, das zweite könne erst ein Jahr später gemacht werden oder müsse selbst bezahlt werden, da er „nichts umsonst mache“. Diese Aussage fanden wir sehr unprofessionell.\n\nNach der Behandlung gab es am operierten Bein erneut Probleme. Bei der Kontrolle wurde uns gesagt, dass nochmals behandelt werden müsse – allerdings wieder auf eigene Kosten. Für uns war das sehr enttäuschend.\n\nAufgrund unserer Erfahrung würden wir das Venenzentrum leider nicht weiterempfehlen. Die Bewertung bezieht sich nur auf unsere Erfahrung mit dem Arzt, nicht auf das Personal.",
+      "time": 1780320113,
+      "translated": false
+    },
+    {
+      "author_name": "Ilayda Baltaci",
+      "author_url": "https://www.google.com/maps/contrib/103951264165178725188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKspolwi87G99e9i-hzQmQxDmWuW89vah-E5hrMPL6e4IdFuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Wir haben uns wegen der vielen positiven Bewertungen für das Venenzentrum in Pforzheim entschieden, wurden aber leider sehr enttäuscht.\n\nDer Arzt wollte nicht beide Beine gleichzeitig behandeln und meinte, das zweite könne erst ein Jahr später gemacht werden oder müsse selbst bezahlt werden, da er „nichts umsonst mache“. Diese Aussage fanden wir sehr unprofessionell.\n\nNach der Behandlung gab es am operierten Bein erneut Probleme. Bei der Kontrolle wurde uns gesagt, dass nochmals behandelt werden müsse – allerdings wieder auf eigene Kosten. Für uns war das sehr enttäuschend.\n\nAufgrund unserer Erfahrung würden wir das Venenzentrum leider nicht weiterempfehlen. Die Bewertung bezieht sich nur auf unsere Erfahrung mit dem Arzt, nicht auf das Personal.",
       "time": 1780320113,
       "translated": false
@@ -556,11 +592,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 149,
+  "reviewCount": 150,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-28T08:20:29.798Z"
+  "lastUpdated": "2026-07-01T08:48:57.551Z"
 }

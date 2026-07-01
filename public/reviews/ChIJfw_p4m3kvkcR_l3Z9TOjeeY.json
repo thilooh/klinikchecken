@@ -67,6 +67,16 @@
       "translated": false
     },
     {
+      "author_name": "Georg Schwab",
+      "author_url": "https://www.google.com/maps/contrib/115775477572341441161/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7mFmdRK-suJ6ogYFfzOLGB8piAVJ_RNx1AMoGvCoZEkdnwKA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1781029156,
+      "translated": false
+    },
+    {
       "author_name": "Mohammed YAZAMI",
       "author_url": "https://www.google.com/maps/contrib/104320688495643601893/reviews",
       "language": "de",
@@ -594,11 +604,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 107,
+  "reviewCount": 106,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-28T08:20:03.964Z"
+  "lastUpdated": "2026-07-01T08:48:29.461Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "David",
+      "author_url": "https://www.google.com/maps/contrib/118011988897367038636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ25Y2wZdmZrUKOTUZJD19apGrpSQm-IcnnCD2cio97ZrInoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für Long-Covid-Patienten ein Fachmann, der einen Ernst nimmt und zeigen kann, was alles im Körper schiefläuft. Er kann es natürlich nicht heilen, aber er versucht aktiv an den Symptomen zu arbeiten. Vorsicht: Behandlung wird nicht von den Kassen übernommen!",
+      "time": 1782736865,
+      "translated": false
+    },
+    {
+      "author_name": "Jonina Richter",
+      "author_url": "https://www.google.com/maps/contrib/111622350979330601675/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQhHhCcFrAhJsGnOEPcpV8LgOF9zkWVr6Mia3fFJNt9v-EUjY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782734120,
+      "translated": false
+    },
+    {
       "author_name": "P A",
       "author_url": "https://www.google.com/maps/contrib/109359149236511516835/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlWEyBhOOYGycrZmtLVeQyv06sv4dVxUv5Kwm9BQCs-aHsgg=s128-c0x00000000-cc-rp-mo",
@@ -23,6 +45,18 @@
       "translated": false
     },
     {
+      "author_name": "Anastasia Freimann",
+      "author_url": "https://www.google.com/maps/contrib/114913615839045237188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuhnCy9o_b42dYixTQUgB4AsY5w83rNYxApnQKUtn2xG8513A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Einer der besten Ärzte in Deutschland, der sich auf ME/CFS spezialisiert. Seit dem ich in Ihrer Behandlung bin, bin ich voller Hoffnung, dass ich mein Leben zurückgewinnen werde. Das Praxisteam ist auch sehr freundlich,\nLieb und verständnisvoll. Danke Ihnen von ganzem Herzen!",
+      "time": 1782235193,
+      "translated": false
+    },
+    {
       "author_name": "Daniela Tichelmann",
       "author_url": "https://www.google.com/maps/contrib/111053646451901121771/reviews",
       "language": "de",
@@ -30,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5WrdFoLjkOQ50t-Qidbi8cBZBJzdyC9nLvdkWeRsMR65Uzg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Herrn Dr. Kacik, er macht eine sehr gründliche Diagnostik und ist mit ME/CFS sehr betraut. Das findet man leider wenig. Dr. Kacik ist eine sehr angenehme Person und ich bin froh, nun dort in Behandlung zu sein. Bin gespannt, wie die Medikamente wirken. Auch, wenn ich quasi ein Grenzfall zu ME/CFS bin, habe ich dennoch ein paar auffällige Befunde. Insbesondere hat Herr Dr. Kacik festgestellt, dass mein Blutfluss zum Gehirn ist beim Stehen gestört, was das Gehirn schon per se stressen kann.",
+      "time": 1782219522,
+      "translated": false
+    },
+    {
+      "author_name": "Daniela Tichelmann",
+      "author_url": "https://www.google.com/maps/contrib/111053646451901121771/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5WrdFoLjkOQ50t-Qidbi8cBZBJzdyC9nLvdkWeRsMR65Uzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute bei Herrn Dr. Kacik, er macht eine sehr gründliche Diagnostik und ist mit ME/CFS sehr betraut. Das findet man leider wenig. Dr. Kacik ist eine sehr angenehme Person und ich bin froh, nun dort in Behandlung zu sein. Bin gespannt, wie die Medikamente wirken. Auch, wenn ich quasi ein Grenzfall zu ME/CFS bin, habe ich dennoch ein paar auffällige Befunde. Insbesondere hat Herr Dr. Kacik festgestellt, dass mein Blutfluss zum Gehirn ist beim Stehen gestört, was das Gehirn schon per se stressen kann.",
       "time": 1782219522,
       "translated": false
@@ -504,11 +550,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 92,
+  "reviewCount": 94,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-06-28T08:20:05.104Z"
+  "lastUpdated": "2026-07-01T08:48:30.681Z"
 }

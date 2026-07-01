@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Maik B.",
+      "author_url": "https://www.google.com/maps/contrib/104093382321474371717/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhp-B4Gp8X7xlPzCGahAV9VPN_bzrJtYpRix-2vjllEvmrx-g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782676463,
+      "translated": false
+    },
+    {
       "author_name": "Jod Wide",
       "author_url": "https://www.google.com/maps/contrib/103432715985124888955/reviews",
       "language": "de",
@@ -684,11 +694,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 132,
+  "reviewCount": 133,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-28T08:20:22.678Z"
+  "lastUpdated": "2026-07-01T08:48:49.781Z"
 }

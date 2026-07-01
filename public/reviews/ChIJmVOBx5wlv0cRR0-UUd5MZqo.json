@@ -73,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Laurenz Schmitt",
+      "author_url": "https://www.google.com/maps/contrib/115490263842713255299/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKklkQgweBoIdh5IBUkK9zY9t-hwPcbjIbU7JrnQlleuU06kg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin sehr zufrieden mit der Arztpraxis, außerdem sehr freundlich",
+      "time": 1780906410,
+      "translated": false
+    },
+    {
       "author_name": "Oliver Huhn",
       "author_url": "https://www.google.com/maps/contrib/112915076571424126271/reviews",
       "language": "de",
@@ -435,5 +447,5 @@
   "rating": 4.1,
   "reviewCount": 50,
   "summary": [],
-  "lastUpdated": "2026-06-28T08:19:49.812Z"
+  "lastUpdated": "2026-07-01T08:48:14.427Z"
 }

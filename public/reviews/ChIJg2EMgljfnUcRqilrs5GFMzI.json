@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Paula Kinzel",
+      "author_url": "https://www.google.com/maps/contrib/104414036868447766620/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGi2OpSZGUJ7zvlU1VTIJoNgqYjhjf0uaBAyx8-JSItbgvJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bei bestimmten Diagnosen nur Privatpatienten nehmen, unfreundlich!",
+      "time": 1782743146,
+      "translated": false
+    },
+    {
       "author_name": "S. L.",
       "author_url": "https://www.google.com/maps/contrib/111373272935678751291/reviews",
       "language": "de",
@@ -97,8 +109,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 41,
+  "rating": 4.4,
+  "reviewCount": 42,
   "summary": [],
-  "lastUpdated": "2026-06-28T08:19:55.469Z"
+  "lastUpdated": "2026-07-01T08:48:20.074Z"
 }

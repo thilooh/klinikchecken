@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sascha J.",
+      "author_url": "https://www.google.com/maps/contrib/111091685355194873347/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR4OdLDRByrGxOqlCjicuRT_zrjWAzJflsc8fkspsM2Y9FTw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War nur dort um nach einem Termin zu Fragen und wurde so blumb abgewiesen, obwohl meine Nichte sich schon seit einer Woche versucht hat in den angegeben Telefonsprechzeiten zu melden und nie ist jemand ran gegangen und aus Worpswede ist es auch nicht mal eben um die Ecke.\nNicht mehr zu vergleichen mit früher wo ich dort noch Patient war",
+      "time": 1782766924,
+      "translated": false
+    },
+    {
       "author_name": "Michaela Johnson",
       "author_url": "https://www.google.com/maps/contrib/102115524793065531267/reviews",
       "language": "de",
@@ -382,11 +394,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 76,
+  "reviewCount": 77,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-28T08:20:00.586Z"
+  "lastUpdated": "2026-07-01T08:48:25.763Z"
 }

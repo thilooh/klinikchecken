@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "René L. aus MA",
+      "author_url": "https://www.google.com/maps/contrib/110749748684889588829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtjKuJUmgJJMPZAl5B9bOKwt5ji1GaNthFCpf2N2P9U2bBWA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War das erste Mal da. Alle super freundlich, Patienten WLan kostenlos, war bei einer sehr netten, freundlichen Ärztin, die alle Fragen sehr zufriedenstellend beantwortet hat. Mehr kann ich nach dem ersten Besuch noch nicht sagen, werde aber sicher wieder die Praxis bei Bedarf gern aufsuchen.",
+      "time": 1782838456,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah Rupp",
+      "author_url": "https://www.google.com/maps/contrib/105075836253715355349/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDvdzlMNm4WQDKuUFW4SFGmE7DmjQ2dMD4S6981ZIecBOtfA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Frau Dr. Förster und bin wirklich sehr zufrieden. Die Terminvereinbarung war unkompliziert und ich musste vor Ort keine 10 Minuten warten. Die Anmeldung war freundlich und die Praxis macht einen modernen, angenehmen Eindruck. Frau Dr. Förster hat sich Zeit genommen, das Hautkrebsscreening gründlich durchgeführt und alles verständlich erklärt. Besonders angenehm fand ich die Kommunikation, sie war sympathisch, offen und auf Augenhöhe. Ich hatte zu keiner Zeit das Gefühl, abgefertigt zu werden.\nPositiv fand ich auch, dass nichts Unnötiges verkauft oder empfohlen wurde. Insgesamt ein sehr angenehmer Termin, bei dem ich mich gut aufgehoben gefühlt habe. Ich komme gerne wieder.",
+      "time": 1782747102,
+      "translated": false
+    },
+    {
+      "author_name": "Vi No",
+      "author_url": "https://www.google.com/maps/contrib/115756964457602673345/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3oRrfSlmdv_AU2x3v_4VRP7CZEc5zQP6Bm4stwjsfMeR0lQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Riedel ist ein hilfsbereiter, kompetenter und patientenorientierter Arzt! Bin seit sehr vielen Jahren bei ihm und kann zu 100% nur positives berichten, deswegen 5 Sterne!",
+      "time": 1782746140,
+      "translated": false
+    },
+    {
+      "author_name": "Silke Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/108861710673414405940/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILjMlsHs_tlZK0pX3ozRSUdObvV9fmsk7UGHwoGi3nmWTK5r8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen dunklen Fleck entdeckt. Aus Angst habe ich bei meinem Hautarzt einen schnellen Check erfragt..... und nicht bekommen. Also habe ich einen neuen Hautarzt gesucht und gefunden. Sehr zeitnah bekam ich als neuer Patient einen Untersuchungstermin und ebenso zeitnah wurde der Fleck entnommen und in die Pathologie geschickt.\n\nIch könnte nicht glücklicher sein dass mir so schnell und unkompliziert geholfen wurde. Auch das Fädenziehen ging fix und unkompliziert. Das ist ein hervorragendes Management in dieser Praxis, die ich allen meinen Freunden sehr empfehle. Ich wollte eigentlich nicht mehr so viel nach Mannheim fahren. .... aber für eine gute Praxis ist letzlich kein Weg zu weit. Ganz großes Lob!",
+      "time": 1782719226,
+      "translated": false
+    },
+    {
       "author_name": "Selim Özkan",
       "author_url": "https://www.google.com/maps/contrib/118296300484701661717/reviews",
       "language": "de",
@@ -32,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuPlMV1TQ_UPAmQ2U7TB0pqXUTluZsEVSzxTPNlPzeA_TpWA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ganz tolle Ärztin. Ich kann diese praxis nur empfehlen. Die Behandlung als auch das Personal top! Vielen dank.",
+      "time": 1781615969,
+      "translated": false
+    },
+    {
+      "author_name": "Onur169",
+      "author_url": "https://www.google.com/maps/contrib/105787745479663718651/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuPlMV1TQ_UPAmQ2U7TB0pqXUTluZsEVSzxTPNlPzeA_TpWA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ganz tolle Ärztin. Ich kann diese praxis nur empfehlen. Die Behandlung als auch das Personal top! Vielen dank.",
       "time": 1781615969,
       "translated": false
@@ -554,11 +614,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 260,
+  "reviewCount": 264,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-28T08:20:11.186Z"
+  "lastUpdated": "2026-07-01T08:48:37.291Z"
 }

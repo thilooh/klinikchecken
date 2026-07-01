@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Sonja W.",
+      "author_url": "https://www.google.com/maps/contrib/114235344749845935334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7NL5tehjJYwXMShkOaC-j0dNtbh1DlVUJsgY26KIncEp8GoQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich kann die Praxis empfehlen! Frau Lena Germann ist beim Screening gründlich vorgegangen und hat meine Fragen umfassend und sympathisch beantwortet.",
+      "time": 1782229759,
+      "translated": false
+    },
+    {
       "author_name": "Rainer Klein",
       "author_url": "https://www.google.com/maps/contrib/108459444514458626787/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_IDba3hoIw_4snjkMbsMJDcJbTuzg5H5vyTpK15Wwr75Tl5O6=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sind alle Furchtspanne Personal Ärzte passt alles? Für mich sehr sehr wohl",
+      "time": 1780248154,
+      "translated": false
+    },
+    {
+      "author_name": "Rainer Klein",
+      "author_url": "https://www.google.com/maps/contrib/108459444514458626787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_IDba3hoIw_4snjkMbsMJDcJbTuzg5H5vyTpK15Wwr75Tl5O6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sind alle Furchtspanne Personal Ärzte passt alles? Für mich sehr sehr wohl",
       "time": 1780248154,
       "translated": false
@@ -329,5 +353,5 @@
   "rating": 4,
   "reviewCount": 93,
   "summary": [],
-  "lastUpdated": "2026-06-28T08:19:50.352Z"
+  "lastUpdated": "2026-07-01T08:48:14.915Z"
 }

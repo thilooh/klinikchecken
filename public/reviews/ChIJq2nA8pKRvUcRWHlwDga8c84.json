@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Serena Cutillo",
+      "author_url": "https://www.google.com/maps/contrib/112016529014903089264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAFGXTdlEoddImVppDXnXGfsTuCLJ4eZd6l17JzF0QZBsPzQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bisher viermal in der Praxis. Beim ersten Termin zum Hautkrebsscreening (Kassenleistung) wurde die Untersuchung sorgfältig durchgeführt. Das Praxiskonzept und die Organisation wirken modern und sinnvoll. Frau Dr. Quaisser machte auf mich zwar einen eher desinteressierten Eindruck, da ich jedoch keine größeren Anliegen hatte, war das für mich nicht weiter störend.\n\nBeim zweiten Besuch wegen einer langanhaltenden allergischen Reaktion an den Augen wurde ich von Frau Dr. Bergmann behandelt. Sie war sehr freundlich, engagiert und hat mich sowie meine Beschwerden ernst genommen. Solche Ärzte wünscht man sich häufiger.\n\nBei meinem dritten Besuch (Labortermin) waren meine Eindrücke weniger positiv. Die MFAs im Labor waren zwar freundlich, haben mir jedoch eine falsche Auskunft gegeben. Meiner Meinung nach sollte man lieber nachfragen, wenn man sich unsicher ist, anstatt falsche Informationen weiterzugeben. Nach Eigenrecherche habe ich dann selbst herausfinden müssen worauf ich eine Reaktion hatte.\nAuf die Laborergebnisse musste ich sechs Wochen warten. Für Patienten mit akuten und belastenden Beschwerden ist das aus meiner Sicht zu lang, auch wenn dies mit dem hauseigenen Labor begründet wurde.\n\nDer vierte Termin zur Besprechung der Laborergebnisse bei einer anderen Ärztin (Name leider vergessen, begann mit „P“) war enttäuschend. Die Blutwerte waren unauffällig – dafür kann selbstverständlich niemand etwas. Allerdings hatte ich noch ein weiteres Anliegen, für das sich keine Zeit genommen wurde. Mir wurde mitgeteilt, der Termin sei ausschließlich für die Besprechung der Laborwerte vorgesehen. Da diese unauffällig waren, war die eigentliche Besprechung nach wenigen Minuten beendet und ich wurde für mein weiteres Anliegen auf einen neuen Termin verwiesen.\n\nGerade bei Fachärzten weiß jeder, wie schwierig kurzfristige Termine in einer akuten Krankheitsphase zu bekommen sind. Ich hätte mir zumindest eine kurze Einschätzung oder mögliche Behandlungsansätze gewünscht. Stattdessen bleibt man als Patient häufig darauf angewiesen, sich selbst zu informieren, obwohl man gerade deshalb einen Facharzt aufsucht.\n\nInsgesamt eine modern wirkende Praxis mit guten Ansätzen und einzelnen sehr engagierten Ärzten, aber auch deutlichem Verbesserungspotenzial bei Kommunikation, Wartezeiten und dem Umgang mit den Anliegen der Patienten.",
+      "time": 1782826749,
+      "translated": false
+    },
+    {
       "author_name": "Melek Asci",
       "author_url": "https://www.google.com/maps/contrib/111259186748844248910/reviews",
       "language": "de",
@@ -76,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmFqK66P44GMZTV9AAp0vGmUxPbQ56ECGR1nYOnZ95A6AYng=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Frau Schmidt war super freundlich und hat mir toll bei der Terminvergabe geholfen!",
+      "time": 1781620991,
+      "translated": false
+    },
+    {
+      "author_name": "D G",
+      "author_url": "https://www.google.com/maps/contrib/109763766772086224739/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmFqK66P44GMZTV9AAp0vGmUxPbQ56ECGR1nYOnZ95A6AYng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Frau Schmidt war super freundlich und hat mir toll bei der Terminvergabe geholfen!",
       "time": 1781620991,
       "translated": false
@@ -756,11 +780,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 307,
+  "reviewCount": 306,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-28T08:20:16.404Z"
+  "lastUpdated": "2026-07-01T08:48:43.046Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nawras Aleid",
+      "author_url": "https://www.google.com/maps/contrib/112438381314209430095/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtWpZ4Ux86GPM-sOq6kVvuLwVNO0R0zyW1HuHM9YRgYEa_QjJB8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank für Sehr gute Behandlung",
+      "time": 1782679971,
+      "translated": false
+    },
+    {
       "author_name": "Carlo",
       "author_url": "https://www.google.com/maps/contrib/114722639245819634174/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "hosshopf videos",
+      "author_url": "https://www.google.com/maps/contrib/114765777228540394734/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJv7j5ZdEWzEjrAsNFQbM2x86lyu0Tx_XpSthY5DtfvuUXaZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sollte nur Fäden gezogen werden und Befund Besprechung. Beides zusammen insgesamt 1 Minute gedauert. Gewartet habe ich 1,5 Stunden. Eingangsbereich wurde sichtlich längere Zeit nicht geputzt und gewischt, Stühle sind teilweise klebrig und dreckig.\nDennoch nette Ärzte.",
+      "time": 1782221914,
+      "translated": false
+    },
+    {
       "author_name": "U S",
       "author_url": "https://www.google.com/maps/contrib/116675871157553614049/reviews",
       "language": "de",
@@ -37,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "U S",
+      "author_url": "https://www.google.com/maps/contrib/116675871157553614049/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6dGe8QOete3biwmB8VUInttJEKbEh17AmapeJbwqE6fw1eA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Kaum Wartezeit, sehr kompetenter netter Arzt Hr. Kirsch. Kompetenz und der Service hören leider bei den Mitarbeitenden auf, die die Kontaktanfragen bearbeiten. Der Arzt vergaß es, ein Rezept in der Akte zu hinterlegen. Es scheint nicht möglich zu sein, als Mitarbeiterin beim Arzt das Medikament zu erfragen, weshalb dann Anfragen des Patienten einfach ignoriert werden.",
+      "time": 1782199446,
+      "translated": false
+    },
+    {
       "author_name": "EY",
       "author_url": "https://www.google.com/maps/contrib/109044650468362334731/reviews",
       "language": "de",
@@ -44,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLgAMCnEux2T6VB9AcUbQlxgcqtp0PPDJ2K6myNGlHMqEjmA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wartezeiten nicht normal. Auch bei Kurzuntersuchungen, die ohne Termin ablaufen sollen, mehr als ne Stunde zu warten. Mit Termin nicht besser.",
+      "time": 1782126428,
+      "translated": false
+    },
+    {
+      "author_name": "EY",
+      "author_url": "https://www.google.com/maps/contrib/109044650468362334731/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLgAMCnEux2T6VB9AcUbQlxgcqtp0PPDJ2K6myNGlHMqEjmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Wartezeiten nicht normal. Auch bei Kurzuntersuchungen, die ohne Termin ablaufen sollen, mehr als ne Stunde zu warten. Mit Termin nicht besser.",
       "time": 1782126428,
       "translated": false
@@ -668,7 +716,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 301,
+  "reviewCount": 302,
   "summary": [],
-  "lastUpdated": "2026-06-28T08:19:53.638Z"
+  "lastUpdated": "2026-07-01T08:48:18.197Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jochen K.",
+      "author_url": "https://www.google.com/maps/contrib/102755319447773845205/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTMQCYuGf_8Io6BPOu3SSzIlExoMDeMfW_JKXB6iTM__neyw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782678132,
+      "translated": false
+    },
+    {
       "author_name": "Benjamin Rochowiec",
       "author_url": "https://www.google.com/maps/contrib/100507885327011693864/reviews",
       "language": "de",
@@ -80,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7fVilhwr0A44hPbcyZAtfQyHiwPoQo72spYW2S7BFYMTFrLU=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Leider habe ich mit dieser Praxis wiederholt sehr schlechte Erfahrungen gemacht.\nBereits vor einigen Wochen musste ich mehrfach nach meinen Medikamenten fragen und insgesamt fast drei Wochen auf die Ausstellung eines Rezepts warten. Trotz mehrerer E-Mails und eines persönlichen Besuchs wurde das Problem erst deutlich verspätet gelöst.\nVor meinem Urlaub habe ich die Praxis rechtzeitig darüber informiert, dass ich meine Medikamente dringend benötige. Ich habe sogar angeboten, persönlich vorbeizukommen. Mir wurde jedoch mitgeteilt, dass das Rezept per Post verschickt wird.\nNach meiner Rückkehr musste ich feststellen, dass ich zwischenzeitlich keine Medikamente mehr hatte und die Einnahme unterbrechen musste. Als ich das Rezept schließlich in der Apotheke einlösen wollte, stellte sich heraus, dass mir ein Privatrezept ausgestellt wurde. Statt der üblichen gesetzlichen Zuzahlung sollte ich nun ein Vielfaches bezahlen.\nFehler können passieren. Was mich jedoch enttäuscht, ist die wiederholte mangelnde Kommunikation und die Tatsache, dass sich solche Probleme mehrfach wiederholt haben. Bei regelmäßig benötigten Medikamenten erwarte ich eine zuverlässigere Betreuung.\nAus diesen Gründen habe ich leider das Vertrauen in die Organisation dieser Praxis verloren.",
+      "time": 1780298898,
+      "translated": false
+    },
+    {
+      "author_name": "eliza stachowiak",
+      "author_url": "https://www.google.com/maps/contrib/115717164585657056107/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7fVilhwr0A44hPbcyZAtfQyHiwPoQo72spYW2S7BFYMTFrLU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Leider habe ich mit dieser Praxis wiederholt sehr schlechte Erfahrungen gemacht.\nBereits vor einigen Wochen musste ich mehrfach nach meinen Medikamenten fragen und insgesamt fast drei Wochen auf die Ausstellung eines Rezepts warten. Trotz mehrerer E-Mails und eines persönlichen Besuchs wurde das Problem erst deutlich verspätet gelöst.\nVor meinem Urlaub habe ich die Praxis rechtzeitig darüber informiert, dass ich meine Medikamente dringend benötige. Ich habe sogar angeboten, persönlich vorbeizukommen. Mir wurde jedoch mitgeteilt, dass das Rezept per Post verschickt wird.\nNach meiner Rückkehr musste ich feststellen, dass ich zwischenzeitlich keine Medikamente mehr hatte und die Einnahme unterbrechen musste. Als ich das Rezept schließlich in der Apotheke einlösen wollte, stellte sich heraus, dass mir ein Privatrezept ausgestellt wurde. Statt der üblichen gesetzlichen Zuzahlung sollte ich nun ein Vielfaches bezahlen.\nFehler können passieren. Was mich jedoch enttäuscht, ist die wiederholte mangelnde Kommunikation und die Tatsache, dass sich solche Probleme mehrfach wiederholt haben. Bei regelmäßig benötigten Medikamenten erwarte ich eine zuverlässigere Betreuung.\nAus diesen Gründen habe ich leider das Vertrauen in die Organisation dieser Praxis verloren.",
       "time": 1780298898,
       "translated": false
@@ -338,11 +360,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 115,
+  "reviewCount": 116,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-28T08:20:02.602Z"
+  "lastUpdated": "2026-07-01T08:48:27.993Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Olena Dubynska",
+      "author_url": "https://www.google.com/maps/contrib/100714192914011264642/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_5Xd3R1pvpvNBu3NiTv-mKKaiNXWBni1uwoPDFPaw5lpbkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bitte teilen Sie mir mit, ob mir diese Ärztin als Spezialistin empfohlen wurde. Ich möchte gerne wissen, ob sie Russisch spricht und ob ich über meine Krankenversicherung einen Termin bei ihr vereinbaren kann. Vielen Dank im Voraus für Ihre Antwort.",
+      "time": 1782722465,
+      "translated": true
+    },
+    {
       "author_name": "Karina Levin",
       "author_url": "https://www.google.com/maps/contrib/114514719126309879098/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLE4BgWwwUH0khckC0z1oC4WJYol2b-Upys1G2l8Qki0_kPEw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Eva Islamidou ist einfach die beste♥️ Sie behandelte meine beiden Töchter und mich mit viel Sorgfalt, Zeit und Mühe, ich danke ihr für alles ♥️♥️♥️wir gehen nur zu ihr ♥️♥️♥️",
+      "time": 1782241610,
+      "translated": false
+    },
+    {
+      "author_name": "Karina Levin",
+      "author_url": "https://www.google.com/maps/contrib/114514719126309879098/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLE4BgWwwUH0khckC0z1oC4WJYol2b-Upys1G2l8Qki0_kPEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Frau Dr. Eva Islamidou ist einfach die beste♥️ Sie behandelte meine beiden Töchter und mich mit viel Sorgfalt, Zeit und Mühe, ich danke ihr für alles ♥️♥️♥️wir gehen nur zu ihr ♥️♥️♥️",
       "time": 1782241610,
       "translated": false
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP8ktZz5K74Dg85-4_oCeCj_9dyoQNbSoHD7FtbWWV7PWEz56Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sie ist fantastisch in ihrem Job, sehr freundlich und höflich und erklärt einem immer alles ganz genau, was zu tun ist. Ich kann sie uneingeschränkt empfehlen. Die Frau kennt und liebt ihren Job. 11/10",
+      "time": 1780993719,
+      "translated": true
+    },
+    {
+      "author_name": "Omar Grini",
+      "author_url": "https://www.google.com/maps/contrib/113532132285380003107/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP8ktZz5K74Dg85-4_oCeCj_9dyoQNbSoHD7FtbWWV7PWEz56Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sie ist fantastisch in ihrem Job, sehr freundlich und höflich und erklärt einem immer alles ganz genau, was zu tun ist. Ich kann sie uneingeschränkt empfehlen. Die Frau kennt und liebt ihren Job. 11/10",
       "time": 1780993719,
       "translated": true
@@ -290,11 +326,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 108,
+  "reviewCount": 109,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-28T08:20:30.248Z"
+  "lastUpdated": "2026-07-01T08:48:58.045Z"
 }

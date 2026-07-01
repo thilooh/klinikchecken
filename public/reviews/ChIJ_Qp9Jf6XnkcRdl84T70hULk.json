@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Petra Gleich",
+      "author_url": "https://www.google.com/maps/contrib/110559697907818410369/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0ZIfROGKapEda74y3_xdQYtCw-c7Xke2uWjFNbJUx21Me4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schöne moderne Praxis. Bin  am Schalter sehr nett empfangen worden.\nSehr nette und hilfsbereite Damen an der Anmeldung...\nArzt sehr nett,  mir zu gehört,\nSollte ich nochmal einen Dermatologen brauchen  komm ich gerne wieder ....",
+      "time": 1782842165,
+      "translated": false
+    },
+    {
       "author_name": "l. Römer",
       "author_url": "https://www.google.com/maps/contrib/106523859829912945137/reviews",
       "language": "de",
@@ -339,6 +351,18 @@
       "translated": false
     },
     {
+      "author_name": "Sanaz Abdolrazagh",
+      "author_url": "https://www.google.com/maps/contrib/107393046128931738683/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPfTIuoXS4vHgl2f3oVn7Jwx8DyTF24RdnN7y4SYn0TfEO4udx-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Ich habe bereits am 5. Januar über Doctolib einen Termin für den 5. Mai vereinbart.\nEine Woche vor dem Termin wurde dieser plötzlich wegen Krankheit abgesagt. Das kann natürlich passieren – jedoch war es danach unmöglich, jemanden telefonisch zu erreichen. Außerdem gab es keine Möglichkeit, einen neuen Termin zu vereinbaren.\nDieses Verhalten empfinde ich als sehr unprofessionell und verantwortungslos, besonders wenn man mehrere Monate auf einen Termin gewartet hat.\n\nIch bin sehr enttäuscht und kann diese Praxis leider nicht weiterempfehlen.",
+      "time": 1777539931,
+      "translated": false
+    },
+    {
       "author_name": "saeed padkan",
       "author_url": "https://www.google.com/maps/contrib/118165368945375884273/reviews",
       "language": "de",
@@ -538,11 +562,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 160,
+  "reviewCount": 161,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-28T08:20:08.052Z"
+  "lastUpdated": "2026-07-01T08:48:33.866Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Guuli Katar",
+      "author_url": "https://www.google.com/maps/contrib/103450887200639247902/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJF1mGyRhqjg6EeSbsb69R0P6pC0gijs1_KQGVD1-qfBXmOSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr enttäuschend. Das war mit Abstand die schlechteste Erfahrung, die ich bisher in einer Arztpraxis gemacht habe.\n\nBereits an der Rezeption wurde ich sehr unfreundlich empfangen. Obwohl ich vor meinem Besuch telefonisch nachgefragt hatte und mir gesagt wurde, dass ich ohne Termin vorbeikommen könne, hatte ich das Gefühl, überhaupt nicht willkommen zu sein.\n\nDie Ärztin hat sich kaum Zeit für mich genommen. Als ich noch ein weiteres Anliegen bezüglich meiner Haut ansprechen wollte, ließ sie mich nicht einmal ausreden und sagte sofort: „Nein, Sie sind ohne Termin gekommen. Vereinbaren Sie dafür einen neuen Termin.“ Mir ist bewusst, dass es Terminregelungen gibt. Dennoch hätte ich mir etwas mehr Verständnis und zumindest zwei Minuten Zeit gewünscht, um mein Anliegen anzuhören oder kurz zu beurteilen.\n\nLeider habe ich mich weder ernst genommen noch respektvoll behandelt gefühlt. Aufgrund dieser Erfahrung kann ich die Praxis nicht weiterempfehlen.",
+      "time": 1782809434,
+      "translated": false
+    },
+    {
       "author_name": "Federico Paolucci",
       "author_url": "https://www.google.com/maps/contrib/115430677471491886618/reviews",
       "language": "en",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGLuAcz42vNouGDhyYJxiUcYi0ckqPKh-ddh3I3G6jxNSfY2M9=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr nettes und kompetentes Personal. Die Behandlung ging schnell und effizient ohne Nettigkeit und Fürsorge einbüßen zu müssen. Sehr empfehlenswert",
+      "time": 1781512559,
+      "translated": false
+    },
+    {
+      "author_name": "Hoang Tu",
+      "author_url": "https://www.google.com/maps/contrib/110616421780384769318/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGLuAcz42vNouGDhyYJxiUcYi0ckqPKh-ddh3I3G6jxNSfY2M9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr nettes und kompetentes Personal. Die Behandlung ging schnell und effizient ohne Nettigkeit und Fürsorge einbüßen zu müssen. Sehr empfehlenswert",
       "time": 1781512559,
       "translated": false
@@ -451,7 +475,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 91,
+  "reviewCount": 92,
   "summary": [],
-  "lastUpdated": "2026-06-28T08:19:51.778Z"
+  "lastUpdated": "2026-07-01T08:48:16.448Z"
 }

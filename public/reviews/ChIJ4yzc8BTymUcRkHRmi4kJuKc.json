@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Justyna Piotrowska",
+      "author_url": "https://www.google.com/maps/contrib/100890023655789138607/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMjZZIK_itXp3u_prvvhcZSGUB4VLtprTU7vsv1L1dE0UYQC8J=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Very rude blonde lady who did the examination (vorsorge), she checked all my moles within 5 seconds, which obviously is not enough to see anything suspicious, was very rude answering or didn’t want to answer at all, complete lack of attention to a patient\n\nOn top of that I’ll have to pay for this “nothing”\n\nThis was a waste of time, and a very unpleasant experience\n\nThe women in the reception were nice and thanks to that’s it’s a 1 star and not zero..",
+      "time": 1782811592,
+      "translated": false
+    },
+    {
       "author_name": "Reiner App (Newsman)",
       "author_url": "https://www.google.com/maps/contrib/111426555396476383654/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnu5AHA8navhHolcFRHcnsFFbgbeQKBzApvo8Xs2G_RNlaONuK8w=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Gutes Management, gute medizinische Versorgung.",
+      "time": 1781030414,
+      "translated": false
+    },
+    {
+      "author_name": "Reiner App (Newsman)",
+      "author_url": "https://www.google.com/maps/contrib/111426555396476383654/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnu5AHA8navhHolcFRHcnsFFbgbeQKBzApvo8Xs2G_RNlaONuK8w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Gutes Management, gute medizinische Versorgung.",
       "time": 1781030414,
       "translated": false
@@ -385,12 +409,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 80,
+  "rating": 4.8,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-28T08:20:32.003Z"
+  "lastUpdated": "2026-07-01T08:48:59.951Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Reinhard Glenz",
+      "author_url": "https://www.google.com/maps/contrib/109371405550111754259/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsJGow3vYB_qD1QWOeK_zFIy_qRSg-90LQpLXYz85APXMBYSPvhQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782748993,
+      "translated": false
+    },
+    {
+      "author_name": "Nathalie",
+      "author_url": "https://www.google.com/maps/contrib/106283244047132495391/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxXgEsuhcxJydLjP0WO-19T5luBp89Tc8c-uiGjoZ9E4JaYw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine Kostenaufklärung,Abzocke & unfreundlich\n\nOnline Termin zur Muttermalkontrolle für meinen 6-jährigen Sohn gebucht. Nach Wochen Wartezeit vor Ort erfahren: kostet 39€ privat. Info dazu gab es bei der Buchung nicht.\n\nEin kurzer Blick auf sein Ekzem statt Muttermalkontrolle wurde abgelehnt - außer wir zahlen. Dann würde es doch gehen !\nFür 5 Minuten Ausschlag anschauen war angeblich keine Zeit, obwohl wir ja einen Termin hatten.\n\nTon an der Anmeldung sehr unempathisch: \"Anordnung der Ärzte, ich diskutiere nicht\". Kollegin mischte sich noch unfreundlich ein.\n\nMein Vater hatte hier schon schlechte Erfahrungen, wir jetzt auch. Keine Empfehlung.\n\n0 Sterne !!!",
+      "time": 1782724347,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Hagedorn",
       "author_url": "https://www.google.com/maps/contrib/118187695792191795464/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0rJlMphxG_oIb23OVWEOBfcICvd54jZMfV30BRl5z2oLfleT9=s128-c0x00000000-cc-rp-mo-ba4",
@@ -686,11 +708,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 375,
+  "reviewCount": 377,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-28T08:20:20.228Z"
+  "lastUpdated": "2026-07-01T08:48:47.165Z"
 }

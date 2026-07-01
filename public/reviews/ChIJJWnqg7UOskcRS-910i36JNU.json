@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "M B",
+      "author_url": "https://www.google.com/maps/contrib/109866181700537556680/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFy3OEaDmDVAShprjr_PQ-IIjBGRgVcNwpRhIhyZ9KZzjHZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich, aufmerksam, kompetent und professionell wird man von dem Ärzte Team Behandlung… und man fühlt sich gut behandelt.. Tip Top!!\nIch würde immer wieder dort hin gehen… gestern Online Termin für heute 8.30 Uhr gebucht und heute um 8.30 behandelt worden 👍👍👏👏.\nEs ist eine kleine Insel in unserem Gesundheitssystem.. wo die meisten Ärzte hektisch für durchfluss sorgen müssen.. um Geld zu verdienen … leider 😌\nDanke an DAS TEAM der Hautarzt Praxis und weiter so 👍 und ihr zeigt , dass es auch anders geht!!!!",
+      "time": 1782809641,
+      "translated": false
+    },
+    {
+      "author_name": "R. H.",
+      "author_url": "https://www.google.com/maps/contrib/107452803866976921174/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXYVQxg-FoI28AO5evDYUwJXbc9djwN_XAtAzJgnyIPJoKeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatten heute einen Folgetermin für meine Tochter. Online gebucht- Bestätigung und Erinnerung erhalten. Vor Ort rund um freundliche Mitarbeitende, keine Wartezeit und tolle Beratung. Vielen lieben Dank",
+      "time": 1782743109,
+      "translated": false
+    },
+    {
+      "author_name": "Eva “Ava”",
+      "author_url": "https://www.google.com/maps/contrib/100387594031560040302/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhlZMRbKeOK2PftFrc5nntKNmaAAwq_eow0T6QdsmqVx3eEg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin seit Jahren Patient in dieser Praxis.\nDer heutige Arzt - Dr. Föh - behandelt ausgesprochen patientenorientiert: Er erklärt sehr verständlich alle Zusammenhänge und nimmt sich für die erforderliche Untersuchung angemessen Zeit - alles in einer sehr angenehmen Atmosphäre. Sehr empfehlenswert!!",
+      "time": 1782740951,
+      "translated": false
+    },
+    {
       "author_name": "haiffa alsendi",
       "author_url": "https://www.google.com/maps/contrib/108931120749569163180/reviews",
       "language": "de",
@@ -866,11 +902,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2309,
+  "reviewCount": 2312,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-06-28T08:20:03.061Z"
+  "lastUpdated": "2026-07-01T08:48:28.491Z"
 }

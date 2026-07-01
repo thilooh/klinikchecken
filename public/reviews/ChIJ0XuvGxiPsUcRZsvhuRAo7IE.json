@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ivana Ruljevic",
+      "author_url": "https://www.google.com/maps/contrib/118338993664902004327/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWirwmRkeakYcNuvsbJnGrMQHCv5Y_zQTsM11ma2LA98g1v1qt7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles war sehr gut mit Masoma-angenehm und gutes Ergebnis beim Lashlift. Meine herzlichste Empfehlung ;)",
+      "time": 1782762950,
+      "translated": false
+    },
+    {
       "author_name": "Katja Randau",
       "author_url": "https://www.google.com/maps/contrib/117804388090801473684/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcf1-5uUNWKxtILsUkz7UDfgBLoBIYy9n5ht8uEOH9otnD=s128-c0x00000000-cc-rp-mo",
@@ -33,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "Frank Gabriel",
+      "author_url": "https://www.google.com/maps/contrib/106951710655649958441/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4KpKigs1yzNMEb21jf1HTIWbHX-SNmqhfoZ0KbWpidYBlYQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1782290742,
+      "translated": false
+    },
+    {
       "author_name": "Carsten Kessler",
       "author_url": "https://www.google.com/maps/contrib/109906388973098089598/reviews",
       "language": "en",
@@ -43,6 +65,18 @@
       "text": "They do legs only, which is not clearly mentioned until you get to reception\n\nBooked my appointment via Doctolib 4 weeks ago leaving the patient fully in the blind\n\nThey wasted my time!",
       "time": 1782219056,
       "translated": false
+    },
+    {
+      "author_name": "Carsten Kessler",
+      "author_url": "https://www.google.com/maps/contrib/109906388973098089598/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLV7K_6IKZMorhUzN5ag0yHT_5pXIhvpU46qpKJDi9NybNE8w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sie behandeln nur die Beine, was erst an der Rezeption deutlich wird.\n\nIch habe meinen Termin vor vier Wochen über Doctolib gebucht und wurde dadurch völlig im Dunkeln gelassen.\n\nSie haben meine Zeit verschwendet!",
+      "time": 1782219056,
+      "translated": true
     },
     {
       "author_name": "Ausland GH",
@@ -672,7 +706,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 432,
+  "reviewCount": 433,
   "summary": [],
-  "lastUpdated": "2026-06-28T08:19:56.525Z"
+  "lastUpdated": "2026-07-01T08:48:21.270Z"
 }

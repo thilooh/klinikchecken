@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dani Z.",
+      "author_url": "https://www.google.com/maps/contrib/117216480112312456092/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4OVEyT5b6FW03DRVkviVmfECqz7G5_Qi0sybuLbXFCff4mMU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Can not recommend. 30 plus minutes waiting around for a couple of minutes examination. Curious to see if the bill will reflect this. Have opted out of any further treatment and will look forwa more suitable practice.",
+      "time": 1782825551,
+      "translated": false
+    },
+    {
       "author_name": "T M",
       "author_url": "https://www.google.com/maps/contrib/103292576128869799040/reviews",
       "language": "de",
@@ -84,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJyYmXozIRrCG_okKStriqFZTMClm2TanosEdMJESLPvtQwA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 2,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1780401424,
+      "translated": false
+    },
+    {
+      "author_name": "V l",
+      "author_url": "https://www.google.com/maps/contrib/109468640963951171727/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJyYmXozIRrCG_okKStriqFZTMClm2TanosEdMJESLPvtQwA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1780401424,
       "translated": false
@@ -336,7 +358,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 116,
+  "reviewCount": 117,
   "summary": [],
-  "lastUpdated": "2026-06-28T08:19:55.243Z"
+  "lastUpdated": "2026-07-01T08:48:19.841Z"
 }

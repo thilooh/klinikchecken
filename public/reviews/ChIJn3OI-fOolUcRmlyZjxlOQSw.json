@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Pervin",
+      "author_url": "https://www.google.com/maps/contrib/107745694689470868765/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFvDpPLoAfbWUZ_POXqgh0wKFq8dXCaHZEa8FQ2hDLINGaDNE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Ugur ist ein Arzt, der sich wirklich Zeit für seine Patienten nimmt und nicht nach dem typischen 08/15-Prinzip arbeitet. Man wird ernst genommen, gründlich untersucht und bekommt alles verständlich erklärt. Auch wenn man manchmal etwas Wartezeit mitbringen muss, nimmt man das gerne in Kauf, weil man weiß, dass einem wirklich geholfen wird. Statt einen einfach zum nächsten Arzt weiterzuschicken, kümmert sich Dr. Ugur engagiert um die Anliegen seiner Patienten und sucht nach Lösungen. So wünscht man sich eine Arztpraxis. Klare Weiterempfehlung!",
+      "time": 1782668000,
+      "translated": false
+    },
+    {
       "author_name": "A E",
       "author_url": "https://www.google.com/maps/contrib/110336812467150511245/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSISB9T-5uGUidCdyg-ZnJEim5zr6LojJG-gEN_2QOMTc5l8jv=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte in den letzten sieben Jahren einige gesundheitliche Probleme und habe verschiedene Fachärzte aufgesucht. Diese Ärztin war die Einzige, die sich während des Gesprächs tatsächlich die Zeit nahm, auch meine anderen Symptome zu berücksichtigen. Das hat meiner Stimmung geholfen.",
+      "time": 1782138658,
+      "translated": false
+    },
+    {
+      "author_name": "Iku89",
+      "author_url": "https://www.google.com/maps/contrib/111890796011270174520/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSISB9T-5uGUidCdyg-ZnJEim5zr6LojJG-gEN_2QOMTc5l8jv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich hatte in den letzten sieben Jahren einige gesundheitliche Probleme und habe verschiedene Fachärzte aufgesucht. Diese Ärztin war die Einzige, die sich während des Gesprächs tatsächlich die Zeit nahm, auch meine anderen Symptome zu berücksichtigen. Das hat meiner Stimmung geholfen.",
       "time": 1782138658,
       "translated": false
@@ -426,11 +450,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 126,
+  "reviewCount": 127,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-28T08:20:17.524Z"
+  "lastUpdated": "2026-07-01T08:48:44.247Z"
 }

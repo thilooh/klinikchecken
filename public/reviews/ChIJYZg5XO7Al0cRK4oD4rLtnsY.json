@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ramona Kuhrt",
+      "author_url": "https://www.google.com/maps/contrib/101588188525584170054/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxcHfLgO9G_kAFyX0KvkStFMjyZWP-0OP07KVsR5KdYKcifA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. med Urlich Ertelt und Team ist sehr zu empfehlen. Sehr professionell und gewissenhaft man bekommt auch sehr schnell Termine. Seine Mitarbeiter/ innen sind total emphatisch und sehr lieb. Ganz besonders bin ich ein Fan von Frau Barbara von Grumbkow die hilft mir immer schnell weiter wenn ich mal eine Frage per Telefon oder E~ Mail habe. Danke für die tolle Behandlung und bis bald 🙏",
+      "time": 1782728484,
+      "translated": false
+    },
+    {
       "author_name": "power frau",
       "author_url": "https://www.google.com/maps/contrib/104003695895854596050/reviews",
       "language": "de",
@@ -230,11 +242,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 49,
+  "reviewCount": 50,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-06-28T08:20:10.286Z"
+  "lastUpdated": "2026-07-01T08:48:36.318Z"
 }

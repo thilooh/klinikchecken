@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hifen Sido",
+      "author_url": "https://www.google.com/maps/contrib/101266769212376164732/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRoazPhnNqS_MLONHB1xALovHX-_OsRtpYdZjXCK3cejWHsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich und mein Mann ,wir sind schon seit paar Jahren  Patienten bei Fr. Dr. Steinert. Durch ihre freundliche, empathische Art und ihre Fachkompetenz fühlen wir uns in der Praxis sehr gut aufgehoben. Von ihrem handwerklichen Geschick im Bereich Ästhetik und der Sorgfältigkeit, mit der sie arbeitet, werde ich immer wieder überzeugt. Auch weitere Ärzte im Zentrum sind zuvorkommend und kompetent. Sehr empfehlenswert!\nVielen herzlichen Dank",
+      "time": 1782848130,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Schmidt",
       "author_url": "https://www.google.com/maps/contrib/100408654414689861286/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Oliver Hirth",
+      "author_url": "https://www.google.com/maps/contrib/117802830163461692568/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNr0kiJNjZ-Xlr_krPnWmf2DJt8QXuHMP6WvjzPEqO2q8qBA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr Freundlich",
+      "time": 1782127621,
+      "translated": false
+    },
+    {
       "author_name": "Florian Riedl",
       "author_url": "https://www.google.com/maps/contrib/115676649632754401717/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqmldzdhuEn-4yhtYdLWU2WimX7U3ZAZfasRrv4OR6sQzMgQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super tolle Praxis mit einem Rundum Sorglos Paket. Das gesamte Team ist super freundlich und Mega lieb. Die OP welche ich hatte war 1a vorbereitet, das Aufwachen lief ohne Probleme und man wird extrem zuvorkommend behandelt. Hier nimmt man einem alle erdenklichen Ängste und geht sehr diskret mit allen Themen um. Die Fistel OP durch Dr. Grenzner kann ich nur jedem ans Herz legen der darüber schon mal nachgedacht hat. Stand jetzt 4 Wochen nach OP und ich bereue es keine Sekunde.\n\nHier ist man wirklich sehr gut aufgehoben und ich bin stolz so eine tolle Praxis in unserer Nähe zu wissen.",
+      "time": 1782070986,
+      "translated": false
+    },
+    {
+      "author_name": "Florian Riedl",
+      "author_url": "https://www.google.com/maps/contrib/115676649632754401717/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqmldzdhuEn-4yhtYdLWU2WimX7U3ZAZfasRrv4OR6sQzMgQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super tolle Praxis mit einem Rundum Sorglos Paket. Das gesamte Team ist super freundlich und Mega lieb. Die OP welche ich hatte war 1a vorbereitet, das Aufwachen lief ohne Probleme und man wird extrem zuvorkommend behandelt. Hier nimmt man einem alle erdenklichen Ängste und geht sehr diskret mit allen Themen um. Die Fistel OP durch Dr. Grenzner kann ich nur jedem ans Herz legen der darüber schon mal nachgedacht hat. Stand jetzt 4 Wochen nach OP und ich bereue es keine Sekunde.\n\nHier ist man wirklich sehr gut aufgehoben und ich bin stolz so eine tolle Praxis in unserer Nähe zu wissen.",
       "time": 1782070986,
       "translated": false
@@ -520,11 +556,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 151,
+  "reviewCount": 152,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-06-28T08:20:09.170Z"
+  "lastUpdated": "2026-07-01T08:48:35.102Z"
 }

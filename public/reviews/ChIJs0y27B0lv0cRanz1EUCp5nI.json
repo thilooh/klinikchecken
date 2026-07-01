@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "HF",
+      "author_url": "https://www.google.com/maps/contrib/100666477436719606706/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlk1khq_Hba5sNUH1FHlmH2ewh8dbDEwg3tR7x_McMG2oQ53Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unfreundlicher Empfang und enttäuschende Behandlung. Es wurde lediglich ein Abstrich gemacht, anschließend hieß es nur, der Befund sei negativ. Trotz weiterhin bestehender Beschwerden wurde kein Folgetermin angeboten und keine Diagnose gestellt. Auf Nachfrage erhielt ich weder einen Arzt- noch einen schriftlichen Befund. So fühlt man sich als Patient leider nicht ernst genommen. Diese Praxis kann ich nicht empfehlen. Müsste man eigentlich beim Versorgungswerk melden.. Werde definitiv prüfen was für das nicht mal 5 min Gespräch ohne Untersuchung mit dem Arzt bei der Kasse abgerechnet wird ;)",
+      "time": 1782827291,
+      "translated": false
+    },
+    {
       "author_name": "Nicole Harward",
       "author_url": "https://www.google.com/maps/contrib/106053435281132633805/reviews",
       "language": "de",
@@ -305,11 +317,11 @@
     }
   ],
   "rating": 3.2,
-  "reviewCount": 124,
+  "reviewCount": 125,
   "summary": [
     "Akuttermine kurzfristig verfügbar, behandelnde Ärzte als freundlich beschrieben",
     "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
     "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
   ],
-  "lastUpdated": "2026-06-28T08:19:47.160Z"
+  "lastUpdated": "2026-07-01T08:48:12.134Z"
 }

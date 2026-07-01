@@ -25,6 +25,18 @@
       "translated": true
     },
     {
+      "author_name": "Ali Alali",
+      "author_url": "https://www.google.com/maps/contrib/107641648485375912483/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ7qLlLFr9ZTX04Vwf0J6vDI0IbXkwUPXMt5EhQ5v_scvgU03M=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ein wunderbarer Arzt, was seine Behandlung und seine Freundlichkeit betrifft.",
+      "time": 1781606624,
+      "translated": true
+    },
+    {
       "author_name": "Petra Kunkel",
       "author_url": "https://www.google.com/maps/contrib/116629799198276437382/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7MtWDgUrgL-xVoECOOfdrFh8cAHaVTTIy3BGrxhQLpiPl6pcD=s128-c0x00000000-cc-rp-mo-ba2",
@@ -60,6 +72,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7MtWDgUrgL-xVoECOOfdrFh8cAHaVTTIy3BGrxhQLpiPl6pcD=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1780339161,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Kunkel",
+      "author_url": "https://www.google.com/maps/contrib/116629799198276437382/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7MtWDgUrgL-xVoECOOfdrFh8cAHaVTTIy3BGrxhQLpiPl6pcD=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1780339161,
       "translated": false
@@ -360,5 +382,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-06-28T08:20:19.770Z"
+  "lastUpdated": "2026-07-01T08:48:46.697Z"
 }

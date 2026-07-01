@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Sasa Nagel",
+      "author_url": "https://www.google.com/maps/contrib/104882460464944974298/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfMY-98kBB4q3YA9N6Kwg8i4MvoHupyF4aryat8aW6oBYCbSFs=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Alles Super...",
+      "time": 1782225384,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele Heske",
       "author_url": "https://www.google.com/maps/contrib/116335563252742727123/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvvEspkD7g2J4foRan59sjJIkQEqSYmoqrekDj2zz1qN-WSA=s128-c0x00000000-cc-rp-mo",
@@ -212,6 +224,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhJFA8m1fh8RO5mTNC_PLZRFVzgTuOYrRoAxO0ZTzNN-tNlA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Nicht zu empfehlen. Wer Wert drauf legt wie ein Mensch behandelt zu werden sollte sich ein anderen Hautarzt suchen. Unter aller Menschen würde.",
+      "time": 1777454637,
+      "translated": false
+    },
+    {
+      "author_name": "Niklas Unbekannt",
+      "author_url": "https://www.google.com/maps/contrib/104035299798348250096/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhJFA8m1fh8RO5mTNC_PLZRFVzgTuOYrRoAxO0ZTzNN-tNlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Nicht zu empfehlen. Wer Wert drauf legt wie ein Mensch behandelt zu werden sollte sich ein anderen Hautarzt suchen. Unter aller Menschen würde.",
       "time": 1777454637,
       "translated": false
@@ -352,5 +376,5 @@
   "rating": 4,
   "reviewCount": 121,
   "summary": [],
-  "lastUpdated": "2026-06-28T08:19:58.799Z"
+  "lastUpdated": "2026-07-01T08:48:23.803Z"
 }
