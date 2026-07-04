@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jasmin Anna",
+      "author_url": "https://www.google.com/maps/contrib/109242019223323401420/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcAWd3Cq_JFwX6QTRMlsOpC6cWwUd2vE-bma8mucqugqMXHQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin absolut begeistert von der Behandlung! Die Ärztin hat sich sehr viel Zeit genommen, mich ausführlich und kompetent beraten und alle meine Fragen verständlich beantwortet. Die Behandlung selbst war hervorragend und ich habe mich die ganze Zeit bestens aufgehoben gefühlt.\n\nBesonders beeindruckt hat mich ihre Freundlichkeit und ihr Verständnis: Obwohl wir uns um 15 Minuten verspätet hatten, wurden wir trotzdem herzlich empfangen und ohne Hektik behandelt. Das ist heutzutage wirklich nicht selbstverständlich.\n\nVielen Dank für die tolle Betreuung – eine so engagierte, kompetente und menschliche Ärztin Dr. Laura A. Petrescu kann ich uneingeschränkt weiterempfehlen!\n⭐️⭐️⭐️⭐️⭐️",
+      "time": 1783000246,
+      "translated": false
+    },
+    {
+      "author_name": "V A",
+      "author_url": "https://www.google.com/maps/contrib/107488838099507524799/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6z7IY37NTjPiajnP3sNZs2jt6S1kMRiR-A6DAYBA73sxiJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Und Wunder gibt es doch noch… Frau Dr. Petrescu ist eine unwahrscheinlich sympathische, alles erklärende, sich Zeit nehmende, nicht geldmachende, absolut menschliche,…Dame, die den Titel eines Arztes wirklich verdient! Von Herzen danke ich ihr",
+      "time": 1782905446,
+      "translated": false
+    },
+    {
       "author_name": "Kata Duvnjak",
       "author_url": "https://www.google.com/maps/contrib/110768838860360384133/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJsXKO_eR8I0w9xMMX_FdGr96Ia6lr4pOt5J9rYV-LhR4X51Ag=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Naravno. Evo prijevoda na prirodan njemački:\n\nFrau Dr. Laura Petrescu ist eine außergewöhnlich kompetente, freundliche und professionelle Ärztin. Vom ersten Beratungsgespräch bis zur Operation habe ich mich jederzeit sicher und bestens aufgehoben gefühlt. Sie hat sich viel Zeit genommen, mir alles verständlich erklärt und ist auf alle meine Fragen geduldig eingegangen. Durch ihre ruhige und einfühlsame Art hat sie mir großes Vertrauen gegeben. Die Operation verlief hervorragend und das Ergebnis hat meine Erwartungen sogar übertroffen. Ich bin ihr von Herzen dankbar für ihre hervorragende Betreuung und kann sie jedem, der eine Venenbehandlung benötigt, uneingeschränkt weiterempfehlen.",
+      "time": 1782460763,
+      "translated": false
+    },
+    {
+      "author_name": "Kata Duvnjak",
+      "author_url": "https://www.google.com/maps/contrib/110768838860360384133/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJsXKO_eR8I0w9xMMX_FdGr96Ia6lr4pOt5J9rYV-LhR4X51Ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Naravno. Evo prijevoda na prirodan njemački:\n\nFrau Dr. Laura Petrescu ist eine außergewöhnlich kompetente, freundliche und professionelle Ärztin. Vom ersten Beratungsgespräch bis zur Operation habe ich mich jederzeit sicher und bestens aufgehoben gefühlt. Sie hat sich viel Zeit genommen, mir alles verständlich erklärt und ist auf alle meine Fragen geduldig eingegangen. Durch ihre ruhige und einfühlsame Art hat sie mir großes Vertrauen gegeben. Die Operation verlief hervorragend und das Ergebnis hat meine Erwartungen sogar übertroffen. Ich bin ihr von Herzen dankbar für ihre hervorragende Betreuung und kann sie jedem, der eine Venenbehandlung benötigt, uneingeschränkt weiterempfehlen.",
       "time": 1782460763,
       "translated": false
@@ -482,7 +518,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 154,
+  "reviewCount": 156,
   "summary": [],
-  "lastUpdated": "2026-07-01T08:48:16.951Z"
+  "lastUpdated": "2026-07-04T07:44:34.805Z"
 }

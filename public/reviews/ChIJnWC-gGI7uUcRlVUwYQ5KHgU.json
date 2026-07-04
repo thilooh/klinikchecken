@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Arzu Çetinkaya",
+      "author_url": "https://www.google.com/maps/contrib/105308810631515385818/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1fGyzv04zPhiqYWQXXUUiTbiZx3tiRIqeYVK0GsukVq_6dFuTjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783074201,
+      "translated": false
+    },
+    {
       "author_name": "Mohammad Murad",
       "author_url": "https://www.google.com/maps/contrib/117837029254009661336/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3E37yZ3QtG6EHFCetLe20Jc7VwD5pmy7aMSi33AiLSB-_s94=s128-c0x00000000-cc-rp-mo",
@@ -40,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEjwGUMq42DVvovafJWp5E1WStRC3w9w7b-bcCrEEsDJQAH2W1=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Doktor, möge Gott ihn segnen, ehrlich gesagt, er ist sehr verständnisvoll und ein sehr starker und geschickter Therapeut\nLeider gibt es keine Termine, auch wenn eine Notsituation lang ist.",
+      "time": 1781939807,
+      "translated": false
+    },
+    {
+      "author_name": "Amaar Al Haje",
+      "author_url": "https://www.google.com/maps/contrib/107876535942043899063/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEjwGUMq42DVvovafJWp5E1WStRC3w9w7b-bcCrEEsDJQAH2W1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Doktor, möge Gott ihn segnen, ehrlich gesagt, er ist sehr verständnisvoll und ein sehr starker und geschickter Therapeut\nLeider gibt es keine Termine, auch wenn eine Notsituation lang ist.",
       "time": 1781939807,
       "translated": false
@@ -64,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBgPE0ewVqbSHfAPqGftjB-2hnn3lCLiTnMculaJ5OwTGdc8kq=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich kenne Dr. Al-Jebori schon seit vielen Jahren und schätze ihn sehr. Er ist einer der besten Ärzte, äußerst zuverlässig und immer freundlich. Ich empfehle ihn zu 100 % weiter.",
+      "time": 1781767511,
+      "translated": false
+    },
+    {
+      "author_name": "Mustafa Yaqubi",
+      "author_url": "https://www.google.com/maps/contrib/117614803915615403322/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBgPE0ewVqbSHfAPqGftjB-2hnn3lCLiTnMculaJ5OwTGdc8kq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich kenne Dr. Al-Jebori schon seit vielen Jahren und schätze ihn sehr. Er ist einer der besten Ärzte, äußerst zuverlässig und immer freundlich. Ich empfehle ihn zu 100 % weiter.",
       "time": 1781767511,
       "translated": false
@@ -84,6 +118,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLj3vIB7VqvyGBNqcd_4zwr3v1sPve9POWx6m7pLjg6gxQmIg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1781703416,
+      "translated": false
+    },
+    {
+      "author_name": "Rama Shahen",
+      "author_url": "https://www.google.com/maps/contrib/108153964415368233432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLj3vIB7VqvyGBNqcd_4zwr3v1sPve9POWx6m7pLjg6gxQmIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1781703416,
       "translated": false
@@ -652,11 +696,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 384,
+  "reviewCount": 385,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-01T08:48:49.301Z"
+  "lastUpdated": "2026-07-04T07:45:05.382Z"
 }

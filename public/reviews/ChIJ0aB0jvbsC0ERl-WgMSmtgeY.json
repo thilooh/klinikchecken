@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Dominik Wolpert",
+      "author_url": "https://www.google.com/maps/contrib/110293095892446235689/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh-PTgsQsAuUCzU0_R9EFEZq0iSqtcJ2p7hCzEkOCAWm_ZHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der eine Stern der Bewertung ist noch zu viel . Meine Frau hatte einen Termin bei Herrn Dr. Neugebauer.\nAuf die Probleme meiner Frau wurde nicht eingegangen. Herr Dr. Neugebauer war während der gesamten Untersuchung sehr arrogant. Auch die anwesende Arzthelferin war nicht besonders freundlich. Die zweieinhalb Stunden Fahrt hätten wir uns sparen können. Einen weiteren Termin wird es in dieser unsympathischen Praxis nicht mehr geben",
+      "time": 1783077363,
+      "translated": false
+    },
+    {
+      "author_name": "Ceyran Elmas",
+      "author_url": "https://www.google.com/maps/contrib/116023062197930827293/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtZQb3P78ED6iCoVk80XowvVbDNrV_jV_nqythXTH6Rq498w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin selbst OTA und habe dadurch beruflich einen guten Einblick in medizinische Abläufe. Umso positiver war ich überrascht, wie professionell, organisiert und freundlich das gesamte Team gearbeitet hat. Von der Beratung über die Operation bis zur Nachsorge habe ich mich jederzeit gut aufgehoben gefühlt. Besonders Dr. Weiler hat sich Zeit genommen, meine Fragen verständlich beantwortet und sehr kompetent behandelt. Möchte ich mich außerdem herzlich bei der Anästhesistin bedanken. Sie war unglaublich freundlich, einfühlsam und hat mir vor der Narkose viel von meiner Angst genommen. Mit dem bisherigen Behandlungsergebnis bin ich sehr zufrieden. Vielen Dank an das gesamte Team eine Praxis, die ich mit gutem Gewissen weiterempfehlen kann🙌🏼",
+      "time": 1783032906,
+      "translated": false
+    },
+    {
+      "author_name": "Fatma Erdem",
+      "author_url": "https://www.google.com/maps/contrib/105319886934043705266/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHDHvz8s6d51Bkww0DrxNPy0ELZtqSeRzxvCjywa99BvhvXA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann das Venenzentrum Pforzheim mit Dr. Weiler und seinem gesamten Team uneingeschränkt weiterempfehlen. Vom ersten Moment an wurde ich sehr freundlich und herzlich empfangen. Das gesamte Praxisteam ist äußerst kompetent, hilfsbereit und nimmt sich Zeit für die Anliegen der Patienten.\n\nDr. Tenholt hat mich gründlich untersucht, alles verständlich erklärt und sind auf meine Fragen und Sorgen eingegangen. Man fühlt sich dort ernst genommen und medizinisch sehr gut aufgehoben.\n\nAuch die Organisation der Praxis verlief reibungslos, und die Mitarbeiterinnen am Empfang waren jederzeit freundlich und zuvorkommend.\n\nVielen Dank an das gesamte Team für die hervorragende Betreuung. Eine Praxis, die ich jederzeit mit gutem Gewissen weiterempfehlen kann!",
+      "time": 1782921620,
+      "translated": false
+    },
+    {
       "author_name": "Ulrike Kern-Gebhardt",
       "author_url": "https://www.google.com/maps/contrib/107818054836198648209/reviews",
       "language": "de",
@@ -592,11 +628,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 150,
+  "reviewCount": 153,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:57.551Z"
+  "lastUpdated": "2026-07-04T07:45:13.158Z"
 }

@@ -33,6 +33,16 @@
       "translated": false
     },
     {
+      "author_name": "Nadine",
+      "author_url": "https://www.google.com/maps/contrib/108315335979865378403/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJrKJyhqmfs2Q6wUhCDtmZ7UroeJL_iXlh-LPcRhg17_YZmuA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781775508,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin Tenbrink",
       "author_url": "https://www.google.com/maps/contrib/104711783335102655162/reviews",
       "language": "de",
@@ -186,6 +196,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8DG-_eWFB942_IDOl2_lcJzhMfgOp69-T-PcgoxFlJk4sGQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1777932133,
+      "translated": false
+    },
+    {
+      "author_name": "Björn",
+      "author_url": "https://www.google.com/maps/contrib/107452349428550252809/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8DG-_eWFB942_IDOl2_lcJzhMfgOp69-T-PcgoxFlJk4sGQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1777932133,
       "translated": false
@@ -376,5 +396,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-07-01T08:48:48.347Z"
+  "lastUpdated": "2026-07-04T07:45:04.469Z"
 }

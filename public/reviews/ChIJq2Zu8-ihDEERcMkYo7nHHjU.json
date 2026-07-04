@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "SphereOfSepsis Official",
+      "author_url": "https://www.google.com/maps/contrib/111245954652778627700/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeQ_u4GVtwaLvlqhEnLI9NEEowbxcqJlYdTkYEbz8ItLgpuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783012897,
+      "translated": false
+    },
+    {
       "author_name": "René L. aus MA",
       "author_url": "https://www.google.com/maps/contrib/110749748684889588829/reviews",
       "language": "de",
@@ -614,11 +624,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 264,
+  "reviewCount": 265,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-01T08:48:37.291Z"
+  "lastUpdated": "2026-07-04T07:44:54.050Z"
 }

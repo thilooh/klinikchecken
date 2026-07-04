@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Helena Heuken",
+      "author_url": "https://www.google.com/maps/contrib/112649150809662473570/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLicrGfncpk5CEb6tELsnZ5yqJ-Fth2ft9mPRgGfuqdxLow_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war schon mehrfach bei Dr. Steinkusch für dermatologische und ästhetische Behandlungen inklusive Botox und war jedes Mal sehr zufrieden! Dr. Steinkusch nimmt sich immer sehr viel Zeit mit der Beratung und Behandlung und legt einen Fokus auf natürliche Ergebnisse. Ich komme immer wieder gerne zu ihr!",
+      "time": 1783100392,
+      "translated": false
+    },
+    {
       "author_name": "Manuel T.",
       "author_url": "https://www.google.com/maps/contrib/117995984029458430930/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Manuel T.",
+      "author_url": "https://www.google.com/maps/contrib/117995984029458430930/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOHStjf_Ou2pXOGZtFU6Y_H5nvVVNOvSJj9uSi-95vIPnREA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr kompetent und freundlich.Bin sehr zufrieden und fühle mich sehr gut aufgehoben.",
+      "time": 1782364792,
+      "translated": false
+    },
+    {
       "author_name": "Ma Ro",
       "author_url": "https://www.google.com/maps/contrib/104206177217835972972/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFq8w9Kxm_oIKZBXVhGErZSXjat35yBu9z3kOhTF4ErmntcJs=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Keine richtige Untersuchung bekommen, kein richtiges Anamnesegespräch geführt worden. Wichtig war dem Arzt lediglich auf die teuren Laserbehandlungen hinzuweisen. Kann die Praxis nicht weiterempfehlen.",
+      "time": 1782322461,
+      "translated": false
+    },
+    {
+      "author_name": "Ma Ro",
+      "author_url": "https://www.google.com/maps/contrib/104206177217835972972/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFq8w9Kxm_oIKZBXVhGErZSXjat35yBu9z3kOhTF4ErmntcJs=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Keine richtige Untersuchung bekommen, kein richtiges Anamnesegespräch geführt worden. Wichtig war dem Arzt lediglich auf die teuren Laserbehandlungen hinzuweisen. Kann die Praxis nicht weiterempfehlen.",
       "time": 1782322461,
       "translated": false
@@ -68,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJqew2xX4QslDyWErqH_Jn93LJtX31FmUHWR35D4RcUbbhUzdA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Dr. Busch ist ein hervorragender Hautarzt für alle Themen. Kann ich nur weiterempfehlen!",
+      "time": 1781863787,
+      "translated": false
+    },
+    {
+      "author_name": "Arian Ebrahimi",
+      "author_url": "https://www.google.com/maps/contrib/107162139838799542885/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJqew2xX4QslDyWErqH_Jn93LJtX31FmUHWR35D4RcUbbhUzdA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Dr. Busch ist ein hervorragender Hautarzt für alle Themen. Kann ich nur weiterempfehlen!",
       "time": 1781863787,
       "translated": false
@@ -615,7 +663,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 205,
+  "reviewCount": 206,
   "summary": [],
-  "lastUpdated": "2026-07-01T08:48:15.937Z"
+  "lastUpdated": "2026-07-04T07:44:33.776Z"
 }

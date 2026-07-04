@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hendrik",
+      "author_url": "https://www.google.com/maps/contrib/102218738473662608775/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzXfTBjl97AF3osvKeULvvdItYZZSbPO32OICMWheFB7w9Jsde=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schöne Praxisräumlichkeiten. Leider ist Herr Dr. Jawadi wenig einfühlsam. Ich habe den Eindruck, dass statt der Behandlung der eigentlichen Krankheit lediglich auf Gewinnmaximierung geachtet wird. Schmerzen werden runtergespielt und der Körper aufs optische reduziert. Ich werde diese Praxis nicht noch einmal aufsuchen.",
+      "time": 1783053993,
+      "translated": false
+    },
+    {
       "author_name": "Der Holzwichtl",
       "author_url": "https://www.google.com/maps/contrib/111313677641091708028/reviews",
       "language": "de",
@@ -305,7 +317,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 44,
+  "reviewCount": 45,
   "summary": [],
-  "lastUpdated": "2026-07-01T08:48:16.199Z"
+  "lastUpdated": "2026-07-04T07:44:34.019Z"
 }

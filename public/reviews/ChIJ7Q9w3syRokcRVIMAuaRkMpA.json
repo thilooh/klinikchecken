@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin E.",
+      "author_url": "https://www.google.com/maps/contrib/118007849383900227491/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLDqHQRYGWyBAdrPqjkD60CbRY5yZQCnlFCxayjq0Qdg4jtA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Erfahrung! Ich war als Notfall spontan vor Ort und wurde sofort untersucht. Mega nettes Praxispersonal und sehr kompetenter Arzt. Schade, dass ich so weit weg wohne, ich würde wiederkommen! Danke!!!",
+      "time": 1783098817,
+      "translated": false
+    },
+    {
       "author_name": "Stefan Hussong",
       "author_url": "https://www.google.com/maps/contrib/105727182785983992312/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo2L_Rptnw5A-gLn1_BHMGG8ahnubiIqiSVHzUxUk3zIP5ie4K=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782478825,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Hussong",
+      "author_url": "https://www.google.com/maps/contrib/105727182785983992312/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo2L_Rptnw5A-gLn1_BHMGG8ahnubiIqiSVHzUxUk3zIP5ie4K=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1782478825,
       "translated": false
@@ -402,11 +424,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 154,
+  "reviewCount": 155,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:38.806Z"
+  "lastUpdated": "2026-07-04T07:44:55.421Z"
 }

@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Gabriele Bünning",
+      "author_url": "https://www.google.com/maps/contrib/103462859913929566292/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-koL7TskA3Cy5qFaKVz2dwaIRm_P0nNCkYJHZ1TWLuFn4wQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gestern kurzfristig einen Termin für den nächsten Tag bekommen, das Praxisteam war sehr zuvorkommend und hat mich bei der Terminvergabe unterstützt, da ich bei der Anmeldung über samedi einen Internetausfall hatte. Ich wollte einen Fleck an der Schläfe begutachten lassen.\nHeute in der Praxis lief alles schnell und ohne Wartezeit ab. Das Praxisteam ist sehr freundlich, legt großen Wert auf Datenschutz\nDie Begutachtung wurde durch Frau Doktor Mrowka durchgeführt. Sehr nette Ärztin. Ich konnte die Praxis nach kurzer Zeit glücklich verlassen. Herzlichen Dank für die gute Betreuung.\nIch werde die Praxis weiterempfehlen.",
+      "time": 1783099057,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Tandetzke",
+      "author_url": "https://www.google.com/maps/contrib/117066830933739340403/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEOLltYcCygKWGAn3o7BuLN3TQvmlDvgMEOc0snAy9IoE-AQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super schneller Termin..Ärztin machte sehr kompetenten Eindruck",
+      "time": 1783075417,
+      "translated": false
+    },
+    {
+      "author_name": "White Sharky",
+      "author_url": "https://www.google.com/maps/contrib/115383854450676669642/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZwvQ6DSubtTPItl0LsFz1GJu5PfFslUMDAxBR3yKz1ex1zyw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783069537,
+      "translated": false
+    },
+    {
+      "author_name": "Mahir Çayan",
+      "author_url": "https://www.google.com/maps/contrib/104882708515044489053/reviews",
+      "language": "tr",
+      "original_language": "tr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1FNlyiKs4qGbyAU6G1HFAHOhINnWrWLFkcaS1eXRI_FYJ7cg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Personeller hiç güler yüzlü değil.termin almak cok sıkıntı.",
+      "time": 1782978035,
+      "translated": false
+    },
+    {
       "author_name": "M B",
       "author_url": "https://www.google.com/maps/contrib/109866181700537556680/reviews",
       "language": "de",
@@ -902,11 +948,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2312,
+  "reviewCount": 2316,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-01T08:48:28.491Z"
+  "lastUpdated": "2026-07-04T07:44:45.674Z"
 }

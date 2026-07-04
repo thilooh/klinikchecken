@@ -55,6 +55,16 @@
       "translated": false
     },
     {
+      "author_name": "Beata Galant",
+      "author_url": "https://www.google.com/maps/contrib/111020275864522251603/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpGtNV2-zOAfkN9BiLxwQPbydk3wKFfpBz6iF83KvanIyTOyYG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781861226,
+      "translated": false
+    },
+    {
       "author_name": "Tine Schmidt",
       "author_url": "https://www.google.com/maps/contrib/110892776138353803338/reviews",
       "language": "de",
@@ -74,6 +84,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnY5cww6PvoWQG40SDorm-MT_JRSPtNqtar8vfcFZBFDPbHFs7=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Die Praxis ist sehr zu empfehlen. Dr. Jablonski ist ein absolut kompetenter und sehr sympathischer Arzt und auch das Team ist spitze bis auf eine Schwester die leider sehr forsch und ungehalten ist. Durch Gespräche im Wartezimmer wurde klar das sie wohl schon immer so ist und da ich selber im Gesundheitswesen arbeite ist so ein Verhalten für mich völlig unverständlich. Vielleicht sollte da mal ein Gespräch mit der Betroffenen stattfinden.",
+      "time": 1781782645,
+      "translated": false
+    },
+    {
+      "author_name": "Tine Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/110892776138353803338/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnY5cww6PvoWQG40SDorm-MT_JRSPtNqtar8vfcFZBFDPbHFs7=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Die Praxis ist sehr zu empfehlen. Dr. Jablonski ist ein absolut kompetenter und sehr sympathischer Arzt und auch das Team ist spitze bis auf eine Schwester die leider sehr forsch und ungehalten ist. Durch Gespräche im Wartezimmer wurde klar das sie wohl schon immer so ist und da ich selber im Gesundheitswesen arbeite ist so ein Verhalten für mich völlig unverständlich. Vielleicht sollte da mal ein Gespräch mit der Betroffenen stattfinden.",
       "time": 1781782645,
       "translated": false
@@ -134,6 +156,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5LEvdBcYh3n6QgXHx9cfrsHUd_XjoZ5p9gcXoAcEHo-ycnQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr nettes und geduldiges Team, danke das es euch gibt.",
+      "time": 1780474443,
+      "translated": false
+    },
+    {
+      "author_name": "Gabi Mueller",
+      "author_url": "https://www.google.com/maps/contrib/100812616948701280829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5LEvdBcYh3n6QgXHx9cfrsHUd_XjoZ5p9gcXoAcEHo-ycnQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr nettes und geduldiges Team, danke das es euch gibt.",
       "time": 1780474443,
       "translated": false
@@ -374,5 +408,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:40.301Z"
+  "lastUpdated": "2026-07-04T07:44:56.818Z"
 }

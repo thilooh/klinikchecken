@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "Katja Randau",
+      "author_url": "https://www.google.com/maps/contrib/117804388090801473684/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcf1-5uUNWKxtILsUkz7UDfgBLoBIYy9n5ht8uEOH9otnD=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1782486255,
+      "translated": false
+    },
+    {
       "author_name": "Magnus Uhlenbrock",
       "author_url": "https://www.google.com/maps/contrib/105144919073498955983/reviews",
       "language": "de",
@@ -30,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5DDlGNsE5YUCTWa_KuWpGxbLF02RAqWaPQm4WQAPERYPnnMQ1=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wir sind sehr zufrieden mit der Behandlung unseres 4–jährigen Sohnes bei Frau Dr. Stier. Eine tolle Ärztin, die sich viel Zeit nimmt und auf die kleinen Patienten eingeht. Die gesamte Abteilung der Kindergesichtschirurgie ist sehr freundlich und es gibt zügige Abläufe. Vielleicht könnte man noch aktivere Werbung für die Kindergesichtschirugie machen bei Dermatologen oder Kinderärzten. Wir selbst sind nur durch eigene intensive Suche auf das Dermatologikum Hamburg gestoßen. Leider gibt es im Bereich der plastischen Kindergesichtschirurgie nicht viele Anlaufstellen und als Kassenpatient wartet man in vielen Abteilungen sehr lange auf Vorgespräche und Op-Termine, weil die Abteilungen überlaufen sind. Wir hoffen, dass die Kindergesichtschirurgie noch lange erhalten bleibt und sogar ausgebaut wird.",
+      "time": 1782421081,
+      "translated": false
+    },
+    {
+      "author_name": "Magnus Uhlenbrock",
+      "author_url": "https://www.google.com/maps/contrib/105144919073498955983/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5DDlGNsE5YUCTWa_KuWpGxbLF02RAqWaPQm4WQAPERYPnnMQ1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Wir sind sehr zufrieden mit der Behandlung unseres 4–jährigen Sohnes bei Frau Dr. Stier. Eine tolle Ärztin, die sich viel Zeit nimmt und auf die kleinen Patienten eingeht. Die gesamte Abteilung der Kindergesichtschirurgie ist sehr freundlich und es gibt zügige Abläufe. Vielleicht könnte man noch aktivere Werbung für die Kindergesichtschirugie machen bei Dermatologen oder Kinderärzten. Wir selbst sind nur durch eigene intensive Suche auf das Dermatologikum Hamburg gestoßen. Leider gibt es im Bereich der plastischen Kindergesichtschirurgie nicht viele Anlaufstellen und als Kassenpatient wartet man in vielen Abteilungen sehr lange auf Vorgespräche und Op-Termine, weil die Abteilungen überlaufen sind. Wir hoffen, dass die Kindergesichtschirurgie noch lange erhalten bleibt und sogar ausgebaut wird.",
       "time": 1782421081,
       "translated": false
@@ -708,5 +730,5 @@
   "rating": 4.4,
   "reviewCount": 433,
   "summary": [],
-  "lastUpdated": "2026-07-01T08:48:21.270Z"
+  "lastUpdated": "2026-07-04T07:44:39.015Z"
 }

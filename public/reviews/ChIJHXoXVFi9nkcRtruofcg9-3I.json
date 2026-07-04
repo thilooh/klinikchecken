@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "der Friedberger",
+      "author_url": "https://www.google.com/maps/contrib/112551451698674827264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7I3SZFHr6BD4XU_w9CTMgMbWL3D-aIbSntf990XeKo7Yljq1D=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Vincentinum zusammen mit dem MVZ hat sich inzwischen mit seinen vielen guten Fachärzten und anderen medizinischen Einrichtungen zu einem tollen Versorgungszentrum gemausert.",
+      "time": 1783009252,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Klaus",
+      "author_url": "https://www.google.com/maps/contrib/111818914163256388359/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNnfX-3RSsdrBVVEf8evojCrEYJ4DCUTZEiTngVSwd44Qlkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782994108,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Wojciechowski",
       "author_url": "https://www.google.com/maps/contrib/110429625827940267907/reviews",
       "language": "de",
@@ -22,6 +44,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Keine Ahnung , war hier noch nicht",
       "time": 1782639658,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Klein",
+      "author_url": "https://www.google.com/maps/contrib/115656167261959936059/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK61sh4ro0Gfg24-fkvCHEfnYve5MSG_a7roTkvtZQ0BOAVaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr kompetenter Arzt, freundliches, zuvorkommendes Klinikpersonal. Sehr zu empfehlen.\nChefarzt Dr. Meinhold Tobias, Phlebologie und Venenchirurgie.",
+      "time": 1782292607,
       "translated": false
     },
     {
@@ -686,11 +720,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 407,
+  "reviewCount": 404,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-01T08:48:33.607Z"
+  "lastUpdated": "2026-07-04T07:44:50.531Z"
 }

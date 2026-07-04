@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gelika",
+      "author_url": "https://www.google.com/maps/contrib/116175072112924442138/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVM8o7DliEc7WQR6qTaokBqHvLjwAIy9-nMcnpmnoIJ-mqewEsi=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut empfehlenswert!\nIch habe online von der neuesten Generation der KI-gestützten Body-Mapping-Technologie zur Hautkrebsvorsorge gehört und hatte heute meinen Termin. Ich bin restlos begeistert – dank dieser Technik wird wirklich keine Hautveränderung übersehen. Das Personal war zudem überaus freundlich. Ich kann die Praxis und diese Methode nur wärmstens empfehlen!",
+      "time": 1783009097,
+      "translated": false
+    },
+    {
       "author_name": "Ulrike Lola",
       "author_url": "https://www.google.com/maps/contrib/111513011297622217714/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlxRV1dU7TiNEiW2Gvju5NxqZnJ_61Z1U2DD8XEdKDbcaCuA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr professionelle und individuelle Beratung und Ausführung seitens Dr.Hermans in meiner Botox und Hyaluronbehandlung.\nBin sehr zufrieden und das Ergebnis top.\nSehr zu empfehlen.",
+      "time": 1781725661,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie Betzer",
+      "author_url": "https://www.google.com/maps/contrib/114443304070244898926/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlxRV1dU7TiNEiW2Gvju5NxqZnJ_61Z1U2DD8XEdKDbcaCuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr professionelle und individuelle Beratung und Ausführung seitens Dr.Hermans in meiner Botox und Hyaluronbehandlung.\nBin sehr zufrieden und das Ergebnis top.\nSehr zu empfehlen.",
       "time": 1781725661,
       "translated": false
@@ -698,11 +722,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 312,
+  "reviewCount": 313,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-01T08:48:55.580Z"
+  "lastUpdated": "2026-07-04T07:45:11.311Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jennifer Rösner",
+      "author_url": "https://www.google.com/maps/contrib/110163229806960949361/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX27FW24cVuhAGy3YRsoNF5gxOpyztQY0VB-pFSctIgZiTVOu4Bjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Lange auf den Termin gewartet um eine Zweitmeinung zum Lipödem einzuholen. Tja sehr unangenehm, denn der Arzt ist so von sich überzeugt und spricht abwertend mit einem. Er könne nichts bewerten und ich müsste erstmal Gewicht abnehmen. Nach meiner Aussage das ich mich in der Antihormontherapie befinde und kaum Gewicht verliere trotz verschiedener Maßnahmen, wurde gesagt dann solle ich mal über die Abnehmspritze nachdenken. Sehr unangenehm diese Praxis. Ich empfehle niemandem dort hinzugehen.",
+      "time": 1782977013,
+      "translated": false
+    },
+    {
       "author_name": "Kathrin Walbrecht",
       "author_url": "https://www.google.com/maps/contrib/116547061479005658754/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEXDaeGKcJUFG2Y5tX6aAYWURcoYkUCeuqfat3WCsDJHYQFg=s128-c0x00000000-cc-rp-mo-ba2",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEXDaeGKcJUFG2Y5tX6aAYWURcoYkUCeuqfat3WCsDJHYQFg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1781845867,
+      "translated": false
+    },
+    {
+      "author_name": "Kathrin Walbrecht",
+      "author_url": "https://www.google.com/maps/contrib/116547061479005658754/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEXDaeGKcJUFG2Y5tX6aAYWURcoYkUCeuqfat3WCsDJHYQFg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1781845867,
       "translated": false
@@ -406,11 +428,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 79,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:45.944Z"
+  "lastUpdated": "2026-07-04T07:45:02.175Z"
 }

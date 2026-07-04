@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Basak Özdemir",
+      "author_url": "https://www.google.com/maps/contrib/103585613973229221228/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBNVjzHzONv3N_NXifMzIwwysAJIYSA8FNIldCVIZuzhSPsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum zufrieden mit meinem Besuch in der Praxis. Herr Silber hat sich sehr viel Zeit für mich genommen und mich äußerst ausführlich und verständlich beraten. Man merkt sofort, dass er ein sehr kompetenter, professioneller und fachlich hervorragend ausgebildeter Arzt ist. Er beantwortet alle Fragen mit großer Ruhe und viel Fachwissen, sodass man sich bestens aufgehoben fühlt.\n\nDas gesamte Praxisteam war freundlich und die Atmosphäre sehr angenehm. Ich habe mich vom ersten Moment an wohlgefühlt. Ich kann Herrn Silber und die gesamte Praxis uneingeschränkt weiterempfehlen und werde bei Bedarf jederzeit wiederkommen. Vielen Dank für die hervorragende Betreuung!",
+      "time": 1782993375,
+      "translated": false
+    },
+    {
       "author_name": "Justyna Piotrowska",
       "author_url": "https://www.google.com/maps/contrib/100890023655789138607/reviews",
       "language": "en",
@@ -410,11 +422,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 81,
+  "reviewCount": 82,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:59.951Z"
+  "lastUpdated": "2026-07-04T07:45:15.426Z"
 }

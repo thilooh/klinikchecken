@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jens Petrasek",
+      "author_url": "https://www.google.com/maps/contrib/109542613939939881617/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMo20AnZeCtCAC8cHrYuArp2EG3wHdZowAD6NDuz7lSaPp7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr Kluge und sein Team sind freundlich und zuvor kommend. Dr. Kluge erklärt alles sehr gut. Ich kann diese Praxis nur weiter empfehlen. Ich war schon mehrere Male dort und immer hatte man ein offenes Ohr für mich, danke",
+      "time": 1782991863,
+      "translated": false
+    },
+    {
       "author_name": "Ronald Wolff",
       "author_url": "https://www.google.com/maps/contrib/101892494849515802202/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrwgyRIKC6dCswNyMpAjk5jCBfCNq_Y0fpzdZY4LM9GKuxVQ=s128-c0x00000000-cc-rp-mo-ba6",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrwgyRIKC6dCswNyMpAjk5jCBfCNq_Y0fpzdZY4LM9GKuxVQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781168791,
+      "translated": false
+    },
+    {
+      "author_name": "Ronald Wolff",
+      "author_url": "https://www.google.com/maps/contrib/101892494849515802202/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrwgyRIKC6dCswNyMpAjk5jCBfCNq_Y0fpzdZY4LM9GKuxVQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1781168791,
       "translated": false
@@ -74,6 +96,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiCoBZXB7WBtBH3SCUDYiY8jaCyITTxaLor5Wj5blxWM_mgZA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Top Terminmanagment ohne erwähnenswert Wartezeiten. Freundlicher, sympathischer und fachkundiger Doktor. Danke für die Unterstützung!",
+      "time": 1780537418,
+      "translated": false
+    },
+    {
+      "author_name": "Hoppsie",
+      "author_url": "https://www.google.com/maps/contrib/112100137847931963076/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiCoBZXB7WBtBH3SCUDYiY8jaCyITTxaLor5Wj5blxWM_mgZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Top Terminmanagment ohne erwähnenswert Wartezeiten. Freundlicher, sympathischer und fachkundiger Doktor. Danke für die Unterstützung!",
       "time": 1780537418,
       "translated": false
@@ -334,11 +368,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 98,
+  "reviewCount": 99,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:39.811Z"
+  "lastUpdated": "2026-07-04T07:44:56.361Z"
 }

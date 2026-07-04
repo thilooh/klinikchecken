@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Sara Ivanov",
+      "author_url": "https://www.google.com/maps/contrib/108663403483584869334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1A-J5i4DeTOy-ADyGsK1IP1ILAGDLJz1Q8UB3nQUxp42rkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor sechs Monaten zum ersten Mal bei Frau Dr. Steinert für eine Botox-Behandlung (3 Zonen) und bin rundum begeistert. Frau Dr. Steinert hat sich viel Zeit für mich genommen, ist auf meine Wünsche eingegangen und hat mich sehr einfühlsam und kompetent beraten.\n\nMit dem Ergebnis der ersten Behandlung war ich mehr als zufrieden. Ich hatte mir gar nicht allzu viel erhofft, aber das Resultat hat meine Erwartungen sogar übertroffen. Es sah sehr natürlich aus und genau so, wie ich es mir gewünscht hatte.\nUnd es hat sehr gut gehalten.\n\nHeute war ich bereits zum zweiten Mal zur Behandlung bei Frau Dr. Steinert und habe mich wieder sehr gut aufgehoben gefühlt. Auch das gesamte Team ist sehr freundlich und sorgt für eine angenehme Atmosphäre in der Praxis.\n\nIch bin wirklich froh, eine so erfahrene, sympathische und vertrauensvolle Ärztin gefunden zu haben. Ich kann Frau Dr. Steinert von Herzen weiterempfehlen.\nDanke 🌸",
+      "time": 1782986436,
+      "translated": false
+    },
+    {
+      "author_name": "S Rr",
+      "author_url": "https://www.google.com/maps/contrib/102704698733449425674/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPKUPfMYQj9R9N5r99r2-mH1KSymRLJVHsL4TyR4MS6Foe9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Untersuchung bei Dr. Grenzner selbst war in Ordnung und nicht schlimm. Ich hatte jedoch von Anfang an deutlich gesagt, dass ich zunächst nur wissen möchte, was die Ursache meiner Beschwerden ist, und vorerst keine Behandlung wünsche, weil ich große Angst habe.\n\nLeider hatte ich ab diesem Moment das Gefühl, dass auf meine Ängste überhaupt nicht eingegangen wurde. Statt Verständnis und Einfühlungsvermögen bekam ich eher den Eindruck, dass dafür kein Verständnis vorhanden war. Im Gespräch wurde sogar sinngemäß infrage gestellt, warum ich überhaupt gekommen sei, wenn ich mich zunächst nicht behandeln lassen möchte. Das hat mich sehr unverstanden und nicht willkommen fühlen lassen.\n\nGerade bei einem so sensiblen Fachgebiet hätte ich mir mehr Empathie und einen respektvollen Umgang mit den Sorgen von Patientinnen und Patienten gewünscht. Schade, denn die Untersuchung an sich war völlig in Ordnung – die zwischenmenschliche Erfahrung leider nicht.",
+      "time": 1782927824,
+      "translated": false
+    },
+    {
+      "author_name": "Kinga Mihaly",
+      "author_url": "https://www.google.com/maps/contrib/117924381466801383377/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAIczGWvpPHw3Q9Wfk4pgJgEzqu0vvlpgTAw2MDfBhymF5VPNg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782906560,
+      "translated": false
+    },
+    {
       "author_name": "Hifen Sido",
       "author_url": "https://www.google.com/maps/contrib/101266769212376164732/reviews",
       "language": "de",
@@ -556,11 +590,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 152,
+  "reviewCount": 155,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-01T08:48:35.102Z"
+  "lastUpdated": "2026-07-04T07:44:51.947Z"
 }

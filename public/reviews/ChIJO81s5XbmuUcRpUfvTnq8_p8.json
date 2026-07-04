@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Lena",
+      "author_url": "https://www.google.com/maps/contrib/100375808704815866871/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcBbYPlF4_-ypihSqcofl4chi6eMlTqV5u0PBjuEVDKqK1Wg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783104671,
+      "translated": false
+    },
+    {
       "author_name": "Jörg Temming",
       "author_url": "https://www.google.com/maps/contrib/106408037209225541839/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvsuBd6Yg8DumE-V3pmXpqVrUlKVaQa38QOwIOvWVlvMvOZmeQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Kompetentes und routiniertes Team, Behandlung war erfolgreich.",
+      "time": 1782298878,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg Temming",
+      "author_url": "https://www.google.com/maps/contrib/106408037209225541839/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvsuBd6Yg8DumE-V3pmXpqVrUlKVaQa38QOwIOvWVlvMvOZmeQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Kompetentes und routiniertes Team, Behandlung war erfolgreich.",
       "time": 1782298878,
       "translated": false
@@ -296,11 +318,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 76,
+  "reviewCount": 77,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-01T08:48:51.980Z"
+  "lastUpdated": "2026-07-04T07:45:07.889Z"
 }

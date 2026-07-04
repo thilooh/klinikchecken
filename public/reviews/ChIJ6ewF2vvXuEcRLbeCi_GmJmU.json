@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Reiner Kranich",
+      "author_url": "https://www.google.com/maps/contrib/103094291607438854971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGu1iJf4GO9oMfGkaeO2wPN3uvjlThxbygaSZNEw_X0tpJitrl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783099406,
+      "translated": false
+    },
+    {
+      "author_name": "Phil Vox",
+      "author_url": "https://www.google.com/maps/contrib/111126919293470592232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkXCCB0BSewoP2i1nEDzosOnWZavB08hI08IsEvWMRx9QR2Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Einfach und unkompliziert, komme gerne wieder.",
+      "time": 1783006742,
+      "translated": false
+    },
+    {
+      "author_name": "Flex",
+      "author_url": "https://www.google.com/maps/contrib/113442007542302163560/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXIERWk1kuFgGjcdD0kXGr-QrYI57_3PBCOHnklpQhNDl1HW79=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin heute dort gewesen weil ich tierisch juckende Haut hatte mit einem großen Ekzem. Ich wollte die Ursache wissen. Nach knapp 50min Warten war ich dann dran, Frau Dr. Anna Dith kam nach weiteren 5min ins Zimmer. Man hat direkt gemerkt das es schnell schnell gehen muss. Sie konnte zwar schnell sagen was Sache ist und hat mir eine Salbe verschrieben, allerdings hat das alles so \"Ja ja, bla bla, mach hinne keine Zeit\" gewirkt. War echt nicht schön. Werde dort nicht nochmal hin gehen!",
+      "time": 1783004589,
+      "translated": false
+    },
+    {
+      "author_name": "Manfred Viola",
+      "author_url": "https://www.google.com/maps/contrib/101994470868651546045/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6Un8zzY3LC3TAz_vu_eJfB55qOurlq2z4PsLXbArFG9ajSA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr engagierte und versierte Ärztin - mein großes Kompliment. Kurzfristig konnten alle meine Wünsche erfüllt werden. Vielen Dank dafür - auch für die sehr erfolgreiche, ausgedehnte Zusatzbehandlung, die mit sehr viel Sorgfalt ausgeführt wurde. Ebenfalls ein großes Lob und Dankeschön für die äußerst engagierte und liebe Assistentin. Zu euch komme ich herzlich gerne wieder - wir sehen uns im Herbst. :)",
+      "time": 1782989257,
+      "translated": false
+    },
+    {
       "author_name": "Kulla Gaitanidou",
       "author_url": "https://www.google.com/maps/contrib/111068332277845369576/reviews",
       "language": "de",
@@ -578,11 +624,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 225,
+  "reviewCount": 229,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:31.679Z"
+  "lastUpdated": "2026-07-04T07:44:48.687Z"
 }

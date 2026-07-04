@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "C",
+      "author_url": "https://www.google.com/maps/contrib/113206627109683527321/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpad9A9WFEuILvVtQl8TPOwf4Q47H7aa_Z1qyNzBcj_bB-CA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781724027,
+      "translated": false
+    },
+    {
       "author_name": "Stefan",
       "author_url": "https://www.google.com/maps/contrib/108189089384836710747/reviews",
       "language": "de",
@@ -40,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_nCw1vS3J7N9dUfGC_r3Mv8Qddo1n5nccus6kAW-d0Dqp9A=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "War heute das erste mal dort und kann die Praxis und die Ärztin absolut empfehlen. Ich bekam detaillierte Infos, aber dennoch lief alles schnell, effizient und immer sehr freundlich ab. Praxis-Organisation läuft scheinbar auch gut, weil Wartezeit hatte ich keine.",
+      "time": 1781709111,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan",
+      "author_url": "https://www.google.com/maps/contrib/108189089384836710747/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_nCw1vS3J7N9dUfGC_r3Mv8Qddo1n5nccus6kAW-d0Dqp9A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "War heute das erste mal dort und kann die Praxis und die Ärztin absolut empfehlen. Ich bekam detaillierte Infos, aber dennoch lief alles schnell, effizient und immer sehr freundlich ab. Praxis-Organisation läuft scheinbar auch gut, weil Wartezeit hatte ich keine.",
       "time": 1781709111,
       "translated": false
@@ -534,5 +556,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-01T08:48:34.105Z"
+  "lastUpdated": "2026-07-04T07:44:51.020Z"
 }

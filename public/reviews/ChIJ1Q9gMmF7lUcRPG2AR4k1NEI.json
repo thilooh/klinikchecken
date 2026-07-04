@@ -61,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "AnFi",
+      "author_url": "https://www.google.com/maps/contrib/109951440294874908852/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv6VtX4DKF9pHD3EVRepwfEudIZC5wcTkbXzy5vid3s07wUCg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Dr. Jochem ist ein sehr netter und kompetenter Arzt, der sich viel Zeit nimmt.\nDie Praxis ist sehr gut organisiert, sodass es kaum Wartezeit gibt.\nAuch die Mitarbeiter sind sehr nett.\nFür den Ruhestand wünsche ich Dr. Jochem alles Gute!\nHerzliche Grüße!",
+      "time": 1781112275,
+      "translated": false
+    },
+    {
       "author_name": "Manfred Leiendecker",
       "author_url": "https://www.google.com/maps/contrib/114045800313058629351/reviews",
       "language": "de",
@@ -116,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-3ZEcUapODdhz3AXNkoRT0EOBWh_BNquZu09eQnnIu-pLdF0=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich habe kurzfristig einen Termin bekommen. Die Medizinischen Fachangestellten und der Arzt waren sehr kompetent und freundlich. Während der Untersuchung wurden die Befunde angesprochen und eine erste Empfehlung ausgesprochen. Das war für mich als Patient in diesem Falle sehr beruhigend, und ich muss nicht auf den nächsten Hausbesuch achten. Vielen Dank an das gesamte Praxisteam!",
+      "time": 1780324669,
+      "translated": false
+    },
+    {
+      "author_name": "Manfred Leiendecker",
+      "author_url": "https://www.google.com/maps/contrib/114045800313058629351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-3ZEcUapODdhz3AXNkoRT0EOBWh_BNquZu09eQnnIu-pLdF0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich habe kurzfristig einen Termin bekommen. Die Medizinischen Fachangestellten und der Arzt waren sehr kompetent und freundlich. Während der Untersuchung wurden die Befunde angesprochen und eine erste Empfehlung ausgesprochen. Das war für mich als Patient in diesem Falle sehr beruhigend, und ich muss nicht auf den nächsten Hausbesuch achten. Vielen Dank an das gesamte Praxisteam!",
       "time": 1780324669,
       "translated": false
@@ -352,5 +376,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:49:02.155Z"
+  "lastUpdated": "2026-07-04T07:45:17.447Z"
 }

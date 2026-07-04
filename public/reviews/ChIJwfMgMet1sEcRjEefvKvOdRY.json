@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Lennart Fischer",
+      "author_url": "https://www.google.com/maps/contrib/106760390792756855109/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk0ICawjHL_ihJOnt97c9RceaMlFcVHtfdTNemahe-dtfN1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super pünktlich, freundlich und präzise!\nTop top Service, ganz klare Empfehlung!",
+      "time": 1783001035,
+      "translated": false
+    },
+    {
       "author_name": "Antonios Giourgas",
       "author_url": "https://www.google.com/maps/contrib/109353008312475500583/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmKQ4_BA9d_F56L0RP-6q-CZ0sUeMwFCu4Ln3Y2ZauGyaqOcge=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782457252,
+      "translated": false
+    },
+    {
+      "author_name": "Antonios Giourgas",
+      "author_url": "https://www.google.com/maps/contrib/109353008312475500583/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmKQ4_BA9d_F56L0RP-6q-CZ0sUeMwFCu4Ln3Y2ZauGyaqOcge=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1782457252,
       "translated": false
@@ -174,6 +196,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaXSPHo9psgLnpLzT7XOCH3fKBxBR99njEnIR7_ornjTKLNHjt=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Telefonisch nicht erreichbar!!!",
+      "time": 1780566660,
+      "translated": false
+    },
+    {
+      "author_name": "l0511l",
+      "author_url": "https://www.google.com/maps/contrib/106554370745229547684/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaXSPHo9psgLnpLzT7XOCH3fKBxBR99njEnIR7_ornjTKLNHjt=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Telefonisch nicht erreichbar!!!",
       "time": 1780566660,
       "translated": false
@@ -588,11 +622,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 157,
+  "reviewCount": 158,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:25.037Z"
+  "lastUpdated": "2026-07-04T07:44:42.449Z"
 }

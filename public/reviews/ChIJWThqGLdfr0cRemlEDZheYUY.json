@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Denny Keitel",
+      "author_url": "https://www.google.com/maps/contrib/115823051889110603998/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIy3RPL6bjquQZ6Tz06NXPXt1lOsKMj23yQ92-elvpQgQoz7A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Erstklassige Versorgung, sehr nette Ärzte und Pfleger/Schwestern. Das Zimmer ist modern und freundlich eingerichtet,  Fernseher und ein kleiner Snack auch als ambulanter Patient sind hier inklusive. Ein Lichtblick in der Medizinversorgungslandschaft",
+      "time": 1782988905,
+      "translated": false
+    },
+    {
+      "author_name": "Sabrina Grunert",
+      "author_url": "https://www.google.com/maps/contrib/101795731327653587476/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEQY3pokVpjf2LcI4EsNlrzJmy3xaMWA1QqKstXNJS1MKo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782974433,
+      "translated": false
+    },
+    {
       "author_name": "karl kuehne",
       "author_url": "https://www.google.com/maps/contrib/103939019164790510950/reviews",
       "language": "de",
@@ -25,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Wiebke Albert",
+      "author_url": "https://www.google.com/maps/contrib/107496544800963500617/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH9htyMlxqEptCD0YH41hh48_qkL01l4N5WE61JzCpt6hYcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Alles sehr angenehm 😊",
+      "time": 1782383292,
+      "translated": false
+    },
+    {
       "author_name": "Maike Mitterwald",
       "author_url": "https://www.google.com/maps/contrib/111847953190809680901/reviews",
       "language": "de",
@@ -32,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOX5lBAS0EjTsknAci7oTw4RtXgpVqktMKzJQpuyJTyAR1Vg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sooo nette Schwestern und Ärzte hier im ambulanten operationszentrum.\nSuper Zimmer.....einfach klasse.\nHeutzutage gibt es das selten. Trotz der Hitze sind alle super gelaunt.😊",
+      "time": 1782378238,
+      "translated": false
+    },
+    {
+      "author_name": "Maike Mitterwald",
+      "author_url": "https://www.google.com/maps/contrib/111847953190809680901/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOX5lBAS0EjTsknAci7oTw4RtXgpVqktMKzJQpuyJTyAR1Vg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sooo nette Schwestern und Ärzte hier im ambulanten operationszentrum.\nSuper Zimmer.....einfach klasse.\nHeutzutage gibt es das selten. Trotz der Hitze sind alle super gelaunt.😊",
       "time": 1782378238,
       "translated": false
@@ -702,11 +748,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 454,
+  "reviewCount": 456,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-01T08:48:27.739Z"
+  "lastUpdated": "2026-07-04T07:44:44.986Z"
 }

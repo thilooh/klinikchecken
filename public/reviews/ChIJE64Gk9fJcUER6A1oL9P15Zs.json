@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "H N.",
+      "author_url": "https://www.google.com/maps/contrib/117119541721752201210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyDKW2lLVP-t4HnmwOt745Zalb4ocJoR6-laCQAOkCTs-ghQQv=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Behandlung war insgesamt gut und ich habe mich bei den meisten Mitarbeiterinnen gut aufgehoben gefühlt. Die Schwestern waren sehr freundlich und hilfsbereit.\nTrotzdem hatte ich nicht immer das Gefühl, mit meinen Sorgen und Beschwerden ernst genommen zu werden, was bei mir einen etwas zwiespältigen Eindruck hinterlassen hat.\nLeider habe ich die Dame am Empfang als recht unfreundlich und genervt erlebt daher für die Dame 1 🌟 Da ich ohnehin in der Nähe war, wusste ich nicht, dass man vorher anrufen muss. Die Kommunikation wirkte teilweise etwas patzig, nicht nur mir gegenüber, sondern auch gegenüber anderen Personen.\nGerade bei den aktuellen Temperaturen wäre es außerdem schön, wenn für wartende Patienten eine Möglichkeit zum Trinken angeboten würde.\nAbgesehen davon war ich mit meinem Besuch zufrieden.",
+      "time": 1782902680,
+      "translated": false
+    },
+    {
       "author_name": "Nici H.",
       "author_url": "https://www.google.com/maps/contrib/117119541721752201210/reviews",
       "language": "de",
@@ -100,6 +112,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4Y1XZGnUxFMdxbTKEiKVOeTfup7HkVtB1L-N5D6e-FKgdLw=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Kompetent, sehr gut organisiert, sehr freundlich",
+      "time": 1781249657,
+      "translated": false
+    },
+    {
+      "author_name": "Axel Müller",
+      "author_url": "https://www.google.com/maps/contrib/116985576791820041769/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4Y1XZGnUxFMdxbTKEiKVOeTfup7HkVtB1L-N5D6e-FKgdLw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Kompetent, sehr gut organisiert, sehr freundlich",
       "time": 1781249657,
       "translated": false
@@ -504,5 +528,5 @@
   "rating": 3.7,
   "reviewCount": 77,
   "summary": [],
-  "lastUpdated": "2026-07-01T08:48:21.503Z"
+  "lastUpdated": "2026-07-04T07:44:39.244Z"
 }

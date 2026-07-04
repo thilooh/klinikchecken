@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Elvira L.",
+      "author_url": "https://www.google.com/maps/contrib/115897798822297855317/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdpgfYQYNaDhK2Zea984gyt0uqnSqu9q71E_5n_cMM52j3wQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783072919,
+      "translated": false
+    },
+    {
+      "author_name": "Onur Dirmandi",
+      "author_url": "https://www.google.com/maps/contrib/112202252090553706234/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXn4wIMCz7nLmxQCpR5m-dNaStAbu7fHd-gtrXLKf5tHuI199u=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Warte seid 9 Monaten auf den Termin jedes mal kan was zwischen und jetzt war ich 5min zu spät was menschlich ist streichen die den termin HS.",
+      "time": 1783064187,
+      "translated": false
+    },
+    {
+      "author_name": "10 حقائق",
+      "author_url": "https://www.google.com/maps/contrib/113489863156679199154/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb1MzUNokhPZpBpIVscu71I3OzG_g7bdYeKZE0Mr586DgzFw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unfreundliche Menschen besonders die in der Anmeldung\n\nMussten wir nicht lange warten dafür hab ich die zwei Sterne gegeben\n\nAnsonsten die Fr. Thönnes ist auch nicht die beste Wahl\n\nHoffe wird in Zukunft besser werden",
+      "time": 1783063183,
+      "translated": false
+    },
+    {
       "author_name": "Reinhard Glenz",
       "author_url": "https://www.google.com/maps/contrib/109371405550111754259/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsJGow3vYB_qD1QWOeK_zFIy_qRSg-90LQpLXYz85APXMBYSPvhQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -707,12 +741,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 377,
+  "rating": 4.3,
+  "reviewCount": 380,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:47.165Z"
+  "lastUpdated": "2026-07-04T07:45:03.324Z"
 }

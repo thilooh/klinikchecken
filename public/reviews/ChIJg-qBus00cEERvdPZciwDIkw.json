@@ -157,6 +157,18 @@
       "translated": false
     },
     {
+      "author_name": "Tanja Olschner",
+      "author_url": "https://www.google.com/maps/contrib/108990623500212235921/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH_QLdIuzRwVdDBBUQIXhYPAITm3t9R7Kj9V2G_2pmfLIKAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Frau Mölders ist eine liebenswerte und kompetente Ärztin, leider bevor man zu ihr kommt, muss man an einer MFA vorbei die sehr unfreundlich ist … Schade",
+      "time": 1772738457,
+      "translated": false
+    },
+    {
       "author_name": "Basel Fakhri",
       "author_url": "https://www.google.com/maps/contrib/100859202274039782930/reviews",
       "language": "de",
@@ -193,6 +205,18 @@
       "translated": false
     },
     {
+      "author_name": "Basel Fakhri",
+      "author_url": "https://www.google.com/maps/contrib/100859202274039782930/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZuy1fNKIqRLwgq4_JofwZiiINMHsN7YYJebfKzc7YjpTySCj8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Dr. Mölders ist eine sehr freundliche und kompetente Ärztin. Sie nimmt sich Zeit für ihre Patienten und erklärt alles während der Untersuchung sehr verständlich. Besonders hilfreich ist, dass sie auch auf Englisch erklärt, was für internationale Patienten sehr angenehm ist. Ich habe mich sehr gut betreut gefühlt und kann sie nur weiterempfehlen.",
+      "time": 1772726851,
+      "translated": false
+    },
+    {
       "author_name": "Nicole-Silke Renner",
       "author_url": "https://www.google.com/maps/contrib/115108748360050845554/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzvVSYKb_xhB4Z_H1POrgcDNQMLAuYAhmSNz8N9h3Mpwr_2FpfAw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -218,6 +242,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzvVSYKb_xhB4Z_H1POrgcDNQMLAuYAhmSNz8N9h3Mpwr_2FpfAw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1772566514,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole-Silke Renner",
+      "author_url": "https://www.google.com/maps/contrib/115108748360050845554/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzvVSYKb_xhB4Z_H1POrgcDNQMLAuYAhmSNz8N9h3Mpwr_2FpfAw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "",
       "time": 1772566514,
       "translated": false
@@ -238,5 +272,5 @@
   "rating": 3.6,
   "reviewCount": 30,
   "summary": [],
-  "lastUpdated": "2026-07-01T08:48:24.300Z"
+  "lastUpdated": "2026-07-04T07:44:41.755Z"
 }

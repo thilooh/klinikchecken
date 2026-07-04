@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Alexandra Basic",
+      "author_url": "https://www.google.com/maps/contrib/111012366030577851320/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdxzqNvENw73jLUGwkiIYojLt1EK7RcoveB4gYWqdLJfpGig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783003943,
+      "translated": false
+    },
+    {
+      "author_name": "Helena Gruse",
+      "author_url": "https://www.google.com/maps/contrib/109855002884527307601/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtmXeUf4fDzGk912aWCe568MdWMkS4FqDqdyr9fTPv4z8rHF9Wvg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782898889,
+      "translated": false
+    },
+    {
+      "author_name": "Sebastian Heinrichs",
+      "author_url": "https://www.google.com/maps/contrib/117571723111220598234/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCiH-gT1AmNsLFX6tUArfAUF0n6gPXeXdqTWSrzGVC7nxHaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn man zum Hautarzt muss, hofft man genau auf so eine Praxis: Mir wurde hier blitzschnell und top geholfen. Die Wartezeit war total human und preislich war es absolut fair. Das gesamte Team, von der Rezeption bis zur Ärztin, ist super freundlich, locker drauf und fachlich absolut kompetent. Vielen Dank für die tolle Betreuung! Nur der eine Tag mehr auf der AU hätte mir geschmeckt 😉",
+      "time": 1782895330,
+      "translated": false
+    },
+    {
+      "author_name": "Henrik Brab",
+      "author_url": "https://www.google.com/maps/contrib/111222632461383212303/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO7JJeDe2Fl8hp3usldh0Rlufaw1ffE9DPtaaKQl__qV_jhw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ewige Wartezeiten…",
+      "time": 1782469595,
+      "translated": false
+    },
+    {
+      "author_name": "Carina Graßmann",
+      "author_url": "https://www.google.com/maps/contrib/102332995223850711884/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoLYcPpL4rtjCw4i6WJgn85iwBedOm1cHx3A0JuLQ6TX2ykg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich befinde mich jetzt seit 2 Jahren in Behandlung beim Herrn Dr. Greiß. Ich bin sehr zufrieden. Man wird freundlich empfangen und es gibt kaum Wartezeiten. Da fahre ich lieber ein paar Kilometer mehr, weiß aber was ich habe.",
+      "time": 1782374525,
+      "translated": false
+    },
+    {
       "author_name": "Angelina Hack",
       "author_url": "https://www.google.com/maps/contrib/114109514777241122736/reviews",
       "language": "de",
@@ -633,12 +689,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 247,
+  "rating": 3.8,
+  "reviewCount": 423,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-07-01T08:48:53.671Z"
+  "lastUpdated": "2026-07-04T07:45:09.475Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andrea Schumacher",
+      "author_url": "https://www.google.com/maps/contrib/115394530115481195935/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPkQBF9DSGjgAgCq7dBxvxNydoWWea9Gh8c4Wc6JjLUt9Mfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Team! Frau Dr.Haut ist sehr kompetent und immer freundlich man kann diese Praxis nur empfehlen.",
+      "time": 1782929505,
+      "translated": false
+    },
+    {
       "author_name": "Uwe E.",
       "author_url": "https://www.google.com/maps/contrib/114133152013961890899/reviews",
       "language": "de",
@@ -694,5 +706,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-01T08:49:06.041Z"
+  "lastUpdated": "2026-07-04T07:45:21.045Z"
 }

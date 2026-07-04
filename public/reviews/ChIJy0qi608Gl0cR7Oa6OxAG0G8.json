@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Monica Lemke",
+      "author_url": "https://www.google.com/maps/contrib/105218943826084368990/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_ujEefBeWoc3rBMp9fzJ9KbiZYux56wxsJmnUHEOIpG5Oxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an Herrn Dr. Herrera Calvo und Frau Persohn. Sie waren so einfühlsam und beruhigend. Herr Dr. Herrera Calvo nimmt sich sehr viel Zeit und klärt sehr gut auf. Ich musste mir einiges per Laser entfernen lassen und war sehr ängstlich. Frau Persohn und Herr Dr. Herrera Calvo nahmen mir komplett die Angst.",
+      "time": 1783095558,
+      "translated": false
+    },
+    {
       "author_name": "G. von H.",
       "author_url": "https://www.google.com/maps/contrib/104988475992067732762/reviews",
       "language": "de",
@@ -84,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTO6iPIGT6LVP-BBcL6cp4U4gAVxQQtabMj9SIm7oWca73DSLyfQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1780598234,
+      "translated": false
+    },
+    {
+      "author_name": "Johannes Hermann",
+      "author_url": "https://www.google.com/maps/contrib/100934917203328007278/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTO6iPIGT6LVP-BBcL6cp4U4gAVxQQtabMj9SIm7oWca73DSLyfQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1780598234,
       "translated": false
@@ -144,6 +166,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSk6l5C1A_U5ti4sVR-JiTOSqT9GCdDX9ztk0ck4f0vQpw4kQ9=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Nehmen keine neue Kunden mehr an....",
+      "time": 1780323117,
+      "translated": false
+    },
+    {
+      "author_name": "『SYR』 HAMZAツ",
+      "author_url": "https://www.google.com/maps/contrib/114112477526349745812/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSk6l5C1A_U5ti4sVR-JiTOSqT9GCdDX9ztk0ck4f0vQpw4kQ9=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Nehmen keine neue Kunden mehr an....",
       "time": 1780323117,
       "translated": false
@@ -676,5 +710,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-01T08:48:36.554Z"
+  "lastUpdated": "2026-07-04T07:44:53.361Z"
 }

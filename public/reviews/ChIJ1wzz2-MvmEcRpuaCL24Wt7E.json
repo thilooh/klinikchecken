@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mustafa Özkan",
+      "author_url": "https://www.google.com/maps/contrib/104001179417057660393/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA6yKdo0A09ITORtmSdv7MiYW9r2ErM8XmZ51rWdnNr_k2eQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles bestens super tolle Arzt .",
+      "time": 1783063902,
+      "translated": false
+    },
+    {
       "author_name": "G. M.",
       "author_url": "https://www.google.com/maps/contrib/106642778001677157280/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb09tF04vGonaUnh_tUrKoOuwCY379J2mjNnCeHykZsjIG5g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich Anfang Mai unter \"das Messer\"  von Dr. Able wegen einer Venen OP am rechten Bein vertrauensvoll begeben - und bin nicht enttäuscht worden. Im Gegenteil: das OP Ergebnis war sehr gut, alles gut verheilt, nahezu schmerzfreier Verlauf. Der Arzt Dr. Able macht einen sehr kompetenten Eindruck und ist sehr freundlich und  nett....volle Punkt/Sternezahl",
+      "time": 1782461247,
+      "translated": false
+    },
+    {
+      "author_name": "G. M.",
+      "author_url": "https://www.google.com/maps/contrib/106642778001677157280/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb09tF04vGonaUnh_tUrKoOuwCY379J2mjNnCeHykZsjIG5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe mich Anfang Mai unter \"das Messer\"  von Dr. Able wegen einer Venen OP am rechten Bein vertrauensvoll begeben - und bin nicht enttäuscht worden. Im Gegenteil: das OP Ergebnis war sehr gut, alles gut verheilt, nahezu schmerzfreier Verlauf. Der Arzt Dr. Able macht einen sehr kompetenten Eindruck und ist sehr freundlich und  nett....volle Punkt/Sternezahl",
       "time": 1782461247,
       "translated": false
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy07CoZfeqOqad83PhKHeVC9zGnOXVtpiuK4IKd09hde3XXQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Meine Schwiegermama hatte einen Termin bei Dr. Able.\nKurzum Top Arzt, nimmt sich Zeit für den Patienten, sehr nett, kompetent und bringt alles ganz charmant auf den Punkt.\nZudem schöne und moderne Praxis und ein generell sehr nettes Praxis-Team.\n\nKlare Empfehlung dieser Praxis.\n\nEin DANKESCHÖN von B. RIVIC 😊",
+      "time": 1780421553,
+      "translated": false
+    },
+    {
+      "author_name": "Tina Freyer",
+      "author_url": "https://www.google.com/maps/contrib/110460064040166035438/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy07CoZfeqOqad83PhKHeVC9zGnOXVtpiuK4IKd09hde3XXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Meine Schwiegermama hatte einen Termin bei Dr. Able.\nKurzum Top Arzt, nimmt sich Zeit für den Patienten, sehr nett, kompetent und bringt alles ganz charmant auf den Punkt.\nZudem schöne und moderne Praxis und ein generell sehr nettes Praxis-Team.\n\nKlare Empfehlung dieser Praxis.\n\nEin DANKESCHÖN von B. RIVIC 😊",
       "time": 1780421553,
       "translated": false
@@ -578,11 +614,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 91,
+  "reviewCount": 92,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-01T08:48:56.804Z"
+  "lastUpdated": "2026-07-04T07:45:12.454Z"
 }

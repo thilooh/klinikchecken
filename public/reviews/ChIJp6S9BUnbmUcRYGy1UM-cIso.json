@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Jonas Thumm",
+      "author_url": "https://www.google.com/maps/contrib/112330768595666392330/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5ssuBLamI6gDDc39eVbGdUofB3bQ1Ns_uGF8Mu8E-RnwU9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Vielen Dank an Herr Dr. Petersen und sein Team. Ich habe mich absolut gut aufgehoben gefühlt.",
+      "time": 1782462991,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Lung",
       "author_url": "https://www.google.com/maps/contrib/109326221892434126754/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9z7kPJ04LYSHlCRehRgPFIdOEOs4dxWf0LL9-_FfRbYot3g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Es soll noch Menschen geben die einem helfen, ein großes Dankeschön,,,,das Krankenhaus macht nichts und verweist mich ins Venenzentrum, und die nehmen sich die Zeit und erklären einem alles.\nDanke ihr seid TOP",
+      "time": 1781771331,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Lung",
+      "author_url": "https://www.google.com/maps/contrib/109326221892434126754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9z7kPJ04LYSHlCRehRgPFIdOEOs4dxWf0LL9-_FfRbYot3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Es soll noch Menschen geben die einem helfen, ein großes Dankeschön,,,,das Krankenhaus macht nichts und verweist mich ins Venenzentrum, und die nehmen sich die Zeit und erklären einem alles.\nDanke ihr seid TOP",
       "time": 1781771331,
       "translated": false
@@ -232,5 +256,5 @@
   "rating": 3.9,
   "reviewCount": 60,
   "summary": [],
-  "lastUpdated": "2026-07-01T08:48:23.044Z"
+  "lastUpdated": "2026-07-04T07:44:40.606Z"
 }
