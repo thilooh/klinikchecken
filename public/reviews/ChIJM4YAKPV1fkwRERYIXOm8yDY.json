@@ -13,11 +13,33 @@
       "translated": false
     },
     {
+      "author_name": "David",
+      "author_url": "https://www.google.com/maps/contrib/118011988897367038636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ25Y2wZdmZrUKOTUZJD19apGrpSQm-IcnnCD2cio97ZrInoA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Für Long-Covid-Patienten ein Fachmann, der einen Ernst nimmt und zeigen kann, was alles im Körper schiefläuft. Er kann es natürlich nicht heilen, aber er versucht aktiv an den Symptomen zu arbeiten. Vorsicht: Behandlung wird nicht von den Kassen übernommen!",
+      "time": 1782736865,
+      "translated": false
+    },
+    {
       "author_name": "Jonina Richter",
       "author_url": "https://www.google.com/maps/contrib/111622350979330601675/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQhHhCcFrAhJsGnOEPcpV8LgOF9zkWVr6Mia3fFJNt9v-EUjY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782734120,
+      "translated": false
+    },
+    {
+      "author_name": "Jonina Richter",
+      "author_url": "https://www.google.com/maps/contrib/111622350979330601675/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQhHhCcFrAhJsGnOEPcpV8LgOF9zkWVr6Mia3fFJNt9v-EUjY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1782734120,
       "translated": false
@@ -566,5 +588,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-07-04T07:44:47.752Z"
+  "lastUpdated": "2026-07-07T08:21:31.770Z"
 }

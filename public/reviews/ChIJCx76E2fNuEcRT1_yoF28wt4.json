@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Philippe",
+      "author_url": "https://www.google.com/maps/contrib/100383537511298509521/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXTbEui-quhQxw4ymtz2cWDk7TkdZePjNO1XXcD6q4oMftHsHs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von der Aufnahme bis zum OP-Tag waren alle Mitarbeitenden sehr freundlich. Der Umgang war zwar teilweise etwas zackig, was ich aber nicht unbedingt negativ empfunden habe.\n\nAm OP-Tag selbst gab es jedoch einen Punkt, der für mich einen Stern Abzug rechtfertigt: Die Schwester, die mich im OP vorbereitet hat, war leider sehr grob und wenig empathisch. Hinzu kam, dass ich lediglich ein Netzhöschen tragen musste, das seinen Zweck kaum erfüllt hat. Während der Vorbereitung lag ich praktisch unbedeckt da und wurde mit Jod eingerieben. Dabei wurde mir mehrfach gegen die Hoden gestoßen, was sehr unangenehm und aus meiner Sicht vermeidbar war.\n\nDer Operateur wirkte hingegen sehr kompetent und hat den Eingriff zügig durchgeführt. Gelegentlich hätte ich mir gewünscht, dass er kurz ankündigt, wenn ein Stich oder ein unangenehmer Moment bevorsteht, aber insgesamt war ich mit seiner Arbeit sehr zufrieden.\n\nDie Lasertherapie war erfolgreich. Im Vergleich zu meinem früheren Stripping-Eingriff hatte ich nahezu keine Schmerzen – der Unterschied ist wirklich enorm. Allerdings eignet sich die Laserbehandlung nur für gerade verlaufende Venen und nicht für stark geschlängelte Venenstämme.\n\nMein Wunsch wäre, das OP-Personal noch einmal für den Umgang mit der Intimsphäre der Patienten zu sensibilisieren. Ein kleines Tuch zur Abdeckung des Intimbereichs würde bereits viel dazu beitragen, dass man sich wohler und respektvoll behandelt fühlt. Außerdem sollte auch im Umgang mit den Hoden stets vorsichtig vorgegangen werden – unabhängig davon, wie routiniert die Vorbereitung für das Personal ist.\n\nInsgesamt bin ich mit dem medizinischen Ergebnis sehr zufrieden. Mit etwas mehr Einfühlungsvermögen während der Vorbereitung wäre die Erfahrung deutlich angenehmer gewesen.",
+      "time": 1783319678,
+      "translated": false
+    },
+    {
       "author_name": "Alexandra Basic",
       "author_url": "https://www.google.com/maps/contrib/111012366030577851320/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdxzqNvENw73jLUGwkiIYojLt1EK7RcoveB4gYWqdLJfpGig=s128-c0x00000000-cc-rp-mo",
@@ -690,11 +702,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 423,
+  "reviewCount": 417,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-07-04T07:45:09.475Z"
+  "lastUpdated": "2026-07-07T08:21:53.628Z"
 }

@@ -85,6 +85,16 @@
       "translated": false
     },
     {
+      "author_name": "Gabriele Heske",
+      "author_url": "https://www.google.com/maps/contrib/116335563252742727123/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvvEspkD7g2J4foRan59sjJIkQEqSYmoqrekDj2zz1qN-WSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1778134761,
+      "translated": false
+    },
+    {
       "author_name": "Regina Scholz",
       "author_url": "https://www.google.com/maps/contrib/101692666594300883721/reviews",
       "language": "de",
@@ -152,6 +162,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKe_ZHkrK_KnwT9Li-5W0GW01Eq-BRjChZbM4P0EF3DoAvBKA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
+      "text": "War sehr zufrieden...Termin super pünktlich geklappt...leider echt schlechte Parksituation",
+      "time": 1778133114,
+      "translated": false
+    },
+    {
+      "author_name": "Regina Scholz",
+      "author_url": "https://www.google.com/maps/contrib/101692666594300883721/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKe_ZHkrK_KnwT9Li-5W0GW01Eq-BRjChZbM4P0EF3DoAvBKA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
       "text": "War sehr zufrieden...Termin super pünktlich geklappt...leider echt schlechte Parksituation",
       "time": 1778133114,
       "translated": false
@@ -376,5 +398,5 @@
   "rating": 4,
   "reviewCount": 121,
   "summary": [],
-  "lastUpdated": "2026-07-04T07:44:41.300Z"
+  "lastUpdated": "2026-07-07T08:21:25.181Z"
 }

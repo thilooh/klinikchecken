@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jasmin",
+      "author_url": "https://www.google.com/maps/contrib/102852379894584526185/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2k6e7sZfjTqEMYN3zjCqTn2jPXDBlT29WRoeaL7A5B8-7sWk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde super kompetent und freundlich beraten! Es wurde sich viel Zeit für mich genommen und auf alles eingegangen. Ich bin sehr zufrieden und kann die Praxis nur weiterempfehlen :)",
+      "time": 1783345220,
+      "translated": false
+    },
+    {
       "author_name": "Sonja W.",
       "author_url": "https://www.google.com/maps/contrib/114235344749845935334/reviews",
       "language": "de",
@@ -351,7 +363,7 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 93,
+  "reviewCount": 94,
   "summary": [],
-  "lastUpdated": "2026-07-04T07:44:32.679Z"
+  "lastUpdated": "2026-07-07T08:21:16.385Z"
 }

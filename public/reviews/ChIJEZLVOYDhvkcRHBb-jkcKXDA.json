@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jürgen Gottfried",
+      "author_url": "https://www.google.com/maps/contrib/107533975196215614371/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrDrqRqxs8QjzNUtRaLERb6mFKEuPk7j7f0TxOWybFxo8SuoiO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Hautärztliche Betreuung",
+      "time": 1783270512,
+      "translated": false
+    },
+    {
       "author_name": "Jolene Vollbach",
       "author_url": "https://www.google.com/maps/contrib/116673010161255275537/reviews",
       "language": "de",
@@ -362,11 +374,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 93,
+  "reviewCount": 94,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-04T07:44:46.826Z"
+  "lastUpdated": "2026-07-07T08:21:30.838Z"
 }

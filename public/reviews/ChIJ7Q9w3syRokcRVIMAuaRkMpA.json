@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dirk W.",
+      "author_url": "https://www.google.com/maps/contrib/102319034988887869111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMhIKK8rej9-5dNhllUMbHAADHkQlP5474-C6D4YR3zAb4Wg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit dem Venenzentrum.\nDie Terminvereinbarung ging super per E-Mail.\nDie Mitarbeiter zu jeder Zeit freundlich und hilfsbereit.\nDie Behandlung und Nachversorgung waren nach meinem Eindruck sehr gut.",
+      "time": 1783404246,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin E.",
       "author_url": "https://www.google.com/maps/contrib/118007849383900227491/reviews",
       "language": "de",
@@ -10,6 +22,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Tolle Erfahrung! Ich war als Notfall spontan vor Ort und wurde sofort untersucht. Mega nettes Praxispersonal und sehr kompetenter Arzt. Schade, dass ich so weit weg wohne, ich würde wiederkommen! Danke!!!",
       "time": 1783098817,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Raub",
+      "author_url": "https://www.google.com/maps/contrib/116209626807528578387/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbNh12-4WwUVqg3ywqStW5d3C7ji9JfAMvD3xn_vGCVkK5IAwc=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ein großes Lob an das komplette Praxisteam und Herrn Dr. Funke.\nEin Arzt mit viel Wissen und Können und dazu noch mit Herz, der seinen Beruf als Berufung ansieht. Kurzfristige Termine, gute Organisation und ein super Wundversorgungsteam zur Nachbehandlung, nach Eingriff.\nWeiter so 👍, solche Praxen gibt es nur wenige.",
+      "time": 1782675825,
       "translated": false
     },
     {
@@ -424,11 +448,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 155,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:44:55.421Z"
+  "lastUpdated": "2026-07-07T08:21:39.465Z"
 }

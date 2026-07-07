@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hans-Jürgen Wirth",
+      "author_url": "https://www.google.com/maps/contrib/107271020232435205192/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp8-qshUeelvrEILpexDOieRcrGk5tBGR-8JbuOqvaRN6gFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde nun schon mehrmals sehr gründlich untersucht, bin mit den Erklärungen auf meine Fragen sowie die Behandlungen sehr zufrieden; darüber hinaus wurde jede Kleinigkeit/Hautfleck etc. , die mir selbst aufgefallen sind „beleuchtet“.\nIch fühle mich echt gut betreut. Außerdem sind alle sehr nett.",
+      "time": 1783186924,
+      "translated": false
+    },
+    {
       "author_name": "Heiko Fuhrmann",
       "author_url": "https://www.google.com/maps/contrib/118060002128093122541/reviews",
       "language": "de",
@@ -720,5 +732,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:44:43.367Z"
+  "lastUpdated": "2026-07-07T08:21:27.283Z"
 }

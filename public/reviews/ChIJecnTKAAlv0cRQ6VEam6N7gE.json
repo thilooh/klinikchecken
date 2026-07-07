@@ -147,6 +147,18 @@
       "translated": false
     },
     {
+      "author_name": "Hannes Schwarz",
+      "author_url": "https://www.google.com/maps/contrib/111382773448413928273/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISzlG7mgwFHNJlg5_VO5qAEgFOD-reXZqVWHp_DxPaUxdkWHY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Lief alles glatt & tolles Team",
+      "time": 1772791606,
+      "translated": false
+    },
+    {
       "author_name": "Marc Heimerl",
       "rating": 5,
       "relative_time_description": "vor 5 Monaten",
@@ -243,5 +255,5 @@
   "rating": 3.4,
   "reviewCount": 30,
   "summary": [],
-  "lastUpdated": "2026-07-04T07:44:31.422Z"
+  "lastUpdated": "2026-07-07T08:21:15.090Z"
 }

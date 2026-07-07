@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Marion Hager",
+      "author_url": "https://www.google.com/maps/contrib/103425958342585271250/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB3vie-t1vvr5SWdU_PZTaqTxztLOlz926HQtpi7D3IGMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nett und kompetent. Er hat mich vor bleibenden Schäden  bewahrt. Nachdem ich von einer Klinik zuhoeren bekommen hatte, in meinem Alter (72) J. würde man nicht operieren.",
+      "time": 1782125360,
+      "translated": false
+    },
+    {
       "author_name": "Katja Walther",
       "author_url": "https://www.google.com/maps/contrib/108163328053473206407/reviews",
       "language": "de",
@@ -86,6 +98,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Z6pmSjiPyFaenmWBn_FvIMwxHCQb7gB6HDtQ-LIQL_Sc5XAq=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781347582,
+      "translated": false
+    },
+    {
+      "author_name": "Angelika Bartsch",
+      "author_url": "https://www.google.com/maps/contrib/112116508231357227261/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Z6pmSjiPyFaenmWBn_FvIMwxHCQb7gB6HDtQ-LIQL_Sc5XAq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1781347582,
       "translated": false
@@ -686,5 +708,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:44:48.923Z"
+  "lastUpdated": "2026-07-07T08:21:32.952Z"
 }

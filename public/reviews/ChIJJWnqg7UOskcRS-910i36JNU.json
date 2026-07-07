@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Henning Steffen",
+      "author_url": "https://www.google.com/maps/contrib/100461122309599944880/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1LGeukmYEqQVBqlC2UbLzVNmCoSpVy5O6oQPpmzy5AnRifg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783354909,
+      "translated": false
+    },
+    {
+      "author_name": "Dirk",
+      "author_url": "https://www.google.com/maps/contrib/109486208479851403339/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQPkvNKi-FV6cNv8MsiJ6KWm6864S5QoNzb4wbzQWkOlei-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783284496,
+      "translated": false
+    },
+    {
+      "author_name": "Bernd Krause",
+      "author_url": "https://www.google.com/maps/contrib/112303007738150771315/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVHMWUyJlupEgtKG8zJqGlepqbmwy-9qvhQnaoURWh-XBhkAZFKQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schade: für ein Hautkrebsscreening sind nie Termine frei. Da fragt man sich tatsächlich, wie die Praxis zu den Terminen kommt, wenn man als Kunde resp. Patient nie einen Termin machen kann. Ich zumindest hab noch nicht herausgefunden, wie das gehen soll. Versuche schon ein Jahr lang einen Termin zu bekommen, weil die Bewertungen der Praxis eigentlich für sich sprechen, muss mich aber wohl doch mal nach Alternativen umsehen.",
+      "time": 1783276261,
+      "translated": false
+    },
+    {
+      "author_name": "Marzena Tarapata",
+      "author_url": "https://www.google.com/maps/contrib/112974551618254094158/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK54o5TPX4a7evTqXiKkiK-7zDzv9vbc2LCSowyPRnJCTzkrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war sehr zufrieden. Die Mitarbeiterinen der Praxis waren nett und hilfsbereit.\nFrau Dr Mrowka ist eine sehr kompetente und einfühlsame Ärztin. Sie nimmt sich Zeit für Patienten und erklärt und berät ausführlich. Sie behandelte mich auf Augenhöhe.",
+      "time": 1783241971,
+      "translated": false
+    },
+    {
+      "author_name": "Lotta",
+      "author_url": "https://www.google.com/maps/contrib/111176591231838635770/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKaY5UKUX2ht1obFJ09Qvy6rbi2814GS_KBrxvyFkVJ-lEhw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir waren bei Frau Dr Haase in der Kindersprechstunde und haben uns sehr gut aufgehoben gefühlt. Sehr nette und einfühlsame Ärztin, verständliche Erklärung und Aufklärung. Online Termin gebucht, E-Mail Erinnerung erhalten, alles digital und modern, finde ich super!",
+      "time": 1783182340,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele Bünning",
       "author_url": "https://www.google.com/maps/contrib/103462859913929566292/reviews",
       "language": "de",
@@ -948,11 +1004,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2316,
+  "reviewCount": 2321,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-04T07:44:45.674Z"
+  "lastUpdated": "2026-07-07T08:21:29.674Z"
 }

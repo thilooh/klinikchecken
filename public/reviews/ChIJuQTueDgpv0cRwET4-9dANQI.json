@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Juliette-Zoe Mora",
+      "author_url": "https://www.google.com/maps/contrib/109605220752194943165/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKYH4cePJ36Gyp2ZXOslbCMDctvxjkewY66qXMjxI1CSLaMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider kann ich Levvital nicht empfehlen. Schon beim Empfang wurde ich sehr unfreundlich behandelt. Der erste Eindruck einer Praxis ist wichtig, und die Rezeption ist schließlich die Visitenkarte des Unternehmens. Durch die unfreundliche Art am Empfang habe ich mich so unwohl gefühlt, dass ich mich letztendlich gegen die Behandlung entschieden habe.\n\nDas ist besonders schade, denn die eigentliche Praxis macht einen guten Eindruck. Leider zieht das Verhalten an der Rezeption den Gesamteindruck erheblich nach unten. Ich hoffe, dass hier künftig mehr Wert auf einen freundlichen und respektvollen Umgang mit Patienten gelegt wird.",
+      "time": 1783358688,
+      "translated": false
+    },
+    {
       "author_name": "Helga von den Bergen",
       "author_url": "https://www.google.com/maps/contrib/110946359418647520251/reviews",
       "language": "de",
@@ -73,12 +85,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 19,
+  "rating": 4.6,
+  "reviewCount": 20,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:45:08.791Z"
+  "lastUpdated": "2026-07-07T08:21:52.925Z"
 }

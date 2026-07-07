@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sophia Hirschberg",
+      "author_url": "https://www.google.com/maps/contrib/105542322151593137181/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHmhmpFm_eFI9guFIS7mVFmbhkgFwyMfKCixyF5eUQVxthXRo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur kosmetischen Gesichtsbehandlung und bin absolut begeistert. Die Behandlung war unglaublich entspannend und gleichzeitig viel effektiver als jede klassische Kosmetik, die ich bisher kannte. Besonders die LED-Behandlung hat meiner Haut sichtbar geholfen. Das gesamte Team ist herzlich, professionell und nimmt sich viel Zeit für eine individuelle Beratung. Es werden hochwertige Produkte verwendet – immer genau das, was zur Haut passt. Für mich die beste Kosmetik in Halle. Absolute Empfehlung!",
+      "time": 1783328026,
+      "translated": false
+    },
+    {
+      "author_name": "Katja Götz",
+      "author_url": "https://www.google.com/maps/contrib/116324348443211416780/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeIrqBuX9If_4zIJiWPfzepMRvEPcdKQbpDu0jxcjVtFACCA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine super fesche Praxis mit sehr erfahrenen Ärzten, das Personal ist sehr zuvorkommend und die Ergebnisse sind ausgezeichnet.",
+      "time": 1783321171,
+      "translated": false
+    },
+    {
       "author_name": "Dijana Klopfer",
       "author_url": "https://www.google.com/maps/contrib/117556279264221472288/reviews",
       "language": "de",
@@ -584,11 +608,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 96,
+  "reviewCount": 98,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-04T07:45:01.700Z"
+  "lastUpdated": "2026-07-07T08:21:45.745Z"
 }

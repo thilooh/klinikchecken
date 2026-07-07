@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M",
+      "author_url": "https://www.google.com/maps/contrib/105959780571392080596/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9_7tuuwtdH9YiRq7xOn8wqBOJwN3Rs0egzMHp8xYHFYYY6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schlechteste medizinische Fußpflege die ich je hatte. Preis überhaupt nicht Wert.",
+      "time": 1783165397,
+      "translated": false
+    },
+    {
       "author_name": "Bastel Kiste",
       "author_url": "https://www.google.com/maps/contrib/104673645331064208379/reviews",
       "language": "de",
@@ -654,5 +666,5 @@
   "rating": 4.5,
   "reviewCount": 316,
   "summary": [],
-  "lastUpdated": "2026-07-04T07:44:41.071Z"
+  "lastUpdated": "2026-07-07T08:21:24.949Z"
 }

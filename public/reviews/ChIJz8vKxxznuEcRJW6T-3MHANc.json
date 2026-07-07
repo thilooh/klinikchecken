@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Christoph Ratzsch",
+      "author_url": "https://www.google.com/maps/contrib/104557796652393016609/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmBomDg0rv02pamae-xMpp6KQFJ4-kgzm3Tuywj-vr3cMKacDy=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783328574,
+      "translated": false
+    },
+    {
+      "author_name": "kurd Roj ava اغاني كردية",
+      "author_url": "https://www.google.com/maps/contrib/109303991335826276832/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZFHDsd66VSiFN3MnnlhwDyOdAWyZFAsE7XzDnKDZoYX8bF69Z=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783325110,
+      "translated": false
+    },
+    {
       "author_name": "Elvira L.",
       "author_url": "https://www.google.com/maps/contrib/115897798822297855317/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdpgfYQYNaDhK2Zea984gyt0uqnSqu9q71E_5n_cMM52j3wQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -742,11 +762,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 380,
+  "reviewCount": 382,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:45:03.324Z"
+  "lastUpdated": "2026-07-07T08:21:47.335Z"
 }

@@ -85,6 +85,18 @@
       "translated": true
     },
     {
+      "author_name": "A. S.",
+      "author_url": "https://www.google.com/maps/contrib/111415578674450711655/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYU_INNY9A4DrCZo3Obfo0MKdqNAd5AKR2rYaLmmIXP_Fq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Große Verfügbarkeit und freundliches Personal.",
+      "time": 1782160823,
+      "translated": true
+    },
+    {
       "author_name": "Arian Ebrahimi",
       "author_url": "https://www.google.com/maps/contrib/107162139838799542885/reviews",
       "language": "de",
@@ -665,5 +677,5 @@
   "rating": 4.3,
   "reviewCount": 206,
   "summary": [],
-  "lastUpdated": "2026-07-04T07:44:33.776Z"
+  "lastUpdated": "2026-07-07T08:21:17.672Z"
 }

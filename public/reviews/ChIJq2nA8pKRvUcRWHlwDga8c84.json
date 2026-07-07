@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Flower Power",
+      "author_url": "https://www.google.com/maps/contrib/116059765287661038357/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb5zLW1yFCJhdy13yhZvURIStH-JsnLkTHlG_nW2izV_HLSA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783335274,
+      "translated": false
+    },
+    {
       "author_name": "Serena Cutillo",
       "author_url": "https://www.google.com/maps/contrib/112016529014903089264/reviews",
       "language": "de",
@@ -814,11 +824,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 306,
+  "reviewCount": 307,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:44:59.366Z"
+  "lastUpdated": "2026-07-07T08:21:43.440Z"
 }

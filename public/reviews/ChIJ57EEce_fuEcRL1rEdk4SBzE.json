@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Anika Breuers",
+      "author_url": "https://www.google.com/maps/contrib/116140168910784433280/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlrKUnE6IruoCGxBqMkAmZ9JUNlglpOfqVPAYFfPsdJJ32oBdD=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ganz nettes, herzliches Team und ein toller Arzt. Schnelle Terminvergabe und schnelle Umsetzung. Sehr kinderfreundlich. 😊",
+      "time": 1782736250,
+      "translated": false
+    },
+    {
       "author_name": "silvana rellecke",
       "author_url": "https://www.google.com/maps/contrib/102194224512287823817/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQFc5Oe2CRsJzrAaysKE4QKyOKnQYYXkEefBbvM3UmM4PHuHSb=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ein wirklich sehr nettes und kompetentes Team. Alle sind sehr nett. Der Arzt ist super. Ein klare Empfehlung von uns.\nDanke für die schnelle Hilfe.",
+      "time": 1781587860,
+      "translated": false
+    },
+    {
+      "author_name": "silvana rellecke",
+      "author_url": "https://www.google.com/maps/contrib/102194224512287823817/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQFc5Oe2CRsJzrAaysKE4QKyOKnQYYXkEefBbvM3UmM4PHuHSb=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ein wirklich sehr nettes und kompetentes Team. Alle sind sehr nett. Der Arzt ist super. Ein klare Empfehlung von uns.\nDanke für die schnelle Hilfe.",
       "time": 1781587860,
       "translated": false
@@ -128,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJphZWTPEiRPuWZo4PrIeKwv0BfQaCLiaEu8cXhQ9UdQ4HPQQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
+      "text": "Okay",
+      "time": 1777997487,
+      "translated": true
+    },
+    {
+      "author_name": "Torsten Ransmann",
+      "author_url": "https://www.google.com/maps/contrib/114748760697046455992/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJphZWTPEiRPuWZo4PrIeKwv0BfQaCLiaEu8cXhQ9UdQ4HPQQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Okay",
       "time": 1777997487,
       "translated": true
@@ -344,5 +380,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:44:49.618Z"
+  "lastUpdated": "2026-07-07T08:21:33.632Z"
 }

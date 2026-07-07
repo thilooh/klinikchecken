@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ifamania Chris",
+      "author_url": "https://www.google.com/maps/contrib/111129992448309767072/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUAg2V5_nb1lMC7suffJ4L5DcVGTmvQcGsGr83EFMar6O1dg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783250579,
+      "translated": false
+    },
+    {
       "author_name": "Nina Jünger",
       "author_url": "https://www.google.com/maps/contrib/109996238743865604420/reviews",
       "language": "de",
@@ -502,11 +512,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 172,
+  "reviewCount": 173,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-04T07:45:10.827Z"
+  "lastUpdated": "2026-07-07T08:21:54.974Z"
 }

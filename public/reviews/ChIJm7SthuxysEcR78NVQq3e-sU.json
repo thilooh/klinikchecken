@@ -1,11 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "O- P",
+      "author_url": "https://www.google.com/maps/contrib/117868519576923305055/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlEILxUUFNyUSpk0i2OXyMe7SyZpJ-ZXQwMKcIYlEyfxmvAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783277650,
+      "translated": false
+    },
+    {
       "author_name": "ulrike eilers",
       "author_url": "https://www.google.com/maps/contrib/109066770335101120976/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ05KaYnlsbQxyQL-pd4HAJtSSxdPFIIAZddOrLty11a4HRsA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782637732,
+      "translated": false
+    },
+    {
+      "author_name": "ulrike eilers",
+      "author_url": "https://www.google.com/maps/contrib/109066770335101120976/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ05KaYnlsbQxyQL-pd4HAJtSSxdPFIIAZddOrLty11a4HRsA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1782637732,
       "translated": false
@@ -90,6 +110,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_Fz-zYbgL35_IYaNpx04Pe1NN417FNNp5Bxke5_8e_Pj6ow=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Die einzige Praxis weit und breit bei der ich als Kassenpatientin einen zeitnahen Termin bekommen habe. Super kurze Wartezeit. Dr. Cramer war total freundlich und zwei auffällige Stellen konnten direkt entfernt werden. Bin absolut zufrieden und würde die Praxis jederzeit weiterempfehlen.",
+      "time": 1781532104,
+      "translated": false
+    },
+    {
+      "author_name": "Jennifer Beckert",
+      "author_url": "https://www.google.com/maps/contrib/117089835543827954905/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_Fz-zYbgL35_IYaNpx04Pe1NN417FNNp5Bxke5_8e_Pj6ow=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Die einzige Praxis weit und breit bei der ich als Kassenpatientin einen zeitnahen Termin bekommen habe. Super kurze Wartezeit. Dr. Cramer war total freundlich und zwei auffällige Stellen konnten direkt entfernt werden. Bin absolut zufrieden und würde die Praxis jederzeit weiterempfehlen.",
       "time": 1781532104,
       "translated": false
@@ -680,11 +712,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 256,
+  "reviewCount": 257,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-04T07:44:41.983Z"
+  "lastUpdated": "2026-07-07T08:21:25.872Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Volker Jay",
+      "author_url": "https://www.google.com/maps/contrib/106717187974139288273/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9aSPem9Ve05MYsZTqBscahkxnWJmcRlOVSjqOdADBlIfLqC9l9Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das mit der Notfallsprechstunde scheint nicht ganz ernst gemeint.",
+      "time": 1783409665,
+      "translated": false
+    },
+    {
       "author_name": "Konstanze B.",
       "author_url": "https://www.google.com/maps/contrib/104644468377405160232/reviews",
       "language": "de",
@@ -644,5 +656,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:44:49.160Z"
+  "lastUpdated": "2026-07-07T08:21:33.177Z"
 }

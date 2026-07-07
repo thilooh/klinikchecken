@@ -53,6 +53,16 @@
       "translated": false
     },
     {
+      "author_name": "Werner Günzel",
+      "author_url": "https://www.google.com/maps/contrib/114382298028484063115/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPpGbEuCvkUuQ5WAh74tF86Y6lwy_SFV1OBKGIrv95jlx05g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1780909607,
+      "translated": false
+    },
+    {
       "author_name": "Thorsten Hautz",
       "author_url": "https://www.google.com/maps/contrib/117539482324642391315/reviews",
       "language": "de",
@@ -96,6 +106,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBkjquR-KERYAJo6dXKt4z6aqy9V20w47NI-PMblsh0wO7ZA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "lange Wartezeit, unverschämte Rechnungen und dazu fehlerhaft. Medikamente verschrieben, die es nicht mehr gibt - laut mehrere Apotheker \"schon lange\". Ich hätte das Rezept gerne korrigieren lassen, leider ist ein Dutzend Anrufe ins Nirvana gelaufen.",
+      "time": 1780745173,
+      "translated": false
+    },
+    {
+      "author_name": "Thorsten Hautz",
+      "author_url": "https://www.google.com/maps/contrib/117539482324642391315/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBkjquR-KERYAJo6dXKt4z6aqy9V20w47NI-PMblsh0wO7ZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "lange Wartezeit, unverschämte Rechnungen und dazu fehlerhaft. Medikamente verschrieben, die es nicht mehr gibt - laut mehrere Apotheker \"schon lange\". Ich hätte das Rezept gerne korrigieren lassen, leider ist ein Dutzend Anrufe ins Nirvana gelaufen.",
       "time": 1780745173,
       "translated": false
@@ -218,6 +240,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcTEIMW1Baz0q-kv_sX6vIb6MymUpBrhzuXsK1dwbd5pz6mFU=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1778160406,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen Krämer",
+      "author_url": "https://www.google.com/maps/contrib/107700410336534496140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcTEIMW1Baz0q-kv_sX6vIb6MymUpBrhzuXsK1dwbd5pz6mFU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1778160406,
       "translated": false
@@ -392,5 +424,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-04T07:45:01.017Z"
+  "lastUpdated": "2026-07-07T08:21:45.052Z"
 }

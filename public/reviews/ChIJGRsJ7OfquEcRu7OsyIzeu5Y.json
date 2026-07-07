@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Midnight Lady",
+      "author_url": "https://www.google.com/maps/contrib/115704776766395089917/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpc8vGQGyclSgrGB1sLKC9ELGyfEFMp5_Ip64UVmAU8GoI=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich würde da Notfall mäßig vorstellig, nach dem mein Hausarzt dort angerufen hat. Bei mir stand der Verdacht auf Thrombose, habe der Empfangs Dame (ehemalige Nachbarin) gesagt, das ich noch einen Anschluss Termin habe, und den bei nicht Einhaltung bezahlen müsste, und bot ihr an das ich am Nachmittag noch mal vorbei kommen könnte. Dieses würde mit der Begründung am Nachmittag hat der Doc keine Zeit am nächsten Tag ob Tag und danach geht er in den Urlaub. Ich würde dort nicht behandelt, was nicht das erste Mal vorgekommen ist. Ich werde auf jeden Fall die Ärztekammer über dieses Verhalten informieren. Ich kann und werde dieses praxis auf gar keinen Fall weiter empfehlen.",
+      "time": 1783348583,
+      "translated": false
+    },
+    {
       "author_name": "roland sonntag",
       "author_url": "https://www.google.com/maps/contrib/111971870790105174517/reviews",
       "language": "de",
@@ -86,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT78PF3xu-_zOajCnC3wobqfo8kLS0RNLfneRAwSQR_Q3C4w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Es tut mir leid es so schlecht bewerten zu müssen, aber wie man sehen kann ist man als Kassen Patient in dieser Praxis leider nur 2. Wahl\nBei beiden Ärzten kann man überhaupt keinen online Termin mehr haben. Weil keine Termine frei.\nKlickt man dann auf privat Patient sind in allen Kategorien Termine verfügbar.\nTrauriges Deutschland\nHier darf man nicht alt und Krank werden",
+      "time": 1780929689,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin Tenbrink",
+      "author_url": "https://www.google.com/maps/contrib/104711783335102655162/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT78PF3xu-_zOajCnC3wobqfo8kLS0RNLfneRAwSQR_Q3C4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Es tut mir leid es so schlecht bewerten zu müssen, aber wie man sehen kann ist man als Kassen Patient in dieser Praxis leider nur 2. Wahl\nBei beiden Ärzten kann man überhaupt keinen online Termin mehr haben. Weil keine Termine frei.\nKlickt man dann auf privat Patient sind in allen Kategorien Termine verfügbar.\nTrauriges Deutschland\nHier darf man nicht alt und Krank werden",
       "time": 1780929689,
       "translated": false
@@ -390,11 +414,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 60,
+  "reviewCount": 61,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-07-04T07:45:04.469Z"
+  "lastUpdated": "2026-07-07T08:21:48.491Z"
 }
