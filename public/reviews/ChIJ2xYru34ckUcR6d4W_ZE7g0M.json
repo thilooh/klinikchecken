@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Maier",
+      "author_url": "https://www.google.com/maps/contrib/110819977937496359797/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMNzLa82tQ0LcOK2OzYTIKvsHjZpScHg5qWY2d1WAOV7mvoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis, alle sehr freundlich und hilfsbereit",
+      "time": 1783524376,
+      "translated": false
+    },
+    {
+      "author_name": "Anita Börner",
+      "author_url": "https://www.google.com/maps/contrib/109101895402418457125/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUycIGptoYSgFH-D6gnsUH_r4kHaCuV8F5ekVtOHfqtHP_xi5hr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die OP der Venen war perfekt, vom Anfang bis Ende. Angefangen von Dr. Pfeiffer( Anästhesist) bis zum Operateur und den Schwestern. Alle waren freundlich, zuvorkommend, professionell! Keine Sorge in diesen Händen!!!",
+      "time": 1783494759,
+      "translated": false
+    },
+    {
       "author_name": "Ulli",
       "author_url": "https://www.google.com/maps/contrib/100260569694089616804/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCMdhWh5wmtGW4QZqpWK0hbaAjI-CtjS5IrquAWJ5Y3WtDg8M=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr zufrieden, kann ich sehr empfehlen",
+      "time": 1782333315,
+      "translated": false
+    },
+    {
+      "author_name": "Ulli",
+      "author_url": "https://www.google.com/maps/contrib/100260569694089616804/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCMdhWh5wmtGW4QZqpWK0hbaAjI-CtjS5IrquAWJ5Y3WtDg8M=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr zufrieden, kann ich sehr empfehlen",
       "time": 1782333315,
       "translated": false
@@ -50,6 +86,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvcwgPzeUvo9ooKqBL2E3VKGPCZ6BZlUz73RI0-bKRJUnomg=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781813255,
+      "translated": false
+    },
+    {
+      "author_name": "Uwe",
+      "author_url": "https://www.google.com/maps/contrib/102924493824750815396/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvcwgPzeUvo9ooKqBL2E3VKGPCZ6BZlUz73RI0-bKRJUnomg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1781813255,
       "translated": false
@@ -560,11 +606,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 171,
+  "reviewCount": 173,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:35.262Z"
+  "lastUpdated": "2026-07-10T08:20:42.498Z"
 }

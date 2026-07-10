@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Aprikose",
+      "author_url": "https://www.google.com/maps/contrib/113607378652100700977/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-LPV5p1dNjGSal4ssCh_OB9DY2aHy4meJsFn_DcmGLqcVAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783455217,
+      "translated": false
+    },
+    {
       "author_name": "Julia E.",
       "author_url": "https://www.google.com/maps/contrib/106829605997881583572/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJgG-A_LjUmbxuWyir-x0b-OyH9RlxD0ItkNi_WKULvP4hGaAAyg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich kann diese Praxis leider überhaupt nicht empfehlen. Ich hatte einen dringenden Termin, für den ich extra früher von der Arbeit gegangen bin. Ich wurde nicht aufgenommen.\nDer Grund? Ich hatte als Privatpatientin meinen gültigen Reisepass dabei und konnte mich einwandfrei ausweisen, aber die Praxis bestand steif und fest auf dem Personalausweis, da ich Neupatienten bin. Seit zwei Jahrzehnten bin ich privat versichert und so ein bürokratischer Unsinn ist mir noch nie untergekommen.\nDass hier starre Bürokratie über das Wohl der Patienten gestellt wird – zumal es dringend war –, ist extrem enttäuschend. Jetzt darf ich wieder ewig auf einen Termin bei einem anderen Kollegen warten. Keine Empfehlung.",
+      "time": 1782294599,
+      "translated": false
+    },
+    {
+      "author_name": "Julia E.",
+      "author_url": "https://www.google.com/maps/contrib/106829605997881583572/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJgG-A_LjUmbxuWyir-x0b-OyH9RlxD0ItkNi_WKULvP4hGaAAyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich kann diese Praxis leider überhaupt nicht empfehlen. Ich hatte einen dringenden Termin, für den ich extra früher von der Arbeit gegangen bin. Ich wurde nicht aufgenommen.\nDer Grund? Ich hatte als Privatpatientin meinen gültigen Reisepass dabei und konnte mich einwandfrei ausweisen, aber die Praxis bestand steif und fest auf dem Personalausweis, da ich Neupatienten bin. Seit zwei Jahrzehnten bin ich privat versichert und so ein bürokratischer Unsinn ist mir noch nie untergekommen.\nDass hier starre Bürokratie über das Wohl der Patienten gestellt wird – zumal es dringend war –, ist extrem enttäuschend. Jetzt darf ich wieder ewig auf einen Termin bei einem anderen Kollegen warten. Keine Empfehlung.",
       "time": 1782294599,
       "translated": false
@@ -116,6 +138,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKklkQgweBoIdh5IBUkK9zY9t-hwPcbjIbU7JrnQlleuU06kg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich bin sehr zufrieden mit der Arztpraxis, außerdem sehr freundlich",
+      "time": 1780906410,
+      "translated": false
+    },
+    {
+      "author_name": "Laurenz Schmitt",
+      "author_url": "https://www.google.com/maps/contrib/115490263842713255299/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKklkQgweBoIdh5IBUkK9zY9t-hwPcbjIbU7JrnQlleuU06kg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich bin sehr zufrieden mit der Arztpraxis, außerdem sehr freundlich",
       "time": 1780906410,
       "translated": false
@@ -481,7 +515,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 50,
+  "reviewCount": 51,
   "summary": [],
-  "lastUpdated": "2026-07-07T08:21:15.713Z"
+  "lastUpdated": "2026-07-10T08:20:22.953Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Manfred",
+      "author_url": "https://www.google.com/maps/contrib/109006521823762025557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy8GbSOyajHLbmJry5cP2PSFwnpKzLE0kApCIl0D6ThdQCtg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783519527,
+      "translated": false
+    },
+    {
       "author_name": "Manuela Eissler",
       "author_url": "https://www.google.com/maps/contrib/112092624500760297419/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVP1B_txI7soHP3X1A-w8b9w-TkQSM52OxgdI0QXamfdUmLg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -78,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZINZL2d_vwY6KzCaYbPhuw6zNanBBflEPWzwS8q0lH8egz_4=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Kurzfristige Behandlung OHNE Termin ist möglich. Angemessene Wartezeit. Gute und schnelle Behandlung/Beratung. Somit weiterzuempfehlen.\n\nUPDATE 07/2026:\nSprechstunde vrmtl. nur noch nach Vereinbarung",
+      "time": 1781069076,
+      "translated": false
+    },
+    {
+      "author_name": "G. von H.",
+      "author_url": "https://www.google.com/maps/contrib/104988475992067732762/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZINZL2d_vwY6KzCaYbPhuw6zNanBBflEPWzwS8q0lH8egz_4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Kurzfristige Behandlung OHNE Termin ist möglich. Angemessene Wartezeit. Gute und schnelle Behandlung/Beratung. Somit weiterzuempfehlen.\n\nUPDATE 07/2026:\nSprechstunde vrmtl. nur noch nach Vereinbarung",
       "time": 1781069076,
       "translated": false
@@ -736,11 +758,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1112,
+  "reviewCount": 1113,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:37.373Z"
+  "lastUpdated": "2026-07-10T08:20:44.647Z"
 }

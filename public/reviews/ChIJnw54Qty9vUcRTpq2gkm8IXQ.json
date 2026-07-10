@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andrijana Carlan",
+      "author_url": "https://www.google.com/maps/contrib/100737582504617980154/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiqDyEC9l4_Q9B8IhyGQ_26j2JxLVGfzzbSoe65uAGlciitQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine Praxis, die ich nur weiterempfehlen kann. Ich war bei Frau Dr. Milka Janjic. Die Beratung und Behandlung waren hervorragend. Sie hat sich viel Zeit für mich genommen und alle meine Fragen ausführlich beantwortet. Ich habe mich sehr gut aufgehoben gefühlt und kann die Praxis sowie Frau Dr. Janjic uneingeschränkt empfehlen.",
+      "time": 1783581905,
+      "translated": false
+    },
+    {
       "author_name": "Jürgen S.",
       "author_url": "https://www.google.com/maps/contrib/103447052926464632609/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWifdtmcQ9W-guMPL_V0kpWUuCpYRTmDi-_NGgSlEPGpQmbxts2=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Termin bei Dr. Halasz, war schnell beendet. Ich soll dahin gehen wo ich vor 10 Jahren operiert wurde.( Krampfadern ziehen) Er könnte ja nicht ins blaue hinein sehen. Ich wollte nur das er mein Bein ansieht, und eine Meinung haben. Er machte dann so weiter, ein Wort nach dem anderen, wenn sie das nicht wollen, sagte ich , ziehe ich meine Schuhe wieder an und ich känzel hier die den Termin. Unfreundlich und frech.",
+      "time": 1782214162,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen S.",
+      "author_url": "https://www.google.com/maps/contrib/103447052926464632609/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWifdtmcQ9W-guMPL_V0kpWUuCpYRTmDi-_NGgSlEPGpQmbxts2=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Termin bei Dr. Halasz, war schnell beendet. Ich soll dahin gehen wo ich vor 10 Jahren operiert wurde.( Krampfadern ziehen) Er könnte ja nicht ins blaue hinein sehen. Ich wollte nur das er mein Bein ansieht, und eine Meinung haben. Er machte dann so weiter, ein Wort nach dem anderen, wenn sie das nicht wollen, sagte ich , ziehe ich meine Schuhe wieder an und ich känzel hier die den Termin. Unfreundlich und frech.",
       "time": 1782214162,
       "translated": false
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL63QuREOmWgmix0dYKej76Vd9wmhmEJWrbrtJrnXUQzjhvCQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ohne Worte",
+      "time": 1782213412,
+      "translated": false
+    },
+    {
+      "author_name": "Engel",
+      "author_url": "https://www.google.com/maps/contrib/104271827388834412523/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL63QuREOmWgmix0dYKej76Vd9wmhmEJWrbrtJrnXUQzjhvCQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ohne Worte",
       "time": 1782213412,
       "translated": false
@@ -518,11 +554,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 168,
+  "reviewCount": 169,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-07T08:21:42.748Z"
+  "lastUpdated": "2026-07-10T08:20:50.136Z"
 }

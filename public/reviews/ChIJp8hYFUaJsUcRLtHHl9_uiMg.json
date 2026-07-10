@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Denise Kolberg",
+      "author_url": "https://www.google.com/maps/contrib/104058987748776715696/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIq1S3GO42mhEBn5XAuvjbDLPnKYe1bcL_eakYQgZqFSIXuwQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann Dr. Schweichler von Herzen nur empfehlen. Von Anfang an war die Beratung ehrlich und direkt, ich wusste was getan werden muss, was ich dazu noch verbessern kann und die ganze Betreuung rund um die 2 Operationen sowieso die OPs selbst waren mit ganz viel Fachwissen, Kompetenz und Herzlichkeit verbunden. Ich habe nun einfach „neue“ Beine und ein ganz neues Lebensgefühl, sodass auch Sport und Reiten wieder ganz „leicht“ möglich ist. Absolute Empfehlung!",
+      "time": 1783661318,
+      "translated": false
+    },
+    {
       "author_name": "Jessy D",
       "author_url": "https://www.google.com/maps/contrib/107538124568271580416/reviews",
       "language": "de",
@@ -318,7 +330,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 75,
+  "reviewCount": 76,
   "summary": [],
-  "lastUpdated": "2026-07-07T08:21:22.702Z"
+  "lastUpdated": "2026-07-10T08:20:29.570Z"
 }

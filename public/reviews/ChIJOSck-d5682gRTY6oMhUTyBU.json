@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Tobias Isbruch",
+      "author_url": "https://www.google.com/maps/contrib/114430615450720957390/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIldA-uQw-D79J333AZSzlblqVNfUjh_iyFx8FJs_W91KKUlQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zwar nur als Begleitperson bei den zwei OPs meiner Frau dabei, aber wir haben uns bei Herrn Dr. Burkert und bei Frau Dr. Mayböck immer sehr gut aufgehoben gefühlt. Vom Erstgespräch über die OPs bis hin zur Nachkontrolle waren alle immer super freundlich und professionell. Das ganze Team arbeitet Hand in Hand zusammen und alle sind wirklich sehr aufmerksam (egal ob Kassenpatient oder privatversichert ;) ). Auch das Ambiente der Praxis ist sehr gelungen: Die Räumlichkeiten sind modern gestaltet und bieten durch das durchdachte Farbkonzept und die gedimmte Beleuchtung eine angenehme, beruhigende Atmosphäre.\nWir sind mit dem Ergebnis sehr zufrieden und können die Praxis uneingeschränkt weiterempfehlen.",
+      "time": 1783659055,
+      "translated": false
+    },
+    {
+      "author_name": "Marion Schröer",
+      "author_url": "https://www.google.com/maps/contrib/105677613081085330916/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLQBB-yY5nbLwv-VVnst2NDlmXoLpCNYUl4AcDGH8GxTe02w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin am 07.07.2026 an den Venen operiert worden es war eine super Betreuung und eine erfolgreiche Operation alles bestens kann ich nur weiterempfehlen.",
+      "time": 1783594693,
+      "translated": false
+    },
+    {
+      "author_name": "Malte",
+      "author_url": "https://www.google.com/maps/contrib/117147459689318949383/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9zfr9k-7m0-mTSNvkCiVkscGIzFC_Rp4pfdPnJX05WD21NQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783497635,
+      "translated": false
+    },
+    {
       "author_name": "Kim Frenzel",
       "author_url": "https://www.google.com/maps/contrib/108548905210708739281/reviews",
       "language": "de",
@@ -80,6 +114,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxOszNk-AZA57oMQCQ2hwSR0hbkHm4QQUPa_YLRq_saD1URQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr sehr nette freundliche und kompetente Ärztin. Supergut!\nVielen Dank!",
+      "time": 1781021817,
+      "translated": false
+    },
+    {
+      "author_name": "Luzia Kl",
+      "author_url": "https://www.google.com/maps/contrib/106536103735855904390/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxOszNk-AZA57oMQCQ2hwSR0hbkHm4QQUPa_YLRq_saD1URQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr sehr nette freundliche und kompetente Ärztin. Supergut!\nVielen Dank!",
       "time": 1781021817,
       "translated": false
@@ -590,11 +636,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 115,
+  "reviewCount": 117,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-07-07T08:21:33.404Z"
+  "lastUpdated": "2026-07-10T08:20:40.583Z"
 }

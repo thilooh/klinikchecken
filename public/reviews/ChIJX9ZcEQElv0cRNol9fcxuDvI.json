@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Christin Köse",
+      "author_url": "https://www.google.com/maps/contrib/112488688700644496363/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy1cz5wFeiqMooFJ9zn2JzbCF4eb9AlxMGeIASYwkE4jO5Bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783544037,
+      "translated": false
+    },
+    {
       "author_name": "Celine Kramer",
       "author_url": "https://www.google.com/maps/contrib/115310119170750776700/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8DZjtlK16RHuzkG7JFwLKP8hcgMLBlK8kII4tduKJgAmTS7rO=s128-c0x00000000-cc-rp-mo-ba2",
@@ -86,6 +96,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrPNEmgnCl9lpSEfhVf0-qacyeQdvv4gzP787rk7Cn1yEWB-qK=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 3,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Schwierig. Sehr, sehr gemischt.\nMal ganz okay, mal eine Katastrophe. Telefonisch äußerst schwierig, jemanden dort zu erreichen. Es gibt zig verschiedene Rufnummern, keine Ahnung, welche man wählen sollte. Allgemein ist nicht klar, welche Art der Kontaktaufnahme hier am besten funktioniert, wenn man schon Patient ist. Ich habe hier eine Krampfader entfernt bekommen. Soweit war damit alles okay, mit Eingriff und Nachsorge.\nAuffällig für mich als jahrelange Patientin mit Lipo-Lymphödem: permanent wechselnde Ärzte. Ausstattung und Räumlichkeiten sind arg in die Jahre gekommen & spartanisch. Womit leben kann, wenn die medizinische Betreuung gut ist. Die Ärzte waren immer freundlich, ein Plus-Punkt. Die Wartezeit ist hier enorm! Auch wiederum verständlich, wenn die Nachfrage höher als das Angebot, aber es könnte schon besser funktionieren. & Man (als medizinische Fachkräfte) sollte auch keine Unfreundlichkeit oder Unverständnis über Nachfragen an den Patienten auslassen, sondern einfach freundlich erklären, wie die Lage ist! Die Patienten wissen nicht schon alles vorher, es ist doch klar, dass sie/wir Fragen haben. Was für euch Routine sein mag, ist für uns oft ein enormer Einschnitt im Leben. Ihr arbeitet immerhin mit Menschen. Vielen Dank fürs Lesen und viele Grüße.",
+      "time": 1781613888,
+      "translated": false
+    },
+    {
+      "author_name": "Zwitscher Vogel",
+      "author_url": "https://www.google.com/maps/contrib/103953794861857855288/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrPNEmgnCl9lpSEfhVf0-qacyeQdvv4gzP787rk7Cn1yEWB-qK=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Schwierig. Sehr, sehr gemischt.\nMal ganz okay, mal eine Katastrophe. Telefonisch äußerst schwierig, jemanden dort zu erreichen. Es gibt zig verschiedene Rufnummern, keine Ahnung, welche man wählen sollte. Allgemein ist nicht klar, welche Art der Kontaktaufnahme hier am besten funktioniert, wenn man schon Patient ist. Ich habe hier eine Krampfader entfernt bekommen. Soweit war damit alles okay, mit Eingriff und Nachsorge.\nAuffällig für mich als jahrelange Patientin mit Lipo-Lymphödem: permanent wechselnde Ärzte. Ausstattung und Räumlichkeiten sind arg in die Jahre gekommen & spartanisch. Womit leben kann, wenn die medizinische Betreuung gut ist. Die Ärzte waren immer freundlich, ein Plus-Punkt. Die Wartezeit ist hier enorm! Auch wiederum verständlich, wenn die Nachfrage höher als das Angebot, aber es könnte schon besser funktionieren. & Man (als medizinische Fachkräfte) sollte auch keine Unfreundlichkeit oder Unverständnis über Nachfragen an den Patienten auslassen, sondern einfach freundlich erklären, wie die Lage ist! Die Patienten wissen nicht schon alles vorher, es ist doch klar, dass sie/wir Fragen haben. Was für euch Routine sein mag, ist für uns oft ein enormer Einschnitt im Leben. Ihr arbeitet immerhin mit Menschen. Vielen Dank fürs Lesen und viele Grüße.",
       "time": 1781613888,
       "translated": false
@@ -349,11 +371,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 183,
+  "reviewCount": 184,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-07-07T08:21:12.662Z"
+  "lastUpdated": "2026-07-10T08:20:20.389Z"
 }

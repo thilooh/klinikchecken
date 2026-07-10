@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M E",
+      "author_url": "https://www.google.com/maps/contrib/100699053884029620961/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8sMrs_D8cpQcaagGQc0pYMO0Q-XxgKg9qNgtQe4Ut0a175A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unfassbar tolle, freundliche und kompetente Praxis! 100% Weiterempfehlung!!Man ist sehr gut aufgehoben, wird ganz empathisch und dabei kompetent beraten und behandelt. Ganz tolle Praxis!!",
+      "time": 1783597803,
+      "translated": false
+    },
+    {
       "author_name": "Negin Nazer",
       "author_url": "https://www.google.com/maps/contrib/117311323401838725061/reviews",
       "language": "de",
@@ -531,11 +543,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 79,
+  "reviewCount": 80,
   "summary": [
     "Dr. Kusenack nimmt sich außergewöhnlich viel Zeit — Patienten reisen teils extra aus dem Ausland an",
     "Krampfader-Behandlungen mit sehr hoher Erfolgsrate, persönliche Nachsorge noch am OP-Abend",
     "Familiäre, vertrauensvolle Atmosphäre — auch Angehörige werden daraufhin Patienten"
   ],
-  "lastUpdated": "2026-07-07T08:21:14.221Z"
+  "lastUpdated": "2026-07-10T08:20:21.740Z"
 }

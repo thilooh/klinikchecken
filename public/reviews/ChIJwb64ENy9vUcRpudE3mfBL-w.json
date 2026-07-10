@@ -35,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "Thomas Krolop",
+      "author_url": "https://www.google.com/maps/contrib/107781631717555791153/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIwuc4KQA06XU7CqAZa6-4WfKKlQ5tG-y19TGxgrmGgH7KPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1782840627,
+      "translated": false
+    },
+    {
       "author_name": "Denise Walik",
       "author_url": "https://www.google.com/maps/contrib/106266879221764491474/reviews",
       "language": "de",
@@ -114,6 +124,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtoMNyJdyzFgWjKth0SJfQGxtLtWVP0Ra08B7YNqg9WMDQHs8=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Trotz vereinbartem Termin wurde ich nicht behandelt und vorab auch nicht darüber informiert, dass der Termin ausfällt. Die Dame am Empfang war zudem unfreundlich. Ein neuer Termin war erst Monate später verfügbar. Schlechter Service und eine enttäuschende Erfahrung.",
+      "time": 1781090505,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Müller",
+      "author_url": "https://www.google.com/maps/contrib/114871527379053298187/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtoMNyJdyzFgWjKth0SJfQGxtLtWVP0Ra08B7YNqg9WMDQHs8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Trotz vereinbartem Termin wurde ich nicht behandelt und vorab auch nicht darüber informiert, dass der Termin ausfällt. Die Dame am Empfang war zudem unfreundlich. Ein neuer Termin war erst Monate später verfügbar. Schlechter Service und eine enttäuschende Erfahrung.",
       "time": 1781090505,
       "translated": false
@@ -546,5 +568,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:42.975Z"
+  "lastUpdated": "2026-07-10T08:20:50.375Z"
 }

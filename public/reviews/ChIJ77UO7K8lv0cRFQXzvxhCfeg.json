@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mario Atzeni",
+      "author_url": "https://www.google.com/maps/contrib/103237934502912791043/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM_fTc0iCWRPV2Ox8fJDDwNtrWsaLmXWKz1JoeVuSHpy4XEMXZKA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Behandlung! Sowohl von den Medizinischen Fachangestellten als auch von der Ärztin, die sich zeitgenommen hat und wirklich einen sehr genauen Befund hatte  erstellt. Man fühlt sich als Patient mit seinen Problemen wahrgenommen, was mittlerweile nicht mehr bei jedem Arzt zum Standard gehört. Nur zu empfehlen, sehr kompetent!! Danke!",
+      "time": 1783509194,
+      "translated": false
+    },
+    {
       "author_name": "Dani Magdicheva",
       "author_url": "https://www.google.com/maps/contrib/102406647588448058345/reviews",
       "language": "de",
@@ -94,6 +106,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoKC8COC8DvM5B-40kj9vzgLLl_7erDMlv5GOhCpABvcpDKyg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1780926836,
+      "translated": false
+    },
+    {
+      "author_name": "Kunde",
+      "author_url": "https://www.google.com/maps/contrib/112928141357011356029/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoKC8COC8DvM5B-40kj9vzgLLl_7erDMlv5GOhCpABvcpDKyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1780926836,
       "translated": false
@@ -530,12 +552,12 @@
       "translated": false
     }
   ],
-  "rating": 3.7,
-  "reviewCount": 100,
+  "rating": 3.8,
+  "reviewCount": 101,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:11.944Z"
+  "lastUpdated": "2026-07-10T08:20:19.615Z"
 }

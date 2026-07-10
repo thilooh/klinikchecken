@@ -75,6 +75,16 @@
       "translated": false
     },
     {
+      "author_name": "Christina Florin",
+      "author_url": "https://www.google.com/maps/contrib/107532239496703618004/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbWrgEgX_BA9yDVO5q3eA2dmdNtkPXZagGxq3qaAglDqgxQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1782427876,
+      "translated": false
+    },
+    {
       "author_name": "Nicole Schneider",
       "author_url": "https://www.google.com/maps/contrib/106761308152723027006/reviews",
       "language": "de",
@@ -94,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVkJumQyK4pJ8TCM1r1uus3bTRTiRvPgpHN5lrCUcNw-xPXA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Termin bei Frau Dr. Macanovic, arrogant, ohne Empathie, schnautze mich an, weil ich nochmal alles erklärt haben wollte. Sie meinte nur, ich hätte schon beim letzten Termin so viele Fragen gestellt. Diese Frau ist fehl am Platz und vergrault so die Patienten. Meine Mann und meine Mutter haben schon die Praxis gewechselt.",
+      "time": 1782404391,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Schneider",
+      "author_url": "https://www.google.com/maps/contrib/106761308152723027006/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVkJumQyK4pJ8TCM1r1uus3bTRTiRvPgpHN5lrCUcNw-xPXA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Termin bei Frau Dr. Macanovic, arrogant, ohne Empathie, schnautze mich an, weil ich nochmal alles erklärt haben wollte. Sie meinte nur, ich hätte schon beim letzten Termin so viele Fragen gestellt. Diese Frau ist fehl am Platz und vergrault so die Patienten. Meine Mann und meine Mutter haben schon die Praxis gewechselt.",
       "time": 1782404391,
       "translated": false
@@ -754,5 +776,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:49.860Z"
+  "lastUpdated": "2026-07-10T08:20:57.594Z"
 }

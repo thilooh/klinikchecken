@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Janine Bichat",
+      "author_url": "https://www.google.com/maps/contrib/113746249181214118301/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrikn2AYJLJ19NS1bSTzxBtz_q-4gV_uvNxYzAd5E9BxcqRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Mrowka ist eine sehr freundliche und kompetente Ärztin.",
+      "time": 1783657739,
+      "translated": false
+    },
+    {
+      "author_name": "Franzi i",
+      "author_url": "https://www.google.com/maps/contrib/103990873602549385402/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfiYmm18pYafZYAT4-6l65n-P2bZIpVd2hkjt3iNDjR6gscJI=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War bisher erst einmal da, aber kann nur gutes berichten. Sowohl die MFAs als auch die Ärztin waren sehr freundlich und man hatte kaum Wartezeit.",
+      "time": 1783613425,
+      "translated": false
+    },
+    {
       "author_name": "Henning Steffen",
       "author_url": "https://www.google.com/maps/contrib/100461122309599944880/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1LGeukmYEqQVBqlC2UbLzVNmCoSpVy5O6oQPpmzy5AnRifg=s128-c0x00000000-cc-rp-mo",
@@ -1004,11 +1028,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2321,
+  "reviewCount": 2323,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:29.674Z"
+  "lastUpdated": "2026-07-10T08:20:36.704Z"
 }

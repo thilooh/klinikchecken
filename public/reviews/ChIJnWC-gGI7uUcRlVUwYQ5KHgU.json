@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Yazan Alali",
+      "author_url": "https://www.google.com/maps/contrib/108047595841415190164/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHM0xaNJxBDqHSbbqBI3PCVBMBSba6R931HSrF0U9e4tn1rDoh=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783612478,
+      "translated": false
+    },
+    {
+      "author_name": "I S.",
+      "author_url": "https://www.google.com/maps/contrib/117693563064197458521/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-j6kua69MrovNbqlLUiUeHr30D6aSEsPDUmTbrHbaihL9yw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute als Neupatient in dieser Praxis. Den Termin hatte ich über eine Bekannte vereinbart, die dort selbst Patientin ist und sehr zufrieden ist. Dafür bin ich extra eine Stunde angereist und habe mir sogar frei genommen.\nZunächst wurde sogar meine Gesundheitskarte eingelesen und meine Telefonnummer notiert. Deshalb bin ich selbstverständlich davon ausgegangen, dass alles in Ordnung ist. Erst danach wurde mir mitgeteilt, dass mein Termin angeblich nicht im System eingetragen sei.\nFehler können passieren. Was ich jedoch nicht nachvollziehen kann, ist der Umgang der Mitarbeiterin an der Anmeldung. Ich habe ihr sogar angeboten, einfach zu warten, falls zwischendurch Zeit für mich wäre. Trotzdem hat sie sich mehrfach geweigert, mir irgendwie entgegenzukommen oder eine Lösung anzubieten. Stattdessen wurde ich einfach weggeschickt.\nIch bin umsonst eine Stunde gefahren, habe mir extra frei genommen und wurde trotz meines Entgegenkommens abgewiesen. Ein solch unprofessioneller und wenig patientenorientierter Umgang ist für mich nicht nachvollziehbar und hinterlässt leider einen sehr schlechten Eindruck von der Praxis.",
+      "time": 1783451840,
+      "translated": false
+    },
+    {
       "author_name": "Arzu Çetinkaya",
       "author_url": "https://www.google.com/maps/contrib/105308810631515385818/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1fGyzv04zPhiqYWQXXUUiTbiZx3tiRIqeYVK0GsukVq_6dFuTjw=s128-c0x00000000-cc-rp-mo",
@@ -706,11 +728,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 385,
+  "reviewCount": 386,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:49.398Z"
+  "lastUpdated": "2026-07-10T08:20:57.099Z"
 }

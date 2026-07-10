@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Carlo",
+      "author_url": "https://www.google.com/maps/contrib/114722639245819634174/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKWkfaF0JHsns4Lmjc7JyQgin2mOeruUl8nkhyrTzfFx7Put4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Bin jetzt zum erstenmal hier, das was ich schonmal sagen kann, man sollte sich auf lange Wartenzeiten im Wartezimmer Einstellen, aber ist nun mal so\n...wenig Fachärzte, viele Patienten,",
+      "time": 1782368026,
+      "translated": false
+    },
+    {
       "author_name": "hosshopf videos",
       "author_url": "https://www.google.com/maps/contrib/114765777228540394734/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJv7j5ZdEWzEjrAsNFQbM2x86lyu0Tx_XpSthY5DtfvuUXaZw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Sollte nur Fäden gezogen werden und Befund Besprechung. Beides zusammen insgesamt 1 Minute gedauert. Gewartet habe ich 1,5 Stunden. Eingangsbereich wurde sichtlich längere Zeit nicht geputzt und gewischt, Stühle sind teilweise klebrig und dreckig.\nDennoch nette Ärzte.",
+      "time": 1782221914,
+      "translated": false
+    },
+    {
+      "author_name": "hosshopf videos",
+      "author_url": "https://www.google.com/maps/contrib/114765777228540394734/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJv7j5ZdEWzEjrAsNFQbM2x86lyu0Tx_XpSthY5DtfvuUXaZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sollte nur Fäden gezogen werden und Befund Besprechung. Beides zusammen insgesamt 1 Minute gedauert. Gewartet habe ich 1,5 Stunden. Eingangsbereich wurde sichtlich längere Zeit nicht geputzt und gewischt, Stühle sind teilweise klebrig und dreckig.\nDennoch nette Ärzte.",
       "time": 1782221914,
       "translated": false
@@ -766,5 +790,5 @@
   "rating": 4.5,
   "reviewCount": 302,
   "summary": [],
-  "lastUpdated": "2026-07-07T08:21:19.942Z"
+  "lastUpdated": "2026-07-10T08:20:26.750Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Tina Füting",
+      "author_url": "https://www.google.com/maps/contrib/112039629326073659261/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO0FfNoi3rKNkY4i2_J-52m8HXQSsF0V-m3OiFsafI7UaX5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Team und Ärzte.\n\nHabe mich sofort sehr wohl gefühlt 🙂",
+      "time": 1783601378,
+      "translated": false
+    },
+    {
+      "author_name": "Juergen",
+      "author_url": "https://www.google.com/maps/contrib/107031358040260333819/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFHtouSa1TLMW1uidtar911l0SKmoUE2QgbrHQunrV0x0sqt1Z=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kurzfristig einen Termin zur Hautkrebsvorsorge bekommen.\nIn der Rezeption wird man sehr freundlich empfangen.\nDie Wartezeit ist sehr Kurz, das Personal zuvorkommend und freundlich.\nDie Ärzte untersuchen sehr gründlich und erklären in verständlichen Worten.\nEin Praxis die man ruhigen Gewissens weiter empfehlen kann.",
+      "time": 1783447966,
+      "translated": false
+    },
+    {
+      "author_name": "S Stadtfeld",
+      "author_url": "https://www.google.com/maps/contrib/117228987312551811116/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0y4ElsmkepKoKcppgaXLtC7oeMrZJilel2oYkpZqyQejNmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr höflicher und respektvoller Umgang mit Patient:Innen. Aufgrund einer Bahn-Verspätung konnte ich meinen Termin nicht pünktlich wahrnehmen. Mit der Verspätung wurde sehr entgegenkommend umgegangen. Professioneller Umgang der Ärztin und Angebot eines zeitigen Folgetermins. Ich empfehle die Praxis gerne weiter.",
+      "time": 1783430802,
+      "translated": false
+    },
+    {
       "author_name": "Christoph Ratzsch",
       "author_url": "https://www.google.com/maps/contrib/104557796652393016609/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmBomDg0rv02pamae-xMpp6KQFJ4-kgzm3Tuywj-vr3cMKacDy=s128-c0x00000000-cc-rp-mo",
@@ -762,11 +798,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 382,
+  "reviewCount": 385,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:47.335Z"
+  "lastUpdated": "2026-07-10T08:20:54.900Z"
 }

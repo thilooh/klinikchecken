@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Marina s",
+      "author_url": "https://www.google.com/maps/contrib/114282632617491429466/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoYF2W6HquC9mbNrShOPB-gpf1HVPk0Iqijnl3HmA23eKAAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Praxis leider nicht empfehlen.Ich habe Verständnis dafür, dass man nicht voreilig Muttermale entfernt. Dennoch wurde bei mir eine Fehlentscheidung getroffen. Ich bin zu einer Hautarztpraxis meines Vertrauens gewechselt, dort wurde das Muttermal entfernt...siehe da, es war zellverändert.Hören Sie auf Ihre Patienten, wenn sie ihnen sagen, dass sich an der Größe und Farbe etwas verändert hat. Aufgrund ihr Warteentscheidung, habe ich eine schöne große Narbe davon getragen.Danke zumindest an Frau Venten, die freundlich auf meine Mail reagiert hat. P.s. die behandelnde Ärztin hat sich bis heute nicht gemeldet.Kleiner Tipp, ich rate ihnen, ihren Dienst zu quittieren. Sie scheinen nicht mehr das geeignete Auge hierfür zu haben. Das med.Personal ist super nett, das als Positives. Eine Stunde Wartezeit ist hier auch normal",
+      "time": 1783621563,
+      "translated": false
+    },
+    {
       "author_name": "ilja hd",
       "author_url": "https://www.google.com/maps/contrib/102052533862530175030/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbUB46pkdCS_a72TINHu5wVZKFPww5RmWkBF4_f5h3g3w31Q=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782816465,
+      "translated": false
+    },
+    {
+      "author_name": "ilja hd",
+      "author_url": "https://www.google.com/maps/contrib/102052533862530175030/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbUB46pkdCS_a72TINHu5wVZKFPww5RmWkBF4_f5h3g3w31Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1782816465,
       "translated": false
@@ -418,11 +440,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 102,
+  "reviewCount": 103,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:46.636Z"
+  "lastUpdated": "2026-07-10T08:20:54.191Z"
 }

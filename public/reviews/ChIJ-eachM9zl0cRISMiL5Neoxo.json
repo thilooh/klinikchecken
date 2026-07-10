@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Karina Levin",
+      "author_url": "https://www.google.com/maps/contrib/114514719126309879098/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLE4BgWwwUH0khckC0z1oC4WJYol2b-Upys1G2l8Qki0_kPEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Frau Dr. Eva Islamidou ist einfach die beste♥️ Sie behandelte meine beiden Töchter und mich mit viel Sorgfalt, Zeit und Mühe, ich danke ihr für alles ♥️♥️♥️wir gehen nur zu ihr ♥️♥️♥️",
+      "time": 1782241610,
+      "translated": false
+    },
+    {
       "author_name": "Omar Grini",
       "author_url": "https://www.google.com/maps/contrib/113532132285380003107/reviews",
       "language": "en",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP8ktZz5K74Dg85-4_oCeCj_9dyoQNbSoHD7FtbWWV7PWEz56Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sie ist fantastisch in ihrem Job, sehr freundlich und höflich und erklärt einem immer alles ganz genau, was zu tun ist. Ich kann sie uneingeschränkt empfehlen. Die Frau kennt und liebt ihren Job. 11/10",
+      "time": 1780993719,
+      "translated": true
+    },
+    {
+      "author_name": "Omar Grini",
+      "author_url": "https://www.google.com/maps/contrib/113532132285380003107/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP8ktZz5K74Dg85-4_oCeCj_9dyoQNbSoHD7FtbWWV7PWEz56Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sie ist fantastisch in ihrem Job, sehr freundlich und höflich und erklärt einem immer alles ganz genau, was zu tun ist. Ich kann sie uneingeschränkt empfehlen. Die Frau kennt und liebt ihren Job. 11/10",
       "time": 1780993719,
       "translated": true
@@ -356,5 +380,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:57.716Z"
+  "lastUpdated": "2026-07-10T08:21:05.830Z"
 }

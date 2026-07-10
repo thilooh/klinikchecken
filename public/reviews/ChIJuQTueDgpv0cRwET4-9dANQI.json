@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lena-Marie Tillmann",
+      "author_url": "https://www.google.com/maps/contrib/115148963390804830880/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWodqqBqyoWoX4qqE5TyjO-MYzvksAm6KlV7RZD8kUrwiJZArN8mg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin zum zweiten Mal dort seit mehreren Wochen in Behandlung.  Die Menschen dort sind total nett, die Behandlung hilft mir bei meinen Schmerzen und die Praxis ist nett eingerichtet.  Ich kann die Praxis weiterempfehlen.",
+      "time": 1783499445,
+      "translated": false
+    },
+    {
       "author_name": "Juliette-Zoe Mora",
       "author_url": "https://www.google.com/maps/contrib/109605220752194943165/reviews",
       "language": "de",
@@ -86,11 +98,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 20,
+  "reviewCount": 21,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:52.925Z"
+  "lastUpdated": "2026-07-10T08:21:00.727Z"
 }

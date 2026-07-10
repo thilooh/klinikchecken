@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "B. U.G.",
+      "author_url": "https://www.google.com/maps/contrib/105025311044511735564/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJQmasa30MkEPhA2C6xQbNdVhdFqf8qYrZqZKVuw9A-b7vLUU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann mich den positiven Bewertungen nur anschließen. Dr. Cammerer und das Praxisteam machen einen super Job.",
+      "time": 1783520533,
+      "translated": false
+    },
+    {
+      "author_name": "Heidi Kübler",
+      "author_url": "https://www.google.com/maps/contrib/115420433362926495175/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0t_kQdaDJ4NBrelyRupyFtofmViOs7q6a5aiYFAN5WaTNog=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr freundlicher und kompetenter Arzt, der sich auch Zeit nimmt und Fragen beantwortet.",
+      "time": 1783503062,
+      "translated": false
+    },
+    {
       "author_name": "Antje Koehler",
       "author_url": "https://www.google.com/maps/contrib/114718922583586918863/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaDTG2YLktV0wABkLDAbB7eAbACZtM_gJku2ktj5-z538DFuOp=s128-c0x00000000-cc-rp-mo-ba4",
@@ -62,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnTQ43zZDwX-mC38j0z8agjtRQCtv7YhuW6_TeFcV2FbO2H5fX=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Nach 6 Monaten Wartezeit wurde ich leider sehr enttäuscht. Meine Schmerzen wurden aus meiner Sicht nicht ernst genommen. Statt einer gründlichen Untersuchung bekam ich lediglich den Rat, abzunehmen und Sport zu treiben. Auf meine Aussage, dass ich aufgrund der Schmerzen kaum Sport machen kann, wurde kaum eingegangen. Ich habe die Praxis mit dem Gefühl verlassen, nicht ernst genommen und nicht respektvoll behandelt worden zu sein.",
+      "time": 1781801469,
+      "translated": false
+    },
+    {
+      "author_name": "Fyz Clk",
+      "author_url": "https://www.google.com/maps/contrib/112964986433181552020/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnTQ43zZDwX-mC38j0z8agjtRQCtv7YhuW6_TeFcV2FbO2H5fX=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Nach 6 Monaten Wartezeit wurde ich leider sehr enttäuscht. Meine Schmerzen wurden aus meiner Sicht nicht ernst genommen. Statt einer gründlichen Untersuchung bekam ich lediglich den Rat, abzunehmen und Sport zu treiben. Auf meine Aussage, dass ich aufgrund der Schmerzen kaum Sport machen kann, wurde kaum eingegangen. Ich habe die Praxis mit dem Gefühl verlassen, nicht ernst genommen und nicht respektvoll behandelt worden zu sein.",
       "time": 1781801469,
       "translated": false
@@ -514,11 +550,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 85,
+  "reviewCount": 87,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:36.420Z"
+  "lastUpdated": "2026-07-10T08:20:43.692Z"
 }

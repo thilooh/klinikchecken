@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jasmin K.",
+      "author_url": "https://www.google.com/maps/contrib/113512097299204258505/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj-q8eyEqUDSo1Of_Gf50jaIQbJEg22YytUeKqwJUxRvGlJxsX=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur Untersuchung im Venencentrum in Pforzheim und habe mich von Anfang an sehr gut aufgehoben gefühlt.\n\nBei der Untersuchung wurde festgestellt, dass meine Krampfadern entfernt werden sollten. Herr Dr. Tenholt hat mich ausführlich über den aktuellen Befund sowie die geplante Operation informiert und sich viel Zeit für die Untersuchung und die Aufklärung genommen.\n\nSowohl am Tag der Operation als auch bei den nachfolgenden Kontrolluntersuchungen verlief alles sehr routiniert, professionell und eingespielt, was mir ein großes Gefühl von Sicherheit gegeben hat.\n\nDas gesamte Team war jederzeit sehr freundlich, fürsorglich und hilfsbereit. Ich habe mich während der gesamten Behandlung bestens betreut gefühlt und kann das Venencentrum in Pforzheim daher uneingeschränkt weiterempfehlen.",
+      "time": 1783497806,
+      "translated": false
+    },
+    {
       "author_name": "Dominik Wolpert",
       "author_url": "https://www.google.com/maps/contrib/110293095892446235689/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Ceyran Elmas",
+      "author_url": "https://www.google.com/maps/contrib/116023062197930827293/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtZQb3P78ED6iCoVk80XowvVbDNrV_jV_nqythXTH6Rq498w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin selbst OTA und habe dadurch beruflich einen guten Einblick in medizinische Abläufe. Umso positiver war ich überrascht, wie professionell, organisiert und freundlich das gesamte Team gearbeitet hat. Von der Beratung über die Operation bis zur Nachsorge habe ich mich jederzeit gut aufgehoben gefühlt. Besonders Dr. Weiler hat sich Zeit genommen, meine Fragen verständlich beantwortet und sehr kompetent behandelt. Möchte ich mich außerdem herzlich bei der Anästhesistin bedanken. Sie war unglaublich freundlich, einfühlsam und hat mir vor der Narkose viel von meiner Angst genommen. Mit dem bisherigen Behandlungsergebnis bin ich sehr zufrieden. Vielen Dank an das gesamte Team eine Praxis, die ich mit gutem Gewissen weiterempfehlen kann🙌🏼",
+      "time": 1783032906,
+      "translated": false
+    },
+    {
       "author_name": "Fatma Erdem",
       "author_url": "https://www.google.com/maps/contrib/105319886934043705266/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHDHvz8s6d51Bkww0DrxNPy0ELZtqSeRzxvCjywa99BvhvXA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann das Venenzentrum Pforzheim mit Dr. Weiler und seinem gesamten Team uneingeschränkt weiterempfehlen. Vom ersten Moment an wurde ich sehr freundlich und herzlich empfangen. Das gesamte Praxisteam ist äußerst kompetent, hilfsbereit und nimmt sich Zeit für die Anliegen der Patienten.\n\nDr. Tenholt hat mich gründlich untersucht, alles verständlich erklärt und sind auf meine Fragen und Sorgen eingegangen. Man fühlt sich dort ernst genommen und medizinisch sehr gut aufgehoben.\n\nAuch die Organisation der Praxis verlief reibungslos, und die Mitarbeiterinnen am Empfang waren jederzeit freundlich und zuvorkommend.\n\nVielen Dank an das gesamte Team für die hervorragende Betreuung. Eine Praxis, die ich jederzeit mit gutem Gewissen weiterempfehlen kann!",
+      "time": 1782921620,
+      "translated": false
+    },
+    {
+      "author_name": "Fatma Erdem",
+      "author_url": "https://www.google.com/maps/contrib/105319886934043705266/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHDHvz8s6d51Bkww0DrxNPy0ELZtqSeRzxvCjywa99BvhvXA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann das Venenzentrum Pforzheim mit Dr. Weiler und seinem gesamten Team uneingeschränkt weiterempfehlen. Vom ersten Moment an wurde ich sehr freundlich und herzlich empfangen. Das gesamte Praxisteam ist äußerst kompetent, hilfsbereit und nimmt sich Zeit für die Anliegen der Patienten.\n\nDr. Tenholt hat mich gründlich untersucht, alles verständlich erklärt und sind auf meine Fragen und Sorgen eingegangen. Man fühlt sich dort ernst genommen und medizinisch sehr gut aufgehoben.\n\nAuch die Organisation der Praxis verlief reibungslos, und die Mitarbeiterinnen am Empfang waren jederzeit freundlich und zuvorkommend.\n\nVielen Dank an das gesamte Team für die hervorragende Betreuung. Eine Praxis, die ich jederzeit mit gutem Gewissen weiterempfehlen kann!",
       "time": 1782921620,
       "translated": false
@@ -652,11 +688,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 153,
+  "reviewCount": 154,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:57.260Z"
+  "lastUpdated": "2026-07-10T08:21:05.301Z"
 }

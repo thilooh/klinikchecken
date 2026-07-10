@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Christian Rieper",
+      "author_url": "https://www.google.com/maps/contrib/100088308534156774322/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2BY3Ar8AcjE9uymADEIWmMe11qzMjB_ScGyMyb7xx8bnI0A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Hat alles super geklappt und mit ganz wenig Wartezeit. Fühle mich dort gut aufgehoben.",
+      "time": 1782318502,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Albrecht",
       "author_url": "https://www.google.com/maps/contrib/106809336486046528455/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5hJnzIoguBBrfOmJDzlw_OBg5b1xSr_P6bh74pVqSRWVxve4=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr kompetente Praxis",
+      "time": 1781615280,
+      "translated": false
+    },
+    {
+      "author_name": "Susanne Albrecht",
+      "author_url": "https://www.google.com/maps/contrib/106809336486046528455/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5hJnzIoguBBrfOmJDzlw_OBg5b1xSr_P6bh74pVqSRWVxve4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr kompetente Praxis",
       "time": 1781615280,
       "translated": false
@@ -120,6 +144,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUL0NG6LowEKJCDFAMeLpD3wO9Ku2NTvpVnBqedQ2-yY8QCIQUF=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1781199284,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah Hollensen",
+      "author_url": "https://www.google.com/maps/contrib/103975972311064360811/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUL0NG6LowEKJCDFAMeLpD3wO9Ku2NTvpVnBqedQ2-yY8QCIQUF=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1781199284,
       "translated": false
@@ -732,5 +766,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:27.283Z"
+  "lastUpdated": "2026-07-10T08:20:34.298Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "V. Bluhm",
+      "author_url": "https://www.google.com/maps/contrib/108987590290939210563/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl3SysvLfcrWcC-b9rwY2DpTM7_IzfMXlZsGIG8MMFme0iO86w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann Herrn Dr. Pourhassan und sein Team nur empfehlen. Ich kam in die Notfallsprechstunde klar mit Wartezeit aber ich wurde freundlich empfangen und Herr Dr. Pourhassan hat sich mein Anliegen ordentlich angeschaut\nDie Behandlung war super, bin 2x kollabiert und alle haben ihr Bestes gegeben das ich mich sicher und gut aufgehoben fühle. Kann ich nur empfehlen!",
+      "time": 1783435790,
+      "translated": false
+    },
+    {
       "author_name": "Midnight Lady",
       "author_url": "https://www.google.com/maps/contrib/115704776766395089917/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9FVIAYMjiGxWpb-IR4S2FsFuLQaPrAu2XGuMwnQDBFZw7_Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr guter Arzt der gegen Raucher ist",
+      "time": 1782847696,
+      "translated": false
+    },
+    {
+      "author_name": "roland sonntag",
+      "author_url": "https://www.google.com/maps/contrib/111971870790105174517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9FVIAYMjiGxWpb-IR4S2FsFuLQaPrAu2XGuMwnQDBFZw7_Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr guter Arzt der gegen Raucher ist",
       "time": 1782847696,
       "translated": false
@@ -50,6 +74,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJrKJyhqmfs2Q6wUhCDtmZ7UroeJL_iXlh-LPcRhg17_YZmuA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781775508,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine",
+      "author_url": "https://www.google.com/maps/contrib/108315335979865378403/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJrKJyhqmfs2Q6wUhCDtmZ7UroeJL_iXlh-LPcRhg17_YZmuA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1781775508,
       "translated": false
@@ -110,6 +144,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT78PF3xu-_zOajCnC3wobqfo8kLS0RNLfneRAwSQR_Q3C4w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Es tut mir leid es so schlecht bewerten zu müssen, aber wie man sehen kann ist man als Kassen Patient in dieser Praxis leider nur 2. Wahl\nBei beiden Ärzten kann man überhaupt keinen online Termin mehr haben. Weil keine Termine frei.\nKlickt man dann auf privat Patient sind in allen Kategorien Termine verfügbar.\nTrauriges Deutschland\nHier darf man nicht alt und Krank werden",
+      "time": 1780929689,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin Tenbrink",
+      "author_url": "https://www.google.com/maps/contrib/104711783335102655162/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT78PF3xu-_zOajCnC3wobqfo8kLS0RNLfneRAwSQR_Q3C4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Es tut mir leid es so schlecht bewerten zu müssen, aber wie man sehen kann ist man als Kassen Patient in dieser Praxis leider nur 2. Wahl\nBei beiden Ärzten kann man überhaupt keinen online Termin mehr haben. Weil keine Termine frei.\nKlickt man dann auf privat Patient sind in allen Kategorien Termine verfügbar.\nTrauriges Deutschland\nHier darf man nicht alt und Krank werden",
       "time": 1780929689,
       "translated": false
@@ -420,5 +466,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-07-07T08:21:48.491Z"
+  "lastUpdated": "2026-07-10T08:20:56.148Z"
 }

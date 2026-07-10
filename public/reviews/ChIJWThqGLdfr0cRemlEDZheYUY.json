@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Chris M",
+      "author_url": "https://www.google.com/maps/contrib/100838652648996230797/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-TR0q88nmS8ri6xlc1Jkyoz0Ovy-8M5UWmm8LISSQrgdy8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783581416,
+      "translated": false
+    },
+    {
+      "author_name": "Birgit Storch",
+      "author_url": "https://www.google.com/maps/contrib/107268947031430893518/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV90LydrmTqGyS4pLpSdErUq7rEWlpdBaaHGHZvX1_SLqtzId6t=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schon dort in der Kardiologie und in der Gefäßchirurgie in Behandlung. Ic finde es dort sehr angenehm. Es sind Ärzte wie Schwestern sehr freundlich, hilfsbereit und kompetent.\nDas Altstadtquartier kann ich guten Gewissens weiterempfehlen.",
+      "time": 1783429477,
+      "translated": false
+    },
+    {
       "author_name": "Denny Keitel",
       "author_url": "https://www.google.com/maps/contrib/115823051889110603998/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIy3RPL6bjquQZ6Tz06NXPXt1lOsKMj23yQ92-elvpQgQoz7A=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Erstklassige Versorgung, sehr nette Ärzte und Pfleger/Schwestern. Das Zimmer ist modern und freundlich eingerichtet,  Fernseher und ein kleiner Snack auch als ambulanter Patient sind hier inklusive. Ein Lichtblick in der Medizinversorgungslandschaft",
+      "time": 1782988905,
+      "translated": false
+    },
+    {
+      "author_name": "Denny Keitel",
+      "author_url": "https://www.google.com/maps/contrib/115823051889110603998/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIy3RPL6bjquQZ6Tz06NXPXt1lOsKMj23yQ92-elvpQgQoz7A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Erstklassige Versorgung, sehr nette Ärzte und Pfleger/Schwestern. Das Zimmer ist modern und freundlich eingerichtet,  Fernseher und ein kleiner Snack auch als ambulanter Patient sind hier inklusive. Ein Lichtblick in der Medizinversorgungslandschaft",
       "time": 1782988905,
       "translated": false
@@ -23,6 +57,16 @@
       "translated": false
     },
     {
+      "author_name": "Sabrina Grunert",
+      "author_url": "https://www.google.com/maps/contrib/101795731327653587476/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEQY3pokVpjf2LcI4EsNlrzJmy3xaMWA1QqKstXNJS1MKo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1782974433,
+      "translated": false
+    },
+    {
       "author_name": "karl kuehne",
       "author_url": "https://www.google.com/maps/contrib/103939019164790510950/reviews",
       "language": "de",
@@ -30,6 +74,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmdytJZcNDYtg_YeQCgDAEvv4wzgxio8OrmZaCgKAzNWa_Zvg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches und kompetentes Personal. Top Betreuung.\nAlles ist super verlaufen.",
+      "time": 1782830921,
+      "translated": false
+    },
+    {
+      "author_name": "karl kuehne",
+      "author_url": "https://www.google.com/maps/contrib/103939019164790510950/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmdytJZcNDYtg_YeQCgDAEvv4wzgxio8OrmZaCgKAzNWa_Zvg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundliches und kompetentes Personal. Top Betreuung.\nAlles ist super verlaufen.",
       "time": 1782830921,
       "translated": false
@@ -748,11 +804,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 456,
+  "reviewCount": 458,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-07T08:21:28.975Z"
+  "lastUpdated": "2026-07-10T08:20:35.977Z"
 }

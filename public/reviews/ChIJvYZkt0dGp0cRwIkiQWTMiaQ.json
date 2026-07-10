@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Lilimar Romero",
+      "author_url": "https://www.google.com/maps/contrib/115437113605492348783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGnEc7vbO0C_r8kQ-sY6RYtUCcJuVrq1rkWR9Tn3iyKnOxOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1782844264,
+      "translated": false
+    },
+    {
       "author_name": "Jan Neubert",
       "author_url": "https://www.google.com/maps/contrib/109245827797347800724/reviews",
       "language": "de",
@@ -108,6 +118,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnY5cww6PvoWQG40SDorm-MT_JRSPtNqtar8vfcFZBFDPbHFs7=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Die Praxis ist sehr zu empfehlen. Dr. Jablonski ist ein absolut kompetenter und sehr sympathischer Arzt und auch das Team ist spitze bis auf eine Schwester die leider sehr forsch und ungehalten ist. Durch Gespräche im Wartezimmer wurde klar das sie wohl schon immer so ist und da ich selber im Gesundheitswesen arbeite ist so ein Verhalten für mich völlig unverständlich. Vielleicht sollte da mal ein Gespräch mit der Betroffenen stattfinden.",
+      "time": 1781782645,
+      "translated": false
+    },
+    {
+      "author_name": "Tine Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/110892776138353803338/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnY5cww6PvoWQG40SDorm-MT_JRSPtNqtar8vfcFZBFDPbHFs7=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Die Praxis ist sehr zu empfehlen. Dr. Jablonski ist ein absolut kompetenter und sehr sympathischer Arzt und auch das Team ist spitze bis auf eine Schwester die leider sehr forsch und ungehalten ist. Durch Gespräche im Wartezimmer wurde klar das sie wohl schon immer so ist und da ich selber im Gesundheitswesen arbeite ist so ein Verhalten für mich völlig unverständlich. Vielleicht sollte da mal ein Gespräch mit der Betroffenen stattfinden.",
       "time": 1781782645,
       "translated": false
@@ -420,5 +442,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:40.867Z"
+  "lastUpdated": "2026-07-10T08:20:48.229Z"
 }

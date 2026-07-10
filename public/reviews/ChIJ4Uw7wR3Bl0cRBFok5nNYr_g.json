@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Erika Heimbach",
+      "author_url": "https://www.google.com/maps/contrib/115762784655804426674/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0uSFbQf3T--t__vBrhbtTUuX0wIJDGiPl9MVQvqYUDvd4Dw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783610418,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Stohner",
+      "author_url": "https://www.google.com/maps/contrib/113758980060582087474/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1ZJE9p-fSJSmosdcX1nE3lvkc1YBqvZZ__EtW9s7oMcMY1BY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe die Praxis 2025 für mich entdeckt..\nUnd bin sooo...glücklich... damit.\nHatte gerade eine OP bei Frau Dr.Rewerk  .. alles super gut geklappt.. spürte sofort..\n\"Man ist in \"sehr guten Händen.\"  !!Danke..!!\n\nDank Narkosearzt Dr. Limmer war ich sehr entspannt.\n\nHerr Dr. Rewerk ist \"sehr erfahren,\" \"das merkt man einfach\"...ruhig und einfühlsam..hatte mich  sehr aufgehoben gefühlt..Danke danke danke!\nNicht zu vergessen das tolle ,\nfreundliche..ruheaustrahlende., gute Mitarbeiterteam.!.\nIch habe meine Praxis definitiv gefunden!",
+      "time": 1783577305,
+      "translated": false
+    },
+    {
       "author_name": "Galina Borisova",
       "author_url": "https://www.google.com/maps/contrib/105702099226647541299/reviews",
       "language": "de",
@@ -186,11 +208,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 39,
+  "reviewCount": 41,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:36.900Z"
+  "lastUpdated": "2026-07-10T08:20:44.166Z"
 }

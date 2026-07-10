@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gabriele. Zigann",
+      "author_url": "https://www.google.com/maps/contrib/107032215454195384522/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkf3mVB7yLMhYlgGh4hWZixf8gEfhDkUBgP6NIiuHLsmhp3g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Also ich war als Patientin von Dr. Vasilios Koufoglou dort. Man wurde sehr nett aufgenommen und das Zimmer war sehr schön mit Blick auf den Park. Das Essen war sehr gut auch Änderungen wurden sofort umgesetzt.\nDas gesamte Personal war sehr nett und freundlich besonders unsere Nachtschwester war sehr lieb. Ich kann nur sagen das ich mich sehr wohl gefühlt habe. Ein riesengroßes Lob von mir.",
+      "time": 1783448058,
+      "translated": false
+    },
+    {
       "author_name": "J. M.",
       "author_url": "https://www.google.com/maps/contrib/109207849886629363112/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOczdgD9AGHh2sEN3BbbvUd4uGVWvSX7UTcdcEaKDe8HRdK6s=s128-c0x00000000-cc-rp-mo",
@@ -598,11 +610,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 154,
+  "reviewCount": 155,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-07T08:21:28.470Z"
+  "lastUpdated": "2026-07-10T08:20:35.499Z"
 }

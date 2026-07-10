@@ -1,11 +1,43 @@
 {
   "reviews": [
     {
+      "author_name": "An Ki",
+      "author_url": "https://www.google.com/maps/contrib/108975728244757808354/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7YiQccVMvE8C0OHSjAq0uoJ9TojjFt8h5qOGrovnZm09tMw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783585071,
+      "translated": false
+    },
+    {
+      "author_name": "Navid Ghorbani",
+      "author_url": "https://www.google.com/maps/contrib/111734682548131095793/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyIwDLkbNFKgY4dGeIdQh62Nmd9DZVpOgUKvL_Dh_--d1lblRUPg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Odyssee für eine einfache Salbe und leider gar nicht zu empfehlen. Per E-Mail bekommt man kein Rezept, sondern wird an die kostenpflichtige Plattform 'OnlineDoctor' (35 €) verwiesen. Trotz eindeutiger Bilder konnte (oder wollte) mir dort nicht geholfen werden und ich wurde in die Praxis zitiert.\nIch buchte einen 5-Minuten-Akuttermin, saß aber über eine Stunde im Wartezimmer. Auf meine Nachfrage wurde ich nur vertröstet, dass solche Termine eben immer mit sehr sehr langer Wartezeit verbunden sind. Daraufhin habe ich die Praxis verärgert verlassen, ohne den Arzt an diesem Tag überhaupt noch zu sehen – mir hat es endgültig gereicht.\nAus vorherigen Besuchen weiß ich ohnehin schon: Der Arzt ist leider überheblich und lässt einen nicht ausreden. Wer so mit der Zeit und den Nerven der Patienten umgeht, hat mich als Patienten verloren. Es gibt definitiv bessere Alternativen.",
+      "time": 1783500110,
+      "translated": false
+    },
+    {
       "author_name": "SphereOfSepsis Official",
       "author_url": "https://www.google.com/maps/contrib/111245954652778627700/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeQ_u4GVtwaLvlqhEnLI9NEEowbxcqJlYdTkYEbz8ItLgpuw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783012897,
+      "translated": false
+    },
+    {
+      "author_name": "SphereOfSepsis Official",
+      "author_url": "https://www.google.com/maps/contrib/111245954652778627700/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeQ_u4GVtwaLvlqhEnLI9NEEowbxcqJlYdTkYEbz8ItLgpuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783012897,
       "translated": false
@@ -18,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtjKuJUmgJJMPZAl5B9bOKwt5ji1GaNthFCpf2N2P9U2bBWA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "War das erste Mal da. Alle super freundlich, Patienten WLan kostenlos, war bei einer sehr netten, freundlichen Ärztin, die alle Fragen sehr zufriedenstellend beantwortet hat. Mehr kann ich nach dem ersten Besuch noch nicht sagen, werde aber sicher wieder die Praxis bei Bedarf gern aufsuchen.",
+      "time": 1782838456,
+      "translated": false
+    },
+    {
+      "author_name": "René L. aus MA",
+      "author_url": "https://www.google.com/maps/contrib/110749748684889588829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtjKuJUmgJJMPZAl5B9bOKwt5ji1GaNthFCpf2N2P9U2bBWA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "War das erste Mal da. Alle super freundlich, Patienten WLan kostenlos, war bei einer sehr netten, freundlichen Ärztin, die alle Fragen sehr zufriedenstellend beantwortet hat. Mehr kann ich nach dem ersten Besuch noch nicht sagen, werde aber sicher wieder die Praxis bei Bedarf gern aufsuchen.",
       "time": 1782838456,
       "translated": false
@@ -660,11 +704,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 265,
+  "reviewCount": 267,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-07T08:21:38.067Z"
+  "lastUpdated": "2026-07-10T08:20:45.373Z"
 }

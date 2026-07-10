@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christiane Albrecht",
+      "author_url": "https://www.google.com/maps/contrib/118118093445440867496/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIid2_oevPDxgZSo8mjdCKLENGYc9YNWMJVEdiEWi3lYdm314Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese praxis sehr empfehlen sehr nettes Personal und endlich mal ein Arzt der klartext redet. Ich habe mich gut beraten gefühlt vielen Dank. Christiane Albrecht",
+      "time": 1783448363,
+      "translated": false
+    },
+    {
       "author_name": "Tanja K.",
       "author_url": "https://www.google.com/maps/contrib/115566766867729196067/reviews",
       "language": "de",
@@ -84,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ14FDNhikH52rtscVzDUkT3uYe5dQliOpQEcJGRP8EvC7trQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1781251941,
+      "translated": false
+    },
+    {
+      "author_name": "Zapralot Zapralot",
+      "author_url": "https://www.google.com/maps/contrib/102759162107024458382/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ14FDNhikH52rtscVzDUkT3uYe5dQliOpQEcJGRP8EvC7trQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1781251941,
       "translated": false
@@ -678,11 +700,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 138,
+  "reviewCount": 139,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:48.717Z"
+  "lastUpdated": "2026-07-10T08:20:56.382Z"
 }

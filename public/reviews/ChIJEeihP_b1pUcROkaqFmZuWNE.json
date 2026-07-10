@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Claus-Dieter Kiehne",
+      "author_url": "https://www.google.com/maps/contrib/110091513956252065869/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoz62D1DC0eSKwkdQFHfE40nbpaPrvieTfAFY0H_dUt5qXRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783535913,
+      "translated": false
+    },
+    {
       "author_name": "Jochen K.",
       "author_url": "https://www.google.com/maps/contrib/102755319447773845205/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTMQCYuGf_8Io6BPOu3SSzIlExoMDeMfW_JKXB6iTM__neyw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -370,11 +380,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 116,
+  "reviewCount": 117,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-07T08:21:29.213Z"
+  "lastUpdated": "2026-07-10T08:20:36.221Z"
 }

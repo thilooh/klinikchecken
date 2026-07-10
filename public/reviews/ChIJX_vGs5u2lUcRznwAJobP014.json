@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Erno Unruh",
+      "author_url": "https://www.google.com/maps/contrib/115559824678151522627/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5y9O2NkUySK5kcBa5qaZUFZuHdcuFAyKrTrtbI0gFzkxr_29yUQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meine Ärztin ist Frau Dr. Tadic. Ich möchte mich mit 5 Sternen bei ihr bedanken für ihre empathische Art, ihre gründlichen Untersuchungen, verständliche Erläuterungen und praktische Empfehlungen. Ausgezeichnet, herzlichen Dank!",
+      "time": 1782905137,
+      "translated": false
+    },
+    {
       "author_name": "Werner Günzel",
       "author_url": "https://www.google.com/maps/contrib/114382298028484063115/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPpGbEuCvkUuQ5WAh74tF86Y6lwy_SFV1OBKGIrv95jlx05g=s128-c0x00000000-cc-rp-mo",
@@ -58,6 +70,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPpGbEuCvkUuQ5WAh74tF86Y6lwy_SFV1OBKGIrv95jlx05g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1780909607,
+      "translated": false
+    },
+    {
+      "author_name": "Werner Günzel",
+      "author_url": "https://www.google.com/maps/contrib/114382298028484063115/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPpGbEuCvkUuQ5WAh74tF86Y6lwy_SFV1OBKGIrv95jlx05g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1780909607,
       "translated": false
@@ -424,5 +446,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:45.052Z"
+  "lastUpdated": "2026-07-10T08:20:52.531Z"
 }

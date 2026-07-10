@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ramona A.",
+      "author_url": "https://www.google.com/maps/contrib/114231870253040723446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm_KVkAvi0bNtBWqBchbANjmsxi5aQw2NUa1j2EldamlBXxTwP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vorsicht. Ich bin zur Behandlung gekommen, wurde nicht behandelt und erhielt trotzdem eine Rechnung. Der Umgang war für mich respektlos, unter anderem mit der Aussage, ich hätte \"Tausende Blutschwämmchen\". Das Wartezimmer wirkt hochwertig, das Behandlungszimmer machte auf mich keinen professionellen Eindruck. Für mich zählt hier offenbar die Abrechnung mehr als der Patient. Ich kann diese Praxis nicht empfehlen.",
+      "time": 1783624188,
+      "translated": false
+    },
+    {
       "author_name": "Dani Z.",
       "author_url": "https://www.google.com/maps/contrib/117216480112312456092/reviews",
       "language": "en",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Dani Z.",
+      "author_url": "https://www.google.com/maps/contrib/117216480112312456092/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4OVEyT5b6FW03DRVkviVmfECqz7G5_Qi0sybuLbXFCff4mMU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Kann ich nicht empfehlen. Über 30 Minuten Wartezeit für eine nur wenige Minuten dauernde Untersuchung. Bin gespannt, ob sich das auf der Rechnung widerspiegelt. Ich habe auf weitere Behandlungen verzichtet und werde mir eine geeignetere Praxis suchen.",
+      "time": 1782825551,
+      "translated": true
+    },
+    {
       "author_name": "T M",
       "author_url": "https://www.google.com/maps/contrib/103292576128869799040/reviews",
       "language": "de",
@@ -80,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMdbk1APwxXvCZJ79acU3pyXNvvEsNemylFyuNbHJfxKXc51s=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich würde diese Praxis auf KEINEN Fall weiterempfehlen!!\nIch hatte einen Termin zur Beratung für eine Tattoo Entfernung. Der Termin hat weniger als 5 Minuten gedauert. Die Ärztin hat meine zwei kleinen Tattoos nur kurz von weitem angeschaut und mir den Preis gesagt, den ich mir nicht leisten konnte. Danach bin ich gegangen. Später habe ich eine Rechnung über 53,86 € bekommen für Leistungen die gar nicht stattgefunden haben. Ich habe mehrmals angerufen und bin auch persönlich in die Praxis gegangen um das zu klären. Eine Rückmeldung habe ich erst nach einer E-Mail bekommen! Danach wurde die Rechnung geändert…Am Betrag hat sich eigentlich fast nichts geändert. Am Ende habe ich fast 50€ bezahlt, nur um zu erfahren dass eine Sitzung zur Tattoo-Entfernung 200€ kostet(!!!)\nWahnsinn!",
+      "time": 1781808017,
+      "translated": false
+    },
+    {
+      "author_name": "Konstantina",
+      "author_url": "https://www.google.com/maps/contrib/112774840665843868862/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMdbk1APwxXvCZJ79acU3pyXNvvEsNemylFyuNbHJfxKXc51s=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich würde diese Praxis auf KEINEN Fall weiterempfehlen!!\nIch hatte einen Termin zur Beratung für eine Tattoo Entfernung. Der Termin hat weniger als 5 Minuten gedauert. Die Ärztin hat meine zwei kleinen Tattoos nur kurz von weitem angeschaut und mir den Preis gesagt, den ich mir nicht leisten konnte. Danach bin ich gegangen. Später habe ich eine Rechnung über 53,86 € bekommen für Leistungen die gar nicht stattgefunden haben. Ich habe mehrmals angerufen und bin auch persönlich in die Praxis gegangen um das zu klären. Eine Rückmeldung habe ich erst nach einer E-Mail bekommen! Danach wurde die Rechnung geändert…Am Betrag hat sich eigentlich fast nichts geändert. Am Ende habe ich fast 50€ bezahlt, nur um zu erfahren dass eine Sitzung zur Tattoo-Entfernung 200€ kostet(!!!)\nWahnsinn!",
       "time": 1781808017,
       "translated": false
@@ -392,7 +428,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 117,
+  "reviewCount": 118,
   "summary": [],
-  "lastUpdated": "2026-07-07T08:21:21.540Z"
+  "lastUpdated": "2026-07-10T08:20:28.364Z"
 }

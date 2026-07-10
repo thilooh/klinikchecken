@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Iron Lappu",
+      "author_url": "https://www.google.com/maps/contrib/101988983102180956536/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbtjNYAoUaTB-crhKnAFVVLog1Vm0k7FO9fznU6knYJNmUiu4p=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Am 9. Juli 2026 waren meine Frau und ich in der Klinik. Dort wurden uns Kompressionsstrümpfe verschrieben.\n\nLeider müssen wir sagen, dass die Mitarbeiterin in der Abteilung für die Bestellung der Kompressionsstrümpfe bei uns einen sehr schlechten Eindruck hinterlassen hat. Die Abteilung war völlig leer, außer uns waren keine weiteren Patienten anwesend.\n\nDie Mitarbeiterin (Frau Haneburger) wirkte nervös, unfreundlich und sprach in einem unangemessenen, streitlustigen Ton. Außerdem wollte sie die Farbe der Kompressionsstrümpfe nicht ändern und versuchte, meiner Frau ein Modell aufzudrängen, das ihr überhaupt nicht gefiel.\n\nAm Ende haben wir die Bestellung storniert und die Klinik enttäuscht und verärgert verlassen. Wir hätten uns einen freundlichen, respektvollen Umgang und eine bessere Beratung gewünscht.\nFamilie Cogoev.",
+      "time": 1783593238,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas_bgn",
+      "author_url": "https://www.google.com/maps/contrib/107779147570162518194/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUX7Xm-0XXStmvveSIMuYR1sdU7zAV6nu9SYDWmFpeh_-05ICY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "„Nicht zu empfehlen für chronische Lymphödem-Patienten – Unzuverlässig und unprofessionell. Ich war in dieser Klinik aufgrund eines gesicherten Lymphödems im Stadium 2 mit bereits spürbaren Fibrosen und Kastenbildung in Behandlung [AWMF]. Leider musste ich hier die Erfahrung machen, dass medizinische Leitlinien ignoriert werden und getroffene Absprachen nichts wert sind. Mit dem behandelnden Phlebologen war vorab ausdrücklich vereinbart worden: Ich solle zunächst mit meinem Hausarzt sprechen, ob dieser die Rezepte ausstellt. Falls der Hausarzt dies (aus Budgetgründen) ablehnt, könne ich jederzeit wieder in die Klinik kommen, um meine Verordnungen für die dringend notwendige Manuelle Lymphdrainage (MLD) zu erhalten. Als ich nun genau wie vereinbart ohne Rezepte zurückkam, wurde diese Absprache eiskalt abgestritten. Man könne sich an nichts erinnern. Statt mir als Schmerzpatientin zu helfen, wurde mir stattdessen dreist nahegelegt, mir doch einen neuen Hausarzt zu suchen. Zudem wurde behauptet, mein Lymphödem Stadium 2 würde ‚bald wieder weggehen‘ – eine fachliche Fehleinschätzung bei einer chronischen Erkrankung [AWMF].  Einem chronisch kranken Menschen die schmerzlindernde Dauertherapie zu verweigern und getroffene Absprachen abzustreiten, ist medizinisch unverantwortlich. Ich habe die Konsequenzen gezogen und beende die Behandlung in dieser Klinik endgültig. Nie wieder!“",
+      "time": 1783585888,
+      "translated": false
+    },
+    {
       "author_name": "Philippe",
       "author_url": "https://www.google.com/maps/contrib/100383537511298509521/reviews",
       "language": "de",
@@ -23,11 +47,31 @@
       "translated": false
     },
     {
+      "author_name": "Alexandra Basic",
+      "author_url": "https://www.google.com/maps/contrib/111012366030577851320/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdxzqNvENw73jLUGwkiIYojLt1EK7RcoveB4gYWqdLJfpGig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783003943,
+      "translated": false
+    },
+    {
       "author_name": "Helena Gruse",
       "author_url": "https://www.google.com/maps/contrib/109855002884527307601/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtmXeUf4fDzGk912aWCe568MdWMkS4FqDqdyr9fTPv4z8rHF9Wvg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782898889,
+      "translated": false
+    },
+    {
+      "author_name": "Helena Gruse",
+      "author_url": "https://www.google.com/maps/contrib/109855002884527307601/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtmXeUf4fDzGk912aWCe568MdWMkS4FqDqdyr9fTPv4z8rHF9Wvg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1782898889,
       "translated": false
@@ -702,11 +746,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 417,
+  "reviewCount": 419,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:53.628Z"
+  "lastUpdated": "2026-07-10T08:21:01.446Z"
 }

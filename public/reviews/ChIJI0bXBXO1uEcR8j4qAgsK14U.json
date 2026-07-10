@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Christopher Ritz",
+      "author_url": "https://www.google.com/maps/contrib/110047863151193105252/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7ffb2pbKUYkKt0kFs-Nlg-WqDdJPSIyopoRBMP4yH5EAsaVM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war sehr zufrieden im Dermazentrum Neuss. Das gesamte Team ist freundlich und die Untersuchung war gründlich und professionell. Besonders den KI-Hautscanner finde ich eine sinnvolle Ergänzung zur Hautkrebsvorsorge. Ich habe so ein gutes Gefühl dabei, dass ich auch meine Eltern zur Vorsorge dorthin schicken werde. Klare Empfehlung!",
+      "time": 1783665919,
+      "translated": false
+    },
+    {
+      "author_name": "Rise WithAI",
+      "author_url": "https://www.google.com/maps/contrib/104699723482635899866/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvZ65VgbKTqXckgl6rvmFlvpoI_BRoMI6K-3T9HMHfSapz_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Beste Erfahrung!!!",
+      "time": 1783593613,
+      "translated": false
+    },
+    {
       "author_name": "Gelika",
       "author_url": "https://www.google.com/maps/contrib/116175072112924442138/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVM8o7DliEc7WQR6qTaokBqHvLjwAIy9-nMcnpmnoIJ-mqewEsi=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Absolut empfehlenswert!\nIch habe online von der neuesten Generation der KI-gestützten Body-Mapping-Technologie zur Hautkrebsvorsorge gehört und hatte heute meinen Termin. Ich bin restlos begeistert – dank dieser Technik wird wirklich keine Hautveränderung übersehen. Das Personal war zudem überaus freundlich. Ich kann die Praxis und diese Methode nur wärmstens empfehlen!",
+      "time": 1783009097,
+      "translated": false
+    },
+    {
+      "author_name": "Gelika",
+      "author_url": "https://www.google.com/maps/contrib/116175072112924442138/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVM8o7DliEc7WQR6qTaokBqHvLjwAIy9-nMcnpmnoIJ-mqewEsi=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Absolut empfehlenswert!\nIch habe online von der neuesten Generation der KI-gestützten Body-Mapping-Technologie zur Hautkrebsvorsorge gehört und hatte heute meinen Termin. Ich bin restlos begeistert – dank dieser Technik wird wirklich keine Hautveränderung übersehen. Das Personal war zudem überaus freundlich. Ich kann die Praxis und diese Methode nur wärmstens empfehlen!",
       "time": 1783009097,
       "translated": false
@@ -746,11 +782,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 313,
+  "reviewCount": 315,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:55.416Z"
+  "lastUpdated": "2026-07-10T08:21:03.373Z"
 }

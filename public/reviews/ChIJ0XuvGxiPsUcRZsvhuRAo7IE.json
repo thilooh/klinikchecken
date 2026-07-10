@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Julia Jskssaau",
+      "author_url": "https://www.google.com/maps/contrib/116464117480845149691/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMUdk2DWUFX6TcZljz_YJVjo_9YCy9aHl06q2fIbOzyMSmYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Behandlung war top und auch die Ärztin. Einen Punkt Abzug gibt es für die interne Kommunikation.\nIch habe vor Ort, einmal telefonisch und einmal per E-Mail darauf hingewiesen, dass ich die Rechnungen Per E-Mail wünsche.\nHierauf wurde einmal eingegangen, der Rest wurde nach wie vor nur postalisch zugesandt. An sich ist es nicht problematisch wenn sowas passiert, aber bei einer Privatpraxis ist es sehr nervig und enttäuschend wenn nach mehrmaligem Hinweis sowas immer noch nicht umgesetzt werden kann. Leider an der Stelle am falschen Ende gespart oder die falschen Leute eingestellt…",
+      "time": 1783522831,
+      "translated": false
+    },
+    {
+      "author_name": "Sina Schlosser",
+      "author_url": "https://www.google.com/maps/contrib/105746139593596795362/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7RsB9tVIAARz3YzBPyzc8S7d3GWID6fDyF3yPX-kYJ3ubhQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine tolle Klinik,super Beratung von A-Z. Am Tag der Behandlung lief alles 1a. Die Ärztin Fr. Dr. Stier war einfach zauberhaft und auch alle Kolleginnen in der Klinik waren durchweg freundlich und aufmerksam. Definitiv 100% Empfehlung.",
+      "time": 1783448972,
+      "translated": false
+    },
+    {
+      "author_name": "Pri vat",
+      "author_url": "https://www.google.com/maps/contrib/101691276594571168014/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNKRmceTujKmfk3z_wdPPStsi-Lkm6dP3bokYNKSPS7UBDrA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "02.07.2026, kurz vor 10 Uhr. Die Dame am Empfangstelefon war sehr unfreundlich, ließ mich nicht ausreden und blaffte mich an..insgesamt machte die Praxis durch ihren unprofessionellen Auftritt keinen guten Eindruck, weswegen ich mich gegen eine Behandlung entschied. Ich hoffe dies bessert sich zukünftig.",
+      "time": 1782979141,
+      "translated": false
+    },
+    {
       "author_name": "Ivana Ruljevic",
       "author_url": "https://www.google.com/maps/contrib/118338993664902004327/reviews",
       "language": "de",
@@ -740,7 +776,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 433,
+  "reviewCount": 436,
   "summary": [],
-  "lastUpdated": "2026-07-07T08:21:22.861Z"
+  "lastUpdated": "2026-07-10T08:20:29.730Z"
 }

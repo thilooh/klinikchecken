@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alina",
+      "author_url": "https://www.google.com/maps/contrib/107476757663895672944/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_R1q5uHmHLlY8bVkK-ffYCnjzH_lK3LdkmogDgC-7EwGTTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein Mann  hat mir von seinem Besuch in dieser Praxis erzählt und war sehr enttäuscht. Er hatte den Eindruck, dass einige Auszubildende während seines Termins mit ihm geflirtet und sich unprofessionell verhalten haben. Falls das so passiert ist, finde ich ein solches Verhalten in einer Arztpraxis unangebracht. Ich hoffe, dass die Praxis auf ein professionelles Auftreten ihres Personals achtet.",
+      "time": 1783532641,
+      "translated": false
+    },
+    {
       "author_name": "Rowane Schweizer",
       "author_url": "https://www.google.com/maps/contrib/105289250783418630061/reviews",
       "language": "de",
@@ -28,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkpND0ESO7BpyjRQc5hLuUAhUdFxxCh6rWxbH4yxPfaXE-yw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1782810308,
+      "translated": false
+    },
+    {
+      "author_name": "Roland Schäfer",
+      "author_url": "https://www.google.com/maps/contrib/102991403779851855504/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkpND0ESO7BpyjRQc5hLuUAhUdFxxCh6rWxbH4yxPfaXE-yw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1782810308,
       "translated": false
@@ -766,11 +788,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 196,
+  "reviewCount": 197,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:56.804Z"
+  "lastUpdated": "2026-07-10T08:21:04.822Z"
 }

@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Chrissi",
+      "author_url": "https://www.google.com/maps/contrib/101593532668008823769/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfuAxELiLuBorwu3k9WZv-9LZV_0ga-Hx5AsokblmgjH_g4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Auf der Suche nach einer Website, die meiner Wunschbehandlung entsprechend gut aufklärt, bin ich an Dr. Omaj & Team gelangt - wohlgemerkt aus Österreich - und es hat sich gelohnt! Wichtig war mir: keine \"Beautyklinik plus Beautydoc's\", sondern ein kompetenter, sympathischer Facharzt.\nFazit: In ästhetischer Wohlfühlumgebung und sehr empathisch \"in Watte gepackt\" zum Wunschergebnis! Danke und gerne wieder! :-)",
+      "time": 1782387033,
+      "translated": false
+    },
+    {
       "author_name": "Hawin Öner",
       "author_url": "https://www.google.com/maps/contrib/105619797535043865846/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNZPe5uDCeLYSjoIFw_f0Jo6tPg_X60ezxufyJebcfaiQ0Pg=s128-c0x00000000-cc-rp-mo",
@@ -40,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNZPe5uDCeLYSjoIFw_f0Jo6tPg_X60ezxufyJebcfaiQ0Pg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1782286136,
+      "translated": false
+    },
+    {
+      "author_name": "Hawin Öner",
+      "author_url": "https://www.google.com/maps/contrib/105619797535043865846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNZPe5uDCeLYSjoIFw_f0Jo6tPg_X60ezxufyJebcfaiQ0Pg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1782286136,
       "translated": false
@@ -118,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnVyea2-ohl47qnjyxDwIeXw6OxN5YW640D_azZqlaWIfQCec=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "„Ein hervorragender Hautarzt! Vom ersten Termin an habe ich mich bestens aufgehoben gefühlt. Er nimmt sich Zeit, hört aufmerksam zu und erklärt alle Behandlungsschritte verständlich. Das gesamte Praxisteam ist freundlich und hilfsbereit. Die Behandlung war ein voller Erfolg. Vielen Dank für die ausgezeichnete Betreuung!“",
+      "time": 1781167234,
+      "translated": false
+    },
+    {
+      "author_name": "Bouali Ghizlane",
+      "author_url": "https://www.google.com/maps/contrib/116861750615095160417/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnVyea2-ohl47qnjyxDwIeXw6OxN5YW640D_azZqlaWIfQCec=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "„Ein hervorragender Hautarzt! Vom ersten Termin an habe ich mich bestens aufgehoben gefühlt. Er nimmt sich Zeit, hört aufmerksam zu und erklärt alle Behandlungsschritte verständlich. Das gesamte Praxisteam ist freundlich und hilfsbereit. Die Behandlung war ein voller Erfolg. Vielen Dank für die ausgezeichnete Betreuung!“",
       "time": 1781167234,
       "translated": false
@@ -679,5 +713,5 @@
   "rating": 4.6,
   "reviewCount": 294,
   "summary": [],
-  "lastUpdated": "2026-07-07T08:21:18.533Z"
+  "lastUpdated": "2026-07-10T08:20:25.293Z"
 }

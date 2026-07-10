@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Simon W.",
+      "author_url": "https://www.google.com/maps/contrib/109851069750280936142/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFEEdWEygV4nGMnvoHhrIjjTAkoA16COtp2P0IxP0GfDdcgCY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mit einem massivem Ausschlag (Rötung) am komplettem Körper, Schwellungen und Druck auf der Brust und womöglich kurz vor einem allergischen Schock, bekomme ich dort an der Annahme mitgeteilt, dass ich um 8Uhr hätte kommen müssen, wo aber die Symptome noch gar nicht aufgetreten sind und sich im Laufe des Tages am ganzen Körper ausgebreitet haben.\n\nAuf meine Aussage, dass ich dann ins Krankenhaus fahren soll, hat man mir mitgeteilt, dass ich das gerne tun kann.\n\nUm eine gute Hautarzt-Praxis zu finden, muss man lange fahren. Das sagt mir meine Erfahrung mit jahrelanger Neurodermitis und mehreren Allergien nun ganz deutlich, die dort mit Kortison-Präperazen behandelt wurden.\n\nArmes Deutschland...\n\nAber diese Praxis ist mehr für Privatpatienten, als für \"Menschen\" mit akuten Problemen, was auch oft so in den anderen Kommentaren geschildert wird, bestätige ich hiermit gerne.",
+      "time": 1783440676,
+      "translated": false
+    },
+    {
       "author_name": "Manuel Kraus",
       "author_url": "https://www.google.com/maps/contrib/108797926646049488383/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB26hb4JspruAANWgwKUU1GCnZTMgr4XHoDh-bM7PrqIORBw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -59,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "Hany Dawood",
+      "author_url": "https://www.google.com/maps/contrib/103623350928001420429/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFMlz0ulSCed5k0waj4G3Njz7BME6-wZe8Sn9Z3wVCNY62xw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ans Telefon geht keiner, auf Mail antwortet man nicht. Was nun?",
+      "time": 1781782727,
+      "translated": false
+    },
+    {
       "author_name": "Bernhard Kraemer",
       "author_url": "https://www.google.com/maps/contrib/100439377537779645508/reviews",
       "language": "de",
@@ -95,6 +119,18 @@
       "translated": false
     },
     {
+      "author_name": "Bernhard Kraemer",
+      "author_url": "https://www.google.com/maps/contrib/100439377537779645508/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8VoUQiQrd5FO_wDO8bLQChCdY4PoNZtt28J4l-t7hx-3iBPHoLw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Telefonisch nicht erreichbar. Ich habe es oft telefonisch versucht komme aber nicht durch. Ständig wird man aufgefordert später noch mal anzurufen. Auf der Webseite ist eine E-Mail-Adresse angegeben. Wenn man da hinschreibt, bekommt man die Antwort dass E-Mails nicht bearbeitet werden wegen Personalmangels. Unmöglich!",
+      "time": 1781682681,
+      "translated": false
+    },
+    {
       "author_name": "maracuja",
       "author_url": "https://www.google.com/maps/contrib/100648119306784222484/reviews",
       "language": "de",
@@ -126,6 +162,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUktooeILcwdA3GLhoL23BLpEQ-eCf61ZqV3pvsgOUfrF4UA8=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "es gibt die option für terminvereinbarung per email aber mein email terminanfrag ist einfach abgelehnt später. wenn das kein option ist, dann schreib nichts",
+      "time": 1781598742,
+      "translated": false
+    },
+    {
+      "author_name": "maracuja",
+      "author_url": "https://www.google.com/maps/contrib/100648119306784222484/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUktooeILcwdA3GLhoL23BLpEQ-eCf61ZqV3pvsgOUfrF4UA8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "es gibt die option für terminvereinbarung per email aber mein email terminanfrag ist einfach abgelehnt später. wenn das kein option ist, dann schreib nichts",
       "time": 1781598742,
       "translated": false
@@ -717,12 +765,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 230,
+  "rating": 4.5,
+  "reviewCount": 231,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-07T08:21:37.612Z"
+  "lastUpdated": "2026-07-10T08:20:44.890Z"
 }

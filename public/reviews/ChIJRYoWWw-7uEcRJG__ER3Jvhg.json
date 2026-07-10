@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Chantal Tas",
+      "author_url": "https://www.google.com/maps/contrib/101640114313776858947/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFVR2_f0JDBz9hygNnxLtUtu1HlnSbZd1cognrwTstSAJ890-W=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schon zum zweiten Mal dort gewesen und man fühlt sich einfach wohl. Und das Ergebnis ist auch immer Top. Kann es wirklich nur jedem weiterempfehlen.",
+      "time": 1783616749,
+      "translated": false
+    },
+    {
+      "author_name": "P. C.",
+      "author_url": "https://www.google.com/maps/contrib/112520474728263347635/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVVY_eN0y9nR8r_7BPHYCBaP2f8pEtWc148cCM53RRlb0YKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war erneut in der Praxis und bin wieder begeistert.Aleo hat sich, wie gewohnt, wieder sehr viel Zeit für die Beratung genommen. Bin wieder sehr zufrieden mit dem Ergebnis und würde die Praxis auf alle Fälle weiter empfehlen.",
+      "time": 1783111499,
+      "translated": false
+    },
+    {
       "author_name": "Nicky Fab",
       "author_url": "https://www.google.com/maps/contrib/112838476441881411961/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU27cppDuhZwjll9pXXes14pM5cy1wTvgyxAFh6D9Yf-ySjDZx=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden und kann die Praxis von Herzen weiterempfehlen. Man fühlt sich von Anfang an wohl, wird ernst genommen und hervorragend beraten. Ich hatte jederzeit das Gefühl, dass auf meine Wünsche eingegangen wird und nichts aufgedrängt wird.\n\nMit den Ergebnissen bin ich sehr glücklich. Besonders schätze ich die ehrliche Beratung, die angenehme Atmosphäre und dass man auch mal gemeinsam lachen kann. Genau diese Mischung aus Professionalität und Herzlichkeit macht für mich den Unterschied.\n\nVielen Dank für die tolle Betreuung ich komme immer wieder gerne!",
+      "time": 1783050686,
+      "translated": false
+    },
+    {
+      "author_name": "Nicky Fab",
+      "author_url": "https://www.google.com/maps/contrib/112838476441881411961/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU27cppDuhZwjll9pXXes14pM5cy1wTvgyxAFh6D9Yf-ySjDZx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin sehr zufrieden und kann die Praxis von Herzen weiterempfehlen. Man fühlt sich von Anfang an wohl, wird ernst genommen und hervorragend beraten. Ich hatte jederzeit das Gefühl, dass auf meine Wünsche eingegangen wird und nichts aufgedrängt wird.\n\nMit den Ergebnissen bin ich sehr glücklich. Besonders schätze ich die ehrliche Beratung, die angenehme Atmosphäre und dass man auch mal gemeinsam lachen kann. Genau diese Mischung aus Professionalität und Herzlichkeit macht für mich den Unterschied.\n\nVielen Dank für die tolle Betreuung ich komme immer wieder gerne!",
       "time": 1783050686,
       "translated": false
@@ -68,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtxkY5PgDH89p0v62lEu2snYCWmyz9KhQskJQrt7UVm_IUjQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Dr. Najm ist einfach ein großartiger Arzt! Man fühlt sich bei ihm sofort gut aufgehoben, ernst genommen und kompetent beraten. Er nimmt sich Zeit, erklärt alles verständlich und begegnet einem dabei immer freundlich, herzlich und auf Augenhöhe. Fachlich top und menschlich genauso stark. Ich kann Dr. Najm wirklich uneingeschränkt weiterempfehlen, vielen Dank für die tolle Betreuung! Bedenkenlos 5 Sterne!",
+      "time": 1781788308,
+      "translated": false
+    },
+    {
+      "author_name": "Maurice Schröer",
+      "author_url": "https://www.google.com/maps/contrib/113973427564389412944/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtxkY5PgDH89p0v62lEu2snYCWmyz9KhQskJQrt7UVm_IUjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Dr. Najm ist einfach ein großartiger Arzt! Man fühlt sich bei ihm sofort gut aufgehoben, ernst genommen und kompetent beraten. Er nimmt sich Zeit, erklärt alles verständlich und begegnet einem dabei immer freundlich, herzlich und auf Augenhöhe. Fachlich top und menschlich genauso stark. Ich kann Dr. Najm wirklich uneingeschränkt weiterempfehlen, vielen Dank für die tolle Betreuung! Bedenkenlos 5 Sterne!",
       "time": 1781788308,
       "translated": false
@@ -766,11 +814,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 216,
+  "reviewCount": 218,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:47.797Z"
+  "lastUpdated": "2026-07-10T08:20:55.370Z"
 }

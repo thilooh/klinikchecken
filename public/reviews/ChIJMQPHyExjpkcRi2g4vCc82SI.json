@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Rick",
+      "author_url": "https://www.google.com/maps/contrib/109799561876458381579/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdb6vOi4OAhqPvJj--QqAxllPErCIgK1TLEh_giROModZq7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783581229,
+      "translated": false
+    },
+    {
       "author_name": "Sophia Hirschberg",
       "author_url": "https://www.google.com/maps/contrib/105542322151593137181/reviews",
       "language": "de",
@@ -608,11 +618,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 98,
+  "reviewCount": 99,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-07T08:21:45.745Z"
+  "lastUpdated": "2026-07-10T08:20:53.248Z"
 }
