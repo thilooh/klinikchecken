@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Drohnen Birne",
+      "author_url": "https://www.google.com/maps/contrib/107940827366033961011/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMYfv42Zlynkn8-mlJOcSx2PoIgb4OLqvfB610lWRAzrNaNn4=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "0",
+      "time": 1783689799,
+      "translated": false
+    },
+    {
       "author_name": "Rosemarie Letizia",
       "author_url": "https://www.google.com/maps/contrib/111658827093968693556/reviews",
       "language": "de",
@@ -18,6 +30,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGu1iJf4GO9oMfGkaeO2wPN3uvjlThxbygaSZNEw_X0tpJitrl=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783099406,
+      "translated": false
+    },
+    {
+      "author_name": "Reiner Kranich",
+      "author_url": "https://www.google.com/maps/contrib/103094291607438854971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGu1iJf4GO9oMfGkaeO2wPN3uvjlThxbygaSZNEw_X0tpJitrl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783099406,
       "translated": false
@@ -671,12 +693,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 230,
+  "rating": 4.6,
+  "reviewCount": 231,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:20:39.867Z"
+  "lastUpdated": "2026-07-13T08:15:13.948Z"
 }

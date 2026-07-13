@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Connie Scheffler",
+      "author_url": "https://www.google.com/maps/contrib/104178904914504348756/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh6ownU3zDy5OD--6yP2FBzi3-S8uB6kGRPOvHtIegWjTfBw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Hier wird man regelmäßig nach der Anmeldung irgendwo hingesetzt und ne Stunde lang vergessen, um dann zu fragen, auf was warten Sie? Organisation und Kommunikation ist hier leider fehl am Platz. Für heute nen Termin gegeben, obwohl die Ärztin gar nicht da ist. Und dann wird ein Medikament verschrieben,  dass  seit einem halben Jahr gar nicht lieferbar ist...",
+      "time": 1783317318,
+      "translated": false
+    },
+    {
       "author_name": "J K",
       "author_url": "https://www.google.com/maps/contrib/113906969056544037079/reviews",
       "language": "de",
@@ -243,6 +255,16 @@
       "translated": false
     },
     {
+      "author_name": "Gabriela Meise",
+      "author_url": "https://www.google.com/maps/contrib/117649587434020201954/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN14wUKZHnE1m0PHcV1CMREIBIZu8qykcSRcvVXEsNMZNVMwqF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1778681875,
+      "translated": false
+    },
+    {
       "author_name": "Josef Krämer",
       "author_url": "https://www.google.com/maps/contrib/114334347781136624227/reviews",
       "language": "de",
@@ -346,6 +368,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5IhuY4i7ugF1xqlZ7jGjyuJniD96jefYWOOkFqrAkydIoug=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Termine werden zuverlässig eingehalten - keine Wartezeiten. Praxis sehr gut organisiert. Gesamtes Team sehr freundlich.",
+      "time": 1778070169,
+      "translated": false
+    },
+    {
+      "author_name": "Vi Del",
+      "author_url": "https://www.google.com/maps/contrib/101764751977087689264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5IhuY4i7ugF1xqlZ7jGjyuJniD96jefYWOOkFqrAkydIoug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Termine werden zuverlässig eingehalten - keine Wartezeiten. Praxis sehr gut organisiert. Gesamtes Team sehr freundlich.",
       "time": 1778070169,
       "translated": false
@@ -645,12 +679,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 164,
+  "rating": 4.7,
+  "reviewCount": 160,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-10T08:20:42.013Z"
+  "lastUpdated": "2026-07-13T08:15:16.045Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Maria Kaliner",
+      "author_url": "https://www.google.com/maps/contrib/108004741050832794111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2EvveVWp93p-lk3kyOFOMXnj9HKs70FiuscaO8czbYlB2ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Hautarzt-Team von Dr Quist ist sehr hilfsbereit insbesondere auch in Sachen Terminfindung (trotz DoctoLib). Für Familien ist eine unkomplizierte & schnelle Terminfindung unersetzlich! Weiter so!",
+      "time": 1783787174,
+      "translated": false
+    },
+    {
       "author_name": "besim ramadani",
       "author_url": "https://www.google.com/maps/contrib/107910183262130795311/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "",
       "time": 1783335274,
+      "translated": false
+    },
+    {
+      "author_name": "Sам 24",
+      "author_url": "https://www.google.com/maps/contrib/108423387100366130139/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqcm2vdHJ_3jKu8acgcoJl801L9N2dNVHwPr0XFrbjKWIUtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich kann diese Praxis überhaupt nicht empfehlen.👎\n\nIch habe meinen Termin über Doctolib gebucht und dabei ausdrücklich angegeben, dass ich gesetzlich versichert bin. Der Termin wurde trotzdem bestätigt.\n\nAm Tag des Termins bin ich pünktlich erschienen und meine Gesundheitskarte wurde an der Anmeldung eingelesen. Erst danach wurde mir mitgeteilt, dass nur Privatpatienten behandelt werden oder ich 350 € selbst bezahlen müsse. Eine Untersuchung fand nicht statt, weil ich von der Praxis abgewiesen wurde.\n\nWenige Tage später erhielt ich dann eine Rechnung über 45 € mit der Begründung, ich hätte den Termin „nicht wahrgenommen“. Das ist aus meiner Sicht nicht nachvollziehbar, da ich persönlich in der Praxis erschienen bin.\n\nDieses Vorgehen empfinde ich als äußerst unprofessionell und kundenunfreundlich. Wer gesetzlich versichert ist, sollte sich gut überlegen, ob er hier einen Termin vereinbart. Ich werde diese Praxis definitiv nicht wieder aufsuchen und kann sie nicht empfehlen. 👎👎",
+      "time": 1783265473,
       "translated": false
     },
     {
@@ -860,11 +884,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 309,
+  "reviewCount": 310,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:20:50.857Z"
+  "lastUpdated": "2026-07-13T08:15:24.708Z"
 }

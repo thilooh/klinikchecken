@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Amélie Bürkl",
+      "author_url": "https://www.google.com/maps/contrib/104624100418571973264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCeMaWwEMs_eCpaszn-fx345JaJtLOvnAw4YoqWfCK-Lq0SKR0EA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zunächst: Ich kann nichts zur Behandlung sagen. Ich wurde eben abgewiesen, nachdem ich lange auf den Termin gewartet habe und ich jahrelang nicht den Mut dazu hatte. Es sei ein Privattermin und Selbstzahler. Ich hab der Dame dreimal erklärt, dass es nicht anders in der App Ansicht buchbar ist, (vielleicht gibt's verschiedene Release-Versionen at best) und dass ich für Arzttermine immer fast immer nur die Ansicht buche und bei Probleme habe. Sie behauptete zweimal, dass ich vielleicht ein privat angelegtes Profil habe, was ich definitiv nicht habe. Ich kann aufgrund von Krankheit nicht mehr arbeiten und habe schon Geldsorgen. Jetzt laufe ich mit Schmerzen nach Hause, die Armen bleiben krank. Dass mein Termin ohne Info auf einen männlichen Arzt geändert wurde, fand ich auch nicht so gut aufgrund meiner Vorgeschichte, aber das können sie nicht wissen. Die Dame war aber nicht unfreundlich, eher ich.",
+      "time": 1783929923,
+      "translated": false
+    },
+    {
       "author_name": "Fri",
       "author_url": "https://www.google.com/maps/contrib/107880857716098913264/reviews",
       "language": "de",
@@ -624,7 +636,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:27.394Z"
+  "lastUpdated": "2026-07-13T08:15:01.738Z"
 }

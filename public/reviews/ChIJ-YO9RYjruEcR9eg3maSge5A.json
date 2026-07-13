@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dalibor Curcic",
+      "author_url": "https://www.google.com/maps/contrib/112206565874288951133/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4Z97NYIQwipI91fJUZ0kJk16LzWSnF-enxwZKQf2xf3xp8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Behandlung. Der Arzt ist freundlich, kompetent und nimmt sich Zeit für seine Patienten. Ich habe mich sehr gut aufgehoben und verstanden gefühlt. Ich kann diesen Arzt mit bestem Gewissen weiterempfehlen. Vielen Dank!",
+      "time": 1783673496,
+      "translated": false
+    },
+    {
       "author_name": "Christiane Albrecht",
       "author_url": "https://www.google.com/maps/contrib/118118093445440867496/reviews",
       "language": "de",
@@ -106,6 +118,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ14FDNhikH52rtscVzDUkT3uYe5dQliOpQEcJGRP8EvC7trQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1781251941,
+      "translated": false
+    },
+    {
+      "author_name": "Zapralot Zapralot",
+      "author_url": "https://www.google.com/maps/contrib/102759162107024458382/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ14FDNhikH52rtscVzDUkT3uYe5dQliOpQEcJGRP8EvC7trQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1781251941,
       "translated": false
@@ -700,11 +722,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 139,
+  "reviewCount": 140,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:20:56.382Z"
+  "lastUpdated": "2026-07-13T08:15:30.069Z"
 }

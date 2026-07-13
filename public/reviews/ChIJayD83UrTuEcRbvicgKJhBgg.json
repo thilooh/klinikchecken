@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jacob Jaber",
+      "author_url": "https://www.google.com/maps/contrib/106857988419303041140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEdcMkBNt4i4kcbbFXwurXhe295UkG84lnd7zjESidHPimbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783774316,
+      "translated": false
+    },
+    {
       "author_name": "Jay Nick",
       "author_url": "https://www.google.com/maps/contrib/106456475751172003056/reviews",
       "language": "de",
@@ -92,6 +102,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRr_1dxhKSZk1hW06K709SA46jC8KChGJfkZcndtzp7IUd=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich habe die Praxis im vergangenen Herbst als Sozialarbeiter gemeinsam mit einem Klienten besucht. Leider habe ich den Umgangston der behandelnden Ärztin als unfreundlich und wenig respektvoll erlebt. Besonders negativ in Erinnerung geblieben ist mir eine Äußerung über meinen Beruf als Sozialarbeiter, die ich als abwertend und herabsetzend empfunden habe. Auch die spätere Einschätzung in den behandelnden Krankenhäusern wich deutlich von der Empfehlung der Ärztin ab. Insgesamt war dies für mich besonders menschlich aber auch fachlich eine sehr enttäuschende Erfahrung.",
+      "time": 1781248504,
+      "translated": false
+    },
+    {
+      "author_name": "Rafael",
+      "author_url": "https://www.google.com/maps/contrib/107800766858314662051/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRr_1dxhKSZk1hW06K709SA46jC8KChGJfkZcndtzp7IUd=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich habe die Praxis im vergangenen Herbst als Sozialarbeiter gemeinsam mit einem Klienten besucht. Leider habe ich den Umgangston der behandelnden Ärztin als unfreundlich und wenig respektvoll erlebt. Besonders negativ in Erinnerung geblieben ist mir eine Äußerung über meinen Beruf als Sozialarbeiter, die ich als abwertend und herabsetzend empfunden habe. Auch die spätere Einschätzung in den behandelnden Krankenhäusern wich deutlich von der Empfehlung der Ärztin ab. Insgesamt war dies für mich besonders menschlich aber auch fachlich eine sehr enttäuschende Erfahrung.",
       "time": 1781248504,
       "translated": false
@@ -698,11 +720,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 68,
+  "reviewCount": 69,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-10T08:21:00.969Z"
+  "lastUpdated": "2026-07-13T08:15:34.435Z"
 }

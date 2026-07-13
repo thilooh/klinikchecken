@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "V M",
+      "author_url": "https://www.google.com/maps/contrib/118236545394761981069/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG_XMLq9axmN6vjcq-hWeUONSwLvRmKDFrNtaiojmFyOw_yQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr schlechte Erfahrung leider gemacht. Nicht empfehlenswert.",
+      "time": 1778746373,
+      "translated": false
+    },
+    {
       "author_name": "Jan Hugel",
       "author_url": "https://www.google.com/maps/contrib/117071646751008658703/reviews",
       "language": "de",
@@ -313,5 +325,5 @@
   "rating": 4.1,
   "reviewCount": 24,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:23.692Z"
+  "lastUpdated": "2026-07-13T08:14:57.730Z"
 }

@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Badalli Badallaj",
+      "author_url": "https://www.google.com/maps/contrib/107492749123582503852/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWf0toYDirfjI2eCl14bOGmjDP0FVGb05dG9GFRCPSH3oWVA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von ersten Termin an hatte ich das Gefühl ich bin hir richtig.\nKrampfadern behandelt. Tolle artz tolle Mitarbeiter.",
+      "time": 1783853723,
+      "translated": false
+    },
+    {
+      "author_name": "Ariana S.",
+      "author_url": "https://www.google.com/maps/contrib/107883439038810054213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfK7axsSnjSf7EKKGuRbeiXfqQTAAe5NDJpw4qqY-nMP2vmYIXBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Konnte kein Termin telefonisch am 10.07.2026 am Morgen ausmachen, wurde unfreundlich mit Überweisung abgewiesen durch die Rezeptionsdame. Laut dieser machen sie dort nicht, dass was in Ihrem Leitungsspektrum gemacht wird und das Telefon wurde aufgelegt.",
+      "time": 1783697260,
+      "translated": false
+    },
+    {
+      "author_name": "netedu florin",
+      "author_url": "https://www.google.com/maps/contrib/104623285991659026804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKqxRbGotN7aeK-jJHXZZog5rEARbZtUO1QzgoU-kv4BRsOw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783692603,
+      "translated": false
+    },
+    {
       "author_name": "Jasmin K.",
       "author_url": "https://www.google.com/maps/contrib/113512097299204258505/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh-PTgsQsAuUCzU0_R9EFEZq0iSqtcJ2p7hCzEkOCAWm_ZHw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Der eine Stern der Bewertung ist noch zu viel . Meine Frau hatte einen Termin bei Herrn Dr. Neugebauer.\nAuf die Probleme meiner Frau wurde nicht eingegangen. Herr Dr. Neugebauer war während der gesamten Untersuchung sehr arrogant. Auch die anwesende Arzthelferin war nicht besonders freundlich. Die zweieinhalb Stunden Fahrt hätten wir uns sparen können. Einen weiteren Termin wird es in dieser unsympathischen Praxis nicht mehr geben",
+      "time": 1783077363,
+      "translated": false
+    },
+    {
+      "author_name": "Dominik Wolpert",
+      "author_url": "https://www.google.com/maps/contrib/110293095892446235689/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh-PTgsQsAuUCzU0_R9EFEZq0iSqtcJ2p7hCzEkOCAWm_ZHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Der eine Stern der Bewertung ist noch zu viel . Meine Frau hatte einen Termin bei Herrn Dr. Neugebauer.\nAuf die Probleme meiner Frau wurde nicht eingegangen. Herr Dr. Neugebauer war während der gesamten Untersuchung sehr arrogant. Auch die anwesende Arzthelferin war nicht besonders freundlich. Die zweieinhalb Stunden Fahrt hätten wir uns sparen können. Einen weiteren Termin wird es in dieser unsympathischen Praxis nicht mehr geben",
       "time": 1783077363,
       "translated": false
@@ -688,11 +734,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 154,
+  "reviewCount": 157,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:21:05.301Z"
+  "lastUpdated": "2026-07-13T08:15:38.604Z"
 }

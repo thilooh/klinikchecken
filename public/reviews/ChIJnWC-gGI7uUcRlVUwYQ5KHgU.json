@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Acar Ayyildiz",
+      "author_url": "https://www.google.com/maps/contrib/111463467723864904282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW7kkuELhWjKGPaDQfsekVXgP1DfmmmjYPTacJXcVehnb7Wg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war nicht da, keine Meinumg",
+      "time": 1783878423,
+      "translated": false
+    },
+    {
       "author_name": "Yazan Alali",
       "author_url": "https://www.google.com/maps/contrib/108047595841415190164/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHM0xaNJxBDqHSbbqBI3PCVBMBSba6R931HSrF0U9e4tn1rDoh=s128-c0x00000000-cc-rp-mo",
@@ -33,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "Arzu Çetinkaya",
+      "author_url": "https://www.google.com/maps/contrib/105308810631515385818/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1fGyzv04zPhiqYWQXXUUiTbiZx3tiRIqeYVK0GsukVq_6dFuTjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783074201,
+      "translated": false
+    },
+    {
       "author_name": "Mohammad Murad",
       "author_url": "https://www.google.com/maps/contrib/117837029254009661336/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3E37yZ3QtG6EHFCetLe20Jc7VwD5pmy7aMSi33AiLSB-_s94=s128-c0x00000000-cc-rp-mo",
@@ -58,6 +80,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3E37yZ3QtG6EHFCetLe20Jc7VwD5pmy7aMSi33AiLSB-_s94=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1782066527,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammad Murad",
+      "author_url": "https://www.google.com/maps/contrib/117837029254009661336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3E37yZ3QtG6EHFCetLe20Jc7VwD5pmy7aMSi33AiLSB-_s94=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1782066527,
       "translated": false
@@ -728,11 +760,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 386,
+  "reviewCount": 387,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-10T08:20:57.099Z"
+  "lastUpdated": "2026-07-13T08:15:30.751Z"
 }

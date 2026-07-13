@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Janz",
+      "author_url": "https://www.google.com/maps/contrib/110292041586227423299/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu4cu4zjR-9X6N4IMZLSciflyS_VWr9a6o6DCuKS9QWMnId8k=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolles Team. Schnelle Termine und gute schnelle Diagnose.👍",
+      "time": 1783801710,
+      "translated": false
+    },
+    {
       "author_name": "Chrissi",
       "author_url": "https://www.google.com/maps/contrib/101593532668008823769/reviews",
       "language": "de",
@@ -152,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnVyea2-ohl47qnjyxDwIeXw6OxN5YW640D_azZqlaWIfQCec=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "„Ein hervorragender Hautarzt! Vom ersten Termin an habe ich mich bestens aufgehoben gefühlt. Er nimmt sich Zeit, hört aufmerksam zu und erklärt alle Behandlungsschritte verständlich. Das gesamte Praxisteam ist freundlich und hilfsbereit. Die Behandlung war ein voller Erfolg. Vielen Dank für die ausgezeichnete Betreuung!“",
+      "time": 1781167234,
+      "translated": false
+    },
+    {
+      "author_name": "Bouali Ghizlane",
+      "author_url": "https://www.google.com/maps/contrib/116861750615095160417/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnVyea2-ohl47qnjyxDwIeXw6OxN5YW640D_azZqlaWIfQCec=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "„Ein hervorragender Hautarzt! Vom ersten Termin an habe ich mich bestens aufgehoben gefühlt. Er nimmt sich Zeit, hört aufmerksam zu und erklärt alle Behandlungsschritte verständlich. Das gesamte Praxisteam ist freundlich und hilfsbereit. Die Behandlung war ein voller Erfolg. Vielen Dank für die ausgezeichnete Betreuung!“",
       "time": 1781167234,
       "translated": false
@@ -711,7 +735,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 294,
+  "reviewCount": 295,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:25.293Z"
+  "lastUpdated": "2026-07-13T08:14:59.483Z"
 }

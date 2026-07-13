@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "N. S.",
+      "author_url": "https://www.google.com/maps/contrib/107684848649170494510/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvMmpuw54I9V5UJpephIQ3a3NUHqc8B355_RC3kyEEUmCIfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Und wieder wurden alle realistischen Bewertungen in Grevenbroich gelöscht.\n\nDie nahezu 70 Rezensionen, die unserer Meinung nach die Realitat wiederspiegelten, sind hier wie von Zauberhand verschwunden und es sind nur noch „positive\" vorhanden.\n\nEs erwarten einen Unfreundlichkeit, Uberheblichkeit und Genervtheit,eine verbissene „Grand Dame\" und eine wenig bekleidete junge Frau mit mächtig langen Fingernägeln (Hygiene?) am Empfang.\n\nHat diese Praxis auch nur noch (wenn überhaupt) an 2,5 Tagen die Woche geöffnet hat, da ja laut Auskunft die Privatpraxis in Düsseldorf noch bedient werden muss.\n\nIst das überhaupt zulässig für eine Kassenärztliche Praxis nur so selten und unzuverlässig zu öffnen?\nDas sollte mal von höherer Stelle geprüft werden.\n\nHoffentlich bekommt Grevenbroich bald eine Hautarzt Praxis in der man sich wieder wohlfühlen kann, ausreichend und freundliches Personal da ist und die jeden Tag geöffnet und erreichbar ist !!!\nBis es soweit ist nehmen wir lieber einen längeren Weg auf uns, um anständig behandelt zu werden.",
+      "time": 1783872833,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Haas",
       "author_url": "https://www.google.com/maps/contrib/106202407141091022535/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkyXp2rPXiJoQR2UXlT5I3Qjpx0YeZxXTP8j8S3vzjAg7kFQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war heute zur Laser-Haarentfernung dort und bin leider sehr enttäuscht. Während der Behandlung wurde trotz vorherigem Hinweis und Bitte um Schutz meine Tätowierung am Bein durch den Laser verbrannt. Genau an dieser Stelle hatte ich starke Schmerzen. Ich hatte ausdrücklich darum gebeten, besonders darauf zu achten. Bei einer Behandlung, die über 200 € kostet, erwarte ich mehr Sorgfalt. Auch die Hautuntersuchung entsprach leider nicht meinen Erwartungen. Ich hoffe, dass die Praxis sich dazu äußert und eine Lösung anbietet.",
+      "time": 1781873905,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Haas",
+      "author_url": "https://www.google.com/maps/contrib/106202407141091022535/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkyXp2rPXiJoQR2UXlT5I3Qjpx0YeZxXTP8j8S3vzjAg7kFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war heute zur Laser-Haarentfernung dort und bin leider sehr enttäuscht. Während der Behandlung wurde trotz vorherigem Hinweis und Bitte um Schutz meine Tätowierung am Bein durch den Laser verbrannt. Genau an dieser Stelle hatte ich starke Schmerzen. Ich hatte ausdrücklich darum gebeten, besonders darauf zu achten. Bei einer Behandlung, die über 200 € kostet, erwarte ich mehr Sorgfalt. Auch die Hautuntersuchung entsprach leider nicht meinen Erwartungen. Ich hoffe, dass die Praxis sich dazu äußert und eine Lösung anbietet.",
       "time": 1781873905,
       "translated": false
@@ -92,12 +116,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 16,
+  "rating": 4.5,
+  "reviewCount": 17,
   "summary": [
     "Arzt und Team für Sorgfalt, freundliches Auftreten und minimale Wartezeiten gelobt",
     "Photodynamische Therapie bei Keratose liefert laut Patienten sehr gute kosmetische Ergebnisse",
     "Vereinzelt: Lichttherapie zeigte trotz hoher Kosten keine Wirkung"
   ],
-  "lastUpdated": "2026-07-10T08:20:22.231Z"
+  "lastUpdated": "2026-07-13T08:14:55.917Z"
 }

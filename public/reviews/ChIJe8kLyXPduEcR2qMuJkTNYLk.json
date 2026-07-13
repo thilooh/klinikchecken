@@ -51,6 +51,16 @@
       "translated": false
     },
     {
+      "author_name": "Anja Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/117365706854008691250/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlrQnfwS1w9PRzmRp-ru1MAX6Y7dVQFK7dqrxnGA3EOjkKTDod=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1781117308,
+      "translated": false
+    },
+    {
       "author_name": "Oliver Brömel",
       "author_url": "https://www.google.com/maps/contrib/102028850945596187887/reviews",
       "language": "de",
@@ -372,5 +382,5 @@
   "rating": 4.7,
   "reviewCount": 46,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:32.374Z"
+  "lastUpdated": "2026-07-13T08:15:06.676Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ingeborg Mladenovic",
+      "author_url": "https://www.google.com/maps/contrib/110519892033475082761/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7vE50PdXpIX43IImANwp38YASytoxK2BI6S676Q_1CndOZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783679981,
+      "translated": false
+    },
+    {
       "author_name": "Nomis Evros",
       "author_url": "https://www.google.com/maps/contrib/111886635794605365933/reviews",
       "language": "de",
@@ -390,11 +400,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 88,
+  "reviewCount": 89,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:20:38.639Z"
+  "lastUpdated": "2026-07-13T08:15:12.770Z"
 }

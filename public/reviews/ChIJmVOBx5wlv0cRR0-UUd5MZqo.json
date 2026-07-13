@@ -83,6 +83,18 @@
       "translated": false
     },
     {
+      "author_name": "Markus Salomon",
+      "author_url": "https://www.google.com/maps/contrib/112199443171093668684/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeFYlC1t-_OkZe_xEy3eLZwMe-9Ebztf7_YZkP7MNAb7feiQErRQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Freundlich, aber nicht das beste Zeitmanagement",
+      "time": 1781868297,
+      "translated": false
+    },
+    {
       "author_name": "Laurenz Schmitt",
       "author_url": "https://www.google.com/maps/contrib/115490263842713255299/reviews",
       "language": "de",
@@ -517,5 +529,5 @@
   "rating": 4.1,
   "reviewCount": 51,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:22.953Z"
+  "lastUpdated": "2026-07-13T08:14:56.858Z"
 }

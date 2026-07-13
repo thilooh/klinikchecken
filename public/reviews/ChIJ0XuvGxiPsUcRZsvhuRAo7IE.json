@@ -81,6 +81,16 @@
       "translated": false
     },
     {
+      "author_name": "Katja Randau",
+      "author_url": "https://www.google.com/maps/contrib/117804388090801473684/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcf1-5uUNWKxtILsUkz7UDfgBLoBIYy9n5ht8uEOH9otnD=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1782486255,
+      "translated": false
+    },
+    {
       "author_name": "Magnus Uhlenbrock",
       "author_url": "https://www.google.com/maps/contrib/105144919073498955983/reviews",
       "language": "de",
@@ -778,5 +788,5 @@
   "rating": 4.4,
   "reviewCount": 436,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:29.730Z"
+  "lastUpdated": "2026-07-13T08:15:04.084Z"
 }

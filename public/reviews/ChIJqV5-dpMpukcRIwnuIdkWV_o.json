@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ira Otte",
+      "author_url": "https://www.google.com/maps/contrib/107011506015695119077/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINJibz6CxdFNrwbii1agtuqJ6tuFzIeEC7moZq25pqWZczbA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin froh.,,so eine tolle Praxis gefunden zu haben. Frau Doktor Haut und alle Mitarbeiterin absolut top.Da steht Freundlichkeit und Empathie an erster Stelle. Ich fühle mich dort sehr aufgehoben.",
+      "time": 1783840836,
+      "translated": false
+    },
+    {
       "author_name": "Thomas",
       "author_url": "https://www.google.com/maps/contrib/102482695508820522728/reviews",
       "language": "de",
@@ -758,11 +770,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 84,
+  "reviewCount": 85,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-10T08:21:13.717Z"
+  "lastUpdated": "2026-07-13T08:15:46.575Z"
 }

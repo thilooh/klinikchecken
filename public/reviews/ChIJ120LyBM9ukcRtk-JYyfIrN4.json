@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Bolesta",
+      "author_url": "https://www.google.com/maps/contrib/115221837780079253729/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI99hL3W6quaasnDvpqZlcRmOtfKjswyTh6u8fnAwqU6EuJBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit Jahren in der Praxis und nur gutes zu berichten.\nEgal ob telefonische Erreichbarkeit, Wartezeit, Untersuchung, Freundlichkeit - was auch immer. Passt alles.\n\nGerade aufgrund meiner Vorgeschichte (Melanoma in situ vor vielen Jahren) und weil ich sehr viele Muttermale habe, ist mir die regelmäßige Hautkontrolle besonders wichtig. Die jährlichen Untersuchungen sind sehr gründlich und gewissenhaft, man fühlt sich ernst genommen und gut aufgehoben.\n\nVielen Dank an Herrn Olbrich und das gesamte Team für die langjährige gute Betreuung!",
+      "time": 1783928568,
+      "translated": false
+    },
+    {
       "author_name": "Stefanie Szeleschus",
       "author_url": "https://www.google.com/maps/contrib/107825114941971228390/reviews",
       "language": "de",
@@ -433,12 +445,12 @@
       "translated": false
     }
   ],
-  "rating": 3.9,
-  "reviewCount": 157,
+  "rating": 4,
+  "reviewCount": 158,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-10T08:20:39.133Z"
+  "lastUpdated": "2026-07-13T08:15:13.241Z"
 }

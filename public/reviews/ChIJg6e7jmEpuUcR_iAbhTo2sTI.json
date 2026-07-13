@@ -137,6 +137,16 @@
       "translated": false
     },
     {
+      "author_name": "Angelika Bartsch",
+      "author_url": "https://www.google.com/maps/contrib/112116508231357227261/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Z6pmSjiPyFaenmWBn_FvIMwxHCQb7gB6HDtQ-LIQL_Sc5XAq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1781347582,
+      "translated": false
+    },
+    {
       "author_name": "Clark Kent",
       "author_url": "https://www.google.com/maps/contrib/116897286141445079309/reviews",
       "language": "de",
@@ -192,6 +202,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyGvaHju01m5e--biEywefWU162lp6px-H3ehcHQMxBPg4PnxuKg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Freundliches Personal und toller Arzt. Dr. Nasif nimmt sich Zeit und erklärt alles genau. Er nimmt sich Zeit für Fragen und schaut immer das es dem Patienten gut geht.",
+      "time": 1781252255,
+      "translated": false
+    },
+    {
+      "author_name": "Clark Kent",
+      "author_url": "https://www.google.com/maps/contrib/116897286141445079309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyGvaHju01m5e--biEywefWU162lp6px-H3ehcHQMxBPg4PnxuKg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Freundliches Personal und toller Arzt. Dr. Nasif nimmt sich Zeit und erklärt alles genau. Er nimmt sich Zeit für Fragen und schaut immer das es dem Patienten gut geht.",
       "time": 1781252255,
       "translated": false
@@ -744,5 +766,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:20:40.109Z"
+  "lastUpdated": "2026-07-13T08:15:14.182Z"
 }

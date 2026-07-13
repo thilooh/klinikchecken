@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "AR Goldengirl",
+      "author_url": "https://www.google.com/maps/contrib/100649356120623361680/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhQsIj8IjPbhOonDHaQqqaCCwuSq9yI3z9LePRLRmYPlF9ng=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783691917,
+      "translated": false
+    },
+    {
       "author_name": "Jasmin Anna",
       "author_url": "https://www.google.com/maps/contrib/109242019223323401420/reviews",
       "language": "de",
@@ -578,7 +588,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 156,
+  "reviewCount": 157,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:25.533Z"
+  "lastUpdated": "2026-07-13T08:14:59.783Z"
 }

@@ -61,6 +61,16 @@
       "translated": false
     },
     {
+      "author_name": "Lisa Beck",
+      "author_url": "https://www.google.com/maps/contrib/109618079991936965905/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfy6v-TFISHqT8FiBcSKLhjGtEOFoO_16uNtlvLmEcQj5zqA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1781104030,
+      "translated": false
+    },
+    {
       "author_name": "Ingrid Zander",
       "author_url": "https://www.google.com/maps/contrib/107901903339472828147/reviews",
       "language": "de",
@@ -538,5 +548,5 @@
   "rating": 3.6,
   "reviewCount": 121,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:26.502Z"
+  "lastUpdated": "2026-07-13T08:15:00.860Z"
 }

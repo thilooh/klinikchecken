@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "s k",
+      "author_url": "https://www.google.com/maps/contrib/105644681580261248400/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoTYWdn7TOa5qIkf6UTqOi89H3Q4mOtZpLCBo0u-RmmN8_HQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Dr.Burkert und bin begeistert von seiner empathischen Art und Genauigkeit bei der Diagnosestellung und Erklärung.\nHerzlich Dank",
+      "time": 1783863294,
+      "translated": false
+    },
+    {
       "author_name": "Tobias Isbruch",
       "author_url": "https://www.google.com/maps/contrib/114430615450720957390/reviews",
       "language": "de",
@@ -636,11 +648,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 117,
+  "reviewCount": 118,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-07-10T08:20:40.583Z"
+  "lastUpdated": "2026-07-13T08:15:14.640Z"
 }

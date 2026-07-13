@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Victoria Hellwald",
+      "author_url": "https://www.google.com/maps/contrib/108698266942664390197/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJcsgp4RDvi8AhXZ3WHQlMYA2TdiFa85LfeWgOoJ87cT-QqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Einer der besten Hautärzten bei denen ich je war, die nehmen sich Zeit, empathisch und sehr sympathisch! Tolle moderne Scanner und auch kosmetische Laserbehandlung! Kann ich nur empfehle und ab sofort mein neuer Lieblings Hautarzt! Vielen Dank auch an Herrn Tollmann für seine Tipps.\nLG aus Düsseldorf",
+      "time": 1783702834,
+      "translated": false
+    },
+    {
       "author_name": "Christopher Ritz",
       "author_url": "https://www.google.com/maps/contrib/110047863151193105252/reviews",
       "language": "de",
@@ -782,11 +794,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 315,
+  "reviewCount": 316,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-10T08:21:03.373Z"
+  "lastUpdated": "2026-07-13T08:15:36.748Z"
 }

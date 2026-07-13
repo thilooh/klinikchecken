@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ayse Duman",
+      "author_url": "https://www.google.com/maps/contrib/105415489754976327878/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFnhxShFcHVrWVGMWuxE4ZR14KLuDq6BFGqvzGnM5MRAhkyHcNeA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Klinik und ganz besonders Frau Dr. Duma von Herzen weiterempfehlen.\n\nVom ersten Beratungsgespräch bis zum Tag der Operation habe ich mich jederzeit bestens aufgehoben gefühlt. Das gesamte Team war unglaublich freundlich, herzlich und professionell. Ich habe mich zu jeder Zeit gut betreut und wohlgefühlt.\n\nEin ganz besonderes Dankeschön geht an Frau Dr. Duma. Sie ist eine echte Perfektionistin – und genau das merkt man an ihrer Arbeit. Sie arbeitet mit großer Präzision, nimmt sich Zeit für ihre Patientinnen und vermittelt einem vom ersten Moment an Vertrauen und Sicherheit.\n\nMit dem bisherigen Ergebnis meiner Liposuktion bin ich schon jetzt sehr zufrieden. Obwohl ich mich noch in der Heilungsphase befinde und teilweise noch Schmerzen habe, sieht man bereits, mit wie viel Sorgfalt gearbeitet wurde. Ich freue mich schon darauf, das endgültige Ergebnis zu sehen.\n\nVielen Dank an Frau Dr. Duma und das gesamte Team für die tolle Betreuung. Wenn ich mich irgendwann noch einmal für einen Eingriff entscheiden sollte, würde ich ohne zu zögern wieder diese Klinik und Frau Dr. Duma wählen.🌸🌙",
+      "time": 1783886554,
+      "translated": false
+    },
+    {
+      "author_name": "KH",
+      "author_url": "https://www.google.com/maps/contrib/105194304374370206075/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfdv1yA_tTScQD7TuoboRMPkgBXo-G7E2kU9BQVRdn5FchyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783695220,
+      "translated": false
+    },
+    {
       "author_name": "Tim Bozarslan",
       "author_url": "https://www.google.com/maps/contrib/104550875429769147388/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmQPuK_wRp7GTVWXAzHFBo3NCrGFiQfQKcHUXiInxAOP0nS_g=s128-c0x00000000-cc-rp-mo-ba4",
@@ -16,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUAg2V5_nb1lMC7suffJ4L5DcVGTmvQcGsGr83EFMar6O1dg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783250579,
+      "translated": false
+    },
+    {
+      "author_name": "Ifamania Chris",
+      "author_url": "https://www.google.com/maps/contrib/111129992448309767072/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUAg2V5_nb1lMC7suffJ4L5DcVGTmvQcGsGr83EFMar6O1dg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783250579,
       "translated": false
@@ -544,11 +576,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 174,
+  "reviewCount": 176,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-10T08:21:02.885Z"
+  "lastUpdated": "2026-07-13T08:15:36.269Z"
 }

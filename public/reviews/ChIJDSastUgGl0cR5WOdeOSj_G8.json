@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "CK A.",
+      "author_url": "https://www.google.com/maps/contrib/101158206942014699569/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2bnIF1qnK52K8gM3Hye3XKotdUIewOR34bhsgy0m5eqZR=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum begeistert von dieser Praxis! Die Ärztin (Frau Dr. Denk) ist ausgesprochen freundlich, kompetent und nimmt sich Zeit für eine verständliche und transparente Aufklärung. Auch das gesamte Praxisteam – von der Rezeption bis zur Behandlung – ist unglaublich herzlich, aufmerksam und hilfsbereit. Ich habe mich vom ersten Moment an bestens aufgehoben und rundum wohlgefühlt. Eine Praxis, die ich uneingeschränkt weiterempfehlen kann!",
+      "time": 1783674106,
+      "translated": false
+    },
+    {
       "author_name": "Simon W.",
       "author_url": "https://www.google.com/maps/contrib/109851069750280936142/reviews",
       "language": "de",
@@ -18,6 +30,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB26hb4JspruAANWgwKUU1GCnZTMgr4XHoDh-bM7PrqIORBw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783245264,
+      "translated": false
+    },
+    {
+      "author_name": "Manuel Kraus",
+      "author_url": "https://www.google.com/maps/contrib/108797926646049488383/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB26hb4JspruAANWgwKUU1GCnZTMgr4XHoDh-bM7PrqIORBw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783245264,
       "translated": false
@@ -766,11 +788,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 231,
+  "reviewCount": 232,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:20:44.890Z"
+  "lastUpdated": "2026-07-13T08:15:18.833Z"
 }

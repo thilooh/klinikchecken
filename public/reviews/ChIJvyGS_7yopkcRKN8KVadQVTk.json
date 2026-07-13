@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Matthias Rentsch",
+      "author_url": "https://www.google.com/maps/contrib/111520597872141912847/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKF9eB8whv358bk3G64wnCLcqfX499dWCQQ34_s_DExfZ7Uk0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783879956,
+      "translated": false
+    },
+    {
+      "author_name": "S. M.",
+      "author_url": "https://www.google.com/maps/contrib/110492015562485542428/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFpg_Gf7nH2_UnR_K9aBSTMlgYvWZ2OPmsvUh-459hhFLbLXXG=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann mich echt nicht beschweren. Am Empfang wird man freundlich begrüßt, die Wartezeit ist für eine so große, gute Praxis minimal, selbst ohne Termin. Da kenne ich anderes. Man kann sich auch für die  Videosprechstunde anmelden, bekommt man noch schneller einen Termin. Wenn es mir der Verbindung dann nicht klappt, erfolgt sofort ein Rückruf per Telefon.\nGanz tolle Ärzte dort, welche einen großen Bereich abdecken.\nRezepte, Krankschreibungen und Terminerinnerung erfolgt alles per Mail. TOP!\nDie OPs klappen auch gut, man bekommt zeitnah einen Termin.\nDie Schwestern dort sind, bis auf eine, wahrscheinlich eine Oberschwester, sehr nett und hilfsbereit. Die Dame nenne ich Schwester Rabiata. Jeder kann mal einen doofen Tag haben, den muss man aber nicht an den Patienten auslassen.\nTrotzdem 5 Sterne, da das Gesamtpaket passt.\nVielen Dank.",
+      "time": 1783878523,
+      "translated": false
+    },
+    {
       "author_name": "Lisa Marie Seifert",
       "author_url": "https://www.google.com/maps/contrib/110583237145499534585/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb-BFJrgeuqV-sgy6dig6vn_T70MtDtj32dLvb-vv3JP_uWQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe super schnell einen Termin bekommen und musste auch nicht lange warten. Super netter Empfangsbereich. Außerdem bin ich total begeistert wie vorsichtig und einfühlsam Frau Dr. Otto war. Vielen Dank für's Angst nehmen.",
+      "time": 1783150518,
+      "translated": false
+    },
+    {
+      "author_name": "Lisa Marie Seifert",
+      "author_url": "https://www.google.com/maps/contrib/110583237145499534585/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb-BFJrgeuqV-sgy6dig6vn_T70MtDtj32dLvb-vv3JP_uWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe super schnell einen Termin bekommen und musste auch nicht lange warten. Super netter Empfangsbereich. Außerdem bin ich total begeistert wie vorsichtig und einfühlsam Frau Dr. Otto war. Vielen Dank für's Angst nehmen.",
       "time": 1783150518,
       "translated": false
@@ -640,11 +674,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 197,
+  "reviewCount": 199,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-07-10T08:21:09.411Z"
+  "lastUpdated": "2026-07-13T08:15:42.463Z"
 }

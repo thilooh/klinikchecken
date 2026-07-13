@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "Gabi Brandl",
+      "author_url": "https://www.google.com/maps/contrib/107775003479521147405/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU4dITUSxueGKjjypjp8GJcFPZVff8e7uc-8aS-5FPkXa7Ew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783839304,
+      "translated": false
+    },
+    {
+      "author_name": "Ana-Maria Jakob",
+      "author_url": "https://www.google.com/maps/contrib/102247782577758830588/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJRcyXQOsJD1RrbP74VwXXzfB_83gyJ7nl1dJvWN9TwKs_5xZh=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783801978,
+      "translated": false
+    },
+    {
+      "author_name": "Guenther Kolbe",
+      "author_url": "https://www.google.com/maps/contrib/101645758703946318674/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRVliSP3JdG5mhtN3V8XztNfPec7w6osuAY2SWRPRfTwcsPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an das gesamte Team der Station 6 für die hervorragende Betreuung während meines Aufenthalts. Ich war Patient der Allgemein-und Viszeralchirurgie. Alle  Ärzte waren sehr kompetent, einfühlsam und haben sich Zeit für verständliche Erklärungen genommen. Das Essen war sehr gut und schmackhaft.\nIch war sehr zufrieden und kann das Haus guten Gewissens uneingeschränkt weiterempfehlen.\nWeiter so👏👏",
+      "time": 1783786087,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Köhler",
+      "author_url": "https://www.google.com/maps/contrib/112515556581498715833/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb03nrsWaB2XM924ADjuIcttPg55ujLo8Pwb1pXnyL5iEUVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde mitte Mai im Vincentinum von Dr. Reinke und seinem Team, an den HW 4-6 Operiert.\nVorbereitung, Ausführung und Nachbehandlung konnten nicht besser sein!\nDas Beste an daran ist, das ich seither ohne Schmerz und Beschwerden bin!\nAuf Ebay würde ich jetzt schreiben: immer wieder gerne! :)\nVielen Dank noch mal an das ganze Team und Herrn Dr. Reinke, das ich wieder ohne Schmerzen mein Leben geniesen kann.\n\nMit freundlichen Grüssen\n\nStefan Köhler",
+      "time": 1783762581,
+      "translated": false
+    },
+    {
       "author_name": "Evelyn K.",
       "author_url": "https://www.google.com/maps/contrib/109750669678982982377/reviews",
       "language": "de",
@@ -778,11 +822,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 403,
+  "reviewCount": 407,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-10T08:20:41.777Z"
+  "lastUpdated": "2026-07-13T08:15:15.817Z"
 }

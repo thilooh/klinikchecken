@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Cornelia Klatt",
+      "author_url": "https://www.google.com/maps/contrib/104671758488916929936/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyujthOYV1xLHYngSiqX_cP2RWWWj0eEuKR0EfRUx5Lt4Bp6Pf=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783708996,
+      "translated": false
+    },
+    {
       "author_name": "Lucas",
       "author_url": "https://www.google.com/maps/contrib/117262865761658042887/reviews",
       "language": "de",
@@ -217,6 +227,18 @@
       "translated": false
     },
     {
+      "author_name": "A Khod",
+      "author_url": "https://www.google.com/maps/contrib/103408772217385440472/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6w77qWONgIpH17dI6DunWRzglq8m-hjo4DsbgqL5fEONzJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Man kann ja verstehen wenn eine Praxis keine Kapazitäten hat neue Patienten aufzunehmen. Jedoch so „unfreundlich“ abgewimmelt zu werden finde ich außerst problematisch. Mir war bereits vor dem Anruf klar das sie Praxis ausgelastet ist, habe aber angerufen um nach einer Alternative zu fragen für einen anderen Artzt. Die Aussage „Keine Ahnung, wir haben schon genug zu tun. Wir haben doch keine Zeit dafür sie noch  an einen anderen Artzt weiterzuleiten“, fand ich extrem verletzend und rücksichtslos. Und dann wundert man sich garnicht, wenn sich Leute nicht trauen sich Hilfe zu holen…",
+      "time": 1776075284,
+      "translated": false
+    },
+    {
       "author_name": "Jack Russel",
       "author_url": "https://www.google.com/maps/contrib/110874956612953137619/reviews",
       "language": "de",
@@ -362,11 +384,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 143,
+  "reviewCount": 144,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-07-10T08:20:51.334Z"
+  "lastUpdated": "2026-07-13T08:15:25.161Z"
 }

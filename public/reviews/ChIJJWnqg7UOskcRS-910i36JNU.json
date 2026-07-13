@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Matze Buthi",
+      "author_url": "https://www.google.com/maps/contrib/102736250429355899579/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwRvPNk6sr249kUqYlg5VelLD2c6pIFCPa-RS-Yu2ZZKLjqQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bereits mehrfach in der Praxis. Freundlich, unkompliziert, kurze Wartezeit und moderne Technik. Ich bin zufrieden.",
+      "time": 1783777694,
+      "translated": false
+    },
+    {
+      "author_name": "Karen",
+      "author_url": "https://www.google.com/maps/contrib/111969348476672714525/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq2xzdF-mLB5fXwsxNrlpCx6SXmx6pH5kcE4NMa9ASs5oxwFE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Diese Woche habe ich einen Termin in der “1-Fleck-Sprechstunde” bei Herrn Dr. Föh wahrgenommen. Den Termin habe ich sehr kurzfristig erhalten. Herr Dr. Föh hat mich sehr freundlich und kompetent behandelt und hat noch ein Foto der suspekten Stelle gemacht, es mir gezeigt und erklärt, um was es sich bei dieser Stelle handelt. So konnte er meine Besorgnis komplett zerstreuen, Die Praxis kann ich unbedingt empfehlen.",
+      "time": 1783708688,
+      "translated": false
+    },
+    {
+      "author_name": "kerstin Letz",
+      "author_url": "https://www.google.com/maps/contrib/100620431486438866508/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyH9pY3UU48fx0jTC0IsxhpkexUY_E4PwBoEMGOU7NvMSuZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783704909,
+      "translated": false
+    },
+    {
+      "author_name": "CORINNA HETTMANN",
+      "author_url": "https://www.google.com/maps/contrib/118162431248856369744/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID9nHgitpkRtv6r8ST8iwv1hl1_zLlIy-O4NPuojVK5HkTWg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783699194,
+      "translated": false
+    },
+    {
+      "author_name": "Bianka Prüße von Wentzky",
+      "author_url": "https://www.google.com/maps/contrib/114112915780339888884/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4WH1pqnouSKhbri0_qsWLnUaNkgO8WLvrrhVPoSsDA-qKCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundliche Begrüßung,  gut organisierte Praxis, kompetente und sehr zugewandte Ärztin.\nHier würde ich immer wieder hingehen.",
+      "time": 1783697239,
+      "translated": false
+    },
+    {
       "author_name": "Janine Bichat",
       "author_url": "https://www.google.com/maps/contrib/113746249181214118301/reviews",
       "language": "de",
@@ -1028,11 +1084,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2323,
+  "reviewCount": 2327,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-10T08:20:36.704Z"
+  "lastUpdated": "2026-07-13T08:15:10.894Z"
 }

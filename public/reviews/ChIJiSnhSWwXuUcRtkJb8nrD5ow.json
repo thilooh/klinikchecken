@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Free Frank",
+      "author_url": "https://www.google.com/maps/contrib/117863107065718371130/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlsiKNwr0zEqeq8ra9R16MzaAYZdJvya9aeZspuyDwa433TQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 11 Monaten",
+      "text": "Nur Privatpatienten.  Ein Arzt sollte alle Patienten behandeln.\nDeswegen nur 1 Stern",
+      "time": 1755179062,
+      "translated": false
+    },
+    {
       "author_name": "ich Petzi",
       "author_url": "https://www.google.com/maps/contrib/108918472778010694476/reviews",
       "language": "de",
@@ -100,5 +112,5 @@
   "rating": 3.3,
   "reviewCount": 4,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:26.986Z"
+  "lastUpdated": "2026-07-13T08:15:01.332Z"
 }

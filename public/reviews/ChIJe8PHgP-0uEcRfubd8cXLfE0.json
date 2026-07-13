@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "F H",
+      "author_url": "https://www.google.com/maps/contrib/101265878009220188305/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCt9ykiu9nNrt57dNhDr4U3WH5p_jnJ7HdKaWbrHZZKUihPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kam wegen eines akutnotfalls in die Praxis, am Empfang wurde mir gesagt ich solle bitte alles ausfüllen und mir wird dann Bescheid gegeben ob ich heute behandelt werden kann oder nicht. Was ich bei einem akutnotfall schon komisch finde, ich hatte auch angeboten lange zu warten…\nInsgesamt habe ich fast 45 min gewartet, nur damit mir gesagt wird, eine Ärztin könnte sich das heute leider nicht anschauen.\nIch finde das eine absolute Frechheit und man sollte meiner Meinung nach mal an der Planung von der akutsprechstunde arbeiten!!",
+      "time": 1783926696,
+      "translated": false
+    },
+    {
       "author_name": "Anna Schneider",
       "author_url": "https://www.google.com/maps/contrib/101557206514946411208/reviews",
       "language": "de",
@@ -67,6 +79,16 @@
       "translated": false
     },
     {
+      "author_name": "Ralf Klingberg",
+      "author_url": "https://www.google.com/maps/contrib/110402603567322919053/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeoDW04ifxqRjjZFlI4MQT_8LP-NMCx_87UUaXvmVejmWslg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1782070415,
+      "translated": false
+    },
+    {
       "author_name": "Reel Gaming",
       "author_url": "https://www.google.com/maps/contrib/106848514525452309510/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXP_Z2FGbEAVPC-5-u0sLj4OlobiunwqACsKpLn0KOr25UZ46iN=s128-c0x00000000-cc-rp-mo-ba4",
@@ -142,6 +164,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg9vcxPq3KK7Yw4YRI9b-KHImsIYOm5AWlM5cR5DcONoJUiZwn=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1781338787,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Richling",
+      "author_url": "https://www.google.com/maps/contrib/109758092652963986640/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg9vcxPq3KK7Yw4YRI9b-KHImsIYOm5AWlM5cR5DcONoJUiZwn=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1781338787,
       "translated": false
@@ -702,11 +734,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 191,
+  "reviewCount": 192,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:21:03.605Z"
+  "lastUpdated": "2026-07-13T08:15:36.987Z"
 }

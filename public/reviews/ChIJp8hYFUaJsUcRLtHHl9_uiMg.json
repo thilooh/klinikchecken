@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Doro Isabel",
+      "author_url": "https://www.google.com/maps/contrib/100313429498955523584/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk2JYQ70QWL_pBk57Nn1QCMn0Fg7TzE05nm_HAoZFo8FnLyw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte eine ganz schlimme Erfahrung bei Lipovasc und würde niemandem empfehlen dort hinzugehen. Hr. Dr. Schweichler hat mich nicht ansatzweise ernst genommen. - außerdem war er unfreundlich und grenzüberschreitend. Statt lipödem (Verdacht auf vorstadium/stadium1) hat er mir lipohypertrophie diagnostiziert und mir meine Symptome abgesprochen. Er sagte, ich sei nicht dick genug für lipödem. Solle aber trotzdem mehr Sport machen und mich gesund ernähren (was ich beides tue).\nIch war u.a. dort weil ich starke Schmerzen in den Beinen habe, die immer stärker werden. (Alle weiteren Symptome für lipödem sind auch vorhanden). Er fragte mich, wie schlimm es denn sei, wenn ich in den Spiegel schaue. Als ich daraufhin irritiert sagte, dass es mir nicht ums aussehen, sondern um die schmerzen geht, wurde er nur noch schnippischer und unfreundlicher. Es wirkte so, als wolle er mir nicht helfen und dass ihm einzig Patient*innen taugen, bei denen er eine Fettabsaugung vornehmen kann.",
+      "time": 1783758085,
+      "translated": false
+    },
+    {
       "author_name": "Denise Kolberg",
       "author_url": "https://www.google.com/maps/contrib/104058987748776715696/reviews",
       "language": "de",
@@ -330,7 +342,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 76,
+  "reviewCount": 77,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:29.570Z"
+  "lastUpdated": "2026-07-13T08:15:03.927Z"
 }

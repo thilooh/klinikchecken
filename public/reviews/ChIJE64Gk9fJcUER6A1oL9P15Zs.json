@@ -115,6 +115,16 @@
       "translated": false
     },
     {
+      "author_name": "Helma Rosenhauer",
+      "author_url": "https://www.google.com/maps/contrib/118308348648658576279/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnAxjwPjZHNr40ijqvuiBNWIgAnhVVHKtZzfNun-GOx-vhuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1781982487,
+      "translated": false
+    },
+    {
       "author_name": "Axel Müller",
       "author_url": "https://www.google.com/maps/contrib/116985576791820041769/reviews",
       "language": "de",
@@ -170,6 +180,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4Y1XZGnUxFMdxbTKEiKVOeTfup7HkVtB1L-N5D6e-FKgdLw=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Kompetent, sehr gut organisiert, sehr freundlich",
+      "time": 1781249657,
+      "translated": false
+    },
+    {
+      "author_name": "Axel Müller",
+      "author_url": "https://www.google.com/maps/contrib/116985576791820041769/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4Y1XZGnUxFMdxbTKEiKVOeTfup7HkVtB1L-N5D6e-FKgdLw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Kompetent, sehr gut organisiert, sehr freundlich",
       "time": 1781249657,
       "translated": false
@@ -574,5 +596,5 @@
   "rating": 3.7,
   "reviewCount": 77,
   "summary": [],
-  "lastUpdated": "2026-07-10T08:20:29.972Z"
+  "lastUpdated": "2026-07-13T08:15:04.311Z"
 }

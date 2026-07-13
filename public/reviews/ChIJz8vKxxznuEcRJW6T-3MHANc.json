@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Wilfried Seidel",
+      "author_url": "https://www.google.com/maps/contrib/108141873547950215478/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJawu-VZRHYKYwT_qvC2AxO20gZmWKw_lioW044gBpcLTLmGg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte wegen Schmerzen einen Termin online Gebucht bei Dr. Krosta\nLeider bin ich da wohl in eine \" falsche  Zeile  \" gerutscht bei der Buchung.\nDie Buchung wurde auch  Bestätigt und sogar eine Zeitnäheren für gestern den 10.07. 2026 angeboten den habe ich dann gerne um 13,40 wahrgenommen.\nAber jetzt kommt es,\nSie haben Vorsorge Gebucht, wir können Sie leider nicht behandeln, dazu brauchen Sie einen anderen Termin.\nAber wenn Sie selbst zahlen können Sie bleiben.\nAlternativ Sie kommen am Montag nochmal vorbei und wir machen eib Foto \" von der Stelle \" und dann machen wir einen Neuen Termin.\nIch bin sprachlos, mehr bleibt mir dazu.nicht zusagen.",
+      "time": 1783753369,
+      "translated": false
+    },
+    {
       "author_name": "Tina Füting",
       "author_url": "https://www.google.com/maps/contrib/112039629326073659261/reviews",
       "language": "de",
@@ -798,11 +810,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 385,
+  "reviewCount": 386,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-10T08:20:54.900Z"
+  "lastUpdated": "2026-07-13T08:15:28.649Z"
 }
