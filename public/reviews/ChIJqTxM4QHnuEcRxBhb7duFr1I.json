@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Lydia",
+      "author_url": "https://www.google.com/maps/contrib/103315775810513606542/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyo4GiF3RfStLWY2z6u0Wmy-FfFWU7lT6SAXHCRI-5mONVGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ein netter lieber Arzt ,würde immer wieder hingehen.",
+      "time": 1783581335,
+      "translated": false
+    },
+    {
       "author_name": "Ralf Kulka",
       "author_url": "https://www.google.com/maps/contrib/116625988839506511174/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQtH9VNDrReIS0JgsdHALv3OgBgrzXJhlYfg-qOr9pSnlQsA=s128-c0x00000000-cc-rp-mo",
@@ -76,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ7qLlLFr9ZTX04Vwf0J6vDI0IbXkwUPXMt5EhQ5v_scvgU03M=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ein wunderbarer Arzt, was seine Behandlung und seine Freundlichkeit betrifft.",
+      "time": 1781606624,
+      "translated": true
+    },
+    {
+      "author_name": "Ali Alali",
+      "author_url": "https://www.google.com/maps/contrib/107641648485375912483/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ7qLlLFr9ZTX04Vwf0J6vDI0IbXkwUPXMt5EhQ5v_scvgU03M=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ein wunderbarer Arzt, was seine Behandlung und seine Freundlichkeit betrifft.",
       "time": 1781606624,
       "translated": true
@@ -448,5 +472,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:28.199Z"
+  "lastUpdated": "2026-07-16T07:21:42.815Z"
 }

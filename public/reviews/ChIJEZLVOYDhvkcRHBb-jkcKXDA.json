@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jennifer Klewno",
+      "author_url": "https://www.google.com/maps/contrib/112768728506899886832/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJa7KWUJYinMNEg9N0ApzuxwH5Ek08y6uHRKFyJ3G2JjoBXqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dreimal einen Termin gebucht, dreimal eine Stunde vorher per Mail ohne Angabe eines Grundes abgesagt.\nTelefonisch auch nicht erreichbar…  Definitiv nicht weiter zu empfehlen",
+      "time": 1783948050,
+      "translated": false
+    },
+    {
       "author_name": "Rojhat Sönmez",
       "author_url": "https://www.google.com/maps/contrib/116192400848427413358/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUAvDcs9u2qI1snf-vVehHtvsuchfII4C5_zYyb-5P5xKCW0w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich würde am liebsten 0 Sterne vergeben. Es tut mir leid für die anderen behandelnden Ärzte der Praxis, aber meine persönliche Erfahrung mit Dr. Weckbecker war leider sehr enttäuschend.\n\nIch hatte das Gefühl, dass meine Beschwerden nicht ernst genommen und eher heruntergespielt wurden. Bereits nach dem ersten Termin fühlte ich mich nicht ausreichend auf meine Anliegen eingegangen.\n\nEinen Lasertermin konnte ich aufgrund der Jahreszeit zwar nachvollziehbarerweise nicht erhalten. Weniger nachvollziehbar war für mich jedoch, dass mein bereits sechs Monate im Voraus vereinbartes Beratungsgespräch eine Woche vorher kommentarlos über Doctolib abgesagt wurde.\n\nAußerdem wurde mir eine Diagnose genannt, die nach Einschätzung mehrerer anderer Ärzte später ausgeschlossen wurde. Irrtümer können passieren, entscheidend ist für mich jedoch der Umgang mit Patienten. Ich empfand die Kommunikation als wenig empathisch und hatte insgesamt nicht das Gefühl, mit meinen Sorgen ernst genommen zu werden.\n\nWer Wert auf eine respektvolle und empathische Behandlung legt, sollte diese Erfahrung aus meiner Sicht berücksichtigen.",
+      "time": 1783465050,
+      "translated": false
+    },
+    {
+      "author_name": "Rojhat Sönmez",
+      "author_url": "https://www.google.com/maps/contrib/116192400848427413358/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUAvDcs9u2qI1snf-vVehHtvsuchfII4C5_zYyb-5P5xKCW0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich würde am liebsten 0 Sterne vergeben. Es tut mir leid für die anderen behandelnden Ärzte der Praxis, aber meine persönliche Erfahrung mit Dr. Weckbecker war leider sehr enttäuschend.\n\nIch hatte das Gefühl, dass meine Beschwerden nicht ernst genommen und eher heruntergespielt wurden. Bereits nach dem ersten Termin fühlte ich mich nicht ausreichend auf meine Anliegen eingegangen.\n\nEinen Lasertermin konnte ich aufgrund der Jahreszeit zwar nachvollziehbarerweise nicht erhalten. Weniger nachvollziehbar war für mich jedoch, dass mein bereits sechs Monate im Voraus vereinbartes Beratungsgespräch eine Woche vorher kommentarlos über Doctolib abgesagt wurde.\n\nAußerdem wurde mir eine Diagnose genannt, die nach Einschätzung mehrerer anderer Ärzte später ausgeschlossen wurde. Irrtümer können passieren, entscheidend ist für mich jedoch der Umgang mit Patienten. Ich empfand die Kommunikation als wenig empathisch und hatte insgesamt nicht das Gefühl, mit meinen Sorgen ernst genommen zu werden.\n\nWer Wert auf eine respektvolle und empathische Behandlung legt, sollte diese Erfahrung aus meiner Sicht berücksichtigen.",
       "time": 1783465050,
       "translated": false
@@ -398,11 +422,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 95,
+  "reviewCount": 96,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-13T08:15:12.077Z"
+  "lastUpdated": "2026-07-16T07:21:26.547Z"
 }

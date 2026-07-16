@@ -1,11 +1,57 @@
 {
   "reviews": [
     {
+      "author_name": "Hans-Christian Hasse",
+      "author_url": "https://www.google.com/maps/contrib/101474827227899985111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2l5fvAR0R29oy-MMXyJ80ZxS8GSO1kPyBXr6m8bUpBQE_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mit Überweisung vom Hautarzt ca. 4 Monate Wartezeit für einen GKV-Termin. Die große Praxis ist super zentral gelegen, sehr modern und klimatisiert. Am frühen Morgen kaum Wartezeit am Empfang, auch nach der Anmeldung nur knapp 10 Minuten. Die Untersuchung (Venen) ist sehr fokussiert, gründlich und dennoch zügig. Moderne Technik im Einsatz. Umgehende dezidierte, schlüssige Erklärung des Befunds. Ein wirklich effizienter, zielorientierter Arztbesuch, so wie man ihn sich wünscht. Besser geht's nicht.",
+      "time": 1784134727,
+      "translated": false
+    },
+    {
+      "author_name": "Victoria",
+      "author_url": "https://www.google.com/maps/contrib/102376397126196272517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKveprUFjd4hrNiDvs7nvEDzQE3Ml3I9GuKis5xkX6HyDDfM-hm=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider kann ich die Praxis aufgrund meiner Erfahrungen nicht empfehlen. Seit über zwei Jahren versuche ich, einen Termin beim Arzt wahrzunehmen. Bereits vereinbarte Termine wurden wiederholt kurzfristig abgesagt. Ersatztermine wurden jeweils erst mehrere Monate später angeboten, teilweise mit einer Wartezeit von etwa sechs Monaten. Dadurch ist bis heute keine Behandlung zustande gekommen.",
+      "time": 1784028173,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine Steinbach",
+      "author_url": "https://www.google.com/maps/contrib/105845557707639535584/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhmeHn9Qzo8To3KplWBVSmL6BZNv7TrxRW-ug224UcV6QwMU9y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meiner Behandlung im Gefäßzentrum sehr zufrieden. Einen Termin habe ich zeitnah erhalten und die gesamte Organisation war hervorragend. Die Operation zur Entfernung meiner Krampfadern ist sehr gut verlaufen und ich habe mich während des gesamten Behandlungsprozesses bestens aufgehoben gefühlt. Das gesamte Team war professionell, freundlich und jederzeit hilfsbereit. Ich kann das Gefäßzentrum aufgrund der kompetenten Betreuung und der angenehmen Atmosphäre uneingeschränkt weiter empfehlen",
+      "time": 1783965091,
+      "translated": false
+    },
+    {
       "author_name": "Christin Köse",
       "author_url": "https://www.google.com/maps/contrib/112488688700644496363/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy1cz5wFeiqMooFJ9zn2JzbCF4eb9AlxMGeIASYwkE4jO5Bw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783544037,
+      "translated": false
+    },
+    {
+      "author_name": "Christin Köse",
+      "author_url": "https://www.google.com/maps/contrib/112488688700644496363/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy1cz5wFeiqMooFJ9zn2JzbCF4eb9AlxMGeIASYwkE4jO5Bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783544037,
       "translated": false
@@ -381,11 +427,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 183,
+  "reviewCount": 186,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-07-13T08:14:53.799Z"
+  "lastUpdated": "2026-07-16T07:21:07.782Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "wlad klipp",
+      "author_url": "https://www.google.com/maps/contrib/105787982614570423350/reviews",
+      "language": "ru",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyFZtezZfycAVS24pmcVPvQM-meNCHVs2LJEIrcCRtLlCjmGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Всё отлично, дружелюбный персонал Красивый доктор, прекрасно всё прошло. Назначение помогло!",
+      "time": 1784149004,
+      "translated": false
+    },
+    {
+      "author_name": "Nelli Bach",
+      "author_url": "https://www.google.com/maps/contrib/103987236483646049420/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCiiulCFTqcKlEWLWcMTzlfMS_kX_uRj61FrxgYwHI_WskTmy0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte der gesamten Praxis ein großes Lob aussprechen.\n\nDas gesamte Team ist ausgesprochen freundlich, herzlich und professionell. Schon am Empfang wird man sehr nett begrüßt und fühlt sich sofort willkommen. Die Mitarbeiterinnen leisten großartige Arbeit und sorgen dafür, dass man sich jederzeit gut aufgehoben fühlt.\n\nEin besonderes Lob gilt Frau Dr. Brenner. Sie ist eine hervorragende Ärztin, die sich viel Zeit nimmt und ihre Arbeit mit großer Kompetenz und Sorgfalt ausübt. Bei ihr fühlt man sich in den besten Händen. Ihre freundliche und professionelle Art schafft Vertrauen und gibt einem ein sicheres Gefühl.\n\nVielen Dank an das gesamte Praxisteam für die hervorragende Betreuung. Bitte machen Sie genauso weiter!",
+      "time": 1784044005,
+      "translated": false
+    },
+    {
       "author_name": "florenc Ruci",
       "author_url": "https://www.google.com/maps/contrib/104479496904001367019/reviews",
       "language": "de",
@@ -662,11 +686,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 107,
+  "reviewCount": 109,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:11.832Z"
+  "lastUpdated": "2026-07-16T07:21:26.328Z"
 }

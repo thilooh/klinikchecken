@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Fredi Hendel",
+      "author_url": "https://www.google.com/maps/contrib/116112827580270026562/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQQYLjZdrSvukbnKL3cv4ua5r7mbY0d6yWiByh-iVBD_vNlm_R=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr sympathischer lockerer Arzt, nimmt sich Zeit und klärt vernünftig auf. Kann die negativen Rezensionen hier überhaupt nicht nachvollziehen.",
+      "time": 1783960381,
+      "translated": false
+    },
+    {
       "author_name": "le muecke",
       "author_url": "https://www.google.com/maps/contrib/103967576537388908578/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfF8ol1bHqHcVUelChvUBK4Qx0H1g2XH4One3M5YI0__bfDD5b=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 5 Monaten",
+      "text": "5 von 5 Sternen 🙂\nDr.Geertsen ist mir absolut Sympathisch, ein wirklich sehr guter Arzt.Ich war schon öfters in der Praxis als Patient. Hier stimmt für mich einfach alles ,das ganze Praxis Team immer super freundlich.  Sehr schnelle Termine Vergabe. Kurze Wartezeiten in der Praxis ,Zeitnahe OP Termine  und wie schon geschrieben, ein wirklich super Arzt.\nHier muss man einfach auch mal Danke sagen das es so Toll funktioniert. Da geht man ja schon fast gerne zum Arzt 🙂😉",
+      "time": 1768502096,
+      "translated": false
+    },
+    {
+      "author_name": "Thortis Neun97",
+      "author_url": "https://www.google.com/maps/contrib/108374134515786634423/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfF8ol1bHqHcVUelChvUBK4Qx0H1g2XH4One3M5YI0__bfDD5b=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 6 Monaten",
       "text": "5 von 5 Sternen 🙂\nDr.Geertsen ist mir absolut Sympathisch, ein wirklich sehr guter Arzt.Ich war schon öfters in der Praxis als Patient. Hier stimmt für mich einfach alles ,das ganze Praxis Team immer super freundlich.  Sehr schnelle Termine Vergabe. Kurze Wartezeiten in der Praxis ,Zeitnahe OP Termine  und wie schon geschrieben, ein wirklich super Arzt.\nHier muss man einfach auch mal Danke sagen das es so Toll funktioniert. Da geht man ja schon fast gerne zum Arzt 🙂😉",
       "time": 1768502096,
       "translated": false
@@ -205,12 +229,12 @@
       "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 104,
+  "rating": 4.1,
+  "reviewCount": 105,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:39.735Z"
+  "lastUpdated": "2026-07-16T07:21:54.421Z"
 }

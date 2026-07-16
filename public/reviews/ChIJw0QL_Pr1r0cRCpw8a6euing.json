@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dieter Lange",
+      "author_url": "https://www.google.com/maps/contrib/110420106047606633729/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkJGRJMVIItPl6apjOWxXk-V2NUvVU2P0T_8gKXG_H_LTt5Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Diese Klinik ist ein wichtiger Bestandteil für die Genesung der Patienten, die professionelle Arbeit der Operateure in Zusammenarbeit mit dem KH-Team ergeben 100 Prozent, Danke",
+      "time": 1784045434,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele. Zigann",
       "author_url": "https://www.google.com/maps/contrib/107032215454195384522/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkf3mVB7yLMhYlgGh4hWZixf8gEfhDkUBgP6NIiuHLsmhp3g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Also ich war als Patientin von Dr. Vasilios Koufoglou dort. Man wurde sehr nett aufgenommen und das Zimmer war sehr schön mit Blick auf den Park. Das Essen war sehr gut auch Änderungen wurden sofort umgesetzt.\nDas gesamte Personal war sehr nett und freundlich besonders unsere Nachtschwester war sehr lieb. Ich kann nur sagen das ich mich sehr wohl gefühlt habe. Ein riesengroßes Lob von mir.",
+      "time": 1783448058,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele. Zigann",
+      "author_url": "https://www.google.com/maps/contrib/107032215454195384522/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkf3mVB7yLMhYlgGh4hWZixf8gEfhDkUBgP6NIiuHLsmhp3g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Also ich war als Patientin von Dr. Vasilios Koufoglou dort. Man wurde sehr nett aufgenommen und das Zimmer war sehr schön mit Blick auf den Park. Das Essen war sehr gut auch Änderungen wurden sofort umgesetzt.\nDas gesamte Personal war sehr nett und freundlich besonders unsere Nachtschwester war sehr lieb. Ich kann nur sagen das ich mich sehr wohl gefühlt habe. Ein riesengroßes Lob von mir.",
       "time": 1783448058,
       "translated": false
@@ -642,11 +666,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 155,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-13T08:15:09.720Z"
+  "lastUpdated": "2026-07-16T07:21:24.243Z"
 }

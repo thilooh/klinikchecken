@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Vanessa Jülich",
+      "author_url": "https://www.google.com/maps/contrib/116043511587230544742/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHHIVXYqYsr_w8X_31eYnvp3a6XpjVoQAsCBQ3aKuHomMPow=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wäre es machbar würde diese Praxis keinen Stern bekommen.\nLeider hat meine frühere Ärztin die Praxis verlassen und ich bin an eine sehr unangenehme Person geraten. An meinem Termin gab es mehrere Dinge die geklärt werden sollten.\nSeit ca. 17 Jahren bin ich mit Akne Inversa diagnostiziert, dies revidierte der Arzt. Er sah keine Anzeichen dafür obwohl er sich die betroffenen Stellen nicht mal anschaute. Die Überweisung für die Uniklinik zur Bestätigung dass ich nicht chronisch krank bin habe ich wahr genommen, dort dauerte die Diagnose keine 30 min. Interessiert hat es diese Praxis nicht. Aufklärung über Risiken der Muttermalausstanzung habe ich keine erhalten, ich sollte doch einfach nur unterschreiben.\nMeine Patientenakte hat nach 4 Monaten und ewigen Diskussionen den Weg zu mir gefunden. In dieser Akte stehen Dinge drin die unterirdisch und einfach nicht wahrheitsgemäß sind.\n\nMein Rat? Diese Praxis erst gar nicht betreten!",
+      "time": 1783965015,
+      "translated": false
+    },
+    {
       "author_name": "Aprikose",
       "author_url": "https://www.google.com/maps/contrib/113607378652100700977/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-LPV5p1dNjGSal4ssCh_OB9DY2aHy4meJsFn_DcmGLqcVAQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783455217,
+      "translated": false
+    },
+    {
+      "author_name": "Aprikose",
+      "author_url": "https://www.google.com/maps/contrib/113607378652100700977/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-LPV5p1dNjGSal4ssCh_OB9DY2aHy4meJsFn_DcmGLqcVAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783455217,
       "translated": false
@@ -42,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJgG-A_LjUmbxuWyir-x0b-OyH9RlxD0ItkNi_WKULvP4hGaAAyg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich kann diese Praxis leider überhaupt nicht empfehlen. Ich hatte einen dringenden Termin, für den ich extra früher von der Arbeit gegangen bin. Ich wurde nicht aufgenommen.\nDer Grund? Ich hatte als Privatpatientin meinen gültigen Reisepass dabei und konnte mich einwandfrei ausweisen, aber die Praxis bestand steif und fest auf dem Personalausweis, da ich Neupatienten bin. Seit zwei Jahrzehnten bin ich privat versichert und so ein bürokratischer Unsinn ist mir noch nie untergekommen.\nDass hier starre Bürokratie über das Wohl der Patienten gestellt wird – zumal es dringend war –, ist extrem enttäuschend. Jetzt darf ich wieder ewig auf einen Termin bei einem anderen Kollegen warten. Keine Empfehlung.",
+      "time": 1782294599,
+      "translated": false
+    },
+    {
+      "author_name": "Julia E.",
+      "author_url": "https://www.google.com/maps/contrib/106829605997881583572/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJgG-A_LjUmbxuWyir-x0b-OyH9RlxD0ItkNi_WKULvP4hGaAAyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich kann diese Praxis leider überhaupt nicht empfehlen. Ich hatte einen dringenden Termin, für den ich extra früher von der Arbeit gegangen bin. Ich wurde nicht aufgenommen.\nDer Grund? Ich hatte als Privatpatientin meinen gültigen Reisepass dabei und konnte mich einwandfrei ausweisen, aber die Praxis bestand steif und fest auf dem Personalausweis, da ich Neupatienten bin. Seit zwei Jahrzehnten bin ich privat versichert und so ein bürokratischer Unsinn ist mir noch nie untergekommen.\nDass hier starre Bürokratie über das Wohl der Patienten gestellt wird – zumal es dringend war –, ist extrem enttäuschend. Jetzt darf ich wieder ewig auf einen Termin bei einem anderen Kollegen warten. Keine Empfehlung.",
       "time": 1782294599,
       "translated": false
@@ -527,7 +561,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 51,
+  "reviewCount": 52,
   "summary": [],
-  "lastUpdated": "2026-07-13T08:14:56.858Z"
+  "lastUpdated": "2026-07-16T07:21:11.081Z"
 }

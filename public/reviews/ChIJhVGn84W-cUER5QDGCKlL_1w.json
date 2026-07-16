@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Carsten Schumann",
+      "author_url": "https://www.google.com/maps/contrib/108004779839583299781/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr-MZmO7mFQBr9-Ufzy0ofqojxdTtLii9ZXvovRykwoDJfmMIg8g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784170883,
+      "translated": false
+    },
+    {
+      "author_name": "Marianne Bargsten",
+      "author_url": "https://www.google.com/maps/contrib/109749688125145997018/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt5eFZCoJBqnhsxUBinCDumRsrB6EhNqWm-YucOHHv_WMvYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784050421,
+      "translated": false
+    },
+    {
       "author_name": "Jennifer Rösner",
       "author_url": "https://www.google.com/maps/contrib/110163229806960949361/reviews",
       "language": "de",
@@ -120,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZotYdzsucnrINHC2Iy4861ok0mG0PqV8Nx1Sf5RuOsgm6QUU=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Der Arzt hat eine akute Thrombose ausgeschlossen – für mein eigentliches Problem, dass der Arm beim Hängenlassen blau anläuft, wurde allerdings kein Ultraschall im Sitzen/unter Belastung gemacht. Dabei wurde mir in der Notaufnahme extra geraten, einen Gefäßchirurg aufzusuchen, damit dieser einen dynamischen Doppler-Ultraschall durchführen kann. Stattdessen lief es darauf hinaus, dass man das hier nicht weiter untersuchen könne, ich müsse dafür in ein fachgerichtetes Krankenhaus. Eine Überweisung hierfür habe ich aber nicht bekommen, was der Hauptgrund für meine Enttäuschung ist. Andrerseits hat sich der Arzt Zeit genommen, wirkte freundlich und hat auch versucht mir seinen Standpunkt deutlich zu machen. Ich vermute daher mal, dass mein Fall zu kompliziert war, dennoch hätte man auf die Empfehlung des Krankenhausarztes eingehen können anstatt sich nur auf das gängige Schema (Arm heben, Puls testen) zu verlassen und mich ohne Überweisung \"weiterzuschicken\" bzw im Kreis zu schicken.\n\nPs: Ich habe als Beweis meine Buchungsbestätigung (der Termin hat laut dieser auch normal stattgefunden) sowie Fotos vom Tag des Termins innerhalb der Praxis. ich war also wirklich Patientin 💪🏻",
+      "time": 1781537854,
+      "translated": false
+    },
+    {
+      "author_name": "Angie (beautycolor)",
+      "author_url": "https://www.google.com/maps/contrib/104557612866013568958/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZotYdzsucnrINHC2Iy4861ok0mG0PqV8Nx1Sf5RuOsgm6QUU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Der Arzt hat eine akute Thrombose ausgeschlossen – für mein eigentliches Problem, dass der Arm beim Hängenlassen blau anläuft, wurde allerdings kein Ultraschall im Sitzen/unter Belastung gemacht. Dabei wurde mir in der Notaufnahme extra geraten, einen Gefäßchirurg aufzusuchen, damit dieser einen dynamischen Doppler-Ultraschall durchführen kann. Stattdessen lief es darauf hinaus, dass man das hier nicht weiter untersuchen könne, ich müsse dafür in ein fachgerichtetes Krankenhaus. Eine Überweisung hierfür habe ich aber nicht bekommen, was der Hauptgrund für meine Enttäuschung ist. Andrerseits hat sich der Arzt Zeit genommen, wirkte freundlich und hat auch versucht mir seinen Standpunkt deutlich zu machen. Ich vermute daher mal, dass mein Fall zu kompliziert war, dennoch hätte man auf die Empfehlung des Krankenhausarztes eingehen können anstatt sich nur auf das gängige Schema (Arm heben, Puls testen) zu verlassen und mich ohne Überweisung \"weiterzuschicken\" bzw im Kreis zu schicken.\n\nPs: Ich habe als Beweis meine Buchungsbestätigung (der Termin hat laut dieser auch normal stattgefunden) sowie Fotos vom Tag des Termins innerhalb der Praxis. ich war also wirklich Patientin 💪🏻",
       "time": 1781537854,
       "translated": false
@@ -493,12 +525,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 78,
+  "rating": 4.8,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:27.500Z"
+  "lastUpdated": "2026-07-16T07:21:42.102Z"
 }

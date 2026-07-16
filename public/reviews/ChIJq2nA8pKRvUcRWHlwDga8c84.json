@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Mone",
+      "author_url": "https://www.google.com/maps/contrib/109322407552676585931/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhBBO5eLlSgZrRbSI0gFMITHrAgoQeLWD21wUvAN2uvuUNEvk=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top organisiert, Empfang, ganzes Team sehr nett und freundlich. Super nette und kompetente Ärztin!",
+      "time": 1784123593,
+      "translated": false
+    },
+    {
+      "author_name": "Athanasia Papagaki",
+      "author_url": "https://www.google.com/maps/contrib/103353630323784669230/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt2ez_GbTlkdGgIclykufldtnz-5seM_oDvvHSWCmEqAK8mUA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetente Praxis",
+      "time": 1784120474,
+      "translated": false
+    },
+    {
       "author_name": "Maria Kaliner",
       "author_url": "https://www.google.com/maps/contrib/108004741050832794111/reviews",
       "language": "de",
@@ -30,6 +54,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb5zLW1yFCJhdy13yhZvURIStH-JsnLkTHlG_nW2izV_HLSA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783335274,
+      "translated": false
+    },
+    {
+      "author_name": "Flower Power",
+      "author_url": "https://www.google.com/maps/contrib/116059765287661038357/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb5zLW1yFCJhdy13yhZvURIStH-JsnLkTHlG_nW2izV_HLSA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783335274,
       "translated": false
@@ -884,11 +918,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 310,
+  "reviewCount": 312,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:24.708Z"
+  "lastUpdated": "2026-07-16T07:21:39.314Z"
 }

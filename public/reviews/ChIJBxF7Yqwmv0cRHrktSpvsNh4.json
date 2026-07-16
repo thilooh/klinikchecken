@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mrs. McNet",
+      "author_url": "https://www.google.com/maps/contrib/115652184724666562646/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFM7vz5BLOKl5GlQPVEgcQu2Pq7k60D91GSWC553jKpQ6Ddg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784023177,
+      "translated": false
+    },
+    {
       "author_name": "Salma Lahrayri",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
@@ -177,11 +187,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 23,
+  "reviewCount": 24,
   "summary": [
     "Hautscreening und kleinere Eingriffe werden als professionell und freundlich gelobt",
     "Rezeption und telefonische Erreichbarkeit werden mehrfach kritisiert",
     "Vereinzelt Kritik an Kommunikation bei Komplikationen und Befunden"
   ],
-  "lastUpdated": "2026-07-13T08:14:54.680Z"
+  "lastUpdated": "2026-07-16T07:21:08.748Z"
 }

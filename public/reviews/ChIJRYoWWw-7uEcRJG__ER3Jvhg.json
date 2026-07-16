@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sarah V",
+      "author_url": "https://www.google.com/maps/contrib/111676436906295634983/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcL014qou7g9VldRXWZNWQtZX6S-3WvcdVSG-4fY3648i3wQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "❤️lichen Dank für alles",
+      "time": 1784006783,
+      "translated": false
+    },
+    {
       "author_name": "Chantal Tas",
       "author_url": "https://www.google.com/maps/contrib/101640114313776858947/reviews",
       "language": "de",
@@ -838,11 +850,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 218,
+  "reviewCount": 219,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:29.118Z"
+  "lastUpdated": "2026-07-16T07:21:43.743Z"
 }

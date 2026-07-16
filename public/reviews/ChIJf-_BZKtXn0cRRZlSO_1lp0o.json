@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Cyntia Kräch",
+      "author_url": "https://www.google.com/maps/contrib/115276941345951098793/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVz9-1J1atwpddhs328tV9DvKyk_Abo-Imz3yZqWA1Fuol5eeMf=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für mich war der Besuch eine absolute Katastrophe.\nIch bin Lipödem / Lymphödem Patientin und bin für diesen Termin extra aus Würzburg angereist, da es bei uns keinen Arzt mehr gibt.\nAuf der Homepage wird ganz groß über die Behandlung & Diagnose der Krankheiten gesprochen.\nVor Ort musste ich mir dann anhören:\n\n- „ich weiß nicht wie ich ihnen das Diagnostizieren soll“\n- „da müssen sie zu meinem anderen Arzt“\n- „was wollen sie dass ich ihnen in den Arztbericht schreibe“\n- „Ich kann ihnen nicht helfen“\n\nIch bin absolut geschockt von so einer Ärztin!\nWieso wird es laut Homepage behandelt und vor Ort wird man so abgewiesen?\n\n200km und 1 Urlaubstag umsonst!\nIch bin sehr enttäuscht",
+      "time": 1784006610,
+      "translated": false
+    },
+    {
       "author_name": "F Sir",
       "author_url": "https://www.google.com/maps/contrib/113834689762543168128/reviews",
       "language": "de",
@@ -313,8 +325,8 @@
       "translated": false
     }
   ],
-  "rating": 3.3,
-  "reviewCount": 43,
+  "rating": 3.2,
+  "reviewCount": 44,
   "summary": [],
-  "lastUpdated": "2026-07-13T08:15:05.491Z"
+  "lastUpdated": "2026-07-16T07:21:19.985Z"
 }

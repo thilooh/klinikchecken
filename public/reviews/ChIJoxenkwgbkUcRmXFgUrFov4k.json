@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "capucino66",
+      "author_url": "https://www.google.com/maps/contrib/106305673470700478755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRlllyfjUvYStJEjJ2TuCXHqvzNCYH1S8N4n_LEkNuszA77SAL=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nachdem ich gestern am 14. Juli einen Termin in der Arztpraxis hatte, den ich extra noch vor gut einem Dreivierteljahr auf 8:15 Uhr verlegt habe, weil ich weiß, dass man dort sehr oft warten muss, ,ich bin Gestern unverrichteter Dinge nach 45 Minuten Wartezeit wieder gegangen, da ich selber Arbeit hatte. Man rief mich telefonisch an und hat mir einen Ausgleich Termin für heute Morgen 8:20 Uhr angeboten und die normale Vorsorge dann im Dezember. Den Termin nahm ich natürlich wahr und wollte auch von meiner Seite her diese für mich respektlose und nicht wertschätzen der Art und Weise der langen Wartezeit ansprechen. Stattdessen wurde ich angeschrien und der Praxis verwiesen von Frau Doktor. Calow,. Selbstverständlich können immer Verzögerungen eine Praxis auftreten durch Notfälle oder unvorhergesehene Dinge, die über den Tag passieren, aber mit Sicherheit nicht morgens schon um 8:15 Uhr. Von dem her kann ich diese Praxis definitiv nicht empfehlen. Das Beste in dieser Praxis sind die Sprechstundenhilfen sehr lieb, sehr fürsorglich, sehr hilfsbereit gegen die Damen am Empfang kann ich überhaupt nichts Negatives sagen, Das Verhalten der Ärztin ist in meinen Augen unverzeihlich, inkompetent und sehr auffällig",
+      "time": 1784097319,
+      "translated": false
+    },
+    {
       "author_name": "Kai Schafhausen",
       "author_url": "https://www.google.com/maps/contrib/106841250026577385818/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKN_sKRyRRgPa43JLrD6eRqkuEQvfqRjYHBpqN1Ps1TW1_l=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich hatte eine Venen-OP dort und bin sehr zufrieden mit dem Ärzte-Team. Frau Casetti hat den Ablauf sehr gut erläutert und die Voruntersuchung durchgeführt.  Ein paar Monate später nahm Dr. Hoffmann den eigentlichen Eingriff vor. Durch seine kommunikative, entspannte und freundliche Art und seine fachliche Kompetenz habe ich mich von Anfang an sehr gut aufgehoben gefühlt.  Vielen lieben Dank dafür! Ich kann  die  Praxis nur weiterempfehlen.",
+      "time": 1781632047,
+      "translated": false
+    },
+    {
+      "author_name": "Kai Schafhausen",
+      "author_url": "https://www.google.com/maps/contrib/106841250026577385818/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKN_sKRyRRgPa43JLrD6eRqkuEQvfqRjYHBpqN1Ps1TW1_l=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich hatte eine Venen-OP dort und bin sehr zufrieden mit dem Ärzte-Team. Frau Casetti hat den Ablauf sehr gut erläutert und die Voruntersuchung durchgeführt.  Ein paar Monate später nahm Dr. Hoffmann den eigentlichen Eingriff vor. Durch seine kommunikative, entspannte und freundliche Art und seine fachliche Kompetenz habe ich mich von Anfang an sehr gut aufgehoben gefühlt.  Vielen lieben Dank dafür! Ich kann  die  Praxis nur weiterempfehlen.",
       "time": 1781632047,
       "translated": false
@@ -362,11 +386,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 97,
+  "reviewCount": 98,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:16.728Z"
+  "lastUpdated": "2026-07-16T07:21:31.323Z"
 }

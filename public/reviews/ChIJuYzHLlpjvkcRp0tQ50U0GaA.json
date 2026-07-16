@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Friedhelm Müller",
+      "author_url": "https://www.google.com/maps/contrib/110813098653582435723/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW91n5iHJYwJXvnXULu4jbS3jRgD4Kmarlhtq8FJhHxJG-lZXgLng=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das medizinische fachpersonal ist  ausgezeichnet im besonderen die Anmeldung zu erwähnen",
+      "time": 1784120962,
+      "translated": false
+    },
+    {
       "author_name": "Heinz-Jürgen Korz",
       "author_url": "https://www.google.com/maps/contrib/118282295208781359541/reviews",
       "language": "de",
@@ -97,12 +109,12 @@
       "translated": false
     }
   ],
-  "rating": 3,
-  "reviewCount": 2,
+  "rating": 3.7,
+  "reviewCount": 3,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:41.795Z"
+  "lastUpdated": "2026-07-16T07:21:56.363Z"
 }

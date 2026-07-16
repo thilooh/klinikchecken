@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Suvada Vatic",
+      "author_url": "https://www.google.com/maps/contrib/104181268896476133268/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJphlrQw40wS7xGg5KKr8rCuGpJMCwvFWAYlZgJo68K4OwtPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Janjic hat vor kurzem eine Gefäßoperation bei mir durchgeführt. Ich bin sehr zufrieden mit dem ganzen Prozess. Sie hat mir alles deutlich erklärt und mich sehr unterstützt, diesen Schritt zu gehen. Sie hat eine sehr freundliche und nette Art und ist für ihre Patienten sehr geduldig und lässt viel Zeit bei den Patienten. Ich kann sie nur weiter empfehlen, ich bin sehr zufrieden mit den Besprechungsterminen, sowie mit der ganzen Operation und auch mit den Nachbehandlungen. Das Team allgemein ist sehr nett und hilfsbereit und ich bin sehr glücklich darüber, dass ich dort Patienten bin. Ich bedanke mich hiermit ganz herzlich für diese positive Erfahrung.",
+      "time": 1783978339,
+      "translated": false
+    },
+    {
       "author_name": "Andrijana Carlan",
       "author_url": "https://www.google.com/maps/contrib/100737582504617980154/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Jürgen S.",
+      "author_url": "https://www.google.com/maps/contrib/103447052926464632609/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWifdtmcQ9W-guMPL_V0kpWUuCpYRTmDi-_NGgSlEPGpQmbxts2=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Termin bei Dr. Halasz, war schnell beendet. Ich soll dahin gehen wo ich vor 10 Jahren operiert wurde.( Krampfadern ziehen) Er könnte ja nicht ins blaue hinein sehen. Ich wollte nur das er mein Bein ansieht, und eine Meinung haben. Er machte dann so weiter, ein Wort nach dem anderen, wenn sie das nicht wollen, sagte ich , ziehe ich meine Schuhe wieder an und ich känzel hier die den Termin. Unfreundlich und frech.",
+      "time": 1782214162,
+      "translated": false
+    },
+    {
       "author_name": "Engel",
       "author_url": "https://www.google.com/maps/contrib/104271827388834412523/reviews",
       "language": "de",
@@ -85,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Engel",
+      "author_url": "https://www.google.com/maps/contrib/104271827388834412523/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL63QuREOmWgmix0dYKej76Vd9wmhmEJWrbrtJrnXUQzjhvCQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ohne Worte",
+      "time": 1782213412,
+      "translated": false
+    },
+    {
       "author_name": "Hasija Cinac",
       "author_url": "https://www.google.com/maps/contrib/108420326770777013692/reviews",
       "language": "de",
@@ -116,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBAcAhi0e9Vclu-TIsHDHrrFB9lvFRdhXb42jFDNhWgoknL34=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr  nettes  Erzte und  Mitarbeiter",
+      "time": 1782120849,
+      "translated": false
+    },
+    {
+      "author_name": "Hasija Cinac",
+      "author_url": "https://www.google.com/maps/contrib/108420326770777013692/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBAcAhi0e9Vclu-TIsHDHrrFB9lvFRdhXb42jFDNhWgoknL34=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr  nettes  Erzte und  Mitarbeiter",
       "time": 1782120849,
       "translated": false
@@ -566,11 +614,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 169,
+  "reviewCount": 170,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-13T08:15:23.990Z"
+  "lastUpdated": "2026-07-16T07:21:38.612Z"
 }

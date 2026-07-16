@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "loonaa devinoo",
+      "author_url": "https://www.google.com/maps/contrib/105373291430767203026/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVXnhdygFJt732Vogf3epQNdfyDXSoPb5C-aBb2FXuXFvlLnu5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bezüglich Dr. Rüger,\nDanke für den super Termin, alles lief wie am Schnürchen und obwohl ich keine Patientin bin, die für eine Operation in Frage kommt, war Herr Dr. Rüger super freundlich und hat mich über alles was er weiß und als Tips geben kann informiert und das Wichtigste von allem ist, er war super menschlich und freundlich und ehrlich und verstellt sich nicht wie andere Doktoren oder macht auf Gott und Allherrscher der Patientinnen wie etliche andere Chirurgen auf Erden ( ich habe schon viele Termine gehabt, ich rede aus einem Jahrzehnt Erfahrung ) .\n\nFazit : Geht sie alle dort ruhigen Gewissens hin , denn es lohnt sich . Wenn ihr von weit herreisen müsst, planen sie sich Zeit ein. Die Klinik versucht einwandfrei alles reibungslos zu gestalten, der Doktor wird euch zuhören und beraten, habe auch bevor ich dran war gehört wie er jemand anderen verständnisvoll und sehr besonnen beraten hat (wie bei mir ebenso) , also scheint er stets perfekt professionell zu sein.\nGrüße und viel Erfolg !",
+      "time": 1784147724,
+      "translated": false
+    },
+    {
+      "author_name": "C. Beyer",
+      "author_url": "https://www.google.com/maps/contrib/117948981422696372022/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZoELTrOq6ab4dzbExVoQlF0CgK7Q7mvvHsapqDNtaLDpqgw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Rosental Klinik und insbesondere Dr. Daniel Rüger von ganzem Herzen weiterempfehlen.\n\nVon der ersten Beratung bis zur Nachsorge habe ich mich jederzeit bestens aufgehoben gefühlt. Ich hatte eine Liposuktion und heute meine Bauchdeckenstraffung – und ich könnte mir keine bessere Betreuung wünschen.\n\nEin riesiges Dankeschön geht an das gesamte Team: den wirklich tollen Anästhesisten Dr. Cristian-Ionut Nicoara, die OP-Pflege, die Schwestern auf der Station und die Nachtschwestern. Jeder einzelne Mensch begegnet einem mit so viel Freundlichkeit, Herzlichkeit und Empathie. Schon im OP wurde mir durch die ruhige und liebevolle Art des gesamten Teams jede Nervosität genommen. Ich hatte zu keinem Zeitpunkt Angst oder Zweifel, weil ich einfach gemerkt habe, dass sich alle ehrlich darum kümmern, dass man sich wohl und sicher fühlt.\n\nBesonders beeindruckt hat mich Dr. Rüger. Obwohl sein Arbeitstag eigentlich schon vorbei war, hat er sich trotzdem noch die Zeit genommen, nach mir zu schauen. Auch der Anästhesist Dr. Cristian-Ionut Nicoara kam nach der Operation noch zweimal vorbei, um sich nach meinem Befinden zu erkundigen – das ist alles andere als selbstverständlich und zeigt, mit wie viel Herz hier gearbeitet wird.\n\nAuch auf der Station wird man hervorragend versorgt. Jeder Wunsch wird mit einem Lächeln erfüllt und man hat nie das Gefühl, jemandem zur Last zu fallen. Im Gegenteil – alle sind unglaublich aufmerksam, fürsorglich und verständnisvoll.\n\nVielen Dank an das gesamte Team der Rosental Klinik für diese außergewöhnliche Betreuung. Hier steht der Mensch wirklich im Mittelpunkt. Ich habe mich vom ersten Moment an sicher, wertgeschätzt und rundum wohlgefühlt und würde mich jederzeit wieder für Dr. Rüger und die Rosental Klinik entscheiden.",
+      "time": 1784063896,
+      "translated": false
+    },
+    {
       "author_name": "Ayse Duman",
       "author_url": "https://www.google.com/maps/contrib/105415489754976327878/reviews",
       "language": "de",
@@ -28,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmQPuK_wRp7GTVWXAzHFBo3NCrGFiQfQKcHUXiInxAOP0nS_g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783462585,
+      "translated": false
+    },
+    {
+      "author_name": "Tim Bozarslan",
+      "author_url": "https://www.google.com/maps/contrib/104550875429769147388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmQPuK_wRp7GTVWXAzHFBo3NCrGFiQfQKcHUXiInxAOP0nS_g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783462585,
       "translated": false
@@ -576,11 +610,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 176,
+  "reviewCount": 179,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:36.269Z"
+  "lastUpdated": "2026-07-16T07:21:50.966Z"
 }

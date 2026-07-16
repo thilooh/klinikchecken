@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Delia Interno",
+      "author_url": "https://www.google.com/maps/contrib/114762321436299497571/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL06HsKCMGCxDrgBaCC6nemy5co3PXljuBmj6G5hEJoq7UUaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unzufrieden, ich wurde nicht Ernst genommen. Die Ärztin war sehr unfreundlich.",
+      "time": 1784034333,
+      "translated": false
+    },
+    {
       "author_name": "Dorothee Becker",
       "author_url": "https://www.google.com/maps/contrib/105430711566727959019/reviews",
       "language": "de",
@@ -337,12 +349,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 23,
+  "rating": 4.3,
+  "reviewCount": 24,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:33.984Z"
+  "lastUpdated": "2026-07-16T07:21:48.649Z"
 }

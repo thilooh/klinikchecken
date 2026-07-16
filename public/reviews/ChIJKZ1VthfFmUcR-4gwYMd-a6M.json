@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "ralph bergann",
+      "author_url": "https://www.google.com/maps/contrib/102541162806153781759/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWV8WOownbxPfGgC-PRBqDBcA2lw5rq4V5-IK1mpbJ-QXThCV4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte einen Termin bei Frau Dr. Hamann, nach 30 Minuten warten, ohne Info ob es noch länger dauert bin ich gegangen da ich ins Büro zurück musste, was den Assistentinnen dort aber auch egal war, Termine sind viel zu eng gesetzt, schlechte Termintreue!! Nichts für mich",
+      "time": 1784116464,
+      "translated": false
+    },
+    {
       "author_name": "Crazzy 84",
       "author_url": "https://www.google.com/maps/contrib/104390654508413995247/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX637okG50tRuN-V3AmPnYJP5qYWT1OiRc2aV4OrP2fHcYdH8tg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -66,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOJysR2Uc7WiLkqkGpqYYh6y2LHUagN0XlEct-tfLzKNRy34Ai=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Kann ich gar nicht empfehlen. Ich war wegen Missempfindung im Bein und angeschwollenem Fuß dort. Es war supervoll, viele Patienten, die ständig in verschiedene Wartebereiche weitergeschickt wurden. Neben mir im Gang saß einmal eine Frau, der wurden Beruhigungstropfen vor OP verabreicht. Total unsensibel, zack rein. Wie in einem, sorry, Schlachtbetrieb hat es sich angefühlt. Ich wurde in 3 Untersuchungen sehr schlampig und hektisch von zwei verschiedenen MFAs untersucht. Eine Untersuchung war extrem schmerzhaft\n( Arterien/ Venendruck). Hab ich abgebrochen.\nDie erste MFA hat natürlich festgestellt, dass ich an beiden Beinen wg Krampfadern operiert werden muss und Thrombosestrümpfe tragen muss. Der Arzt hat mich überhaupt nicht selbst untersucht! Er hat nur die Ergebnisse der Messungen am Monitor angeschaut und gemeint ich soll am Empfang OP Termine ausmachen. Unmöglich. Kaum Aufklärung über die Art der OP, hat mir nur einen Flyer mitgegeben. Fazit: das ist eine Praxis, wo Patienten im Akkord durchgeschleust werden und zu OPs gedrängt werden um Kohle zu machen.\nIch war dann bei einem anderen Phlebologen für eine Zweitmeinung, weil mir das Ganze schon komisch vorkam. Ergebnis: keine Krampfadern,  Blutfluss sehr gut. Empfehlung für Einlagen für den Fuß,  das Missempfinden kommt von den Nerven der Lendenwirbelsäule. Mache seitdem Übungen, diehelfen. Die OP wäre völlig unnötig gewesen!",
+      "time": 1782934100,
+      "translated": false
+    },
+    {
+      "author_name": "Bastel Kiste",
+      "author_url": "https://www.google.com/maps/contrib/104673645331064208379/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOJysR2Uc7WiLkqkGpqYYh6y2LHUagN0XlEct-tfLzKNRy34Ai=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Kann ich gar nicht empfehlen. Ich war wegen Missempfindung im Bein und angeschwollenem Fuß dort. Es war supervoll, viele Patienten, die ständig in verschiedene Wartebereiche weitergeschickt wurden. Neben mir im Gang saß einmal eine Frau, der wurden Beruhigungstropfen vor OP verabreicht. Total unsensibel, zack rein. Wie in einem, sorry, Schlachtbetrieb hat es sich angefühlt. Ich wurde in 3 Untersuchungen sehr schlampig und hektisch von zwei verschiedenen MFAs untersucht. Eine Untersuchung war extrem schmerzhaft\n( Arterien/ Venendruck). Hab ich abgebrochen.\nDie erste MFA hat natürlich festgestellt, dass ich an beiden Beinen wg Krampfadern operiert werden muss und Thrombosestrümpfe tragen muss. Der Arzt hat mich überhaupt nicht selbst untersucht! Er hat nur die Ergebnisse der Messungen am Monitor angeschaut und gemeint ich soll am Empfang OP Termine ausmachen. Unmöglich. Kaum Aufklärung über die Art der OP, hat mir nur einen Flyer mitgegeben. Fazit: das ist eine Praxis, wo Patienten im Akkord durchgeschleust werden und zu OPs gedrängt werden um Kohle zu machen.\nIch war dann bei einem anderen Phlebologen für eine Zweitmeinung, weil mir das Ganze schon komisch vorkam. Ergebnis: keine Krampfadern,  Blutfluss sehr gut. Empfehlung für Einlagen für den Fuß,  das Missempfinden kommt von den Nerven der Lendenwirbelsäule. Mache seitdem Übungen, diehelfen. Die OP wäre völlig unnötig gewesen!",
       "time": 1782934100,
       "translated": false
@@ -746,7 +770,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 318,
+  "reviewCount": 319,
   "summary": [],
-  "lastUpdated": "2026-07-13T08:15:06.218Z"
+  "lastUpdated": "2026-07-16T07:21:20.710Z"
 }

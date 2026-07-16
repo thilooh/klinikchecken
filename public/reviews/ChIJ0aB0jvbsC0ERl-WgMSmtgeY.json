@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Tanja D.",
+      "author_url": "https://www.google.com/maps/contrib/112341725543602302265/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM4W3zyVdqojgn_TpuDjrSIoN7KMIxG4MZJVT3PbgFJgcE4TyW=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783931621,
+      "translated": false
+    },
+    {
       "author_name": "Badalli Badallaj",
       "author_url": "https://www.google.com/maps/contrib/107492749123582503852/reviews",
       "language": "de",
@@ -42,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj-q8eyEqUDSo1Of_Gf50jaIQbJEg22YytUeKqwJUxRvGlJxsX=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur Untersuchung im Venencentrum in Pforzheim und habe mich von Anfang an sehr gut aufgehoben gefühlt.\n\nBei der Untersuchung wurde festgestellt, dass meine Krampfadern entfernt werden sollten. Herr Dr. Tenholt hat mich ausführlich über den aktuellen Befund sowie die geplante Operation informiert und sich viel Zeit für die Untersuchung und die Aufklärung genommen.\n\nSowohl am Tag der Operation als auch bei den nachfolgenden Kontrolluntersuchungen verlief alles sehr routiniert, professionell und eingespielt, was mir ein großes Gefühl von Sicherheit gegeben hat.\n\nDas gesamte Team war jederzeit sehr freundlich, fürsorglich und hilfsbereit. Ich habe mich während der gesamten Behandlung bestens betreut gefühlt und kann das Venencentrum in Pforzheim daher uneingeschränkt weiterempfehlen.",
+      "time": 1783497806,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmin K.",
+      "author_url": "https://www.google.com/maps/contrib/113512097299204258505/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj-q8eyEqUDSo1Of_Gf50jaIQbJEg22YytUeKqwJUxRvGlJxsX=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war zur Untersuchung im Venencentrum in Pforzheim und habe mich von Anfang an sehr gut aufgehoben gefühlt.\n\nBei der Untersuchung wurde festgestellt, dass meine Krampfadern entfernt werden sollten. Herr Dr. Tenholt hat mich ausführlich über den aktuellen Befund sowie die geplante Operation informiert und sich viel Zeit für die Untersuchung und die Aufklärung genommen.\n\nSowohl am Tag der Operation als auch bei den nachfolgenden Kontrolluntersuchungen verlief alles sehr routiniert, professionell und eingespielt, was mir ein großes Gefühl von Sicherheit gegeben hat.\n\nDas gesamte Team war jederzeit sehr freundlich, fürsorglich und hilfsbereit. Ich habe mich während der gesamten Behandlung bestens betreut gefühlt und kann das Venencentrum in Pforzheim daher uneingeschränkt weiterempfehlen.",
       "time": 1783497806,
       "translated": false
@@ -734,11 +756,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 157,
+  "reviewCount": 158,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:38.604Z"
+  "lastUpdated": "2026-07-16T07:21:53.281Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "A. W.",
+      "author_url": "https://www.google.com/maps/contrib/114082456759958846563/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU63_0hKOe2VM_LAbdbNWyMZ1CuR1jDJY2n38Is12RyofgOhXk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich begeistert und kann diese Praxis nur empfehlen. Die Hautkrebsvorsorge mit dem modernen Hautscanner war für mich eine sehr positive Erfahrung. Ein noch recht junger aber sehr einfühlsamer und kompetenter Arzt hat sich viel Zeit genommen, alles verständlich erklärt und die Untersuchung sehr gründlich durchgeführt.\n\nBesonders beeindruckt hat mich, dass er zwei auffällige Muttermale sofort erkannt hat. Sie wurden direkt im Anschluss entfernt. Ohne diese sorgfältige Untersuchung wären sie mir selbst wahrscheinlich nie aufgefallen. Das gibt mir ein sehr gutes und sicheres Gefühl.\n\nMan merkt, dass hier mit viel Erfahrung, großer Sorgfalt und moderner Technik gearbeitet wird. Auch das gesamte Praxisteam war freundlich, aufmerksam und gut organisiert, sodass ich mich von Anfang an wohlgefühlt habe.\n\nVielen Dank für die hervorragende Betreuung. Ich werde auf jeden Fall wiederkommen und kann die Praxis aus voller Überzeugung weiterempfehlen.\n\nM.S.",
+      "time": 1784043388,
+      "translated": false
+    },
+    {
+      "author_name": "Bea",
+      "author_url": "https://www.google.com/maps/contrib/114439984795042280368/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLoOZTk2n4orf5EKxLFQQrDCMkXPdG8BPxCaDmcldoFEAcrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super kompetent und hilfreich. Man fühlt sich wohl, wird gut beraten und erhält schnelle Hilfe.",
+      "time": 1784022017,
+      "translated": false
+    },
+    {
       "author_name": "Victoria Hellwald",
       "author_url": "https://www.google.com/maps/contrib/108698266942664390197/reviews",
       "language": "de",
@@ -794,11 +818,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 316,
+  "reviewCount": 318,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:36.748Z"
+  "lastUpdated": "2026-07-16T07:21:51.414Z"
 }

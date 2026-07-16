@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rene L",
+      "author_url": "https://www.google.com/maps/contrib/114797353547700843882/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9PEXZN6hTwtcWtMZYSZcGTmxL-rfYRiD5ZXUpfA44sLPjZjYN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Praxis. Ganzes Team nett und zuvorkommend. Dr. Steinmann nimmt sich Zeit und erklärt alles perfekt. Sehr kompetent ! *****Sterne",
+      "time": 1784028615,
+      "translated": false
+    },
+    {
       "author_name": "Zina Harder",
       "author_url": "https://www.google.com/maps/contrib/102745951979814865868/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Zina Harder",
+      "author_url": "https://www.google.com/maps/contrib/102745951979814865868/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu39znPyRtJtRfZmqrOCIQLwrKLZOxo2SCisrRJLOzyPithTY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich habe die Praxis wegen meiner Keloidnarben aufgesucht und über die Zeit in mehrere Laserbehandlungen investiert. Leider konnte ich keinen spürbaren Fortschritt feststellen. Ich hatte den Eindruck, dass einige Behandlungen nicht durch erfahrene Fachkräfte durchgeführt wurden. Ich hätte mir mehr Transparenz und bessere Ergebnisse gewünscht. Daher kann ich die Praxis in meinem Fall leider nicht empfehlen.",
+      "time": 1781724656,
+      "translated": false
+    },
+    {
       "author_name": "Jessica Kieffer",
       "author_url": "https://www.google.com/maps/contrib/110608116109004298624/reviews",
       "language": "de",
@@ -92,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMpHMJMOSjDjN9OFiqBb6AvFqaprIKxRo3O3A6geqVj-hs0Tyr=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Leider kein Stern wert.",
+      "time": 1781448404,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Kieffer",
+      "author_url": "https://www.google.com/maps/contrib/110608116109004298624/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMpHMJMOSjDjN9OFiqBb6AvFqaprIKxRo3O3A6geqVj-hs0Tyr=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Leider kein Stern wert.",
       "time": 1781448404,
       "translated": false
@@ -508,11 +544,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 95,
+  "reviewCount": 96,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:43.151Z"
+  "lastUpdated": "2026-07-16T07:21:57.735Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michael",
+      "author_url": "https://www.google.com/maps/contrib/102722921847734494464/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG3YoSEvJDpT7Fa-1Q1rVttxBCpD3pcKaUmRhE3sFyb2yLBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine moderne Praxis mit angenehmen Betriebsklima. Sehr freundliche Mitarbeiter. Frau Dr. erklärt einem alles und nimmt sich Zeit. Alles Tipp Top.",
+      "time": 1784109352,
+      "translated": false
+    },
+    {
       "author_name": "Ira Otte",
       "author_url": "https://www.google.com/maps/contrib/107011506015695119077/reviews",
       "language": "de",
@@ -25,11 +37,33 @@
       "translated": false
     },
     {
+      "author_name": "Thomas",
+      "author_url": "https://www.google.com/maps/contrib/102482695508820522728/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-PQV4NJ76ilh-GCyeqAouvndzNkgABe3W3UX5wd1tLAfadSEf=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ein sehr freundliches und kompetentes Team. Sehr gut ausgestattete Praxis. Ich habe schon sehr viele Hautärzte in letzter Zeit testen müssen, diese ist mit Abstand die Beste.",
+      "time": 1783514675,
+      "translated": false
+    },
+    {
       "author_name": "Nadine Steffens",
       "author_url": "https://www.google.com/maps/contrib/101207185955684879166/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJV5z-Hoyi9lypcXWuDS0evozNel6I7ur1YzENmEvD1VoIYQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783505126,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine Steffens",
+      "author_url": "https://www.google.com/maps/contrib/101207185955684879166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJV5z-Hoyi9lypcXWuDS0evozNel6I7ur1YzENmEvD1VoIYQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783505126,
       "translated": false
@@ -54,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPkQBF9DSGjgAgCq7dBxvxNydoWWea9Gh8c4Wc6JjLUt9Mfg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super nettes Team! Frau Dr.Haut ist sehr kompetent und immer freundlich man kann diese Praxis nur empfehlen.",
+      "time": 1782929505,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Schumacher",
+      "author_url": "https://www.google.com/maps/contrib/115394530115481195935/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7F_yavjUcYXPOmrbbAxdLP4XU5m8gWbKOVJklpgSU269IAfA8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super nettes Team! Frau Dr.Haut ist sehr kompetent und immer freundlich man kann diese Praxis nur empfehlen.",
       "time": 1782929505,
       "translated": false
@@ -770,11 +816,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 85,
+  "reviewCount": 86,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:46.575Z"
+  "lastUpdated": "2026-07-16T07:22:01.211Z"
 }

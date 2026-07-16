@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Nicole R",
+      "author_url": "https://www.google.com/maps/contrib/107570312314361749844/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6G7Gpu_flBI0hAspR6DYF7Z-I-xHYrXzcBJL-1RiWvYfU8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784147514,
+      "translated": false
+    },
+    {
+      "author_name": "Micha Eirmbter",
+      "author_url": "https://www.google.com/maps/contrib/115135560191211510509/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJVVSc0SRxbBCiL9L2_WuXVq9D5II4Bktu34rtaa4MC63eVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Team, freundlich und gut organisiert!\nWürde wieder hingehen.",
+      "time": 1783940280,
+      "translated": false
+    },
+    {
       "author_name": "Iron Lappu",
       "author_url": "https://www.google.com/maps/contrib/101988983102180956536/reviews",
       "language": "de",
@@ -758,11 +780,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 419,
+  "reviewCount": 421,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:34.902Z"
+  "lastUpdated": "2026-07-16T07:21:49.598Z"
 }

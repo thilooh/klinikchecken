@@ -1,6 +1,38 @@
 {
   "reviews": [
     {
+      "author_name": "Maik",
+      "author_url": "https://www.google.com/maps/contrib/109164316165816421514/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj3zL5phxe6mCe7nabpRB8uxqS_7Fcgb8_3DXKjKor57GQKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784123162,
+      "translated": false
+    },
+    {
+      "author_name": "Kathy Paetsch",
+      "author_url": "https://www.google.com/maps/contrib/111025117089212187728/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWWouAtQIcR40LctsPCMucbvgInKfT-ClWfqfIBwSYyaobqOcs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784093148,
+      "translated": false
+    },
+    {
+      "author_name": "KaddiRZ",
+      "author_url": "https://www.google.com/maps/contrib/103101805739475930000/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkgKwJTwiJ-NnKuj5NYgtFgHw_J_Q-TFQXRIfNY1Y25hjmYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein Mann und ich waren zur Hautkrebskontrolle bei Herrn Dr. Haase und bei Frau Dr. Mrowka. Wir waren sehr zufrieden und kommen zur nächsten Untersuchung wieder.",
+      "time": 1784033512,
+      "translated": false
+    },
+    {
       "author_name": "Matze Buthi",
       "author_url": "https://www.google.com/maps/contrib/102736250429355899579/reviews",
       "language": "de",
@@ -1084,11 +1116,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2327,
+  "reviewCount": 2331,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:10.894Z"
+  "lastUpdated": "2026-07-16T07:21:25.401Z"
 }

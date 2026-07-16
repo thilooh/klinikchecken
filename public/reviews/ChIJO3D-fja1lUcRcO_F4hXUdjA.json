@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kirsten",
+      "author_url": "https://www.google.com/maps/contrib/105523303612300498178/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzTdrzIcMOv8DElbRd5BpAQYyexz0LENvPlnNsePtQUWcRETo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin von dieser Praxis sehr enttäuscht.\n\nVor etwa 1,5 Jahren bin ich wegen eines Muttermals in diese Praxis gegangen. Mir wurde damals gesagt, dass man so etwas inzwischen mit dem Laser entfernt und nicht mehr chirurgisch. Eine operative Entfernung wurde mir weder als Alternative angeboten noch wurden mir die jeweiligen Vor- und Nachteile erklärt. Ich habe mich auf die Empfehlung der Ärztin verlassen und bin davon ausgegangen, dass dies die beste Behandlungsmethode ist.\n\nLeider ist das Muttermal nach der Laserbehandlung größer nachgewachsen und wurde am Ende von der Ärztin doch chirurgisch entfernt. Dadurch habe ich heute eine deutlich sichtbare Narbe, die mich sehr belastet. Hätte man mich von Anfang an umfassend beraten und mir auch die chirurgische Entfernung als Option erklärt, hätte ich mich möglicherweise ganz anders entschieden.\n\nBesonders enttäuscht war ich, als ich heute bei einem anderen Dermatologen erfahren habe, dass pigmentierte Muttermale in der Regel nicht einfach gelasert werden sollten, sondern rausoperiert. Diese wichtige Information habe ich in dieser Praxis nie erhalten.\n\nRückblickend habe ich das Gefühl, dass ich nicht ausreichend aufgeklärt wurde. Statt einer vermeintlich schonenden Behandlung musste ich am Ende trotzdem operiert werden und lebe nun mit einer dauerhaften 3 cm Narbe an meiner Brust. Aus meiner persönlichen Erfahrung kann ich diese Praxis leider nicht weiterempfehlen.",
+      "time": 1783933786,
+      "translated": false
+    },
+    {
       "author_name": "Dominik",
       "author_url": "https://www.google.com/maps/contrib/116706777664804733529/reviews",
       "language": "de",
@@ -18,6 +30,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-jEYcy8vLNggUD2b_Aae25u3tIQBGqsfZSiAdechhSUOKIQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783490144,
+      "translated": false
+    },
+    {
+      "author_name": "Elisabeth Lohmüller",
+      "author_url": "https://www.google.com/maps/contrib/111263579864474089903/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-jEYcy8vLNggUD2b_Aae25u3tIQBGqsfZSiAdechhSUOKIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783490144,
       "translated": false
@@ -62,6 +84,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICXaz6O1rjKyB1WdPC8bi7WabL7F-1qU9sK5sLf2lgvOOJJw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1782766002,
+      "translated": false
+    },
+    {
+      "author_name": "Britta Beaulieu",
+      "author_url": "https://www.google.com/maps/contrib/106057304205961612890/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICXaz6O1rjKyB1WdPC8bi7WabL7F-1qU9sK5sLf2lgvOOJJw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1782766002,
       "translated": false
@@ -689,12 +721,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 73,
+  "rating": 4.7,
+  "reviewCount": 74,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:26.104Z"
+  "lastUpdated": "2026-07-16T07:21:40.719Z"
 }

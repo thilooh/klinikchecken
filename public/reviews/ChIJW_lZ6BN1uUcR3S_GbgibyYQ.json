@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "S M",
+      "author_url": "https://www.google.com/maps/contrib/111017452953632463727/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpIL5_PZ5VholKYSXWZXoVZB0brqo3EKOfAVpNKTH7qX6BbQjM_A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784141228,
+      "translated": false
+    },
+    {
       "author_name": "Jost Siegelmann",
       "author_url": "https://www.google.com/maps/contrib/102567972488644937536/reviews",
       "language": "de",
@@ -826,11 +836,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 136,
+  "reviewCount": 137,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:31.219Z"
+  "lastUpdated": "2026-07-16T07:21:45.847Z"
 }

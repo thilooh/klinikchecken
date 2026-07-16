@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Felix L",
+      "author_url": "https://www.google.com/maps/contrib/116797425669134206309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUiUNigVka90Cb20FN4ll2Z36SuzjmLYK45njz7GrX5cMwJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schade, seit Juli 2026 nur noch mit Termin, dazu noch ziemlich unfreundlich!",
+      "time": 1784107113,
+      "translated": false
+    },
+    {
+      "author_name": "Susanne Peterhans",
+      "author_url": "https://www.google.com/maps/contrib/108994668448943943577/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWlfAvUdzYLEHLT69BInH65MpOshCIDIo7VMsoMJYdV9tdTwJTfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Beste Hautarzt Praxis in Karlsruhe sehr kompetent freundlich bin schon seit vielen Jahren Patientin",
+      "time": 1783939065,
+      "translated": false
+    },
+    {
       "author_name": "Manfred",
       "author_url": "https://www.google.com/maps/contrib/109006521823762025557/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy8GbSOyajHLbmJry5cP2PSFwnpKzLE0kApCIl0D6ThdQCtg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -11,11 +35,31 @@
       "translated": false
     },
     {
+      "author_name": "Manfred",
+      "author_url": "https://www.google.com/maps/contrib/109006521823762025557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy8GbSOyajHLbmJry5cP2PSFwnpKzLE0kApCIl0D6ThdQCtg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783519527,
+      "translated": false
+    },
+    {
       "author_name": "Manuela Eissler",
       "author_url": "https://www.google.com/maps/contrib/112092624500760297419/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVP1B_txI7soHP3X1A-w8b9w-TkQSM52OxgdI0QXamfdUmLg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783336694,
+      "translated": false
+    },
+    {
+      "author_name": "Manuela Eissler",
+      "author_url": "https://www.google.com/maps/contrib/112092624500760297419/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVP1B_txI7soHP3X1A-w8b9w-TkQSM52OxgdI0QXamfdUmLg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783336694,
       "translated": false
@@ -782,11 +826,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1112,
+  "reviewCount": 1113,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:18.589Z"
+  "lastUpdated": "2026-07-16T07:21:33.165Z"
 }

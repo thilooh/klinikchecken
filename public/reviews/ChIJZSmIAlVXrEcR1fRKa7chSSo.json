@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Angelika Blohm",
+      "author_url": "https://www.google.com/maps/contrib/105343755399972155352/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0Wyb7eAUKfQJtkUd2RxoFBcZfGHfumrtdYxYNl6LRL-C7CbIL=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Untersuchung und Diagnose noch nicht abgeschlossen,ich fühlte mich dort verstanden und es gefällt mir sehr gut.Dr.Pabst ist ein gründlicher Arzt und sehr kompetent in meinen Augen.\nNur eins gefällt mir nicht,die Terminvergabe,es dauert einfach zu lange und OP Termine ein Jahr später…wenn man schon älter ist könnte man bis dahin schon gestorben sein.\nNaja mal abwarten!",
+      "time": 1784049169,
+      "translated": false
+    },
+    {
       "author_name": "Felix Kuka",
       "author_url": "https://www.google.com/maps/contrib/112165768683088988505/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwh2I8HmcwJLXTx75_iSMNu-XvCMbrneP9gClbxY4KMrGV-g=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich erreiche die Praxis nie.",
+      "time": 1782305796,
+      "translated": false
+    },
+    {
+      "author_name": "Felix Kuka",
+      "author_url": "https://www.google.com/maps/contrib/112165768683088988505/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwh2I8HmcwJLXTx75_iSMNu-XvCMbrneP9gClbxY4KMrGV-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich erreiche die Praxis nie.",
       "time": 1782305796,
       "translated": false
@@ -72,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhDv0lYIYnNHb-g7uilTuuYLzI1sKW_j1dDeU5dgRWoJ87vg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1781544675,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah.2503",
+      "author_url": "https://www.google.com/maps/contrib/102016135190559789467/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhDv0lYIYnNHb-g7uilTuuYLzI1sKW_j1dDeU5dgRWoJ87vg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1781544675,
       "translated": false
@@ -330,11 +364,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 39,
+  "reviewCount": 40,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:09.225Z"
+  "lastUpdated": "2026-07-16T07:21:23.775Z"
 }

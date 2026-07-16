@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Catia Martins",
+      "author_url": "https://www.google.com/maps/contrib/102424786021745957194/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1qpWDC-Kb7tExcsbgs7s6nTGx8uwQwNzO2Jk4D9G8qmHmew=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unverschämtes Verhalten des Vorzimmers – Absolutes Chaos auf Kosten der Patienten!\nDie medizinische Betreuung durch die Ärzte ist gut, aber was sich das Personal am Empfang erlaubt, ist eine absolute Unverschämtheit und menschlich unterste Schublade.\n1. Vorfall: Beim ersten Mal wurde unser Termin falsch eingetragen. Nach 45 Minuten Anfahrt wurden wir mit unserem Sohn weggeschickt. Keine Entschuldigung.\n2. Vorfall (Das pure Chaos): Beim nächsten Termin waren wir extra pünktlich. Alle, die nach uns kamen, wurden vorgezogen. Auf Nachfrage hieß es nur: „Die Karte liegt beim Doktor.“ Kurz vor Praxisschluss saßen wir immer noch als Allerletzte im leeren Wartezimmer, bis uns eine Ärztin verwundert fragte, ob wir überhaupt noch auf eine Behandlung warten.\nDie absolute Dreistigkeit: Erst durch die Nachfrage der Ärztin flog auf, dass das Vorzimmer uns komplett vergessen hatte – sie wussten nicht einmal mehr den Namen unseres Sohnes und die Akte war unauffindbar! Anstatt diesen Fehler peinlich berührt zuzugeben, ging die Dame von der Aufnahme danach auch noch hämisch grinsend an uns vorbei und drückte uns einen spöttischen Spruch reingedrückt („Ja, ja, Sie kommen ja schon dran“). Am Empfang wird scheinbar lieber gequatscht, als Fehler einzugestehen.\nEin riesiges Lob an die Ärztin, die wirklich sehr nett und bemüht war und sich aufrichtig für das unmögliche Verhalten und die Fehler ihrer Vorzimmerdamen entschuldigt hat. Die Ärzte können einem leidtun, wenn sie mit so einem Personal arbeiten müssen.",
+      "time": 1783960889,
+      "translated": false
+    },
+    {
       "author_name": "Alisa",
       "author_url": "https://www.google.com/maps/contrib/105700483254336756940/reviews",
       "language": "de",
@@ -85,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Carlo",
+      "author_url": "https://www.google.com/maps/contrib/114722639245819634174/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKWkfaF0JHsns4Lmjc7JyQgin2mOeruUl8nkhyrTzfFx7Put4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Bin jetzt zum erstenmal hier, das was ich schonmal sagen kann, man sollte sich auf lange Wartenzeiten im Wartezimmer Einstellen, aber ist nun mal so\n...wenig Fachärzte, viele Patienten,",
+      "time": 1782368026,
+      "translated": false
+    },
+    {
       "author_name": "hosshopf videos",
       "author_url": "https://www.google.com/maps/contrib/114765777228540394734/reviews",
       "language": "de",
@@ -152,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6dGe8QOete3biwmB8VUInttJEKbEh17AmapeJbwqE6fw1eA=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Kaum Wartezeit, sehr kompetenter netter Arzt Hr. Kirsch. Kompetenz und der Service hören leider bei den Mitarbeitenden auf, die die Kontaktanfragen bearbeiten. Der Arzt vergaß es, ein Rezept in der Akte zu hinterlegen. Es scheint nicht möglich zu sein, als Mitarbeiterin beim Arzt das Medikament zu erfragen, weshalb dann Anfragen des Patienten einfach ignoriert werden.",
+      "time": 1782199446,
+      "translated": false
+    },
+    {
+      "author_name": "U S",
+      "author_url": "https://www.google.com/maps/contrib/116675871157553614049/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6dGe8QOete3biwmB8VUInttJEKbEh17AmapeJbwqE6fw1eA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Kaum Wartezeit, sehr kompetenter netter Arzt Hr. Kirsch. Kompetenz und der Service hören leider bei den Mitarbeitenden auf, die die Kontaktanfragen bearbeiten. Der Arzt vergaß es, ein Rezept in der Akte zu hinterlegen. Es scheint nicht möglich zu sein, als Mitarbeiterin beim Arzt das Medikament zu erfragen, weshalb dann Anfragen des Patienten einfach ignoriert werden.",
       "time": 1782199446,
       "translated": false
@@ -812,7 +848,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 283,
+  "reviewCount": 284,
   "summary": [],
-  "lastUpdated": "2026-07-13T08:15:01.101Z"
+  "lastUpdated": "2026-07-16T07:21:15.523Z"
 }

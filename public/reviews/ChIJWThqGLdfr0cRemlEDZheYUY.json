@@ -1,11 +1,69 @@
 {
   "reviews": [
     {
+      "author_name": "J. C.",
+      "author_url": "https://www.google.com/maps/contrib/112613706528924115094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6eVclTp-v_2hzSC4bN2igeDYdoac0fU5mqrXfdaunJPHn4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war im MVZ für eine kleine OP.\nDer gesamte Ablauf war sehr gut strukturiert, klar und verständlich. Zu jeder Zeit hatte ich die Möglichkeit eine Schwester anzusprechen.\nAlle Schwestern und Ärzte haben eine unglaublich herzliche und führsorgliche Art.\nIch habe mich rund um wohl und gut aufgehoben gefühlt.\nEin großes Dankeschön an alle Schwestern der Komfortstation 1 sowie den Schwestern des Aufwachraumes.\nEin extra Danke geht an Herr Dr. Thierfelder, er hat mir meine Aufregung vor der Narkose genommen.\nDas gesamte Schwestern und Ärtzeteam ist einfach spitze.",
+      "time": 1784114577,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/103669504175603131515/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVAxPwHhB5GCX4fgScMJfX1yoQLv0Tk_c4aeLAwkbVNTB2VA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Einrichtung und das Objekt eine absolute 10/10. Das Personal ist super lieb. Würde jederzeit wieder herkommen.",
+      "time": 1784025809,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg Duli",
+      "author_url": "https://www.google.com/maps/contrib/111261981921270195236/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNxCsasDh-R5ev_T9be_kyYQdwwNPPyV_DNd_IJeRMg_-l9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Team, schöne Räumlichkeiten,  alles ganz modern. Vielen Dank an alle.",
+      "time": 1784025482,
+      "translated": false
+    },
+    {
+      "author_name": "Simson Fahrer",
+      "author_url": "https://www.google.com/maps/contrib/104842599473434978071/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVA8IjyvMnH0HGeyIwrtfQN2mER6VRwo00j977EZqWGRo5oRHkx=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bis jetzt sind wir sehr zufrieden und alle freundlich",
+      "time": 1783945385,
+      "translated": false
+    },
+    {
       "author_name": "Chris M",
       "author_url": "https://www.google.com/maps/contrib/100838652648996230797/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-TR0q88nmS8ri6xlc1Jkyoz0Ovy-8M5UWmm8LISSQrgdy8w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783581416,
+      "translated": false
+    },
+    {
+      "author_name": "Chris M",
+      "author_url": "https://www.google.com/maps/contrib/100838652648996230797/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-TR0q88nmS8ri6xlc1Jkyoz0Ovy-8M5UWmm8LISSQrgdy8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783581416,
       "translated": false
@@ -804,11 +862,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 458,
+  "reviewCount": 462,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-13T08:15:10.195Z"
+  "lastUpdated": "2026-07-16T07:21:24.694Z"
 }

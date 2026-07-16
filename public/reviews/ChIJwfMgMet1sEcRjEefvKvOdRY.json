@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Katherine Vauclair",
+      "author_url": "https://www.google.com/maps/contrib/100965299796259489499/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-x6hy8mga8ONCHZKjhTCRicgr79MvrYh4ez5jKajoLoNA3Ac=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war mit Mitte zwanzig als Selbstzahlerin dort. Von Anfang an wurde ich von seinen ausschließlich weiblichen Angestellten merkwürdig behandelt. Dann wurde ich mit etwas konfrontiert, das ich noch nie erlebt hatte. Ich bat darum, meine Narben entfernen zu lassen, die ich mir mit 14 selbst zugefügt hatte. Er untersuchte sie kaum und anstatt mir Behandlungsmöglichkeiten zu erklären, sprach er sofort über einen anderen Patienten, den er gerade behandelte. Dieser Patient hatte seine Angewohnheit offenbar sogar während der Behandlung beibehalten. Das schockierte mich sehr, da ich unter den Fehlern meiner Vergangenheit litt und einfach nur mit meinem Leben weitermachen wollte. Ich ging tief verletzt und verwirrt mit einem seltsamen Kloß im Magen. Ich fühlte mich beschämt und missverstanden. Und ich habe bis jetzt nicht den Mut gehabt, sie entfernen zu lassen. Ich bin jetzt 33 Jahre alt und leide immer noch darunter. Natürlich werde ich jetzt etwas unternehmen, aber das war grausam, und ich kann ihn und sein Team absolut nicht empfehlen. Ja, es hat so lange gedauert, bis ich mich getraut habe, darüber zu sprechen.",
+      "time": 1783971296,
+      "translated": true
+    },
+    {
       "author_name": "giwrgos tsaknakis",
       "author_url": "https://www.google.com/maps/contrib/117067507409363459324/reviews",
       "language": "de",
@@ -704,11 +716,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 159,
+  "reviewCount": 160,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-13T08:15:07.612Z"
+  "lastUpdated": "2026-07-16T07:21:22.136Z"
 }

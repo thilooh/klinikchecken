@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Rick",
+      "author_url": "https://www.google.com/maps/contrib/109799561876458381579/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdb6vOi4OAhqPvJj--QqAxllPErCIgK1TLEh_giROModZq7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783581229,
+      "translated": false
+    },
+    {
       "author_name": "Sophia Hirschberg",
       "author_url": "https://www.google.com/maps/contrib/105542322151593137181/reviews",
       "language": "de",
@@ -18,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHmhmpFm_eFI9guFIS7mVFmbhkgFwyMfKCixyF5eUQVxthXRo=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur kosmetischen Gesichtsbehandlung und bin absolut begeistert. Die Behandlung war unglaublich entspannend und gleichzeitig viel effektiver als jede klassische Kosmetik, die ich bisher kannte. Besonders die LED-Behandlung hat meiner Haut sichtbar geholfen. Das gesamte Team ist herzlich, professionell und nimmt sich viel Zeit für eine individuelle Beratung. Es werden hochwertige Produkte verwendet – immer genau das, was zur Haut passt. Für mich die beste Kosmetik in Halle. Absolute Empfehlung!",
+      "time": 1783328026,
+      "translated": false
+    },
+    {
+      "author_name": "Sophia Hirschberg",
+      "author_url": "https://www.google.com/maps/contrib/105542322151593137181/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHmhmpFm_eFI9guFIS7mVFmbhkgFwyMfKCixyF5eUQVxthXRo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war zur kosmetischen Gesichtsbehandlung und bin absolut begeistert. Die Behandlung war unglaublich entspannend und gleichzeitig viel effektiver als jede klassische Kosmetik, die ich bisher kannte. Besonders die LED-Behandlung hat meiner Haut sichtbar geholfen. Das gesamte Team ist herzlich, professionell und nimmt sich viel Zeit für eine individuelle Beratung. Es werden hochwertige Produkte verwendet – immer genau das, was zur Haut passt. Für mich die beste Kosmetik in Halle. Absolute Empfehlung!",
       "time": 1783328026,
       "translated": false
@@ -660,5 +682,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-13T08:15:27.059Z"
+  "lastUpdated": "2026-07-16T07:21:41.644Z"
 }
