@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Roman (RoSch009)",
+      "author_url": "https://www.google.com/maps/contrib/113479963143019883323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeUuQASrNzUbrrYblU-LDeaN_ri6hOQ8uJGxCO5YKrQTdcFuGh=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Saubere Praxis. pro­fes­si­o­nelle und schnelle Behandlung. Was will man mehr",
+      "time": 1784265456,
+      "translated": false
+    },
+    {
       "author_name": "S M",
       "author_url": "https://www.google.com/maps/contrib/111017452953632463727/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpIL5_PZ5VholKYSXWZXoVZB0brqo3EKOfAVpNKTH7qX6BbQjM_A=s128-c0x00000000-cc-rp-mo-ba6",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Ludovico Oldini",
+      "author_url": "https://www.google.com/maps/contrib/117940716069071632724/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJU0PhWxjP1XWiPGKXLwX5x3ZibqBS-4zPkSPTP07JJRXsKrEU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "\"21 bis 50 Bewertungen aufgrund von Beschwerden wegen Diffamierung entfernt.\"",
+      "time": 1783757686,
+      "translated": false
+    },
+    {
       "author_name": "Fred Wengeler",
       "author_url": "https://www.google.com/maps/contrib/115668207966097181666/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_cUo2HkQP9UU08Lzd21t8-43RHJo9RJ8MgV9CZwYNb7xCwCbNnw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -50,6 +74,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_cUo2HkQP9UU08Lzd21t8-43RHJo9RJ8MgV9CZwYNb7xCwCbNnw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783097521,
+      "translated": false
+    },
+    {
+      "author_name": "Fred Wengeler",
+      "author_url": "https://www.google.com/maps/contrib/115668207966097181666/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_cUo2HkQP9UU08Lzd21t8-43RHJo9RJ8MgV9CZwYNb7xCwCbNnw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783097521,
       "translated": false
@@ -836,11 +870,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 137,
+  "reviewCount": 138,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:45.847Z"
+  "lastUpdated": "2026-07-19T07:25:42.542Z"
 }

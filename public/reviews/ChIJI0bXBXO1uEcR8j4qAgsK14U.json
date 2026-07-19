@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Klütsch",
+      "author_url": "https://www.google.com/maps/contrib/114497201890650310228/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2PEUI6dyYo103bt1NfDm0MxKUiPdcP0zgKoyVpuCoDPMlnE6y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784268389,
+      "translated": false
+    },
+    {
+      "author_name": "Adschi Fedder",
+      "author_url": "https://www.google.com/maps/contrib/106646999813787475940/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtZcZ-LceFajUr4vXeWjHRfSoiq8-gjSsmJGzHjbe_pclYud4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Endlich muss ich mich positiv zu meinem Besuch in der Praxis äußern:\nIch war im Juni zum Hautscreening dort. Schon dass die Räumlichkeiten mich, mit Klimageräten und Ventilatoten ausgestattet, angenehm begrüßt haben, empfand ich als sehr angenehm. Nach dem gründlichen Screening bekam ich das Angebot mir, wenn ich etwas Zeit hätte, beginnenden Hautkrebs im Gesicht durch Lasern entfernen zu lassen, was ich dankbar angenommen habe. Während der Wartezeit bekam ich sogar einen köstlichen Espresso, worüber ich mich sehr gefreut habe.\nDas Lasern ging fix und inzwischen ist auch alles super abgeheilt. Vielen Dank!\nIch habe da in einer anderen Praxis nicht so gute Erfahrungen gemacht.\nAuch die Mitarbeiter scheinen ein gutes Verhältnis untereinander zu haben, was sich auf den Wohlfühlfaktor auswirkt.\nAlles in allem war ich sehr zufrieden und habe die Praxis bereits weiterempfohlen. Weiter so sowie nochmals herzlichen Dank und auf Wiedersehen!",
+      "time": 1784189355,
+      "translated": false
+    },
+    {
       "author_name": "A. W.",
       "author_url": "https://www.google.com/maps/contrib/114082456759958846563/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJcsgp4RDvi8AhXZ3WHQlMYA2TdiFa85LfeWgOoJ87cT-QqA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Einer der besten Hautärzten bei denen ich je war, die nehmen sich Zeit, empathisch und sehr sympathisch! Tolle moderne Scanner und auch kosmetische Laserbehandlung! Kann ich nur empfehle und ab sofort mein neuer Lieblings Hautarzt! Vielen Dank auch an Herrn Tollmann für seine Tipps.\nLG aus Düsseldorf",
+      "time": 1783702834,
+      "translated": false
+    },
+    {
+      "author_name": "Victoria Hellwald",
+      "author_url": "https://www.google.com/maps/contrib/108698266942664390197/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJcsgp4RDvi8AhXZ3WHQlMYA2TdiFa85LfeWgOoJ87cT-QqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Einer der besten Hautärzten bei denen ich je war, die nehmen sich Zeit, empathisch und sehr sympathisch! Tolle moderne Scanner und auch kosmetische Laserbehandlung! Kann ich nur empfehle und ab sofort mein neuer Lieblings Hautarzt! Vielen Dank auch an Herrn Tollmann für seine Tipps.\nLG aus Düsseldorf",
       "time": 1783702834,
       "translated": false
@@ -818,11 +852,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 318,
+  "reviewCount": 320,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:51.414Z"
+  "lastUpdated": "2026-07-19T07:25:47.638Z"
 }

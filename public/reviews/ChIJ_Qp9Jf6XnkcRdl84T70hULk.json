@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Constantin von Mellenthin",
+      "author_url": "https://www.google.com/maps/contrib/100260835694852389497/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLCwnF_VgNWREThp4tR4RDg5bCAhR-cUDFaN5pAzyxYt4JPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schade, als Kassenpatient ist man halt nichts wert und man kann kein Geld verdienen. 5Monate vorher einen Termin vereinbart und einen Tag vor dem Termin bekommt man die Info, dass der Termin ersatzlos abgesagt wird.\nSehr traurig in welche Richtung sich hier bewegt wird.",
+      "time": 1784198289,
+      "translated": false
+    },
+    {
       "author_name": "Petra Zsidek",
       "author_url": "https://www.google.com/maps/contrib/107817116031587200599/reviews",
       "language": "de",
@@ -704,11 +716,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 161,
+  "reviewCount": 162,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-16T07:21:30.620Z"
+  "lastUpdated": "2026-07-19T07:25:28.606Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine Dörfer",
+      "author_url": "https://www.google.com/maps/contrib/101787383638857682362/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDyqmuGvV3_iPGX1zb-Gmd6onWJDmWxUDISFPX_JV0t6abbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war das erste Mal dort und habe mich sehr gut betreut gefühlt, das Personal und natürlich auch die Ärztin war super nett und sie haben sich viel Zeit genommen und sehr gut aufgeklärt, ich komme gerne wieder aus Rheinland Pfalz angereist.",
+      "time": 1784384895,
+      "translated": false
+    },
+    {
       "author_name": "Franz Josef Düppengiesser",
       "author_url": "https://www.google.com/maps/contrib/115526315707854685232/reviews",
       "language": "de",
@@ -406,11 +418,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 84,
+  "reviewCount": 85,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:26.783Z"
+  "lastUpdated": "2026-07-19T07:25:25.164Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas",
+      "author_url": "https://www.google.com/maps/contrib/104222244000752519774/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP2ytGkMoOfDSEoNUEG2W8ZK6_yiGrng3RkJsDfalvoOGmrqHrpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der erste Eindruck der Praxis war gut, hell und modern eingerichtet, aber dann kamen wir an die Anmeldung. Dort saß eine Dame mittleren Alters, die leider den kompletten Eindruck ins negative gedreht hat. Unfreundliche, zickige Antworten. Man hatte dort dass Gefühl, dass man sich entschuldigen muss, dass man einen Termin hat. Nie wieder....",
+      "time": 1784189637,
+      "translated": false
+    },
+    {
       "author_name": "Erno Unruh",
       "author_url": "https://www.google.com/maps/contrib/115559824678151522627/reviews",
       "language": "de",
@@ -463,12 +475,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 38,
+  "rating": 4.5,
+  "reviewCount": 39,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:40.951Z"
+  "lastUpdated": "2026-07-19T07:25:38.033Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jennifer-Lorena Navarrete Conrad",
+      "author_url": "https://www.google.com/maps/contrib/116456413697023338354/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcokv-O_LDNFLTzFJKoOfJdRDNMlRjU9MQ4KYwxD70p5dttyXTFA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784264653,
+      "translated": false
+    },
+    {
       "author_name": "Ilona Galm",
       "author_url": "https://www.google.com/maps/contrib/111396405442644073813/reviews",
       "language": "de",
@@ -32,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoXifLHklSkmbOtekQgjjFJeGJ_-ECWzJUH4zI-6dEKZlliQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Unkomplizierte Terminvergabe, freundliches Personal und kompetenter, freundlicher Arzt",
+      "time": 1783027076,
+      "translated": false
+    },
+    {
+      "author_name": "Lea Burkhardt",
+      "author_url": "https://www.google.com/maps/contrib/100312883753994103738/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoXifLHklSkmbOtekQgjjFJeGJ_-ECWzJUH4zI-6dEKZlliQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Unkomplizierte Terminvergabe, freundliches Personal und kompetenter, freundlicher Arzt",
       "time": 1783027076,
       "translated": false
@@ -284,11 +306,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 57,
+  "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:32.485Z"
+  "lastUpdated": "2026-07-19T07:25:30.345Z"
 }

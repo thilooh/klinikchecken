@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Cornelia Brogle",
+      "author_url": "https://www.google.com/maps/contrib/107175030344743099829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdg0gTZqUqGmOHTcAVNAwhamCHoPnY5Hgw2N7doz3Ub306=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hervorragende Arbeit und unglaublich einfühlsam!\nIch bin absolut begeistert von dieser Praxis. Professor Proebstle ist fachlich brillant und arbeitet mit höchster Präzision. Ich habe mich sofort verstanden und bestens aufgehoben gefühlt – sei es in der Praxis in Mannheim oder in Zürich. Meine Lipödem-Korrektur sowie meine Augenlidstraffung wurden absolut perfekt durchgeführt. Das Ergebnis ist makellos und genau so, wie ich es mir gewünscht habe. Besonders hervorzuheben ist die einfühlsame Art von Professor Proebstle sowie vom gesamten Team – man fühlt sich vom ersten Moment an verstanden, sicher und bestens aufgehoben. Eine uneingeschränkte Empfehlung für alle, die höchste Präzision und menschliche Empathie suchen! Eine Reise aus der Schweiz nach Mannheim zu Professor Proebstle lohnt sich immer.",
+      "time": 1784217707,
+      "translated": false
+    },
+    {
       "author_name": "Hans Peter Hembd",
       "author_url": "https://www.google.com/maps/contrib/105900798588732684089/reviews",
       "language": "de",
@@ -274,11 +286,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 90,
+  "reviewCount": 91,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-07-16T07:21:34.082Z"
+  "lastUpdated": "2026-07-19T07:25:31.838Z"
 }

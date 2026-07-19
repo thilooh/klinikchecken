@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Karsten Sabel",
+      "author_url": "https://www.google.com/maps/contrib/111578385444157784629/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGhqmHE2-S0jvqHQHPP77dmtKdyI9jAASlAEN4SPgTvaAQCD8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und fachlich sehr gut. Konnte schnell und unkompliziert feststellen und helfen",
+      "time": 1784197538,
+      "translated": false
+    },
+    {
       "author_name": "Christopher Uryga",
       "author_url": "https://www.google.com/maps/contrib/116736258661373884038/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8wGMi4hLoljY1y09di72qkcEIDiPjK_SBOE1YKPbhQuwOiw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783835742,
+      "translated": false
+    },
+    {
+      "author_name": "Christopher Uryga",
+      "author_url": "https://www.google.com/maps/contrib/116736258661373884038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8wGMi4hLoljY1y09di72qkcEIDiPjK_SBOE1YKPbhQuwOiw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783835742,
       "translated": false
@@ -496,11 +518,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 79,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:43.977Z"
+  "lastUpdated": "2026-07-19T07:25:40.830Z"
 }

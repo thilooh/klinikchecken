@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lisa Sadlowski",
+      "author_url": "https://www.google.com/maps/contrib/101452349724118263486/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuFI7wKPKPAADoKRnXbJ7vGY7F2AXmoHR_G28r-jyNj1ka0wND=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit 5 Jahren Patientin und habe nur gute Erfahrungen gemacht. Schnelle Terminvergabe, kurze Wartezeiten und ein sehr nettes Team. Die Ärzt*innen haben mir außerdem zweimal durch Früherkennung eine schwere Erkrankung erspart. :)",
+      "time": 1784198158,
+      "translated": false
+    },
+    {
       "author_name": "Katherine Vauclair",
       "author_url": "https://www.google.com/maps/contrib/100965299796259489499/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "giwrgos tsaknakis",
+      "author_url": "https://www.google.com/maps/contrib/117067507409363459324/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFXollTSXWNQKFTlpHc02O9zg0VDjOlDQgZ3gavFqTjv1VpQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider kann ich nicht weniger als 1 Stern geben!\nIch hatte ein Intimproblem, und bin hier zur Sprechstunde gekommen. Der Doktor war überhaupt nicht seriös, er hat Witze über das männliche Glied gemacht und während des Gesprächs waren mindestens 5 fremde Leute mit im Raum (Praktikantinnen, Assistenzarzt etc).",
+      "time": 1783634207,
+      "translated": false
+    },
+    {
       "author_name": "Lennart Fischer",
       "author_url": "https://www.google.com/maps/contrib/106760390792756855109/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk0ICawjHL_ihJOnt97c9RceaMlFcVHtfdTNemahe-dtfN1w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super pünktlich, freundlich und präzise!\nTop top Service, ganz klare Empfehlung!",
+      "time": 1783001035,
+      "translated": false
+    },
+    {
+      "author_name": "Lennart Fischer",
+      "author_url": "https://www.google.com/maps/contrib/106760390792756855109/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk0ICawjHL_ihJOnt97c9RceaMlFcVHtfdTNemahe-dtfN1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super pünktlich, freundlich und präzise!\nTop top Service, ganz klare Empfehlung!",
       "time": 1783001035,
       "translated": false
@@ -74,6 +110,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmKQ4_BA9d_F56L0RP-6q-CZ0sUeMwFCu4Ln3Y2ZauGyaqOcge=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1782457252,
+      "translated": false
+    },
+    {
+      "author_name": "Antonios Giourgas",
+      "author_url": "https://www.google.com/maps/contrib/109353008312475500583/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmKQ4_BA9d_F56L0RP-6q-CZ0sUeMwFCu4Ln3Y2ZauGyaqOcge=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1782457252,
       "translated": false
@@ -716,11 +762,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 160,
+  "reviewCount": 161,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:22.136Z"
+  "lastUpdated": "2026-07-19T07:25:20.817Z"
 }

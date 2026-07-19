@@ -111,6 +111,16 @@
       "translated": false
     },
     {
+      "author_name": "Sabrina F",
+      "author_url": "https://www.google.com/maps/contrib/116936756922586850102/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNP9M15v8i2V6rZAN4nKdKZKZnlovxL83sUhYcULoa4y8ETbCd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1781872545,
+      "translated": false
+    },
+    {
       "author_name": "Elwira Keck",
       "author_url": "https://www.google.com/maps/contrib/114925447902576559177/reviews",
       "language": "de",
@@ -171,6 +181,18 @@
       "translated": false
     },
     {
+      "author_name": "Elwira Keck",
+      "author_url": "https://www.google.com/maps/contrib/114925447902576559177/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKo5EgbJ4082C0Oz4VOzi4caNfu6xLNYfldMGg7yzxpvchryA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich war wegen  Beratung von Lipödem 2 Op Seit 01.01.2026 Kassenleistung da. Als Erstes ist mir gesagt worden, dass eine 3 D Scan als IGEl Leustung erforderlich ist 85 Euro (angeblich Vorgabe der Krankenkasse)\nIch bin gesetzlich Versichert und erst dannach habe ich erfahren, dass sie die op nur als Privatleistung operieren für die Beine ab Knie bis Knöchel 8815,36 Euro kosten würde.",
+      "time": 1781708188,
+      "translated": false
+    },
+    {
       "author_name": "Alkhallouf",
       "author_url": "https://www.google.com/maps/contrib/110877886506713079953/reviews",
       "language": "de",
@@ -226,6 +248,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNZkW3hsPWEkkxSDSsKaphToKGwKLcLyx-jzvWUuAR-DG21g=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Heute ging niemand ans Telefon. Ich habe über zwanzig Mal angerufen, aber niemand hat geantwortet, also bin ich hingefahren, um einen Termin zu vereinbaren. Ich bin dafür insgesamt etwa 90 km gefahren.",
+      "time": 1781626079,
+      "translated": true
+    },
+    {
+      "author_name": "Alkhallouf",
+      "author_url": "https://www.google.com/maps/contrib/110877886506713079953/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNZkW3hsPWEkkxSDSsKaphToKGwKLcLyx-jzvWUuAR-DG21g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Heute ging niemand ans Telefon. Ich habe über zwanzig Mal angerufen, aber niemand hat geantwortet, also bin ich hingefahren, um einen Termin zu vereinbaren. Ich bin dafür insgesamt etwa 90 km gefahren.",
       "time": 1781626079,
       "translated": true
@@ -348,6 +382,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIPn-45PcG9GVipPhZoK1si2hfMoFZYk8vTcEd72nOTWAZuw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Sehr freundliche Beratung. Motiviert und kompetent.",
+      "time": 1778751805,
+      "translated": false
+    },
+    {
+      "author_name": "Kübra Pjetrović",
+      "author_url": "https://www.google.com/maps/contrib/102047589099208288323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIPn-45PcG9GVipPhZoK1si2hfMoFZYk8vTcEd72nOTWAZuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Sehr freundliche Beratung. Motiviert und kompetent.",
       "time": 1778751805,
       "translated": false
@@ -638,5 +684,5 @@
   "rating": 4.8,
   "reviewCount": 101,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:14.796Z"
+  "lastUpdated": "2026-07-19T07:25:14.208Z"
 }

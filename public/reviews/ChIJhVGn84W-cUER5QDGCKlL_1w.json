@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kirstin Rieger",
+      "author_url": "https://www.google.com/maps/contrib/104302700561745435176/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkYN4MsicCF-dJPxkhNe1zA0AWNUiMlR6cAp1-9kXo7uqABXDh=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr unhöflicher und zum Teil Respektloser Arzt mit seinen Aussagen\nÄußerungen zu anderen Ärzten wie schlecht sie gearbeitet haben eine Wortwahl die ich hier gar nicht wieder geben möchte.\nOhne auf meine Beschwerden einzugehen wurde man abgespeist.",
+      "time": 1784369920,
+      "translated": false
+    },
+    {
       "author_name": "Carsten Schumann",
       "author_url": "https://www.google.com/maps/contrib/108004779839583299781/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr-MZmO7mFQBr9-Ufzy0ofqojxdTtLii9ZXvovRykwoDJfmMIg8g=s128-c0x00000000-cc-rp-mo-ba3",
@@ -532,5 +544,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:42.102Z"
+  "lastUpdated": "2026-07-19T07:25:39.097Z"
 }

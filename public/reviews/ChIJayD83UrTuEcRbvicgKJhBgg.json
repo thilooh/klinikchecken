@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Annette Henkel",
+      "author_url": "https://www.google.com/maps/contrib/102543758006250753638/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVi0fGFSTEiWyPMSXjYDsjaqUHUe39CrBG2elXkd5aSEpLl68=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr freundliches und kompetentes Team, der Termin wurde pünktlich eingehalten, die Untersuchungen sehr sorgfältig durchgeführt, der Umzug hat sich gelohnt, man fühlt sich super aufgehoben. Bis nächstes Jahr",
+      "time": 1784203717,
+      "translated": false
+    },
+    {
       "author_name": "Lilly Jaehn",
       "author_url": "https://www.google.com/maps/contrib/116715342033502758479/reviews",
       "language": "de",
@@ -30,6 +42,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEdcMkBNt4i4kcbbFXwurXhe295UkG84lnd7zjESidHPimbQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783774316,
+      "translated": false
+    },
+    {
+      "author_name": "Jacob Jaber",
+      "author_url": "https://www.google.com/maps/contrib/106857988419303041140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEdcMkBNt4i4kcbbFXwurXhe295UkG84lnd7zjESidHPimbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783774316,
       "translated": false
@@ -756,11 +778,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 71,
+  "reviewCount": 72,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:49.118Z"
+  "lastUpdated": "2026-07-19T07:25:45.557Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Heinz Fuerup",
+      "author_url": "https://www.google.com/maps/contrib/114790155965825432538/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIB8-lvjwmdXerETzPG6HQjuyV3g_c56hTUNm0FQeWiqlBJKQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784306381,
+      "translated": false
+    },
+    {
+      "author_name": "Kristina Lang",
+      "author_url": "https://www.google.com/maps/contrib/106718487067682804845/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUx5WfXCJvYsGM5jcBcAL_ugBLo20cmGODEMd63dzGsfH90w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seid 1 Woche nach der OP, alles bestens.\nTolles, nettes Team\nKaum Wartezeiten\nAlles bestens auf einander abgestimmt\nDer Arzt geht auf deine Fragen ein.\nWeiter so :)",
+      "time": 1784268932,
+      "translated": false
+    },
+    {
       "author_name": "Angel Achor",
       "author_url": "https://www.google.com/maps/contrib/110719879042128032994/reviews",
       "language": "de",
@@ -110,6 +132,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDvq_VxJY5lrN0ypXQlggXgxEOdFakDyUCzT20YBMrfTmw3sCm=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 5 Monaten",
+      "text": "",
+      "time": 1768777816,
+      "translated": false
+    },
+    {
+      "author_name": "Caitlyn Pelé",
+      "author_url": "https://www.google.com/maps/contrib/108288427020080719909/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDvq_VxJY5lrN0ypXQlggXgxEOdFakDyUCzT20YBMrfTmw3sCm=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 6 Monaten",
       "text": "",
       "time": 1768777816,
       "translated": false
@@ -242,11 +274,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 46,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:47.033Z"
+  "lastUpdated": "2026-07-19T07:25:43.654Z"
 }

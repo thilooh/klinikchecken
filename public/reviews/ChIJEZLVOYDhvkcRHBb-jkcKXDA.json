@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marc Peter",
+      "author_url": "https://www.google.com/maps/contrib/112617386632319599076/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-Un4G_gqkUKUozB6O2zpNmJh6J70fZevzW5s59H52YvfUdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein Mann und ich waren heute das erste Mal in der dermatologischen Praxis. Es ist unglaublich ein so empathisches Team kennenlernen zu dürfen. Wir haben uns von der ersten Minute sehr gut aufgehoben gefühlt. So etwas haben wir selten erfahren dürfen. In der heutigen Zeit tut es sooo gut als Mensch wahrgenommen zu werden.\nSehr Professionell und keine Wartezeiten. Wurde sogar sofort operiert. Frau Dr. Bonness ist Mega authentisch und so nett. Ich weiß gar nicht wie ich es ausdrücken soll.\nVIELEN LIEBEN DANK AN DAS GANZE TEAM ❤️",
+      "time": 1784214842,
+      "translated": false
+    },
+    {
       "author_name": "Jennifer Klewno",
       "author_url": "https://www.google.com/maps/contrib/112768728506899886832/reviews",
       "language": "de",
@@ -128,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbUXAhWiQQhMW88Ekxjr7LE8snuJ_4yML2Q2wMNlqrW3GJ6Q=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich habe vor einem Monat einen Termin bei MVZ Dermatologie am Friedensplatz für heute vereinbart. Heute Morgen wurde der Termin dann einfach kurzfristig abgesagt ohne jede Begründung. Jetzt musste ich mir zusätzlich noch einen neuen Termin organisieren. Besonders ärgerlich ist, dass von Patienten immer eine rechtzeitige Absage verlangt wird, die Praxis selbst aber offenbar nicht nach denselben Maßstäben handelt.",
+      "time": 1779091469,
+      "translated": false
+    },
+    {
+      "author_name": "Jolene Vollbach",
+      "author_url": "https://www.google.com/maps/contrib/116673010161255275537/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbUXAhWiQQhMW88Ekxjr7LE8snuJ_4yML2Q2wMNlqrW3GJ6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich habe vor einem Monat einen Termin bei MVZ Dermatologie am Friedensplatz für heute vereinbart. Heute Morgen wurde der Termin dann einfach kurzfristig abgesagt ohne jede Begründung. Jetzt musste ich mir zusätzlich noch einen neuen Termin organisieren. Besonders ärgerlich ist, dass von Patienten immer eine rechtzeitige Absage verlangt wird, die Praxis selbst aber offenbar nicht nach denselben Maßstäben handelt.",
       "time": 1779091469,
       "translated": false
@@ -422,11 +446,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 96,
+  "reviewCount": 97,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-16T07:21:26.547Z"
+  "lastUpdated": "2026-07-19T07:25:24.956Z"
 }

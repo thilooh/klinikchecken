@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Matthias Fra",
+      "author_url": "https://www.google.com/maps/contrib/105727712171724874813/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIudWDwIjgBKX4GVgrYThqqy0RgcQqaoJ8hCePkiVghdv13A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super freundlich, gut gelaunt, kostentransparent!\nIch habe mich sehr gut aufgehoben gefühlt, fachlich als auch persönlich.",
+      "time": 1784298454,
+      "translated": false
+    },
+    {
+      "author_name": "Josef Becker",
+      "author_url": "https://www.google.com/maps/contrib/117214968338724343386/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB69y3gf12Ecw4tGvQpsGS7h9-DM8E1WfxRhzGPgcblan_1SA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr gute Praxis, ich bin mehr als zufrieden, daß ganze Personal ist freundlich und hilfsbereit",
+      "time": 1784212628,
+      "translated": false
+    },
+    {
       "author_name": "Biljana BRanković",
       "author_url": "https://www.google.com/maps/contrib/105337084891753011868/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRi1u13w6-lbJo9sd_O45V8zQsIoELqjdmgBVNjusN3_P-QnSu=s128-c0x00000000-cc-rp-mo",
@@ -102,6 +126,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx69MCxgVsEMtokwvoW8P62GdeFZPLe6I_x0wffZqgspNfn5MH=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "unprofessionell, unorganisiert und nicht auf die Bedürfnisse der Patienten eingehend",
+      "time": 1781768730,
+      "translated": true
+    },
+    {
+      "author_name": "Federico Paolucci",
+      "author_url": "https://www.google.com/maps/contrib/115430677471491886618/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx69MCxgVsEMtokwvoW8P62GdeFZPLe6I_x0wffZqgspNfn5MH=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "unprofessionell, unorganisiert und nicht auf die Bedürfnisse der Patienten eingehend",
       "time": 1781768730,
       "translated": true
@@ -580,8 +616,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 93,
+  "rating": 4.6,
+  "reviewCount": 95,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:13.666Z"
+  "lastUpdated": "2026-07-19T07:25:13.337Z"
 }

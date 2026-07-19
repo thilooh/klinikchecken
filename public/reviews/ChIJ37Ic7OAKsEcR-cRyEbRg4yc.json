@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Nixxxtaa",
+      "author_url": "https://www.google.com/maps/contrib/104380157611672411060/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIxtul3RTSBNcFN8NlW5HuacuMApiorzc8wGcG3WP6rx1WqbQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich leide seit zwei Jahren unter Akne und war zuvor bereits bei einem anderen sehr bekannten Hautarzt aus der Region – leider ohne Erfolg. Erst Dr. Platschek hat mir die richtigen Cremes verschrieben, sodass sich meine Haut endlich deutlich verbessert. Vielen herzlichen Dank!",
+      "time": 1784378941,
+      "translated": false
+    },
+    {
+      "author_name": "Con Carne",
+      "author_url": "https://www.google.com/maps/contrib/112096458596347707135/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNwkSOS45vKSV_Dt7aZTQR40-Ce1H0CvALYJIASmVDjPQowQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte hier einen Termin um einen möglichen Hautpilzbefall überprüfen zu lassen. Trotz Termin ca. 40 Minuten im Wartezimmer verbracht, in meiner Mittagspause. Die „Behandlung“ hat dann mit Begrüßung und Verabschiedung 3 Minuten in Anspruch genommen. Es wurde ein PCR Abstrich genommen und ins Labor geschickt. Ergebnisse sollten in der darauffolgenden Woche postalisch zugehen. Kostenpunkt der 3 minütigen Aktion: Rund 50 €.\n\n24 (!!) Tage später bekomme ich dann endlich einen Brief. Abstrich war nicht ausreichend, PCR Test konnte nicht durchgeführt werden.\n\nJetzt soll ich das ganze noch einmal machen.\n\n50€ weg\n24 Tage Wartezeit\n0 Ergebnisse\n\nWartezimmer war aber schön und an einem heißen Tag gut klimatisiert, Ärztin war sehr freundlich deswegen 2 statt 1 Stern",
+      "time": 1784198327,
+      "translated": false
+    },
+    {
       "author_name": "Martin Dudek",
       "author_url": "https://www.google.com/maps/contrib/113032574683590916373/reviews",
       "language": "de",
@@ -434,11 +458,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 177,
+  "reviewCount": 178,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-16T07:21:21.900Z"
+  "lastUpdated": "2026-07-19T07:25:20.605Z"
 }

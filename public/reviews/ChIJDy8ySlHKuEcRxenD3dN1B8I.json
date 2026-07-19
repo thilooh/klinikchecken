@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Mira Sa",
+      "author_url": "https://www.google.com/maps/contrib/101648222934947808114/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKanBib2DjvQvYlV8GeAv9TL6a1Xaz9v9AXywXVdiAer4c7gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zuerst  mal ist die Praxis sehr schön.\nIch bin warmherzig aufgenommen worden.\nMein behandelnder Arzt, Dr. Wehry hat sich sehr viel Zeit für mich genommen, finde ich klasse. Kann ich nur weiterempfehlen.",
+      "time": 1784293821,
+      "translated": false
+    },
+    {
+      "author_name": "Ekramul Chowdhury",
+      "author_url": "https://www.google.com/maps/contrib/111322261640526541897/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhW9gukn_uh7dgwZbnq0_MxuIeb2kXBXU1NS7X5603AY512g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis von Prof. Dr. Gerber war die erste, die mir nach einer langen Odysee von Hautarztpraxen endlich bei meiner Erkrankung Psoriasis geholfen hat! Sowohl die Ärzte, u.a. Herr Dr. Wehry,  Herr Dr. Busch, alsauch das gesamte Team waren stets sehr freundlich, stets hilfsbereit! Als Ausländer und motorisch eingeschränkte Person fühle ich mich in dieser Praxis sehr wohl, und bin dankbar, den Weg hierher gefunden zu haben! Ein großes Dankeschön an Sie!",
+      "time": 1784274078,
+      "translated": false
+    },
+    {
+      "author_name": "S Meyer",
+      "author_url": "https://www.google.com/maps/contrib/112553580175042670402/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKg2SPJ9n21qH9aq2wwaHal2umiYcirsZxA8kncgkRKnwvmQi-n=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war kürzlich bei Dr. Wehry, der sehr einfühlsam auf mich einging. Vor der anstehenden Untersuchung hatte ich etwas Angst , auf die der Doktor mit sehr viel Empathie reagierte. Das ist heutzutage nicht selbstverständlich besonders als Kassenpatient.",
+      "time": 1784268450,
+      "translated": false
+    },
+    {
+      "author_name": "Richard",
+      "author_url": "https://www.google.com/maps/contrib/107701731125777548817/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeEChB_kN06X6RT1-kTlQ4QDDRePF78_kBToIeylcBxDuBxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor kurzem mit meiner Tochter in der Praxis. Dr. Wehry hat sich viel Zeit für uns genommen. Wir waren sehr zufrieden.",
+      "time": 1784232758,
+      "translated": false
+    },
+    {
+      "author_name": "Lukas Schneider",
+      "author_url": "https://www.google.com/maps/contrib/113411588759412676641/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFDatGMaA4YkOhBF0PQQqPWDgnhyji-jteW3CiOA-ZNHqtYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meinem Termin bei Herrn Dr. Wehry rundum zufrieden. Schon beim Gespräch hat man gemerkt, dass er sich wirklich Zeit für seine Patienten nimmt. Er hat sich alles genau angesehen, aufmerksam zugehört und mir die Behandlung verständlich erklärt. Seine freundliche und ruhige Art hat mir sofort ein gutes Gefühl gegeben. Auch das Praxisteam war sehr herzlich und organisiert. Ich habe mich während des gesamten Termins bestens aufgehoben gefühlt und kann die Praxis mit voller Überzeugung weiterempfehlen.",
+      "time": 1784230412,
+      "translated": false
+    },
+    {
       "author_name": "Franzi",
       "author_url": "https://www.google.com/maps/contrib/113690417393767990545/reviews",
       "language": "de",
@@ -771,7 +831,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 207,
+  "reviewCount": 222,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:13.085Z"
+  "lastUpdated": "2026-07-19T07:25:12.903Z"
 }

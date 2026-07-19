@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Sofia Ntisiou",
+      "author_url": "https://www.google.com/maps/contrib/110651248258424463770/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqSfPqVZnSjJeM61On-ttLypSUXtz4YgNviKHpNoBHz1MG6Yz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784288973,
+      "translated": false
+    },
+    {
+      "author_name": "Jonas Krämer",
+      "author_url": "https://www.google.com/maps/contrib/101571626953887053897/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiNY-jimTxos538tMwhZIs-UcDSL2COnpa8O6NnAYVDsO-EqYV=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine Behandlung möglich, trotz akuter Beschwerden und Überweisung.",
+      "time": 1784273683,
+      "translated": false
+    },
+    {
       "author_name": "Franziska Huber",
       "author_url": "https://www.google.com/maps/contrib/114776137410416292580/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL80hx6BMgTtdzpOed-VDbqNYoVcLdJp6aCL4K0L6KeWPtqzg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Gkata ist eine tolle Ärztin und sehr zu empfehlen. Meine kleine Tochter ist als Patientin bei ihr und sie ist sehr nett und einfühlsam, was mir besonders bei Kindern sehr wichtig ist. Wir fühlen uns sehr gut aufgehoben und können die Praxis nur weiter empfehlen.",
+      "time": 1783628628,
+      "translated": false
+    },
+    {
+      "author_name": "Franziska Huber",
+      "author_url": "https://www.google.com/maps/contrib/114776137410416292580/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL80hx6BMgTtdzpOed-VDbqNYoVcLdJp6aCL4K0L6KeWPtqzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Frau Dr. Gkata ist eine tolle Ärztin und sehr zu empfehlen. Meine kleine Tochter ist als Patientin bei ihr und sie ist sehr nett und einfühlsam, was mir besonders bei Kindern sehr wichtig ist. Wir fühlen uns sehr gut aufgehoben und können die Praxis nur weiter empfehlen.",
       "time": 1783628628,
       "translated": false
@@ -653,12 +687,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 150,
+  "rating": 4.6,
+  "reviewCount": 152,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:30.855Z"
+  "lastUpdated": "2026-07-19T07:25:28.815Z"
 }

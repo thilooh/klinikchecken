@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "L D",
+      "author_url": "https://www.google.com/maps/contrib/111872250539487621872/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhICpmzRNR9-2M3UQfeBVpwYxg4UMyxUv2Zaq2yt8UMfO_gw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Liebes Team des Venenzentrums,\nzunächst möchte ich mich ausdrücklich für die jahrzehntelange medizinische Betreuung einer älteren Dame, die ich zu Ihnen begleite, bedanken. Sie nehmen sich Zeit, arbeiten kompetent und vermitteln großes Vertrauen. Auch das gesamte Praxisteam ist meist freundlich, hilfsbereit und organisiert. Man fühlt sich als Patient wirklich gut aufgehoben.\nGerade deshalb möchte ich einen Gedanken ansprechen, der mir am Herzen liegt.\n\nDie Praxis befindet sich leider in einem Gebäude, das für viele ältere oder gehbehinderte Menschen nur schwer erreichbar ist. Die Treppen stellen für zahlreiche Patienten eine große Hürde dar, und auch die räumliche Enge sowie die kleinen, nicht barrierefreien Toiletten entsprechen heute nur noch eingeschränkt den Bedürfnissen einer älter werdenden Bevölkerung.\nBeispielsweise die erwähnte, nun fast 90-jährige Patientin, die viele Jahrzehnte gerne zu Ihnen gekommen ist. Heute kann sie die Praxis allein wegen der Treppen kaum mehr erreichen. Das ist sehr schade – sowohl für sie als auch für Ihre Praxis.\nGerade weil das Venenzentrum einen so guten Ruf genießt und mehrere erfahrene Ärztinnen und Ärzte dort tätig sind, würde ich mich freuen, wenn langfristig über einen Umzug in barrierefreie Räumlichkeiten, beispielsweise in ein modernes Ärztehaus, nachgedacht würde. Eine solche Investition wäre sicherlich ein großer Gewinn für die Patientinnen und Patienten und würde die hervorragende medizinische Qualität Ihrer Praxis auch räumlich widerspiegeln. Ich möchte es mal so ausdrücken: mir ist durchaus klar, dass ein Umzug Kosten im sechsstelligen Bereich verursacht und kein einfaches Projekt ist aber im Hinblick auf die Patienten, Die teilweise abhängig sind von einer Betreuung im Venenzentrum, besteht da nicht vielleicht auch eine gewisse Verpflichtung? Ich kenne drei Ärzte , die in den letzten Jahren im vergleichbaren Situationen im Ärztehäuser oder ähnliches umgezogen sind\nBitte verstehen Sie diese Zeilen nicht als Vorwurf, sondern als gut gemeinte Anregung eines zufriedenen Patienten. Ich wünsche Ihnen weiterhin viel Erfolg und hoffe, dass auch künftig möglichst alle Menschen – unabhängig von ihrem Alter oder ihrer Mobilität – Ihre ausgezeichnete medizinische Versorgung in Anspruch nehmen können.",
+      "time": 1784362828,
+      "translated": false
+    },
+    {
       "author_name": "Neunzehn Nullneun",
       "author_url": "https://www.google.com/maps/contrib/109848452369278441829/reviews",
       "language": "de",
@@ -654,11 +666,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 174,
+  "reviewCount": 175,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:31.084Z"
+  "lastUpdated": "2026-07-19T07:25:29.035Z"
 }

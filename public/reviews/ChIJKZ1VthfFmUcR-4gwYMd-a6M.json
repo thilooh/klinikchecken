@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Valkiria Smirnova",
+      "author_url": "https://www.google.com/maps/contrib/102145468056098857428/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYCcJ1GZzSUXFCV_HAoYA9mvEjLLRSByAFtOE3gO8nJGG-Fsg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit der Behandlung bei Dr. Wilder und seinem Team sehr zufrieden. In dieser Klinik wird meine Narbe an der Stirn nach einem schweren Verkehrsunfall behandelt, und ich kann bereits deutliche Verbesserungen sehen. Dr. Wilder hat wirklich goldene Hände! Ich fühle mich sehr gut aufgehoben und bin dem gesamten Team für die professionelle und freundliche Betreuung sehr dankbar. Absolute Empfehlung!",
+      "time": 1784276363,
+      "translated": false
+    },
+    {
       "author_name": "ralph bergann",
       "author_url": "https://www.google.com/maps/contrib/102541162806153781759/reviews",
       "language": "de",
@@ -18,6 +30,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX637okG50tRuN-V3AmPnYJP5qYWT1OiRc2aV4OrP2fHcYdH8tg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783707388,
+      "translated": false
+    },
+    {
+      "author_name": "Crazzy 84",
+      "author_url": "https://www.google.com/maps/contrib/104390654508413995247/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX637okG50tRuN-V3AmPnYJP5qYWT1OiRc2aV4OrP2fHcYdH8tg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783707388,
       "translated": false
@@ -114,6 +136,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZABqYUuUnUQZX36jEt_WUm4pH_0vIfULjXpkBUpSACrZVBg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Dr.Wilder und Team,ist ein sehr kompetenter Arzt mit hervorragender Hilfe bei Venenproblemen der beste Arzt aller Zeiten",
+      "time": 1782887601,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine Schlumpberger",
+      "author_url": "https://www.google.com/maps/contrib/108612991465017785308/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZABqYUuUnUQZX36jEt_WUm4pH_0vIfULjXpkBUpSACrZVBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Dr.Wilder und Team,ist ein sehr kompetenter Arzt mit hervorragender Hilfe bei Venenproblemen der beste Arzt aller Zeiten",
       "time": 1782887601,
       "translated": false
@@ -770,7 +804,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 319,
+  "reviewCount": 317,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:20.710Z"
+  "lastUpdated": "2026-07-19T07:25:19.512Z"
 }

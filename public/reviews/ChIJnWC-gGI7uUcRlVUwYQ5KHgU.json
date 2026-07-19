@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "Yazan Alali",
+      "author_url": "https://www.google.com/maps/contrib/108047595841415190164/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHM0xaNJxBDqHSbbqBI3PCVBMBSba6R931HSrF0U9e4tn1rDoh=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783612478,
+      "translated": false
+    },
+    {
       "author_name": "I S.",
       "author_url": "https://www.google.com/maps/contrib/117693563064197458521/reviews",
       "language": "de",
@@ -62,6 +72,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1fGyzv04zPhiqYWQXXUUiTbiZx3tiRIqeYVK0GsukVq_6dFuTjw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783074201,
+      "translated": false
+    },
+    {
+      "author_name": "Arzu Çetinkaya",
+      "author_url": "https://www.google.com/maps/contrib/105308810631515385818/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1fGyzv04zPhiqYWQXXUUiTbiZx3tiRIqeYVK0GsukVq_6dFuTjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783074201,
       "translated": false
@@ -778,5 +798,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:45.378Z"
+  "lastUpdated": "2026-07-19T07:25:42.122Z"
 }

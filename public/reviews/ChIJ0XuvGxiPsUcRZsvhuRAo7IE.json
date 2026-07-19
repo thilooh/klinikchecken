@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Neumann",
+      "author_url": "https://www.google.com/maps/contrib/114285947104224064368/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_hu4ekDJXCm-jhortRmkEfeR7vEd9gJdmxCKkfEAos3Ngag=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hier findet man mit Hautproblemen eine riesige Auswahl an kompetenten Ärtzten. In meinem Fall habe ich hier Hilfe bekommen, die ich bei anderen gesetzlichen Ärtzten nicht bekommen habe. Die Kosten für einen Termin als Selbstzahler sind überschaubar(50-100€) Mit Glück und einem netten Hausartzt oder gesetzlichen Dermatologen kann man dann die hier verschriebenen Medikamente auch gesetzlich verschrieben bekommen. Falls nein muss man diese natürlich auch selbst bezahlen.",
+      "time": 1784379341,
+      "translated": false
+    },
+    {
+      "author_name": "Emma Hanna Bartels",
+      "author_url": "https://www.google.com/maps/contrib/108089399417764980876/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJN5wzvBe_k3gAWThUJmgbe64F_jgo2EGWWwAkWHTAFUwJPsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784226772,
+      "translated": false
+    },
+    {
       "author_name": "Günter Winter",
       "author_url": "https://www.google.com/maps/contrib/110645227486268463041/reviews",
       "language": "de",
@@ -834,7 +856,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 438,
+  "reviewCount": 440,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:18.529Z"
+  "lastUpdated": "2026-07-19T07:25:17.562Z"
 }

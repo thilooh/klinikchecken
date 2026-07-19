@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Willy Venjacob",
+      "author_url": "https://www.google.com/maps/contrib/103756834108063818050/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK87cb4XUCO9H1rs-uyEiF_KpzDUH-LWYtvVK2131CadZffHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Team ist sehr freundlich und professionell, kurze Wartezeiten. Frau Dr. Haut ist sehr freundlich und kompetent. Die Praxis ist sehr zu empfehlen.",
+      "time": 1784299764,
+      "translated": false
+    },
+    {
       "author_name": "Michael",
       "author_url": "https://www.google.com/maps/contrib/102722921847734494464/reviews",
       "language": "de",
@@ -22,6 +34,30 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Ich bin froh.,,so eine tolle Praxis gefunden zu haben. Frau Doktor Haut und alle Mitarbeiterin absolut top.Da steht Freundlichkeit und Empathie an erster Stelle. Ich fühle mich dort sehr aufgehoben.",
       "time": 1783840836,
+      "translated": false
+    },
+    {
+      "author_name": "Ira Otte",
+      "author_url": "https://www.google.com/maps/contrib/107011506015695119077/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINJibz6CxdFNrwbii1agtuqJ6tuFzIeEC7moZq25pqWZczbA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin froh.,,so eine tolle Praxis gefunden zu haben. Frau Doktor Haut und alle Mitarbeiterin absolut top.Da steht Freundlichkeit und Empathie an erster Stelle. Ich fühle mich dort sehr aufgehoben.",
+      "time": 1783840836,
+      "translated": false
+    },
+    {
+      "author_name": "Stefanie Meyer-Wilmes",
+      "author_url": "https://www.google.com/maps/contrib/109318294358764780653/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIllUZGTP6GKT0OVt4REF9Ojmgl1fPN7v14SRrChRxrf5dNnA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich suchte Frau Dr. Haut wegen neu aufgetretener Pigmentstörungen auf. Nach meiner Wahrnehmung dauerte der Termin etwa 10 Minuten. Es wurde lediglich nach der Einnahme der Antibabypille gefragt. Weitere Fragen, z. B. zu Ernährung, Allergien, Vorerkrankungen oder meiner allgemeinen Gesundheit, wurden aus meiner Sicht nicht gestellt. Auch eine eingehendere Untersuchung meiner Haut, etwa mit Lupe oder besonderer Beleuchtung, fand nach nicht statt. Dennoch erhielt ich eine Rechnung über mehr als 75 €, auf der unter anderem eine mindestens 20-minütige Beratung sowie eine symptombezogene und mikroskopische Untersuchung aufgeführt waren. Meine mehrfachen Kontaktversuche per E-Mail und Telefon zur Klärung blieben ohne Klärung; stattdessen erhielt ich später eine Mahnung. Insgesamt entsprach die Behandlung und der anschließende Umgang mit meinem Anliegen nicht meinen Erwartungen.",
+      "time": 1783774828,
       "translated": false
     },
     {
@@ -816,11 +852,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 86,
+  "reviewCount": 89,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:22:01.211Z"
+  "lastUpdated": "2026-07-19T07:25:56.448Z"
 }

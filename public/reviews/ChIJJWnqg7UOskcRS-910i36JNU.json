@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "Ansgard Schoch",
+      "author_url": "https://www.google.com/maps/contrib/114457288989307522953/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYngzi33zFc1d6MsxMWsUuntN1jLEEcdvd9inpBwxyxm11l34R=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine angenehme moderne Praxis, in der meine individuellen Probleme mit vorgezogener\nTerminvergabe berücksichtigt wurden. Danke Frau Dr. Morowka!\nFreundlicher Empfang.\nIch habe mich sofort gut aufgehoben gefühlt.\nFrau Dr. Morowka hat mich sehr liebevoll und gründlich untersucht, mir allle Fragen deutlich erklärt und gleich notwendige Behandlungen ausgeführt.\nIch bin dankbar von einer so hervorragenden und kompetenten Hautärztin behandelt zu werdem.",
+      "time": 1784365825,
+      "translated": false
+    },
+    {
+      "author_name": "Olena Kozhukhar",
+      "author_url": "https://www.google.com/maps/contrib/108130863241795491021/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4bM-4FQchWXF6lsoSiKDf0pE7_H3jTSTzMCjnHjX0010Bn7o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784289459,
+      "translated": false
+    },
+    {
+      "author_name": "Ismail D",
+      "author_url": "https://www.google.com/maps/contrib/112435367644954669847/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpwUQdTsD5aoTeEfQ9xHyc3dqG1HpLYEJkup_FGGZvnbEUbX4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784281774,
+      "translated": false
+    },
+    {
+      "author_name": "Doris Kotzian",
+      "author_url": "https://www.google.com/maps/contrib/102890121776665345621/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsQqRnqqbX20NqbeA1UHP1UySnpLimy6VaitSNTAtF_ptHAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bereits mehrfach in der Praxis und wurde immer sehr freundlich begrüßt. Bei meinem ersten Besuch wurde ich sogar auf die Zusatzleistungen meiner Krankenkasse aufmerksam gemacht. Die Untersuchungen waren sehr gründlich (Krebsvorsorge) und wurden kompetent durchgeführt.",
+      "time": 1784265458,
+      "translated": false
+    },
+    {
       "author_name": "Maik",
       "author_url": "https://www.google.com/maps/contrib/109164316165816421514/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj3zL5phxe6mCe7nabpRB8uxqS_7Fcgb8_3DXKjKor57GQKg=s128-c0x00000000-cc-rp-mo",
@@ -1116,11 +1160,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2331,
+  "reviewCount": 2335,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:25.401Z"
+  "lastUpdated": "2026-07-19T07:25:23.875Z"
 }

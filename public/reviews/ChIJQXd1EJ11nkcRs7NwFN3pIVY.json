@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "rollergirl",
+      "author_url": "https://www.google.com/maps/contrib/110008336138852090229/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqtc_SoFxIM9gd3OfkptA_8HIw5E7SICSwWW9DXJVk86MsudXq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man wird freundlichst empfangen!\nkeine wartezeit!\ntolle beratung!!\ndaaaankeeee",
+      "time": 1784281221,
+      "translated": false
+    },
+    {
       "author_name": "Elisabeth Philippi",
       "author_url": "https://www.google.com/maps/contrib/118023061104635232582/reviews",
       "language": "de",
@@ -270,7 +282,7 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 21,
+  "reviewCount": 22,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:16.891Z"
+  "lastUpdated": "2026-07-19T07:25:16.132Z"
 }

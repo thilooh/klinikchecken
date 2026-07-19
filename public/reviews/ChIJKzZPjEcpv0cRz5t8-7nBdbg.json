@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kersten Brenneiser",
+      "author_url": "https://www.google.com/maps/contrib/102954465884857697033/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe_G0g4C8jV6QUIA2lZSL0vgAP7Uh9310kDwMd-1p5wFXo_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super sympathischer Arzt der nach einer eingehenden Voruntersuchung habe ich eine kompetente und vorallem nachvollziehbare Diagnose und Handlungsempfehlung bekommen.\nSo sollte es immer sein!!!!!",
+      "time": 1784285643,
+      "translated": false
+    },
+    {
       "author_name": "Jelena Stanic",
       "author_url": "https://www.google.com/maps/contrib/113214702261409177933/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIODNHstQ0mx23GiH6Km1HNC42nZlcR4qPTbPTtKKIqOe17tQ=s128-c0x00000000-cc-rp-mo",
@@ -786,11 +798,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 230,
+  "reviewCount": 231,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:48.411Z"
+  "lastUpdated": "2026-07-19T07:25:44.908Z"
 }

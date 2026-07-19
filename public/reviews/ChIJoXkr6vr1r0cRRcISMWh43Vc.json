@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Faisal Makansi",
+      "author_url": "https://www.google.com/maps/contrib/104614809196758495860/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWK9rPIcrmTsBqBw_gtcdMKPZg31YOdsxRJuOUV1cExrakdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde in diesem Zentrum operiert und bin ich mehr als zufrieden.\nDas ganze Team ist nett und die Mitarbeiter sind  an die Abläufe rotiniert.\nDie Krankeschwester haben jede zweite Stunde überprüft, ob alles in Ordnung ist.\nMeine Operation wurde von Herrn Chweri durchgeführt und ich habe keine Schmerzen weder Komplikationen nach der Operation.\nDer Arzt ist höchst professionell und sympathisch.\nDieses Zentrum ist auf jeden Fall zu empfehlen",
+      "time": 1784363859,
+      "translated": false
+    },
+    {
       "author_name": "Ursula B. - Fuhrmeister",
       "author_url": "https://www.google.com/maps/contrib/103328963107675441041/reviews",
       "language": "de",
@@ -364,11 +376,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 86,
+  "reviewCount": 87,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:24.470Z"
+  "lastUpdated": "2026-07-19T07:25:23.000Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Silke Khiari",
+      "author_url": "https://www.google.com/maps/contrib/116981254974184553833/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKE7kbvQPGGVfhp-0r0HBRvif7bwg47DrSEJeTIXduSbuzZHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin begeistert von dem Team! Sehr aufmerksame Mitarbeiterinnen und Frau Dr. Kreis hat mir mit ihrer absolut kompetenten Beratung sehr geholfen. Danke an alle!",
+      "time": 1784442835,
+      "translated": false
+    },
+    {
       "author_name": "Hans Schicketanz",
       "author_url": "https://www.google.com/maps/contrib/111126489937686206395/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID6NqVXZcw6nWkYLWH_lcbpJcRfBxf8ocFz1M9r24cmxxspQ=s128-c0x00000000-cc-rp-mo",
@@ -169,8 +181,8 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 11,
+  "rating": 4.3,
+  "reviewCount": 12,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:16.385Z"
+  "lastUpdated": "2026-07-19T07:25:15.690Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sandra Mannhaupt",
+      "author_url": "https://www.google.com/maps/contrib/108884332327012215288/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtXkU03Vhryyni0StIKJQe65xm2gW4wqhtKhGExI0WnQUNZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin froh , einen so guten Chirurgen gefunden zu haben.\nAlle in der Praxis sind lieb und nett.\nIch kann diese nur weiterempfehlen .",
+      "time": 1784203255,
+      "translated": false
+    },
+    {
       "author_name": "Irem Yilmaz",
       "author_url": "https://www.google.com/maps/contrib/103954019709022868031/reviews",
       "language": "de",
@@ -434,11 +446,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 115,
+  "reviewCount": 116,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:29.397Z"
+  "lastUpdated": "2026-07-19T07:25:27.532Z"
 }

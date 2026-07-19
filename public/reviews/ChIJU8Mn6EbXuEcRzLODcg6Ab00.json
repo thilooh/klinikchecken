@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Mohamad Baker",
+      "author_url": "https://www.google.com/maps/contrib/113836809076974717235/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIe4cfhuAbMlTOSo5kuKFeN_Bln1yfXbjDQy_HQF1ahbDwUUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Cousine hatte einen Termin um 15:00 Uhr. Ich habe sie zur Praxis gefahren und wir mussten bis etwa 17:30 Uhr warten, bis die Ärztin überhaupt da war. Zwei Stunden Wartezeit trotz fest vereinbartem Termin sind absolut nicht akzeptabel. Es gab weder eine angemessene Information noch eine Entschuldigung.\n\nWenn eine Praxis ihre Termine nicht einhalten kann, sollte sie weniger Termine vergeben, statt mehr Patienten anzunehmen, als sie bewältigen kann. Die Zeit der Patienten – und auch der Begleitpersonen – sollte respektiert werden. Diese Organisation war sehr enttäuschend.",
+      "time": 1784301578,
+      "translated": false
+    },
+    {
+      "author_name": "Hanane Benseddiq",
+      "author_url": "https://www.google.com/maps/contrib/105112346100174817795/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgSL0fzp5_6jxdy8QG2dzGn5hDVvIaFyb2FFifbzyzbjgY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider wurde meine sachliche, kritische Bewertung von Google entfernt. Ich finde es schade, dass man heutzutage offenbar zwar positive Erfahrungen veröffentlichen kann, eine ehrliche kritische Erfahrung jedoch entfernt wird.\n\nNach meiner persönlichen Erfahrung kann ich diese Praxis daher nicht empfehlen. Auf die Hintergründe kann ich leider nicht näher eingehen, da ich befürchten muss, dass meine Äußerung erneut entfernt wird.\n\nJeder sollte selbstverständlich das Recht haben, sowohl positive als auch kritische Erfahrungen sachlich zu schildern. Aus meiner eigenen Erfahrung kann ich mich auf Google-Bewertungen leider nicht mehr uneingeschränkt verlassen.",
+      "time": 1783682914,
+      "translated": false
+    },
+    {
       "author_name": "Hasan Altug",
       "author_url": "https://www.google.com/maps/contrib/103486899055454796758/reviews",
       "language": "de",
@@ -702,11 +726,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 427,
+  "reviewCount": 428,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:28.240Z"
+  "lastUpdated": "2026-07-19T07:25:26.461Z"
 }

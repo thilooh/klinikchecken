@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Yildirim ibrahim",
+      "author_url": "https://www.google.com/maps/contrib/113955964521251026731/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOLKIMUb_HyTEkcl6WpqLgBEo0fro5jJZxEw7wtfcej5lPaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Geht niemals in diese Praxis!\nWenn ihr eure Blutergebnisse haben möchtest ohne Besprechung (weil der Folgetermin nicht unmittelbar gemacht werden kann) dann werdet ihr der Praxis verwiesen und eine Weiterbehandlung wird verweigert.\n\nIch habe aufgrund einer Empfehlung lange auf einen Termin in der Praxis gewartet und hatte dann endlich meine Erstvorstelling bei Frau Glocker. Sie war nett und hat mit Blut abgenommen. Der Folgetermin sollte 10 Wochen später sein, es hieß: ,,käme etwas beim Blut raus, dann würde man sich melden.\"\nIch habe zwei Wochen lang gewartet und dann weiter zwei Wochen versucht die Praxis telefonisch zu erreichen -> kein Durchkommen, weil\nIch immer wieder große Entzündungen auf der Haut bekam. Auf meine E-Mail wurde nicht reagiert, auch nicht mit einem Rückruf.\nIn dieser Zeit haben sich vier mal großflächige Entzündungen in meinem Gesicht entwickelt trotz der Behandlung mit den Cremes. Die Schwellungen begannen und wurden innerhalb von 24 Stunden groß und begannen zu nässen und haben sich schwarz umrandet. Daraufhin ging ich zum Hausarzt für die Akut Überweisung und in die Praxis. (telefonisch wieder kein Durchkommen)\nDie Akut Termine am gleichen Tag waren leider schon vergeben, sodass ich erst am Mo einen bekommen konnte. Bis dahin war alles noch i.O.\nDann bat ich darum, falls am Wochenende etwas ist, mir die Blutergebnisse mitzugeben. Die Sprechstundenkraft sagt das geht nicht ohne Besprechung. Ich meinte dann ich komme ja am Montag und bin verunsichert immerhin habe ich akut eine Entzündungen im Gesicht und überall weißlich schimmernde Stellen als auch wachsartige Haus. Sie bleib bei Nein. Als ich dann sagte, es sind doch meine Daten, meinte sie, das ist egal und sie mache nur was der Arzt sagt. Ich ging kurz vor die Praxis und konnte es nicht glauben. Zumal mein Hausarzt gesagt hat, sie müssen es ihnen geben und nehmen sie die Ergebnisse mit. Außerdem lies ich kurz im BGB und der DSGVO nach. Fakt ist: Der Arzt muss unverzüglich Einsicht gewähren und die Ergebnisse mitgeben.\nAlso ging ich wieder rein. Die Dame sagte:,, Ich hole den Chef, ich habe keinen Bock auf so eine Diskussion\". Der Chef Hr. Riedel, kam vorwurfsvoll heraus, weil ich seine Behandlung unterbrochen habe. Auch er verweigerte die Herausgabe des Bluttests ohne Besprechung und meinte wo ist ihr Problem sie kommen doch am Montag. Ich habe ihn auf darauf verwiesen dass ich das Recht habe die Ergebnisse einzusehen und auch mein Hautarzt sagte, dass ich sie mitnehmen soll. Er sagte dann, wenn sie juristisch sein wollen dann bin ich das auch und mache von meinem Haustecht gebrauch und verweise sie der Praxis. Er gab mir die Blutwerte und sagte, Ich solle zur Weiterbehandlung grad zu meinem Hausarzt gehen. Den Termin stornierte er.\n\nEs ist eine Frechheit Patienten so zu behandeln, die ihre eigenen Unterlagen mitnehmen möchten, weil sie akut verunsichert sind was mit ihrer Haut los ist!\n\nIch hoffe wirklich niemand geht mehr in diese Praxis.",
+      "time": 1784281069,
+      "translated": false
+    },
+    {
+      "author_name": "Lennart Thilmann",
+      "author_url": "https://www.google.com/maps/contrib/107129807118849498853/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUY_kyXTWrPNVfn4DmSS4vveHWmzg4y_7HIEUuVI0Aq1rJaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super organisierte Praxis, sympathische und kompetente Beratung.\nAbsolut zu empfehlen!",
+      "time": 1784217337,
+      "translated": false
+    },
+    {
       "author_name": "Ernst Kreuzer",
       "author_url": "https://www.google.com/maps/contrib/100962054906501855665/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLie1V9jp_h4g5LLXWVOwobpzAgoDBYYvp_cX57Uq92VJrN5A=s128-c0x00000000-cc-rp-mo-ba3",
@@ -16,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7YiQccVMvE8C0OHSjAq0uoJ9TojjFt8h5qOGrovnZm09tMw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783585071,
+      "translated": false
+    },
+    {
+      "author_name": "An Ki",
+      "author_url": "https://www.google.com/maps/contrib/108975728244757808354/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7YiQccVMvE8C0OHSjAq0uoJ9TojjFt8h5qOGrovnZm09tMw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783585071,
       "translated": false
@@ -738,11 +772,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 268,
+  "reviewCount": 270,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-16T07:21:33.857Z"
+  "lastUpdated": "2026-07-19T07:25:31.628Z"
 }

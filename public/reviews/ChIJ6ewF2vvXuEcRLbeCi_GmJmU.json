@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Drohnen Birne",
+      "author_url": "https://www.google.com/maps/contrib/107940827366033961011/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMYfv42Zlynkn8-mlJOcSx2PoIgb4OLqvfB610lWRAzrNaNn4=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "0",
+      "time": 1783689799,
+      "translated": false
+    },
+    {
       "author_name": "Rosemarie Letizia",
       "author_url": "https://www.google.com/maps/contrib/111658827093968693556/reviews",
       "language": "de",
@@ -52,6 +64,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGu1iJf4GO9oMfGkaeO2wPN3uvjlThxbygaSZNEw_X0tpJitrl=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783099406,
+      "translated": false
+    },
+    {
+      "author_name": "Reiner Kranich",
+      "author_url": "https://www.google.com/maps/contrib/103094291607438854971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGu1iJf4GO9oMfGkaeO2wPN3uvjlThxbygaSZNEw_X0tpJitrl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783099406,
       "translated": false
@@ -76,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkXCCB0BSewoP2i1nEDzosOnWZavB08hI08IsEvWMRx9QR2Q=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Einfach und unkompliziert, komme gerne wieder.",
+      "time": 1783006742,
+      "translated": false
+    },
+    {
+      "author_name": "Phil Vox",
+      "author_url": "https://www.google.com/maps/contrib/111126919293470592232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkXCCB0BSewoP2i1nEDzosOnWZavB08hI08IsEvWMRx9QR2Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Einfach und unkompliziert, komme gerne wieder.",
       "time": 1783006742,
       "translated": false
@@ -100,6 +134,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXIERWk1kuFgGjcdD0kXGr-QrYI57_3PBCOHnklpQhNDl1HW79=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor einer Woche",
+      "text": "Bin heute dort gewesen weil ich tierisch juckende Haut hatte mit einem großen Ekzem. Ich wollte die Ursache wissen. Nach knapp 50min Warten war ich dann dran, Frau Dr. Anna Dith kam nach weiteren 5min ins Zimmer. Man hat direkt gemerkt das es schnell schnell gehen muss. Sie konnte zwar schnell sagen was Sache ist und hat mir eine Salbe verschrieben, allerdings hat das alles so \"Ja ja, bla bla, mach hinne keine Zeit\" gewirkt. War echt nicht schön. Werde dort nicht nochmal hin gehen!",
+      "time": 1783004589,
+      "translated": false
+    },
+    {
+      "author_name": "Flex",
+      "author_url": "https://www.google.com/maps/contrib/113442007542302163560/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXIERWk1kuFgGjcdD0kXGr-QrYI57_3PBCOHnklpQhNDl1HW79=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Bin heute dort gewesen weil ich tierisch juckende Haut hatte mit einem großen Ekzem. Ich wollte die Ursache wissen. Nach knapp 50min Warten war ich dann dran, Frau Dr. Anna Dith kam nach weiteren 5min ins Zimmer. Man hat direkt gemerkt das es schnell schnell gehen muss. Sie konnte zwar schnell sagen was Sache ist und hat mir eine Salbe verschrieben, allerdings hat das alles so \"Ja ja, bla bla, mach hinne keine Zeit\" gewirkt. War echt nicht schön. Werde dort nicht nochmal hin gehen!",
       "time": 1783004589,
       "translated": false
@@ -712,5 +758,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:28.464Z"
+  "lastUpdated": "2026-07-19T07:25:26.669Z"
 }

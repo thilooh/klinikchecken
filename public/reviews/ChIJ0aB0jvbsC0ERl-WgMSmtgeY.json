@@ -35,11 +35,33 @@
       "translated": false
     },
     {
+      "author_name": "Ariana S.",
+      "author_url": "https://www.google.com/maps/contrib/107883439038810054213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfK7axsSnjSf7EKKGuRbeiXfqQTAAe5NDJpw4qqY-nMP2vmYIXBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Konnte kein Termin telefonisch am 10.07.2026 am Morgen ausmachen, wurde unfreundlich mit Überweisung abgewiesen durch die Rezeptionsdame. Laut dieser machen sie dort nicht, dass was in Ihrem Leitungsspektrum gemacht wird und das Telefon wurde aufgelegt.",
+      "time": 1783697260,
+      "translated": false
+    },
+    {
       "author_name": "netedu florin",
       "author_url": "https://www.google.com/maps/contrib/104623285991659026804/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKqxRbGotN7aeK-jJHXZZog5rEARbZtUO1QzgoU-kv4BRsOw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783692603,
+      "translated": false
+    },
+    {
+      "author_name": "netedu florin",
+      "author_url": "https://www.google.com/maps/contrib/104623285991659026804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKqxRbGotN7aeK-jJHXZZog5rEARbZtUO1QzgoU-kv4BRsOw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783692603,
       "translated": false
@@ -762,5 +784,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:53.281Z"
+  "lastUpdated": "2026-07-19T07:25:49.346Z"
 }

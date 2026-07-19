@@ -149,6 +149,16 @@
       "translated": false
     },
     {
+      "author_name": "Helma Rosenhauer",
+      "author_url": "https://www.google.com/maps/contrib/118308348648658576279/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnAxjwPjZHNr40ijqvuiBNWIgAnhVVHKtZzfNun-GOx-vhuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1781982487,
+      "translated": false
+    },
+    {
       "author_name": "Axel Müller",
       "author_url": "https://www.google.com/maps/contrib/116985576791820041769/reviews",
       "language": "de",
@@ -620,5 +630,5 @@
   "rating": 3.7,
   "reviewCount": 77,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:18.766Z"
+  "lastUpdated": "2026-07-19T07:25:17.777Z"
 }

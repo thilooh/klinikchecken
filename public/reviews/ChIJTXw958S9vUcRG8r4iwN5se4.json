@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Christian Taube",
+      "author_url": "https://www.google.com/maps/contrib/101561100148718892164/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXzbY6PZhEtMDzmZuTE1fPP7rUL6jvmmTmQFmdDjF8TLCmuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die telefonische Preisauskunft stimmte nicht mit den Forderungen vor Ort überein. Für ein kurzes Hautscreening wurden im Behandlungszimmer statt der besprochenen Kassenleistung plötzlich bis zu 100 Euro verlangt. Erst nach Diskussion wurde die 80-Euro-Option angeboten. Die Untersuchung selbst wirkte auf mich extrem gehetzt und war in weniger als drei Minuten erledigt. Keine Weiterempfehlung.",
+      "time": 1783585891,
+      "translated": false
+    },
+    {
       "author_name": "Polina Sukhareva",
       "author_url": "https://www.google.com/maps/contrib/112603821464847579928/reviews",
       "language": "de",
@@ -162,6 +174,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXER3sqTNHmrE4ZUqNd9BWww96icForCUzGsty_lWzCqN7_nILr=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Frau Dr. Jetter nahm sich Zeit all meine Anliegen zu besprechen und klärte mich ausführlich auf. Außerdem gab Sie mir weitere Tips und Empfehlungen. Der Eingriff verlief professionell und ohne Schmerzen.\nDie Arzthelferin Tiffany klärte mich vor der Behandlung ausführlich auf und nahm mir außergewöhnlich einfühlsam und freundlich jegliche Bedenken. Sie gab mir zusätzlich hilfreiche Tips und Zusatzinformationen. Eine solche außergewöhnlich freundliche und zuvorkommende Behandlung habe ich selten erlebt!\nInsgesamt war der Besuch der Praxis eine tolle und sehr positive Erfahrung.",
+      "time": 1781689353,
+      "translated": false
+    },
+    {
+      "author_name": "J L",
+      "author_url": "https://www.google.com/maps/contrib/115680058290422704610/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXER3sqTNHmrE4ZUqNd9BWww96icForCUzGsty_lWzCqN7_nILr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Frau Dr. Jetter nahm sich Zeit all meine Anliegen zu besprechen und klärte mich ausführlich auf. Außerdem gab Sie mir weitere Tips und Empfehlungen. Der Eingriff verlief professionell und ohne Schmerzen.\nDie Arzthelferin Tiffany klärte mich vor der Behandlung ausführlich auf und nahm mir außergewöhnlich einfühlsam und freundlich jegliche Bedenken. Sie gab mir zusätzlich hilfreiche Tips und Zusatzinformationen. Eine solche außergewöhnlich freundliche und zuvorkommende Behandlung habe ich selten erlebt!\nInsgesamt war der Besuch der Praxis eine tolle und sehr positive Erfahrung.",
       "time": 1781689353,
       "translated": false
@@ -750,11 +774,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 144,
+  "reviewCount": 145,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:39.090Z"
+  "lastUpdated": "2026-07-19T07:25:36.339Z"
 }

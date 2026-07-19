@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "N. B.",
+      "author_url": "https://www.google.com/maps/contrib/105235448149111488066/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8l1UEPgxBHXZ2pFbtj_Fm7tmFSF3i3tDWPLIe0R6tt9jMTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute das erste Mal in der Praxis und wurde von Frau Dr. Nehrbauer untersucht. Habe mich sehr wohl gefühlt und vorallem verstanden. Sie hat sich sehr viel Zeit gelassen und meine Probleme auch ernst genommen. Außerdem war das Team im gesamten Haus auch sehr sympathisch. Fühle mich gut aufgehoben! Danke dafür :)",
+      "time": 1784318314,
+      "translated": false
+    },
+    {
+      "author_name": "Christoph Bungert",
+      "author_url": "https://www.google.com/maps/contrib/101288520443831131451/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1hwEYsWdAtqsxYEmFLlzai1up6DVN7PHzTnRlbDMvqVPbQQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unfreundliche Dame am Telefon... hatten grade einen Termin machen wollen und wurden übelst angepampt!!!",
+      "time": 1784206334,
+      "translated": false
+    },
+    {
       "author_name": "Nader Vaghari",
       "author_url": "https://www.google.com/maps/contrib/105981307042900919670/reviews",
       "language": "de",
@@ -18,6 +42,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3vO_F8qOBAlZWpX-UFh0QBdlbJ6RZVoMSNu6bDZ4upS8-Xcz7VA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783709008,
+      "translated": false
+    },
+    {
+      "author_name": "Katrin Nähen",
+      "author_url": "https://www.google.com/maps/contrib/112549557313489380646/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3vO_F8qOBAlZWpX-UFh0QBdlbJ6RZVoMSNu6bDZ4upS8-Xcz7VA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783709008,
       "translated": false
@@ -591,12 +625,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 129,
+  "rating": 4.6,
+  "reviewCount": 130,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-16T07:21:40.488Z"
+  "lastUpdated": "2026-07-19T07:25:37.614Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Batuhan Kader",
+      "author_url": "https://www.google.com/maps/contrib/101674616905170916136/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJTWu5a8QLc9SGrFGDw9Lpb8SjkDo4xLQK19rhF9rlh4i6Uw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Warte seit 2 Monaten auf meinen Termin, 4 Tage vorher wurde mein Termin ohne Rücksprache um 3 Wochen mitten in meinen Urlaub verschoben ! Super Leistung!",
+      "time": 1784221547,
+      "translated": false
+    },
+    {
+      "author_name": "Spring",
+      "author_url": "https://www.google.com/maps/contrib/109729636624689276012/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMUDD7lJ1H3YLFL2VzIc_iHqC-9VJZVT5PvUg0SnWtJf59sw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Monate lange, wenn nicht über ein Jahr Wartezeit !! Keine telefonische Erreichbarkeit oder Email ( nicht jeder kann mit der angeblichen online Rezeption klarkommen, vor allem ältere Herrschaften), unorganisiert und teilweise unfreundlich. Man hat den Eindruck, wer kein Privatpatient*in ist, ist hier am falschen Ort! Wir sind in Überlegung dies sowohl bei der Ärztekammer als auch bei der kassenärztlichen Vereinigung zu melden.",
+      "time": 1784204037,
+      "translated": false
+    },
+    {
       "author_name": "F H",
       "author_url": "https://www.google.com/maps/contrib/101265878009220188305/reviews",
       "language": "de",
@@ -755,12 +779,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 192,
+  "rating": 4.7,
+  "reviewCount": 189,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:51.647Z"
+  "lastUpdated": "2026-07-19T07:25:47.849Z"
 }

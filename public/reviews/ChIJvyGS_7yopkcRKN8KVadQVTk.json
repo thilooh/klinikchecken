@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ayashabi Shaikh",
+      "author_url": "https://www.google.com/maps/contrib/103206422877067161417/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQiK3rML8dINZ2_ngaTm0BnicrgQ8mgSgh29oJHrNSMtos-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "💕Bitte💕 Lesen Sie dies. Mir ist aufgefallen, dass Ihr Unternehmen einige negative Bewertungen hat, die ihm schaden könnten. Wenn Sie negative Bewertungen von Ihrem Google-Unternehmensprofil entfernen lassen möchten, kontaktieren Sie mich bitte über die Angaben in meinem Profil. Die Bezahlung erfolgt nach Abschluss der Arbeiten.",
+      "time": 1784422776,
+      "translated": true
+    },
+    {
       "author_name": "Matthias Rentsch",
       "author_url": "https://www.google.com/maps/contrib/111520597872141912847/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKF9eB8whv358bk3G64wnCLcqfX499dWCQQ34_s_DExfZ7Uk0=s128-c0x00000000-cc-rp-mo",
@@ -42,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb-BFJrgeuqV-sgy6dig6vn_T70MtDtj32dLvb-vv3JP_uWQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich habe super schnell einen Termin bekommen und musste auch nicht lange warten. Super netter Empfangsbereich. Außerdem bin ich total begeistert wie vorsichtig und einfühlsam Frau Dr. Otto war. Vielen Dank für's Angst nehmen.",
+      "time": 1783150518,
+      "translated": false
+    },
+    {
+      "author_name": "Lisa Marie Seifert",
+      "author_url": "https://www.google.com/maps/contrib/110583237145499534585/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb-BFJrgeuqV-sgy6dig6vn_T70MtDtj32dLvb-vv3JP_uWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich habe super schnell einen Termin bekommen und musste auch nicht lange warten. Super netter Empfangsbereich. Außerdem bin ich total begeistert wie vorsichtig und einfühlsam Frau Dr. Otto war. Vielen Dank für's Angst nehmen.",
       "time": 1783150518,
       "translated": false
@@ -698,11 +722,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 199,
+  "reviewCount": 200,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-07-16T07:21:57.040Z"
+  "lastUpdated": "2026-07-19T07:25:52.742Z"
 }

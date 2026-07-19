@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Ehrenreich",
+      "author_url": "https://www.google.com/maps/contrib/111593731618073903044/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-s5a1yoLR2Eqi9sZHEcTNvgILmbZ94rJ3ZDapa1nrfFqPJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mega nettes + freundliches Team und angenehme Praxis :-),\nunkomplizierte Terminfindung!\nDanke für die realistisch - fachliche Diagnose, Herr Dr. Kluge!",
+      "time": 1784223518,
+      "translated": false
+    },
+    {
       "author_name": "W L",
       "author_url": "https://www.google.com/maps/contrib/117823160941009877011/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMo20AnZeCtCAC8cHrYuArp2EG3wHdZowAD6NDuz7lSaPp7g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Dr Kluge und sein Team sind freundlich und zuvor kommend. Dr. Kluge erklärt alles sehr gut. Ich kann diese Praxis nur weiter empfehlen. Ich war schon mehrere Male dort und immer hatte man ein offenes Ohr für mich, danke",
+      "time": 1782991863,
+      "translated": false
+    },
+    {
+      "author_name": "Jens Petrasek",
+      "author_url": "https://www.google.com/maps/contrib/109542613939939881617/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMo20AnZeCtCAC8cHrYuArp2EG3wHdZowAD6NDuz7lSaPp7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Dr Kluge und sein Team sind freundlich und zuvor kommend. Dr. Kluge erklärt alles sehr gut. Ich kann diese Praxis nur weiter empfehlen. Ich war schon mehrere Male dort und immer hatte man ein offenes Ohr für mich, danke",
       "time": 1782991863,
       "translated": false
@@ -424,11 +448,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:36.225Z"
+  "lastUpdated": "2026-07-19T07:25:33.770Z"
 }

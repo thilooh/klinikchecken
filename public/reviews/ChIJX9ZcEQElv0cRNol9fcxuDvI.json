@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marlies Schulz",
+      "author_url": "https://www.google.com/maps/contrib/106120793084510244734/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAL6pM-vNOBHsaDZj6bUiYS7wnrj_MeoRBWWSlX1a6uYiRSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühlte mich während meiner Behandlung im Rahmen des Venous Closure-Verfahrens in der Praxis sehr gut aufgehoben. Alle Mitarbeitenden und auch der Operateur Herr Anwer waren sehr freundlich, zuvorkommend und menschlich. Ich kann die Praxis nur weiterempfehlen. Vielen Dank an das gesamte Team.",
+      "time": 1784363366,
+      "translated": false
+    },
+    {
       "author_name": "Hans-Christian Hasse",
       "author_url": "https://www.google.com/maps/contrib/101474827227899985111/reviews",
       "language": "de",
@@ -427,11 +439,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 186,
+  "reviewCount": 187,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-07-16T07:21:07.782Z"
+  "lastUpdated": "2026-07-19T07:25:09.012Z"
 }

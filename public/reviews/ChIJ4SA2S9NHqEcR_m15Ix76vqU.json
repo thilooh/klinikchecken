@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sandra Lukaschek",
+      "author_url": "https://www.google.com/maps/contrib/105057815722783442719/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhGPljFdmOxxIH1X7_OXBnB_e9rMhKoqgdTfWg_nC8IWrR4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Schwestern. Der Arzt eher am Geld verdienen interessiert. Meine Krampfadern kann angeblich keine Beschwerden auslösen. Die Untersuchung war eher eine Ferndiagnose und die Ultraschalluntersuchung dauerte keine 5 Sekunden. Das andere Bein wurde sich trotz Bitte überhaupt nicht angeschaut. Gott sei Dank habe ich ein Recht auf eine Zweitmeinung.",
+      "time": 1784371377,
+      "translated": false
+    },
+    {
       "author_name": "lydi112",
       "author_url": "https://www.google.com/maps/contrib/108522492176028944632/reviews",
       "language": "de",
@@ -338,7 +350,7 @@
     }
   ],
   "rating": 3.6,
-  "reviewCount": 35,
+  "reviewCount": 36,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:16.626Z"
+  "lastUpdated": "2026-07-19T07:25:15.917Z"
 }

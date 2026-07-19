@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Mila Müller",
+      "author_url": "https://www.google.com/maps/contrib/101416788427018996471/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJq409TRS4wWBW7fY287E0kFeIQri0WlnBJPbNBPtLGVKAvEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein tolles nettes Team, die Frau Dr.Guellil macht ihre Arbeit sehr gut und nimmt sich auch genügend Zeit ich fühle mich bei ihr gut aufgehoben und mit den Ergebnissen bin ich sehr zufrieden.",
+      "time": 1784303109,
+      "translated": false
+    },
+    {
+      "author_name": "Jason Müller",
+      "author_url": "https://www.google.com/maps/contrib/104523285166170363984/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXYM1eVwO34y7k85gc72fs0hd4LYFMTBhxzSkv1lL1jWA4G7uu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784302859,
+      "translated": false
+    },
+    {
       "author_name": "Rick",
       "author_url": "https://www.google.com/maps/contrib/109799561876458381579/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdb6vOi4OAhqPvJj--QqAxllPErCIgK1TLEh_giROModZq7w=s128-c0x00000000-cc-rp-mo",
@@ -676,11 +698,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 99,
+  "reviewCount": 101,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:41.644Z"
+  "lastUpdated": "2026-07-19T07:25:38.689Z"
 }

@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Ramona Rohr",
+      "author_url": "https://www.google.com/maps/contrib/101050637853044074846/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqesSiTR19MH4PrBKIShyXzSgiKdRt3k6cUDcx0Apuwrdg6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin seit Jahren Patient in der Hautarztpraxis Dr. Salzer. Die Damen an der Anmeldung sind grundsätzlich sehr freundlich, und die Wartezeiten waren bisher für mich immer im normalen Rahmen.\nVon meinem heutigen Besuch bin ich jedoch sehr enttäuscht. Bereits bei der Anmeldung habe ich darauf hingewiesen, dass ich mich erst vor Kurzem einer Bauchoperation unterzogen habe, und gebeten, dies beim Termin zu berücksichtigen, damit ich möglichst nicht lange sitzen muss. Mir wurde gesagt, das sei nicht nötig, da die Wartezeit ohnehin nicht lang sein werde.\nLetztendlich musste ich dennoch eine Stunde im Wartezimmer warten. Für mich war das aufgrund der frischen Operation sehr belastend. Ich hatte starke Bauchschmerzen vom Sitzen und zudem Kreislaufprobleme.\nIch hätte mir in dieser Situation mehr Verständnis und Rücksicht gewünscht. Meiner Meinung nach wäre es angemessen gewesen, mich aufgrund der besonderen Umstände vorzuziehen oder zumindest eine andere Lösung zu finden. Dieses Vorgehen empfand ich als enttäuschend.\nSeit dem Praxisbesuch haben sich meine Schmerzen deutlich verstärkt, sodass ich mich derzeit kaum bewegen kann. Ich hoffe, dass die Praxis künftig in vergleichbaren Situationen sensibler auf Patienten eingeht, die sich nach einer Operation oder in einer besonderen gesundheitlichen Lage befinden.",
+      "time": 1783694101,
+      "translated": false
+    },
+    {
       "author_name": "Alina",
       "author_url": "https://www.google.com/maps/contrib/107476757663895672944/reviews",
       "language": "de",
@@ -76,6 +88,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ11uOoXGnT4xZ4NIpvlTV2n7WMVqxEq0AhJvpUNyiO8FKJvQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783170203,
+      "translated": false
+    },
+    {
+      "author_name": "Friedhelm Pfefferle",
+      "author_url": "https://www.google.com/maps/contrib/109817050032009429164/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ11uOoXGnT4xZ4NIpvlTV2n7WMVqxEq0AhJvpUNyiO8FKJvQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783170203,
       "translated": false
@@ -850,5 +872,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:52.826Z"
+  "lastUpdated": "2026-07-19T07:25:48.923Z"
 }

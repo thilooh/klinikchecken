@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Wulf",
+      "author_url": "https://www.google.com/maps/contrib/114956632251196327938/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRuLzfEXjdtKz5Hrujz9DrWiAJEt4iXUHpyrXlCpaueiAyCwYo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fühle mich sehr gut behandelt",
+      "time": 1784209476,
+      "translated": false
+    },
+    {
       "author_name": "Horst Derkum",
       "author_url": "https://www.google.com/maps/contrib/101258662044086237927/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwELvrFUxAxTLHkqhileJ3QYy0P55BTm-mW6-GrJw0yEclUw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Termin bei Frau Ann-Chritine Glaser online gebucht. Sehr gründliche Untersuchung und wertvolle Tipps erhalten.\nIch kann die Praxis und Mitarbeiter nur empfehlen.",
+      "time": 1782392717,
+      "translated": false
+    },
+    {
+      "author_name": "Horst Derkum",
+      "author_url": "https://www.google.com/maps/contrib/101258662044086237927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwELvrFUxAxTLHkqhileJ3QYy0P55BTm-mW6-GrJw0yEclUw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Termin bei Frau Ann-Chritine Glaser online gebucht. Sehr gründliche Untersuchung und wertvolle Tipps erhalten.\nIch kann die Praxis und Mitarbeiter nur empfehlen.",
       "time": 1782392717,
       "translated": false
@@ -301,7 +325,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 64,
+  "reviewCount": 65,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:10.763Z"
+  "lastUpdated": "2026-07-19T07:25:11.151Z"
 }

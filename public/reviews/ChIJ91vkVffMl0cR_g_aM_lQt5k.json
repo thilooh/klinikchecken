@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Deleza",
+      "author_url": "https://www.google.com/maps/contrib/103689167618789936528/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXB_Jknd8J6FjM8WQPxBYR1iVgMTQ_nwNklDge5JSrMjrpwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe sehr gute Erfaheungen mit Dr. Keil gemacht ! Ich kann sie absolut empfehlen. Ich hatte eine Doppelkinn Fettansaugung mit Endolaser danach und das Ergebnis hat meine Erwartungen übertroffen. Dr. Keil hat sich sehr viel Zeit  schon für die Beratung genommen. Ich hatte keine Schmerzen nach der Op und ich sehe jetzt etliche Jahre jünger aus da ich eine schöne Kinnlinie jetzt habe. Dr. Keil Sie sind eine Künstlerin vielen vielen Dank !",
+      "time": 1784190096,
+      "translated": false
+    },
+    {
       "author_name": "Ladan E",
       "author_url": "https://www.google.com/maps/contrib/116288931926157544903/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpYOd6ImyOXo4zFOlMuj9JJxq5-wBOv3QVDIHK2vMBz4eRVdo_=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war rundum sehr zufrieden mit der Behandlung. Alles war wirklich perfekt – von der Untersuchung bis zur Behandlung selbst. Die Frau Dr. Tijana Jestovic war sehr freundlich, hat sich Zeit genommen und alles verständlich erklärt. Ich habe mich jederzeit gut aufgehoben gefühlt und wurde sehr gut informiert. Insgesamt eine sehr positive Erfahrung, die ich absolut weiterempfehlen kann",
+      "time": 1782388263,
+      "translated": false
+    },
+    {
+      "author_name": "Ladan E",
+      "author_url": "https://www.google.com/maps/contrib/116288931926157544903/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpYOd6ImyOXo4zFOlMuj9JJxq5-wBOv3QVDIHK2vMBz4eRVdo_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war rundum sehr zufrieden mit der Behandlung. Alles war wirklich perfekt – von der Untersuchung bis zur Behandlung selbst. Die Frau Dr. Tijana Jestovic war sehr freundlich, hat sich Zeit genommen und alles verständlich erklärt. Ich habe mich jederzeit gut aufgehoben gefühlt und wurde sehr gut informiert. Insgesamt eine sehr positive Erfahrung, die ich absolut weiterempfehlen kann",
       "time": 1782388263,
       "translated": false
@@ -552,11 +576,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 58,
+  "reviewCount": 59,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:46.805Z"
+  "lastUpdated": "2026-07-19T07:25:43.437Z"
 }

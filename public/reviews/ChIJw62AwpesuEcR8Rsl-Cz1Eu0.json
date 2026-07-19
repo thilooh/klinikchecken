@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Lilia Maas",
+      "author_url": "https://www.google.com/maps/contrib/107831800380594079811/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNhbg_7JUpLHi-UXguWvIkOQnpfEttHOOMXV7DjPPmfmKV4A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Soeben angerufen und mit einer MFA telefoniert, meine akuten Beschwerden wurden nicht ernst genommen wurde sogar am telefon ausgelacht....ein sehr unprofessionelles Verhalten. SOGAR als Selbstzahler angeblich freie Termine mit akuten Beschwerden erst im Oktober. Komische Praxis.",
+      "time": 1784208950,
+      "translated": false
+    },
+    {
+      "author_name": "Leonie Geisler",
+      "author_url": "https://www.google.com/maps/contrib/112956926970985031980/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXdpJpIPUrcMtwXsjipKrryLb-FQcwa2NdMQBkEIQWQFyJzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als jahrzehntelanger Patient bin ich fassungslos über die Abläufe in dieser Praxis. Zum wiederholten Male wurde mir von der Ärztin die falsche Auskunft erteilt, ich müsse für eine Blutabnahme zum Hausarzt. Das ist bürokratischer Unsinn, hat mich nur unnötig Zeit gekostet und beim Hausarzt für Kopfschütteln gesorgt.\nEine Klärung ist hier leider unmöglich:\nMit der Ärztin lässt sich das Problem aufgrund massiver Sprachbarrieren und inhaltlicher Verständigungsprobleme nicht besprechen. Als ich daraufhin telefonisch in der Praxis um Klärung bitten wollte, wurde ich von der Rezeptionistin mit den Worten, man habe „gerade keine Zeit“, einfach weggedrückt.\nFehler können passieren, aber die Kombination aus falscher Beratung, mangelnder Kommunikation und absolut respektlosem Umgang am Telefon ist nach so vielen Jahren Treue einfach nur traurig.",
+      "time": 1784194204,
+      "translated": false
+    },
+    {
       "author_name": "Marina s",
       "author_url": "https://www.google.com/maps/contrib/114282632617491429466/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoYF2W6HquC9mbNrShOPB-gpf1HVPk0Iqijnl3HmA23eKAAw=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Praxis leider nicht empfehlen.Ich habe Verständnis dafür, dass man nicht voreilig Muttermale entfernt. Dennoch wurde bei mir eine Fehlentscheidung getroffen. Ich bin zu einer Hautarztpraxis meines Vertrauens gewechselt, dort wurde das Muttermal entfernt...siehe da, es war zellverändert.Hören Sie auf Ihre Patienten, wenn sie ihnen sagen, dass sich an der Größe und Farbe etwas verändert hat. Aufgrund ihr Warteentscheidung, habe ich eine schöne große Narbe davon getragen.Danke zumindest an Frau Venten, die freundlich auf meine Mail reagiert hat. P.s. die behandelnde Ärztin hat sich bis heute nicht gemeldet.Kleiner Tipp, ich rate ihnen, ihren Dienst zu quittieren. Sie scheinen nicht mehr das geeignete Auge hierfür zu haben. Das med.Personal ist super nett, das als Positives. Eine Stunde Wartezeit ist hier auch normal",
+      "time": 1783621563,
+      "translated": false
+    },
+    {
+      "author_name": "Marina s",
+      "author_url": "https://www.google.com/maps/contrib/114282632617491429466/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoYF2W6HquC9mbNrShOPB-gpf1HVPk0Iqijnl3HmA23eKAAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann die Praxis leider nicht empfehlen.Ich habe Verständnis dafür, dass man nicht voreilig Muttermale entfernt. Dennoch wurde bei mir eine Fehlentscheidung getroffen. Ich bin zu einer Hautarztpraxis meines Vertrauens gewechselt, dort wurde das Muttermal entfernt...siehe da, es war zellverändert.Hören Sie auf Ihre Patienten, wenn sie ihnen sagen, dass sich an der Größe und Farbe etwas verändert hat. Aufgrund ihr Warteentscheidung, habe ich eine schöne große Narbe davon getragen.Danke zumindest an Frau Venten, die freundlich auf meine Mail reagiert hat. P.s. die behandelnde Ärztin hat sich bis heute nicht gemeldet.Kleiner Tipp, ich rate ihnen, ihren Dienst zu quittieren. Sie scheinen nicht mehr das geeignete Auge hierfür zu haben. Das med.Personal ist super nett, das als Positives. Eine Stunde Wartezeit ist hier auch normal",
       "time": 1783621563,
       "translated": false
@@ -473,12 +509,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 103,
+  "rating": 4.7,
+  "reviewCount": 105,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-16T07:21:42.577Z"
+  "lastUpdated": "2026-07-19T07:25:39.534Z"
 }

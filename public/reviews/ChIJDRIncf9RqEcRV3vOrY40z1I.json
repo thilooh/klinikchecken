@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Kira Schroeder",
+      "author_url": "https://www.google.com/maps/contrib/116579315441634512282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGQC_y_2JSMRTDqVmz8bfZY3uP9Yhf9HYyWV697zjL5V8Ueg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schon ein paar Jahre Patient und bin sehr zufrieden. Das Praxisteam ist immer sehr freundlich und lieb. Voralldingen das Personal vorne an der Anmeldung ist immer sehr freundlich, höflich und lieb. Und ein riesen Dankeschön an Fr. Dr. Martel sie ist eine großartige Ärztin und ist sehr professionell, freundlich und kompetent.\nMan fühlt sich gut aufgehoben Dankeschön",
+      "time": 1784201031,
+      "translated": false
+    },
+    {
+      "author_name": "Houriya Ben Ali",
+      "author_url": "https://www.google.com/maps/contrib/102813134027289110126/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuIBZg63mihUxzPZxgqk_mVwkMwFbQdc9yzkhfW2wUxopIbLo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nie wieder! Ich warte seit Mai auf die Befunde meiner Untersuchung. Trotz unzähliger Anrufversuche ist telefonisch niemand erreichbar. Weder ich noch meine Hausärztin haben die Befunde bislang erhalten.",
+      "time": 1784199206,
+      "translated": false
+    },
+    {
       "author_name": "Jens.Christian",
       "author_url": "https://www.google.com/maps/contrib/111599551776913367004/reviews",
       "language": "de",
@@ -672,7 +696,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 142,
+  "reviewCount": 144,
   "summary": [],
-  "lastUpdated": "2026-07-16T07:21:16.150Z"
+  "lastUpdated": "2026-07-19T07:25:15.474Z"
 }

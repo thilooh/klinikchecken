@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Marina Petersen",
+      "author_url": "https://www.google.com/maps/contrib/115246334106918616221/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHVBNiMur743hQkDdKfRCQxtg_S8vKScLihL76hY_FT7y3mA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784350542,
+      "translated": false
+    },
+    {
       "author_name": "Jessica Lampe",
       "author_url": "https://www.google.com/maps/contrib/117052647185178776024/reviews",
       "language": "de",
@@ -159,6 +169,18 @@
       "translated": false
     },
     {
+      "author_name": "M C G",
+      "author_url": "https://www.google.com/maps/contrib/113286745406430426708/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhP15vdVZLxFmVjYNlelL26AvqZMVZTlwe6JhrCpLNyDnxqw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "Meine Freundin hat 3 Monate auf einen Termin gewartet für die Nachsorge eines Plattenepithekarziom. Konnte den Arzt kaum verstehen. Hat nur draufgeguckt...Ist Okay...das war es. Keine Aufklärung, gleich Krebsvorsorge, wenn sie es haben möchte als Privatleistung angeboten, da sie vor einem halben Jahr da war.....und es war zu dem Zeitpunkt alles in Ordnung. Hatte für diese Aussage 3/4 Std.Hinfahrt/ Wartezeit fast eine 3/4 Std....5 Min. Begutachtung/.....3/4 Std. Rückfahrt . Unzufriedenstellende Behandlung. 1 Stern für die Praxisräume.",
+      "time": 1781773657,
+      "translated": false
+    },
+    {
       "author_name": "Jennifer Beckert",
       "author_url": "https://www.google.com/maps/contrib/117089835543827954905/reviews",
       "language": "de",
@@ -202,6 +224,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_Fz-zYbgL35_IYaNpx04Pe1NN417FNNp5Bxke5_8e_Pj6ow=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Die einzige Praxis weit und breit bei der ich als Kassenpatientin einen zeitnahen Termin bekommen habe. Super kurze Wartezeit. Dr. Cramer war total freundlich und zwei auffällige Stellen konnten direkt entfernt werden. Bin absolut zufrieden und würde die Praxis jederzeit weiterempfehlen.",
+      "time": 1781532104,
+      "translated": false
+    },
+    {
+      "author_name": "Jennifer Beckert",
+      "author_url": "https://www.google.com/maps/contrib/117089835543827954905/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_Fz-zYbgL35_IYaNpx04Pe1NN417FNNp5Bxke5_8e_Pj6ow=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Die einzige Praxis weit und breit bei der ich als Kassenpatientin einen zeitnahen Termin bekommen habe. Super kurze Wartezeit. Dr. Cramer war total freundlich und zwei auffällige Stellen konnten direkt entfernt werden. Bin absolut zufrieden und würde die Praxis jederzeit weiterempfehlen.",
       "time": 1781532104,
       "translated": false
@@ -226,6 +260,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcVH7Ou6Jnw227jasByitMT-JAm6nf73gXFDaibJnpOOKiMQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich hatte einen Termin als Selbstzahler bei Dr. Matziris. Und das war leider der mit Abstand unangenehmste Arztbesuch, den ich überhaupt hatte. Ich kam kaum zu Wort und bekam schon bei der Begrüßung das Gefühl, dass Herr Dr. Matziris mich möglichst schnell wieder aus dem Zimmer haben möchte. Der Umgangston war eher unfreundlich und wenig wertschätzend. Für mich der Erste und auch letzte Besuch in dieser Praxis!",
+      "time": 1781481026,
+      "translated": false
+    },
+    {
+      "author_name": "Timo S",
+      "author_url": "https://www.google.com/maps/contrib/114320372049019683120/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcVH7Ou6Jnw227jasByitMT-JAm6nf73gXFDaibJnpOOKiMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich hatte einen Termin als Selbstzahler bei Dr. Matziris. Und das war leider der mit Abstand unangenehmste Arztbesuch, den ich überhaupt hatte. Ich kam kaum zu Wort und bekam schon bei der Begrüßung das Gefühl, dass Herr Dr. Matziris mich möglichst schnell wieder aus dem Zimmer haben möchte. Der Umgangston war eher unfreundlich und wenig wertschätzend. Für mich der Erste und auch letzte Besuch in dieser Praxis!",
       "time": 1781481026,
       "translated": false
@@ -791,12 +837,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 258,
+  "rating": 4.5,
+  "reviewCount": 256,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-16T07:21:21.647Z"
+  "lastUpdated": "2026-07-19T07:25:20.384Z"
 }

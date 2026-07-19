@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Frank The Tank",
+      "author_url": "https://www.google.com/maps/contrib/107193023942933828662/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKkY4ezUiOtAA6xzMtJcI34Uq-9dk-kk5HqfJRl5z0AsUiNX5z=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784263864,
+      "translated": false
+    },
+    {
       "author_name": "Chrissi",
       "author_url": "https://www.google.com/maps/contrib/103685581011043095613/reviews",
       "language": "de",
@@ -620,11 +630,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 145,
+  "reviewCount": 146,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-16T07:21:38.845Z"
+  "lastUpdated": "2026-07-19T07:25:36.130Z"
 }
