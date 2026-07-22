@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Cornelia Dick",
+      "author_url": "https://www.google.com/maps/contrib/101576615812633431667/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_S1OHpxZZyJFBaUslLP7YT7kw0yMvXbhu-7pEICg7m6MfDd8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetent und freundlich. Bin sehr zufrieden",
+      "time": 1784645562,
+      "translated": false
+    },
+    {
+      "author_name": "Elena Petrunia",
+      "author_url": "https://www.google.com/maps/contrib/103344210576036308923/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeAFNnj3O6wwNcFcfscd_l1Ksb-C-0JIuocmElSh8bSC9S1go=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich begeistert! Das war mit Abstand die beste Erfahrung, die ich in den letzten vier Jahren bei einem Arzt in Deutschland gemacht habe.\n\nDas gesamte Praxisteam ist außergewöhnlich freundlich, herzlich und professionell. Man fühlt sich vom ersten Moment an willkommen.\n\nDer Arzt nimmt sich viel Zeit, hört aufmerksam zu, erklärt alles verständlich und beantwortet jede Frage ausführlich. Man hat nie das Gefühl, abgefertigt zu werden – im Gegenteil, man fühlt sich ernst genommen und bestens betreut.\n\nBesonders beeindruckt hat mich, dass sowohl die Hautkrebsvorsorge als auch die Behandlung meiner Akne über die gesetzliche Krankenversicherung möglich waren. Das ist leider nicht selbstverständlich.\n\nIch bin unglaublich froh, dass mir diese Praxis empfohlen wurde. Hier habe ich endlich eine medizinische Betreuung erhalten, bei der Kompetenz, Menschlichkeit und Wertschätzung im Mittelpunkt stehen. Vielen herzlichen Dank an das gesamte Team – ich kann diese Praxis uneingeschränkt weiterempfehlen!",
+      "time": 1784537795,
+      "translated": false
+    },
+    {
+      "author_name": "M.B.",
+      "author_url": "https://www.google.com/maps/contrib/111359058979400409028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2p3uZcgI40BoKi5fCmBjxTKhjXDOgq1LND__fMDhjzAydeJo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war diese Woche bei Herrn Dr. Wehry. Da er zertifizierter Spezialist für Hautkrebs ist, habe ich mich super bei ihm aufgehoben und beraten gefühlt. Auf meine Bedenken wurde sehr einfühlsam eingegangen. Top! Große Empfehlung!",
+      "time": 1784464643,
+      "translated": false
+    },
+    {
+      "author_name": "FLooo Ryan",
+      "author_url": "https://www.google.com/maps/contrib/117147272690738400619/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh7icQsJ-8qnqDBrPgQlYcJKO7az6Yroe9_BQZZF8jKir8vA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Wehry steht immer mit viel Zeit und einem offenen Ohr zur Seite und kümmert sich um das Anliegen, sucht nach verschiedenen Methoden der Behandlung und findet Lösungen. Ich fühle mich in guten Händen.\nNatürlich spielt die Zeit oder ein volles Wartezimmer immer eine Rolle und verursacht Druck. Die Gründe hierfür können sehr divers sein und liegen niemals an einer Person. In Notsituationen muss alles etwas schneller gehen, aber bei Herrn Dr. Wehry nicht zu Kosten der Gesundheit.\nIch kenne Herrn Dr. Wehry seit dem Jugendalter. Ihm Rassismus vorzuwerfen ist ein starkes Stück, einfach unfair und absolut nicht die Wahrheit. Er ist weltoffen, sympatisch und geht mit allen Menschen wunderbar um. Dafür lege ich meine Hand ins Feuer.",
+      "time": 1784456543,
+      "translated": false
+    },
+    {
       "author_name": "Mira Sa",
       "author_url": "https://www.google.com/maps/contrib/101648222934947808114/reviews",
       "language": "de",
@@ -831,7 +879,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 222,
+  "reviewCount": 226,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:12.903Z"
+  "lastUpdated": "2026-07-22T07:32:31.884Z"
 }

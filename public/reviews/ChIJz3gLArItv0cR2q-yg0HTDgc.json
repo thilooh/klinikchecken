@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "High Velocity",
+      "author_url": "https://www.google.com/maps/contrib/112156310082874497219/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKF_EYb-5cDlyx6OwxW0hlqXcMSODxj5SO_xf7-8vkSLcmdm_A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Freundlicher und hilfsbereiter Arzt, der sich Zeit für neue Patienten nimmt. Ich wünsche Ihnen alles Gute und vor allem Gesundheit!",
+      "time": 1783950040,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Janz",
       "author_url": "https://www.google.com/maps/contrib/110292041586227423299/reviews",
       "language": "de",
@@ -125,6 +137,16 @@
       "translated": false
     },
     {
+      "author_name": "Hawin Öner",
+      "author_url": "https://www.google.com/maps/contrib/105619797535043865846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNZPe5uDCeLYSjoIFw_f0Jo6tPg_X60ezxufyJebcfaiQ0Pg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1782286136,
+      "translated": false
+    },
+    {
       "author_name": "Melissa Riesen González",
       "author_url": "https://www.google.com/maps/contrib/103482299760732597518/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwG88JAIilqL-4PAGm8fW4F-JWHaa1UVghdUSrRPzAQOfqeqmw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -160,6 +182,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwG88JAIilqL-4PAGm8fW4F-JWHaa1UVghdUSrRPzAQOfqeqmw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1782138768,
+      "translated": false
+    },
+    {
+      "author_name": "Melissa Riesen González",
+      "author_url": "https://www.google.com/maps/contrib/103482299760732597518/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwG88JAIilqL-4PAGm8fW4F-JWHaa1UVghdUSrRPzAQOfqeqmw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1782138768,
       "translated": false
@@ -793,5 +825,5 @@
   "rating": 4.6,
   "reviewCount": 295,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:13.554Z"
+  "lastUpdated": "2026-07-22T07:32:32.561Z"
 }

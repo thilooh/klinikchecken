@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Heidi Hülhoven",
+      "author_url": "https://www.google.com/maps/contrib/112574367197229712236/reviews",
+      "language": "pt",
+      "original_language": "pt",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLql7sNN8iQP_ehDh9x9r9k_yIB3NFi3RwuhuBoU5CRKqylvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eu fui fazer un grande controle a pele .O doutor controlou a pele da cabeça até aos pés. Eu sentime muito confortável. As minhas perguntas forem todas respondidas.\nSaí de lá com um bom sentimento.\nAgora vou lá outra vez daqui a um ano.\nMuito obrigada pela atenção",
+      "time": 1784637103,
+      "translated": false
+    },
+    {
+      "author_name": "V. E.",
+      "author_url": "https://www.google.com/maps/contrib/115926420470713862801/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFas7m3ocyL93lgriyg5JJMOw8xvHfuh31MvcuI_myZBGZ8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war eigentlich immer sehr zu frieden! Vor allem die beiden Sprechstunden-Hilfen wirken super nett und kompetent. Bei meinem letzten Termin habe ich mich leider unwohl gefühlt. Beim Hautscreening gab es leider keine Möglichkeit, sich vernünftig auszukleiden (weder eine Umkleide noch Ablagen für die Kleidung). Während des Screenings platzte ein Mitarbeiter mit einem Café für den behandelnden Arzt herein. Ich wünsche mir bei solch einem Termin mehr Diskretion…",
+      "time": 1784576999,
+      "translated": false
+    },
+    {
       "author_name": "Frank Klütsch",
       "author_url": "https://www.google.com/maps/contrib/114497201890650310228/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2PEUI6dyYo103bt1NfDm0MxKUiPdcP0zgKoyVpuCoDPMlnE6y=s128-c0x00000000-cc-rp-mo-ba3",
@@ -30,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU63_0hKOe2VM_LAbdbNWyMZ1CuR1jDJY2n38Is12RyofgOhXk=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich begeistert und kann diese Praxis nur empfehlen. Die Hautkrebsvorsorge mit dem modernen Hautscanner war für mich eine sehr positive Erfahrung. Ein noch recht junger aber sehr einfühlsamer und kompetenter Arzt hat sich viel Zeit genommen, alles verständlich erklärt und die Untersuchung sehr gründlich durchgeführt.\n\nBesonders beeindruckt hat mich, dass er zwei auffällige Muttermale sofort erkannt hat. Sie wurden direkt im Anschluss entfernt. Ohne diese sorgfältige Untersuchung wären sie mir selbst wahrscheinlich nie aufgefallen. Das gibt mir ein sehr gutes und sicheres Gefühl.\n\nMan merkt, dass hier mit viel Erfahrung, großer Sorgfalt und moderner Technik gearbeitet wird. Auch das gesamte Praxisteam war freundlich, aufmerksam und gut organisiert, sodass ich mich von Anfang an wohlgefühlt habe.\n\nVielen Dank für die hervorragende Betreuung. Ich werde auf jeden Fall wiederkommen und kann die Praxis aus voller Überzeugung weiterempfehlen.\n\nM.S.",
+      "time": 1784043388,
+      "translated": false
+    },
+    {
+      "author_name": "A. W.",
+      "author_url": "https://www.google.com/maps/contrib/114082456759958846563/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU63_0hKOe2VM_LAbdbNWyMZ1CuR1jDJY2n38Is12RyofgOhXk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin wirklich begeistert und kann diese Praxis nur empfehlen. Die Hautkrebsvorsorge mit dem modernen Hautscanner war für mich eine sehr positive Erfahrung. Ein noch recht junger aber sehr einfühlsamer und kompetenter Arzt hat sich viel Zeit genommen, alles verständlich erklärt und die Untersuchung sehr gründlich durchgeführt.\n\nBesonders beeindruckt hat mich, dass er zwei auffällige Muttermale sofort erkannt hat. Sie wurden direkt im Anschluss entfernt. Ohne diese sorgfältige Untersuchung wären sie mir selbst wahrscheinlich nie aufgefallen. Das gibt mir ein sehr gutes und sicheres Gefühl.\n\nMan merkt, dass hier mit viel Erfahrung, großer Sorgfalt und moderner Technik gearbeitet wird. Auch das gesamte Praxisteam war freundlich, aufmerksam und gut organisiert, sodass ich mich von Anfang an wohlgefühlt habe.\n\nVielen Dank für die hervorragende Betreuung. Ich werde auf jeden Fall wiederkommen und kann die Praxis aus voller Überzeugung weiterempfehlen.\n\nM.S.",
       "time": 1784043388,
       "translated": false
@@ -852,11 +888,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 320,
+  "reviewCount": 322,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:47.638Z"
+  "lastUpdated": "2026-07-22T07:33:08.121Z"
 }

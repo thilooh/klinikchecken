@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jule Donhauser",
+      "author_url": "https://www.google.com/maps/contrib/105132835427135566433/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV7O6txK7J4zvgcwX5yb1-sPEHxFuz5jhx0-tbASKvaIZ3Do0=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine lange Wartezeit und total freundlich",
+      "time": 1784531437,
+      "translated": false
+    },
+    {
       "author_name": "Ida Schmid",
       "author_url": "https://www.google.com/maps/contrib/102466507143703912899/reviews",
       "language": "de",
@@ -236,6 +248,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2Qax63N-MZVigMVeHRRU1km_ou12m0gq9iJALH4hor1zPYw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr freundlich und mit den Terminen sehr gut organisiert. Und sehr kompetent. Schön das es so eine Praxis noch gibt.",
+      "time": 1776859307,
+      "translated": false
+    },
+    {
+      "author_name": "R. Steger",
+      "author_url": "https://www.google.com/maps/contrib/105644601342402249198/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2Qax63N-MZVigMVeHRRU1km_ou12m0gq9iJALH4hor1zPYw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Sehr freundlich und mit den Terminen sehr gut organisiert. Und sehr kompetent. Schön das es so eine Praxis noch gibt.",
       "time": 1776859307,
       "translated": false
@@ -398,11 +422,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 69,
+  "reviewCount": 70,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:32.270Z"
+  "lastUpdated": "2026-07-22T07:32:52.199Z"
 }

@@ -41,6 +41,16 @@
       "translated": false
     },
     {
+      "author_name": "Ruth Tap",
+      "author_url": "https://www.google.com/maps/contrib/103584619708108198557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiaEhRYVPiFqVbYbC5zJNNJOzQUOybLMGVFdLV7xQuLoDSYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1782163220,
+      "translated": false
+    },
+    {
       "author_name": "Sandra K.",
       "author_url": "https://www.google.com/maps/contrib/100057347429763684156/reviews",
       "language": "de",
@@ -324,6 +334,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu0EKIo9xtEFpk5nCncf-6Ygl5IXV3ulZQgXEME_h4kH5UPgDE=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich bin sehr unzufrieden. Gab ein Rezept für eine Strumpfhose und eine Visitenkarte vom Chirurg wurde einem auch direkt in die Hand gedrückt. Es fehlte an Freundlichkeit und Hilfbereitschaft.",
+      "time": 1779355284,
+      "translated": false
+    },
+    {
+      "author_name": "Annika Marie Meister",
+      "author_url": "https://www.google.com/maps/contrib/108907009367861408253/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu0EKIo9xtEFpk5nCncf-6Ygl5IXV3ulZQgXEME_h4kH5UPgDE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich bin sehr unzufrieden. Gab ein Rezept für eine Strumpfhose und eine Visitenkarte vom Chirurg wurde einem auch direkt in die Hand gedrückt. Es fehlte an Freundlichkeit und Hilfbereitschaft.",
       "time": 1779355284,
       "translated": false
@@ -548,5 +570,5 @@
   "rating": 4.2,
   "reviewCount": 79,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:17.191Z"
+  "lastUpdated": "2026-07-22T07:32:36.351Z"
 }

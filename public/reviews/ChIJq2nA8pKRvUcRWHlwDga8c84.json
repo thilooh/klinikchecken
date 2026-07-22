@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Sohail Karokhil",
+      "author_url": "https://www.google.com/maps/contrib/100132539961814053038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXrnGzTkBef5locpn2jJnPD2jonSxdEa2xcvgP28ISUae4Tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784643116,
+      "translated": false
+    },
+    {
+      "author_name": "Kristine Beuchel",
+      "author_url": "https://www.google.com/maps/contrib/101604007339387741398/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGKiwHMmjVHBdLwhdG6AId22AMqtQrNHa3_n86aHhVxrg3TQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gute und kompetente Betreuung durch Praxisteam, Ärztin (Dr. Bergmann) und Fotograf (M. Weber).",
+      "time": 1784580323,
+      "translated": false
+    },
+    {
+      "author_name": "Julian Schreiter",
+      "author_url": "https://www.google.com/maps/contrib/110044481855845766095/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP0AYcOH3VwqFp6RL1FKQflJRpddILyqv2JKI4iaznF6E-_SvJyg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fachlich kompetent, aber organisatorisch eine Katastrophe\n\n​Eigentlich eine Praxis mit vielen guten Ärzten – wären da nicht die massiven Strukturprobleme, die diese Bewertung um mindestens zwei Sterne drücken.\n\n​Die Hauptprobleme:\n\n1. Chaotische Anmeldung:\nMan wartet 10–15 Minuten, nur um sich am Empfang überhaupt anmelden zu können. (Tipp: Mindestens 30 Minuten vor dem Termin erscheinen!). Das Personal wirkt durch völliges Missmanagement komplett unstrukturiert und überfordert. Hat man die Anmeldung aber erst einmal passiert, läuft alles entspannt und zügig.\n\n2. ​Katastrophale Erreichbarkeit:\nDie telefonische KI ist unbrauchbar und eine zeitnahe Kontaktaufnahme kaum möglich. (Tipp: Besser direkt eine E-Mail schreiben).\n\n3. ​Starker Kommerz-Fokus:\nDie wirtschaftliche Orientierung und Kooperationen mit namhaften Herstellern sind extrem spürbar und werden von der einen oder anderen ärztlichen Person sehr aufdringlich vermittelt.\n\n4. ​Dauerhaftes System-Chaos:\nGefühlt ständige Systemumstellungen sorgen für ein nervenaufreibendes Chaos, das die Geduld der Patienten auf eine Zerreißprobe stellt.\n\n​Fazit:\nGäbe es in Deutschland keinen so eklatanten Ärztemangel, hätte ich die Praxis aufgrund der katastrophalen Organisation längst gewechselt.",
+      "time": 1784486361,
+      "translated": false
+    },
+    {
       "author_name": "Mone",
       "author_url": "https://www.google.com/maps/contrib/109322407552676585931/reviews",
       "language": "de",
@@ -942,11 +976,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 310,
+  "reviewCount": 313,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:36.555Z"
+  "lastUpdated": "2026-07-22T07:32:56.732Z"
 }

@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Susanne Peterhans",
+      "author_url": "https://www.google.com/maps/contrib/108994668448943943577/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWlfAvUdzYLEHLT69BInH65MpOshCIDIo7VMsoMJYdV9tdTwJTfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Beste Hautarzt Praxis in Karlsruhe sehr kompetent freundlich bin schon seit vielen Jahren Patientin",
+      "time": 1783939065,
+      "translated": false
+    },
+    {
       "author_name": "Manfred",
       "author_url": "https://www.google.com/maps/contrib/109006521823762025557/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy8GbSOyajHLbmJry5cP2PSFwnpKzLE0kApCIl0D6ThdQCtg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -60,6 +72,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVP1B_txI7soHP3X1A-w8b9w-TkQSM52OxgdI0QXamfdUmLg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783336694,
+      "translated": false
+    },
+    {
+      "author_name": "Manuela Eissler",
+      "author_url": "https://www.google.com/maps/contrib/112092624500760297419/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVP1B_txI7soHP3X1A-w8b9w-TkQSM52OxgdI0QXamfdUmLg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783336694,
       "translated": false
@@ -844,5 +866,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:30.999Z"
+  "lastUpdated": "2026-07-22T07:32:50.846Z"
 }

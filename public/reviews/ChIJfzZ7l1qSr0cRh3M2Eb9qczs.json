@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Burghard Puse",
+      "author_url": "https://www.google.com/maps/contrib/106568105015984379428/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcNjE9YK-1SgSJqlFel9hv14TKdV1fs0MtaYnnKg9kOWTMsRI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr netter und kompetenter Arzt. Er hat mir sofort geholfen und war auch sehr einfühlsam! Zusammen mit seinem wunderbarem und netten Team kann man diese Praxis sehr empfehlen!",
+      "time": 1784635230,
+      "translated": false
+    },
+    {
       "author_name": "Fredi Hendel",
       "author_url": "https://www.google.com/maps/contrib/116112827580270026562/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQQYLjZdrSvukbnKL3cv4ua5r7mbY0d6yWiByh-iVBD_vNlm_R=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr sympathischer lockerer Arzt, nimmt sich Zeit und klärt vernünftig auf. Kann die negativen Rezensionen hier überhaupt nicht nachvollziehen.",
+      "time": 1783960381,
+      "translated": false
+    },
+    {
+      "author_name": "Fredi Hendel",
+      "author_url": "https://www.google.com/maps/contrib/116112827580270026562/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQQYLjZdrSvukbnKL3cv4ua5r7mbY0d6yWiByh-iVBD_vNlm_R=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr sympathischer lockerer Arzt, nimmt sich Zeit und klärt vernünftig auf. Kann die negativen Rezensionen hier überhaupt nicht nachvollziehen.",
       "time": 1783960381,
       "translated": false
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqf_YALHCNOcPVzKC_UVqFuqxLzGiAT9EFvKiLESgUfveLyeWH=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 5 Monaten",
+      "text": "Toller Arzt! Er hat mein Anliegen ernst genommen und mir weitergeholfen.",
+      "time": 1769151540,
+      "translated": false
+    },
+    {
+      "author_name": "le muecke",
+      "author_url": "https://www.google.com/maps/contrib/103967576537388908578/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqf_YALHCNOcPVzKC_UVqFuqxLzGiAT9EFvKiLESgUfveLyeWH=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 6 Monaten",
       "text": "Toller Arzt! Er hat mein Anliegen ernst genommen und mir weitergeholfen.",
       "time": 1769151540,
       "translated": false
@@ -242,11 +278,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 105,
+  "reviewCount": 106,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:50.352Z"
+  "lastUpdated": "2026-07-22T07:33:10.962Z"
 }

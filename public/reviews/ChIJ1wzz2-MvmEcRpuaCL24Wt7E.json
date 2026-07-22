@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Annika Ronovsky",
+      "author_url": "https://www.google.com/maps/contrib/108785552433938563264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiRwHggp_w5Odj2IjfX3xlUk2OoCWqsIno0KPSnpap0cs2tg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn ich 0 geben würde, würde ich es direkt tun. Mehrfach angerufen um mein Gefäßzustand abzuklären bei Bekannten lipdömen. Beim Ankommen meinte die Arzthwlferin das würden sie niemals tun und hat mich einfach einfach wieder heim geschickt. Einfach nur pure Zeitverschwendung",
+      "time": 1784541518,
+      "translated": false
+    },
+    {
       "author_name": "Mustafa Özkan",
       "author_url": "https://www.google.com/maps/contrib/104001179417057660393/reviews",
       "language": "de",
@@ -662,11 +674,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 92,
+  "reviewCount": 93,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:48.709Z"
+  "lastUpdated": "2026-07-22T07:33:09.238Z"
 }

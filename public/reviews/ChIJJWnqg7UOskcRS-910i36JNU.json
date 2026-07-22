@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Eve",
+      "author_url": "https://www.google.com/maps/contrib/117978078686874112086/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK57eKg0dZwyA3USN1fFH8U6CUE5Jo1QQ-Y_b6V5TQ3hYHxC9c=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kurzfristigen Termin bekommen und kam noch vor dem Termin dran. Gut organisiert und kompetent",
+      "time": 1784634663,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Schulze",
+      "author_url": "https://www.google.com/maps/contrib/104818937230463955656/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0RIb62k6Z93vc0bN8LnLfx6ossjkndDCAvDzCZcbXAzR7AQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr angenehmes Ambiente, nettes Personal und eine sehr gut Aufklärung der anstehenden OP",
+      "time": 1784557630,
+      "translated": false
+    },
+    {
       "author_name": "Ansgard Schoch",
       "author_url": "https://www.google.com/maps/contrib/114457288989307522953/reviews",
       "language": "de",
@@ -1160,11 +1184,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2335,
+  "reviewCount": 2336,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:23.875Z"
+  "lastUpdated": "2026-07-22T07:32:43.319Z"
 }

@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Uwe Göken",
+      "author_url": "https://www.google.com/maps/contrib/111313677641091708028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLztvgPy6evtcyfkRHNYJg12TV2R5FR4ixsq2ZlENNVcfYXeio=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr kompetentes Team in einer angenehmen Atmosphäre.\nHier wird alles professionell aufgenommen und die Behandlung ist so wie man es sich wünscht.\nObwohl ich mehr oder weniger als Notfall angekommen bin, wurde ich schon nach kurzer Wartezeit sehr gut behandelt.\nDiese Praxis kann ich nur empfehlen.",
+      "time": 1782826928,
+      "translated": false
+    },
+    {
       "author_name": "Niloofar Ghpour",
       "author_url": "https://www.google.com/maps/contrib/110462412265398591656/reviews",
       "language": "de",
@@ -116,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSNr-fuFN8HytUEoAOyVm4whRDHDwYUvSN5lr9_LI_3x5YsMaV=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Der arzt ist sehr geduldig und ich bin wirklich zufrieden.",
+      "time": 1779436556,
+      "translated": false
+    },
+    {
+      "author_name": "Niloofar Ghpour",
+      "author_url": "https://www.google.com/maps/contrib/110462412265398591656/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSNr-fuFN8HytUEoAOyVm4whRDHDwYUvSN5lr9_LI_3x5YsMaV=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Der arzt ist sehr geduldig und ich bin wirklich zufrieden.",
       "time": 1779436556,
       "translated": false
@@ -355,5 +379,5 @@
   "rating": 4.8,
   "reviewCount": 44,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:13.109Z"
+  "lastUpdated": "2026-07-22T07:32:32.110Z"
 }

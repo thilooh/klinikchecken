@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Josee Hennin",
+      "author_url": "https://www.google.com/maps/contrib/117944554978950383025/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-EVzOCK-4QVPzCn5icXGkZVtZvwVdFELoQ_7cXqyTWLXcATKz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Praxis : Freundlich Personal\nDr. Offen für Gespräch\nGute Beratung.",
+      "time": 1784538339,
+      "translated": false
+    },
+    {
       "author_name": "Kirstin Rieger",
       "author_url": "https://www.google.com/maps/contrib/104302700561745435176/reviews",
       "language": "de",
@@ -537,12 +549,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
+  "rating": 4.9,
   "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:39.097Z"
+  "lastUpdated": "2026-07-22T07:32:59.392Z"
 }

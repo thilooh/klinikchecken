@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lucia Gosebrink",
+      "author_url": "https://www.google.com/maps/contrib/111121230657663512499/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVItA6hQm6fiYJy8YNzuvinh4ZhtMnDPA6v-QxbRDxRmWU5yJ7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Hautkrebsscreening war so wie man es erwartet - mit Ruhe, Sorgfalt und Professionalität.",
+      "time": 1784540192,
+      "translated": false
+    },
+    {
       "author_name": "Jasmin",
       "author_url": "https://www.google.com/maps/contrib/102852379894584526185/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2k6e7sZfjTqEMYN3zjCqTn2jPXDBlT29WRoeaL7A5B8-7sWk=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich wurde super kompetent und freundlich beraten! Es wurde sich viel Zeit für mich genommen und auf alles eingegangen. Ich bin sehr zufrieden und kann die Praxis nur weiterempfehlen :)",
+      "time": 1783345220,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmin",
+      "author_url": "https://www.google.com/maps/contrib/102852379894584526185/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2k6e7sZfjTqEMYN3zjCqTn2jPXDBlT29WRoeaL7A5B8-7sWk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich wurde super kompetent und freundlich beraten! Es wurde sich viel Zeit für mich genommen und auf alles eingegangen. Ich bin sehr zufrieden und kann die Praxis nur weiterempfehlen :)",
       "time": 1783345220,
       "translated": false
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7NL5tehjJYwXMShkOaC-j0dNtbh1DlVUJsgY26KIncEp8GoQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kann die Praxis empfehlen! Frau Lena Germann ist beim Screening gründlich vorgegangen und hat meine Fragen umfassend und sympathisch beantwortet.",
+      "time": 1782229759,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja W.",
+      "author_url": "https://www.google.com/maps/contrib/114235344749845935334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7NL5tehjJYwXMShkOaC-j0dNtbh1DlVUJsgY26KIncEp8GoQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich kann die Praxis empfehlen! Frau Lena Germann ist beim Screening gründlich vorgegangen und hat meine Fragen umfassend und sympathisch beantwortet.",
       "time": 1782229759,
       "translated": false
@@ -399,7 +435,7 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 94,
+  "reviewCount": 95,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:11.866Z"
+  "lastUpdated": "2026-07-22T07:32:30.817Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Julia E.",
+      "author_url": "https://www.google.com/maps/contrib/106212226264833342381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5whCX_wDdFGpNcPRpyadQH3yLyFEwN4fHFaOziKX3wZ0Tlg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schnelle Terminvergabe, kaum Wartezeit und eine freundliche Betreuung durch den Arzt. Ich habe mich sehr gut aufgehoben gefühlt.",
+      "time": 1784666998,
+      "translated": false
+    },
+    {
       "author_name": "Acar Ayyildiz",
       "author_url": "https://www.google.com/maps/contrib/111463467723864904282/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW7kkuELhWjKGPaDQfsekVXgP1DfmmmjYPTacJXcVehnb7Wg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war nicht da, keine Meinumg",
+      "time": 1783878423,
+      "translated": false
+    },
+    {
+      "author_name": "Acar Ayyildiz",
+      "author_url": "https://www.google.com/maps/contrib/111463467723864904282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW7kkuELhWjKGPaDQfsekVXgP1DfmmmjYPTacJXcVehnb7Wg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war nicht da, keine Meinumg",
       "time": 1783878423,
       "translated": false
@@ -52,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-j6kua69MrovNbqlLUiUeHr30D6aSEsPDUmTbrHbaihL9yw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war heute als Neupatient in dieser Praxis. Den Termin hatte ich über eine Bekannte vereinbart, die dort selbst Patientin ist und sehr zufrieden ist. Dafür bin ich extra eine Stunde angereist und habe mir sogar frei genommen.\nZunächst wurde sogar meine Gesundheitskarte eingelesen und meine Telefonnummer notiert. Deshalb bin ich selbstverständlich davon ausgegangen, dass alles in Ordnung ist. Erst danach wurde mir mitgeteilt, dass mein Termin angeblich nicht im System eingetragen sei.\nFehler können passieren. Was ich jedoch nicht nachvollziehen kann, ist der Umgang der Mitarbeiterin an der Anmeldung. Ich habe ihr sogar angeboten, einfach zu warten, falls zwischendurch Zeit für mich wäre. Trotzdem hat sie sich mehrfach geweigert, mir irgendwie entgegenzukommen oder eine Lösung anzubieten. Stattdessen wurde ich einfach weggeschickt.\nIch bin umsonst eine Stunde gefahren, habe mir extra frei genommen und wurde trotz meines Entgegenkommens abgewiesen. Ein solch unprofessioneller und wenig patientenorientierter Umgang ist für mich nicht nachvollziehbar und hinterlässt leider einen sehr schlechten Eindruck von der Praxis.",
+      "time": 1783451840,
+      "translated": false
+    },
+    {
+      "author_name": "I S.",
+      "author_url": "https://www.google.com/maps/contrib/117693563064197458521/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-j6kua69MrovNbqlLUiUeHr30D6aSEsPDUmTbrHbaihL9yw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war heute als Neupatient in dieser Praxis. Den Termin hatte ich über eine Bekannte vereinbart, die dort selbst Patientin ist und sehr zufrieden ist. Dafür bin ich extra eine Stunde angereist und habe mir sogar frei genommen.\nZunächst wurde sogar meine Gesundheitskarte eingelesen und meine Telefonnummer notiert. Deshalb bin ich selbstverständlich davon ausgegangen, dass alles in Ordnung ist. Erst danach wurde mir mitgeteilt, dass mein Termin angeblich nicht im System eingetragen sei.\nFehler können passieren. Was ich jedoch nicht nachvollziehen kann, ist der Umgang der Mitarbeiterin an der Anmeldung. Ich habe ihr sogar angeboten, einfach zu warten, falls zwischendurch Zeit für mich wäre. Trotzdem hat sie sich mehrfach geweigert, mir irgendwie entgegenzukommen oder eine Lösung anzubieten. Stattdessen wurde ich einfach weggeschickt.\nIch bin umsonst eine Stunde gefahren, habe mir extra frei genommen und wurde trotz meines Entgegenkommens abgewiesen. Ein solch unprofessioneller und wenig patientenorientierter Umgang ist für mich nicht nachvollziehbar und hinterlässt leider einen sehr schlechten Eindruck von der Praxis.",
       "time": 1783451840,
       "translated": false
@@ -792,11 +828,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 387,
+  "reviewCount": 388,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:42.122Z"
+  "lastUpdated": "2026-07-22T07:33:02.392Z"
 }

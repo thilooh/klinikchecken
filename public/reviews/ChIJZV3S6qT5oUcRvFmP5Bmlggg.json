@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Heinrich Ulherr",
+      "author_url": "https://www.google.com/maps/contrib/102909907935452629853/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKri_Ovfht2Ipu-BbD5mhaIe5RaWRtU69OucBo3h84OQl48ow=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetente und gründliche Untersuchung in Kombination mit sehr guter Beratung vermitteln ein gutes Gefühl",
+      "time": 1784697907,
+      "translated": false
+    },
+    {
       "author_name": "Manfred Schindelek",
       "author_url": "https://www.google.com/maps/contrib/101467119250665776486/reviews",
       "language": "de",
@@ -284,5 +296,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:50.558Z"
+  "lastUpdated": "2026-07-22T07:33:11.177Z"
 }

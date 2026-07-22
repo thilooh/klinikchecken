@@ -153,6 +153,18 @@
       "translated": false
     },
     {
+      "author_name": "Sabine Schlumpberger",
+      "author_url": "https://www.google.com/maps/contrib/108612991465017785308/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZABqYUuUnUQZX36jEt_WUm4pH_0vIfULjXpkBUpSACrZVBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Dr.Wilder und Team,ist ein sehr kompetenter Arzt mit hervorragender Hilfe bei Venenproblemen der beste Arzt aller Zeiten",
+      "time": 1782887601,
+      "translated": false
+    },
+    {
       "author_name": "Jeni Ay",
       "author_url": "https://www.google.com/maps/contrib/114634227130592108889/reviews",
       "language": "de",
@@ -256,6 +268,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq1lGLflAQHnsoTuKOBYWZOtF0Y0wV00nZjbYxszvLlfkFf7VB=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundliche Ärzte und Krankenschwestern!\nSelbst sehr alte Patienten werden bestens versorgt!",
+      "time": 1781722872,
+      "translated": true
+    },
+    {
+      "author_name": "Domenico Bartolomeo",
+      "author_url": "https://www.google.com/maps/contrib/100394797066981959089/reviews",
+      "language": "de",
+      "original_language": "it",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq1lGLflAQHnsoTuKOBYWZOtF0Y0wV00nZjbYxszvLlfkFf7VB=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr freundliche Ärzte und Krankenschwestern!\nSelbst sehr alte Patienten werden bestens versorgt!",
       "time": 1781722872,
       "translated": true
@@ -803,8 +827,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 317,
+  "rating": 4.6,
+  "reviewCount": 316,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:19.512Z"
+  "lastUpdated": "2026-07-22T07:32:38.790Z"
 }

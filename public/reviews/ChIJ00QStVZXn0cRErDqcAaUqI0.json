@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "David Vogt",
+      "author_url": "https://www.google.com/maps/contrib/108362167856408400533/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2z4Zt9exoKY6OvngmHsWgRrb3CTbpG5oAbDbFNwYiAZ82sQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Habe bei einem akuten Problem kompetente und hilfreiche Behandlung bekommen. Vielen Dank dafür!",
+      "time": 1783879247,
+      "translated": false
+    },
+    {
       "author_name": "Werner Herkert",
       "author_url": "https://www.google.com/maps/contrib/108640293843129131177/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAU_aTwrmAXv16RMxsP3ZSeZ-xBpTCrVj1zxos2goUor9rug=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war mit meine Frau da und hatten beide ein Anliegen\nWir wurden sehr gut aufgenommen ,alles ging unkompliziert und schnell\nIch bin sehr zufrieden mit der Behandlung. Die Ärztin war freundlich, hat sich Zeit genommen und alles verständlich erklärt. Ich habe mich gut aufgehoben gefühlt und hatte den Eindruck, dass sie sehr kompetent ist",
+      "time": 1782730799,
+      "translated": false
+    },
+    {
+      "author_name": "kos kos",
+      "author_url": "https://www.google.com/maps/contrib/116609744344853855322/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAU_aTwrmAXv16RMxsP3ZSeZ-xBpTCrVj1zxos2goUor9rug=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war mit meine Frau da und hatten beide ein Anliegen\nWir wurden sehr gut aufgenommen ,alles ging unkompliziert und schnell\nIch bin sehr zufrieden mit der Behandlung. Die Ärztin war freundlich, hat sich Zeit genommen und alles verständlich erklärt. Ich habe mich gut aufgehoben gefühlt und hatte den Eindruck, dass sie sehr kompetent ist",
       "time": 1782730799,
       "translated": false
@@ -454,5 +478,5 @@
   "rating": 5,
   "reviewCount": 18,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:18.658Z"
+  "lastUpdated": "2026-07-22T07:32:37.875Z"
 }

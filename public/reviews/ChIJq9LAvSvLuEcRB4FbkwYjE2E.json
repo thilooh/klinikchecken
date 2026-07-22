@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "J. M.",
+      "author_url": "https://www.google.com/maps/contrib/106815345593008701377/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2UkYL3QLelm3yu31lt-5A0elY7SChZ-xuFxHhCUKaS5bD_Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor ein paar Wochen zu einem Beratungstermin bei Herrn Dr. Kusenack. Die Lipödem-Beratung hat zwar ca. 180€ gekostet (inkl. Ultraschall der Beinvenen) ist aus meiner Sicht aber mehr als gerechtfertigt, da Herr Dr. Kusenack sich sehr ausführlich Zeit nimmt. Ich habe mich sehr wohl gefühlt, obwohl ich auch nervös war, wie der Termin ablaufen wird. Es wurden verschiedene (konservative) Therapieformen empfohlen und nicht nur die OP als Lösung genannt, von der die Praxis selbst natürlich profitieren könnte. Danke für die transparente, ausführliche und empathische Beratung. Das erlebt man leider nicht immer so.",
+      "time": 1784629218,
+      "translated": false
+    },
+    {
       "author_name": "M E",
       "author_url": "https://www.google.com/maps/contrib/100699053884029620961/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKp4Qvz_8N1eOwH-0QDBK-Lhchn90PlJHtsDSuJi5t_ePW15w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin mit meiner Behandlung bei Dr. Kusenack sehr zufrieden. Das gesamte Praxisteam ist freundlich, hilfsbereit und sehr gut organisiert. Ich habe mich von Anfang an gut aufgehoben gefühlt. Dr. Kusenack nimmt sich Zeit, erklärt alles verständlich und geht auf Fragen ein. Die Behandlung verlief professionell und angenehm. Ich kann die Praxis mit gutem Gewissen weiterempfehlen. Vielen Dank an das gesamte Team!",
+      "time": 1782727325,
+      "translated": false
+    },
+    {
+      "author_name": "Negin Nazer",
+      "author_url": "https://www.google.com/maps/contrib/117311323401838725061/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKp4Qvz_8N1eOwH-0QDBK-Lhchn90PlJHtsDSuJi5t_ePW15w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin mit meiner Behandlung bei Dr. Kusenack sehr zufrieden. Das gesamte Praxisteam ist freundlich, hilfsbereit und sehr gut organisiert. Ich habe mich von Anfang an gut aufgehoben gefühlt. Dr. Kusenack nimmt sich Zeit, erklärt alles verständlich und geht auf Fragen ein. Die Behandlung verlief professionell und angenehm. Ich kann die Praxis mit gutem Gewissen weiterempfehlen. Vielen Dank an das gesamte Team!",
       "time": 1782727325,
       "translated": false
@@ -92,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKe_UR3SDEQU4CgrOiNiC8yKSiON9Nh6fqLSICDZ0ezOe-Xqw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Wenn ich könnte würde ich mehr als fünf Sterne vergeben.Ich bin total begeistert,selten so einen sympathischen Arzt  erlebt!Die Op verlief reibungslos und die örtliche Betäubung war völlig ausreichend.",
+      "time": 1782122473,
+      "translated": false
+    },
+    {
+      "author_name": "Christina Siogas",
+      "author_url": "https://www.google.com/maps/contrib/115928813861826728590/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKe_UR3SDEQU4CgrOiNiC8yKSiON9Nh6fqLSICDZ0ezOe-Xqw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Wenn ich könnte würde ich mehr als fünf Sterne vergeben.Ich bin total begeistert,selten so einen sympathischen Arzt  erlebt!Die Op verlief reibungslos und die örtliche Betäubung war völlig ausreichend.",
       "time": 1782122473,
       "translated": false
@@ -579,11 +615,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 80,
+  "reviewCount": 81,
   "summary": [
     "Dr. Kusenack nimmt sich außergewöhnlich viel Zeit — Patienten reisen teils extra aus dem Ausland an",
     "Krampfader-Behandlungen mit sehr hoher Erfolgsrate, persönliche Nachsorge noch am OP-Abend",
     "Familiäre, vertrauensvolle Atmosphäre — auch Angehörige werden daraufhin Patienten"
   ],
-  "lastUpdated": "2026-07-19T07:25:10.211Z"
+  "lastUpdated": "2026-07-22T07:32:28.925Z"
 }

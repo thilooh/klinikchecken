@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Monika Kemnitz",
+      "author_url": "https://www.google.com/maps/contrib/102172666454619251320/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKC_IlD0racUqlUjtNYjCGt-V_ZWDEj3eLKNKtatexmvKUWsw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784637742,
+      "translated": false
+    },
+    {
       "author_name": "L ATA",
       "author_url": "https://www.google.com/maps/contrib/100669858916736864521/reviews",
       "language": "de",
@@ -265,11 +275,11 @@
     }
   ],
   "rating": 3.2,
-  "reviewCount": 42,
+  "reviewCount": 43,
   "summary": [
     "Erreichbarkeit und Ton am Telefon sowie an der Rezeption werden häufig kritisiert",
     "Hautkrebsscreening als oberflächlich empfunden, Zusatzleistungen werden aktiv angeboten",
     "Lange Wartezeiten auf Termine und Besprechungstermine wiederholt erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:10.443Z"
+  "lastUpdated": "2026-07-22T07:32:29.174Z"
 }

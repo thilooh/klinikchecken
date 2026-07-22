@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Detlef Sobczak",
+      "author_url": "https://www.google.com/maps/contrib/117843575529864293744/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrxL1LPh8C9yNZ3RZ2UEiB6VeJBi8jRZSjTD8hBUbgUu5nQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "sehr freundliche Mitarbeiter und super Team 👍👍👍",
+      "time": 1784636126,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrich Hermel",
+      "author_url": "https://www.google.com/maps/contrib/100131429619357500699/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGLrbzHl3KjBq9Zf1sj-K-dI5Pa6CJUJxKCOOziXN-qmrWiA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784546191,
+      "translated": false
+    },
+    {
       "author_name": "J. C.",
       "author_url": "https://www.google.com/maps/contrib/112613706528924115094/reviews",
       "language": "de",
@@ -25,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/103669504175603131515/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVAxPwHhB5GCX4fgScMJfX1yoQLv0Tk_c4aeLAwkbVNTB2VA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die Einrichtung und das Objekt eine absolute 10/10. Das Personal ist super lieb. Würde jederzeit wieder herkommen.",
+      "time": 1784025809,
+      "translated": false
+    },
+    {
       "author_name": "Jörg Duli",
       "author_url": "https://www.google.com/maps/contrib/111261981921270195236/reviews",
       "language": "de",
@@ -32,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNxCsasDh-R5ev_T9be_kyYQdwwNPPyV_DNd_IJeRMg_-l9Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Team, schöne Räumlichkeiten,  alles ganz modern. Vielen Dank an alle.",
+      "time": 1784025482,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg Duli",
+      "author_url": "https://www.google.com/maps/contrib/111261981921270195236/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNxCsasDh-R5ev_T9be_kyYQdwwNPPyV_DNd_IJeRMg_-l9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super nettes Team, schöne Räumlichkeiten,  alles ganz modern. Vielen Dank an alle.",
       "time": 1784025482,
       "translated": false
@@ -862,11 +908,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 462,
+  "reviewCount": 464,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-19T07:25:23.207Z"
+  "lastUpdated": "2026-07-22T07:32:42.640Z"
 }

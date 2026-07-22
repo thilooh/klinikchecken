@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Kai Reitzuch",
+      "author_url": "https://www.google.com/maps/contrib/100736863080624054061/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHiJM8J87Oevdr1rBW1e54n6ffZvrIh3DtK6cUvRZ1zxYg1F926Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784628064,
+      "translated": false
+    },
+    {
       "author_name": "Roland Müller",
       "author_url": "https://www.google.com/maps/contrib/117160885011387991445/reviews",
       "language": "de",
@@ -68,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfMY-98kBB4q3YA9N6Kwg8i4MvoHupyF4aryat8aW6oBYCbSFs=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Alles Super...",
+      "time": 1782225384,
+      "translated": false
+    },
+    {
+      "author_name": "Sasa Nagel",
+      "author_url": "https://www.google.com/maps/contrib/104882460464944974298/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfMY-98kBB4q3YA9N6Kwg8i4MvoHupyF4aryat8aW6oBYCbSFs=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Alles Super...",
       "time": 1782225384,
       "translated": false
@@ -443,8 +465,8 @@
       "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 122,
+  "rating": 4.1,
+  "reviewCount": 123,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:19.724Z"
+  "lastUpdated": "2026-07-22T07:32:39.020Z"
 }

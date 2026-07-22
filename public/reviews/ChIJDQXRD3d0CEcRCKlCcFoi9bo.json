@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "R. Rattei",
+      "author_url": "https://www.google.com/maps/contrib/115358531382191331506/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFpbiC31aogXHyIv8Zn7T0nV3-7768cc1klGNyJkzqdWhxew=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das ist schon seltsam,seit April 2024 nehme ich mehrere Termine war und werde jedesmal aus fadenscheinigebn Gründen wieder weggeschickt....Der Höhepunkt war,das man angeblich mit mir telefonisch einen neuen Termin vereinbart hätte.....",
+      "time": 1784530773,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Ehlert",
       "author_url": "https://www.google.com/maps/contrib/108462515015854492873/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjFpH9Pu4X9RA5rb2FgwUm_fazUg64q399fC5XopsY9OWEm_Rp2g=s128-c0x00000000-cc-rp-mo-ba5",
@@ -221,12 +233,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 14,
+  "rating": 4.3,
+  "reviewCount": 15,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:56.660Z"
+  "lastUpdated": "2026-07-22T07:33:17.679Z"
 }

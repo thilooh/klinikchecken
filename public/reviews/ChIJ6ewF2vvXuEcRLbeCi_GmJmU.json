@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Ghassan Albakri",
+      "author_url": "https://www.google.com/maps/contrib/103097168958917405837/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTBzETudteb3-xFnJXZmsw2u0ueWUroJN7BTppbFLlmzG9iA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider war meine Erfahrung in dieser Praxis sehr enttäuschend.\n\nIch kam wegen einer Warze am Fuß und fragte zunächst höflich nach einem Termin. Mir wurde gesagt, dass ich nur morgen zwischen 8:00 und 9:00 Uhr kommen könne. Da ich zu dieser Zeit arbeiten muss, bat ich darum, einen regulären Termin zu vereinbaren.\n\nStatt im Terminkalender nachzusehen, wurde mir sofort gesagt, dass keine Termine verfügbar seien. Auf meine Bitte, die Ärztin zu fragen, ob sie mir zumindest ein Rezept für ein geeignetes Medikament ausstellen könnte, wurde ebenfalls ohne Entgegenkommen abgelehnt.\n\nBesonders enttäuschend war jedoch die Art der Kommunikation. Ich fühlte mich weder ernst genommen noch freundlich behandelt. Die Mitarbeiterin wirkte genervt, unfreundlich und zeigte keinerlei Interesse, gemeinsam eine Lösung zu finden.\n\nEin respektvoller Umgang mit Patienten sollte selbstverständlich sein. Aufgrund dieser Erfahrung kann ich diese Praxis leider nicht empfehlen.",
+      "time": 1784643492,
+      "translated": false
+    },
+    {
+      "author_name": "Klaus Schulze",
+      "author_url": "https://www.google.com/maps/contrib/102056198081023403029/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLGf27Hx4_RaIjHkgerxt_EVhOrbGveqf58IZWt73dqIokI5NIJA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein erster Besuch in dieser Praxis war sehr wertvoll und die Behandlung hoffentlich erfolgreich.\nMeine Zuversicht ist groß",
+      "time": 1784579603,
+      "translated": false
+    },
+    {
       "author_name": "Drohnen Birne",
       "author_url": "https://www.google.com/maps/contrib/107940827366033961011/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK92r0y6SntP95BpgD0P-ZilCP683325Gz0AJ0hsW327fQmYw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war heute zu zwei kleinen Eingriffen in der Praxis von Dr.Dith,und kann nur mein Danke aussprechen für die schnelle ,professionelle Hilfe  ,die mir zuteil wurde.\nAlles lief ,obwohl ich keinen festen Termin hatte,reibungslos ab.Sowohl die Ärztin als auch ihre Assistentin waren sehr fürsorglich.\nMan spürt beim ganzen Team,dass ihnen das Wohlergehen der Patienten  wichtig ist.\nIch möchte mich auf diesem Wege nochmals herzlich bedanken.\nKann die Praxis nur weiterempfehlen.",
+      "time": 1783440109,
+      "translated": false
+    },
+    {
+      "author_name": "Rosemarie Letizia",
+      "author_url": "https://www.google.com/maps/contrib/111658827093968693556/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK92r0y6SntP95BpgD0P-ZilCP683325Gz0AJ0hsW327fQmYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war heute zu zwei kleinen Eingriffen in der Praxis von Dr.Dith,und kann nur mein Danke aussprechen für die schnelle ,professionelle Hilfe  ,die mir zuteil wurde.\nAlles lief ,obwohl ich keinen festen Termin hatte,reibungslos ab.Sowohl die Ärztin als auch ihre Assistentin waren sehr fürsorglich.\nMan spürt beim ganzen Team,dass ihnen das Wohlergehen der Patienten  wichtig ist.\nIch möchte mich auf diesem Wege nochmals herzlich bedanken.\nKann die Praxis nur weiterempfehlen.",
       "time": 1783440109,
       "translated": false
@@ -752,11 +788,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 231,
+  "reviewCount": 233,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:26.669Z"
+  "lastUpdated": "2026-07-22T07:32:46.295Z"
 }

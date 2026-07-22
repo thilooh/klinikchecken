@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "Julia",
+      "author_url": "https://www.google.com/maps/contrib/106474631732643140200/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF1Ow9TvFIthaVJEedpaHPcrGcstU-D0cCRimoJKlbBDTMz4GhnQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784671335,
+      "translated": false
+    },
+    {
+      "author_name": "Veki",
+      "author_url": "https://www.google.com/maps/contrib/112596330584256779176/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuS3qG7_GOJvPUWuxo89rZhFoZreHamibNjWKw5A-CPf9NVAQ50w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784658687,
+      "translated": false
+    },
+    {
+      "author_name": "Ralf Novak",
+      "author_url": "https://www.google.com/maps/contrib/107709234733770471523/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkgDjgVJqBQ21xGw0Ra8m4oraHsExFnIsMVFp6FxG5CZi1C_8P=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Großes Lob an Frau Dr. Mokou, sehr gute fachliche Kompetenz und locker im Umgang mit den Patienten vor einer kleinen OP.",
+      "time": 1784637681,
+      "translated": false
+    },
+    {
+      "author_name": "Seher van Houdt",
+      "author_url": "https://www.google.com/maps/contrib/115849649348875782413/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKV13SEueJxzCTLeKA1oJEhnaK6ZXnguWy7Z_YJULziXDopKg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Erst einmal, komisch, dass die schlechten Bewertungen die sich über die Jahre angesammelt haben weg sind.\nTelefonisch kann man niemanden erreichen, auch E-Mail Adresse ist nicht vorhanden. Ich kann seit Wochen nicht fragen, wie die Blutergebnisse sind.\nDie Wartezeiten in der Praxis sind meistens sehr lange. Finde ich katastrophal.\nBisher war ich bei Frau Dr. Stanciu in Behandlung und ich muss sagen, dass Sie eine sehr gute Ärzten ist. Sie nimmt sich Zeit und versucht die Ursachen der Probleme zu finden. Nur wegen ihr gehe ich noch in diese Praxis.",
+      "time": 1784040580,
+      "translated": false
+    },
+    {
       "author_name": "Ramona Rohr",
       "author_url": "https://www.google.com/maps/contrib/101050637853044074846/reviews",
       "language": "de",
@@ -865,12 +909,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 198,
+  "rating": 4.5,
+  "reviewCount": 199,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:48.923Z"
+  "lastUpdated": "2026-07-22T07:33:09.458Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Gülbeyaz Kiraz",
+      "author_url": "https://www.google.com/maps/contrib/113001210543023673567/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnwrvxqWjRMbbmhDmlMGx7nB_yYcMhU6A7W7ym9a3DC7vdAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute das erste mal bei Frau Dr. Jetter. Sie ist eine äußerst kompetente Ärztin. Die Diagnostik und Therapie wurden schnell und fachlich sehr professionell eingeleitet. Man fühlt sich bei ihr bestens aufgehoben. Auch das gesamte Praxisteam ist sehr herzlich, freundlich und hilfsbereit. Ich kann Frau Dr. Jetter uneingeschränkt weiterempfehlen.",
+      "time": 1784622483,
+      "translated": false
+    },
+    {
+      "author_name": "M Lange",
+      "author_url": "https://www.google.com/maps/contrib/100919704758879157524/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlpU8-PmHf0oqE2Q8fJ1UQlVb3ndrlo1xXSztAqDw3GJocOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784450076,
+      "translated": false
+    },
+    {
       "author_name": "Judith C.",
       "author_url": "https://www.google.com/maps/contrib/114972346397927093691/reviews",
       "language": "de",
@@ -13,11 +35,33 @@
       "translated": false
     },
     {
+      "author_name": "Judith C.",
+      "author_url": "https://www.google.com/maps/contrib/114972346397927093691/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYxLJQ4Wa4DU9twviaQGa171uCJe0fRK6kE7cBP4lAEYxHMRnokA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Schrecklich... die Entfernung eines  kleinen Leberfleckes unter dem Kieferknochen hat bei mir eine riesengroße Narbe in Form einer Spinne hinterlassen... Dr. Broichmann wirkte eher wie ein Metzger, in jeder Hinsicht...",
+      "time": 1784024689,
+      "translated": false
+    },
+    {
       "author_name": "Selim Bey",
       "author_url": "https://www.google.com/maps/contrib/109023124181725099947/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUfUdKQ2v1BlzthEnxur5lN07NOjOVckn_3tfkXtuqAzEbag=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783946402,
+      "translated": false
+    },
+    {
+      "author_name": "Selim Bey",
+      "author_url": "https://www.google.com/maps/contrib/109023124181725099947/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUfUdKQ2v1BlzthEnxur5lN07NOjOVckn_3tfkXtuqAzEbag=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783946402,
       "translated": false
@@ -773,12 +817,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 145,
+  "rating": 4.4,
+  "reviewCount": 144,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:36.339Z"
+  "lastUpdated": "2026-07-22T07:32:56.510Z"
 }

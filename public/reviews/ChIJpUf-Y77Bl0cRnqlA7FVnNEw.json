@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Юлия В",
+      "author_url": "https://www.google.com/maps/contrib/112447301375974708331/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMyn4T2dee8c0fBU8shxQvdHBDDi0PwazlpjEjFI2PxnKI_A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784587402,
+      "translated": false
+    },
+    {
       "author_name": "Jennifer-Lorena Navarrete Conrad",
       "author_url": "https://www.google.com/maps/contrib/116456413697023338354/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcokv-O_LDNFLTzFJKoOfJdRDNMlRjU9MQ4KYwxD70p5dttyXTFA=s128-c0x00000000-cc-rp-mo",
@@ -306,11 +316,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 58,
+  "reviewCount": 59,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:30.345Z"
+  "lastUpdated": "2026-07-22T07:32:50.160Z"
 }

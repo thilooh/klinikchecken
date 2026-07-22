@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Roberto Bellotti",
+      "author_url": "https://www.google.com/maps/contrib/111059465570481867115/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwrnfzMyP3hxk9965VcE1pZxdFtVp8inBX_49U7tMjRa3HrA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Erfahrung bei Frau Dr.Venten war mehr als Positiv. Die 5 Sterne sind zu 100% verdient. Eventuell wäre ein 6 Stern durchaus verdient aber leider kann ich nur 5 Sterne vergeben. Meine Frau war als ‚Angstpatient‘ bei Frau Dr.Venten und Frau Dr.Venten alles mögliche daran gesetzt Ihr die Angst zu nehmen. Im ganzen und kurz gesagt. Es war einfach molto bene und meine Frau war von Frau Dr.Venten mehr als positiv überrascht. Vielen lieben Dank im Namen meiner Frau Brigitte Bellotti GRAZIE !!!!",
+      "time": 1784651481,
+      "translated": false
+    },
+    {
       "author_name": "Lilia Maas",
       "author_url": "https://www.google.com/maps/contrib/107831800380594079811/reviews",
       "language": "de",
@@ -509,12 +521,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 105,
+  "rating": 4.8,
+  "reviewCount": 102,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:39.534Z"
+  "lastUpdated": "2026-07-22T07:32:59.695Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Gürkan",
+      "author_url": "https://www.google.com/maps/contrib/102021488414470743999/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt_sEf7d1IUwnG4Q7X1XvgfHQV9w9i48sTYfNQKuWNf1xLYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784641356,
+      "translated": false
+    },
+    {
       "author_name": "Caro Ters",
       "author_url": "https://www.google.com/maps/contrib/100295418762104529772/reviews",
       "language": "de",
@@ -580,11 +590,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 117,
+  "reviewCount": 118,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:27.961Z"
+  "lastUpdated": "2026-07-22T07:32:47.658Z"
 }

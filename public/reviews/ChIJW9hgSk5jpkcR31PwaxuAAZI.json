@@ -61,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Kitty",
+      "author_url": "https://www.google.com/maps/contrib/109021320830028642264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoitG2wNinOaQ_81kEkcrY0HZL_Jaw-VPDSU1Fcn_bwpUhSQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr unfreundliche Schwester am Empfang. Bekam nicht mal einen Termin beim Doktor...\nWieder auf \"anrufen\" hingewiesen; was ich mehrfach gemacht hatte vorher, wäre nur schön wenn diese \" Damen\" auch mal ran gehen würden.",
+      "time": 1781887021,
+      "translated": false
+    },
+    {
       "author_name": "melonenhd xd",
       "author_url": "https://www.google.com/maps/contrib/102102399330156564254/reviews",
       "language": "de",
@@ -170,6 +182,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaZhKYPC7b3BAR99_hpd6abYJ_k3T-eqWugj_tfPb7Q_8NMw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Monaten",
+      "text": "",
+      "time": 1771502026,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Rühr",
+      "author_url": "https://www.google.com/maps/contrib/101376426048667298796/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaZhKYPC7b3BAR99_hpd6abYJ_k3T-eqWugj_tfPb7Q_8NMw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
       "text": "",
       "time": 1771502026,
       "translated": false
@@ -324,5 +346,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-19T07:25:38.474Z"
+  "lastUpdated": "2026-07-22T07:32:58.744Z"
 }

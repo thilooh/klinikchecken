@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Susi Vela",
+      "author_url": "https://www.google.com/maps/contrib/106917582389483726407/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtbTyOxcplkMn7utE0RMz-CFVmd3NIfT0OV2FOurkVLLPe8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784632822,
+      "translated": false
+    },
+    {
       "author_name": "Yildirim ibrahim",
       "author_url": "https://www.google.com/maps/contrib/113955964521251026731/reviews",
       "language": "de",
@@ -30,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLie1V9jp_h4g5LLXWVOwobpzAgoDBYYvp_cX57Uq92VJrN5A=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1783955560,
+      "translated": false
+    },
+    {
+      "author_name": "Ernst Kreuzer",
+      "author_url": "https://www.google.com/maps/contrib/100962054906501855665/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLie1V9jp_h4g5LLXWVOwobpzAgoDBYYvp_cX57Uq92VJrN5A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1783955560,
       "translated": false
@@ -772,11 +792,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 270,
+  "reviewCount": 271,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-19T07:25:31.628Z"
+  "lastUpdated": "2026-07-22T07:32:51.542Z"
 }

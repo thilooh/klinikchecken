@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "klaudius freitag",
+      "author_url": "https://www.google.com/maps/contrib/101337356524869498422/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb2XVvDljKYF1Us70BVINGK9V6-H9-7CdNyhuuSjnSVvTyHLhT7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784648040,
+      "translated": false
+    },
+    {
       "author_name": "Enes Akar",
       "author_url": "https://www.google.com/maps/contrib/111915037030030669346/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxsi7RbtxIyvQs51gjbVDS7Ce9vi4IVVCf7z39HDHrO9XRgA=s128-c0x00000000-cc-rp-mo",
@@ -536,11 +546,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 43,
+  "reviewCount": 44,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-07-19T07:25:51.925Z"
+  "lastUpdated": "2026-07-22T07:33:12.606Z"
 }

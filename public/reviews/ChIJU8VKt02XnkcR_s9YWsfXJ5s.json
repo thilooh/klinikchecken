@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "C. K.",
+      "author_url": "https://www.google.com/maps/contrib/118131771591942905228/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzB6-p_wWflsApgM4sroOYKcLgemYnmcSOYQFqSd7A3dYvOw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784577774,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Gull",
+      "author_url": "https://www.google.com/maps/contrib/115591044138852275943/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHiHPvPrNkRCUve88NGM6pVv-u04x44nIPRg8rWeEhv_S7DA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein ganz freundliches Team mit einer kompetenten Ärztin. Wir fühlen uns als Familie in dieser Praxis wirklich sehr gut aufgehoben. Man nimmt sich genug Zeit, um alles zu besprechen. Auch die kurzfristige Terminvereinbarung lief absolut reibungslos und Wartezeit gab es auch keine. So muss es sein!",
+      "time": 1784541295,
+      "translated": false
+    },
+    {
+      "author_name": "Mari on",
+      "author_url": "https://www.google.com/maps/contrib/100966721408926244700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZNXTqKIEuDIRKJtOhsRZETmNcDqhaNeG_XmTX3AdrqiNOMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum ersten Mal in der Praxis und habe mich direkt wohlgefühlt. Das gesamte Team ist sehr freundlich und die Praxis ist modern und schön eingerichtet. Praktisch sind auch die Parkmöglichkeiten in der Parkgarage gegenüber.\n\nFrau Dr. Gkata ist eine sehr sympathische und kompetente Ärztin. Sie hat sich Zeit für mich genommen, aufmerksam zugehört und alle meine Fragen in Ruhe beantwortet. Ich habe mich bei ihr von Anfang an sehr gut aufgehoben gefühlt, da sie individuell auf ihre Patienten eingeht. Ich kann Frau Dr. Gkata von Herzen weiterempfehlen.",
+      "time": 1784458158,
+      "translated": false
+    },
+    {
       "author_name": "Sofia Ntisiou",
       "author_url": "https://www.google.com/maps/contrib/110651248258424463770/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqSfPqVZnSjJeM61On-ttLypSUXtz4YgNviKHpNoBHz1MG6Yz=s128-c0x00000000-cc-rp-mo",
@@ -688,11 +722,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 152,
+  "reviewCount": 154,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:28.815Z"
+  "lastUpdated": "2026-07-22T07:32:48.575Z"
 }

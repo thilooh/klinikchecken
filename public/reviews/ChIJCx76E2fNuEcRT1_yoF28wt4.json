@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "C.",
+      "author_url": "https://www.google.com/maps/contrib/118072403498025203884/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlMT0QGCpq0fLFub2KQYhTJJoBszja9s55NS3z3WMchIyk3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fr. Fritsche hat mich professionel und super höflich behandelt! Und das beim Dienst in der Notaufnahme. Wo erlebt man noch sowas? Also absolute Empfehlung für Fr. zukünftige Dr. Hannah Fritsche.",
+      "time": 1784672903,
+      "translated": false
+    },
+    {
+      "author_name": "Jadwiga Pietraszewska",
+      "author_url": "https://www.google.com/maps/contrib/109555034575282271865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9DXKCG7Lw6VkP2HhzYcH9g1J9YNxE5BkmX3Cl8YCRYmN1SQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr geehrte Damen und Herren\nIch bin behandelt in Remigius Klinik im Park .\nBei Haut Arzt als Patientin , für  Entfernungen  von anomalie , leider sind falsche Stellen entfernt worden !!!\nMein Mann  seid September 2025 leidet unter Alergii , leider kann nix fest gestellt worden !\nAber bei Blut Abnahme ist nix passiert weil da ist ein Feller gelaufen und Blut Konsistenz ist fast eingefroren ? Ist das möglich?🤔\nLiebe Leute für Patient ist sehr unangenehm und ein unprofessionelles  Verhalten .\nDer Patient weißt immer nicht was er hat.seit 1 Jahr ist das NORMAL?\nBitte Sie um ein Antwort\nMit freundlichen Grüßen\nPietraszewska",
+      "time": 1784561320,
+      "translated": false
+    },
+    {
       "author_name": "Nicole R",
       "author_url": "https://www.google.com/maps/contrib/107570312314361749844/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6G7Gpu_flBI0hAspR6DYF7Z-I-xHYrXzcBJL-1RiWvYfU8Q=s128-c0x00000000-cc-rp-mo",
@@ -18,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJVVSc0SRxbBCiL9L2_WuXVq9D5II4Bktu34rtaa4MC63eVg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super Team, freundlich und gut organisiert!\nWürde wieder hingehen.",
+      "time": 1783940280,
+      "translated": false
+    },
+    {
+      "author_name": "Micha Eirmbter",
+      "author_url": "https://www.google.com/maps/contrib/115135560191211510509/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJVVSc0SRxbBCiL9L2_WuXVq9D5II4Bktu34rtaa4MC63eVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super Team, freundlich und gut organisiert!\nWürde wieder hingehen.",
       "time": 1783940280,
       "translated": false
@@ -804,11 +840,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 421,
+  "reviewCount": 423,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-07-19T07:25:45.982Z"
+  "lastUpdated": "2026-07-22T07:33:06.358Z"
 }

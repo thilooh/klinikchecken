@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Eirini",
+      "author_url": "https://www.google.com/maps/contrib/109392943762188561875/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRYCftubzSBzawOCQJ3FEmpRk7G5mi_ySN3OY53fVUyqgJ1aQ7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Beratung selbst war schnell und in Ordnung. Für eine Praxis, die man selbst bezahlen muss, ist das Sich-Lustig-Machen über den Nachnamen absolut inakzeptabel.",
+      "time": 1784554537,
+      "translated": false
+    },
+    {
+      "author_name": "Kai Reifer",
+      "author_url": "https://www.google.com/maps/contrib/109719705063957139412/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjgNaip1Xlq2YZ4arJZ5Pg3B7H5GMIYC52qvloGUVYCtlW5g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Im Gegensatz zu anderen Praxen eine klare Beratung.",
+      "time": 1784488399,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Neumann",
       "author_url": "https://www.google.com/maps/contrib/114285947104224064368/reviews",
       "language": "de",
@@ -856,7 +880,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 440,
+  "reviewCount": 442,
   "summary": [],
-  "lastUpdated": "2026-07-19T07:25:17.562Z"
+  "lastUpdated": "2026-07-22T07:32:36.735Z"
 }
