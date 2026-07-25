@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Patric Sußmann",
+      "author_url": "https://www.google.com/maps/contrib/112100047777185039826/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1DQA3nShHDgKj8WuD1oJ5e3Zluu7DCQ2jdKd04hgdjjjeKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super freundlich die beiden Ärztinnen Frau Kollmann und Frau Steiner",
+      "time": 1784804002,
+      "translated": false
+    },
+    {
+      "author_name": "Mahmoud Abu Enaiz",
+      "author_url": "https://www.google.com/maps/contrib/107839624257001246068/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWobDXmyUDaznnsH6zJ3BTPjzfZ4K0lfcTvnD4sDfGylp6og6U_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784705714,
+      "translated": false
+    },
+    {
       "author_name": "Sohail Karokhil",
       "author_url": "https://www.google.com/maps/contrib/100132539961814053038/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXrnGzTkBef5locpn2jJnPD2jonSxdEa2xcvgP28ISUae4Tw=s128-c0x00000000-cc-rp-mo",
@@ -976,11 +998,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 313,
+  "reviewCount": 315,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:56.732Z"
+  "lastUpdated": "2026-07-25T07:13:36.055Z"
 }

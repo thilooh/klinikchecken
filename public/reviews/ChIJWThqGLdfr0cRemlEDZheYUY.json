@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Torsten Behrens",
+      "author_url": "https://www.google.com/maps/contrib/106919309045714366029/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiagSV2zoTbdUvd2Ahtj_1mn6AkXjxXTI3aU9-i3dIUqzU3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schönes Zimmer und sehr gutes und nettes Personal",
+      "time": 1784782336,
+      "translated": false
+    },
+    {
       "author_name": "Detlef Sobczak",
       "author_url": "https://www.google.com/maps/contrib/117843575529864293744/reviews",
       "language": "de",
@@ -30,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6eVclTp-v_2hzSC4bN2igeDYdoac0fU5mqrXfdaunJPHn4w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war im MVZ für eine kleine OP.\nDer gesamte Ablauf war sehr gut strukturiert, klar und verständlich. Zu jeder Zeit hatte ich die Möglichkeit eine Schwester anzusprechen.\nAlle Schwestern und Ärzte haben eine unglaublich herzliche und führsorgliche Art.\nIch habe mich rund um wohl und gut aufgehoben gefühlt.\nEin großes Dankeschön an alle Schwestern der Komfortstation 1 sowie den Schwestern des Aufwachraumes.\nEin extra Danke geht an Herr Dr. Thierfelder, er hat mir meine Aufregung vor der Narkose genommen.\nDas gesamte Schwestern und Ärtzeteam ist einfach spitze.",
+      "time": 1784114577,
+      "translated": false
+    },
+    {
+      "author_name": "J. C.",
+      "author_url": "https://www.google.com/maps/contrib/112613706528924115094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6eVclTp-v_2hzSC4bN2igeDYdoac0fU5mqrXfdaunJPHn4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war im MVZ für eine kleine OP.\nDer gesamte Ablauf war sehr gut strukturiert, klar und verständlich. Zu jeder Zeit hatte ich die Möglichkeit eine Schwester anzusprechen.\nAlle Schwestern und Ärzte haben eine unglaublich herzliche und führsorgliche Art.\nIch habe mich rund um wohl und gut aufgehoben gefühlt.\nEin großes Dankeschön an alle Schwestern der Komfortstation 1 sowie den Schwestern des Aufwachraumes.\nEin extra Danke geht an Herr Dr. Thierfelder, er hat mir meine Aufregung vor der Narkose genommen.\nDas gesamte Schwestern und Ärtzeteam ist einfach spitze.",
       "time": 1784114577,
       "translated": false
@@ -908,11 +932,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 464,
+  "reviewCount": 465,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-22T07:32:42.640Z"
+  "lastUpdated": "2026-07-25T07:13:21.395Z"
 }

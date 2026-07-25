@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mesut Yilmaz",
+      "author_url": "https://www.google.com/maps/contrib/105175740330900269517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0ClqIfF7546n4g_Z5Tym9i_eao6juWQBr8dDpm_77f1ZuZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784820997,
+      "translated": false
+    },
+    {
       "author_name": "Galina Schreiner",
       "author_url": "https://www.google.com/maps/contrib/104937681644195518334/reviews",
       "language": "de",
@@ -355,12 +365,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 23,
+  "rating": 4.5,
+  "reviewCount": 24,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:33:12.393Z"
+  "lastUpdated": "2026-07-25T07:13:52.387Z"
 }

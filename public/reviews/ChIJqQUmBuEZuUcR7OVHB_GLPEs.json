@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Christine Rasche",
+      "author_url": "https://www.google.com/maps/contrib/113279195561131057378/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYdxZ-cR7dlscIY0x_FD7kjd4gOCcbeXlUc7oUks3L4Q5Paw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich als Patientin bei Herrn Kirsch durch sein professionelles, emphatisches und freundliches Auftreten als Arzt sehr gut aufgehoben und vor allem ernst genommen gefühlt. Ein großes „Danke“ auch an Herrn Hegemann, der sich ebenfalls (trotz wahnsinnig gut besuchter Praxis) Zeit für mein Anliegen genommen hat.\nIch bin selten einem so engagierten Ärzteteam begegnet!",
+      "time": 1784736296,
+      "translated": false
+    },
+    {
+      "author_name": "Gerhard Lilla",
+      "author_url": "https://www.google.com/maps/contrib/102360246857264492252/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTr8btMOfgBgonEzgthlm3xSyw2sNPUbdtZ68XmdLf-hRBDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "MVZ Hansaklinik!!\nDr. Kirsch hat bei mir ein Hautscreening durchgeführt!!\nSehr genau und penibel wirklich top !!!",
+      "time": 1784715111,
+      "translated": false
+    },
+    {
       "author_name": "Thomas A.",
       "author_url": "https://www.google.com/maps/contrib/111438776611772142642/reviews",
       "language": "de",
@@ -908,7 +932,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 286,
+  "reviewCount": 289,
   "summary": [],
-  "lastUpdated": "2026-07-22T07:32:33.916Z"
+  "lastUpdated": "2026-07-25T07:13:12.364Z"
 }

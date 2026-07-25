@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Romina Aßmann",
+      "author_url": "https://www.google.com/maps/contrib/109352273518741709338/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8kOMgqoRGoSHCQrq_peZhZGRWONSmcxfEsxcQi8cbeudt8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Linz und sein Team sind sehr freundlich und zuvorkommend. Ich habe mich dort ernst genommen gefühlt und alles in Ruhe erklärt bekommen. Dr. Linz schafft eine entspannte Atmosphäre und nimmt sich Zeit. Sein gesamtes Team ist sehr aufgeschlossen und hilfsbereit. Eine Änderung eines Rezepts klappte schnell und problemlos,  Terminvereinbarungen ebenfalls. Ebenso die Behandlung bei der Lympha Press lief einwandfrei. Dort die Kolleginnen sind überaus freundlich und emphatisch. Ich kann die Praxis sehr weiterempfehlen. Dir Praxis liegt sehr zentral und bietet ein Parkhaus sowie Aufzüge.",
+      "time": 1784791183,
+      "translated": false
+    },
+    {
       "author_name": "Kersten Brenneiser",
       "author_url": "https://www.google.com/maps/contrib/102954465884857697033/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe_G0g4C8jV6QUIA2lZSL0vgAP7Uh9310kDwMd-1p5wFXo_A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super sympathischer Arzt der nach einer eingehenden Voruntersuchung habe ich eine kompetente und vorallem nachvollziehbare Diagnose und Handlungsempfehlung bekommen.\nSo sollte es immer sein!!!!!",
+      "time": 1784285643,
+      "translated": false
+    },
+    {
+      "author_name": "Kersten Brenneiser",
+      "author_url": "https://www.google.com/maps/contrib/102954465884857697033/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe_G0g4C8jV6QUIA2lZSL0vgAP7Uh9310kDwMd-1p5wFXo_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super sympathischer Arzt der nach einer eingehenden Voruntersuchung habe ich eine kompetente und vorallem nachvollziehbare Diagnose und Handlungsempfehlung bekommen.\nSo sollte es immer sein!!!!!",
       "time": 1784285643,
       "translated": false
@@ -93,6 +117,18 @@
       "translated": false
     },
     {
+      "author_name": "Mirra Arto",
+      "author_url": "https://www.google.com/maps/contrib/111354300145104294778/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0JJHS1-DQWSjDNVS9ggFDqV_R5MBZak0VB2h6hjpeMNbuIckNXQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "vor einem Monat",
+      "text": "Die Ärzte in dieser Praxis sind hervorragend. Leider gab es eine Mitarbeiterin am Empfang, die absolut unfreundlich war. Sie zeigte keinerlei Verständnis für mein Anliegen und ging überhaupt nicht auf mein Problem ein. Das war sehr enttäuschend und stand im starken Kontrast zu den sonst positiven Erfahrungen in dieser Praxis.",
+      "time": 1782198296,
+      "translated": false
+    },
+    {
       "author_name": "Brigitte Merella-Heyde",
       "author_url": "https://www.google.com/maps/contrib/101568871870681938975/reviews",
       "language": "de",
@@ -148,6 +184,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfnVISgXpCMX_-JRWM7FqXRPdX28LvUHcbki1rfs-_XqN8sw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Nach langer erfolgloser Suche in der Region habe ich hier endlich kompetente Unterstützung als Lipödem-Patientin gefunden. Die Verordnungen für Lymphdrainage und Kompressionsversorgung wurden unkompliziert und individuell auf meine Bedürfnisse abgestimmt. Ich habe mich ernst genommen und gut betreut gefühlt. Vielen Dank!",
+      "time": 1782148567,
+      "translated": false
+    },
+    {
+      "author_name": "Brigitte Merella-Heyde",
+      "author_url": "https://www.google.com/maps/contrib/101568871870681938975/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfnVISgXpCMX_-JRWM7FqXRPdX28LvUHcbki1rfs-_XqN8sw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Nach langer erfolgloser Suche in der Region habe ich hier endlich kompetente Unterstützung als Lipödem-Patientin gefunden. Die Verordnungen für Lymphdrainage und Kompressionsversorgung wurden unkompliziert und individuell auf meine Bedürfnisse abgestimmt. Ich habe mich ernst genommen und gut betreut gefühlt. Vielen Dank!",
       "time": 1782148567,
       "translated": false
@@ -844,11 +892,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 231,
+  "reviewCount": 232,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-22T07:33:05.253Z"
+  "lastUpdated": "2026-07-25T07:13:44.931Z"
 }

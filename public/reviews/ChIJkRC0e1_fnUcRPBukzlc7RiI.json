@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Miriam Divya",
+      "author_url": "https://www.google.com/maps/contrib/104359904873376900170/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0MOB21QDGJmkv0Jwwmox4GnbjKpEOZbuW3MsJBzvi_hWZ8GplwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "I book an appointment online and it was cancelled because I did not answer a call made during one of my meetings. I then made a reservation on phone. The front office did not record it and on the appointment day told me that I had no appointment. After insisting that I had an appointment and explaining how unprofessional they were I was given a hurried appointment of barely 15 mins on the day after 1.5 hours or so. I now get an invoice of 149+Euro with a 16+Euros for \"ärztliche Beratung erhöter Zeitaufwand\" and 32+ euros for an \"Untersuchung\" that barely happened. I seem to the only one who faced this. And I can only assume that the office prefers German patients.",
+      "time": 1784899799,
+      "translated": false
+    },
+    {
       "author_name": "Ramona A.",
       "author_url": "https://www.google.com/maps/contrib/114231870253040723446/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm_KVkAvi0bNtBWqBchbANjmsxi5aQw2NUa1j2EldamlBXxTwP=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Vorsicht. Ich bin zur Behandlung gekommen, wurde nicht behandelt und erhielt trotzdem eine Rechnung. Der Umgang war für mich respektlos, unter anderem mit der Aussage, ich hätte \"Tausende Blutschwämmchen\". Das Wartezimmer wirkt hochwertig, das Behandlungszimmer machte auf mich keinen professionellen Eindruck. Für mich zählt hier offenbar die Abrechnung mehr als der Patient. Ich kann diese Praxis nicht empfehlen.",
+      "time": 1783624188,
+      "translated": false
+    },
+    {
+      "author_name": "Ramona A.",
+      "author_url": "https://www.google.com/maps/contrib/114231870253040723446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm_KVkAvi0bNtBWqBchbANjmsxi5aQw2NUa1j2EldamlBXxTwP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Vorsicht. Ich bin zur Behandlung gekommen, wurde nicht behandelt und erhielt trotzdem eine Rechnung. Der Umgang war für mich respektlos, unter anderem mit der Aussage, ich hätte \"Tausende Blutschwämmchen\". Das Wartezimmer wirkt hochwertig, das Behandlungszimmer machte auf mich keinen professionellen Eindruck. Für mich zählt hier offenbar die Abrechnung mehr als der Patient. Ich kann diese Praxis nicht empfehlen.",
       "time": 1783624188,
       "translated": false
@@ -511,8 +535,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 118,
+  "rating": 4.4,
+  "reviewCount": 119,
   "summary": [],
-  "lastUpdated": "2026-07-22T07:32:35.431Z"
+  "lastUpdated": "2026-07-25T07:13:13.915Z"
 }

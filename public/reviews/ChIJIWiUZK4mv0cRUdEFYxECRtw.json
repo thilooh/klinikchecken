@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marius W.",
+      "author_url": "https://www.google.com/maps/contrib/102978574992407620536/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl0He0URp9D8__msbxgDGbGUNlcXCETSAFTvrOoPmc6UrV3Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für eine Privatpraxis hätte ich deutlich mehr erwartet. Leider kam es wiederholt zu Fehlern, der Service war insgesamt nicht zufriedenstellend und die Behandlung konnte mich ebenfalls nicht überzeugen. Die Rechnungen fallen hingegen jedes Mal sehr hoch aus. Insgesamt habe ich in anderen Praxen, die sowohl Kassen- als auch Privatpatienten behandeln, deutlich bessere Erfahrungen gemacht.Frau Hölker selbst bekommt man nur selten zu Gesicht. Stattdessen wird die Behandlung häufig von angestellten Ärztinnen übernommen. Dabei hatte ich teilweise den Eindruck, dass die Verständigung aufgrund von Sprachbarrieren erschwert war, was zu Kommunikationsproblemen und unterschiedlichen Auffassungen hinsichtlich der Behandlung führen konnte.",
+      "time": 1784893024,
+      "translated": false
+    },
+    {
       "author_name": "Wulf",
       "author_url": "https://www.google.com/maps/contrib/114956632251196327938/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRuLzfEXjdtKz5Hrujz9DrWiAJEt4iXUHpyrXlCpaueiAyCwYo=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Fühle mich sehr gut behandelt",
+      "time": 1784209476,
+      "translated": false
+    },
+    {
+      "author_name": "Wulf",
+      "author_url": "https://www.google.com/maps/contrib/114956632251196327938/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRuLzfEXjdtKz5Hrujz9DrWiAJEt4iXUHpyrXlCpaueiAyCwYo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Fühle mich sehr gut behandelt",
       "time": 1784209476,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwELvrFUxAxTLHkqhileJ3QYy0P55BTm-mW6-GrJw0yEclUw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Termin bei Frau Ann-Chritine Glaser online gebucht. Sehr gründliche Untersuchung und wertvolle Tipps erhalten.\nIch kann die Praxis und Mitarbeiter nur empfehlen.",
+      "time": 1782392717,
+      "translated": false
+    },
+    {
+      "author_name": "Horst Derkum",
+      "author_url": "https://www.google.com/maps/contrib/101258662044086237927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwELvrFUxAxTLHkqhileJ3QYy0P55BTm-mW6-GrJw0yEclUw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Termin bei Frau Ann-Chritine Glaser online gebucht. Sehr gründliche Untersuchung und wertvolle Tipps erhalten.\nIch kann die Praxis und Mitarbeiter nur empfehlen.",
       "time": 1782392717,
       "translated": false
@@ -325,7 +361,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 65,
+  "reviewCount": 66,
   "summary": [],
-  "lastUpdated": "2026-07-22T07:32:30.096Z"
+  "lastUpdated": "2026-07-25T07:13:07.650Z"
 }

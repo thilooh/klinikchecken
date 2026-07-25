@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jakob Greß",
+      "author_url": "https://www.google.com/maps/contrib/116604115312595576334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdcdUe6EsYqhBG0lHAfaJzmd0qshYFISWh24yp9heGyIWydw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "10/10 Erfahrung.\nDr. Zimmer wirkt sehr sympathisch, kompetent und interessiert.\nAbsolut empfehlenswert!",
+      "time": 1784885251,
+      "translated": false
+    },
+    {
       "author_name": "Felix L",
       "author_url": "https://www.google.com/maps/contrib/116797425669134206309/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUiUNigVka90Cb20FN4ll2Z36SuzjmLYK45njz7GrX5cMwJw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schade, seit Juli 2026 nur noch mit Termin, dazu noch ziemlich unfreundlich!",
+      "time": 1784107113,
+      "translated": false
+    },
+    {
+      "author_name": "Felix L",
+      "author_url": "https://www.google.com/maps/contrib/116797425669134206309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUiUNigVka90Cb20FN4ll2Z36SuzjmLYK45njz7GrX5cMwJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr schade, seit Juli 2026 nur noch mit Termin, dazu noch ziemlich unfreundlich!",
       "time": 1784107113,
       "translated": false
@@ -52,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy8GbSOyajHLbmJry5cP2PSFwnpKzLE0kApCIl0D6ThdQCtg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783519527,
+      "translated": false
+    },
+    {
+      "author_name": "Manfred",
+      "author_url": "https://www.google.com/maps/contrib/109006521823762025557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy8GbSOyajHLbmJry5cP2PSFwnpKzLE0kApCIl0D6ThdQCtg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783519527,
       "translated": false
@@ -860,11 +894,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1113,
+  "reviewCount": 1114,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-22T07:32:50.846Z"
+  "lastUpdated": "2026-07-25T07:13:29.817Z"
 }

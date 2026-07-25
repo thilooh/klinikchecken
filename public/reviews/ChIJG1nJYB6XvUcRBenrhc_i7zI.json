@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Charles Bagarie",
+      "author_url": "https://www.google.com/maps/contrib/112692288391487092763/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu59xtIp_Uq8gN6gpANjty6svQvu1UCBPx7zTRQc1hHyvuXw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "I am going there for several years now and can confirm that it is a really pleasant place with nice service. Easy to take appointment online, you receive email confirmation and you go with no waiting times in the waiting room. They are highly qualified, doctors and assistant and all of them speak germans and english fluently. Plenty of parking spaces. Customer services is 10/10.",
+      "time": 1784873186,
+      "translated": false
+    },
+    {
       "author_name": "Michelle Marie Shockley",
       "author_url": "https://www.google.com/maps/contrib/115406371964881221583/reviews",
       "language": "de",
@@ -85,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Lotta Rothe",
+      "author_url": "https://www.google.com/maps/contrib/104781364219487281540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOguxCQ0tMHQmtxxr-NIDhrrnvkEYP2q-xS17Xh-HsWbA5xg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Super Ärzte und eine sehr gute Betreuung!",
+      "time": 1782468384,
+      "translated": false
+    },
+    {
       "author_name": "Reisefuchs",
       "author_url": "https://www.google.com/maps/contrib/103093640310579771365/reviews",
       "language": "de",
@@ -128,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbQQb6jm0Qg4xW-FuIDBSZEliQNo9bdcq-HGxl8dHHegknRO5H=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Freundlich, geringe Wartezeiten bei Termin und immer sehr kompetente Behandlung.",
+      "time": 1782365370,
+      "translated": false
+    },
+    {
+      "author_name": "Reisefuchs",
+      "author_url": "https://www.google.com/maps/contrib/103093640310579771365/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbQQb6jm0Qg4xW-FuIDBSZEliQNo9bdcq-HGxl8dHHegknRO5H=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Freundlich, geringe Wartezeiten bei Termin und immer sehr kompetente Behandlung.",
       "time": 1782365370,
       "translated": false
@@ -796,11 +832,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 229,
+  "reviewCount": 230,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:56.958Z"
+  "lastUpdated": "2026-07-25T07:13:36.293Z"
 }

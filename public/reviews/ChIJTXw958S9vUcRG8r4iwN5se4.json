@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "EH",
+      "author_url": "https://www.google.com/maps/contrib/109628482153989200382/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHuK7s2UgUPCovXx0XTlcppABpkpoAcU0ZYOP9hAO7HovNCQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mir einen Leberfleck an der Handfläche entfernen lassen. Da zu die Stelle sehr doof liegt und immer zur Bewegung kam kam es leider zur Entzündung daher hab ich vor dem Termin zum Fäden ziehen mehrmals die Praxis besucht. Dank der sehr aufmerksamen Behandlung von der Wundspezialistin Frau Seibert (Tut mir leid falls ich ihren Namen falsch geschrieben habe) habe ich mich sehr wohlgefühlt. Sie behandelt die Patienten als wären sie ihre Familie!",
+      "time": 1784722563,
+      "translated": false
+    },
+    {
       "author_name": "Gülbeyaz Kiraz",
       "author_url": "https://www.google.com/maps/contrib/113001210543023673567/reviews",
       "language": "de",
@@ -79,6 +91,18 @@
       "translated": false
     },
     {
+      "author_name": "Christian Taube",
+      "author_url": "https://www.google.com/maps/contrib/101561100148718892164/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXzbY6PZhEtMDzmZuTE1fPP7rUL6jvmmTmQFmdDjF8TLCmuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Die telefonische Preisauskunft stimmte nicht mit den Forderungen vor Ort überein. Für ein kurzes Hautscreening wurden im Behandlungszimmer statt der besprochenen Kassenleistung plötzlich bis zu 100 Euro verlangt. Erst nach Diskussion wurde die 80-Euro-Option angeboten. Die Untersuchung selbst wirkte auf mich extrem gehetzt und war in weniger als drei Minuten erledigt. Keine Weiterempfehlung.",
+      "time": 1783585891,
+      "translated": false
+    },
+    {
       "author_name": "Polina Sukhareva",
       "author_url": "https://www.google.com/maps/contrib/112603821464847579928/reviews",
       "language": "de",
@@ -122,6 +146,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4LGTpR1eaaA8QxAAleXX9-h8P8AiDiw5qA1DGDA2DjNbFmI-z=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Fr. Dr. U. sehr aufmerksame Ärztin, das ganze Team sehr herzlich und super lieb!",
+      "time": 1782226023,
+      "translated": false
+    },
+    {
+      "author_name": "Polina Sukhareva",
+      "author_url": "https://www.google.com/maps/contrib/112603821464847579928/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4LGTpR1eaaA8QxAAleXX9-h8P8AiDiw5qA1DGDA2DjNbFmI-z=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Fr. Dr. U. sehr aufmerksame Ärztin, das ganze Team sehr herzlich und super lieb!",
       "time": 1782226023,
       "translated": false
@@ -818,11 +854,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 144,
+  "reviewCount": 146,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:56.510Z"
+  "lastUpdated": "2026-07-25T07:13:35.818Z"
 }

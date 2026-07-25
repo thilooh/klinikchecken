@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Giulia F.",
+      "author_url": "https://www.google.com/maps/contrib/103628803210149139465/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8mt6TgOufO1iN6YKjt3xfK1yMygrI7IcNMLb3ptiFDykzTBM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr enttäuscht, vor Monaten habe ich einen Termin bei einer Hautärztin hier ausgemacht, jetzt wo der Termin endlich anstand bekomme ich eine Woche vorher die Nachricht, dass der Termin aus organisatorischen Gründen ersatzlos gestrichen wurde.",
+      "time": 1784901682,
+      "translated": false
+    },
+    {
+      "author_name": "Christ Floki",
+      "author_url": "https://www.google.com/maps/contrib/112308348909226972649/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9E8Jxr4X2qGytsFbG2ZQIFbvxC_hmjAgr0CldFrE8ygwErg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr sauber. extern freundliches und zuvorkommendes Personal. Das Personal wirkt fachlich sehr kompetent. Ich komme mit in guten Händen vor und komme gern wieder. Lediglich die Erreichbarkeit ist nicht gut.",
+      "time": 1784879662,
+      "translated": false
+    },
+    {
       "author_name": "An drea",
       "author_url": "https://www.google.com/maps/contrib/107186320071113976908/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Constantin von Mellenthin",
+      "author_url": "https://www.google.com/maps/contrib/100260835694852389497/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLCwnF_VgNWREThp4tR4RDg5bCAhR-cUDFaN5pAzyxYt4JPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr schade, als Kassenpatient ist man halt nichts wert und man kann kein Geld verdienen. 5Monate vorher einen Termin vereinbart und einen Tag vor dem Termin bekommt man die Info, dass der Termin ersatzlos abgesagt wird.\nSehr traurig in welche Richtung sich hier bewegt wird.",
+      "time": 1784198289,
+      "translated": false
+    },
+    {
       "author_name": "Petra Zsidek",
       "author_url": "https://www.google.com/maps/contrib/107817116031587200599/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSbIBBqrM-BBAuNu1LLy0k3kvpkgcXLQ2R9WdLbwJpdgiQ5ogUDg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Praxis mit kompetenten Mitarbeitern/innen und Ärzten",
+      "time": 1784147241,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Zsidek",
+      "author_url": "https://www.google.com/maps/contrib/107817116031587200599/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSbIBBqrM-BBAuNu1LLy0k3kvpkgcXLQ2R9WdLbwJpdgiQ5ogUDg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr gute Praxis mit kompetenten Mitarbeitern/innen und Ärzten",
       "time": 1784147241,
       "translated": false
@@ -739,12 +787,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 163,
+  "rating": 4.6,
+  "reviewCount": 165,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-22T07:32:48.339Z"
+  "lastUpdated": "2026-07-25T07:13:27.240Z"
 }

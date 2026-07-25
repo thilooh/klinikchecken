@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ofenheinz Glühwein",
+      "author_url": "https://www.google.com/maps/contrib/115189472706743395058/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQlWcAVHOj9qMETE3GqWmLvvqnt2rnboOxxjeN8XdYfHBXuNM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Erkrankung wurde professionell diagnostiziert, die notwendige OP komplikationslos durchgeführt und die Nachsorge war nur noch pro forma ein Thema.",
+      "time": 1784808282,
+      "translated": false
+    },
+    {
       "author_name": "carola helm",
       "author_url": "https://www.google.com/maps/contrib/112931296131336307077/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuQv6QUbrUZOE9ltI9ekjr6E_kxyD2P_QOKERGCMzen17Crw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war als Notfall dort wegen akuten Schmerzen! Hatte eine Überweisung von meiner Frauenärztin.\nMeinen Befund  habe ich per e Mail geschildert da ich zunächst telefonisch in der Warteschlange war.\nDer Arzt rief sofort zurück und mir wurde am gleichen Tag noch geholfen!\n\nDie OP wurde super einfühlsam und so schmerzfrei wie möglich durchgeführt.\n\nEin ganz toller Arzt, selten so viel Empathie erlebt und die Arzthelferin ebenso aufmerksam und lieb.\n\nEin ganz großes Dankeschön!",
+      "time": 1783612117,
+      "translated": false
+    },
+    {
+      "author_name": "carola helm",
+      "author_url": "https://www.google.com/maps/contrib/112931296131336307077/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuQv6QUbrUZOE9ltI9ekjr6E_kxyD2P_QOKERGCMzen17Crw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war als Notfall dort wegen akuten Schmerzen! Hatte eine Überweisung von meiner Frauenärztin.\nMeinen Befund  habe ich per e Mail geschildert da ich zunächst telefonisch in der Warteschlange war.\nDer Arzt rief sofort zurück und mir wurde am gleichen Tag noch geholfen!\n\nDie OP wurde super einfühlsam und so schmerzfrei wie möglich durchgeführt.\n\nEin ganz toller Arzt, selten so viel Empathie erlebt und die Arzthelferin ebenso aufmerksam und lieb.\n\nEin ganz großes Dankeschön!",
       "time": 1783612117,
       "translated": false
@@ -92,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLDqHQRYGWyBAdrPqjkD60CbRY5yZQCnlFCxayjq0Qdg4jtA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Tolle Erfahrung! Ich war als Notfall spontan vor Ort und wurde sofort untersucht. Mega nettes Praxispersonal und sehr kompetenter Arzt. Schade, dass ich so weit weg wohne, ich würde wiederkommen! Danke!!!",
+      "time": 1783098817,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin E.",
+      "author_url": "https://www.google.com/maps/contrib/118007849383900227491/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLDqHQRYGWyBAdrPqjkD60CbRY5yZQCnlFCxayjq0Qdg4jtA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Tolle Erfahrung! Ich war als Notfall spontan vor Ort und wurde sofort untersucht. Mega nettes Praxispersonal und sehr kompetenter Arzt. Schade, dass ich so weit weg wohne, ich würde wiederkommen! Danke!!!",
       "time": 1783098817,
       "translated": false
@@ -564,11 +600,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 157,
+  "reviewCount": 158,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:52.882Z"
+  "lastUpdated": "2026-07-25T07:13:31.969Z"
 }

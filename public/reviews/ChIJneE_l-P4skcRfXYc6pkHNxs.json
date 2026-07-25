@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dr. med. Th. Harrer",
+      "author_url": "https://www.google.com/maps/contrib/102939905748179187951/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMUpkjoHFWd2_uRuIZDgMA0qs7KyCSZQ9gTbMckRNkanrJFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als langjährig tätiger Arzt und heute selbst Patient kann ich diese Hautarztpraxis uneingeschränkt empfehlen. Früher habe ich Patienten mit bestem Gewissen hierher überwiesen – die Rückmeldungen waren ausnahmslos hervorragend. Meine eigenen Erfahrungen bestätigen das: höchste fachliche Kompetenz, große Freundlichkeit und ein außergewöhnlich engagiertes Team. Besser geht es kaum.",
+      "time": 1784961771,
+      "translated": false
+    },
+    {
       "author_name": "Muschelblume",
       "author_url": "https://www.google.com/maps/contrib/111036302141430106985/reviews",
       "language": "de",
@@ -128,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJGntAjpOf675j7E-V41gS21SE9Mhw3wzRfbAvKN1VUiyTlA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Wenn ich könnte würde ich keinen Stern geben!! Ich bin seit Jahren dort Patientin und habe mich dort gemeldet da ich Probleme mit meiner Haut habe dann sagt die Empfangsdame mir sie könne mir einen Termin im November anbieten?! Schneller würde es mit einer Hafa Überweisung gehen…schon klar weil man damit natürlich extra Geld verdient :)\n\nIch rate jedem davon ab zu diesem Hautarzt zu gehen es gibt definitiv bessere! Und welche wo man schneller ran kommt auch als Neu Patient :)",
+      "time": 1782476947,
+      "translated": false
+    },
+    {
+      "author_name": "Jessi Rose",
+      "author_url": "https://www.google.com/maps/contrib/103390249150920821189/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJGntAjpOf675j7E-V41gS21SE9Mhw3wzRfbAvKN1VUiyTlA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Wenn ich könnte würde ich keinen Stern geben!! Ich bin seit Jahren dort Patientin und habe mich dort gemeldet da ich Probleme mit meiner Haut habe dann sagt die Empfangsdame mir sie könne mir einen Termin im November anbieten?! Schneller würde es mit einer Hafa Überweisung gehen…schon klar weil man damit natürlich extra Geld verdient :)\n\nIch rate jedem davon ab zu diesem Hautarzt zu gehen es gibt definitiv bessere! Und welche wo man schneller ran kommt auch als Neu Patient :)",
       "time": 1782476947,
       "translated": false
@@ -188,6 +212,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMP9xvTj4XXw7nT1T7kn9tywMp-yNLaYLgRezcKBkIN-ZrnZ39=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Seit mehreren Jahren bin ich Patient in dieser Praxis, bisher lediglich zur Hautkrebsvorsorge und bei kleineren Problemchen.\n\nTermine klappten immer recht flott, egal ob telefonisch oder online.\n\nDie Damen an der Anmeldung sind stets freundlich, aufmerksam, dem Patienten zugewandt und ja manchmal bleibt nicht viel Zeit für einen, kein Wunder bei der Frequenz an Patienten.\n\nBesonders hervorheben möchte ich Frau Hensler, die immer lächelnd und stets ein freundliches Wort übrig hat. Danke.\n\nÜber Frau Dr. Bandholz kann ich nur sagen: ich fühle mich sehr gut aufgehoben.\n\nDie Praxis bleibt weiterhin meine 1. Wahl.",
+      "time": 1782209934,
+      "translated": false
+    },
+    {
+      "author_name": "Joachim Levy",
+      "author_url": "https://www.google.com/maps/contrib/102280561985480990400/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMP9xvTj4XXw7nT1T7kn9tywMp-yNLaYLgRezcKBkIN-ZrnZ39=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Seit mehreren Jahren bin ich Patient in dieser Praxis, bisher lediglich zur Hautkrebsvorsorge und bei kleineren Problemchen.\n\nTermine klappten immer recht flott, egal ob telefonisch oder online.\n\nDie Damen an der Anmeldung sind stets freundlich, aufmerksam, dem Patienten zugewandt und ja manchmal bleibt nicht viel Zeit für einen, kein Wunder bei der Frequenz an Patienten.\n\nBesonders hervorheben möchte ich Frau Hensler, die immer lächelnd und stets ein freundliches Wort übrig hat. Danke.\n\nÜber Frau Dr. Bandholz kann ich nur sagen: ich fühle mich sehr gut aufgehoben.\n\nDie Praxis bleibt weiterhin meine 1. Wahl.",
       "time": 1782209934,
       "translated": false
@@ -578,11 +614,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:41.529Z"
+  "lastUpdated": "2026-07-25T07:13:20.229Z"
 }

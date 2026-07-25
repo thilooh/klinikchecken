@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marten Wenning",
+      "author_url": "https://www.google.com/maps/contrib/107761170558605058987/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzKvCBM3ZI0trkNKZHPgtbFxAQXLhovKn2VCuNdZOBIC0hFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist modern und gut organisiert. Das gesamte Team war freundlich, hilfsbereit und ich habe mich während der Termine sehr gut aufgehoben gefühlt.\n\nLeider bin ich mit dem Ergebnis der Behandlung nicht zufrieden. Trotz zwei Laserbehandlungen ist die Warze weiterhin vorhanden. Ich hatte den Eindruck, dass sie nicht gründlich genug entfernt wurde. Natürlich weiß ich, dass bei Warzen manchmal mehrere Behandlungen notwendig sind. Dennoch hätte ich mir in meinem Fall ein besseres Ergebnis gewünscht.\n\nInsgesamt war der Service der Praxis sehr angenehm, das Behandlungsergebnis hat meine Erwartungen jedoch leider nicht erfüllt.",
+      "time": 1784723848,
+      "translated": false
+    },
+    {
       "author_name": "Paulina",
       "author_url": "https://www.google.com/maps/contrib/116822513011145152992/reviews",
       "language": "de",
@@ -193,6 +205,18 @@
       "translated": false
     },
     {
+      "author_name": "Cee Kaa",
+      "author_url": "https://www.google.com/maps/contrib/117041834389061914904/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxyR8Ie7tC6zuWoZQ4no309NU9zzHG2I20EMcGY1Y7-UHH3jCe=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "vor 11 Monaten",
+      "text": "Ich hatte hier einen Termin. Frau Doktor hat sich super um mich gekümmert, alle waren freundlich und zuvorkommend. Ich habe mich hier wirklich sehr gut umsorgt, aufgehoben und wohl gefühlt. Danke an das ganze Team.",
+      "time": 1756318990,
+      "translated": false
+    },
+    {
       "author_name": "peckott_dh",
       "author_url": "https://www.google.com/maps/contrib/117960706812843060923/reviews",
       "language": "de",
@@ -253,12 +277,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 258,
+  "rating": 4.7,
+  "reviewCount": 259,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:55.377Z"
+  "lastUpdated": "2026-07-25T07:13:34.648Z"
 }

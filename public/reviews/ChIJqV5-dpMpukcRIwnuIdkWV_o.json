@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Willy Venjacob",
+      "author_url": "https://www.google.com/maps/contrib/103756834108063818050/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK87cb4XUCO9H1rs-uyEiF_KpzDUH-LWYtvVK2131CadZffHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Das Team ist sehr freundlich und professionell, kurze Wartezeiten. Frau Dr. Haut ist sehr freundlich und kompetent. Die Praxis ist sehr zu empfehlen.",
+      "time": 1784299764,
+      "translated": false
+    },
+    {
       "author_name": "Michael",
       "author_url": "https://www.google.com/maps/contrib/102722921847734494464/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG3YoSEvJDpT7Fa-1Q1rVttxBCpD3pcKaUmRhE3sFyb2yLBw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Eine moderne Praxis mit angenehmen Betriebsklima. Sehr freundliche Mitarbeiter. Frau Dr. erklärt einem alles und nimmt sich Zeit. Alles Tipp Top.",
+      "time": 1784109352,
+      "translated": false
+    },
+    {
+      "author_name": "Michael",
+      "author_url": "https://www.google.com/maps/contrib/102722921847734494464/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG3YoSEvJDpT7Fa-1Q1rVttxBCpD3pcKaUmRhE3sFyb2yLBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Eine moderne Praxis mit angenehmen Betriebsklima. Sehr freundliche Mitarbeiter. Frau Dr. erklärt einem alles und nimmt sich Zeit. Alles Tipp Top.",
       "time": 1784109352,
       "translated": false
@@ -858,5 +882,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-22T07:33:17.454Z"
+  "lastUpdated": "2026-07-25T07:13:57.674Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Albina Sylaj",
+      "author_url": "https://www.google.com/maps/contrib/114018727066772195596/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeM8KHSbu1MPWbPTIcMFxJYTQW8X2MLtZTocZxqCOHzfYVyw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit meiner Behandlung. Herr Matoshi ist ein sehr kompetenter und freundlicher Arzt. Ich habe mich während der gesamten Behandlung jederzeit wohl und sicher gefühlt. Die Operation verlief sehr gut. Auch das gesamte Team war immer sehr freundlich, nett und hilfsbereit. Vielen Dank für die tolle Betreuung - ich kann die Praxis nur weiterempfehlen!",
+      "time": 1784882214,
+      "translated": false
+    },
+    {
       "author_name": "Fick Frosch",
       "author_url": "https://www.google.com/maps/contrib/104475407220581533921/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmd4XFTaO20RFHL8_XJUUBDh1FJQ3d8ubdVqtOKmxmUJckrg=s128-c0x00000000-cc-rp-mo",
@@ -614,11 +626,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 104,
+  "reviewCount": 105,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:33:11.679Z"
+  "lastUpdated": "2026-07-25T07:13:51.693Z"
 }

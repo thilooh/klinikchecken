@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Edmund Hendus",
+      "author_url": "https://www.google.com/maps/contrib/109304132484142860890/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6ERzq-BkAEVZ4tPUpy_vpzcR2XVYZIW0DSm2ICcq3GE9ZYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784809734,
+      "translated": false
+    },
+    {
+      "author_name": "Nele",
+      "author_url": "https://www.google.com/maps/contrib/109957832774894727626/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrt6Ko8BP33LQ9-w2GdNq85KUZMOOLdfHJgox9YoMHMW8i0po=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nachdem ich schon seit kleinauf Probleme mit meinen großen Zehennägeln hatte, stieß ich irgendwann im Internet auf diese Praxis. Herr Dr. Assaf war der erste, der mit seinem Lösungsansatz wirklich tolle Ergebnisse erzielte! Das gesamte Praxisteam ist super nett und ich fühlte mich jederzeit gut aufgehoben.",
+      "time": 1784709669,
+      "translated": false
+    },
+    {
       "author_name": "Sandra Mannhaupt",
       "author_url": "https://www.google.com/maps/contrib/108884332327012215288/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtXkU03Vhryyni0StIKJQe65xm2gW4wqhtKhGExI0WnQUNZQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin froh , einen so guten Chirurgen gefunden zu haben.\nAlle in der Praxis sind lieb und nett.\nIch kann diese nur weiterempfehlen .",
+      "time": 1784203255,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra Mannhaupt",
+      "author_url": "https://www.google.com/maps/contrib/108884332327012215288/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtXkU03Vhryyni0StIKJQe65xm2gW4wqhtKhGExI0WnQUNZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin froh , einen so guten Chirurgen gefunden zu haben.\nAlle in der Praxis sind lieb und nett.\nIch kann diese nur weiterempfehlen .",
       "time": 1784203255,
       "translated": false
@@ -482,11 +516,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 116,
+  "reviewCount": 118,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:47.191Z"
+  "lastUpdated": "2026-07-25T07:13:26.062Z"
 }

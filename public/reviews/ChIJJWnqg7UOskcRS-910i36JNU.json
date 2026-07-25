@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Marie Barlow",
+      "author_url": "https://www.google.com/maps/contrib/102526668927256768628/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmlfE3wxrUEFVN9eRyhookkVr7_cEglZGU69a_8znGocvkKA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Benötigten dringend einen Hautarzttermin, in Deutschland aktuell unmöglich. Hier hieß es auf der Website: kommen sie ansonsten zu unserer offenen Sprechstunde, täglich 9.45. ...okay, Chef angerufen, frei genommen, Wartezeit ist klar...und dann: unten warten, kommt gleich jemand mit Kärtchen für eine sofortigen Einlaß. Es gab 5 Kärtchen! Niemand wusste etwas davon, alle Wartenden fassungslos. Ganz herzlichen Dank für unnötige Spritkosten, unnötiger Urlaubstag. Absolut keine Empfehlung, auch aufgrund falsch Information.",
+      "time": 1784911264,
+      "translated": false
+    },
+    {
+      "author_name": "Bianka Koop",
+      "author_url": "https://www.google.com/maps/contrib/107654777015005583377/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4YuE3-3EtZhClcKSBvMJ0sVy-H-4pGIEv3p3Idw3QDtPjEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein tolles Team. Ich bin sehr begeistert von der Praxis",
+      "time": 1784873684,
+      "translated": false
+    },
+    {
+      "author_name": "Birgit Seidel",
+      "author_url": "https://www.google.com/maps/contrib/117053110243197280050/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRewWNR2QGIey50Jg_ls2Yp1cFpa5Km-s6OQr1TkxchKW0rg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühlte mich sehr gut beraten",
+      "time": 1784825887,
+      "translated": false
+    },
+    {
+      "author_name": "Michaela Baumheier",
+      "author_url": "https://www.google.com/maps/contrib/105362700046629581607/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLH_HLik_ESb0N4OVv29Rz7TXfQQra555cwQt6RztDqym_48w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784819898,
+      "translated": false
+    },
+    {
+      "author_name": "Helga Rogge",
+      "author_url": "https://www.google.com/maps/contrib/102320243453826904626/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrGi61Igezlky313jEVCE3JitzOemry7o2itYGlh4CaWhLCVP5HQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784743790,
+      "translated": false
+    },
+    {
       "author_name": "Eve",
       "author_url": "https://www.google.com/maps/contrib/117978078686874112086/reviews",
       "language": "de",
@@ -1184,11 +1240,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2336,
+  "reviewCount": 2340,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-22T07:32:43.319Z"
+  "lastUpdated": "2026-07-25T07:13:22.095Z"
 }

@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Uschi Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/109372172806134164083/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8Xeg72-3jmq6-OLNXIKJ4xGuXBhXKY7CbDqFQd-CozUmgwDM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ihre Behandlung Liebe Ärztin und das ganze Team war sehr gut und ich habe mich sehr gut behandelt und verstanden gefühlt. Ich bedanke mich sehr und bei Beschwerden komme ich gerne wieder in ihre Praxis. Ich werde Sie gerne weiterempfehlen.\n\nLiebe Grüße Ursula und Michaela Schmidt 😀🌻",
+      "time": 1784911761,
+      "translated": false
+    },
+    {
+      "author_name": "Carolina Rösch",
+      "author_url": "https://www.google.com/maps/contrib/111444702510147970162/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9ntnUSozOBNrbVHFoRXskMrwUqm2LRZ_aNM7OVcWyt2khOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war mit meiner Behandlung sehr zufrieden. Die Ärztin war freundlich, kompetent und hat sich Zeit genommen. Ich habe mich jederzeit gut aufgehoben gefühlt und kann die Praxis definitiv weiterempfehlen.",
+      "time": 1784886705,
+      "translated": false
+    },
+    {
+      "author_name": "Patricia Schühler",
+      "author_url": "https://www.google.com/maps/contrib/105826473242061172687/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI065yBX1hYeFVCsuUcLLCzY1DT6wy_LkselcpT7eqScpx1Vw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetent und sehr freundlich bin sehr zufrieden 😊",
+      "time": 1784885172,
+      "translated": false
+    },
+    {
+      "author_name": "Chewie T.",
+      "author_url": "https://www.google.com/maps/contrib/104840957316753021841/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2-HT7bD55alGdVOBpukClRxtYGhW9n7WG7edvDRk1qnviHtPS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784878311,
+      "translated": false
+    },
+    {
+      "author_name": "Robschwop",
+      "author_url": "https://www.google.com/maps/contrib/109715388985135781325/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxh24399CF3MmVaPaIKuOCwDk5Ub1zHFqUenEInAvoHkYUmPQMzg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Frau Dr. Steinkusch und bin wirklich sehr zufrieden. Sie hat sich Zeit genommen, mir aufmerksam zugehört und alles verständlich erklärt. Ich habe mich von Anfang an ernst genommen und sehr gut aufgehoben gefühlt. Auch das gesamte Praxisteam war freundlich und professionell.\n\nIch kann Frau Dr. Steinkusch uneingeschränkt weiterempfehlen und würde jederzeit wiederkommen.",
+      "time": 1784877335,
+      "translated": false
+    },
+    {
       "author_name": "Cornelia Dick",
       "author_url": "https://www.google.com/maps/contrib/101576615812633431667/reviews",
       "language": "de",
@@ -878,8 +936,8 @@
       "time": 1771402015
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 226,
+  "rating": 4.4,
+  "reviewCount": 229,
   "summary": [],
-  "lastUpdated": "2026-07-22T07:32:31.884Z"
+  "lastUpdated": "2026-07-25T07:13:09.989Z"
 }

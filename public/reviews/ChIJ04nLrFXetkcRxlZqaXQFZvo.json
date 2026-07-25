@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Heinz Fuerup",
+      "author_url": "https://www.google.com/maps/contrib/114790155965825432538/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIB8-lvjwmdXerETzPG6HQjuyV3g_c56hTUNm0FQeWiqlBJKQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1784306381,
+      "translated": false
+    },
+    {
       "author_name": "Kristina Lang",
       "author_url": "https://www.google.com/maps/contrib/106718487067682804845/reviews",
       "language": "de",
@@ -28,6 +38,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUx5WfXCJvYsGM5jcBcAL_ugBLo20cmGODEMd63dzGsfH90w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Seid 1 Woche nach der OP, alles bestens.\nTolles, nettes Team\nKaum Wartezeiten\nAlles bestens auf einander abgestimmt\nDer Arzt geht auf deine Fragen ein.\nWeiter so :)",
+      "time": 1784268932,
+      "translated": false
+    },
+    {
+      "author_name": "Kristina Lang",
+      "author_url": "https://www.google.com/maps/contrib/106718487067682804845/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUx5WfXCJvYsGM5jcBcAL_ugBLo20cmGODEMd63dzGsfH90w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Seid 1 Woche nach der OP, alles bestens.\nTolles, nettes Team\nKaum Wartezeiten\nAlles bestens auf einander abgestimmt\nDer Arzt geht auf deine Fragen ein.\nWeiter so :)",
       "time": 1784268932,
       "translated": false
@@ -302,5 +324,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-22T07:33:03.942Z"
+  "lastUpdated": "2026-07-25T07:13:43.570Z"
 }

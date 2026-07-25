@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Achim",
+      "author_url": "https://www.google.com/maps/contrib/118063414122986390870/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAM9voQAd8WiI-7UPIYQO03uCG1oAX3vY5SHygyXFFEX4_Rg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute war ich zur Hautkrebsvorsorge in der Praxis. Personal/Atmosphäre : Ich bewundere die Damen. Ungeachtet der „Aktion“ ( Viele Patienten, viele Anrufe , etc. ) alle Damen sind sehr freundlich und entgegenkommend. Das kann nur am Arbeitgeber und der Atmosphäre die er hinter den Kulissen   schafft liegen. Diese angenehme Stimmung wirkt sich auch auf mich positiv aus.\nWartezeit: Auf den Termin: 6 Wochen. Das ist vollkommen in Ordnung ! ( Ist ja kein akuter Fall   sondern Vorsorge. Wartezeit im Wartezimmer: Unter 30 Minuten: Ist auch vollkommen OK.\nAusstattung:  Modern. Es werden moderne KI unterstützter Hautscanner mit etablierter Methode kombiniert um die Vorteile beider Systeme zu nutzen.  ( Mein Hausarzt bestätigt meinen Eindruck: Besser geht es nicht. 9\nHerr Dr. von Zons : Einwirklich sehr freundlicher dem Patienten zugewandter Arzt. Er nimmt sich Zeit alles zu erklären und alle Fragen zu beantworten.\nIch bin zu 100% zufrieden.",
+      "time": 1784802032,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel",
+      "author_url": "https://www.google.com/maps/contrib/101885394763883544171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcdPjl5e6Za3qAnxvdAVoXhUit08aUo3MzZBtc6nGc3zTrjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termine sind extrem schwer zu bekommen. Ständig wechselnde Ärzte. Es gibt keine Erreichbarkeit. Man wird zum Teil nicht über Auffälligkeiten bei Blutabnahmen informiert, wenn man nicht selbst nachfragt. Die Patientenakte mit Diagnosen und Ergebnissen wird nicht ausgehändigt. Ich rate sehr von dieser Praxis ab.",
+      "time": 1784801805,
+      "translated": false
+    },
+    {
+      "author_name": "Katha W.",
+      "author_url": "https://www.google.com/maps/contrib/110602234915275738859/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-7PW0p9TZ05Tsqjdi1zVu7RWq33mdeyczls4iUU8sm8mQMQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Äußerst unfreundliche ältere Ärztin. Sie hat meinem kleinen Sohn und mir nicht ein Mal\nin die Augen geguckt, nichtmal hallo gesagt. Einfach komplett gar nicht mit uns gesprochen sondern nur eine Sekunde das Muttermal angeguckt, fünf Mal über den abgestürzten Computer geflucht und weg war sie. Die einzige Frage, die uns gestellt wurde, war, warum die Karte nicht eingelesen worden sei…wir haben uns weder willkommen noch erst genommen gefühlt.\n\nMein kleiner Sohn kennt nur kinderfreundliche und menschenfreundliche Ärzte, und hat dann auch noch nach einer kleinen Belohnung gefragt wie es bei Kinderzahnärzten zB üblich ist. Als Antwort bekamen wir einen unfreundlichen Blick.\n\nDas Ergebnis der 40-Euro-teuren KI Auswertung wurde uns auch nicht mitgeteilt und mussten wir explizit erfragen.",
+      "time": 1784757693,
+      "translated": false
+    },
+    {
       "author_name": "Elaine Retzmann",
       "author_url": "https://www.google.com/maps/contrib/107245934216970475884/reviews",
       "language": "de",
@@ -20,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJTWu5a8QLc9SGrFGDw9Lpb8SjkDo4xLQK19rhF9rlh4i6Uw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Warte seit 2 Monaten auf meinen Termin, 4 Tage vorher wurde mein Termin ohne Rücksprache um 3 Wochen mitten in meinen Urlaub verschoben ! Super Leistung!",
+      "time": 1784221547,
+      "translated": false
+    },
+    {
+      "author_name": "Batuhan Kader",
+      "author_url": "https://www.google.com/maps/contrib/101674616905170916136/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJTWu5a8QLc9SGrFGDw9Lpb8SjkDo4xLQK19rhF9rlh4i6Uw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Warte seit 2 Monaten auf meinen Termin, 4 Tage vorher wurde mein Termin ohne Rücksprache um 3 Wochen mitten in meinen Urlaub verschoben ! Super Leistung!",
       "time": 1784221547,
       "translated": false
@@ -803,12 +851,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 190,
+  "rating": 4.6,
+  "reviewCount": 193,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:33:08.341Z"
+  "lastUpdated": "2026-07-25T07:13:48.186Z"
 }

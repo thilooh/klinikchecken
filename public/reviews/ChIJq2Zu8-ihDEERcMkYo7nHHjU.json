@@ -35,6 +35,30 @@
       "translated": false
     },
     {
+      "author_name": "Lennart Thilmann",
+      "author_url": "https://www.google.com/maps/contrib/107129807118849498853/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUY_kyXTWrPNVfn4DmSS4vveHWmzg4y_7HIEUuVI0Aq1rJaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Super organisierte Praxis, sympathische und kompetente Beratung.\nAbsolut zu empfehlen!",
+      "time": 1784217337,
+      "translated": false
+    },
+    {
+      "author_name": "Saso",
+      "author_url": "https://www.google.com/maps/contrib/108522607092505751560/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUVeEaqAkFEoIBnCpPOmGPyd7rUMDXgoboKGnm5lyRiPUPjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr enttäuschend. Ich hatte einen bestätigten Termin und stand vor einer geschlossenen Praxis. Erst nach meiner Nachfrage wurde mir gesagt, dass es ein Tippfehler gewesen sei. Für mich bedeutete das eine umsonstige Anfahrt und einen verlorenen Tag. So etwas sollte bei einer Terminvergabe nicht passieren. Ich hoffe, die Organisation wird verbessert",
+      "time": 1784125877,
+      "translated": false
+    },
+    {
       "author_name": "Ernst Kreuzer",
       "author_url": "https://www.google.com/maps/contrib/100962054906501855665/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLie1V9jp_h4g5LLXWVOwobpzAgoDBYYvp_cX57Uq92VJrN5A=s128-c0x00000000-cc-rp-mo-ba3",
@@ -70,6 +94,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7YiQccVMvE8C0OHSjAq0uoJ9TojjFt8h5qOGrovnZm09tMw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783585071,
+      "translated": false
+    },
+    {
+      "author_name": "An Ki",
+      "author_url": "https://www.google.com/maps/contrib/108975728244757808354/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7YiQccVMvE8C0OHSjAq0uoJ9TojjFt8h5qOGrovnZm09tMw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783585071,
       "translated": false
@@ -798,5 +832,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-22T07:32:51.542Z"
+  "lastUpdated": "2026-07-25T07:13:30.534Z"
 }

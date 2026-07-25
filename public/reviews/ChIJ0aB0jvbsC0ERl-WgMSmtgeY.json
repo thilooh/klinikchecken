@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Márkó Tivadar Nana",
+      "author_url": "https://www.google.com/maps/contrib/104820576380389598198/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVzvQ9xeEQav5V3KkgXFztEU5O7DK8mB89e3pnfVCcVPx4YNBt4g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch hatte große Angst vor meiner Laser-Krampfaderoperation. Es war mein allererster Eingriff überhaupt und wegen meiner Schlafapnoe durfte ich nicht in Vollnarkose operiert werden, sondern bekam nur eine Sedierung. Entsprechend nervös war ich.\n\nDoch schon beim Betreten des Venenzentrums wurde mir diese Angst genommen. Das gesamte Team war unglaublich freundlich, humorvoll und herzlich. Besonders der Anästhesist hat mit seiner lockeren, sympathischen Art dafür gesorgt, dass wir während des Eingriffs sogar gemeinsam lachen konnten. Wer hätte gedacht, dass man bei einer Operation lachen kann? Das Leben überrascht einen manchmal auf die seltsamsten Arten. 😄\n\nEin ganz besonderes Dankeschön geht auch an Dr. Matthias Tenholt. Ich habe mich zu jeder Zeit sicher, ernst genommen und bestens aufgehoben gefühlt. Alles wurde ruhig erklärt und absolut professionell durchgeführt.\n\nHeute kann ich endlich wieder schmerzfrei leben. Dafür bin ich unendlich dankbar.\n\nVielen herzlichen Dank an Dr. Matthias Tenholt und das gesamte Team des Venenzentrums Pforzheim. Meine Dankbarkeit ist grenzenlos. Ich kann Sie von ganzem Herzen weiterempfehlen!",
+      "time": 1784784882,
+      "translated": false
+    },
+    {
       "author_name": "Tanja D.",
       "author_url": "https://www.google.com/maps/contrib/112341725543602302265/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM4W3zyVdqojgn_TpuDjrSIoN7KMIxG4MZJVT3PbgFJgcE4TyW=s128-c0x00000000-cc-rp-mo-ba4",
@@ -64,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfK7axsSnjSf7EKKGuRbeiXfqQTAAe5NDJpw4qqY-nMP2vmYIXBA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Konnte kein Termin telefonisch am 10.07.2026 am Morgen ausmachen, wurde unfreundlich mit Überweisung abgewiesen durch die Rezeptionsdame. Laut dieser machen sie dort nicht, dass was in Ihrem Leitungsspektrum gemacht wird und das Telefon wurde aufgelegt.",
+      "time": 1783697260,
+      "translated": false
+    },
+    {
+      "author_name": "Ariana S.",
+      "author_url": "https://www.google.com/maps/contrib/107883439038810054213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfK7axsSnjSf7EKKGuRbeiXfqQTAAe5NDJpw4qqY-nMP2vmYIXBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Konnte kein Termin telefonisch am 10.07.2026 am Morgen ausmachen, wurde unfreundlich mit Überweisung abgewiesen durch die Rezeptionsdame. Laut dieser machen sie dort nicht, dass was in Ihrem Leitungsspektrum gemacht wird und das Telefon wurde aufgelegt.",
       "time": 1783697260,
       "translated": false
@@ -84,6 +108,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKqxRbGotN7aeK-jJHXZZog5rEARbZtUO1QzgoU-kv4BRsOw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783692603,
+      "translated": false
+    },
+    {
+      "author_name": "netedu florin",
+      "author_url": "https://www.google.com/maps/contrib/104623285991659026804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKqxRbGotN7aeK-jJHXZZog5rEARbZtUO1QzgoU-kv4BRsOw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783692603,
       "translated": false
@@ -800,11 +834,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 158,
+  "reviewCount": 159,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:33:09.896Z"
+  "lastUpdated": "2026-07-25T07:13:49.798Z"
 }

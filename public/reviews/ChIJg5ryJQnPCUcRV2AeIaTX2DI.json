@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Melanie G",
+      "author_url": "https://www.google.com/maps/contrib/114897401242582459791/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7yjMWvh9utSCQwjbt8YNcRrwAQU7qr01LFHCwmVMlsG46hJRX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher Arzt, der sich Zeit nimmt und auf Fragen eingeht. War zum Hautkrebsscreening da. Selbstzahlerleistung wird transparent kommuniziert.",
+      "time": 1784873794,
+      "translated": false
+    },
+    {
       "author_name": "Qasem Mirzaei (‫قاسم میرزایی‬‎)",
       "author_url": "https://www.google.com/maps/contrib/109124483526349393668/reviews",
       "language": "de",
@@ -381,12 +393,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 116,
+  "rating": 4.4,
+  "reviewCount": 117,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-22T07:32:53.592Z"
+  "lastUpdated": "2026-07-25T07:13:32.680Z"
 }

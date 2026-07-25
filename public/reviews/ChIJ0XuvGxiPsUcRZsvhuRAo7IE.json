@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "K H",
+      "author_url": "https://www.google.com/maps/contrib/104371760280314623361/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfBuho-0U5wXvW3J08M2zrinFKykiDhpJhQaWC0Ism5c4lYQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin von meinem Besuch im Dermatologikum Hamburg leider mehr als enttäuscht und habe mich dort überhaupt nicht als Patient, sondern eher als zahlender Kunde gefühlt.\n\nIch hatte einen Termin zur Beratung bezüglich der Entfernung von Muttermalen bei Frau Dr. Antonia Weis. Ich kenne mich mit dem Thema bereits aus und bin ganz bewusst dorthin gegangen, weil ich mir erhofft hatte, dort modernere technische Möglichkeiten kennenzulernen, insbesondere Behandlungsmethoden, bei denen Narben möglichst unauffällig bleiben. Statt einer ausführlichen und interessierten Beratung war das Gespräch jedoch kurz, kühl und abgehackt. Ich sollte einmal die Stellen zeigen und kurz darauf wurde mir erklärt, dass die Praxis 500 Euro für eine halbe Stunde bzw. 1.000 Euro für eine Stunde erwirtschaften müsse. Das hat bei mir leider sofort den Eindruck hinterlassen, dass hier der finanzielle Aspekt an erster Stelle steht. Beratung auf Möglichkeiten kamen proaktiv keine.\n\nZusätzlich habe ich in dem Termin spontan noch eine Hautkrebsvorsorge bei Herrn Dr. Zacharias Drosos machen lassen. Als er meine Hände nach Muttermalen absuchte entdeckte er Ekzem an meinen Händen. Ich wurde gefragt, ob ich das dort behandeln lassen möchte. Ich habe ausdrücklich Nein gesagt und klargemacht, dass ich bereits eine für mich passende Behandlung gefunden habe und keine Behandlung dafür wünsche.\n\nJetzt kommt das super dreiste, heute kriege ich per Email ein Rezept für Salbe etc. und einen Behandlungsplan. Obwohl ich ausdrücklich gesagt hatte, dass ich keine Behandlung möchte! Für mich wirkt das ganz klar wie der Versuch, weitere kostenpflichtige Leistungen anzustoßen, die ich weder angefragt noch beauftragt habe.\n\nJetzt bin ich gespannt, was für eine Rechnung mich erwartet. Nach meinem bisherigen Eindruck würde es mich leider nicht wundern, wenn am Ende noch eine völlig überzogene Rechnung kommt. Für mich fühlt sich das Ganze inzwischen einfach nach Abzocke und Geldmacherei an.\n\nMein persönlicher Eindruck nach diesem Besuch: Hier steht offenbar das Geld deutlich mehr im Vordergrund als der Patient. Ich kann daher nur jedem empfehlen, sehr genau darauf zu achten, was tatsächlich besprochen, gewünscht und beauftragt wurde – und sich vorab ganz genau über die entstehenden Kosten zu informieren.",
+      "time": 1784897065,
+      "translated": false
+    },
+    {
       "author_name": "Eirini",
       "author_url": "https://www.google.com/maps/contrib/109392943762188561875/reviews",
       "language": "de",
@@ -42,6 +54,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJN5wzvBe_k3gAWThUJmgbe64F_jgo2EGWWwAkWHTAFUwJPsw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784226772,
+      "translated": false
+    },
+    {
+      "author_name": "Emma Hanna Bartels",
+      "author_url": "https://www.google.com/maps/contrib/108089399417764980876/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJN5wzvBe_k3gAWThUJmgbe64F_jgo2EGWWwAkWHTAFUwJPsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1784226772,
       "translated": false
@@ -880,7 +902,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 442,
+  "reviewCount": 443,
   "summary": [],
-  "lastUpdated": "2026-07-22T07:32:36.735Z"
+  "lastUpdated": "2026-07-25T07:13:15.276Z"
 }

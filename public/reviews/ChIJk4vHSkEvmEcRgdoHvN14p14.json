@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Vanessa Müller",
+      "author_url": "https://www.google.com/maps/contrib/102073499126496857622/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMdZup_wh8sDWdCp74xRSiVnnAHoUMFAj9tbMikvD_bt8ZNg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider kann ich diese Praxis nicht empfehlen. Ich hatte meine Krankenversicherungskarte vergessen und sofort bei meiner Krankenkasse angerufen, damit eine Mitgliedsbescheinigung direkt an die Praxis gefaxt wird. Die Arzthelferin hat mir jedoch dreimal eine falsche Faxnummer genannt, sodass die Bescheinigung nie ankam.\nTrotz meiner langen Anfahrt und eines vereinbarten Termins wurde ich sehr unfreundlich behandelt. Statt nach einer Lösung zu suchen, hatte ich das Gefühl, ignoriert zu werden. Dabei hätte die Mitgliedsbescheinigung das Problem problemlos lösen können.\nEin respektvoller und hilfsbereiter Umgang mit Patienten sollte selbstverständlich sein.\n\nMeine Erfahrung mit dem Praxispersonal war leider das Gegenteil.",
+      "time": 1784827692,
+      "translated": false
+    },
+    {
       "author_name": "Julia",
       "author_url": "https://www.google.com/maps/contrib/106474631732643140200/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF1Ow9TvFIthaVJEedpaHPcrGcstU-D0cCRimoJKlbBDTMz4GhnQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -910,11 +922,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 199,
+  "reviewCount": 200,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:33:09.458Z"
+  "lastUpdated": "2026-07-25T07:13:49.343Z"
 }

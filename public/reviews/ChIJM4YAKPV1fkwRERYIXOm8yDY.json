@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Katharina Schumann",
+      "author_url": "https://www.google.com/maps/contrib/110680977530676847835/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_wJyFK7DMxeLRF1PDanOdLgBL1enRXK5ci1jx0hlHYP4Hpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fühle mich als ME/CFS Patienten sehr gut aufgehoben und beraten!",
+      "time": 1784744408,
+      "translated": false
+    },
+    {
       "author_name": "Alexandra Müller",
       "author_url": "https://www.google.com/maps/contrib/116925389860611064123/reviews",
       "language": "de",
@@ -136,6 +148,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlWEyBhOOYGycrZmtLVeQyv06sv4dVxUv5Kwm9BQCs-aHsgg=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1782298697,
+      "translated": false
+    },
+    {
+      "author_name": "P A",
+      "author_url": "https://www.google.com/maps/contrib/109359149236511516835/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlWEyBhOOYGycrZmtLVeQyv06sv4dVxUv5Kwm9BQCs-aHsgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1782298697,
       "translated": false
@@ -718,11 +740,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 95,
+  "reviewCount": 96,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-07-22T07:32:45.359Z"
+  "lastUpdated": "2026-07-25T07:13:24.191Z"
 }

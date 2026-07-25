@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Gerhard Hamm",
+      "author_url": "https://www.google.com/maps/contrib/101837940059041387072/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKBL9YAC-oez6tDol0ho5otCaOxXHIQoXc5SUSekuqgEAmzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784749212,
+      "translated": false
+    },
+    {
       "author_name": "loonaa devinoo",
       "author_url": "https://www.google.com/maps/contrib/105373291430767203026/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVXnhdygFJt732Vogf3epQNdfyDXSoPb5C-aBb2FXuXFvlLnu5=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Bezüglich Dr. Rüger,\nDanke für den super Termin, alles lief wie am Schnürchen und obwohl ich keine Patientin bin, die für eine Operation in Frage kommt, war Herr Dr. Rüger super freundlich und hat mich über alles was er weiß und als Tips geben kann informiert und das Wichtigste von allem ist, er war super menschlich und freundlich und ehrlich und verstellt sich nicht wie andere Doktoren oder macht auf Gott und Allherrscher der Patientinnen wie etliche andere Chirurgen auf Erden ( ich habe schon viele Termine gehabt, ich rede aus einem Jahrzehnt Erfahrung ) .\n\nFazit : Geht sie alle dort ruhigen Gewissens hin , denn es lohnt sich . Wenn ihr von weit herreisen müsst, planen sie sich Zeit ein. Die Klinik versucht einwandfrei alles reibungslos zu gestalten, der Doktor wird euch zuhören und beraten, habe auch bevor ich dran war gehört wie er jemand anderen verständnisvoll und sehr besonnen beraten hat (wie bei mir ebenso) , also scheint er stets perfekt professionell zu sein.\nGrüße und viel Erfolg !",
+      "time": 1784147724,
+      "translated": false
+    },
+    {
+      "author_name": "loonaa devinoo",
+      "author_url": "https://www.google.com/maps/contrib/105373291430767203026/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVXnhdygFJt732Vogf3epQNdfyDXSoPb5C-aBb2FXuXFvlLnu5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Bezüglich Dr. Rüger,\nDanke für den super Termin, alles lief wie am Schnürchen und obwohl ich keine Patientin bin, die für eine Operation in Frage kommt, war Herr Dr. Rüger super freundlich und hat mich über alles was er weiß und als Tips geben kann informiert und das Wichtigste von allem ist, er war super menschlich und freundlich und ehrlich und verstellt sich nicht wie andere Doktoren oder macht auf Gott und Allherrscher der Patientinnen wie etliche andere Chirurgen auf Erden ( ich habe schon viele Termine gehabt, ich rede aus einem Jahrzehnt Erfahrung ) .\n\nFazit : Geht sie alle dort ruhigen Gewissens hin , denn es lohnt sich . Wenn ihr von weit herreisen müsst, planen sie sich Zeit ein. Die Klinik versucht einwandfrei alles reibungslos zu gestalten, der Doktor wird euch zuhören und beraten, habe auch bevor ich dran war gehört wie er jemand anderen verständnisvoll und sehr besonnen beraten hat (wie bei mir ebenso) , also scheint er stets perfekt professionell zu sein.\nGrüße und viel Erfolg !",
       "time": 1784147724,
       "translated": false
@@ -76,6 +98,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfdv1yA_tTScQD7TuoboRMPkgBXo-G7E2kU9BQVRdn5FchyA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783695220,
+      "translated": false
+    },
+    {
+      "author_name": "KH",
+      "author_url": "https://www.google.com/maps/contrib/105194304374370206075/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfdv1yA_tTScQD7TuoboRMPkgBXo-G7E2kU9BQVRdn5FchyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783695220,
       "translated": false
@@ -654,11 +686,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 179,
+  "reviewCount": 180,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-22T07:33:07.675Z"
+  "lastUpdated": "2026-07-25T07:13:47.477Z"
 }

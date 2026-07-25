@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Jacobs",
+      "author_url": "https://www.google.com/maps/contrib/101314458785409090348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXR9uF_16l1lw_2Vmwbk8iMeR1tzc60tJTIb_rXPyaK1QmBBPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als Patient fühle ich mich in der Praxis bestens aufgehoben. Schnelle Terminvergabe, keine langen Wartezeiten und kompetentes Fachpersonal, allen voran Dr. Laura Degenhardt!",
+      "time": 1784837581,
+      "translated": false
+    },
+    {
       "author_name": "Thomas",
       "author_url": "https://www.google.com/maps/contrib/104222244000752519774/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP2ytGkMoOfDSEoNUEG2W8ZK6_yiGrng3RkJsDfalvoOGmrqHrpg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Der erste Eindruck der Praxis war gut, hell und modern eingerichtet, aber dann kamen wir an die Anmeldung. Dort saß eine Dame mittleren Alters, die leider den kompletten Eindruck ins negative gedreht hat. Unfreundliche, zickige Antworten. Man hatte dort dass Gefühl, dass man sich entschuldigen muss, dass man einen Termin hat. Nie wieder....",
+      "time": 1784189637,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas",
+      "author_url": "https://www.google.com/maps/contrib/104222244000752519774/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP2ytGkMoOfDSEoNUEG2W8ZK6_yiGrng3RkJsDfalvoOGmrqHrpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Der erste Eindruck der Praxis war gut, hell und modern eingerichtet, aber dann kamen wir an die Anmeldung. Dort saß eine Dame mittleren Alters, die leider den kompletten Eindruck ins negative gedreht hat. Unfreundliche, zickige Antworten. Man hatte dort dass Gefühl, dass man sich entschuldigen muss, dass man einen Termin hat. Nie wieder....",
       "time": 1784189637,
       "translated": false
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5y9O2NkUySK5kcBa5qaZUFZuHdcuFAyKrTrtbI0gFzkxr_29yUQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Meine Ärztin ist Frau Dr. Tadic. Ich möchte mich mit 5 Sternen bei ihr bedanken für ihre empathische Art, ihre gründlichen Untersuchungen, verständliche Erläuterungen und praktische Empfehlungen. Ausgezeichnet, herzlichen Dank!",
+      "time": 1782905137,
+      "translated": false
+    },
+    {
+      "author_name": "Erno Unruh",
+      "author_url": "https://www.google.com/maps/contrib/115559824678151522627/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5y9O2NkUySK5kcBa5qaZUFZuHdcuFAyKrTrtbI0gFzkxr_29yUQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Meine Ärztin ist Frau Dr. Tadic. Ich möchte mich mit 5 Sternen bei ihr bedanken für ihre empathische Art, ihre gründlichen Untersuchungen, verständliche Erläuterungen und praktische Empfehlungen. Ausgezeichnet, herzlichen Dank!",
       "time": 1782905137,
       "translated": false
@@ -475,12 +511,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 39,
+  "rating": 4.6,
+  "reviewCount": 40,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:58.301Z"
+  "lastUpdated": "2026-07-25T07:13:37.709Z"
 }

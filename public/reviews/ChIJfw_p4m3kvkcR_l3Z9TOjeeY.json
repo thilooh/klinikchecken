@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "R G",
+      "author_url": "https://www.google.com/maps/contrib/111993057989328048528/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj2C-fvEGjIq9aRf9V8oBMMDArXKFwQhznjMKxdoI3hDiffw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte einen Termin über Doclib gebucht und halbes Jahr gewartet. Dann standen ich vor der Tür der Praxis und musste lesen, dass die im Urlaub sind.\nWie soll das funktionieren, wenn ich noch niemals Bescheid bekomme.",
+      "time": 1784893076,
+      "translated": false
+    },
+    {
       "author_name": "wlad klipp",
       "author_url": "https://www.google.com/maps/contrib/105787982614570423350/reviews",
       "language": "ru",
@@ -10,6 +22,30 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Всё отлично, дружелюбный персонал Красивый доктор, прекрасно всё прошло. Назначение помогло!",
       "time": 1784149004,
+      "translated": false
+    },
+    {
+      "author_name": "wlad klipp",
+      "author_url": "https://www.google.com/maps/contrib/105787982614570423350/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyFZtezZfycAVS24pmcVPvQM-meNCHVs2LJEIrcCRtLlCjmGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Alles war super, das Personal war freundlich, der Arzt war toll, alles lief perfekt. Der Termin hat geklappt!",
+      "time": 1784149004,
+      "translated": true
+    },
+    {
+      "author_name": "Nina W.",
+      "author_url": "https://www.google.com/maps/contrib/105310055251474854072/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-0f3fnC6rRF_c8rvvDvvT5JC13PPn_dPUtsA1jc9DFGj6OQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Über ein halbes Jahr auf den Termin zur Hautkrebsvorsorge gewartet. Eine Woche vor dem Termin, kommentarlose Absage über E-Mail. Telefonisch nicht zu erreichen. Einen erneuten Termin online gemacht, wieder 6 Monate gewartet und genau das selbe ist wieder eingetroffen: eine Woche vor dem Termin eine kommentarlose Absage. Natürlich wieder keiner zu erreichen.",
+      "time": 1784125203,
       "translated": false
     },
     {
@@ -68,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWky1m1TGD5WmAt6vCgtN5HBpMym1NGjQ5IqC7hK067903iWMXguQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Höfliches Personal, Respektlosigkeit. Arrogantes Verhalten der Angestellten. Sie haben keinerlei Respekt vor Kunden und schikanieren sie. Es gibt keine Regeln, weil ihr Chef sie nicht kontrolliert. Wären Sie in meinem Land ein solcher Arbeiter, wären Sie im Müll gelandet. Nennen Sie sie Krankenschwester, obwohl Sie die Gefahren einer verzögerten Behandlung noch nicht kennen. Dafür werden Sie teuer bezahlen.",
+      "time": 1783026955,
+      "translated": false
+    },
+    {
+      "author_name": "florenc Ruci",
+      "author_url": "https://www.google.com/maps/contrib/104479496904001367019/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWky1m1TGD5WmAt6vCgtN5HBpMym1NGjQ5IqC7hK067903iWMXguQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Höfliches Personal, Respektlosigkeit. Arrogantes Verhalten der Angestellten. Sie haben keinerlei Respekt vor Kunden und schikanieren sie. Es gibt keine Regeln, weil ihr Chef sie nicht kontrolliert. Wären Sie in meinem Land ein solcher Arbeiter, wären Sie im Müll gelandet. Nennen Sie sie Krankenschwester, obwohl Sie die Gefahren einer verzögerten Behandlung noch nicht kennen. Dafür werden Sie teuer bezahlen.",
       "time": 1783026955,
       "translated": false
@@ -721,12 +769,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 109,
+  "rating": 4.4,
+  "reviewCount": 111,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:32:44.228Z"
+  "lastUpdated": "2026-07-25T07:13:23.018Z"
 }

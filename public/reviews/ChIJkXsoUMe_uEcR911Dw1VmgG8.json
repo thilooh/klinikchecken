@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ben Sen",
+      "author_url": "https://www.google.com/maps/contrib/104838092996764380517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnspzMx_UPtpebMZD95WfhMg_hDjKvjUaPM7kQwEoGLHrB2Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784883488,
+      "translated": false
+    },
+    {
       "author_name": "Mina Li",
       "author_url": "https://www.google.com/maps/contrib/109100588618856955649/reviews",
       "language": "de",
@@ -604,11 +614,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 214,
+  "reviewCount": 215,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-22T07:32:47.437Z"
+  "lastUpdated": "2026-07-25T07:13:26.301Z"
 }

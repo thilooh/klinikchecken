@@ -45,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "Sofia Ntisiou",
+      "author_url": "https://www.google.com/maps/contrib/110651248258424463770/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqSfPqVZnSjJeM61On-ttLypSUXtz4YgNviKHpNoBHz1MG6Yz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1784288973,
+      "translated": false
+    },
+    {
       "author_name": "Jonas Krämer",
       "author_url": "https://www.google.com/maps/contrib/101571626953887053897/reviews",
       "language": "de",
@@ -52,6 +62,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiNY-jimTxos538tMwhZIs-UcDSL2COnpa8O6NnAYVDsO-EqYV=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Keine Behandlung möglich, trotz akuter Beschwerden und Überweisung.",
+      "time": 1784273683,
+      "translated": false
+    },
+    {
+      "author_name": "Jonas Krämer",
+      "author_url": "https://www.google.com/maps/contrib/101571626953887053897/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiNY-jimTxos538tMwhZIs-UcDSL2COnpa8O6NnAYVDsO-EqYV=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Keine Behandlung möglich, trotz akuter Beschwerden und Überweisung.",
       "time": 1784273683,
       "translated": false
@@ -728,5 +750,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-22T07:32:48.575Z"
+  "lastUpdated": "2026-07-25T07:13:27.476Z"
 }

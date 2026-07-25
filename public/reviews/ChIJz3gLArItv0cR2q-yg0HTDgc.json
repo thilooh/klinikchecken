@@ -97,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Chrissi",
+      "author_url": "https://www.google.com/maps/contrib/101593532668008823769/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfuAxELiLuBorwu3k9WZv-9LZV_0ga-Hx5AsokblmgjH_g4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Auf der Suche nach einer Website, die meiner Wunschbehandlung entsprechend gut aufklärt, bin ich an Dr. Omaj & Team gelangt - wohlgemerkt aus Österreich - und es hat sich gelohnt! Wichtig war mir: keine \"Beautyklinik plus Beautydoc's\", sondern ein kompetenter, sympathischer Facharzt.\nFazit: In ästhetischer Wohlfühlumgebung und sehr empathisch \"in Watte gepackt\" zum Wunschergebnis! Danke und gerne wieder! :-)",
+      "time": 1782387033,
+      "translated": false
+    },
+    {
       "author_name": "Hawin Öner",
       "author_url": "https://www.google.com/maps/contrib/105619797535043865846/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNZPe5uDCeLYSjoIFw_f0Jo6tPg_X60ezxufyJebcfaiQ0Pg=s128-c0x00000000-cc-rp-mo",
@@ -147,6 +159,16 @@
       "translated": false
     },
     {
+      "author_name": "Hawin Öner",
+      "author_url": "https://www.google.com/maps/contrib/105619797535043865846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNZPe5uDCeLYSjoIFw_f0Jo6tPg_X60ezxufyJebcfaiQ0Pg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1782286136,
+      "translated": false
+    },
+    {
       "author_name": "Melissa Riesen González",
       "author_url": "https://www.google.com/maps/contrib/103482299760732597518/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwG88JAIilqL-4PAGm8fW4F-JWHaa1UVghdUSrRPzAQOfqeqmw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -192,6 +214,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwG88JAIilqL-4PAGm8fW4F-JWHaa1UVghdUSrRPzAQOfqeqmw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1782138768,
+      "translated": false
+    },
+    {
+      "author_name": "Melissa Riesen González",
+      "author_url": "https://www.google.com/maps/contrib/103482299760732597518/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwG88JAIilqL-4PAGm8fW4F-JWHaa1UVghdUSrRPzAQOfqeqmw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1782138768,
       "translated": false
@@ -825,5 +857,5 @@
   "rating": 4.6,
   "reviewCount": 295,
   "summary": [],
-  "lastUpdated": "2026-07-22T07:32:32.561Z"
+  "lastUpdated": "2026-07-25T07:13:10.797Z"
 }

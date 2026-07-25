@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gisela Goerke",
+      "author_url": "https://www.google.com/maps/contrib/113997433230633189415/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7AIPA7iNVrrbaXWWIZBoWm0M9rh2hJ8iRt7aka_uiQYanPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hab gestern vorerst meine letzte Lymphapress Behandlung bekommen.\nDie Behandlung ist sehr angenehm und entspannend, das Personal sehr freundlich und kompetent und die Räumlichkeiten schön hell mit guten Parkmöglichkeiten.",
+      "time": 1784745919,
+      "translated": false
+    },
+    {
       "author_name": "natasa siozou",
       "author_url": "https://www.google.com/maps/contrib/107966425808676277952/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWodqqBqyoWoX4qqE5TyjO-MYzvksAm6KlV7RZD8kUrwiJZArN8mg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin zum zweiten Mal dort seit mehreren Wochen in Behandlung.  Die Menschen dort sind total nett, die Behandlung hilft mir bei meinen Schmerzen und die Praxis ist nett eingerichtet.  Ich kann die Praxis weiterempfehlen.",
+      "time": 1783499445,
+      "translated": false
+    },
+    {
+      "author_name": "Lena-Marie Tillmann",
+      "author_url": "https://www.google.com/maps/contrib/115148963390804830880/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWodqqBqyoWoX4qqE5TyjO-MYzvksAm6KlV7RZD8kUrwiJZArN8mg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin zum zweiten Mal dort seit mehreren Wochen in Behandlung.  Die Menschen dort sind total nett, die Behandlung hilft mir bei meinen Schmerzen und die Praxis ist nett eingerichtet.  Ich kann die Praxis weiterempfehlen.",
       "time": 1783499445,
       "translated": false
@@ -169,12 +193,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 22,
+  "rating": 4.7,
+  "reviewCount": 23,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-22T07:33:05.693Z"
+  "lastUpdated": "2026-07-25T07:13:45.397Z"
 }

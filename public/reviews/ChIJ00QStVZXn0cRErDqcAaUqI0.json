@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Werner Herkert",
+      "author_url": "https://www.google.com/maps/contrib/108640293843129131177/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJh6wnYrigHOLtltZh5g9QEnt71cU6gVpXhNrVSKLZEXNf2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Schicke Praxis mit sehr kompetenten, freundlichen Personal, verkehrsfreundlich gelegen. Habe mich sehr wohl gefühlt.",
+      "time": 1783675082,
+      "translated": false
+    },
+    {
       "author_name": "kos kos",
       "author_url": "https://www.google.com/maps/contrib/116609744344853855322/reviews",
       "language": "de",
@@ -478,5 +490,5 @@
   "rating": 5,
   "reviewCount": 18,
   "summary": [],
-  "lastUpdated": "2026-07-22T07:32:37.875Z"
+  "lastUpdated": "2026-07-25T07:13:16.467Z"
 }
