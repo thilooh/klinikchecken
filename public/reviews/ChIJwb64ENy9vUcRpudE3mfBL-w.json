@@ -67,6 +67,18 @@
       "translated": false
     },
     {
+      "author_name": "Chrissi",
+      "author_url": "https://www.google.com/maps/contrib/103685581011043095613/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpRLAsJCPBe_flbb2JKAoj4_Gb3KJHiYfWVP2tjWVjILi5NQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich komme schon seit Jahren sehr gerne hierhin!",
+      "time": 1783365536,
+      "translated": false
+    },
+    {
       "author_name": "WEBO",
       "author_url": "https://www.google.com/maps/contrib/108080507189160259547/reviews",
       "language": "de",
@@ -98,6 +110,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf5iA7DQPsLt2mSKdRbUhLxIdhvq04BQUtK4Bk-deH6SaBZ8YO=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin sehr unzufrieden. Ich habe viel Geld hier gelassen und das Ergebnis ist schlechter als vorher, weil man einfach gemacht hat was man wollte. Aber wenn ich als Privatpatient komme und zahle, dann habt ihr genau das zu machen was ich will. Das müssen die hier werkelnden Damen noch dringend lernen. Beispiel: Wenn ich zum Friseur gehe und sage er soll meine Haare blond färben und der Friseur sagt nein ich habe sie jetzt aber rot gefärbt weil ich das besser finde möchte ich gerne Ihre Reaktion sehen. Ich werde auf jeden Fall mein Geld zurück verlangen.",
+      "time": 1783352390,
+      "translated": false
+    },
+    {
+      "author_name": "WEBO",
+      "author_url": "https://www.google.com/maps/contrib/108080507189160259547/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf5iA7DQPsLt2mSKdRbUhLxIdhvq04BQUtK4Bk-deH6SaBZ8YO=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin sehr unzufrieden. Ich habe viel Geld hier gelassen und das Ergebnis ist schlechter als vorher, weil man einfach gemacht hat was man wollte. Aber wenn ich als Privatpatient komme und zahle, dann habt ihr genau das zu machen was ich will. Das müssen die hier werkelnden Damen noch dringend lernen. Beispiel: Wenn ich zum Friseur gehe und sage er soll meine Haare blond färben und der Friseur sagt nein ich habe sie jetzt aber rot gefärbt weil ich das besser finde möchte ich gerne Ihre Reaktion sehen. Ich werde auf jeden Fall mein Geld zurück verlangen.",
       "time": 1783352390,
       "translated": false
@@ -684,11 +708,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 147,
+  "reviewCount": 148,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:35.582Z"
+  "lastUpdated": "2026-07-28T07:36:17.448Z"
 }

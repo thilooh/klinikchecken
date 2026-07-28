@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "irinawaks",
+      "author_url": "https://www.google.com/maps/contrib/108195355115495873827/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgX9iaVsroQBAvaCTElnEB_VNtJj4mIoblJyUPCIOAzxLMoHc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nie wieder!\nIch bin heute wegen starker Schmerzen im linken Bein als Akutpatientin in diese Praxis gekommen. Zu meinem Termin im August konnte ich aufgrund der starken Beschwerden nicht warten. Positiv möchte ich erwähnen, dass eine Thrombose sorgfältig ausgeschlossen wurde – dafür bin ich dankbar.\n\nLeider war der weitere Umgang mit mir sehr enttäuschend. Der Chefarzt war nach meinem Eindruck unfreundlich, gereizt und wenig einfühlsam. Auf meine Bitte um ein Rezept für neue Kompressionsstrümpfe reagierte er ablehnend und sagte sogar, ich bekäme von ihm die „rote Karte“, weil ich neben der Untersuchung auch ein Rezept verlangt hätte. Diese Bemerkung habe ich als respektlos und verletzend empfunden.\n\nWährend des Gesprächs äußerte der Arzt mehrfach seinen Ärger über die aktuelle Gesundheitspolitik und die Situation im Gesundheitswesen. Ich hatte jedoch den Eindruck, dass dieser Frust an mir als Patientin ausgelassen wurde. Als Patientin wünsche ich mir, ernst genommen zu werden und eine respektvolle Kommunikation – unabhängig davon, wie schwierig die Rahmenbedingungen im Gesundheitswesen sind.\n\nAus diesem Grund habe ich mich in dieser Praxis weder willkommen noch gut aufgehoben gefühlt. Aus meiner persönlichen Erfahrung kann ich die Praxis daher leider nicht weiterempfehlen.",
+      "time": 1785150493,
+      "translated": false
+    },
+    {
       "author_name": "Armin Stoige",
       "author_url": "https://www.google.com/maps/contrib/113600042397399357096/reviews",
       "language": "de",
@@ -224,6 +236,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB42qCkxuNO_FWk6MkQh4-AVXLYRrB6xFBoGhvUNdK8c6URQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Mein Mann und ich haben uns schon öfter dort die Krampfadern entfernen lassen. Sind jedes Mal mehr als zufrieden. Frau Dr. Brunner und Frau Dr.Woronowicz machen eine super Arbeit. Hatten nie Probleme. Auch die Angestellten sind immer sehr freundlich. Man fühlt sich dort gut aufgehoben. Immer wieder gerne. Weiter so.",
+      "time": 1777393591,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Karell",
+      "author_url": "https://www.google.com/maps/contrib/102359206056290797591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB42qCkxuNO_FWk6MkQh4-AVXLYRrB6xFBoGhvUNdK8c6URQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Mein Mann und ich haben uns schon öfter dort die Krampfadern entfernen lassen. Sind jedes Mal mehr als zufrieden. Frau Dr. Brunner und Frau Dr.Woronowicz machen eine super Arbeit. Hatten nie Probleme. Auch die Angestellten sind immer sehr freundlich. Man fühlt sich dort gut aufgehoben. Immer wieder gerne. Weiter so.",
       "time": 1777393591,
       "translated": false
@@ -403,12 +427,12 @@
       "translated": true
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 53,
+  "rating": 4.4,
+  "reviewCount": 54,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:31.726Z"
+  "lastUpdated": "2026-07-28T07:36:14.027Z"
 }

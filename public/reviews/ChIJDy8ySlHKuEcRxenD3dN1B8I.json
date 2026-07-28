@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Tom Deer",
+      "author_url": "https://www.google.com/maps/contrib/118027894296918635074/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_1yNUBXsSfZVGpYYbQC-zQtgJ-Pq-FP9lkvi3wcdC_1aiRmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785143598,
+      "translated": false
+    },
+    {
       "author_name": "Uschi Schmidt",
       "author_url": "https://www.google.com/maps/contrib/109372172806134164083/reviews",
       "language": "de",
@@ -939,5 +949,5 @@
   "rating": 4.4,
   "reviewCount": 229,
   "summary": [],
-  "lastUpdated": "2026-07-25T07:13:09.989Z"
+  "lastUpdated": "2026-07-28T07:35:54.194Z"
 }

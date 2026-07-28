@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Oh",
+      "author_url": "https://www.google.com/maps/contrib/112821511070581680017/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5E2dRFnX9INbu7ybTIXZR7SWdQTvWyq67BYOpQRBkZKtV0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "SEHR UNZUFRIEDEN!!\n\nEs war rundum eine der schlechtesten Erfahrungen in einer Praxis, die ich jemals gemacht habe.\n\nIch habe online einen Termin gebucht, es waren EINIGE Termine für diesen Tag kurzfristig buchbar.\nDie Praxis hat zwei Eingänge und zwei Rezeptionen. Ich stelle mich an einer an, die durch eine Mitarbeiterin besetzt war. Ich wartete einige Minuten, bis ich zur anderen Rezeption hoch geschickt wurde( warum nicht gleich und warum überhaupt??) Die andere Rezeption war sehr voll, nach 10 Minuten meinte die Mitarbeiterin dort, gehen sie zur Rezeption unten ??? Dort musste ich mich dann erneut anstellen. Als ich mich endlich anmelden konnte, saß ich hochschwanger 2 Stunden im Wartezimmer, als man mich dann endlich in ein Behandlungszimmer gebracht hat, saß ich dort weitere 30 Minuten. Als ich einmal höflich fragte, ob denn noch jemand kommt, wurde mir nur gesagt „WIR WISSEN NICHT WO DER ARZT IST“ Plötzlich ging die Tür auf und ein weiterer Patient wurde in dieses Behandlungszimmer gebracht, die Arzthelferin war überrascht, dass ich dort saß! Als ich meinte ich wurde noch immer nicht behandelt, meinte sie nur der Arzt kommt gleich. Weitere 30 Minuten später kam der Arzt und schaute mich nicht mal richtig an. Ich äußerte mein Problem und er war sehr unfreundlich. Als er mir etwas verschreiben wollte, fragte ich ob das in Ordnung sei für Schwangere, er war irritiert! Ich saß dort unverkennbar hochschwanger im 9. Monat, er hatte mich nicht mal richtig angesehen!\n\nIch bin absolut entsetzt!\nSie sollten keine online Termine oder überhaupt Termine anbieten, wenn diese sowieso mit Nichten eingehalten werden können. Und für  diese unfreundliche Art und Weise sollte man sich schämen!",
+      "time": 1785098535,
+      "translated": false
+    },
+    {
       "author_name": "Vanessa Müller",
       "author_url": "https://www.google.com/maps/contrib/102073499126496857622/reviews",
       "language": "de",
@@ -921,12 +933,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 200,
+  "rating": 4.4,
+  "reviewCount": 201,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:49.343Z"
+  "lastUpdated": "2026-07-28T07:36:30.028Z"
 }

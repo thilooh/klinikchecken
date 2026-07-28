@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "P M",
+      "author_url": "https://www.google.com/maps/contrib/104472803033206572475/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqZF5xkFwZ0fSqJaAm2TGWpckaGIk1Q-n3E6blk19vwfNl2qZhuQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785185129,
+      "translated": false
+    },
+    {
+      "author_name": "Lukasz Garczyk",
+      "author_url": "https://www.google.com/maps/contrib/102972190953788103826/reviews",
+      "language": "de",
+      "original_language": "pl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMbCbFzS9YQuYgf_at6y5d5tyrvvYukSCgI0AVEKiLgWOxhVM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr professioneller Umgang mit dem Patienten und seiner Erkrankung. Ich kann es empfehlen.",
+      "time": 1785175761,
+      "translated": true
+    },
+    {
       "author_name": "Roman (RoSch009)",
       "author_url": "https://www.google.com/maps/contrib/113479963143019883323/reviews",
       "language": "de",
@@ -64,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXE42VHZRVnlwkOI4WuWdY6gXmFEnIwyqFegR3RWisSZK5PxBRjKQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Fühle mich dort gut aufgehoben",
+      "time": 1783851050,
+      "translated": false
+    },
+    {
+      "author_name": "Jost Siegelmann",
+      "author_url": "https://www.google.com/maps/contrib/102567972488644937536/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXE42VHZRVnlwkOI4WuWdY6gXmFEnIwyqFegR3RWisSZK5PxBRjKQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Fühle mich dort gut aufgehoben",
       "time": 1783851050,
       "translated": false
@@ -913,12 +947,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 138,
+  "rating": 4.6,
+  "reviewCount": 136,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:42.420Z"
+  "lastUpdated": "2026-07-28T07:36:23.733Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dilek",
+      "author_url": "https://www.google.com/maps/contrib/105533967459283953479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsKgCVZhCpNZO7mRZYd8IJRfSAA353h8FEUypD86RJ-n7UnQR48w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Helle, nette Praxis und freundliche Mitarbeiterin am Empfang. Herr Dr. Lambrecht ist sehr aufmerksam und man merkt sofort, wie professionell er in seinem Gebiet ist. Besten Dank!",
+      "time": 1785060464,
+      "translated": false
+    },
+    {
       "author_name": "Ruth Tap",
       "author_url": "https://www.google.com/maps/contrib/103584619708108198557/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiaEhRYVPiFqVbYbC5zJNNJOzQUOybLMGVFdLV7xQuLoDSYQ=s128-c0x00000000-cc-rp-mo",
@@ -580,5 +592,5 @@
   "rating": 4.2,
   "reviewCount": 79,
   "summary": [],
-  "lastUpdated": "2026-07-25T07:13:14.879Z"
+  "lastUpdated": "2026-07-28T07:35:58.527Z"
 }

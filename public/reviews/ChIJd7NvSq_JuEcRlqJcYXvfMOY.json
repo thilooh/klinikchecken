@@ -309,6 +309,16 @@
       "translated": false
     },
     {
+      "author_name": "Ramin Samani",
+      "author_url": "https://www.google.com/maps/contrib/101859091738608841396/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlFf_gK3MhX2LFrhuUn3PdnoHen_Alpe8k8gyyW7rjZIn9Bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
+      "text": "",
+      "time": 1772119072,
+      "translated": false
+    },
+    {
       "author_name": "Leinad",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
@@ -391,5 +401,5 @@
   "rating": 4.8,
   "reviewCount": 44,
   "summary": [],
-  "lastUpdated": "2026-07-25T07:13:10.225Z"
+  "lastUpdated": "2026-07-28T07:35:54.412Z"
 }

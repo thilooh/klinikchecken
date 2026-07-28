@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Heike Kösters",
+      "author_url": "https://www.google.com/maps/contrib/103623854144862995326/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoR1xYjbUgvmpXVVAKmCR9JcxwbA7akW4_t17rDLMEPqFW6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Beratung",
+      "time": 1785160825,
+      "translated": false
+    },
+    {
       "author_name": "Ricarda Franzmann (Carda)",
       "author_url": "https://www.google.com/maps/contrib/110809102814782040237/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcL014qou7g9VldRXWZNWQtZX6S-3WvcdVSG-4fY3648i3wQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "❤️lichen Dank für alles",
+      "time": 1784006783,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah V",
+      "author_url": "https://www.google.com/maps/contrib/111676436906295634983/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcL014qou7g9VldRXWZNWQtZX6S-3WvcdVSG-4fY3648i3wQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "❤️lichen Dank für alles",
       "time": 1784006783,
       "translated": false
@@ -934,11 +958,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 220,
+  "reviewCount": 221,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-25T07:13:40.327Z"
+  "lastUpdated": "2026-07-28T07:36:21.814Z"
 }

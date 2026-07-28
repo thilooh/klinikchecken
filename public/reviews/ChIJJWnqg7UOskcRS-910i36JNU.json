@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Friedhelm Krause",
+      "author_url": "https://www.google.com/maps/contrib/112786851420988283382/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ07H3iM2fW8fbL2OX4dl465Hr2Esw3Bzm3RvX0jMQQMgPwIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche Ärztin, sorgfältige Untersuchung, fachlich kompetente Beratung und die administrativen Dinge wurden klasse umgesetzt",
+      "time": 1785173787,
+      "translated": false
+    },
+    {
+      "author_name": "Elisabeth Nielandt",
+      "author_url": "https://www.google.com/maps/contrib/114166260959693740217/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-TRys6V5U0BQTLCivMjsVoHT-qNtSFms9NaW85dng7aX1Ug=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kurze Wartezeit\nAlle freundlich\nVielen Dank",
+      "time": 1785148691,
+      "translated": false
+    },
+    {
+      "author_name": "Bä Ka",
+      "author_url": "https://www.google.com/maps/contrib/102143745982259028976/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpHziikDvRxfAqG_r2xblcfIdV3MyJIVpjOKi1amXozePxeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn man einen Termin bekommen hat, ist der Arztbesuch sehr angenehm. Die Praxisräume sind sehr modern und freundlich. Möglichkeiten für einen unerwarteten Kurzcheck zur Klärung wenn einem Unwohl ist bei bestimmten Hauterscheinung ist ebenfalls gegeben. Nicht bei jeder Facharztpraxis üblich.\nIch bin seit über zehn Jahren Patient in der Praxis und von der fachlichen Kompetenz noch nie enttäuscht worden. Dies betrifft das gesamte Praxisteam um Dr. Haase.",
+      "time": 1785145918,
+      "translated": false
+    },
+    {
       "author_name": "Marie Barlow",
       "author_url": "https://www.google.com/maps/contrib/102526668927256768628/reviews",
       "language": "de",
@@ -1240,11 +1276,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2340,
+  "reviewCount": 2343,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-25T07:13:22.095Z"
+  "lastUpdated": "2026-07-28T07:36:05.160Z"
 }

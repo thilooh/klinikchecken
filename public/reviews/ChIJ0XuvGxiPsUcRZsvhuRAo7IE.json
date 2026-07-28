@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Inga Wöhlcke",
+      "author_url": "https://www.google.com/maps/contrib/101106212352429958119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhcf5SrEFKzPexI5oVAkSCWrWQBQSPp5vGKFtDqVzpjjEp4g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kaum Wartezeit, kompetente und ausführliche Beratung.\nFreundliche und zugewandte Ansprache durch Personal und Ärtz:innen.\nModernste Technik.\nAngenehmer Wertebereich.",
+      "time": 1785056283,
+      "translated": false
+    },
+    {
       "author_name": "K H",
       "author_url": "https://www.google.com/maps/contrib/104371760280314623361/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Eirini",
+      "author_url": "https://www.google.com/maps/contrib/109392943762188561875/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRYCftubzSBzawOCQJ3FEmpRk7G5mi_ySN3OY53fVUyqgJ1aQ7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die Beratung selbst war schnell und in Ordnung. Für eine Praxis, die man selbst bezahlen muss, ist das Sich-Lustig-Machen über den Nachnamen absolut inakzeptabel.",
+      "time": 1784554537,
+      "translated": false
+    },
+    {
       "author_name": "Kai Reifer",
       "author_url": "https://www.google.com/maps/contrib/109719705063957139412/reviews",
       "language": "de",
@@ -37,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Kai Reifer",
+      "author_url": "https://www.google.com/maps/contrib/109719705063957139412/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjgNaip1Xlq2YZ4arJZ5Pg3B7H5GMIYC52qvloGUVYCtlW5g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Im Gegensatz zu anderen Praxen eine klare Beratung.",
+      "time": 1784488399,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Neumann",
       "author_url": "https://www.google.com/maps/contrib/114285947104224064368/reviews",
       "language": "de",
@@ -44,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_hu4ekDJXCm-jhortRmkEfeR7vEd9gJdmxCKkfEAos3Ngag=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Hier findet man mit Hautproblemen eine riesige Auswahl an kompetenten Ärtzten. In meinem Fall habe ich hier Hilfe bekommen, die ich bei anderen gesetzlichen Ärtzten nicht bekommen habe. Die Kosten für einen Termin als Selbstzahler sind überschaubar(50-100€) Mit Glück und einem netten Hausartzt oder gesetzlichen Dermatologen kann man dann die hier verschriebenen Medikamente auch gesetzlich verschrieben bekommen. Falls nein muss man diese natürlich auch selbst bezahlen.",
+      "time": 1784379341,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Neumann",
+      "author_url": "https://www.google.com/maps/contrib/114285947104224064368/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_hu4ekDJXCm-jhortRmkEfeR7vEd9gJdmxCKkfEAos3Ngag=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Hier findet man mit Hautproblemen eine riesige Auswahl an kompetenten Ärtzten. In meinem Fall habe ich hier Hilfe bekommen, die ich bei anderen gesetzlichen Ärtzten nicht bekommen habe. Die Kosten für einen Termin als Selbstzahler sind überschaubar(50-100€) Mit Glück und einem netten Hausartzt oder gesetzlichen Dermatologen kann man dann die hier verschriebenen Medikamente auch gesetzlich verschrieben bekommen. Falls nein muss man diese natürlich auch selbst bezahlen.",
       "time": 1784379341,
       "translated": false
@@ -902,7 +950,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 443,
+  "reviewCount": 444,
   "summary": [],
-  "lastUpdated": "2026-07-25T07:13:15.276Z"
+  "lastUpdated": "2026-07-28T07:35:58.898Z"
 }

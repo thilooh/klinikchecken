@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "e c",
+      "author_url": "https://www.google.com/maps/contrib/104608219703363891590/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH36EKcHa_yGA8NhWSoll9b2Pt_M-4u1wM5ZnJQRZ-NT50AXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum zufrieden und kann die Praxis uneingeschränkt weiterempfehlen.\n\nBei mir wurde eine kleine Zyste entfernt. Der Eingriff verlief schnell, sauber und völlig unkompliziert. Ich habe mich während der gesamten Behandlung sehr gut aufgehoben gefühlt.\n\nDas gesamte Team ist freundlich, kompetent und gut organisiert – angefangen bei der Rezeption bis hin zum Arzt. Besonders positiv ist mir die ruhige und empathische Art des Arztes aufgefallen. Er nimmt sich Zeit, erklärt alles verständlich und sorgt dafür, dass man sich sicher fühlt. Diese Kombination aus fachlicher Kompetenz und Menschlichkeit findet man heute leider nicht mehr überall.\n\nVielen Dank an das gesamte Team! Ich würde jederzeit wiederkommen und kann die Praxis mit gutem Gewissen weiterempfehlen.",
+      "time": 1785141629,
+      "translated": false
+    },
+    {
       "author_name": "Edmund Hendus",
       "author_url": "https://www.google.com/maps/contrib/109304132484142860890/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6ERzq-BkAEVZ4tPUpy_vpzcR2XVYZIW0DSm2ICcq3GE9ZYQ=s128-c0x00000000-cc-rp-mo",
@@ -516,11 +528,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 118,
+  "reviewCount": 119,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:26.062Z"
+  "lastUpdated": "2026-07-28T07:36:08.832Z"
 }

@@ -73,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Bernhard Rypalla",
+      "author_url": "https://www.google.com/maps/contrib/104195221079928918210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW4QzQXH399ozZtL-YH4-vscqA09Icewt8Hcpr4x4OvQQnQHsI-w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Normale Wartezeit. Ruhig und kompetent. Ich bin rundum zufrieden.",
+      "time": 1783953779,
+      "translated": false
+    },
+    {
       "author_name": "Jacob Jaber",
       "author_url": "https://www.google.com/maps/contrib/106857988419303041140/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEdcMkBNt4i4kcbbFXwurXhe295UkG84lnd7zjESidHPimbQ=s128-c0x00000000-cc-rp-mo",
@@ -88,6 +100,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEdcMkBNt4i4kcbbFXwurXhe295UkG84lnd7zjESidHPimbQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783774316,
+      "translated": false
+    },
+    {
+      "author_name": "Jacob Jaber",
+      "author_url": "https://www.google.com/maps/contrib/106857988419303041140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEdcMkBNt4i4kcbbFXwurXhe295UkG84lnd7zjESidHPimbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783774316,
       "translated": false
@@ -844,5 +866,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-25T07:13:45.627Z"
+  "lastUpdated": "2026-07-28T07:36:26.684Z"
 }

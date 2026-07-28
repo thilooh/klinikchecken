@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tanja Blanke",
+      "author_url": "https://www.google.com/maps/contrib/103183806418540119641/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEgyPzZ4QdesQP6JLL9ixp15NjjEfYfUQOiTgxF1hjsdgTtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mehrere Termine in den letzten Wochen benötigt, Terminvergabe erfolgte unkompliziert. In der Praxis kaum Wartezeit, alle Mitarbeitenden sehr freundlich, ich habe mich sehr gut aufgehoben gefühlt.",
+      "time": 1784972322,
+      "translated": false
+    },
+    {
       "author_name": "Stefan König",
       "author_url": "https://www.google.com/maps/contrib/111856492864263952055/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMiSmmDKRL_j1eTzduui6JfiKRUjRVS4SyM32c7fvMEn3rDA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -12,6 +24,18 @@
     },
     {
       "author_name": "Cemal Karka",
+      "author_url": "https://www.google.com/maps/contrib/103566508310897081716/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfg-aHo-wJXcQpkg3ie1KSdgJoUMdHmN995q6TL6RpAYUdtQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vorgestern war ich beim Beratungsgespräch. Vorab wurde mir am Telefon gesagt, dass das Gespräch 50€ kostet und die Kosten für die eigentliche Behandlung mir der Arzt erst am Tag des Beratungsgesprächs nennen kann.\nBedeutet, erst ein Gespräch bezahlen ohne zu wissen ob Leberflecke entfernt werden können oder nicht.\n\nNach dem erfolgten Gespräch, konnten die Leberflecke nicht entfernt werden. Ein weiterer Termin war notwendig. Bedeutet, nochmal einen Termin vereinbaren und nochmal die Praxis aufsuchen.\n\nKurz vor der Behandlung habe ich den Arzt auf weitere Leberflecke angesprochen, worauf er sagte: ich müsse einen neuen Beratungstermin vereinbaren und dann noch einen weiteren für die separate Behandlung. Bedeutet, weitere 50€ wegen des neuen Gesprächs und weitere 150€ für die nächste Behandlung.\n\nMir kommt es vor, dass gewollt ist so viele Termine wie möglich abzuschließen. Ich fühle mich nicht gut aufgehoben und gehe dort nicht mehr hin.\n\nPositiv war, dass die Termine für Selbstzahler schnell zu vergeben waren.",
+      "time": 1784730940,
+      "translated": false
+    },
+    {
+      "author_name": "C. Karka",
       "author_url": "https://www.google.com/maps/contrib/103566508310897081716/reviews",
       "language": "de",
       "original_language": "de",
@@ -891,12 +915,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 259,
+  "rating": 4.5,
+  "reviewCount": 260,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-25T07:13:18.361Z"
+  "lastUpdated": "2026-07-28T07:36:01.699Z"
 }

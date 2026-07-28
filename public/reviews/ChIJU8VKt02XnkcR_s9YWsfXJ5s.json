@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Eder",
+      "author_url": "https://www.google.com/maps/contrib/105681889391653637086/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLua2CCQ-0NMPGVVm6XAsHNZJJIj33kv2YWK6lOoF_QoPo3pA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bis heute immer sehr zufrieden mit der Praxis und auch mit Frau Gkata, nur leider wurde ich heute sehr enttäuscht.\nIch benötige zeitnah einen Hautarzttermin für mein Kind, telefonisch ist es diese Woche leider nicht möglich die Praxis zu erreichen, daher bin ich heute mit meinem Kind zur Praxis gefahren um einen Termin zu vereinbaren.\nAber nein, sie nehmen KEINE NEUEN Patienten auch nicht obwohl das Kind schon beim Vorgänger dieser Praxis Patient war und auch nicht obwohl ich Patientin dieser Praxis bin.\n\nWo bekommt man den heute noch Termine bei Fachärzten, wenn man Neupatient ist?? Ich bin super enttäuscht, natürlich leiden wieder die Kinder darunter.",
+      "time": 1785176565,
+      "translated": false
+    },
+    {
+      "author_name": "Jochen Reus",
+      "author_url": "https://www.google.com/maps/contrib/103611186376908502346/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCkkuUJ6Y14UArwsTIYrv3u2WNjbqqxi_kZAaI8GAzMIP39Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784989791,
+      "translated": false
+    },
+    {
       "author_name": "C. K.",
       "author_url": "https://www.google.com/maps/contrib/118131771591942905228/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzB6-p_wWflsApgM4sroOYKcLgemYnmcSOYQFqSd7A3dYvOw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -23,6 +45,18 @@
       "translated": false
     },
     {
+      "author_name": "Daniel Gull",
+      "author_url": "https://www.google.com/maps/contrib/115591044138852275943/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHiHPvPrNkRCUve88NGM6pVv-u04x44nIPRg8rWeEhv_S7DA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ein ganz freundliches Team mit einer kompetenten Ärztin. Wir fühlen uns als Familie in dieser Praxis wirklich sehr gut aufgehoben. Man nimmt sich genug Zeit, um alles zu besprechen. Auch die kurzfristige Terminvereinbarung lief absolut reibungslos und Wartezeit gab es auch keine. So muss es sein!",
+      "time": 1784541295,
+      "translated": false
+    },
+    {
       "author_name": "Mari on",
       "author_url": "https://www.google.com/maps/contrib/100966721408926244700/reviews",
       "language": "de",
@@ -30,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZNXTqKIEuDIRKJtOhsRZETmNcDqhaNeG_XmTX3AdrqiNOMA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum ersten Mal in der Praxis und habe mich direkt wohlgefühlt. Das gesamte Team ist sehr freundlich und die Praxis ist modern und schön eingerichtet. Praktisch sind auch die Parkmöglichkeiten in der Parkgarage gegenüber.\n\nFrau Dr. Gkata ist eine sehr sympathische und kompetente Ärztin. Sie hat sich Zeit für mich genommen, aufmerksam zugehört und alle meine Fragen in Ruhe beantwortet. Ich habe mich bei ihr von Anfang an sehr gut aufgehoben gefühlt, da sie individuell auf ihre Patienten eingeht. Ich kann Frau Dr. Gkata von Herzen weiterempfehlen.",
+      "time": 1784458158,
+      "translated": false
+    },
+    {
+      "author_name": "Mari on",
+      "author_url": "https://www.google.com/maps/contrib/100966721408926244700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZNXTqKIEuDIRKJtOhsRZETmNcDqhaNeG_XmTX3AdrqiNOMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war zum ersten Mal in der Praxis und habe mich direkt wohlgefühlt. Das gesamte Team ist sehr freundlich und die Praxis ist modern und schön eingerichtet. Praktisch sind auch die Parkmöglichkeiten in der Parkgarage gegenüber.\n\nFrau Dr. Gkata ist eine sehr sympathische und kompetente Ärztin. Sie hat sich Zeit für mich genommen, aufmerksam zugehört und alle meine Fragen in Ruhe beantwortet. Ich habe mich bei ihr von Anfang an sehr gut aufgehoben gefühlt, da sie individuell auf ihre Patienten eingeht. Ich kann Frau Dr. Gkata von Herzen weiterempfehlen.",
       "time": 1784458158,
       "translated": false
@@ -744,11 +790,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 154,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-25T07:13:27.476Z"
+  "lastUpdated": "2026-07-28T07:36:10.131Z"
 }

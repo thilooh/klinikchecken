@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Silvio Skrapek",
+      "author_url": "https://www.google.com/maps/contrib/117550531422180566732/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGA4zoc1-72kV31Ne-zqUUwclJnKadvYYmSbq29Der6PleDR3M=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War Do zum Gespräch und heute zur Behandlung dort. Alle freundlich,  sauber. Nix zu beanstanden.",
+      "time": 1785160728,
+      "translated": false
+    },
+    {
+      "author_name": "Slavko Miladic",
+      "author_url": "https://www.google.com/maps/contrib/103302333035046281158/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMMYVmG7TdCcvfweRVNzXXhzyDSBunLnc71rlVKCT9RfD5dw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785054282,
+      "translated": false
+    },
+    {
       "author_name": "Werner Kurt Keller",
       "author_url": "https://www.google.com/maps/contrib/113864951402148797087/reviews",
       "language": "de",
@@ -10,6 +32,30 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Also das Krankenhaus verdient Anerkennung und lob in den höchsten Tönen",
       "time": 1784608912,
+      "translated": false
+    },
+    {
+      "author_name": "Werner Kurt Keller",
+      "author_url": "https://www.google.com/maps/contrib/113864951402148797087/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgXxLzQUxvsCc5GRK88ZGlltGy-vnpF3IWatqgsGTy3IUlU_0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Also das Krankenhaus verdient Anerkennung und lob in den höchsten Tönen",
+      "time": 1784608912,
+      "translated": false
+    },
+    {
+      "author_name": "Florian Kolper",
+      "author_url": "https://www.google.com/maps/contrib/116258399994682394600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtW9-3TXws4Hxk-fPxjd8YZW2Y8tsTEtSCcdUdrifn8ZrC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Bestes Krankenhaus das ich kenne.",
+      "time": 1784452221,
       "translated": false
     },
     {
@@ -38,6 +84,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU4dITUSxueGKjjypjp8GJcFPZVff8e7uc-8aS-5FPkXa7Ew=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1783839304,
+      "translated": false
+    },
+    {
+      "author_name": "Gabi Brandl",
+      "author_url": "https://www.google.com/maps/contrib/107775003479521147405/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU4dITUSxueGKjjypjp8GJcFPZVff8e7uc-8aS-5FPkXa7Ew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1783839304,
       "translated": false
@@ -900,11 +956,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 409,
+  "reviewCount": 411,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-25T07:13:27.012Z"
+  "lastUpdated": "2026-07-28T07:36:09.700Z"
 }

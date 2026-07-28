@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ismaeel Butt",
+      "author_url": "https://www.google.com/maps/contrib/101879784552299785688/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU15ThKeyKG8CW-fA0iHMM6Y61PUpLN_9BcVj9y7WLe1cZSPx4=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider war mein Besuch bei dieser Praxis eine große Enttäuschung.\n\nObwohl ich einen Termin hatte, musste ich trotzdem etwa 35 Minuten warten. Noch enttäuschender war jedoch der Umgang der Ärztin mit mir. Sie hat sich kaum Zeit genommen, meine Beschwerden anzuhören. Nach nicht einmal zwei Minuten hat sie das Behandlungszimmer wieder verlassen, ohne sich wirklich für mein Anliegen zu interessieren oder meine Situation ausreichend zu besprechen.\nSo sollte man Patienten nicht behandeln. Ich habe mich weder ernst genommen noch respektvoll betreut gefühlt.\nFür mich war das leider eine sehr unprofessionelle Erfahrung.\nIch werde diese Praxis nicht noch einmal aufsuchen und kann sie aufgrund meines Erlebnisses nicht weiterempfehlen.",
+      "time": 1785157332,
+      "translated": false
+    },
+    {
       "author_name": "Gürkan",
       "author_url": "https://www.google.com/maps/contrib/102021488414470743999/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt_sEf7d1IUwnG4Q7X1XvgfHQV9w9i48sTYfNQKuWNf1xLYw=s128-c0x00000000-cc-rp-mo",
@@ -138,6 +150,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGz3HeZbuiZzT2DbebncQyjZeYAh8JzHfYUa_hl2zwx0zViw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Schnell einen Termin bekommen und die MFAs an der Anmeldung waren wirklich freundlich.\n\nJetzt kommt leider das große Aber:\nDie Ärztin hat mich sehr von oben herab behandelt und meine Problematik überhaupt nicht ernst genommen. Sie hat mir einfach irgendwelche Tester gegeben, die gerade auf dem Tisch lagen, und meinte damit sei alles gut. Dabei weiß ich selbst, dass genau solche Proben bei fungal acne/problematischer Haut Trigger auslösen können.\n\nIch hatte die Rezensionen vorher gelesen, wollte mir aber trotzdem mein eigenes Bild machen. Im Nachhinein muss ich leider sagen, dass die Bewertungen für mich absolut nachvollziehbar sind.",
+      "time": 1780035817,
+      "translated": false
+    },
+    {
+      "author_name": "Merve Yakar",
+      "author_url": "https://www.google.com/maps/contrib/102477560712540737145/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGz3HeZbuiZzT2DbebncQyjZeYAh8JzHfYUa_hl2zwx0zViw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Schnell einen Termin bekommen und die MFAs an der Anmeldung waren wirklich freundlich.\n\nJetzt kommt leider das große Aber:\nDie Ärztin hat mich sehr von oben herab behandelt und meine Problematik überhaupt nicht ernst genommen. Sie hat mir einfach irgendwelche Tester gegeben, die gerade auf dem Tisch lagen, und meinte damit sei alles gut. Dabei weiß ich selbst, dass genau solche Proben bei fungal acne/problematischer Haut Trigger auslösen können.\n\nIch hatte die Rezensionen vorher gelesen, wollte mir aber trotzdem mein eigenes Bild machen. Im Nachhinein muss ich leider sagen, dass die Bewertungen für mich absolut nachvollziehbar sind.",
       "time": 1780035817,
       "translated": false
@@ -590,11 +614,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 118,
+  "reviewCount": 119,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:26.537Z"
+  "lastUpdated": "2026-07-28T07:36:09.272Z"
 }

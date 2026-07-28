@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Janine Schuh",
+      "author_url": "https://www.google.com/maps/contrib/105232996725887800123/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-cC1x7MLprO6YHkuv0HUdFKefoCvdQvMOdYOtjI33eHiHVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unfreundliche Ärztin, kann ich leider nicht empfehlen. Ich bin als Nicht-Bestandspatientin in die Notfallsprechstunde gekommen, nachdem ich vorher telefonisch angefragt habe und man mir sagte ich solle vorbei kommen. Im Behandlungszimmer hat Frau Dr. Dith sich dann leider völlig im Ton vergriffen und nur sehr widerwillig geholfen.",
+      "time": 1785136559,
+      "translated": false
+    },
+    {
       "author_name": "Ghassan Albakri",
       "author_url": "https://www.google.com/maps/contrib/103097168958917405837/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLGf27Hx4_RaIjHkgerxt_EVhOrbGveqf58IZWt73dqIokI5NIJA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Mein erster Besuch in dieser Praxis war sehr wertvoll und die Behandlung hoffentlich erfolgreich.\nMeine Zuversicht ist groß",
+      "time": 1784579603,
+      "translated": false
+    },
+    {
+      "author_name": "Klaus Schulze",
+      "author_url": "https://www.google.com/maps/contrib/102056198081023403029/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLGf27Hx4_RaIjHkgerxt_EVhOrbGveqf58IZWt73dqIokI5NIJA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Mein erster Besuch in dieser Praxis war sehr wertvoll und die Behandlung hoffentlich erfolgreich.\nMeine Zuversicht ist groß",
       "time": 1784579603,
       "translated": false
@@ -821,12 +845,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 232,
+  "rating": 4.6,
+  "reviewCount": 233,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:25.141Z"
+  "lastUpdated": "2026-07-28T07:36:07.980Z"
 }

@@ -283,6 +283,18 @@
       "translated": false
     },
     {
+      "author_name": "Peter Schneider",
+      "author_url": "https://www.google.com/maps/contrib/112065869236698280270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0j3GYYX1aX2bFjrtagQCcKMXs8KmTiKC44jEUS-rNn1Gfh_GXzQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Alles super Freundlich und guter Arztder alles Erklärt hat sehr zu empfehlen",
+      "time": 1779960653,
+      "translated": false
+    },
+    {
       "author_name": "M.S.M. Comedy",
       "author_url": "https://www.google.com/maps/contrib/109260418414713051621/reviews",
       "language": "de",
@@ -568,5 +580,5 @@
   "rating": 3.6,
   "reviewCount": 121,
   "summary": [],
-  "lastUpdated": "2026-07-25T07:13:12.054Z"
+  "lastUpdated": "2026-07-28T07:35:55.967Z"
 }

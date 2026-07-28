@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mathäus",
+      "author_url": "https://www.google.com/maps/contrib/106223355549707736247/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKguCRQHWj2Dd5O0VE3lo0PA121W_yJkL-frSXNL6Nj3rT2KQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann zu der Kompetenz und Behandlungen nicht viel sagen. Meine Rezension beruft sich allein auf einen telefonischen Austausch zur Anfrage der Kosten als Selbstzahler.\n\nUnd wenn diese nochmal den mehr als doppelten Preis von dessen zahlen, was die Praxis einer Privatversicherung in Rechnung stellen würde, dann ist das für mich Abzocke. Anders kann ich das nicht beschreiben.\n\nLaut GOÄ darf für eine HKS mit 3,5-fachen Satz 32,66€ in Rechnung gestellt werden. Der am Telefon durchgegebener Aufpreis neben der Erstuntersuchung lag bei über 100€. Wie ist das bitte zu rechtfertigen?\n\nDie Dame am Telefon war nett.",
+      "time": 1785134776,
+      "translated": false
+    },
+    {
       "author_name": "Marius W.",
       "author_url": "https://www.google.com/maps/contrib/102978574992407620536/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwELvrFUxAxTLHkqhileJ3QYy0P55BTm-mW6-GrJw0yEclUw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Termin bei Frau Ann-Chritine Glaser online gebucht. Sehr gründliche Untersuchung und wertvolle Tipps erhalten.\nIch kann die Praxis und Mitarbeiter nur empfehlen.",
+      "time": 1782392717,
+      "translated": false
+    },
+    {
+      "author_name": "Horst Derkum",
+      "author_url": "https://www.google.com/maps/contrib/101258662044086237927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwELvrFUxAxTLHkqhileJ3QYy0P55BTm-mW6-GrJw0yEclUw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Termin bei Frau Ann-Chritine Glaser online gebucht. Sehr gründliche Untersuchung und wertvolle Tipps erhalten.\nIch kann die Praxis und Mitarbeiter nur empfehlen.",
       "time": 1782392717,
       "translated": false
@@ -360,8 +384,8 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 66,
+  "rating": 4.2,
+  "reviewCount": 67,
   "summary": [],
-  "lastUpdated": "2026-07-25T07:13:07.650Z"
+  "lastUpdated": "2026-07-28T07:35:52.450Z"
 }

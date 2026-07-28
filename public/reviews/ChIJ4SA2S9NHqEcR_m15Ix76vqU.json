@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Sandra Lukaschek",
+      "author_url": "https://www.google.com/maps/contrib/105057815722783442719/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhGPljFdmOxxIH1X7_OXBnB_e9rMhKoqgdTfWg_nC8IWrR4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr nette Schwestern. Der Arzt eher am Geld verdienen interessiert. Meine Krampfadern kann angeblich keine Beschwerden auslösen. Die Untersuchung war eher eine Ferndiagnose und die Ultraschalluntersuchung dauerte keine 5 Sekunden. Das andere Bein wurde sich trotz Bitte überhaupt nicht angeschaut. Gott sei Dank habe ich ein Recht auf eine Zweitmeinung.",
+      "time": 1784371377,
+      "translated": false
+    },
+    {
       "author_name": "lydi112",
       "author_url": "https://www.google.com/maps/contrib/108522492176028944632/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF4iMgDKss_tOG50QpHUEHYLq891Ma37ookQaWB7K4P7T4PXB6=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Echt großartig",
+      "time": 1783868818,
+      "translated": false
+    },
+    {
+      "author_name": "lydi112",
+      "author_url": "https://www.google.com/maps/contrib/108522492176028944632/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF4iMgDKss_tOG50QpHUEHYLq891Ma37ookQaWB7K4P7T4PXB6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Echt großartig",
       "time": 1783868818,
       "translated": false
@@ -364,5 +388,5 @@
   "rating": 3.6,
   "reviewCount": 36,
   "summary": [],
-  "lastUpdated": "2026-07-25T07:13:13.459Z"
+  "lastUpdated": "2026-07-28T07:35:57.223Z"
 }

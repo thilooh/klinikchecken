@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jörg-Michael Holz",
+      "author_url": "https://www.google.com/maps/contrib/114311011292764626477/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWHsNSbjCdEuL_64NbBM451DGZBvDmByZU2qLRP4ZqWTO4Mw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Äußerst empathisches Praxisteam, fachlich sehr gute Behandlung. Sehr zu empfehlen.",
+      "time": 1785149314,
+      "translated": false
+    },
+    {
       "author_name": "Axel Humann",
       "author_url": "https://www.google.com/maps/contrib/103313849583365556292/reviews",
       "language": "de",
@@ -952,11 +964,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 392,
+  "reviewCount": 393,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:39.842Z"
+  "lastUpdated": "2026-07-28T07:36:21.393Z"
 }

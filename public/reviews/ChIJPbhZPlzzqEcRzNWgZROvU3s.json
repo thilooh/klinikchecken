@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "BTS Army am",
+      "author_url": "https://www.google.com/maps/contrib/104314208476648737079/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_FzARrZtrCGqBpuW2UAB1ObPcqcIwx9ZC1sfQt_PKdfLnTiQKNg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784992366,
+      "translated": false
+    },
+    {
       "author_name": "Reni Haase",
       "author_url": "https://www.google.com/maps/contrib/109984506475308859343/reviews",
       "language": "de",
@@ -686,11 +696,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 134,
+  "reviewCount": 135,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:35.116Z"
+  "lastUpdated": "2026-07-28T07:36:17.011Z"
 }

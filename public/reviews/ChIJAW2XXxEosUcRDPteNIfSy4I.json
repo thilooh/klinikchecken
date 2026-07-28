@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "Julia Paul",
+      "author_url": "https://www.google.com/maps/contrib/109034613747049363355/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIAb6q_yxU29yU-1FJoCrJFT-fWFQhfvRNv93E-fUji5RYyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1783321215,
+      "translated": false
+    },
+    {
       "author_name": "Werner Riebe",
       "author_url": "https://www.google.com/maps/contrib/114903077289160181124/reviews",
       "language": "de",
@@ -394,11 +404,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 117,
+  "reviewCount": 116,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-25T07:13:19.298Z"
+  "lastUpdated": "2026-07-28T07:36:02.545Z"
 }
