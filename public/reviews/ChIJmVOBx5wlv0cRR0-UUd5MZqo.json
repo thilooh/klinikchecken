@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lara Rasmussen",
+      "author_url": "https://www.google.com/maps/contrib/110279065408497114581/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiGFHqoIkYNkEOefwLeDQo507x6ouHqIMXtxtlRqGwedsqPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute war ich Patientin in der Praxis und wurde von Herrn Dr. Al- Mashhadani behandelt. Ich bin rundum zufrieden. Schon beim Betreten der Praxis wurde ich von den Mitarbeiterinnen an der Rezeption sehr freundlich und zuvorkommend empfangen.\n\nDie Praxis und das Wartezimmer sind modern, gepflegt und sehr ansprechend. Auch die Barrierefreiheit durch den Fahrstuhl ist ein großer Pluspunkt.\n\nHerr Dr. Al-Mashhadani war ausgesprochen freundlich, kompetent und hat sich Zeit genommen. Er hat direkt eine passende Lösung für mein Anliegen gefunden und ich habe mich bei ihm bestens aufgehoben gefühlt.\n\nAuch die Erreichbarkeit der Praxis ist hervorragend – sowohl mit der Straßenbahn als auch mit dem Auto. Dank des Parkhauses ist auch das Parken unkompliziert.\n\nInsgesamt eine sehr gut organisierte Praxis mit einem freundlichen Team. Herrn Dr. Al- Mashhadani  kann ich aufgrund meiner heutigen Erfahrung uneingeschränkt weiterempfehlen.",
+      "time": 1785412487,
+      "translated": false
+    },
+    {
       "author_name": "Liv",
       "author_url": "https://www.google.com/maps/contrib/102745927016921373622/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR1d7F9tutD4i4MgXarlvYJw0Dmg9wQgRuAHq-JtIV4a6aVA4=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut organisierte Praxis. Wenn man mit Termin kommt, wird dieser eingehalten und man muss max. 5min warten. Ärzt*innen sind sehr freundlich.",
+      "time": 1784640551,
+      "translated": false
+    },
+    {
+      "author_name": "Liv",
+      "author_url": "https://www.google.com/maps/contrib/102745927016921373622/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR1d7F9tutD4i4MgXarlvYJw0Dmg9wQgRuAHq-JtIV4a6aVA4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr gut organisierte Praxis. Wenn man mit Termin kommt, wird dieser eingehalten und man muss max. 5min warten. Ärzt*innen sind sehr freundlich.",
       "time": 1784640551,
       "translated": false
@@ -74,6 +98,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-LPV5p1dNjGSal4ssCh_OB9DY2aHy4meJsFn_DcmGLqcVAQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1783455217,
+      "translated": false
+    },
+    {
+      "author_name": "Aprikose",
+      "author_url": "https://www.google.com/maps/contrib/113607378652100700977/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-LPV5p1dNjGSal4ssCh_OB9DY2aHy4meJsFn_DcmGLqcVAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1783455217,
       "translated": false
@@ -643,7 +677,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 52,
+  "reviewCount": 53,
   "summary": [],
-  "lastUpdated": "2026-07-28T07:35:52.680Z"
+  "lastUpdated": "2026-07-31T07:48:17.557Z"
 }

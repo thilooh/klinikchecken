@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gianluca Runco",
+      "author_url": "https://www.google.com/maps/contrib/115376123174586217287/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLikwCc4ZxZYuIdcRm_v_BVFVO_BpBwxKSYdy_r5vbVNMQdSw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super kompetentes und nettes Team. Immer eine gute Lösung parat.\n\nGerne wieder.",
+      "time": 1785481078,
+      "translated": false
+    },
+    {
       "author_name": "BamBam2025 - Markus Leyes",
       "author_url": "https://www.google.com/maps/contrib/105464730019977578195/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoK2q_AP7doFeL7weKLbmaN111GKnY4B2c58yCz5U8E5KkXc8=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war jetzt ingesamt dreimal dort. Ich war jedesmal nach 30 bis 60 Minuten wieder am Auto. Gut durchorganisiert und trotz vieler Patienten geht es schnell. Empfang und Arzte sehr freundlich, nehmen sich trotzdem Zeit. Keine Oberflächlichkeit, sondern gründliche Untersuchung und Hinterfragung. Ich fühle mich super gut dort aufgehoben. Immer wieder gerne. Termine zu bekommen ist noch im Toleranzbereich. Auf jeden Fall sehr zu empfehlen !",
+      "time": 1784643702,
+      "translated": false
+    },
+    {
+      "author_name": "BamBam2025 - Markus Leyes",
+      "author_url": "https://www.google.com/maps/contrib/105464730019977578195/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoK2q_AP7doFeL7weKLbmaN111GKnY4B2c58yCz5U8E5KkXc8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war jetzt ingesamt dreimal dort. Ich war jedesmal nach 30 bis 60 Minuten wieder am Auto. Gut durchorganisiert und trotz vieler Patienten geht es schnell. Empfang und Arzte sehr freundlich, nehmen sich trotzdem Zeit. Keine Oberflächlichkeit, sondern gründliche Untersuchung und Hinterfragung. Ich fühle mich super gut dort aufgehoben. Immer wieder gerne. Termine zu bekommen ist noch im Toleranzbereich. Auf jeden Fall sehr zu empfehlen !",
       "time": 1784643702,
       "translated": false
@@ -73,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Dominik",
+      "author_url": "https://www.google.com/maps/contrib/116706777664804733529/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJiTd_XXf9B3X43WckcKGlLYdILiLfIsg0G3Wsr7qO-q8JCMc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr nette und kompetente Beratung 👍🏽",
+      "time": 1783596715,
+      "translated": false
+    },
+    {
       "author_name": "Elisabeth Lohmüller",
       "author_url": "https://www.google.com/maps/contrib/111263579864474089903/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-jEYcy8vLNggUD2b_Aae25u3tIQBGqsfZSiAdechhSUOKIQ=s128-c0x00000000-cc-rp-mo",
@@ -98,6 +134,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-jEYcy8vLNggUD2b_Aae25u3tIQBGqsfZSiAdechhSUOKIQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1783490144,
+      "translated": false
+    },
+    {
+      "author_name": "Elisabeth Lohmüller",
+      "author_url": "https://www.google.com/maps/contrib/111263579864474089903/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-jEYcy8vLNggUD2b_Aae25u3tIQBGqsfZSiAdechhSUOKIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1783490144,
       "translated": false
@@ -814,11 +860,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 74,
+  "reviewCount": 75,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:19.174Z"
+  "lastUpdated": "2026-07-31T07:48:44.107Z"
 }

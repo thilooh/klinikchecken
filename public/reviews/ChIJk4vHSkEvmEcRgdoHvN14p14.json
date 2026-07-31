@@ -25,11 +25,33 @@
       "translated": false
     },
     {
+      "author_name": "Vanessa Müller",
+      "author_url": "https://www.google.com/maps/contrib/102073499126496857622/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMdZup_wh8sDWdCp74xRSiVnnAHoUMFAj9tbMikvD_bt8ZNg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider kann ich diese Praxis nicht empfehlen. Ich hatte meine Krankenversicherungskarte vergessen und sofort bei meiner Krankenkasse angerufen, damit eine Mitgliedsbescheinigung direkt an die Praxis gefaxt wird. Die Arzthelferin hat mir jedoch dreimal eine falsche Faxnummer genannt, sodass die Bescheinigung nie ankam.\nTrotz meiner langen Anfahrt und eines vereinbarten Termins wurde ich sehr unfreundlich behandelt. Statt nach einer Lösung zu suchen, hatte ich das Gefühl, ignoriert zu werden. Dabei hätte die Mitgliedsbescheinigung das Problem problemlos lösen können.\nEin respektvoller und hilfsbereiter Umgang mit Patienten sollte selbstverständlich sein.\n\nMeine Erfahrung mit dem Praxispersonal war leider das Gegenteil.",
+      "time": 1784827692,
+      "translated": false
+    },
+    {
       "author_name": "Julia",
       "author_url": "https://www.google.com/maps/contrib/106474631732643140200/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF1Ow9TvFIthaVJEedpaHPcrGcstU-D0cCRimoJKlbBDTMz4GhnQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784671335,
+      "translated": false
+    },
+    {
+      "author_name": "Julia",
+      "author_url": "https://www.google.com/maps/contrib/106474631732643140200/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF1Ow9TvFIthaVJEedpaHPcrGcstU-D0cCRimoJKlbBDTMz4GhnQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1784671335,
       "translated": false
@@ -42,6 +64,28 @@
       "relative_time_description": "in der letzten Woche",
       "text": "",
       "time": 1784658687,
+      "translated": false
+    },
+    {
+      "author_name": "Veki",
+      "author_url": "https://www.google.com/maps/contrib/112596330584256779176/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuS3qG7_GOJvPUWuxo89rZhFoZreHamibNjWKw5A-CPf9NVAQ50w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1784658687,
+      "translated": false
+    },
+    {
+      "author_name": "Testo Petersen",
+      "author_url": "https://www.google.com/maps/contrib/107691966890847843859/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwgZJ0FOuAQ93WPQKKFr-m2bbiFmJBXipRvHpvNQi83pIJag=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Dringender Nachholbedarf bei Professionalität und Kundenfreundlichkeit ⭐\nDies ist bereits der zweite Versuch, meine Erfahrung hier zu teilen, nachdem die erste Bewertung auf Veranlassung der Praxis gelöscht wurde – ein kritischer Dialog scheint hier leider ebenso unerwünscht zu sein wie freundlicher Service.\n\nDie fachliche Ausrichtung der Praxis mag gegeben sein, aber der Service an der Anmeldung war bei unserem damaligem Termin schlicht inakzeptabel.\n\nWir wurden am Empfang von einer Mitarbeiterin derart genervt, pampig und von oben herab behandelt, wie ich es in einer Dienstleistungseinrichtung selten erlebt habe.\n\nStatt lösungsorientierter Kommunikation gab es unnötige Diskussionen und einen ausgesprochen ruppigen Tonfall – und das nicht nur uns gegenüber, sondern auch in der Wahrnehmung bei anderen Anwesenden.\nMan bekommt hier sehr deutlich das Gefühl vermittelt, als Patient ein störender Faktor zu sein.\n\nFachkompetenz ist das eine, aber ein Mindestmaß an Respekt und Empathie am Empfang sollte in einem medizinischen Versorgungszentrum Selbstverständlichkeit sein.\n\nDie Praxisleitung sollte dringend hinterfragen, ob dieses Auftreten an vorderster Front das Aushängeschild ist, das man seinen Patienten präsentieren möchte. Wir werden uns für die Zukunft definitiv eine andere Praxis suchen.",
+      "time": 1784650674,
       "translated": false
     },
     {
@@ -934,11 +978,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 201,
+  "reviewCount": 202,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:30.028Z"
+  "lastUpdated": "2026-07-31T07:48:55.035Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alina Wienert",
+      "author_url": "https://www.google.com/maps/contrib/102074755345207911909/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl3yodLAjXPgJru1jOrc1KEmZ4Bb4UtAcW8SK6qnr7II3kWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum ersten Mal bei Angelina Lutz zur Lippenunterspritzung & hatte etwas Angst vor der optischen Veränderung in meinem Gesicht. Sie glich kleine Asymmetrien meiner Lippen aus & perfektionierte meine Vorstellung schöner Lippen. Sie wird mich wiedersehen!",
+      "time": 1785330789,
+      "translated": false
+    },
+    {
       "author_name": "J ulia",
       "author_url": "https://www.google.com/maps/contrib/106695622524533277344/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt2dNMRnzmrgkWGfmBCP_4km6BbYgO4dKd810yYWkd_9Q4aA=s128-c0x00000000-cc-rp-mo",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt2dNMRnzmrgkWGfmBCP_4km6BbYgO4dKd810yYWkd_9Q4aA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1783419983,
+      "translated": false
+    },
+    {
+      "author_name": "J ulia",
+      "author_url": "https://www.google.com/maps/contrib/106695622524533277344/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt2dNMRnzmrgkWGfmBCP_4km6BbYgO4dKd810yYWkd_9Q4aA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1783419983,
       "translated": false
@@ -230,6 +252,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbNezXGQDKeX8gK6Rk9ry9Lv3b5JvZ2lNQ7UgjEDL-WK8Uhg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1777562761,
+      "translated": false
+    },
+    {
+      "author_name": "Bine Sule",
+      "author_url": "https://www.google.com/maps/contrib/117162916823649884168/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbNezXGQDKeX8gK6Rk9ry9Lv3b5JvZ2lNQ7UgjEDL-WK8Uhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1777562761,
       "translated": false
@@ -420,11 +452,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 113,
+  "reviewCount": 114,
   "summary": [
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen für Besenreiser-Behandlung",
     "Patienten empfehlen die Praxis weiter"
   ],
-  "lastUpdated": "2026-07-28T07:36:19.597Z"
+  "lastUpdated": "2026-07-31T07:48:44.543Z"
 }

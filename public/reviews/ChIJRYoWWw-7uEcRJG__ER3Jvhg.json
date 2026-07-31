@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "BronzeT",
+      "author_url": "https://www.google.com/maps/contrib/105871779662375026812/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXORScOCAJesmcLOsXWi2yHZgVFMRjnGIzltG6IcUVt58xYRWw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr professionelle Behandlung. Man fühlt sich von Anfang an gut aufgehoben und wird kompetent beraten. Auch die Nachbehandlung verlief unkompliziert und es wurde sich Zeit genommen, das Ergebnis noch weiter zu optimieren. Klare Empfehlung!",
+      "time": 1785406148,
+      "translated": false
+    },
+    {
       "author_name": "Heike Kösters",
       "author_url": "https://www.google.com/maps/contrib/103623854144862995326/reviews",
       "language": "de",
@@ -958,11 +970,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 221,
+  "reviewCount": 222,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-28T07:36:21.814Z"
+  "lastUpdated": "2026-07-31T07:48:46.773Z"
 }

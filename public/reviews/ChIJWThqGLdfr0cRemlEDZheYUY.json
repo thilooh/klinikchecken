@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Glossmann",
+      "author_url": "https://www.google.com/maps/contrib/102265824056432647673/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh8YBqa0dkHejpuRzvZ2MGd6O0NcDeNzAKdizwATEz4HhQjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schöner Aufenthalt, 👍 alle vom Pflege Personal sehr freundlich und hilfreich. Auch im OP waren alle sehr freundlich. Ich werde hier wieder kommen. Mit freundlichen Grüßen Andreas Grossmann",
+      "time": 1785418638,
+      "translated": false
+    },
+    {
+      "author_name": "D. Koe wassergemeinschaft",
+      "author_url": "https://www.google.com/maps/contrib/114917636318891860723/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZH7EChockZYvDiLxxIbg7hUTn-BytnMIuy1T0yp39xecbnJo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut organisiert, tolles nettes Personal sehr kompetent und freundlich, vielen herzlichen Dank. Patient Zimmer 8.",
+      "time": 1785231524,
+      "translated": false
+    },
+    {
       "author_name": "Torsten Behrens",
       "author_url": "https://www.google.com/maps/contrib/106919309045714366029/reviews",
       "language": "de",
@@ -13,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Torsten Behrens",
+      "author_url": "https://www.google.com/maps/contrib/106919309045714366029/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiagSV2zoTbdUvd2Ahtj_1mn6AkXjxXTI3aU9-i3dIUqzU3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr schönes Zimmer und sehr gutes und nettes Personal",
+      "time": 1784782336,
+      "translated": false
+    },
+    {
       "author_name": "Detlef Sobczak",
       "author_url": "https://www.google.com/maps/contrib/117843575529864293744/reviews",
       "language": "de",
@@ -20,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrxL1LPh8C9yNZ3RZ2UEiB6VeJBi8jRZSjTD8hBUbgUu5nQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "sehr freundliche Mitarbeiter und super Team 👍👍👍",
+      "time": 1784636126,
+      "translated": false
+    },
+    {
+      "author_name": "Detlef Sobczak",
+      "author_url": "https://www.google.com/maps/contrib/117843575529864293744/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrxL1LPh8C9yNZ3RZ2UEiB6VeJBi8jRZSjTD8hBUbgUu5nQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "sehr freundliche Mitarbeiter und super Team 👍👍👍",
       "time": 1784636126,
       "translated": false
@@ -942,11 +990,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 465,
+  "reviewCount": 467,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-07-28T07:36:04.505Z"
+  "lastUpdated": "2026-07-31T07:48:29.474Z"
 }

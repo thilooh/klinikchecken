@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marcel Freitag",
+      "author_url": "https://www.google.com/maps/contrib/113965645755183562119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6O1gnvAJ00cnXlTeR32WxmNu5eZbc5GHo0wihC8uAiScOOg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Diese Rezension ist stellvertretend von meiner werten Frau Mama.\nBetreff : Terminvergabe bei Frau Dr.Brugger. Ich wurde von meiner Hausärztin zur Frau Dr. Brugger überwiesen ( bin schon jahrelang Patientin bei Ihr) Telefonisch niemand erreichbar, keine E-Mail, keine Terminvergabe durch Krankenkasse, also bin ich persönlich hingefahren! Die medizinische Fachangestellte am Empfang behandelte mich wie den letzten Dreck! Brüllte mich an und sagte ich solle im Januar '27 mir einen neuen Termin geben lassen! So eine Art und Weise finde ich sehr grenzwertig. Am besten wäre es, dieser Mensch, sollte sich eine andere Arbeit suchen. 1 Stern 👎",
+      "time": 1785311211,
+      "translated": false
+    },
+    {
       "author_name": "Bettina",
       "author_url": "https://www.google.com/maps/contrib/105107630157404356129/reviews",
       "language": "de",
@@ -253,12 +265,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 61,
+  "rating": 4,
+  "reviewCount": 62,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:16.356Z"
+  "lastUpdated": "2026-07-31T07:48:41.300Z"
 }

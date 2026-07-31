@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Carmen gabriela Herciu",
+      "author_url": "https://www.google.com/maps/contrib/103161662790556567271/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDsVukdYN1h2CNGZ-kRZz5yowwn6pVJUtTQaZZ7_TnTbgACA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles super gelaufen alles bestens",
+      "time": 1785408763,
+      "translated": false
+    },
+    {
+      "author_name": "Gregor Wonigeit",
+      "author_url": "https://www.google.com/maps/contrib/111406466832126158703/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI78Xwcq54ko6HPpY5ujxP-w1NW729KWJOlY_2kdX7LjofVWg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es hat alles perfekt geklappt - angefangen von der Online-Terminierung, über die superkurze Wartezeit im Wartezimmer bis zu der sehr netten, schnellen und kompetenten Behandlung durch Herrn Dr. Haase.\nBesten Dank!",
+      "time": 1785259008,
+      "translated": false
+    },
+    {
+      "author_name": "D R",
+      "author_url": "https://www.google.com/maps/contrib/110552611621110555528/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_esTmIsGrTOvC5e3Ym3xrvpj8f1UVjJ2zXQqolKMs5KSo8w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war als Neupatient in der Praxis zur HautkrebsVorsorge. Sehr professionell aufgestellte Praxis mit modernen Geräten. Toller Beachtung: Die Screening Aufnahmen werden jeweils von Mitarbeitern im Geschlecht des Patienten angeboten",
+      "time": 1785245313,
+      "translated": false
+    },
+    {
+      "author_name": "Cornelia Huber",
+      "author_url": "https://www.google.com/maps/contrib/106856645710408966941/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXl51UwH-QPa8anvqzaziqFVh3pXw0z03sD5lR68wM2XMKT7hXGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte in Haus A zum ersten Mal einen Termin und musste nicht lange warten. Frau Dr. Niebuhr war sehr nett und auch die Dame am Empfang.",
+      "time": 1785232203,
+      "translated": false
+    },
+    {
       "author_name": "Friedhelm Krause",
       "author_url": "https://www.google.com/maps/contrib/112786851420988283382/reviews",
       "language": "de",
@@ -1276,11 +1324,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2343,
+  "reviewCount": 2347,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-28T07:36:05.160Z"
+  "lastUpdated": "2026-07-31T07:48:30.130Z"
 }

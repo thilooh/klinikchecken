@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Lᴀ Sᴀʀɪɴᴀ",
+      "author_url": "https://www.google.com/maps/contrib/106320684890456829512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoewdf-kfcdG5Ya2wGKqV-3nWqGHB8lgelyAxSKVFE-nE4hzBR=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider war ich von meinem Termin bei Dr. Patrick Link sehr enttäuscht. Ich hatte mir von einer Zweitmeinung deutlich mehr erhofft. Der Arzt war sehr kurz angebunden und ich musste vieles selbst hinterfragen und erfragen. Auf meine Anliegen wurde aus meiner Sicht nicht ausreichend eingegangen. Insgesamt hatte ich leider nicht das Gefühl, dass mir der Termin weitergeholfen hat. Sehr schade – die Zeit hätte ich mir sparen können.",
+      "time": 1785452694,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Sophie",
+      "author_url": "https://www.google.com/maps/contrib/110385299999751185591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_wOw0o6z8OrLEWO5rv7Kl2Wz-FVg2HtPA0cA9gH6wtkzDRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen verbindlichen Termin über Doctolib vereinbart. Dieser wurde kurzfristig aus „organisatorischen Gründen“ und „ersatzlos“ abgesagt. Ein neuer Termin konnte nicht vereinbart werden; auf Mails wurde nicht reagiert. Leider sehr enttäuschend und unprofessionell gerade in Anbetracht der Tatsache, dass man sehr lange Wartezeiten bei der Vereinbarung eines Hautarzttermines hat. Eine erneute Terminvereinbarung, wie in der Mail angegeben, war über Doctolib nicht möglich.",
+      "time": 1785441726,
+      "translated": false
+    },
+    {
+      "author_name": "Dojo Destroya",
+      "author_url": "https://www.google.com/maps/contrib/104613835444000448054/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGyKR9v55XJQs5WvlXl57-t_n_gmfamVMiJUq0P14ZHk7UT84z=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Frechheit, hatte seit 4 Monaten einen bestätigten Termin. Nun kommt heute (2 Tage vor dem Termin) eine Nachricht mit \"Aus organisatorischen Gründen müssen wir ihren Termin ersatzlos absagen\".",
+      "time": 1785319623,
+      "translated": false
+    },
+    {
       "author_name": "Giulia F.",
       "author_url": "https://www.google.com/maps/contrib/103628803210149139465/reviews",
       "language": "de",
@@ -22,6 +58,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Sehr sauber. extern freundliches und zuvorkommendes Personal. Das Personal wirkt fachlich sehr kompetent. Ich komme mit in guten Händen vor und komme gern wieder. Lediglich die Erreichbarkeit ist nicht gut.",
       "time": 1784879662,
+      "translated": false
+    },
+    {
+      "author_name": "Börnie OnTour",
+      "author_url": "https://www.google.com/maps/contrib/102175426251795507795/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSEM6CYfZM7zXljChnKQ6BFej2zUrNINI97Tp0L7qOSWH1sg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die telefonische Erreichbarkeit dieser Praxis war in unserem Fall leider nicht zufriedenstellend. Über mehrere Tage hinweg haben wir wiederholt versucht, telefonisch einen Termin zu vereinbaren. Dabei verbrachten wir jeweils bis zu einer Stunde in der Warteschleife – zeitweise mit drei Telefonleitungen gleichzeitig. Trotz des erheblichen Zeitaufwands kam kein Gespräch zustande.\n\nEine zuverlässige telefonische Erreichbarkeit ist für die Terminvereinbarung in einer Arztpraxis aus unserer Sicht wichtig. In diesem Punkt besteht daher deutlicher Verbesserungsbedarf.",
+      "time": 1784792821,
       "translated": false
     },
     {
@@ -811,12 +859,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 164,
+  "rating": 4.6,
+  "reviewCount": 167,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-28T07:36:09.911Z"
+  "lastUpdated": "2026-07-31T07:48:34.889Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ja H",
+      "author_url": "https://www.google.com/maps/contrib/104757613008047683012/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITWA_9l2qakNrIFUdVZ30O2wn0dDienF9vRq7hVRt4mtkD4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum zufrieden. Die Wartezeit war angenehm, die Behandlung kompetent und sorgfältig. Hervorheben möchte ich dass die Ärztin sehr empathisch und freundlich war. Ich habe mich gut aufgehoben gefühlt. Auch die Assistentin war sehr nett. Ich habe mich sehr wohl gefühlt. Vielen Dank.",
+      "time": 1785305961,
+      "translated": false
+    },
+    {
       "author_name": "Janine Schuh",
       "author_url": "https://www.google.com/maps/contrib/105232996725887800123/reviews",
       "language": "de",
@@ -116,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK92r0y6SntP95BpgD0P-ZilCP683325Gz0AJ0hsW327fQmYw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war heute zu zwei kleinen Eingriffen in der Praxis von Dr.Dith,und kann nur mein Danke aussprechen für die schnelle ,professionelle Hilfe  ,die mir zuteil wurde.\nAlles lief ,obwohl ich keinen festen Termin hatte,reibungslos ab.Sowohl die Ärztin als auch ihre Assistentin waren sehr fürsorglich.\nMan spürt beim ganzen Team,dass ihnen das Wohlergehen der Patienten  wichtig ist.\nIch möchte mich auf diesem Wege nochmals herzlich bedanken.\nKann die Praxis nur weiterempfehlen.",
+      "time": 1783440109,
+      "translated": false
+    },
+    {
+      "author_name": "Rosemarie Letizia",
+      "author_url": "https://www.google.com/maps/contrib/111658827093968693556/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK92r0y6SntP95BpgD0P-ZilCP683325Gz0AJ0hsW327fQmYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war heute zu zwei kleinen Eingriffen in der Praxis von Dr.Dith,und kann nur mein Danke aussprechen für die schnelle ,professionelle Hilfe  ,die mir zuteil wurde.\nAlles lief ,obwohl ich keinen festen Termin hatte,reibungslos ab.Sowohl die Ärztin als auch ihre Assistentin waren sehr fürsorglich.\nMan spürt beim ganzen Team,dass ihnen das Wohlergehen der Patienten  wichtig ist.\nIch möchte mich auf diesem Wege nochmals herzlich bedanken.\nKann die Praxis nur weiterempfehlen.",
       "time": 1783440109,
       "translated": false
@@ -846,11 +870,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 233,
+  "reviewCount": 234,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:07.980Z"
+  "lastUpdated": "2026-07-31T07:48:32.950Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Flower Power",
+      "author_url": "https://www.google.com/maps/contrib/116059765287661038357/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb5zLW1yFCJhdy13yhZvURIStH-JsnLkTHlG_nW2izV_HLSA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785360241,
+      "translated": false
+    },
+    {
       "author_name": "Suvada Vatic",
       "author_url": "https://www.google.com/maps/contrib/104181268896476133268/reviews",
       "language": "de",
@@ -68,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiqDyEC9l4_Q9B8IhyGQ_26j2JxLVGfzzbSoe65uAGlciitQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Eine Praxis, die ich nur weiterempfehlen kann. Ich war bei Frau Dr. Milka Janjic. Die Beratung und Behandlung waren hervorragend. Sie hat sich viel Zeit für mich genommen und alle meine Fragen ausführlich beantwortet. Ich habe mich sehr gut aufgehoben gefühlt und kann die Praxis sowie Frau Dr. Janjic uneingeschränkt empfehlen.",
+      "time": 1783581905,
+      "translated": false
+    },
+    {
+      "author_name": "Andrijana Carlan",
+      "author_url": "https://www.google.com/maps/contrib/100737582504617980154/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiqDyEC9l4_Q9B8IhyGQ_26j2JxLVGfzzbSoe65uAGlciitQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Eine Praxis, die ich nur weiterempfehlen kann. Ich war bei Frau Dr. Milka Janjic. Die Beratung und Behandlung waren hervorragend. Sie hat sich viel Zeit für mich genommen und alle meine Fragen ausführlich beantwortet. Ich habe mich sehr gut aufgehoben gefühlt und kann die Praxis sowie Frau Dr. Janjic uneingeschränkt empfehlen.",
       "time": 1783581905,
       "translated": false
@@ -734,11 +756,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 170,
+  "reviewCount": 171,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-28T07:36:17.237Z"
+  "lastUpdated": "2026-07-31T07:48:42.158Z"
 }

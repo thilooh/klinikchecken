@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ilhan Kizilkaya",
+      "author_url": "https://www.google.com/maps/contrib/109000541878090338635/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJC0Wg6otPks_TIQAMdzOu6ruzcX5eWd7jc6saXhTKAWXDSRZY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein wirklich bemerkenswerter Arzt und ein tolles Team!\nEffizient, kompetent und gleichzeitig freundlich.\nVor- und Nachteile eines Eingriffs, auch wenn es ein kleiner ist, werden schnell vermittelt und vernünftig abgewogen. Herr Dr. Wais vermittelt stets das Gefühl von Vertrauen.\nIch bin begeistert.",
+      "time": 1785310452,
+      "translated": false
+    },
+    {
       "author_name": "Dalibor Curcic",
       "author_url": "https://www.google.com/maps/contrib/112206565874288951133/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIid2_oevPDxgZSo8mjdCKLENGYc9YNWMJVEdiEWi3lYdm314Q=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich kann diese praxis sehr empfehlen sehr nettes Personal und endlich mal ein Arzt der klartext redet. Ich habe mich gut beraten gefühlt vielen Dank. Christiane Albrecht",
+      "time": 1783448363,
+      "translated": false
+    },
+    {
+      "author_name": "Christiane Albrecht",
+      "author_url": "https://www.google.com/maps/contrib/118118093445440867496/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIid2_oevPDxgZSo8mjdCKLENGYc9YNWMJVEdiEWi3lYdm314Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich kann diese praxis sehr empfehlen sehr nettes Personal und endlich mal ein Arzt der klartext redet. Ich habe mich gut beraten gefühlt vielen Dank. Christiane Albrecht",
       "time": 1783448363,
       "translated": false
@@ -842,11 +866,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 140,
+  "reviewCount": 141,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:22.660Z"
+  "lastUpdated": "2026-07-31T07:48:47.615Z"
 }

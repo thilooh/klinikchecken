@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Malermeisterbetrieb Akcay",
+      "author_url": "https://www.google.com/maps/contrib/115094317284127275732/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrr29cO0kvi3dTVerxVGuweCo5FVtTq6OAiWGH2cMY0_O1MVzo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785428155,
+      "translated": false
+    },
+    {
       "author_name": "Sabine Dörfer",
       "author_url": "https://www.google.com/maps/contrib/101787383638857682362/reviews",
       "language": "de",
@@ -224,6 +234,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLejoar0vRDvAYLslQTJZXlQ33GEKLm8zn53msaPoFWcixi4g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Wir haben 6 Wochen auf einen Termin gewartet, dieser wurde uns einen Tag vorher abgelehnt. Nach Beschwerde am Telefon sagte man uns, man behandle keine Patienten mit Lipödem mehr. Dies hätte überhand genommen..... Eine absolute Frechheit so mit Patienten umzugehen",
+      "time": 1780294301,
+      "translated": false
+    },
+    {
+      "author_name": "--",
+      "author_url": "https://www.google.com/maps/contrib/102030681001265411265/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLejoar0vRDvAYLslQTJZXlQ33GEKLm8zn53msaPoFWcixi4g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Wir haben 6 Wochen auf einen Termin gewartet, dieser wurde uns einen Tag vorher abgelehnt. Nach Beschwerde am Telefon sagte man uns, man behandle keine Patienten mit Lipödem mehr. Dies hätte überhand genommen..... Eine absolute Frechheit so mit Patienten umzugehen",
       "time": 1780294301,
       "translated": false
@@ -454,11 +476,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 85,
+  "reviewCount": 86,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:06.464Z"
+  "lastUpdated": "2026-07-31T07:48:31.438Z"
 }

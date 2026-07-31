@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Juliane von Meding",
+      "author_url": "https://www.google.com/maps/contrib/108825094993300041189/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHTfncyuZpo3LqA94DOoEsSuWQ1dfVQEwL--qpFYiBsqWZWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von der Aufnahme durch einen fröhlichen und freundlichen Mitarbeiter über die hervorragend und kompetent durchgeführte OP und die 2-tägige Rundumbetreuung durch stets zuvorkommendes und freundliches Personal bis zur Entlassung fühlte ich mich in der Klinik bestens aufgehoben und wohl. Kompetente und freundliche Mitarbeiter von den Pflegenden über Operateur und Anästhesist bis hin zum Reinigungspersonal. Auch das Essen war sehr gut. Die Klinik liegt absolut ruhig in schöner Gegend. Nette Apotheke nebenan. Empfehlenswert",
+      "time": 1785426068,
+      "translated": false
+    },
+    {
+      "author_name": "Robert Rathje",
+      "author_url": "https://www.google.com/maps/contrib/116469830854126459760/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhM6_LH068emlNKvPeE6yi9TuE_zjkY43mI1FWNLzvRLtWAg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785349406,
+      "translated": false
+    },
+    {
+      "author_name": "Talin schant",
+      "author_url": "https://www.google.com/maps/contrib/115283761934235533369/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUI2Bl31RRXZQ3CVS6i976sThdX9NMvQXkiY52fVHerJqAENmMG=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr geehrte Damen und Herren,\n\n2OG Station 8\n\nich möchte mich über die Betreuung meiner Oma beschweren, die seit mehreren Tagen im Vincentinum behandelt wird.\n\nLeider haben wir den Eindruck, dass es an der Kommunikation innerhalb des Teams erheblich mangelt. Unterschiedliche Mitarbeitende geben unterschiedliche Auskünfte oder wissen nicht über den aktuellen Stand Bescheid. Dadurch entsteht der Eindruck, dass sich niemand richtig abstimmt und wir als Angehörige keine verlässlichen Informationen erhalten.\n\nZusätzlich mussten wir mehrfach einen unfreundlichen und respektlosen Umgang erleben. Besonders eine Mitarbeiterin sowie ein weiterer Mitarbeiter sind uns gegenüber sehr unhöflich aufgetreten. Ein respektvoller Umgang mit Patienten und Angehörigen sollte selbstverständlich sein, gerade in einer Einrichtung, in der Menschen auf Hilfe und Unterstützung angewiesen sind.\n\nWir wünschen uns eine Stellungnahme zu diesen Vorfällen sowie eine Verbesserung der Kommunikation und des Umgangs mit Patienten und deren Angehörigen.",
+      "time": 1785342812,
+      "translated": false
+    },
+    {
       "author_name": "Silvio Skrapek",
       "author_url": "https://www.google.com/maps/contrib/117550531422180566732/reviews",
       "language": "de",
@@ -956,11 +990,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 411,
+  "reviewCount": 414,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-28T07:36:09.700Z"
+  "lastUpdated": "2026-07-31T07:48:34.673Z"
 }

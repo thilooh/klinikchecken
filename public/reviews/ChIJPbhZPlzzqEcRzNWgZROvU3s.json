@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "anke behrens",
+      "author_url": "https://www.google.com/maps/contrib/113616168447813351462/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-vNmAJhG5J4UnqUwNkRpo-dFRm2CN6zDGMtPAGCFSmKc_PA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785301485,
+      "translated": false
+    },
+    {
       "author_name": "BTS Army am",
       "author_url": "https://www.google.com/maps/contrib/104314208476648737079/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_FzARrZtrCGqBpuW2UAB1ObPcqcIwx9ZC1sfQt_PKdfLnTiQKNg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -42,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILZiK0-xHlcyzb8ka0OsGSbn2YozwNOERyEBXI0s1q2I1uTA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich gehe seit Jahren zu Frau Dr. Last und kann sie nur empfehlen. Sie nimmt sich Zeit und berät einen sehr kompetent.",
+      "time": 1783530660,
+      "translated": false
+    },
+    {
+      "author_name": "Reni Haase",
+      "author_url": "https://www.google.com/maps/contrib/109984506475308859343/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILZiK0-xHlcyzb8ka0OsGSbn2YozwNOERyEBXI0s1q2I1uTA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich gehe seit Jahren zu Frau Dr. Last und kann sie nur empfehlen. Sie nimmt sich Zeit und berät einen sehr kompetent.",
       "time": 1783530660,
       "translated": false
@@ -696,11 +718,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 135,
+  "reviewCount": 136,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:17.011Z"
+  "lastUpdated": "2026-07-31T07:48:41.947Z"
 }

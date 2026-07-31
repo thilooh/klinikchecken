@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Valerii Kleshchonok",
+      "author_url": "https://www.google.com/maps/contrib/105249299259044921360/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbRDH2FpKBeXzBv1sD-ycP9iVaG5_betx1r2StqVFuJ-v1s2WX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit dem Besuch bei Dr. med. Martin Hermans sehr zufrieden! Er ist ein echter Profi auf seinem Gebiet. Er hat aufmerksam zugehört, eine gründliche Untersuchung durchgeführt und alles verständlich erklärt. Die verschriebene Behandlung schlägt wirklich an, und das Wichtigste: keine unnötigen Tests oder Medikamente. Absolut empfehlenswert",
+      "time": 1785317229,
+      "translated": false
+    },
+    {
+      "author_name": "Ellen Michels",
+      "author_url": "https://www.google.com/maps/contrib/105642098480163775709/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUuEs7N1y8-zjqbGWHGGLQ9Mkys52b6u_t91s72YXGqhkkkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Über Dr. Herman kann ich nur das Beste berichten. Das Ergebnis meiner Lid-OP ist fantastisch. Trotz \"Brille\" ist keine Narbe zu erkennen!\nHerzlichen Dank auch an das so freundliche Team.",
+      "time": 1785235334,
+      "translated": false
+    },
+    {
       "author_name": "Roland Helbig",
       "author_url": "https://www.google.com/maps/contrib/102616717345196053147/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLql7sNN8iQP_ehDh9x9r9k_yIB3NFi3RwuhuBoU5CRKqylvg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Eu fui fazer un grande controle a pele .O doutor controlou a pele da cabeça até aos pés. Eu sentime muito confortável. As minhas perguntas forem todas respondidas.\nSaí de lá com um bom sentimento.\nAgora vou lá outra vez daqui a um ano.\nMuito obrigada pela atenção",
+      "time": 1784637103,
+      "translated": false
+    },
+    {
+      "author_name": "Heidi Hülhoven",
+      "author_url": "https://www.google.com/maps/contrib/112574367197229712236/reviews",
+      "language": "pt",
+      "original_language": "pt",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLql7sNN8iQP_ehDh9x9r9k_yIB3NFi3RwuhuBoU5CRKqylvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Eu fui fazer un grande controle a pele .O doutor controlou a pele da cabeça até aos pés. Eu sentime muito confortável. As minhas perguntas forem todas respondidas.\nSaí de lá com um bom sentimento.\nAgora vou lá outra vez daqui a um ano.\nMuito obrigada pela atenção",
       "time": 1784637103,
       "translated": false
@@ -934,11 +970,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 323,
+  "reviewCount": 325,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-28T07:36:28.754Z"
+  "lastUpdated": "2026-07-31T07:48:53.755Z"
 }

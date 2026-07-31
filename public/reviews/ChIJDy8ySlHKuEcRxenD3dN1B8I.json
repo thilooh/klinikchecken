@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "PaulG",
+      "author_url": "https://www.google.com/maps/contrib/108914495733172251314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAHlHzmEUCCVIc1i5BYLa7VJojRIi2ZJMAt1MkbxXfEA3hj4jP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super moderne und gut eingerichtete Praxis, Arzt und Personal kompetent und freundlich. Uneingeschränkt empfehlenswert!",
+      "time": 1785414962,
+      "translated": false
+    },
+    {
+      "author_name": "Heba Khal",
+      "author_url": "https://www.google.com/maps/contrib/117949800645497650335/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7HW_8ltAfkg9LnVrPMfUyTHzrjUD-QEs6jTHSDBmqRZHuBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kurze Wartezeit, professionelle Behandlung und eine angenehme Atmosphäre. Vielen Dank",
+      "time": 1785337297,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Köhler",
+      "author_url": "https://www.google.com/maps/contrib/114507353864781875461/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGJr0qtKwhdljZy_A1uqVDDNBFotbQRlOpJPRwnG4IKnScMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin jetzt schon seit über einem Jahr in Behandlung von Frau Steinkusch und bin mehr als zufrieden mit ihr!\nFrau Steinkusch ist sehr kompetent, nimmt sich Zeit und kontrolliert in regelmässigen Abständen meine Haut.\nIch bin sehr froh das sie in der Praxis von Prof. Dr. Gerber arbeitet und kann sie vollumfänglich weiterempfehlen.\nVIELEN DANK!",
+      "time": 1785319926,
+      "translated": false
+    },
+    {
+      "author_name": "Geraldine Sperlich",
+      "author_url": "https://www.google.com/maps/contrib/111858642108565148538/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU933wFjONQUEBru_HTQbAPi9-vzs6hutrh1R2Tk6LTDer2Ae8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War bei einer super lieben Ärztin die mich klasse beraten hat ! Habe much sehr gut aufgehoben gefühlt",
+      "time": 1785307994,
+      "translated": false
+    },
+    {
+      "author_name": "Jimu Kobayashi",
+      "author_url": "https://www.google.com/maps/contrib/101668624103012921095/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyeY75XZ-9ccO-yowiVO7AEIcjh5_QVD60TPwZZ7PEhG6BCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Durch meine Hauterkrankung war ich bisher bei sehr vielen Hautärzten und habe es teilweise aufgegeben.\n\nDoch Frau Dr. Steinkusch hat sich viel Zeit genommen, zugehört und die richtigen Fragen gestellt, sodass ich mich wirklich verstanden gefühlt habe. Sie hat sogar einen Kollegen hinzugenommen, um sich eine zweite Meinung einholen.\n\nDie gesamt Praxis schien mir sehr professionell, organisiert und freundlich.",
+      "time": 1785277183,
+      "translated": false
+    },
+    {
       "author_name": "Tom Deer",
       "author_url": "https://www.google.com/maps/contrib/118027894296918635074/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_1yNUBXsSfZVGpYYbQC-zQtgJ-Pq-FP9lkvi3wcdC_1aiRmg=s128-c0x00000000-cc-rp-mo",
@@ -947,7 +1007,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 229,
+  "reviewCount": 236,
   "summary": [],
-  "lastUpdated": "2026-07-28T07:35:54.194Z"
+  "lastUpdated": "2026-07-31T07:48:19.186Z"
 }

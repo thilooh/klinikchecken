@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lisa Kerstin Böhmer",
+      "author_url": "https://www.google.com/maps/contrib/103872549960096565622/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3yRpdIZt3URYH03PxQI3io2fbL15gMU8YSVGqU4YNPUlbghc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hallo,\n\nich hatte Mitte April meine Nasenoperation bei Herrn Professor Dr. Maier. Ich kann ihn und sein Team uneingeschränkt weiterempfehlen.\n\nNach über 20 Jahren habe ich mich endlich für eine Nasenkorrektur entschieden – und ich bin unglaublich froh, diesen Schritt gegangen zu sein. Das gesamte Team war vom ersten Termin bis zur Nachsorge sehr freundlich, kompetent und einfühlsam.\n\nHerr Professor Dr. Maier hat hervorragende Arbeit geleistet. Das Ergebnis sieht sehr natürlich aus und entspricht genau meinen Vorstellungen.\n\nVielen herzlichen Dank an Herrn Professor Dr. Maier und das gesamte Team!",
+      "time": 1785342111,
+      "translated": false
+    },
+    {
       "author_name": "Pelin Bag",
       "author_url": "https://www.google.com/maps/contrib/111925248894389414379/reviews",
       "language": "de",
@@ -578,11 +590,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 140,
+  "reviewCount": 141,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:11.224Z"
+  "lastUpdated": "2026-07-31T07:48:36.174Z"
 }

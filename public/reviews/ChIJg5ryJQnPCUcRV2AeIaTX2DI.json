@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nicolas",
+      "author_url": "https://www.google.com/maps/contrib/115669988382327086086/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZu6y5txut0sCxDXvUuehV79olqVifWMjDx3vZA4ReC5csSubFpA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundliches Team, kompetenter und einfühlsamer Arzt und noch leckerer Kaffee! Vielen Dank für den schnellen Termin!",
+      "time": 1785236799,
+      "translated": false
+    },
+    {
       "author_name": "Melanie G",
       "author_url": "https://www.google.com/maps/contrib/114897401242582459791/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7yjMWvh9utSCQwjbt8YNcRrwAQU7qr01LFHCwmVMlsG46hJRX=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher Arzt, der sich Zeit nimmt und auf Fragen eingeht. War zum Hautkrebsscreening da. Selbstzahlerleistung wird transparent kommuniziert.",
+      "time": 1784873794,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie G",
+      "author_url": "https://www.google.com/maps/contrib/114897401242582459791/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7yjMWvh9utSCQwjbt8YNcRrwAQU7qr01LFHCwmVMlsG46hJRX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundlicher Arzt, der sich Zeit nimmt und auf Fragen eingeht. War zum Hautkrebsscreening da. Selbstzahlerleistung wird transparent kommuniziert.",
       "time": 1784873794,
       "translated": false
@@ -152,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgu8oVkvqgPD4jFOFGM86ypBgDzbckkhBEO9OEqDCjhIK1aJs1=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Sehr freundlicher und professioneller Arzt und Mitarbeiter :)",
+      "time": 1780059611,
+      "translated": true
+    },
+    {
+      "author_name": "Nima Akbari Moghaddam",
+      "author_url": "https://www.google.com/maps/contrib/118320699544994322755/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgu8oVkvqgPD4jFOFGM86ypBgDzbckkhBEO9OEqDCjhIK1aJs1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Sehr freundlicher und professioneller Arzt und Mitarbeiter :)",
       "time": 1780059611,
       "translated": true
@@ -394,11 +430,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 117,
+  "reviewCount": 118,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-28T07:36:14.879Z"
+  "lastUpdated": "2026-07-31T07:48:39.813Z"
 }

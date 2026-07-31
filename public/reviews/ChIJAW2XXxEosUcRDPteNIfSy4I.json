@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Friederike Segelken",
+      "author_url": "https://www.google.com/maps/contrib/111870505178878896458/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqD16lDO9XLG5bRDhwE45Qu2jz3D2mo5l3qWLR6LeNBIve9Kzi5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gibt es den Arzt noch?\nDie Praxis geht nicht an Telefon.",
+      "time": 1785420062,
+      "translated": false
+    },
+    {
       "author_name": "Julia Paul",
       "author_url": "https://www.google.com/maps/contrib/109034613747049363355/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIAb6q_yxU29yU-1FJoCrJFT-fWFQhfvRNv93E-fUji5RYyA=s128-c0x00000000-cc-rp-mo",
@@ -404,11 +416,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 116,
+  "reviewCount": 117,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:02.545Z"
+  "lastUpdated": "2026-07-31T07:48:27.550Z"
 }

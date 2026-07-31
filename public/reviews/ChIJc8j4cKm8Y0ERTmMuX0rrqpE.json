@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Siddique",
+      "author_url": "https://www.google.com/maps/contrib/116333185177448572505/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxLyyv5uE6t-plyLaPsQW-r7AsZW7gT5a4cCHNnZc25H36tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "So sorry that I could not meet the doctor, because unfortunately there is no access for wheelchair. Though everywhere they wrote the opposite. So be careful, no wheelchair!",
+      "time": 1785225685,
+      "translated": false
+    },
+    {
       "author_name": "Dilek",
       "author_url": "https://www.google.com/maps/contrib/105533967459283953479/reviews",
       "language": "de",
@@ -589,8 +601,8 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 79,
+  "rating": 4.1,
+  "reviewCount": 80,
   "summary": [],
-  "lastUpdated": "2026-07-28T07:35:58.527Z"
+  "lastUpdated": "2026-07-31T07:48:23.524Z"
 }

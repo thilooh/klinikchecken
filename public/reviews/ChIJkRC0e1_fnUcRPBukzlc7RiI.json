@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Florin Antochi",
+      "author_url": "https://www.google.com/maps/contrib/111988835344762489389/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUqJDPcuy5WSoVexkmAgV6_wJ2YDqogOBuf47AxGKJyg2eUEXU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das gesamte Praxisteam ist sehr freundlich und top organisiert. Die Ärztin ist äußerst professionell, empathisch und nimmt sich die nötige Zeit, um alles im Detail zu erklären.",
+      "time": 1785439680,
+      "translated": false
+    },
+    {
       "author_name": "Miriam Divya",
       "author_url": "https://www.google.com/maps/contrib/104359904873376900170/reviews",
       "language": "en",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm_KVkAvi0bNtBWqBchbANjmsxi5aQw2NUa1j2EldamlBXxTwP=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Vorsicht. Ich bin zur Behandlung gekommen, wurde nicht behandelt und erhielt trotzdem eine Rechnung. Der Umgang war für mich respektlos, unter anderem mit der Aussage, ich hätte \"Tausende Blutschwämmchen\". Das Wartezimmer wirkt hochwertig, das Behandlungszimmer machte auf mich keinen professionellen Eindruck. Für mich zählt hier offenbar die Abrechnung mehr als der Patient. Ich kann diese Praxis nicht empfehlen.",
+      "time": 1783624188,
+      "translated": false
+    },
+    {
+      "author_name": "Ramona A.",
+      "author_url": "https://www.google.com/maps/contrib/114231870253040723446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm_KVkAvi0bNtBWqBchbANjmsxi5aQw2NUa1j2EldamlBXxTwP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Vorsicht. Ich bin zur Behandlung gekommen, wurde nicht behandelt und erhielt trotzdem eine Rechnung. Der Umgang war für mich respektlos, unter anderem mit der Aussage, ich hätte \"Tausende Blutschwämmchen\". Das Wartezimmer wirkt hochwertig, das Behandlungszimmer machte auf mich keinen professionellen Eindruck. Für mich zählt hier offenbar die Abrechnung mehr als der Patient. Ich kann diese Praxis nicht empfehlen.",
       "time": 1783624188,
       "translated": false
@@ -536,7 +560,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 118,
+  "reviewCount": 119,
   "summary": [],
-  "lastUpdated": "2026-07-28T07:35:57.672Z"
+  "lastUpdated": "2026-07-31T07:48:22.667Z"
 }

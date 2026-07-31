@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Günther",
+      "author_url": "https://www.google.com/maps/contrib/103262010568138242812/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2Z1uJjrP6YUX1KALG08GCRtMe8cM76OxApRn7VsklksmXVw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785227254,
+      "translated": false
+    },
+    {
       "author_name": "Patrick Fleischer",
       "author_url": "https://www.google.com/maps/contrib/108315926326470165282/reviews",
       "language": "de",
@@ -18,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUN077ROs7DJnlgam_1_YqiZYUrnjtc14Jda7ZB-7vXHU8Ik3pg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784738831,
+      "translated": false
+    },
+    {
+      "author_name": "Alexander Ortha",
+      "author_url": "https://www.google.com/maps/contrib/115415743837548226865/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUN077ROs7DJnlgam_1_YqiZYUrnjtc14Jda7ZB-7vXHU8Ik3pg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1784738831,
       "translated": false
@@ -59,6 +79,18 @@
       "translated": false
     },
     {
+      "author_name": "B. U.G.",
+      "author_url": "https://www.google.com/maps/contrib/105025311044511735564/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJQmasa30MkEPhA2C6xQbNdVhdFqf8qYrZqZKVuw9A-b7vLUU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kann mich den positiven Bewertungen nur anschließen. Dr. Cammerer und das Praxisteam machen einen super Job.",
+      "time": 1783520533,
+      "translated": false
+    },
+    {
       "author_name": "Heidi Kübler",
       "author_url": "https://www.google.com/maps/contrib/115420433362926495175/reviews",
       "language": "de",
@@ -90,6 +122,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0t_kQdaDJ4NBrelyRupyFtofmViOs7q6a5aiYFAN5WaTNog=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ein sehr freundlicher und kompetenter Arzt, der sich auch Zeit nimmt und Fragen beantwortet.",
+      "time": 1783503062,
+      "translated": false
+    },
+    {
+      "author_name": "Heidi Kübler",
+      "author_url": "https://www.google.com/maps/contrib/115420433362926495175/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0t_kQdaDJ4NBrelyRupyFtofmViOs7q6a5aiYFAN5WaTNog=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ein sehr freundlicher und kompetenter Arzt, der sich auch Zeit nimmt und Fragen beantwortet.",
       "time": 1783503062,
       "translated": false
@@ -652,11 +696,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 89,
+  "reviewCount": 90,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:11.436Z"
+  "lastUpdated": "2026-07-31T07:48:36.386Z"
 }

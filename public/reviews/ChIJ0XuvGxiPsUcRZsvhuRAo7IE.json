@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Melda Kirat",
+      "author_url": "https://www.google.com/maps/contrib/115808609677800652685/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5V_FpbgQFph84U6QWr4qafaf-Np1o-gQ2J8oL84GyQhr3MQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mir bei Dr. Eimer meine Augenringe unterspritzen lassen und habe mich von Anfang an sehr gut aufgehoben gefühlt. Sie ist super freundlich, nimmt sich Zeit und sagt ehrlich ihre Meinung, ohne einem etwas aufzudrängen. Die Behandlung war sehr angenehm, und ich kann sie auf jeden Fall weiterempfehlen.",
+      "time": 1785324784,
+      "translated": false
+    },
+    {
       "author_name": "Inga Wöhlcke",
       "author_url": "https://www.google.com/maps/contrib/101106212352429958119/reviews",
       "language": "de",
@@ -952,5 +964,5 @@
   "rating": 4.4,
   "reviewCount": 444,
   "summary": [],
-  "lastUpdated": "2026-07-28T07:35:58.898Z"
+  "lastUpdated": "2026-07-31T07:48:23.901Z"
 }

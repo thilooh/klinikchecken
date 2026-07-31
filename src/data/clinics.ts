@@ -12197,7 +12197,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: false,
     certified: true,
-    media: { logo: '/images/clinic-210/logo.svg', streetview: '/images/clinic-210/streetview.webp', map: '/images/clinic-210/map.webp' },
+    media: { logo: '/images/clinic-210/logo.webp', streetview: '/images/clinic-210/streetview.webp', map: '/images/clinic-210/map.webp' },
     photoCount: 3,
     lastInquiry: 'vor 3 Std.',
     featured: false,

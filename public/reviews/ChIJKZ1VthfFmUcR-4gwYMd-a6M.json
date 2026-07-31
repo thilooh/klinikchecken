@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "S Goul",
+      "author_url": "https://www.google.com/maps/contrib/102387729591917314984/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqWiPZEaaOZKzrBdU3_vK1mDr1NHAVJCmcjK8IISKzQMFF=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe ursprünglich einen Kassentermin gebucht und als ich da ankam hieß es, ich muss den Selbstzahler-Preis von 75€ bezahlen, weil ich Neupatient bin. Mein Mann musste das das letztes Mal jedoch nicht und er war Neupatient. Die haben die Kategorie in der Doctolib App einfach geändert nach meiner Buchung. Also ich komme hier jedenfalls nicht mehr hin, wenn man so auf den Arm genommen wird und sie die Kategorien wechseln wie die Unterhose! Für diejenigen die das als Selbstzahler buchen ist es ja oke, aber nicht wenn es vorher eine Kassenoption war und Sie dann mit der Ausrede kommen, dass man Neupatient ist. Einfach nur Abzocke. Dasselbe haben Sie übrigens einer Dame vor mir auch erzählt, worüber sie sehr überrascht war.",
+      "time": 1785248228,
+      "translated": false
+    },
+    {
       "author_name": "Ehsan Khozaei",
       "author_url": "https://www.google.com/maps/contrib/109992126667366006926/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKVaKL4SMzJYFeBeUok5rf4ovydMqTm7qMnFW2dGSBvJGajw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde von Frau Dr. Med. Hildenbrand bei einer Kopfinfektion/-Ekzem behandelt. Super freundliche, souveräne und freundliche Verhältnisse. Total zufrieden. Absolut empfehlenswert",
+      "time": 1784736908,
+      "translated": false
+    },
+    {
+      "author_name": "Ehsan Khozaei",
+      "author_url": "https://www.google.com/maps/contrib/109992126667366006926/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKVaKL4SMzJYFeBeUok5rf4ovydMqTm7qMnFW2dGSBvJGajw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich wurde von Frau Dr. Med. Hildenbrand bei einer Kopfinfektion/-Ekzem behandelt. Super freundliche, souveräne und freundliche Verhältnisse. Total zufrieden. Absolut empfehlenswert",
       "time": 1784736908,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWV8WOownbxPfGgC-PRBqDBcA2lw5rq4V5-IK1mpbJ-QXThCV4=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Hatte einen Termin bei Frau Dr. Hamann, nach 30 Minuten warten, ohne Info ob es noch länger dauert bin ich gegangen da ich ins Büro zurück musste, was den Assistentinnen dort aber auch egal war, Termine sind viel zu eng gesetzt, schlechte Termintreue!! Nichts für mich",
+      "time": 1784116464,
+      "translated": false
+    },
+    {
+      "author_name": "ralph bergann",
+      "author_url": "https://www.google.com/maps/contrib/102541162806153781759/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWV8WOownbxPfGgC-PRBqDBcA2lw5rq4V5-IK1mpbJ-QXThCV4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Hatte einen Termin bei Frau Dr. Hamann, nach 30 Minuten warten, ohne Info ob es noch länger dauert bin ich gegangen da ich ins Büro zurück musste, was den Assistentinnen dort aber auch egal war, Termine sind viel zu eng gesetzt, schlechte Termintreue!! Nichts für mich",
       "time": 1784116464,
       "translated": false
@@ -874,7 +910,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 317,
+  "reviewCount": 318,
   "summary": [],
-  "lastUpdated": "2026-07-28T07:36:00.844Z"
+  "lastUpdated": "2026-07-31T07:48:25.830Z"
 }

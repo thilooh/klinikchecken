@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Felix L",
+      "author_url": "https://www.google.com/maps/contrib/116797425669134206309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUiUNigVka90Cb20FN4ll2Z36SuzjmLYK45njz7GrX5cMwJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr schade, seit Juli 2026 nur noch mit Termin, dazu noch ziemlich unfreundlich!",
+      "time": 1784107113,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Peterhans",
       "author_url": "https://www.google.com/maps/contrib/108994668448943943577/reviews",
       "language": "de",
@@ -110,6 +122,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy8GbSOyajHLbmJry5cP2PSFwnpKzLE0kApCIl0D6ThdQCtg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1783519527,
+      "translated": false
+    },
+    {
+      "author_name": "Manfred",
+      "author_url": "https://www.google.com/maps/contrib/109006521823762025557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy8GbSOyajHLbmJry5cP2PSFwnpKzLE0kApCIl0D6ThdQCtg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1783519527,
       "translated": false
@@ -924,5 +946,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-28T07:36:12.282Z"
+  "lastUpdated": "2026-07-31T07:48:37.238Z"
 }

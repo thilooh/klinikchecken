@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "natalia königs",
+      "author_url": "https://www.google.com/maps/contrib/114920275248616992108/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKL3ia8iObxijnBlqiItVgpnDXOEkwE1iH6hn3QGa020iXQg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin absolut zu Frieden. Die Ärzte nehmen sich Zeit und beantworten alle Fragen in Ruhe.\nIch bin Kassenpatient!",
+      "time": 1785473399,
+      "translated": false
+    },
+    {
+      "author_name": "Daniela Geerlings",
+      "author_url": "https://www.google.com/maps/contrib/111691777338911184252/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmdea5slFj3XHUVJ26cbUfzICqD5BDtXjj-6vCh9LVrM2RB0JfUQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir waren heute zum ersten Mal als Familie zur Muttermalkontrolle in der Praxis und haben uns sehr gut aufgehoben gefühlt. Wir wurden sehr freundlich empfangen und mussten kaum warten. Die Ärztinnen, die uns behandelt haben, waren sehr freundlich, ruhig und emphatisch und haben alles in Ruhe besprochen.\nGanz herzlichen Dank dafür - auch für den liebevollen Umgang mit unserem Sohn ❤️\n\nWir können diese Praxis nur weiterempfehlen!",
+      "time": 1785332758,
+      "translated": false
+    },
+    {
       "author_name": "Roberto Bellotti",
       "author_url": "https://www.google.com/maps/contrib/111059465570481867115/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwrnfzMyP3hxk9965VcE1pZxdFtVp8inBX_49U7tMjRa3HrA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Meine Erfahrung bei Frau Dr.Venten war mehr als Positiv. Die 5 Sterne sind zu 100% verdient. Eventuell wäre ein 6 Stern durchaus verdient aber leider kann ich nur 5 Sterne vergeben. Meine Frau war als ‚Angstpatient‘ bei Frau Dr.Venten und Frau Dr.Venten alles mögliche daran gesetzt Ihr die Angst zu nehmen. Im ganzen und kurz gesagt. Es war einfach molto bene und meine Frau war von Frau Dr.Venten mehr als positiv überrascht. Vielen lieben Dank im Namen meiner Frau Brigitte Bellotti GRAZIE !!!!",
+      "time": 1784651481,
+      "translated": false
+    },
+    {
+      "author_name": "Roberto Bellotti",
+      "author_url": "https://www.google.com/maps/contrib/111059465570481867115/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwrnfzMyP3hxk9965VcE1pZxdFtVp8inBX_49U7tMjRa3HrA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Meine Erfahrung bei Frau Dr.Venten war mehr als Positiv. Die 5 Sterne sind zu 100% verdient. Eventuell wäre ein 6 Stern durchaus verdient aber leider kann ich nur 5 Sterne vergeben. Meine Frau war als ‚Angstpatient‘ bei Frau Dr.Venten und Frau Dr.Venten alles mögliche daran gesetzt Ihr die Angst zu nehmen. Im ganzen und kurz gesagt. Es war einfach molto bene und meine Frau war von Frau Dr.Venten mehr als positiv überrascht. Vielen lieben Dank im Namen meiner Frau Brigitte Bellotti GRAZIE !!!!",
       "time": 1784651481,
       "translated": false
@@ -218,6 +254,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_FLU1XS1tXUEUrfXac8b18DgIsLQZRRnyF-J5pVspxCih4w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Seit Jahren meine Praxis des Vertrauens und ich werde mir niemals eine Bessere vorstellen können. Freundlich, kompetent und jeder Termin gibt einem ein gutes Gefühl!\nAuch gerade eben wieder einen ganz tollen Termin gehabt, bei dem man einfach nur toll behandelt wird:)",
+      "time": 1780054455,
+      "translated": false
+    },
+    {
+      "author_name": "Ina R.",
+      "author_url": "https://www.google.com/maps/contrib/108388862378753902624/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_FLU1XS1tXUEUrfXac8b18DgIsLQZRRnyF-J5pVspxCih4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Seit Jahren meine Praxis des Vertrauens und ich werde mir niemals eine Bessere vorstellen können. Freundlich, kompetent und jeder Termin gibt einem ein gutes Gefühl!\nAuch gerade eben wieder einen ganz tollen Termin gehabt, bei dem man einfach nur toll behandelt wird:)",
       "time": 1780054455,
       "translated": false
@@ -534,11 +582,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 102,
+  "reviewCount": 104,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-28T07:36:20.754Z"
+  "lastUpdated": "2026-07-31T07:48:45.696Z"
 }

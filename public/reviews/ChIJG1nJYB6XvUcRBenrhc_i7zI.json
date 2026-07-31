@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Raik Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/118073775243608210729/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpZ2-4PDlJqW2EkGSGNxWuE-GhauQpmC6VTc5ZX0jQLXLePIE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war Patient in der Privatpraxis für Hautmedizin bei Dr\\. Kasten in Mainz und möchte meine Erfahrungen kurz schildern\\.\n\nDie organisatorischen Abläufe sowie die Kommunikation mit der Praxis waren aus meiner Sicht nicht zufriedenstellend\\. Telefonische Rückfragen konnten häufig nicht geklärt werden, sodass ich teilweise persönlich in die Praxis fahren musste, um sowohl die Ablehnung weiterer Behandlungen als auch einfache Anliegen zu besprechen\\.\n\nDer Umgang des Personals wirkte in mehreren Situationen wenig zugewandt und teilweise unfreundlich, was den Gesamteindruck zusätzlich negativ beeinflusste\\.\n\nZudem wurden Behandlungen ohne nachvollziehbare und transparente Begründung abgelehnt, was für mich nicht verständlich war und den Eindruck mangelnder Klarheit verstärkte\\.\n\nAufgrund dieser Erfahrungen habe ich die Behandlung in der Praxis beendet und bin zu einer anderen dermatologischen Praxis P",
+      "time": 1785481630,
+      "translated": false
+    },
+    {
       "author_name": "Charles Bagarie",
       "author_url": "https://www.google.com/maps/contrib/112692288391487092763/reviews",
       "language": "en",
@@ -11,6 +23,18 @@
       "text": "I am going there for several years now and can confirm that it is a really pleasant place with nice service. Easy to take appointment online, you receive email confirmation and you go with no waiting times in the waiting room. They are highly qualified, doctors and assistant and all of them speak germans and english fluently. Plenty of parking spaces. Customer services is 10/10.",
       "time": 1784873186,
       "translated": false
+    },
+    {
+      "author_name": "Charles Bagarie",
+      "author_url": "https://www.google.com/maps/contrib/112692288391487092763/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu59xtIp_Uq8gN6gpANjty6svQvu1UCBPx7zTRQc1hHyvuXw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich gehe seit einigen Jahren dorthin und kann bestätigen, dass es eine wirklich angenehme Praxis mit sehr gutem Service ist. Die Terminvereinbarung online ist unkompliziert, man erhält eine Bestätigung per E-Mail und muss im Wartezimmer nicht warten. Ärzte und Assistenten sind hochqualifiziert und sprechen fließend Deutsch und Englisch. Es gibt ausreichend Parkplätze. Der Kundenservice ist erstklassig (10/10).",
+      "time": 1784873186,
+      "translated": true
     },
     {
       "author_name": "Michelle Marie Shockley",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbVzSSjh9F3DJA1VRzgEPPvHaHPjvxv5xS1qgsDedWrCYBKW64=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Toller privates Hautarztpraxis. Ich bin bei 4 oder 5 drr Ärztinnen gewesen und alle sind klasse. Ich bin selbstzahler und manche Leistungen sind günstiger als erwartet.\n\nGanz wichtig! Wenn Sie ein Praxis mit einem feiner Laser für Rosacea suchen, hier ist der Ort! Nicht alle Hautärzte haben das richtige Gerät.",
+      "time": 1783454280,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle Marie Shockley",
+      "author_url": "https://www.google.com/maps/contrib/115406371964881221583/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbVzSSjh9F3DJA1VRzgEPPvHaHPjvxv5xS1qgsDedWrCYBKW64=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Toller privates Hautarztpraxis. Ich bin bei 4 oder 5 drr Ärztinnen gewesen und alle sind klasse. Ich bin selbstzahler und manche Leistungen sind günstiger als erwartet.\n\nGanz wichtig! Wenn Sie ein Praxis mit einem feiner Laser für Rosacea suchen, hier ist der Ort! Nicht alle Hautärzte haben das richtige Gerät.",
       "time": 1783454280,
       "translated": false
@@ -844,11 +880,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 230,
+  "reviewCount": 231,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-28T07:36:18.090Z"
+  "lastUpdated": "2026-07-31T07:48:43.027Z"
 }
