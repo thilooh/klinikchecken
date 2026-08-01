@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Maria Isabella Heigl",
+      "author_url": "https://www.google.com/maps/contrib/105044314481306057042/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5X-jpyGJDAZ1cw06lVCT7oj__VnVEqkSJVwDw8AeQ0SzcGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785503286,
+      "translated": false
+    },
+    {
       "author_name": "Mario Atzeni",
       "author_url": "https://www.google.com/maps/contrib/103237934502912791043/reviews",
       "language": "de",
@@ -611,11 +621,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-07-31T07:48:14.623Z"
+  "lastUpdated": "2026-08-01T07:25:18.751Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Pascal Schuh",
+      "author_url": "https://www.google.com/maps/contrib/112725283674285867191/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOHShCNObamjbzTqAieheWqd05YUIiAJVz1uaPaVU6iRDhrczT=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Beurteilung einer kleinen aber seit Monaten bestehenden Hautaufälligkeit bei Herrn Dr. med. Weisenseel im Dermatologikum Hamburg. Der Termin konnte mir online sehr schnell zugeteilt werden. Das Empfangspersonal war seher freundlich und die Atmosphäre im Wartezimmer sehr gemütlich. Der Hautarzt hatte sich in angemessener Weise Zeit für mich genommen und moderne Technik verwendet, sowie abschließend nachvollziehbare Weiterbehandlungsmethoden (Biopsie) vorgeschlagen. Ich kann diesen Arzt und Institution nur jedem empfehlen. Insbesondere Kassenpatienten (Selbstzahler)",
+      "time": 1785504755,
+      "translated": false
+    },
+    {
       "author_name": "Melda Kirat",
       "author_url": "https://www.google.com/maps/contrib/115808609677800652685/reviews",
       "language": "de",
@@ -962,7 +974,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 444,
+  "reviewCount": 445,
   "summary": [],
-  "lastUpdated": "2026-07-31T07:48:23.901Z"
+  "lastUpdated": "2026-08-01T07:25:29.973Z"
 }

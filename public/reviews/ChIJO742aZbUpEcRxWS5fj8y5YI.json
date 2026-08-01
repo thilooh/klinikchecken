@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Faycal Bouchama",
+      "author_url": "https://www.google.com/maps/contrib/111414112596254733195/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbj4VPxfBadLxnh9a-QLk-eKaryqf5YOi4Jt0t7Wz9GG8xLZn3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785558232,
+      "translated": false
+    },
+    {
       "author_name": "Alina Wienert",
       "author_url": "https://www.google.com/maps/contrib/102074755345207911909/reviews",
       "language": "de",
@@ -452,11 +462,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 114,
+  "reviewCount": 115,
   "summary": [
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen für Besenreiser-Behandlung",
     "Patienten empfehlen die Praxis weiter"
   ],
-  "lastUpdated": "2026-07-31T07:48:44.543Z"
+  "lastUpdated": "2026-08-01T07:25:52.447Z"
 }

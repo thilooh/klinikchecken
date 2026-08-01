@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "خيري بيشيمام Xeri Peshimam",
+      "author_url": "https://www.google.com/maps/contrib/112137436209162062364/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqYY2lAhfb3uUG0lEatngvSMyTleN1I20uH11oQ9iRtn5-wigF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Arztpraxis. Ich habe sehr schnell einen Termin bekommen und sehr respektvoll behandelt worden. Ich sage lieben Dank und empfehle jedem weiter.",
+      "time": 1785505125,
+      "translated": false
+    },
+    {
       "author_name": "Janusz Dregier",
       "author_url": "https://www.google.com/maps/contrib/108468620357190992753/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwYq7GopwgjIUNHhMKuzC5QNPNs5YS3xMqDd5JthkRAY63KEtq=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Habe mit meiner Frau ein Hautkrebs Screening bei Frau Dr. Barz gemacht. Wir würden noch nie so ausführlich und kompetent untersucht!\nGroßes Lob! Sehr zu empfehlen!",
+      "time": 1784893158,
+      "translated": false
+    },
+    {
+      "author_name": "Axel Humann",
+      "author_url": "https://www.google.com/maps/contrib/103313849583365556292/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwYq7GopwgjIUNHhMKuzC5QNPNs5YS3xMqDd5JthkRAY63KEtq=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Habe mit meiner Frau ein Hautkrebs Screening bei Frau Dr. Barz gemacht. Wir würden noch nie so ausführlich und kompetent untersucht!\nGroßes Lob! Sehr zu empfehlen!",
       "time": 1784893158,
       "translated": false
@@ -988,11 +1012,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 391,
+  "reviewCount": 392,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-31T07:48:46.336Z"
+  "lastUpdated": "2026-08-01T07:25:54.341Z"
 }

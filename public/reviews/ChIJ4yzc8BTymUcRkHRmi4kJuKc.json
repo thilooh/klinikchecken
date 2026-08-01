@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Isabella KW",
+      "author_url": "https://www.google.com/maps/contrib/109250059011315023104/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWJ5YmFSxaoC3kERdTT7iwfOQCHutwSV5adDoWs-6NxdAgSg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für Bestandspatienten gibt es die Möglichkeit, online einen Termin zu buchen, das vereinfacht die Terminsuche. Während dem Termin keine Wartezeit und zügige Behandlung. Leider fühlte ich mich von der behandelnden Ärztin nicht ernst genommen, als Therapie wurde mir empfohlen meine Nagelbettentzündung in Schwarztee zu baden. Nachdem die Beschwerden immer noch anhielten, bin ich 3 Wochen später zu meinem Hausarzt gegangen und habe umgehend ein passendes Antibiotikum verschrieben bekommen.",
+      "time": 1785502830,
+      "translated": false
+    },
+    {
       "author_name": "Ursula Egner",
       "author_url": "https://www.google.com/maps/contrib/104028631925996885648/reviews",
       "language": "de",
@@ -655,12 +667,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 85,
+  "rating": 4.7,
+  "reviewCount": 86,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-07-31T07:48:57.410Z"
+  "lastUpdated": "2026-08-01T07:26:06.412Z"
 }

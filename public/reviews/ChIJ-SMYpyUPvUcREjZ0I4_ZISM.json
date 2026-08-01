@@ -61,6 +61,16 @@
       "translated": false
     },
     {
+      "author_name": "AR Goldengirl",
+      "author_url": "https://www.google.com/maps/contrib/100649356120623361680/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhQsIj8IjPbhOonDHaQqqaCCwuSq9yI3z9LePRLRmYPlF9ng=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1783691917,
+      "translated": false
+    },
+    {
       "author_name": "Jasmin Anna",
       "author_url": "https://www.google.com/maps/contrib/109242019223323401420/reviews",
       "language": "de",
@@ -176,6 +186,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6z7IY37NTjPiajnP3sNZs2jt6S1kMRiR-A6DAYBA73sxiJQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Und Wunder gibt es doch noch… Frau Dr. Petrescu ist eine unwahrscheinlich sympathische, alles erklärende, sich Zeit nehmende, nicht geldmachende, absolut menschliche,…Dame, die den Titel eines Arztes wirklich verdient! Von Herzen danke ich ihr",
+      "time": 1782905446,
+      "translated": false
+    },
+    {
+      "author_name": "V A",
+      "author_url": "https://www.google.com/maps/contrib/107488838099507524799/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6z7IY37NTjPiajnP3sNZs2jt6S1kMRiR-A6DAYBA73sxiJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Und Wunder gibt es doch noch… Frau Dr. Petrescu ist eine unwahrscheinlich sympathische, alles erklärende, sich Zeit nehmende, nicht geldmachende, absolut menschliche,…Dame, die den Titel eines Arztes wirklich verdient! Von Herzen danke ich ihr",
       "time": 1782905446,
       "translated": false
@@ -748,5 +770,5 @@
   "rating": 4.9,
   "reviewCount": 158,
   "summary": [],
-  "lastUpdated": "2026-07-31T07:48:20.088Z"
+  "lastUpdated": "2026-08-01T07:25:25.601Z"
 }

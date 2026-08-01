@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Vladi B.",
+      "author_url": "https://www.google.com/maps/contrib/115748149430119119124/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbYenn7QB7DG6VliN5gk-VcQ-HHQkpC46mhMXf2tvnSf7PYFU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor ca. einem Jahr bei Dr. Alatassi, für ein professionelles Hautscreening. Alles super, sie hat sich Zeit genommen und über alles gründlich aufgeklärt. Tiptop.",
+      "time": 1785491213,
+      "translated": false
+    },
+    {
       "author_name": "Lisa Tomczak",
       "author_url": "https://www.google.com/maps/contrib/103782333649853564556/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_IXMRKSVIc3gUcmMWcA3G9NoNuGXsnabtYn0LxekD5GF_Nw=s128-c0x00000000-cc-rp-mo",
@@ -666,11 +678,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 120,
+  "reviewCount": 121,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-31T07:48:34.458Z"
+  "lastUpdated": "2026-08-01T07:25:41.473Z"
 }

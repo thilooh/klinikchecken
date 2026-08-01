@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Melina Pllx",
+      "author_url": "https://www.google.com/maps/contrib/100260470309780972523/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLP4f_4vgxr1qRlXLQ0XDPVWAb3daUu-EIvuSL7tXsIzduimA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785507201,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Stiffler",
       "author_url": "https://www.google.com/maps/contrib/112800373914533480496/reviews",
       "language": "de",
@@ -80,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLrkptZXeOWhaRyQe2zGjJh57_Ju8REUNlpMS21f4hHy28bQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich könnte nicht glücklicher mit meiner Entscheidung sein! Vom ersten Beratungsgespräch habe ich mich jederzeit bestens aufgehoben, ernst genommen und hervorragend betreut gefühlt.\n\nEin ganz besonderes Dankeschön geht an Dr. Alexandros Ignatiadis. Seine fachliche Kompetenz, seine ruhige und empathische Art sowie sein perfektes Gespür für Ästhetik haben mich von Anfang an überzeugt. Er hat sich viel Zeit genommen, all meine Fragen ausführlich beantwortet und mir ein sicheres Gefühl gegeben.\n\nDas Ergebnis hat meine Erwartungen sogar übertroffen. Meine Brust sieht wunderschön, natürlich und absolut harmonisch aus – genau so, wie ich es mir immer gewünscht habe. Schon direkt nach der Operation konnte ich erkennen, mit welcher Präzision und Sorgfalt gearbeitet wurde.\n\nAuch das gesamte Praxisteam verdient großes Lob. Alle Mitarbeiterinnen und Mitarbeiter waren unglaublich freundlich, herzlich und professionell. Man merkt sofort, dass hier das Wohl der Patientinnen an erster Stelle steht.\n\nIch kann Dr. Alexandros Ignatiadis und sein gesamtes Team aus tiefster Überzeugung weiterempfehlen. Wer einen außergewöhnlich kompetenten plastischen Chirurgen sucht und sich ein perfektes Ergebnis wünscht, ist hier in den besten Händen.\n\nVielen Dank für dieses neue Lebensgefühl!",
+      "time": 1783075209,
+      "translated": false
+    },
+    {
+      "author_name": "Elli Thiex",
+      "author_url": "https://www.google.com/maps/contrib/108283359140809024343/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLrkptZXeOWhaRyQe2zGjJh57_Ju8REUNlpMS21f4hHy28bQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich könnte nicht glücklicher mit meiner Entscheidung sein! Vom ersten Beratungsgespräch habe ich mich jederzeit bestens aufgehoben, ernst genommen und hervorragend betreut gefühlt.\n\nEin ganz besonderes Dankeschön geht an Dr. Alexandros Ignatiadis. Seine fachliche Kompetenz, seine ruhige und empathische Art sowie sein perfektes Gespür für Ästhetik haben mich von Anfang an überzeugt. Er hat sich viel Zeit genommen, all meine Fragen ausführlich beantwortet und mir ein sicheres Gefühl gegeben.\n\nDas Ergebnis hat meine Erwartungen sogar übertroffen. Meine Brust sieht wunderschön, natürlich und absolut harmonisch aus – genau so, wie ich es mir immer gewünscht habe. Schon direkt nach der Operation konnte ich erkennen, mit welcher Präzision und Sorgfalt gearbeitet wurde.\n\nAuch das gesamte Praxisteam verdient großes Lob. Alle Mitarbeiterinnen und Mitarbeiter waren unglaublich freundlich, herzlich und professionell. Man merkt sofort, dass hier das Wohl der Patientinnen an erster Stelle steht.\n\nIch kann Dr. Alexandros Ignatiadis und sein gesamtes Team aus tiefster Überzeugung weiterempfehlen. Wer einen außergewöhnlich kompetenten plastischen Chirurgen sucht und sich ein perfektes Ergebnis wünscht, ist hier in den besten Händen.\n\nVielen Dank für dieses neue Lebensgefühl!",
       "time": 1783075209,
       "translated": false
@@ -973,7 +995,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 376,
+  "reviewCount": 377,
   "summary": [],
-  "lastUpdated": "2026-07-31T07:48:18.884Z"
+  "lastUpdated": "2026-08-01T07:25:24.120Z"
 }

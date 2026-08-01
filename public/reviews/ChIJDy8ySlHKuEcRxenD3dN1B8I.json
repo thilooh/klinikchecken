@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Sven Danila",
+      "author_url": "https://www.google.com/maps/contrib/104841678774708038371/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGZcgMvKEcebX-7hKFLZKwG51bE812g4geIGK_zIhEa_wi6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785502942,
+      "translated": false
+    },
+    {
+      "author_name": "Laura Koch",
+      "author_url": "https://www.google.com/maps/contrib/102688123102861220834/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBuy_0EtpjIWW-Sgj86SJrurnbR1Gs4LNGYtfUTj38pT4lQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und effizient. Bin schnell dran gekommen und Top Beratung.",
+      "time": 1785484130,
+      "translated": false
+    },
+    {
       "author_name": "PaulG",
       "author_url": "https://www.google.com/maps/contrib/108914495733172251314/reviews",
       "language": "de",
@@ -1007,7 +1029,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 236,
+  "reviewCount": 238,
   "summary": [],
-  "lastUpdated": "2026-07-31T07:48:19.186Z"
+  "lastUpdated": "2026-08-01T07:25:24.427Z"
 }

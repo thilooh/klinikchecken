@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Methma de Silva",
+      "author_url": "https://www.google.com/maps/contrib/108019008926874290022/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpkpD4u1JgyYOeaIIUTbhMum3i9T1TT4bD3rHBtZ0C2wvI1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette und sympathische Ärztin. Ich habe mich sehr wohl gefühlt und auch das gesamte Team ist total nett. 😊",
+      "time": 1785487823,
+      "translated": false
+    },
+    {
       "author_name": "natalia königs",
       "author_url": "https://www.google.com/maps/contrib/114920275248616992108/reviews",
       "language": "de",
@@ -582,11 +594,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 104,
+  "reviewCount": 105,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-31T07:48:45.696Z"
+  "lastUpdated": "2026-08-01T07:25:53.659Z"
 }

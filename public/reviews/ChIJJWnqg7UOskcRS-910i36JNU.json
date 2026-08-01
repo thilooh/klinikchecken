@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Torsten Hildebrandt",
+      "author_url": "https://www.google.com/maps/contrib/112444194811667998896/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzokTkHOYTXmRt9ggmQ6nQkq9DGc35Tv0KG6feqvcgfKsZug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Niebuhr macht einen tollen Job.",
+      "time": 1785496765,
+      "translated": false
+    },
+    {
       "author_name": "Carmen gabriela Herciu",
       "author_url": "https://www.google.com/maps/contrib/103161662790556567271/reviews",
       "language": "de",
@@ -1324,11 +1336,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2347,
+  "reviewCount": 2348,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-07-31T07:48:30.130Z"
+  "lastUpdated": "2026-08-01T07:25:36.820Z"
 }

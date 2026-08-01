@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anke Loga",
+      "author_url": "https://www.google.com/maps/contrib/102057364566729127507/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwyAAscxeWokBaxShnkx_tHXhVw7_Hk99yncUY09pLZ4H3T84=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich in der MVZ Hansaklinik gut aufgehoben. Alle Mitarbeiter/innen sind sehr freundlich. Die Untersuchungen im Bereich Hautscreaning erfolgten sehr sorgfältig und die Laserbehandlungen bei Herrn Kirsch sind durch die netten Gespräche sehr angenehm. Herr Kirsch ist sehr freundlich und nimmt meine medizinischen Belange in jeder Hinsicht wahr. Ich kann seit Jahren nur Gutes von dem MVZ berichten.",
+      "time": 1785562925,
+      "translated": false
+    },
+    {
       "author_name": "Christine Rasche",
       "author_url": "https://www.google.com/maps/contrib/113279195561131057378/reviews",
       "language": "de",
@@ -1004,7 +1016,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 286,
+  "reviewCount": 287,
   "summary": [],
-  "lastUpdated": "2026-07-31T07:48:21.185Z"
+  "lastUpdated": "2026-08-01T07:25:27.033Z"
 }

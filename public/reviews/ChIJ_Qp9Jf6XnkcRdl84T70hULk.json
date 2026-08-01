@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marco Jordan",
+      "author_url": "https://www.google.com/maps/contrib/111232009325903865920/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISu5o4f6jOz0UudPij7Fyo9Hb4b7suS-w4VnPFKZ8XiUp4bQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vor fast einem halben Jahr hatte ich einen Termin vereinbart. Jetzt eine Woche vor diesem Termin wird mir dieser per Email abgesagt - Ohne Ersatztermin! Unfassbar!\nTelefonisch wird auf meine Nachfrage nicht mal reagiert.",
+      "time": 1785490896,
+      "translated": false
+    },
+    {
       "author_name": "Lᴀ Sᴀʀɪɴᴀ",
       "author_url": "https://www.google.com/maps/contrib/106320684890456829512/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9E8Jxr4X2qGytsFbG2ZQIFbvxC_hmjAgr0CldFrE8ygwErg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr sauber. extern freundliches und zuvorkommendes Personal. Das Personal wirkt fachlich sehr kompetent. Ich komme mit in guten Händen vor und komme gern wieder. Lediglich die Erreichbarkeit ist nicht gut.",
+      "time": 1784879662,
+      "translated": false
+    },
+    {
+      "author_name": "Christ Floki",
+      "author_url": "https://www.google.com/maps/contrib/112308348909226972649/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9E8Jxr4X2qGytsFbG2ZQIFbvxC_hmjAgr0CldFrE8ygwErg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr sauber. extern freundliches und zuvorkommendes Personal. Das Personal wirkt fachlich sehr kompetent. Ich komme mit in guten Händen vor und komme gern wieder. Lediglich die Erreichbarkeit ist nicht gut.",
       "time": 1784879662,
       "translated": false
@@ -866,5 +890,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-07-31T07:48:34.889Z"
+  "lastUpdated": "2026-08-01T07:25:41.943Z"
 }
