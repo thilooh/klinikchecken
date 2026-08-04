@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jürgen Hohl",
+      "author_url": "https://www.google.com/maps/contrib/117486686014220711177/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwE6sFZR24gFPZEo645_JEsN7DaaKBwx4dD8ckU7UPUBecnw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785746377,
+      "translated": false
+    },
+    {
       "author_name": "Ingolf Tietjen",
       "author_url": "https://www.google.com/maps/contrib/110803904600959576267/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCc9Q2epNGnQ0oa0N6fjaeJrjTDkDccIuGfsdkkbyL0UJNJA=s128-c0x00000000-cc-rp-mo-ba5",
@@ -116,6 +126,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzCu7X3dx32x8e3hS07E260Q3QxH-q-kak1YdlGo39P82cUDFb=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "0/100.\n\nAlles was die wollen ist GELD. Geht nicht dahin.",
+      "time": 1783059842,
+      "translated": false
+    },
+    {
+      "author_name": "Mom Ur",
+      "author_url": "https://www.google.com/maps/contrib/115743202037694324435/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzCu7X3dx32x8e3hS07E260Q3QxH-q-kak1YdlGo39P82cUDFb=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "0/100.\n\nAlles was die wollen ist GELD. Geht nicht dahin.",
       "time": 1783059842,
       "translated": false
@@ -610,11 +632,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 80,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:34.234Z"
+  "lastUpdated": "2026-08-04T07:36:49.909Z"
 }

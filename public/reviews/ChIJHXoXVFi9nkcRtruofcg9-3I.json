@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sanjin Suta",
+      "author_url": "https://www.google.com/maps/contrib/100640204861601019872/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXX3zI5FiqzSJRTXFenZ8o__D82PW8q8CANFVr604oxCo22J264=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nasenkorrektur+ Nasennebenhöhlen OP bei Dr. Reichert und Anästhesiologen Dr. Pfann alles super Einwandfrei und schmerzfrei.\nAllerdings muss ich einen besonderen Lob geben der Krankenschwester Frau Valentina Dakovic , 1 stock , Station 6... So eine Freundliche, nette,  hilfsbereite Krankenschwester habe ich selten erlebt, da die meisten um ehrlich zu sein doch nich viel Bok haben.\nDaher nochmals ein Großes Lob für die Frau Valentina Dakovic.\nVeliki pozdrav",
+      "time": 1785828376,
+      "translated": false
+    },
+    {
+      "author_name": "Heinz Berger",
+      "author_url": "https://www.google.com/maps/contrib/106886948354603377900/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJViCfnFqRwmZVV2d5vV5V5pkLcWXZPLkYvtY1I4QpMuAXbbw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top-Team",
+      "time": 1785667844,
+      "translated": true
+    },
+    {
       "author_name": "Juliane von Meding",
       "author_url": "https://www.google.com/maps/contrib/108825094993300041189/reviews",
       "language": "de",
@@ -990,11 +1014,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 413,
+  "reviewCount": 415,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-01T07:25:41.703Z"
+  "lastUpdated": "2026-08-04T07:36:57.399Z"
 }

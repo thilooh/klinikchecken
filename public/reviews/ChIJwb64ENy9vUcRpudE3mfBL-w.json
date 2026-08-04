@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "David Naumann",
+      "author_url": "https://www.google.com/maps/contrib/107876694052164216207/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJpq_Fw8RorVRmddD9S8pIyt_n5Rd1fYUxqPibDpF9y6x_ZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785676468,
+      "translated": false
+    },
+    {
       "author_name": "Jasmina Bouchouaf",
       "author_url": "https://www.google.com/maps/contrib/105377177828538589710/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFgLhHI7GHrVJh4ZaFxFZtBjWJXnwEEXP14OxNpYP9QRrY1w=s128-c0x00000000-cc-rp-mo",
@@ -94,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpRLAsJCPBe_flbb2JKAoj4_Gb3KJHiYfWVP2tjWVjILi5NQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich komme schon seit Jahren sehr gerne hierhin!",
+      "time": 1783365536,
+      "translated": false
+    },
+    {
+      "author_name": "Chrissi",
+      "author_url": "https://www.google.com/maps/contrib/103685581011043095613/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpRLAsJCPBe_flbb2JKAoj4_Gb3KJHiYfWVP2tjWVjILi5NQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich komme schon seit Jahren sehr gerne hierhin!",
       "time": 1783365536,
       "translated": false
@@ -728,11 +750,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 148,
+  "reviewCount": 149,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:50.114Z"
+  "lastUpdated": "2026-08-04T07:37:05.792Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Eileen Lietzmann",
+      "author_url": "https://www.google.com/maps/contrib/101314437044886837224/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdeaGP8BgsuS0KIkoiX2QsKcsbf7kpm27uQNn2ODcsMFuLVYo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin unglaublich dankbar, diese Praxis gefunden zu haben. Von Anfang an wurde hier nicht nur auf die äußere Schönheit geschaut, sondern vor allem auf das, was dahinter steckt. Mir ging es gesundheitlich nicht gut, und anstatt mir wie woanders üblich sofort eine ästhetische Behandlung zu empfehlen, wurde mir zunächst dabei geholfen, meinen Körper und meine Gesundheit wieder ins Gleichgewicht zu bringen. Dadurch konnte ich vieles in meinem Leben positiv verändern und fühle mich heute deutlich gesünder und fitter.\n\nBesonders beeindruckt hat mich die Philosophie der Praxis: Hier geht es nicht darum, Menschen zu verändern, sondern ihre natürliche Schönheit zu unterstreichen. Genau das war mir sehr wichtig. Es wird mit viel Feingefühl darauf geachtet, das Beste aus jedem Menschen herauszuholen, sodass das Ergebnis immer harmonisch, natürlich und authentisch aussieht – niemals künstlich oder übertrieben. Für mich zeigt sich hier ganz klar, dass wahre Schönheit auch von innen kommt. Nur wenn der Körper gesund ist, kann er seine natürliche Ausstrahlung entfalten.\n\nNachdem ich mich gesundheitlich wieder wohlgefühlt habe, habe ich mir eine ästhetische Behandlung im Gesicht gegönnt. Das Ergebnis hat mich sehr begeistert. Es sieht wunderschön, frisch und vor allem absolut natürlich aus.\n\nAuch die Praxis selbst ist ein echter Wohlfühlort: Die Räumlichkeiten sind modern, stilvoll und mit viel Liebe zum Detail gestaltet. Das gesamte Team ist ausgesprochen herzlich, aufmerksam und hochprofessionell. Man fühlt sich vom ersten Moment an bestens aufgehoben.\n\nBesonders schätze ich, dass hier jeder Mensch individuell betrachtet wird. In der heutigen Zeit ist es leider nicht mehr selbstverständlich, eine Praxis zu finden, die sich wirklich Zeit für ihre Patienten nimmt und auf ihre persönliche Geschichte eingeht, anstatt auf Masse zu arbeiten. Genau dieses persönliche, ganzheitliche Konzept macht diese Praxis für mich so besonders.\n\nIch freue mich schon sehr auf meine nächste Behandlung und kann diese Praxis von ganzem Herzen weiterempfehlen. Wer natürliche Ergebnisse, höchste Professionalität und eine individuelle Betreuung sucht, ist hier genau richtig. Vielen Dank an das gesamte Team für die herzliche Begleitung und die hervorragende Arbeit!\n\nPs: hört euch gerne mal den Podcast an, oder schaut bei Instagram vorbei. Dort werden viele Themen super offen und ehrlich erklärt :)",
+      "time": 1785752789,
+      "translated": false
+    },
+    {
+      "author_name": "Tryne L.",
+      "author_url": "https://www.google.com/maps/contrib/113213081796595689352/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLub_FbCLjrxAXBdUkSAz4sVst_h7aabCxg5-OrItNa9Kqqgw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vor 6 Monaten habe ich eine Oberlidstraffung bei Frau Dr. Last vornehmen lassen. In der Vorbereitung wurde ich sehr umfassend beraten. Auch am  Operationstag wurde mir alles erläutert. Ich fühlte mich in guten Händen. Die Wunden heilten schnell und schon nach knapp  zwei Wochen konnte ich wieder \"unter Leute\"  gehen.\nDas Ergebnis kann sich wirklich sehen. Ich bin absolut begeistert. Ich sehe nicht mehr müde aus, meine Augen strahlen wieder und es ist so gut wie keine Narbe zu erkennen. Danke!",
+      "time": 1785641995,
+      "translated": false
+    },
+    {
       "author_name": "anke behrens",
       "author_url": "https://www.google.com/maps/contrib/113616168447813351462/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-vNmAJhG5J4UnqUwNkRpo-dFRm2CN6zDGMtPAGCFSmKc_PA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -16,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_FzARrZtrCGqBpuW2UAB1ObPcqcIwx9ZC1sfQt_PKdfLnTiQKNg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1784992366,
+      "translated": false
+    },
+    {
+      "author_name": "BTS Army am",
+      "author_url": "https://www.google.com/maps/contrib/104314208476648737079/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_FzARrZtrCGqBpuW2UAB1ObPcqcIwx9ZC1sfQt_PKdfLnTiQKNg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1784992366,
       "translated": false
@@ -718,11 +752,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 136,
+  "reviewCount": 138,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:49.657Z"
+  "lastUpdated": "2026-08-04T07:37:05.330Z"
 }

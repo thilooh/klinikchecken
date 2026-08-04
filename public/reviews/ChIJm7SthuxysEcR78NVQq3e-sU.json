@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Lou Lou",
+      "author_url": "https://www.google.com/maps/contrib/108732552906540168385/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXSCajVqNBVmP-wAvVX7doW69PtyEEpJ_k9uVE4OPDmXD7rNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Fachlich , naja\nalles schnell schnell & Herr Spyridon Matziris würde ich nicht empfehlen, kaum zu verstehen und fährt einen über den Mund!\nIch war wegen meiner Tochter vor Ort und der Arzt hat mich voll gequatscht das ich meine Narbe ( die nicht von dort stammt) gegen Gebühr dort Lasern lassen kann/soll!\nVöllig daneben",
+      "time": 1785126666,
+      "translated": false
+    },
+    {
       "author_name": "Tanja Blanke",
       "author_url": "https://www.google.com/maps/contrib/103183806418540119641/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEgyPzZ4QdesQP6JLL9ixp15NjjEfYfUQOiTgxF1hjsdgTtw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mehrere Termine in den letzten Wochen benötigt, Terminvergabe erfolgte unkompliziert. In der Praxis kaum Wartezeit, alle Mitarbeitenden sehr freundlich, ich habe mich sehr gut aufgehoben gefühlt.",
+      "time": 1784972322,
+      "translated": false
+    },
+    {
+      "author_name": "Tanja Blanke",
+      "author_url": "https://www.google.com/maps/contrib/103183806418540119641/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEgyPzZ4QdesQP6JLL9ixp15NjjEfYfUQOiTgxF1hjsdgTtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe mehrere Termine in den letzten Wochen benötigt, Terminvergabe erfolgte unkompliziert. In der Praxis kaum Wartezeit, alle Mitarbeitenden sehr freundlich, ich habe mich sehr gut aufgehoben gefühlt.",
       "time": 1784972322,
       "translated": false
@@ -962,11 +986,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 263,
+  "reviewCount": 264,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-01T07:25:33.023Z"
+  "lastUpdated": "2026-08-04T07:36:48.750Z"
 }

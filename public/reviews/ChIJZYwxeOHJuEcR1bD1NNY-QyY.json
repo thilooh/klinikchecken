@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Laurenz",
+      "author_url": "https://www.google.com/maps/contrib/106355888549325568428/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL82jAoJcppLkfNnllKRdm_U_XiNsX8YRTIkR5c8-qkgDrii1hY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ärztin hat eine OP schlecht ausgeführt - habe nun eine unnötige und schmerzhafte Narbe. Sie weiß grundlegende Dinge nicht, ist vergesslich und allgemein entweder inkompetent oder böswillig.",
+      "time": 1785708804,
+      "translated": false
+    },
+    {
       "author_name": "Christian Wrobel",
       "author_url": "https://www.google.com/maps/contrib/101663066271222948133/reviews",
       "language": "de",
@@ -733,7 +745,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 97,
+  "reviewCount": 98,
   "summary": [],
-  "lastUpdated": "2026-08-01T07:25:25.058Z"
+  "lastUpdated": "2026-08-04T07:36:40.994Z"
 }

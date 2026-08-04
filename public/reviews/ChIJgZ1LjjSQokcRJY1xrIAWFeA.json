@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/111258490630399828038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl8rsiP2Bx4hAxGtwXWXQNBfBIxrEio2Zn-X6pfCra9yrTLw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785579215,
+      "translated": false
+    },
+    {
       "author_name": "e_bozz",
       "author_url": "https://www.google.com/maps/contrib/100523091596751098419/reviews",
       "language": "de",
@@ -200,6 +210,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKijjVfgtMUA7dUaGe_YKPKRWs7b-1igmA2i_C9jcMEvKWDLhAX=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1780580586,
+      "translated": false
+    },
+    {
+      "author_name": "Dr. Volker Classen",
+      "author_url": "https://www.google.com/maps/contrib/107760140318924513796/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKijjVfgtMUA7dUaGe_YKPKRWs7b-1igmA2i_C9jcMEvKWDLhAX=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1780580586,
       "translated": false
@@ -476,11 +496,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 73,
+  "reviewCount": 74,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:46.850Z"
+  "lastUpdated": "2026-08-04T07:37:02.507Z"
 }

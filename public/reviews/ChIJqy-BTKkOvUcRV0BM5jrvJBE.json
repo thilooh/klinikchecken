@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "S. C.",
+      "author_url": "https://www.google.com/maps/contrib/108591993018516008015/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ92rfbBibI3lMwyUWIGAexqHCPIJHNFj_oU-roqJ63qRKx8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785749110,
+      "translated": false
+    },
+    {
       "author_name": "Alessandro Veneziano",
       "author_url": "https://www.google.com/maps/contrib/108996125242292263909/reviews",
       "language": "de",
@@ -290,7 +300,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 72,
+  "reviewCount": 73,
   "summary": [],
-  "lastUpdated": "2026-08-01T07:25:25.920Z"
+  "lastUpdated": "2026-08-04T07:36:41.786Z"
 }

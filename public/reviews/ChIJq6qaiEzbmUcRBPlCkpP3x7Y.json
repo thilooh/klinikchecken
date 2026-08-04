@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Kärcher",
+      "author_url": "https://www.google.com/maps/contrib/100002485453716688224/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7vnX9GDTq3eS32QbclZwSsT4J_iRvk7UPQt3k83aJ9Kl4KgpkZw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als Patient nehme ich mir selbstverständlich das Recht heraus, Art und Umfang der vorzunehmenden Untersuchungen zu hinterfragen und ggf. anzupassen. Argumente wie \"das ist unser Standard-Untersuchungs-Umfang\" und \"das machen wir immer so\" - deren Kosten ich als Privatpatient kenne und deren diagnostische Aussagekraft ich nach mehreren Behandlungen in dieser Praxis in meinem Fall für nicht relevant halte - lehne ich ab und das muss der Arzt auch akzeptieren. Die wörtliche(!) Ansagen von Dr. Seiter: \"Ach und das dürfen wir jetzt machen?\" (in einem arroganten Tonfall) und \"Davon verstehen Sie doch überhaupt nichts\" veranlassten mich, keine Untersuchungen durchführen zu lassen und mich an einen anderen Arzt zu wenden.",
+      "time": 1785663099,
+      "translated": false
+    },
+    {
       "author_name": "Xoxol X5",
       "author_url": "https://www.google.com/maps/contrib/109850620246701439300/reviews",
       "language": "de",
@@ -416,7 +428,7 @@
     }
   ],
   "rating": 3.5,
-  "reviewCount": 102,
+  "reviewCount": 103,
   "summary": [],
-  "lastUpdated": "2026-08-01T07:25:31.827Z"
+  "lastUpdated": "2026-08-04T07:36:47.588Z"
 }

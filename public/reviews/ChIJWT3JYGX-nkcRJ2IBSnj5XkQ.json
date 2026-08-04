@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Silke Richter",
+      "author_url": "https://www.google.com/maps/contrib/115798451529688766314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJR1_zcMaaJaJh-V4G4VerVDu4pamziE0cK6epx8j-FjSRLgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute erstmalig in der Praxis gewesen, ein wirklich super nettes Team. Fr Dr.Wirtz ist kompetent und sehr freundlich,  gerne wieder",
+      "time": 1785785424,
+      "translated": false
+    },
+    {
       "author_name": "Birte Plannet",
       "author_url": "https://www.google.com/maps/contrib/114906141724309215746/reviews",
       "language": "de",
@@ -514,11 +526,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 62,
+  "reviewCount": 63,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:26:02.870Z"
+  "lastUpdated": "2026-08-04T07:37:18.638Z"
 }

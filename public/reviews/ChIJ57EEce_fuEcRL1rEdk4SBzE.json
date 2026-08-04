@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marlo Privat",
+      "author_url": "https://www.google.com/maps/contrib/110415314974761045869/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkeuWnpMnz44JwpJT6u_OLQnzPIR0LUE-K43ThKuPM0CN0kg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐ Absolute Spitzenklasse – medizinisch wie menschlich!\n\nIch bin wirklich begeistert von diesem Arzt und dem gesamten Team. Von der ersten Minute an fühlt man sich unglaublich gut aufgehoben, ernst genommen und bestens betreut.\n\nDer Arzt ist nicht nur fachlich absolut kompetent, sondern gleichzeitig außergewöhnlich herzlich, sympathisch und menschlich. Während der Behandlung und insbesondere während der OP wurden sogar richtig gute Gespräche geführt. Durch seine humorvolle und lockere Art war die gesamte Situation angenehm und entspannt – man vergisst dabei fast, dass man gerade operiert wird. 😄\n\nUnd das Beste: Die OP selbst hat überhaupt nicht geschmerzt. Alles wurde sehr ruhig, professionell und souverän durchgeführt, sodass ich mich zu jeder Zeit sicher gefühlt habe.\n\nAuch das gesamte Team verdient ein riesiges Lob. Super lieb, aufmerksam, freundlich und hervorragend organisiert. Jeder Ablauf war professionell und reibungslos, gleichzeitig herrschte eine unglaublich angenehme und herzliche Atmosphäre.\n\nHier treffen höchste medizinische Kompetenz, Menschlichkeit, Humor und echte Leidenschaft für den Beruf aufeinander. Genau so sollte eine Arztpraxis sein.\n\nIch kann diesen Arzt und sein gesamtes Team wirklich von Herzen weiterempfehlen. Vielen Dank für die großartige Betreuung – besser hätte ich es mir nicht wünschen können! ⭐⭐⭐⭐⭐\n\nViele Grüße\n\nMarlon",
+      "time": 1785768609,
+      "translated": false
+    },
+    {
       "author_name": "e c",
       "author_url": "https://www.google.com/maps/contrib/104608219703363891590/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH36EKcHa_yGA8NhWSoll9b2Pt_M-4u1wM5ZnJQRZ-NT50AXg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum zufrieden und kann die Praxis uneingeschränkt weiterempfehlen.\n\nBei mir wurde eine kleine Zyste entfernt. Der Eingriff verlief schnell, sauber und völlig unkompliziert. Ich habe mich während der gesamten Behandlung sehr gut aufgehoben gefühlt.\n\nDas gesamte Team ist freundlich, kompetent und gut organisiert – angefangen bei der Rezeption bis hin zum Arzt. Besonders positiv ist mir die ruhige und empathische Art des Arztes aufgefallen. Er nimmt sich Zeit, erklärt alles verständlich und sorgt dafür, dass man sich sicher fühlt. Diese Kombination aus fachlicher Kompetenz und Menschlichkeit findet man heute leider nicht mehr überall.\n\nVielen Dank an das gesamte Team! Ich würde jederzeit wiederkommen und kann die Praxis mit gutem Gewissen weiterempfehlen.",
+      "time": 1785141629,
+      "translated": false
+    },
+    {
+      "author_name": "e c",
+      "author_url": "https://www.google.com/maps/contrib/104608219703363891590/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH36EKcHa_yGA8NhWSoll9b2Pt_M-4u1wM5ZnJQRZ-NT50AXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin rundum zufrieden und kann die Praxis uneingeschränkt weiterempfehlen.\n\nBei mir wurde eine kleine Zyste entfernt. Der Eingriff verlief schnell, sauber und völlig unkompliziert. Ich habe mich während der gesamten Behandlung sehr gut aufgehoben gefühlt.\n\nDas gesamte Team ist freundlich, kompetent und gut organisiert – angefangen bei der Rezeption bis hin zum Arzt. Besonders positiv ist mir die ruhige und empathische Art des Arztes aufgefallen. Er nimmt sich Zeit, erklärt alles verständlich und sorgt dafür, dass man sich sicher fühlt. Diese Kombination aus fachlicher Kompetenz und Menschlichkeit findet man heute leider nicht mehr überall.\n\nVielen Dank an das gesamte Team! Ich würde jederzeit wiederkommen und kann die Praxis mit gutem Gewissen weiterempfehlen.",
       "time": 1785141629,
       "translated": false
@@ -574,11 +598,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 119,
+  "reviewCount": 120,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:40.789Z"
+  "lastUpdated": "2026-08-04T07:36:56.455Z"
 }

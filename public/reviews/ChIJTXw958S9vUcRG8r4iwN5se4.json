@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Dennis Jordan Diekoff",
+      "author_url": "https://www.google.com/maps/contrib/107182278460816018011/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7AckM3PtVgD0bbGB1f650Javc97qm_q9yYxJtgryvXvmyXSpasQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Etwas lange Wartezeit trotz Termin, aber ansonsten eine gute Praxis mit freundlichem Personal und einer Ärztin, die sich Zeit nimmt und alle Fragen beantwortet.",
+      "time": 1785793642,
+      "translated": false
+    },
+    {
+      "author_name": "Tee Kah",
+      "author_url": "https://www.google.com/maps/contrib/104303111147756802864/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWJJfY8MtkawPZL5QouPXsIgby4Wp6Q2tT26GHBKFHmvDFLA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für eine kurze Erstbehandlung: in Ordnung.\n\nZur Weiterbetreuung der Krankheit: katastrophal.\n\nDie verschriebene Dosis eines (sehr wirksamen und hilfreichen!) Medikaments ist nicht ausreichend, bzw. der Zeitpunkt des Ausschleichens wurde zu früh gewählt. Das habe ich telefonisch angesprochen, aber die Dame hat sich da nicht zuständig gefühlt und auf mögliche Termine im November verwiesen. In einer Situation, in der akut Hilfe benötigt wird. Auch auf Nachfrage keine Hilfe, man solle sich \"an die Klinik\" wenden.\nLaut Internet sollte ich aber beim behandelnden Arzt nachfragen und von diesem ggfs. eine Anpassung vorgenommen werden. Dumm nur, wenn nicht mal wenigstens auf später vertröstet wird, sodass man die nicht vorhandene Info beim Arzt einholen und dann dem Patienten mitteilen kann.\nDer gute anfängliche Eindruck wird damit absolut zunichte gemacht, nicht empfehlenswert, eher Bahnhofs-/Durchschleuse-Mentalität als wirkliches Interesse am Patienten.",
+      "time": 1785752902,
+      "translated": false
+    },
+    {
       "author_name": "Patricia Dittes",
       "author_url": "https://www.google.com/maps/contrib/102693073855477496321/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpwMDFlpH70NvUgVq_8a0C-jQyga27xJ-yt9JYqVnK4eUrUeA=s128-c0x00000000-cc-rp-mo-ba2",
@@ -919,12 +943,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 149,
+  "rating": 4.3,
+  "reviewCount": 151,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:50.349Z"
+  "lastUpdated": "2026-08-04T07:37:06.041Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "KaCkstulle jr",
+      "author_url": "https://www.google.com/maps/contrib/110722709886233314313/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8AgGpchVGGENFy-jMe--lZKAAZJ_OzbN1lyYFgH1oqXPhCfI=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit der Beratung und Behandlung in dieser Praxis leider überhaupt nicht zufrieden.\nStatt einer individuellen und objektiven Aufklärung hatte ich das Gefühl, einfach einen abgespulten Standardtext zu hören. Auf meine persönliche Situation wurde gar nicht eingegangen. Anstatt mir ehrlich zu sagen, ob die Behandlung überhaupt sinnvoll ist, hieß es sinngemäß nur: „Können wir machen, kostet Betrag X, müssen Sie sich überlegen.“ Dass die Entscheidung am Ende bei mir liegt, ist völlig in Ordnung – aber ich erwarte von einer Praxis eine fachliche Beratung und kein reines Abarbeiten.\nDazu kam der Eindruck, dass manche Kosten nicht von Anfang an transparent kommuniziert wurden. Das wirkt leider unreflektiert und wenig patientenorientiert. Ich werde mich hier nicht weiter behandeln lassen und kann die Praxis nicht empfehlen.\n\nAls Nachweis für die Behandlung, anbei noch ein Briefkopf der Praxis, bevor mir noch Falschaussagen oder ähnliches nachgesagt wird.",
+      "time": 1785687055,
+      "translated": false
+    },
+    {
       "author_name": "Pascal Schuh",
       "author_url": "https://www.google.com/maps/contrib/112725283674285867191/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Inga Wöhlcke",
+      "author_url": "https://www.google.com/maps/contrib/101106212352429958119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhcf5SrEFKzPexI5oVAkSCWrWQBQSPp5vGKFtDqVzpjjEp4g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Kaum Wartezeit, kompetente und ausführliche Beratung.\nFreundliche und zugewandte Ansprache durch Personal und Ärtz:innen.\nModernste Technik.\nAngenehmer Wertebereich.",
+      "time": 1785056283,
+      "translated": false
+    },
+    {
       "author_name": "K H",
       "author_url": "https://www.google.com/maps/contrib/104371760280314623361/reviews",
       "language": "de",
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRYCftubzSBzawOCQJ3FEmpRk7G5mi_ySN3OY53fVUyqgJ1aQ7=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "vor einer Woche",
+      "text": "Die Beratung selbst war schnell und in Ordnung. Für eine Praxis, die man selbst bezahlen muss, ist das Sich-Lustig-Machen über den Nachnamen absolut inakzeptabel.",
+      "time": 1784554537,
+      "translated": false
+    },
+    {
+      "author_name": "Eirini",
+      "author_url": "https://www.google.com/maps/contrib/109392943762188561875/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRYCftubzSBzawOCQJ3FEmpRk7G5mi_ySN3OY53fVUyqgJ1aQ7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Die Beratung selbst war schnell und in Ordnung. Für eine Praxis, die man selbst bezahlen muss, ist das Sich-Lustig-Machen über den Nachnamen absolut inakzeptabel.",
       "time": 1784554537,
       "translated": false
@@ -974,7 +1010,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 445,
+  "reviewCount": 446,
   "summary": [],
-  "lastUpdated": "2026-08-01T07:25:29.973Z"
+  "lastUpdated": "2026-08-04T07:36:45.695Z"
 }

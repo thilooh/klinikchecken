@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sandra Hurth",
+      "author_url": "https://www.google.com/maps/contrib/118047214912414895806/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvDOPMc-BUdXM8j_OE1XsnXeo_FZCdakdTry9pa4Y86G9DDg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785648835,
+      "translated": false
+    },
+    {
       "author_name": "Gianluca Runco",
       "author_url": "https://www.google.com/maps/contrib/115376123174586217287/reviews",
       "language": "de",
@@ -860,11 +870,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 75,
+  "reviewCount": 76,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:51.980Z"
+  "lastUpdated": "2026-08-04T07:37:07.661Z"
 }

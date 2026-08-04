@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "I B",
+      "author_url": "https://www.google.com/maps/contrib/106545375609818073122/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA78BvhK4zMTl6l_FckQY_fV4NUxbu2uIhKiVn5mWsuyoE8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Update:  es wurde versucht meine Rezension zu löschen. Meine Rezension verstößt nicht gegen Richtlinien. Ich habe fast 4 Monate umsonst gewartet. War es so schwer einen Ersatztermin anzubieten?\n\nAm 24. März einen Termin für den 23. Juli ausgemacht. Erst am 20. Juli wurde der Termin ersatzlos abgesagt. Somit fast 4 Monate umsonst gewartet. Aus meiner Sicht unzuverlässig und respektlos ggü. Patienten, die lange auf einen Termin warten",
+      "time": 1785572599,
+      "translated": false
+    },
+    {
       "author_name": "Marco Jordan",
       "author_url": "https://www.google.com/maps/contrib/111232009325903865920/reviews",
       "language": "de",
@@ -884,11 +896,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 167,
+  "reviewCount": 169,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-01T07:25:41.943Z"
+  "lastUpdated": "2026-08-04T07:36:57.623Z"
 }

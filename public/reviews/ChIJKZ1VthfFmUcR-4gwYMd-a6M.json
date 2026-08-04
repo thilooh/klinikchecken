@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Alexander Roessler",
+      "author_url": "https://www.google.com/maps/contrib/118115510200397974010/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-4bGpYzJeI4984b5rxeZEvaeRtwPdZHEJimbyx2zBj5Rb=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach wochenlangen Warten auf meinen Termin, habe ich folgendes von der Dame bei der Anmeldung erfahren: nachdem Sie das letzte Mal bei uns 2022 waren, gelten Sie nicht mehr als gesetzlich Versicherter Patient bei uns und müssen daher selbst zahlen. Darüber hinaus besteht bei uns Aufnahme Stopp und daher können wir Sie wie gesagt nur als Selbstzahler behandeln.\n\nIch empfinde das moralisch inakzeptabel, hat für mich sogar schon einen betrügerischen Geschmack. Wäre das von Anfang an klar, kann man auch vorher entscheiden, ob man sich dazu einlässt.\n\nIch lasse mich jedoch auf solch ein Geschäftsgebaren nicht ein und kann nur abraten und warnen.",
+      "time": 1785763401,
+      "translated": false
+    },
+    {
+      "author_name": "J. K.",
+      "author_url": "https://www.google.com/maps/contrib/107626563704174826419/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2RquVz86Oxjr-kSzdcwoI5-GuYqflfOvWY9XuJRJfjd6I8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785579484,
+      "translated": false
+    },
+    {
       "author_name": "S Goul",
       "author_url": "https://www.google.com/maps/contrib/102387729591917314984/reviews",
       "language": "de",
@@ -931,8 +953,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 318,
+  "rating": 4.5,
+  "reviewCount": 320,
   "summary": [],
-  "lastUpdated": "2026-08-01T07:25:32.066Z"
+  "lastUpdated": "2026-08-04T07:36:47.813Z"
 }

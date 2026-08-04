@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Judith Buschmann",
+      "author_url": "https://www.google.com/maps/contrib/100972414778333045392/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzNs0S0eHtN5NYK55Dxcs4VjMYvKvgAJBOfUZTNZcsO9u6jw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schöne Praxis und freundliches Personal.\nDer Arzt hat sofort die richtige Diagnose gestellt und Behandlungsmöglichkeiten aufgezeigt.\nIch kann diese Praxis nur weiterempfehlen.",
+      "time": 1785750073,
+      "translated": false
+    },
+    {
+      "author_name": "Detlef Dziggel",
+      "author_url": "https://www.google.com/maps/contrib/100293477473263372662/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_MKNO7HqiRb6cUfy66P5gneFoHEyHPnLqU4TkjR3x-HOnKu-i=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785742163,
+      "translated": false
+    },
+    {
       "author_name": "Luana",
       "author_url": "https://www.google.com/maps/contrib/110784181735054289939/reviews",
       "language": "de",
@@ -422,8 +444,8 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 45,
+  "rating": 4.7,
+  "reviewCount": 47,
   "summary": [],
-  "lastUpdated": "2026-08-01T07:25:24.765Z"
+  "lastUpdated": "2026-08-04T07:36:40.656Z"
 }

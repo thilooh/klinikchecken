@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "ANNEGRETE Seebauer",
+      "author_url": "https://www.google.com/maps/contrib/116583910367488090228/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu7wCN8CWDXX_TuF8obBS0_q0dYE3-zzThrVScOt17xDp8HQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte Pankreaskrebs und wurde von Prof. Willecke behandelt. Ich habe selten einen Menschen mit soviel Empathie kennengelernt und möchte ihm und auch Frau Dr. Willecke von Herzen danken.",
+      "time": 1785757237,
+      "translated": false
+    },
+    {
       "author_name": "Claudia Wickleder",
       "author_url": "https://www.google.com/maps/contrib/104985335308183345324/reviews",
       "language": "de",
@@ -106,11 +118,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 5,
+  "reviewCount": 6,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-08-01T07:26:11.433Z"
+  "lastUpdated": "2026-08-04T07:37:27.158Z"
 }

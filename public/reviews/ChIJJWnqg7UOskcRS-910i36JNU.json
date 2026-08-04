@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sarah-Sophie Petersen",
+      "author_url": "https://www.google.com/maps/contrib/106958121336724836991/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUyfLMtAsiU-bwnYFa5bt3aUywIojwakkYyKOndJGH9nt3bAQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Frau Dr. Mrowka und bin mehr als zufrieden gewesen. Man fühlt sich sehr gut aufgehoben. Kann ich sehr weiterempfehlen! Vielen Dank!",
+      "time": 1785775468,
+      "translated": false
+    },
+    {
       "author_name": "Torsten Hildebrandt",
       "author_url": "https://www.google.com/maps/contrib/112444194811667998896/reviews",
       "language": "de",
@@ -1336,11 +1348,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2348,
+  "reviewCount": 2349,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-01T07:25:36.820Z"
+  "lastUpdated": "2026-08-04T07:36:52.452Z"
 }

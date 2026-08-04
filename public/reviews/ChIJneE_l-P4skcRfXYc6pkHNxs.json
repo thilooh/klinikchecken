@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Finn",
+      "author_url": "https://www.google.com/maps/contrib/113889511586300810554/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxmPU_R3qsvAevX2wRp6bpv-4Rblhaw3xzvCLrEWR1kjeA01dK=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wurde sehr respektlos behandelt und einfach abgewimmelt ohne dass meine Probleme in irgendeiner Form ernst genommen wurden.\nNie wieder!",
+      "time": 1785784496,
+      "translated": false
+    },
+    {
       "author_name": "Dr. med. Th. Harrer",
       "author_url": "https://www.google.com/maps/contrib/102939905748179187951/reviews",
       "language": "de",
@@ -674,11 +686,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:34.973Z"
+  "lastUpdated": "2026-08-04T07:36:50.600Z"
 }

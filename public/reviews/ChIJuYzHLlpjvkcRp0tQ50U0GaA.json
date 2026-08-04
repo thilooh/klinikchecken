@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nia N.",
+      "author_url": "https://www.google.com/maps/contrib/107125455205090438449/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNogFPfd4-5YdB6yHroHYllHnmT3TOGd8VcVO7NV6WmQKWhMWI=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mehr als begeistert von dieser Praxis. Frau Engelmann tut kleine Wunder und macht vieles möglich, die Arzthelferinnen sind so freundlich und wirklich nett und zu Dr. Schneider kann ich nur sagen: Ein toller Arzt. Lange und gründliche Untersuchung, stellt viele Fragen  und hört auch zu. Hilft beim Unterbringen des nächsten Facharztes.\nIch bin sehr froh, dort gelandet zu sein!\n\nP.s.: ich habe den \"netten\" Herrn mit der 1 Sterne Bewertung im Übrigen mitbekommen, er war laut genug, dass ich ihn wunderbar im Nebenraum hören konnte. Er hatte den Termin um 14 h, nicht schon vormittags.\nEs wurde ihm daraufhin wirklich angeboten, sich zu setzen und ihn mit dranzunehmen, aber erst müssten die anderen dran kommen und auch nur, wenn er sich im Ton mäßige. Er war wirklich laut und unhöflich.\n\nMir persönlich kam es vor, als hätte er in der Gegend sowieso einen Termin gehabt und gerade Zeit und wollte versuchen, jetzt sich dazwischen zu mogeln. Jedenfalls war sein Auftreten so dreist.\nAlso, dieser eine Stern von dem Herrn ist absolut nicht zu beachten!",
+      "time": 1785739703,
+      "translated": false
+    },
+    {
       "author_name": "Melina Sprindt",
       "author_url": "https://www.google.com/maps/contrib/111288282348563121650/reviews",
       "language": "de",
@@ -179,14 +191,26 @@
       "text": "Ich hatte einen Termin bei Dr. Schneider in der Angologie und ich war begeistert.\nIch hatte mich dort gut aufgehoben gefühlt\nVon dem Empfang bis zum Abschluss\nKompetent und freundlich ,kann ich nur empfehlen.",
       "time": 1764945176,
       "translated": false
+    },
+    {
+      "author_name": "Marlies Gräfen",
+      "author_url": "https://www.google.com/maps/contrib/110580163192032713025/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLx9WTMJNFgyDdsvC3RyL4sGRaIDw0uEjdllfWWEBM9KRPj0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 8 Monaten",
+      "text": "Ich hatte einen Termin bei Dr. Schneider in der Angologie und ich war begeistert.\nIch hatte mich dort gut aufgehoben gefühlt\nVon dem Empfang bis zum Abschluss\nKompetent und freundlich ,kann ich nur empfehlen.",
+      "time": 1764945176,
+      "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 4,
+  "rating": 4.2,
+  "reviewCount": 5,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-01T07:26:07.318Z"
+  "lastUpdated": "2026-08-04T07:37:23.026Z"
 }

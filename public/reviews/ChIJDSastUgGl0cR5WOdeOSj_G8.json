@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "naCm Sh",
+      "author_url": "https://www.google.com/maps/contrib/100094702921877976713/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjt8AAcRB38PPCNZyx_bEY1-YAASyqZ_c5YFgnJPDvmGUWWQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es war schwierig, die Praxis telefonisch zu erreichen.",
+      "time": 1785673634,
+      "translated": false
+    },
+    {
       "author_name": "Philipp Go",
       "author_url": "https://www.google.com/maps/contrib/114031790150849857699/reviews",
       "language": "de",
@@ -156,6 +168,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB26hb4JspruAANWgwKUU1GCnZTMgr4XHoDh-bM7PrqIORBw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1783245264,
+      "translated": false
+    },
+    {
+      "author_name": "Manuel Kraus",
+      "author_url": "https://www.google.com/maps/contrib/108797926646049488383/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB26hb4JspruAANWgwKUU1GCnZTMgr4XHoDh-bM7PrqIORBw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1783245264,
       "translated": false
@@ -940,11 +962,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 233,
+  "reviewCount": 234,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-01T07:25:44.757Z"
+  "lastUpdated": "2026-08-04T07:37:00.403Z"
 }

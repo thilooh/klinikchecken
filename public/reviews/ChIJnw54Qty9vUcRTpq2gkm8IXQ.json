@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mathias Rädisch",
+      "author_url": "https://www.google.com/maps/contrib/104207356802582177740/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMuczOK0CSCuN8UzCoxfbZydDtHxbiFvWHaW42sttL8623CFI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785742622,
+      "translated": false
+    },
+    {
       "author_name": "Flower Power",
       "author_url": "https://www.google.com/maps/contrib/116059765287661038357/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb5zLW1yFCJhdy13yhZvURIStH-JsnLkTHlG_nW2izV_HLSA=s128-c0x00000000-cc-rp-mo-ba4",
@@ -42,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJphlrQw40wS7xGg5KKr8rCuGpJMCwvFWAYlZgJo68K4OwtPQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Frau Dr. Janjic hat vor kurzem eine Gefäßoperation bei mir durchgeführt. Ich bin sehr zufrieden mit dem ganzen Prozess. Sie hat mir alles deutlich erklärt und mich sehr unterstützt, diesen Schritt zu gehen. Sie hat eine sehr freundliche und nette Art und ist für ihre Patienten sehr geduldig und lässt viel Zeit bei den Patienten. Ich kann sie nur weiter empfehlen, ich bin sehr zufrieden mit den Besprechungsterminen, sowie mit der ganzen Operation und auch mit den Nachbehandlungen. Das Team allgemein ist sehr nett und hilfsbereit und ich bin sehr glücklich darüber, dass ich dort Patienten bin. Ich bedanke mich hiermit ganz herzlich für diese positive Erfahrung.",
+      "time": 1783978339,
+      "translated": false
+    },
+    {
+      "author_name": "Suvada Vatic",
+      "author_url": "https://www.google.com/maps/contrib/104181268896476133268/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJphlrQw40wS7xGg5KKr8rCuGpJMCwvFWAYlZgJo68K4OwtPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Frau Dr. Janjic hat vor kurzem eine Gefäßoperation bei mir durchgeführt. Ich bin sehr zufrieden mit dem ganzen Prozess. Sie hat mir alles deutlich erklärt und mich sehr unterstützt, diesen Schritt zu gehen. Sie hat eine sehr freundliche und nette Art und ist für ihre Patienten sehr geduldig und lässt viel Zeit bei den Patienten. Ich kann sie nur weiter empfehlen, ich bin sehr zufrieden mit den Besprechungsterminen, sowie mit der ganzen Operation und auch mit den Nachbehandlungen. Das Team allgemein ist sehr nett und hilfsbereit und ich bin sehr glücklich darüber, dass ich dort Patienten bin. Ich bedanke mich hiermit ganz herzlich für diese positive Erfahrung.",
       "time": 1783978339,
       "translated": false
@@ -756,11 +778,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 171,
+  "reviewCount": 172,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-01T07:25:49.887Z"
+  "lastUpdated": "2026-08-04T07:37:05.565Z"
 }

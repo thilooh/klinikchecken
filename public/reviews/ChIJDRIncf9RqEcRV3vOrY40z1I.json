@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Vladimir Kogan",
+      "author_url": "https://www.google.com/maps/contrib/117939382306300253647/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJxXi0eYwrN3WttzkG3zthgnYSAa1dmcR4lDePeg1XlwNFuCs_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785737400,
+      "translated": false
+    },
+    {
       "author_name": "Eila",
       "author_url": "https://www.google.com/maps/contrib/105431497579206197234/reviews",
       "language": "de",
@@ -102,6 +112,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGQC_y_2JSMRTDqVmz8bfZY3uP9Yhf9HYyWV697zjL5V8Ueg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin schon ein paar Jahre Patient und bin sehr zufrieden. Das Praxisteam ist immer sehr freundlich und lieb. Voralldingen das Personal vorne an der Anmeldung ist immer sehr freundlich, höflich und lieb. Und ein riesen Dankeschön an Fr. Dr. Martel sie ist eine großartige Ärztin und ist sehr professionell, freundlich und kompetent.\nMan fühlt sich gut aufgehoben Dankeschön",
+      "time": 1784201031,
+      "translated": false
+    },
+    {
+      "author_name": "Kira Schroeder",
+      "author_url": "https://www.google.com/maps/contrib/116579315441634512282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGQC_y_2JSMRTDqVmz8bfZY3uP9Yhf9HYyWV697zjL5V8Ueg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin schon ein paar Jahre Patient und bin sehr zufrieden. Das Praxisteam ist immer sehr freundlich und lieb. Voralldingen das Personal vorne an der Anmeldung ist immer sehr freundlich, höflich und lieb. Und ein riesen Dankeschön an Fr. Dr. Martel sie ist eine großartige Ärztin und ist sehr professionell, freundlich und kompetent.\nMan fühlt sich gut aufgehoben Dankeschön",
       "time": 1784201031,
       "translated": false
@@ -862,5 +884,5 @@
   "rating": 4.8,
   "reviewCount": 145,
   "summary": [],
-  "lastUpdated": "2026-08-01T07:25:27.651Z"
+  "lastUpdated": "2026-08-04T07:36:43.393Z"
 }
