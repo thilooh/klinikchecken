@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jan",
+      "author_url": "https://www.google.com/maps/contrib/112114560718198934907/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9UU4YaJkbsmON5Y4Z4EI5Rk8qCYWwbEL3kfSwY5Znr_IHR70=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Mitarbeiterinnen und Mitarbeiter, mit denen ich Kontakt hatte, waren durchweg freundlich.\n\nDer behandelnde Arzt hat sich mir leider nicht einmal vorgestellt, und genau so wirkte auch die gesamte Untersuchung. Diese dauerte maximal zehn Minuten. Auf meine geschilderten Symptome wurde überhaupt nicht eingegangen, und es bestand offenbar auch kein Interesse daran, mehr darüber zu erfahren. Bereits vor der eigentlichen Untersuchung hatte ich den Eindruck, dass ich als gesund eingestuft wurde, obwohl zu diesem Zeitpunkt noch gar keine Untersuchungsergebnisse vorlagen.\n\nBesonders enttäuschend war für mich, dass ich zuvor von zwei unabhängigen Ärzten – meinem Hausarzt sowie einer Ärztin im Krankenhaus – den Hinweis erhalten hatte, dass ein Problem mit der Durchblutung bestehen könnte. Im Venenzentrum wurde dies jedoch aus meiner Sicht lediglich als „normal“ abgetan, ohne dass meine Beschwerden ernsthaft berücksichtigt wurden.\n\nIch habe mich dort leider nicht ernst genommen und nicht ausreichend untersucht gefühlt.",
+      "time": 1786010514,
+      "translated": false
+    },
+    {
       "author_name": "Gisela Speh",
       "author_url": "https://www.google.com/maps/contrib/100614777739593284515/reviews",
       "language": "de",
@@ -193,6 +205,18 @@
       "translated": false
     },
     {
+      "author_name": "Jacqueline Kranz",
+      "author_url": "https://www.google.com/maps/contrib/102805704488562553292/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB0BBTDutQnj1V8d4pEMuO0g2wKxvvM0Dqu6wZ9wuW6Oxkr3YL=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
+      "text": "Ich habe mich in der Venenklinik in Braunschweig von Anfang an sehr gut aufgehoben gefühlt. Das gesamte Team ist unglaublich freundlich, hilfsbereit und nimmt sich Zeit für die Patienten. Alles wurde verständlich erklärt und man merkt, dass hier mit viel Erfahrung und Herz gearbeitet wird. Vielen Dank für die tolle Betreuung – absolute Empfehlung!",
+      "time": 1772963022,
+      "translated": false
+    },
+    {
       "author_name": "Fabse Sch",
       "author_url": "https://www.google.com/maps/contrib/109012572835877546093/reviews",
       "language": "de",
@@ -314,11 +338,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 136,
+  "reviewCount": 137,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-04T07:36:51.056Z"
+  "lastUpdated": "2026-08-07T06:07:30.490Z"
 }

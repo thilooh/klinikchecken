@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Joshua Drake",
+      "author_url": "https://www.google.com/maps/contrib/109060413923817071742/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKelLe9PdXPTchQ2juTgMhOxgXoVKVRBADJHevXjwYwd-zyrQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war sehr zufrieden. Alle waren freundlich und nett, und die Behandlung war gut. Alles hat super geklappt. Vielen Dank!👍🏽",
+      "time": 1786011132,
+      "translated": false
+    },
+    {
       "author_name": "Volker Jay",
       "author_url": "https://www.google.com/maps/contrib/106717187974139288273/reviews",
       "language": "de",
@@ -340,6 +352,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfKZEWLJ3c3mQYydMH3TWFbnqvuk2xr2syPdOuX6iD5LrNb5s=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1781710123,
+      "translated": false
+    },
+    {
+      "author_name": "Mitch McMuffin",
+      "author_url": "https://www.google.com/maps/contrib/115090496096070806042/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfKZEWLJ3c3mQYydMH3TWFbnqvuk2xr2syPdOuX6iD5LrNb5s=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1781710123,
       "translated": false
@@ -871,12 +893,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 243,
+  "rating": 4.7,
+  "reviewCount": 242,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-04T07:36:55.990Z"
+  "lastUpdated": "2026-08-07T06:07:35.468Z"
 }

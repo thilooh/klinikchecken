@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Claas Morlang",
+      "author_url": "https://www.google.com/maps/contrib/117094366377424619873/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA0-4py-tlym3Ou3p78LUDTAtIcswSVDcgXkiIotOGW67pwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Betreuung und vielen Dank fuer die unkomplizierte Terminvergabe.",
+      "time": 1785930346,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra Müller",
+      "author_url": "https://www.google.com/maps/contrib/115420090758597510349/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLP_3QtrVPO8AcEZlilrKSJrS9kvy-g_9sfofrEgDTYjAugUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin gerade zur Abschlußuntersuchung gewesen. Alles ist wie gewünscht verlaufen. Dr. Jamal und sein Team waren äußerst freundlich. Ich habe mich sehr gut informiert, aufgehoben und betreut gefühlt. Auch während des Eingriffs hat der Arzt angekündigt was er macht, es wurde nach meinem Befinden gegragt und der Pfleger Sebastian kümmerte sich rührend! Der Tipp mit dem Ball in der Hand war super! Ganz herzlichen Dank dafür!",
+      "time": 1785919468,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Gerdts",
+      "author_url": "https://www.google.com/maps/contrib/116986656004643277286/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOZ9ASuZ5lncZ9sdPPAriWnyWXCKXjxbij0fcbB-hzIF6lDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zum wiederholten Male von der Terminbuchung bis zur Verabschiedung alles top.\nAlle sehr freundlich und professionell.",
+      "time": 1785854682,
+      "translated": false
+    },
+    {
       "author_name": "KaCkstulle jr",
       "author_url": "https://www.google.com/maps/contrib/110722709886233314313/reviews",
       "language": "de",
@@ -1010,7 +1046,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 446,
+  "reviewCount": 449,
   "summary": [],
-  "lastUpdated": "2026-08-04T07:36:45.695Z"
+  "lastUpdated": "2026-08-07T06:07:25.071Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Vi virgo",
+      "author_url": "https://www.google.com/maps/contrib/108320497734990605939/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJmCaZoBfcK70ssN2uoD72agFAmBOPfu7smOZHhbZ8-FpTeSTP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alle sind sehr nett dort, habe mich direkt wohl gefühlt. Von der Beratung über bis hin zur Behandlung war ich vollsten zufrieden.",
+      "time": 1785854481,
+      "translated": false
+    },
+    {
       "author_name": "Janina W.",
       "author_url": "https://www.google.com/maps/contrib/103355757161930018191/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp5AZ6Jl6afHHBGpdKTTB5YN2Z2-ruQUxlmNneW-CBHcCX9A=s128-c0x00000000-cc-rp-mo",
@@ -28,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl3yodLAjXPgJru1jOrc1KEmZ4Bb4UtAcW8SK6qnr7II3kWA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum ersten Mal bei Angelina Lutz zur Lippenunterspritzung & hatte etwas Angst vor der optischen Veränderung in meinem Gesicht. Sie glich kleine Asymmetrien meiner Lippen aus & perfektionierte meine Vorstellung schöner Lippen. Sie wird mich wiedersehen!",
+      "time": 1785330789,
+      "translated": false
+    },
+    {
+      "author_name": "Alina Wienert",
+      "author_url": "https://www.google.com/maps/contrib/102074755345207911909/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl3yodLAjXPgJru1jOrc1KEmZ4Bb4UtAcW8SK6qnr7II3kWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war zum ersten Mal bei Angelina Lutz zur Lippenunterspritzung & hatte etwas Angst vor der optischen Veränderung in meinem Gesicht. Sie glich kleine Asymmetrien meiner Lippen aus & perfektionierte meine Vorstellung schöner Lippen. Sie wird mich wiedersehen!",
       "time": 1785330789,
       "translated": false
@@ -68,6 +92,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt2dNMRnzmrgkWGfmBCP_4km6BbYgO4dKd810yYWkd_9Q4aA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1783419983,
+      "translated": false
+    },
+    {
+      "author_name": "J ulia",
+      "author_url": "https://www.google.com/maps/contrib/106695622524533277344/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt2dNMRnzmrgkWGfmBCP_4km6BbYgO4dKd810yYWkd_9Q4aA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1783419983,
       "translated": false
@@ -472,11 +506,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 116,
+  "reviewCount": 117,
   "summary": [
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen für Besenreiser-Behandlung",
     "Patienten empfehlen die Praxis weiter"
   ],
-  "lastUpdated": "2026-08-04T07:37:08.117Z"
+  "lastUpdated": "2026-08-07T06:07:47.608Z"
 }

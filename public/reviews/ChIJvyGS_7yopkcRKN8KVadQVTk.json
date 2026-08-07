@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dieter Kurt Zoch",
+      "author_url": "https://www.google.com/maps/contrib/104767571652270860490/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDfb3ddCM32OINoBG6T3K9bOVLcmOwRJkghG1ZyNTgzxPtHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Da Verdacht auf Thrombose, auch ohne Termin umfangreiche Untersuchung.\nKann nur dem gesamten Team ein herzliches Dankeschön sagen. Vollkommen zufrieden.\n06.08.2026\n👍Jederzeit zu empfehlen",
+      "time": 1786039425,
+      "translated": false
+    },
+    {
       "author_name": "Karl Oberhofer",
       "author_url": "https://www.google.com/maps/contrib/102157621231830217241/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHwUhXFvzPttzZZwYcS88vNAR-zuL7JAu2nFAg-iBYZu6yiq8=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Der Handpapst ! mit Lächeln und einem großem Herz, der gibt - so wie die Rosen im Park ihren Duft verströmen!",
+      "time": 1784729275,
+      "translated": false
+    },
+    {
+      "author_name": "Karl Oberhofer",
+      "author_url": "https://www.google.com/maps/contrib/102157621231830217241/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHwUhXFvzPttzZZwYcS88vNAR-zuL7JAu2nFAg-iBYZu6yiq8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Der Handpapst ! mit Lächeln und einem großem Herz, der gibt - so wie die Rosen im Park ihren Duft verströmen!",
       "time": 1784729275,
       "translated": false
@@ -884,11 +908,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 201,
+  "reviewCount": 202,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-08-04T07:37:23.698Z"
+  "lastUpdated": "2026-08-07T06:08:03.316Z"
 }

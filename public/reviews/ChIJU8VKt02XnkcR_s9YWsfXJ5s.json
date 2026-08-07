@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Schraube 01",
+      "author_url": "https://www.google.com/maps/contrib/102139190410254394661/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1G2DAuCGzdrDO8AYXBZjbrLuh7_Q1eACanfPh4QTnxuZn0AJQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Personal und auch die Ärztin ist nett und kompetent",
+      "time": 1786027633,
+      "translated": false
+    },
+    {
       "author_name": "Michael Eder",
       "author_url": "https://www.google.com/maps/contrib/105681889391653637086/reviews",
       "language": "de",
@@ -154,6 +166,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqSfPqVZnSjJeM61On-ttLypSUXtz4YgNviKHpNoBHz1MG6Yz=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1784288973,
+      "translated": false
+    },
+    {
+      "author_name": "Sofia Ntisiou",
+      "author_url": "https://www.google.com/maps/contrib/110651248258424463770/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqSfPqVZnSjJeM61On-ttLypSUXtz4YgNviKHpNoBHz1MG6Yz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1784288973,
       "translated": false
@@ -847,12 +869,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 156,
+  "rating": 4.7,
+  "reviewCount": 154,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-04T07:36:57.850Z"
+  "lastUpdated": "2026-08-07T06:07:37.316Z"
 }

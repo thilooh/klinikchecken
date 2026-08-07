@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kai STRACKE",
+      "author_url": "https://www.google.com/maps/contrib/116715177866420108426/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTR66j6dV1gtr7aaEy31C2qlWipB1YvpDY_uejtnTW5X3DJg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn ich hätte 10 Sterne begeben können, dann hätte ich dieses sehr gerne getan!!\n\nIch möchte hiermit meine uneingeschränkte Zufriedenheit mit der Dermatologischen Gemeinschaftspraxis von Dr. Julia Hölker ausdrücken.\n\nFür meinen Termin bin ich heute extra aus dem Sauerland angereist – über 110 km einfache Strecke. Durch meine Internetrecherche bin ich auf diese Praxis aufmerksam geworden, da ich eine neu aufgetretene und für mich verdächtige Hautveränderung möglichst zeitnah fachärztlich abklären lassen wollte. Die lange Anfahrt hat sich in jeder Hinsicht gelohnt.\n\nBereits beim Betreten der Praxis wurde ich von den modernen, sehr ansprechend gestalteten Räumlichkeiten und dem außergewöhnlich freundlichen Empfang begeistert. Die Medizinischen Fachangestellten waren herzlich, aufmerksam und bestens organisiert, sodass ich mich vom ersten Moment an willkommen und gut aufgehoben gefühlt habe.\n\nUntersucht wurde ich von Frau Dr. Glaser. Sie hat mich durch ihre ausgesprochen empathische Art, ihre Ruhe und ihre hohe fachliche Kompetenz sofort überzeugt. Sie nahm sich Zeit für meine Fragen, erklärte alle Befunde verständlich und konnte mir bereits nach wenigen Minuten einen großen Teil meiner Sorgen nehmen.\n\nDer anschließend notwendige kleine chirurgische Eingriff wurde unter örtlicher Betäubung äußerst professionell, sorgfältig und nahezu schmerzfrei durchgeführt. Die entnommene Hautprobe wurde zur histologischen Untersuchung eingesandt, sodass ich mich auch hinsichtlich der weiteren Diagnostik in den besten Händen weiß.\n\nEin herzliches Dankeschön an Frau Dr. Glaser sowie an das gesamte Praxisteam für die hervorragende Betreuung. Freundlichkeit, Empathie, Fachkompetenz und Organisation greifen hier perfekt ineinander. Für mich ist diese Praxis eine absolute Empfehlung – selbst eine Anreise von über 100 Kilometern ist es wert. Vielen Dank für diese hervorragende medizinische Versorgung!\nKai Stracke",
+      "time": 1785938913,
+      "translated": false
+    },
+    {
       "author_name": "Mathäus",
       "author_url": "https://www.google.com/maps/contrib/106223355549707736247/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRuLzfEXjdtKz5Hrujz9DrWiAJEt4iXUHpyrXlCpaueiAyCwYo=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Fühle mich sehr gut behandelt",
+      "time": 1784209476,
+      "translated": false
+    },
+    {
+      "author_name": "Wulf",
+      "author_url": "https://www.google.com/maps/contrib/114956632251196327938/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRuLzfEXjdtKz5Hrujz9DrWiAJEt4iXUHpyrXlCpaueiAyCwYo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Fühle mich sehr gut behandelt",
       "time": 1784209476,
       "translated": false
@@ -433,7 +457,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 67,
+  "reviewCount": 68,
   "summary": [],
-  "lastUpdated": "2026-08-04T07:36:38.043Z"
+  "lastUpdated": "2026-08-07T06:07:17.482Z"
 }

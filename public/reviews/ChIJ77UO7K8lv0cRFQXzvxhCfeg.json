@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anke Czech",
+      "author_url": "https://www.google.com/maps/contrib/118430025836891721986/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGqJfGbo-JexK0utUU7NalwY_HVvo4WJN22a0coOg1fTVu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super freundliche tolle Praxis.sehr zu empfehlen.",
+      "time": 1785860420,
+      "translated": false
+    },
+    {
       "author_name": "Maria Isabella Heigl",
       "author_url": "https://www.google.com/maps/contrib/105044314481306057042/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5X-jpyGJDAZ1cw06lVCT7oj__VnVEqkSJVwDw8AeQ0SzcGQ=s128-c0x00000000-cc-rp-mo",
@@ -54,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM_fTc0iCWRPV2Ox8fJDDwNtrWsaLmXWKz1JoeVuSHpy4XEMXZKA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Top Behandlung! Sowohl von den Medizinischen Fachangestellten als auch von der Ärztin, die sich zeitgenommen hat und wirklich einen sehr genauen Befund hatte  erstellt. Man fühlt sich als Patient mit seinen Problemen wahrgenommen, was mittlerweile nicht mehr bei jedem Arzt zum Standard gehört. Nur zu empfehlen, sehr kompetent!! Danke!",
+      "time": 1783509194,
+      "translated": false
+    },
+    {
+      "author_name": "Mario Atzeni",
+      "author_url": "https://www.google.com/maps/contrib/103237934502912791043/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM_fTc0iCWRPV2Ox8fJDDwNtrWsaLmXWKz1JoeVuSHpy4XEMXZKA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Top Behandlung! Sowohl von den Medizinischen Fachangestellten als auch von der Ärztin, die sich zeitgenommen hat und wirklich einen sehr genauen Befund hatte  erstellt. Man fühlt sich als Patient mit seinen Problemen wahrgenommen, was mittlerweile nicht mehr bei jedem Arzt zum Standard gehört. Nur zu empfehlen, sehr kompetent!! Danke!",
       "time": 1783509194,
       "translated": false
@@ -633,11 +657,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 102,
+  "reviewCount": 103,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-08-04T07:36:34.480Z"
+  "lastUpdated": "2026-08-07T06:07:13.714Z"
 }

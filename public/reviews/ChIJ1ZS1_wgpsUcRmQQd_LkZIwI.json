@@ -71,6 +71,16 @@
       "translated": false
     },
     {
+      "author_name": "Davinder",
+      "author_url": "https://www.google.com/maps/contrib/107379553095153230562/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLn0HVhhYW1lKKjBOx1kbIEAmeMr19ocwkH-y1DO2kNJO0aGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1784110755,
+      "translated": false
+    },
+    {
       "author_name": "Mom Ur",
       "author_url": "https://www.google.com/maps/contrib/115743202037694324435/reviews",
       "language": "de",
@@ -631,12 +641,12 @@
       "translated": true
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 81,
+  "rating": 4.6,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-04T07:36:49.909Z"
+  "lastUpdated": "2026-08-07T06:07:29.318Z"
 }

@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Anna Siddique",
+      "author_url": "https://www.google.com/maps/contrib/116333185177448572505/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxLyyv5uE6t-plyLaPsQW-r7AsZW7gT5a4cCHNnZc25H36tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Es tut mir sehr leid, dass ich den Arzt nicht aufsuchen konnte, da der Zugang leider nicht rollstuhlgerecht ist. Obwohl überall das Gegenteil angegeben war. Seien Sie also vorsichtig, kein Rollstuhl vorhanden!",
+      "time": 1785225685,
+      "translated": true
+    },
+    {
       "author_name": "Dilek",
       "author_url": "https://www.google.com/maps/contrib/105533967459283953479/reviews",
       "language": "de",
@@ -628,5 +640,5 @@
   "rating": 4.1,
   "reviewCount": 80,
   "summary": [],
-  "lastUpdated": "2026-08-04T07:36:45.312Z"
+  "lastUpdated": "2026-08-07T06:07:24.684Z"
 }

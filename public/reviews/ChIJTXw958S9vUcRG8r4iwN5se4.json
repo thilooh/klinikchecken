@@ -35,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "Patricia Dittes",
+      "author_url": "https://www.google.com/maps/contrib/102693073855477496321/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpwMDFlpH70NvUgVq_8a0C-jQyga27xJ-yt9JYqVnK4eUrUeA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1785426955,
+      "translated": false
+    },
+    {
       "author_name": "Basma Gamal",
       "author_url": "https://www.google.com/maps/contrib/114483374079593698028/reviews",
       "language": "de",
@@ -47,11 +57,33 @@
       "translated": false
     },
     {
+      "author_name": "Basma Gamal",
+      "author_url": "https://www.google.com/maps/contrib/114483374079593698028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyl4XdwkqeEL67dS4WRC06QMkYNveWWyzRXGQQLCJZ5azRn_w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Diese is schön fur alle Famile",
+      "time": 1785338490,
+      "translated": false
+    },
+    {
       "author_name": "salah seed",
       "author_url": "https://www.google.com/maps/contrib/115780000583728185986/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyVv6gAg7lOBuZqV4p5DQgh7RcAaW0PT2fC7b5Q7P1gmun9g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785243188,
+      "translated": false
+    },
+    {
+      "author_name": "salah seed",
+      "author_url": "https://www.google.com/maps/contrib/115780000583728185986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyVv6gAg7lOBuZqV4p5DQgh7RcAaW0PT2fC7b5Q7P1gmun9g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1785243188,
       "translated": false
@@ -950,5 +982,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-04T07:37:06.041Z"
+  "lastUpdated": "2026-08-07T06:07:45.510Z"
 }

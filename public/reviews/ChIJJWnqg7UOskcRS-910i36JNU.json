@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "K. O.",
+      "author_url": "https://www.google.com/maps/contrib/107676478913789266636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK02UjVJCkarJ6eZFjJW0x1wThQd0KgGoOYOJx1F47mkAw4Tg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Morgens online kurzfristig Termin gebucht, vormittags am selben Tag zum Check in der Praxis - kompetent und sehr freundlich „behandelt“ worden. 👍🏻",
+      "time": 1786014935,
+      "translated": false
+    },
+    {
+      "author_name": "Elvira Thiessen",
+      "author_url": "https://www.google.com/maps/contrib/103624858394855845294/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj4LgOhcVyB33Os9KeB-kTImshVlDV_uqgbPHkSf4KDu3aiw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein erster Termin war SEHR POSITIV. Das Ambiente ist ansprechend und hat eine \"Wohlfühlatmosphäre\". Barrierefreiheit ist gegeben. Freundlichkeit bei allen Personen  - Mitarbeiter/ innen und der Ärztin. Der nächste Termin ist schon \"gebucht\". Im Gespräch mit der  Ärztin fühlte ich mich \"gut verstanden\". Danke an das Team",
+      "time": 1785835049,
+      "translated": false
+    },
+    {
       "author_name": "Sarah-Sophie Petersen",
       "author_url": "https://www.google.com/maps/contrib/106958121336724836991/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDsVukdYN1h2CNGZ-kRZz5yowwn6pVJUtTQaZZ7_TnTbgACA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Alles super gelaufen alles bestens",
+      "time": 1785408763,
+      "translated": false
+    },
+    {
+      "author_name": "Carmen gabriela Herciu",
+      "author_url": "https://www.google.com/maps/contrib/103161662790556567271/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDsVukdYN1h2CNGZ-kRZz5yowwn6pVJUtTQaZZ7_TnTbgACA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Alles super gelaufen alles bestens",
       "time": 1785408763,
       "translated": false
@@ -1348,11 +1384,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2349,
+  "reviewCount": 2351,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-04T07:36:52.452Z"
+  "lastUpdated": "2026-08-07T06:07:31.950Z"
 }

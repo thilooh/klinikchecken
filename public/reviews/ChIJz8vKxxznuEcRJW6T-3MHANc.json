@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tobias K",
+      "author_url": "https://www.google.com/maps/contrib/103993874152081777049/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSgziMYwAIiiHANDFE8YSEBHGq3K-tzIetmG2MuOonqtzIOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "11:00 Termin. Auf Grund von Patienten vor mir an der Anmeldung um 11:02 die Karte abgegeben. Termin storniert auf Grund von Verspätung. Nie wieder hierhin.",
+      "time": 1785920836,
+      "translated": false
+    },
+    {
       "author_name": "خيري بيشيمام Xeri Peshimam",
       "author_url": "https://www.google.com/maps/contrib/112137436209162062364/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Janusz Dregier",
+      "author_url": "https://www.google.com/maps/contrib/108468620357190992753/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1TgcIUA9TWPPdByvDX2Us1T0MKahkYPYFS8NpK9du4h4eHP2T=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Eine \"FÜNF\"für die Frau Dr.Anderle samt  Team.Einen herzlichen Dank.",
+      "time": 1785416709,
+      "translated": false
+    },
+    {
       "author_name": "Katrin Jagla",
       "author_url": "https://www.google.com/maps/contrib/114334866402758340484/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKxvMNjVsjPnGwHzPXplggEWMXnDC8Woai__vPyRLaHEe15w=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Hatte einen Ersttermin im Venenzentrum.\nBin sehr aufgeklärt worden und die anschließende Behandlung lief ohne Probleme.\nSehr netter Arzt und die Schwestern sind auch super nett.\nIch habe mich rundum wohl gefühlt.",
+      "time": 1785250627,
+      "translated": false
+    },
+    {
+      "author_name": "Katrin Jagla",
+      "author_url": "https://www.google.com/maps/contrib/114334866402758340484/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKxvMNjVsjPnGwHzPXplggEWMXnDC8Woai__vPyRLaHEe15w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Hatte einen Ersttermin im Venenzentrum.\nBin sehr aufgeklärt worden und die anschließende Behandlung lief ohne Probleme.\nSehr netter Arzt und die Schwestern sind auch super nett.\nIch habe mich rundum wohl gefühlt.",
       "time": 1785250627,
       "translated": false
@@ -1023,12 +1059,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 391,
+  "rating": 4.4,
+  "reviewCount": 385,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-04T07:37:10.020Z"
+  "lastUpdated": "2026-08-07T06:07:49.546Z"
 }

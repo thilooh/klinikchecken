@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Christian Wrobel",
+      "author_url": "https://www.google.com/maps/contrib/101663066271222948133/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJooeBSf7asIsPPQBfpm7nX7Aj8DoXS90ko_Y047KRNjzxNaA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nette Praxis mit super freundlichem Personal",
+      "time": 1785346557,
+      "translated": false
+    },
+    {
       "author_name": "R. Ismail",
       "author_url": "https://www.google.com/maps/contrib/101377445771046023967/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB69y3gf12Ecw4tGvQpsGS7h9-DM8E1WfxRhzGPgcblan_1SA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Eine sehr gute Praxis, ich bin mehr als zufrieden, daß ganze Personal ist freundlich und hilfsbereit",
+      "time": 1784212628,
+      "translated": false
+    },
+    {
+      "author_name": "Josef Becker",
+      "author_url": "https://www.google.com/maps/contrib/117214968338724343386/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB69y3gf12Ecw4tGvQpsGS7h9-DM8E1WfxRhzGPgcblan_1SA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Eine sehr gute Praxis, ich bin mehr als zufrieden, daß ganze Personal ist freundlich und hilfsbereit",
       "time": 1784212628,
       "translated": false
@@ -745,7 +769,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 98,
+  "reviewCount": 97,
   "summary": [],
-  "lastUpdated": "2026-08-04T07:36:40.994Z"
+  "lastUpdated": "2026-08-07T06:07:20.409Z"
 }

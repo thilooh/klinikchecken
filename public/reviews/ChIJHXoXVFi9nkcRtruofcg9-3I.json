@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "Beata Lupa",
+      "author_url": "https://www.google.com/maps/contrib/111985188582678194571/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVngUWC7_WFc1MCUUBGJrmD5CtJ2KZI8IfSDI4VTXXgQ-EG-g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786029634,
+      "translated": false
+    },
+    {
+      "author_name": "maria Denzer",
+      "author_url": "https://www.google.com/maps/contrib/103036620739724330086/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISCYYgCq3a_Tg36PICP7eQ3k4K-fV2loiCya_kNM-vvH7a1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "In der Gefäßchirurgie wurde ich hervorragend zu behandelt.",
+      "time": 1785951522,
+      "translated": false
+    },
+    {
+      "author_name": "Franz Weiß",
+      "author_url": "https://www.google.com/maps/contrib/106986545055034331772/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3pBLMR9pi4xXVOEYH2HHySedpfBhV6ZDsIPKL8bNvRGPF1g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ulrike Weiß\nIch bedanke mich ganz herzlich bei Dr. Tobias Meinhold und seinem Team für die hervorragende Varizen-Operation!\nIch fühlte mich sehr gut aufgehoben!\nUlrike Weiß",
+      "time": 1785857992,
+      "translated": false
+    },
+    {
+      "author_name": "Jossa Sandberg",
+      "author_url": "https://www.google.com/maps/contrib/102981648452605731899/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9zqZaIV-VANiToBKAYFGI3jUIheOPLDEqfCIgaitRoRHvfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785839566,
+      "translated": false
+    },
+    {
       "author_name": "Sanjin Suta",
       "author_url": "https://www.google.com/maps/contrib/100640204861601019872/reviews",
       "language": "de",
@@ -1014,11 +1058,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 415,
+  "reviewCount": 419,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-04T07:36:57.399Z"
+  "lastUpdated": "2026-08-07T06:07:36.847Z"
 }

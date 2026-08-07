@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Dani Diekhoff",
+      "author_url": "https://www.google.com/maps/contrib/101784862732923043434/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKk7tCnck0skAOo9RMG99ftYZom3wXJw1iqM9AUtyj1eII=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte mir kleine Besenreiser weg Lasern lassen. Ich kann hier nur jede Frau warnen. Macht das bitte nicht. Lange Freude hatte ich definitiv nicht. War nur kurz weg um richtig Verstärkung zu holen. Viel schlimmer wie vorher. Resultat viel Geld aus dem Fenster geworfen und unglücklicher wie vorher.",
+      "time": 1785913067,
+      "translated": false
+    },
+    {
+      "author_name": "olli pape",
+      "author_url": "https://www.google.com/maps/contrib/103144974706892627818/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt9-FcwtCzkMMRCpYrkFvg3LZJvcq0rqILrtytUy2xD9Ju=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War nicht günstig, aber richtig gut",
+      "time": 1785870515,
+      "translated": false
+    },
+    {
       "author_name": "Sandra",
       "author_url": "https://www.google.com/maps/contrib/110144869208656591948/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-sffSTIcIFIx3GZ1XI7LAQneN9xgrPRcGn8SckFbm1civ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -134,6 +158,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeFeqQqFHJeqyXLFuZORd5uAeIiwM76T48-MEmOaM-B2rsvw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Professionell, locker, freundlich. Großes Lob an Herrn Thomes, man hat sich unheimlich gut aufgehoben gefühlt. Tolle umfassende Beratung.",
+      "time": 1775657946,
+      "translated": false
+    },
+    {
+      "author_name": "Lucie",
+      "author_url": "https://www.google.com/maps/contrib/108435720619566003769/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeFeqQqFHJeqyXLFuZORd5uAeIiwM76T48-MEmOaM-B2rsvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Professionell, locker, freundlich. Großes Lob an Herrn Thomes, man hat sich unheimlich gut aufgehoben gefühlt. Tolle umfassende Beratung.",
       "time": 1775657946,
       "translated": false
@@ -337,12 +373,12 @@
       "translated": false
     }
   ],
-  "rating": 5,
-  "reviewCount": 82,
+  "rating": 4.9,
+  "reviewCount": 84,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-04T07:37:14.009Z"
+  "lastUpdated": "2026-08-07T06:07:53.557Z"
 }

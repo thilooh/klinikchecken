@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M. Kleditzsch",
+      "author_url": "https://www.google.com/maps/contrib/113498823404031049211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_DUyIu8erxIMXA0mEncI4ku7jZ4Msxs5rYFoyfrCXL75KWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit mehr als zwei Jahren in der Hammer Praxis in Behandlung. Sie ist sehr gut strukturiert und die termindisziplin hervorragend. Eine modern ausgestattete Räumlichkeit, die eine Menge Patienten und Patientinnen durchschleust. Das medizinische Personal ist freundlich und zugewandt, wenn auch offensichtlich auf Effizienz eingestellt. Das führt zu dem gewünschten hohen patienendurchsatz.\nUnschön ist die Wartesituation an der Anmeldung. Patienten  müssen  im Treppenhaus warten und dürfen wegen Datenschutz nun einzeln eintreten. Dann stehen jedoch zwei Patienten direkt nebeneinander vor zwei Anmeldecentern, und geben ihre Daten an. Datenschutz? Hinzu kommt eine ausgesprochen unfreundliche Mitarbeiterin mittleren Alters, die mir mehrmals bereits begegnet ist und im Service an der Anmeldung eine völlige Fehlbesetzung scheint. Kompetenz alleine ist hier nicht ausreichend - es braucht Zugewandheit und vor allem freundliches Entgegenkommen. Diese Mitarbeiterin vermittelt den Eindruck, dass sie ihren Job absolut ungern erledigt und die Patienten für sie da sind und nicht umgekehrt! Heute ist mir dies so deutlich aufgefallen, dass ich mich direkt entsprechend geäußert habe. Auch der behandelnden Ärztin musste ich meine Irritation mitteilen. Zumal diese mir äußerst freundlich begegnete und Hoffnung machte, dass an der Strukturierung des Anmeldebereichs gearbeitet werde! Dass ich heute noch keinen Termin für Anfang 2027 (!!) machen konnte, weil der Kalender noch nicht freigeschaltet war, bestätigt meinen Eindruck, dass das höchst erforderlich ist.\nNachbemerkung: die genannte Mitarbeiterin hat mir unbemerkt meine versichtenkarte nicht zurückgegeben. Ich habe es drei Tage später (!!) gemerkt. Die Praxis hatte es nicht für nötig erachtet, mich kurz darüber zu informieren. Erst auf meine Nachfrage gab man zu, dass meine Karte dort liegengeblieben war. unfassbar.",
+      "time": 1786036487,
+      "translated": false
+    },
+    {
       "author_name": "P M",
       "author_url": "https://www.google.com/maps/contrib/104472803033206572475/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqZF5xkFwZ0fSqJaAm2TGWpckaGIk1Q-n3E6blk19vwfNl2qZhuQ=s128-c0x00000000-cc-rp-mo-ba5",
@@ -81,6 +93,18 @@
       "translated": false
     },
     {
+      "author_name": "Roman (RoSch009)",
+      "author_url": "https://www.google.com/maps/contrib/113479963143019883323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeUuQASrNzUbrrYblU-LDeaN_ri6hOQ8uJGxCO5YKrQTdcFuGh=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Saubere Praxis. pro­fes­si­o­nelle und schnelle Behandlung. Was will man mehr",
+      "time": 1784265456,
+      "translated": false
+    },
+    {
       "author_name": "S M",
       "author_url": "https://www.google.com/maps/contrib/111017452953632463727/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpIL5_PZ5VholKYSXWZXoVZB0brqo3EKOfAVpNKTH7qX6BbQjM_A=s128-c0x00000000-cc-rp-mo-ba6",
@@ -106,6 +130,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpIL5_PZ5VholKYSXWZXoVZB0brqo3EKOfAVpNKTH7qX6BbQjM_A=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1784141228,
+      "translated": false
+    },
+    {
+      "author_name": "S M",
+      "author_url": "https://www.google.com/maps/contrib/111017452953632463727/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpIL5_PZ5VholKYSXWZXoVZB0brqo3EKOfAVpNKTH7qX6BbQjM_A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1784141228,
       "translated": false
@@ -1004,11 +1038,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 136,
+  "reviewCount": 137,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-04T07:37:12.569Z"
+  "lastUpdated": "2026-08-07T06:07:52.145Z"
 }

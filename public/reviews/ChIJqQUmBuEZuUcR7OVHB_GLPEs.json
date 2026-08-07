@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Simon Redlich",
+      "author_url": "https://www.google.com/maps/contrib/105766646440191688454/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx5Y27HaG-rfNwTh8T5upbVt4Ws8-0l-ZS0RQ9_0T5sJwOH5wl=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785882816,
+      "translated": false
+    },
+    {
+      "author_name": "Miśiek Pampaliśiek",
+      "author_url": "https://www.google.com/maps/contrib/116332421139562376831/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYY3P_C2G9YpTW44igkcqIcx85QbwImMlqeJa3t5EdQyD5NQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Kirsch und das ganze MVZ sind Klasse. Online spontan einen Termin gebucht für den selben Tag. Keine Wartezeit, Herr Kirsch hat mir alles super freundlich erklärt und mir die Auffälligkeiten sogar selbst durch die Lupe gezeigt. Man hatte das Gefühl, dass er seinen Job mag und eine Berufsethik an den Tag legt, die man heute nur noch selten findet. Danke!",
+      "time": 1785843810,
+      "translated": false
+    },
+    {
       "author_name": "Hannelore Wille",
       "author_url": "https://www.google.com/maps/contrib/107454248932633515998/reviews",
       "language": "de",
@@ -1040,7 +1062,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 290,
+  "reviewCount": 292,
   "summary": [],
-  "lastUpdated": "2026-08-04T07:36:42.749Z"
+  "lastUpdated": "2026-08-07T06:07:22.211Z"
 }

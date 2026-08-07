@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Martin Koper",
+      "author_url": "https://www.google.com/maps/contrib/114583152081392018289/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGI-Cr_kzi91nkBPvSdROoJpX2FuAqLtgBnyYRBB6QON2-L_Xy=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann bisher nur die Erfahrungen mit der Praxis und Doctolib teilen, weil ich bisher keinen Arzt sehen konnte.\n\nIn meiner Familie ist es jedes Mal passiert, dass Termine sehr kurzfristig abgesagt wurden (3 unterschiedliche Familienmitglieder):\nTermin am 29.04. wurde am 27.04. abgesagt wegen Krankheit (gebucht am 30.12.2025)\nTermin am 04.05. wurde am 30.04. wegen eines technischen Problems im Online-Kalender abgesagt (gebucht am 04.01.26)\nTermin am 03.08. wurde am 03.08. wegen Krankheit abgesagt (gebucht am 30.12.2025)\n\nAlle Buchungen via Doctolib, Nachweise können auf Wunsch zugeschickt werden.\n\nGerade bei einem Hautarzt ist die Wartezeit ohnehin sehr lang und ich mache keinem einen Vorwurf, dass jemand krank wird oder dass es technische Probleme gibt. Dass Termine dann kurzfristig und ohne Ersatztermin abgesagt werden, finde ich nicht in Ordnung.\nAuf der Suche nach einem Ersatztermin in Doctolib konnte ich dann sehen, dass für Selbstzahler und Privatpatienten freie Termine bereits 1-2 Tage später angeboten wurden, das finde ich schwer nachvollziehbar.",
+      "time": 1785933553,
+      "translated": false
+    },
+    {
       "author_name": "I B",
       "author_url": "https://www.google.com/maps/contrib/106545375609818073122/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Lᴀ Sᴀʀɪɴᴀ",
+      "author_url": "https://www.google.com/maps/contrib/106320684890456829512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoewdf-kfcdG5Ya2wGKqV-3nWqGHB8lgelyAxSKVFE-nE4hzBR=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider war ich von meinem Termin bei Dr. Patrick Link sehr enttäuscht. Ich hatte mir von einer Zweitmeinung deutlich mehr erhofft. Der Arzt war sehr kurz angebunden und ich musste vieles selbst hinterfragen und erfragen. Auf meine Anliegen wurde aus meiner Sicht nicht ausreichend eingegangen. Insgesamt hatte ich leider nicht das Gefühl, dass mir der Termin weitergeholfen hat. Sehr schade – die Zeit hätte ich mir sparen können.",
+      "time": 1785452694,
+      "translated": false
+    },
+    {
       "author_name": "Anna Sophie",
       "author_url": "https://www.google.com/maps/contrib/110385299999751185591/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_wOw0o6z8OrLEWO5rv7Kl2Wz-FVg2HtPA0cA9gH6wtkzDRw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen verbindlichen Termin über Doctolib vereinbart. Dieser wurde kurzfristig aus „organisatorischen Gründen“ und „ersatzlos“ abgesagt. Ein neuer Termin konnte nicht vereinbart werden; auf Mails wurde nicht reagiert. Leider sehr enttäuschend und unprofessionell gerade in Anbetracht der Tatsache, dass man sehr lange Wartezeiten bei der Vereinbarung eines Hautarzttermines hat. Eine erneute Terminvereinbarung, wie in der Mail angegeben, war über Doctolib nicht möglich.",
+      "time": 1785441726,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Sophie",
+      "author_url": "https://www.google.com/maps/contrib/110385299999751185591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_wOw0o6z8OrLEWO5rv7Kl2Wz-FVg2HtPA0cA9gH6wtkzDRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich hatte einen verbindlichen Termin über Doctolib vereinbart. Dieser wurde kurzfristig aus „organisatorischen Gründen“ und „ersatzlos“ abgesagt. Ein neuer Termin konnte nicht vereinbart werden; auf Mails wurde nicht reagiert. Leider sehr enttäuschend und unprofessionell gerade in Anbetracht der Tatsache, dass man sehr lange Wartezeiten bei der Vereinbarung eines Hautarzttermines hat. Eine erneute Terminvereinbarung, wie in der Mail angegeben, war über Doctolib nicht möglich.",
       "time": 1785441726,
       "translated": false
@@ -895,12 +931,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 169,
+  "rating": 4.5,
+  "reviewCount": 170,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-04T07:36:57.623Z"
+  "lastUpdated": "2026-08-07T06:07:37.081Z"
 }

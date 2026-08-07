@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Martin Schätzle",
+      "author_url": "https://www.google.com/maps/contrib/107832946721754175829/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSBDkPAFnPG67St9t9y5WxLdBWZvGAFL4II04drk4YYyEuCw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785909338,
+      "translated": false
+    },
+    {
       "author_name": "J J",
       "author_url": "https://www.google.com/maps/contrib/100840746002755063625/reviews",
       "language": "de",
@@ -61,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "Sandra",
+      "author_url": "https://www.google.com/maps/contrib/116070142830392646781/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJgfe7icaV4HwJSrQl8mMg0Q1NTzJ6SZvW2GnSSVaihZdf4Ts=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nettes und freundliches Team,  mit Termin kaum gewartet. Sehr zu empfehlen!",
+      "time": 1784722399,
+      "translated": false
+    },
+    {
       "author_name": "L D",
       "author_url": "https://www.google.com/maps/contrib/111872250539487621872/reviews",
       "language": "de",
@@ -128,6 +150,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6GOvwgO3QjMZ97_gwNEeQ5KG1TGIblpyaUNP8vNgHYkFN3kU=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ganz klare Empfehlung!\nUnkomplizierte Terminvereinbarung, wo auch berücksichtigt wird ob es Absagen gab und hierdurch kurzfristig Termine möglich sind.\nBei der Erstuntersuchung fühlte ich mich direkt gut aufgehoben. Top Beratung und vor allem alles sehr sauber.\nWartezeiten sind überschaubar.\nOperiert wurde ich von Herr Doktor Hartmann. Unkompliziert, nett und sehr kompetent. Mit dem Ergebnis war ich sofort zu frieden. Das Team Drumherum ist wirklich angenehm. Gute Stimmung bei der OP Vorbereitung. Auch hier alles sehr sauber.\nNachbetreuung nach der OP verläuft genauso unkompliziert.\n\nVielen Dank an das Team des Venenzentrums!",
+      "time": 1784036041,
+      "translated": false
+    },
+    {
+      "author_name": "Neunzehn Nullneun",
+      "author_url": "https://www.google.com/maps/contrib/109848452369278441829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6GOvwgO3QjMZ97_gwNEeQ5KG1TGIblpyaUNP8vNgHYkFN3kU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ganz klare Empfehlung!\nUnkomplizierte Terminvereinbarung, wo auch berücksichtigt wird ob es Absagen gab und hierdurch kurzfristig Termine möglich sind.\nBei der Erstuntersuchung fühlte ich mich direkt gut aufgehoben. Top Beratung und vor allem alles sehr sauber.\nWartezeiten sind überschaubar.\nOperiert wurde ich von Herr Doktor Hartmann. Unkompliziert, nett und sehr kompetent. Mit dem Ergebnis war ich sofort zu frieden. Das Team Drumherum ist wirklich angenehm. Gute Stimmung bei der OP Vorbereitung. Auch hier alles sehr sauber.\nNachbetreuung nach der OP verläuft genauso unkompliziert.\n\nVielen Dank an das Team des Venenzentrums!",
       "time": 1784036041,
       "translated": false
@@ -810,11 +844,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 177,
+  "reviewCount": 178,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-04T07:36:58.081Z"
+  "lastUpdated": "2026-08-07T06:07:37.552Z"
 }
