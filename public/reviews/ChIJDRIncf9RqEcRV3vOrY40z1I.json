@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tommeck",
+      "author_url": "https://www.google.com/maps/contrib/117487184956014081330/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPeC2C-PahNMdSIBWS4lr2bDq4WiSUjZ3ZuvGG_71tSNlo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Team. Ich habe eine Thrombose bekommen und wurde super Aufgeklärt. Es wurden sofort Maßnahmen ergriffen zur Behandlung. Man hat das Gefühl, dass man keine Nummer ist sondern wirklich Ursachenforschung betrieben wird. So wie es sein sollte. Ich kann die Praxis nur empfehlen. Vielen Dank an meine Ärztin nochmal.",
+      "time": 1786340496,
+      "translated": false
+    },
+    {
       "author_name": "Vladimir Kogan",
       "author_url": "https://www.google.com/maps/contrib/117939382306300253647/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJxXi0eYwrN3WttzkG3zthgnYSAa1dmcR4lDePeg1XlwNFuCs_=s128-c0x00000000-cc-rp-mo",
@@ -928,7 +940,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 146,
+  "reviewCount": 147,
   "summary": [],
-  "lastUpdated": "2026-08-07T06:07:22.824Z"
+  "lastUpdated": "2026-08-10T06:09:12.164Z"
 }

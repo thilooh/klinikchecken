@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lea W.",
+      "author_url": "https://www.google.com/maps/contrib/108547144920781738113/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFuYu-Vhf50XprutMCaojSCZU_hyjq50Ozjv3sxFjkjmvN0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit über 2 Jahren Patientin in der Praxis Hautnah und fühle mich bei jedem Besuch bestens aufgehoben. Sowohl bei der Hautkrebsvorsorge bei Dr. Omaj, als auch bei den regelmäßigen Kosmetikbehandlungen. In jedem Termin wird die Ausgangslage besprochen und bei Bedarf die Behandlung individuell angepasst und beraten.\nDas ganze Team ist wirklich aufmerksam und freundlich!\nWer eine tolle Praxis für Dermatologie & Ästhetik mit kompetenten Mitarbeitern und modernen Behandlungsmethoden sucht, wird bei Dr. Omaj und seinem Team definitiv glücklich!",
+      "time": 1786123172,
+      "translated": false
+    },
+    {
       "author_name": "High Velocity",
       "author_url": "https://www.google.com/maps/contrib/112156310082874497219/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu4cu4zjR-9X6N4IMZLSciflyS_VWr9a6o6DCuKS9QWMnId8k=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Tolles Team. Schnelle Termine und gute schnelle Diagnose.👍",
+      "time": 1783801710,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Janz",
+      "author_url": "https://www.google.com/maps/contrib/110292041586227423299/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu4cu4zjR-9X6N4IMZLSciflyS_VWr9a6o6DCuKS9QWMnId8k=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Tolles Team. Schnelle Termine und gute schnelle Diagnose.👍",
       "time": 1783801710,
       "translated": false
@@ -915,7 +939,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 295,
+  "reviewCount": 296,
   "summary": [],
-  "lastUpdated": "2026-08-07T06:07:20.741Z"
+  "lastUpdated": "2026-08-10T06:09:10.117Z"
 }

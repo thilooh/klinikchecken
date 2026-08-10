@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Horst Curth",
+      "author_url": "https://www.google.com/maps/contrib/102607322682272676248/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJermDbZJ00v4KY0xGA2ixm4plwO_IqHS7g902E-0BMtE_g2w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Arzt und das Personal sind super",
+      "time": 1786221918,
+      "translated": false
+    },
+    {
       "author_name": "Vladi B.",
       "author_url": "https://www.google.com/maps/contrib/115748149430119119124/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbYenn7QB7DG6VliN5gk-VcQ-HHQkpC46mhMXf2tvnSf7PYFU=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor ca. einem Jahr bei Dr. Alatassi, für ein professionelles Hautscreening. Alles super, sie hat sich Zeit genommen und über alles gründlich aufgeklärt. Tiptop.",
+      "time": 1785491213,
+      "translated": false
+    },
+    {
+      "author_name": "Vladi B.",
+      "author_url": "https://www.google.com/maps/contrib/115748149430119119124/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbYenn7QB7DG6VliN5gk-VcQ-HHQkpC46mhMXf2tvnSf7PYFU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war vor ca. einem Jahr bei Dr. Alatassi, für ein professionelles Hautscreening. Alles super, sie hat sich Zeit genommen und über alles gründlich aufgeklärt. Tiptop.",
       "time": 1785491213,
       "translated": false
@@ -33,6 +57,16 @@
       "translated": false
     },
     {
+      "author_name": "Lisa Tomczak",
+      "author_url": "https://www.google.com/maps/contrib/103782333649853564556/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_IXMRKSVIc3gUcmMWcA3G9NoNuGXsnabtYn0LxekD5GF_Nw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1785087691,
+      "translated": false
+    },
+    {
       "author_name": "Mathilde",
       "author_url": "https://www.google.com/maps/contrib/101461172493464496416/reviews",
       "language": "de",
@@ -52,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVWUK6ltBmFy385Rlw4werBed6C2-a7_9M0zGuO6D1Yh7Bl0R2=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Jeder in dieser Praxis ist ausgesprochen freundlich und zugewandt - auch bei allergrößter Patientenzahl. Ich war am 22.07. 2026 zum Hautkrebs-Screening dort und bin noch niemals so gründlich und gewissenhaft gecheckt worden! Natürlich habe ich das auch gleich weitergegeben - mein Dank gilt nochmals Frau Schlupkothen. Bei diesem Termin wurde auch ( ohne lange vorherige Planung) ein kleiner chirurgischer Eingriff vorgenommen. Auch das wurde ganz prima - gemeinsam mit der sehr sorgfältigen und freundlichen MFA  (ich weiß den Namen leider nicht) - durchgeführt.\nAlles in allem ein wirklich tolles Team! Danke dafür und alles Gute weiterhin.\nC.",
+      "time": 1785041529,
+      "translated": false
+    },
+    {
+      "author_name": "Mathilde",
+      "author_url": "https://www.google.com/maps/contrib/101461172493464496416/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVWUK6ltBmFy385Rlw4werBed6C2-a7_9M0zGuO6D1Yh7Bl0R2=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Jeder in dieser Praxis ist ausgesprochen freundlich und zugewandt - auch bei allergrößter Patientenzahl. Ich war am 22.07. 2026 zum Hautkrebs-Screening dort und bin noch niemals so gründlich und gewissenhaft gecheckt worden! Natürlich habe ich das auch gleich weitergegeben - mein Dank gilt nochmals Frau Schlupkothen. Bei diesem Termin wurde auch ( ohne lange vorherige Planung) ein kleiner chirurgischer Eingriff vorgenommen. Auch das wurde ganz prima - gemeinsam mit der sehr sorgfältigen und freundlichen MFA  (ich weiß den Namen leider nicht) - durchgeführt.\nAlles in allem ein wirklich tolles Team! Danke dafür und alles Gute weiterhin.\nC.",
       "time": 1785041529,
       "translated": false
@@ -722,11 +768,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 121,
+  "reviewCount": 122,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-07T06:07:36.611Z"
+  "lastUpdated": "2026-08-10T06:09:26.186Z"
 }

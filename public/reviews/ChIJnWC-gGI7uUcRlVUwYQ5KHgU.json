@@ -97,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Acar Ayyildiz",
+      "author_url": "https://www.google.com/maps/contrib/111463467723864904282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW7kkuELhWjKGPaDQfsekVXgP1DfmmmjYPTacJXcVehnb7Wg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war nicht da, keine Meinumg",
+      "time": 1783878423,
+      "translated": false
+    },
+    {
       "author_name": "Yazan Alali",
       "author_url": "https://www.google.com/maps/contrib/108047595841415190164/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHM0xaNJxBDqHSbbqBI3PCVBMBSba6R931HSrF0U9e4tn1rDoh=s128-c0x00000000-cc-rp-mo",
@@ -142,6 +154,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHM0xaNJxBDqHSbbqBI3PCVBMBSba6R931HSrF0U9e4tn1rDoh=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1783612478,
+      "translated": false
+    },
+    {
+      "author_name": "Yazan Alali",
+      "author_url": "https://www.google.com/maps/contrib/108047595841415190164/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHM0xaNJxBDqHSbbqBI3PCVBMBSba6R931HSrF0U9e4tn1rDoh=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1783612478,
       "translated": false
@@ -978,5 +1000,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-07T06:07:51.665Z"
+  "lastUpdated": "2026-08-10T06:09:42.131Z"
 }

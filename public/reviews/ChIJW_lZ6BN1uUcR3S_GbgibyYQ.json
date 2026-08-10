@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "conni wenzel",
+      "author_url": "https://www.google.com/maps/contrib/117853574873741298444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoJPd5XVrZgOWYNNobjwD9jNSzVI6KJ0lgYSHHATbHMMPVSg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe mich gut aufgehoben gefühlt.",
+      "time": 1786295167,
+      "translated": false
+    },
+    {
+      "author_name": "Laura Struckamp",
+      "author_url": "https://www.google.com/maps/contrib/114184333859186259110/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5Ez3x1aym3wgIN28YuZUDuVB7_sWkkDTLLlOT4E1bTsZxhQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786170197,
+      "translated": false
+    },
+    {
       "author_name": "M. Kleditzsch",
       "author_url": "https://www.google.com/maps/contrib/113498823404031049211/reviews",
       "language": "de",
@@ -1038,11 +1060,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 137,
+  "reviewCount": 139,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:52.145Z"
+  "lastUpdated": "2026-08-10T06:09:42.623Z"
 }

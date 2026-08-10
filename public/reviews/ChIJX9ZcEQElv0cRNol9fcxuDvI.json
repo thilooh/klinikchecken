@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Claudia Schmitz",
+      "author_url": "https://www.google.com/maps/contrib/106417657580011354305/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnUTckok4xVUezfvLeTrQd0fORP3i_OAMEB3Jx0unHnzvq_w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr schöne, super organisierte Praxis- sehr empfehlenswert!",
+      "time": 1786176839,
+      "translated": false
+    },
+    {
       "author_name": "Marlies Schulz",
       "author_url": "https://www.google.com/maps/contrib/106120793084510244734/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAL6pM-vNOBHsaDZj6bUiYS7wnrj_MeoRBWWSlX1a6uYiRSA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich fühlte mich während meiner Behandlung im Rahmen des Venous Closure-Verfahrens in der Praxis sehr gut aufgehoben. Alle Mitarbeitenden und auch der Operateur Herr Anwer waren sehr freundlich, zuvorkommend und menschlich. Ich kann die Praxis nur weiterempfehlen. Vielen Dank an das gesamte Team.",
+      "time": 1784363366,
+      "translated": false
+    },
+    {
+      "author_name": "Marlies Schulz",
+      "author_url": "https://www.google.com/maps/contrib/106120793084510244734/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAL6pM-vNOBHsaDZj6bUiYS7wnrj_MeoRBWWSlX1a6uYiRSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich fühlte mich während meiner Behandlung im Rahmen des Venous Closure-Verfahrens in der Praxis sehr gut aufgehoben. Alle Mitarbeitenden und auch der Operateur Herr Anwer waren sehr freundlich, zuvorkommend und menschlich. Ich kann die Praxis nur weiterempfehlen. Vielen Dank an das gesamte Team.",
       "time": 1784363366,
       "translated": false
@@ -202,6 +226,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy1cz5wFeiqMooFJ9zn2JzbCF4eb9AlxMGeIASYwkE4jO5Bw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1783544037,
+      "translated": false
+    },
+    {
+      "author_name": "Christin Köse",
+      "author_url": "https://www.google.com/maps/contrib/112488688700644496363/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy1cz5wFeiqMooFJ9zn2JzbCF4eb9AlxMGeIASYwkE4jO5Bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1783544037,
       "translated": false
@@ -587,11 +621,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 186,
+  "reviewCount": 187,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-08-07T06:07:14.419Z"
+  "lastUpdated": "2026-08-10T06:09:04.766Z"
 }

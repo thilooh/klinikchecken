@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Karla Kruse-Teich",
+      "author_url": "https://www.google.com/maps/contrib/103644940708092822409/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzCFhsjKSXIvq9493CkuuCjj4JBS82s8_oqIUrWpZs1YR2Al0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war in der letzten Woche in dieser Praxis und war sehr beeindruckt von der Vorgehensweise. Die Wartezeit war o.k. und im Akzeptanzbereich. Erst in einen Raum mit einer Angestellten zwecks Ganzkörper-Scan; alles wurde gut erklärt und durchgeführt. Dann nochmal zur Ärztin, welche sich auch noch einmal den gesamten Körper ansah. Sehr gründlich, professionell und mit viel Empathie. Frau Dr. Mrowka ist eine Ärztin wie aus dem Bilderbuch, so, wie man sich eine verantwortungsvolle Ärztin vorstellt, die ihren Beruf gern ausübt. Es ist fast so, als würde man zu einer Freundin kommen und nicht zu einer Ärztin, so herzlich aber verbindlich ist der Umgang. Bin sehr froh, diese Praxis mit dieser top-Ärztin gewählt zu haben! Auch die Rezeption/der Empfang und Abwicklung ist voll zu meiner Zufriedenheit!  Volle Punktzahl!",
+      "time": 1786296726,
+      "translated": false
+    },
+    {
+      "author_name": "Brigitte",
+      "author_url": "https://www.google.com/maps/contrib/113400743871646507603/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT3f3-SjUe14v_FhBtJmKqH2Y0zimkWuV_PQrDZeoUYpmsYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Personal ist freundlich, der Ablauf von der Anmeldung bis zur Behandlung zügig. Die Ärzte, in meinem Fall einmal Herr Dr.Haase und auch Frau Dr.Haase, sehr emphatisch, kompetent und man hat als Patient nicht das Gefühl, dass sie auf der Flucht sind und man ihnen nicht die Zeit stehlen soll😉\nIn dieser Praxis fühle ich mich gut aufgehoben!!!",
+      "time": 1786214339,
+      "translated": false
+    },
+    {
+      "author_name": "He Bo",
+      "author_url": "https://www.google.com/maps/contrib/117536426755495868734/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVHbqW6YzCmMdiCQEo8QAIM9oePTVDKQLLIoJWRZjzrrHNyGFo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Da in Schwerin keine Termine zu bekommen sind, haben wir uns in dieser Hautarztpraxis angemeldet. Wir waren sehr angetan von der Freundlichkeit des Personals und überrascht von der Gründlichkeit der Untersuchung. Auch die Behandlungsmethoden und - vorschläge waren von neuer Qualität.  Es ist eine sehr modern eingerichtete und durchorganisierte Praxis. Absolut weiterzuempfehlen.",
+      "time": 1786093848,
+      "translated": false
+    },
+    {
+      "author_name": "Corina",
+      "author_url": "https://www.google.com/maps/contrib/113894312745583818931/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7SlBkrJLbuYjpF9Vhh-NXqJ3oqzJTDGXNu9VyO3rT7Um7Dg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte bereits bei verschiedenen Ärzten einen Termin in dieser Praxis. Wenn man einen Termin bekommt, Gratulation! Bei der Anmeldung am Empfangstresen sieht es mittlerweile anders aus... Keine Zeit und teilweise falsche Auskünfte, man wird unfreundlich durchgeschoben und wenn man eine Frage stellt - wird man sehr unhöflich abgewiesen mit den Worten \"Ich muss jetzt weitermachen, dafür habe ich keine Zeit\". Dabei hat man doch jetzt eigentlich mehr Zeit, wenn man sich schon nicht mehr um die Terminplanung der Patienten kümmern muss, oder? Tolle Ärzte, aber das Aushängeschild der Empfang, insbesondere Frau C. Kühl , die reinste Katastrophe! Augen auf bei der Berufswahl oder wenn man mit Stress nicht umgehen kann!!!",
+      "time": 1786092585,
+      "translated": false
+    },
+    {
       "author_name": "K. O.",
       "author_url": "https://www.google.com/maps/contrib/107676478913789266636/reviews",
       "language": "de",
@@ -1384,11 +1432,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2351,
+  "reviewCount": 2355,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-07T06:07:31.950Z"
+  "lastUpdated": "2026-08-10T06:09:21.439Z"
 }

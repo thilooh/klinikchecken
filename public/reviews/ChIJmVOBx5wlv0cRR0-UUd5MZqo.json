@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Luca Tourki",
+      "author_url": "https://www.google.com/maps/contrib/112762125327151249447/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0U4JBLdYg4jEf7v3MMfaQWPrL7lbKLG_E3ThleuR5Ko8Qdw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr positiver Eindruck! Die Praxis ist sehr gepflegt. Das Team ist super nett. Ich kam sehr schnell zu meinem vereinbarten Termin dran. Die Frau Dr. Krause war sehr zuvorkommend und hat sich auch die nötige Zeit genommen mein Anliegen anzuhören. Insgesamt kann ich diese Praxis nur weiterempfehlen!",
+      "time": 1786099399,
+      "translated": false
+    },
+    {
       "author_name": "Lara Rasmussen",
       "author_url": "https://www.google.com/maps/contrib/110279065408497114581/reviews",
       "language": "de",
@@ -723,7 +735,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 52,
+  "reviewCount": 53,
   "summary": [],
-  "lastUpdated": "2026-08-07T06:07:17.820Z"
+  "lastUpdated": "2026-08-10T06:09:07.379Z"
 }

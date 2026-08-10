@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "n tt",
+      "author_url": "https://www.google.com/maps/contrib/108088055743575616028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBW-ddMp7VkBWt8sFpaqYiLd2VrU7VIpN7c6EJzLL9Jj89Boc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schlechte venen operation",
+      "time": 1786135521,
+      "translated": false
+    },
+    {
       "author_name": "Ofenheinz Glühwein",
       "author_url": "https://www.google.com/maps/contrib/115189472706743395058/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuQv6QUbrUZOE9ltI9ekjr6E_kxyD2P_QOKERGCMzen17Crw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war als Notfall dort wegen akuten Schmerzen! Hatte eine Überweisung von meiner Frauenärztin.\nMeinen Befund  habe ich per e Mail geschildert da ich zunächst telefonisch in der Warteschlange war.\nDer Arzt rief sofort zurück und mir wurde am gleichen Tag noch geholfen!\n\nDie OP wurde super einfühlsam und so schmerzfrei wie möglich durchgeführt.\n\nEin ganz toller Arzt, selten so viel Empathie erlebt und die Arzthelferin ebenso aufmerksam und lieb.\n\nEin ganz großes Dankeschön!",
+      "time": 1783612117,
+      "translated": false
+    },
+    {
+      "author_name": "carola helm",
+      "author_url": "https://www.google.com/maps/contrib/112931296131336307077/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuQv6QUbrUZOE9ltI9ekjr6E_kxyD2P_QOKERGCMzen17Crw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war als Notfall dort wegen akuten Schmerzen! Hatte eine Überweisung von meiner Frauenärztin.\nMeinen Befund  habe ich per e Mail geschildert da ich zunächst telefonisch in der Warteschlange war.\nDer Arzt rief sofort zurück und mir wurde am gleichen Tag noch geholfen!\n\nDie OP wurde super einfühlsam und so schmerzfrei wie möglich durchgeführt.\n\nEin ganz toller Arzt, selten so viel Empathie erlebt und die Arzthelferin ebenso aufmerksam und lieb.\n\nEin ganz großes Dankeschön!",
       "time": 1783612117,
       "translated": false
@@ -732,11 +756,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 158,
+  "reviewCount": 159,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:41.749Z"
+  "lastUpdated": "2026-08-10T06:09:31.481Z"
 }

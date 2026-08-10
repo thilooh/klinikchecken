@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ni",
+      "author_url": "https://www.google.com/maps/contrib/109894396820453919870/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUT93hcY781_r1uwlWbe7KhTyIdQujKv2eIKxpFzOiRAURmatR1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786305334,
+      "translated": false
+    },
+    {
       "author_name": "Laura-Jeane Mauermann",
       "author_url": "https://www.google.com/maps/contrib/107183977898549248590/reviews",
       "language": "de",
@@ -580,11 +590,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 102,
+  "reviewCount": 103,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:42.680Z"
+  "lastUpdated": "2026-08-10T06:09:32.404Z"
 }

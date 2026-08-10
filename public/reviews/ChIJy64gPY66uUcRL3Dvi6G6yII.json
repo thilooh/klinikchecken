@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Chiara Holt",
+      "author_url": "https://www.google.com/maps/contrib/107470449086592636454/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIHkWinK0by1zeHIPGxZU1Zib2ylBlnGP6rIT_wqMqXtmdAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "für mich leider eine extrem enttäuschende Erfahrung!\n\n1.100 € bezahlt – und nach 7 Monaten kein sichtbares Ergebnis.\n\nIch bin wegen einer Falte unter dem Auge in die Praxis gegangen. Mir wurde eine Behandlung empfohlen, obwohl ich ursprünglich etwas anderes wollte. Mir wurde dabei zugesichert, dass sowohl die Falte als auch meine Krähenfüße behandelt werden könnten.\n\nDie 1.100 € musste ich bereits drei Wochen vor der Behandlung komplett bezahlen. Eine Rechnung wurde mir trotz Nachfrage nicht mitgegeben. Auch bei der Nachsorge lief einiges schief: Mir wurden Cremes empfohlen, die ich überhaupt nicht erhalten hatte.\n\nNach fünf Monaten war kein nennenswertes Ergebnis zu erkennen. Als ich deshalb das Gespräch mit der Ärztin gesucht habe, fühlte ich mich nicht ernst genommen. Es wurde immer wieder behauptet, man würde eine Veränderung sehen. Auf meine einfache Frage, wo genau diese Veränderung denn zu sehen sei, konnte man mir allerdings keine konkrete Antwort geben. Es hieß, mit der Behandlung hätte man diese Falte nicht behandeln können & bei den Krähenfüßen hätte man nichts behandelt, zudem würde man das vollständige Ergebnis erst nach sechs Monaten sehen können.\n\nNun sind rund sieben Monate vergangen – und ich sehe nach wie vor keinen Unterschied.\n\nIch habe mich anschließend woanders behandeln lassen und dafür nur etwa ein Viertel der Summe bezahlt – mit einem Ergebnis, mit dem ich sehr zufrieden bin.\n\nRückblickend sind die 1.100 € für mich schlicht rausgeschmissenes Geld. Was mich neben dem fehlenden Ergebnis besonders ärgert, ist der schlechte Umgang mit meiner Kritik. Ich hätte mir eine ehrliche Beratung, eine vernünftige Nachsorge und vor allem das Gefühl gewünscht, als Patientin ernst genommen zu werden.\n\nMeine persönliche Erfahrung: Ich würde diese Praxis nicht noch einmal wählen und kann nur jedem raten, sich vor einer solchen Behandlung sehr genau zu informieren und unbedingt eine zweite Meinung einzuholen",
+      "time": 1786288674,
+      "translated": false
+    },
+    {
       "author_name": "Ingeborg Mladenovic",
       "author_url": "https://www.google.com/maps/contrib/110519892033475082761/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7vE50PdXpIX43IImANwp38YASytoxK2BI6S676Q_1CndOZA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -36,6 +48,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7vE50PdXpIX43IImANwp38YASytoxK2BI6S676Q_1CndOZA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1783679981,
+      "translated": false
+    },
+    {
+      "author_name": "Ingeborg Mladenovic",
+      "author_url": "https://www.google.com/maps/contrib/110519892033475082761/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7vE50PdXpIX43IImANwp38YASytoxK2BI6S676Q_1CndOZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1783679981,
       "translated": false
@@ -463,12 +485,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 90,
+  "rating": 4.8,
+  "reviewCount": 91,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:33.832Z"
+  "lastUpdated": "2026-08-10T06:09:23.334Z"
 }

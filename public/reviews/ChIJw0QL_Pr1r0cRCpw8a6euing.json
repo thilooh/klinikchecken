@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Igor Shepitko",
+      "author_url": "https://www.google.com/maps/contrib/115878688255892611625/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkE3xXReo9KhMwUtPs6eT9JVRuUlAobeAPRUWuxr73QoEdTTnh=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786103357,
+      "translated": false
+    },
+    {
       "author_name": "St B",
       "author_url": "https://www.google.com/maps/contrib/112331188055625334077/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPKPCfMNunvatlxdn9hUitlhlaBOs6EcFOqoUPTxTj-jIAfA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -854,11 +864,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 157,
+  "reviewCount": 158,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-07T06:07:30.723Z"
+  "lastUpdated": "2026-08-10T06:09:20.237Z"
 }

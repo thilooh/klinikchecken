@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jacky und Julian",
+      "author_url": "https://www.google.com/maps/contrib/100885021005536774317/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJQhdM6XUhGGobuQKjPunf8pWsQDBl-8g1DV7-9KEAmyb2jQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Würde gerne 0 Sterne geben, wir waren innerhalb von 4 Monaten 2x bei Terminen und jedes Mal wurden wir mit unserem nicht einmal 2 Jährigen wieder weg geschickt, weil man uns nicht helfen wollte und da war man auch um keine Ausrede verlegen. Heute war der nächste Termin nach 4 Monaten Wartezeit und dann hieß es, wir wären zu spät angekommen, wir haben den Termin um 8:45 gehabt und waren um 9:40 in der Praxis ABER ACHTUNG, online steht wohl, man müsse 15 Minuten vor dem Termin im Haus sein, also waren wir zu spät und der Termin war wieder hinfällig. Einfach ein Witz. Man geht da ja nicht zum Café trinken hin, sondern weil man Hilfe braucht und nach Lösungen sucht. Kann diese Praxis wirklich keinesfalls empfehlen.",
+      "time": 1786085782,
+      "translated": false
+    },
+    {
       "author_name": "Tobias K",
       "author_url": "https://www.google.com/maps/contrib/103993874152081777049/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqYY2lAhfb3uUG0lEatngvSMyTleN1I20uH11oQ9iRtn5-wigF=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Arztpraxis. Ich habe sehr schnell einen Termin bekommen und sehr respektvoll behandelt worden. Ich sage lieben Dank und empfehle jedem weiter.",
+      "time": 1785505125,
+      "translated": false
+    },
+    {
+      "author_name": "خيري بيشيمام Xeri Peshimam",
+      "author_url": "https://www.google.com/maps/contrib/112137436209162062364/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqYY2lAhfb3uUG0lEatngvSMyTleN1I20uH11oQ9iRtn5-wigF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nette Arztpraxis. Ich habe sehr schnell einen Termin bekommen und sehr respektvoll behandelt worden. Ich sage lieben Dank und empfehle jedem weiter.",
       "time": 1785505125,
       "translated": false
@@ -1066,5 +1090,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:49.546Z"
+  "lastUpdated": "2026-08-10T06:09:39.915Z"
 }

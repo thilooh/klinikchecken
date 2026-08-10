@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Johann",
+      "author_url": "https://www.google.com/maps/contrib/111618282910210813713/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdfnxIYFbzenvMPqhzSaocekgNFOgfgqg4c9xQZtgxfH43BVU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Update: Ich musste meinen Termin letztendlich persönlich vor Ort vereinbaren. Als ich dann wegen meines eigentlichen Anliegens vor Ort war, wurde mir plötzlich mitgeteilt, dass ich mich damit an einen Hautarzt wenden solle. Für mich ist dadurch leider mehr Verwirrung als Klarheit entstanden.\n\nWas ich ebenfalls sehr enttäuschend finde: Telefonisch ist über längere Zeit niemand erreichbar. Gleichzeitig gibt es offenbar eine separate Telefonnummer für Privatversicherte. Als gesetzlich versicherter Patient hinterlässt das bei mir leider einen sehr ungünstigen Eindruck. Gerade bei gesundheitlichen Anliegen sollte die Erreichbarkeit meiner Meinung nach nicht von der Art der Versicherung abhängen.\n\nInsgesamt fühle ich mich mit meinem Anliegen nicht ernst genommen und habe mittlerweile leider das Vertrauen verloren. Ich werde daher keine weiteren Termine dort wahrnehmen und mich anderweitig um mein Anliegen kümmern.\n\nHinweis zu den Bewertungen: Einige der hier veröffentlichten Bewertungen wirken auf mich zumindest ungewöhnlich bzw. wenig authentisch. Das ist selbstverständlich nur mein persönlicher Eindruck und keine Behauptung über die tatsächliche Herkunft dieser Bewertungen.",
+      "time": 1786219381,
+      "translated": false
+    },
+    {
+      "author_name": "K F",
+      "author_url": "https://www.google.com/maps/contrib/110458686352946413512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7DfPlhamFMmD-5vB_EuwJ3QcosIXE0MHYiBkRsTUbOwgEPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Es wurden kostspielige Aufnahmen zum Hautkrebsscreening gemacht. Beim ersten Termin schaute sich der Arzt die Stellen an und ein Jahr später sollte die zweite Untersuchung zur Nachsorge gemacht werden. Beim zweiten Termin saß der Arzt da und hat sich lediglich die alten Bilder von vor einem Jahr angeschaut und gesagt „alles in Ordnung“. Auf Rückfrage hieß es nur „Vertrauen sie mir, das reicht“. Ich habe daraufhin den Service kontaktiert, der wiederum nur den behandelnden Arzt in Schutz nahm. Ein anderer Hautarzt, dem ich von diesem Erlebnis berichtet habe, konnte nur noch mit dem Kopf schütteln.\n\nÜberdies wurde mir in einem anderen Zusammenhang zu einer operativen  Behandlung ein sog. (man glaubt es nicht aber so redet man in dieser „Praxis“) „3 für 2 Angebot“ gemacht, Rabattaktion für eine eigentliche Kassenleistung. Die überweisende Hausärztin war sprachlos. Ich kann verstehen, dass viele Leute nicht wirklich hinter die Kulissen einer Praxis schauen können oder wollen, aber hier fühlte ich mich maximal unwohl und musste das nicht lange reflektieren.",
+      "time": 1785484203,
+      "translated": false
+    },
+    {
       "author_name": "Patric Sußmann",
       "author_url": "https://www.google.com/maps/contrib/112100047777185039826/reviews",
       "language": "de",
@@ -1110,11 +1134,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 315,
+  "reviewCount": 317,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:45.740Z"
+  "lastUpdated": "2026-08-10T06:09:35.817Z"
 }

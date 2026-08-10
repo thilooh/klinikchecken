@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel Backhaus",
+      "author_url": "https://www.google.com/maps/contrib/116557236436561995608/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMWQ9PrHJiLeFFzhlEOg75RCTpV7fAcvdlMPo_5arHXy6RFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786228567,
+      "translated": false
+    },
+    {
       "author_name": "Luzi",
       "author_url": "https://www.google.com/maps/contrib/104020319983957774776/reviews",
       "language": "de",
@@ -1060,11 +1070,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 468,
+  "reviewCount": 469,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-07T06:07:31.198Z"
+  "lastUpdated": "2026-08-10T06:09:20.731Z"
 }

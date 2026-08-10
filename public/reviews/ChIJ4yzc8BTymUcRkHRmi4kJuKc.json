@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sa Me",
+      "author_url": "https://www.google.com/maps/contrib/113953221032358093672/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5ITDXrd5OZaPjBpqP6THraUlgzKOKAczOzj-5k2WxqSwINQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786221998,
+      "translated": false
+    },
+    {
       "author_name": "Isabella KW",
       "author_url": "https://www.google.com/maps/contrib/109250059011315023104/reviews",
       "language": "de",
@@ -180,6 +190,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9ZtOOIA5bJb75a8zD8SBzEiJDif_M4UyJRh7UTDiRpBC7ZA=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "vor 4 Wochen",
+      "text": "3 Sterne für schnelle Terminvergabe, Muttermal wurde sauber und schön entfernt. 2 Abzug, da mir während eines Termines die Abnehmspritze nahegelegt wurde, mit der Begründung \"ich könnte dadurch so schnell und so viel wie möglich abnehmen\". Einfach Unverschämt, nachdem ich erst aus einer Essstörung raus bin und gerade lerne eine gesunde Beziehung zu Essen herzustellen.",
+      "time": 1783505960,
+      "translated": false
+    },
+    {
+      "author_name": "Christin Spillmann",
+      "author_url": "https://www.google.com/maps/contrib/111950995509716167685/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9ZtOOIA5bJb75a8zD8SBzEiJDif_M4UyJRh7UTDiRpBC7ZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "3 Sterne für schnelle Terminvergabe, Muttermal wurde sauber und schön entfernt. 2 Abzug, da mir während eines Termines die Abnehmspritze nahegelegt wurde, mit der Begründung \"ich könnte dadurch so schnell und so viel wie möglich abnehmen\". Einfach Unverschämt, nachdem ich erst aus einer Essstörung raus bin und gerade lerne eine gesunde Beziehung zu Essen herzustellen.",
       "time": 1783505960,
       "translated": false
@@ -713,12 +735,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
+  "rating": 4.8,
   "reviewCount": 86,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:08:01.692Z"
+  "lastUpdated": "2026-08-10T06:09:52.827Z"
 }

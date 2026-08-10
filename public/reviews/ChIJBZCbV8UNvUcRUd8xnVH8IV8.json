@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Nermina Ott",
+      "author_url": "https://www.google.com/maps/contrib/116361394723794731810/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcsLixKbY7qs4H0iQzjEi3gxw5Az25cCi3hMqT2E6T4c_74w=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Total unzufrieden mit der Ärtzin.",
+      "time": 1784883251,
+      "translated": false
+    },
+    {
       "author_name": "Daniela Thoma",
       "author_url": "https://www.google.com/maps/contrib/113807604080878882899/reviews",
       "language": "de",
@@ -786,5 +798,5 @@
   "rating": 4.9,
   "reviewCount": 100,
   "summary": [],
-  "lastUpdated": "2026-08-07T06:07:21.519Z"
+  "lastUpdated": "2026-08-10T06:09:10.826Z"
 }

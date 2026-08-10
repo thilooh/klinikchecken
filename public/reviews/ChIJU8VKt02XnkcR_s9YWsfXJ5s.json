@@ -57,6 +57,16 @@
       "translated": false
     },
     {
+      "author_name": "Jochen Reus",
+      "author_url": "https://www.google.com/maps/contrib/103611186376908502346/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCkkuUJ6Y14UArwsTIYrv3u2WNjbqqxi_kZAaI8GAzMIP39Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1784989791,
+      "translated": false
+    },
+    {
       "author_name": "C. K.",
       "author_url": "https://www.google.com/maps/contrib/118131771591942905228/reviews",
       "language": "de",
@@ -151,6 +161,18 @@
       "translated": false
     },
     {
+      "author_name": "Mari on",
+      "author_url": "https://www.google.com/maps/contrib/100966721408926244700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZNXTqKIEuDIRKJtOhsRZETmNcDqhaNeG_XmTX3AdrqiNOMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war zum ersten Mal in der Praxis und habe mich direkt wohlgefühlt. Das gesamte Team ist sehr freundlich und die Praxis ist modern und schön eingerichtet. Praktisch sind auch die Parkmöglichkeiten in der Parkgarage gegenüber.\n\nFrau Dr. Gkata ist eine sehr sympathische und kompetente Ärztin. Sie hat sich Zeit für mich genommen, aufmerksam zugehört und alle meine Fragen in Ruhe beantwortet. Ich habe mich bei ihr von Anfang an sehr gut aufgehoben gefühlt, da sie individuell auf ihre Patienten eingeht. Ich kann Frau Dr. Gkata von Herzen weiterempfehlen.",
+      "time": 1784458158,
+      "translated": false
+    },
+    {
       "author_name": "Sofia Ntisiou",
       "author_url": "https://www.google.com/maps/contrib/110651248258424463770/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqSfPqVZnSjJeM61On-ttLypSUXtz4YgNviKHpNoBHz1MG6Yz=s128-c0x00000000-cc-rp-mo",
@@ -176,6 +198,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqSfPqVZnSjJeM61On-ttLypSUXtz4YgNviKHpNoBHz1MG6Yz=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1784288973,
+      "translated": false
+    },
+    {
+      "author_name": "Sofia Ntisiou",
+      "author_url": "https://www.google.com/maps/contrib/110651248258424463770/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqSfPqVZnSjJeM61On-ttLypSUXtz4YgNviKHpNoBHz1MG6Yz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1784288973,
       "translated": false
@@ -876,5 +908,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-07T06:07:37.316Z"
+  "lastUpdated": "2026-08-10T06:09:26.896Z"
 }

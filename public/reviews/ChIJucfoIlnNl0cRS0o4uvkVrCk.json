@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nath P",
+      "author_url": "https://www.google.com/maps/contrib/113287582127419022022/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuUBfnGHNgM2xqFr2CpESD4D8MYDLom67c63NwJsul_CoQIec=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Anscheinend sind Patienten mit Lymphödem für Dr. Cherwon nicht mehr lukrativ. Kontrolltermine bekommt man auf Doctolib für diese chronische und unheilbare Krankheit nicht und über dem telefonischen Chatbot wird man informiert dass keine Termine zur Verfügung stehen. Das ist schon sehr unverschämt. Nach jahrelanger Treue, wechsle ich jetzt den Facharzt. Genug ist genug.",
+      "time": 1786130294,
+      "translated": false
+    },
+    {
       "author_name": "Dunja Seubert",
       "author_url": "https://www.google.com/maps/contrib/114238914789543153059/reviews",
       "language": "de",
@@ -365,12 +377,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 45,
+  "rating": 4.2,
+  "reviewCount": 46,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:40.825Z"
+  "lastUpdated": "2026-08-10T06:09:30.509Z"
 }

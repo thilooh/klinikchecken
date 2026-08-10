@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Christiane Gräber",
+      "author_url": "https://www.google.com/maps/contrib/104149186166194161634/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdoPFaXHaf6cbvM6zGwC2YKTR6T4NqIC6jxKr9wPJtkOLzBw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786123072,
+      "translated": false
+    },
+    {
       "author_name": "Ralli K.",
       "author_url": "https://www.google.com/maps/contrib/111721413007339123332/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXcOa8c2vV3eMxpFIcIfHsLbFnUyBy_gC1vfM3LyVzFSg9x-I=s128-c0x00000000-cc-rp-mo-ba5",
@@ -61,6 +71,16 @@
       "translated": false
     },
     {
+      "author_name": "Elvira Frost",
+      "author_url": "https://www.google.com/maps/contrib/102667135205218380216/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYNOYn2Qt7WesrhvWIVTJ2fmqI06clEmnvbN0RPffjHABPPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1783663200,
+      "translated": false
+    },
+    {
       "author_name": "Lisa Beck",
       "author_url": "https://www.google.com/maps/contrib/109618079991936965905/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfy6v-TFISHqT8FiBcSKLhjGtEOFoO_16uNtlvLmEcQj5zqA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -121,6 +141,16 @@
       "translated": false
     },
     {
+      "author_name": "Lisa Beck",
+      "author_url": "https://www.google.com/maps/contrib/109618079991936965905/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfy6v-TFISHqT8FiBcSKLhjGtEOFoO_16uNtlvLmEcQj5zqA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1781104030,
+      "translated": false
+    },
+    {
       "author_name": "Ingrid Zander",
       "author_url": "https://www.google.com/maps/contrib/107901903339472828147/reviews",
       "language": "de",
@@ -176,6 +206,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgOReyZfWS77S-6Mys-1q3FiMuCsysPy0aVheZWEzJOgV9SQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Super Service und sehr nettes Personal",
+      "time": 1781014716,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Zander",
+      "author_url": "https://www.google.com/maps/contrib/107901903339472828147/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgOReyZfWS77S-6Mys-1q3FiMuCsysPy0aVheZWEzJOgV9SQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Super Service und sehr nettes Personal",
       "time": 1781014716,
       "translated": false
@@ -619,8 +661,8 @@
       "translated": false
     }
   ],
-  "rating": 3.6,
-  "reviewCount": 122,
+  "rating": 3.7,
+  "reviewCount": 123,
   "summary": [],
-  "lastUpdated": "2026-08-07T06:07:21.984Z"
+  "lastUpdated": "2026-08-10T06:09:11.309Z"
 }

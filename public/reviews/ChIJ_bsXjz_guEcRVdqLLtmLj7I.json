@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Annabell Mross",
+      "author_url": "https://www.google.com/maps/contrib/118415472220459767943/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3O-LKUHgvI5iUSnuLnOzBpqtxLQg7ZxFx__ROllMAZ3lckg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles top, super nette Mitarbeiter, hab mich sehr wohl gefühlt :)",
+      "time": 1786281712,
+      "translated": false
+    },
+    {
       "author_name": "Joshua Drake",
       "author_url": "https://www.google.com/maps/contrib/109060413923817071742/reviews",
       "language": "de",
@@ -894,11 +906,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 242,
+  "reviewCount": 243,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:35.468Z"
+  "lastUpdated": "2026-08-10T06:09:25.022Z"
 }

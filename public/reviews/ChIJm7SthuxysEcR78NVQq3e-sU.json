@@ -97,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Tanja Blanke",
+      "author_url": "https://www.google.com/maps/contrib/103183806418540119641/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEgyPzZ4QdesQP6JLL9ixp15NjjEfYfUQOiTgxF1hjsdgTtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich habe mehrere Termine in den letzten Wochen benötigt, Terminvergabe erfolgte unkompliziert. In der Praxis kaum Wartezeit, alle Mitarbeitenden sehr freundlich, ich habe mich sehr gut aufgehoben gefühlt.",
+      "time": 1784972322,
+      "translated": false
+    },
+    {
       "author_name": "Stefan König",
       "author_url": "https://www.google.com/maps/contrib/111856492864263952055/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMiSmmDKRL_j1eTzduui6JfiKRUjRVS4SyM32c7fvMEn3rDA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -112,6 +124,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMiSmmDKRL_j1eTzduui6JfiKRUjRVS4SyM32c7fvMEn3rDA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1784803299,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan König",
+      "author_url": "https://www.google.com/maps/contrib/111856492864263952055/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMiSmmDKRL_j1eTzduui6JfiKRUjRVS4SyM32c7fvMEn3rDA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1784803299,
       "translated": false
@@ -160,6 +182,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvj23rxI0DlcoajS2PgOs-GxCk9ptdeA6P0LZZ0A8CCMF9_Ds=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zufrieden. Termine sind online buchbar, wenn auch nicht immer einfach als Kassenpatient. Aber vor Ort ist alles super modern und gut organisiert.",
+      "time": 1784632884,
+      "translated": false
+    },
+    {
+      "author_name": "MagicalJee",
+      "author_url": "https://www.google.com/maps/contrib/113679577898655916639/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvj23rxI0DlcoajS2PgOs-GxCk9ptdeA6P0LZZ0A8CCMF9_Ds=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr zufrieden. Termine sind online buchbar, wenn auch nicht immer einfach als Kassenpatient. Aber vor Ort ist alles super modern und gut organisiert.",
       "time": 1784632884,
       "translated": false
@@ -1021,12 +1055,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 265,
+  "rating": 4.5,
+  "reviewCount": 261,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-07T06:07:28.131Z"
+  "lastUpdated": "2026-08-10T06:09:17.601Z"
 }

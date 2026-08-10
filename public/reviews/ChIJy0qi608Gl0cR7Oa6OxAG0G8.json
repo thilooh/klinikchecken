@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel Popescu",
+      "author_url": "https://www.google.com/maps/contrib/104315517191849634466/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_ge76FROsQaHKGp9C2RvHSbeY8P_VDbCYC8JSA7zTqsD8Dw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786227215,
+      "translated": false
+    },
+    {
       "author_name": "Patrick B",
       "author_url": "https://www.google.com/maps/contrib/112330242090129233967/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfPbqr10-WMLTdjAENKt2gHl3KREVJcO5XJEaLrw97Gg_9GY7_=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Meine Erfahrung gilt ausschließlich Herrn Felipe Herrera Calvo.\n\nIch war heute in der Praxis und wurde leider nicht gut behandelt. Ich hatte das Gefühl, man wollte mich aufgrund meines Krankheitsbildes nicht behandeln. Ich war leider enttäuscht von meinem Termin. Aufgrund meiner Beschwerden und meiner Vorgeschichte hatte ich mir eine ausführlichere Untersuchung erhofft. Es erfolgte lediglich eine kurze Begutachtung der Beine sowie ein Drucktest, der unauffällig war. Ein Ultraschall der Beinvenen wurde nicht durchgeführt. Stattdessen wurde ich mit dem Hinweis weiterverwiesen, dass eine Untersuchung bei meinem Körpergewicht sehr schwierig sei und ein Kollege dies besser beurteilen könne.\n\nIch habe Verständnis dafür, wenn eine Untersuchung aufgrund der Umstände erschwert ist. Dennoch hätte ich mir mehr Diagnostik oder zumindest eine ausführlichere Erklärung gewünscht. So blieb meine eigentliche Fragestellung leider unbeantwortet und ich hatte am Ende das Gefühl, dass mir der Termin medizinisch kaum weitergeholfen hat.",
+      "time": 1785517734,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick B",
+      "author_url": "https://www.google.com/maps/contrib/112330242090129233967/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfPbqr10-WMLTdjAENKt2gHl3KREVJcO5XJEaLrw97Gg_9GY7_=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Meine Erfahrung gilt ausschließlich Herrn Felipe Herrera Calvo.\n\nIch war heute in der Praxis und wurde leider nicht gut behandelt. Ich hatte das Gefühl, man wollte mich aufgrund meines Krankheitsbildes nicht behandeln. Ich war leider enttäuscht von meinem Termin. Aufgrund meiner Beschwerden und meiner Vorgeschichte hatte ich mir eine ausführlichere Untersuchung erhofft. Es erfolgte lediglich eine kurze Begutachtung der Beine sowie ein Drucktest, der unauffällig war. Ein Ultraschall der Beinvenen wurde nicht durchgeführt. Stattdessen wurde ich mit dem Hinweis weiterverwiesen, dass eine Untersuchung bei meinem Körpergewicht sehr schwierig sei und ein Kollege dies besser beurteilen könne.\n\nIch habe Verständnis dafür, wenn eine Untersuchung aufgrund der Umstände erschwert ist. Dennoch hätte ich mir mehr Diagnostik oder zumindest eine ausführlichere Erklärung gewünscht. So blieb meine eigentliche Fragestellung leider unbeantwortet und ich hatte am Ende das Gefühl, dass mir der Termin medizinisch kaum weitergeholfen hat.",
       "time": 1785517734,
       "translated": false
@@ -56,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdcdUe6EsYqhBG0lHAfaJzmd0qshYFISWh24yp9heGyIWydw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "10/10 Erfahrung.\nDr. Zimmer wirkt sehr sympathisch, kompetent und interessiert.\nAbsolut empfehlenswert!",
+      "time": 1784885251,
+      "translated": false
+    },
+    {
+      "author_name": "Jakob Greß",
+      "author_url": "https://www.google.com/maps/contrib/116604115312595576334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdcdUe6EsYqhBG0lHAfaJzmd0qshYFISWh24yp9heGyIWydw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "10/10 Erfahrung.\nDr. Zimmer wirkt sehr sympathisch, kompetent und interessiert.\nAbsolut empfehlenswert!",
       "time": 1784885251,
       "translated": false
@@ -1006,5 +1040,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-07T06:07:39.661Z"
+  "lastUpdated": "2026-08-10T06:09:29.273Z"
 }

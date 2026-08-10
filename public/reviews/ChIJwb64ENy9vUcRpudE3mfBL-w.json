@@ -153,6 +153,18 @@
       "translated": false
     },
     {
+      "author_name": "Chrissi",
+      "author_url": "https://www.google.com/maps/contrib/103685581011043095613/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpRLAsJCPBe_flbb2JKAoj4_Gb3KJHiYfWVP2tjWVjILi5NQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich komme schon seit Jahren sehr gerne hierhin!",
+      "time": 1783365536,
+      "translated": false
+    },
+    {
       "author_name": "WEBO",
       "author_url": "https://www.google.com/maps/contrib/108080507189160259547/reviews",
       "language": "de",
@@ -782,11 +794,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 150,
+  "reviewCount": 149,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:45.282Z"
+  "lastUpdated": "2026-08-10T06:09:35.080Z"
 }

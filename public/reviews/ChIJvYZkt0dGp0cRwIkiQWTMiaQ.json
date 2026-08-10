@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ines Steinert",
+      "author_url": "https://www.google.com/maps/contrib/111070678337269798630/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKn1LvKjfoNui-GLnVd3RxbgV2xQPmJvYtBLFH7p-5SMohQhw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Trotz  Behandlung bei Fr. Dr. Blechschmidt, Wundschwestergestellung und Krankenhauseinweisung wurde mir erst ein Kontrolltermin bei akutem Problem und offener Wunde, was laut Krankenhaus dringend ambuaabt behandelt werden soll, erst ein halbes Jahr später bekommen.",
+      "time": 1786263409,
+      "translated": false
+    },
+    {
       "author_name": "Lilimar Romero",
       "author_url": "https://www.google.com/maps/contrib/115437113605492348783/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGnEc7vbO0C_r8kQ-sY6RYtUCcJuVrq1rkWR9Tn3iyKnOxOA=s128-c0x00000000-cc-rp-mo",
@@ -543,12 +555,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 51,
+  "rating": 4.2,
+  "reviewCount": 52,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-07T06:07:43.147Z"
+  "lastUpdated": "2026-08-10T06:09:32.863Z"
 }
