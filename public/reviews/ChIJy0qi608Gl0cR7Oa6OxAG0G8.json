@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Isaak Ghebrezghi",
+      "author_url": "https://www.google.com/maps/contrib/113240045365787437397/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImjNT2tCo3vWIdGFBwGF0GvxTUxQx-Speiv7vPcn4jHE9x9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786437950,
+      "translated": false
+    },
+    {
       "author_name": "Daniel Popescu",
       "author_url": "https://www.google.com/maps/contrib/104315517191849634466/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_ge76FROsQaHKGp9C2RvHSbeY8P_VDbCYC8JSA7zTqsD8Dw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -54,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjp9iCPX_hJx_aChmmMBtPsyzfGDlDbpLJAnp0RJMjEYx8EGU=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Bin auf Grund meines Neurodermitis Patientin bei dieser Hausarztpraxis. Heute wollte ich, dass der Hautzustand unter meiner Brust beurteilt wird, da es sehr juckt und beißt, gerade bei dem Wetter & ich auch eine Übergroße Brust habe. Die erste Ärztin wusste sich überhaupt nicht zu helfen, hat auch gesagt das sie sowas nie gemacht habe und musste einen anderen Arzt (männlich) hinzuziehen. Dieser zog meine Beschwerde ins lächerliche und äußerte mit einem Lachen das da doch nichts sei. Ich musste ihn daraufhinweisen, dass ich mich ja auch pflege aber ich dennoch diese Beschwerden habe & er dieses Problem ja nicht kennt. Laut seiner Logik müsste ich mit einem akuten Pilzbefall unter der Brust kommen damit er was machen könne, dazu muss ich sagen als die Hautbeschaffenheit sehr problematisch war ( am 06.07. ) wurde mir erst für den 27.07. ein Termin von der Sprechstundenhilfe vergeben, dazu kein weiterer Kommentar.\nHinzu kam dass die Ärztin das Exzem auf meiner Nase nicht sehen konnte und dass es nicht nur \"Trockene Haut\" ist, da ich das noch nie vorher hatte. Im Grossen und Ganzen hatten die keine Ahnung und wollten mich nur abwimmeln. Die Praxis werde ich keinem empfehlen, eig sehr schade.\n\nAlles gute!",
+      "time": 1785174136,
+      "translated": false
+    },
+    {
+      "author_name": "Divine Tamdes",
+      "author_url": "https://www.google.com/maps/contrib/103835716526093175791/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjp9iCPX_hJx_aChmmMBtPsyzfGDlDbpLJAnp0RJMjEYx8EGU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Bin auf Grund meines Neurodermitis Patientin bei dieser Hausarztpraxis. Heute wollte ich, dass der Hautzustand unter meiner Brust beurteilt wird, da es sehr juckt und beißt, gerade bei dem Wetter & ich auch eine Übergroße Brust habe. Die erste Ärztin wusste sich überhaupt nicht zu helfen, hat auch gesagt das sie sowas nie gemacht habe und musste einen anderen Arzt (männlich) hinzuziehen. Dieser zog meine Beschwerde ins lächerliche und äußerte mit einem Lachen das da doch nichts sei. Ich musste ihn daraufhinweisen, dass ich mich ja auch pflege aber ich dennoch diese Beschwerden habe & er dieses Problem ja nicht kennt. Laut seiner Logik müsste ich mit einem akuten Pilzbefall unter der Brust kommen damit er was machen könne, dazu muss ich sagen als die Hautbeschaffenheit sehr problematisch war ( am 06.07. ) wurde mir erst für den 27.07. ein Termin von der Sprechstundenhilfe vergeben, dazu kein weiterer Kommentar.\nHinzu kam dass die Ärztin das Exzem auf meiner Nase nicht sehen konnte und dass es nicht nur \"Trockene Haut\" ist, da ich das noch nie vorher hatte. Im Grossen und Ganzen hatten die keine Ahnung und wollten mich nur abwimmeln. Die Praxis werde ich keinem empfehlen, eig sehr schade.\n\nAlles gute!",
       "time": 1785174136,
       "translated": false
@@ -1034,11 +1056,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1116,
+  "reviewCount": 1117,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-10T06:09:29.273Z"
+  "lastUpdated": "2026-08-13T06:14:45.939Z"
 }

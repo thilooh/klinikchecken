@@ -61,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "High Velocity",
+      "author_url": "https://www.google.com/maps/contrib/112156310082874497219/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKF_EYb-5cDlyx6OwxW0hlqXcMSODxj5SO_xf7-8vkSLcmdm_A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Freundlicher und hilfsbereiter Arzt, der sich Zeit für neue Patienten nimmt. Ich wünsche Ihnen alles Gute und vor allem Gesundheit!",
+      "time": 1783950040,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Janz",
       "author_url": "https://www.google.com/maps/contrib/110292041586227423299/reviews",
       "language": "de",
@@ -116,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu4cu4zjR-9X6N4IMZLSciflyS_VWr9a6o6DCuKS9QWMnId8k=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Tolles Team. Schnelle Termine und gute schnelle Diagnose.👍",
+      "time": 1783801710,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Janz",
+      "author_url": "https://www.google.com/maps/contrib/110292041586227423299/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu4cu4zjR-9X6N4IMZLSciflyS_VWr9a6o6DCuKS9QWMnId8k=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Tolles Team. Schnelle Termine und gute schnelle Diagnose.👍",
       "time": 1783801710,
       "translated": false
@@ -941,5 +965,5 @@
   "rating": 4.6,
   "reviewCount": 296,
   "summary": [],
-  "lastUpdated": "2026-08-10T06:09:10.117Z"
+  "lastUpdated": "2026-08-13T06:14:26.463Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Monika Strohmeyer",
+      "author_url": "https://www.google.com/maps/contrib/109135341388882840008/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKITJW0CZ3SRACRbdwlGlQbLVQZmGFPRkfaBavVOuppGEAF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War bei Dr claßen zur op meiner Vene .wurde mit starken Schmerzen ins eko überwiesen.,Gott sei Dank nach grünlicher Untersuchung und op ging es mir deutlich besser.Und durch die Leidenschaft und Gründlichkeit von Herrn Dr .clasen wurde festgestellt das ich einen Herzschrittmacher brauche.Danke nochmals.Ich gehe immer wieder in dieses Krankenhaus.Habe in keinem Bereich schlechte Erfahrungen gemacht 🌆👍",
+      "time": 1786382599,
+      "translated": false
+    },
+    {
       "author_name": "Tanja Jakubeit",
       "author_url": "https://www.google.com/maps/contrib/105226344810372925326/reviews",
       "language": "de",
@@ -211,12 +223,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 19,
+  "rating": 5,
+  "reviewCount": 20,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:40.936Z"
+  "lastUpdated": "2026-08-13T06:14:57.309Z"
 }

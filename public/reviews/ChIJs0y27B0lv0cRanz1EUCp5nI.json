@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Emily S.",
+      "author_url": "https://www.google.com/maps/contrib/115409749129864784236/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOL87x60JMRh8CyLVQdgS7wOWF20q8sexMwk7I6MlKI7cyuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786477298,
+      "translated": false
+    },
+    {
       "author_name": "HF",
       "author_url": "https://www.google.com/maps/contrib/100666477436719606706/reviews",
       "language": "de",
@@ -443,11 +453,11 @@
     }
   ],
   "rating": 3.2,
-  "reviewCount": 125,
+  "reviewCount": 126,
   "summary": [
     "Akuttermine kurzfristig verfügbar, behandelnde Ärzte als freundlich beschrieben",
     "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
     "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
   ],
-  "lastUpdated": "2026-08-10T06:09:05.047Z"
+  "lastUpdated": "2026-08-13T06:14:20.662Z"
 }

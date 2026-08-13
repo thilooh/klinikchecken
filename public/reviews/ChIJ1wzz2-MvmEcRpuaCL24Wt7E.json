@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Brigitte Ritter",
+      "author_url": "https://www.google.com/maps/contrib/112649796262077659889/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsTLuhY4Gz-LYQEwCnSln8_xN4PzAEyA0gOkwNgPvsjR8IpXD2=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr guter Arzt Dr.Röser und sehr nettes Praxisteam.",
+      "time": 1786392382,
+      "translated": false
+    },
+    {
       "author_name": "Carmen Locher",
       "author_url": "https://www.google.com/maps/contrib/114607330068600027221/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiRwHggp_w5Odj2IjfX3xlUk2OoCWqsIno0KPSnpap0cs2tg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Wenn ich 0 geben würde, würde ich es direkt tun. Mehrfach angerufen um mein Gefäßzustand abzuklären bei Bekannten lipdömen. Beim Ankommen meinte die Arzthwlferin das würden sie niemals tun und hat mich einfach einfach wieder heim geschickt. Einfach nur pure Zeitverschwendung",
+      "time": 1784541518,
+      "translated": false
+    },
+    {
+      "author_name": "Annika Ronovsky",
+      "author_url": "https://www.google.com/maps/contrib/108785552433938563264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiRwHggp_w5Odj2IjfX3xlUk2OoCWqsIno0KPSnpap0cs2tg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Wenn ich 0 geben würde, würde ich es direkt tun. Mehrfach angerufen um mein Gefäßzustand abzuklären bei Bekannten lipdömen. Beim Ankommen meinte die Arzthwlferin das würden sie niemals tun und hat mich einfach einfach wieder heim geschickt. Einfach nur pure Zeitverschwendung",
       "time": 1784541518,
       "translated": false
@@ -794,11 +818,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 94,
+  "reviewCount": 95,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:49.742Z"
+  "lastUpdated": "2026-08-13T06:15:05.966Z"
 }

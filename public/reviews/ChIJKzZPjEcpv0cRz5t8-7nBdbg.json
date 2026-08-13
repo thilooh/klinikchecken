@@ -1,11 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "Detlef Beuth",
+      "author_url": "https://www.google.com/maps/contrib/105437243315075608889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfBWBtfCGbFfzt4gOTo4nsJ7WwYhz8Mx17mINf57TIEwf922Op=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786536901,
+      "translated": false
+    },
+    {
       "author_name": "Petra Bourauel",
       "author_url": "https://www.google.com/maps/contrib/110872352052742507475/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv0Qg6Q_NUR0S111RbkM3i700Fjqy9zAPj8U3hwyx9eqdd2Q=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785912181,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Bourauel",
+      "author_url": "https://www.google.com/maps/contrib/110872352052742507475/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv0Qg6Q_NUR0S111RbkM3i700Fjqy9zAPj8U3hwyx9eqdd2Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1785912181,
       "translated": false
@@ -994,11 +1014,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 234,
+  "reviewCount": 235,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-10T06:09:45.402Z"
+  "lastUpdated": "2026-08-13T06:15:01.607Z"
 }

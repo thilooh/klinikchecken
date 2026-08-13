@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Marc “Der Alte” Langer",
+      "author_url": "https://www.google.com/maps/contrib/115806252562292020085/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN_ridkrBCxWNACKun4fOPdMpsLVYzu5C62thObpeiH6COHg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786374712,
+      "translated": false
+    },
+    {
       "author_name": "Hubert Zöllner",
       "author_url": "https://www.google.com/maps/contrib/101379232222492237082/reviews",
       "language": "de",
@@ -198,6 +208,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8HnZNI3AQlgOb7OcyydrRFyfymEY1uMwqJ6W4qIPFWoYX5T99=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1776181455,
+      "translated": false
+    },
+    {
+      "author_name": "Marco Exner",
+      "author_url": "https://www.google.com/maps/contrib/117054455582778834213/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8HnZNI3AQlgOb7OcyydrRFyfymEY1uMwqJ6W4qIPFWoYX5T99=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 4 Monaten",
       "text": "",
       "time": 1776181455,
       "translated": false
@@ -337,12 +357,12 @@
       "translated": false
     }
   ],
-  "rating": 3.9,
-  "reviewCount": 15,
+  "rating": 4,
+  "reviewCount": 16,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:42.378Z"
+  "lastUpdated": "2026-08-13T06:14:58.711Z"
 }

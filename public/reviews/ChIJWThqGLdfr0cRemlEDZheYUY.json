@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Sven KUNZE",
+      "author_url": "https://www.google.com/maps/contrib/109705040285651795478/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEDmJP2ZcbloBrwKMpaNk6MQ05sRDiHs_qw4_5ob576lnfkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles Super !!! Kann mann nur empfehlen!!!",
+      "time": 1786456188,
+      "translated": false
+    },
+    {
+      "author_name": "OdinVsThor",
+      "author_url": "https://www.google.com/maps/contrib/103749506725463863491/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-EPth_WSdsWQe7A7Ln7qOS8IjjXhn1P3A3hFywclJpCxdVf96=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und hilfsbereit",
+      "time": 1786429578,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie Jürges",
+      "author_url": "https://www.google.com/maps/contrib/116919477630745304812/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd24bXMQb0Mnre9eklLLq4ALhEuha4UMP-9AKgW3_DUMmvIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ist schwierig eine Angstpatientin zu behandeln.  Fr. Dr. B. Brinkers hat es durch ihre freundliche, fürsorgliche, menschliche Art geschafft, ein Stück dieser Angst zu nehmen. Vielen Dank dafür. Besonders bedanken möchte ich mich auch bei der Mitarbeiterin am 08.07.2026 bei Herr Dr. Schulze im Behandlungszimmer. (Es ist traurig , das man nur die Arztnamen weiß, Sorry dafür) Es ist selten geworden, dass eine Mitarbeiterin so unterstützend, emphatisch und herzlich ist. Bitte bleiben sie so, sie haben den Tag gerettet. Vielen lieben Dank für die Unterstützung.",
+      "time": 1786382157,
+      "translated": false
+    },
+    {
       "author_name": "Daniel Backhaus",
       "author_url": "https://www.google.com/maps/contrib/116557236436561995608/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMWQ9PrHJiLeFFzhlEOg75RCTpV7fAcvdlMPo_5arHXy6RFw=s128-c0x00000000-cc-rp-mo",
@@ -1070,11 +1106,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 469,
+  "reviewCount": 472,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-10T06:09:20.731Z"
+  "lastUpdated": "2026-08-13T06:14:37.221Z"
 }

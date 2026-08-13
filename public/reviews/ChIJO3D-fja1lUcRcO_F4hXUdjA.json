@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Konstanze Weber",
+      "author_url": "https://www.google.com/maps/contrib/106787753849280077433/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoXobRq4EQXMN0cJfzroHFubugl4behjJWRmfLmPTW7FRctgfW=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit 25 min in der Warteschleife… da wird bei dem KI Assistent der Telefonate nicht berücksichtigt, dass man auch anruft wenn es nicht um einen Termin geht. Ich hab ein Rezept von jemand anderem zugeschickt bekommen und kann denen einfach nicht Bescheid geben, weil keiner jemals rangeht..",
+      "time": 1786442618,
+      "translated": false
+    },
+    {
       "author_name": "Jayjay J",
       "author_url": "https://www.google.com/maps/contrib/108376664478974399990/reviews",
       "language": "de",
@@ -88,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoK2q_AP7doFeL7weKLbmaN111GKnY4B2c58yCz5U8E5KkXc8=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war jetzt ingesamt dreimal dort. Ich war jedesmal nach 30 bis 60 Minuten wieder am Auto. Gut durchorganisiert und trotz vieler Patienten geht es schnell. Empfang und Arzte sehr freundlich, nehmen sich trotzdem Zeit. Keine Oberflächlichkeit, sondern gründliche Untersuchung und Hinterfragung. Ich fühle mich super gut dort aufgehoben. Immer wieder gerne. Termine zu bekommen ist noch im Toleranzbereich. Auf jeden Fall sehr zu empfehlen !",
+      "time": 1784643702,
+      "translated": false
+    },
+    {
+      "author_name": "BamBam2025 - Markus Leyes",
+      "author_url": "https://www.google.com/maps/contrib/105464730019977578195/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoK2q_AP7doFeL7weKLbmaN111GKnY4B2c58yCz5U8E5KkXc8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war jetzt ingesamt dreimal dort. Ich war jedesmal nach 30 bis 60 Minuten wieder am Auto. Gut durchorganisiert und trotz vieler Patienten geht es schnell. Empfang und Arzte sehr freundlich, nehmen sich trotzdem Zeit. Keine Oberflächlichkeit, sondern gründliche Untersuchung und Hinterfragung. Ich fühle mich super gut dort aufgehoben. Immer wieder gerne. Termine zu bekommen ist noch im Toleranzbereich. Auf jeden Fall sehr zu empfehlen !",
       "time": 1784643702,
       "translated": false
@@ -950,11 +974,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 77,
+  "reviewCount": 78,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:37.275Z"
+  "lastUpdated": "2026-08-13T06:14:53.870Z"
 }

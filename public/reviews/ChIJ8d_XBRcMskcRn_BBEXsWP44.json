@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Paula Paulsen",
+      "author_url": "https://www.google.com/maps/contrib/102845632409586311144/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUC0-7mQ4Bvz02fCOVzCPi92xzbEAekFlR5wc--tT6821o3gM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin begeistert. Ich hatte eine Email in ihrem Urlaub geschrieben, da ich ein Problem hatte und Frau Dr. Laske hat persönlich, gleich am ersten Tag angerufen und einen Termin ausgemacht.\nSie ist gründlich, höflich und ich fühle mich bei ihr in guten Händen.\nDas sie immer einen Mundschutz trägt um sich zu schützen, stört mich überhaupt nicht.\nEs ist eine tolle Praxis",
+      "time": 1786470188,
+      "translated": false
+    },
+    {
       "author_name": "M Giese",
       "author_url": "https://www.google.com/maps/contrib/106972502781946726130/reviews",
       "language": "de",
@@ -128,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY2XxglHazHJZD3nO7FI2-PXY20w99B_pmu8fBzdEW6fcCUA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Katastrophe unprofessionell 0,0 Dienstleister würde gar keinen Stern vergeben",
+      "time": 1781254621,
+      "translated": false
+    },
+    {
+      "author_name": "Nils Radloff",
+      "author_url": "https://www.google.com/maps/contrib/100129090484099646895/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY2XxglHazHJZD3nO7FI2-PXY20w99B_pmu8fBzdEW6fcCUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Katastrophe unprofessionell 0,0 Dienstleister würde gar keinen Stern vergeben",
       "time": 1781254621,
       "translated": false
@@ -548,11 +572,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 138,
+  "reviewCount": 139,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:21.671Z"
+  "lastUpdated": "2026-08-13T06:14:38.198Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Yulia Petkau",
+      "author_url": "https://www.google.com/maps/contrib/100965160414461821501/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItwsJhVl9vVqemLehZ79mJnMOffapxNSsVYE2U_0399Y5xvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr hilfsbereite und kompetente Ärztin. Sie ist immer freundlich, gut gelaunt und strahlt wie ein Sonnenschein. Solche Ärzte gibt es heutzutage leider nur noch sehr selten. Eine Ärztin, bei der man sich einfach gut aufgehoben fühlt. Absolut empfehlenswert!",
+      "time": 1786546528,
+      "translated": false
+    },
+    {
       "author_name": "Ja H",
       "author_url": "https://www.google.com/maps/contrib/104757613008047683012/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITWA_9l2qakNrIFUdVZ30O2wn0dDienF9vRq7hVRt4mtkD4A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin rundum zufrieden. Die Wartezeit war angenehm, die Behandlung kompetent und sorgfältig. Hervorheben möchte ich dass die Ärztin sehr empathisch und freundlich war. Ich habe mich gut aufgehoben gefühlt. Auch die Assistentin war sehr nett. Ich habe mich sehr wohl gefühlt. Vielen Dank.",
+      "time": 1785305961,
+      "translated": false
+    },
+    {
+      "author_name": "Ja H",
+      "author_url": "https://www.google.com/maps/contrib/104757613008047683012/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITWA_9l2qakNrIFUdVZ30O2wn0dDienF9vRq7hVRt4mtkD4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin rundum zufrieden. Die Wartezeit war angenehm, die Behandlung kompetent und sorgfältig. Hervorheben möchte ich dass die Ärztin sehr empathisch und freundlich war. Ich habe mich gut aufgehoben gefühlt. Auch die Assistentin war sehr nett. Ich habe mich sehr wohl gefühlt. Vielen Dank.",
       "time": 1785305961,
       "translated": false
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-cC1x7MLprO6YHkuv0HUdFKefoCvdQvMOdYOtjI33eHiHVQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr unfreundliche Ärztin, kann ich leider nicht empfehlen. Ich bin als Nicht-Bestandspatientin in die Notfallsprechstunde gekommen, nachdem ich vorher telefonisch angefragt habe und man mir sagte ich solle vorbei kommen. Im Behandlungszimmer hat Frau Dr. Dith sich dann leider völlig im Ton vergriffen und nur sehr widerwillig geholfen.",
+      "time": 1785136559,
+      "translated": false
+    },
+    {
+      "author_name": "Janine Schuh",
+      "author_url": "https://www.google.com/maps/contrib/105232996725887800123/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-cC1x7MLprO6YHkuv0HUdFKefoCvdQvMOdYOtjI33eHiHVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr unfreundliche Ärztin, kann ich leider nicht empfehlen. Ich bin als Nicht-Bestandspatientin in die Notfallsprechstunde gekommen, nachdem ich vorher telefonisch angefragt habe und man mir sagte ich solle vorbei kommen. Im Behandlungszimmer hat Frau Dr. Dith sich dann leider völlig im Ton vergriffen und nur sehr widerwillig geholfen.",
       "time": 1785136559,
       "translated": false
@@ -92,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLGf27Hx4_RaIjHkgerxt_EVhOrbGveqf58IZWt73dqIokI5NIJA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Mein erster Besuch in dieser Praxis war sehr wertvoll und die Behandlung hoffentlich erfolgreich.\nMeine Zuversicht ist groß",
+      "time": 1784579603,
+      "translated": false
+    },
+    {
+      "author_name": "Klaus Schulze",
+      "author_url": "https://www.google.com/maps/contrib/102056198081023403029/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLGf27Hx4_RaIjHkgerxt_EVhOrbGveqf58IZWt73dqIokI5NIJA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Mein erster Besuch in dieser Praxis war sehr wertvoll und die Behandlung hoffentlich erfolgreich.\nMeine Zuversicht ist groß",
       "time": 1784579603,
       "translated": false
@@ -942,11 +990,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 234,
+  "reviewCount": 235,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:24.554Z"
+  "lastUpdated": "2026-08-13T06:14:41.110Z"
 }

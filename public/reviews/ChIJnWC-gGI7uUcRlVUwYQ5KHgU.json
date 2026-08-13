@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Alaa Almajun",
+      "author_url": "https://www.google.com/maps/contrib/104586541847206550971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786457359,
+      "translated": false
+    },
+    {
       "author_name": "Martina Janke",
       "author_url": "https://www.google.com/maps/contrib/114674566462622329700/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvYx9Ckg5tMf_bvFIHnUCaxhIdlJ-50hhz_pG6SAZjRBhORg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Kann die teilweise schlechten Bewertungen nicht bestätigen. Habe einen Termin für den nächsten Tag bekommen. Das Personal war sehr freundlich. Wartezeit sehr kurz. Wurde von einer netten jungen Ärztin behandelt, die schnell eine Diagnose stellte, die bisher nicht erkannt wurde.",
+      "time": 1785925098,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Janke",
+      "author_url": "https://www.google.com/maps/contrib/114674566462622329700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvYx9Ckg5tMf_bvFIHnUCaxhIdlJ-50hhz_pG6SAZjRBhORg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Kann die teilweise schlechten Bewertungen nicht bestätigen. Habe einen Termin für den nächsten Tag bekommen. Das Personal war sehr freundlich. Wartezeit sehr kurz. Wurde von einer netten jungen Ärztin behandelt, die schnell eine Diagnose stellte, die bisher nicht erkannt wurde.",
       "time": 1785925098,
       "translated": false
@@ -44,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5whCX_wDdFGpNcPRpyadQH3yLyFEwN4fHFaOziKX3wZ0Tlg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Schnelle Terminvergabe, kaum Wartezeit und eine freundliche Betreuung durch den Arzt. Ich habe mich sehr gut aufgehoben gefühlt.",
+      "time": 1784666998,
+      "translated": false
+    },
+    {
+      "author_name": "Julia E.",
+      "author_url": "https://www.google.com/maps/contrib/106212226264833342381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5whCX_wDdFGpNcPRpyadQH3yLyFEwN4fHFaOziKX3wZ0Tlg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Schnelle Terminvergabe, kaum Wartezeit und eine freundliche Betreuung durch den Arzt. Ich habe mich sehr gut aufgehoben gefühlt.",
       "time": 1784666998,
       "translated": false
@@ -104,6 +138,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW7kkuELhWjKGPaDQfsekVXgP1DfmmmjYPTacJXcVehnb7Wg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war nicht da, keine Meinumg",
+      "time": 1783878423,
+      "translated": false
+    },
+    {
+      "author_name": "Acar Ayyildiz",
+      "author_url": "https://www.google.com/maps/contrib/111463467723864904282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW7kkuELhWjKGPaDQfsekVXgP1DfmmmjYPTacJXcVehnb7Wg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war nicht da, keine Meinumg",
       "time": 1783878423,
       "translated": false
@@ -994,11 +1040,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 389,
+  "reviewCount": 390,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-10T06:09:42.131Z"
+  "lastUpdated": "2026-08-13T06:14:58.481Z"
 }

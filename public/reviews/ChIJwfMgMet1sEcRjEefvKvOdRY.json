@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sina",
+      "author_url": "https://www.google.com/maps/contrib/107649455102600111822/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDzZKxIb3vy8DK1q75TMx27BK9gb2gtib0lHMklPAyJ5IaFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kurze Wartezeiten, freundlich und kompetent",
+      "time": 1786357621,
+      "translated": false
+    },
+    {
       "author_name": "boutaina thabti",
       "author_url": "https://www.google.com/maps/contrib/110593468731399173211/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqmza_7xBzKHAKAeuVUcvVUMEhFCZa43IU22dKgd8PZMBDUw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Als Kassenpatient wird man am telefon sowie vorne am empfang nicht einmal aufgenommen !!\nDie dame am telefon meinte sie hätten niemals termine für eine Untersuchung welches ich sogar eine Überweisung habe",
+      "time": 1785189109,
+      "translated": false
+    },
+    {
+      "author_name": "Sely Sonntag",
+      "author_url": "https://www.google.com/maps/contrib/105842875266509153502/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqmza_7xBzKHAKAeuVUcvVUMEhFCZa43IU22dKgd8PZMBDUw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Als Kassenpatient wird man am telefon sowie vorne am empfang nicht einmal aufgenommen !!\nDie dame am telefon meinte sie hätten niemals termine für eine Untersuchung welches ich sogar eine Überweisung habe",
       "time": 1785189109,
       "translated": false
@@ -73,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "C P",
+      "author_url": "https://www.google.com/maps/contrib/114600441471598498111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIkVj7u97vomRC5ZS_GSM65QpUdweBbRXYKCqyg5MV3VZZTQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr gewissenhaft,\nimmer freundlich,\ntop Praxis-Organisation\nDie Behandlung war professionell, ging schnell und ohne nennenswerte Beschwerden!",
+      "time": 1784640783,
+      "translated": false
+    },
+    {
       "author_name": "Marcus Dellemann",
       "author_url": "https://www.google.com/maps/contrib/110365450011942937165/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0_Nh04hNbdiMHGEaUUEVVy34MnYNx1v_h70_1_ftv--vOJg=s128-c0x00000000-cc-rp-mo",
@@ -98,6 +134,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0_Nh04hNbdiMHGEaUUEVVy34MnYNx1v_h70_1_ftv--vOJg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1784555187,
+      "translated": false
+    },
+    {
+      "author_name": "Marcus Dellemann",
+      "author_url": "https://www.google.com/maps/contrib/110365450011942937165/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0_Nh04hNbdiMHGEaUUEVVy34MnYNx1v_h70_1_ftv--vOJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1784555187,
       "translated": false
@@ -948,11 +994,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 165,
+  "reviewCount": 166,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:18.090Z"
+  "lastUpdated": "2026-08-13T06:14:34.616Z"
 }

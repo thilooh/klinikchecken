@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Marco Bühler",
+      "author_url": "https://www.google.com/maps/contrib/112159634318577805427/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLft5HOpud0TSjEwkMp2jsPELiWTXW_3QwfGHeCWdHbgYsMmQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786546638,
+      "translated": false
+    },
+    {
+      "author_name": "Sherina",
+      "author_url": "https://www.google.com/maps/contrib/114903965386740276126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2WWvo1rA9PhpNamdNTk8FHHJIlw1klutw9BHdVKpJ6JnrvuON=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786353998,
+      "translated": false
+    },
+    {
       "author_name": "naCm Sh",
       "author_url": "https://www.google.com/maps/contrib/100094702921877976713/reviews",
       "language": "de",
@@ -1020,11 +1040,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 234,
+  "reviewCount": 236,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:29.521Z"
+  "lastUpdated": "2026-08-13T06:14:46.192Z"
 }

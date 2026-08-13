@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Marianne Bargsten",
+      "author_url": "https://www.google.com/maps/contrib/109749688125145997018/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt5eFZCoJBqnhsxUBinCDumRsrB6EhNqWm-YucOHHv_WMvYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Der Beste!",
+      "time": 1784644457,
+      "translated": false
+    },
+    {
       "author_name": "Josee Hennin",
       "author_url": "https://www.google.com/maps/contrib/117944554978950383025/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-EVzOCK-4QVPzCn5icXGkZVtZvwVdFELoQ_7cXqyTWLXcATKz=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Praxis : Freundlich Personal\nDr. Offen für Gespräch\nGute Beratung.",
+      "time": 1784538339,
+      "translated": false
+    },
+    {
+      "author_name": "Josee Hennin",
+      "author_url": "https://www.google.com/maps/contrib/117944554978950383025/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-EVzOCK-4QVPzCn5icXGkZVtZvwVdFELoQ_7cXqyTWLXcATKz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Praxis : Freundlich Personal\nDr. Offen für Gespräch\nGute Beratung.",
       "time": 1784538339,
       "translated": false
@@ -620,11 +644,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 80,
+  "reviewCount": 79,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:38.708Z"
+  "lastUpdated": "2026-08-13T06:14:55.291Z"
 }

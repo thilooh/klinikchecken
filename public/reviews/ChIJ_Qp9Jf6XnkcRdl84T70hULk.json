@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Selda Zanker",
+      "author_url": "https://www.google.com/maps/contrib/101388474187150934833/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOc4XnFcMkOqFLSqAvOyOlIcbVObhxd6IyWlOpUhGGXrD9MA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn man anruft geht keiner ran.\nPer E-Mail bekommt nan auch keinen Termin wird nur hingehalten,obwohl ich kein Neupatient bin.\nNicht zu empfehlen.",
+      "time": 1786357638,
+      "translated": false
+    },
+    {
+      "author_name": "Sanane Anan",
+      "author_url": "https://www.google.com/maps/contrib/107010918590298585006/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_ZqsP54ntZNVLtO2FgtvefmWW-AZ1LlGvyeiaRwxoMLeU1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Zeitverschwendung.\nJedes Mal wurde mein Termin, den ich bereits Wochen oder sogar Monate im Voraus vereinbart hatte, entweder kurzfristig abgesagt oder erst vor Ort mitgeteilt, dass er nicht stattfinden kann. Die Ärzte seien nicht da oder würden erst später kommen. Wozu werden dann überhaupt Termine vergeben???\nMein erster Termin wurde völlig kurzfristig (30/40 minuten vor dem termin) von der Einrichtung abgesagt. Mir wurde daraufhin ein Ersatztermin angeboten, auch dieser wieder kurzfristig abgesagt, beim dritten Termin genau das gleiche. Wie kann man nicht mal EINEN termin einhalten?? crazy",
+      "time": 1786344901,
+      "translated": false
+    },
+    {
       "author_name": "Martin Koper",
       "author_url": "https://www.google.com/maps/contrib/114583152081392018289/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGI-Cr_kzi91nkBPvSdROoJpX2FuAqLtgBnyYRBB6QON2-L_Xy=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann bisher nur die Erfahrungen mit der Praxis und Doctolib teilen, weil ich bisher keinen Arzt sehen konnte.\n\nIn meiner Familie ist es jedes Mal passiert, dass Termine sehr kurzfristig abgesagt wurden (3 unterschiedliche Familienmitglieder):\nTermin am 29.04. wurde am 27.04. abgesagt wegen Krankheit (gebucht am 30.12.2025)\nTermin am 04.05. wurde am 30.04. wegen eines technischen Problems im Online-Kalender abgesagt (gebucht am 04.01.26)\nTermin am 03.08. wurde am 03.08. wegen Krankheit abgesagt (gebucht am 30.12.2025)\n\nAlle Buchungen via Doctolib, Nachweise können auf Wunsch zugeschickt werden.\n\nGerade bei einem Hautarzt ist die Wartezeit ohnehin sehr lang und ich mache keinem einen Vorwurf, dass jemand krank wird oder dass es technische Probleme gibt. Dass Termine dann kurzfristig und ohne Ersatztermin abgesagt werden, finde ich nicht in Ordnung.\nAuf der Suche nach einem Ersatztermin in Doctolib konnte ich dann sehen, dass für Selbstzahler und Privatpatienten freie Termine bereits 1-2 Tage später angeboten wurden, das finde ich schwer nachvollziehbar.",
+      "time": 1785933553,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Koper",
+      "author_url": "https://www.google.com/maps/contrib/114583152081392018289/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGI-Cr_kzi91nkBPvSdROoJpX2FuAqLtgBnyYRBB6QON2-L_Xy=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann bisher nur die Erfahrungen mit der Praxis und Doctolib teilen, weil ich bisher keinen Arzt sehen konnte.\n\nIn meiner Familie ist es jedes Mal passiert, dass Termine sehr kurzfristig abgesagt wurden (3 unterschiedliche Familienmitglieder):\nTermin am 29.04. wurde am 27.04. abgesagt wegen Krankheit (gebucht am 30.12.2025)\nTermin am 04.05. wurde am 30.04. wegen eines technischen Problems im Online-Kalender abgesagt (gebucht am 04.01.26)\nTermin am 03.08. wurde am 03.08. wegen Krankheit abgesagt (gebucht am 30.12.2025)\n\nAlle Buchungen via Doctolib, Nachweise können auf Wunsch zugeschickt werden.\n\nGerade bei einem Hautarzt ist die Wartezeit ohnehin sehr lang und ich mache keinem einen Vorwurf, dass jemand krank wird oder dass es technische Probleme gibt. Dass Termine dann kurzfristig und ohne Ersatztermin abgesagt werden, finde ich nicht in Ordnung.\nAuf der Suche nach einem Ersatztermin in Doctolib konnte ich dann sehen, dass für Selbstzahler und Privatpatienten freie Termine bereits 1-2 Tage später angeboten wurden, das finde ich schwer nachvollziehbar.",
       "time": 1785933553,
       "translated": false
@@ -955,12 +991,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 168,
+  "rating": 4.5,
+  "reviewCount": 170,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-10T06:09:26.667Z"
+  "lastUpdated": "2026-08-13T06:14:43.238Z"
 }

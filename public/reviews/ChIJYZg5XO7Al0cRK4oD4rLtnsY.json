@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "katia cosseddu",
+      "author_url": "https://www.google.com/maps/contrib/102849094090979443592/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3S-UGTKmOBllhLTG9xljjNJYioLF0EyJDzzi4ahlGGYyQkQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetent Top Praxis!",
+      "time": 1786375739,
+      "translated": false
+    },
+    {
       "author_name": "Ramona Kuhrt",
       "author_url": "https://www.google.com/maps/contrib/101588188525584170054/reviews",
       "language": "de",
@@ -386,11 +398,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 50,
+  "reviewCount": 51,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-10T06:09:29.013Z"
+  "lastUpdated": "2026-08-13T06:14:45.659Z"
 }

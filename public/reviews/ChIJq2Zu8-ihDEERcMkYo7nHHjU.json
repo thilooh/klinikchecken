@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "hamo jan0",
+      "author_url": "https://www.google.com/maps/contrib/100855092505260882546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNcWhESgyOwjNwWTfETLcirCR3U2b836kMg_5vo6bYNiHMsSYX=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Super Arzt hier habe ich meine Gesicht behandlt und super zufrieden 👏",
+      "time": 1785262486,
+      "translated": false
+    },
+    {
       "author_name": "CG",
       "author_url": "https://www.google.com/maps/contrib/106975056008158282239/reviews",
       "language": "de",
@@ -62,6 +74,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtbTyOxcplkMn7utE0RMz-CFVmd3NIfT0OV2FOurkVLLPe8g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1784632822,
+      "translated": false
+    },
+    {
+      "author_name": "Susi Vela",
+      "author_url": "https://www.google.com/maps/contrib/106917582389483726407/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtbTyOxcplkMn7utE0RMz-CFVmd3NIfT0OV2FOurkVLLPe8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1784632822,
       "translated": false
@@ -163,6 +185,18 @@
       "translated": false
     },
     {
+      "author_name": "Saso",
+      "author_url": "https://www.google.com/maps/contrib/108522607092505751560/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUVeEaqAkFEoIBnCpPOmGPyd7rUMDXgoboKGnm5lyRiPUPjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr enttäuschend. Ich hatte einen bestätigten Termin und stand vor einer geschlossenen Praxis. Erst nach meiner Nachfrage wurde mir gesagt, dass es ein Tippfehler gewesen sei. Für mich bedeutete das eine umsonstige Anfahrt und einen verlorenen Tag. So etwas sollte bei einer Terminvergabe nicht passieren. Ich hoffe, die Organisation wird verbessert",
+      "time": 1784125877,
+      "translated": false
+    },
+    {
       "author_name": "Ernst Kreuzer",
       "author_url": "https://www.google.com/maps/contrib/100962054906501855665/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLie1V9jp_h4g5LLXWVOwobpzAgoDBYYvp_cX57Uq92VJrN5A=s128-c0x00000000-cc-rp-mo-ba3",
@@ -198,6 +232,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLie1V9jp_h4g5LLXWVOwobpzAgoDBYYvp_cX57Uq92VJrN5A=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1783955560,
+      "translated": false
+    },
+    {
+      "author_name": "Ernst Kreuzer",
+      "author_url": "https://www.google.com/maps/contrib/100962054906501855665/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLie1V9jp_h4g5LLXWVOwobpzAgoDBYYvp_cX57Uq92VJrN5A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1783955560,
       "translated": false
@@ -956,5 +1000,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-10T06:09:30.044Z"
+  "lastUpdated": "2026-08-13T06:14:46.666Z"
 }

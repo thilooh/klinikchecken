@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Carolin Kobienia (Caro)",
+      "author_url": "https://www.google.com/maps/contrib/106817284100825464485/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWo3pxOdtE0STpwB0qDlEp9pw4Oghnl0Ve6jiUjIt5y_IRK_gAp=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nicht zu empfehlen bei Lipödem!!!\n\nIch leide an einem diagnostizierten Lipödem und kann diese Praxis leider überhaupt nicht empfehlen.\n\nAuf diesen Termin habe ich fast drei Monate gewartet und bin leider sehr enttäuscht worden.\n\nIch habe mich von Anfang an nicht ernst genommen gefühlt. Mein Eindruck war, dass mir kaum zugehört wurde und ich sehr schnell abgefertigt wurde. Die Ärztin sagte wörtlich, dass „alles am Gewicht und den Proportionen liegt“. Außerdem war sie der Meinung, ich hätte kein Lipödem.\n\nBesonders irritiert haben mich einige Aussagen während des Gesprächs. Sie meinte unter anderem, eine Lipödem-Patientin würde schreien, wenn man ihr am Bein drückt. Als ich daraufhin erwähnte, dass ich eine Freundin mit diagnostiziertem Lipödem habe, die dabei ebenfalls nicht schreit, antwortete sie nur: „Dann hat sie auch kein Lipödem.“\n\nIch fragte sie außerdem, woher denn dann meine Schmerzen und die anderen Beschwerden kommen. Darauf erhielt ich lediglich die Antwort: „Das weiß ich nicht.“ Gleichzeitig sagte sie mehrfach, sie sei „die Expertin“. Am Ende wurde mir lediglich geraten, zu einem anderen Arzt zu gehen.\n\nNach fast drei Monaten Wartezeit hätte ich mir eine gründliche Untersuchung, ein offenes Gespräch und vor allem das Gefühl gewünscht, ernst genommen zu werden. Stattdessen fühlte ich mich abgewiesen und überhaupt nicht gut aufgehoben.\n\nIch werde diese Praxis definitiv nicht noch einmal aufsuchen. Am liebsten würde ich 0 Sterne vergeben.",
+      "time": 1785840700,
+      "translated": false
+    },
+    {
       "author_name": "V M",
       "author_url": "https://www.google.com/maps/contrib/118236545394761981069/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG_XMLq9axmN6vjcq-hWeUONSwLvRmKDFrNtaiojmFyOw_yQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr schlechte Erfahrung leider gemacht. Nicht empfehlenswert.",
+      "time": 1778746373,
+      "translated": false
+    },
+    {
+      "author_name": "V M",
+      "author_url": "https://www.google.com/maps/contrib/118236545394761981069/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG_XMLq9axmN6vjcq-hWeUONSwLvRmKDFrNtaiojmFyOw_yQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Sehr schlechte Erfahrung leider gemacht. Nicht empfehlenswert.",
       "time": 1778746373,
       "translated": false
@@ -370,8 +394,8 @@
       "time": 1726128169
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 24,
+  "rating": 4,
+  "reviewCount": 25,
   "summary": [],
-  "lastUpdated": "2026-08-10T06:09:08.096Z"
+  "lastUpdated": "2026-08-13T06:14:24.561Z"
 }

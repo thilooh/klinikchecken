@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ursula Eberhart",
+      "author_url": "https://www.google.com/maps/contrib/100642243176543810267/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyOJ9NsE2-SEi9fY7GWYXcT0qblFEsyyDsSnLYj6MCApYG-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Team, nur schade dass ich nicht zu Dr.Munteanu kam,den ich halt bei meinen Vorbesuche behandelte,  aber VL war ja im Urlaub.",
+      "time": 1786560951,
+      "translated": false
+    },
+    {
       "author_name": "Albina Sylaj",
       "author_url": "https://www.google.com/maps/contrib/114018727066772195596/reviews",
       "language": "de",
@@ -82,6 +94,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmd4XFTaO20RFHL8_XJUUBDh1FJQ3d8ubdVqtOKmxmUJckrg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1781276356,
+      "translated": false
+    },
+    {
+      "author_name": "Fick Frosch",
+      "author_url": "https://www.google.com/maps/contrib/104475407220581533921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmd4XFTaO20RFHL8_XJUUBDh1FJQ3d8ubdVqtOKmxmUJckrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1781276356,
       "translated": false
@@ -662,11 +684,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 105,
+  "reviewCount": 106,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:52.595Z"
+  "lastUpdated": "2026-08-13T06:15:08.656Z"
 }

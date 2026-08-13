@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Ch. L.",
+      "author_url": "https://www.google.com/maps/contrib/102112189855506723482/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJokKnXGCd9BQAwT4Qo293SyFpZzv2XFmRSxyZN2KfzcUrJfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetente und sympathische Ärzt:innen und Arzthelfer:innen, angenehme Atmosphäre in der Praxis. Danke für die gute Beratung.",
+      "time": 1786376162,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrich Hepp",
+      "author_url": "https://www.google.com/maps/contrib/113307456045668932849/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIi3Pa_NGccjyy0UxuoA5bmQ-ALRkCsjlKgwYNfPNMgi6QZ6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist modern eingerichtet und EDV-Technisch sehr gut ausgestattet. Die Ärzte und das Personal waren außerordentlich freundlich und kompetent. Ich kann die Praxis nur weiterempfehlen.",
+      "time": 1786360663,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine Siebler",
+      "author_url": "https://www.google.com/maps/contrib/116441794328807081568/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpOr3efWQ5rWtyevlU9Xvcz5ycmxkS95Q7VAuJOTc_uxYU9O8j1Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Praxisteam und ein beeindruckendes Zeitmanagement.\n20Min. nach dem vereinbarten Termin wieder draußen. Das ist ein respektvoller Umgang mit der Zeit der Patienten.\nDie Untersuchung war angenehm und sehr sorgfältig.\nDanke\n\nIst nach drei Jahren noch genauso großartig.",
+      "time": 1786358377,
+      "translated": false
+    },
+    {
+      "author_name": "S. K.",
+      "author_url": "https://www.google.com/maps/contrib/107831607794947680631/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAeC1vo5nbbbQ__poHXXQTyxMqT2dNH2Hb3QrE0_z5QbLGMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut organisierte Praxis , sehr freundliches Team.\nDer Hautscan als Selbstzahler hat sich für mich sehr gelohnt , auch die persönliche Untersuchung war ausgesprochen kompetent.\nEinzig die Terminvergabe bedeutet:\nTäglich schauen bis es klappt🫣",
+      "time": 1786348569,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen Wiechmann",
+      "author_url": "https://www.google.com/maps/contrib/114645129840698754614/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKbLQI7LUFis19Y32yX_sT1iyWJTsqtCjOtVplXAqX4jXxag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundlich, zügig, zugewandt",
+      "time": 1786347434,
+      "translated": false
+    },
+    {
       "author_name": "Karla Kruse-Teich",
       "author_url": "https://www.google.com/maps/contrib/103644940708092822409/reviews",
       "language": "de",
@@ -1432,11 +1492,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2355,
+  "reviewCount": 2358,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-10T06:09:21.439Z"
+  "lastUpdated": "2026-08-13T06:14:37.970Z"
 }

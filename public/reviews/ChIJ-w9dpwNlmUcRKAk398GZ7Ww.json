@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Robert W",
+      "author_url": "https://www.google.com/maps/contrib/106765011094069117217/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLIRQ0jMtgQrsVFRL1EGUm7xOXq1_szss7Nc7In3j0d5iUVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte im März 2026 ein Problem mit meiner Rosette , habe mir nach einer Empfehlung einen Termin bei Dr. Grenzer in Blaustein gebucht und ihn auch schnell bekommen. Ich war sehr nervös und aufgeregt was auch verständlich war. Da es ja nicht alltäglich ist, sich im hinteren Bereich einer Inspektion zu unterziehen. Dr Grenzer kann ich nur empfehlen der nimmt einem die Angst mit Humor ( 17 Schlüssel und so ) der weiß was er macht 👍. Das war die erste OP bei der ich sogar lachen musste, Danke nochmals für die gute Behandlung und die Aufklärung. 👍",
+      "time": 1786352211,
+      "translated": false
+    },
+    {
       "author_name": "Conny G.",
       "author_url": "https://www.google.com/maps/contrib/117052751639569059984/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9MzHZCGrm6KP8lkcEk5h-e-TCU1jLKr59BWY9gWxa7yAvEw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch habe mich in der Praxis vom ersten Moment an sehr gut aufgehoben gefühlt. Das gesamte Team ist freundlich, kompetent und bestens organisiert. Der Arzt hat sich Zeit genommen, meine Fragen verständlich beantwortet und mich ausführlich beraten. Die Behandlung war sehr professionell und ich bin mit dem Ergebnis äußerst zufrieden. Eine Praxis, die ich mit gutem Gewissen weiterempfehlen kann.",
+      "time": 1785929395,
+      "translated": false
+    },
+    {
+      "author_name": "Natalie G.",
+      "author_url": "https://www.google.com/maps/contrib/106288842080032030739/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9MzHZCGrm6KP8lkcEk5h-e-TCU1jLKr59BWY9gWxa7yAvEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "⭐⭐⭐⭐⭐\n\nIch habe mich in der Praxis vom ersten Moment an sehr gut aufgehoben gefühlt. Das gesamte Team ist freundlich, kompetent und bestens organisiert. Der Arzt hat sich Zeit genommen, meine Fragen verständlich beantwortet und mich ausführlich beraten. Die Behandlung war sehr professionell und ich bin mit dem Ergebnis äußerst zufrieden. Eine Praxis, die ich mit gutem Gewissen weiterempfehlen kann.",
       "time": 1785929395,
       "translated": false
@@ -904,11 +928,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 158,
+  "reviewCount": 159,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-10T06:09:27.847Z"
+  "lastUpdated": "2026-08-13T06:14:44.446Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hannah Heidelberg",
+      "author_url": "https://www.google.com/maps/contrib/114452999053148791878/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKudfMdoN2O2V4v7L4gEQWz04l4Lt_f3wjrrHZQuaMBh2I-rQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine wirklich tolle Praxis. Das Team ist super lieb, freundlich und man fühlt sich direkt wohl und gut aufgehoben. Die Praxis selbst ist sehr schön und angenehm eingerichtet. Auch die Anbindung ist super, sodass man problemlos mit den öffentlichen Verkehrsmitteln hinkommt.\n\nIch hatte dort auch eine OP und habe mich dabei wirklich sehr gut aufgehoben gefühlt. Dr. Abu Nasir und sein Team haben von Anfang an alles gut organisiert und ich war mit der gesamten Behandlung und dem Ergebnis sehr zufrieden. Insgesamt einfach eine tolle Praxis, die ich gerne weiterempfehle!",
+      "time": 1786357128,
+      "translated": false
+    },
+    {
       "author_name": "Annette Henkel",
       "author_url": "https://www.google.com/maps/contrib/102543758006250753638/reviews",
       "language": "de",
@@ -97,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Lilly Jaehn",
+      "author_url": "https://www.google.com/maps/contrib/116715342033502758479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZI0FJe0wNbNSXaZ3eyQHO10SnFPOeRN77UtOcoR1KfGFEOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war heute zum ersten Mal als Neupatientin in der Praxis. Ich habe mich sehr Ernst genommen und wirklich gut beraten gefühlt! Haben Sie vielen Dank!",
+      "time": 1784055047,
+      "translated": false
+    },
+    {
       "author_name": "Bernhard Rypalla",
       "author_url": "https://www.google.com/maps/contrib/104195221079928918210/reviews",
       "language": "de",
@@ -140,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW4QzQXH399ozZtL-YH4-vscqA09Icewt8Hcpr4x4OvQQnQHsI-w=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Normale Wartezeit. Ruhig und kompetent. Ich bin rundum zufrieden.",
+      "time": 1783953779,
+      "translated": false
+    },
+    {
+      "author_name": "Bernhard Rypalla",
+      "author_url": "https://www.google.com/maps/contrib/104195221079928918210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW4QzQXH399ozZtL-YH4-vscqA09Icewt8Hcpr4x4OvQQnQHsI-w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Normale Wartezeit. Ruhig und kompetent. Ich bin rundum zufrieden.",
       "time": 1783953779,
       "translated": false
@@ -190,6 +226,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEdcMkBNt4i4kcbbFXwurXhe295UkG84lnd7zjESidHPimbQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1783774316,
+      "translated": false
+    },
+    {
+      "author_name": "Jacob Jaber",
+      "author_url": "https://www.google.com/maps/contrib/106857988419303041140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEdcMkBNt4i4kcbbFXwurXhe295UkG84lnd7zjESidHPimbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1783774316,
       "translated": false
@@ -940,11 +986,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 72,
+  "reviewCount": 73,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-10T06:09:46.139Z"
+  "lastUpdated": "2026-08-13T06:15:02.344Z"
 }

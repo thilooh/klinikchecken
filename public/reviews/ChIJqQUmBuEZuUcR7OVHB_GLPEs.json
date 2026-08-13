@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Joel",
+      "author_url": "https://www.google.com/maps/contrib/117154305639352357709/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXffuxVGcY_RgFLLAylmv4-4eiQP9KWbuMzGCYe-lw6_F35pYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut enttäuschende und respektlose Erfahrung🤷🏽‍♂️‼️‼️‼️‼️‼️‼️‼️\n\nWas ich über die Hansa Klinik Dortmund gehört und erlebt habe, ist menschlich einfach nur erschreckend. Besonders der Umgang mit Patienten wirkt auf mich teilweise völlig respektlos, kalt und unprofessionell. Gerade in einer Klinik sollte man erwarten können, dass Menschen mit Würde und Anstand behandelt werden – genau das vermisse ich hier.\n\nBesonders erschreckend finde ich das Auftreten der Führungsebene. Entscheidungen werden offenbar getroffen, ohne den Betroffenen vernünftig entgegenzutreten oder ihnen eine nachvollziehbare Erklärung zu geben. Statt einer offenen und professionellen Kommunikation entsteht dadurch der Eindruck, als würde man Menschen bewusst im Unklaren lassen und mit ihren Sorgen alleine lassen.\n\nWenn man sich die Erfahrungen vieler Menschen anschaut, entsteht für mich leider ein sehr bitterer Gesamteindruck: Menschlichkeit scheint hier nicht gerade an erster Stelle zu stehen. Stattdessen wirkt es teilweise so, als würden finanzielle Interessen und wirtschaftliches Denken über den Menschen gestellt.\n\nEine Klinik sollte ein Ort sein, an dem man sich trotz einer schwierigen Situation sicher, respektiert und ernst genommen fühlt. Wenn Patienten sich stattdessen erniedrigt, nicht ernst genommen oder wie eine reine Einnahmequelle behandelt fühlen, läuft meiner Meinung nach grundlegend etwas falsch.\n\nSo ein Umgang ist für mich absolut inakzeptabel. Wer mit Menschen arbeitet, die sich in verletzlichen Situationen befinden, sollte wenigstens ein Mindestmaß an Respekt, Empathie und Anstand besitzen. Genau das habe ich hier leider vermisst.\nEinfach nur peinlich wie heutzutage mit Menschen umgegangen wird.\nGrüße an den Chefarzt der so wie es aussieht den Joker spielt 😂",
+      "time": 1786565897,
+      "translated": false
+    },
+    {
       "author_name": "Simon Redlich",
       "author_url": "https://www.google.com/maps/contrib/105766646440191688454/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx5Y27HaG-rfNwTh8T5upbVt4Ws8-0l-ZS0RQ9_0T5sJwOH5wl=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785882816,
+      "translated": false
+    },
+    {
+      "author_name": "Simon Redlich",
+      "author_url": "https://www.google.com/maps/contrib/105766646440191688454/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx5Y27HaG-rfNwTh8T5upbVt4Ws8-0l-ZS0RQ9_0T5sJwOH5wl=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1785882816,
       "translated": false
@@ -18,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYY3P_C2G9YpTW44igkcqIcx85QbwImMlqeJa3t5EdQyD5NQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Kirsch und das ganze MVZ sind Klasse. Online spontan einen Termin gebucht für den selben Tag. Keine Wartezeit, Herr Kirsch hat mir alles super freundlich erklärt und mir die Auffälligkeiten sogar selbst durch die Lupe gezeigt. Man hatte das Gefühl, dass er seinen Job mag und eine Berufsethik an den Tag legt, die man heute nur noch selten findet. Danke!",
+      "time": 1785843810,
+      "translated": false
+    },
+    {
+      "author_name": "Miśiek Pampaliśiek",
+      "author_url": "https://www.google.com/maps/contrib/116332421139562376831/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYY3P_C2G9YpTW44igkcqIcx85QbwImMlqeJa3t5EdQyD5NQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Herr Dr. Kirsch und das ganze MVZ sind Klasse. Online spontan einen Termin gebucht für den selben Tag. Keine Wartezeit, Herr Kirsch hat mir alles super freundlich erklärt und mir die Auffälligkeiten sogar selbst durch die Lupe gezeigt. Man hatte das Gefühl, dass er seinen Job mag und eine Berufsethik an den Tag legt, die man heute nur noch selten findet. Danke!",
       "time": 1785843810,
       "translated": false
@@ -1098,7 +1132,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 292,
+  "reviewCount": 293,
   "summary": [],
-  "lastUpdated": "2026-08-10T06:09:11.546Z"
+  "lastUpdated": "2026-08-13T06:14:27.982Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Vinzent Vegas",
+      "author_url": "https://www.google.com/maps/contrib/107202122693081473918/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX41s3-dv3SOCEi4vNimUSoxK_u7IDN4P2aaWk65yGIZ01gcCRlCA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Spitzenbehandlung, erstklassiges Team und ganzheitliche Beratung – uneingeschränkt empfehlenswert!\n​Ich war heute in der Praxis und bin rundum begeistert: Hier stimmt von der ersten bis zur letzten Minute einfach alles.\n​Schon beim Betreten fällt die moderne, durchdachte und einladende Praxisausstattung auf, die sofort einen rundum positiven und professionellen Eindruck vermittelt. Das Praxisteam an der Rezeption empfängt einen extrem freundlich, zuvorkommend und organisiert, sodass man sich auf Anhieb gut aufgehoben fühlt.\n​Besonders hervorzuheben ist die herausragende Kommunikation zwischen Ärztin und Patient: Auf meine Beschwerden wurde extrem gründlich, empathisch und exakt eingegangen. Es gab eine verständliche und ganzheitliche Erklärung der Ursachen, ohne dass man das Gefühl hatte, abgespeist zu werden. Neben der akuten Behandlung habe ich zudem wertvolle, präventive Alltagstipps an die Hand bekommen. Die Kommunikation findet absolut auf Augenhöhe statt – sympathisch, kompetent und auf den Punkt.\n​Ein absolut perfekter Termin bei einer herausragenden Hautärztin und einem erstklassigen Team. Von mir gibt es die volle Punktzahl und eine 100%ige Weiterempfehlung!",
+      "time": 1786529379,
+      "translated": false
+    },
+    {
       "author_name": "Florin Antochi",
       "author_url": "https://www.google.com/maps/contrib/111988835344762489389/reviews",
       "language": "de",
@@ -608,5 +620,5 @@
   "rating": 4.5,
   "reviewCount": 118,
   "summary": [],
-  "lastUpdated": "2026-08-10T06:09:13.127Z"
+  "lastUpdated": "2026-08-13T06:14:29.598Z"
 }

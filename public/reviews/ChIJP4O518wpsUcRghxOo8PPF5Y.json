@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "KiwiamMorgen",
+      "author_url": "https://www.google.com/maps/contrib/108881649501300880038/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkixl0NLt-PWnDVPpqwiBqDhziwHcNaZnWddCIGtawzaCZaRMm=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bei Akne machen die das gleiche wie Kassenärzte, also nicht viel. Wer wie ich erwartet, dass es Spezialisten auf dem Gebiet der Akne bekämpfung sind, wird leider enttäuscht werden.",
+      "time": 1786464225,
+      "translated": false
+    },
+    {
+      "author_name": "Anahita",
+      "author_url": "https://www.google.com/maps/contrib/105323812636864506553/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwygrwJwMLL5ZlxSKfUbVizNR2m_67DXucBFGrePHcWpgr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786433672,
+      "translated": false
+    },
+    {
       "author_name": "Lady Peanut",
       "author_url": "https://www.google.com/maps/contrib/112926562528338941564/reviews",
       "language": "de",
@@ -140,6 +162,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGayDUQM76oJi_UUblZsLlOGjGBwjXi779Mo7psiRJrdYL8Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 2,
       "relative_time_description": "vor einem Monat",
+      "text": "Die Dame am Telefon, Frau W., habe ich als sehr unprofessionell empfunden. Es wurde viel gekichert, die Dame machte am laufenden Band ( dumme) Scherzchen. 😱Ich habe jetzt einen Termin in Oldenburg. Das war eine ganz andere Liga......\nEhrlich gesagt, habe ich das hier nicht erwartet!\n2022 war ich mit meinem Vater mehrmals hier. Hier gab ea wohl einen Facharzt-/ Führungswechsel und mit den Damen an der Rezeption hatten wir 2022 keinerlei Probleme.",
+      "time": 1781203368,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine",
+      "author_url": "https://www.google.com/maps/contrib/103921328335674099393/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGayDUQM76oJi_UUblZsLlOGjGBwjXi779Mo7psiRJrdYL8Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Die Dame am Telefon, Frau W., habe ich als sehr unprofessionell empfunden. Es wurde viel gekichert, die Dame machte am laufenden Band ( dumme) Scherzchen. 😱Ich habe jetzt einen Termin in Oldenburg. Das war eine ganz andere Liga......\nEhrlich gesagt, habe ich das hier nicht erwartet!\n2022 war ich mit meinem Vater mehrmals hier. Hier gab ea wohl einen Facharzt-/ Führungswechsel und mit den Damen an der Rezeption hatten wir 2022 keinerlei Probleme.",
       "time": 1781203368,
       "translated": false
@@ -590,11 +624,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 191,
+  "reviewCount": 193,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:18.342Z"
+  "lastUpdated": "2026-08-13T06:14:34.848Z"
 }

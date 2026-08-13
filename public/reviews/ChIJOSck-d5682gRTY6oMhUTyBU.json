@@ -1,11 +1,45 @@
 {
   "reviews": [
     {
+      "author_name": "Martina Ruppach",
+      "author_url": "https://www.google.com/maps/contrib/100815900885961070666/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY1V15_UDvOSpkIKs76prwoYHBx-4kzHCejbmbkofK6tdfVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Dr Burkert ich habe mich selten so wohl gefühlt in einer Arztpraxis! Ein toller Arzt, nettes Personal ich bin dankbar dort gelandet zu sein und das man sich um einen kümmert und ernst genommen wird! Danke ☺️",
+      "time": 1786563144,
+      "translated": false
+    },
+    {
+      "author_name": "Sevgi Fadhel",
+      "author_url": "https://www.google.com/maps/contrib/100604576204926314755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVKTPCQeXHK9h5SiO4CoP9IqO62iR_Pz3pRFWlyxWkU7n9aA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe Herrn Burghardt kennengelernt und bin total begeistert von der Art und Weise, wie er mir weitergeholfen hat. Sehr verständnisvoll, kompetent und dem Patienten zugewandt.\nGanz lieben Dank. Diese Praxis ist absolut weiterzuempfehlen.",
+      "time": 1786478875,
+      "translated": false
+    },
+    {
       "author_name": "Nadine Christiane Habermann-Schöber",
       "author_url": "https://www.google.com/maps/contrib/100306553756310546280/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_-AsShs_dnrnO4etAgmqIvBpQAeV1kHQ_yzgSgyuKo5EX7Gse=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1785867233,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine Christiane Habermann-Schöber",
+      "author_url": "https://www.google.com/maps/contrib/100306553756310546280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_-AsShs_dnrnO4etAgmqIvBpQAeV1kHQ_yzgSgyuKo5EX7Gse=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1785867233,
       "translated": false
@@ -126,6 +160,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoTYWdn7TOa5qIkf6UTqOi89H3Q4mOtZpLCBo0u-RmmN8_HQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war bei Dr.Burkert und bin begeistert von seiner empathischen Art und Genauigkeit bei der Diagnosestellung und Erklärung.\nHerzlich Dank",
+      "time": 1783863294,
+      "translated": false
+    },
+    {
+      "author_name": "s k",
+      "author_url": "https://www.google.com/maps/contrib/105644681580261248400/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoTYWdn7TOa5qIkf6UTqOi89H3Q4mOtZpLCBo0u-RmmN8_HQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war bei Dr.Burkert und bin begeistert von seiner empathischen Art und Genauigkeit bei der Diagnosestellung und Erklärung.\nHerzlich Dank",
       "time": 1783863294,
       "translated": false
@@ -905,12 +951,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 121,
+  "rating": 4.9,
+  "reviewCount": 122,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-08-10T06:09:25.264Z"
+  "lastUpdated": "2026-08-13T06:14:41.815Z"
 }

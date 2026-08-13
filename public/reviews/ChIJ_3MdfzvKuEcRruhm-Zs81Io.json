@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jousi Hoerning",
+      "author_url": "https://www.google.com/maps/contrib/103727322813495275745/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUqvQcUsrjpDHKEYsWhOah1SVKOk-qBeBkr6GBfo0aCLTAag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meiner Brust-OP bei Dr. Alexandros Ignatiadis mehr als zufrieden. Er hat meine Wünsche genau so umgesetzt, wie ich es mir vorgestellt habe, und ich bin mit dem Ergebnis sehr glücklich.\n\nBei jedem Termin war Dr. Ignatiadis sehr freundlich, geduldig und hat sich immer ausreichend Zeit für mich genommen. Er hat mir jede einzelne Frage ausführlich beantwortet und mir dadurch von Anfang an ein sehr gutes Gefühl gegeben.\n\nAuch am Tag der Operation wurde ich sehr herzlich und freundlich empfangen. Das gesamte Team war unglaublich aufmerksam und hat sich regelmäßig erkundigt, ob es mir gut geht oder ob ich etwas brauche. Dadurch habe ich mich jederzeit gut aufgehoben und bestens betreut gefühlt.\n\nIch würde Dr. Ignatiadis und sein Team jederzeit weiterempfehlen und bin sehr froh, mich für ihn entschieden zu haben. Vielen Dank für die tolle Betreuung und das wunderschöne Ergebnis! ❤️",
+      "time": 1786477368,
+      "translated": false
+    },
+    {
       "author_name": "Mrs. Smilexx",
       "author_url": "https://www.google.com/maps/contrib/109805115037600180914/reviews",
       "language": "de",
@@ -1053,7 +1065,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 378,
+  "reviewCount": 379,
   "summary": [],
-  "lastUpdated": "2026-08-10T06:09:08.706Z"
+  "lastUpdated": "2026-08-13T06:14:25.235Z"
 }

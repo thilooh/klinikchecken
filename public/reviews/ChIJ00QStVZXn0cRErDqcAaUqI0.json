@@ -61,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "David Vogt",
+      "author_url": "https://www.google.com/maps/contrib/108362167856408400533/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2z4Zt9exoKY6OvngmHsWgRrb3CTbpG5oAbDbFNwYiAZ82sQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Habe bei einem akuten Problem kompetente und hilfreiche Behandlung bekommen. Vielen Dank dafür!",
+      "time": 1783879247,
+      "translated": false
+    },
+    {
       "author_name": "Werner Herkert",
       "author_url": "https://www.google.com/maps/contrib/108640293843129131177/reviews",
       "language": "de",
@@ -598,5 +610,5 @@
   "rating": 5,
   "reviewCount": 18,
   "summary": [],
-  "lastUpdated": "2026-08-10T06:09:15.681Z"
+  "lastUpdated": "2026-08-13T06:14:32.206Z"
 }

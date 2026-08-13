@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Steffi lein",
+      "author_url": "https://www.google.com/maps/contrib/105841903202264895409/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbNmFb4Khtp0uWpVrmlrHnbx6XDg0BuJPdpivqaIPs53_JEwlG=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen herzlichen Dank für die tolle Beratung! Frau Dr. Thierfeld hat sich viel Zeit für mich genommen und mir viele hilfreiche Tipps gegeben. Ich habe mich sehr gut aufgehoben und ernst genommen gefühlt. Absolut empfehlenswert!",
+      "time": 1786473654,
+      "translated": false
+    },
+    {
       "author_name": "Mario Hörr",
       "author_url": "https://www.google.com/maps/contrib/116689235428648004582/reviews",
       "language": "de",
@@ -325,12 +337,12 @@
       "translated": false
     }
   ],
-  "rating": 3.8,
-  "reviewCount": 25,
+  "rating": 3.9,
+  "reviewCount": 26,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-10T06:09:55.714Z"
+  "lastUpdated": "2026-08-13T06:15:11.775Z"
 }

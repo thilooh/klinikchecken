@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Wilfried Beckmann",
+      "author_url": "https://www.google.com/maps/contrib/113545002505880996296/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0Dbbq82SvdQrqVJ5CFyAPFCUKVzV6NnMluSYO5Jq_EkC_PXh3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gut organisierte Praxis, entspannte Atmosphäre, kompetente, zugewandte Ärztin, gute Ergebisse",
+      "time": 1786371171,
+      "translated": false
+    },
+    {
       "author_name": "Dieter Mertens",
       "author_url": "https://www.google.com/maps/contrib/116486055321892601130/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKE5Sd_nmtYiT6sghPraT4ohccgaH7OcGfh3ERJX3PEht9M0Lk=s128-c0x00000000-cc-rp-mo-ba2",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKE5Sd_nmtYiT6sghPraT4ohccgaH7OcGfh3ERJX3PEht9M0Lk=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1785315862,
+      "translated": false
+    },
+    {
+      "author_name": "Dieter Mertens",
+      "author_url": "https://www.google.com/maps/contrib/116486055321892601130/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKE5Sd_nmtYiT6sghPraT4ohccgaH7OcGfh3ERJX3PEht9M0Lk=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1785315862,
       "translated": false
@@ -132,6 +154,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG3YoSEvJDpT7Fa-1Q1rVttxBCpD3pcKaUmRhE3sFyb2yLBw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Eine moderne Praxis mit angenehmen Betriebsklima. Sehr freundliche Mitarbeiter. Frau Dr. erklärt einem alles und nimmt sich Zeit. Alles Tipp Top.",
+      "time": 1784109352,
+      "translated": false
+    },
+    {
+      "author_name": "Michael",
+      "author_url": "https://www.google.com/maps/contrib/102722921847734494464/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG3YoSEvJDpT7Fa-1Q1rVttxBCpD3pcKaUmRhE3sFyb2yLBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Eine moderne Praxis mit angenehmen Betriebsklima. Sehr freundliche Mitarbeiter. Frau Dr. erklärt einem alles und nimmt sich Zeit. Alles Tipp Top.",
       "time": 1784109352,
       "translated": false
@@ -1012,11 +1046,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 90,
+  "reviewCount": 91,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-10T06:09:58.779Z"
+  "lastUpdated": "2026-08-13T06:15:14.861Z"
 }
