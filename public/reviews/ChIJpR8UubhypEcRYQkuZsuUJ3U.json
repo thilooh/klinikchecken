@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manu Wunder",
+      "author_url": "https://www.google.com/maps/contrib/100073357248894164551/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZcisLBJFdz7PogHfFeWTPrUR-EX427pmwzdQLWDPewoFimyttGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "\"Eigentlich eine tolle Praxis, da ich mit Frau Brugger medizinisch und menschlich immer sehr zufrieden war. Was sich allerdings an der Anmeldung abspielt, kann man leider nur noch als schlechten Scherz verbuchen. Als ich einen neuen Termin vereinbaren wollte, wurde ich von dem 'freundlichen' Herrn am Tresen kurzerhand abgewiesen und mir wurde stattdessen geraten, mir doch einfach einen anderen Arzt zu suchen. Sehr schade, wenn Patienten durch ein solches Auftreten am Empfang regelrecht vergrault werden.\"",
+      "time": 1786649150,
+      "translated": false
+    },
+    {
       "author_name": "Margret Kanzler",
       "author_url": "https://www.google.com/maps/contrib/108263257612275978405/reviews",
       "language": "de",
@@ -313,12 +325,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 51,
+  "rating": 4.5,
+  "reviewCount": 52,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:50.575Z"
+  "lastUpdated": "2026-08-16T05:25:07.319Z"
 }

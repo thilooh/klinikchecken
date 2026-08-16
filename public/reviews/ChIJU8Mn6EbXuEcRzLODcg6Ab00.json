@@ -1,11 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "Nour.M",
+      "author_url": "https://www.google.com/maps/contrib/110991129206870297454/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNGBcNy7u6OscRGTCO6smLgvstpmvZTbhkhzFPPm99CauDM8PCIw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786819565,
+      "translated": false
+    },
+    {
       "author_name": "Reem Bazzoii",
       "author_url": "https://www.google.com/maps/contrib/104151335082418389288/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYviPAVSaZvgOEyhGVmhlj-_3DovUOiFLsgLHnb5EXpyVPcg=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786187330,
+      "translated": false
+    },
+    {
+      "author_name": "Reem Bazzoii",
+      "author_url": "https://www.google.com/maps/contrib/104151335082418389288/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYviPAVSaZvgOEyhGVmhlj-_3DovUOiFLsgLHnb5EXpyVPcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1786187330,
       "translated": false
@@ -54,6 +74,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIe4cfhuAbMlTOSo5kuKFeN_Bln1yfXbjDQy_HQF1ahbDwUUQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Meine Cousine hatte einen Termin um 15:00 Uhr. Ich habe sie zur Praxis gefahren und wir mussten bis etwa 17:30 Uhr warten, bis die Ärztin überhaupt da war. Zwei Stunden Wartezeit trotz fest vereinbartem Termin sind absolut nicht akzeptabel. Es gab weder eine angemessene Information noch eine Entschuldigung.\n\nWenn eine Praxis ihre Termine nicht einhalten kann, sollte sie weniger Termine vergeben, statt mehr Patienten anzunehmen, als sie bewältigen kann. Die Zeit der Patienten – und auch der Begleitpersonen – sollte respektiert werden. Diese Organisation war sehr enttäuschend.",
+      "time": 1784301578,
+      "translated": false
+    },
+    {
+      "author_name": "Mohamad Baker",
+      "author_url": "https://www.google.com/maps/contrib/113836809076974717235/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIe4cfhuAbMlTOSo5kuKFeN_Bln1yfXbjDQy_HQF1ahbDwUUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Meine Cousine hatte einen Termin um 15:00 Uhr. Ich habe sie zur Praxis gefahren und wir mussten bis etwa 17:30 Uhr warten, bis die Ärztin überhaupt da war. Zwei Stunden Wartezeit trotz fest vereinbartem Termin sind absolut nicht akzeptabel. Es gab weder eine angemessene Information noch eine Entschuldigung.\n\nWenn eine Praxis ihre Termine nicht einhalten kann, sollte sie weniger Termine vergeben, statt mehr Patienten anzunehmen, als sie bewältigen kann. Die Zeit der Patienten – und auch der Begleitpersonen – sollte respektiert werden. Diese Organisation war sehr enttäuschend.",
       "time": 1784301578,
       "translated": false
@@ -854,11 +886,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 429,
+  "reviewCount": 430,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:40.876Z"
+  "lastUpdated": "2026-08-16T05:24:57.967Z"
 }

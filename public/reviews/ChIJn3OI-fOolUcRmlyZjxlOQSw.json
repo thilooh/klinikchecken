@@ -61,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "N. B.",
+      "author_url": "https://www.google.com/maps/contrib/105235448149111488066/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8l1UEPgxBHXZ2pFbtj_Fm7tmFSF3i3tDWPLIe0R6tt9jMTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war heute das erste Mal in der Praxis und wurde von Frau Dr. Nehrbauer untersucht. Habe mich sehr wohl gefühlt und vorallem verstanden. Sie hat sich sehr viel Zeit gelassen und meine Probleme auch ernst genommen. Außerdem war das Team im gesamten Haus auch sehr sympathisch. Fühle mich gut aufgehoben! Danke dafür :)",
+      "time": 1784318314,
+      "translated": false
+    },
+    {
       "author_name": "Christoph Bungert",
       "author_url": "https://www.google.com/maps/contrib/101288520443831131451/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1hwEYsWdAtqsxYEmFLlzai1up6DVN7PHzTnRlbDMvqVPbQQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr unfreundliche Dame am Telefon... hatten grade einen Termin machen wollen und wurden übelst angepampt!!!",
+      "time": 1784206334,
+      "translated": false
+    },
+    {
+      "author_name": "Christoph Bungert",
+      "author_url": "https://www.google.com/maps/contrib/101288520443831131451/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1hwEYsWdAtqsxYEmFLlzai1up6DVN7PHzTnRlbDMvqVPbQQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr unfreundliche Dame am Telefon... hatten grade einen Termin machen wollen und wurden übelst angepampt!!!",
       "time": 1784206334,
       "translated": false
@@ -830,5 +854,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-13T06:14:53.609Z"
+  "lastUpdated": "2026-08-16T05:25:10.103Z"
 }

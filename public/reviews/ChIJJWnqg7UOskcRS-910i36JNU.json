@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Stefanie Moeller",
+      "author_url": "https://www.google.com/maps/contrib/104887206571067279762/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrKAQDUPr8XUuBt_zg94FNPUvmwblxK2rd1McLcotSc79lbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nett, kompetent und auf Zack- wunderbar!",
+      "time": 1786641986,
+      "translated": false
+    },
+    {
       "author_name": "Ch. L.",
       "author_url": "https://www.google.com/maps/contrib/102112189855506723482/reviews",
       "language": "de",
@@ -1492,11 +1504,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2358,
+  "reviewCount": 2359,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-13T06:14:37.970Z"
+  "lastUpdated": "2026-08-16T05:24:55.209Z"
 }

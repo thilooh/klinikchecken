@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Elias",
+      "author_url": "https://www.google.com/maps/contrib/114958677131839423863/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt5RYTmLyeVVO1KdNwluaXSeCk-p0IB_buxcSVZsTHQQr9Ab4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Ärzte und sehr freundliches Personal",
+      "time": 1786790999,
+      "translated": false
+    },
+    {
       "author_name": "Emna",
       "author_url": "https://www.google.com/maps/contrib/103725840675122894554/reviews",
       "language": "de",
@@ -942,11 +954,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 246,
+  "reviewCount": 247,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:41.588Z"
+  "lastUpdated": "2026-08-16T05:24:58.672Z"
 }

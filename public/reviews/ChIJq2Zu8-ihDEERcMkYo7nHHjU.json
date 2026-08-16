@@ -149,6 +149,18 @@
       "translated": false
     },
     {
+      "author_name": "Lennart Thilmann",
+      "author_url": "https://www.google.com/maps/contrib/107129807118849498853/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUY_kyXTWrPNVfn4DmSS4vveHWmzg4y_7HIEUuVI0Aq1rJaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Super organisierte Praxis, sympathische und kompetente Beratung.\nAbsolut zu empfehlen!",
+      "time": 1784217337,
+      "translated": false
+    },
+    {
       "author_name": "Saso",
       "author_url": "https://www.google.com/maps/contrib/108522607092505751560/reviews",
       "language": "de",
@@ -192,6 +204,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUVeEaqAkFEoIBnCpPOmGPyd7rUMDXgoboKGnm5lyRiPUPjg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr enttäuschend. Ich hatte einen bestätigten Termin und stand vor einer geschlossenen Praxis. Erst nach meiner Nachfrage wurde mir gesagt, dass es ein Tippfehler gewesen sei. Für mich bedeutete das eine umsonstige Anfahrt und einen verlorenen Tag. So etwas sollte bei einer Terminvergabe nicht passieren. Ich hoffe, die Organisation wird verbessert",
+      "time": 1784125877,
+      "translated": false
+    },
+    {
+      "author_name": "Saso",
+      "author_url": "https://www.google.com/maps/contrib/108522607092505751560/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUVeEaqAkFEoIBnCpPOmGPyd7rUMDXgoboKGnm5lyRiPUPjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr enttäuschend. Ich hatte einen bestätigten Termin und stand vor einer geschlossenen Praxis. Erst nach meiner Nachfrage wurde mir gesagt, dass es ein Tippfehler gewesen sei. Für mich bedeutete das eine umsonstige Anfahrt und einen verlorenen Tag. So etwas sollte bei einer Terminvergabe nicht passieren. Ich hoffe, die Organisation wird verbessert",
       "time": 1784125877,
       "translated": false
@@ -1000,5 +1024,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-13T06:14:46.666Z"
+  "lastUpdated": "2026-08-16T05:25:03.550Z"
 }

@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "L. Wlbrg",
+      "author_url": "https://www.google.com/maps/contrib/116790378559788348570/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDzcyah4uVv23xiEUUMyTLNgbnYyE_OzI2r3a_FowOrNNmGA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Dr. Taucher hat sich sehr viel Zeit für mich genommen, war sehr verständnisvoll, hat mich umfassend untersucht sowie befragt und hat dabei eine sehr angenehme Atmosphäre geschaffen. Er hat mir alle Schritte sehr verständlich erklärt und mir konkrete Tipps an die Hand gegeben, die mir im Alltag weiterhelfen. Ich habe mich sehr wohl und gut beraten gefühlt, ich kann Herrn Dr. Taucher uneingeschränkt weiterempfehlen.",
+      "time": 1784296402,
+      "translated": false
+    },
+    {
       "author_name": "Lorraine Ri",
       "author_url": "https://www.google.com/maps/contrib/100501635047297097436/reviews",
       "language": "de",
@@ -116,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKy4JOfpes0XRXVaHsa529oZdXD9Fss1LnjlcYAO8e7tDP3gA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Sehr Langsam, schlecht organisiert, lange Wartezeit",
+      "time": 1776243708,
+      "translated": false
+    },
+    {
+      "author_name": "Lorraine Ri",
+      "author_url": "https://www.google.com/maps/contrib/100501635047297097436/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKy4JOfpes0XRXVaHsa529oZdXD9Fss1LnjlcYAO8e7tDP3gA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Sehr Langsam, schlecht organisiert, lange Wartezeit",
       "time": 1776243708,
       "translated": false
@@ -256,5 +280,5 @@
   "rating": 4.1,
   "reviewCount": 14,
   "summary": [],
-  "lastUpdated": "2026-08-13T06:14:30.074Z"
+  "lastUpdated": "2026-08-16T05:24:47.641Z"
 }

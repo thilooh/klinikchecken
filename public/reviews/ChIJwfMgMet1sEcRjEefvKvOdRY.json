@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Wolfgang Dittrich",
+      "author_url": "https://www.google.com/maps/contrib/106743989851989091641/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2sd_YcVwkNLMSW-Y-pVrDFpejQBGdFEIwVTn897rrN8iCuw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786655676,
+      "translated": false
+    },
+    {
       "author_name": "Sina",
       "author_url": "https://www.google.com/maps/contrib/107649455102600111822/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKfrjLBBv7Y_NupvPbjIYCIbSrj7jbOVjEwthoXT7HkqDBtg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit meinem ersten Besuch in dieser Praxis. Als Neupatient habe ich zeitnah einen Termin bekommen. Der Arzt (Hr. Sistani) war sehr kompetent, freundlich und hat sich Zeit für mein Anliegen genommen. Er hat all meine Fragen verständlich beantwortet und mir alles ausführlich erklärt. Ich habe mich von Anfang an gut aufgehoben gefühlt und bin froh, dass mein Anliegen ernst genommen wird und mir geholfen wird. Auch die Damen am Empfang waren sehr freundlich, herzlich und hilfsbereit, wodurch ich mich direkt willkommen gefühlt habe. Insgesamt eine tolle Praxis, die ich uneingeschränkt weiterempfehlen kann!\nDie längere Fahrt hat sich definitiv gelohnt!",
+      "time": 1786016322,
+      "translated": false
+    },
+    {
+      "author_name": "boutaina thabti",
+      "author_url": "https://www.google.com/maps/contrib/110593468731399173211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKfrjLBBv7Y_NupvPbjIYCIbSrj7jbOVjEwthoXT7HkqDBtg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin sehr zufrieden mit meinem ersten Besuch in dieser Praxis. Als Neupatient habe ich zeitnah einen Termin bekommen. Der Arzt (Hr. Sistani) war sehr kompetent, freundlich und hat sich Zeit für mein Anliegen genommen. Er hat all meine Fragen verständlich beantwortet und mir alles ausführlich erklärt. Ich habe mich von Anfang an gut aufgehoben gefühlt und bin froh, dass mein Anliegen ernst genommen wird und mir geholfen wird. Auch die Damen am Empfang waren sehr freundlich, herzlich und hilfsbereit, wodurch ich mich direkt willkommen gefühlt habe. Insgesamt eine tolle Praxis, die ich uneingeschränkt weiterempfehlen kann!\nDie längere Fahrt hat sich definitiv gelohnt!",
       "time": 1786016322,
       "translated": false
@@ -994,11 +1016,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 166,
+  "reviewCount": 167,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:34.616Z"
+  "lastUpdated": "2026-08-16T05:24:51.955Z"
 }

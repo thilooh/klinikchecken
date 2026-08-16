@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ramis Misirli",
+      "author_url": "https://www.google.com/maps/contrib/112394421904782366745/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3SRVMOcwxFuDhsN54JADC7m4e9VanvMVCaRFtYdHiYugslcsA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786729456,
+      "translated": false
+    },
+    {
       "author_name": "Alexander Brichta",
       "author_url": "https://www.google.com/maps/contrib/101454256061344758847/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIjC6zBLOKVkCapZVyqEkzxkqrC1uqs6VFWzhNLYOgcrdhqL4a=s128-c0x00000000-cc-rp-mo-ba5",
@@ -1078,11 +1088,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 206,
+  "reviewCount": 207,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:15:06.206Z"
+  "lastUpdated": "2026-08-16T05:25:22.162Z"
 }

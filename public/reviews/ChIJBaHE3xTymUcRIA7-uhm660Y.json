@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Witta Kaiser",
+      "author_url": "https://www.google.com/maps/contrib/104855219697712050245/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4mD5W2rI8Os6e2eje9UyfjFqSY2C81gzSW3FumWGUw0oVHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "In der Praxis nimmt man sich Zeit für die Patienten. Die Mitarbeiter sind kompetent und freundlich!",
+      "time": 1786694761,
+      "translated": false
+    },
+    {
       "author_name": "Ursula Eberhart",
       "author_url": "https://www.google.com/maps/contrib/100642243176543810267/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeM8KHSbu1MPWbPTIcMFxJYTQW8X2MLtZTocZxqCOHzfYVyw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin sehr zufrieden mit meiner Behandlung. Herr Matoshi ist ein sehr kompetenter und freundlicher Arzt. Ich habe mich während der gesamten Behandlung jederzeit wohl und sicher gefühlt. Die Operation verlief sehr gut. Auch das gesamte Team war immer sehr freundlich, nett und hilfsbereit. Vielen Dank für die tolle Betreuung - ich kann die Praxis nur weiterempfehlen!",
+      "time": 1784882214,
+      "translated": false
+    },
+    {
+      "author_name": "Albina Sylaj",
+      "author_url": "https://www.google.com/maps/contrib/114018727066772195596/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeM8KHSbu1MPWbPTIcMFxJYTQW8X2MLtZTocZxqCOHzfYVyw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin sehr zufrieden mit meiner Behandlung. Herr Matoshi ist ein sehr kompetenter und freundlicher Arzt. Ich habe mich während der gesamten Behandlung jederzeit wohl und sicher gefühlt. Die Operation verlief sehr gut. Auch das gesamte Team war immer sehr freundlich, nett und hilfsbereit. Vielen Dank für die tolle Betreuung - ich kann die Praxis nur weiterempfehlen!",
       "time": 1784882214,
       "translated": false
@@ -684,11 +708,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 106,
+  "reviewCount": 107,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:15:08.656Z"
+  "lastUpdated": "2026-08-16T05:25:24.539Z"
 }

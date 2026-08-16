@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Florin Antochi",
+      "author_url": "https://www.google.com/maps/contrib/111988835344762489389/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUqJDPcuy5WSoVexkmAgV6_wJ2YDqogOBuf47AxGKJyg2eUEXU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Das gesamte Praxisteam ist sehr freundlich und top organisiert. Die Ärztin ist äußerst professionell, empathisch und nimmt sich die nötige Zeit, um alles im Detail zu erklären.",
+      "time": 1785439680,
+      "translated": false
+    },
+    {
       "author_name": "Miriam Divya",
       "author_url": "https://www.google.com/maps/contrib/104359904873376900170/reviews",
       "language": "en",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0MOB21QDGJmkv0Jwwmox4GnbjKpEOZbuW3MsJBzvi_hWZ8GplwQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich habe online einen Termin gebucht, der storniert wurde, weil ich während eines meiner Termine einen Anruf nicht entgegengenommen habe. Daraufhin habe ich telefonisch einen neuen Termin vereinbart. Die Rezeption hat dies nicht vermerkt und mir am Tag des Termins mitgeteilt, dass ich keinen Termin hätte. Nachdem ich darauf bestanden hatte, einen Termin zu haben, und erklärt hatte, wie unprofessionell das war, bekam ich nach etwa anderthalb Stunden Wartezeit einen überstürzten Termin von kaum 15 Minuten. Nun erhalte ich eine Rechnung über 149 Euro, davon über 16 Euro für „ärztliche Beratung erhöhten Zeitaufwand“ und über 32 Euro für eine „Untersuchung“, die praktisch nicht stattgefunden hat. Anscheinend bin ich die Einzige, der das passiert ist. Ich kann nur vermuten, dass die Praxis deutsche Patienten bevorzugt.",
+      "time": 1784899799,
+      "translated": true
+    },
+    {
+      "author_name": "Miriam Divya",
+      "author_url": "https://www.google.com/maps/contrib/104359904873376900170/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0MOB21QDGJmkv0Jwwmox4GnbjKpEOZbuW3MsJBzvi_hWZ8GplwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich habe online einen Termin gebucht, der storniert wurde, weil ich während eines meiner Termine einen Anruf nicht entgegengenommen habe. Daraufhin habe ich telefonisch einen neuen Termin vereinbart. Die Rezeption hat dies nicht vermerkt und mir am Tag des Termins mitgeteilt, dass ich keinen Termin hätte. Nachdem ich darauf bestanden hatte, einen Termin zu haben, und erklärt hatte, wie unprofessionell das war, bekam ich nach etwa anderthalb Stunden Wartezeit einen überstürzten Termin von kaum 15 Minuten. Nun erhalte ich eine Rechnung über 149 Euro, davon über 16 Euro für „ärztliche Beratung erhöhten Zeitaufwand“ und über 32 Euro für eine „Untersuchung“, die praktisch nicht stattgefunden hat. Anscheinend bin ich die Einzige, der das passiert ist. Ich kann nur vermuten, dass die Praxis deutsche Patienten bevorzugt.",
       "time": 1784899799,
       "translated": true
@@ -620,5 +644,5 @@
   "rating": 4.5,
   "reviewCount": 118,
   "summary": [],
-  "lastUpdated": "2026-08-13T06:14:29.598Z"
+  "lastUpdated": "2026-08-16T05:24:47.196Z"
 }

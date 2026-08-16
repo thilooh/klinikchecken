@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "M SK",
+      "author_url": "https://www.google.com/maps/contrib/113211055476555779438/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKp2JicoOk2PL5wm9Zk7vvX3F_cKZq9OXpZNcYxnMhdlMlOMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Thönnes ist wirklich sehr nett und einfühlsam. Trotz einer durchaus unangenehmen Behandlung habe ich mir bei ihr sehr wohl gefühlt.\nDie medizinischen Fachangestellten sind größtenteils freundlich es wirkte alles gut organisiert und es gab kaum Wartezeit.\nEinen Stern Abzug gibt es nur weil die Praxis dringend einmal modernisiert werden müsste.",
+      "time": 1786823408,
+      "translated": false
+    },
+    {
+      "author_name": "Kris Beer",
+      "author_url": "https://www.google.com/maps/contrib/110260082048278426214/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKczmLXSU5rpaxWka8ucEhxW3QOvvawwLuWiXnmjAbs7L7-dA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin bei 2 von 2 Besuchen jedes Mal einfach positiv überrascht worden- eine langjährig angefragte Therapie, bei der ich von Ärzten immer wieder abgelehnt wurde, war hier sofort auf Anraten der Ärztin als Neurodermitikerin seit Kleinkind an gegeben.",
+      "time": 1786709585,
+      "translated": false
+    },
+    {
+      "author_name": "Erwin Staerk",
+      "author_url": "https://www.google.com/maps/contrib/103987462541333024462/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKS8poeGqWl9AmSf5NeLEd3L-2aSnD9WvA0vjvQwkx1tO6LyA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundlich Mitarbeiter, hilfsbereit gute Ärzte",
+      "time": 1786645600,
+      "translated": false
+    },
+    {
+      "author_name": "Birgit Peppelinski",
+      "author_url": "https://www.google.com/maps/contrib/110393034368965103154/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKf2l31Mbilp524zVf2LCO7GhLrtSONkJmyeaKOlhFzS4C_XA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundliches Team einschließlich der Ärzte.Mir wurde immer gut geholfen",
+      "time": 1786641391,
+      "translated": false
+    },
+    {
+      "author_name": "Marc Hinzmann",
+      "author_url": "https://www.google.com/maps/contrib/101237672938129096300/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUR9C-5xE8Ngvpgq0aj9DhdY--e4ShZfdPRyRlUYModuhTP6og9KA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes und professionelles Team.\n\nIch hatte eine Routine-OP, die eigentlich nur 20 Minuten dauern sollte und dann durch Komplikationen ca. 1,5 Stunden gedauert hat, aufgrund unvorhersehbarer Fehler anderer Ärzte.\n\nAlle Beteiligten sind die gesamte Zeit professionell geblieben und haben alle Herausforderungen gemeistert. Ich habe mich keinen Moment in schlechten Händen gefühlt und bin dankbar, dass ihr wegen mir Überstunden gemacht habt.\n\nGrundsätzlich ist die gesamte Praxis sehr gut strukturiert und geplant.\nWer einen Termin hat, muss nicht warten.\n\nSehr empfehlenswert. Danke für eure Mühen!",
+      "time": 1786639123,
+      "translated": false
+    },
+    {
       "author_name": "Mostafa Shokrollah Mirzaei",
       "author_url": "https://www.google.com/maps/contrib/110317769332413456967/reviews",
       "language": "de",
@@ -1120,11 +1180,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 383,
+  "reviewCount": 390,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:56.348Z"
+  "lastUpdated": "2026-08-16T05:25:12.767Z"
 }

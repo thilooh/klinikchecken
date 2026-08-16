@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marc",
+      "author_url": "https://www.google.com/maps/contrib/110829147157618640922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI83pG8CW-DPXW0vi559xjiJAQWAWMRimlwfVgafsiNWXXYDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Persönlich nicht zu empfehlen",
+      "time": 1786694361,
+      "translated": false
+    },
+    {
       "author_name": "Markus Zuschlag",
       "author_url": "https://www.google.com/maps/contrib/113078330307259364704/reviews",
       "language": "de",
@@ -1050,7 +1062,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 321,
+  "reviewCount": 322,
   "summary": [],
-  "lastUpdated": "2026-08-13T06:14:33.184Z"
+  "lastUpdated": "2026-08-16T05:24:50.570Z"
 }

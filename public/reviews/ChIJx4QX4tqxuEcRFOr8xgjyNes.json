@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ioana Herisanu",
+      "author_url": "https://www.google.com/maps/contrib/101407237676137583865/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKc97Ii5zPH-0MOSz8uMmKxP_29hr2XMuG94dcI2NiQKp2S4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786621917,
+      "translated": false
+    },
+    {
       "author_name": "Michael Kisters",
       "author_url": "https://www.google.com/maps/contrib/100401114523505468959/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2DwKZB2nCoCWxx1MM7sgk4pgovYMfRjy7kFWOTX6cUcpkeg=s128-c0x00000000-cc-rp-mo",
@@ -66,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGhqmHE2-S0jvqHQHPP77dmtKdyI9jAASlAEN4SPgTvaAQCD8=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundlich und fachlich sehr gut. Konnte schnell und unkompliziert feststellen und helfen",
+      "time": 1784197538,
+      "translated": false
+    },
+    {
+      "author_name": "Karsten Sabel",
+      "author_url": "https://www.google.com/maps/contrib/111578385444157784629/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGhqmHE2-S0jvqHQHPP77dmtKdyI9jAASlAEN4SPgTvaAQCD8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr freundlich und fachlich sehr gut. Konnte schnell und unkompliziert feststellen und helfen",
       "time": 1784197538,
       "translated": false
@@ -692,11 +714,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 82,
+  "reviewCount": 83,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-13T06:14:57.076Z"
+  "lastUpdated": "2026-08-16T05:25:13.452Z"
 }

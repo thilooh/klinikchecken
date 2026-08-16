@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andrea Spilker",
+      "author_url": "https://www.google.com/maps/contrib/110311293136508608939/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRWVJU-8Tg3jjmG1rNEc92Ptr_jBM2CVNS8ryZ8MIjWudAMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schick, modern, alles sehr neuwertig\nLeider geht der Tresor nicht ,um Wertgegenstände einzuschließen",
+      "time": 1786601621,
+      "translated": false
+    },
+    {
       "author_name": "Sven KUNZE",
       "author_url": "https://www.google.com/maps/contrib/109705040285651795478/reviews",
       "language": "de",
@@ -42,6 +54,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMWQ9PrHJiLeFFzhlEOg75RCTpV7fAcvdlMPo_5arHXy6RFw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786228567,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Backhaus",
+      "author_url": "https://www.google.com/maps/contrib/116557236436561995608/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMWQ9PrHJiLeFFzhlEOg75RCTpV7fAcvdlMPo_5arHXy6RFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1786228567,
       "translated": false
@@ -1106,11 +1128,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 472,
+  "reviewCount": 473,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-13T06:14:37.221Z"
+  "lastUpdated": "2026-08-16T05:24:54.509Z"
 }

@@ -127,6 +127,18 @@
       "translated": false
     },
     {
+      "author_name": "R G",
+      "author_url": "https://www.google.com/maps/contrib/111993057989328048528/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj2C-fvEGjIq9aRf9V8oBMMDArXKFwQhznjMKxdoI3hDiffw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Hatte einen Termin über Doclib gebucht und halbes Jahr gewartet. Dann standen ich vor der Tür der Praxis und musste lesen, dass die im Urlaub sind.\nWie soll das funktionieren, wenn ich noch niemals Bescheid bekomme.",
+      "time": 1784893076,
+      "translated": false
+    },
+    {
       "author_name": "wlad klipp",
       "author_url": "https://www.google.com/maps/contrib/105787982614570423350/reviews",
       "language": "ru",
@@ -182,6 +194,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyFZtezZfycAVS24pmcVPvQM-meNCHVs2LJEIrcCRtLlCjmGA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Alles war super, das Personal war freundlich, der Arzt war toll, alles lief perfekt. Der Termin hat geklappt!",
+      "time": 1784149004,
+      "translated": true
+    },
+    {
+      "author_name": "wlad klipp",
+      "author_url": "https://www.google.com/maps/contrib/105787982614570423350/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyFZtezZfycAVS24pmcVPvQM-meNCHVs2LJEIrcCRtLlCjmGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Alles war super, das Personal war freundlich, der Arzt war toll, alles lief perfekt. Der Termin hat geklappt!",
       "time": 1784149004,
       "translated": true
@@ -938,5 +962,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:38.947Z"
+  "lastUpdated": "2026-08-16T05:24:56.109Z"
 }

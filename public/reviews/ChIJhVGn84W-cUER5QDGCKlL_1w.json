@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Hilde Lüpges",
+      "author_url": "https://www.google.com/maps/contrib/108320378873537353359/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWBLRCy_Yz5-fuUip4IP3qFr8dCWmvuDVdYvCsXoy1Ixv6Jg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786711097,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammed Twir",
+      "author_url": "https://www.google.com/maps/contrib/105274941353886036937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTTV-zDWfU_i06iK_eYdD9wiyb62w94K5JQk_gmsCW8zpx3mzY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Herrn Dr. Shadi Sabi und bin sehr zufrieden. Die Mitarbeiterinnen sind sehr freundlich und hilfsbereit. Die Wartezeit war sehr kurz und die Praxis ist sehr sauber und gepflegt. Auch die Behandlung war sehr angenehm und professionell. Ich habe mich gut aufgehoben gefühlt und kann die Praxis auf jeden Fall weiterempfehlen. Vielen Dank",
+      "time": 1786623869,
+      "translated": false
+    },
+    {
       "author_name": "Marianne Bargsten",
       "author_url": "https://www.google.com/maps/contrib/109749688125145997018/reviews",
       "language": "de",
@@ -248,6 +270,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZotYdzsucnrINHC2Iy4861ok0mG0PqV8Nx1Sf5RuOsgm6QUU=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Der Arzt hat eine akute Thrombose ausgeschlossen – für mein eigentliches Problem, dass der Arm beim Hängenlassen blau anläuft, wurde allerdings kein Ultraschall im Sitzen/unter Belastung gemacht. Dabei wurde mir in der Notaufnahme extra geraten, einen Gefäßchirurg aufzusuchen, damit dieser einen dynamischen Doppler-Ultraschall durchführen kann. Stattdessen lief es darauf hinaus, dass man das hier nicht weiter untersuchen könne, ich müsse dafür in ein fachgerichtetes Krankenhaus. Eine Überweisung hierfür habe ich aber nicht bekommen, was der Hauptgrund für meine Enttäuschung ist. Andrerseits hat sich der Arzt Zeit genommen, wirkte freundlich und hat auch versucht mir seinen Standpunkt deutlich zu machen. Ich vermute daher mal, dass mein Fall zu kompliziert war, dennoch hätte man auf die Empfehlung des Krankenhausarztes eingehen können anstatt sich nur auf das gängige Schema (Arm heben, Puls testen) zu verlassen und mich ohne Überweisung \"weiterzuschicken\" bzw im Kreis zu schicken.\n\nPs: Ich habe als Beweis meine Buchungsbestätigung (der Termin hat laut dieser auch normal stattgefunden) sowie Fotos vom Tag des Termins innerhalb der Praxis. ich war also wirklich Patientin 💪🏻",
+      "time": 1781537854,
+      "translated": false
+    },
+    {
+      "author_name": "Angie (beautycolor)",
+      "author_url": "https://www.google.com/maps/contrib/104557612866013568958/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZotYdzsucnrINHC2Iy4861ok0mG0PqV8Nx1Sf5RuOsgm6QUU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Der Arzt hat eine akute Thrombose ausgeschlossen – für mein eigentliches Problem, dass der Arm beim Hängenlassen blau anläuft, wurde allerdings kein Ultraschall im Sitzen/unter Belastung gemacht. Dabei wurde mir in der Notaufnahme extra geraten, einen Gefäßchirurg aufzusuchen, damit dieser einen dynamischen Doppler-Ultraschall durchführen kann. Stattdessen lief es darauf hinaus, dass man das hier nicht weiter untersuchen könne, ich müsse dafür in ein fachgerichtetes Krankenhaus. Eine Überweisung hierfür habe ich aber nicht bekommen, was der Hauptgrund für meine Enttäuschung ist. Andrerseits hat sich der Arzt Zeit genommen, wirkte freundlich und hat auch versucht mir seinen Standpunkt deutlich zu machen. Ich vermute daher mal, dass mein Fall zu kompliziert war, dennoch hätte man auf die Empfehlung des Krankenhausarztes eingehen können anstatt sich nur auf das gängige Schema (Arm heben, Puls testen) zu verlassen und mich ohne Überweisung \"weiterzuschicken\" bzw im Kreis zu schicken.\n\nPs: Ich habe als Beweis meine Buchungsbestätigung (der Termin hat laut dieser auch normal stattgefunden) sowie Fotos vom Tag des Termins innerhalb der Praxis. ich war also wirklich Patientin 💪🏻",
       "time": 1781537854,
       "translated": false
@@ -644,11 +678,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 79,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:55.291Z"
+  "lastUpdated": "2026-08-16T05:25:11.749Z"
 }

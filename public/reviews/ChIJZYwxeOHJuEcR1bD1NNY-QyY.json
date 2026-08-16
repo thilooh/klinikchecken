@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Lothar Münzenthaler",
+      "author_url": "https://www.google.com/maps/contrib/103982984357841922319/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_NHRpnI6kzE4zCI0BKppIBqNyx2J70Zgfoc5MWCDXCTxbxbyC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786697846,
+      "translated": false
+    },
+    {
       "author_name": "Emily Jordan",
       "author_url": "https://www.google.com/maps/contrib/112878576843370826051/reviews",
       "language": "de",
@@ -92,6 +102,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoWUQMbDHtxSyR1lvXzy4W9Rol-tJutbYKHC3a_vzidq8NHA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war heute zum zweiten Mal in dieser Praxis und bin erneut sehr enttäuscht – insbesondere von Herrn Mohammed.\n\nIch hatte bereits in einer anderen Hautarztpraxis ein deutlich größeres Muttermal entfernen lassen. Der Eingriff verlief problemlos und ist vollständig narbenfrei verheilt. Dieses Mal wollte ich ein wesentlich kleineres Muttermal entfernen lassen, da es sich innerhalb kurzer Zeit verändert hat und ich aufgrund meiner Vorgeschichte auf Nummer sicher gehen wollte.\n\nLeider wurde ich mit meinen Sorgen überhaupt nicht ernst genommen. Die Beratung wirkte auf mich lustlos, desinteressiert und wenig einfühlsam. Während des gesamten Gesprächs hatte ich nicht das Gefühl, dass auf meine Bedenken eingegangen wurde. Stattdessen hatte ich den Eindruck, dass der Arzt den Eingriff möglichst vermeiden wollte.\n\nBesonders irritiert hat mich, dass mir bei einem deutlich kleineren Muttermal erklärt wurde, eine sichtbare Narbe sei unvermeidbar und der Bereich müsse genäht werden. Als ich schilderte, dass bei einem wesentlich größeren Muttermal in einer anderen Praxis eine narbenfreie Entfernung möglich war, wurde darauf kaum eingegangen. Dadurch entstand bei mir der Eindruck, dass meine individuelle Situation nicht ernsthaft beurteilt wurde. Insgesamt hatte ich leider kein Vertrauen in die fachliche Einschätzung und fühlte mich nicht gut aufgehoben.\n\nNach meinem Besuch habe ich die Google-Bewertungen gelesen und festgestellt, dass mehrere Patienten ähnliche Erfahrungen mit diesem Arzt schildern. Das lässt mich ehrlich gesagt fragen, warum sich an dieser Situation offenbar nichts ändert.\n\nGerade wenn sich ein Muttermal verändert und bereits eine Vorgeschichte mit einem Hautkrebsverdacht besteht, erwartet man eine sorgfältige Untersuchung, eine verständliche Beratung und das Gefühl, ernst genommen zu werden. All das habe ich in dieser Praxis leider vermisst.\n\nFür mich war das definitiv der letzte Besuch! Ich kann diese Praxis beziehungsweise Herrn Mohammed nicht weiterempfehlen.",
+      "time": 1784875980,
+      "translated": false
+    },
+    {
+      "author_name": "R. Ismail",
+      "author_url": "https://www.google.com/maps/contrib/101377445771046023967/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoWUQMbDHtxSyR1lvXzy4W9Rol-tJutbYKHC3a_vzidq8NHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war heute zum zweiten Mal in dieser Praxis und bin erneut sehr enttäuscht – insbesondere von Herrn Mohammed.\n\nIch hatte bereits in einer anderen Hautarztpraxis ein deutlich größeres Muttermal entfernen lassen. Der Eingriff verlief problemlos und ist vollständig narbenfrei verheilt. Dieses Mal wollte ich ein wesentlich kleineres Muttermal entfernen lassen, da es sich innerhalb kurzer Zeit verändert hat und ich aufgrund meiner Vorgeschichte auf Nummer sicher gehen wollte.\n\nLeider wurde ich mit meinen Sorgen überhaupt nicht ernst genommen. Die Beratung wirkte auf mich lustlos, desinteressiert und wenig einfühlsam. Während des gesamten Gesprächs hatte ich nicht das Gefühl, dass auf meine Bedenken eingegangen wurde. Stattdessen hatte ich den Eindruck, dass der Arzt den Eingriff möglichst vermeiden wollte.\n\nBesonders irritiert hat mich, dass mir bei einem deutlich kleineren Muttermal erklärt wurde, eine sichtbare Narbe sei unvermeidbar und der Bereich müsse genäht werden. Als ich schilderte, dass bei einem wesentlich größeren Muttermal in einer anderen Praxis eine narbenfreie Entfernung möglich war, wurde darauf kaum eingegangen. Dadurch entstand bei mir der Eindruck, dass meine individuelle Situation nicht ernsthaft beurteilt wurde. Insgesamt hatte ich leider kein Vertrauen in die fachliche Einschätzung und fühlte mich nicht gut aufgehoben.\n\nNach meinem Besuch habe ich die Google-Bewertungen gelesen und festgestellt, dass mehrere Patienten ähnliche Erfahrungen mit diesem Arzt schildern. Das lässt mich ehrlich gesagt fragen, warum sich an dieser Situation offenbar nichts ändert.\n\nGerade wenn sich ein Muttermal verändert und bereits eine Vorgeschichte mit einem Hautkrebsverdacht besteht, erwartet man eine sorgfältige Untersuchung, eine verständliche Beratung und das Gefühl, ernst genommen zu werden. All das habe ich in dieser Praxis leider vermisst.\n\nFür mich war das definitiv der letzte Besuch! Ich kann diese Praxis beziehungsweise Herrn Mohammed nicht weiterempfehlen.",
       "time": 1784875980,
       "translated": false
@@ -829,7 +851,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 98,
+  "reviewCount": 99,
   "summary": [],
-  "lastUpdated": "2026-08-13T06:14:26.122Z"
+  "lastUpdated": "2026-08-16T05:24:44.018Z"
 }

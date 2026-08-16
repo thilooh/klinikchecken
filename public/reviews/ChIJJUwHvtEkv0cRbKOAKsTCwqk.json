@@ -69,6 +69,18 @@
       "translated": false
     },
     {
+      "author_name": "Scotty",
+      "author_url": "https://www.google.com/maps/contrib/108872855014064635465/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ6FErI8qNZttjcB6u0iWKVjP34skOAS2VJuks1lbbUzdD5A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Top Praxis, gutes Angebot, Termine ok, parken mit etwas Glück direkt vor der Tür",
+      "time": 1785442815,
+      "translated": false
+    },
+    {
       "author_name": "Hasret Dursun",
       "author_url": "https://www.google.com/maps/contrib/113249327233766485393/reviews",
       "language": "de",
@@ -473,5 +485,5 @@
   "rating": 4.8,
   "reviewCount": 78,
   "summary": [],
-  "lastUpdated": "2026-08-13T06:14:23.907Z"
+  "lastUpdated": "2026-08-16T05:24:42.142Z"
 }

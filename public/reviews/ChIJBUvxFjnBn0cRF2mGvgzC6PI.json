@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gloria Figueroa",
+      "author_url": "https://www.google.com/maps/contrib/111253651103017024449/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyNls4j6-sJl-PVw5J88knmBiy2nqjpnqxf--80u43IXGA4g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine absolut herausragende Erfahrung! Wir sind extra aus München angereist, um diese Klinik zu besuchen, und es hat sich absolut gelohnt.\n\nDr. med. Rashmi Singh war unglaublich aufmerksam, gründlich und professionell. Sie nahm sich die Zeit, zuzuhören, die Situation genau zu verstehen und alle Behandlungsoptionen detailliert zu erklären. Anders als bei vielen anderen Terminen, bei denen man sich gehetzt fühlt, hatten wir hier nie dieses Gefühl.\n\nSie führte verschiedene Tests durch, darunter Bluttests, einen Pilztest und eine Hautuntersuchung, um sich ein umfassendes Bild zu machen, bevor sie die passende Behandlung festlegte.\n\nDer Termin dauerte etwa 30–40 Minuten, und Dr. Singh beantwortete alle unsere Fragen und stellte sicher, dass wir keine Bedenken mehr hatten, bevor wir gingen. Ihre Detailgenauigkeit und ihre aufrichtige Fürsorge machten einen großen Unterschied.\n\nWir sind mit der Erfahrung äußerst zufrieden und sehr dankbar für die Zeit und die Fürsorge, die Dr. Singh uns entgegengebracht hat. Ich kann Dr. med. Rashmi Singh und diese Klinik wärmstens empfehlen, insbesondere allen, die einen Dermatologen suchen, der sich wirklich Zeit für seine Patienten nimmt.",
+      "time": 1786658438,
+      "translated": true
+    },
+    {
       "author_name": "Nina Neumann-Ziegler",
       "author_url": "https://www.google.com/maps/contrib/116566404981690709393/reviews",
       "language": "de",
@@ -38,6 +50,18 @@
     },
     {
       "author_name": "Nina Neumann-Ziegler",
+      "author_url": "https://www.google.com/maps/contrib/116566404981690709393/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3mw0W_RzTsq7ol2czd_Bn7rgRCAPTOghPH7M0_RnqrBbtjFY9=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "Leider war eine Anfahrt von 90 km einfach völlig umsonst, dank der falschen telefonischen Beratung. Wir erkundigten uns zuvor telefonisch, ob eine Behandlung aufgrund des Versicherungsstatus möglich sei... vor Ort wurden wir dann wieder nach Hause geschickt, da die Beratung nicht richtig war.",
+      "time": 1783415702,
+      "translated": false
+    },
+    {
+      "author_name": "Nina Ziegler",
       "author_url": "https://www.google.com/maps/contrib/116566404981690709393/reviews",
       "language": "de",
       "original_language": "de",
@@ -518,11 +542,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 53,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-13T06:14:47.683Z"
+  "lastUpdated": "2026-08-16T05:25:04.485Z"
 }

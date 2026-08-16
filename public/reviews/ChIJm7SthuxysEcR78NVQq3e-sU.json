@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Markus Tiegtmeier",
+      "author_url": "https://www.google.com/maps/contrib/107904506397669195033/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkq6g-gl9RwwYjqZ6fZsQDQhJdz76hIybbot3Aw9XpHR8-Gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann niemandem empfehlen diese Praxis aufzusuchen!!!!! Der Arzt war sehr hektisch, pampig, unfreundlich, unprofessionell und leider auch kein Fachmann. Wurde innerhalb 2 min quasi fast schon aus dem Sprechzimmer geworfen. Das schlimmste ist aber das mein Hautkrebs von dem sogenannten Facharzt nicht erkannt wurde, schlichtweg weil er es sich nicht angucken wollte und ihn nicht interessiert hat. Ich werde natürlich auch Beschwerde bei der KV einreichen.",
+      "time": 1786751216,
+      "translated": false
+    },
+    {
+      "author_name": "Richard",
+      "author_url": "https://www.google.com/maps/contrib/109165764589674374599/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSppwXX9y23g9kbbecRAMoDmA5sA6grADRF6isGguvAj2OEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die guten Bewertungen nicht verstehen, vielleicht hatte ich auch Pech mit dem Arzt. Das war die schlechteste Arzt Erfahrung meines Lebens. 4 Monate auf den Termin gewartet damit der Arzt kaum verständlich im extrem schlechten gebrochen deutsch hektisch ruft machen sie hin ich habe keine Zeit. Hat sich die Probleme nicht mal angeschaut und mich abgewimmelt bei Diagnosen die von 4 weiteren Fachärzten bestätigt worden sind. Keule Verordnung nichts. Nach 1 min war er bereits wieder weg. Nur Lebenszeit geraubte.",
+      "time": 1786708052,
+      "translated": false
+    },
+    {
+      "author_name": "Tünde Varga",
+      "author_url": "https://www.google.com/maps/contrib/110966870500451147994/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN-SutSb_yJpy4-EBRmBXN-Fxp2aiIk8RcHRYvcP9QQQ_PN6r_sQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Am 12.08.2026 hatte ich um 13:30 Uhr einen Termin bei Ihnen, da ich einen Behandlungsplan für meine Rosazea im Gesicht erhalten wollte.\n\nUm 13:50 Uhr wurde ich aufgerufen. Das wäre für mich kein Problem gewesen, denn ich habe Verständnis dafür, dass ich nicht die einzige Patientin mit einem Problem bin. Als wir jedoch gemeinsam mit einem Freund den Behandlungsraum betraten, schaute der Arzt mich nur kurz an und ab diesem Moment kamen wir kaum zu Wort. Statt sich mein Hautbild genauer anzusehen oder mir einen individuellen Behandlungsplan zu erklären, versuchte er ständig, mir ein 700-Euro-Paket zu verkaufen, das aus einer Kombination verschiedener hautverjüngender Behandlungen bestand.\n\nUngefähr fünfmal erwähnte er außerdem, dass das Gerät 250.000 € koste und dass es sich bei dem Angebot um eine großartige Gelegenheit handle.\n\nZunächst dachte ich, dass er mich vielleicht nicht ernst nimmt, weil wir uns auf Englisch verständigten. Ich hatte jedoch Unterstützung auf Deutsch und habe diese sogar telefonisch hinzugezogen. Leider konnte ich auch dadurch keine konkreten Informationen über meine Rosazea oder eine geeignete Behandlung erhalten.\n\nDer Arzt wirkte während des gesamten Gesprächs äußerst hektisch und unruhig. Er war ständig in Bewegung, verließ zwischendurch den Untersuchungsraum und kam wieder zurück. Anschließend teilte er uns mit, dass nun Feierabend sei und alle nach Hause gehen würden.\n\nWir verließen daraufhin die Praxis und ich bezahlte 50 € – für eine Leistung, aus meiner Sicht, ohne wirkliche Beratung oder Behandlungsempfehlung.\n\nIch werde diese Praxis definitiv kein zweites Mal besuchen und kann sie aufgrund dieser Erfahrung auch niemandem empfehlen.\n\nEs ist für mich sehr enttäuschend und traurig, wie ich als Patientin behandelt wurde. Ich hatte mir eine ernsthafte Beratung und einen konkreten Behandlungsplan für meine Rosazea erhofft. Stattdessen hatte ich den Eindruck, dass es hauptsächlich darum ging, mir ein teures Behandlungspaket zu verkaufen.",
+      "time": 1786617893,
+      "translated": false
+    },
+    {
       "author_name": "Sassia Ayachi",
       "author_url": "https://www.google.com/maps/contrib/112668803787045847659/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOkdrosoqLGRpeY7IZH24vA7j3rC6UeT40C-43C1RtfQXQQw=s128-c0x00000000-cc-rp-mo",
@@ -1112,11 +1148,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 266,
+  "reviewCount": 269,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-13T06:14:34.139Z"
+  "lastUpdated": "2026-08-16T05:24:51.504Z"
 }

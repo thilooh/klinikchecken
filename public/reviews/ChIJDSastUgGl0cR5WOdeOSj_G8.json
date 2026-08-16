@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Fábio Ferreira",
+      "author_url": "https://www.google.com/maps/contrib/106417594813467378977/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3l0TMcVMnhJFOMA4643XXxp_Ncaz7e9Dj7aL7StpLvi_QCX6tAw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Praxis ist kompletter Scam: telefonisch ist niemand zu erreichen (man hängt ewig in der Warteschlange und dann wird man rausgeworfen). Wenn man Praxis erreicht, wird auf Terminvergabe über Doctolib verwiesen: dort gibt es entweder keine freien Termine (zB Hautkrebsscreening) oder man wird per Nachricht abgespeist man soll einen Termin über Doctolib machen. Wenn es dort aber keine Termine gibt, wäre es nicht besser zu sagen, dass man als Praxis ausgelastet ist?",
+      "time": 1786693362,
+      "translated": false
+    },
+    {
+      "author_name": "Nathalie",
+      "author_url": "https://www.google.com/maps/contrib/111143264039624010674/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwfMctJHqSxqcy55gNvjOFur9xgStimbYzm0U7TRMiFsdbsEaNJw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786617420,
+      "translated": false
+    },
+    {
       "author_name": "Marco Bühler",
       "author_url": "https://www.google.com/maps/contrib/112159634318577805427/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLft5HOpud0TSjEwkMp2jsPELiWTXW_3QwfGHeCWdHbgYsMmQ=s128-c0x00000000-cc-rp-mo-ba5",
@@ -1040,11 +1062,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 236,
+  "reviewCount": 238,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:46.192Z"
+  "lastUpdated": "2026-08-16T05:25:03.097Z"
 }

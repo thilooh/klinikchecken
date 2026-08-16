@@ -91,6 +91,18 @@
       "translated": false
     },
     {
+      "author_name": "Willy Venjacob",
+      "author_url": "https://www.google.com/maps/contrib/103756834108063818050/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK87cb4XUCO9H1rs-uyEiF_KpzDUH-LWYtvVK2131CadZffHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Das Team ist sehr freundlich und professionell, kurze Wartezeiten. Frau Dr. Haut ist sehr freundlich und kompetent. Die Praxis ist sehr zu empfehlen.",
+      "time": 1784299764,
+      "translated": false
+    },
+    {
       "author_name": "ezra puia",
       "author_url": "https://www.google.com/maps/contrib/105406698675620630329/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuT3-NgAnhvYnropA8UsCQ6AQCPgkl_W2t5QXeCFXjkvnYfw=s128-c0x00000000-cc-rp-mo",
@@ -106,6 +118,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuT3-NgAnhvYnropA8UsCQ6AQCPgkl_W2t5QXeCFXjkvnYfw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1784194781,
+      "translated": false
+    },
+    {
+      "author_name": "ezra puia",
+      "author_url": "https://www.google.com/maps/contrib/105406698675620630329/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuT3-NgAnhvYnropA8UsCQ6AQCPgkl_W2t5QXeCFXjkvnYfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1784194781,
       "translated": false
@@ -166,6 +188,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG3YoSEvJDpT7Fa-1Q1rVttxBCpD3pcKaUmRhE3sFyb2yLBw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Eine moderne Praxis mit angenehmen Betriebsklima. Sehr freundliche Mitarbeiter. Frau Dr. erklärt einem alles und nimmt sich Zeit. Alles Tipp Top.",
+      "time": 1784109352,
+      "translated": false
+    },
+    {
+      "author_name": "Michael",
+      "author_url": "https://www.google.com/maps/contrib/102722921847734494464/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG3YoSEvJDpT7Fa-1Q1rVttxBCpD3pcKaUmRhE3sFyb2yLBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Eine moderne Praxis mit angenehmen Betriebsklima. Sehr freundliche Mitarbeiter. Frau Dr. erklärt einem alles und nimmt sich Zeit. Alles Tipp Top.",
       "time": 1784109352,
       "translated": false
@@ -1052,5 +1086,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-13T06:15:14.861Z"
+  "lastUpdated": "2026-08-16T05:25:30.394Z"
 }

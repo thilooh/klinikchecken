@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Heinrich Becker",
+      "author_url": "https://www.google.com/maps/contrib/106353302593654927902/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoaBbN-B0W4NDeRpuTiKCex76wBH2jAE6NEM7SGu6JW19s-QZf=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gute,schnelle Behandlung und freundliche Ärzte und Schwestern",
+      "time": 1786781866,
+      "translated": false
+    },
+    {
       "author_name": "Dieter Kurt Zoch",
       "author_url": "https://www.google.com/maps/contrib/104767571652270860490/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDfb3ddCM32OINoBG6T3K9bOVLcmOwRJkghG1ZyNTgzxPtHQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Da Verdacht auf Thrombose, auch ohne Termin umfangreiche Untersuchung.\nKann nur dem gesamten Team ein herzliches Dankeschön sagen. Vollkommen zufrieden.\n06.08.2026\n👍Jederzeit zu empfehlen",
+      "time": 1786039425,
+      "translated": false
+    },
+    {
+      "author_name": "Dieter Kurt Zoch",
+      "author_url": "https://www.google.com/maps/contrib/104767571652270860490/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDfb3ddCM32OINoBG6T3K9bOVLcmOwRJkghG1ZyNTgzxPtHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Da Verdacht auf Thrombose, auch ohne Termin umfangreiche Untersuchung.\nKann nur dem gesamten Team ein herzliches Dankeschön sagen. Vollkommen zufrieden.\n06.08.2026\n👍Jederzeit zu empfehlen",
       "time": 1786039425,
       "translated": false
@@ -975,12 +999,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 202,
+  "rating": 4.8,
+  "reviewCount": 203,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-08-13T06:15:10.561Z"
+  "lastUpdated": "2026-08-16T05:25:26.325Z"
 }

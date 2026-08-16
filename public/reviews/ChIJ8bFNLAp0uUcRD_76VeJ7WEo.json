@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "H. Wr",
+      "author_url": "https://www.google.com/maps/contrib/113830619160288938113/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxRlnGYLTyKrf3cJj9YhRDkc2s1-h51X9teSmKz8JTz2Png_0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Aus beruflichen Gründen habe ich einem Patienten persönliche Dinge ins KH auf die Station 10 gebracht. Einem Patienten, der fast blind ist, wurde nicht einmal erklärt, dass es auf dem Zimmer hinten um die Ecke herum wenigstens ein Waschbecken gibt. Es gab weder Seife, noch Desinfektionsmittel. Lediglich eine Hautschutzlotion und ein paar Zellstofftücher. Kein privates Handtuch, Waschlappen oder Klinikequipment. Das Bett war nicht nur fleckig, der Blindheit geschuldet bei Essenaufnahme, sondern regelrecht dreckig. Duschen wurde laut Patienten während des gesamten Aufenthaltes nicht einmal durchgeführt. Entsprechend ungepflegt wirkte er. Am Tag der Entlassung wurde er von uns Zuhause im selben ungepflegten Zustand angetroffen. Die selbe verschmutzte Kleidung. Unrasiert, ungewaschene Haare und keinerlei Maniküre. Was muss geschehen, dass hilflosen Patienten im Krankenhaus entsprechend geholfen wird?? Nicht nur Diagnostik und Medikation tragen zur Genesung bei.",
+      "time": 1786689688,
+      "translated": false
+    },
+    {
       "author_name": "Marc “Der Alte” Langer",
       "author_url": "https://www.google.com/maps/contrib/115806252562292020085/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN_ridkrBCxWNACKun4fOPdMpsLVYzu5C62thObpeiH6COHg=s128-c0x00000000-cc-rp-mo-ba5",
@@ -357,12 +369,12 @@
       "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 16,
+  "rating": 3.9,
+  "reviewCount": 17,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-13T06:14:58.711Z"
+  "lastUpdated": "2026-08-16T05:25:15.039Z"
 }

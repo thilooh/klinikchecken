@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Japtok",
+      "author_url": "https://www.google.com/maps/contrib/115281656186447530073/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8pgS2ucQfG3GbKk7qiNOl_6wogjcr_rULMat_F8ecJgRtpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Platschek hat mich mehrfach operiert, ich habe ihn erlebt als einfühlsamen patientennahen excellenten Fachmann mit freundlichem hilfsbereitem Team.Gut die elektronische\nTerminerinnerung",
+      "time": 1786703139,
+      "translated": false
+    },
+    {
       "author_name": "Nixxxtaa",
       "author_url": "https://www.google.com/maps/contrib/104380157611672411060/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIxtul3RTSBNcFN8NlW5HuacuMApiorzc8wGcG3WP6rx1WqbQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich leide seit zwei Jahren unter Akne und war zuvor bereits bei einem anderen sehr bekannten Hautarzt aus der Region – leider ohne Erfolg. Erst Dr. Platschek hat mir die richtigen Cremes verschrieben, sodass sich meine Haut endlich deutlich verbessert. Vielen herzlichen Dank!",
+      "time": 1784378941,
+      "translated": false
+    },
+    {
+      "author_name": "Nixxxtaa",
+      "author_url": "https://www.google.com/maps/contrib/104380157611672411060/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIxtul3RTSBNcFN8NlW5HuacuMApiorzc8wGcG3WP6rx1WqbQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich leide seit zwei Jahren unter Akne und war zuvor bereits bei einem anderen sehr bekannten Hautarzt aus der Region – leider ohne Erfolg. Erst Dr. Platschek hat mir die richtigen Cremes verschrieben, sodass sich meine Haut endlich deutlich verbessert. Vielen herzlichen Dank!",
       "time": 1784378941,
       "translated": false
@@ -325,6 +349,18 @@
       "translated": false
     },
     {
+      "author_name": "Volkmar O.",
+      "author_url": "https://www.google.com/maps/contrib/110800719760587469275/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFYSQPsMp5PJcGURS37fSKWRaluhtRb3pucwZcfdFv0b31eh3H=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Herr Dr. Platschek macht eine hervorragende Arbeit. Sehr zu empfehlen. Leider eine aussterbende Spezie, wie mir scheint. Danke vielmals.",
+      "time": 1776256521,
+      "translated": false
+    },
+    {
       "author_name": "Petra Poppe",
       "author_url": "https://www.google.com/maps/contrib/111602557633446090467/reviews",
       "language": "de",
@@ -542,11 +578,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 174,
+  "reviewCount": 175,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-13T06:14:34.384Z"
+  "lastUpdated": "2026-08-16T05:24:51.733Z"
 }
