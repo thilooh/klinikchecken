@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Alaa Almajun",
+      "author_url": "https://www.google.com/maps/contrib/104586541847206550971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786457359,
+      "translated": false
+    },
+    {
       "author_name": "Martina Janke",
       "author_url": "https://www.google.com/maps/contrib/114674566462622329700/reviews",
       "language": "de",
@@ -78,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5whCX_wDdFGpNcPRpyadQH3yLyFEwN4fHFaOziKX3wZ0Tlg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Schnelle Terminvergabe, kaum Wartezeit und eine freundliche Betreuung durch den Arzt. Ich habe mich sehr gut aufgehoben gefühlt.",
+      "time": 1784666998,
+      "translated": false
+    },
+    {
+      "author_name": "Julia E.",
+      "author_url": "https://www.google.com/maps/contrib/106212226264833342381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5whCX_wDdFGpNcPRpyadQH3yLyFEwN4fHFaOziKX3wZ0Tlg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Schnelle Terminvergabe, kaum Wartezeit und eine freundliche Betreuung durch den Arzt. Ich habe mich sehr gut aufgehoben gefühlt.",
       "time": 1784666998,
       "translated": false
@@ -1046,5 +1068,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-16T05:25:14.809Z"
+  "lastUpdated": "2026-08-19T05:27:01.476Z"
 }

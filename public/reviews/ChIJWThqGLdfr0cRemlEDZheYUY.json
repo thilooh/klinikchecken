@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rachel Wang",
+      "author_url": "https://www.google.com/maps/contrib/117006983446292565106/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3VoB-LaanVuHuuwUS4e0q9mrvWvmCZPFa8sYl3fZH7r1GfA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "It is not easy to find a Hausarzt who is accepting new patients, so I’m very grateful to have found this practice.\n\nI would especially like to thank Frau Birkena for her kindness, patience, and helpfulness. I had forgotten to bring my health insurance card, but she was very understanding and patiently helped me find a solution so that I didn’t miss my appointment. I really appreciated her warm, friendly, and professional support. Thank you so much Frau Birkena!",
+      "time": 1786953202,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Spilker",
       "author_url": "https://www.google.com/maps/contrib/110311293136508608939/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Sven KUNZE",
+      "author_url": "https://www.google.com/maps/contrib/109705040285651795478/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEDmJP2ZcbloBrwKMpaNk6MQ05sRDiHs_qw4_5ob576lnfkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Alles Super !!! Kann mann nur empfehlen!!!",
+      "time": 1786456188,
+      "translated": false
+    },
+    {
       "author_name": "OdinVsThor",
       "author_url": "https://www.google.com/maps/contrib/103749506725463863491/reviews",
       "language": "de",
@@ -37,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "OdinVsThor",
+      "author_url": "https://www.google.com/maps/contrib/103749506725463863491/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-EPth_WSdsWQe7A7Ln7qOS8IjjXhn1P3A3hFywclJpCxdVf96=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr freundlich und hilfsbereit",
+      "time": 1786429578,
+      "translated": false
+    },
+    {
       "author_name": "Melanie Jürges",
       "author_url": "https://www.google.com/maps/contrib/116919477630745304812/reviews",
       "language": "de",
@@ -44,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd24bXMQb0Mnre9eklLLq4ALhEuha4UMP-9AKgW3_DUMmvIw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Es ist schwierig eine Angstpatientin zu behandeln.  Fr. Dr. B. Brinkers hat es durch ihre freundliche, fürsorgliche, menschliche Art geschafft, ein Stück dieser Angst zu nehmen. Vielen Dank dafür. Besonders bedanken möchte ich mich auch bei der Mitarbeiterin am 08.07.2026 bei Herr Dr. Schulze im Behandlungszimmer. (Es ist traurig , das man nur die Arztnamen weiß, Sorry dafür) Es ist selten geworden, dass eine Mitarbeiterin so unterstützend, emphatisch und herzlich ist. Bitte bleiben sie so, sie haben den Tag gerettet. Vielen lieben Dank für die Unterstützung.",
+      "time": 1786382157,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie Jürges",
+      "author_url": "https://www.google.com/maps/contrib/116919477630745304812/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd24bXMQb0Mnre9eklLLq4ALhEuha4UMP-9AKgW3_DUMmvIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Es ist schwierig eine Angstpatientin zu behandeln.  Fr. Dr. B. Brinkers hat es durch ihre freundliche, fürsorgliche, menschliche Art geschafft, ein Stück dieser Angst zu nehmen. Vielen Dank dafür. Besonders bedanken möchte ich mich auch bei der Mitarbeiterin am 08.07.2026 bei Herr Dr. Schulze im Behandlungszimmer. (Es ist traurig , das man nur die Arztnamen weiß, Sorry dafür) Es ist selten geworden, dass eine Mitarbeiterin so unterstützend, emphatisch und herzlich ist. Bitte bleiben sie so, sie haben den Tag gerettet. Vielen lieben Dank für die Unterstützung.",
       "time": 1786382157,
       "translated": false
@@ -1128,11 +1176,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 473,
+  "reviewCount": 474,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-16T05:24:54.509Z"
+  "lastUpdated": "2026-08-19T05:26:40.776Z"
 }

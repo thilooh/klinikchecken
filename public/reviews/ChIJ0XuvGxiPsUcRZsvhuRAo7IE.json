@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Daud Fisal",
+      "author_url": "https://www.google.com/maps/contrib/102025955577066960443/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLm7F2XcsabJ-XeD_ryAwQLw4J4o3jhS26T72BYr6lnThTMLg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Rumpsteaks und alle ganz nett",
+      "time": 1786900348,
+      "translated": false
+    },
+    {
+      "author_name": "Luna",
+      "author_url": "https://www.google.com/maps/contrib/111465097753939522172/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgTak6IMDl68pegtFJNTLHHsT0igWueWADetJFqCRETaunZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Obwohl ich nach einer leichten Therapie, für meine (leichten) Hautunreinheiten fragte, wollte man mir eine potenziell Embryo abt*tende Chemie Keule gegen schwerste Akne verkaufen. Mit wöchentlichen Terminen und ordentlichen Kosten. Ich habe stattdessen meine Ernährung umgestellt und die Unreinheiten gingen ohne starke Toxine, ganz von selbst weg. Leider war die Leistung der Praxis mehr als mangelhaft und fragwürdig.",
+      "time": 1786898834,
+      "translated": false
+    },
+    {
       "author_name": "Hossein Tabatabaei",
       "author_url": "https://www.google.com/maps/contrib/108148820883067018087/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpkM7cJqm4Z0wc3i-vbUCU1ORJPByLm51U_rzmsqBEZG6uRPb45g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Top Ärzte, nettes Team, gut organisiert.",
+      "time": 1786445231,
+      "translated": false
+    },
+    {
+      "author_name": "BirteLeussink",
+      "author_url": "https://www.google.com/maps/contrib/108159561374936169929/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpkM7cJqm4Z0wc3i-vbUCU1ORJPByLm51U_rzmsqBEZG6uRPb45g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Top Ärzte, nettes Team, gut organisiert.",
       "time": 1786445231,
       "translated": false
@@ -1130,7 +1166,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 451,
+  "reviewCount": 453,
   "summary": [],
-  "lastUpdated": "2026-08-16T05:24:48.498Z"
+  "lastUpdated": "2026-08-19T05:26:34.511Z"
 }

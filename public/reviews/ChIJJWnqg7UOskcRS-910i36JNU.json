@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Rüdiger Richter",
+      "author_url": "https://www.google.com/maps/contrib/107525057860789723082/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXDuIoCDz_LconVP-XhyvhGmhUVf2dbbBlMYu-p-DPGMPRuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit vielen Jahren in dieser Praxis bei Frau Dr Mrowka in Bahndlung und fühle mich bei ihr und ihren Mitarbeiterinnen und Mitarbeitern kompetent betreut und gut aufgehoben.\nDie online-Terminvergabe ist problemlos, die Athmosphäre in der Praxis ist sehr gut und den persönlichen Umgang mit mir empfinde ich als sehr angenehm.",
+      "time": 1787062066,
+      "translated": false
+    },
+    {
+      "author_name": "Maandy x33",
+      "author_url": "https://www.google.com/maps/contrib/106743350503212487094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY8pddSY3NWqnwM_e47cwekpAEmRgVsXvaiyH5qqQlpz4CQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider sehr enttäuschend, vor allem der Umgang mit Patienten…\n\nIch war heute zum ersten Mal seit vielen Jahren in dieser Praxis. Das letzte Mal war ich dort, als die Praxis noch am Roten Löwen war. Deshalb wusste ich natürlich nicht, wie die Abläufe mittlerweile sind.\n\nIch war heute sogar als Erste vor Ort. Da ich nicht wusste, dass man für die offene Sprechstunde unten warten und dort die Tickets abholen muss, bin ich zunächst nach oben gegangen und habe dort gewartet. Als ich dann erfahren habe, dass die Tickets ausschließlich unten vergeben werden, war es leider bereits zu spät. In der Zwischenzeit hatten sich unten natürlich zahlreiche weitere Patienten angestellt und die 27 verfügbaren Tickets waren bereits vergeben.\n\nWas mich daran besonders ärgert auf der Internetseite findet sich kein Hinweis darauf, wie dieses System mit den Tickets funktioniert. Es gibt keine reguläre Möglichkeit, online einen Termin zu buchen, und gleichzeitig wird nicht transparent erklärt, dass es für die offene Sprechstunde nur eine so begrenzte Anzahl an Tickets gibt und wo bzw. unter welchen Bedingungen diese vergeben werden.\n\nAls jemand, der nach vielen Jahren zum ersten Mal wieder in die Praxis kommt, kann man solche internen Abläufe schlicht nicht kennen. Ich hätte mir daher zumindest eine vernünftige Information auf der Website gewünscht.\n\nNoch enttäuschender als die Situation selbst war allerdings der Umgangston vor Ort. Ich kann absolut verstehen, dass eine Praxis bei einem solchen Patientenaufkommen unter Stress steht. Aber Stress und Personalmangel sind für mich keine Rechtfertigung dafür, Patienten unfreundlich, genervt oder von oben herab zu behandeln. Man kann auch in einer stressigen Situation respektvoll und freundlich bleiben.\n\nWenn man als Patient schon keine Möglichkeit hat, regulär online einen Termin zu vereinbaren, sollte zumindest klar und verständlich kommuniziert werden, wie man überhaupt an einen Termin bzw. ein Ticket kommt.\n\nMir ist durchaus bewusst, dass diese Rezension bei einer Praxis mit einem derart hohen Patientenaufkommen vermutlich nicht besonders viel verändern wird. Vielleicht hilft sie aber zumindest denjenigen, die dort zum ersten Mal hingehen und keine Ahnung von diesem Ticketsystem haben.",
+      "time": 1787059048,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Voigt",
+      "author_url": "https://www.google.com/maps/contrib/117690405503106637374/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBvIh7EtNUw_f3rs8c2vnpwPlZX2M2Rg8GhmeGXqXzr6dJZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Ärztin und fühlte mich umfassend untersucht.",
+      "time": 1787050985,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Schlegel",
+      "author_url": "https://www.google.com/maps/contrib/106940610008337238719/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxADR40k4I60XFqVVgfkyv7cnujlUb8xJAej3jH5OxhRa37Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mir eine zweite Meinung eingeholt. Ich muss sagen von Anfang bis Ende perfekt organisiert und die Untersuchung zur vollsten Zufriedenheit.",
+      "time": 1787037420,
+      "translated": false
+    },
+    {
       "author_name": "Stefanie Moeller",
       "author_url": "https://www.google.com/maps/contrib/104887206571067279762/reviews",
       "language": "de",
@@ -1504,11 +1552,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2359,
+  "reviewCount": 2363,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-16T05:24:55.209Z"
+  "lastUpdated": "2026-08-19T05:26:41.467Z"
 }

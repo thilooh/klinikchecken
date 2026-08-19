@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Juliette",
+      "author_url": "https://www.google.com/maps/contrib/111631958769924594764/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHqqythF8VKswPwjqbP-a7TixoAbfnmCQPiWLjoDNECbS_SlTf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann nur ein großes Lob an die Praxis aussprechen!!\nFrau Dr. BONNESS ist eine ganz tolle und herzliche Ärztin !!!!!!!!!!\nEin großes Lob an Frau Dr.BONNESS und das gesamte Praxisteam die 10 Sterne verdient haben.\nDurch einen Bahnausfall konnte ich nicht pünktlich den Termin wahrnehmen und Frau Bonness hat mich jedoch trotzdem noch dran genommen.\nVielen Dank!!!!!!!!!!!!!!!",
+      "time": 1786992147,
+      "translated": false
+    },
+    {
       "author_name": "Marc Peter",
       "author_url": "https://www.google.com/maps/contrib/112617386632319599076/reviews",
       "language": "de",
@@ -632,5 +644,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-16T05:24:56.334Z"
+  "lastUpdated": "2026-08-19T05:26:42.686Z"
 }

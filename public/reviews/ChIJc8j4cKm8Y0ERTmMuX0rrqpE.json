@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gokhan Mirlay",
+      "author_url": "https://www.google.com/maps/contrib/114924491435559951666/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwZRmj590czY1y4w1oHWuEy-Sfv31ZpMpYT5AJcAjMb3f2jA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. med. Jens Lambrecht ist ein Arzt von seltener menschlicher und fachlicher Qualität.\nIn seiner Praxis begegnet man einer Haltung, die gleichermaßen von Empathie, feiner Beobachtungsgabe und medizinischer Präzision getragen ist.\nSeine Art, zuzuhören, ist bemerkenswert: Er nimmt den Patienten nicht nur als medizinischen Fall wahr, sondern als vollständigen Menschen, dessen Beschwerden, Lebensumstände und Empfindungen er mit einer fast aristokratischen Ruhe und Aufmerksamkeit einbezieht.\n\nFachlich überzeugt Dr. Lambrecht durch klare diagnostische Linien, eine sorgfältige therapeutische Abwägung und eine außerordentliche Gewissenhaftigkeit, die man in dieser Form nur selten erlebt. Jede Empfehlung ist nachvollziehbar, begründet und spürbar von echter Verantwortung getragen.\n\nBesonders hervorzuheben ist seine menschliche Wärme, die nie sentimental wirkt, sondern eine kultivierte, respektvolle Herzlichkeit ausstrahlt. Man fühlt sich bei ihm nicht nur medizinisch bestens aufgehoben, sondern auch ehrlich gesehen und ernst genommen.\nEin Arzt, der fachliche Exzellenz mit menschlicher Größe verbindet - eine seltene Kombination, die Dr. Lambrecht in besonderer Weise verkörpert.\nAbschließend möchte ich auch den Empfang ausdrücklich loben: Die Damen sind fabelhaft - freundlich, aufmerksam, professionell und stets mit einer warmen, zugewandten Art, die den gesamten Praxisbesuch zusätzlich aufwertet.",
+      "time": 1786968383,
+      "translated": false
+    },
+    {
       "author_name": "Anna Siddique",
       "author_url": "https://www.google.com/maps/contrib/116333185177448572505/reviews",
       "language": "en",
@@ -37,6 +49,18 @@
       "translated": true
     },
     {
+      "author_name": "Anna Siddique",
+      "author_url": "https://www.google.com/maps/contrib/116333185177448572505/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxLyyv5uE6t-plyLaPsQW-r7AsZW7gT5a4cCHNnZc25H36tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Es tut mir sehr leid, dass ich den Arzt nicht aufsuchen konnte, da der Zugang leider nicht rollstuhlgerecht ist. Obwohl überall das Gegenteil angegeben war. Seien Sie also vorsichtig, kein Rollstuhl vorhanden!",
+      "time": 1785225685,
+      "translated": true
+    },
+    {
       "author_name": "Dilek",
       "author_url": "https://www.google.com/maps/contrib/105533967459283953479/reviews",
       "language": "de",
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsKgCVZhCpNZO7mRZYd8IJRfSAA353h8FEUypD86RJ-n7UnQR48w=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Helle, nette Praxis und freundliche Mitarbeiterin am Empfang. Herr Dr. Lambrecht ist sehr aufmerksam und man merkt sofort, wie professionell er in seinem Gebiet ist. Besten Dank!",
+      "time": 1785060464,
+      "translated": false
+    },
+    {
+      "author_name": "Dilek",
+      "author_url": "https://www.google.com/maps/contrib/105533967459283953479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsKgCVZhCpNZO7mRZYd8IJRfSAA353h8FEUypD86RJ-n7UnQR48w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Helle, nette Praxis und freundliche Mitarbeiterin am Empfang. Herr Dr. Lambrecht ist sehr aufmerksam und man merkt sofort, wie professionell er in seinem Gebiet ist. Besten Dank!",
       "time": 1785060464,
       "translated": false
@@ -674,7 +710,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 80,
+  "reviewCount": 81,
   "summary": [],
-  "lastUpdated": "2026-08-16T05:24:48.107Z"
+  "lastUpdated": "2026-08-19T05:26:34.103Z"
 }

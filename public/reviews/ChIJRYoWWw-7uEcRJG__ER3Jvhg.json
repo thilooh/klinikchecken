@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Eva Bittner",
+      "author_url": "https://www.google.com/maps/contrib/118245371702233846894/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL8rVQXcj_8cra3tj1-wzpr0g3JPIU5P5K5wZJPXgWx_3tRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Beratung und die Behandlung sind qualitativ sehr gut. Bin sehr zufrieden.",
+      "time": 1786867993,
+      "translated": false
+    },
+    {
       "author_name": "Laura3009",
       "author_url": "https://www.google.com/maps/contrib/117886476448739566882/reviews",
       "language": "de",
@@ -1126,11 +1138,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 225,
+  "reviewCount": 226,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-16T05:25:13.217Z"
+  "lastUpdated": "2026-08-19T05:26:59.875Z"
 }

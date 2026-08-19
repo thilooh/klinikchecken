@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Pit M.",
+      "author_url": "https://www.google.com/maps/contrib/112567079712345461155/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsK43OlW5Q7EbMmCni1HiFZJLYrO76xvs2MlxEGJzIpui_10oJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Gesundheitssystem in diesem Land ist so kaputt dass man keinen Termin mehr bekommt wenn man kein Privatpatient ist.\nSchämt euch.",
+      "time": 1787031810,
+      "translated": false
+    },
+    {
       "author_name": "Robert W",
       "author_url": "https://www.google.com/maps/contrib/106765011094069117217/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLIRQ0jMtgQrsVFRL1EGUm7xOXq1_szss7Nc7In3j0d5iUVg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte im März 2026 ein Problem mit meiner Rosette , habe mir nach einer Empfehlung einen Termin bei Dr. Grenzer in Blaustein gebucht und ihn auch schnell bekommen. Ich war sehr nervös und aufgeregt was auch verständlich war. Da es ja nicht alltäglich ist, sich im hinteren Bereich einer Inspektion zu unterziehen. Dr Grenzer kann ich nur empfehlen der nimmt einem die Angst mit Humor ( 17 Schlüssel und so ) der weiß was er macht 👍. Das war die erste OP bei der ich sogar lachen musste, Danke nochmals für die gute Behandlung und die Aufklärung. 👍",
+      "time": 1786352211,
+      "translated": false
+    },
+    {
+      "author_name": "Robert W",
+      "author_url": "https://www.google.com/maps/contrib/106765011094069117217/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLIRQ0jMtgQrsVFRL1EGUm7xOXq1_szss7Nc7In3j0d5iUVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich hatte im März 2026 ein Problem mit meiner Rosette , habe mir nach einer Empfehlung einen Termin bei Dr. Grenzer in Blaustein gebucht und ihn auch schnell bekommen. Ich war sehr nervös und aufgeregt was auch verständlich war. Da es ja nicht alltäglich ist, sich im hinteren Bereich einer Inspektion zu unterziehen. Dr Grenzer kann ich nur empfehlen der nimmt einem die Angst mit Humor ( 17 Schlüssel und so ) der weiß was er macht 👍. Das war die erste OP bei der ich sogar lachen musste, Danke nochmals für die gute Behandlung und die Aufklärung. 👍",
       "time": 1786352211,
       "translated": false
@@ -940,11 +964,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 159,
+  "reviewCount": 160,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-16T05:25:01.461Z"
+  "lastUpdated": "2026-08-19T05:26:47.980Z"
 }

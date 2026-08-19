@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Lothar Genzel",
+      "author_url": "https://www.google.com/maps/contrib/107483506179302476502/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-xt7xh6OuUbME6PlsbLoKKNSJNMyb1GXNv7GZRZSn1ebPRw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kann Frau Dr. Rempel - als sehr kompetente , zuvorkommende und freundliche Ärztin bezeichnen . Diese Praxis ist sehr empfehlenswert.",
+      "time": 1785086033,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Dittmar",
       "author_url": "https://www.google.com/maps/contrib/101104492373671762636/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIFRv5L1TBZMLogdHs4PFYPFN6IQsO4_pwoavAmfQMwx3aew=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Wollte gerade online einen Termin buchen, aber es gibt leider nur für privat Versicherte Termine für gesetzlich Versicherte sind derzeit keine Termine online verfügbar.....was soll das?",
+      "time": 1781876263,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Dittmar",
+      "author_url": "https://www.google.com/maps/contrib/101104492373671762636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIFRv5L1TBZMLogdHs4PFYPFN6IQsO4_pwoavAmfQMwx3aew=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Wollte gerade online einen Termin buchen, aber es gibt leider nur für privat Versicherte Termine für gesetzlich Versicherte sind derzeit keine Termine online verfügbar.....was soll das?",
       "time": 1781876263,
       "translated": false
@@ -606,5 +630,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:09.643Z"
+  "lastUpdated": "2026-08-19T05:26:56.212Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Susanne Kempers",
+      "author_url": "https://www.google.com/maps/contrib/111459057785424659337/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-XYwpv8ouHCEHH9HQIshV23DI7_EiUn81pqL6F2hSd_nsosvX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute erstmals als Neupatient in der Praxis von Herrn Dr.Shadi Sabe.Bei der Anmeldung wurde ich sehr freundlich empfangen und es erfolgten zunächst gründliche Voruntersuchungen, bevor ich dann von Herrn Dr.Shadi Sabe weiterbehandelt wurde.Die Untersuchung durch ihn erfolgte mit vielen Erklärungen,meine Fragen wurden in aller Ruhe beantwortet und die Diagnostik wurde mir einfühlsam und wirklich sehr emphatisch übermittelt.\nKurz gesagt; das lange Warten auf diesen Facharzt- termin hat sich gelohnt und ich kann Herrn Dr.Shadi Sabe und sein Praxisteam nur wärmstens weiterempfehlen!!",
+      "time": 1787000084,
+      "translated": false
+    },
+    {
       "author_name": "Hilde Lüpges",
       "author_url": "https://www.google.com/maps/contrib/108320378873537353359/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWBLRCy_Yz5-fuUip4IP3qFr8dCWmvuDVdYvCsXoy1Ixv6Jg=s128-c0x00000000-cc-rp-mo-ba5",
@@ -59,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "Marianne Bargsten",
+      "author_url": "https://www.google.com/maps/contrib/109749688125145997018/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt5eFZCoJBqnhsxUBinCDumRsrB6EhNqWm-YucOHHv_WMvYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Der Beste!",
+      "time": 1784644457,
+      "translated": false
+    },
+    {
       "author_name": "Josee Hennin",
       "author_url": "https://www.google.com/maps/contrib/117944554978950383025/reviews",
       "language": "de",
@@ -102,6 +126,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-EVzOCK-4QVPzCn5icXGkZVtZvwVdFELoQ_7cXqyTWLXcATKz=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Praxis : Freundlich Personal\nDr. Offen für Gespräch\nGute Beratung.",
+      "time": 1784538339,
+      "translated": false
+    },
+    {
+      "author_name": "Josee Hennin",
+      "author_url": "https://www.google.com/maps/contrib/117944554978950383025/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-EVzOCK-4QVPzCn5icXGkZVtZvwVdFELoQ_7cXqyTWLXcATKz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Praxis : Freundlich Personal\nDr. Offen für Gespräch\nGute Beratung.",
       "time": 1784538339,
       "translated": false
@@ -678,11 +714,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 81,
+  "reviewCount": 82,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:11.749Z"
+  "lastUpdated": "2026-08-19T05:26:58.300Z"
 }

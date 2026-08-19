@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Günter Seidel",
+      "author_url": "https://www.google.com/maps/contrib/114840945754069944030/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqL8QLNARJw6pF14vvvFGGdeGmfc09jzciIiRN2olgdlNnF1jh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe eine sehr gute Erfahrung bei der Behandlung von  meinem TOS-Syndrom links durch Dr. Mahoozi gemacht. Von dem ersten Beratungsgespräch an, der anschließenden OP und der Nachbehandlung , fühlte ich mich  dort in der Venaziel Praxis gut aufgehoben. Dr. Mahoozi  nahm  sich Zeit bei der Erstuntersuchung, die er  mit großer Sorgfalt durchgeführt hatte. Mir wurde die Behandlungsmöglichkeit mit der neuster Medizin-technik  verständlich erklärt. Die eigentliche Behandlung verlief äußerst professionell, schmerzarm und mit positiven Ergebnis.\nBesonders beeindruckt hat mich die moderne Ausstattung der Praxis sowie das freundliche und hilfsbereite Team, das jederzeit für Fragen  und Hilfeleistungen zur Verfügung stand.\nDank  Dr. Mahoozi habe ich eine medizinisch erfolgreiche und sehr angenehme Betreuung erfahren.\nWas für mich sehr positiv ist, das dort meine gesundheitlichen Probleme erkannt  und mir nach Jahren mit ständigen Schmerzen geholfen wurde.",
+      "time": 1786986731,
+      "translated": false
+    },
+    {
       "author_name": "Katharina Weber",
       "author_url": "https://www.google.com/maps/contrib/102232609131520862274/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Katharina Weber",
+      "author_url": "https://www.google.com/maps/contrib/102232609131520862274/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKD9AmGdDZ898XiEF2-QhDAobX6f3VdtKVtbYhymzHS2b72Has=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Das unwichtigste zuerst - eine tolle Aussicht ( 14. OG) . Super netter Emfang. Der Arzt hat alles super und einfach erklärt. Kann ich nur empfehlen. Ich war wegen meinen Venen da.",
+      "time": 1786460719,
+      "translated": false
+    },
+    {
       "author_name": "Tommeck",
       "author_url": "https://www.google.com/maps/contrib/117487184956014081330/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPeC2C-PahNMdSIBWS4lr2bDq4WiSUjZ3ZuvGG_71tSNlo=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Team. Ich habe eine Thrombose bekommen und wurde super Aufgeklärt. Es wurden sofort Maßnahmen ergriffen zur Behandlung. Man hat das Gefühl, dass man keine Nummer ist sondern wirklich Ursachenforschung betrieben wird. So wie es sein sollte. Ich kann die Praxis nur empfehlen. Vielen Dank an meine Ärztin nochmal.",
+      "time": 1786340496,
+      "translated": false
+    },
+    {
+      "author_name": "Tommeck",
+      "author_url": "https://www.google.com/maps/contrib/117487184956014081330/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPeC2C-PahNMdSIBWS4lr2bDq4WiSUjZ3ZuvGG_71tSNlo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nettes Team. Ich habe eine Thrombose bekommen und wurde super Aufgeklärt. Es wurden sofort Maßnahmen ergriffen zur Behandlung. Man hat das Gefühl, dass man keine Nummer ist sondern wirklich Ursachenforschung betrieben wird. So wie es sein sollte. Ich kann die Praxis nur empfehlen. Vielen Dank an meine Ärztin nochmal.",
       "time": 1786340496,
       "translated": false
@@ -40,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJxXi0eYwrN3WttzkG3zthgnYSAa1dmcR4lDePeg1XlwNFuCs_=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1785737400,
+      "translated": false
+    },
+    {
+      "author_name": "Vladimir Kogan",
+      "author_url": "https://www.google.com/maps/contrib/117939382306300253647/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJxXi0eYwrN3WttzkG3zthgnYSAa1dmcR4lDePeg1XlwNFuCs_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1785737400,
       "translated": false
@@ -984,7 +1030,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 148,
+  "reviewCount": 149,
   "summary": [],
-  "lastUpdated": "2026-08-16T05:24:46.260Z"
+  "lastUpdated": "2026-08-19T05:26:32.153Z"
 }

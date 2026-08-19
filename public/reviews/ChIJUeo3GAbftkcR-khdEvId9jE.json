@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "olli pape",
+      "author_url": "https://www.google.com/maps/contrib/103144974706892627818/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt9-FcwtCzkMMRCpYrkFvg3LZJvcq0rqILrtytUy2xD9Ju=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "War nicht günstig, aber richtig gut",
+      "time": 1785870515,
+      "translated": false
+    },
+    {
       "author_name": "Sandra",
       "author_url": "https://www.google.com/maps/contrib/110144869208656591948/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-sffSTIcIFIx3GZ1XI7LAQneN9xgrPRcGn8SckFbm1civ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -94,6 +106,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-sffSTIcIFIx3GZ1XI7LAQneN9xgrPRcGn8SckFbm1civ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1784272736,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra",
+      "author_url": "https://www.google.com/maps/contrib/110144869208656591948/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-sffSTIcIFIx3GZ1XI7LAQneN9xgrPRcGn8SckFbm1civ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1784272736,
       "translated": false
@@ -417,12 +439,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 84,
+  "rating": 5,
+  "reviewCount": 83,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-16T05:25:16.632Z"
+  "lastUpdated": "2026-08-19T05:27:03.317Z"
 }

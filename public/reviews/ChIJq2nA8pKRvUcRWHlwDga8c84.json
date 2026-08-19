@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Bernhardt",
+      "author_url": "https://www.google.com/maps/contrib/116961032731886058412/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDgkuF-tAsiQmZVnRaxOKBMU4PzzKLbXT8yHSNNZzxzOjh5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786963979,
+      "translated": false
+    },
+    {
       "author_name": "Eva Leinberger",
       "author_url": "https://www.google.com/maps/contrib/100468503672795175974/reviews",
       "language": "de",
@@ -40,6 +50,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIz0pIXuL_SHXSt1clSH5_RdTvSV_JVrORMoDVxjSKTbrGb6K5O=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786353876,
+      "translated": false
+    },
+    {
+      "author_name": "Elena Taseska",
+      "author_url": "https://www.google.com/maps/contrib/112836666819709868273/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSiSvfnA9L6cwOEdiY3EUCqx03HZtb0oci-AOCaeyzYwF7VKo1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1786353876,
       "translated": false
@@ -1200,11 +1220,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 320,
+  "reviewCount": 321,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:08.942Z"
+  "lastUpdated": "2026-08-19T05:26:55.494Z"
 }

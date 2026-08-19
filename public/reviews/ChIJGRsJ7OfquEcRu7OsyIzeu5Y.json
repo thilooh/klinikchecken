@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Yannik Roden",
+      "author_url": "https://www.google.com/maps/contrib/106981955565908605381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoQc2AP_qRwR4sU_vylrJQgvkp9esmVjJLSV_gcy-DmB09_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wollte ein Termin machen aber telefonisch erreiche nie ein\nAm Tag mindestens 50 mal angerufen aber nie geht einer ran",
+      "time": 1787064781,
+      "translated": false
+    },
+    {
       "author_name": "Markus Köhler",
       "author_url": "https://www.google.com/maps/contrib/110057744949296352542/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpBhwCIyGMlT20grbrW-64gvKuQXi1dkkuisRsTCKCjVbopA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr kompetenter Arzt. Alle Mitarbeiter freundlich und hilfsbereit. Hier ist man als Patient sehr gut aufgehoben.",
+      "time": 1785047865,
+      "translated": false
+    },
+    {
+      "author_name": "Günter Lang",
+      "author_url": "https://www.google.com/maps/contrib/107470107927837741197/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpBhwCIyGMlT20grbrW-64gvKuQXi1dkkuisRsTCKCjVbopA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr kompetenter Arzt. Alle Mitarbeiter freundlich und hilfsbereit. Hier ist man als Patient sehr gut aufgehoben.",
       "time": 1785047865,
       "translated": false
@@ -772,11 +796,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 64,
+  "reviewCount": 65,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-08-16T05:25:13.895Z"
+  "lastUpdated": "2026-08-19T05:27:00.552Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christian C.",
+      "author_url": "https://www.google.com/maps/contrib/116682628106331587533/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkIWkDxZRm43b4dO065qyGuCCMTXYOiTJwPPBBnhRb96DGmg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Telefonisch nie zu erreichen. um einen Termin auszumachen muss man leider immer hin fahren und vor Ort einen Termin ausmachen.",
+      "time": 1786950910,
+      "translated": false
+    },
+    {
       "author_name": "Fábio Ferreira",
       "author_url": "https://www.google.com/maps/contrib/106417594813467378977/reviews",
       "language": "de",
@@ -38,6 +50,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2WWvo1rA9PhpNamdNTk8FHHJIlw1klutw9BHdVKpJ6JnrvuON=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786353998,
+      "translated": false
+    },
+    {
+      "author_name": "Sherina",
+      "author_url": "https://www.google.com/maps/contrib/114903965386740276126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2WWvo1rA9PhpNamdNTk8FHHJIlw1klutw9BHdVKpJ6JnrvuON=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1786353998,
       "translated": false
@@ -1062,11 +1084,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 238,
+  "reviewCount": 239,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:03.097Z"
+  "lastUpdated": "2026-08-19T05:26:49.632Z"
 }

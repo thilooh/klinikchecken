@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Simone Koenitzer",
+      "author_url": "https://www.google.com/maps/contrib/116831800330590088223/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTZ_YREK36kp3ZdYiBOyDIEz8nFfEP7BFKsCvRWmDo4oPtjOrEKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Schwestern am Telefon und einen Termin online zu bekommen unmöglich.Man kann ja nicht 24 h 7 am Telefon sein um einen Termin zu ergattern.\nDa hilft nur eine Überweisung mit einem Tss Code von ihrem behandelten Arzt, dann bekommt man einen Termin.\nIch kann es auch verstehen.\nWo gibt es solch eine Praxis in Thüringen für das Problem Lipödem.\nTrotzdem bekommen sie vorab 4 Sterne, für ihre Mühe am Telefon.\nIrgendwann klappt es.",
+      "time": 1787083839,
+      "translated": false
+    },
+    {
       "author_name": "Heinrich Becker",
       "author_url": "https://www.google.com/maps/contrib/106353302593654927902/reviews",
       "language": "de",
@@ -128,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8fLiR_9I2nJp0eTVyK8DTnkgH_oFnmG8ap_QwOlIEzNktxqazUg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war bei Dr Otto zur Beratung für eine liposuktion und sie hat mir alles gut erklärt und was ich alles beachten muss für die Übernahme durch die Krankenkasse",
+      "time": 1784476737,
+      "translated": false
+    },
+    {
+      "author_name": "Franziska Wachendorf",
+      "author_url": "https://www.google.com/maps/contrib/100170468771288898792/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8fLiR_9I2nJp0eTVyK8DTnkgH_oFnmG8ap_QwOlIEzNktxqazUg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war bei Dr Otto zur Beratung für eine liposuktion und sie hat mir alles gut erklärt und was ich alles beachten muss für die Übernahme durch die Krankenkasse",
       "time": 1784476737,
       "translated": false
@@ -1000,11 +1024,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 203,
+  "reviewCount": 204,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-08-16T05:25:26.325Z"
+  "lastUpdated": "2026-08-19T05:27:13.327Z"
 }

@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Claus Lange",
+      "author_url": "https://www.google.com/maps/contrib/111605299255006618215/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzpV_ET5uMd4sV0v1AWx8SkFFkupCgbaiyGr8bq_7zpYkmNqA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786966247,
+      "translated": false
+    },
+    {
+      "author_name": "Max Karolczak-Melching",
+      "author_url": "https://www.google.com/maps/contrib/116475901574354816210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWysZM82qboa4X71_f02uOIIDot4yLQFvLiTDd7oNzVzKjaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Professionell und effizient.\nFreundlicher und direkter Umgang, so dass keine Fragen offen bleiben.\nBehandlung erfolgte schnell und effektiv.",
+      "time": 1786957104,
+      "translated": false
+    },
+    {
+      "author_name": "Lukas",
+      "author_url": "https://www.google.com/maps/contrib/112585059703686942315/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0cDg-YZYqCBwmNQ3kYhCrGWUDSETbixtgTuiNYBbPURvPUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herausragende Betreuung! Schade, dass man nicht sechs Sterne vergeben kann.",
+      "time": 1786909381,
+      "translated": false
+    },
+    {
       "author_name": "Wolfgang Dittrich",
       "author_url": "https://www.google.com/maps/contrib/106743989851989091641/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2sd_YcVwkNLMSW-Y-pVrDFpejQBGdFEIwVTn897rrN8iCuw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -18,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDzZKxIb3vy8DK1q75TMx27BK9gb2gtib0lHMklPAyJ5IaFQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Kurze Wartezeiten, freundlich und kompetent",
+      "time": 1786357621,
+      "translated": false
+    },
+    {
+      "author_name": "Sina",
+      "author_url": "https://www.google.com/maps/contrib/107649455102600111822/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDzZKxIb3vy8DK1q75TMx27BK9gb2gtib0lHMklPAyJ5IaFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Kurze Wartezeiten, freundlich und kompetent",
       "time": 1786357621,
       "translated": false
@@ -1015,12 +1061,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 167,
+  "rating": 4.5,
+  "reviewCount": 166,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:24:51.955Z"
+  "lastUpdated": "2026-08-19T05:26:38.156Z"
 }

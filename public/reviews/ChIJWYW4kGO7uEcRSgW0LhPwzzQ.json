@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Prof Dr Dr Dr A v D",
+      "author_url": "https://www.google.com/maps/contrib/109469128639708473350/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKV0Zbt30BfQ2GgFG8d60-934N5XHGfX5lISUEzW_6Q2mwTTA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die telefonischen Sprechzeiten sind ganz schön arrogant !\nNatürlich kann man \"bequem\" einen Akut/Notfalltermin bei doctolib buchen für Februar 2027 !  Und zu den og. Sprechzeiten bekommt man die Ansage, dass alle Leitungen belegt sind und das Gespräch wird beendet. Nächste Variante nachdem ich es tatkräftig weiterversucht habe: Warteschleife, sind gleich dran (sinngemäß), gefühlte Ewigkeit  und siehe da auch hier wird das Gespräch beendet. Das ist schon frech.",
+      "time": 1786355428,
+      "translated": false
+    },
+    {
       "author_name": "Ömer Celik",
       "author_url": "https://www.google.com/maps/contrib/103848116515990705129/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR6gasbROHZW1aUBY8HrYzevr5aUhuyuzipUm6DUX8S9cmZA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich habe für diese Praxis keine Worte mehr übrig. Die telefonische Erreichbarkeit ist nicht gegeben, der schriftliche Austausch ist pampig und wenn man die Praxis trotzdem aufsucht, bekommt man als Bestandspatient mit akuten Beschwerden, trotzdem keinen Termin. Ebenso auch nicht online.\nFachlich mag ich sogar gute Erfahrungen gemacht haben, aber die Praxisorganisation und die Verfügbarkeit bei Notfällen, ist scheinbar nicht gegeben. Wohl gemerkt, als Bestandspatient!",
+      "time": 1781893404,
+      "translated": false
+    },
+    {
+      "author_name": "Panjabi",
+      "author_url": "https://www.google.com/maps/contrib/112091401797791926456/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR6gasbROHZW1aUBY8HrYzevr5aUhuyuzipUm6DUX8S9cmZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich habe für diese Praxis keine Worte mehr übrig. Die telefonische Erreichbarkeit ist nicht gegeben, der schriftliche Austausch ist pampig und wenn man die Praxis trotzdem aufsucht, bekommt man als Bestandspatient mit akuten Beschwerden, trotzdem keinen Termin. Ebenso auch nicht online.\nFachlich mag ich sogar gute Erfahrungen gemacht haben, aber die Praxisorganisation und die Verfügbarkeit bei Notfällen, ist scheinbar nicht gegeben. Wohl gemerkt, als Bestandspatient!",
       "time": 1781893404,
       "translated": false
@@ -665,12 +689,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 44,
+  "rating": 4.2,
+  "reviewCount": 45,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-16T05:25:12.992Z"
+  "lastUpdated": "2026-08-19T05:26:59.637Z"
 }

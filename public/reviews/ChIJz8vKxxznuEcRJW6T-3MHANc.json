@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Sonja Koch",
+      "author_url": "https://www.google.com/maps/contrib/110885824674864110072/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7wV9tdzW2wCvh-98M6CQj96sPlKR5hotmTyWi_0FpmeuNhZc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr.Krosta sehr freundlich und kompetent Sprechstunden hilfen sehr freundlich.Praxis sehr zu empfehlen",
+      "time": 1787054966,
+      "translated": false
+    },
+    {
+      "author_name": "Detlev Lamek",
+      "author_url": "https://www.google.com/maps/contrib/102503005260115761601/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW00O8kCy0LZuitUONiyBnmo6sNUus46cVI6E4x-fiy1i9cRqs=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin wie immer mit dem Ärzteteam und den Mitarbeitern sehr zufrieden.",
+      "time": 1786986169,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfgang Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/110118313391183100990/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgWHwRsOaUgYHx2YJbXbjmXqaZ6DItoGaDu2tbfzCF9x4Oew=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine Praxis die nur Politik für Privatpatienten macht.\nDort wird alles versucht Geld aus dem Patienten zu holen und wenn notwendige Medizin benötigt werden dann wird dort eingespart.\nIch kann nur jedem davon abraten diese unprofessionelle menschenfeindliche Praxis zu betreten.\nKomisch das ausgerechnet der Bereich für Privatpatienten ausgebaut wird, 2 Klassen System wie in den USA ist dort schon angekommen",
+      "time": 1786892700,
+      "translated": false
+    },
+    {
       "author_name": "M SK",
       "author_url": "https://www.google.com/maps/contrib/113211055476555779438/reviews",
       "language": "de",
@@ -1180,11 +1216,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 390,
+  "reviewCount": 392,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:12.767Z"
+  "lastUpdated": "2026-08-19T05:26:59.408Z"
 }

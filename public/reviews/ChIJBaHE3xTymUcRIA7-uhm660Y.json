@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christa Jost",
+      "author_url": "https://www.google.com/maps/contrib/111365806455607245685/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF9YMJJySJ2F-Fqo98WXNpr7pT9a7p72FnJM5JP_dfB_pI8e8s=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin schon lange Patient dort klasse Ärzte und Helferinnen die  immer sehr  freundlich sind",
+      "time": 1786899084,
+      "translated": false
+    },
+    {
       "author_name": "Witta Kaiser",
       "author_url": "https://www.google.com/maps/contrib/104855219697712050245/reviews",
       "language": "de",
@@ -708,11 +720,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 107,
+  "reviewCount": 108,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:24.539Z"
+  "lastUpdated": "2026-08-19T05:27:11.429Z"
 }

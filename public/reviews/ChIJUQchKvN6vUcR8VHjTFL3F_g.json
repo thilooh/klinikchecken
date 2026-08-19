@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Nicole Wagner",
+      "author_url": "https://www.google.com/maps/contrib/106278408611874244013/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE4jQeX7lg1hAxtHtlg0IEpfpLp1gQUcmUpAxBG8x3V6BJFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786474202,
+      "translated": false
+    },
+    {
       "author_name": "Vitaminka",
       "author_url": "https://www.google.com/maps/contrib/115217587977058055652/reviews",
       "language": "ru",
@@ -21,6 +31,18 @@
       "text": "Приветливый персонал.Хорошая атмосфера,обстановка на территории очень комфортна.",
       "time": 1786441238,
       "translated": false
+    },
+    {
+      "author_name": "Vitaminka",
+      "author_url": "https://www.google.com/maps/contrib/115217587977058055652/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2elGY1TmFkawudyc8hz_7-glv4-qdMZ-PtKGj1Lm1TzobAlE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Freundliches Personal. Angenehme Atmosphäre, sehr komfortables Ambiente.",
+      "time": 1786441238,
+      "translated": true
     },
     {
       "author_name": "Tz Cho",
@@ -888,5 +910,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-16T05:25:20.322Z"
+  "lastUpdated": "2026-08-19T05:27:07.071Z"
 }

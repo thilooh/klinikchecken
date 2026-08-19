@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dede Andrius",
+      "author_url": "https://www.google.com/maps/contrib/105120887649448336335/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1olG_Ed42T6XHkHzoWWP6f2eyPzUY2AiMX4VaqFnxvvZ2pFwz1g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Klinikum gut, nur große Probleme mit parken Möglichkeiten",
+      "time": 1787043656,
+      "translated": false
+    },
+    {
       "author_name": "Beata Lupa",
       "author_url": "https://www.google.com/maps/contrib/111985188582678194571/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVngUWC7_WFc1MCUUBGJrmD5CtJ2KZI8IfSDI4VTXXgQ-EG-g=s128-c0x00000000-cc-rp-mo-ba4",
@@ -64,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3pBLMR9pi4xXVOEYH2HHySedpfBhV6ZDsIPKL8bNvRGPF1g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ulrike Weiß\nIch bedanke mich ganz herzlich bei Dr. Tobias Meinhold und seinem Team für die hervorragende Varizen-Operation!\nIch fühlte mich sehr gut aufgehoben!\nUlrike Weiß",
+      "time": 1785857992,
+      "translated": false
+    },
+    {
+      "author_name": "Franz Weiß",
+      "author_url": "https://www.google.com/maps/contrib/106986545055034331772/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3pBLMR9pi4xXVOEYH2HHySedpfBhV6ZDsIPKL8bNvRGPF1g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ulrike Weiß\nIch bedanke mich ganz herzlich bei Dr. Tobias Meinhold und seinem Team für die hervorragende Varizen-Operation!\nIch fühlte mich sehr gut aufgehoben!\nUlrike Weiß",
       "time": 1785857992,
       "translated": false
@@ -84,6 +108,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9zqZaIV-VANiToBKAYFGI3jUIheOPLDEqfCIgaitRoRHvfg=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1785839566,
+      "translated": false
+    },
+    {
+      "author_name": "Jossa Sandberg",
+      "author_url": "https://www.google.com/maps/contrib/102981648452605731899/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9zqZaIV-VANiToBKAYFGI3jUIheOPLDEqfCIgaitRoRHvfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1785839566,
       "translated": false
@@ -1114,11 +1148,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 419,
+  "reviewCount": 420,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-16T05:25:00.078Z"
+  "lastUpdated": "2026-08-19T05:26:46.581Z"
 }

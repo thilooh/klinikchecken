@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Saskia Thomas",
+      "author_url": "https://www.google.com/maps/contrib/102051324362117332567/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINw1tqA0h01nrpKLRQLN2Yu2G7LjwDNFGAFOlg1r57AAiMnA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Über Doctolib konnte ich einen Termin buchen, ohne dass ersichtlich war, dass dieser nur für Bestandspatient:innen gedacht ist. Vor Ort wurde mir dann gesagt, dass keine Neupatient:innen angenommen werden.\nBesonders absurd: Der Termin bleibt dadurch einfach unbesetzt – die Praxis verliert also selbst einen zahlenden Termin. Bei anderen Ärzt:innen wird auf Doctolib klar angegeben, wenn keine Neupatient:innen angenommen werden. Warum schafft man das hier nicht?",
+      "time": 1787036680,
+      "translated": false
+    },
+    {
       "author_name": "Vita C",
       "author_url": "https://www.google.com/maps/contrib/110739988543332251901/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_N2-JNGWtR-TJ5HO05_iL-A2qSTfT5h4pKW2NmfJa8iDxTs0=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich wartete fast sechs Monate auf einen Arzt Termin, nur damit dieser kurz vor dem geplanten Zeitpunkt abgesagt wurde. Ein neuer Termin wurde für zwei Monate später vereinbart, doch auch dieser wurde kurz vor dem geplanten Termin gestrichen. Als ich nach dem Grund fragte, erklärte mir das medizinische Personal höflich, dass der Arzt andere, wichtigere Angelegenheiten zu erledigen habe.",
+      "time": 1785850139,
+      "translated": false
+    },
+    {
+      "author_name": "Vita C",
+      "author_url": "https://www.google.com/maps/contrib/110739988543332251901/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_N2-JNGWtR-TJ5HO05_iL-A2qSTfT5h4pKW2NmfJa8iDxTs0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich wartete fast sechs Monate auf einen Arzt Termin, nur damit dieser kurz vor dem geplanten Zeitpunkt abgesagt wurde. Ein neuer Termin wurde für zwei Monate später vereinbart, doch auch dieser wurde kurz vor dem geplanten Termin gestrichen. Als ich nach dem Grund fragte, erklärte mir das medizinische Personal höflich, dass der Arzt andere, wichtigere Angelegenheiten zu erledigen habe.",
       "time": 1785850139,
       "translated": false
@@ -86,6 +110,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxPPs3Eq6dtu5rdsTYOnuZf0qVzirZVaj1PNoyIuNK59hPvIA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Eine Stunde umsonst gefahren weil die Praxis in den Sommer Ferien ist und man bei doctolib trotzdem einen Termin buchen kann… Lebenszeit unnötig klauen geht mir extrem an die Nerven",
+      "time": 1785162646,
+      "translated": false
+    },
+    {
+      "author_name": "Mik",
+      "author_url": "https://www.google.com/maps/contrib/104323704636103771213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxPPs3Eq6dtu5rdsTYOnuZf0qVzirZVaj1PNoyIuNK59hPvIA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Eine Stunde umsonst gefahren weil die Praxis in den Sommer Ferien ist und man bei doctolib trotzdem einen Termin buchen kann… Lebenszeit unnötig klauen geht mir extrem an die Nerven",
       "time": 1785162646,
       "translated": false
@@ -955,12 +991,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 114,
+  "rating": 4.3,
+  "reviewCount": 115,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:24:56.109Z"
+  "lastUpdated": "2026-08-19T05:26:42.438Z"
 }

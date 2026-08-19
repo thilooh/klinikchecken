@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Urlaub ist toll!",
+      "author_url": "https://www.google.com/maps/contrib/105431714385560027705/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8lF0taTBZD8Edt1Pv-FjESGb1wzigfL9_WdOma4C27_zMxKY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1785700761,
+      "translated": false
+    },
+    {
       "author_name": "Rene L",
       "author_url": "https://www.google.com/maps/contrib/114797353547700843882/reviews",
       "language": "de",
@@ -160,6 +170,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu39znPyRtJtRfZmqrOCIQLwrKLZOxo2SCisrRJLOzyPithTY=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich habe die Praxis wegen meiner Keloidnarben aufgesucht und über die Zeit in mehrere Laserbehandlungen investiert. Leider konnte ich keinen spürbaren Fortschritt feststellen. Ich hatte den Eindruck, dass einige Behandlungen nicht durch erfahrene Fachkräfte durchgeführt wurden. Ich hätte mir mehr Transparenz und bessere Ergebnisse gewünscht. Daher kann ich die Praxis in meinem Fall leider nicht empfehlen.",
+      "time": 1781724656,
+      "translated": false
+    },
+    {
+      "author_name": "Zina Harder",
+      "author_url": "https://www.google.com/maps/contrib/102745951979814865868/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu39znPyRtJtRfZmqrOCIQLwrKLZOxo2SCisrRJLOzyPithTY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich habe die Praxis wegen meiner Keloidnarben aufgesucht und über die Zeit in mehrere Laserbehandlungen investiert. Leider konnte ich keinen spürbaren Fortschritt feststellen. Ich hatte den Eindruck, dass einige Behandlungen nicht durch erfahrene Fachkräfte durchgeführt wurden. Ich hätte mir mehr Transparenz und bessere Ergebnisse gewünscht. Daher kann ich die Praxis in meinem Fall leider nicht empfehlen.",
       "time": 1781724656,
       "translated": false
@@ -666,5 +688,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:27.020Z"
+  "lastUpdated": "2026-08-19T05:27:14.021Z"
 }

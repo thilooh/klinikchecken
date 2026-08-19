@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Uwe Kirsch",
+      "author_url": "https://www.google.com/maps/contrib/111998510992933417764/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU61qsIRfa9i-b7n9RNp9g3o2ECr49EPbnt0ZkYz0MkEMSGcotr=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolles,Praxisteam",
+      "time": 1786984623,
+      "translated": false
+    },
+    {
       "author_name": "Christine Lechner",
       "author_url": "https://www.google.com/maps/contrib/112728718872325381455/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJqXDLn9AV8wO0MoN_gyNviT56fK-NHFKZzErw1U53jpdxUQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Alles war perfekt. Von der Terminvergabe, über die erste Untersuchung bis hin zur OP und Kontrolle. Sehr sympathisches Praxisteam. Ich wurde über jeden Schritt genau informiert und hab mich immer sehr wohl gefühlt.",
+      "time": 1786277041,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Lechner",
+      "author_url": "https://www.google.com/maps/contrib/112728718872325381455/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJqXDLn9AV8wO0MoN_gyNviT56fK-NHFKZzErw1U53jpdxUQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Alles war perfekt. Von der Terminvergabe, über die erste Untersuchung bis hin zur OP und Kontrolle. Sehr sympathisches Praxisteam. Ich wurde über jeden Schritt genau informiert und hab mich immer sehr wohl gefühlt.",
       "time": 1786277041,
       "translated": false
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOvmYUlGDUQjDmXuMG7YOzUbTLc4h_toazE919CXpkiAVR=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr toller und ehrlicher arzt",
+      "time": 1785266703,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Büchele",
+      "author_url": "https://www.google.com/maps/contrib/107982184820098161284/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOvmYUlGDUQjDmXuMG7YOzUbTLc4h_toazE919CXpkiAVR=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr toller und ehrlicher arzt",
       "time": 1785266703,
       "translated": false
@@ -438,11 +474,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 44,
+  "reviewCount": 45,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:02.392Z"
+  "lastUpdated": "2026-08-19T05:26:48.904Z"
 }

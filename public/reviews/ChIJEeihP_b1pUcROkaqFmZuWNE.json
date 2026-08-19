@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "E. Reporrt",
+      "author_url": "https://www.google.com/maps/contrib/116393965052880784960/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsq74bUnmQvllhvYbS9RWZ8VSzBE-DgQC9Y04v5CWuYE838T3k=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe keine positive Erfahrung sie haben zwar so ein bestimmt teures onlinebestellsystem was ja anscheinend nicht richtig funktioniert habe dort einen Termin online und auch die aufklärungen zur Untersuchung online ausgefüllt und abgeschickt angeblich ist nichts angekommen und mein Termin stand auch nicht im System als Aussage kommt nur von der anmeldeschwester da kann ich auch nichts machen wenn nichts drinne steht danke für die Fahrt dorthin und keine Behandlung vielleicht sollten sie ihr onlinesystem mal so machen das die Patienten es verstehen bzw es funktioniert ich ein stern ist noch viel zu viel für diese Praxis",
+      "time": 1787043819,
+      "translated": false
+    },
+    {
       "author_name": "Claus-Dieter Kiehne",
       "author_url": "https://www.google.com/maps/contrib/110091513956252065869/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoz62D1DC0eSKwkdQFHfE40nbpaPrvieTfAFY0H_dUt5qXRw=s128-c0x00000000-cc-rp-mo",
@@ -506,11 +518,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 117,
+  "reviewCount": 118,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-16T05:24:54.738Z"
+  "lastUpdated": "2026-08-19T05:26:41.004Z"
 }

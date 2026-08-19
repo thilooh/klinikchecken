@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Chris Schunck",
+      "author_url": "https://www.google.com/maps/contrib/114676633546155901183/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7LWyq81rt7Z4EgCbZp9ZVg92FjL646au3OAJ4ARO6kCfIr1RtCw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787073557,
+      "translated": false
+    },
+    {
       "author_name": "Mirna Jo",
       "author_url": "https://www.google.com/maps/contrib/108121996583492653354/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoJPd5XVrZgOWYNNobjwD9jNSzVI6KJ0lgYSHHATbHMMPVSg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Habe mich gut aufgehoben gefühlt.",
+      "time": 1786295167,
+      "translated": false
+    },
+    {
+      "author_name": "conni wenzel",
+      "author_url": "https://www.google.com/maps/contrib/117853574873741298444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoJPd5XVrZgOWYNNobjwD9jNSzVI6KJ0lgYSHHATbHMMPVSg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Habe mich gut aufgehoben gefühlt.",
       "time": 1786295167,
       "translated": false
@@ -1104,11 +1126,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 139,
+  "reviewCount": 140,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-16T05:25:15.292Z"
+  "lastUpdated": "2026-08-19T05:27:01.929Z"
 }

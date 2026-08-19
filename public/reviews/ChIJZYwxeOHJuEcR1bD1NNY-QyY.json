@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Emily Jordan",
+      "author_url": "https://www.google.com/maps/contrib/112878576843370826051/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiNPQjW4U97AVZCaQ4zB-gU7V5Qf5FLtfHq4dTtkqLmIoFCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich komme gerne über 30min angereist, um hier die Kosmetik-Termine wahrzunehmen - super freundliche und kompetente Mitarbeiterin! Sehr empfehlenswert :-)",
+      "time": 1786354699,
+      "translated": false
+    },
+    {
       "author_name": "Laurenz",
       "author_url": "https://www.google.com/maps/contrib/106355888549325568428/reviews",
       "language": "de",
@@ -167,6 +179,18 @@
       "translated": false
     },
     {
+      "author_name": "Matthias Fra",
+      "author_url": "https://www.google.com/maps/contrib/105727712171724874813/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIudWDwIjgBKX4GVgrYThqqy0RgcQqaoJ8hCePkiVghdv13A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Super freundlich, gut gelaunt, kostentransparent!\nIch habe mich sehr gut aufgehoben gefühlt, fachlich als auch persönlich.",
+      "time": 1784298454,
+      "translated": false
+    },
+    {
       "author_name": "Josef Becker",
       "author_url": "https://www.google.com/maps/contrib/117214968338724343386/reviews",
       "language": "de",
@@ -210,6 +234,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB69y3gf12Ecw4tGvQpsGS7h9-DM8E1WfxRhzGPgcblan_1SA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Eine sehr gute Praxis, ich bin mehr als zufrieden, daß ganze Personal ist freundlich und hilfsbereit",
+      "time": 1784212628,
+      "translated": false
+    },
+    {
+      "author_name": "Josef Becker",
+      "author_url": "https://www.google.com/maps/contrib/117214968338724343386/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB69y3gf12Ecw4tGvQpsGS7h9-DM8E1WfxRhzGPgcblan_1SA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Eine sehr gute Praxis, ich bin mehr als zufrieden, daß ganze Personal ist freundlich und hilfsbereit",
       "time": 1784212628,
       "translated": false
@@ -850,8 +886,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 99,
+  "rating": 4.6,
+  "reviewCount": 97,
   "summary": [],
-  "lastUpdated": "2026-08-16T05:24:44.018Z"
+  "lastUpdated": "2026-08-19T05:26:29.748Z"
 }

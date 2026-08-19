@@ -121,6 +121,18 @@
       "translated": false
     },
     {
+      "author_name": "Liv",
+      "author_url": "https://www.google.com/maps/contrib/102745927016921373622/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR1d7F9tutD4i4MgXarlvYJw0Dmg9wQgRuAHq-JtIV4a6aVA4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr gut organisierte Praxis. Wenn man mit Termin kommt, wird dieser eingehalten und man muss max. 5min warten. Ärzt*innen sind sehr freundlich.",
+      "time": 1784640551,
+      "translated": false
+    },
+    {
       "author_name": "Vanessa Jülich",
       "author_url": "https://www.google.com/maps/contrib/116043511587230544742/reviews",
       "language": "de",
@@ -797,5 +809,5 @@
   "rating": 4.2,
   "reviewCount": 54,
   "summary": [],
-  "lastUpdated": "2026-08-16T05:24:41.882Z"
+  "lastUpdated": "2026-08-19T05:26:27.705Z"
 }
