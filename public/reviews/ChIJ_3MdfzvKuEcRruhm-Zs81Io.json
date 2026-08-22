@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Marie Vossem",
+      "author_url": "https://www.google.com/maps/contrib/101645219845293689547/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwXETQG3E7eC6valy7v4A8EfTWfwluI6FXAHR7HLyIBaX3dA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Service konnte mir nicht weiterhelfen. Keine gute Erfahrung, dass gehört dazu...",
+      "time": 1786624391,
+      "translated": false
+    },
+    {
       "author_name": "Jousi Hoerning",
       "author_url": "https://www.google.com/maps/contrib/103727322813495275745/reviews",
       "language": "de",
@@ -1137,5 +1149,5 @@
   "rating": 4.8,
   "reviewCount": 382,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:29.032Z"
+  "lastUpdated": "2026-08-22T05:23:48.493Z"
 }

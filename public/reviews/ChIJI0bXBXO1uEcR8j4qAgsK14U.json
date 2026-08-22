@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Y .M",
+      "author_url": "https://www.google.com/maps/contrib/101692762365300501781/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxUJkP9Jq2lvf2RFpZfAy0SC1sIT9Y7t-ifRbZJkcSD7509IO8=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Khodr ist ein sehr freundlicher, geduldiger und einfühlsamer Arzt. Er hört gut zu, nimmt sich ausreichend Zeit und geht auf die Sorgen und Fragen des Patienten ein. Außerdem ist er sehr kompetent und erfahren. Man fühlt sich bei ihm wirklich gut aufgehoben. Absolut empfehlenswert!\nMalhiss",
+      "time": 1787206272,
+      "translated": false
+    },
+    {
       "author_name": "Gabi Nennertheim",
       "author_url": "https://www.google.com/maps/contrib/114920554143119823119/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbRDH2FpKBeXzBv1sD-ycP9iVaG5_betx1r2StqVFuJ-v1s2WX=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin mit dem Besuch bei Dr. med. Martin Hermans sehr zufrieden! Er ist ein echter Profi auf seinem Gebiet. Er hat aufmerksam zugehört, eine gründliche Untersuchung durchgeführt und alles verständlich erklärt. Die verschriebene Behandlung schlägt wirklich an, und das Wichtigste: keine unnötigen Tests oder Medikamente. Absolut empfehlenswert",
+      "time": 1785317229,
+      "translated": false
+    },
+    {
+      "author_name": "Valerii Kleshchonok",
+      "author_url": "https://www.google.com/maps/contrib/105249299259044921360/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbRDH2FpKBeXzBv1sD-ycP9iVaG5_betx1r2StqVFuJ-v1s2WX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin mit dem Besuch bei Dr. med. Martin Hermans sehr zufrieden! Er ist ein echter Profi auf seinem Gebiet. Er hat aufmerksam zugehört, eine gründliche Untersuchung durchgeführt und alles verständlich erklärt. Die verschriebene Behandlung schlägt wirklich an, und das Wichtigste: keine unnötigen Tests oder Medikamente. Absolut empfehlenswert",
       "time": 1785317229,
       "translated": false
@@ -1138,11 +1162,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 327,
+  "reviewCount": 328,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-19T05:27:07.515Z"
+  "lastUpdated": "2026-08-22T05:24:23.809Z"
 }

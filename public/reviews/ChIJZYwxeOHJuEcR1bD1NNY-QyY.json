@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Lothar Münzenthaler",
+      "author_url": "https://www.google.com/maps/contrib/103982984357841922319/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_NHRpnI6kzE4zCI0BKppIBqNyx2J70Zgfoc5MWCDXCTxbxbyC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786697846,
+      "translated": false
+    },
+    {
       "author_name": "Emily Jordan",
       "author_url": "https://www.google.com/maps/contrib/112878576843370826051/reviews",
       "language": "de",
@@ -90,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJooeBSf7asIsPPQBfpm7nX7Aj8DoXS90ko_Y047KRNjzxNaA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Nette Praxis mit super freundlichem Personal",
+      "time": 1785346557,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Wrobel",
+      "author_url": "https://www.google.com/maps/contrib/101663066271222948133/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJooeBSf7asIsPPQBfpm7nX7Aj8DoXS90ko_Y047KRNjzxNaA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Nette Praxis mit super freundlichem Personal",
       "time": 1785346557,
       "translated": false
@@ -889,5 +911,5 @@
   "rating": 4.6,
   "reviewCount": 97,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:29.748Z"
+  "lastUpdated": "2026-08-22T05:23:49.463Z"
 }

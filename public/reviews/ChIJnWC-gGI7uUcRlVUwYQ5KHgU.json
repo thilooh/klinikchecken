@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mohammad Othman",
+      "author_url": "https://www.google.com/maps/contrib/117625248792812796540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt8FLcmYuS7vo7nDPVTVEN4T9dpH_PH5R5kwp7Y7mDWF0X8YKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Netter Umgang und hilfreiche Behandlung.\nAlso Empfehlenswert",
+      "time": 1787208169,
+      "translated": false
+    },
+    {
       "author_name": "Alaa Almajun",
       "author_url": "https://www.google.com/maps/contrib/104586541847206550971/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
@@ -40,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvYx9Ckg5tMf_bvFIHnUCaxhIdlJ-50hhz_pG6SAZjRBhORg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Kann die teilweise schlechten Bewertungen nicht bestätigen. Habe einen Termin für den nächsten Tag bekommen. Das Personal war sehr freundlich. Wartezeit sehr kurz. Wurde von einer netten jungen Ärztin behandelt, die schnell eine Diagnose stellte, die bisher nicht erkannt wurde.",
+      "time": 1785925098,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Janke",
+      "author_url": "https://www.google.com/maps/contrib/114674566462622329700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvYx9Ckg5tMf_bvFIHnUCaxhIdlJ-50hhz_pG6SAZjRBhORg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Kann die teilweise schlechten Bewertungen nicht bestätigen. Habe einen Termin für den nächsten Tag bekommen. Das Personal war sehr freundlich. Wartezeit sehr kurz. Wurde von einer netten jungen Ärztin behandelt, die schnell eine Diagnose stellte, die bisher nicht erkannt wurde.",
       "time": 1785925098,
       "translated": false
@@ -100,6 +124,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5whCX_wDdFGpNcPRpyadQH3yLyFEwN4fHFaOziKX3wZ0Tlg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Schnelle Terminvergabe, kaum Wartezeit und eine freundliche Betreuung durch den Arzt. Ich habe mich sehr gut aufgehoben gefühlt.",
+      "time": 1784666998,
+      "translated": false
+    },
+    {
+      "author_name": "Julia E.",
+      "author_url": "https://www.google.com/maps/contrib/106212226264833342381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5whCX_wDdFGpNcPRpyadQH3yLyFEwN4fHFaOziKX3wZ0Tlg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Schnelle Terminvergabe, kaum Wartezeit und eine freundliche Betreuung durch den Arzt. Ich habe mich sehr gut aufgehoben gefühlt.",
       "time": 1784666998,
       "translated": false
@@ -1062,11 +1098,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 390,
+  "reviewCount": 391,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-19T05:27:01.476Z"
+  "lastUpdated": "2026-08-22T05:24:18.357Z"
 }

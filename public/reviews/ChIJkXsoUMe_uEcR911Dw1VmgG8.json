@@ -1,11 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "so bin ich immer",
+      "author_url": "https://www.google.com/maps/contrib/110381338777948671738/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp16b5oLc6JimeS9AvG0-bM2MCWPfyq-zWcX4nvhp4-xrNX7GF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787135849,
+      "translated": false
+    },
+    {
       "author_name": "Pascal B",
       "author_url": "https://www.google.com/maps/contrib/101601911458120436723/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiPR8ELOrF51tKnCvTQ30r1nn1d6eFv-rkkohKT9gKsPePPA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786603246,
+      "translated": false
+    },
+    {
+      "author_name": "Pascal B",
+      "author_url": "https://www.google.com/maps/contrib/101601911458120436723/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiPR8ELOrF51tKnCvTQ30r1nn1d6eFv-rkkohKT9gKsPePPA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1786603246,
       "translated": false
@@ -114,6 +134,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJe4oG-WOq53hSjaWE2geKa-rJxeSWYt8DryvNJdPCAbZlAzQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nettes Personal , der Arzt war vorsichtig , die Ärztin war sehr höflich und nett hat während der Op mit mir geredet und mich auf andere Gedanken gebracht, kann ich nur empfehlen sehr gutes Team und sehr gute Arbeit",
+      "time": 1785412111,
+      "translated": false
+    },
+    {
+      "author_name": "Justin Gunhart",
+      "author_url": "https://www.google.com/maps/contrib/106961881679879762411/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJe4oG-WOq53hSjaWE2geKa-rJxeSWYt8DryvNJdPCAbZlAzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr nettes Personal , der Arzt war vorsichtig , die Ärztin war sehr höflich und nett hat während der Op mit mir geredet und mich auf andere Gedanken gebracht, kann ich nur empfehlen sehr gutes Team und sehr gute Arbeit",
       "time": 1785412111,
       "translated": false
@@ -800,11 +832,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 220,
+  "reviewCount": 221,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-19T05:26:45.860Z"
+  "lastUpdated": "2026-08-22T05:24:04.319Z"
 }

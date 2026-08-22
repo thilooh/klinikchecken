@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Katharina Hagen",
+      "author_url": "https://www.google.com/maps/contrib/116420563307771249575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-CVjLbKoDZxonnS9mUAjiz6pF02xHXySmCmtbJNHe29Hnuw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unabhängig davon, was es für eine wunderschöne Praxis dies ist, war die Ärztin ganz nett und hat sich für beide Kinder die Zeit genommen und eine tolle Beratung gemacht und auch genau die richtige Creme für das Problem verschrieben! Vielen Dank!",
+      "time": 1787303771,
+      "translated": false
+    },
+    {
       "author_name": "Max Arnoldt",
       "author_url": "https://www.google.com/maps/contrib/102736105040467802100/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVItA6hQm6fiYJy8YNzuvinh4ZhtMnDPA6v-QxbRDxRmWU5yJ7w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Das Hautkrebsscreening war so wie man es erwartet - mit Ruhe, Sorgfalt und Professionalität.",
+      "time": 1784540192,
+      "translated": false
+    },
+    {
+      "author_name": "Lucia Gosebrink",
+      "author_url": "https://www.google.com/maps/contrib/111121230657663512499/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVItA6hQm6fiYJy8YNzuvinh4ZhtMnDPA6v-QxbRDxRmWU5yJ7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Das Hautkrebsscreening war so wie man es erwartet - mit Ruhe, Sorgfalt und Professionalität.",
       "time": 1784540192,
       "translated": false
@@ -579,7 +603,7 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 96,
+  "reviewCount": 97,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:28.212Z"
+  "lastUpdated": "2026-08-22T05:23:47.520Z"
 }

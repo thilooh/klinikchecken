@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Angelika Bur",
+      "author_url": "https://www.google.com/maps/contrib/115695278899926319676/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzz1YH6DbsXXh9IajUoL8RCsgCrttZmEYn2DZWJcEEnMR6Gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "MVZ Kleinblittersdorf Katja beste Blutabnahme Forever",
+      "time": 1787214411,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Gering",
+      "author_url": "https://www.google.com/maps/contrib/116051757272001948757/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhrnrc8wv9PHPQkXEM9PO8RqUUHigUya-pcBxbK1-y1PDGiA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Katja die Bomben Nadellegerin , i Like you !! Top Blutabnahme",
+      "time": 1787213630,
+      "translated": false
+    },
+    {
       "author_name": "I. Fuhr",
       "author_url": "https://www.google.com/maps/contrib/111818067061761129671/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyiVn2dmu6bnx9HfzpQeQh7ao6eT2qePqsUQT13VXZuGEU_oI=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Team, sehr gut organisiert, kurze Wartezeit.\nFrau Dr. Pietschke ist sehr freundlich und sorgfältig, sie erklärt alles bestens, ist diagnostisch sicher und kompetent. Ich bin absolut begeistert. Besser geht's nicht. Dankeschön :-)",
+      "time": 1786624519,
+      "translated": false
+    },
+    {
+      "author_name": "I. Fuhr",
+      "author_url": "https://www.google.com/maps/contrib/111818067061761129671/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyiVn2dmu6bnx9HfzpQeQh7ao6eT2qePqsUQT13VXZuGEU_oI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nettes Team, sehr gut organisiert, kurze Wartezeit.\nFrau Dr. Pietschke ist sehr freundlich und sorgfältig, sie erklärt alles bestens, ist diagnostisch sicher und kompetent. Ich bin absolut begeistert. Besser geht's nicht. Dankeschön :-)",
       "time": 1786624519,
       "translated": false
@@ -1032,11 +1068,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 79,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:56.900Z"
+  "lastUpdated": "2026-08-22T05:24:14.250Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michaela Knigge",
+      "author_url": "https://www.google.com/maps/contrib/104935391604936652911/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwk1EJbXXVAe96-CAmqmNcSwiONMWhh9WfqJHxR2UgQ9B3Cw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war gestern dort. Empfang susper nett.\nIm Arztzimmer fühlte ich mich allerdings sehr unwohl.\nDurch ein Fenster um Rücken des Arztes konnte ich diesen nicht erkennen. Er hat sich mir auch nicht vorgestellt. Es gab keine Umkleidekabine. Ich musste mich in Anwesenheit des Artes, der mir dabei zugesehen hat die Hose ausziehen.\nAn der anschließenden Untersuchung ist nichts auszusetzen.\nDie Aussage, wir brauchen 5-10 Sitzungen, kommt aber wieder... fragte ich nach, also raten Sie mir ab? Genau! Das wars... also hab ich mein Problem immer noch... Seufz...",
+      "time": 1787121766,
+      "translated": false
+    },
+    {
       "author_name": "Faisal Makansi",
       "author_url": "https://www.google.com/maps/contrib/104614809196758495860/reviews",
       "language": "de",
@@ -484,11 +496,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 87,
+  "reviewCount": 88,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:40.546Z"
+  "lastUpdated": "2026-08-22T05:23:59.520Z"
 }

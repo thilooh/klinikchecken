@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "K. Willig",
+      "author_url": "https://www.google.com/maps/contrib/104182331132985573056/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOckalNd957Wem4AsrcXEJKyKXucbX3baS3z0-URPBa5PmZj7M=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nachdem mein bisheriger behandelnder Hautarzt leider in den Ruhestand gegangen ist, wurde ich bei meinem letzten Termin von Frau Dr. Dr. Desch und Frau Dr. Steiner beraten bzw. behandelt. Rückblickend hätte ich mir keine bessere Nachfolge wünschen können.\n\nIch habe mich von Anfang an sehr gut aufgehoben gefühlt. Besonders beeindruckt hat mich, dass sich beide Ärztinnen deutlich mehr Zeit genommen haben, als für den Termin eigentlich vorgesehen war. Alle meine Fragen wurden ausführlich und verständlich beantwortet. Dabei hatte ich das Gefühl, als Mensch wahrgenommen zu werden und nicht einfach nur als einer von vielen Patienten.\n\nIn einer Zeit, in der Arzttermine oft unter großem Zeitdruck stattfinden, ist es alles andere als selbstverständlich, sich so intensiv mit den Anliegen der Patienten auseinanderzusetzen.\n\nAuch die moderne Ausrichtung der Praxis gefällt mir sehr gut. Besonders praktisch finde ich die Nutzung des E-Rezepts sowie die Möglichkeit, über OnlineDoctor unkompliziert mit der Ärztin zu kommunizieren. Das spart nicht nur dem Praxisteam wertvolle Zeit, sondern auch mir als Patientin.\n\nIch fühle mich medizinisch und menschlich hervorragend betreut und kann Frau Dr. Dr. Desch und Frau Dr. Steiner uneingeschränkt weiterempfehlen. Vielen Dank für die tolle Betreuung!",
+      "time": 1787214231,
+      "translated": false
+    },
+    {
+      "author_name": "Dominik Ofenloch",
+      "author_url": "https://www.google.com/maps/contrib/116628403108875728574/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeHbFQRu7tnLUVMbFRn5qkb3mGuzBXTFKF6y_OOAkBKQtpqS3SUw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und hilfsbereit. Gerne wieder.",
+      "time": 1787132911,
+      "translated": false
+    },
+    {
       "author_name": "Frank Bernhardt",
       "author_url": "https://www.google.com/maps/contrib/116961032731886058412/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDgkuF-tAsiQmZVnRaxOKBMU4PzzKLbXT8yHSNNZzxzOjh5A=s128-c0x00000000-cc-rp-mo",
@@ -30,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG9RvBiIHvuhEC-8l6gWdHnUOtPBdwE1rym0-RPZCgk-6h5A=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Warte seit fast 2 Stunden trotz Termin. Und dann hat man das Gefühl als Privatpatient dort abgezockt zu werden mit unnötigen Untersuchungen, Ganzkörper-Nacktaufnahmen, Behandlungen.. ich werde hier nicht mehr hingehen",
+      "time": 1786716016,
+      "translated": false
+    },
+    {
+      "author_name": "I. M.",
+      "author_url": "https://www.google.com/maps/contrib/102175172327659693587/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG9RvBiIHvuhEC-8l6gWdHnUOtPBdwE1rym0-RPZCgk-6h5A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Warte seit fast 2 Stunden trotz Termin. Und dann hat man das Gefühl als Privatpatient dort abgezockt zu werden mit unnötigen Untersuchungen, Ganzkörper-Nacktaufnahmen, Behandlungen.. ich werde hier nicht mehr hingehen",
       "time": 1786716016,
       "translated": false
@@ -1220,11 +1256,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 321,
+  "reviewCount": 323,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:55.494Z"
+  "lastUpdated": "2026-08-22T05:24:12.995Z"
 }

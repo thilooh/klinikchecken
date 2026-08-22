@@ -79,6 +79,16 @@
       "translated": false
     },
     {
+      "author_name": "Ursula Nùcken",
+      "author_url": "https://www.google.com/maps/contrib/105698717141978252122/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXadrsg-1BNPld6VBU1UsjZcyb_bl0R6u_G7GQrIjW4i1YnOayA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785329363,
+      "translated": false
+    },
+    {
       "author_name": "Mik",
       "author_url": "https://www.google.com/maps/contrib/104323704636103771213/reviews",
       "language": "de",
@@ -170,6 +180,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj2C-fvEGjIq9aRf9V8oBMMDArXKFwQhznjMKxdoI3hDiffw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Hatte einen Termin über Doclib gebucht und halbes Jahr gewartet. Dann standen ich vor der Tür der Praxis und musste lesen, dass die im Urlaub sind.\nWie soll das funktionieren, wenn ich noch niemals Bescheid bekomme.",
+      "time": 1784893076,
+      "translated": false
+    },
+    {
+      "author_name": "R G",
+      "author_url": "https://www.google.com/maps/contrib/111993057989328048528/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj2C-fvEGjIq9aRf9V8oBMMDArXKFwQhznjMKxdoI3hDiffw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Hatte einen Termin über Doclib gebucht und halbes Jahr gewartet. Dann standen ich vor der Tür der Praxis und musste lesen, dass die im Urlaub sind.\nWie soll das funktionieren, wenn ich noch niemals Bescheid bekomme.",
       "time": 1784893076,
       "translated": false
@@ -998,5 +1020,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:42.438Z"
+  "lastUpdated": "2026-08-22T05:24:01.246Z"
 }

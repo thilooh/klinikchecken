@@ -535,6 +535,18 @@
       "translated": false
     },
     {
+      "author_name": "Melina Winkler",
+      "author_url": "https://www.google.com/maps/contrib/108474196521661784276/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInU_Mwp4_J2Y1v2oaFiuchh3oft271qTihzKEWZcTKfU7CVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
+      "text": "Ein riesen Dankeschön geht an Frau Dr.Needer und ihre netten Arzthelferinnen :)\nVielen Dank für die schnelle Hilfe",
+      "time": 1778095916,
+      "translated": false
+    },
+    {
       "author_name": "V S",
       "author_url": "https://www.google.com/maps/contrib/107175342282057112827/reviews",
       "language": "de",
@@ -679,14 +691,26 @@
       "text": "Ich dachte, der Arzt selbst würde mich behandeln, nicht seine Assistentin. Mir wurden lediglich Nahrungsergänzungsmittel und ein Salbenpräparat verschrieben, ohne Bluttests. Übrigens: Sie müssen den Termin persönlich vereinbaren, falls Sie im Ausland wohnen.",
       "time": 1765898233,
       "translated": true
+    },
+    {
+      "author_name": "Barbara Landau",
+      "author_url": "https://www.google.com/maps/contrib/108116414970717169357/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8I24paA581R9FI4R5XkrVrQJLkX1HfgNO_FOreMPtSh7JGg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 8 Monaten",
+      "text": "Verantwortungsbewusste Praxis mit sehr gutem Team. Schnelle und passende Reaktion im Rahmen der Krebsvorsorge.\nSehr guter Operateur mit geübtem Fachpersonal an seiner Seite.",
+      "time": 1765399265,
+      "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 97,
+  "rating": 5,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:27:14.021Z"
+  "lastUpdated": "2026-08-22T05:24:29.677Z"
 }

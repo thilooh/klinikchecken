@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Heinz Wichmann",
+      "author_url": "https://www.google.com/maps/contrib/116735895351018916736/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcgWSHD-U48aH-uZT5egcLaD4QPMFQd7S-TbVZTdUyutxUhX0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. T. Gilfert kann ich mit gutem Gewissen weiterempfehlen.\nSehr gewissenhaft.\nDanke für die\nkompetente und schnelle Umsetzung sowie Hilfe bei der Durchführung Ihrer Diagnose.\nMfg. H.W\n\nDas ganze Team,  sehr freundlich und hilfsbereit.",
+      "time": 1787306819,
+      "translated": false
+    },
+    {
       "author_name": "Anouk Hamel",
       "author_url": "https://www.google.com/maps/contrib/110242785686531695216/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLapDYNXxTJ4vUB1uK7rogNmBKgP0vwTJZL9EWGRie2_MJV-Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786523741,
+      "translated": false
+    },
+    {
+      "author_name": "Anouk Hamel",
+      "author_url": "https://www.google.com/maps/contrib/110242785686531695216/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLapDYNXxTJ4vUB1uK7rogNmBKgP0vwTJZL9EWGRie2_MJV-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1786523741,
       "translated": false
@@ -224,6 +246,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9ZXVf8JFBEWSb5FzDZ5J9R_N6X6dWh9Oli2jf5MDZ67EqLrpXUw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "DR. GILFERT.. ein kompetenter, lieber Arzt mit einem großen Herz. Er ist sehr emphatisch und vertrauensvoll.\nDr. Gilfert und sein Team sind toll, freundlich und zuvorkommend. Danke für eure Mühe und das ihr für uns da seid, wenn wir euch brauchen.\nWas ich noch erwähnen muss, die Praxis ist sehr edel und zeitlos eingerichtet 😍.",
+      "time": 1776842515,
+      "translated": false
+    },
+    {
+      "author_name": "Aysun_V_K (AVK)",
+      "author_url": "https://www.google.com/maps/contrib/110944507610756803227/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9ZXVf8JFBEWSb5FzDZ5J9R_N6X6dWh9Oli2jf5MDZ67EqLrpXUw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "DR. GILFERT.. ein kompetenter, lieber Arzt mit einem großen Herz. Er ist sehr emphatisch und vertrauensvoll.\nDr. Gilfert und sein Team sind toll, freundlich und zuvorkommend. Danke für eure Mühe und das ihr für uns da seid, wenn wir euch brauchen.\nWas ich noch erwähnen muss, die Praxis ist sehr edel und zeitlos eingerichtet 😍.",
       "time": 1776842515,
       "translated": false
@@ -482,11 +516,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 145,
+  "reviewCount": 146,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-08-19T05:26:55.973Z"
+  "lastUpdated": "2026-08-22T05:24:13.414Z"
 }

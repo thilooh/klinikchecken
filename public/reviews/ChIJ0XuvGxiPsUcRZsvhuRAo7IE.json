@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "tamara alkeilani",
+      "author_url": "https://www.google.com/maps/contrib/115448420002492095643/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9I8bWGo92jQMcDUnY7QRAiXknhGfDRXc2VnELrt_xlHhv5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Dermatologikum ist für mich die beste Adresse in Hamburg. Egal bei welchem Arzt ich bisher war: Die Beratung ist immer hochprofessionell und das gesamte Team super freundlich. Aktuell bin ich bei Frau Dr. Söhl in Behandlung und kann sie – sowie die anderen Ärzte bei denen ich dort bisher war– jedem empfehlen. Ich habe ausschließlich sehr gute Erfahrungen gesammelt.",
+      "time": 1787244576,
+      "translated": false
+    },
+    {
+      "author_name": "Mehmet Riza Karadag",
+      "author_url": "https://www.google.com/maps/contrib/108638767852143053280/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP-E561CJUPfvpIqb9EaaDa8o7cSIbDaJcw1VXhk49SFoX4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war wegen Krampfadern da. Insgesamt 4-5 mal. Einmal Op 2-3 mal wurde Sachaum gespritz. Nach ein zeit immer mehr Krämpfe, schmerzen, manchmal taub Gefühl…\nIch bereue mich dass ich diese Praxis ausgewählt habe.\nEmpfähle niemanden.\nIch bewerte nur über vehnenzentrum und die läute die mich operiert haben. Über andere Bereiche ich kann keinesfalls etwas schreiben.",
+      "time": 1787170568,
+      "translated": false
+    },
+    {
       "author_name": "Daud Fisal",
       "author_url": "https://www.google.com/maps/contrib/102025955577066960443/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIS5QhvJTf6dmnTh1OoTtM9u9JtI-nY-rNhiqYyGLLGnR4JXA0=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Hervorragende Ärztin mit viel Empathie.\nIch bin äußerst zufrieden mit Dr. med. Katharina Waiblinger und ihrem Team. Von der ersten Kontaktaufnahme bis zum Abschluss meiner Behandlung habe ich mich rundum gut aufgehoben gefühlt.\nVielen Dank.",
+      "time": 1786558493,
+      "translated": false
+    },
+    {
+      "author_name": "Hossein Tabatabaei",
+      "author_url": "https://www.google.com/maps/contrib/108148820883067018087/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIS5QhvJTf6dmnTh1OoTtM9u9JtI-nY-rNhiqYyGLLGnR4JXA0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Hervorragende Ärztin mit viel Empathie.\nIch bin äußerst zufrieden mit Dr. med. Katharina Waiblinger und ihrem Team. Von der ersten Kontaktaufnahme bis zum Abschluss meiner Behandlung habe ich mich rundum gut aufgehoben gefühlt.\nVielen Dank.",
       "time": 1786558493,
       "translated": false
@@ -1166,7 +1202,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 453,
+  "reviewCount": 455,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:34.511Z"
+  "lastUpdated": "2026-08-22T05:23:53.756Z"
 }

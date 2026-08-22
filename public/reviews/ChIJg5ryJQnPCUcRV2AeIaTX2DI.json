@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "MK MK",
+      "author_url": "https://www.google.com/maps/contrib/107277008820643581420/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrsswlZwqkNOfsG17dPxHt_PhHQ9Us51grPeVnlUWHfsSltg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Arzt sehr freundlich und nimmt sich Zeit.",
+      "time": 1787317912,
+      "translated": false
+    },
+    {
       "author_name": "Nicolas",
       "author_url": "https://www.google.com/maps/contrib/115669988382327086086/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7yjMWvh9utSCQwjbt8YNcRrwAQU7qr01LFHCwmVMlsG46hJRX=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundlicher Arzt, der sich Zeit nimmt und auf Fragen eingeht. War zum Hautkrebsscreening da. Selbstzahlerleistung wird transparent kommuniziert.",
+      "time": 1784873794,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie G",
+      "author_url": "https://www.google.com/maps/contrib/114897401242582459791/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7yjMWvh9utSCQwjbt8YNcRrwAQU7qr01LFHCwmVMlsG46hJRX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr freundlicher Arzt, der sich Zeit nimmt und auf Fragen eingeht. War zum Hautkrebsscreening da. Selbstzahlerleistung wird transparent kommuniziert.",
       "time": 1784873794,
       "translated": false
@@ -514,11 +538,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 118,
+  "reviewCount": 119,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-19T05:26:52.194Z"
+  "lastUpdated": "2026-08-22T05:24:10.009Z"
 }

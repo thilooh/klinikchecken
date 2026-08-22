@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dietmar",
+      "author_url": "https://www.google.com/maps/contrib/102461831480141154211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2whdZcEgAoGjNGeuXVPuylgy7ZkHQHFuxt3V8FWo5yyjJYiys=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin über die Videosprechstunde mit Dr. Zollmann in Verbindung gekommen. Der Dr. Zollmann hat mich ausführlich beraten, danach habe ich einen Termin in der Praxis bekommen, um die OP (Dupytrensche Kontraktur) zu besprechen. Es ist alles sehr professionell in dieser Praxis, einfach nur SUPER, kann ich jeden nur empfehlen. Bei mir war es mittlerweile schon die 8 OP. Ich habe leider zuvor diese Praxis nicht gekannt. Tolles Team, toller fachkompetenter Arzt, kaum Wartezeiten, wenn ein Termin anstand, gute Nachbehandlungen, Nutzung digitaler Medien. Ich wurde nach der OP am Abend von Dr. Zollmann angerufen und den Tag darauf vom Team, um sich kundig zu machen, wie es mir geht.\nIch werde 2027 meine andere Hand in dieser Praxis operieren lassen. Macht weiter so!!",
+      "time": 1787304746,
+      "translated": false
+    },
+    {
       "author_name": "Simone Koenitzer",
       "author_url": "https://www.google.com/maps/contrib/116831800330590088223/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Dieter Kurt Zoch",
+      "author_url": "https://www.google.com/maps/contrib/104767571652270860490/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDfb3ddCM32OINoBG6T3K9bOVLcmOwRJkghG1ZyNTgzxPtHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Da Verdacht auf Thrombose, auch ohne Termin umfangreiche Untersuchung.\nKann nur dem gesamten Team ein herzliches Dankeschön sagen. Vollkommen zufrieden.\n06.08.2026\n👍Jederzeit zu empfehlen",
+      "time": 1786039425,
+      "translated": false
+    },
+    {
       "author_name": "Karl Oberhofer",
       "author_url": "https://www.google.com/maps/contrib/102157621231830217241/reviews",
       "language": "de",
@@ -92,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHwUhXFvzPttzZZwYcS88vNAR-zuL7JAu2nFAg-iBYZu6yiq8=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Der Handpapst ! mit Lächeln und einem großem Herz, der gibt - so wie die Rosen im Park ihren Duft verströmen!",
+      "time": 1784729275,
+      "translated": false
+    },
+    {
+      "author_name": "Karl Oberhofer",
+      "author_url": "https://www.google.com/maps/contrib/102157621231830217241/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHwUhXFvzPttzZZwYcS88vNAR-zuL7JAu2nFAg-iBYZu6yiq8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Der Handpapst ! mit Lächeln und einem großem Herz, der gibt - so wie die Rosen im Park ihren Duft verströmen!",
       "time": 1784729275,
       "translated": false
@@ -1024,11 +1060,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 204,
+  "reviewCount": 205,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-08-19T05:27:13.327Z"
+  "lastUpdated": "2026-08-22T05:24:29.045Z"
 }

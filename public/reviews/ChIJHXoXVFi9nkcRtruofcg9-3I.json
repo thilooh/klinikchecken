@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Jack Zammer",
+      "author_url": "https://www.google.com/maps/contrib/101179279056445578726/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2VRzxXHoOZc-_fggAuUxsmY5jrRmTqVP2VpfA16j1sztbng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787242434,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrich Kutschenreiter",
+      "author_url": "https://www.google.com/maps/contrib/105590191418910894512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd8kA0oXAQxnBpbDXrHfQHcqw_mYv0oWailAxrZvdn23PeTw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich ging auf Empfehlung ins Krankenhaus Vincentinum aufgrund eines schweren Bandscheibenvorfalls mit leichten Lähmungserscheinungen.\nNach der Eingangsuntersuchung wurde ich sofort stationär aufgenommen und am zweiten Krankenhaustag erfolgte die Operation. Die OP selbst wurde durchgeführt von Oberarzt Dr. Johannes Meyer, der nach der OP im Wechsel mit Chefarzt Dr. Reinke die Visite durchführte und anstehende Fragen zu meiner Zufriedenheit beantwortet wurden.\nDas Essen war gut und es gibt einen Nachmittagskaffee mit Kuchen in einem Loungebereich, den man mit Besuchern nutzen kann. Dies allerdings nur, wenn man als Wahlleistung ein Einzel- od. Doppelzimmer gebucht hat. (85,-€/165,-€/Tag). Ich habe diese Wahlleistung in Anspruch genommen, da dann auch eine Klimaanlage im Zimmer war.\nZum Schluss möchte ich mich bei den Ärzten und dem Pflegepersonal für die gute Betreuung bedanken und kann das Krankenhaus bedenkenlos weiterempfehlen.",
+      "time": 1787223238,
+      "translated": false
+    },
+    {
+      "author_name": "Lothar Seitter",
+      "author_url": "https://www.google.com/maps/contrib/115396069257691104444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpey5cnWKHZ9XYTbSn8eCEDXzJx_EcQw4B_qDfZWhT8ZWSkT3q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Operationen sind nie schön, aber wenn es sein muss dann im Vincentinum! Top Ärzte und ein Super Service. Einfach zu empfehlen. Basta",
+      "time": 1787126996,
+      "translated": false
+    },
+    {
       "author_name": "Dede Andrius",
       "author_url": "https://www.google.com/maps/contrib/105120887649448336335/reviews",
       "language": "de",
@@ -28,6 +62,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVngUWC7_WFc1MCUUBGJrmD5CtJ2KZI8IfSDI4VTXXgQ-EG-g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786029634,
+      "translated": false
+    },
+    {
+      "author_name": "Beata Lupa",
+      "author_url": "https://www.google.com/maps/contrib/111985188582678194571/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVngUWC7_WFc1MCUUBGJrmD5CtJ2KZI8IfSDI4VTXXgQ-EG-g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1786029634,
       "translated": false
@@ -1148,11 +1192,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 420,
+  "reviewCount": 423,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-19T05:26:46.581Z"
+  "lastUpdated": "2026-08-22T05:24:04.958Z"
 }

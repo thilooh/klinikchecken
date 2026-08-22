@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Pfaffrumpel Kanns",
+      "author_url": "https://www.google.com/maps/contrib/104437370554139376007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbx5UnI3hK-ryLTaR2fS2vjcAm916P4Iro2H5z9Cm8j9hzaQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787166460,
+      "translated": false
+    },
+    {
       "author_name": "Chris H",
       "author_url": "https://www.google.com/maps/contrib/117498827754899170333/reviews",
       "language": "de",
@@ -508,11 +518,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 54,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:52.634Z"
+  "lastUpdated": "2026-08-22T05:24:10.429Z"
 }

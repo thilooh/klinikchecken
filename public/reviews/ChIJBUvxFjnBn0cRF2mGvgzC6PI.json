@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M M",
+      "author_url": "https://www.google.com/maps/contrib/115112696656682944906/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrKuJZXbcXaBjOGI4c-T-G-jbcBjacTEoW7xK0vEkEyCi1p0bq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher und kompetenter Arzt.\nAuch das Team um Dr. Babilas ist sehr sympathisch. Bin total zufrieden!",
+      "time": 1787334902,
+      "translated": false
+    },
+    {
       "author_name": "Gloria Figueroa",
       "author_url": "https://www.google.com/maps/contrib/111253651103017024449/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyNls4j6-sJl-PVw5J88knmBiy2nqjpnqxf--80u43IXGA4g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Eine absolut herausragende Erfahrung! Wir sind extra aus München angereist, um diese Klinik zu besuchen, und es hat sich absolut gelohnt.\n\nDr. med. Rashmi Singh war unglaublich aufmerksam, gründlich und professionell. Sie nahm sich die Zeit, zuzuhören, die Situation genau zu verstehen und alle Behandlungsoptionen detailliert zu erklären. Anders als bei vielen anderen Terminen, bei denen man sich gehetzt fühlt, hatten wir hier nie dieses Gefühl.\n\nSie führte verschiedene Tests durch, darunter Bluttests, einen Pilztest und eine Hautuntersuchung, um sich ein umfassendes Bild zu machen, bevor sie die passende Behandlung festlegte.\n\nDer Termin dauerte etwa 30–40 Minuten, und Dr. Singh beantwortete alle unsere Fragen und stellte sicher, dass wir keine Bedenken mehr hatten, bevor wir gingen. Ihre Detailgenauigkeit und ihre aufrichtige Fürsorge machten einen großen Unterschied.\n\nWir sind mit der Erfahrung äußerst zufrieden und sehr dankbar für die Zeit und die Fürsorge, die Dr. Singh uns entgegengebracht hat. Ich kann Dr. med. Rashmi Singh und diese Klinik wärmstens empfehlen, insbesondere allen, die einen Dermatologen suchen, der sich wirklich Zeit für seine Patienten nimmt.",
+      "time": 1786658438,
+      "translated": true
+    },
+    {
+      "author_name": "Gloria Figueroa",
+      "author_url": "https://www.google.com/maps/contrib/111253651103017024449/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyNls4j6-sJl-PVw5J88knmBiy2nqjpnqxf--80u43IXGA4g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Eine absolut herausragende Erfahrung! Wir sind extra aus München angereist, um diese Klinik zu besuchen, und es hat sich absolut gelohnt.\n\nDr. med. Rashmi Singh war unglaublich aufmerksam, gründlich und professionell. Sie nahm sich die Zeit, zuzuhören, die Situation genau zu verstehen und alle Behandlungsoptionen detailliert zu erklären. Anders als bei vielen anderen Terminen, bei denen man sich gehetzt fühlt, hatten wir hier nie dieses Gefühl.\n\nSie führte verschiedene Tests durch, darunter Bluttests, einen Pilztest und eine Hautuntersuchung, um sich ein umfassendes Bild zu machen, bevor sie die passende Behandlung festlegte.\n\nDer Termin dauerte etwa 30–40 Minuten, und Dr. Singh beantwortete alle unsere Fragen und stellte sicher, dass wir keine Bedenken mehr hatten, bevor wir gingen. Ihre Detailgenauigkeit und ihre aufrichtige Fürsorge machten einen großen Unterschied.\n\nWir sind mit der Erfahrung äußerst zufrieden und sehr dankbar für die Zeit und die Fürsorge, die Dr. Singh uns entgegengebracht hat. Ich kann Dr. med. Rashmi Singh und diese Klinik wärmstens empfehlen, insbesondere allen, die einen Dermatologen suchen, der sich wirklich Zeit für seine Patienten nimmt.",
       "time": 1786658438,
       "translated": true
@@ -560,5 +584,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-19T05:26:51.003Z"
+  "lastUpdated": "2026-08-22T05:24:08.950Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Karsten Scharmann",
+      "author_url": "https://www.google.com/maps/contrib/100467652620321748389/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDeE0AcBQpwvPShjZFh4VcyEfvzNqZwhYcBDaGnsQ5At3HDKnz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Selten,eigentlich noch nie, so eine arrogane freche und unqualifizierte Sprechstundenhilfe an einer Anmeldung erlebt. Die Pause wurde überzogen, okay ist Menschlich.  Aber die Patienten mit Termin auf Nachfrage dann anzuschnauzen das stände ihnen zu  das ist unverschämt. Vor allem noch von einer jungen Frau gegenüber einer älteren Dame.Termin telefonisch für meine Frau und mich gemacht, es war allerdings nur ein Termin im Rechner. Auf Nachfrage was man tun könne\" Gar nichts, kann halt nur einer rein\". Noch nicht mal der Vorschlag zu einem Ausweichtermin. Und so weiter und so fort. Haben die Praxis dann verlassen. So gut kann kein Arzt sein, um das auszugleichen! Gruß an den Chef: Ich würde mich dringend mal nach kompetenten Mitarbeitern umgucken.",
+      "time": 1787315939,
+      "translated": false
+    },
+    {
+      "author_name": "Ines Scharmann",
+      "author_url": "https://www.google.com/maps/contrib/100653987999731076211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJScCF-Vqk9LS92h--o07BR_7zA3Q6ORF1nB1EhsKF2Bkk0uw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärzte sind gut, aber ein Teil der Sprechstundenhilfe inkompetent, frech und unverschämt. Aufgrund dessen werden wir diese Punkte Praxis nie wieder betreten!!!!!!",
+      "time": 1787314388,
+      "translated": false
+    },
+    {
+      "author_name": "Pnr",
+      "author_url": "https://www.google.com/maps/contrib/117060883630462505994/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfjXbAEcFbszlU5bk0swp4LuvaXVGQMN1bK4IPP85astgAoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr enttäuschende Erfahrung mit der Rezeption. Ich hatte über Doctolib einen Termin für Freitag, den 14.08., gebucht, bin pünktlich erschienen und hatte sogar eine Bestätigungs-E-Mail mit dem Namen der Ärztin. Trotzdem wurde mir an der Rezeption gesagt, dass der Termin angeblich nicht richtig gebucht worden sei, und ich wurde nicht angenommen.\n\nBesonders unfreundlich und wenig hilfsbereit fand ich die Art der Rezeptionistin, mit mir zu sprechen. Mit den Ärztinnen selbst war ich bisher immer sehr zufrieden. Schade, dass durch den Umgang an der Rezeption ein ansonsten guter Eindruck verloren geht.",
+      "time": 1787138054,
+      "translated": false
+    },
+    {
       "author_name": "Sonja Koch",
       "author_url": "https://www.google.com/maps/contrib/110885824674864110072/reviews",
       "language": "de",
@@ -1215,12 +1251,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 392,
+  "rating": 4.5,
+  "reviewCount": 388,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:59.408Z"
+  "lastUpdated": "2026-08-22T05:24:16.481Z"
 }

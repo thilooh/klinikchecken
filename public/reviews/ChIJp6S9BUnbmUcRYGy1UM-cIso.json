@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "the lettuce",
+      "author_url": "https://www.google.com/maps/contrib/117932750437699624690/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVn3cLzBdIY_2QvIM3bi_Rt4jom54LvqDYUdOHG292roQIajh7J=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Mutter war dort und wurde sehr aggressiv und unhöflich von der Arzthelferin behandelt. Sie hatte bereits eine sehr weite Hose an gehabt, um den Prozess einfacher zu gestalten und als sie das erwähnte, wurde sie von der Arzthelferin sehr starr angeschaut. Diese hat ihr dann regelrecht wie ein Kind befohlen das zu tun was sie sagt, statt meiner Mutter zu erklären, warum das nicht ginge. Meine Mutter bildet sich so etwas nicht ein, sie ist eine sehr liebe Frau. Die Ärztin war freundlich meinte sie, aber die andere Dame war äußerst unhöflich und gemein zu ihr, während sie mit anderen Patienten normal gesprochen hatte. Und ich möchte keinem Vorwürfe machen, aber sie hat mit meiner Mutter erniedrigend gesprochen und kurz danach änderte sie ihren Ton und ihre Art, um mit anderen Patienten zu sprechen. Kann ich gar nicht weiterempfehlen, erst recht nicht, wenn man freundliche Patienten ekelhaft behandelt aus welchem Grund auch immer.\n\nZusätzlich lies sie meine Mutter kaum aussprechen.\nMeiner Meinung nach muss man mit der Dame mal ein ernstes Gespräch führen. Ich kann verstehen, dass es auch unhöfliche Patienten gibt, aber ich kann versichern meine Mutter hat nichts getan und die Mitarbeiterin ist einfach nur aus Prinzip gemein gewesen.\nEin unverschämtes verhalten ist das. So etwas sollte nicht geduldet werden und so jemand von der Praxis nicht unterstützt werden.\n\nMein Vater war auch dabei und hat das ganze miterlebt und bestätigt.\nDieser hätte sie eigentlich verbal zurechtweisen sollen. Sie kann von Glück sprechen, dass sie eine Frau ist, denn mein Vater hat sich nur aus diesem Grund zurückgehalten, ihr etwas zu sagen. Wir haben solche Menschen in Praxen satt. Sie hat nichts in einem Sozialen Beruf zu suchen.",
+      "time": 1787251881,
+      "translated": false
+    },
+    {
       "author_name": "Jonas Thumm",
       "author_url": "https://www.google.com/maps/contrib/112330768595666392330/reviews",
       "language": "de",
@@ -397,8 +409,8 @@
       "translated": false
     }
   ],
-  "rating": 3.9,
-  "reviewCount": 60,
+  "rating": 3.8,
+  "reviewCount": 61,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:36.207Z"
+  "lastUpdated": "2026-08-22T05:23:55.623Z"
 }

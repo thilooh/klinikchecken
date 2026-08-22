@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Volker Dannehl",
+      "author_url": "https://www.google.com/maps/contrib/103852606078684087946/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8O7RgvJOyJlDvF0c6iqVt7zY5d1lxG-PFSGwVEgX8lkYbEg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zufrieden, keine Wartezeit und kompetente Ärztin.\nImmer wieder gerne.",
+      "time": 1787226942,
+      "translated": false
+    },
+    {
+      "author_name": "Uwe Brandt",
+      "author_url": "https://www.google.com/maps/contrib/101673931944413287163/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvfvlnX6bWyO-93VS_bJaufmlDGpecCJL70M23D0zAYVJYVW9diw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kurze Wartezeit und nettes Personal",
+      "time": 1787216234,
+      "translated": false
+    },
+    {
+      "author_name": "Kirsten Kay",
+      "author_url": "https://www.google.com/maps/contrib/114144512763721292254/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ43JIKeRI8YiJlvJ_AZAexs6rJNUTsiLCxEUUGt1E-X3Jkzw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kaum Wartezeit. Gut strukturierte freundliche Praxis.",
+      "time": 1787141264,
+      "translated": false
+    },
+    {
+      "author_name": "Marcus Althoff",
+      "author_url": "https://www.google.com/maps/contrib/111386345826288556113/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAwpTi4GDjsv_T7fZh3fC-4ZnogZmTPC7HiBtQ6uVgepoiXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher Empfang und gute ärztliche Beratung  ! Ich komme bei Bedarf wieder!",
+      "time": 1787139555,
+      "translated": false
+    },
+    {
       "author_name": "Rüdiger Richter",
       "author_url": "https://www.google.com/maps/contrib/107525057860789723082/reviews",
       "language": "de",
@@ -1552,11 +1600,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2363,
+  "reviewCount": 2367,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-19T05:26:41.467Z"
+  "lastUpdated": "2026-08-22T05:24:00.379Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Y D",
+      "author_url": "https://www.google.com/maps/contrib/118319778003227782898/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB-lkGNOSDMxAPZjP5QM8aCNuDR7T8Cz_1JIhv-sOD-9izNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Arzt und kompetente Beratung",
+      "time": 1787299630,
+      "translated": false
+    },
+    {
+      "author_name": "G F",
+      "author_url": "https://www.google.com/maps/contrib/101692925869558366562/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzk4k9V4LJB2JIQtsja_dhGGlzqAR9PYc-SPocOc0VRZO2mA7hRA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute das erste Mal mit meiner Mama in dieser Praxis. Wir sind sehr begeistert, insbesondere von Frau Dr. Hettrich. Sympathisch, wohlwollend, fachlich top! Sie hat sich Zeit genommen und alle Möglichkeiten für meine Mama sehr gut erklärt. Ein ganz großes Lob von uns und auf jeden Fall fünf ***** Sterne wert. Wir kommen wieder :-)",
+      "time": 1787157062,
+      "translated": false
+    },
+    {
       "author_name": "Silja Blaetterrauschen",
       "author_url": "https://www.google.com/maps/contrib/106275027701470736291/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc3Ae9voASGkfltK4vKf6jK-I2QUSVbsRSFSXUunzM2iPpuA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Es ist nicht einfach, einen Termin beim Phlebologen zu bekommen. Hat man endlich einen, wird man in dieser Praxis freundlich und kompetent behandelt. Kurze Wartezeit, sorgfältige Untersuchung.",
+      "time": 1786639392,
+      "translated": false
+    },
+    {
+      "author_name": "Silja Blaetterrauschen",
+      "author_url": "https://www.google.com/maps/contrib/106275027701470736291/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc3Ae9voASGkfltK4vKf6jK-I2QUSVbsRSFSXUunzM2iPpuA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Es ist nicht einfach, einen Termin beim Phlebologen zu bekommen. Hat man endlich einen, wird man in dieser Praxis freundlich und kompetent behandelt. Kurze Wartezeit, sorgfältige Untersuchung.",
       "time": 1786639392,
       "translated": false
@@ -68,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjh5b0CqMGnKCJP_gXqGYqVrFss3hfHedWTSWgLn05VM2W1A=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin über eine Stunde zu diesem Arzt gefahren, um vor Ort zu erfahren, dass dort keine Lipödem-Diagnosen mehr durchgeführt werden. Diese Information hätte man mir bereits vor meinem Termin mitteilen können. So wären mir die lange Anfahrt und die Wartezeit von einem Monat erspart geblieben.\n\nLeider waren die telefonischen Sprechzeiten praktisch nicht nutzbar, da trotz mehrfacher Versuche niemand erreichbar war. Wäre dort jemand erreichbar gewesen, hätte sich die Situation leicht vermeiden lassen.\n\nVor Ort wurde mir lediglich gesagt, dass auf der Website stehe, dass nur Lymphödeme behandelt werden. Für medizinisches Fachpersonal mag das eindeutig sein – für viele Patientinnen und Patienten ist das jedoch nicht selbstverständlich. Es wäre sinnvoll, auf der Website klar und verständlich zu formulieren, dass keine Diagnostik oder Behandlung von Lipödemen angeboten wird. Das würde Missverständnisse und unnötige Anfahrten vermeiden.\n\nErst nach mehrfacher Bitte durfte ich schließlich doch mit einem Arzt sprechen und meinen Termin wahrnehmen. Herr Dr. Röser war dabei sehr freundlich, hat sich Zeit genommen und einen positiven Eindruck hinterlassen.\n\nWas ich allerdings nicht nachvollziehen kann, ist, warum eine Praxis mit so vielen Angestellten telefonisch praktisch nie erreichbar ist. Eine funktionierende Kommunikation sollte gerade bei wichtigen Informationen zum Leistungsangebot selbstverständlich sein.",
+      "time": 1785407701,
+      "translated": false
+    },
+    {
+      "author_name": "Carmen Locher",
+      "author_url": "https://www.google.com/maps/contrib/114607330068600027221/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjh5b0CqMGnKCJP_gXqGYqVrFss3hfHedWTSWgLn05VM2W1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin über eine Stunde zu diesem Arzt gefahren, um vor Ort zu erfahren, dass dort keine Lipödem-Diagnosen mehr durchgeführt werden. Diese Information hätte man mir bereits vor meinem Termin mitteilen können. So wären mir die lange Anfahrt und die Wartezeit von einem Monat erspart geblieben.\n\nLeider waren die telefonischen Sprechzeiten praktisch nicht nutzbar, da trotz mehrfacher Versuche niemand erreichbar war. Wäre dort jemand erreichbar gewesen, hätte sich die Situation leicht vermeiden lassen.\n\nVor Ort wurde mir lediglich gesagt, dass auf der Website stehe, dass nur Lymphödeme behandelt werden. Für medizinisches Fachpersonal mag das eindeutig sein – für viele Patientinnen und Patienten ist das jedoch nicht selbstverständlich. Es wäre sinnvoll, auf der Website klar und verständlich zu formulieren, dass keine Diagnostik oder Behandlung von Lipödemen angeboten wird. Das würde Missverständnisse und unnötige Anfahrten vermeiden.\n\nErst nach mehrfacher Bitte durfte ich schließlich doch mit einem Arzt sprechen und meinen Termin wahrnehmen. Herr Dr. Röser war dabei sehr freundlich, hat sich Zeit genommen und einen positiven Eindruck hinterlassen.\n\nWas ich allerdings nicht nachvollziehen kann, ist, warum eine Praxis mit so vielen Angestellten telefonisch praktisch nie erreichbar ist. Eine funktionierende Kommunikation sollte gerade bei wichtigen Informationen zum Leistungsangebot selbstverständlich sein.",
       "time": 1785407701,
       "translated": false
@@ -866,11 +914,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 95,
+  "reviewCount": 97,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:27:08.709Z"
+  "lastUpdated": "2026-08-22T05:24:24.860Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "R S",
+      "author_url": "https://www.google.com/maps/contrib/117687092614988363919/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpOFTpAYWPtkBatRNOtZyK-ddFlFcGoTRu2beEdcm2afMewg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum Hautkrebsscreening bei Dr. Farcas, die einen sehr kompetenten Eindruck auf mich macht. Vorsorglich wurde ein Muttermal entfernt, die Fäden von der OP wurden gestern (urlaubsbedingt) von einer Hautärztin in Brackwede gezogen, die voll des Lobes für die hervorragend gesetzten Nähte von Frau Farcas war.",
+      "time": 1787292521,
+      "translated": false
+    },
+    {
       "author_name": "Deniz T.",
       "author_url": "https://www.google.com/maps/contrib/107089122427607024992/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXE_3_DPCl454B0rEnTYgbXjK4OB6EePkJ1GXKCwMEnYC9mDg8=s128-c0x00000000-cc-rp-mo-ba3",
@@ -600,11 +612,11 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 159,
+  "reviewCount": 160,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-19T05:26:43.886Z"
+  "lastUpdated": "2026-08-22T05:24:02.603Z"
 }

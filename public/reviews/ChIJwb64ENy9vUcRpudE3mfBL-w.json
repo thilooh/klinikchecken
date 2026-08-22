@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Defrim Krasniqi",
+      "author_url": "https://www.google.com/maps/contrib/108106107264790730104/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU49yf7_tc9HdVHAWG4PoRiPJyerNzIAIFjlmYi6iDuImP-ppDs=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐ 1 Stern\n\nSehr enttäuschende Erfahrung. Ich habe heute um 11:18 Uhr angerufen, weil meine Frau aktuell eine Allergie im Gesicht hat und wir dringend einen Hautarzttermin suchen. Mir wurde mitgeteilt, dass keine neuen Patienten aufgenommen werden.\n\nAls ich erklärte, dass wir bereits seit Monaten erfolglos bei verschiedenen Hautärzten nach einem Termin suchen, wurde mir empfohlen, es in einem anderen Bundesland zu versuchen.\n\nDass man inzwischen für einen notwendigen Arzttermin möglicherweise in ein anderes Bundesland fahren soll, finde ich persönlich sehr traurig und erschreckend. Mir ist bewusst, dass die Praxis für die allgemeine Versorgungssituation nicht verantwortlich ist – dennoch hätte ich mir in dieser Situation etwas mehr Hilfsbereitschaft oder zumindest einen hilfreichen Hinweis gewünscht.\n\nSo habe ich das heutige Telefonat persönlich erlebt.",
+      "time": 1787222423,
+      "translated": false
+    },
+    {
       "author_name": "Burcu Ali",
       "author_url": "https://www.google.com/maps/contrib/108661965910011293448/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRa2aAqhX0lWOpPQ5Fj3lwzwlPCu1ggDBciF-buhBnFyytjQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Nicht mal einen Stern wert , Keiner geht an die anrufe ran, keiner macht die tür auf. WAHNSINNNNN\nGeht auf jeden fall gar nicht !!!",
+      "time": 1786600986,
+      "translated": false
+    },
+    {
+      "author_name": "Burcu Ali",
+      "author_url": "https://www.google.com/maps/contrib/108661965910011293448/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRa2aAqhX0lWOpPQ5Fj3lwzwlPCu1ggDBciF-buhBnFyytjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Nicht mal einen Stern wert , Keiner geht an die anrufe ran, keiner macht die tür auf. WAHNSINNNNN\nGeht auf jeden fall gar nicht !!!",
       "time": 1786600986,
       "translated": false
@@ -94,6 +118,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFgLhHI7GHrVJh4ZaFxFZtBjWJXnwEEXP14OxNpYP9QRrY1w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1784700832,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmina Bouchouaf",
+      "author_url": "https://www.google.com/maps/contrib/105377177828538589710/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFgLhHI7GHrVJh4ZaFxFZtBjWJXnwEEXP14OxNpYP9QRrY1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1784700832,
       "translated": false
@@ -849,12 +883,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 150,
+  "rating": 4.4,
+  "reviewCount": 151,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:55.025Z"
+  "lastUpdated": "2026-08-22T05:24:12.563Z"
 }

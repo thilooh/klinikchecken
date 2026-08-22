@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Liliana Feraru",
+      "author_url": "https://www.google.com/maps/contrib/104435382749954511211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhofiHq-ulNeXQjud9GNBSW6YQQP9kh16cJMpNMbX8c_XN5fAi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Klinik wärmstens empfehlen. Gestern war ich zum ersten Mal mit Beinvenenbeschwerden hier. Ein sehr freundliches Personal, mit einem Lächeln im Gesicht, erklärte alles so, dass jeder es verstehen konnte. Der Arzt war sehr nett, hat alles genau untersucht und alles leicht und für jeden verständlich erklärt. Ich habe nicht länger gewartet, dann hatte ich den Termin und er hat mich untersucht. Sehr zufrieden.",
+      "time": 1787135760,
+      "translated": false
+    },
+    {
+      "author_name": "nette0770",
+      "author_url": "https://www.google.com/maps/contrib/115521323249950412254/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfOR1g9-yVw_iOlnJf1x7NGXcd9bYZIv_4Ib7KTgGJWbLrB2qE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum zufrieden mit dem Venenzentrum Frankfurt. Die Praxis ist hervorragend organisiert. Frau Dr. Laura Petrescu war überaus freundlich, kompetent und hat sich viel Zeit genommen. Insgesamt habe ich mich bestens aufgehoben und sehr gut betreut gefühlt. Absolut empfehlenswert!",
+      "time": 1787123589,
+      "translated": false
+    },
+    {
       "author_name": "Anja Sternheimer",
       "author_url": "https://www.google.com/maps/contrib/112043201297091795784/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjcPZJH5qiUPpWps6-mNiAib8EKGpJw15j__mvZlDkBUjGU4neDA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Jameda-Bewertung\n\nIch bin eher zufällig auf dieses Venenzentrum gestoßen – und bin wirklich richtig froh darüber! ❤️ Schon beim Reinkommen fühlt man sich direkt willkommen und gut aufgehoben. Das ganze Team ist super freundlich, herzlich und aufmerksam.\n\nDie Terminvergabe war total unkompliziert und die Wartezeit wirklich super kurz. Man merkt einfach, dass hier alles gut organisiert ist und der Mensch im Mittelpunkt steht.\n\nBei Dr. Laura A. Petrescu habe ich mich von Anfang an sehr wohlgefühlt. Sie ist kompetent, nimmt sich Zeit und schafft es mit ihrer herzlichen Art, dass man sofort Vertrauen fasst. Mit meiner Behandlung und vor allem mit dem Ergebnis bin ich absolut zufrieden. 😊\n\nIch kann dieses Venenzentrum echt von Herzen empfehlen und würde jederzeit wiederkommen! ⭐⭐⭐⭐⭐",
+      "time": 1786556614,
+      "translated": false
+    },
+    {
+      "author_name": "Anja Sternheimer",
+      "author_url": "https://www.google.com/maps/contrib/112043201297091795784/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjcPZJH5qiUPpWps6-mNiAib8EKGpJw15j__mvZlDkBUjGU4neDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Jameda-Bewertung\n\nIch bin eher zufällig auf dieses Venenzentrum gestoßen – und bin wirklich richtig froh darüber! ❤️ Schon beim Reinkommen fühlt man sich direkt willkommen und gut aufgehoben. Das ganze Team ist super freundlich, herzlich und aufmerksam.\n\nDie Terminvergabe war total unkompliziert und die Wartezeit wirklich super kurz. Man merkt einfach, dass hier alles gut organisiert ist und der Mensch im Mittelpunkt steht.\n\nBei Dr. Laura A. Petrescu habe ich mich von Anfang an sehr wohlgefühlt. Sie ist kompetent, nimmt sich Zeit und schafft es mit ihrer herzlichen Art, dass man sofort Vertrauen fasst. Mit meiner Behandlung und vor allem mit dem Ergebnis bin ich absolut zufrieden. 😊\n\nIch kann dieses Venenzentrum echt von Herzen empfehlen und würde jederzeit wiederkommen! ⭐⭐⭐⭐⭐",
       "time": 1786556614,
       "translated": false
@@ -856,7 +892,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 160,
+  "reviewCount": 162,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:30.245Z"
+  "lastUpdated": "2026-08-22T05:23:49.965Z"
 }

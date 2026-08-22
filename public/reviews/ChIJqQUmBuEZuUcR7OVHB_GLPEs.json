@@ -1,6 +1,38 @@
 {
   "reviews": [
     {
+      "author_name": "Detlev Lorenz",
+      "author_url": "https://www.google.com/maps/contrib/110960129615239791889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt47_qQCBsZLBE9If5E8dU4IMEo66wIndTPxl0mn6cHZkeGLOl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787376064,
+      "translated": false
+    },
+    {
+      "author_name": "P K",
+      "author_url": "https://www.google.com/maps/contrib/117239708683156441301/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoXVPKfo9_JbL8g_YCw6PcPb35wSwfSlR4kRAcwypvytNJr1_F=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Diese Klinik ist telefonisch gar nicht erreichbar, wie alle anderen Kliniken. Es ist wie, wenn man auf der Kirmes Lose kauft. Es sind fast immer Nieten.",
+      "time": 1787305257,
+      "translated": false
+    },
+    {
+      "author_name": "Lu :3",
+      "author_url": "https://www.google.com/maps/contrib/113226136475957181710/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0vpOfcnIGs2Q_6_d7SDiFrZyaZnTOlm-kNxeQHz05k-EH6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787219374,
+      "translated": false
+    },
+    {
       "author_name": "Erwin Schmedtmann",
       "author_url": "https://www.google.com/maps/contrib/118179187401995456498/reviews",
       "language": "de",
@@ -18,6 +50,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBxDu3RzDitf3zCoVwgXmWqUs0967K6UsjwM3K1WmVeJKvzg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786638586,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Wiesner",
+      "author_url": "https://www.google.com/maps/contrib/102425403926330882783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBxDu3RzDitf3zCoVwgXmWqUs0967K6UsjwM3K1WmVeJKvzg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1786638586,
       "translated": false
@@ -1200,7 +1242,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 294,
+  "reviewCount": 298,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:31.487Z"
+  "lastUpdated": "2026-08-22T05:23:51.080Z"
 }

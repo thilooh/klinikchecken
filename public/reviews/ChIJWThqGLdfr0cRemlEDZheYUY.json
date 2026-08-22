@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Pascal Arndt",
+      "author_url": "https://www.google.com/maps/contrib/113628871974045409387/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQV_MI68cii0zKkzmL-DmLwfEIfZiYQc3xbNSY9ga4qDMoUw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787224161,
+      "translated": false
+    },
+    {
       "author_name": "Rachel Wang",
       "author_url": "https://www.google.com/maps/contrib/117006983446292565106/reviews",
       "language": "en",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRWVJU-8Tg3jjmG1rNEc92Ptr_jBM2CVNS8ryZ8MIjWudAMw=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Schick, modern, alles sehr neuwertig\nLeider geht der Tresor nicht ,um Wertgegenstände einzuschließen",
+      "time": 1786601621,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Spilker",
+      "author_url": "https://www.google.com/maps/contrib/110311293136508608939/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRWVJU-8Tg3jjmG1rNEc92Ptr_jBM2CVNS8ryZ8MIjWudAMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Schick, modern, alles sehr neuwertig\nLeider geht der Tresor nicht ,um Wertgegenstände einzuschließen",
       "time": 1786601621,
       "translated": false
@@ -1176,11 +1198,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 474,
+  "reviewCount": 475,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-19T05:26:40.776Z"
+  "lastUpdated": "2026-08-22T05:23:59.734Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Canan Otten",
+      "author_url": "https://www.google.com/maps/contrib/115452987487588066105/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnTBdeFteE8FwcGeqziDeEyFK7jtJC8d5Rc0vjNS6VP_FvZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Erstmal möchte ich mich herzlich beim Team sowohl bei dem kompetenten Doktor bedanken.\nIch habe mich auf anhieb in der Praxis,sowohl beim Beratung und Untersuchung sehr wohl gefühlt.\nHerr Doktor Sabe ist ein sehr kompetenter, feinfühliger Arzt mit einem sehr umfangreichen Fachwissen in seinem Gebiet. Dank Ihm habe ich endlich die Klarheit weswegen ich Jahre lange Schmerzen hatte, während andere Ärzte einen nicht ernst nehmen, und vertröstend mit Medikamenten nach Hause schicken, hat Herr Doktor Sabe mit einem Gespräch/Ultraschall/weitere Untersuchung die Ursachen und Herkunft meiner Beschwerden erkannt. Ich bin unendlich dankbar dass es solche Kompetente Ärzte gibt die Ihre Arbeit mit Herz durchführen. Ich kann den Herr Doktor Sabe sehr Empfehlen. Dankeschön für alles an das gesamte Team",
+      "time": 1787222043,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Kempers",
       "author_url": "https://www.google.com/maps/contrib/111459057785424659337/reviews",
       "language": "de",
@@ -23,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "Hilde Lüpges",
+      "author_url": "https://www.google.com/maps/contrib/108320378873537353359/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWBLRCy_Yz5-fuUip4IP3qFr8dCWmvuDVdYvCsXoy1Ixv6Jg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786711097,
+      "translated": false
+    },
+    {
       "author_name": "Mohammed Twir",
       "author_url": "https://www.google.com/maps/contrib/105274941353886036937/reviews",
       "language": "de",
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTTV-zDWfU_i06iK_eYdD9wiyb62w94K5JQk_gmsCW8zpx3mzY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Herrn Dr. Shadi Sabi und bin sehr zufrieden. Die Mitarbeiterinnen sind sehr freundlich und hilfsbereit. Die Wartezeit war sehr kurz und die Praxis ist sehr sauber und gepflegt. Auch die Behandlung war sehr angenehm und professionell. Ich habe mich gut aufgehoben gefühlt und kann die Praxis auf jeden Fall weiterempfehlen. Vielen Dank",
+      "time": 1786623869,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammed Twir",
+      "author_url": "https://www.google.com/maps/contrib/105274941353886036937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTTV-zDWfU_i06iK_eYdD9wiyb62w94K5JQk_gmsCW8zpx3mzY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war bei Herrn Dr. Shadi Sabi und bin sehr zufrieden. Die Mitarbeiterinnen sind sehr freundlich und hilfsbereit. Die Wartezeit war sehr kurz und die Praxis ist sehr sauber und gepflegt. Auch die Behandlung war sehr angenehm und professionell. Ich habe mich gut aufgehoben gefühlt und kann die Praxis auf jeden Fall weiterempfehlen. Vielen Dank",
       "time": 1786623869,
       "translated": false
@@ -78,6 +112,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt5eFZCoJBqnhsxUBinCDumRsrB6EhNqWm-YucOHHv_WMvYA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Der Beste!",
+      "time": 1784644457,
+      "translated": false
+    },
+    {
+      "author_name": "Marianne Bargsten",
+      "author_url": "https://www.google.com/maps/contrib/109749688125145997018/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt5eFZCoJBqnhsxUBinCDumRsrB6EhNqWm-YucOHHv_WMvYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Der Beste!",
       "time": 1784644457,
       "translated": false
@@ -714,11 +760,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 82,
+  "reviewCount": 83,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:58.300Z"
+  "lastUpdated": "2026-08-22T05:24:15.511Z"
 }

@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "Malermeisterbetrieb Akcay",
+      "author_url": "https://www.google.com/maps/contrib/115094317284127275732/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrr29cO0kvi3dTVerxVGuweCo5FVtTq6OAiWGH2cMY0_O1MVzo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785428155,
+      "translated": false
+    },
+    {
       "author_name": "Sabine Dörfer",
       "author_url": "https://www.google.com/maps/contrib/101787383638857682362/reviews",
       "language": "de",
@@ -158,6 +168,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP0Wa7-hIwTpo1sLMmKxcySk0e_pWaq0saiKerjK43gk2c8Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Äußerst zufrieden.\nKompetenter Arzt und freundliches Personal.\nRund um perfekt",
+      "time": 1782057177,
+      "translated": false
+    },
+    {
+      "author_name": "Franz Josef Düppengiesser",
+      "author_url": "https://www.google.com/maps/contrib/115526315707854685232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP0Wa7-hIwTpo1sLMmKxcySk0e_pWaq0saiKerjK43gk2c8Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Äußerst zufrieden.\nKompetenter Arzt und freundliches Personal.\nRund um perfekt",
       "time": 1782057177,
       "translated": false
@@ -562,5 +584,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:42.911Z"
+  "lastUpdated": "2026-08-22T05:24:01.663Z"
 }

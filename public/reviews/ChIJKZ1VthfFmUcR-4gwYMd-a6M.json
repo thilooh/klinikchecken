@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Claudia Tribbensee",
+      "author_url": "https://www.google.com/maps/contrib/103476079757352433151/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYRp-BkkcAepJ0OmloRWzbVjejbD8xKE2aoufSVkVa2yAOzQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin seit Jahren sehr zufrieden mit der Praxis. Nette Damen am Empfang. Direkt bei der stadtmitte S-Bahn Haltestelle. Mit Auto ist in der Nähe ein Parkplatz mit ca 30-40 kostenpflichtigen parkplätzen. Die Praxis hat verschiedene Möglichkeiten bei der Behandlung der Haut.",
+      "time": 1787345879,
+      "translated": false
+    },
+    {
+      "author_name": "Si.Hrichi",
+      "author_url": "https://www.google.com/maps/contrib/113541545300296292592/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWb7d-T7o_XK_YPgR5JPSsps4N0-iEBMwU7lz_OoBZ1zE3UfeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Frau Dr. Lee zur KTP-Laserbehandlung und habe mich bei ihr sehr gut aufgehoben gefühlt. Sie war sehr freundlich, ruhig und hat sich Zeit genommen, alles verständlich zu erklären. Besonders positiv fand ich ihre gründliche und angenehme Art. Ich würde mich jederzeit wieder von ihr behandeln lassen und kann sie wirklich weiterempfehlen!",
+      "time": 1787323258,
+      "translated": false
+    },
+    {
       "author_name": "S B",
       "author_url": "https://www.google.com/maps/contrib/114472138711290576001/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4mGHPNTk_s_WAD00QklHKIkLaGVHPRdoOaMeUtU-Zwk1rheY=s128-c0x00000000-cc-rp-mo-ba2",
@@ -23,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Marc",
+      "author_url": "https://www.google.com/maps/contrib/110829147157618640922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI83pG8CW-DPXW0vi559xjiJAQWAWMRimlwfVgafsiNWXXYDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Persönlich nicht zu empfehlen",
+      "time": 1786694361,
+      "translated": false
+    },
+    {
       "author_name": "Markus Zuschlag",
       "author_url": "https://www.google.com/maps/contrib/113078330307259364704/reviews",
       "language": "de",
@@ -30,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoquHrbevnR3f324Vdg30HOvAWTqlF4bKU6L-M9x2W3BZ77A=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Anfang Juni habe ich über Doctolib einen Termin für den 12.08.2026 bei dieser Einrichtung gemacht. Kassenpatienten wurden bei Hautveränderungen angenommen. Erinnerungsmails zum Termin habe ich mehrfach erhalten. Als ich Vorort zum Termin erschien, hieß es, da wäre ein Problem mit Doctolib gewesen, man nehme keine Neupatienten mehr auf. !\nNach Beschwerde meinerseits, wurde mir angeboten die 1.Behandlung auf Kasse abzurechnen, aber alle folgenden als Selbstzahler wahrnehmen zu müssen. Sogleich bekam ich ein Tablet in die Hand zum Ausfüllen meiner Daten, zuzüglich meiner Bestätigung mich als Selbstzahler abrechnen zu dürfen.\n\nMir machte es den Eindruck, dass hier ein System hinterlegt ist, über Doctolib Patienten zu Selbstzahlern heranzuziehen.\nIch sagte daraufhin den Termin ab, was für mich sehr ärgerlich war, da ich Urlaub nehmen, 120 km bei diesen Benzinpreisen fahren musste und mir die Zeit von der Terminvereinbarung bis zu diesem Termin, für die Suche nach Hautärzten, die \"auch noch Kassenpatienten\" behandeln, verloren ging.",
+      "time": 1786538655,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Zuschlag",
+      "author_url": "https://www.google.com/maps/contrib/113078330307259364704/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoquHrbevnR3f324Vdg30HOvAWTqlF4bKU6L-M9x2W3BZ77A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Anfang Juni habe ich über Doctolib einen Termin für den 12.08.2026 bei dieser Einrichtung gemacht. Kassenpatienten wurden bei Hautveränderungen angenommen. Erinnerungsmails zum Termin habe ich mehrfach erhalten. Als ich Vorort zum Termin erschien, hieß es, da wäre ein Problem mit Doctolib gewesen, man nehme keine Neupatienten mehr auf. !\nNach Beschwerde meinerseits, wurde mir angeboten die 1.Behandlung auf Kasse abzurechnen, aber alle folgenden als Selbstzahler wahrnehmen zu müssen. Sogleich bekam ich ein Tablet in die Hand zum Ausfüllen meiner Daten, zuzüglich meiner Bestätigung mich als Selbstzahler abrechnen zu dürfen.\n\nMir machte es den Eindruck, dass hier ein System hinterlegt ist, über Doctolib Patienten zu Selbstzahlern heranzuziehen.\nIch sagte daraufhin den Termin ab, was für mich sehr ärgerlich war, da ich Urlaub nehmen, 120 km bei diesen Benzinpreisen fahren musste und mir die Zeit von der Terminvereinbarung bis zu diesem Termin, für die Suche nach Hautärzten, die \"auch noch Kassenpatienten\" behandeln, verloren ging.",
       "time": 1786538655,
       "translated": false
@@ -1084,7 +1132,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 323,
+  "reviewCount": 325,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:36.704Z"
+  "lastUpdated": "2026-08-22T05:23:56.124Z"
 }

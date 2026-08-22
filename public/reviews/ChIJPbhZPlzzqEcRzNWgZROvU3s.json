@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Julia Dávid",
+      "author_url": "https://www.google.com/maps/contrib/116537518445166458783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXD0DMxtXAUTHExynybWo-V7wbRzlcgl0tWUY6fBDoQLQBy5L2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786661498,
+      "translated": false
+    },
+    {
       "author_name": "Julia",
       "author_url": "https://www.google.com/maps/contrib/103778712705596678006/reviews",
       "language": "de",
@@ -18,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOeBokUb-oNyL_fXBmSMMWN71Isq6h8Hz3DTPUQHzzx-QlnA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Empfehlung! Ich wurde sehr ausführlich und kompetent beraten und hatte zu jeder Zeit das Gefühl, dass sich ausreichend Zeit für meine Fragen und Anliegen genommen wird. Auch telefonisch ist das Team sehr gut erreichbar. Die gesamte Behandlung und Betreuung ist äußerst professionell, seriös und vertrauenswürdig. Ich habe mich rundum gut aufgehoben gefühlt.",
+      "time": 1786632280,
+      "translated": false
+    },
+    {
+      "author_name": "Julia",
+      "author_url": "https://www.google.com/maps/contrib/103778712705596678006/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOeBokUb-oNyL_fXBmSMMWN71Isq6h8Hz3DTPUQHzzx-QlnA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Absolute Empfehlung! Ich wurde sehr ausführlich und kompetent beraten und hatte zu jeder Zeit das Gefühl, dass sich ausreichend Zeit für meine Fragen und Anliegen genommen wird. Auch telefonisch ist das Team sehr gut erreichbar. Die gesamte Behandlung und Betreuung ist äußerst professionell, seriös und vertrauenswürdig. Ich habe mich rundum gut aufgehoben gefühlt.",
       "time": 1786632280,
       "translated": false
@@ -895,12 +917,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 141,
+  "rating": 4.9,
+  "reviewCount": 138,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:54.547Z"
+  "lastUpdated": "2026-08-22T05:24:12.123Z"
 }

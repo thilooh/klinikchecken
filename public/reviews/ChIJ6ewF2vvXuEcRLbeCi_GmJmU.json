@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Linda K.",
+      "author_url": "https://www.google.com/maps/contrib/106913801705615515268/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLunPaI4W9AKpZF7lpTE5RHYeqf2O58h0XMl4NhZz9HqULV3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Ärztin leider garnicht empfehlen. 1,5 Stunden Warten trotz fixem Termin, um dann 3 Sachen genannt zu bekommen, die ich mal googeln sollte. Da hätte ChatGPT wohl eine bessere Diagnose und Tipps gegeben, schade",
+      "time": 1787243012,
+      "translated": false
+    },
+    {
       "author_name": "Olena Averkina",
       "author_url": "https://www.google.com/maps/contrib/105928662209905282663/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItwsJhVl9vVqemLehZ79mJnMOffapxNSsVYE2U_0399Y5xvQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr hilfsbereite und kompetente Ärztin. Sie ist immer freundlich, gut gelaunt und strahlt wie ein Sonnenschein. Solche Ärzte gibt es heutzutage leider nur noch sehr selten. Eine Ärztin, bei der man sich einfach gut aufgehoben fühlt. Absolut empfehlenswert!",
+      "time": 1786546528,
+      "translated": false
+    },
+    {
+      "author_name": "Yulia Petkau",
+      "author_url": "https://www.google.com/maps/contrib/100965160414461821501/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItwsJhVl9vVqemLehZ79mJnMOffapxNSsVYE2U_0399Y5xvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr hilfsbereite und kompetente Ärztin. Sie ist immer freundlich, gut gelaunt und strahlt wie ein Sonnenschein. Solche Ärzte gibt es heutzutage leider nur noch sehr selten. Eine Ärztin, bei der man sich einfach gut aufgehoben fühlt. Absolut empfehlenswert!",
       "time": 1786546528,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITWA_9l2qakNrIFUdVZ30O2wn0dDienF9vRq7hVRt4mtkD4A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin rundum zufrieden. Die Wartezeit war angenehm, die Behandlung kompetent und sorgfältig. Hervorheben möchte ich dass die Ärztin sehr empathisch und freundlich war. Ich habe mich gut aufgehoben gefühlt. Auch die Assistentin war sehr nett. Ich habe mich sehr wohl gefühlt. Vielen Dank.",
+      "time": 1785305961,
+      "translated": false
+    },
+    {
+      "author_name": "Ja H",
+      "author_url": "https://www.google.com/maps/contrib/104757613008047683012/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITWA_9l2qakNrIFUdVZ30O2wn0dDienF9vRq7hVRt4mtkD4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin rundum zufrieden. Die Wartezeit war angenehm, die Behandlung kompetent und sorgfältig. Hervorheben möchte ich dass die Ärztin sehr empathisch und freundlich war. Ich habe mich gut aufgehoben gefühlt. Auch die Assistentin war sehr nett. Ich habe mich sehr wohl gefühlt. Vielen Dank.",
       "time": 1785305961,
       "translated": false
@@ -1026,11 +1062,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 236,
+  "reviewCount": 237,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:44.630Z"
+  "lastUpdated": "2026-08-22T05:24:03.256Z"
 }

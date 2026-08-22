@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Özge Yasar",
+      "author_url": "https://www.google.com/maps/contrib/117923248260129430701/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQ4ZXTLRiO0oiwCC1BFT_p2rhBVJPTzT-aLsDbk2M0cvYBug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetenter und freundlicher Arzt (dr Kristen). Ich habe mich von Anfang an gut aufgehoben und ernst genommen gefühlt. Die Untersuchung und Beratung waren ausführlich und verständlich. Auch das gesamte Praxisteam war sehr freundlich und hilfsbereit. Ich kann diesen Arzt uneingeschränkt weiterempfehlen!",
+      "time": 1787121777,
+      "translated": false
+    },
+    {
       "author_name": "Sandra",
       "author_url": "https://www.google.com/maps/contrib/105184126703949688001/reviews",
       "language": "de",
@@ -729,11 +741,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 188,
+  "reviewCount": 189,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-08-19T05:26:25.143Z"
+  "lastUpdated": "2026-08-22T05:23:44.046Z"
 }

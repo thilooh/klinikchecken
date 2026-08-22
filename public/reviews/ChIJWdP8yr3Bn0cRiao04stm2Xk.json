@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "Claudia Huber",
+      "author_url": "https://www.google.com/maps/contrib/102583895579333563756/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKU4doR4HqxFBPaSc41G_BrFbznPPPq5hE2KP8VkWumLkUymg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785487968,
+      "translated": false
+    },
+    {
       "author_name": "Jule Donhauser",
       "author_url": "https://www.google.com/maps/contrib/105132835427135566433/reviews",
       "language": "de",
@@ -91,6 +101,18 @@
       "translated": false
     },
     {
+      "author_name": "Jule Donhauser",
+      "author_url": "https://www.google.com/maps/contrib/105132835427135566433/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV7O6txK7J4zvgcwX5yb1-sPEHxFuz5jhx0-tbASKvaIZ3Do0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
+      "text": "Keine lange Wartezeit und total freundlich",
+      "time": 1784531437,
+      "translated": false
+    },
+    {
       "author_name": "Ida Schmid",
       "author_url": "https://www.google.com/maps/contrib/102466507143703912899/reviews",
       "language": "de",
@@ -271,6 +293,18 @@
       "translated": false
     },
     {
+      "author_name": "M. H.",
+      "author_url": "https://www.google.com/maps/contrib/113118197573184551649/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIozumeeVHdMFkgO0H7ZycYksWK2VdzzKdvBl5TdkKtqwRSw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Herr Dr. Vielsmeier ist ein sehr höflicher, kompetenter und \"menschlicher\" Arzt. Ich fühle mich jedes Mal erstklassig betreut und diagnostiziert. Ebenso die freundlichen Damen am Empfang und bei den Nebenuntersuchungen. 5 Sterne ohne Einschränkung!",
+      "time": 1776960328,
+      "translated": false
+    },
+    {
       "author_name": "R. Steger",
       "author_url": "https://www.google.com/maps/contrib/105644601342402249198/reviews",
       "language": "de",
@@ -362,6 +396,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2Qax63N-MZVigMVeHRRU1km_ou12m0gq9iJALH4hor1zPYw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Sehr freundlich und mit den Terminen sehr gut organisiert. Und sehr kompetent. Schön das es so eine Praxis noch gibt.",
+      "time": 1776859307,
+      "translated": false
+    },
+    {
+      "author_name": "R. Steger",
+      "author_url": "https://www.google.com/maps/contrib/105644601342402249198/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2Qax63N-MZVigMVeHRRU1km_ou12m0gq9iJALH4hor1zPYw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Sehr freundlich und mit den Terminen sehr gut organisiert. Und sehr kompetent. Schön das es so eine Praxis noch gibt.",
       "time": 1776859307,
       "translated": false
@@ -530,5 +576,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-19T05:26:50.773Z"
+  "lastUpdated": "2026-08-22T05:24:08.737Z"
 }

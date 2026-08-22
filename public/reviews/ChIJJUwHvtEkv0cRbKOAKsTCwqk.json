@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Sara T.",
+      "author_url": "https://www.google.com/maps/contrib/111775963623270620246/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMX8LE9lHkscK-_K69uNupvfVXO-jDtO3p1aEQbfv6is2SdQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Kompetente Ärzte und Mitarbeiter, realistische Terminvergabe und Wartezeiten. Sehr schöne Praxis. Schlecht zu parken.",
+      "time": 1785926438,
+      "translated": false
+    },
+    {
       "author_name": "Beate Thoennes",
       "author_url": "https://www.google.com/maps/contrib/118353203753666231549/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk7QQ7cq-hjp1G4K_okShDUGDIsi6zfOsJyThdjsH32MQBNA=s128-c0x00000000-cc-rp-mo-ba5",
@@ -86,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ6FErI8qNZttjcB6u0iWKVjP34skOAS2VJuks1lbbUzdD5A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Top Praxis, gutes Angebot, Termine ok, parken mit etwas Glück direkt vor der Tür",
+      "time": 1785442815,
+      "translated": false
+    },
+    {
+      "author_name": "Scotty",
+      "author_url": "https://www.google.com/maps/contrib/108872855014064635465/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ6FErI8qNZttjcB6u0iWKVjP34skOAS2VJuks1lbbUzdD5A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Top Praxis, gutes Angebot, Termine ok, parken mit etwas Glück direkt vor der Tür",
       "time": 1785442815,
       "translated": false
@@ -495,5 +519,5 @@
   "rating": 4.8,
   "reviewCount": 78,
   "summary": [],
-  "lastUpdated": "2026-08-19T05:26:27.974Z"
+  "lastUpdated": "2026-08-22T05:23:47.278Z"
 }

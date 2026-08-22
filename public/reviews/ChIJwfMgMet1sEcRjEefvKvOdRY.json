@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mr Moxito",
+      "author_url": "https://www.google.com/maps/contrib/114500250651054972397/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4meZn3IPx0eOgjKoqSOXuXLsifq63DPwHc5D-E4PSlq9Wuuiv=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787167260,
+      "translated": false
+    },
+    {
       "author_name": "Claus Lange",
       "author_url": "https://www.google.com/maps/contrib/111605299255006618215/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzpV_ET5uMd4sV0v1AWx8SkFFkupCgbaiyGr8bq_7zpYkmNqA=s128-c0x00000000-cc-rp-mo-ba2",
@@ -40,6 +50,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2sd_YcVwkNLMSW-Y-pVrDFpejQBGdFEIwVTn897rrN8iCuw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1786655676,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfgang Dittrich",
+      "author_url": "https://www.google.com/maps/contrib/106743989851989091641/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2sd_YcVwkNLMSW-Y-pVrDFpejQBGdFEIwVTn897rrN8iCuw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1786655676,
       "translated": false
@@ -1068,5 +1088,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-19T05:26:38.156Z"
+  "lastUpdated": "2026-08-22T05:23:57.397Z"
 }
