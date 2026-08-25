@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Klaus Kollmann",
+      "author_url": "https://www.google.com/maps/contrib/109878949507616853030/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYepR2NQxKL83kKYqifksdB-7ZsQRsADKyOokx7ur9qPPQ68U=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut organisiert, sehr freundlich,\nnimmt sich Zeit, erklärt sehr gut",
+      "time": 1787474167,
+      "translated": false
+    },
+    {
       "author_name": "Lothar Genzel",
       "author_url": "https://www.google.com/maps/contrib/107483506179302476502/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-xt7xh6OuUbME6PlsbLoKKNSJNMyb1GXNv7GZRZSn1ebPRw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kann Frau Dr. Rempel - als sehr kompetente , zuvorkommende und freundliche Ärztin bezeichnen . Diese Praxis ist sehr empfehlenswert.",
+      "time": 1785086033,
+      "translated": false
+    },
+    {
+      "author_name": "Lothar Genzel",
+      "author_url": "https://www.google.com/maps/contrib/107483506179302476502/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-xt7xh6OuUbME6PlsbLoKKNSJNMyb1GXNv7GZRZSn1ebPRw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich kann Frau Dr. Rempel - als sehr kompetente , zuvorkommende und freundliche Ärztin bezeichnen . Diese Praxis ist sehr empfehlenswert.",
       "time": 1785086033,
       "translated": false
@@ -624,11 +648,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 71,
+  "reviewCount": 72,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:13.624Z"
+  "lastUpdated": "2026-08-25T05:29:10.668Z"
 }

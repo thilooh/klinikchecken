@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Xkart01",
+      "author_url": "https://www.google.com/maps/contrib/105476919744143606118/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL0ZUE0EOBslPh8Hlqe7Ub7OzaVC5m42cYS01fXjh5vnH_nA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Weder wurde ein Kostenvoranschlag übermittelt, noch gab es eine transparente Preis- und Leistungsübersicht im Terminbuchungsprozess. Lediglich der Termin selbst wird klar kommuniziert. Erst vor Ort erfährt man von den anfallenden Kosten und der dahinterstehenden konkreten Leistung. Die Selbstzahlerpflicht wird im Online-Buchungsprozess nicht transparent dargestellt, sondern ist nur auf einer Unterseite versteckt (geprüft im August 2026). Wenn man die Behandlung daraufhin vor Ort nicht durchführen lassen möchte, wird direkt eine Ausfallgebühr von mindestens 75 € verlangt. Dadurch fühlt man sich stark unter Druck gesetzt, die Behandlung dennoch in Anspruch zu nehmen. Selbst das Personal räumte ein, dass Patienten vor Ort häufig überrascht reagieren.\nBitte sorgen Sie im Buchungsablauf direkt für klare Verhältnisse und vollständige Informationen, anstatt Patienten vor Ort mit Ausfallgebühren zu konfrontieren und unter Zugzwang zu setzen.",
+      "time": 1787633911,
+      "translated": false
+    },
+    {
       "author_name": "Pfaffrumpel Kanns",
       "author_url": "https://www.google.com/maps/contrib/104437370554139376007/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbx5UnI3hK-ryLTaR2fS2vjcAm916P4Iro2H5z9Cm8j9hzaQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -517,12 +529,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 55,
+  "rating": 4.6,
+  "reviewCount": 56,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:10.429Z"
+  "lastUpdated": "2026-08-25T05:29:07.161Z"
 }

@@ -79,6 +79,16 @@
       "translated": false
     },
     {
+      "author_name": "Michaela Aldag",
+      "author_url": "https://www.google.com/maps/contrib/113470670891959133853/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKS72TOYDmiegXoiIVoHiqOwMBXZlBeMSDvZTVN0w-2fk4qWf0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785759683,
+      "translated": false
+    },
+    {
       "author_name": "Roland Müller",
       "author_url": "https://www.google.com/maps/contrib/117160885011387991445/reviews",
       "language": "de",
@@ -684,5 +694,5 @@
   "rating": 4,
   "reviewCount": 126,
   "summary": [],
-  "lastUpdated": "2026-08-22T05:23:56.334Z"
+  "lastUpdated": "2026-08-25T05:28:51.830Z"
 }

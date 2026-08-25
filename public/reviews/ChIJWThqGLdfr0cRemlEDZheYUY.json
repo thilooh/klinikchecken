@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sabrina Spychalski",
+      "author_url": "https://www.google.com/maps/contrib/111891905356573710879/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-PVPsZdbRkZw1vj7LPpRcgClVzHfqCHZQiCT2OR8PSQqziSUu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787580305,
+      "translated": false
+    },
+    {
       "author_name": "Pascal Arndt",
       "author_url": "https://www.google.com/maps/contrib/113628871974045409387/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQV_MI68cii0zKkzmL-DmLwfEIfZiYQc3xbNSY9ga4qDMoUw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -21,6 +31,18 @@
       "text": "It is not easy to find a Hausarzt who is accepting new patients, so I’m very grateful to have found this practice.\n\nI would especially like to thank Frau Birkena for her kindness, patience, and helpfulness. I had forgotten to bring my health insurance card, but she was very understanding and patiently helped me find a solution so that I didn’t miss my appointment. I really appreciated her warm, friendly, and professional support. Thank you so much Frau Birkena!",
       "time": 1786953202,
       "translated": false
+    },
+    {
+      "author_name": "Rachel Wang",
+      "author_url": "https://www.google.com/maps/contrib/117006983446292565106/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3VoB-LaanVuHuuwUS4e0q9mrvWvmCZPFa8sYl3fZH7r1GfA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Es ist nicht einfach, einen Hausarzt zu finden, der neue Patienten aufnimmt, deshalb bin ich sehr dankbar, diese Praxis gefunden zu haben.\n\nIch möchte mich ganz besonders bei Frau Birkena für ihre Freundlichkeit, Geduld und Hilfsbereitschaft bedanken. Ich hatte meine Krankenversicherungskarte vergessen, aber sie war sehr verständnisvoll und hat mir geduldig geholfen, eine Lösung zu finden, damit ich meinen Termin nicht verpasst habe. Ich habe ihre herzliche, freundliche und professionelle Unterstützung sehr geschätzt. Vielen Dank, Frau Birkena!",
+      "time": 1786953202,
+      "translated": true
     },
     {
       "author_name": "Andrea Spilker",
@@ -1198,11 +1220,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 475,
+  "reviewCount": 476,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-22T05:23:59.734Z"
+  "lastUpdated": "2026-08-25T05:28:55.514Z"
 }

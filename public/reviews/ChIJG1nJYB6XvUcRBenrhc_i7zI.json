@@ -109,6 +109,18 @@
       "translated": true
     },
     {
+      "author_name": "Charles Bagarie",
+      "author_url": "https://www.google.com/maps/contrib/112692288391487092763/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu59xtIp_Uq8gN6gpANjty6svQvu1UCBPx7zTRQc1hHyvuXw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich gehe seit einigen Jahren dorthin und kann bestätigen, dass es eine wirklich angenehme Praxis mit sehr gutem Service ist. Die Terminvereinbarung online ist unkompliziert, man erhält eine Bestätigung per E-Mail und muss im Wartezimmer nicht warten. Ärzte und Assistenten sind hochqualifiziert und sprechen fließend Deutsch und Englisch. Es gibt ausreichend Parkplätze. Der Kundenservice ist erstklassig (10/10).",
+      "time": 1784873186,
+      "translated": true
+    },
+    {
       "author_name": "Michelle Marie Shockley",
       "author_url": "https://www.google.com/maps/contrib/115406371964881221583/reviews",
       "language": "de",
@@ -296,6 +308,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbQQb6jm0Qg4xW-FuIDBSZEliQNo9bdcq-HGxl8dHHegknRO5H=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Freundlich, geringe Wartezeiten bei Termin und immer sehr kompetente Behandlung.",
+      "time": 1782365370,
+      "translated": false
+    },
+    {
+      "author_name": "Reisefuchs",
+      "author_url": "https://www.google.com/maps/contrib/103093640310579771365/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSnCkv0WnYEWWzkqdqSBkLEsru5wk7KeCqIEivPReAnKXD75xI=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Freundlich, geringe Wartezeiten bei Termin und immer sehr kompetente Behandlung.",
       "time": 1782365370,
       "translated": false
@@ -970,5 +994,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:13.207Z"
+  "lastUpdated": "2026-08-25T05:29:10.210Z"
 }

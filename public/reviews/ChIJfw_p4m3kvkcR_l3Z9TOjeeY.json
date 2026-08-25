@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Hanna Horina",
+      "author_url": "https://www.google.com/maps/contrib/102628927955469221986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLocvZ3aimCYNEyOam76u1gFveJm3E4u0g1gr4fSjoCC72PQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787502573,
+      "translated": false
+    },
+    {
       "author_name": "Saskia Thomas",
       "author_url": "https://www.google.com/maps/contrib/102051324362117332567/reviews",
       "language": "de",
@@ -132,6 +142,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxPPs3Eq6dtu5rdsTYOnuZf0qVzirZVaj1PNoyIuNK59hPvIA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Eine Stunde umsonst gefahren weil die Praxis in den Sommer Ferien ist und man bei doctolib trotzdem einen Termin buchen kann… Lebenszeit unnötig klauen geht mir extrem an die Nerven",
+      "time": 1785162646,
+      "translated": false
+    },
+    {
+      "author_name": "Mik",
+      "author_url": "https://www.google.com/maps/contrib/104323704636103771213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxPPs3Eq6dtu5rdsTYOnuZf0qVzirZVaj1PNoyIuNK59hPvIA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Eine Stunde umsonst gefahren weil die Praxis in den Sommer Ferien ist und man bei doctolib trotzdem einen Termin buchen kann… Lebenszeit unnötig klauen geht mir extrem an die Nerven",
       "time": 1785162646,
       "translated": false
@@ -1013,12 +1035,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 115,
+  "rating": 4.4,
+  "reviewCount": 116,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:01.246Z"
+  "lastUpdated": "2026-08-25T05:28:57.117Z"
 }

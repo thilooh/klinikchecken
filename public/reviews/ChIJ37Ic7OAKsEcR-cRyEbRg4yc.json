@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Isabel Kobow",
+      "author_url": "https://www.google.com/maps/contrib/113172619352994974106/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUIpZ8VXHriFckwP88_h_VaO_jdTcgGaVeezgCYW6AwXH2=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787381291,
+      "translated": false
+    },
+    {
       "author_name": "Peter Japtok",
       "author_url": "https://www.google.com/maps/contrib/115281656186447530073/reviews",
       "language": "de",
@@ -614,11 +624,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 175,
+  "reviewCount": 176,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-22T05:23:57.180Z"
+  "lastUpdated": "2026-08-25T05:28:52.756Z"
 }

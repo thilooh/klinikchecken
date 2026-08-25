@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "xa ha",
+      "author_url": "https://www.google.com/maps/contrib/106461884517695688925/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1Hs5Jo4Pe6cO2TuJoWnyyFecAttO57DOvwgU0gLSOue929A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kann ich überhaupt nicht empfehlen. Anstatt wirkliche Hilfe zu bekommen, wird man zu irgendwelchen Laserleistungen überredet, die man selbst zahlen muss. Die Praxis verfolgt wohl rein wirtschaftliche Interessen",
+      "time": 1787603474,
+      "translated": false
+    },
+    {
+      "author_name": "Sabina Schüdde",
+      "author_url": "https://www.google.com/maps/contrib/108086769727492005134/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdo1YTkYEFD9WYFe4g9w2Yk6h24rXhnM5KIvnA6k55NM--hg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein tolles Beratungsgespräch. Ich habe auch gleich ein Behandlungstermin vereinbart. Sehr nettes Team. Danke",
+      "time": 1787564689,
+      "translated": false
+    },
+    {
       "author_name": "Nicole Schumann",
       "author_url": "https://www.google.com/maps/contrib/113725099560591624177/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtLgnON_MHpuH8p4o10plTGKiMrmbqN0hdG0bkRW31jQxrIw=s128-c0x00000000-cc-rp-mo",
@@ -1216,11 +1240,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 264,
+  "reviewCount": 266,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-22T05:23:56.967Z"
+  "lastUpdated": "2026-08-25T05:28:52.532Z"
 }

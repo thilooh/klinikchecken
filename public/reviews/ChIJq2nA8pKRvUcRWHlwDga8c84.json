@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Ekaterina F.",
+      "author_url": "https://www.google.com/maps/contrib/111157360748684158232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuRDBcekkrTPsM-FS9-IrGPCpdi8VQQX19oUEn7VAPZYDEVw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte Frau Dr. Bergmann von Herzen weiterempfehlen. Es ist heutzutage leider nicht selbstverständlich, eine Ärztin zu finden, bei der man sich nicht nur medizinisch gut aufgehoben, sondern auch als Mensch wirklich gesehen und ernst genommen fühlt.\n\nFrau Dr. Bergmann ist eine junge, engagierte und unglaublich motivierte Ärztin, die sich noch die Zeit nimmt, wirklich zuzuhören. Man hat bei ihr nie das Gefühl, einfach nur „abgefertigt“ zu werden. Sie geht auf Sorgen und Probleme ein, nimmt diese ernst und versucht gemeinsam mit dem Patienten, eine passende Lösung zu finden. Genau dieses Miteinander empfinde ich als besonders wertvoll.\n\nWas ich außerdem sehr schätze, ist ihre menschliche und einfühlsame Art. Sie begegnet einem auf Augenhöhe, erklärt verständlich und vermittelt das Gefühl, mit seinen Anliegen willkommen zu sein. Man merkt einfach, dass sie ihren Beruf mit Engagement und Herz ausübt.\n\nIch bin wirklich dankbar, eine Ärztin wie Frau Dr. Bergmann gefunden zu haben, und hoffe sehr, dass sie sich diese offene, aufmerksame und herzliche Art noch lange bewahrt. Für mich eine Ärztin, zu der man mit Vertrauen gehen kann und bei der man sich gut aufgehoben fühlt.\n\nEine ganz klare Empfehlung und von Herzen 5 Sterne!",
+      "time": 1787583699,
+      "translated": false
+    },
+    {
+      "author_name": "Its Lit",
+      "author_url": "https://www.google.com/maps/contrib/102939540416881912760/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3meXWJXP_Wo4QOp_PI-irqsMtoCinBWtPoM_ZNFZP2LQs2ws=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe die Selbstzahler Variante gewählt. Ich muss sagen ich war schon bei vielen Ärzten. Aber nirgends war ich so zufrieden wie in dieser Praxis. Ich bin 23 Jahre alt und habe immer das Gefühl Ärzte nehmen sich kaum noch Zeit für jemanden oder versuchen nur das nächst beste Medikament zu verschreiben. Das war allerdings hier komplett anders. Es war eine angenehme Atmosphäre, die nahezu eingeladen hat zum nachfragen. Des Weiteren wurde mir auch noch zu vielen anderen Problemen geholfen. Werde auf jeden Fall wieder kommen.",
+      "time": 1787569218,
+      "translated": false
+    },
+    {
+      "author_name": "HouseAtTheBeach",
+      "author_url": "https://www.google.com/maps/contrib/115485427492851810913/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAYqMK2OVbz92c4AoTK8wV39Y7sdtc9yiyhRDzoO1GEk0ZEpW3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Samstag Termin, Klasse Dame am Empfang, Dr. Carolin Bergman absolute Weltklasse!\n\nGruß,\nDie 3 Naevis 🫶🏼",
+      "time": 1787386528,
+      "translated": false
+    },
+    {
       "author_name": "K. Willig",
       "author_url": "https://www.google.com/maps/contrib/104182331132985573056/reviews",
       "language": "de",
@@ -1256,11 +1292,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 323,
+  "reviewCount": 326,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:12.995Z"
+  "lastUpdated": "2026-08-25T05:29:09.991Z"
 }

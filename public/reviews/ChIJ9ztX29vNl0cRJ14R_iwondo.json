@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Rolf Steinkamp",
+      "author_url": "https://www.google.com/maps/contrib/116549101515823907584/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWifpGIkDeqaTfz43Ql9I7CSPSlt1GtgYe8KwAOIQopmwmwnywmow=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787583760,
+      "translated": false
+    },
+    {
       "author_name": "Check Check",
       "author_url": "https://www.google.com/maps/contrib/100727858879612028394/reviews",
       "language": "de",
@@ -416,11 +426,11 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 31,
+  "reviewCount": 32,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:19.201Z"
+  "lastUpdated": "2026-08-25T05:29:16.728Z"
 }

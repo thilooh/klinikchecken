@@ -53,6 +53,16 @@
       "translated": false
     },
     {
+      "author_name": "Alexander Brichta",
+      "author_url": "https://www.google.com/maps/contrib/101454256061344758847/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIjC6zBLOKVkCapZVyqEkzxkqrC1uqs6VFWzhNLYOgcrdhqL4a=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786289342,
+      "translated": false
+    },
+    {
       "author_name": "tl lu",
       "author_url": "https://www.google.com/maps/contrib/110828634834887239701/reviews",
       "language": "de",
@@ -1154,11 +1164,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 208,
+  "reviewCount": 203,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:25.072Z"
+  "lastUpdated": "2026-08-25T05:29:23.149Z"
 }

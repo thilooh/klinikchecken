@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Claus Lange",
+      "author_url": "https://www.google.com/maps/contrib/111605299255006618215/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzpV_ET5uMd4sV0v1AWx8SkFFkupCgbaiyGr8bq_7zpYkmNqA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786966247,
+      "translated": false
+    },
+    {
       "author_name": "Max Karolczak-Melching",
       "author_url": "https://www.google.com/maps/contrib/116475901574354816210/reviews",
       "language": "de",
@@ -33,6 +43,18 @@
       "translated": false
     },
     {
+      "author_name": "Max Karolczak-Melching",
+      "author_url": "https://www.google.com/maps/contrib/116475901574354816210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWysZM82qboa4X71_f02uOIIDot4yLQFvLiTDd7oNzVzKjaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Professionell und effizient.\nFreundlicher und direkter Umgang, so dass keine Fragen offen bleiben.\nBehandlung erfolgte schnell und effektiv.",
+      "time": 1786957104,
+      "translated": false
+    },
+    {
       "author_name": "Lukas",
       "author_url": "https://www.google.com/maps/contrib/112585059703686942315/reviews",
       "language": "de",
@@ -40,6 +62,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0cDg-YZYqCBwmNQ3kYhCrGWUDSETbixtgTuiNYBbPURvPUA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Herausragende Betreuung! Schade, dass man nicht sechs Sterne vergeben kann.",
+      "time": 1786909381,
+      "translated": false
+    },
+    {
+      "author_name": "Lukas",
+      "author_url": "https://www.google.com/maps/contrib/112585059703686942315/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0cDg-YZYqCBwmNQ3kYhCrGWUDSETbixtgTuiNYBbPURvPUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Herausragende Betreuung! Schade, dass man nicht sechs Sterne vergeben kann.",
       "time": 1786909381,
       "translated": false
@@ -1088,5 +1122,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:23:57.397Z"
+  "lastUpdated": "2026-08-25T05:28:52.981Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gabriele Dietz",
+      "author_url": "https://www.google.com/maps/contrib/110133854299538760371/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVeMre7UcAqvoOgnV5jU-GlRcJCt075CDokqyEemqP1sRteMzp=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Arzt kompetent und nett, aber die blonde etwas kräftigere junge Frau an der Anmeldung ist sehr unfreundlich",
+      "time": 1787508569,
+      "translated": false
+    },
+    {
       "author_name": "Detlef Dietz",
       "author_url": "https://www.google.com/maps/contrib/101619237997685399314/reviews",
       "language": "de",
@@ -18,6 +30,18 @@
       "language": "de",
       "original_language": "de",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVO7NH7rdMN8JUFBN3AiU5dPngmHnVS0ASd95QZg7OnH-mTXMon=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr unfreundliche Dame am Empfang.",
+      "time": 1786556724,
+      "translated": false
+    },
+    {
+      "author_name": "Gaby",
+      "author_url": "https://www.google.com/maps/contrib/107595053606798544546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQYcVJ5wecTX_K7DwZ6C3PZ9nfw1Qii58psQayFY_YYbKEC8=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 2,
       "relative_time_description": "vor einer Woche",
       "text": "Sehr unfreundliche Dame am Empfang.",
@@ -92,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCuRfBuHG4apQwP9pFDFC5cgRbDmOh8RElvAjmhkHu-YeeNw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich bat um einen Termin zur Anpassung der Kompression, leider war die Dame am Telefon sehr sehr unfreundlich. Mir wurde ein Termin für APRIL 2027 angeboten, obwohl ich bereits schon mal Patientin war.  Als ich daraufhin meinte, dass das aber ganz schön lange sei, kam nur ein \"Ja, wir sind ja ein Facharzt, dann müssen Sie sich wohl anderweitig umschauen\". Keine Empfehlung meinerseits.",
+      "time": 1782240379,
+      "translated": false
+    },
+    {
+      "author_name": "Annika Heiser",
+      "author_url": "https://www.google.com/maps/contrib/105716238385118057860/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCuRfBuHG4apQwP9pFDFC5cgRbDmOh8RElvAjmhkHu-YeeNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich bat um einen Termin zur Anpassung der Kompression, leider war die Dame am Telefon sehr sehr unfreundlich. Mir wurde ein Termin für APRIL 2027 angeboten, obwohl ich bereits schon mal Patientin war.  Als ich daraufhin meinte, dass das aber ganz schön lange sei, kam nur ein \"Ja, wir sind ja ein Facharzt, dann müssen Sie sich wohl anderweitig umschauen\". Keine Empfehlung meinerseits.",
       "time": 1782240379,
       "translated": false
@@ -514,11 +550,11 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 29,
+  "reviewCount": 30,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:29.463Z"
+  "lastUpdated": "2026-08-25T05:29:28.228Z"
 }

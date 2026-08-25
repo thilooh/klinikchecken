@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Maximilian Sigel",
+      "author_url": "https://www.google.com/maps/contrib/100321954026916745038/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDfTXptc-kHrQ406C3_h7mENq-goGx5U8bXvV-BSWoM4l5qVAm=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr.Hamann ist eine super nette, freundliche Person und eine absolut empfehlenswerte Ärztin. Das Personal sowie alles drumherum - 10/10.",
+      "time": 1787396940,
+      "translated": false
+    },
+    {
       "author_name": "Claudia Tribbensee",
       "author_url": "https://www.google.com/maps/contrib/103476079757352433151/reviews",
       "language": "de",
@@ -1132,7 +1144,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 325,
+  "reviewCount": 326,
   "summary": [],
-  "lastUpdated": "2026-08-22T05:23:56.124Z"
+  "lastUpdated": "2026-08-25T05:28:51.602Z"
 }

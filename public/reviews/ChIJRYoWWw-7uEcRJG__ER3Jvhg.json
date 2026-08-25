@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Rohat Sibel",
+      "author_url": "https://www.google.com/maps/contrib/115812920271145037857/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIloMl1zUNHUdxQbcKULQkzTI-p2-8grNVJjQpe9-nkAd82g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787591963,
+      "translated": false
+    },
+    {
+      "author_name": "Ilonka Demestre",
+      "author_url": "https://www.google.com/maps/contrib/109439513966510577658/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzYd87mXI0_lk7MbDHKEmU_hxxYXLIJydcYxKuGku4Rywbg6ucOw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kann es nur weiter empfehlen",
+      "time": 1787580393,
+      "translated": false
+    },
+    {
       "author_name": "Hasan Esin",
       "author_url": "https://www.google.com/maps/contrib/105251677513540267382/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL8rVQXcj_8cra3tj1-wzpr0g3JPIU5P5K5wZJPXgWx_3tRg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Die Beratung und die Behandlung sind qualitativ sehr gut. Bin sehr zufrieden.",
+      "time": 1786867993,
+      "translated": false
+    },
+    {
+      "author_name": "Eva Bittner",
+      "author_url": "https://www.google.com/maps/contrib/118245371702233846894/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL8rVQXcj_8cra3tj1-wzpr0g3JPIU5P5K5wZJPXgWx_3tRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Die Beratung und die Behandlung sind qualitativ sehr gut. Bin sehr zufrieden.",
       "time": 1786867993,
       "translated": false
@@ -1174,11 +1208,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 227,
+  "reviewCount": 229,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-22T05:24:16.894Z"
+  "lastUpdated": "2026-08-25T05:29:14.217Z"
 }

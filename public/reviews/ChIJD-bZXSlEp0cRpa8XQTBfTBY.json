@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marc Bockermann",
+      "author_url": "https://www.google.com/maps/contrib/116085456857289430383/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu8P2UPpO7tMzbLH4U46381RTTY-Fy76s0XPwQDB8KDcl4XA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schnell termin bekommen sehr freundliche Frauen am Empfang optisch sehr schön eingerichtet",
+      "time": 1787478279,
+      "translated": false
+    },
+    {
       "author_name": "Hans-Jűrgen Schuster",
       "author_url": "https://www.google.com/maps/contrib/105290523350514994137/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt9OS7vqpjNFps5HaIYpELZNstLW4UZpuTm20heommV7MCbw=s128-c0x00000000-cc-rp-mo",
@@ -398,11 +410,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 22,
+  "reviewCount": 23,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:11.073Z"
+  "lastUpdated": "2026-08-25T05:29:07.859Z"
 }

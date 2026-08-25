@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Jörg Theves",
+      "author_url": "https://www.google.com/maps/contrib/114411711274500660619/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1HI73HHW9Ph1Z8MQike20sBGgXCuXrZF1OQJ4To_CD1pneU_A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787600016,
+      "translated": false
+    },
+    {
+      "author_name": "Chriss Wengaboy",
+      "author_url": "https://www.google.com/maps/contrib/105777343839280471725/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNphNyGlv1QRsQex8MffU_R7ZolHdE4Uk4Gu7V78i2G0E5mA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787580990,
+      "translated": false
+    },
+    {
       "author_name": "frickles",
       "author_url": "https://www.google.com/maps/contrib/109039002557239546145/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbZpiqRDmwaPbmjAMdnEpmNOMAeGMerG-GPcR1vaYvT-gFkQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -772,11 +792,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 105,
+  "reviewCount": 107,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-22T05:24:15.839Z"
+  "lastUpdated": "2026-08-25T05:29:13.073Z"
 }

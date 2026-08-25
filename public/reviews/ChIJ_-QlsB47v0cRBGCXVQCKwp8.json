@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Max Arnoldt",
+      "author_url": "https://www.google.com/maps/contrib/102736105040467802100/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkD3cmXodmJNVwK4OiP1AYLJHYvvfXR53qV2UGxRCEXsIcuHk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Super Ärzteteam,\n\nWar dort zum wiederholten Mal wegen klassischen Vorsorgeuntersuchungen bei verschiedenen Ärzten.\nAlle waren, hilfsbereit und haben mir meine Fragen detailliert beantwortet.\nEine empfehlenswerte modern eingerichtete Praxis mit gutem Ärzteteam",
+      "time": 1786371112,
+      "translated": false
+    },
+    {
       "author_name": "Lucia Gosebrink",
       "author_url": "https://www.google.com/maps/contrib/111121230657663512499/reviews",
       "language": "de",
@@ -248,6 +260,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7NL5tehjJYwXMShkOaC-j0dNtbh1DlVUJsgY26KIncEp8GoQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich kann die Praxis empfehlen! Frau Lena Germann ist beim Screening gründlich vorgegangen und hat meine Fragen umfassend und sympathisch beantwortet.",
+      "time": 1782229759,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja W.",
+      "author_url": "https://www.google.com/maps/contrib/114235344749845935334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7NL5tehjJYwXMShkOaC-j0dNtbh1DlVUJsgY26KIncEp8GoQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich kann die Praxis empfehlen! Frau Lena Germann ist beim Screening gründlich vorgegangen und hat meine Fragen umfassend und sympathisch beantwortet.",
       "time": 1782229759,
       "translated": false
@@ -605,5 +629,5 @@
   "rating": 4,
   "reviewCount": 97,
   "summary": [],
-  "lastUpdated": "2026-08-22T05:23:47.520Z"
+  "lastUpdated": "2026-08-25T05:28:42.838Z"
 }

@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Anne Mang",
+      "author_url": "https://www.google.com/maps/contrib/116469288121211004225/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSchh-61yatsAJYrm6AwUHlHRXB7ggtIlwHtNNIFAZBRW3RA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786778212,
+      "translated": false
+    },
+    {
       "author_name": "Gerhard Hartmann",
       "author_url": "https://www.google.com/maps/contrib/114378693280482576694/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXILLO91ZJ2eLW9JbPtEJliUjFyqPfw7Ykv874UlHCzK9yLwVKRpg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -192,6 +202,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXR9uF_16l1lw_2Vmwbk8iMeR1tzc60tJTIb_rXPyaK1QmBBPw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Als Patient fühle ich mich in der Praxis bestens aufgehoben. Schnelle Terminvergabe, keine langen Wartezeiten und kompetentes Fachpersonal, allen voran Dr. Laura Degenhardt!",
+      "time": 1784837581,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Jacobs",
+      "author_url": "https://www.google.com/maps/contrib/101314458785409090348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXR9uF_16l1lw_2Vmwbk8iMeR1tzc60tJTIb_rXPyaK1QmBBPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Als Patient fühle ich mich in der Praxis bestens aufgehoben. Schnelle Terminvergabe, keine langen Wartezeiten und kompetentes Fachpersonal, allen voran Dr. Laura Degenhardt!",
       "time": 1784837581,
       "translated": false
@@ -750,5 +772,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:14.461Z"
+  "lastUpdated": "2026-08-25T05:29:11.588Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Asya Uzunova",
+      "author_url": "https://www.google.com/maps/contrib/113663970433729892666/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeobChG4Hstg-hVC8rh4xAY6T1cuo5EbHgMz2tVEmcFKENnPI=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unzufrieden mit der Organisation\n\nLeider bin ich mit dieser Praxis überhaupt nicht zufrieden. Die Terminorganisation ist meiner Erfahrung nach sehr unorganisiert und unzuverlässig. Termine werden offenbar ohne nachvollziehbaren Grund storniert, was für mich absolut nicht professionell wirkt.\n\nIch finde es sehr enttäuschend, wenn Termine einfach nach Belieben storniert werden und man sich als Patient nicht auf die Terminplanung verlassen kann.\n\nInsgesamt bin ich sehr unzufrieden mit der Praxis und kann sie aufgrund meiner Erfahrung nicht weiterempfehlen.",
+      "time": 1787568853,
+      "translated": false
+    },
+    {
       "author_name": "Sven Heilemann",
       "author_url": "https://www.google.com/maps/contrib/108768960530566166845/reviews",
       "language": "de",
@@ -85,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Dennis Jordan Diekoff",
+      "author_url": "https://www.google.com/maps/contrib/107182278460816018011/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7AckM3PtVgD0bbGB1f650Javc97qm_q9yYxJtgryvXvmyXSpasQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Etwas lange Wartezeit trotz Termin, aber ansonsten eine gute Praxis mit freundlichem Personal und einer Ärztin, die sich Zeit nimmt und alle Fragen beantwortet.",
+      "time": 1785793642,
+      "translated": false
+    },
+    {
       "author_name": "Tee Kah",
       "author_url": "https://www.google.com/maps/contrib/104303111147756802864/reviews",
       "language": "de",
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWJJfY8MtkawPZL5QouPXsIgby4Wp6Q2tT26GHBKFHmvDFLA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Für eine kurze Erstbehandlung: in Ordnung.\n\nZur Weiterbetreuung der Krankheit: katastrophal.\n\nDie verschriebene Dosis eines (sehr wirksamen und hilfreichen!) Medikaments ist nicht ausreichend, bzw. der Zeitpunkt des Ausschleichens wurde zu früh gewählt. Das habe ich telefonisch angesprochen, aber die Dame hat sich da nicht zuständig gefühlt und auf mögliche Termine im November verwiesen. In einer Situation, in der akut Hilfe benötigt wird. Auch auf Nachfrage keine Hilfe, man solle sich \"an die Klinik\" wenden.\nLaut Internet sollte ich aber beim behandelnden Arzt nachfragen und von diesem ggfs. eine Anpassung vorgenommen werden. Dumm nur, wenn nicht mal wenigstens auf später vertröstet wird, sodass man die nicht vorhandene Info beim Arzt einholen und dann dem Patienten mitteilen kann.\nDer gute anfängliche Eindruck wird damit absolut zunichte gemacht, nicht empfehlenswert, eher Bahnhofs-/Durchschleuse-Mentalität als wirkliches Interesse am Patienten.",
+      "time": 1785752902,
+      "translated": false
+    },
+    {
+      "author_name": "Tee Kah",
+      "author_url": "https://www.google.com/maps/contrib/104303111147756802864/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWJJfY8MtkawPZL5QouPXsIgby4Wp6Q2tT26GHBKFHmvDFLA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Für eine kurze Erstbehandlung: in Ordnung.\n\nZur Weiterbetreuung der Krankheit: katastrophal.\n\nDie verschriebene Dosis eines (sehr wirksamen und hilfreichen!) Medikaments ist nicht ausreichend, bzw. der Zeitpunkt des Ausschleichens wurde zu früh gewählt. Das habe ich telefonisch angesprochen, aber die Dame hat sich da nicht zuständig gefühlt und auf mögliche Termine im November verwiesen. In einer Situation, in der akut Hilfe benötigt wird. Auch auf Nachfrage keine Hilfe, man solle sich \"an die Klinik\" wenden.\nLaut Internet sollte ich aber beim behandelnden Arzt nachfragen und von diesem ggfs. eine Anpassung vorgenommen werden. Dumm nur, wenn nicht mal wenigstens auf später vertröstet wird, sodass man die nicht vorhandene Info beim Arzt einholen und dann dem Patienten mitteilen kann.\nDer gute anfängliche Eindruck wird damit absolut zunichte gemacht, nicht empfehlenswert, eher Bahnhofs-/Durchschleuse-Mentalität als wirkliches Interesse am Patienten.",
       "time": 1785752902,
       "translated": false
@@ -1103,12 +1139,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 154,
+  "rating": 4.4,
+  "reviewCount": 152,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-22T05:24:12.779Z"
+  "lastUpdated": "2026-08-25T05:29:09.767Z"
 }
