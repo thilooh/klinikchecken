@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Mehmet Tastemir",
+      "author_url": "https://www.google.com/maps/contrib/114581635711095242351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIy-QztecvMgBne2isVOIuVuYJWVUISrY84wrS0Gu9J66tZew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Eine ausgezeichnete Ärztin, die nicht nur durch ihr Fachwissen überzeugt, sondern auch sehr nett und aufmerksam ist. Alle Fragen wurden ausführlich und ohne Zeitdruck beantwortet. Man fühlt sich ernst genommen und sehr gut betreut. Absolute Empfehlung!",
+      "time": 1786700127,
+      "translated": false
+    },
+    {
       "author_name": "Chiara Braun",
       "author_url": "https://www.google.com/maps/contrib/107387928965091699862/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVTrx0-PaAJseAxCe-gjR6J0yDueTorSOPTakQ-bLzCxEmsg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war sehr zufrieden mit meinem Besuch. Die Ärztin war wirklich super lieb und hat sich Zeit für mich und meine Fragen genommen.\n\nSehr positiv fand ich außerdem, dass die Praxis ebenerdig und problemlos mit dem Kinderwagen zugänglich ist. Besonders angenehm war auch, dass ich keine Wartezeit hatte und direkt drangekommen bin.",
+      "time": 1786693036,
+      "translated": false
+    },
+    {
+      "author_name": "Chiara Braun",
+      "author_url": "https://www.google.com/maps/contrib/107387928965091699862/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVTrx0-PaAJseAxCe-gjR6J0yDueTorSOPTakQ-bLzCxEmsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war sehr zufrieden mit meinem Besuch. Die Ärztin war wirklich super lieb und hat sich Zeit für mich und meine Fragen genommen.\n\nSehr positiv fand ich außerdem, dass die Praxis ebenerdig und problemlos mit dem Kinderwagen zugänglich ist. Besonders angenehm war auch, dass ich keine Wartezeit hatte und direkt drangekommen bin.",
       "time": 1786693036,
       "translated": false
@@ -70,6 +94,30 @@
       "relative_time_description": "vor einer Woche",
       "text": "Super freundliches Team und Kompetente Ärztin 👍🏻",
       "time": 1786633725,
+      "translated": false
+    },
+    {
+      "author_name": "Ibrahim Bislimi",
+      "author_url": "https://www.google.com/maps/contrib/112233571273096225243/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAvUtY6VOOntnCoM3_t5i7Y7ibf76aBsQSihVlWTJUE7gjMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Super freundliches Team und Kompetente Ärztin 👍🏻",
+      "time": 1786633725,
+      "translated": false
+    },
+    {
+      "author_name": "Jonas Krämer",
+      "author_url": "https://www.google.com/maps/contrib/117800712084734701749/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5_Yl6Qo_Ca8vs_AarRGnsKbx5vo8cIgwGQhdjWf7uu_663g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Nicht zu empfehlen.",
+      "time": 1786631614,
       "translated": false
     },
     {
@@ -88,6 +136,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJITi6S9aobcnf6f8cE72VOJ0WPBdURx_dvhch9EeDRiRE8ux4=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786458802,
+      "translated": false
+    },
+    {
+      "author_name": "Ramona Morhart",
+      "author_url": "https://www.google.com/maps/contrib/109709176743542605318/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJITi6S9aobcnf6f8cE72VOJ0WPBdURx_dvhch9EeDRiRE8ux4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1786458802,
       "translated": false
@@ -1012,5 +1070,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-25T05:29:01.584Z"
+  "lastUpdated": "2026-08-28T17:09:04.763Z"
 }

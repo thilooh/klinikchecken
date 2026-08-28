@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "B. Benofsky",
+      "author_url": "https://www.google.com/maps/contrib/113709167808567803846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDfZETSCXsOkx9CQib7CKz-EPB908QX7GZWvq_GNE2K-hku8Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787857805,
+      "translated": false
+    },
+    {
       "author_name": "MK MK",
       "author_url": "https://www.google.com/maps/contrib/107277008820643581420/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrsswlZwqkNOfsG17dPxHt_PhHQ9Us51grPeVnlUWHfsSltg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super Arzt sehr freundlich und nimmt sich Zeit.",
+      "time": 1787317912,
+      "translated": false
+    },
+    {
+      "author_name": "MK MK",
+      "author_url": "https://www.google.com/maps/contrib/107277008820643581420/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrsswlZwqkNOfsG17dPxHt_PhHQ9Us51grPeVnlUWHfsSltg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super Arzt sehr freundlich und nimmt sich Zeit.",
       "time": 1787317912,
       "translated": false
@@ -56,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZu6y5txut0sCxDXvUuehV79olqVifWMjDx3vZA4ReC5csSubFpA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Freundliches Team, kompetenter und einfühlsamer Arzt und noch leckerer Kaffee! Vielen Dank für den schnellen Termin!",
+      "time": 1785236799,
+      "translated": false
+    },
+    {
+      "author_name": "Nicolas",
+      "author_url": "https://www.google.com/maps/contrib/115669988382327086086/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZu6y5txut0sCxDXvUuehV79olqVifWMjDx3vZA4ReC5csSubFpA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Freundliches Team, kompetenter und einfühlsamer Arzt und noch leckerer Kaffee! Vielen Dank für den schnellen Termin!",
       "time": 1785236799,
       "translated": false
@@ -550,11 +584,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 119,
+  "reviewCount": 120,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-25T05:29:06.687Z"
+  "lastUpdated": "2026-08-28T17:09:10.286Z"
 }

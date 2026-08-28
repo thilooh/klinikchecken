@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel Spicker",
+      "author_url": "https://www.google.com/maps/contrib/103725806531556888193/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUL-IQhzh5pgn257O-p3sD3LEG1OUyEngo63auDwI9jQAjEtJ4Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super freundliches Team und die verschriebene Creme hat schnell geholfen.",
+      "time": 1787831441,
+      "translated": false
+    },
+    {
+      "author_name": "Toni Montana",
+      "author_url": "https://www.google.com/maps/contrib/107259938709627400939/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZaYkWAu0M8iGW6omEDWkhRvCoeedZpm0YMiOOIrjkYpYf_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schockiert darüber wie unfreundlich die sind. Wochenlang warte ich schon auf einem Termin. Vorne an der info direkt gemeckert und mich raus gecshickz",
+      "time": 1787827106,
+      "translated": false
+    },
+    {
+      "author_name": "Helmut Kruggel",
+      "author_url": "https://www.google.com/maps/contrib/111664546675088133094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6VxsD0CB8HXfmvgeZ535gOvAVclpKCfCoolo33iVeSeCYfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alle Jahre wieder zum Ganzkörpercheck\nbei Dr.Haase. Sehr kompetent und super freundlich.\nDie Praxis kann man nur empfehlen.",
+      "time": 1787674580,
+      "translated": false
+    },
+    {
+      "author_name": "B Ak",
+      "author_url": "https://www.google.com/maps/contrib/108598636617075462294/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO1Rux7q5UkiBAJ1QCUIDh4yXqdsCB_NiWcOcgZkGtwTwhbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fr. Dr. Mrowka ist eine Ärztin, bei der wirklich der Patient im Mittelpunkt steht.\n\nIch habe mich vom ersten Moment an sehr gut aufgehoben gefühlt. Die Ärztin ist nicht nur ausgesprochen kompetent, sondern auch unglaublich sympathisch, aufmerksam und ehrlich in ihrer Beratung. Sie nimmt sich ausreichend Zeit, hört zu und erklärt verständlich und nachvollziehbar.\n\nBesonders positiv fand ich, dass hier nicht einfach möglichst viel behandelt wird, sondern sehr genau abgewogen wird, was für den Patienten tatsächlich sinnvoll ist.\nAuch von einer Behandlung abzuraten, wenn der mögliche Nutzen die damit verbundenen Nachteile nicht rechtfertigt, zeugt für mich von Verantwortungsbewusstsein und echter Patientenorientierung. Genau das schafft Vertrauen – und ist heutzutage unglaublich viel wert.\n\nAuch das gesamte Praxisteam ist ausgesprochen freundlich und hilfsbereit. Dadurch fühlt man sich von Anfang an willkommen und bestens betreut.\n\nIch hatte zu keinem Zeitpunkt das Gefühl, nur „eine Nummer“ zu sein, sondern wurde individuell und mit großer Sorgfalt beraten.\n\n*****Fachlich wie menschlich eine absolute Empfehlung.\nIch habe mich selten bei einer Ärztin so gut beraten und aufgehoben gefühlt.\nVielen Dank dafür Fr. Dr. Mrowka!*****",
+      "time": 1787658163,
+      "translated": false
+    },
+    {
       "author_name": "Volker Dannehl",
       "author_url": "https://www.google.com/maps/contrib/103852606078684087946/reviews",
       "language": "de",
@@ -1600,11 +1648,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2366,
+  "reviewCount": 2372,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-25T05:28:56.198Z"
+  "lastUpdated": "2026-08-28T17:08:59.072Z"
 }

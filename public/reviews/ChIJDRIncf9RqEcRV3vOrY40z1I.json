@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ulrike Dölle",
+      "author_url": "https://www.google.com/maps/contrib/111668513651719915377/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9OIEYG_vaLy5ZBt7N4_v2EidzhFqUOC41YCKdWLLjnBuFCw0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ähnlich, wie eine Bewertung vor mir, habe ich bei meinem Ersttermin eine chronisch venöse Insuffizienz und Stammvarikose diagnostiziert bekommen. Mit der Empfehlung Kompressionsstrümpfe täglich zu tragen und mich in einem Jahr wieder vorzustelle. Nachdem ich mir eine Zweit- und drittmeinung in einer anderen Praxis und einer Klinik einholte, wurde jedoch festgestellt, dass ich keinerlei Probleme mit meinen Venen habe und demnach auch keinen Eingriff und keine Kompressionsstrümpfe benötige.  Sehr eigenartig🤔",
+      "time": 1787743531,
+      "translated": false
+    },
+    {
       "author_name": "Günter Seidel",
       "author_url": "https://www.google.com/maps/contrib/114840945754069944030/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKD9AmGdDZ898XiEF2-QhDAobX6f3VdtKVtbYhymzHS2b72Has=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Das unwichtigste zuerst - eine tolle Aussicht ( 14. OG) . Super netter Emfang. Der Arzt hat alles super und einfach erklärt. Kann ich nur empfehlen. Ich war wegen meinen Venen da.",
+      "time": 1786460719,
+      "translated": false
+    },
+    {
+      "author_name": "Katharina Weber",
+      "author_url": "https://www.google.com/maps/contrib/102232609131520862274/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKD9AmGdDZ898XiEF2-QhDAobX6f3VdtKVtbYhymzHS2b72Has=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Das unwichtigste zuerst - eine tolle Aussicht ( 14. OG) . Super netter Emfang. Der Arzt hat alles super und einfach erklärt. Kann ich nur empfehlen. Ich war wegen meinen Venen da.",
       "time": 1786460719,
       "translated": false
@@ -1076,7 +1100,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 149,
+  "reviewCount": 150,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:47.109Z"
+  "lastUpdated": "2026-08-28T17:08:48.646Z"
 }

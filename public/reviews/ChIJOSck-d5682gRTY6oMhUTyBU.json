@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Silke Lorenz- Masuhr",
+      "author_url": "https://www.google.com/maps/contrib/111742825959514191910/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUTbrpV_tmf-QPVeAZjyrrsPEckRndBk5F30NGu5JO0hE2ew=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin schon lange in der Praxis.Das Team mitsamt den Ärzten sehr kompetent und supernett.Alles wird genau erklärt vor der Behandlung. Fühle mich immer sehr wohl wenn ich da bin.Sehr zu empfehlen!!!!!!!",
+      "time": 1787822928,
+      "translated": false
+    },
+    {
       "author_name": "Martina Ruppach",
       "author_url": "https://www.google.com/maps/contrib/100815900885961070666/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY1V15_UDvOSpkIKs76prwoYHBx-4kzHCejbmbkofK6tdfVg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war heute bei Dr Burkert ich habe mich selten so wohl gefühlt in einer Arztpraxis! Ein toller Arzt, nettes Personal ich bin dankbar dort gelandet zu sein und das man sich um einen kümmert und ernst genommen wird! Danke ☺️",
+      "time": 1786563144,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Ruppach",
+      "author_url": "https://www.google.com/maps/contrib/100815900885961070666/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY1V15_UDvOSpkIKs76prwoYHBx-4kzHCejbmbkofK6tdfVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war heute bei Dr Burkert ich habe mich selten so wohl gefühlt in einer Arztpraxis! Ein toller Arzt, nettes Personal ich bin dankbar dort gelandet zu sein und das man sich um einen kümmert und ernst genommen wird! Danke ☺️",
       "time": 1786563144,
       "translated": false
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVKTPCQeXHK9h5SiO4CoP9IqO62iR_Pz3pRFWlyxWkU7n9aA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich habe Herrn Burghardt kennengelernt und bin total begeistert von der Art und Weise, wie er mir weitergeholfen hat. Sehr verständnisvoll, kompetent und dem Patienten zugewandt.\nGanz lieben Dank. Diese Praxis ist absolut weiterzuempfehlen.",
+      "time": 1786478875,
+      "translated": false
+    },
+    {
+      "author_name": "Sevgi Fadhel",
+      "author_url": "https://www.google.com/maps/contrib/100604576204926314755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVKTPCQeXHK9h5SiO4CoP9IqO62iR_Pz3pRFWlyxWkU7n9aA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich habe Herrn Burghardt kennengelernt und bin total begeistert von der Art und Weise, wie er mir weitergeholfen hat. Sehr verständnisvoll, kompetent und dem Patienten zugewandt.\nGanz lieben Dank. Diese Praxis ist absolut weiterzuempfehlen.",
       "time": 1786478875,
       "translated": false
@@ -74,6 +110,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_-AsShs_dnrnO4etAgmqIvBpQAeV1kHQ_yzgSgyuKo5EX7Gse=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1785867233,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine Christiane Habermann-Schöber",
+      "author_url": "https://www.google.com/maps/contrib/100306553756310546280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_-AsShs_dnrnO4etAgmqIvBpQAeV1kHQ_yzgSgyuKo5EX7Gse=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1785867233,
       "translated": false
@@ -1022,11 +1068,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 122,
+  "reviewCount": 123,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-08-25T05:29:00.002Z"
+  "lastUpdated": "2026-08-28T17:09:03.044Z"
 }

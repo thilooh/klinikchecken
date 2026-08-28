@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Lutz Lehnacker",
+      "author_url": "https://www.google.com/maps/contrib/102406657164523536745/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJykSuyanokHxy8VcKYlV7il_ZacaStCmLAIjyOFcOJNwg-5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal und kompetente Ärzte.",
+      "time": 1787915350,
+      "translated": false
+    },
+    {
+      "author_name": "R Chk",
+      "author_url": "https://www.google.com/maps/contrib/114792469201009044954/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvzuIeqcmn6Wqgq8zqQGIgXGCGt0agacAnbwexZWIiY9t8Lvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut enttäuschend  besonders für eine Privatpraxis!\n\nIch habe mittlerweile über 10 Mal angerufen. Jedes Mal wartet man erst 5–10 Minuten in der Warteschleife, nur damit anschließend einfach aufgelegt wird. Das ist mir mehrfach hintereinander passiert.\n\nGerade bei einer Privatpraxis, für deren Leistungen man entsprechend bezahlt, erwarte ich zumindest eine vernünftige Erreichbarkeit und einen respektvollen Umgang mit Patienten. Für so einen Service noch selbst zu bezahlen, ist wirklich ärgerlich.\n\nUnprofessionell und sehr enttäuschend!",
+      "time": 1787668458,
+      "translated": false
+    },
+    {
       "author_name": "KiwiamMorgen",
       "author_url": "https://www.google.com/maps/contrib/108881649501300880038/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkixl0NLt-PWnDVPpqwiBqDhziwHcNaZnWddCIGtawzaCZaRMm=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Bei Akne machen die das gleiche wie Kassenärzte, also nicht viel. Wer wie ich erwartet, dass es Spezialisten auf dem Gebiet der Akne bekämpfung sind, wird leider enttäuscht werden.",
+      "time": 1786464225,
+      "translated": false
+    },
+    {
+      "author_name": "KiwiamMorgen",
+      "author_url": "https://www.google.com/maps/contrib/108881649501300880038/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkixl0NLt-PWnDVPpqwiBqDhziwHcNaZnWddCIGtawzaCZaRMm=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Bei Akne machen die das gleiche wie Kassenärzte, also nicht viel. Wer wie ich erwartet, dass es Spezialisten auf dem Gebiet der Akne bekämpfung sind, wird leider enttäuscht werden.",
       "time": 1786464225,
       "translated": false
@@ -40,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwygrwJwMLL5ZlxSKfUbVizNR2m_67DXucBFGrePHcWpgr=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786433672,
+      "translated": false
+    },
+    {
+      "author_name": "Anahita",
+      "author_url": "https://www.google.com/maps/contrib/105323812636864506553/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwygrwJwMLL5ZlxSKfUbVizNR2m_67DXucBFGrePHcWpgr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1786433672,
       "translated": false
@@ -669,12 +715,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 193,
+  "rating": 4.4,
+  "reviewCount": 195,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:28:53.204Z"
+  "lastUpdated": "2026-08-28T17:08:55.813Z"
 }

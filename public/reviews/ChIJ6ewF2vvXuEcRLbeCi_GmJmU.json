@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Inge Esser",
+      "author_url": "https://www.google.com/maps/contrib/106933708334017509186/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK75bxdE0fa93OV4r0L9jQ4Bfy0pdCxnntKzzdwFAHlyNA9qA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Dith hat meine Mutter (93) heute sehr gut und liebevoll behandelt . Ich kann  sie nur bestens weiter empfehlen!",
+      "time": 1787922933,
+      "translated": false
+    },
+    {
       "author_name": "Linda K.",
       "author_url": "https://www.google.com/maps/contrib/106913801705615515268/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Linda K.",
+      "author_url": "https://www.google.com/maps/contrib/106913801705615515268/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLunPaI4W9AKpZF7lpTE5RHYeqf2O58h0XMl4NhZz9HqULV3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich kann die Ärztin leider garnicht empfehlen. 1,5 Stunden Warten trotz fixem Termin, um dann 3 Sachen genannt zu bekommen, die ich mal googeln sollte. Da hätte ChatGPT wohl eine bessere Diagnose und Tipps gegeben, schade",
+      "time": 1787243012,
+      "translated": false
+    },
+    {
       "author_name": "Olena Averkina",
       "author_url": "https://www.google.com/maps/contrib/105928662209905282663/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKib5im0LNGB_vqTeUSstGUtki0DWhzMAT4MN2a2JXwBxl0MQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr.Anna Diih ist wirklich ein sehr kompetenter und aufmerksamer Spezialist! Die hervorragende Behandlung hat mir geholfen, ein langjähriges Hautproblem zu beseitigen. Herzlichen Dank!",
+      "time": 1787070300,
+      "translated": false
+    },
+    {
+      "author_name": "Olena Averkina",
+      "author_url": "https://www.google.com/maps/contrib/105928662209905282663/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKib5im0LNGB_vqTeUSstGUtki0DWhzMAT4MN2a2JXwBxl0MQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr.Anna Diih ist wirklich ein sehr kompetenter und aufmerksamer Spezialist! Die hervorragende Behandlung hat mir geholfen, ein langjähriges Hautproblem zu beseitigen. Herzlichen Dank!",
       "time": 1787070300,
       "translated": false
@@ -1068,5 +1104,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:28:59.315Z"
+  "lastUpdated": "2026-08-28T17:09:02.303Z"
 }

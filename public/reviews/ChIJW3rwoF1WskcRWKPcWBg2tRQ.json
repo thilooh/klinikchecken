@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Nursel Yakup",
+      "author_url": "https://www.google.com/maps/contrib/108737139640969721431/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUKGmu28t7bp9bVFPqit2mtZ72REf4kIMTV85JBbT7PTzfAFeM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787726074,
+      "translated": false
+    },
+    {
       "author_name": "S. S.",
       "author_url": "https://www.google.com/maps/contrib/106857529580828118797/reviews",
       "language": "de",
@@ -56,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHD7uG61_gOazseEeI_tVhu_Lk-51NwQZFGkVWyfjSJWhFpA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "die Fr. Dr. med. Sümbül ist eine äußerst fürsorgliche und professionelle Ärztin, bei der man sich sehr aufgehoben fühlt. ich bin sehr zufrieden!",
+      "time": 1785187139,
+      "translated": false
+    },
+    {
+      "author_name": "S. S.",
+      "author_url": "https://www.google.com/maps/contrib/106857529580828118797/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHD7uG61_gOazseEeI_tVhu_Lk-51NwQZFGkVWyfjSJWhFpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "die Fr. Dr. med. Sümbül ist eine äußerst fürsorgliche und professionelle Ärztin, bei der man sich sehr aufgehoben fühlt. ich bin sehr zufrieden!",
       "time": 1785187139,
       "translated": false
@@ -1119,12 +1141,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 145,
+  "rating": 4.2,
+  "reviewCount": 146,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:28:53.876Z"
+  "lastUpdated": "2026-08-28T17:08:56.567Z"
 }

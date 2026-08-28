@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "F. H.",
+      "author_url": "https://www.google.com/maps/contrib/116738540957976013225/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaaiGDD2PJlKb4HhEV4D5ITSVhnF1oVU_iTVidQ9Z_ZI1KmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der liebe Jan ist ein äußerst netter und vorallem professioneller Kosmetiker, tolle Beratung und Behandlung, ich habe mich direkt wohl gefühlt. Die Praxis ist zudem wunderschön eingerichtet. Absolute Empfehlung, ich komme hier immer gerne hin.",
+      "time": 1787908364,
+      "translated": false
+    },
+    {
+      "author_name": "Bee B",
+      "author_url": "https://www.google.com/maps/contrib/104045810772626007041/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjhS34USaQJEmIZy2_QsEM-NkfQEXKC9h28W515JGF6CJl33ek=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787856966,
+      "translated": false
+    },
+    {
       "author_name": "Lea W.",
       "author_url": "https://www.google.com/maps/contrib/108547144920781738113/reviews",
       "language": "de",
@@ -1009,7 +1031,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 296,
+  "reviewCount": 298,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:44.902Z"
+  "lastUpdated": "2026-08-28T17:08:45.934Z"
 }

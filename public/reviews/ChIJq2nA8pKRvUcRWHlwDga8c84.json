@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Tanja Zugschwerdt",
+      "author_url": "https://www.google.com/maps/contrib/108037500086518408330/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKC_L1KY3Eg8VW4u_WJVgdQW75g2LfOFk3VGGqE6v22FJqQJQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette und kompetente Mitarbeiter und schick und die medizinische Behandlung ist sehr gut.\n\nTerminmanagement ist aber (trotz oder wegen des Einsatzes moderner Technik?) eine absolute Katastrophe: Termine werden hin und her geschoben und sind dann doch falsch. Und warten muss man IMMER.",
+      "time": 1787841734,
+      "translated": false
+    },
+    {
+      "author_name": "Selmir Suljkanovic",
+      "author_url": "https://www.google.com/maps/contrib/116595515306924010649/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaSUUmrpSJiqbV-bdGUzUaDzqzgtxtdQsgxsenG-RepBi85Jw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Liebes Team,\nich habe gestern meine Inuspherese bei euch gehabt und muss wirklich sagen, dass ich etwas Angst vor der Behandlung hatte. Doch als ich bereits bei der Anmeldung an der Rezeption war, hatte man mir durch den freundlichen Empfang bereits die halbe Angst genommen - so einen freundlichen Empfang habe ich lange nicht erlebt. Und dann ging es schon zur Inuspherese. Dr. Quist und sein Team waren einfach so aufmerksam und freundlich. Gefühlt alle 5 Minuten kam Herr Dr. Quist persönlich rein um einfach nur zu fragen, wie es mir geht. Das fand ich nicht nur freundlich, sondern auch sehr fürsorglich. Ich möchte mich von Herzen bei dem ganzen Team bedanken. Zum Schluss kam dann auch noch Frau Dr. Quist persönlich vorbei, um das Abschlussgespräch mit mir zu führen - einfach wow. Ich freue mich auf die nächste Behandlung und kann diese Arztpraxis einfach nur weiterempfehlen.",
+      "time": 1787825465,
+      "translated": false
+    },
+    {
       "author_name": "Ekaterina F.",
       "author_url": "https://www.google.com/maps/contrib/111157360748684158232/reviews",
       "language": "de",
@@ -1292,11 +1316,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 326,
+  "reviewCount": 328,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:29:09.991Z"
+  "lastUpdated": "2026-08-28T17:09:13.741Z"
 }

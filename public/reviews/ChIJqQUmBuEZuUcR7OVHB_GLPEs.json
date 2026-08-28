@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Manu Fre",
+      "author_url": "https://www.google.com/maps/contrib/112264189647494239079/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjMOtx9AOmZ9rbyhb1te45apjdPF5_Lr9sDh8K8lIC5kAyw1i7pg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schon mit einer kleinen Pause seit Jahrzehnten Patientin in der Hansaklinik und bin auch größtenteils zufrieden. Letzte Woche war ich da nach einer kleinen OP, Befund war leider noch nicht da. Ich soll telefonisch nachfragen ob der Befund da ist,aber man hängt ewig in der Warteschleife und die Online-Rezeption funktioniert nicht und über E-Mail werden auch keine Fragen mehr beantwortet. Ich kann doch nicht ständig in die Stadt fahren und das vielleicht auch noch umsonst. Das ist einfach blöd, bitte bearbeitet eure Homepage, damit man euch wenigstens online erreichen kann.",
+      "time": 1787842764,
+      "translated": false
+    },
+    {
+      "author_name": "Ljudmila Samborskaja",
+      "author_url": "https://www.google.com/maps/contrib/101349962756660266382/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4XE1yQ9dkUhfQSZTdbzu1VM6o44aLzxxIsX66lhHiYtlYUg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärzte sind sehr gut, aber die Organisation und das mittlere Personal sind das Schlimmste, was man sich vorstellen kann. Man muss mit einer Wartezeit von drei Stunden rechnen – und mit Unhöflichkeit.",
+      "time": 1787744679,
+      "translated": false
+    },
+    {
+      "author_name": "『debora』",
+      "author_url": "https://www.google.com/maps/contrib/118162497240103067779/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuZJ2A_gKtQu3osgTwzG_HWEinYSSKn5n1ttw5--AxuXT_DYk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Erbärmliche Organisation, niemand ist telefonisch erreichbar. Termine werden kurzfristig verschoben/abgesagt.",
+      "time": 1787649595,
+      "translated": false
+    },
+    {
       "author_name": "Detlev Lorenz",
       "author_url": "https://www.google.com/maps/contrib/110960129615239791889/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt47_qQCBsZLBE9If5E8dU4IMEo66wIndTPxl0mn6cHZkeGLOl=s128-c0x00000000-cc-rp-mo-ba3",
@@ -18,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoXVPKfo9_JbL8g_YCw6PcPb35wSwfSlR4kRAcwypvytNJr1_F=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Diese Klinik ist telefonisch gar nicht erreichbar, wie alle anderen Kliniken. Es ist wie, wenn man auf der Kirmes Lose kauft. Es sind fast immer Nieten.",
+      "time": 1787305257,
+      "translated": false
+    },
+    {
+      "author_name": "P K",
+      "author_url": "https://www.google.com/maps/contrib/117239708683156441301/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoXVPKfo9_JbL8g_YCw6PcPb35wSwfSlR4kRAcwypvytNJr1_F=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Diese Klinik ist telefonisch gar nicht erreichbar, wie alle anderen Kliniken. Es ist wie, wenn man auf der Kirmes Lose kauft. Es sind fast immer Nieten.",
       "time": 1787305257,
       "translated": false
@@ -1242,7 +1290,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 298,
+  "reviewCount": 301,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:46.441Z"
+  "lastUpdated": "2026-08-28T17:08:47.812Z"
 }

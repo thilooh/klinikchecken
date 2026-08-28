@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nabil K G",
+      "author_url": "https://www.google.com/maps/contrib/105789361364958181211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2DnSt7M5PuFMZpB91Dm-W73YIa2jsRfXwPnB4Bfkuz4IfnQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die verdienen nicht mal eine Sterne ,\nUnprofessional",
+      "time": 1787857097,
+      "translated": false
+    },
+    {
       "author_name": "xa ha",
       "author_url": "https://www.google.com/maps/contrib/106461884517695688925/reviews",
       "language": "de",
@@ -35,6 +47,16 @@
       "translated": false
     },
     {
+      "author_name": "Nicole Schumann",
+      "author_url": "https://www.google.com/maps/contrib/113725099560591624177/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtLgnON_MHpuH8p4o10plTGKiMrmbqN0hdG0bkRW31jQxrIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1787316180,
+      "translated": false
+    },
+    {
       "author_name": "Sameh Dawier",
       "author_url": "https://www.google.com/maps/contrib/103241567107506120687/reviews",
       "language": "de",
@@ -42,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS7wvmi8355PMUL88kspGEdBhvhm122zU_e_sZIBKwupAxXi5w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Schlichte Betreuung einfach 👎🏻",
+      "time": 1787214175,
+      "translated": false
+    },
+    {
+      "author_name": "Sameh Dawier",
+      "author_url": "https://www.google.com/maps/contrib/103241567107506120687/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS7wvmi8355PMUL88kspGEdBhvhm122zU_e_sZIBKwupAxXi5w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Schlichte Betreuung einfach 👎🏻",
       "time": 1787214175,
       "translated": false
@@ -1246,5 +1280,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-25T05:28:52.532Z"
+  "lastUpdated": "2026-08-28T17:08:55.069Z"
 }

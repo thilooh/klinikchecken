@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kiri",
+      "author_url": "https://www.google.com/maps/contrib/108458892438030579103/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOdQ_gkfSTRmFZeKDQx50t8UcVoWUCsVQ-tydfo4XJW8sMmUM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zufrieden\n\nIch bin bereits seit vielen Jahren Patientin und nach wie vor sehr zufrieden. Man fühlt sich hier gut aufgehoben, ernst genommen und stets freundlich und kompetent betreut. Die Behandlung und der Umgang waren immer sehr lobenswert. Ich kann die Praxis daher uneingeschränkt weiterempfehlen und komme immer wieder gerne.",
+      "time": 1787744844,
+      "translated": false
+    },
+    {
       "author_name": "Hasan Dündar",
       "author_url": "https://www.google.com/maps/contrib/106482061248795462042/reviews",
       "language": "de",
@@ -915,7 +927,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 59,
+  "reviewCount": 60,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:42.128Z"
+  "lastUpdated": "2026-08-28T17:08:42.459Z"
 }

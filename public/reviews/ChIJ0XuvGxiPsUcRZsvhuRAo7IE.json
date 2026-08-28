@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Mariko Me",
+      "author_url": "https://www.google.com/maps/contrib/114375085353240094865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGTMpe6xg7YelH-WOKsymFXXXqdRTapvKszgK8b8RRWVoJKg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nachdem ich zunächst eher negative Erfahrungen mit zwei (tlw. ehemaligen) Ärzt:innen im Dermatologikum gemacht habe, bin ich seit einiger Zeit bei Frau Dr. Eimer in Behandlung und rundum zufrieden. Ich fühle mich von ihr sehr gut beraten und behandelt. Ich habe verschiedene Botox-Behandlungen machen lassen, z. B. in den Masseter- und in den Trapezmuskel gegen Zähnepressen und schlimme Verspannungen. Dadurch sind meine früher chronischen Schmerzen sehr selten geworden und mein Leben hat eine komplett neue Qualität bekommen. Auch hinter den Ohren hat Frau Dr. Eimer Botox gespritzt, was gut gegen Spannungskopfschmerz geholfen hat. Ich habe auch schon mehrfach Hyaluronsäure spritzen lassen. Vor der Behandlung hat Frau Dr. Eimer mich auch dazu sehr gut hinsichtlich der Menge beraten und das Ergebnis sieht natürlich aus.",
+      "time": 1787858820,
+      "translated": false
+    },
+    {
+      "author_name": "J. K.",
+      "author_url": "https://www.google.com/maps/contrib/106949153052500914136/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKKwlgzilYFBZIBLnjTbAxdlsCtxMrZzQWS0RfEh_j035xAtTE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787760307,
+      "translated": false
+    },
+    {
       "author_name": "Oliver Niehus",
       "author_url": "https://www.google.com/maps/contrib/117905158928346825384/reviews",
       "language": "de",
@@ -25,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "tamara alkeilani",
+      "author_url": "https://www.google.com/maps/contrib/115448420002492095643/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9I8bWGo92jQMcDUnY7QRAiXknhGfDRXc2VnELrt_xlHhv5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Das Dermatologikum ist für mich die beste Adresse in Hamburg. Egal bei welchem Arzt ich bisher war: Die Beratung ist immer hochprofessionell und das gesamte Team super freundlich. Aktuell bin ich bei Frau Dr. Söhl in Behandlung und kann sie – sowie die anderen Ärzte bei denen ich dort bisher war– jedem empfehlen. Ich habe ausschließlich sehr gute Erfahrungen gesammelt.",
+      "time": 1787244576,
+      "translated": false
+    },
+    {
       "author_name": "Mehmet Riza Karadag",
       "author_url": "https://www.google.com/maps/contrib/108638767852143053280/reviews",
       "language": "de",
@@ -32,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP-E561CJUPfvpIqb9EaaDa8o7cSIbDaJcw1VXhk49SFoX4w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war wegen Krampfadern da. Insgesamt 4-5 mal. Einmal Op 2-3 mal wurde Sachaum gespritz. Nach ein zeit immer mehr Krämpfe, schmerzen, manchmal taub Gefühl…\nIch bereue mich dass ich diese Praxis ausgewählt habe.\nEmpfähle niemanden.\nIch bewerte nur über vehnenzentrum und die läute die mich operiert haben. Über andere Bereiche ich kann keinesfalls etwas schreiben.",
+      "time": 1787170568,
+      "translated": false
+    },
+    {
+      "author_name": "Mehmet Riza Karadag",
+      "author_url": "https://www.google.com/maps/contrib/108638767852143053280/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP-E561CJUPfvpIqb9EaaDa8o7cSIbDaJcw1VXhk49SFoX4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war wegen Krampfadern da. Insgesamt 4-5 mal. Einmal Op 2-3 mal wurde Sachaum gespritz. Nach ein zeit immer mehr Krämpfe, schmerzen, manchmal taub Gefühl…\nIch bereue mich dass ich diese Praxis ausgewählt habe.\nEmpfähle niemanden.\nIch bewerte nur über vehnenzentrum und die läute die mich operiert haben. Über andere Bereiche ich kann keinesfalls etwas schreiben.",
       "time": 1787170568,
       "translated": false
@@ -1238,7 +1284,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 456,
+  "reviewCount": 458,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:49.367Z"
+  "lastUpdated": "2026-08-28T17:08:51.611Z"
 }

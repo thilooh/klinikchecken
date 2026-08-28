@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Juergen Ritze",
+      "author_url": "https://www.google.com/maps/contrib/118345972417555433631/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUI2NauSMEayY5zcp2STAL2AqdGyFHOJKhJvwXxEUUPlpSrtnW-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Angenehmer Wartebereich, freundlicher Empfang, toll.",
+      "time": 1787636164,
+      "translated": false
+    },
+    {
       "author_name": "Manu Wunder",
       "author_url": "https://www.google.com/maps/contrib/100073357248894164551/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6O1gnvAJ00cnXlTeR32WxmNu5eZbc5GHo0wihC8uAiScOOg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Diese Rezension ist stellvertretend von meiner werten Frau Mama.\nBetreff : Terminvergabe bei Frau Dr.Brugger. Ich wurde von meiner Hausärztin zur Frau Dr. Brugger überwiesen ( bin schon jahrelang Patientin bei Ihr) Telefonisch niemand erreichbar, keine E-Mail, keine Terminvergabe durch Krankenkasse, also bin ich persönlich hingefahren! Die medizinische Fachangestellte am Empfang behandelte mich wie den letzten Dreck! Brüllte mich an und sagte ich solle im Januar '27 mir einen neuen Termin geben lassen! So eine Art und Weise finde ich sehr grenzwertig. Am besten wäre es, dieser Mensch, sollte sich eine andere Arbeit suchen. 1 Stern 👎",
+      "time": 1785311211,
+      "translated": false
+    },
+    {
+      "author_name": "Marcel Freitag",
+      "author_url": "https://www.google.com/maps/contrib/113965645755183562119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6O1gnvAJ00cnXlTeR32WxmNu5eZbc5GHo0wihC8uAiScOOg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Diese Rezension ist stellvertretend von meiner werten Frau Mama.\nBetreff : Terminvergabe bei Frau Dr.Brugger. Ich wurde von meiner Hausärztin zur Frau Dr. Brugger überwiesen ( bin schon jahrelang Patientin bei Ihr) Telefonisch niemand erreichbar, keine E-Mail, keine Terminvergabe durch Krankenkasse, also bin ich persönlich hingefahren! Die medizinische Fachangestellte am Empfang behandelte mich wie den letzten Dreck! Brüllte mich an und sagte ich solle im Januar '27 mir einen neuen Termin geben lassen! So eine Art und Weise finde ich sehr grenzwertig. Am besten wäre es, dieser Mensch, sollte sich eine andere Arbeit suchen. 1 Stern 👎",
       "time": 1785311211,
       "translated": false
@@ -200,6 +224,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJArPq4224EPMhZ1CNBPvDDNWd2bwJ-x9WKzSOMgSgEphtbyA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 9 Monaten",
+      "text": "Die Ärztin meines Vertrauens! Kompetent, freundlich und wahnsinnig emphatisch. Das gleiche gilt für Ihren Mann, der jeden Patienten beim Eintritt in die Praxis freudig begrüßt und stets ein offenes Ohr für sämtliche Fragen und Anliegen hat. Für mich ist das Team Rund um Frau Brugger „alternativlos“. Vielen Dank!",
+      "time": 1761720960,
+      "translated": false
+    },
+    {
+      "author_name": "René Ständeke",
+      "author_url": "https://www.google.com/maps/contrib/102241367158380183015/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJArPq4224EPMhZ1CNBPvDDNWd2bwJ-x9WKzSOMgSgEphtbyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 10 Monaten",
       "text": "Die Ärztin meines Vertrauens! Kompetent, freundlich und wahnsinnig emphatisch. Das gleiche gilt für Ihren Mann, der jeden Patienten beim Eintritt in die Praxis freudig begrüßt und stets ein offenes Ohr für sämtliche Fragen und Anliegen hat. Für mich ist das Team Rund um Frau Brugger „alternativlos“. Vielen Dank!",
       "time": 1761720960,
       "translated": false
@@ -374,11 +410,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 50,
+  "reviewCount": 51,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:29:08.329Z"
+  "lastUpdated": "2026-08-28T17:09:11.994Z"
 }

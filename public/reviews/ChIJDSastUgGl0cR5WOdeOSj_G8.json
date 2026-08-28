@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andrew Page (Tituschristianos)",
+      "author_url": "https://www.google.com/maps/contrib/105483576497454399187/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZvB0ZJ8CZ92lAexhA1arc3ysat4DpSvWQ0Nrqdu7hM6h0kYMXLQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "keine Terminvereinbarungen möglich. An Telefon geht niemand dran, online Termine vereinbaren auch nicht möglich. Was geht da ab? Muss ich jetzt extra dahin fahren damit ich einen Termin vereinbare der auch in N- Monate ist. Traurig.",
+      "time": 1787643495,
+      "translated": false
+    },
+    {
       "author_name": "DoktorKong",
       "author_url": "https://www.google.com/maps/contrib/106597635396463005046/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0md9do5Mil63XeBW6vdQJPUu63-Ss3eB4_V9KwQaNI8Xkog=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "Leider habe ich mehrmals angerufen um einen Termin für das Screennung zu bekommen leider immer besetzt.",
+      "time": 1787133704,
+      "translated": false
+    },
+    {
+      "author_name": "Linda Bessaies",
+      "author_url": "https://www.google.com/maps/contrib/111956728522080818580/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0md9do5Mil63XeBW6vdQJPUu63-Ss3eB4_V9KwQaNI8Xkog=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
       "text": "Leider habe ich mehrmals angerufen um einen Termin für das Screennung zu bekommen leider immer besetzt.",
       "time": 1787133704,
       "translated": false
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3l0TMcVMnhJFOMA4643XXxp_Ncaz7e9Dj7aL7StpLvi_QCX6tAw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Praxis ist kompletter Scam: telefonisch ist niemand zu erreichen (man hängt ewig in der Warteschlange und dann wird man rausgeworfen). Wenn man Praxis erreicht, wird auf Terminvergabe über Doctolib verwiesen: dort gibt es entweder keine freien Termine (zB Hautkrebsscreening) oder man wird per Nachricht abgespeist man soll einen Termin über Doctolib machen. Wenn es dort aber keine Termine gibt, wäre es nicht besser zu sagen, dass man als Praxis ausgelastet ist?",
+      "time": 1786693362,
+      "translated": false
+    },
+    {
+      "author_name": "Fábio Ferreira",
+      "author_url": "https://www.google.com/maps/contrib/106417594813467378977/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3l0TMcVMnhJFOMA4643XXxp_Ncaz7e9Dj7aL7StpLvi_QCX6tAw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Praxis ist kompletter Scam: telefonisch ist niemand zu erreichen (man hängt ewig in der Warteschlange und dann wird man rausgeworfen). Wenn man Praxis erreicht, wird auf Terminvergabe über Doctolib verwiesen: dort gibt es entweder keine freien Termine (zB Hautkrebsscreening) oder man wird per Nachricht abgespeist man soll einen Termin über Doctolib machen. Wenn es dort aber keine Termine gibt, wäre es nicht besser zu sagen, dass man als Praxis ausgelastet ist?",
       "time": 1786693362,
       "translated": false
@@ -1152,11 +1188,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 241,
+  "reviewCount": 242,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:29:04.130Z"
+  "lastUpdated": "2026-08-28T17:09:07.492Z"
 }

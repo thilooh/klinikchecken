@@ -77,6 +77,16 @@
       "translated": false
     },
     {
+      "author_name": "Sven Danila",
+      "author_url": "https://www.google.com/maps/contrib/104841678774708038371/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGZcgMvKEcebX-7hKFLZKwG51bE812g4geIGK_zIhEa_wi6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1785502942,
+      "translated": false
+    },
+    {
       "author_name": "Laura Koch",
       "author_url": "https://www.google.com/maps/contrib/102688123102861220834/reviews",
       "language": "de",
@@ -125,6 +135,18 @@
       "translated": false
     },
     {
+      "author_name": "Laura Koch",
+      "author_url": "https://www.google.com/maps/contrib/102688123102861220834/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBuy_0EtpjIWW-Sgj86SJrurnbR1Gs4LNGYtfUTj38pT4lQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr freundlich und effizient. Bin schnell dran gekommen und Top Beratung.",
+      "time": 1785484130,
+      "translated": false
+    },
+    {
       "author_name": "PaulG",
       "author_url": "https://www.google.com/maps/contrib/108914495733172251314/reviews",
       "language": "de",
@@ -173,6 +195,18 @@
       "translated": false
     },
     {
+      "author_name": "PaulG",
+      "author_url": "https://www.google.com/maps/contrib/108914495733172251314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAHlHzmEUCCVIc1i5BYLa7VJojRIi2ZJMAt1MkbxXfEA3hj4jP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Super moderne und gut eingerichtete Praxis, Arzt und Personal kompetent und freundlich. Uneingeschränkt empfehlenswert!",
+      "time": 1785414962,
+      "translated": false
+    },
+    {
       "author_name": "Heba Khal",
       "author_url": "https://www.google.com/maps/contrib/117949800645497650335/reviews",
       "language": "de",
@@ -216,6 +250,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7HW_8ltAfkg9LnVrPMfUyTHzrjUD-QEs6jTHSDBmqRZHuBg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Kurze Wartezeit, professionelle Behandlung und eine angenehme Atmosphäre. Vielen Dank",
+      "time": 1785337297,
+      "translated": false
+    },
+    {
+      "author_name": "Heba Khal",
+      "author_url": "https://www.google.com/maps/contrib/117949800645497650335/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7HW_8ltAfkg9LnVrPMfUyTHzrjUD-QEs6jTHSDBmqRZHuBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Kurze Wartezeit, professionelle Behandlung und eine angenehme Atmosphäre. Vielen Dank",
       "time": 1785337297,
       "translated": false
@@ -1217,5 +1263,5 @@
   "rating": 4.4,
   "reviewCount": 239,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:44.133Z"
+  "lastUpdated": "2026-08-28T17:08:44.765Z"
 }

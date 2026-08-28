@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ammar Ammar",
+      "author_url": "https://www.google.com/maps/contrib/114763712949806231242/reviews",
+      "language": "ar",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-g8jXSxo0SLn7_tLgPLPJ8hvPQz2NfUEdbg_5_RGrSRSXghUX3w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "\"تجربة سيئة للغاية للأسف. الطبيبة التي تعمل في عيادة الدكتور الجبوري تفتقر تماماً لأسلوب التعامل المهني والمحترم مع المراجعين. المعاملة كانت فوقية جداً وبدون أي احترام، وشعرنا وكأننا غير مرغوب بنا كعرب. لا أنصح بالتعامل معها أبداً.\"😡",
+      "time": 1787858853,
+      "translated": false
+    },
+    {
       "author_name": "Mohammad Othman",
       "author_url": "https://www.google.com/maps/contrib/117625248792812796540/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt8FLcmYuS7vo7nDPVTVEN4T9dpH_PH5R5kwp7Y7mDWF0X8YKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Netter Umgang und hilfreiche Behandlung.\nAlso Empfehlenswert",
+      "time": 1787208169,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammad Othman",
+      "author_url": "https://www.google.com/maps/contrib/117625248792812796540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt8FLcmYuS7vo7nDPVTVEN4T9dpH_PH5R5kwp7Y7mDWF0X8YKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Netter Umgang und hilfreiche Behandlung.\nAlso Empfehlenswert",
       "time": 1787208169,
       "translated": false
@@ -28,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786457359,
+      "translated": false
+    },
+    {
+      "author_name": "Alaa Almajun",
+      "author_url": "https://www.google.com/maps/contrib/104586541847206550971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1786457359,
       "translated": false
@@ -64,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvYx9Ckg5tMf_bvFIHnUCaxhIdlJ-50hhz_pG6SAZjRBhORg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Kann die teilweise schlechten Bewertungen nicht bestätigen. Habe einen Termin für den nächsten Tag bekommen. Das Personal war sehr freundlich. Wartezeit sehr kurz. Wurde von einer netten jungen Ärztin behandelt, die schnell eine Diagnose stellte, die bisher nicht erkannt wurde.",
+      "time": 1785925098,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Janke",
+      "author_url": "https://www.google.com/maps/contrib/114674566462622329700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvYx9Ckg5tMf_bvFIHnUCaxhIdlJ-50hhz_pG6SAZjRBhORg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Kann die teilweise schlechten Bewertungen nicht bestätigen. Habe einen Termin für den nächsten Tag bekommen. Das Personal war sehr freundlich. Wartezeit sehr kurz. Wurde von einer netten jungen Ärztin behandelt, die schnell eine Diagnose stellte, die bisher nicht erkannt wurde.",
       "time": 1785925098,
       "translated": false
@@ -1098,11 +1144,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 391,
+  "reviewCount": 392,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-25T05:29:15.802Z"
+  "lastUpdated": "2026-08-28T17:09:20.184Z"
 }

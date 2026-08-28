@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jörg Fischer",
+      "author_url": "https://www.google.com/maps/contrib/102921414122998747468/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFiagz3qhEEj-Uq3i-SUhSeY9jnX4Zj9LiBrdzL-bztYvmiTs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin außerordentlich zufrieden mit der Betreuung während meiner Operation. Also alle Daumen 👍 hoch und nochmals vielen Dank an das ganze Personal.",
+      "time": 1787662766,
+      "translated": false
+    },
+    {
+      "author_name": "Jens Göttinger",
+      "author_url": "https://www.google.com/maps/contrib/109205873017120143319/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlm3S0_NYbzsMdS4G5yg-XSzsO2JQSBFiSub1yJgDwZKZKMrQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetente Ärzte und Schwestern. Auch die Betreuung auf der Komfortstation bekommt fünf Sterne.",
+      "time": 1787647563,
+      "translated": false
+    },
+    {
       "author_name": "Sabrina Spychalski",
       "author_url": "https://www.google.com/maps/contrib/111891905356573710879/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-PVPsZdbRkZw1vj7LPpRcgClVzHfqCHZQiCT2OR8PSQqziSUu=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQV_MI68cii0zKkzmL-DmLwfEIfZiYQc3xbNSY9ga4qDMoUw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787224161,
+      "translated": false
+    },
+    {
+      "author_name": "Pascal Arndt",
+      "author_url": "https://www.google.com/maps/contrib/113628871974045409387/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQV_MI68cii0zKkzmL-DmLwfEIfZiYQc3xbNSY9ga4qDMoUw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1787224161,
       "translated": false
@@ -1220,11 +1254,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 476,
+  "reviewCount": 478,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-25T05:28:55.514Z"
+  "lastUpdated": "2026-08-28T17:08:58.333Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sina B.",
+      "author_url": "https://www.google.com/maps/contrib/112168249961728667892/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhFd3Ns0GjPSCMeIR8aFiOm0ybIUaMbmLT7LESxpAcrstl_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "2 K(l)assengesellschaft! Obwohl ich seit mehreren Jahren Patientin in dieser Praxis bin, wurde mir die Hautkrebsvorsorge als Kassenleistung verwehrt. Da ich 3 Jahre (aufgrund keiner Beschwerden/Auffälligkeiten) nicht in der Praxis war, solle ich mir aus Kapazitätensgründen für die Krebsvorsorge einen Selbstzahler-Termin für 75€ bzw. 165€ buchen. Für Selbstzahler sind die Kapazitäten wohl doch vorhanden.🤔 Was mir von der Praxis bleibt, ist eine hässliche Narbe nach einer teuren Malentfernung.",
+      "time": 1787750316,
+      "translated": false
+    },
+    {
+      "author_name": "Yasmin Wael",
+      "author_url": "https://www.google.com/maps/contrib/117352511452211084267/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJAu75hnb-flWwLtBienzQ_Psl4CcY6ujzFoL4ORnEE4Bf4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr enttäuschende Erfahrung\n\nLeider war mein heutiger Besuch in dieser Praxis äußerst enttäuschend. Ich war pünktlich zu meinem Termin erschienen, doch der übliche Eingang war geschlossen oder verlegt, sodass ich den alternativen Eingang suchen musste. Dadurch kam ich nur etwa 13 Minuten zu spät.\n\nIch erklärte den Grund für die Verspätung und wies darauf hin, dass ich im letzten Schwangerschaftsmonat bin und seit etwa zwei Wochen unter anhaltendem Juckreiz leide, der eine ärztliche Untersuchung erforderlich mache. Trotzdem wurde mein Termin abgesagt und mir die Behandlung aufgrund der Verspätung verweigert, ohne dass man versuchte, eine alternative Lösung zu finden oder Verständnis für meine Situation zu zeigen.\n\nIch verstehe vollkommen, wie wichtig es ist, Termine einzuhalten und die Zeit des Arztes zu respektieren. Dennoch hätte ich zumindest ein gewisses Maß an Verständnis und Flexibilität erwartet, insbesondere bei einer Patientin im letzten Schwangerschaftsmonat, die den Grund für die Verspätung und die Notwendigkeit der ärztlichen Behandlung klar dargelegt hat.\n\nNach dieser Erfahrung werde ich diese Praxis leider nicht mehr aufsuchen. Ich kann diese Praxis leider niemandem empfehlen, selbst wenn es schwierig ist, woanders einen Termin zu finden. Für mich ist es unerlässlich, Patienten mit Menschlichkeit, Verständnis und Rücksichtnahme zu behandeln – und nicht einfach nur die Termine minutengenau einzuhalten.\n\nIch hoffe sehr, dass die Praxis ihr Vorgehen in solchen Fällen überdenkt, damit andere Patienten nicht so enttäuscht und missachtet werden wie ich heute.",
+      "time": 1787674593,
+      "translated": true
+    },
+    {
       "author_name": "Maximilian Sigel",
       "author_url": "https://www.google.com/maps/contrib/100321954026916745038/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWb7d-T7o_XK_YPgR5JPSsps4N0-iEBMwU7lz_OoBZ1zE3UfeA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Frau Dr. Lee zur KTP-Laserbehandlung und habe mich bei ihr sehr gut aufgehoben gefühlt. Sie war sehr freundlich, ruhig und hat sich Zeit genommen, alles verständlich zu erklären. Besonders positiv fand ich ihre gründliche und angenehme Art. Ich würde mich jederzeit wieder von ihr behandeln lassen und kann sie wirklich weiterempfehlen!",
+      "time": 1787323258,
+      "translated": false
+    },
+    {
+      "author_name": "Si.Hrichi",
+      "author_url": "https://www.google.com/maps/contrib/113541545300296292592/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWb7d-T7o_XK_YPgR5JPSsps4N0-iEBMwU7lz_OoBZ1zE3UfeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war bei Frau Dr. Lee zur KTP-Laserbehandlung und habe mich bei ihr sehr gut aufgehoben gefühlt. Sie war sehr freundlich, ruhig und hat sich Zeit genommen, alles verständlich zu erklären. Besonders positiv fand ich ihre gründliche und angenehme Art. Ich würde mich jederzeit wieder von ihr behandeln lassen und kann sie wirklich weiterempfehlen!",
       "time": 1787323258,
       "translated": false
@@ -1144,7 +1180,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 326,
+  "reviewCount": 328,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:51.602Z"
+  "lastUpdated": "2026-08-28T17:08:54.104Z"
 }

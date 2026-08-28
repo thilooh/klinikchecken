@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Natascha",
+      "author_url": "https://www.google.com/maps/contrib/114883124932748688302/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDhnGWISg7-JXUKpyp7-XGlQKPyVfhW0366TL_xANhcZ6X41X-=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Aufgrund meines Lipödems, benötigte ich Unterstützung für den Antrag für eine OP. Voraussetzung ist die manuelle Lymphdrainage, Kompressionsstrümpfe und ein BMI von 32. Einmal dort gewesen und wurde ziemlich unfreundlich behandelt. \"Alle Frauen wollen jetzt die OP\" bla bla bla. \"Die Kasse übernimmt das nur in selten Fällen, besser Sie zahlen selbst\" und gab mir einen Namen eines Arztes in Mülheim. Kompressionsstrümpfe habe ich erhalten und auch ein Rezept für die Lymphdrainage. Ich solle in 6 Monaten wiederkommen und bis dahin jeden Monat ein Rezept ausstellen lassen\n\nBeim 2. Rezept, teilte man mir mit, dass ich 300 Euro zahlen soll. Das Rezept gibt es nur noch in Verbindung mit einer Untersuchung. Ich müsste also monatlich 600 Euro zahlen um mein Rezept für die Lymphdrainage zu bekommen. Kassenpatient nicht mehr gewünscht. Die Untersuchungen macht jetzt auch nur noch Dr. Jawadi. Ich war bei der Erstuntersuchung bei einem anderen, unfreundlichen Arzt.\n\nFakt ist: Meine Therapie ist kaputt. Ich bekomme keinen Termin vor 8 Monaten bei einem Gefäßchirurgen. Meine OP, die ich in 6 Monaten beantragen wollte, hat sich erledigt.\n\nMeine Tochter hätte nach 7 Monaten Wartezeit einen Termin bei der Praxis. Diesen haben sie ohne Angaben einer Begründung über Doctolib abgesagt. Warum, ist wohl klar. Sie ist auch Kassenpatientin. Ich kann diese Praxis nicht weiterempfehlen. Als Privatpatient sind Sie dort sicherlich gut aufgehoben.",
+      "time": 1787908887,
+      "translated": false
+    },
+    {
       "author_name": "Luana",
       "author_url": "https://www.google.com/maps/contrib/110784181735054289939/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiUgV1zIzI_Ka3f39tbbTnOmotWrFKvhlseh6GRTLctbJWk04lMg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war jahrelang Patient, deshalb kann ich viel dazu sagen, was in dieser Praxis passiert...\n\nZum einen erreicht man diese Praxis fast nie per Telefon.\nTermine werden einfach anders gelegt als besprochen. Der Chefarzt ist super unempathisch, mir wurde eine Narkose versprochen vor einer OP und dann wurde einfach ohne durchgezogen. Schlechte Aufklärung, wird schlecht zugehört.\nAußerdem habe ich ein Jahr lang dort eine falsche Kompression verschrieben bekommen, die mehr schadet, als hilft. Nach einem Jahr fiel es dann auf. Danach wurden meine Rezepte, die schon ausgestellt waren, verweigert und gestrichen. Einfach so. Der Arzt wurde neulich auch sehr unhöflich, als ich angesprochen habe, dass ein Termin seitens der Praxis falsch eingetragen wurde. Kann alles mal passieren, aber mir die Schuld zu geben (obwohl ich nicht in den PC gucken kann dort) finde ich frech. Auch habe ich öfter die falschen Medikamente verschrieben bekommen und musste schon mehrfach von der Apotheke wieder zurück, um das zu verändern. Es wurden IGEL-Leistungen berechnet, die ich nie genutzt habe und auch nicht in Kenntnis gesetzt wurde über etwaige Kosten.\n\nDazu kommt, dass sich die Damen am Empfang über mich lustig gemacht haben und sogar ausfallend wurden.\n\nAlles in allem rate ich von dieser Praxis ab.",
+      "time": 1785999788,
+      "translated": false
+    },
+    {
+      "author_name": "Luana",
+      "author_url": "https://www.google.com/maps/contrib/110784181735054289939/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiUgV1zIzI_Ka3f39tbbTnOmotWrFKvhlseh6GRTLctbJWk04lMg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war jahrelang Patient, deshalb kann ich viel dazu sagen, was in dieser Praxis passiert...\n\nZum einen erreicht man diese Praxis fast nie per Telefon.\nTermine werden einfach anders gelegt als besprochen. Der Chefarzt ist super unempathisch, mir wurde eine Narkose versprochen vor einer OP und dann wurde einfach ohne durchgezogen. Schlechte Aufklärung, wird schlecht zugehört.\nAußerdem habe ich ein Jahr lang dort eine falsche Kompression verschrieben bekommen, die mehr schadet, als hilft. Nach einem Jahr fiel es dann auf. Danach wurden meine Rezepte, die schon ausgestellt waren, verweigert und gestrichen. Einfach so. Der Arzt wurde neulich auch sehr unhöflich, als ich angesprochen habe, dass ein Termin seitens der Praxis falsch eingetragen wurde. Kann alles mal passieren, aber mir die Schuld zu geben (obwohl ich nicht in den PC gucken kann dort) finde ich frech. Auch habe ich öfter die falschen Medikamente verschrieben bekommen und musste schon mehrfach von der Apotheke wieder zurück, um das zu verändern. Es wurden IGEL-Leistungen berechnet, die ich nie genutzt habe und auch nicht in Kenntnis gesetzt wurde über etwaige Kosten.\n\nDazu kommt, dass sich die Damen am Empfang über mich lustig gemacht haben und sogar ausfallend wurden.\n\nAlles in allem rate ich von dieser Praxis ab.",
       "time": 1785999788,
       "translated": false
@@ -547,7 +571,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:44.360Z"
+  "lastUpdated": "2026-08-28T17:08:45.152Z"
 }

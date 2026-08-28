@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Touya Dan",
+      "author_url": "https://www.google.com/maps/contrib/105764783199589684594/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBj4XsQ_TOp7A4goXZnSpwI1-QPiqdOUqNqcTDMGbmAddp8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Personal sehr unfreundlich.\nGenerell nicht zu empfehlen Preise werden da gewürfelt🤷‍♂️",
+      "time": 1787813808,
+      "translated": false
+    },
+    {
+      "author_name": "Bine Oetting",
+      "author_url": "https://www.google.com/maps/contrib/117213893134681977092/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3r2kUiry1fRsm5sDOGIEARDXiMnWast6rHguE5YIPo18g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr netter kompetenter Arzt, sehr nette Arzthelferin, sehr kurze Wartezeit! Absolut empfehlenswert!!",
+      "time": 1787674329,
+      "translated": false
+    },
+    {
       "author_name": "Jürgen Hohl",
       "author_url": "https://www.google.com/maps/contrib/117486686014220711177/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwE6sFZR24gFPZEo645_JEsN7DaaKBwx4dD8ckU7UPUBecnw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -756,11 +780,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 76,
+  "reviewCount": 78,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:28:53.651Z"
+  "lastUpdated": "2026-08-28T17:08:56.334Z"
 }

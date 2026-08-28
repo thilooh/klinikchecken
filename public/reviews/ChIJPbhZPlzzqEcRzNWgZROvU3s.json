@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Denise",
+      "author_url": "https://www.google.com/maps/contrib/116677777025976603754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFpbpSNpWuGdTa-b0jnoEqs3lpT3HF36suNniMkNv7Q_p4wg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit der Tattoo-Laserung sehr zufrieden! Die Praxis ist sehr modern und stilvoll eingerichtet. Ich habe mich direkt gut aufgehoben gefühlt. Das gesamte Team arbeitet äußerst kompetent, professionell, sorgfältig und ist immer freundlich. Mit der bisherigen Behandlung und dem Ergebnis bin ich sehr zufrieden.\nIch kann die Praxis daher weiterempfehlen und würde mich jederzeit wieder für diese Behandlung dort entscheiden ⭐️⭐️⭐️⭐️⭐️",
+      "time": 1787761384,
+      "translated": false
+    },
+    {
       "author_name": "Julia Dávid",
       "author_url": "https://www.google.com/maps/contrib/116537518445166458783/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXD0DMxtXAUTHExynybWo-V7wbRzlcgl0tWUY6fBDoQLQBy5L2=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXD0DMxtXAUTHExynybWo-V7wbRzlcgl0tWUY6fBDoQLQBy5L2=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1786661498,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Dávid",
+      "author_url": "https://www.google.com/maps/contrib/116537518445166458783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXD0DMxtXAUTHExynybWo-V7wbRzlcgl0tWUY6fBDoQLQBy5L2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1786661498,
       "translated": false
@@ -40,6 +62,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOeBokUb-oNyL_fXBmSMMWN71Isq6h8Hz3DTPUQHzzx-QlnA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Absolute Empfehlung! Ich wurde sehr ausführlich und kompetent beraten und hatte zu jeder Zeit das Gefühl, dass sich ausreichend Zeit für meine Fragen und Anliegen genommen wird. Auch telefonisch ist das Team sehr gut erreichbar. Die gesamte Behandlung und Betreuung ist äußerst professionell, seriös und vertrauenswürdig. Ich habe mich rundum gut aufgehoben gefühlt.",
+      "time": 1786632280,
+      "translated": false
+    },
+    {
+      "author_name": "Julia",
+      "author_url": "https://www.google.com/maps/contrib/103778712705596678006/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOeBokUb-oNyL_fXBmSMMWN71Isq6h8Hz3DTPUQHzzx-QlnA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Absolute Empfehlung! Ich wurde sehr ausführlich und kompetent beraten und hatte zu jeder Zeit das Gefühl, dass sich ausreichend Zeit für meine Fragen und Anliegen genommen wird. Auch telefonisch ist das Team sehr gut erreichbar. Die gesamte Behandlung und Betreuung ist äußerst professionell, seriös und vertrauenswürdig. Ich habe mich rundum gut aufgehoben gefühlt.",
       "time": 1786632280,
       "translated": false
@@ -942,11 +976,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 138,
+  "reviewCount": 139,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:29:09.060Z"
+  "lastUpdated": "2026-08-28T17:09:12.756Z"
 }

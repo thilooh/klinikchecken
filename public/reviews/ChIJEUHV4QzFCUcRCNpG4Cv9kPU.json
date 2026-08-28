@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Lisa",
+      "author_url": "https://www.google.com/maps/contrib/102639285055567011028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLC3pB8GGQi-gptHc_mZqd5Wsk3CHu_2poMuo_G32WCOjcCA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Große abzocke!\nIch war keine 5 min drin, es wurde nur ein Leberfleck so halb angeschaut und das war’s.\nUnd dann wird man zur Kasse gebeten 86€.\nOhne Diagnose oder sonst was. Sehr unverschämt!\nÄrztin sprach gebrochen Deutsch.",
+      "time": 1787661145,
+      "translated": false
+    },
+    {
+      "author_name": "Marie Wenzel",
+      "author_url": "https://www.google.com/maps/contrib/108876714297469271176/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSjMjG47Tak8iTpJwrDOH-yJ6CsTP_WmMfIa9ew0QEwP22Kig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nEine wirklich tolle Hautarztpraxis, die ich uneingeschränkt weiterempfehlen kann.\nFrau Dr. Vashina-Georgi ist eine hervorragende und zugleich herzliche Dermatologin.\n\nDie Praxis befindet sich in einer wunderschönen Villa und die Räumlichkeiten haben eine angenehme Atmosphäre.\nAuch die Terminvergabe war schnell und unkompliziert.\nVielen Dank an das freundliche Praxisteam und ganz besonders an Frau Dr. Vashina-Georgi! 😇",
+      "time": 1787647178,
+      "translated": false
+    },
+    {
       "author_name": "Xkart01",
       "author_url": "https://www.google.com/maps/contrib/105476919744143606118/reviews",
       "language": "de",
@@ -18,6 +42,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbx5UnI3hK-ryLTaR2fS2vjcAm916P4Iro2H5z9Cm8j9hzaQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787166460,
+      "translated": false
+    },
+    {
+      "author_name": "Pfaffrumpel Kanns",
+      "author_url": "https://www.google.com/maps/contrib/104437370554139376007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbx5UnI3hK-ryLTaR2fS2vjcAm916P4Iro2H5z9Cm8j9hzaQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1787166460,
       "translated": false
@@ -530,11 +564,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 56,
+  "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:29:07.161Z"
+  "lastUpdated": "2026-08-28T17:09:10.772Z"
 }

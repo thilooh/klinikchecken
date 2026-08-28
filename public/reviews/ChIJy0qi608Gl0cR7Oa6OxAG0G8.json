@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "D V",
+      "author_url": "https://www.google.com/maps/contrib/100428939541722215454/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-ipCGEWRAJZw0v6VQy3PhNFngU_f6PQEDOmKZxCgt9L6ZiA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gut: Man kriegt - anders als bei vielen Hautärzten - recht zeitnah einen Termin.\n\nSchlecht: Der Termin dauerte vielleicht maximal 5 Minuten. Wollte der Ärztin erstmal die Vorgeschichte erzählen, allerdings hat sie mich gar nicht auserzählen lassen. War sehr abgehetzt.\nAußerdem habe ich nachgefragt, weil ich etwas nicht gehört habe. Auf meine Nachfrage und dass sie sich ja unerhörterweise wiederholen musste, hat sie genervt und gereizt reagiert. Ich würde nicht nochmal hingehen.",
+      "time": 1787858921,
+      "translated": false
+    },
+    {
+      "author_name": "Ella",
+      "author_url": "https://www.google.com/maps/contrib/117217351840302784127/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs7vgfQhw_zi0rDKboMkuUo4Gy2nnKsjSl3ttykX1N3uRhzjzJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit Prof. Raulin weg ist, nicht mehr zu empfehlen.\nDort herrscht ein Chaos und eine Unzufriedenheit.\nBei meinem letzten Besuch war Herr H. sehr unfreundlich und hat mir in keiner Hinsicht geholfen. Er war sehr darauf aus alles beim „Kosmetiker -Bereich“ zu machen, alles (eine harmlose Warze sogar) wollte er dahin schieben.\nIch gehe dort nicht mehr hin.",
+      "time": 1787821900,
+      "translated": false
+    },
+    {
+      "author_name": "lev palchyk",
+      "author_url": "https://www.google.com/maps/contrib/114533389622761422945/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLH7zbv8p0JT1igJZiXTOHQ5U8m0r2FhR3AmVIXcrpnMyARiA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zum ersten Mal in dieser Praxis und habe einen wirklich sehr positiven Eindruck gewonnen.\n\nDie Praxis ist hell, angenehm und sehr freundlich gestaltet. Auch die Mitarbeiterinnen am Empfang waren ausgesprochen freundlich, aufmerksam und hilfsbereit. Man fühlt sich vom ersten Moment an gut aufgehoben.\n\nBesonders bedanken möchte ich mich bei Dr. med. Benedikt Seither. Er ist ein ruhiger, sehr freundlicher und kompetenter Arzt. Er hat sich viel Zeit genommen, meine Unterlagen, Überweisungen und Beschwerden sorgfältig anzusehen, ausführlich nachzufragen und mir alles verständlich zu erklären. Während der Untersuchung hat er mir auch gezeigt, was er sieht, und den Befund ruhig und nachvollziehbar erläutert.\n\nIch hatte zu keinem Zeitpunkt das Gefühl, abgefertigt zu werden. Im Gegenteil: Ich habe mich ernst genommen, aufmerksam betreut und menschlich sehr angenehm behandelt gefühlt.\n\nFür meinen ersten Termin hat die Praxis\nbei mir einen ausgesprochen guten Eindruck hinterlassen.\n\nVielen Dank an das gesamte Team und besonders an Dr. Seither für die freundliche, kompetente und menschliche Betreuung. ❤️\nNatalya Palchyk",
+      "time": 1787820888,
+      "translated": false
+    },
+    {
+      "author_name": "werner lenhard",
+      "author_url": "https://www.google.com/maps/contrib/113638878473321777636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItHSXDhsxQe7EDSy4dLeL3yffCn_xvzIMFeYRdHqYVMyYnbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr voll und Wartezeit von 1 Std obwohl Termin",
+      "time": 1787647073,
+      "translated": false
+    },
+    {
       "author_name": "HouseAtTheBeach",
       "author_url": "https://www.google.com/maps/contrib/115485427492851810913/reviews",
       "language": "de",
@@ -1170,11 +1218,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1118,
+  "reviewCount": 1119,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-25T05:29:03.905Z"
+  "lastUpdated": "2026-08-28T17:09:07.246Z"
 }

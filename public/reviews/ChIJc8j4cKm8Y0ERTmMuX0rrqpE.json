@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Nathalie Truschel",
+      "author_url": "https://www.google.com/maps/contrib/117985401349087480812/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAoeWIwlQXw8f2j8UfW4SJw7l-Kqb9x88H0m3rUvgCkeB1Dixb=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787831788,
+      "translated": false
+    },
+    {
       "author_name": "Gokhan Mirlay",
       "author_url": "https://www.google.com/maps/contrib/114924491435559951666/reviews",
       "language": "de",
@@ -73,6 +83,18 @@
       "translated": true
     },
     {
+      "author_name": "Anna Siddique",
+      "author_url": "https://www.google.com/maps/contrib/116333185177448572505/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxLyyv5uE6t-plyLaPsQW-r7AsZW7gT5a4cCHNnZc25H36tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "Es tut mir sehr leid, dass ich den Arzt nicht aufsuchen konnte, da der Zugang leider nicht rollstuhlgerecht ist. Obwohl überall das Gegenteil angegeben war. Seien Sie also vorsichtig, kein Rollstuhl vorhanden!",
+      "time": 1785225685,
+      "translated": true
+    },
+    {
       "author_name": "Dilek",
       "author_url": "https://www.google.com/maps/contrib/105533967459283953479/reviews",
       "language": "de",
@@ -128,6 +150,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsKgCVZhCpNZO7mRZYd8IJRfSAA353h8FEUypD86RJ-n7UnQR48w=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Helle, nette Praxis und freundliche Mitarbeiterin am Empfang. Herr Dr. Lambrecht ist sehr aufmerksam und man merkt sofort, wie professionell er in seinem Gebiet ist. Besten Dank!",
+      "time": 1785060464,
+      "translated": false
+    },
+    {
+      "author_name": "Dilek",
+      "author_url": "https://www.google.com/maps/contrib/105533967459283953479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsKgCVZhCpNZO7mRZYd8IJRfSAA353h8FEUypD86RJ-n7UnQR48w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Helle, nette Praxis und freundliche Mitarbeiterin am Empfang. Herr Dr. Lambrecht ist sehr aufmerksam und man merkt sofort, wie professionell er in seinem Gebiet ist. Besten Dank!",
       "time": 1785060464,
       "translated": false
@@ -743,8 +777,8 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 81,
+  "rating": 4.4,
+  "reviewCount": 76,
   "summary": [],
-  "lastUpdated": "2026-08-25T05:28:48.966Z"
+  "lastUpdated": "2026-08-28T17:08:51.195Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alina Metzger",
+      "author_url": "https://www.google.com/maps/contrib/112350888951785760986/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgEhQi1M859Y2fP4xXgSyJs7lG0EtbLFlZU9jAmQ7S7oWgPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich noch nie so gut aufgehoben gefühlt wie in der Rosenparkklinik. Schon beim Erstgespräch hat Dr. Stanger sich sehr viel Zeit für mich genommen und während der Operation war so eine gute Stimmung, dass man sich richtig wohl gefühlt hat. Auch alle Schwestern haben sich wirklich toll um mich gekümmert und die komplette Klinik ist absolut gepflegt und modern. Ich würde mich jederzeit wieder dafür entscheiden mich hier operieren zu lassen. Vielen Dank für alles!",
+      "time": 1787655609,
+      "translated": false
+    },
+    {
       "author_name": "Michelle Westphal",
       "author_url": "https://www.google.com/maps/contrib/115558600962310991161/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh3oxwK1r7KHECNUHpIrnoXal1s2wgOo7FavZIWxRaW2lwYw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Alle Personen super nett und hilfsbereit.\n\nWie ein kleiner Hotel Aufenthalt",
+      "time": 1787127287,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle Westphal",
+      "author_url": "https://www.google.com/maps/contrib/115558600962310991161/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh3oxwK1r7KHECNUHpIrnoXal1s2wgOo7FavZIWxRaW2lwYw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Alle Personen super nett und hilfsbereit.\n\nWie ein kleiner Hotel Aufenthalt",
       "time": 1787127287,
       "translated": false
@@ -33,6 +57,16 @@
       "translated": false
     },
     {
+      "author_name": "Nicole Wagner",
+      "author_url": "https://www.google.com/maps/contrib/106278408611874244013/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE4jQeX7lg1hAxtHtlg0IEpfpLp1gQUcmUpAxBG8x3V6BJFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786474202,
+      "translated": false
+    },
+    {
       "author_name": "Vitaminka",
       "author_url": "https://www.google.com/maps/contrib/115217587977058055652/reviews",
       "language": "ru",
@@ -52,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2elGY1TmFkawudyc8hz_7-glv4-qdMZ-PtKGj1Lm1TzobAlE=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Freundliches Personal. Angenehme Atmosphäre, sehr komfortables Ambiente.",
+      "time": 1786441238,
+      "translated": true
+    },
+    {
+      "author_name": "Vitaminka",
+      "author_url": "https://www.google.com/maps/contrib/115217587977058055652/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2elGY1TmFkawudyc8hz_7-glv4-qdMZ-PtKGj1Lm1TzobAlE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Freundliches Personal. Angenehme Atmosphäre, sehr komfortables Ambiente.",
       "time": 1786441238,
       "translated": true
@@ -100,6 +146,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCXXp-FZZOgpepOhz-71H03qDCwWP8sE57u8p-v3wGvwnRRg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Alle Mitarbeiter sind sehr authentisch und wertschätzend. Frau Dr. Capallo versteht ihr Handwerk hervorragend, weiß genau, wo sie Botox- und Hyaluronspritzen ansetzen muss und begegnet den Wünschen der Patienten mit Respekt, Professionalität, Beratungskompetenz und mit realistischen Prognosen. Abschließend kann ich aus meiner Perspektive heraus die Behandlung als hervorragend zusammenfassen.",
+      "time": 1785417950,
+      "translated": false
+    },
+    {
+      "author_name": "Tz Cho",
+      "author_url": "https://www.google.com/maps/contrib/111320670144610457729/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCXXp-FZZOgpepOhz-71H03qDCwWP8sE57u8p-v3wGvwnRRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Alle Mitarbeiter sind sehr authentisch und wertschätzend. Frau Dr. Capallo versteht ihr Handwerk hervorragend, weiß genau, wo sie Botox- und Hyaluronspritzen ansetzen muss und begegnet den Wünschen der Patienten mit Respekt, Professionalität, Beratungskompetenz und mit realistischen Prognosen. Abschließend kann ich aus meiner Perspektive heraus die Behandlung als hervorragend zusammenfassen.",
       "time": 1785417950,
       "translated": false
@@ -938,11 +996,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 183,
+  "reviewCount": 184,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-25T05:29:21.327Z"
+  "lastUpdated": "2026-08-28T17:09:26.408Z"
 }

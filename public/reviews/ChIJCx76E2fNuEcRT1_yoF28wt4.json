@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Marlies Bernd",
+      "author_url": "https://www.google.com/maps/contrib/111139160646228747836/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZSfSyrNen5JRK1JSSGoehcKK1-slwjcfU5OCECNhJ1JLOKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787840094,
+      "translated": false
+    },
+    {
       "author_name": "raimund pospiech",
       "author_url": "https://www.google.com/maps/contrib/105024524381275317022/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINGBabrO-FHeYaYbUGvsp31PaR6VUC_H6UaMeCLGxEbyFNSg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Nach sehr kurzen Wartezeit und netten Belegschaft wurden Hautanomalien sehr zufriedenstellend beseitigt.\nDanke Fr. Dr. Wolfram.😁",
+      "time": 1787216985,
+      "translated": false
+    },
+    {
+      "author_name": "raimund pospiech",
+      "author_url": "https://www.google.com/maps/contrib/105024524381275317022/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINGBabrO-FHeYaYbUGvsp31PaR6VUC_H6UaMeCLGxEbyFNSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Nach sehr kurzen Wartezeit und netten Belegschaft wurden Hautanomalien sehr zufriedenstellend beseitigt.\nDanke Fr. Dr. Wolfram.😁",
       "time": 1787216985,
       "translated": false
@@ -102,6 +124,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4bIltO69JPMrRYE8woaZPiJi4iH3ijM3-nTNyWEJbfiWFzg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785249107,
+      "translated": false
+    },
+    {
+      "author_name": "Anja Fenzl",
+      "author_url": "https://www.google.com/maps/contrib/112259166187725687202/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4bIltO69JPMrRYE8woaZPiJi4iH3ijM3-nTNyWEJbfiWFzg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1785249107,
       "translated": false
@@ -1134,11 +1166,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 428,
+  "reviewCount": 429,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-08-25T05:29:19.958Z"
+  "lastUpdated": "2026-08-28T17:09:24.922Z"
 }

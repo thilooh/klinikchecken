@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sina Waldorf",
+      "author_url": "https://www.google.com/maps/contrib/108306047584968000625/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI3azGteg5eh7Yhto9o6lt0gIrRhZIk3ealYNtC76CyiHS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787722577,
+      "translated": false
+    },
+    {
       "author_name": "Monika Probst",
       "author_url": "https://www.google.com/maps/contrib/106782735690037329403/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFYVQ4QlpkeMUqd1BCdVG0GwQTY9uRCV4d3ucsj2WueoXyUQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Netter Arzt",
+      "time": 1787076767,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Probst",
+      "author_url": "https://www.google.com/maps/contrib/106782735690037329403/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFYVQ4QlpkeMUqd1BCdVG0GwQTY9uRCV4d3ucsj2WueoXyUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Netter Arzt",
       "time": 1787076767,
       "translated": false
@@ -1066,11 +1088,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 75,
+  "reviewCount": 76,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-25T05:29:19.480Z"
+  "lastUpdated": "2026-08-28T17:09:24.409Z"
 }

@@ -55,6 +55,16 @@
       "translated": false
     },
     {
+      "author_name": "Абу Ирак",
+      "author_url": "https://www.google.com/maps/contrib/107346139925447916514/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXl4p6wqGsn1izaYIuS2wbZXv9hCnPzufJgoEI67WyvotrJJvE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785860606,
+      "translated": false
+    },
+    {
       "author_name": "Mous Tafaa",
       "author_url": "https://www.google.com/maps/contrib/105882247942878114020/reviews",
       "language": "de",
@@ -1075,12 +1085,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 180,
+  "rating": 4.9,
+  "reviewCount": 174,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-25T05:28:59.536Z"
+  "lastUpdated": "2026-08-28T17:09:02.550Z"
 }
