@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "A. Heyer",
+      "author_url": "https://www.google.com/maps/contrib/115639868726373538349/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsnXVk0oWczIHBsqUodFUR4XDbxk7X8mUMMg4p1IYTV7M0QA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Auf Grund einer Zufallsdiagnose bestand für mich die Notwendigkeit, einen Gefäßchirurgen aufzusuchen. Ich war in dem Zusammenhang noch nie in einer Praxis in Behandlung und wählte - Bewertungen berücksichtigend - eine diesbezügliche (andere) Praxis in Leipzig aus - Ergebnis: Ablehnung durch Praxis. Es werden keine neue Patienten aufgenommen.\n\nIm zweiten Versuch wählte ich - ebenfalls wegen der sehr guten Bewertungen - die Praxis von Dr. Jany aus und kontaktierte selbige telefonisch. Ergebnis: Keine freien Termine, Lösung: Ich konnte ca. einen Monat später eine halbe Stunde vor Praxisöffnung vorbeikommen.\n\nAblauf: Freundliche Begrüßung, detailliertes Nachfragen, geduldiges Beantworten all meiner Fragen durch Dr. Jany. Sehr angenehmes Auftreten, kompetent, ohne Zeitdruck. Absolut empfehlenswert.",
+      "time": 1788080500,
+      "translated": false
+    },
+    {
       "author_name": "TheSkyHai",
       "author_url": "https://www.google.com/maps/contrib/116546298399953512170/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgwgusmygSy-5tcsF-h_BBxlWRmkbN0aB2wAlUsewkIoCBug=s128-c0x00000000-cc-rp-mo",
@@ -322,7 +334,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 65,
+  "reviewCount": 66,
   "summary": [],
-  "lastUpdated": "2026-08-28T17:08:52.209Z"
+  "lastUpdated": "2026-08-31T11:20:56.420Z"
 }

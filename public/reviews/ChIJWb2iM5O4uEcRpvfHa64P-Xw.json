@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "I. Bar",
+      "author_url": "https://www.google.com/maps/contrib/101016525566557920891/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3-FU7bDQISX0pjigf-RjyIwXOhaoVHDd698Iv1uFSL0ZQfA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war sehr zufrieden mit der Ärztin beim Hautscreening.Hier werde ich jetzt immer hingehen",
+      "time": 1788073670,
+      "translated": false
+    },
+    {
       "author_name": "Hei Ko",
       "author_url": "https://www.google.com/maps/contrib/103585198420173498616/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJermDbZJ00v4KY0xGA2ixm4plwO_IqHS7g902E-0BMtE_g2w=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Der Arzt und das Personal sind super",
+      "time": 1786221918,
+      "translated": false
+    },
+    {
+      "author_name": "Horst Curth",
+      "author_url": "https://www.google.com/maps/contrib/102607322682272676248/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJermDbZJ00v4KY0xGA2ixm4plwO_IqHS7g902E-0BMtE_g2w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Der Arzt und das Personal sind super",
       "time": 1786221918,
       "translated": false
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbYenn7QB7DG6VliN5gk-VcQ-HHQkpC46mhMXf2tvnSf7PYFU=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war vor ca. einem Jahr bei Dr. Alatassi, für ein professionelles Hautscreening. Alles super, sie hat sich Zeit genommen und über alles gründlich aufgeklärt. Tiptop.",
+      "time": 1785491213,
+      "translated": false
+    },
+    {
+      "author_name": "Vladi B.",
+      "author_url": "https://www.google.com/maps/contrib/115748149430119119124/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbYenn7QB7DG6VliN5gk-VcQ-HHQkpC46mhMXf2tvnSf7PYFU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war vor ca. einem Jahr bei Dr. Alatassi, für ein professionelles Hautscreening. Alles super, sie hat sich Zeit genommen und über alles gründlich aufgeklärt. Tiptop.",
       "time": 1785491213,
       "translated": false
@@ -926,11 +962,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 123,
+  "reviewCount": 124,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-28T17:09:04.031Z"
+  "lastUpdated": "2026-08-31T11:21:07.746Z"
 }

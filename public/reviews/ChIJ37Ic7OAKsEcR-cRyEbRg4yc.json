@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "H. S.",
+      "author_url": "https://www.google.com/maps/contrib/116994561665718611888/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKczhq4pke1Tp7HMfMeHUpjVGk75XRhWq1j_Kc1x-OdczusQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir sind seit vielen Jahren bei Herrn Dr. Platschek und fühlen uns bei ihm sehr gut aufgehoben. Er ist ein sehr kompetenter, engagierter und menschlicher Arzt, der sich Zeit nimmt und genau zuhört. Auch bei unklaren Beschwerden hat er uns immer sehr kompetent weitergeholfen und sicher eingeschätzt, was zu tun ist. Besonders schätzen wir auch seinen tollen Umgang mit unseren Kindern. Wir haben großes Vertrauen zu ihm und können ihn uneingeschränkt weiterempfehlen.",
+      "time": 1787989298,
+      "translated": false
+    },
+    {
       "author_name": "Isabel Kobow",
       "author_url": "https://www.google.com/maps/contrib/113172619352994974106/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUIpZ8VXHriFckwP88_h_VaO_jdTcgGaVeezgCYW6AwXH2=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787381291,
+      "translated": false
+    },
+    {
+      "author_name": "Isabel Kobow",
+      "author_url": "https://www.google.com/maps/contrib/113172619352994974106/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUIpZ8VXHriFckwP88_h_VaO_jdTcgGaVeezgCYW6AwXH2=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1787381291,
       "translated": false
@@ -636,11 +658,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 176,
+  "reviewCount": 177,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-08-28T17:08:55.321Z"
+  "lastUpdated": "2026-08-31T11:20:59.316Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Elena G.",
+      "author_url": "https://www.google.com/maps/contrib/101986328229541036563/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_a-1dcWtUJyQPb8xqCiPyXrw-vg0xQ2ZF6_CPZMphE2kpbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Dr. Jörg Schweichler und bin sehr zufrieden. Er nimmt sich viel Zeit, hört aufmerksam zu und erklärt alles verständlich und ausführlich. Besonders angenehm fand ich seine menschliche und einfühlsame Art. Man fühlt sich wirklich gut aufgehoben und ernst genommen. Ich würde ihn jederzeit weiterempfehlen!",
+      "time": 1787943205,
+      "translated": false
+    },
+    {
       "author_name": "Doro Isabel",
       "author_url": "https://www.google.com/maps/contrib/100313429498955523584/reviews",
       "language": "de",
@@ -546,7 +558,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 76,
+  "reviewCount": 77,
   "summary": [],
-  "lastUpdated": "2026-08-28T17:08:51.452Z"
+  "lastUpdated": "2026-08-31T11:20:55.748Z"
 }

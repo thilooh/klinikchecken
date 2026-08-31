@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Vospicus",
+      "author_url": "https://www.google.com/maps/contrib/112383754380050321806/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQA9xFd3oyc4LYPV2TTqxFBc4jrtoo5zqTJXqpayL0JFk7ioE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man merkt schon das es eine Privatklinik ist.",
+      "time": 1788115023,
+      "translated": false
+    },
+    {
       "author_name": "Sonja G",
       "author_url": "https://www.google.com/maps/contrib/100729257871096298808/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwcH_EqJq2C9T3LEbIbaq1U_3TePaTovKmJ102J5a8YPesNmnK=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787564841,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja G",
+      "author_url": "https://www.google.com/maps/contrib/100729257871096298808/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwcH_EqJq2C9T3LEbIbaq1U_3TePaTovKmJ102J5a8YPesNmnK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1787564841,
       "translated": false
@@ -23,6 +45,18 @@
       "translated": false
     },
     {
+      "author_name": "Sonja Pasemann",
+      "author_url": "https://www.google.com/maps/contrib/111503080999298995659/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpHaUQrTesB76XSGVH-0Lo_9MlJen2QD_vwIiUsg4NIGo-Jg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Bei 2 Klinikaufenthalten wurde ich bestens versorgt.\nDr. Thorban hat mich hervorragend ärztlich betreut und das gesamte Personal war freundlich und hilfsbereit.\n100% Weiterempfehlung!",
+      "time": 1787477273,
+      "translated": false
+    },
+    {
       "author_name": "Gaby TePunkt",
       "author_url": "https://www.google.com/maps/contrib/110728869957526585649/reviews",
       "language": "de",
@@ -30,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeuWrKVYoAx0xnuhatJnLn0kcxnzP6qbxpu80y5GNaFTHc9j891A=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Hab relativ schnell einen Termin bekommen, einen Parkplatz gibt es auch davor aber ich kam mir vor, wie am Fließband. So schnell wie ich drin war, war ich auch wieder draußen...🤔\nDer Arzt hat nicht viel mit mir geredet, seine Assistentin war da eher das Gegenteil...\nBin auf den nächsten Besuch gespannt..",
+      "time": 1787419979,
+      "translated": false
+    },
+    {
+      "author_name": "Gaby TePunkt",
+      "author_url": "https://www.google.com/maps/contrib/110728869957526585649/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeuWrKVYoAx0xnuhatJnLn0kcxnzP6qbxpu80y5GNaFTHc9j891A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Hab relativ schnell einen Termin bekommen, einen Parkplatz gibt es auch davor aber ich kam mir vor, wie am Fließband. So schnell wie ich drin war, war ich auch wieder draußen...🤔\nDer Arzt hat nicht viel mit mir geredet, seine Assistentin war da eher das Gegenteil...\nBin auf den nächsten Besuch gespannt..",
       "time": 1787419979,
       "translated": false
@@ -982,11 +1028,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 161,
+  "reviewCount": 162,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-28T17:08:57.803Z"
+  "lastUpdated": "2026-08-31T11:21:01.713Z"
 }

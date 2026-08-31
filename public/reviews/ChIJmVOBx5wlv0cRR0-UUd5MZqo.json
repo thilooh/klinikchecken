@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gonul Sedat Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/102936267380609237983/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYpkWzoS9_OILbpxpT0b9RLh90u7cwmW3X6I6l9hZ9lXjbfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir hatten heute um 11:35 Uhr einen Termin und waren bereits etwa 15 Minuten früher in der Praxis. Da sich am Eingang ein Anmeldeterminal befand, haben wir uns dort wie vorgesehen angemeldet und anschließend im Wartebereich gewartet.\n\nNachdem bereits etwa 20 Minuten vergangen waren und wir noch nicht aufgerufen wurden, bin ich selbst zur Anmeldung gegangen, um nachzufragen. Dort wurde mir mitgeteilt, dass das Anmeldeterminal für Neupatienten nicht funktioniert bzw. dass wir uns anders hätten anmelden müssen. Uns wurde daraufhin gesagt, dass der Termin inzwischen vorbei sei und man uns nicht mehr annehmen könne.\n\nIch finde diese Situation sehr enttäuschend und vor allem den Umgang mit uns äußerst unfreundlich und unverständlich. Meine Mutter hat eine verletzte Hand und befindet sich deswegen in Behandlung. Wir waren pünktlich bzw. sogar früher da und haben alles so gemacht, wie es für uns als Patienten zunächst ersichtlich war. Uns war nicht\n\nbewusst, dass das Terminal für Neupatienten nicht vorgesehen ist. Wenn irgendwo ein kleiner Hinweis darauf stand, haben wir ihn leider nicht gesehen. Es kann meiner Meinung nach nicht erwartet werden, dass Patienten solche versteckten Hinweise automatisch bemerken.\n\nBesonders enttäuschend war für mich, dass trotz unserer Erklärung und der Tatsache, dass meine Mutter Schmerzen bzw. eine verletzte Hand hat, keine angemessene Lösung angeboten wurde. Stattdessen wurden wir einfach abgewiesen, obwohl wir rechtzeitig in der Praxis waren.",
+      "time": 1788174440,
+      "translated": false
+    },
+    {
       "author_name": "Kiri",
       "author_url": "https://www.google.com/maps/contrib/108458892438030579103/reviews",
       "language": "de",
@@ -927,7 +939,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 60,
+  "reviewCount": 61,
   "summary": [],
-  "lastUpdated": "2026-08-28T17:08:42.459Z"
+  "lastUpdated": "2026-08-31T11:20:47.318Z"
 }

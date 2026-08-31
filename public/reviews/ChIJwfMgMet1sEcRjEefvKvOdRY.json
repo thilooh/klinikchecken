@@ -65,6 +65,18 @@
       "translated": false
     },
     {
+      "author_name": "Max Karolczak-Melching",
+      "author_url": "https://www.google.com/maps/contrib/116475901574354816210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWysZM82qboa4X71_f02uOIIDot4yLQFvLiTDd7oNzVzKjaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Professionell und effizient.\nFreundlicher und direkter Umgang, so dass keine Fragen offen bleiben.\nBehandlung erfolgte schnell und effektiv.",
+      "time": 1786957104,
+      "translated": false
+    },
+    {
       "author_name": "Lukas",
       "author_url": "https://www.google.com/maps/contrib/112585059703686942315/reviews",
       "language": "de",
@@ -84,6 +96,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0cDg-YZYqCBwmNQ3kYhCrGWUDSETbixtgTuiNYBbPURvPUA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Herausragende Betreuung! Schade, dass man nicht sechs Sterne vergeben kann.",
+      "time": 1786909381,
+      "translated": false
+    },
+    {
+      "author_name": "Lukas",
+      "author_url": "https://www.google.com/maps/contrib/112585059703686942315/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0cDg-YZYqCBwmNQ3kYhCrGWUDSETbixtgTuiNYBbPURvPUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Herausragende Betreuung! Schade, dass man nicht sechs Sterne vergeben kann.",
       "time": 1786909381,
       "translated": false
@@ -1142,5 +1166,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:08:55.568Z"
+  "lastUpdated": "2026-08-31T11:20:59.550Z"
 }

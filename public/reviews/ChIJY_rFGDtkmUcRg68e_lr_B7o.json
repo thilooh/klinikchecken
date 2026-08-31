@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Monika S N-U",
+      "author_url": "https://www.google.com/maps/contrib/111279143063550750617/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsAvlPFJSGfxZ7gAHRhhdegtThU5PMnkyEgdBAZnAio3xmDMKu=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine beidseitige VenenOP ist sehr gut verlaufen. Hatte weder nach der Narkose noch beim Heilungsprozess Probleme.\nDr. Cammerer ist ein kompetenter und außerordentlich einfühlsamer Arzt bei dem man sich sofort gut aufgehoben fühlt.\nDas Praxisteam ist sehr freundlich, ob Vorort oder am Telefon.\nSpeziell großen Dank an das Narkoseteam, ihr seid mega !!!\nIch kann Herrn Dr. Cammerer nur weiterempfehlen.",
+      "time": 1787999510,
+      "translated": false
+    },
+    {
       "author_name": "Kannst Knicken",
       "author_url": "https://www.google.com/maps/contrib/110704752836536392894/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzaWAVRB043FQGWyN254w8iOq9m7d458icxElofEIIxJRrPg=s128-c0x00000000-cc-rp-mo-ba2",
@@ -920,11 +932,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 91,
+  "reviewCount": 92,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:06.224Z"
+  "lastUpdated": "2026-08-31T11:21:09.951Z"
 }

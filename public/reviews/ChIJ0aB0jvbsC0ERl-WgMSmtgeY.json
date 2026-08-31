@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anni S.",
+      "author_url": "https://www.google.com/maps/contrib/116480948171518525487/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLokvUp7O_KUU4Wpk-ZEUb1D97cLi6GmYHuKl0k_rtA-MIjYA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kann ich von Herzen nur empfehlen auch für Angstpatienten ☺️",
+      "time": 1788167442,
+      "translated": false
+    },
+    {
       "author_name": "Ingrid Kasch",
       "author_url": "https://www.google.com/maps/contrib/112209378704932167959/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBrmKKOI5yuMW2NwHvkpLCONGdUyzrQcX4gWNjoGXga8qWWJHYOA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich kann auch nur sagen sehr tolles Praxisteam einschließlich den Ärtze. Sie Nehmen sich am Emofang Zeit und erklären alles, sowie die Ärzte sehr genau und emphatisch.\nBin gerne dort.",
+      "time": 1786260799,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Kasch",
+      "author_url": "https://www.google.com/maps/contrib/112209378704932167959/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBrmKKOI5yuMW2NwHvkpLCONGdUyzrQcX4gWNjoGXga8qWWJHYOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich kann auch nur sagen sehr tolles Praxisteam einschließlich den Ärtze. Sie Nehmen sich am Emofang Zeit und erklären alles, sowie die Ärzte sehr genau und emphatisch.\nBin gerne dort.",
       "time": 1786260799,
       "translated": false
@@ -1104,11 +1128,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 161,
+  "reviewCount": 162,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:28.936Z"
+  "lastUpdated": "2026-08-31T11:21:32.032Z"
 }

@@ -35,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Edith Meyer",
+      "author_url": "https://www.google.com/maps/contrib/114223636900782565710/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXz-T3lbljwL2wOQc6DfwvuEHXTnsHCt65fPgeLcUS-le2QA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Hervorragende Organisation und Zeitmanagment.  Personal und Ärzte immer sehr freundlich und aufmerksam.  Vielen Dank für die jahrelange tolle Betreuung! Da nehme ich gerne über 1 Stunde Anfahrtsweg in Kauf.",
+      "time": 1786819384,
+      "translated": false
+    },
+    {
       "author_name": "Soso Julius",
       "author_url": "https://www.google.com/maps/contrib/111216232453779883242/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrCIj_0nuMjiwGUiwOfPKLgqSk9ABvUg0nsfg_xRInTM7u3g=s128-c0x00000000-cc-rp-mo",
@@ -90,6 +102,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJYFJJDPAr-2df2T0jeQ86W6SpdAcrNzzRbXVYqtiH2RJ1-Wrp=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786341634,
+      "translated": false
+    },
+    {
+      "author_name": "Nadine Gunde",
+      "author_url": "https://www.google.com/maps/contrib/105577541895237250172/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJYFJJDPAr-2df2T0jeQ86W6SpdAcrNzzRbXVYqtiH2RJ1-Wrp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1786341634,
       "translated": false
@@ -1036,5 +1058,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:05.002Z"
+  "lastUpdated": "2026-08-31T11:21:08.765Z"
 }

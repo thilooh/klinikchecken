@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Flemmig",
+      "author_url": "https://www.google.com/maps/contrib/101337639593714811361/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrg_GVsJgCCOcQ7sGvPc-YWaQXwXnvx-PTO1qavExD806Jmw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788162670,
+      "translated": false
+    },
+    {
       "author_name": "Safwan alhussein",
       "author_url": "https://www.google.com/maps/contrib/100411821331442971679/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV84ltN5veZ7IZSo-_1UDLt_4M419r3fl-d1RjQtO3iNj_gp1Q=s128-c0x00000000-cc-rp-mo",
@@ -198,6 +208,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7Gu3pCTI4glgwAz2FcQMguXpPP5qAmjsrnpOu3AM8GZbdNGei=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Monaten",
+      "text": "Absolut unhöflich und respektlos dieser Arzt!!!! Wie er mit Patienten umgeht geht garnicht! Man wird beleidigt und dumm gemacht!",
+      "time": 1775141556,
+      "translated": false
+    },
+    {
+      "author_name": "Paul Kadar",
+      "author_url": "https://www.google.com/maps/contrib/102891475985031272459/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7Gu3pCTI4glgwAz2FcQMguXpPP5qAmjsrnpOu3AM8GZbdNGei=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 5 Monaten",
       "text": "Absolut unhöflich und respektlos dieser Arzt!!!! Wie er mit Patienten umgeht geht garnicht! Man wird beleidigt und dumm gemacht!",
       "time": 1775141556,
       "translated": false
@@ -379,12 +401,12 @@
       "translated": false
     }
   ],
-  "rating": 3.7,
-  "reviewCount": 46,
+  "rating": 3.8,
+  "reviewCount": 47,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-28T17:09:35.245Z"
+  "lastUpdated": "2026-08-31T11:21:38.073Z"
 }

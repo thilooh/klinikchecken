@@ -35,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "Hanna Horina",
+      "author_url": "https://www.google.com/maps/contrib/102628927955469221986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLocvZ3aimCYNEyOam76u1gFveJm3E4u0g1gr4fSjoCC72PQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1787502573,
+      "translated": false
+    },
+    {
       "author_name": "Saskia Thomas",
       "author_url": "https://www.google.com/maps/contrib/102051324362117332567/reviews",
       "language": "de",
@@ -142,6 +152,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXadrsg-1BNPld6VBU1UsjZcyb_bl0R6u_G7GQrIjW4i1YnOayA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785329363,
+      "translated": false
+    },
+    {
+      "author_name": "Ursula Nùcken",
+      "author_url": "https://www.google.com/maps/contrib/105698717141978252122/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXadrsg-1BNPld6VBU1UsjZcyb_bl0R6u_G7GQrIjW4i1YnOayA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1785329363,
       "translated": false
@@ -1083,12 +1103,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 118,
+  "rating": 4.4,
+  "reviewCount": 113,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:00.039Z"
+  "lastUpdated": "2026-08-31T11:21:03.848Z"
 }

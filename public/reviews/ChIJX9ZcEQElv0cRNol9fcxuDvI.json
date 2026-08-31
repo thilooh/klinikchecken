@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine Weissenberger",
+      "author_url": "https://www.google.com/maps/contrib/102150427213919633903/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6UXcAVXv__mOMF7bzDRE5hoex0gYx7tplaO_j8Dw5gq-o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788086835,
+      "translated": false
+    },
+    {
       "author_name": "Özge Yasar",
       "author_url": "https://www.google.com/maps/contrib/117923248260129430701/reviews",
       "language": "de",
@@ -85,6 +95,18 @@
       "translated": false
     },
     {
+      "author_name": "L F",
+      "author_url": "https://www.google.com/maps/contrib/104964594497540208735/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJAk8tuK-h6joW7ys2f3n2b3p7gJBzKGNzthUVjeBdlngoTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Unverschämtheit!! In dieser Praxis sieht man eindeutig die 2 Klassen Gesellschaft. Ich hatte über Doctolib einen Termin als Selbstzahler gebucht, da man als Kassenpatient erst Monate später wenn überhaupt einen Termin bekommt. Das war vom Buchen her auch kein Problem. Ich bin mit dem Verdacht einer Thrombose dorthin da mein Hausarzt im Urlaub war und ich selber 2 Tage später verreisen wollte. Ich bin aus 25 km angereist um mir dann , ich wurde von einer Anmeldung zur nächsten geschickt, sagen zu lassen das sie keine Selbstzahler nehmen, selbst mit dem Hinweis meinerseits die Rechnung direkt vor Ort zu bezahlen. Obwohl , ich bin selber in einer Arztpraxis tätig , das die selben Abrechnungsziffern sind. Ich erwähnte das ich den Verdacht der Thrombose hätte. Freche Antwort: sie können frühestens im Februar nächsten Jahres einen Termin eventuell bekommen. Das heißt , als Kassenpatient bzw. Selbstzahler hast du halt Pech gehabt wenn es eine Thrombose ist. Unverschämt schon deswegen, da die Buchung über Doctolib möglich war. Dann sollten Sie mal reinschreiben das es nicht für Selbstzahler in Frage kommt. Mittlerweile sind wir im Gesundheitssystem dort angekommen wo man sogar als Privatzahler nicht mehr dran kommt. Geschweige denn als Kassenpatient. Es ist wirklich erschreckend. Die Ärzte denken nur an ihr Profit, mit dem eigentlichen Beruf Menschen zu helfen hat das nichts mehr zu tun.\nÜber die Ärzte als Behandler kann ich nichts sagen , habe ja trotz Termin keinen zu sehen bekommen. Personal total unfreundlich.",
+      "time": 1786359213,
+      "translated": false
+    },
+    {
       "author_name": "Claudia Schmitz",
       "author_url": "https://www.google.com/maps/contrib/106417657580011354305/reviews",
       "language": "de",
@@ -116,6 +138,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnUTckok4xVUezfvLeTrQd0fORP3i_OAMEB3Jx0unHnzvq_w=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Eine sehr schöne, super organisierte Praxis- sehr empfehlenswert!",
+      "time": 1786176839,
+      "translated": false
+    },
+    {
+      "author_name": "Claudia Schmitz",
+      "author_url": "https://www.google.com/maps/contrib/106417657580011354305/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnUTckok4xVUezfvLeTrQd0fORP3i_OAMEB3Jx0unHnzvq_w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Eine sehr schöne, super organisierte Praxis- sehr empfehlenswert!",
       "time": 1786176839,
       "translated": false
@@ -789,11 +823,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 190,
+  "reviewCount": 191,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-08-28T17:08:38.822Z"
+  "lastUpdated": "2026-08-31T11:20:43.914Z"
 }

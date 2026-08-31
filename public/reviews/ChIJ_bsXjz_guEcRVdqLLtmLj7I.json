@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Elif Okumuş",
+      "author_url": "https://www.google.com/maps/contrib/110925754148231819192/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm0Dj-MtCYiK-ftHVGIwm4u9mVKu6AIYGCH1ubToQ9nwNDABXC=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe meinen Termin bei Doctolib gebucht und alles verlief reibungslos. Obwohl es aufgrund meiner Krankenversicherung eine besondere Situation gab, war das Personal sehr hilfsbereit und hat das Problem dank meiner Englischkenntnisse schnell gelöst. Ich wurde von Dr. med. Marlene Rosenthal behandelt, und sie war überaus freundlich. Die Behandlung scheint anzuschlagen, und ich bin insgesamt sehr zufrieden.",
+      "time": 1787953073,
+      "translated": true
+    },
+    {
       "author_name": "S",
       "author_url": "https://www.google.com/maps/contrib/103058141685472071430/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt5RYTmLyeVVO1KdNwluaXSeCk-p0IB_buxcSVZsTHQQr9Ab4=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Ärzte und sehr freundliches Personal",
+      "time": 1786790999,
+      "translated": false
+    },
+    {
+      "author_name": "Elias",
+      "author_url": "https://www.google.com/maps/contrib/114958677131839423863/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt5RYTmLyeVVO1KdNwluaXSeCk-p0IB_buxcSVZsTHQQr9Ab4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr gute Ärzte und sehr freundliches Personal",
       "time": 1786790999,
       "translated": false
@@ -1074,11 +1098,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 248,
+  "reviewCount": 249,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:02.803Z"
+  "lastUpdated": "2026-08-31T11:21:06.542Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "hasan davarci",
+      "author_url": "https://www.google.com/maps/contrib/117333925382611237074/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbHx6SI6YIhZpFfsXkjXDAtAjtZ07kYPCPZ3ShIJRawdBhwAZN=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir hatten unseren ersten Termin bei Dr. Yassin Algesri und sind rundum beeindruckt. Vom ersten Moment an hat er durch seine außergewöhnlich freundliche, kompetente und empathische Art überzeugt. Er nimmt sich viel Zeit für seine Patienten, hört aufmerksam zu und erklärt medizinische Zusammenhänge verständlich, geduldig und ohne Zeitdruck.\n\nBesonders hervorzuheben ist sein respektvoller und wertschätzender Umgang. Man spürt sofort, dass ihm das Wohl seiner Patienten wirklich am Herzen liegt. Seine fachliche Kompetenz vermittelt großes Vertrauen, und gleichzeitig schafft seine ruhige und menschliche Art eine angenehme Atmosphäre, in der man sich bestens aufgehoben fühlt.\n\nIn der heutigen Zeit ist es selten, einen Arzt zu finden, der Fachwissen, Menschlichkeit und Engagement auf diesem hohen Niveau vereint. Wir sind sehr dankbar, bei Dr. Algesri in Behandlung zu sein, und können ihn aus voller Überzeugung und ohne jede Einschränkung weiterempfehlen. Für uns gehört er zu den besten Ärzten, die wir bisher kennenlernen durften.\n\nVielen Dank für die hervorragende Betreuung!\n\n29.08.2026 / Sohn mit Mutter 🙏🏻",
+      "time": 1788037777,
+      "translated": false
+    },
+    {
       "author_name": "Watson M",
       "author_url": "https://www.google.com/maps/contrib/103935696907177843284/reviews",
       "language": "de",
@@ -236,6 +248,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5LVtcMCldsVm0chpRRxq07-bnKceLp0mjvh1hkwmqaUvZbA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Ich möchte mich ganz herzlich bei Dr. Yassin Algesri bedanken. Er hat alle meine Fragen ausführlich beantwortet und die Laserbehandlung zur Warzenentfernung sehr schnell und völlig schmerzfrei durchgeführt. Er ist überaus freundlich, zugänglich und hilfsbereit. Nochmals vielen Dank für die hervorragende Behandlung! 💗",
+      "time": 1780395646,
+      "translated": true
+    },
+    {
+      "author_name": "Kardelen Konuk",
+      "author_url": "https://www.google.com/maps/contrib/115587593405701677781/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5LVtcMCldsVm0chpRRxq07-bnKceLp0mjvh1hkwmqaUvZbA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Ich möchte mich ganz herzlich bei Dr. Yassin Algesri bedanken. Er hat alle meine Fragen ausführlich beantwortet und die Laserbehandlung zur Warzenentfernung sehr schnell und völlig schmerzfrei durchgeführt. Er ist überaus freundlich, zugänglich und hilfsbereit. Nochmals vielen Dank für die hervorragende Behandlung! 💗",
       "time": 1780395646,
       "translated": true
@@ -732,11 +756,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 59,
+  "reviewCount": 60,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:21.756Z"
+  "lastUpdated": "2026-08-31T11:21:25.216Z"
 }

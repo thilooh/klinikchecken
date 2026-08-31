@@ -97,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Judith Buschmann",
+      "author_url": "https://www.google.com/maps/contrib/100972414778333045392/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzNs0S0eHtN5NYK55Dxcs4VjMYvKvgAJBOfUZTNZcsO9u6jw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr schöne Praxis und freundliches Personal.\nDer Arzt hat sofort die richtige Diagnose gestellt und Behandlungsmöglichkeiten aufgezeigt.\nIch kann diese Praxis nur weiterempfehlen.",
+      "time": 1785750073,
+      "translated": false
+    },
+    {
       "author_name": "Detlef Dziggel",
       "author_url": "https://www.google.com/maps/contrib/100293477473263372662/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_MKNO7HqiRb6cUfy66P5gneFoHEyHPnLqU4TkjR3x-HOnKu-i=s128-c0x00000000-cc-rp-mo-ba5",
@@ -132,6 +144,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_MKNO7HqiRb6cUfy66P5gneFoHEyHPnLqU4TkjR3x-HOnKu-i=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785742163,
+      "translated": false
+    },
+    {
+      "author_name": "Detlef Dziggel",
+      "author_url": "https://www.google.com/maps/contrib/100293477473263372662/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_MKNO7HqiRb6cUfy66P5gneFoHEyHPnLqU4TkjR3x-HOnKu-i=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1785742163,
       "translated": false
@@ -216,6 +238,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLztvgPy6evtcyfkRHNYJg12TV2R5FR4ixsq2ZlENNVcfYXeio=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Sehr kompetentes Team in einer angenehmen Atmosphäre.\nHier wird alles professionell aufgenommen und die Behandlung ist so wie man es sich wünscht.\nObwohl ich mehr oder weniger als Notfall angekommen bin, wurde ich schon nach kurzer Wartezeit sehr gut behandelt.\nDiese Praxis kann ich nur empfehlen.",
+      "time": 1782826928,
+      "translated": false
+    },
+    {
+      "author_name": "Uwe Göken",
+      "author_url": "https://www.google.com/maps/contrib/111313677641091708028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLztvgPy6evtcyfkRHNYJg12TV2R5FR4ixsq2ZlENNVcfYXeio=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Sehr kompetentes Team in einer angenehmen Atmosphäre.\nHier wird alles professionell aufgenommen und die Behandlung ist so wie man es sich wünscht.\nObwohl ich mehr oder weniger als Notfall angekommen bin, wurde ich schon nach kurzer Wartezeit sehr gut behandelt.\nDiese Praxis kann ich nur empfehlen.",
       "time": 1782826928,
       "translated": false
@@ -573,5 +607,5 @@
   "rating": 4.7,
   "reviewCount": 48,
   "summary": [],
-  "lastUpdated": "2026-08-28T17:08:45.152Z"
+  "lastUpdated": "2026-08-31T11:20:49.750Z"
 }

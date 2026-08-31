@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Stefanie Schumacher",
+      "author_url": "https://www.google.com/maps/contrib/110829692866100489028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdTovJpHHTQRrWufJEVc59KnCMOslZ90u1sMzbsJ_rWFkmhDOh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum begeistert von meiner Bruststraffung und möchte mich ganz herzlich bei der gesamten Klinik bedanken.\n\nBei der ersten Beratung bei Dr. Alexandros Ignatiadis habe ich mich unglaublich gut aufgehoben und bestens beraten gefühlt. Die Beratung war fachlich wie Menschlich absolut überzeugend für mich.\nDr. Alexandros Ignatiadis hat mich nun von Tag eins bis 4 Wochen nach der OP begleitet und macht dies auch bis zur vollendung der Heilphase - es gibt keinen Arztwechsel!\nEr hat mir eine Brust gezaubert die ich mir so nicht hätte vorstellen können. Ich bin schon jetzt begeistert von dem Ergebnis.\n\nAuch der Narkosearzt und die liebevollen Schwestern möchte ich positiv benennen. Die Schwestern waren nach der OP unglaublich geduldig, aufmerksam und fürsorglich mit mir.\n\nDas gesamte Team hat mir mit seiner herzlichen Art sehr viel Vertrauen und Sicherheit gegeben.\n\nVielen Dank an das gesamte Team für die tolle Betreuung, die professionelle Arbeit und dafür, dass ich mich heute einfach wieder wohl in meinem Körper fühle!",
+      "time": 1787950283,
+      "translated": false
+    },
+    {
       "author_name": "Ahmad Elhaj",
       "author_url": "https://www.google.com/maps/contrib/108423963126347514736/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKD9qcq7sxwpesJmq2H7uEz1vr53cqwSBuwTnNWrmpyt9tBNw=s128-c0x00000000-cc-rp-mo",
@@ -40,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk8b2hJeV2_YEcvR5b37tRb-2Jw2Ql1_zMqsNIjVnHPE5m8Q=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor einer Woche",
+      "text": "Die schlechte Entscheidung und meine Nase zu operieren, vielleicht bei anderen Sachen sind gut, da von kann ich gar nicht kommentieren",
+      "time": 1786827550,
+      "translated": false
+    },
+    {
+      "author_name": "Diego donchev",
+      "author_url": "https://www.google.com/maps/contrib/110168409590901303678/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk8b2hJeV2_YEcvR5b37tRb-2Jw2Ql1_zMqsNIjVnHPE5m8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Die schlechte Entscheidung und meine Nase zu operieren, vielleicht bei anderen Sachen sind gut, da von kann ich gar nicht kommentieren",
       "time": 1786827550,
       "translated": false
@@ -1227,7 +1251,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 383,
+  "reviewCount": 384,
   "summary": [],
-  "lastUpdated": "2026-08-28T17:08:44.315Z"
+  "lastUpdated": "2026-08-31T11:20:49.124Z"
 }

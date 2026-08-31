@@ -41,6 +41,16 @@
       "translated": false
     },
     {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/111258490630399828038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl8rsiP2Bx4hAxGtwXWXQNBfBIxrEio2Zn-X6pfCra9yrTLw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1785579215,
+      "translated": false
+    },
+    {
       "author_name": "e_bozz",
       "author_url": "https://www.google.com/maps/contrib/100523091596751098419/reviews",
       "language": "de",
@@ -96,6 +106,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCjD7Dx99X3rn-Lw_Dni-qLLGEuX6bD2ceNZa1SgAvvDp6M5g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr moderne Praxis, Freundliche Mitarbeiter Und ein Sehr seriöses Auftreten!",
+      "time": 1785482899,
+      "translated": false
+    },
+    {
+      "author_name": "e_bozz",
+      "author_url": "https://www.google.com/maps/contrib/100523091596751098419/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCjD7Dx99X3rn-Lw_Dni-qLLGEuX6bD2ceNZa1SgAvvDp6M5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr moderne Praxis, Freundliche Mitarbeiter Und ein Sehr seriöses Auftreten!",
       "time": 1785482899,
       "translated": false
@@ -602,5 +624,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:09.776Z"
+  "lastUpdated": "2026-08-31T11:21:13.357Z"
 }

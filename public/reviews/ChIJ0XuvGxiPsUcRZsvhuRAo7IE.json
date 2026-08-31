@@ -35,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Oliver Niehus",
+      "author_url": "https://www.google.com/maps/contrib/117905158928346825384/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK3MGCJ-F9NtjVfHZCyxEfOFtvYtNb8iWwAVbwzrtPqbUauA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Professionell von A bis Z. Es geht doch!",
+      "time": 1787387695,
+      "translated": false
+    },
+    {
       "author_name": "tamara alkeilani",
       "author_url": "https://www.google.com/maps/contrib/115448420002492095643/reviews",
       "language": "de",
@@ -1286,5 +1298,5 @@
   "rating": 4.4,
   "reviewCount": 458,
   "summary": [],
-  "lastUpdated": "2026-08-28T17:08:51.611Z"
+  "lastUpdated": "2026-08-31T11:20:55.906Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Corinna Burkart",
+      "author_url": "https://www.google.com/maps/contrib/115909016821683725210/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBEkZNHj0CdeDil9MrSELLRYctBNxhipwNSP0N0bNx8wTkVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788024563,
+      "translated": false
+    },
+    {
+      "author_name": "Anja Wagner",
+      "author_url": "https://www.google.com/maps/contrib/107823529029412879184/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8sRKw5dtpd-afgVb22BmUqdqAKUkG8_XIt5hE1z3Qayko_xiK=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich gehe schon seit ein paar Jahren zur Hautkrebsvorsorge zu Frau Dr. Quaisser.\nEine sehr nette Ärztin, die sehr gründlich untersucht. Wartezeit mit Termin nicht länger als 10 Minuten. Personal auch lieb und empathisch. So machen Arztbesuche Spaß 🍀",
+      "time": 1787994224,
+      "translated": false
+    },
+    {
       "author_name": "Tanja Zugschwerdt",
       "author_url": "https://www.google.com/maps/contrib/108037500086518408330/reviews",
       "language": "de",
@@ -1316,11 +1338,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 328,
+  "reviewCount": 330,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:13.741Z"
+  "lastUpdated": "2026-08-31T11:21:17.223Z"
 }

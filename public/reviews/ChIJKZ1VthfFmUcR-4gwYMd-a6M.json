@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Dana",
+      "author_url": "https://www.google.com/maps/contrib/110846409261428494822/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0XptOgAEdWbY0jcpe_owPTz5CJgIqVqLeDx3UgdQ9OoBsSEWuHA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für kosmetische Beratung absolut nicht zu empfehlen. Für ein Zehn minütiges Gespräch bezahlt man 100€, zumindest für die Haarsprechstunde. In meinem Fall hatte ich nur eine Rückfrage zu möglichen Nebenwirkungen, Alternativen von Minoxidil, berechtigterweise, weil die Nebenwirkung die bei mir Auftritt auch im Beipackzettel genannt wird, nur um mir mitzuteilen, dass das gar nicht sein kann weil, weil die Ärztin das noch bei keinem Patienten gesehen hat und dann wird noch versucht eine 900€ teure Alternativbehandlung aufzuschwatzen. Keine Blutuntersuchungen, oder Überprüfung des Statuses des Haarausfalls, oder sonstiges angeboten, nur kurz nein gesagt Kopfhaut angeschaut und bitte 100€ bezahlen. An Dreistigkeit nicht zu überbieten. Trotzdem 3 Sterne weil ich ja nicht alle Arten von angebotenen Dienstleistungen oder die Kassenleistungen bewerten kann.",
+      "time": 1788008098,
+      "translated": false
+    },
+    {
+      "author_name": "PrEdAtErAiiM 2016",
+      "author_url": "https://www.google.com/maps/contrib/114445171734329130514/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQPwM3yAnX8Q5tA6bF_4zcAcn6_57orXIp6PASa9fWgQzZsQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nAbsolute Empfehlung!\n\nIch hatte in der Vergangenheit bereits mehrere Operationen wegen meiner Krampfadern, bei denen die Venen durch Stripping entfernt wurden. Auf das Hautzentrum Innenstadt Stuttgart bin ich durch einen TV-Beitrag aufmerksam geworden.\n\nNach einer sehr guten und ausführlichen Beratung durch Dr. Tesmann habe ich mich für eine Schaumverödung entschieden. Die Behandlung wurde bei mir als IGeL-Leistung durchgeführt und von mir selbst bezahlt.\n\nDer Unterschied zu meinen früheren Stripping-Operationen war für mich enorm. Nach der Schaumverödung hatte ich überhaupt keine Probleme und konnte bereits nach zwei Tagen wieder arbeiten. Nach dem Stripping war ich dagegen teilweise rund vier Wochen außer Gefecht.\n\nIch habe mich bei Dr. Tesmann sehr gut aufgehoben gefühlt und bin mit dem Ergebnis sehr zufrieden. Deshalb habe ich den nächsten Termin für die Behandlung des anderen Beins bereits vereinbart.\n\nFür mich hat sich die IGeL-Leistung definitiv gelohnt. Ich kann Dr. Tesmann und das Hautzentrum Innenstadt Stuttgart uneingeschränkt weiterempfehlen!",
+      "time": 1787942233,
+      "translated": false
+    },
+    {
       "author_name": "Sina B.",
       "author_url": "https://www.google.com/maps/contrib/112168249961728667892/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDfTXptc-kHrQ406C3_h7mENq-goGx5U8bXvV-BSWoM4l5qVAm=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr.Hamann ist eine super nette, freundliche Person und eine absolut empfehlenswerte Ärztin. Das Personal sowie alles drumherum - 10/10.",
+      "time": 1787396940,
+      "translated": false
+    },
+    {
+      "author_name": "Maximilian Sigel",
+      "author_url": "https://www.google.com/maps/contrib/100321954026916745038/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDfTXptc-kHrQ406C3_h7mENq-goGx5U8bXvV-BSWoM4l5qVAm=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Frau Dr.Hamann ist eine super nette, freundliche Person und eine absolut empfehlenswerte Ärztin. Das Personal sowie alles drumherum - 10/10.",
       "time": 1787396940,
       "translated": false
@@ -1180,7 +1216,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 328,
+  "reviewCount": 330,
   "summary": [],
-  "lastUpdated": "2026-08-28T17:08:54.104Z"
+  "lastUpdated": "2026-08-31T11:20:58.135Z"
 }

@@ -93,6 +93,18 @@
       "translated": false
     },
     {
+      "author_name": "conni wenzel",
+      "author_url": "https://www.google.com/maps/contrib/117853574873741298444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoJPd5XVrZgOWYNNobjwD9jNSzVI6KJ0lgYSHHATbHMMPVSg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Habe mich gut aufgehoben gefühlt.",
+      "time": 1786295167,
+      "translated": false
+    },
+    {
       "author_name": "Laura Struckamp",
       "author_url": "https://www.google.com/maps/contrib/114184333859186259110/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5Ez3x1aym3wgIN28YuZUDuVB7_sWkkDTLLlOT4E1bTsZxhQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -118,6 +130,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5Ez3x1aym3wgIN28YuZUDuVB7_sWkkDTLLlOT4E1bTsZxhQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786170197,
+      "translated": false
+    },
+    {
+      "author_name": "Laura Struckamp",
+      "author_url": "https://www.google.com/maps/contrib/114184333859186259110/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5Ez3x1aym3wgIN28YuZUDuVB7_sWkkDTLLlOT4E1bTsZxhQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1786170197,
       "translated": false
@@ -1212,5 +1234,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-28T17:09:20.676Z"
+  "lastUpdated": "2026-08-31T11:21:24.267Z"
 }
