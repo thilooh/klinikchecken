@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ralph Schubert",
+      "author_url": "https://www.google.com/maps/contrib/109681047125485617552/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYH9tCnCrV1-nA7lJRKGPkZt6xC2tm01GkwXf9dc_vAd12WPankA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gute  Ärzte und freundliche Angestellte, oft lange Wartezeit",
+      "time": 1788179653,
+      "translated": false
+    },
+    {
       "author_name": "Irina W.",
       "author_url": "https://www.google.com/maps/contrib/105825800640558140634/reviews",
       "language": "de",
@@ -930,7 +942,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [],
-  "lastUpdated": "2026-08-31T11:20:51.357Z"
+  "lastUpdated": "2026-09-01T09:44:14.704Z"
 }

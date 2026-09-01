@@ -73,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Michelle Mürmann",
+      "author_url": "https://www.google.com/maps/contrib/109611176004366938865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNJ1VKtyxMha4xv1n47X6VtQIjdmUa2djQQ8WyoFXwaLJQcAM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich kann diese Praxis nicht weiterempfehlen. Der Arzt, Dr. Köhnen, war sehr unsensibel. Unangebrachte Kommentare abzugeben, kann er sehr gut. Und noch nie zuvor musste ich in Unterwäsche das Zimmer wechseln, obwohl ich gefragt hatte, ob ich mich noch einmal anziehen soll.\n\nDieser Besuch war für mich wirklich verletzend.",
+      "time": 1786984486,
+      "translated": false
+    },
+    {
       "author_name": "Christiane Gräber",
       "author_url": "https://www.google.com/maps/contrib/104149186166194161634/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdoPFaXHaf6cbvM6zGwC2YKTR6T4NqIC6jxKr9wPJtkOLzBw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -148,6 +160,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXcOa8c2vV3eMxpFIcIfHsLbFnUyBy_gC1vfM3LyVzFSg9x-I=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785816906,
+      "translated": false
+    },
+    {
+      "author_name": "Ralli K.",
+      "author_url": "https://www.google.com/maps/contrib/111721413007339123332/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXcOa8c2vV3eMxpFIcIfHsLbFnUyBy_gC1vfM3LyVzFSg9x-I=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1785816906,
       "translated": false
@@ -796,5 +818,5 @@
   "rating": 3.6,
   "reviewCount": 126,
   "summary": [],
-  "lastUpdated": "2026-08-31T11:20:51.988Z"
+  "lastUpdated": "2026-09-01T09:44:15.210Z"
 }

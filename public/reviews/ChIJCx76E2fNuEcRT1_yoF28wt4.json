@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Stefanie Najji",
+      "author_url": "https://www.google.com/maps/contrib/117932837443148600203/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBzRy_EkBZhz-MV80hDHh00TfPcDQBWEG7JMguSsYifi6WWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von A bis Z alles sehr gut geklappt.\nGut organisiert, freundlich und nett. Gute Betreuung vor, während und nach der ambulanten OP.\nEin großes Dankeschön an Alle die vor Ort diesen strammer Alltag mit viel Geduld managen.",
+      "time": 1788255482,
+      "translated": false
+    },
+    {
       "author_name": "Marlies Bernd",
       "author_url": "https://www.google.com/maps/contrib/111139160646228747836/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZSfSyrNen5JRK1JSSGoehcKK1-slwjcfU5OCECNhJ1JLOKQ=s128-c0x00000000-cc-rp-mo",
@@ -59,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "Klaus Naumann",
+      "author_url": "https://www.google.com/maps/contrib/116464884713793506666/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPKX7cCD4F4ibALWS4wiUIPcA4fph2w6DkrRvZyN3swPtXrg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr gutes Ärzteteam und Fachpersonal. Freundlich und hilfsbereit. Terminvereinbarung online die gut eingehalten werden.\nParken auf eigenm Parkplatz kostenlos möglich.",
+      "time": 1786993838,
+      "translated": false
+    },
+    {
       "author_name": "Réka Perrucci",
       "author_url": "https://www.google.com/maps/contrib/106942197140080895448/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkXDvnQsROgWMFpqNg_dp50e6HIElij1Wp6OT_XF6EyHcMMQ=s128-c0x00000000-cc-rp-mo",
@@ -84,6 +108,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkXDvnQsROgWMFpqNg_dp50e6HIElij1Wp6OT_XF6EyHcMMQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786425157,
+      "translated": false
+    },
+    {
+      "author_name": "Réka Perrucci",
+      "author_url": "https://www.google.com/maps/contrib/106942197140080895448/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkXDvnQsROgWMFpqNg_dp50e6HIElij1Wp6OT_XF6EyHcMMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1786425157,
       "translated": false
@@ -1166,11 +1200,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 429,
+  "reviewCount": 430,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-08-31T11:21:28.106Z"
+  "lastUpdated": "2026-09-01T09:44:50.958Z"
 }

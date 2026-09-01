@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manfred-A. Winkler",
+      "author_url": "https://www.google.com/maps/contrib/107015056953016132316/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZdPSt3iDGHDQZhYhxuszIZxftixey3FC2prsOxMALAf6YOaTs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War gestern bei Medermis/Kiel.\n1. Entfernung /OP einer verdächtigen Hautstelle ==>  Frau Dr. Scheller;\n2. Entfernung / Lasern Hautveränderungen ==> FrauDr.\nSümbül;\nTermin wurde top eingehalten.\nDie beiden Ärztinnen haben mich gut informiert, ausgezeichnet operiert und gelasert und sind sehr freundlich/kompetent.\nAber auch das Praxisteam lässt keine Wünsche offen.\nVielen Dank für die ausgezeichnete\n\"Behandlung\".\nM.-A. Winkler",
+      "time": 1788254328,
+      "translated": false
+    },
+    {
       "author_name": "Nursel Yakup",
       "author_url": "https://www.google.com/maps/contrib/108737139640969721431/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUKGmu28t7bp9bVFPqit2mtZ72REf4kIMTV85JBbT7PTzfAFeM=s128-c0x00000000-cc-rp-mo",
@@ -1142,11 +1154,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 146,
+  "reviewCount": 147,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-31T11:21:00.498Z"
+  "lastUpdated": "2026-09-01T09:44:23.357Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kirsten Alexandra",
+      "author_url": "https://www.google.com/maps/contrib/117184379014770298710/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2nP7ggZlkRj1cYx1no3TkNubJMrBFvjtO4jHp42jjiMgEmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte heute ein wirklich sehr freundliches und informatives Erstberatungsgespräch mit Frau Usta. Es war alles andere als ein Verkaufsgespräch (der Verdacht liegt ja immer nahe, wenn es um Leistungen im Privatzahlerbereich geht), sondern es wurde erst mal meine Motivation bzgl meiner Interessensbekundung hinterfragt und gemeinsam geguckt, ob das hier überhaupt Sinn ergibt. Mir wurde gesagt , in welchen Bereichen eine Unterstützungsleistung erfolgen kann und mit welchen Kosten ich anfangs rechnen müsse. Es war alles völlig transparent und wurde gut erklärt. Ich bin hier in der Praxis aber ohnehin bislang immer sehr, sehr zufrieden gewesen.",
+      "time": 1788192953,
+      "translated": false
+    },
+    {
       "author_name": "Corinna Burkart",
       "author_url": "https://www.google.com/maps/contrib/115909016821683725210/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBEkZNHj0CdeDil9MrSELLRYctBNxhipwNSP0N0bNx8wTkVg=s128-c0x00000000-cc-rp-mo",
@@ -1338,11 +1350,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 330,
+  "reviewCount": 326,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-31T11:21:17.223Z"
+  "lastUpdated": "2026-09-01T09:44:40.208Z"
 }

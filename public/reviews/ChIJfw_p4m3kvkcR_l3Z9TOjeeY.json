@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lars",
+      "author_url": "https://www.google.com/maps/contrib/118297949261525166689/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiowhXWETCnKDn2C66ZmLP651XoIVidpoS1NuBYBqMHDSEHj8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte über Doctolib bereits lange im Voraus einen Termin zur Hautuntersuchung gebucht. Dieser wurde kurzfristig mit der Begründung abgesagt, dass die behandelnde Person im Urlaub sei – was grundsätzlich verständlich ist.\n\nEnttäuschend war jedoch, dass mir kein Ersatztermin angeboten wurde. Meine anschließenden Versuche, einen neuen Termin zu vereinbaren, blieben per E-Mail unbeantwortet. Bei meinem telefonischen Versuch wurde ich zudem recht schroff darauf verwiesen, einfach wieder einen Termin über Doctolib zu buchen. Dort waren allerdings erst mehrere Monate später wieder Termine verfügbar.\n\nBesonders ärgerlich: Termine für Selbstzahler waren im gleichen Zeitraum durchaus verfügbar.\n\nNach Recherchen mehrerer Rezensionen scheint die kurzfristige Absage öfters vorzukommen.",
+      "time": 1788186860,
+      "translated": false
+    },
+    {
       "author_name": "Anastasia T.",
       "author_url": "https://www.google.com/maps/contrib/107177431022329119996/reviews",
       "language": "de",
@@ -64,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINw1tqA0h01nrpKLRQLN2Yu2G7LjwDNFGAFOlg1r57AAiMnA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Über Doctolib konnte ich einen Termin buchen, ohne dass ersichtlich war, dass dieser nur für Bestandspatient:innen gedacht ist. Vor Ort wurde mir dann gesagt, dass keine Neupatient:innen angenommen werden.\nBesonders absurd: Der Termin bleibt dadurch einfach unbesetzt – die Praxis verliert also selbst einen zahlenden Termin. Bei anderen Ärzt:innen wird auf Doctolib klar angegeben, wenn keine Neupatient:innen angenommen werden. Warum schafft man das hier nicht?",
+      "time": 1787036680,
+      "translated": false
+    },
+    {
+      "author_name": "Saskia Thomas",
+      "author_url": "https://www.google.com/maps/contrib/102051324362117332567/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINw1tqA0h01nrpKLRQLN2Yu2G7LjwDNFGAFOlg1r57AAiMnA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Über Doctolib konnte ich einen Termin buchen, ohne dass ersichtlich war, dass dieser nur für Bestandspatient:innen gedacht ist. Vor Ort wurde mir dann gesagt, dass keine Neupatient:innen angenommen werden.\nBesonders absurd: Der Termin bleibt dadurch einfach unbesetzt – die Praxis verliert also selbst einen zahlenden Termin. Bei anderen Ärzt:innen wird auf Doctolib klar angegeben, wenn keine Neupatient:innen angenommen werden. Warum schafft man das hier nicht?",
       "time": 1787036680,
       "translated": false
@@ -1104,11 +1128,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 113,
+  "reviewCount": 114,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-31T11:21:03.848Z"
+  "lastUpdated": "2026-09-01T09:44:26.787Z"
 }

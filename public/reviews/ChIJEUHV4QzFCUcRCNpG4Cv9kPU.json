@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "S.W.",
+      "author_url": "https://www.google.com/maps/contrib/111831649974282494433/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0K5v6tyraVmT1IOVVttp9bj8Lpjq6fk9FIhuXOWuE-xlJ3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis! Ich hatte wenig bis keine Wartezeit und das Personal ist sehr freundlich. Herr Dr. Hägele war sehr freundlich und ich fühlte mich sehr wohl.",
+      "time": 1788250622,
+      "translated": false
+    },
+    {
       "author_name": "Lisa",
       "author_url": "https://www.google.com/maps/contrib/102639285055567011028/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Marie Wenzel",
+      "author_url": "https://www.google.com/maps/contrib/108876714297469271176/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSjMjG47Tak8iTpJwrDOH-yJ6CsTP_WmMfIa9ew0QEwP22Kig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nEine wirklich tolle Hautarztpraxis, die ich uneingeschränkt weiterempfehlen kann.\nFrau Dr. Vashina-Georgi ist eine hervorragende und zugleich herzliche Dermatologin.\n\nDie Praxis befindet sich in einer wunderschönen Villa und die Räumlichkeiten haben eine angenehme Atmosphäre.\nAuch die Terminvergabe war schnell und unkompliziert.\nVielen Dank an das freundliche Praxisteam und ganz besonders an Frau Dr. Vashina-Georgi! 😇",
+      "time": 1787647178,
+      "translated": false
+    },
+    {
       "author_name": "Xkart01",
       "author_url": "https://www.google.com/maps/contrib/105476919744143606118/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL0ZUE0EOBslPh8Hlqe7Ub7OzaVC5m42cYS01fXjh5vnH_nA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Weder wurde ein Kostenvoranschlag übermittelt, noch gab es eine transparente Preis- und Leistungsübersicht im Terminbuchungsprozess. Lediglich der Termin selbst wird klar kommuniziert. Erst vor Ort erfährt man von den anfallenden Kosten und der dahinterstehenden konkreten Leistung. Die Selbstzahlerpflicht wird im Online-Buchungsprozess nicht transparent dargestellt, sondern ist nur auf einer Unterseite versteckt (geprüft im August 2026). Wenn man die Behandlung daraufhin vor Ort nicht durchführen lassen möchte, wird direkt eine Ausfallgebühr von mindestens 75 € verlangt. Dadurch fühlt man sich stark unter Druck gesetzt, die Behandlung dennoch in Anspruch zu nehmen. Selbst das Personal räumte ein, dass Patienten vor Ort häufig überrascht reagieren.\nBitte sorgen Sie im Buchungsablauf direkt für klare Verhältnisse und vollständige Informationen, anstatt Patienten vor Ort mit Ausfallgebühren zu konfrontieren und unter Zugzwang zu setzen.",
+      "time": 1787633911,
+      "translated": false
+    },
+    {
+      "author_name": "Xkart01",
+      "author_url": "https://www.google.com/maps/contrib/105476919744143606118/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL0ZUE0EOBslPh8Hlqe7Ub7OzaVC5m42cYS01fXjh5vnH_nA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Weder wurde ein Kostenvoranschlag übermittelt, noch gab es eine transparente Preis- und Leistungsübersicht im Terminbuchungsprozess. Lediglich der Termin selbst wird klar kommuniziert. Erst vor Ort erfährt man von den anfallenden Kosten und der dahinterstehenden konkreten Leistung. Die Selbstzahlerpflicht wird im Online-Buchungsprozess nicht transparent dargestellt, sondern ist nur auf einer Unterseite versteckt (geprüft im August 2026). Wenn man die Behandlung daraufhin vor Ort nicht durchführen lassen möchte, wird direkt eine Ausfallgebühr von mindestens 75 € verlangt. Dadurch fühlt man sich stark unter Druck gesetzt, die Behandlung dennoch in Anspruch zu nehmen. Selbst das Personal räumte ein, dass Patienten vor Ort häufig überrascht reagieren.\nBitte sorgen Sie im Buchungsablauf direkt für klare Verhältnisse und vollständige Informationen, anstatt Patienten vor Ort mit Ausfallgebühren zu konfrontieren und unter Zugzwang zu setzen.",
       "time": 1787633911,
       "translated": false
@@ -563,12 +599,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
+  "rating": 4.7,
   "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-31T11:21:14.303Z"
+  "lastUpdated": "2026-09-01T09:44:37.245Z"
 }

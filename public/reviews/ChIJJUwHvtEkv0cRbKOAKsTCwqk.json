@@ -89,6 +89,16 @@
       "translated": false
     },
     {
+      "author_name": "Beate Thoennes",
+      "author_url": "https://www.google.com/maps/contrib/118353203753666231549/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk7QQ7cq-hjp1G4K_okShDUGDIsi6zfOsJyThdjsH32MQBNA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1785823552,
+      "translated": false
+    },
+    {
       "author_name": "Scotty",
       "author_url": "https://www.google.com/maps/contrib/108872855014064635465/reviews",
       "language": "de",
@@ -587,5 +597,5 @@
   "rating": 4.8,
   "reviewCount": 78,
   "summary": [],
-  "lastUpdated": "2026-08-31T11:20:47.674Z"
+  "lastUpdated": "2026-09-01T09:44:11.684Z"
 }

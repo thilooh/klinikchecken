@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "werner lenhard",
+      "author_url": "https://www.google.com/maps/contrib/113638878473321777636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItHSXDhsxQe7EDSy4dLeL3yffCn_xvzIMFeYRdHqYVMyYnbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr voll und Wartezeit von 1 Std obwohl Termin",
+      "time": 1787647073,
+      "translated": false
+    },
+    {
       "author_name": "HouseAtTheBeach",
       "author_url": "https://www.google.com/maps/contrib/115485427492851810913/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAYqMK2OVbz92c4AoTK8wV39Y7sdtc9yiyhRDzoO1GEk0ZEpW3=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Seit über 10 Jahren bin ich Patient in einer Praxis, in der man jederzeit ohne Termin erscheinen kann. Das war absolut einzigartig in der Region und hat immer wunderbar funktioniert.\n\nSeit letztem Monat ist ein Besuch jedoch nur noch mit Termin möglich, und der nächste freie Termin ist erst in knapp 4 Wochen. Ich bin umsonst 35 Minuten hingefahren und habe Parkgebühren gezahlt, ohne als bestehender Patient informiert worden zu sein. Doctolib lehnt ebenfalls die Buchung ab, da keine Termine für Neupatienten verfügbar sind, obwohl meinerseits angegeben wird, dass die Praxis bereits besucht wurde.\n\nProf. Raulin hat die Praxis übergeben. Mein Tipp - Never change a Running System!",
+      "time": 1786976733,
+      "translated": false
+    },
+    {
+      "author_name": "HouseAtTheBeach",
+      "author_url": "https://www.google.com/maps/contrib/115485427492851810913/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAYqMK2OVbz92c4AoTK8wV39Y7sdtc9yiyhRDzoO1GEk0ZEpW3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Seit über 10 Jahren bin ich Patient in einer Praxis, in der man jederzeit ohne Termin erscheinen kann. Das war absolut einzigartig in der Region und hat immer wunderbar funktioniert.\n\nSeit letztem Monat ist ein Besuch jedoch nur noch mit Termin möglich, und der nächste freie Termin ist erst in knapp 4 Wochen. Ich bin umsonst 35 Minuten hingefahren und habe Parkgebühren gezahlt, ohne als bestehender Patient informiert worden zu sein. Doctolib lehnt ebenfalls die Buchung ab, da keine Termine für Neupatienten verfügbar sind, obwohl meinerseits angegeben wird, dass die Praxis bereits besucht wurde.\n\nProf. Raulin hat die Praxis übergeben. Mein Tipp - Never change a Running System!",
       "time": 1786976733,
       "translated": false
@@ -1224,5 +1248,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-31T11:21:10.970Z"
+  "lastUpdated": "2026-09-01T09:44:33.828Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Sylvia Ahrens",
+      "author_url": "https://www.google.com/maps/contrib/103996761230549549342/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWU3YlnzwbRZ-6y_rG5ur7ZygqB8EbO76o5Uaf0vTH1JLTCw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Online einen Termin für die \"Ein Fleck\" Sprechstunde gebucht. Und schon ein paar Tage später konnte ich vorbei kommen.\nDie Damen am Empfang waren sehr höflich und hatten ein Lächeln auf den Lippen.\nUm 10.15 hatte ich den Termin und bin um 10.22 dran gekommen. Wirklich toll!!\n\nIch bin von Frau Winkelmann-Schirmer sehr nett und aufmerksam behandelt worden.\n\nEin insgesamt toller Eindruck.\n\nDort würde ich mir jederzeit wieder einen Termin holen, wenn ich einen bräuchte.\n\nSehr zu empfehlen.",
+      "time": 1788254283,
+      "translated": false
+    },
+    {
+      "author_name": "Roland",
+      "author_url": "https://www.google.com/maps/contrib/116252396627395883966/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVkp52ji4VOhlf_kVGKAg5vVGE1qLhEOInlcqVTKFcWKGwjWth=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Professor Doktor Kringel ist sehr gründlich und nett.\nKassenpatienten müssen zwar lange auf einen Nicht-Akkut-Termin warten – das ist aber für mich okay, da meine Vorsorgeuntersuchungen nur alle ein bis drei Jahre stattfinden.\nIch fühle mich sehr gut betreut.",
+      "time": 1788199111,
+      "translated": false
+    },
+    {
+      "author_name": "Thilo Kloos",
+      "author_url": "https://www.google.com/maps/contrib/109991614038689615395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9RlM-Qr0KHvwXzS-YMyjkOaRzxRCU80JdL1rWjdvlCtPYZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn man es geschafft hat online einen Termin zu bekommen, erwartet einen ein sehr freundliches Personal. Ablauf strukturiert ohne lange Wartezeit.",
+      "time": 1788181757,
+      "translated": false
+    },
+    {
       "author_name": "Bernard Brandewiede",
       "author_url": "https://www.google.com/maps/contrib/109587005451629012845/reviews",
       "language": "de",
@@ -1670,11 +1706,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2373,
+  "reviewCount": 2376,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-08-31T11:21:02.906Z"
+  "lastUpdated": "2026-09-01T09:44:25.788Z"
 }

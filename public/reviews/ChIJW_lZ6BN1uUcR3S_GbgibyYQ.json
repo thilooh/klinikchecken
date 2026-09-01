@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "H. L.",
+      "author_url": "https://www.google.com/maps/contrib/114973531352983727614/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDFSM8ACy7Mei9ENUYhGMTFUK6n1q6h8sfW7TZ96OevQoq8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man bekommt, im Vergleich zu anderen Hautärzten, zügig einen Termin,welchen man am besten online bucht. Die Ärztin und auch Mitarbeiterinnen sind sehr freundlich. Auch die ärztliche Behandlung und Aufklärung war sehr gut. Eine sehr gute, moderne Praxis, wo man freundlich begrüßt wird.",
+      "time": 1788175789,
+      "translated": false
+    },
+    {
       "author_name": "Niko Degen",
       "author_url": "https://www.google.com/maps/contrib/105381979671612139205/reviews",
       "language": "de",
@@ -1228,11 +1240,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 140,
+  "reviewCount": 141,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-31T11:21:24.267Z"
+  "lastUpdated": "2026-09-01T09:44:47.021Z"
 }

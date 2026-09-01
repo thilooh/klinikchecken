@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "to ru",
+      "author_url": "https://www.google.com/maps/contrib/109602030586856132413/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlZ6Uq_bQhZ9TumspdmVefTtc7qj7f4aTjlkJp_E9pD_rK9w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788228808,
+      "translated": false
+    },
+    {
+      "author_name": "Ayana Baute Diaz",
+      "author_url": "https://www.google.com/maps/contrib/109970845120216043016/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWKT-SjkZY2Ju1kCQ1LLLlnJDXsCFw5XWzUDs3IOqOmmg_gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Empfehlung!!! Super kompetentes und freundliches Personal. In einer kurzen Behandlungszeit wurde viel bewirkt! Ich habe mich selten so wohl und verstanden, von Ärzten, gefühlt.",
+      "time": 1788190149,
+      "translated": false
+    },
+    {
       "author_name": "Christian",
       "author_url": "https://www.google.com/maps/contrib/102871475123233452671/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtFE46QF9Y2-CRTvXEY4R3oMuGz6TturDoIQbAWXOH1rWR1ycj1g=s128-c0x00000000-cc-rp-mo-ba6",
@@ -1170,11 +1192,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 170,
+  "reviewCount": 172,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-08-31T11:21:08.222Z"
+  "lastUpdated": "2026-09-01T09:44:31.152Z"
 }

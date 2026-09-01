@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Patrick Langer",
+      "author_url": "https://www.google.com/maps/contrib/109427396857424404440/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLEx0kOnMSEsjfGlF7v-kUNBeDRinIQb411m9DnrTtPjVJNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Bei einem akuten Notfall habe ich sehr kurzfristig Hilfe erhalten, inklusive kurzfristiger Folgetermine. Das Team war dabei auch stets freundlich und kompetent. Daher komme ich immer gerne wieder hier hin.",
+      "time": 1786369499,
+      "translated": false
+    },
+    {
       "author_name": "Sven Danila",
       "author_url": "https://www.google.com/maps/contrib/104841678774708038371/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGZcgMvKEcebX-7hKFLZKwG51bE812g4geIGK_zIhEa_wi6w=s128-c0x00000000-cc-rp-mo",
@@ -1295,7 +1307,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 239,
+  "reviewCount": 238,
   "summary": [],
-  "lastUpdated": "2026-08-31T11:20:49.446Z"
+  "lastUpdated": "2026-09-01T09:44:13.160Z"
 }

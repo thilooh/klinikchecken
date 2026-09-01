@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nele",
+      "author_url": "https://www.google.com/maps/contrib/111463897631578523119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX26ophATaotBaYe6PJXs9E6xiQzLqj23c9J9V6OYgMPhhPA1TE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Hautkrebsvorsorge bei Frau Dr. Krosta und bin sehr begeistert. Bin überpünktlich dran gekommen, die MFAs waren alle sehr nett und Frau Dr. Krosta hat mir viel während der Vorsorge erklärt. War der bisher angenehmste Hautkrebsvorsorgetermin!",
+      "time": 1788245469,
+      "translated": false
+    },
+    {
       "author_name": "Meli Spinelli",
       "author_url": "https://www.google.com/maps/contrib/116421531093823758605/reviews",
       "language": "de",
@@ -1323,12 +1335,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 391,
+  "rating": 4.4,
+  "reviewCount": 393,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-31T11:21:21.340Z"
+  "lastUpdated": "2026-09-01T09:44:44.318Z"
 }

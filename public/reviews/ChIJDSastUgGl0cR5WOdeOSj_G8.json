@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manu",
+      "author_url": "https://www.google.com/maps/contrib/107075559679714976088/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpSa_1nbysl9rKvPS3fiejF6wOdBshaFU6GY-owqFMZIK9hSQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Weder über Telefon, noch Mail noch Doctolib lässt sich ein Termin verschieben / absagen, den ich nicht wahrnehmen kann. Schon die Terminvergabe war nur persönlich möglich.",
+      "time": 1788212184,
+      "translated": false
+    },
+    {
       "author_name": "Andrew Page (Tituschristianos)",
       "author_url": "https://www.google.com/maps/contrib/105483576497454399187/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZvB0ZJ8CZ92lAexhA1arc3ysat4DpSvWQ0Nrqdu7hM6h0kYMXLQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "keine Terminvereinbarungen möglich. An Telefon geht niemand dran, online Termine vereinbaren auch nicht möglich. Was geht da ab? Muss ich jetzt extra dahin fahren damit ich einen Termin vereinbare der auch in N- Monate ist. Traurig.",
+      "time": 1787643495,
+      "translated": false
+    },
+    {
+      "author_name": "Andrew Page (Tituschristianos)",
+      "author_url": "https://www.google.com/maps/contrib/105483576497454399187/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZvB0ZJ8CZ92lAexhA1arc3ysat4DpSvWQ0Nrqdu7hM6h0kYMXLQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "keine Terminvereinbarungen möglich. An Telefon geht niemand dran, online Termine vereinbaren auch nicht möglich. Was geht da ab? Muss ich jetzt extra dahin fahren damit ich einen Termin vereinbare der auch in N- Monate ist. Traurig.",
       "time": 1787643495,
       "translated": false
@@ -1212,11 +1236,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 242,
+  "reviewCount": 243,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-08-31T11:21:11.217Z"
+  "lastUpdated": "2026-09-01T09:44:34.077Z"
 }
