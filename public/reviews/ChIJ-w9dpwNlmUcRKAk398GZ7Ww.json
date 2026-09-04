@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sophie Müller",
+      "author_url": "https://www.google.com/maps/contrib/101288975966849799883/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAmU6V42r7jXsVpLY6fu-C18SvmnMvgaB2YmX5zPOc0XTr2A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Terminvergabe Online nicht möglich",
+      "time": 1788427149,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Bayh",
+      "author_url": "https://www.google.com/maps/contrib/114063512585748921719/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHLnVLhyZM1CQG9isCRyMGaTHquwguac8Woaj2boxa4wYaH69U=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Im Namen meiner Frau kann ich nur Gutes berichten.\nHaben meiner Frau sehr geholfen. Sie war begeistert über das angenehme Umfeld.",
+      "time": 1788262371,
+      "translated": false
+    },
+    {
       "author_name": "Pit M.",
       "author_url": "https://www.google.com/maps/contrib/112567079712345461155/reviews",
       "language": "de",
@@ -128,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHETzpLLsyo63eaDXhDAbpLqcssZWpNYKjP3aqniwB0IIkVw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr nettes Personal und sehr empathische kompetente Ärzte",
+      "time": 1786002461,
+      "translated": false
+    },
+    {
+      "author_name": "Conny G.",
+      "author_url": "https://www.google.com/maps/contrib/117052751639569059984/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHETzpLLsyo63eaDXhDAbpLqcssZWpNYKjP3aqniwB0IIkVw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr nettes Personal und sehr empathische kompetente Ärzte",
       "time": 1786002461,
       "translated": false
@@ -1060,11 +1096,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 160,
+  "reviewCount": 162,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-01T09:44:32.331Z"
+  "lastUpdated": "2026-09-04T09:19:19.137Z"
 }

@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Patricia Siemon",
+      "author_url": "https://www.google.com/maps/contrib/102310180275041618467/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVucpTLSLrvNls-DYF6AoQsbj8eqYAKJ8CfsKmBXlN2H_Z_aht1Bg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich fühle mich gut aufgehoben",
+      "time": 1787823178,
+      "translated": false
+    },
+    {
       "author_name": "Cengiz Yagci",
       "author_url": "https://www.google.com/maps/contrib/104725405926226464255/reviews",
       "language": "de",
@@ -96,6 +108,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLapDYNXxTJ4vUB1uK7rogNmBKgP0vwTJZL9EWGRie2_MJV-Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786523741,
+      "translated": false
+    },
+    {
+      "author_name": "Anouk Hamel",
+      "author_url": "https://www.google.com/maps/contrib/110242785686531695216/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLapDYNXxTJ4vUB1uK7rogNmBKgP0vwTJZL9EWGRie2_MJV-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1786523741,
       "translated": false
@@ -590,5 +612,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-09-01T09:44:40.717Z"
+  "lastUpdated": "2026-09-04T09:19:28.344Z"
 }

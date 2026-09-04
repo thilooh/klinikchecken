@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "A J",
+      "author_url": "https://www.google.com/maps/contrib/101560595673188712760/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA8hIB63Aod0M1Hmw1sub2MzBvGeXQ0WCFzH0wYpAILiw50w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin jetzt schon ca. ein halbes Jahr immer wieder dort in Behandlung. Die ärztliche Behandlung dort gibt mir nach wie vor ein sehr gutes Gefühl, auch das medizinische Team drum herum ist sehr höflich. Leider nur 3 Sterne da ich wirklich jedes Mal von der Frau am Empfang nur patzige Antworten und Fragen erhalte. Es hat schon eine Schwierigkeit dargestellt einen Termin für die nächste Behandlung auszumachen, als ich dann noch gefragt habe, ob sie mir die Termine bitte aufschreibt habe ich ! ein Augenrollen bekommen und ein verächtliches Schnauben. Keine gute Idee eine so unhöfliche Person am Empfang einzusetzen, so wird ja auch die Praxis repräsentiert. Sehr schade, da sonst wirklich jeder sehr bemüht und empathisch erscheint. Ich überlege wirklich deswegen nach Alternativen zu schauen.",
+      "time": 1788338452,
+      "translated": false
+    },
+    {
       "author_name": "Anne Mang",
       "author_url": "https://www.google.com/maps/contrib/116469288121211004225/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSchh-61yatsAJYrm6AwUHlHRXB7ggtIlwHtNNIFAZBRW3RA=s128-c0x00000000-cc-rp-mo",
@@ -66,6 +78,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXILLO91ZJ2eLW9JbPtEJliUjFyqPfw7Ykv874UlHCzK9yLwVKRpg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1785997283,
+      "translated": false
+    },
+    {
+      "author_name": "Gerhard Hartmann",
+      "author_url": "https://www.google.com/maps/contrib/114378693280482576694/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXILLO91ZJ2eLW9JbPtEJliUjFyqPfw7Ykv874UlHCzK9yLwVKRpg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1785997283,
       "translated": false
@@ -822,11 +844,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 44,
+  "reviewCount": 45,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:41.965Z"
+  "lastUpdated": "2026-09-04T09:19:29.590Z"
 }

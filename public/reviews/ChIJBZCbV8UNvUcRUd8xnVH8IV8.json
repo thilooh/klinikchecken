@@ -111,6 +111,16 @@
       "translated": false
     },
     {
+      "author_name": "S. C.",
+      "author_url": "https://www.google.com/maps/contrib/108591993018516008015/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ92rfbBibI3lMwyUWIGAexqHCPIJHNFj_oU-roqJ63qRKx8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1785748900,
+      "translated": false
+    },
+    {
       "author_name": "Nermina Ott",
       "author_url": "https://www.google.com/maps/contrib/116361394723794731810/reviews",
       "language": "de",
@@ -236,6 +246,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqnGawX8kmDck3w_xLptecVHO7Ek33dhyV6psISTeCIZPm4g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Absolute Empfehlung! Ich bin begeistert von dieser Praxis. Schon die Terminvergabe ging super schnell und war dabei unglaublich freundlich. Das gesamte Team ist sehr nett, herzlich und hilfsbereit – man fühlt sich vom ersten Moment an bestens aufgehoben. Dr. Kodeih hat sich viel Zeit genommen und alles ausführlich, verständlich und sehr kompetent erklärt. Ich bin wirklich unglaublich froh, dass mir diese Praxis empfohlen wurde und kann sie mit bestem Gewissen weiterempfehlen!",
+      "time": 1783112017,
+      "translated": false
+    },
+    {
+      "author_name": "Daniela Thoma",
+      "author_url": "https://www.google.com/maps/contrib/113807604080878882899/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqnGawX8kmDck3w_xLptecVHO7Ek33dhyV6psISTeCIZPm4g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Absolute Empfehlung! Ich bin begeistert von dieser Praxis. Schon die Terminvergabe ging super schnell und war dabei unglaublich freundlich. Das gesamte Team ist sehr nett, herzlich und hilfsbereit – man fühlt sich vom ersten Moment an bestens aufgehoben. Dr. Kodeih hat sich viel Zeit genommen und alles ausführlich, verständlich und sehr kompetent erklärt. Ich bin wirklich unglaublich froh, dass mir diese Praxis empfohlen wurde und kann sie mit bestem Gewissen weiterempfehlen!",
       "time": 1783112017,
       "translated": false
@@ -944,5 +966,5 @@
   "rating": 4.9,
   "reviewCount": 101,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:14.704Z"
+  "lastUpdated": "2026-09-04T09:19:00.592Z"
 }

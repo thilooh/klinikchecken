@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Sara T.",
+      "author_url": "https://www.google.com/maps/contrib/111775963623270620246/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMX8LE9lHkscK-_K69uNupvfVXO-jDtO3p1aEQbfv6is2SdQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Kompetente Ärzte und Mitarbeiter, realistische Terminvergabe und Wartezeiten. Sehr schöne Praxis. Schlecht zu parken.",
+      "time": 1785926438,
+      "translated": false
+    },
+    {
       "author_name": "Beate Thoennes",
       "author_url": "https://www.google.com/maps/contrib/118353203753666231549/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk7QQ7cq-hjp1G4K_okShDUGDIsi6zfOsJyThdjsH32MQBNA=s128-c0x00000000-cc-rp-mo-ba5",
@@ -94,6 +106,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk7QQ7cq-hjp1G4K_okShDUGDIsi6zfOsJyThdjsH32MQBNA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1785823552,
+      "translated": false
+    },
+    {
+      "author_name": "Beate Thoennes",
+      "author_url": "https://www.google.com/maps/contrib/118353203753666231549/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk7QQ7cq-hjp1G4K_okShDUGDIsi6zfOsJyThdjsH32MQBNA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1785823552,
       "translated": false
@@ -597,5 +619,5 @@
   "rating": 4.8,
   "reviewCount": 78,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:11.684Z"
+  "lastUpdated": "2026-09-04T09:18:57.345Z"
 }

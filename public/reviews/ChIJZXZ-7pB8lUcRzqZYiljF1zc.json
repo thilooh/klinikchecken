@@ -51,6 +51,16 @@
       "translated": false
     },
     {
+      "author_name": "Urlaub ist toll!",
+      "author_url": "https://www.google.com/maps/contrib/105431714385560027705/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8lF0taTBZD8Edt1Pv-FjESGb1wzigfL9_WdOma4C27_zMxKY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1785700761,
+      "translated": false
+    },
+    {
       "author_name": "Rene L",
       "author_url": "https://www.google.com/maps/contrib/114797353547700843882/reviews",
       "language": "de",
@@ -562,6 +572,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInU_Mwp4_J2Y1v2oaFiuchh3oft271qTihzKEWZcTKfU7CVw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Ein riesen Dankeschön geht an Frau Dr.Needer und ihre netten Arzthelferinnen :)\nVielen Dank für die schnelle Hilfe",
+      "time": 1778095916,
+      "translated": false
+    },
+    {
+      "author_name": "Melina Winkler",
+      "author_url": "https://www.google.com/maps/contrib/108474196521661784276/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInU_Mwp4_J2Y1v2oaFiuchh3oft271qTihzKEWZcTKfU7CVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Ein riesen Dankeschön geht an Frau Dr.Needer und ihre netten Arzthelferinnen :)\nVielen Dank für die schnelle Hilfe",
       "time": 1778095916,
       "translated": false
@@ -732,5 +754,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:59.596Z"
+  "lastUpdated": "2026-09-04T09:19:47.834Z"
 }

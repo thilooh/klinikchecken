@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Florian Zimmermann",
+      "author_url": "https://www.google.com/maps/contrib/101131803074470055808/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-zcFWiyUjuwap40MVleMysUBkZQ-NOK9Z_hiQflWMsusBNg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Das System ist Labor Labor Labor und ich verstehe den Sinn, erstmal zu einem Ergebniss zu kommen, allein das Labor widerspricht sich (Blut: extreme Allergien, Prick: nur Baumtyp A), und es gibt keinerlei Nachbesprechung über die eigentlichten Probleme, für die man den Arzt eigentlich aufgesucht hat. Telefonisch (bestätigt von Seketrärin: unerreichbar, keiner gehr dort ran, keine Zeit) unfassbar schlecht. Das klingt nacht einem Abkassieren von Kassenleistungen. Teils 45min Wartezeit trotz Termin und man hört wie es passiert: Patienten, die 1h zu spät waren werden einfach eingeschoben.",
+      "time": 1786483495,
+      "translated": false
+    },
+    {
       "author_name": "Dimitrios Moussios",
       "author_url": "https://www.google.com/maps/contrib/110148425639508861755/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWH3uqruJa15tuD2nd4uz1Rxc5tDN9yBCWZu4NwihEVbKz2qEg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Super organisiert und kompetente Ärzte",
+      "time": 1785866945,
+      "translated": false
+    },
+    {
+      "author_name": "Dimi M.",
+      "author_url": "https://www.google.com/maps/contrib/112701267484059753819/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWH3uqruJa15tuD2nd4uz1Rxc5tDN9yBCWZu4NwihEVbKz2qEg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Super organisiert und kompetente Ärzte",
       "time": 1785866945,
       "translated": false
@@ -1139,12 +1163,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 195,
+  "rating": 4.7,
+  "reviewCount": 193,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:53.116Z"
+  "lastUpdated": "2026-09-04T09:19:41.123Z"
 }

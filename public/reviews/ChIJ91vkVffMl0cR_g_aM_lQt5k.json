@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dominique Spindler",
+      "author_url": "https://www.google.com/maps/contrib/106496616839651261375/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAiw7k8Dg-PkmPPC1w3aOF4QxkqjJnBz7icRrrxS80agZ26Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich in der Praxis wirklich sehr gut aufgehoben gefühlt. Das gesamte Team war ausgesprochen nett und freundlich. Herr Dr. Algesri ist sehr sympathisch und hat eine angenehm ruhige Art, bei der man sich direkt wohlfühlt.\n\nEr hat sich Zeit genommen, alle meine Fragen zu beantworten, und konnte bei dem Termin sogar direkt zwei kleine Blutschwämmchen entfernen. Das ging super schnell, unkompliziert und war für mich sehr angenehm.\n\nAuch preislich fand ich alles sehr fair und entgegenkommend. Insgesamt eine wirklich tolle Erfahrung – freundlich, unkompliziert und professionell. Ich kann Herrn Dr. Algesri und sein Team absolut weiterempfehlen! 😊",
+      "time": 1788258146,
+      "translated": false
+    },
+    {
       "author_name": "hasan davarci",
       "author_url": "https://www.google.com/maps/contrib/117333925382611237074/reviews",
       "language": "de",
@@ -756,11 +768,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 60,
+  "reviewCount": 61,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:48.040Z"
+  "lastUpdated": "2026-09-04T09:19:35.810Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Julia",
+      "author_url": "https://www.google.com/maps/contrib/102136281203927207646/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZQw5P17qZGxYliLGdjTxEJoDXZCGQ5nACBpft5WLw_EsKug=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war Patientin, wegen meiner starken Akne.\n\nDie Ärztin, die vorübergehend Frau Angabinis Vertretung war, war wirklich großartig!\n\nLeider kann ich das nicht vom sonstigen Praxisteam behaupten. Hier werden Rezepte (wiederholt!!) falsch auf die Karte gespielt, was ziemlich unzuverlässig ist, das Personal ist nicht informiert und dazu leider äußerst unfreundlich. Ernst genommen wird man leider von der Sprechstundenmitarbeiterin erst, wenn man ihr genauso entgegen tritt wie sie einen begrüßt.\nZiemlich schade, dass die Arbeit mit Menschen manchen so schwer fällt, gerade in solch einem Bereich.\nIch bin wirklich froh, dass die Therapie nun vorbei ist und ich nicht mehr dorthin muss.",
+      "time": 1788345180,
+      "translated": false
+    },
+    {
+      "author_name": "Nese Sirin",
+      "author_url": "https://www.google.com/maps/contrib/101765411342577754315/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrM6qsqEWiV-reykEUPUw62PJCloFk8ufrpxBq-2G1YqVVxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Am liebsten würde ich kein Stern geben weil ich es musste ist es Geschen als der Arzt hat wirklich von nichts eine Ahnung obwohl es an meinem Knöchel entzündet ist und Eiter raus kommt hat der mich zum Chirurgen hingewiesen von Ort aus hat die Chirurg gelacht und gesagt das ist die Arbeit vom Hautarzt lächerlich ich gib euch ein tip geht nicht dahin der hat keine Ahnung hat sich mein Fuß sich nicht Mals richtig angeschaut unter aller Sau",
+      "time": 1788334517,
+      "translated": false
+    },
+    {
       "author_name": "I. Bar",
       "author_url": "https://www.google.com/maps/contrib/101016525566557920891/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInW4aabC7dUpEzqAckHCaq_tWEhN0yT7TBZn1V6ehBDqtKwB8=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr zu empfehlen,ausführliche Beratung und Anamnese.",
+      "time": 1787128011,
+      "translated": false
+    },
+    {
+      "author_name": "Hei Ko",
+      "author_url": "https://www.google.com/maps/contrib/103585198420173498616/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInW4aabC7dUpEzqAckHCaq_tWEhN0yT7TBZn1V6ehBDqtKwB8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr zu empfehlen,ausführliche Beratung und Anamnese.",
       "time": 1787128011,
       "translated": false
@@ -962,11 +998,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 124,
+  "reviewCount": 126,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-01T09:44:30.677Z"
+  "lastUpdated": "2026-09-04T09:19:17.354Z"
 }

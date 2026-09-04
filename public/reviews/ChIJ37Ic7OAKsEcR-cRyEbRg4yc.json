@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Lilli Brodtmann",
+      "author_url": "https://www.google.com/maps/contrib/118120235848885896746/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8yHiauT16JAVPiy_hWQZN1Wr-BsuL5UFYioEYiozo1izYOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788436395,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele Hecht",
+      "author_url": "https://www.google.com/maps/contrib/100012120993013492942/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8nn5ac-HqAUTTGCqEhmU2UbLfKddtVm8XAsGQ-0goC2thOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Platschek hat bei mir eine Hautkrebsstelle an der Nase operiert. Die Wartezeit auf Termine war kurz und wurden pünktlich eingehalten. Herr Dr. Platschek hat mich gründlich untersucht und mir verständlich die Vorgehensweise erklärt. Ein sehr kompetenter Arzt sowie freundliches Personal haben dazu beigetragen, mich rundherum gut aufgehoben zu fühlen. Ich sage noch einmal danke und kann die Praxis nur weiterempfehlen",
+      "time": 1788284539,
+      "translated": false
+    },
+    {
       "author_name": "H. S.",
       "author_url": "https://www.google.com/maps/contrib/116994561665718611888/reviews",
       "language": "de",
@@ -658,11 +680,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 177,
+  "reviewCount": 179,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-01T09:44:22.108Z"
+  "lastUpdated": "2026-09-04T09:19:08.436Z"
 }

@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Linda K.",
+      "author_url": "https://www.google.com/maps/contrib/106913801705615515268/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLunPaI4W9AKpZF7lpTE5RHYeqf2O58h0XMl4NhZz9HqULV3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich kann die Ärztin leider garnicht empfehlen. 1,5 Stunden Warten trotz fixem Termin, um dann 3 Sachen genannt zu bekommen, die ich mal googeln sollte. Da hätte ChatGPT wohl eine bessere Diagnose und Tipps gegeben, schade",
+      "time": 1787243012,
+      "translated": false
+    },
+    {
       "author_name": "Olena Averkina",
       "author_url": "https://www.google.com/maps/contrib/105928662209905282663/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKib5im0LNGB_vqTeUSstGUtki0DWhzMAT4MN2a2JXwBxl0MQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Dr.Anna Diih ist wirklich ein sehr kompetenter und aufmerksamer Spezialist! Die hervorragende Behandlung hat mir geholfen, ein langjähriges Hautproblem zu beseitigen. Herzlichen Dank!",
+      "time": 1787070300,
+      "translated": false
+    },
+    {
+      "author_name": "Olena Averkina",
+      "author_url": "https://www.google.com/maps/contrib/105928662209905282663/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKib5im0LNGB_vqTeUSstGUtki0DWhzMAT4MN2a2JXwBxl0MQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Dr.Anna Diih ist wirklich ein sehr kompetenter und aufmerksamer Spezialist! Die hervorragende Behandlung hat mir geholfen, ein langjähriges Hautproblem zu beseitigen. Herzlichen Dank!",
       "time": 1787070300,
       "translated": false
@@ -92,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItwsJhVl9vVqemLehZ79mJnMOffapxNSsVYE2U_0399Y5xvQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr hilfsbereite und kompetente Ärztin. Sie ist immer freundlich, gut gelaunt und strahlt wie ein Sonnenschein. Solche Ärzte gibt es heutzutage leider nur noch sehr selten. Eine Ärztin, bei der man sich einfach gut aufgehoben fühlt. Absolut empfehlenswert!",
+      "time": 1786546528,
+      "translated": false
+    },
+    {
+      "author_name": "Yulia Petkau",
+      "author_url": "https://www.google.com/maps/contrib/100965160414461821501/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItwsJhVl9vVqemLehZ79mJnMOffapxNSsVYE2U_0399Y5xvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr hilfsbereite und kompetente Ärztin. Sie ist immer freundlich, gut gelaunt und strahlt wie ein Sonnenschein. Solche Ärzte gibt es heutzutage leider nur noch sehr selten. Eine Ärztin, bei der man sich einfach gut aufgehoben fühlt. Absolut empfehlenswert!",
       "time": 1786546528,
       "translated": false
@@ -1110,11 +1146,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 236,
+  "reviewCount": 235,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:28.991Z"
+  "lastUpdated": "2026-09-04T09:19:15.572Z"
 }

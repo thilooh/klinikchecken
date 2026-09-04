@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Röthemeyer",
+      "author_url": "https://www.google.com/maps/contrib/101608814528373115653/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkC3Jcd7HZiFhIOwxFna7gYTuhPMVd7H88sWnyAQBQZn7Ryg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Behandlung durch Dr.Farcas.Nettes freundliches Team. Jederzeit wieder .",
+      "time": 1788271714,
+      "translated": false
+    },
+    {
       "author_name": "R S",
       "author_url": "https://www.google.com/maps/contrib/117687092614988363919/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpOFTpAYWPtkBatRNOtZyK-ddFlFcGoTRu2beEdcm2afMewg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war zum Hautkrebsscreening bei Dr. Farcas, die einen sehr kompetenten Eindruck auf mich macht. Vorsorglich wurde ein Muttermal entfernt, die Fäden von der OP wurden gestern (urlaubsbedingt) von einer Hautärztin in Brackwede gezogen, die voll des Lobes für die hervorragend gesetzten Nähte von Frau Farcas war.",
+      "time": 1787292521,
+      "translated": false
+    },
+    {
+      "author_name": "R S",
+      "author_url": "https://www.google.com/maps/contrib/117687092614988363919/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpOFTpAYWPtkBatRNOtZyK-ddFlFcGoTRu2beEdcm2afMewg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war zum Hautkrebsscreening bei Dr. Farcas, die einen sehr kompetenten Eindruck auf mich macht. Vorsorglich wurde ein Muttermal entfernt, die Fäden von der OP wurden gestern (urlaubsbedingt) von einer Hautärztin in Brackwede gezogen, die voll des Lobes für die hervorragend gesetzten Nähte von Frau Farcas war.",
       "time": 1787292521,
       "translated": false
@@ -679,12 +703,12 @@
       "translated": false
     }
   ],
-  "rating": 3.9,
-  "reviewCount": 160,
+  "rating": 4,
+  "reviewCount": 161,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-01T09:44:28.236Z"
+  "lastUpdated": "2026-09-04T09:19:14.784Z"
 }

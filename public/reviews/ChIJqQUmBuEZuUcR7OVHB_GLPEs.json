@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Tania Nogueira",
+      "author_url": "https://www.google.com/maps/contrib/110917833284958774854/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrEr0cVUAvneVWFYKIoTg3YWSd74JJE-d3OGE_FWE-Uos7JHGldw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788442254,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Handschuck",
+      "author_url": "https://www.google.com/maps/contrib/118237292071425854988/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyknLxEPvuifxaFpTCyG-qZbviKLUz7C170FFMXsSPBQE_HMGt=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788360922,
+      "translated": false
+    },
+    {
       "author_name": "Manu Fre",
       "author_url": "https://www.google.com/maps/contrib/112264189647494239079/reviews",
       "language": "de",
@@ -13,6 +33,18 @@
       "translated": false
     },
     {
+      "author_name": "Manu Fre",
+      "author_url": "https://www.google.com/maps/contrib/112264189647494239079/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjMOtx9AOmZ9rbyhb1te45apjdPF5_Lr9sDh8K8lIC5kAyw1i7pg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin schon mit einer kleinen Pause seit Jahrzehnten Patientin in der Hansaklinik und bin auch größtenteils zufrieden. Letzte Woche war ich da nach einer kleinen OP, Befund war leider noch nicht da. Ich soll telefonisch nachfragen ob der Befund da ist,aber man hängt ewig in der Warteschleife und die Online-Rezeption funktioniert nicht und über E-Mail werden auch keine Fragen mehr beantwortet. Ich kann doch nicht ständig in die Stadt fahren und das vielleicht auch noch umsonst. Das ist einfach blöd, bitte bearbeitet eure Homepage, damit man euch wenigstens online erreichen kann.",
+      "time": 1787842764,
+      "translated": false
+    },
+    {
       "author_name": "Ljudmila Samborskaja",
       "author_url": "https://www.google.com/maps/contrib/101349962756660266382/reviews",
       "language": "de",
@@ -20,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4XE1yQ9dkUhfQSZTdbzu1VM6o44aLzxxIsX66lhHiYtlYUg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärzte sind sehr gut, aber die Organisation und das mittlere Personal sind das Schlimmste, was man sich vorstellen kann. Man muss mit einer Wartezeit von drei Stunden rechnen – und mit Unhöflichkeit.",
+      "time": 1787744679,
+      "translated": false
+    },
+    {
+      "author_name": "Ljudmila Samborskaja",
+      "author_url": "https://www.google.com/maps/contrib/101349962756660266382/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4XE1yQ9dkUhfQSZTdbzu1VM6o44aLzxxIsX66lhHiYtlYUg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Die Ärzte sind sehr gut, aber die Organisation und das mittlere Personal sind das Schlimmste, was man sich vorstellen kann. Man muss mit einer Wartezeit von drei Stunden rechnen – und mit Unhöflichkeit.",
       "time": 1787744679,
       "translated": false
@@ -1312,7 +1356,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 301,
+  "reviewCount": 303,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:15.455Z"
+  "lastUpdated": "2026-09-04T09:19:01.522Z"
 }

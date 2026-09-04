@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Carsten Ciemer",
+      "author_url": "https://www.google.com/maps/contrib/115817488571100334395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfmlH_p5S6RkD4QdE2DU1wINmAmU0F-UMRpNMNlxOy4foAag=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Leute hier und gut zu finden.",
+      "time": 1788350013,
+      "translated": false
+    },
+    {
       "author_name": "Alina Metzger",
       "author_url": "https://www.google.com/maps/contrib/112350888951785760986/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgEhQi1M859Y2fP4xXgSyJs7lG0EtbLFlZU9jAmQ7S7oWgPg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich noch nie so gut aufgehoben gefühlt wie in der Rosenparkklinik. Schon beim Erstgespräch hat Dr. Stanger sich sehr viel Zeit für mich genommen und während der Operation war so eine gute Stimmung, dass man sich richtig wohl gefühlt hat. Auch alle Schwestern haben sich wirklich toll um mich gekümmert und die komplette Klinik ist absolut gepflegt und modern. Ich würde mich jederzeit wieder dafür entscheiden mich hier operieren zu lassen. Vielen Dank für alles!",
+      "time": 1787655609,
+      "translated": false
+    },
+    {
+      "author_name": "Alina Metzger",
+      "author_url": "https://www.google.com/maps/contrib/112350888951785760986/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgEhQi1M859Y2fP4xXgSyJs7lG0EtbLFlZU9jAmQ7S7oWgPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe mich noch nie so gut aufgehoben gefühlt wie in der Rosenparkklinik. Schon beim Erstgespräch hat Dr. Stanger sich sehr viel Zeit für mich genommen und während der Operation war so eine gute Stimmung, dass man sich richtig wohl gefühlt hat. Auch alle Schwestern haben sich wirklich toll um mich gekümmert und die komplette Klinik ist absolut gepflegt und modern. Ich würde mich jederzeit wieder dafür entscheiden mich hier operieren zu lassen. Vielen Dank für alles!",
       "time": 1787655609,
       "translated": false
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh3oxwK1r7KHECNUHpIrnoXal1s2wgOo7FavZIWxRaW2lwYw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Alle Personen super nett und hilfsbereit.\n\nWie ein kleiner Hotel Aufenthalt",
+      "time": 1787127287,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle Westphal",
+      "author_url": "https://www.google.com/maps/contrib/115558600962310991161/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh3oxwK1r7KHECNUHpIrnoXal1s2wgOo7FavZIWxRaW2lwYw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Alle Personen super nett und hilfsbereit.\n\nWie ein kleiner Hotel Aufenthalt",
       "time": 1787127287,
       "translated": false
@@ -62,6 +98,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE4jQeX7lg1hAxtHtlg0IEpfpLp1gQUcmUpAxBG8x3V6BJFg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786474202,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Wagner",
+      "author_url": "https://www.google.com/maps/contrib/106278408611874244013/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE4jQeX7lg1hAxtHtlg0IEpfpLp1gQUcmUpAxBG8x3V6BJFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1786474202,
       "translated": false
@@ -1020,11 +1066,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 184,
+  "reviewCount": 185,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-01T09:44:52.402Z"
+  "lastUpdated": "2026-09-04T09:19:40.368Z"
 }

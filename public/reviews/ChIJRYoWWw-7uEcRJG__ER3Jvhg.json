@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Simonetta Wum",
+      "author_url": "https://www.google.com/maps/contrib/117257212249030806033/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITQb_qGCyRsNQkJZzvOgvMit6t6UNMOP4uWIcV8GowRFdwGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788406644,
+      "translated": false
+    },
+    {
+      "author_name": "Alicja Kozinska",
+      "author_url": "https://www.google.com/maps/contrib/110296837903111944701/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJs6_XfcaPfe06q9rnuLdrjpgbPt5-zQn-4f-3DOLvHEtrBLQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Skin & Soul Clinic by Aleo ist für mich ein Ort, an dem Eleganz, Qualität und Herzlichkeit auf ganz besondere Weise zusammenkommen.\n\nDie Inhaber sind wundervolle, warmherzige Menschen und gleichzeitig absolute Profis. Man spürt die Liebe zum Detail und die Leidenschaft für das, was sie tun, in jedem Moment.\n\nEin Ort mit Stil, Seele und einer ganz besonderen Atmosphäre. Für mich definitiv eine der schönsten Adressen und ab jetzt ein absoluter Lieblingsort. 🤍\n\nEine ganz klare Herzensempfehlung 🤍",
+      "time": 1788268479,
+      "translated": false
+    },
+    {
       "author_name": "Melda Temiz",
       "author_url": "https://www.google.com/maps/contrib/116630326923842232518/reviews",
       "language": "de",
@@ -1266,11 +1288,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 230,
+  "reviewCount": 232,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-01T09:44:44.814Z"
+  "lastUpdated": "2026-09-04T09:19:32.523Z"
 }

@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Birgit Bomert",
+      "author_url": "https://www.google.com/maps/contrib/107668657348070107628/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1XjeaH5b4UoHrrJ-who59OMnl2IQ12irG43hUk8hm0kayZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Super Praxis. Das ganze Team, Ärzte und Mfas sind super .\nGründliche Untersuchung.\nGute Behandlung.\nWerde dort bleiben.\nAbsolut zu empfehlen.",
+      "time": 1787720169,
+      "translated": false
+    },
+    {
       "author_name": "Lothar Münzenthaler",
       "author_url": "https://www.google.com/maps/contrib/103982984357841922319/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_NHRpnI6kzE4zCI0BKppIBqNyx2J70Zgfoc5MWCDXCTxbxbyC=s128-c0x00000000-cc-rp-mo-ba3",
@@ -38,6 +50,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_NHRpnI6kzE4zCI0BKppIBqNyx2J70Zgfoc5MWCDXCTxbxbyC=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786697846,
+      "translated": false
+    },
+    {
+      "author_name": "Lothar Münzenthaler",
+      "author_url": "https://www.google.com/maps/contrib/103982984357841922319/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_NHRpnI6kzE4zCI0BKppIBqNyx2J70Zgfoc5MWCDXCTxbxbyC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1786697846,
       "translated": false
@@ -981,5 +1003,5 @@
   "rating": 4.6,
   "reviewCount": 98,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:13.675Z"
+  "lastUpdated": "2026-09-04T09:18:59.460Z"
 }

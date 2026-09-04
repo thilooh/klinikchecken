@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Bettina Schöning",
+      "author_url": "https://www.google.com/maps/contrib/110187326182640537594/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcUzLQgTB-JJ-6IgBoQfAq0ctW24fck4C7LOhT6_kofFzvoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute und vertrauenswürdige Praxis. Ich fühle mich sehr gut verstanden und aufgehoben. Kann ich wirklich weiter empfehlen.",
+      "time": 1788375294,
+      "translated": false
+    },
+    {
+      "author_name": "Maia Pol",
+      "author_url": "https://www.google.com/maps/contrib/113539508715688059821/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjResFqALDZRt53y4Luqxe5pvmXPWZLHPPND0_4Ev5npKWZyY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zweimal in dieser Klinik, und beide Male konnte man mir nicht helfen. Ich werde nie wieder dorthin gehen; sie können nichts anderes, als die Leute mit Tabletten vollzustopfen. Mein Problem wurde in einer anderen Klinik gelöst.",
+      "time": 1788354262,
+      "translated": false
+    },
+    {
       "author_name": "Manfred-A. Winkler",
       "author_url": "https://www.google.com/maps/contrib/107015056953016132316/reviews",
       "language": "de",
@@ -18,6 +42,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUKGmu28t7bp9bVFPqit2mtZ72REf4kIMTV85JBbT7PTzfAFeM=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787726074,
+      "translated": false
+    },
+    {
+      "author_name": "Nursel Yakup",
+      "author_url": "https://www.google.com/maps/contrib/108737139640969721431/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUKGmu28t7bp9bVFPqit2mtZ72REf4kIMTV85JBbT7PTzfAFeM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1787726074,
       "translated": false
@@ -1154,11 +1188,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 147,
+  "reviewCount": 149,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:23.357Z"
+  "lastUpdated": "2026-09-04T09:19:09.688Z"
 }

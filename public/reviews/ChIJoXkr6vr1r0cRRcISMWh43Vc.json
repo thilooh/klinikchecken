@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M M",
+      "author_url": "https://www.google.com/maps/contrib/105389936015730820997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjTRLs-RceW1TZWk2rf475-Y6NdwGUa8G9rMICKkOxS5swxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Moin. Meine Venen OP war für August 26 geplant. Leider sollte die OP nicht so stattfinden, wie mit dem voruntersuchenden Arzt besprochen. Der Chefarzt am OP Tag sagte ich wäre bei weitem nicht der erste Fall, bei dem die Leute so vor ihm standen. Statt des normalen ambulanten Eingriffs sollte ich plötzlich stationär da bleiben, sonst könne es nicht mit der Kasse abgerechnet werden. Der Zimmernachbar sollte sollte sogar scheinbar ohne triftigen Grund eine zweite Nacht zur Beobachtung da bleiben. Also anscheinend geht es vor allem um die Kohle!",
+      "time": 1788456807,
+      "translated": false
+    },
+    {
       "author_name": "Alexandra Giorgi",
       "author_url": "https://www.google.com/maps/contrib/111579433672422539333/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwk1EJbXXVAe96-CAmqmNcSwiONMWhh9WfqJHxR2UgQ9B3Cw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war gestern dort. Empfang susper nett.\nIm Arztzimmer fühlte ich mich allerdings sehr unwohl.\nDurch ein Fenster um Rücken des Arztes konnte ich diesen nicht erkennen. Er hat sich mir auch nicht vorgestellt. Es gab keine Umkleidekabine. Ich musste mich in Anwesenheit des Artes, der mir dabei zugesehen hat die Hose ausziehen.\nAn der anschließenden Untersuchung ist nichts auszusetzen.\nDie Aussage, wir brauchen 5-10 Sitzungen, kommt aber wieder... fragte ich nach, also raten Sie mir ab? Genau! Das wars... also hab ich mein Problem immer noch... Seufz...",
+      "time": 1787121766,
+      "translated": false
+    },
+    {
+      "author_name": "Michaela Knigge",
+      "author_url": "https://www.google.com/maps/contrib/104935391604936652911/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwk1EJbXXVAe96-CAmqmNcSwiONMWhh9WfqJHxR2UgQ9B3Cw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war gestern dort. Empfang susper nett.\nIm Arztzimmer fühlte ich mich allerdings sehr unwohl.\nDurch ein Fenster um Rücken des Arztes konnte ich diesen nicht erkennen. Er hat sich mir auch nicht vorgestellt. Es gab keine Umkleidekabine. Ich musste mich in Anwesenheit des Artes, der mir dabei zugesehen hat die Hose ausziehen.\nAn der anschließenden Untersuchung ist nichts auszusetzen.\nDie Aussage, wir brauchen 5-10 Sitzungen, kommt aber wieder... fragte ich nach, also raten Sie mir ab? Genau! Das wars... also hab ich mein Problem immer noch... Seufz...",
       "time": 1787121766,
       "translated": false
@@ -520,11 +544,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 89,
+  "reviewCount": 90,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:24.832Z"
+  "lastUpdated": "2026-09-04T09:19:11.177Z"
 }

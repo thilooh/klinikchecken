@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Carolin Hagelberg",
+      "author_url": "https://www.google.com/maps/contrib/105796230208637350370/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMiGsTiZ_yabgHTgDLEKlduV7UShRJOE0yoTU2NeYenS1zCg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Praxis nicht empfehlen.Folgetermine wurden zwei Mal abgesagt und ich erfuhr so von einem positiven Testergebnis erst 7 Wochen später ( eigentlich wollte man mich im Falle eines positiven Ergebnisses nach 2 Tagen anrufen)..geht gar nicht und ist grob fahrlässig, wenn es um Krankheiten geht, die ggf. zeitnah medikamentös behandelt werden müssen.",
+      "time": 1788445098,
+      "translated": false
+    },
+    {
+      "author_name": "Gudrun Venus",
+      "author_url": "https://www.google.com/maps/contrib/108292671001964042217/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhpMAZhP_0oezaudSPPBzvGqwBNlBg-4ZISyenvZ2X5pYOpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Praxispersonal ist überaus freundlich, die Praxis ist modern und hell, die Ärztin war sehr nett und es wurde einem Alles in Ruhe erklärt.\nDie Wartezeit betrug bei allen meinenTerminen 0 Minuten, sensationell.",
+      "time": 1788427050,
+      "translated": false
+    },
+    {
       "author_name": "Ulrike Dölle",
       "author_url": "https://www.google.com/maps/contrib/111668513651719915377/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9OIEYG_vaLy5ZBt7N4_v2EidzhFqUOC41YCKdWLLjnBuFCw0=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ähnlich, wie eine Bewertung vor mir, habe ich bei meinem Ersttermin eine chronisch venöse Insuffizienz und Stammvarikose diagnostiziert bekommen. Mit der Empfehlung Kompressionsstrümpfe täglich zu tragen und mich in einem Jahr wieder vorzustelle. Nachdem ich mir eine Zweit- und drittmeinung in einer anderen Praxis und einer Klinik einholte, wurde jedoch festgestellt, dass ich keinerlei Probleme mit meinen Venen habe und demnach auch keinen Eingriff und keine Kompressionsstrümpfe benötige.  Sehr eigenartig🤔",
+      "time": 1787743531,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrike Dölle",
+      "author_url": "https://www.google.com/maps/contrib/111668513651719915377/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9OIEYG_vaLy5ZBt7N4_v2EidzhFqUOC41YCKdWLLjnBuFCw0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ähnlich, wie eine Bewertung vor mir, habe ich bei meinem Ersttermin eine chronisch venöse Insuffizienz und Stammvarikose diagnostiziert bekommen. Mit der Empfehlung Kompressionsstrümpfe täglich zu tragen und mich in einem Jahr wieder vorzustelle. Nachdem ich mir eine Zweit- und drittmeinung in einer anderen Praxis und einer Klinik einholte, wurde jedoch festgestellt, dass ich keinerlei Probleme mit meinen Venen habe und demnach auch keinen Eingriff und keine Kompressionsstrümpfe benötige.  Sehr eigenartig🤔",
       "time": 1787743531,
       "translated": false
@@ -80,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKD9AmGdDZ898XiEF2-QhDAobX6f3VdtKVtbYhymzHS2b72Has=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Das unwichtigste zuerst - eine tolle Aussicht ( 14. OG) . Super netter Emfang. Der Arzt hat alles super und einfach erklärt. Kann ich nur empfehlen. Ich war wegen meinen Venen da.",
+      "time": 1786460719,
+      "translated": false
+    },
+    {
+      "author_name": "Katharina Weber",
+      "author_url": "https://www.google.com/maps/contrib/102232609131520862274/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKD9AmGdDZ898XiEF2-QhDAobX6f3VdtKVtbYhymzHS2b72Has=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Das unwichtigste zuerst - eine tolle Aussicht ( 14. OG) . Super netter Emfang. Der Arzt hat alles super und einfach erklärt. Kann ich nur empfehlen. Ich war wegen meinen Venen da.",
       "time": 1786460719,
       "translated": false
@@ -1133,8 +1181,8 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 150,
+  "rating": 4.7,
+  "reviewCount": 152,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:16.102Z"
+  "lastUpdated": "2026-09-04T09:19:02.248Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel Olk",
+      "author_url": "https://www.google.com/maps/contrib/114869659343682404654/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqa0EmEf4_RoicpPq_4DgJKbuedSaZbhDS2irsdDjEb7r3jg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788419574,
+      "translated": false
+    },
+    {
       "author_name": "Schusi 64-94",
       "author_url": "https://www.google.com/maps/contrib/107830871585651657996/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHAVOj6WtuEhL_IpBGFbkG6irxL6tOZIg2K4d8FlS3OvCFe34H=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Gutgeführte Praxis und ich habe mich in kompeter Händen befunden.",
+      "time": 1787840800,
+      "translated": false
+    },
+    {
+      "author_name": "Schusi 64-94",
+      "author_url": "https://www.google.com/maps/contrib/107830871585651657996/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHAVOj6WtuEhL_IpBGFbkG6irxL6tOZIg2K4d8FlS3OvCFe34H=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Gutgeführte Praxis und ich habe mich in kompeter Händen befunden.",
       "time": 1787840800,
       "translated": false
@@ -56,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQYcVJ5wecTX_K7DwZ6C3PZ9nfw1Qii58psQayFY_YYbKEC8=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ein sehr sympathischer junger Arzt der zusammen mit seinem Vater die Praxis betreibt. Dr. Veit jun. ist fachlich sehr kompetent und gründlich. Dr. Veit sen. ist aus vergangenen Jahren bekannt und geschätzt.",
+      "time": 1786461312,
+      "translated": false
+    },
+    {
+      "author_name": "Gaby",
+      "author_url": "https://www.google.com/maps/contrib/107595053606798544546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQYcVJ5wecTX_K7DwZ6C3PZ9nfw1Qii58psQayFY_YYbKEC8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ein sehr sympathischer junger Arzt der zusammen mit seinem Vater die Praxis betreibt. Dr. Veit jun. ist fachlich sehr kompetent und gründlich. Dr. Veit sen. ist aus vergangenen Jahren bekannt und geschätzt.",
       "time": 1786461312,
       "translated": false
@@ -692,11 +726,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 51,
+  "reviewCount": 52,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:59.128Z"
+  "lastUpdated": "2026-09-04T09:19:47.317Z"
 }

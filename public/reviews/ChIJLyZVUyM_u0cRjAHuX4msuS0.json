@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "depeche 77",
+      "author_url": "https://www.google.com/maps/contrib/117318064138633727577/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhry39sysu4zK3jvXDtoNGRgwwYwaYzVxE1tJHRCR9UCholA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Lölkes ist eine super liebe und sehr kompetente Ärztin. Nimmt sich Zeit erklärt alles sehr genau und hat mich operiert. Es ist alles top gelaufen und ich kann diese Ärztin nur jedem weiterempfehlen. Vielen Dank für die immer wieder sehr gute Behandlung. Ein großes Lob an das immer freundliche ganze Team.",
+      "time": 1788459739,
+      "translated": false
+    },
+    {
       "author_name": "Klaus Kollmann",
       "author_url": "https://www.google.com/maps/contrib/109878949507616853030/reviews",
       "language": "de",
@@ -672,11 +684,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 72,
+  "reviewCount": 73,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:40.951Z"
+  "lastUpdated": "2026-09-04T09:19:28.603Z"
 }

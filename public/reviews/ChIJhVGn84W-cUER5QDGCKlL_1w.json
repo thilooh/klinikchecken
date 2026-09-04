@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Irene Kühl",
+      "author_url": "https://www.google.com/maps/contrib/117551128286007403539/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT1EuAUySzOvKeNye6sdc72aVDUN7ECd0_8D6nrzGNQREpbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war mit meiner Mutter dort um den Verdacht auf ein Lymphödem zu klären nach einer Brustkrebserkrankung. Allerdings wurden wir vom Arzt ohne Untersuchung wieder weg geschickt mit den Worten, dass sich das Krankenhaus darum kümmern solle, das den Krebs behandelt hat.\nEmpathie und Hilfsbereitschaft sucht man hier vergebens",
+      "time": 1787765560,
+      "translated": false
+    },
+    {
       "author_name": "Canan Otten",
       "author_url": "https://www.google.com/maps/contrib/115452987487588066105/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnTBdeFteE8FwcGeqziDeEyFK7jtJC8d5Rc0vjNS6VP_FvZA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Erstmal möchte ich mich herzlich beim Team sowohl bei dem kompetenten Doktor bedanken.\nIch habe mich auf anhieb in der Praxis,sowohl beim Beratung und Untersuchung sehr wohl gefühlt.\nHerr Doktor Sabe ist ein sehr kompetenter, feinfühliger Arzt mit einem sehr umfangreichen Fachwissen in seinem Gebiet. Dank Ihm habe ich endlich die Klarheit weswegen ich Jahre lange Schmerzen hatte, während andere Ärzte einen nicht ernst nehmen, und vertröstend mit Medikamenten nach Hause schicken, hat Herr Doktor Sabe mit einem Gespräch/Ultraschall/weitere Untersuchung die Ursachen und Herkunft meiner Beschwerden erkannt. Ich bin unendlich dankbar dass es solche Kompetente Ärzte gibt die Ihre Arbeit mit Herz durchführen. Ich kann den Herr Doktor Sabe sehr Empfehlen. Dankeschön für alles an das gesamte Team",
+      "time": 1787222043,
+      "translated": false
+    },
+    {
+      "author_name": "Canan Otten",
+      "author_url": "https://www.google.com/maps/contrib/115452987487588066105/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnTBdeFteE8FwcGeqziDeEyFK7jtJC8d5Rc0vjNS6VP_FvZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Erstmal möchte ich mich herzlich beim Team sowohl bei dem kompetenten Doktor bedanken.\nIch habe mich auf anhieb in der Praxis,sowohl beim Beratung und Untersuchung sehr wohl gefühlt.\nHerr Doktor Sabe ist ein sehr kompetenter, feinfühliger Arzt mit einem sehr umfangreichen Fachwissen in seinem Gebiet. Dank Ihm habe ich endlich die Klarheit weswegen ich Jahre lange Schmerzen hatte, während andere Ärzte einen nicht ernst nehmen, und vertröstend mit Medikamenten nach Hause schicken, hat Herr Doktor Sabe mit einem Gespräch/Ultraschall/weitere Untersuchung die Ursachen und Herkunft meiner Beschwerden erkannt. Ich bin unendlich dankbar dass es solche Kompetente Ärzte gibt die Ihre Arbeit mit Herz durchführen. Ich kann den Herr Doktor Sabe sehr Empfehlen. Dankeschön für alles an das gesamte Team",
       "time": 1787222043,
       "translated": false
@@ -122,6 +146,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTTV-zDWfU_i06iK_eYdD9wiyb62w94K5JQk_gmsCW8zpx3mzY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war bei Herrn Dr. Shadi Sabi und bin sehr zufrieden. Die Mitarbeiterinnen sind sehr freundlich und hilfsbereit. Die Wartezeit war sehr kurz und die Praxis ist sehr sauber und gepflegt. Auch die Behandlung war sehr angenehm und professionell. Ich habe mich gut aufgehoben gefühlt und kann die Praxis auf jeden Fall weiterempfehlen. Vielen Dank",
+      "time": 1786623869,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammed Twir",
+      "author_url": "https://www.google.com/maps/contrib/105274941353886036937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTTV-zDWfU_i06iK_eYdD9wiyb62w94K5JQk_gmsCW8zpx3mzY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war bei Herrn Dr. Shadi Sabi und bin sehr zufrieden. Die Mitarbeiterinnen sind sehr freundlich und hilfsbereit. Die Wartezeit war sehr kurz und die Praxis ist sehr sauber und gepflegt. Auch die Behandlung war sehr angenehm und professionell. Ich habe mich gut aufgehoben gefühlt und kann die Praxis auf jeden Fall weiterempfehlen. Vielen Dank",
       "time": 1786623869,
       "translated": false
@@ -817,12 +853,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 83,
+  "rating": 4.8,
+  "reviewCount": 84,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:43.192Z"
+  "lastUpdated": "2026-09-04T09:19:30.861Z"
 }

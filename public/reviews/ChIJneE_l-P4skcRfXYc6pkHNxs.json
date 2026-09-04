@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "last unicorn",
+      "author_url": "https://www.google.com/maps/contrib/102747090978984011154/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINMveY3ByHyXr6iRnpbra2n0V2Z_WWe73MT0qLN--Ag6xZyA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788379862,
+      "translated": false
+    },
+    {
       "author_name": "Jörg Weimer",
       "author_url": "https://www.google.com/maps/contrib/110766755861310922626/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJx9qY2fVjmCcwJLEmBA7itKTtp_lhr7SjJQus6D3QNiJX0bQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -114,6 +124,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxmPU_R3qsvAevX2wRp6bpv-4Rblhaw3xzvCLrEWR1kjeA01dK=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Wurde sehr respektlos behandelt und einfach abgewimmelt ohne dass meine Probleme in irgendeiner Form ernst genommen wurden.\nNie wieder!",
+      "time": 1785784496,
+      "translated": false
+    },
+    {
+      "author_name": "Finn",
+      "author_url": "https://www.google.com/maps/contrib/113889511586300810554/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxmPU_R3qsvAevX2wRp6bpv-4Rblhaw3xzvCLrEWR1kjeA01dK=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Wurde sehr respektlos behandelt und einfach abgewimmelt ohne dass meine Probleme in irgendeiner Form ernst genommen wurden.\nNie wieder!",
       "time": 1785784496,
       "translated": false
@@ -852,11 +874,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 104,
+  "reviewCount": 105,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:23.847Z"
+  "lastUpdated": "2026-09-04T09:19:10.176Z"
 }

@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Lorenz",
+      "author_url": "https://www.google.com/maps/contrib/108429370701222148215/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQXGIym71ZBVijMbkcE7GXN8mPg5YJ7HviyT4G9_FPMxPZQi4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termin innerhalb eines Tages, sehr gut organisierte Praxis, kompetente und freundliche Ärzteschaft. Was will man als Patient mehr?",
+      "time": 1788512148,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Acker",
+      "author_url": "https://www.google.com/maps/contrib/118146203845065627717/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlF4BtIya4nWSLtsKxzvGxT6feR1-Bm7IeFXCibL3AfzxJIA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Update 04.09.26: Ich war zur Vorsorge bei Dr. Haase. Auch hier gibt es keinen Grund zur Klage. Alle Mitarbeitenden sehr freundlich und natürlich. Organisatorisch war alles top.\n\nAlles bestens. Termin online gebucht, Wunschtermin bekommen. Die Damen am Empfang waren alle sehr natürlich und freundlich. Auch Prof. Krengel empfinde ich als sehr nett, nicht gestresst, kompetent.",
+      "time": 1788492332,
+      "translated": false
+    },
+    {
+      "author_name": "Karsten Kurth-Deutschmann",
+      "author_url": "https://www.google.com/maps/contrib/106611648110897056592/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbfruDnOK248m6yAN0ltVz41NukArjTKt8jy9P09DcAWDYIdnliA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war nun schon mehrfach in der Praxis und habe nur positive Erfahrungen gemacht!",
+      "time": 1788408933,
+      "translated": false
+    },
+    {
+      "author_name": "Saskia von Rein",
+      "author_url": "https://www.google.com/maps/contrib/114325841345643994914/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLllQnksnyHDlDJJCkXl9OgOYkWHo7XYF73xjrTLQlnvY0UbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe online sehr kurzfristig einen Termin für meinen Sohn bei Frau Dr. Haase bekommen und war vollkommen zufrieden.\nHelle, sehr Moderne Räumlichkeiten und Frau Dr. Haase war sehr sympathisch und empathisch meinem Sohn und mir gegenüber.",
+      "time": 1788350480,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Lucas",
+      "author_url": "https://www.google.com/maps/contrib/110165088163688427255/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVEFjquXQMBov-ubdRePbVqzutrHY1MckkExNA8w3MOZtgbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist sehr ansprechend. Das Personal ist sehr freundlich .Bei Fr.Dr.Haase habe ich mich sehr wohl gefühlt,Sie hat mein Problem gleich erkannt und behandelt.Ich komme gerne wieder",
+      "time": 1788339084,
+      "translated": false
+    },
+    {
       "author_name": "Sylvia Ahrens",
       "author_url": "https://www.google.com/maps/contrib/103996761230549549342/reviews",
       "language": "de",
@@ -1706,11 +1766,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2376,
+  "reviewCount": 2379,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-01T09:44:25.788Z"
+  "lastUpdated": "2026-09-04T09:19:12.210Z"
 }

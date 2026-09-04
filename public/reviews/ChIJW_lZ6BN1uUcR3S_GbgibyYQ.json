@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Luca Bilbang",
+      "author_url": "https://www.google.com/maps/contrib/115096672725004632082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk1pZ99D88dD58HThqHfG7ESny5avEmMAfJAPraoFJxJ2Bhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788356540,
+      "translated": false
+    },
+    {
       "author_name": "H. L.",
       "author_url": "https://www.google.com/maps/contrib/114973531352983727614/reviews",
       "language": "de",
@@ -25,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Niko Degen",
+      "author_url": "https://www.google.com/maps/contrib/105381979671612139205/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNzOLsGEKFc5LVGu0j-B67CEeVnefbQIEO4G2iU6qygwoZBeE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr unfreundliche Damen am 26.08.26 am Empfang!\nKann diese Praxis nicht weiterempfehlen und werde dort Zukünftig keine Termine mehr vereinbaren.",
+      "time": 1787737269,
+      "translated": false
+    },
+    {
       "author_name": "Chris Schunck",
       "author_url": "https://www.google.com/maps/contrib/114676633546155901183/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7LWyq81rt7Z4EgCbZp9ZVg92FjL646au3OAJ4ARO6kCfIr1RtCw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -40,6 +62,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7LWyq81rt7Z4EgCbZp9ZVg92FjL646au3OAJ4ARO6kCfIr1RtCw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1787073557,
+      "translated": false
+    },
+    {
+      "author_name": "Chris Schunck",
+      "author_url": "https://www.google.com/maps/contrib/114676633546155901183/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7LWyq81rt7Z4EgCbZp9ZVg92FjL646au3OAJ4ARO6kCfIr1RtCw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1787073557,
       "translated": false
@@ -1240,11 +1272,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:47.021Z"
+  "lastUpdated": "2026-09-04T09:19:34.814Z"
 }

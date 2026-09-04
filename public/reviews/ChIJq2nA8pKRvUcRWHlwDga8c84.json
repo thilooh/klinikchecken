@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Katharina Huber",
+      "author_url": "https://www.google.com/maps/contrib/100803435001842765782/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzZ1a40RCjPIPsTITLB7upOkbOVyAuK_y-63oIukqAzquFUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist modern und top organisiert, man wartet nicht lange und das Team ist sehr professionell. Beim Hautkrebsscreening bzw. Bodyscan (Fotos ohne Kleidung) das von Herrn Weber durchgeführt wird, habe ich mich zu keiner Zeit unwohl gefühlt (ist besonders als Frau vielleicht erwähnenswert). Frau Schilling, die anschließend nochmal genau geschaut hat ist auch sehr gründlich und freundlich. Ich war bisher zweimal dort und kann die Praxis nur empfehlen.",
+      "time": 1788507758,
+      "translated": false
+    },
+    {
+      "author_name": "Ralf Worster",
+      "author_url": "https://www.google.com/maps/contrib/111711998457887751150/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIS2VTUm3Ft4tflM_EW8DbU6oOn3v24E6Dp6Et1QoldRRYbxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top-Praxis, sehr modern und auf dem neuesten Stand. Die Damen an den beiden Anmeldungen ( Haus 20 und 22 )\nwaren sehr freundlich und hilfsbereit.\nDie Betreuung von Herrn Weber beim Fotoscreening war sehr gut. Da diese Untersuchung mit Sicherheit nicht das angenehmste ist, macht er sie mit seiner ruhigen, besonnenen Art doch zu einer ganz normalen Sache.\nFrau Dr.  Henning, die die weitergehenden Untersuchungen durchgeführt hat, war äusserst gründlich und untersuchte bis ins kleinste Detail. Sie erläuterte alles auch sehr genau und verständlich.\nIch kann die Praxis in jeder Hinsicht  weiterempfehlen.\nMan ist dort sehr gut aufgehoben.",
+      "time": 1788274525,
+      "translated": false
+    },
+    {
       "author_name": "Kirsten Alexandra",
       "author_url": "https://www.google.com/maps/contrib/117184379014770298710/reviews",
       "language": "de",
@@ -1350,11 +1374,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 326,
+  "reviewCount": 329,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:40.208Z"
+  "lastUpdated": "2026-09-04T09:19:27.817Z"
 }

@@ -23,11 +23,31 @@
       "translated": false
     },
     {
+      "author_name": "Ahmad Elhaj",
+      "author_url": "https://www.google.com/maps/contrib/108423963126347514736/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKD9qcq7sxwpesJmq2H7uEz1vr53cqwSBuwTnNWrmpyt9tBNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1787773966,
+      "translated": false
+    },
+    {
       "author_name": "Katzennetz Experte",
       "author_url": "https://www.google.com/maps/contrib/108012863100287447852/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwYqFtwaRFsPMGlT4bOahlSf8E2XnG_zxqdu4HDu6zFuvJg64G=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1787730397,
+      "translated": false
+    },
+    {
+      "author_name": "Katzennetz Experte",
+      "author_url": "https://www.google.com/maps/contrib/108012863100287447852/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwYqFtwaRFsPMGlT4bOahlSf8E2XnG_zxqdu4HDu6zFuvJg64G=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1787730397,
       "translated": false
@@ -100,6 +120,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwXETQG3E7eC6valy7v4A8EfTWfwluI6FXAHR7HLyIBaX3dA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Service konnte mir nicht weiterhelfen. Keine gute Erfahrung, dass gehört dazu...",
+      "time": 1786624391,
+      "translated": false
+    },
+    {
+      "author_name": "Marie Vossem",
+      "author_url": "https://www.google.com/maps/contrib/101645219845293689547/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwXETQG3E7eC6valy7v4A8EfTWfwluI6FXAHR7HLyIBaX3dA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Service konnte mir nicht weiterhelfen. Keine gute Erfahrung, dass gehört dazu...",
       "time": 1786624391,
       "translated": false
@@ -1253,5 +1285,5 @@
   "rating": 4.8,
   "reviewCount": 384,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:12.918Z"
+  "lastUpdated": "2026-09-04T09:18:58.501Z"
 }

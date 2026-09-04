@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Merve Uyar",
+      "author_url": "https://www.google.com/maps/contrib/112426315711309828158/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg2vLpFYaS1-wgVLVwxcTl7455e71ZvL4TKZtbU3PCqF_4LyhN=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788456775,
+      "translated": false
+    },
+    {
       "author_name": "hamo jan0",
       "author_url": "https://www.google.com/maps/contrib/100855092505260882546/reviews",
       "language": "de",
@@ -1068,5 +1078,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-01T09:44:34.561Z"
+  "lastUpdated": "2026-09-04T09:19:21.526Z"
 }

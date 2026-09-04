@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bärbel Klug",
+      "author_url": "https://www.google.com/maps/contrib/107685995704904830562/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLISsyygL_3RSaoi0dHtun9_7riW_LcaxfpVg6MyfdCZRLPkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte mich von Herzen bei dem gesamten Team der Venen-Clinic Bad Neuenahr bedanken. Vom ersten Moment an habe ich mich sehr gut aufgehoben und bestens betreut gefühlt.\n\nDas Personal war ausnahmslos freundlich, hilfsbereit und einfühlsam. Die Ärzte haben sich viel Zeit genommen und mich vor der Operation sehr ausführlich und verständlich aufgeklärt. Ein besonderer Dank gilt der lieben Nachtschwester sowie dem gesamten Schwesternteam, das sich jederzeit fürsorglich um mich gekümmert hat.\n\nAuch das Personal im Restaurant war ausgesprochen nett und aufmerksam. Hier stimmt einfach alles – Menschlichkeit, Freundlichkeit und eine hervorragende medizinische Betreuung.\n\nVielen lieben Dank an das gesamte Team! Ich kann die Venen-Clinic uneingeschränkt weiterempfehlen und würde jederzeit wiederkommen.",
+      "time": 1788293724,
+      "translated": false
+    },
+    {
       "author_name": "Leszek Guszczak",
       "author_url": "https://www.google.com/maps/contrib/112146715665739190418/reviews",
       "language": "de",
@@ -188,6 +200,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnu8gvthjtP0VWlrb3WYi3O6KFY-H2cYT8rbwfNgEbQAhDB1cZEg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Ich möchte mich herzlich beim gesamten Team des medizinischen Zentrums bedanken. Von der Aufnahme bis zur Nachsorge habe ich eine äußerst professionelle, freundliche und fürsorgliche Betreuung erfahren. Die Operation verlief hervorragend, und ich habe mich jederzeit in sicheren Händen gefühlt. Ein großes Dankeschön an die Ärzte, das Pflegepersonal und alle Mitarbeiter für ihre Menschlichkeit, Kompetenz und ihren respektvollen Umgang. Dieses medizinische Zentrum kann ich mit voller Überzeugung weiterempfehlen. Vielen Dank!",
+      "time": 1780571187,
+      "translated": false
+    },
+    {
+      "author_name": "emad al_salameh",
+      "author_url": "https://www.google.com/maps/contrib/114651680730169764247/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnu8gvthjtP0VWlrb3WYi3O6KFY-H2cYT8rbwfNgEbQAhDB1cZEg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Ich möchte mich herzlich beim gesamten Team des medizinischen Zentrums bedanken. Von der Aufnahme bis zur Nachsorge habe ich eine äußerst professionelle, freundliche und fürsorgliche Betreuung erfahren. Die Operation verlief hervorragend, und ich habe mich jederzeit in sicheren Händen gefühlt. Ein großes Dankeschön an die Ärzte, das Pflegepersonal und alle Mitarbeiter für ihre Menschlichkeit, Kompetenz und ihren respektvollen Umgang. Dieses medizinische Zentrum kann ich mit voller Überzeugung weiterempfehlen. Vielen Dank!",
       "time": 1780571187,
       "translated": false
@@ -710,11 +734,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 171,
+  "reviewCount": 172,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-01T09:44:26.529Z"
+  "lastUpdated": "2026-09-04T09:19:12.998Z"
 }

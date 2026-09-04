@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Carolin Dürkop",
+      "author_url": "https://www.google.com/maps/contrib/104900605042443126109/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4q9v5ixC1aqc0ZZ6WMnbpb5s_iFZSX45eUq-AZcYqrsAw-g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788328343,
+      "translated": false
+    },
+    {
       "author_name": "Touya Dan",
       "author_url": "https://www.google.com/maps/contrib/105764783199589684594/reviews",
       "language": "de",
@@ -13,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Touya Dan",
+      "author_url": "https://www.google.com/maps/contrib/105764783199589684594/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBj4XsQ_TOp7A4goXZnSpwI1-QPiqdOUqNqcTDMGbmAddp8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Personal sehr unfreundlich.\nGenerell nicht zu empfehlen Preise werden da gewürfelt🤷‍♂️",
+      "time": 1787813808,
+      "translated": false
+    },
+    {
       "author_name": "Bine Oetting",
       "author_url": "https://www.google.com/maps/contrib/117213893134681977092/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3r2kUiry1fRsm5sDOGIEARDXiMnWast6rHguE5YIPo18g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr netter kompetenter Arzt, sehr nette Arzthelferin, sehr kurze Wartezeit! Absolut empfehlenswert!!",
+      "time": 1787674329,
+      "translated": false
+    },
+    {
+      "author_name": "Bine Oetting",
+      "author_url": "https://www.google.com/maps/contrib/117213893134681977092/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3r2kUiry1fRsm5sDOGIEARDXiMnWast6rHguE5YIPo18g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr netter kompetenter Arzt, sehr nette Arzthelferin, sehr kurze Wartezeit! Absolut empfehlenswert!!",
       "time": 1787674329,
       "translated": false
@@ -70,6 +104,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwE6sFZR24gFPZEo645_JEsN7DaaKBwx4dD8ckU7UPUBecnw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1785746377,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen Hohl",
+      "author_url": "https://www.google.com/maps/contrib/117486686014220711177/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwE6sFZR24gFPZEo645_JEsN7DaaKBwx4dD8ckU7UPUBecnw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1785746377,
       "translated": false
@@ -796,5 +840,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:23.109Z"
+  "lastUpdated": "2026-09-04T09:19:09.435Z"
 }

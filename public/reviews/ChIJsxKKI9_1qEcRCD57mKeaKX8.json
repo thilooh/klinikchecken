@@ -61,6 +61,16 @@
       "translated": false
     },
     {
+      "author_name": "Nils Gröndahl",
+      "author_url": "https://www.google.com/maps/contrib/116500983441517199544/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsy6yktY-fPhF55rp-0HQP-9Za5g4xmXtTxvShbwM6Y1DqAg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1786020887,
+      "translated": false
+    },
+    {
       "author_name": "Jeannine Bülow",
       "author_url": "https://www.google.com/maps/contrib/101991120833336994002/reviews",
       "language": "de",
@@ -104,6 +114,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWy0bizfoM2A00ckPmm5kQPbpeAtCHh9OHL78IB5hsAVJy4zF97=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Frau Dr. Vogel ist super. Danke",
+      "time": 1785910229,
+      "translated": false
+    },
+    {
+      "author_name": "Jeannine Bülow",
+      "author_url": "https://www.google.com/maps/contrib/101991120833336994002/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWy0bizfoM2A00ckPmm5kQPbpeAtCHh9OHL78IB5hsAVJy4zF97=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Frau Dr. Vogel ist super. Danke",
       "time": 1785910229,
       "translated": false
@@ -716,5 +738,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:38.991Z"
+  "lastUpdated": "2026-09-04T09:19:26.514Z"
 }

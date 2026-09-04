@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Ivett Perlaky",
+      "author_url": "https://www.google.com/maps/contrib/107731846841108127476/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjBerhHy12S1C61emJq0F-Wy-Z-mHpZ0cxmE8Fc3Eo0KW1QTeFBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde in dieser Arztpraxis operiert und bin wirklich sehr zufrieden. Von Anfang an wurde ich sehr freundlich und kompetent betreut und ausführlich über den Eingriff aufgeklärt. Die Operation selbst verlief sehr gut und ich hatte dabei überhaupt keine Schmerzen. Auch die Betreuung vor und nach der OP war hervorragend. Ich habe mich jederzeit gut aufgehoben und sicher gefühlt. Vielen Dank an das gesamte Team für die tolle Betreuung! Ich kann die Praxis auf jeden Fall weiterempfehlen.",
+      "time": 1788422147,
+      "translated": false
+    },
+    {
+      "author_name": "Denizcan Uygun",
+      "author_url": "https://www.google.com/maps/contrib/105671231901201322541/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyMyANlgAyhzay-hV7GvmFQsCO047H9kd4FpxoCyEoIhXRcyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meiner Operation und der gesamten Betreuung sehr zufrieden. Das Team war von Anfang an freundlich, kompetent und sehr einfühlsam. Die OP verlief problemlos und ich habe mich jederzeit bestens aufgehoben gefühlt. Vielen Dank an das gesamte Team – absolut empfehlenswert!",
+      "time": 1788266820,
+      "translated": false
+    },
+    {
       "author_name": "so bin ich immer",
       "author_url": "https://www.google.com/maps/contrib/110381338777948671738/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp16b5oLc6JimeS9AvG0-bM2MCWPfyq-zWcX4nvhp4-xrNX7GF=s128-c0x00000000-cc-rp-mo-ba4",
@@ -16,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp16b5oLc6JimeS9AvG0-bM2MCWPfyq-zWcX4nvhp4-xrNX7GF=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1787135849,
+      "translated": false
+    },
+    {
+      "author_name": "so bin ich immer",
+      "author_url": "https://www.google.com/maps/contrib/110381338777948671738/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp16b5oLc6JimeS9AvG0-bM2MCWPfyq-zWcX4nvhp4-xrNX7GF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1787135849,
       "translated": false
@@ -46,6 +80,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiPR8ELOrF51tKnCvTQ30r1nn1d6eFv-rkkohKT9gKsPePPA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1786603246,
+      "translated": false
+    },
+    {
+      "author_name": "Pascal B",
+      "author_url": "https://www.google.com/maps/contrib/101601911458120436723/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiPR8ELOrF51tKnCvTQ30r1nn1d6eFv-rkkohKT9gKsPePPA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1786603246,
       "translated": false
@@ -94,6 +138,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4h8Fi5S5CG5qzIT6slHJF_fcom8nSS3fHziy7UEEfVEhg6w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich, angstpatient wurde von Dr. Szabo behandelt und ich muss sagen das er wirklich ein Top arzt ist aber seine Frau ist ein Engel 🤩 ich danke euch nochmal das ihr euch so um mich gekümmert habt.",
+      "time": 1785851047,
+      "translated": false
+    },
+    {
+      "author_name": "Giuliana Nisi",
+      "author_url": "https://www.google.com/maps/contrib/104180194885893926241/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4h8Fi5S5CG5qzIT6slHJF_fcom8nSS3fHziy7UEEfVEhg6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich, angstpatient wurde von Dr. Szabo behandelt und ich muss sagen das er wirklich ein Top arzt ist aber seine Frau ist ein Engel 🤩 ich danke euch nochmal das ihr euch so um mich gekümmert habt.",
       "time": 1785851047,
       "translated": false
@@ -912,11 +968,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 221,
+  "reviewCount": 223,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-01T09:44:30.200Z"
+  "lastUpdated": "2026-09-04T09:19:16.855Z"
 }

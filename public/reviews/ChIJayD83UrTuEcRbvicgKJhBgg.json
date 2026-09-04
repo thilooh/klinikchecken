@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Sina Waldorf",
+      "author_url": "https://www.google.com/maps/contrib/108306047584968000625/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI3azGteg5eh7Yhto9o6lt0gIrRhZIk3ealYNtC76CyiHS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1787722577,
+      "translated": false
+    },
+    {
       "author_name": "Monika Probst",
       "author_url": "https://www.google.com/maps/contrib/106782735690037329403/reviews",
       "language": "de",
@@ -30,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFYVQ4QlpkeMUqd1BCdVG0GwQTY9uRCV4d3ucsj2WueoXyUQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Netter Arzt",
+      "time": 1787076767,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Probst",
+      "author_url": "https://www.google.com/maps/contrib/106782735690037329403/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFYVQ4QlpkeMUqd1BCdVG0GwQTY9uRCV4d3ucsj2WueoXyUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Netter Arzt",
       "time": 1787076767,
       "translated": false
@@ -1116,5 +1138,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-01T09:44:50.466Z"
+  "lastUpdated": "2026-09-04T09:19:38.344Z"
 }

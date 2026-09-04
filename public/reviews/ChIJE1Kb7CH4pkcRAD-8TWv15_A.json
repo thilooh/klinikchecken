@@ -33,6 +33,16 @@
       "translated": false
     },
     {
+      "author_name": "TheSkyHai",
+      "author_url": "https://www.google.com/maps/contrib/116546298399953512170/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgwgusmygSy-5tcsF-h_BBxlWRmkbN0aB2wAlUsewkIoCBug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1787163878,
+      "translated": false
+    },
+    {
       "author_name": "Petra",
       "author_url": "https://www.google.com/maps/contrib/110925330810781984371/reviews",
       "language": "de",
@@ -148,6 +158,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdwJYVnPuqxiWQoXhwT6fOKHKnoscikKClWkitJ_6FhebbGg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 7 Monaten",
+      "text": "Ich wünsche dem gesamten Team ein gesundes neues Jahr 🍀 und möchte mich hiermit auch ganz herzlich für die sehr gute Betreuung/Beratung/Behandlung bedanken. Sehr gerne werde ich diese Praxis weiterempfehlen 🥰 Liebe Grüße J. Taric",
+      "time": 1767528789,
+      "translated": false
+    },
+    {
+      "author_name": "Jeannette Taric",
+      "author_url": "https://www.google.com/maps/contrib/112434225504348983295/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdwJYVnPuqxiWQoXhwT6fOKHKnoscikKClWkitJ_6FhebbGg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 8 Monaten",
       "text": "Ich wünsche dem gesamten Team ein gesundes neues Jahr 🍀 und möchte mich hiermit auch ganz herzlich für die sehr gute Betreuung/Beratung/Behandlung bedanken. Sehr gerne werde ich diese Praxis weiterempfehlen 🥰 Liebe Grüße J. Taric",
       "time": 1767528789,
       "translated": false
@@ -336,5 +358,5 @@
   "rating": 4.9,
   "reviewCount": 66,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:19.064Z"
+  "lastUpdated": "2026-09-04T09:19:05.373Z"
 }

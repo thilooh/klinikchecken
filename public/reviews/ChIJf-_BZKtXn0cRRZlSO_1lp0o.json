@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Madalina Hohenegger",
+      "author_url": "https://www.google.com/maps/contrib/109090309731730931242/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAQMEsPYNKi3fbWj-i-AHenmUNWJiBSR9XtmJXNoHKjNFaIfs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788467633,
+      "translated": false
+    },
+    {
+      "author_name": "Evelyn Hellmuth",
+      "author_url": "https://www.google.com/maps/contrib/102080252063712391597/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbpnNLDUkdUb2Lihp0JUpW6UKT3ZopS0rOH8_gKwjNddTDQg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war überrascht, wie schnell und reibungslos alles funktioniert hat. Parkplätze sind vorhanden, mein Termin war um 12 Uhr und ich wurde innerhalb  von 5 Minuten aufgerufen. Abfrage zum Anliegen und ärztliche Untersuchung war gut.",
+      "time": 1788460536,
+      "translated": false
+    },
+    {
       "author_name": "Johanna Baer",
       "author_url": "https://www.google.com/maps/contrib/117984391109776546924/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYz8mPR3DHitC-txOIpRUfEbgZ4qqadJbtsR02WUBlw03OTQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Leider wurde ich mit meinen Beschwerden von Fr Dr. L. überhaupt nicht ernstgenommen. Ich wurde sogar gefragt ob ich in der Sprechstunde bin weil die Krankenkassen eine Bezuschussung für eine liposuction bei lipödem anbieten.",
+      "time": 1785845542,
+      "translated": false
+    },
+    {
+      "author_name": "Johanna Baer",
+      "author_url": "https://www.google.com/maps/contrib/117984391109776546924/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYz8mPR3DHitC-txOIpRUfEbgZ4qqadJbtsR02WUBlw03OTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Leider wurde ich mit meinen Beschwerden von Fr Dr. L. überhaupt nicht ernstgenommen. Ich wurde sogar gefragt ob ich in der Sprechstunde bin weil die Krankenkassen eine Bezuschussung für eine liposuction bei lipödem anbieten.",
       "time": 1785845542,
       "translated": false
@@ -553,8 +587,8 @@
       "translated": false
     }
   ],
-  "rating": 3.1,
-  "reviewCount": 46,
+  "rating": 3.2,
+  "reviewCount": 48,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:20.093Z"
+  "lastUpdated": "2026-09-04T09:19:06.403Z"
 }

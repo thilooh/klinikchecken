@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Hanieh Chenari",
+      "author_url": "https://www.google.com/maps/contrib/111783218777956783583/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9K_YQ6NNpQzXtw8T3AzRoQ336SuBlKbsrX7IkF07GteRDjaZJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788361795,
+      "translated": false
+    },
+    {
+      "author_name": "M O",
+      "author_url": "https://www.google.com/maps/contrib/114428303949521179670/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk3BOeMEYT8XFSi4Af3ybLUsueivFs6pL5C78HlaPDfY8OcNY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Terminvereinbarung wird nicht eingehalten. Und vor Ort war die Erfahrung leider nur ein Stern.",
+      "time": 1788342854,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah S",
+      "author_url": "https://www.google.com/maps/contrib/117107118813999340009/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHV1vd_vuED9MvijlQ6m8nJrvvHgQfhmkilZ9okHLwG9at6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider eine extrem enttäuschende Erfahrung. Ich hatte vor Wochen telefonisch einen Termin für die Venensprechstunde vereinbart und mir dafür extra auf der Arbeit freigenommen. Vor Ort habe ich mich für meinen Termin um 10:15 Uhr regulär am Empfang angemeldet und insgesamt knapp 45 Minuten gewartet, bis ich aufgerufen wurde.\nErst als ich bereits im Behandlungszimmer saß und die Arzthelferinnen meine Beschwerden aufgenommen hatten, hieß es nach einer Rücksprache mit der zuständigen Ärztin plötzlich, mein Termin sei angeblich erst für nächste Woche eingetragen. Dies ist faktisch ausgeschlossen, da ich nächste Woche im Urlaub bin und den Termin genau deshalb für den heutigen Tag in meinem Kalender notiert hatte. Ebenso wurde bei der Anmeldung von der Mitarbeiterin explizit erwähnt, dass meine Venensprechstunde von der Kasse übernommen wird, obwohl ich den Grund meines Termins am Empfang noch gar nicht genannt hatte. Sprich: Es war laut System völlig klar, weshalb ich heute in der Praxis war.\nDas Unverständlichste daran: Der Dame am Empfang fiel dieser angebliche Fehler bei der Registrierung und beim Einlesen meiner Karte überhaupt nicht auf. Man hat mich regulär aufgenommen, lange warten lassen und am Ende unverrichteter Dinge weggeschickt. Von der behandelnden Fachärztin hätte ich in so einer Situation zumindest den Anstand erwartet, kurz ins Zimmer zu kommen und den organisatorischen Fehler ihres Teams persönlich zu klären, anstatt mich einfach über ihre Helferinnen abwimmeln zu lassen.\nFazit: Völlig unorganisierter Ablauf. Ich habe Anfahrtskosten, Parkgebühren und einen halben Arbeitstag verschwendet, nur um für einen internen Fehler der Praxis weggeschickt zu werden. Eine ärztliche Behandlung fand nicht statt. Ich werde mir definitiv eine andere Praxis suchen.",
+      "time": 1788342556,
+      "translated": false
+    },
+    {
       "author_name": "Dana",
       "author_url": "https://www.google.com/maps/contrib/110846409261428494822/reviews",
       "language": "de",
@@ -1216,7 +1250,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 330,
+  "reviewCount": 333,
   "summary": [],
-  "lastUpdated": "2026-09-01T09:44:20.828Z"
+  "lastUpdated": "2026-09-04T09:19:07.155Z"
 }

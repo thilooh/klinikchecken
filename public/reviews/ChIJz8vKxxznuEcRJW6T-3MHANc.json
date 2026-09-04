@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Sagittarius A Star",
+      "author_url": "https://www.google.com/maps/contrib/110007739360735079396/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7YwbtbUQmJlAvZbY1tE8BMuhV_eCIjNx8IGzfC-erjoMGZ9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Nowack hat sich Zeit genommen und alles sehr gut erklärt.",
+      "time": 1788449765,
+      "translated": false
+    },
+    {
+      "author_name": "Marco Marco",
+      "author_url": "https://www.google.com/maps/contrib/114613634473548589219/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGOSA_VIdGBEbRIpJph6d6yf4Sm6JZQxiKo3aFFtogfsBVZDI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788327984,
+      "translated": false
+    },
+    {
       "author_name": "Nele",
       "author_url": "https://www.google.com/maps/contrib/111463897631578523119/reviews",
       "language": "de",
@@ -25,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Meli Spinelli",
+      "author_url": "https://www.google.com/maps/contrib/116421531093823758605/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1kjNTYcuHHHqXvmkqeSZIArOClUwi7Si2a6aaS74DWwHEwIKL=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich verstehe die ganzen negativen kommentare um ehrlich zu sein nicht.\nHatte am Dienstag angerufen für einen Hautkrebs check habe sogar am selben Tag einen Termin bekommen (Kassenpatient).\nDie Praxis ist gut organisiert lange wartezeiten gibt es nicht. Termine werden relativ fix vergeben. Gestern war mein zweiter besuch für einen kleinen lokalen eingriff, der ging auch innerhalb von 10 Minuten. War sehr zufrieden und kann es nur weiterempfehlen!",
+      "time": 1787895957,
+      "translated": false
+    },
+    {
       "author_name": "Sibel Seker",
       "author_url": "https://www.google.com/maps/contrib/118083570151784393620/reviews",
       "language": "de",
@@ -32,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4yAfgIAT1wOFxqCJObNHaPKZo6nJCEW4oax1XK7iXH-049g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Guten Tag, Frau Dilara Arduç hat mein Sohn heute sehr freundlich aufgenommen. Er war sehr ängstlich, aber seine Angst hat Frau Arduç mit ihrer Herzlichkeit in Vertrauen umgewandelt. Ich danke Ihnen sehr. Liebe Grüße",
+      "time": 1787819942,
+      "translated": false
+    },
+    {
+      "author_name": "Sibel Seker",
+      "author_url": "https://www.google.com/maps/contrib/118083570151784393620/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4yAfgIAT1wOFxqCJObNHaPKZo6nJCEW4oax1XK7iXH-049g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Guten Tag, Frau Dilara Arduç hat mein Sohn heute sehr freundlich aufgenommen. Er war sehr ängstlich, aber seine Angst hat Frau Arduç mit ihrer Herzlichkeit in Vertrauen umgewandelt. Ich danke Ihnen sehr. Liebe Grüße",
       "time": 1787819942,
       "translated": false
@@ -1335,12 +1381,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 393,
+  "rating": 4.5,
+  "reviewCount": 395,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:44.318Z"
+  "lastUpdated": "2026-09-04T09:19:32.012Z"
 }

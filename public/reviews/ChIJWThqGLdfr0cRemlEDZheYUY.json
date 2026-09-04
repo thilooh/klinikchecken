@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Susanne Meißner",
+      "author_url": "https://www.google.com/maps/contrib/105360690975325256564/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1nZ7izlysJyutDcUBXbZQEJYJi6xIKASTCuzxixtxGUAk2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr emphatisches und freundliches Team, angefangen von dem Pflegepersonal auf Station, bis zum gesamten OP Team. Ich habe mich jederzeit sehr gut betreut gefühlt.\nVielen Dank.",
+      "time": 1788434991,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmin Leiss",
+      "author_url": "https://www.google.com/maps/contrib/116479045027447971358/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpjOphEk-ul8VniVFsfwKYATNhzsMV0lUQdwKEP4HpxkRBmj4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal !",
+      "time": 1788349677,
+      "translated": false
+    },
+    {
+      "author_name": "Roman Torge",
+      "author_url": "https://www.google.com/maps/contrib/103059349079823977241/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLD7aO7YFwKvfk3A8ieJtm_IJvbc8alCQmULxvH03BLirNkmw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Personal,  geile Zimmer, kompetente Ärzte, sehr zu empfehlen.",
+      "time": 1788338123,
+      "translated": false
+    },
+    {
       "author_name": "Michel Herrmann",
       "author_url": "https://www.google.com/maps/contrib/118120183746524545713/reviews",
       "language": "de",
@@ -20,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFiagz3qhEEj-Uq3i-SUhSeY9jnX4Zj9LiBrdzL-bztYvmiTs=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin außerordentlich zufrieden mit der Betreuung während meiner Operation. Also alle Daumen 👍 hoch und nochmals vielen Dank an das ganze Personal.",
+      "time": 1787662766,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg Fischer",
+      "author_url": "https://www.google.com/maps/contrib/102921414122998747468/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFiagz3qhEEj-Uq3i-SUhSeY9jnX4Zj9LiBrdzL-bztYvmiTs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin außerordentlich zufrieden mit der Betreuung während meiner Operation. Also alle Daumen 👍 hoch und nochmals vielen Dank an das ganze Personal.",
       "time": 1787662766,
       "translated": false
@@ -1300,11 +1348,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 479,
+  "reviewCount": 482,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-01T09:44:25.067Z"
+  "lastUpdated": "2026-09-04T09:19:11.426Z"
 }

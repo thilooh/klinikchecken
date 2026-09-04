@@ -109,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Conny Rothfuss",
+      "author_url": "https://www.google.com/maps/contrib/115529355139626708496/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLs9O-jE56ZxZ--EICLfBE0j8-5y8hZ9GtaFBB0cS1Cif-LhA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Tolles Personal\nTolle Praxis",
+      "time": 1785911953,
+      "translated": false
+    },
+    {
       "author_name": "Anna Koschnitzki",
       "author_url": "https://www.google.com/maps/contrib/116674212441575008294/reviews",
       "language": "de",
@@ -1128,11 +1140,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 162,
+  "reviewCount": 163,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-01T09:44:54.841Z"
+  "lastUpdated": "2026-09-04T09:19:42.853Z"
 }
