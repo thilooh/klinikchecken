@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anika Grahammer",
+      "author_url": "https://www.google.com/maps/contrib/106470006780074370230/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnrAU2Iyx-bNaNB72MuiilaR5HYlPR5vqhkdWf1GS1OETp9pA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr professionelle Untersuchung, moderne Methoden und wirklich ein cooles Team, vom Empfang, über die Ärzte bis hin zur Abrechnung. Ich habe mich zu 100% sehr gut aufgehoben gefühlt.\nIch habe ein Haut-Screening, zur Hautkrebs-Vorsorge machen lassen.\nDaumen hoch, für das Team. Auch wenn es nicht einfach ist einen Termin zu bekommen, es lohnt sich da dranzubleiben.\nBeste Grüße",
+      "time": 1788728601,
+      "translated": false
+    },
+    {
       "author_name": "to ru",
       "author_url": "https://www.google.com/maps/contrib/109602030586856132413/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlZ6Uq_bQhZ9TumspdmVefTtc7qj7f4aTjlkJp_E9pD_rK9w=s128-c0x00000000-cc-rp-mo-ba3",
@@ -74,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcoPywwwsdwT0ZpWGdY-4wu4K7zbs0hnBWkgwIZ3DWy62VoA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Bin bereits seit 2022 als Patientin in Behandlung.\nIch kann die Praxis sehr empfehlen!\nSuper kompetente Hautärzte und freundliches Personal.\nDie neusten Behandlungsmethoden werden in dieser Praxis angewandt.",
+      "time": 1786896827,
+      "translated": false
+    },
+    {
+      "author_name": "M T",
+      "author_url": "https://www.google.com/maps/contrib/103713270743851691358/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcoPywwwsdwT0ZpWGdY-4wu4K7zbs0hnBWkgwIZ3DWy62VoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Bin bereits seit 2022 als Patientin in Behandlung.\nIch kann die Praxis sehr empfehlen!\nSuper kompetente Hautärzte und freundliches Personal.\nDie neusten Behandlungsmethoden werden in dieser Praxis angewandt.",
       "time": 1786896827,
       "translated": false
@@ -1214,11 +1238,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 172,
+  "reviewCount": 173,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-04T09:19:17.863Z"
+  "lastUpdated": "2026-09-07T09:56:45.031Z"
 }

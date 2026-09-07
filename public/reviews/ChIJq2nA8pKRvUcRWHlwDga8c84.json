@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin E.",
+      "author_url": "https://www.google.com/maps/contrib/100450281429961327787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZZu0qIO3feoe90vXkjqdZv0dfedQ6vtJq0peqTYN94E3x8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Behandlung durch Fr. Dr. Süssenberger war hervorragend - fachlich sowie menschlich",
+      "time": 1788709734,
+      "translated": false
+    },
+    {
+      "author_name": "Timo Schmuck",
+      "author_url": "https://www.google.com/maps/contrib/113199400308567133830/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1XBDckazhOXIALWS95I-_9bUjPEbK_yqdoYW6thqe4zF_Gp_n=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zufrieden. Kompetente Behandlung, nettes Personal.",
+      "time": 1788700341,
+      "translated": false
+    },
+    {
+      "author_name": "Veronique Mayer",
+      "author_url": "https://www.google.com/maps/contrib/116986327122227495668/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8CzRdCS4TtUPjO5ykBOseOpkSVJ_njFXG7sKUVk1xFGexcg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788545353,
+      "translated": false
+    },
+    {
       "author_name": "Katharina Huber",
       "author_url": "https://www.google.com/maps/contrib/100803435001842765782/reviews",
       "language": "de",
@@ -1374,11 +1408,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 329,
+  "reviewCount": 332,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-04T09:19:27.817Z"
+  "lastUpdated": "2026-09-07T09:56:54.333Z"
 }

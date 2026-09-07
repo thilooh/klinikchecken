@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hanna",
+      "author_url": "https://www.google.com/maps/contrib/109956232120549378258/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL38gYfJ9a81rcKbz2pfm7EusAKCckvlQzqza0XYN4nU55kw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe noch nie eine Rezension für eine Arztpraxis hinterlassen, aber es muss wirklich gesagt werden: Derartig ernst genommen, gut beraten und kompetent behandelt habe ich mich wirklich vorher noch nie.\n\nVielen, vielen Dank an Frau Dr. Ziburt!\n\n(Die Wartezeiten könnten kürzer sein, aber ehrlich: Für DIE Behandlung sitze ich da, solange wie's halt dauert.)",
+      "time": 1788536148,
+      "translated": false
+    },
+    {
       "author_name": "Mariko Me",
       "author_url": "https://www.google.com/maps/contrib/114375085353240094865/reviews",
       "language": "de",
@@ -64,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK3MGCJ-F9NtjVfHZCyxEfOFtvYtNb8iWwAVbwzrtPqbUauA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Professionell von A bis Z. Es geht doch!",
+      "time": 1787387695,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Niehus",
+      "author_url": "https://www.google.com/maps/contrib/117905158928346825384/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK3MGCJ-F9NtjVfHZCyxEfOFtvYtNb8iWwAVbwzrtPqbUauA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Professionell von A bis Z. Es geht doch!",
       "time": 1787387695,
       "translated": false
@@ -1342,7 +1366,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 457,
+  "reviewCount": 458,
   "summary": [],
-  "lastUpdated": "2026-09-04T09:19:04.822Z"
+  "lastUpdated": "2026-09-07T09:56:32.024Z"
 }

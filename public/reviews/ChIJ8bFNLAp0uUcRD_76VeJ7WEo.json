@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bianca Albers",
+      "author_url": "https://www.google.com/maps/contrib/114141497785858107441/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzLnbdp-g222McYk9aFmStGI2ovTE0yifI7-P2J2-6YY7aih0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und entgegenkommend",
+      "time": 1788679172,
+      "translated": false
+    },
+    {
       "author_name": "Burak Arslan",
       "author_url": "https://www.google.com/maps/contrib/113022601675019430817/reviews",
       "language": "de",
@@ -471,12 +483,12 @@
       "translated": false
     }
   ],
-  "rating": 3.9,
-  "reviewCount": 18,
+  "rating": 4,
+  "reviewCount": 19,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-04T09:19:34.549Z"
+  "lastUpdated": "2026-09-07T09:57:00.914Z"
 }

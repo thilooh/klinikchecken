@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lena Marina Scholtes",
+      "author_url": "https://www.google.com/maps/contrib/104061594712942225094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGtVnJtxLloY9OrLcOg2WfZ-UOLpKd0tMllG6IKcoGKIL4VoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum zufrieden mit dieser Hautarztpraxis und kann sie uneingeschränkt weiterempfehlen. Schon beim Empfang wird man freundlich und herzlich begrüßt und man fühlt sich sofort gut aufgehoben.\n\nDas gesamte Team ist sehr freundlich, kompetent und professionell. Besonders positiv empfand ich die ausführliche und verständliche Beratung. Herr Nico Nowak hat mich sehr gründlich untersucht und mein Eingriff dort verlief auch alles bestens. Es wurde sich ausreichend Zeit genommen, alle Fragen wurden geduldig beantwortet und man hatte zu jeder Zeit das Gefühl, ernst genommen zu werden.\n\nAuch die Behandlung war sehr angenehm und professionell. Die Praxis macht einen modernen, gepflegten und gut organisierten Eindruck. Die Atmosphäre ist angenehm und das gesamte Team arbeitet sehr aufmerksam und einfühlsam.\n\nVielen Dank für die tolle Betreuung und den freundlichen Umgang! Ich fühle mich hier bestens aufgehoben und werde die Praxis definitiv weiterempfehlen. 😊",
+      "time": 1788520719,
+      "translated": false
+    },
+    {
       "author_name": "Sagittarius A Star",
       "author_url": "https://www.google.com/maps/contrib/110007739360735079396/reviews",
       "language": "de",
@@ -1382,11 +1394,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 395,
+  "reviewCount": 396,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-04T09:19:32.012Z"
+  "lastUpdated": "2026-09-07T09:56:58.440Z"
 }

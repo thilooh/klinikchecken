@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Banno",
+      "author_url": "https://www.google.com/maps/contrib/116575935050140272265/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWKqPOwoca2GYwGyfxb9silZxsS5lymLiV49kd1o-ZvMylAte0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe heute bei Dr. Alkhalil meine Krampfadern am linken Bein entfernen lassen und war vorher ziemlich nervös und aufgeregt. Umso angenehmer war es, mich während der gesamten Behandlung gut aufgehoben zu fühlen.\n\nDas Team war verständnisvoll und freundlich, besonders während der OP wurde mir immer wieder Mut zugesprochen. Dr. Alkhalil hat sich mehrfach erkundigt, ob alles in Ordnung ist, und alles verständlich erklärt – sowohl während der Behandlung als auch für die Zeit danach. Auch das Vorgespräch (wo sich mir allerdings die nette Ärztin nicht vorgestellt hatte und ich bis jetzt weiß wie sie hieß) und die gesamte Organisation liefen unkompliziert und professionell.\n\nEinen kleinen Abzug gibt es lediglich bei der zwischenmenschlichen Freundlichkeit im Rahmen eines Kontakts in der Achimer Praxis, wo ich den Termin für die OP in Bremen vereinbart habe. Insgesamt bin ich aber sehr zufrieden und würde die Praxis weiterempfehlen.",
+      "time": 1788536413,
+      "translated": false
+    },
+    {
+      "author_name": "Natalija Ćosić",
+      "author_url": "https://www.google.com/maps/contrib/109188121174983108291/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0gfc5rnF-rawHuc17vp0j65WoqYW1yAwNg5msV91xeQO7mg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit dem Arzt und dem gesamten Team. Alle sind freundlich und kompetent. Ich kann die Praxis nur weiterempfehlen!",
+      "time": 1788520055,
+      "translated": false
+    },
+    {
       "author_name": "Maryam Farsian",
       "author_url": "https://www.google.com/maps/contrib/109631438434643784502/reviews",
       "language": "de",
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6VThFSWjdb7THoDFf5LXI0AjVNO4cPKitat0PFSDAzX2_Iw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Absolute Empfehlung für die Praxis von Herrn Ahmad Alkhalil! Ich war zur Verödung meiner Krampfadern dort und rundum zufrieden. Nicht nur die fachliche Betreuung war top, sondern auch das gesamte Praxisteam – hier sind alle extrem freundlich und nehmen sich Zeit. Man merkt sofort, dass man in guten Händen ist. Vielen Dank für die tolle Behandlung!",
+      "time": 1787349450,
+      "translated": false
+    },
+    {
+      "author_name": "Nils S",
+      "author_url": "https://www.google.com/maps/contrib/110602074477085932436/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6VThFSWjdb7THoDFf5LXI0AjVNO4cPKitat0PFSDAzX2_Iw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Absolute Empfehlung für die Praxis von Herrn Ahmad Alkhalil! Ich war zur Verödung meiner Krampfadern dort und rundum zufrieden. Nicht nur die fachliche Betreuung war top, sondern auch das gesamte Praxisteam – hier sind alle extrem freundlich und nehmen sich Zeit. Man merkt sofort, dass man in guten Händen ist. Vielen Dank für die tolle Behandlung!",
       "time": 1787349450,
       "translated": false
@@ -612,11 +648,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 120,
+  "reviewCount": 122,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-04T09:19:09.184Z"
+  "lastUpdated": "2026-09-07T09:56:36.319Z"
 }

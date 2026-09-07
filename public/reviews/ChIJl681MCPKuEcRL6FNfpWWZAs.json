@@ -301,6 +301,18 @@
       "translated": true
     },
     {
+      "author_name": "Aishah Bennett",
+      "author_url": "https://www.google.com/maps/contrib/104437228767818805888/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhRUhFZL8C7gebuWn8VOFAV-UHDWfr-B-uvr_KTn9Pk3rKbyrB=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Absolut hervorragender Service von einem großartigen Team",
+      "time": 1778339920,
+      "translated": true
+    },
+    {
       "author_name": "V M",
       "author_url": "https://www.google.com/maps/contrib/118236545394761981069/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG_XMLq9axmN6vjcq-hWeUONSwLvRmKDFrNtaiojmFyOw_yQ=s128-c0x00000000-cc-rp-mo",
@@ -445,5 +457,5 @@
   "rating": 4,
   "reviewCount": 25,
   "summary": [],
-  "lastUpdated": "2026-09-04T09:18:57.862Z"
+  "lastUpdated": "2026-09-07T09:56:25.446Z"
 }

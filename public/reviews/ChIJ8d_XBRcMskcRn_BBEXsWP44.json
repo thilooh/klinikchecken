@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gerhard Wähling (GWAE)",
+      "author_url": "https://www.google.com/maps/contrib/105623715877230232235/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnA7vm_EzS3nKdzoKUyndtYIov6bQ9kK70TNbSg00ZkbGoaQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich bei Frau Dr. Laske sehr wohl als Patient.\nSie vermag es, Hoffnung und gute Laune zu verbreiten, auch wenn der Kontext nicht immer dazu einlädt.\nFür die Behandlung von langwierigen Erkrankungen ist diese Eigenschaft genauso wichtig wie ein gutes Medikament.",
+      "time": 1788629373,
+      "translated": false
+    },
+    {
       "author_name": "Paula Paulsen",
       "author_url": "https://www.google.com/maps/contrib/102845632409586311144/reviews",
       "language": "de",
@@ -632,11 +644,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 139,
+  "reviewCount": 140,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-04T09:19:12.478Z"
+  "lastUpdated": "2026-09-07T09:56:39.594Z"
 }

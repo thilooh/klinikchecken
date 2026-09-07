@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Bettina Marx",
+      "author_url": "https://www.google.com/maps/contrib/104223837052773813420/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8uOW3R2fa6KbL-n6cpIvx4vNAAKzkSZmGLBkntOt8QbcB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788767649,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg Zöhner",
+      "author_url": "https://www.google.com/maps/contrib/109122381036813204804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYvK-BCiHyMTjpmtKTIY5Xu4crsWOzgotKwZmgjDUtDHm2mtIyHg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788690272,
+      "translated": false
+    },
+    {
       "author_name": "Cornelia Amtstätter",
       "author_url": "https://www.google.com/maps/contrib/116711344661972420452/reviews",
       "language": "de",
@@ -1294,11 +1314,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 331,
+  "reviewCount": 333,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-04T09:19:40.879Z"
+  "lastUpdated": "2026-09-07T09:57:07.315Z"
 }

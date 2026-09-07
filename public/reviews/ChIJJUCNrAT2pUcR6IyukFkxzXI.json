@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "D.",
+      "author_url": "https://www.google.com/maps/contrib/104720294553824659874/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_ZfUoKdTMAzuywQlQLBNI2WBnl3UPwaD-5b_uggUuk-k-CW4D=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": ".....als ich als ehemaliger Patient von Frau Dr. Jumar einen neuen Termin brauchte, gab es zunächst Probleme, da ich lange Zeit nicht mehr dort war und man wohl keine Daten/Akten mehr hatte (so die Aussage einer Schwester).\nEntsprechend gab es auch erstmal keinen Termin.\nDas klärte sich dann aber auch, da ich mich entsprechend um Klärung bemühte.\n\nBisher war ich 2x zur Behandlung und da kann ich nichts Schlechtes berichten.\n\nKeine langen Wartezeiten, freundliche Schwestern und Frau Dr. Höfer macht einen sehr lockeren, offenen, entspannten, sympathischen und fachlich kompetenten Eindruck. Hab mich bei den Untersuchungen gut aufgehoben gefühlt.\nVon daher auch eine gute Nachfolgerin von Frau Dr. Jumar.",
+      "time": 1788523183,
+      "translated": false
+    },
+    {
       "author_name": "Dennis Ziegler",
       "author_url": "https://www.google.com/maps/contrib/105297102168740343436/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt9L9Bk5ujYODVO_KRT1Tw5OpQAun3EfrF747MxGzGWzlPeg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Eine tolle Ärztin,bin dort schon lange in Behandlung und die Wartezeit beträgt ca. 20 min.",
+      "time": 1786012913,
+      "translated": false
+    },
+    {
+      "author_name": "Heike Kupper",
+      "author_url": "https://www.google.com/maps/contrib/103881153385692181397/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt9L9Bk5ujYODVO_KRT1Tw5OpQAun3EfrF747MxGzGWzlPeg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Eine tolle Ärztin,bin dort schon lange in Behandlung und die Wartezeit beträgt ca. 20 min.",
       "time": 1786012913,
       "translated": false
@@ -632,11 +656,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 52,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-04T09:19:11.949Z"
+  "lastUpdated": "2026-09-07T09:56:39.082Z"
 }

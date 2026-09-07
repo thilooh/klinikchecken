@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Gerhard Oster",
+      "author_url": "https://www.google.com/maps/contrib/116418919669252459426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3QnrW8IsqqLJbd_UzSxi21Bnucf55THFsZeO6MpCUf98EsQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788530467,
+      "translated": false
+    },
+    {
       "author_name": "Nia N.",
       "author_url": "https://www.google.com/maps/contrib/107125455205090438449/reviews",
       "language": "de",
@@ -362,11 +372,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 5,
+  "reviewCount": 6,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-04T09:19:46.329Z"
+  "lastUpdated": "2026-09-07T09:57:12.711Z"
 }

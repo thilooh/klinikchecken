@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Victoria",
+      "author_url": "https://www.google.com/maps/contrib/102376397126196272517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKveprUFjd4hrNiDvs7nvEDzQE3Ml3I9GuKis5xkX6HyDDfM-hm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788544977,
+      "translated": false
+    },
+    {
       "author_name": "Gonul Sedat Ahmed",
       "author_url": "https://www.google.com/maps/contrib/102936267380609237983/reviews",
       "language": "de",
@@ -987,7 +997,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 60,
+  "reviewCount": 61,
   "summary": [],
-  "lastUpdated": "2026-09-04T09:18:57.080Z"
+  "lastUpdated": "2026-09-07T09:56:24.675Z"
 }

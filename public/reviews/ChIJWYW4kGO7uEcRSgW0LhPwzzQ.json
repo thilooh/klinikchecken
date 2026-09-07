@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "ben tichelkmap",
+      "author_url": "https://www.google.com/maps/contrib/104192616067007239552/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWdSqo6-qwalY6cPpEhLL6Qo969CuDcLmp6x6EyQqddeE8g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis hat sehr stark nachgelassen!!!\nÜber 6 Monate Wartezeit für einen Termin und am selben Tag wird dieser einfach storniert.\nServicewüste Deutschland.",
+      "time": 1788769527,
+      "translated": false
+    },
+    {
       "author_name": "Prof Dr Dr Dr A v D",
       "author_url": "https://www.google.com/maps/contrib/109469128639708473350/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKV0Zbt30BfQ2GgFG8d60-934N5XHGfX5lISUEzW_6Q2mwTTA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 2,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Die telefonischen Sprechzeiten sind ganz schön arrogant !\nNatürlich kann man \"bequem\" einen Akut/Notfalltermin bei doctolib buchen für Februar 2027 !  Und zu den og. Sprechzeiten bekommt man die Ansage, dass alle Leitungen belegt sind und das Gespräch wird beendet. Nächste Variante nachdem ich es tatkräftig weiterversucht habe: Warteschleife, sind gleich dran (sinngemäß), gefühlte Ewigkeit  und siehe da auch hier wird das Gespräch beendet. Das ist schon frech.",
+      "time": 1786355428,
+      "translated": false
+    },
+    {
+      "author_name": "Prof Dr Dr Dr A v D",
+      "author_url": "https://www.google.com/maps/contrib/109469128639708473350/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKV0Zbt30BfQ2GgFG8d60-934N5XHGfX5lISUEzW_6Q2mwTTA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Die telefonischen Sprechzeiten sind ganz schön arrogant !\nNatürlich kann man \"bequem\" einen Akut/Notfalltermin bei doctolib buchen für Februar 2027 !  Und zu den og. Sprechzeiten bekommt man die Ansage, dass alle Leitungen belegt sind und das Gespräch wird beendet. Nächste Variante nachdem ich es tatkräftig weiterversucht habe: Warteschleife, sind gleich dran (sinngemäß), gefühlte Ewigkeit  und siehe da auch hier wird das Gespräch beendet. Das ist schon frech.",
       "time": 1786355428,
       "translated": false
@@ -761,12 +785,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 44,
+  "rating": 4.1,
+  "reviewCount": 45,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-04T09:19:32.274Z"
+  "lastUpdated": "2026-09-07T09:56:58.691Z"
 }

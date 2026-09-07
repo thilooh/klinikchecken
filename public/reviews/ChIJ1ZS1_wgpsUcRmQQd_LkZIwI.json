@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Klaus Budzin",
+      "author_url": "https://www.google.com/maps/contrib/103304116099874858775/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFPeB1i0oLoxmp2kPnpUtttI5SVfd9ePOAH_zt3Qp2x7VP4XCq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top\nAlle nett\nNehmen sich Zeit\nHeute dran gekommen, obwohl ich keinen Termin hatte\nAbsolute bedingungslose Empfehlung\nTOP Arzt\nErklärt immer alles, Diagnosen werden gut beschrieben\nIch bin sehr begeistert",
+      "time": 1788769008,
+      "translated": false
+    },
+    {
       "author_name": "Carolin Dürkop",
       "author_url": "https://www.google.com/maps/contrib/104900605042443126109/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4q9v5ixC1aqc0ZZ6WMnbpb5s_iFZSX45eUq-AZcYqrsAw-g=s128-c0x00000000-cc-rp-mo-ba2",
@@ -834,11 +846,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 78,
+  "reviewCount": 79,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-04T09:19:09.435Z"
+  "lastUpdated": "2026-09-07T09:56:36.567Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Nicola Vierhaus",
+      "author_url": "https://www.google.com/maps/contrib/104164461444549827229/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuEAXmin612CvlPoF74ichf0csZyanI_Wx83O54ygalSzV1g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788527599,
+      "translated": false
+    },
+    {
       "author_name": "Papa Jo",
       "author_url": "https://www.google.com/maps/contrib/104181065713411322473/reviews",
       "language": "de",
@@ -422,11 +432,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 260,
+  "reviewCount": 261,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-04T09:19:26.260Z"
+  "lastUpdated": "2026-09-07T09:56:52.796Z"
 }

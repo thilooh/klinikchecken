@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jan Philipp Decker",
+      "author_url": "https://www.google.com/maps/contrib/111154303814512855479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWw4Vl0rq9AJJG1ON-h9rw3BmAH7NF-mxPg7M17R1w2QUdEDM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr schöne Praxis mit kompetenten und sehr freundlichen sowohl Ärzten als auch medizinischen Fachangestellten. War ewig auf der Suche nach einer guten Dermatologie. Hier habe ich sie gefunden. 😊",
+      "time": 1788723595,
+      "translated": false
+    },
+    {
       "author_name": "Katharina Hagen",
       "author_url": "https://www.google.com/maps/contrib/116420563307771249575/reviews",
       "language": "de",
@@ -224,6 +236,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2k6e7sZfjTqEMYN3zjCqTn2jPXDBlT29WRoeaL7A5B8-7sWk=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich wurde super kompetent und freundlich beraten! Es wurde sich viel Zeit für mich genommen und auf alles eingegangen. Ich bin sehr zufrieden und kann die Praxis nur weiterempfehlen :)",
+      "time": 1783345220,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmin",
+      "author_url": "https://www.google.com/maps/contrib/102852379894584526185/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2k6e7sZfjTqEMYN3zjCqTn2jPXDBlT29WRoeaL7A5B8-7sWk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich wurde super kompetent und freundlich beraten! Es wurde sich viel Zeit für mich genommen und auf alles eingegangen. Ich bin sehr zufrieden und kann die Praxis nur weiterempfehlen :)",
       "time": 1783345220,
       "translated": false
@@ -663,7 +687,7 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 97,
+  "reviewCount": 98,
   "summary": [],
-  "lastUpdated": "2026-09-04T09:18:57.594Z"
+  "lastUpdated": "2026-09-07T09:56:25.209Z"
 }
