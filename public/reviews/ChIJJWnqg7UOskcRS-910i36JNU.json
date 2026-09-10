@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Rene Timrunvech",
+      "author_url": "https://www.google.com/maps/contrib/107596888778787274598/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUYgHPNSk1LdpP5Mr_CyPPdmafu0PzRJX7oWBuGLpq28kD4A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe bei der Hautarztpraxis  zeitnah,ohne Probleme einen Termin bekommen und wurde sehr zuvorkommend und nett Empfangen und Untersucht. Ich kann diese Arztpraxis sehr empfehlen.",
+      "time": 1788876855,
+      "translated": false
+    },
+    {
+      "author_name": "Karl Borchardt",
+      "author_url": "https://www.google.com/maps/contrib/114138866036591887655/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV040Mwv18BQqZqdNu3ODnhiAVJOYdZf6qkFz93dCjUTLbdhU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kann mich über nichts beschweren. Alles super, sauber und freundlich.",
+      "time": 1788868849,
+      "translated": false
+    },
+    {
+      "author_name": "Claudia Schult",
+      "author_url": "https://www.google.com/maps/contrib/109079693212953064273/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7i4RF_M20DFm5fmuVy5HBEzbC8K2a86P7yrvDSWHunrj8wA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist sehr gut organisiert, modern und ansprechend. Die Mitarbeiter sind freundlich und helfen gerne bei Fragen.",
+      "time": 1788854355,
+      "translated": false
+    },
+    {
       "author_name": "Robert",
       "author_url": "https://www.google.com/maps/contrib/114482636643741092910/reviews",
       "language": "de",
@@ -1790,11 +1826,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2380,
+  "reviewCount": 2383,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:56:39.344Z"
+  "lastUpdated": "2026-09-10T09:22:50.575Z"
 }

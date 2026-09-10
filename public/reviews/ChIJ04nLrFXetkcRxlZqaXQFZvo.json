@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Reich",
+      "author_url": "https://www.google.com/maps/contrib/117746899347026785315/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBNF0OcnbHz36u8gkWGdxgsV1uf10V3aQu7bOoi5DznSqwt7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde letzte Woche in der Praxis operiert und kann wirklich nur Positives berichten. Vom ersten Kontakt bis zur Operation habe ich mich sehr gut aufgehoben gefühlt.\n\nDie Mitarbeiterinnen sind sehr freundlich und aufmerksam und haben einem direkt ein gutes Gefühl gegeben. Auch die ärztliche Betreuung war sehr angenehm und professionell. Alles wurde ruhig erklärt und die Operation verlief problemlos.\n\nInsgesamt eine sehr angenehme Praxis mit einem tollen Team. Ich würde mich jederzeit wieder dort behandeln lassen und kann die Praxis definitiv weiterempfehlen.",
+      "time": 1788770728,
+      "translated": false
+    },
+    {
       "author_name": "72Sudden",
       "author_url": "https://www.google.com/maps/contrib/104535413145906890191/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ35HcF7aY9Tcc78rft_xPDxo0NPURP-M6V3qjdJc8jUY-eRg=s128-c0x00000000-cc-rp-mo-ba2",
@@ -486,5 +498,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:57:02.445Z"
+  "lastUpdated": "2026-09-10T09:23:10.958Z"
 }

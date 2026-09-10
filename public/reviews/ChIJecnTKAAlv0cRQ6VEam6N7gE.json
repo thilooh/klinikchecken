@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "ich",
+      "author_url": "https://www.google.com/maps/contrib/107766060887514201066/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW2dSG98OBp45lAGLxF1XEtWyNoyEYtPB_hRJ3cOfg8YlNJw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788882366,
+      "translated": false
+    },
+    {
       "author_name": "Ronald Meister",
       "author_url": "https://www.google.com/maps/contrib/112749656791711385309/reviews",
       "language": "de",
@@ -68,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGccQQoAbMidkQnATF5mhRyG63VtA1IchDVg-43ZRYOsQG4Q=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Dort ist man als Patient noch Mensch.\nDr. Schulte ist ein Super Arzt,er redet mit den Menschen auf Augenhöhe.\nAbsolut empfehlenswert die Praxis.",
+      "time": 1783604424,
+      "translated": false
+    },
+    {
+      "author_name": "Ronald Meister",
+      "author_url": "https://www.google.com/maps/contrib/112749656791711385309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGccQQoAbMidkQnATF5mhRyG63VtA1IchDVg-43ZRYOsQG4Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Dort ist man als Patient noch Mensch.\nDr. Schulte ist ein Super Arzt,er redet mit den Menschen auf Augenhöhe.\nAbsolut empfehlenswert die Praxis.",
       "time": 1783604424,
       "translated": false
@@ -421,7 +443,7 @@
     }
   ],
   "rating": 3.5,
-  "reviewCount": 31,
+  "reviewCount": 32,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:24.129Z"
+  "lastUpdated": "2026-09-10T09:22:36.687Z"
 }

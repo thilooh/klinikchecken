@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "T. B.",
+      "author_url": "https://www.google.com/maps/contrib/102687794618000278631/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_fwEB-FzGNXVy2uEgU7jbBn2kKDAtjYIiG9GLRRWQwQDsCw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Krokowski ist ein sehr kompetenter und freundlicher Arzt. Er beantwortet jederzeit alle Fragen höflich und verständlich. Ich fühle mich bei ihm sehr gut aufgehoben. Auch das praxis-team ist sehr hilfsbereit.",
+      "time": 1788813839,
+      "translated": false
+    },
+    {
       "author_name": "Erich Seidel",
       "author_url": "https://www.google.com/maps/contrib/112480141157542884640/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCWM-7tyt9knuSeUTG9uYc7t-zaJwC4xz_Rd7aXyKA8UXwpA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich gehe seit vielen Jahren in die Praxis . Sowohl Dr. Krokowski als auch das Team zeigen sich sehr freundlich und zugewandt. Die medizinische Kompetenz stufe ich sehr hoch ein. Besonders hilfreich empfinde ich, dass sich Herr Krokowski sowohl für die Diagnose, Behandlung und das erklärende Gespräch ausreichend Zeit nimmt, sodass ich immer zufrieden bin.",
+      "time": 1787042212,
+      "translated": false
+    },
+    {
+      "author_name": "Erich Seidel",
+      "author_url": "https://www.google.com/maps/contrib/112480141157542884640/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCWM-7tyt9knuSeUTG9uYc7t-zaJwC4xz_Rd7aXyKA8UXwpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich gehe seit vielen Jahren in die Praxis . Sowohl Dr. Krokowski als auch das Team zeigen sich sehr freundlich und zugewandt. Die medizinische Kompetenz stufe ich sehr hoch ein. Besonders hilfreich empfinde ich, dass sich Herr Krokowski sowohl für die Diagnose, Behandlung und das erklärende Gespräch ausreichend Zeit nimmt, sodass ich immer zufrieden bin.",
       "time": 1787042212,
       "translated": false
@@ -162,6 +186,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlIj0fIEG5HOp7uJ0jm1W1PXP74ecTeRgplMnKkVM8ysqHeg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1781077951,
+      "translated": false
+    },
+    {
+      "author_name": "Слава Салтаганов",
+      "author_url": "https://www.google.com/maps/contrib/104555774735768004051/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlIj0fIEG5HOp7uJ0jm1W1PXP74ecTeRgplMnKkVM8ysqHeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1781077951,
       "translated": false
@@ -610,11 +644,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 56,
+  "reviewCount": 57,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:56:55.358Z"
+  "lastUpdated": "2026-09-10T09:23:04.655Z"
 }

@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Kingme6081",
+      "author_url": "https://www.google.com/maps/contrib/113593562868303598787/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQM1TOkmUrOyl_Gyg6VLDEx34Q8dghcpgpU9k9YCE1GCN2lGiv=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1787815521,
+      "translated": false
+    },
+    {
       "author_name": "David Vogt",
       "author_url": "https://www.google.com/maps/contrib/108362167856408400533/reviews",
       "language": "de",
@@ -148,6 +158,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJh6wnYrigHOLtltZh5g9QEnt71cU6gVpXhNrVSKLZEXNf2=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Schicke Praxis mit sehr kompetenten, freundlichen Personal, verkehrsfreundlich gelegen. Habe mich sehr wohl gefühlt.",
+      "time": 1783675082,
+      "translated": false
+    },
+    {
+      "author_name": "Werner Herkert",
+      "author_url": "https://www.google.com/maps/contrib/108640293843129131177/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJh6wnYrigHOLtltZh5g9QEnt71cU6gVpXhNrVSKLZEXNf2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Schicke Praxis mit sehr kompetenten, freundlichen Personal, verkehrsfreundlich gelegen. Habe mich sehr wohl gefühlt.",
       "time": 1783675082,
       "translated": false
@@ -654,5 +676,5 @@
   "rating": 5,
   "reviewCount": 19,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:33.287Z"
+  "lastUpdated": "2026-09-10T09:22:45.182Z"
 }

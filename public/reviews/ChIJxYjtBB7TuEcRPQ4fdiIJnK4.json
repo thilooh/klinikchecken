@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Siggi Stamm",
+      "author_url": "https://www.google.com/maps/contrib/111591893236455133759/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnmccP7XClDBbbkMWIcW1e5SW_G238lQv_37ehFzKhTkzxvJqK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette MFA...der Arzt recht Wortkarg  (Solinger ?)\naber Kompetent  .Bißchen einfühlsamer wäre nett.",
+      "time": 1788940351,
+      "translated": false
+    },
+    {
       "author_name": "Gaby Rieger",
       "author_url": "https://www.google.com/maps/contrib/103610542216342408944/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqaFVGVgQEvkGx6PKB0QXTiXozWiQIHM5e8ihy3kTHC0dEDmZdrQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -201,6 +213,18 @@
       "translated": false
     },
     {
+      "author_name": "Achim Schwoerer",
+      "author_url": "https://www.google.com/maps/contrib/102805505189562965825/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWUbTCtsJN754RI9VX3YEeFdLvAoczmbmFzjHH85hEpNrJw7v-1A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 9 Monaten",
+      "text": "Super Praxis. Ich bin mit meiner neuen Hausärztin, Frau Kochen, äußerst zufrieden. Alle nett und kompetent da.",
+      "time": 1765535513,
+      "translated": false
+    },
+    {
       "author_name": "Martina Schneider Schneider",
       "author_url": "https://www.google.com/maps/contrib/111503063191907287528/reviews",
       "language": "de",
@@ -298,11 +322,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 20,
+  "reviewCount": 21,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:57:04.987Z"
+  "lastUpdated": "2026-09-10T09:23:13.169Z"
 }

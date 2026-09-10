@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Uwe Kirsch",
+      "author_url": "https://www.google.com/maps/contrib/111998510992933417764/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU61qsIRfa9i-b7n9RNp9g3o2ECr49EPbnt0ZkYz0MkEMSGcotr=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Tolles,Praxisteam",
+      "time": 1786984623,
+      "translated": false
+    },
+    {
       "author_name": "Christine Lechner",
       "author_url": "https://www.google.com/maps/contrib/112728718872325381455/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJqXDLn9AV8wO0MoN_gyNviT56fK-NHFKZzErw1U53jpdxUQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Alles war perfekt. Von der Terminvergabe, über die erste Untersuchung bis hin zur OP und Kontrolle. Sehr sympathisches Praxisteam. Ich wurde über jeden Schritt genau informiert und hab mich immer sehr wohl gefühlt.",
+      "time": 1786277041,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Lechner",
+      "author_url": "https://www.google.com/maps/contrib/112728718872325381455/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJqXDLn9AV8wO0MoN_gyNviT56fK-NHFKZzErw1U53jpdxUQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Alles war perfekt. Von der Terminvergabe, über die erste Untersuchung bis hin zur OP und Kontrolle. Sehr sympathisches Praxisteam. Ich wurde über jeden Schritt genau informiert und hab mich immer sehr wohl gefühlt.",
       "time": 1786277041,
       "translated": false
@@ -284,6 +308,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0uSFbQf3T--t__vBrhbtTUuX0wIJDGiPl9MVQvqYUDvd4Dw=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1783610418,
+      "translated": false
+    },
+    {
+      "author_name": "Erika Heimbach",
+      "author_url": "https://www.google.com/maps/contrib/115762784655804426674/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0uSFbQf3T--t__vBrhbtTUuX0wIJDGiPl9MVQvqYUDvd4Dw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1783610418,
       "translated": false
@@ -576,5 +610,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:47.289Z"
+  "lastUpdated": "2026-09-10T09:22:57.536Z"
 }

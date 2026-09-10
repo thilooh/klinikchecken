@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anke J",
+      "author_url": "https://www.google.com/maps/contrib/113628344275001199519/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG_m-sT3-AlUs_3bQFMZyU6f2nxrZ-t4iqOv6WvBRnEaH-yw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolles Krankenhaus mit super Betreuung seitens des Personals.",
+      "time": 1788969254,
+      "translated": false
+    },
+    {
       "author_name": "Daniel Kufer",
       "author_url": "https://www.google.com/maps/contrib/109517579458827283553/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR8IFw5q0kNmnO5zJmnpKAzQhQ7Wm1LjdIJsoosppOcVx_jA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Behandlung und weitere Untersuchung bei Verdacht auf Schlaganfall hat mir sehr geholfen. Betreuung und fachliche Erklärungen der neurologischen Oberärztin waren sehr gut und menschliches Verständnis ebenfalls. Bin dankbar",
+      "time": 1787740024,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Windsor",
+      "author_url": "https://www.google.com/maps/contrib/109914869068759809322/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR8IFw5q0kNmnO5zJmnpKAzQhQ7Wm1LjdIJsoosppOcVx_jA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Behandlung und weitere Untersuchung bei Verdacht auf Schlaganfall hat mir sehr geholfen. Betreuung und fachliche Erklärungen der neurologischen Oberärztin waren sehr gut und menschliches Verständnis ebenfalls. Bin dankbar",
       "time": 1787740024,
       "translated": false
@@ -1332,11 +1356,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 428,
+  "reviewCount": 429,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-07T09:56:44.800Z"
+  "lastUpdated": "2026-09-10T09:22:55.326Z"
 }

@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "last unicorn",
+      "author_url": "https://www.google.com/maps/contrib/102747090978984011154/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINMveY3ByHyXr6iRnpbra2n0V2Z_WWe73MT0qLN--Ag6xZyA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788379862,
+      "translated": false
+    },
+    {
       "author_name": "Jörg Weimer",
       "author_url": "https://www.google.com/maps/contrib/110766755861310922626/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJx9qY2fVjmCcwJLEmBA7itKTtp_lhr7SjJQus6D3QNiJX0bQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -74,6 +84,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKaWFAIsmx5bZukFHhVsqsI6MLjF_qQnFn7aTJGMODfeRzDJ4a=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Tolles Team und tolle Praxis, sehr gute Organisation. Habe einen Termin online über Doctolib gebucht. Dadurch hat man die Möglichkeit, auch schnell an abgesagte Termine zu kommen. Über die kurzen Wartezeiten bin ich sehr überrascht, da ich selber in einer Arztpraxis arbeite, weiß ich, dass es auch anders geht. Ich kann die Praxis nur weiterempfehlen.",
+      "time": 1786371269,
+      "translated": false
+    },
+    {
+      "author_name": "Bianca K.",
+      "author_url": "https://www.google.com/maps/contrib/106665048621863460884/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKaWFAIsmx5bZukFHhVsqsI6MLjF_qQnFn7aTJGMODfeRzDJ4a=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Tolles Team und tolle Praxis, sehr gute Organisation. Habe einen Termin online über Doctolib gebucht. Dadurch hat man die Möglichkeit, auch schnell an abgesagte Termine zu kommen. Über die kurzen Wartezeiten bin ich sehr überrascht, da ich selber in einer Arztpraxis arbeite, weiß ich, dass es auch anders geht. Ich kann die Praxis nur weiterempfehlen.",
       "time": 1786371269,
       "translated": false
@@ -890,5 +912,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:37.311Z"
+  "lastUpdated": "2026-09-10T09:22:48.770Z"
 }

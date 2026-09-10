@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "S. CM",
+      "author_url": "https://www.google.com/maps/contrib/112037308916743496388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJAFkGWuE-CzyCwuX-CfPI_rHE17kx6NlF5e_QbJuUWLgg6YJa=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788873430,
+      "translated": false
+    },
+    {
       "author_name": "Denise Marx",
       "author_url": "https://www.google.com/maps/contrib/101554348806442662409/reviews",
       "language": "de",
@@ -44,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBzRy_EkBZhz-MV80hDHh00TfPcDQBWEG7JMguSsYifi6WWw=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Von A bis Z alles sehr gut geklappt.\nGut organisiert, freundlich und nett. Gute Betreuung vor, während und nach der ambulanten OP.\nEin großes Dankeschön an Alle die vor Ort diesen strammer Alltag mit viel Geduld managen.",
+      "time": 1788255482,
+      "translated": false
+    },
+    {
+      "author_name": "Stefanie Najji",
+      "author_url": "https://www.google.com/maps/contrib/117932837443148600203/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBzRy_EkBZhz-MV80hDHh00TfPcDQBWEG7JMguSsYifi6WWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Von A bis Z alles sehr gut geklappt.\nGut organisiert, freundlich und nett. Gute Betreuung vor, während und nach der ambulanten OP.\nEin großes Dankeschön an Alle die vor Ort diesen strammer Alltag mit viel Geduld managen.",
       "time": 1788255482,
       "translated": false
@@ -1258,11 +1280,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 433,
+  "reviewCount": 434,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:57:05.243Z"
+  "lastUpdated": "2026-09-10T09:23:13.391Z"
 }

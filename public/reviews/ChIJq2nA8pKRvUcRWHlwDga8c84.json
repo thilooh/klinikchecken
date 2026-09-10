@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Bea Cz",
+      "author_url": "https://www.google.com/maps/contrib/106424182590835972596/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5jWsBrmlB-7FXPpEzsQWPEpRqpEWECj2dD0IBJvlxxP7eyw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin Neupatientin in der Hautarztpraxis Dr. Quist und habe mich von Anfang an sehr gut aufgehoben gefühlt. Die Praxis ist modern und das gesamte Team berät sehr professionell, freundlich und kompetent. Auch bei Rückfragen erhält man schnell und zuverlässig eine Rückmeldung.\n\nBesonders hervorheben möchte ich Frau Usta, die mit viel Geduld, Verständnis und Einfühlungsvermögen auf meine persönliche Situation eingegangen ist. Vielen Dank für die herzliche Betreuung und den netten Empfang. Ich kann die Praxis uneingeschränkt weiterempfehlen!",
+      "time": 1789026490,
+      "translated": false
+    },
+    {
+      "author_name": "Alessandro Nanu",
+      "author_url": "https://www.google.com/maps/contrib/108085989559820765027/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItCxzllsa85kh5gtwDe6z4lVBqstY0HhkOtrYDYCWwwu3fwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788777775,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin E.",
       "author_url": "https://www.google.com/maps/contrib/100450281429961327787/reviews",
       "language": "de",
@@ -1408,11 +1430,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 332,
+  "reviewCount": 334,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:54.333Z"
+  "lastUpdated": "2026-09-10T09:23:03.757Z"
 }

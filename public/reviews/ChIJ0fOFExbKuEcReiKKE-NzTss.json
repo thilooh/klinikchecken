@@ -349,6 +349,18 @@
       "translated": false
     },
     {
+      "author_name": "Daria Rodziewicz",
+      "author_url": "https://www.google.com/maps/contrib/109116689396521210456/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKirfPcYP9EmHCG3KpWevhTGSZhfgIu6m3r27dZ97TjJoMv7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
+      "text": "Frau Paschenko, Sie ist the best:)",
+      "time": 1778578826,
+      "translated": false
+    },
+    {
       "author_name": "Katja Seifried",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
@@ -515,5 +527,5 @@
   "rating": 5,
   "reviewCount": 97,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:25.806Z"
+  "lastUpdated": "2026-09-10T09:22:38.357Z"
 }

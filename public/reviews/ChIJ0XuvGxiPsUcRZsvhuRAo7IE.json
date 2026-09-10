@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Robert Schroeter",
+      "author_url": "https://www.google.com/maps/contrib/109283050856725755206/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9gibKS29jaGN-pAHUOo1ksW-4U7RqHLvXIanLlqLpPtGKPNDA6A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hervorragende Betreuung und Behandlung – uneingeschränkt empfehlenswert! Unsere 8 Jahre junge Tochter wurde mit absolut BESTEM Ergebnis im Gesicht operiert!\n\nIch möchte mich ganz herzlich bei Frau Dr. Stier und dem gesamten Team des Dermatologikums Hamburg für die hervorragende Betreuung im Rahmen meiner plastisch-gesichtschirurgischen Behandlung bedanken.\n\nSowohl die präoperative als auch die postoperative Betreuung sind wirklich großartig verlaufen. Von der ersten Beratung bis zur Nachsorge habe ich mich jederzeit bestens aufgehoben, verstanden und kompetent betreut gefühlt. Die gesamte Behandlung war von Anfang bis Ende hervorragend organisiert und sehr professionell.\n\nBesonders positiv hervorheben möchte ich die außergewöhnlich gute und wertschätzende Kommunikation. Alle Fragen wurden ausführlich und verständlich beantwortet, und ich hatte zu jeder Zeit das Gefühl, dass ausreichend Zeit für mich und meine Anliegen genommen wurde. Diese persönliche und vertrauensvolle Betreuung hat mir sehr viel Sicherheit gegeben.\n\nIch bin mit dem gesamten Ablauf und der Betreuung durch Frau Dr. Stier und ihr Team äußerst zufrieden und kann das Dermatologikum Hamburg und insbesondere Frau Dr. Stier uneingeschränkt weiterempfehlen.\n\nVielen Dank für die tolle Betreuung von Anfang bis Ende!",
+      "time": 1788976719,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Gloger",
+      "author_url": "https://www.google.com/maps/contrib/110528546235932586888/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPtYlcESC9o8My6pK6GoPBiztz_nvKrp3oCHAQyi5nKRlAqA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich suchte die Praxis aufgrund einer Beratung zur Entfernung einer Warze auf. Anstelle einer Beratung wurde direkt mit einer schmerzhaften Entfernung begonnen. Zwei Tage danach blutete die Wunde weiterhin, eine Beratung oder Aufklärung fand nicht statt. Aus meiner Sicht absolut unprofessionell.",
+      "time": 1788895672,
+      "translated": false
+    },
+    {
       "author_name": "Hanna",
       "author_url": "https://www.google.com/maps/contrib/109956232120549378258/reviews",
       "language": "de",
@@ -52,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKKwlgzilYFBZIBLnjTbAxdlsCtxMrZzQWS0RfEh_j035xAtTE=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1787760307,
+      "translated": false
+    },
+    {
+      "author_name": "J. K.",
+      "author_url": "https://www.google.com/maps/contrib/106949153052500914136/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKKwlgzilYFBZIBLnjTbAxdlsCtxMrZzQWS0RfEh_j035xAtTE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1787760307,
       "translated": false
@@ -1366,7 +1400,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 458,
+  "reviewCount": 460,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:32.024Z"
+  "lastUpdated": "2026-09-10T09:22:44.061Z"
 }

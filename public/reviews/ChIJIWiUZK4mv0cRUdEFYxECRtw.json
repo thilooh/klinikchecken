@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Ano nym",
+      "author_url": "https://www.google.com/maps/contrib/115839478701816542607/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIayCKcP13lKo-hmoWgsMUycPDphqSGAI2aMiZN0b4-6JCmRg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war insgesamt bei 5 verschiedenen Hautärzten in den letzten Jahren und habe bei Dr. Julia Hölker die bisher besten Ergebnisse gehabt. Das Team ist sehr freundlich. Nur zu empfehlen.",
+      "time": 1787132806,
+      "translated": false
+    },
+    {
       "author_name": "Jan Schubert",
       "author_url": "https://www.google.com/maps/contrib/110156331981471327225/reviews",
       "language": "de",
@@ -711,5 +723,5 @@
   "rating": 4.2,
   "reviewCount": 69,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:24.407Z"
+  "lastUpdated": "2026-09-10T09:22:36.941Z"
 }

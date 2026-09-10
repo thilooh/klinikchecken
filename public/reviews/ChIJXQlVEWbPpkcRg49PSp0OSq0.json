@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Eric Vogelgesang",
+      "author_url": "https://www.google.com/maps/contrib/110658120436564910965/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsFg51xO3447U48cI1UeFEcAYTCIZHndwzBy8Itmpz4kgpTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Finde den Mann absolut kompetent und sympathisch.\n\nDie besten Ärzte sind nunmal die, die offen deine Probleme ansprechen und nichts vor dir verstecken.\n\nDas ist keine Unfreundlichkeit, sondern eine Selbstverständlichkeit!",
+      "time": 1788935929,
+      "translated": false
+    },
+    {
       "author_name": "Peter Flemmig",
       "author_url": "https://www.google.com/maps/contrib/101337639593714811361/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrg_GVsJgCCOcQ7sGvPc-YWaQXwXnvx-PTO1qavExD806Jmw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -422,11 +434,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:57:15.713Z"
+  "lastUpdated": "2026-09-10T09:23:22.524Z"
 }

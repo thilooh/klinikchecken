@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Roland Geselle",
+      "author_url": "https://www.google.com/maps/contrib/116998386041521434468/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6nvBl6nJPYRqAHd6n-x9fKam3aS4pPJtH1MWGodbhh5YDyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute das erste Mal wegen einer Gefäßuntersuchung in der Praxis von Dr.Sharaf und habe mich richtig Wohl gefühlt. Das begann schon mit einem herzlichen und freundlichen Empfang und setzte sich in einer ausgiebigen und sehr informativen Untersuchung fort. Keine Hektik, hier ist der Patient noch ein Mensch....Danke an das gesamte Team",
+      "time": 1788964376,
+      "translated": false
+    },
+    {
+      "author_name": "Heike Jäger",
+      "author_url": "https://www.google.com/maps/contrib/108295159675583397131/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINRs5rhrGM7pevnDG3Nq0xkxNIM-BkjjfAMt7EG-eN4_MGhg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788928639,
+      "translated": false
+    },
+    {
       "author_name": "depeche 77",
       "author_url": "https://www.google.com/maps/contrib/117318064138633727577/reviews",
       "language": "de",
@@ -696,11 +718,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 73,
+  "reviewCount": 75,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:55.087Z"
+  "lastUpdated": "2026-09-10T09:23:04.438Z"
 }

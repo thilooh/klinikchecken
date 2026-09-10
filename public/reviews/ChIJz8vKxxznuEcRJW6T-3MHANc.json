@@ -35,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "Marco Marco",
+      "author_url": "https://www.google.com/maps/contrib/114613634473548589219/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGOSA_VIdGBEbRIpJph6d6yf4Sm6JZQxiKo3aFFtogfsBVZDI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788327984,
+      "translated": false
+    },
+    {
       "author_name": "Nele",
       "author_url": "https://www.google.com/maps/contrib/111463897631578523119/reviews",
       "language": "de",
@@ -42,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX26ophATaotBaYe6PJXs9E6xiQzLqj23c9J9V6OYgMPhhPA1TE=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Hautkrebsvorsorge bei Frau Dr. Krosta und bin sehr begeistert. Bin überpünktlich dran gekommen, die MFAs waren alle sehr nett und Frau Dr. Krosta hat mir viel während der Vorsorge erklärt. War der bisher angenehmste Hautkrebsvorsorgetermin!",
+      "time": 1788245469,
+      "translated": false
+    },
+    {
+      "author_name": "Nele",
+      "author_url": "https://www.google.com/maps/contrib/111463897631578523119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX26ophATaotBaYe6PJXs9E6xiQzLqj23c9J9V6OYgMPhhPA1TE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute zur Hautkrebsvorsorge bei Frau Dr. Krosta und bin sehr begeistert. Bin überpünktlich dran gekommen, die MFAs waren alle sehr nett und Frau Dr. Krosta hat mir viel während der Vorsorge erklärt. War der bisher angenehmste Hautkrebsvorsorgetermin!",
       "time": 1788245469,
       "translated": false
@@ -1400,5 +1422,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:58.440Z"
+  "lastUpdated": "2026-09-10T09:23:07.374Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tobias Rainer",
+      "author_url": "https://www.google.com/maps/contrib/114407967103665820752/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-rGMPY1Q6HQVRj-mmq_r4smv98b8UAb6XESsmSl3LgySnUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir sind von Frau Claudia sehr freundlich und hilfsbereit empfangen worden.\nFrau Dr. med Fathinia Grafl und Herr Prof. Dr. med. Heinz Maier waren ebenfalls sehr freundlich und konnten meiner Frau gut helfen.\nIch kann das komplette Team absolut weiterempfehlen.",
+      "time": 1788970575,
+      "translated": false
+    },
+    {
       "author_name": "Carola Eppinger",
       "author_url": "https://www.google.com/maps/contrib/117443157157512610347/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2672Z4zUdA4KPNMdj4JoN82hFPtzXmdwHDTqyFY-uwMlkBm8=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Dr. Mühlmeier ist ein unfassbar kompetenter und sehr sympathischer HNO, der mir geholfen hat, jahrelange Schmerzen am Ohr zu beheben und meinen Tinnitus stark vermindert hat. Da die Behandlung noch andauert, hoffe ich auf weitere Besserung. auch sein Team ist sehr zuvorkommend, man fühlt sich sehr wohl und ernstgenommen.",
+      "time": 1786532442,
+      "translated": false
+    },
+    {
+      "author_name": "Carola Eppinger",
+      "author_url": "https://www.google.com/maps/contrib/117443157157512610347/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2672Z4zUdA4KPNMdj4JoN82hFPtzXmdwHDTqyFY-uwMlkBm8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Dr. Mühlmeier ist ein unfassbar kompetenter und sehr sympathischer HNO, der mir geholfen hat, jahrelange Schmerzen am Ohr zu beheben und meinen Tinnitus stark vermindert hat. Da die Behandlung noch andauert, hoffe ich auf weitere Besserung. auch sein Team ist sehr zuvorkommend, man fühlt sich sehr wohl und ernstgenommen.",
       "time": 1786532442,
       "translated": false
@@ -734,11 +758,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 142,
+  "reviewCount": 143,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:46.529Z"
+  "lastUpdated": "2026-09-10T09:22:56.872Z"
 }

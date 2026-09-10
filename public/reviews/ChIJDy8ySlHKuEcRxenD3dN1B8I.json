@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ramona Salewski",
+      "author_url": "https://www.google.com/maps/contrib/108852135516800986556/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL95MX7Z4zi-e0l9gwlBrzLVPw-h3QUt2d9xy55NKtgwC46xA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Hyaluronidase-Behandlung in der Praxis und wurde von Anfang an super aufgeklärt und sehr herzlich betreut. Ich habe mich direkt wohl und gut aufgehoben gefühlt.\n\nSchon jetzt bin ich total zufrieden mit dem Ergebnis und vor allem glücklich, dass ich endlich keine Hubbel mehr an der Lippe habe.\n\nVielen Dank für die tolle Behandlung und die ausführliche Beratung! Ich kann die Praxis wirklich von Herzen weiterempfehlen.",
+      "time": 1788882310,
+      "translated": false
+    },
+    {
       "author_name": "Patrick Langer",
       "author_url": "https://www.google.com/maps/contrib/109427396857424404440/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLEx0kOnMSEsjfGlF7v-kUNBeDRinIQb411m9DnrTtPjVJNw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Bei einem akuten Notfall habe ich sehr kurzfristig Hilfe erhalten, inklusive kurzfristiger Folgetermine. Das Team war dabei auch stets freundlich und kompetent. Daher komme ich immer gerne wieder hier hin.",
+      "time": 1786369499,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Langer",
+      "author_url": "https://www.google.com/maps/contrib/109427396857424404440/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLEx0kOnMSEsjfGlF7v-kUNBeDRinIQb411m9DnrTtPjVJNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Bei einem akuten Notfall habe ich sehr kurzfristig Hilfe erhalten, inklusive kurzfristiger Folgetermine. Das Team war dabei auch stets freundlich und kompetent. Daher komme ich immer gerne wieder hier hin.",
       "time": 1786369499,
       "translated": false
@@ -1307,7 +1331,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 238,
+  "reviewCount": 239,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:26.320Z"
+  "lastUpdated": "2026-09-10T09:22:38.862Z"
 }

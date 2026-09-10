@@ -97,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Gaby",
+      "author_url": "https://www.google.com/maps/contrib/107595053606798544546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQYcVJ5wecTX_K7DwZ6C3PZ9nfw1Qii58psQayFY_YYbKEC8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr unfreundliche Dame am Empfang.",
+      "time": 1786556724,
+      "translated": false
+    },
+    {
       "author_name": "Annika Heiser",
       "author_url": "https://www.google.com/maps/contrib/105716238385118057860/reviews",
       "language": "de",
@@ -260,6 +272,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv6VtX4DKF9pHD3EVRepwfEudIZC5wcTkbXzy5vid3s07wUCg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Dr. Jochem ist ein sehr netter und kompetenter Arzt, der sich viel Zeit nimmt.\nDie Praxis ist sehr gut organisiert, sodass es kaum Wartezeit gibt.\nAuch die Mitarbeiter sind sehr nett.\nFür den Ruhestand wünsche ich Dr. Jochem alles Gute!\nHerzliche Grüße!",
+      "time": 1781112275,
+      "translated": false
+    },
+    {
+      "author_name": "AnFi",
+      "author_url": "https://www.google.com/maps/contrib/109951440294874908852/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv6VtX4DKF9pHD3EVRepwfEudIZC5wcTkbXzy5vid3s07wUCg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Dr. Jochem ist ein sehr netter und kompetenter Arzt, der sich viel Zeit nimmt.\nDie Praxis ist sehr gut organisiert, sodass es kaum Wartezeit gibt.\nAuch die Mitarbeiter sind sehr nett.\nFür den Ruhestand wünsche ich Dr. Jochem alles Gute!\nHerzliche Grüße!",
       "time": 1781112275,
       "translated": false
@@ -616,5 +640,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:57:13.957Z"
+  "lastUpdated": "2026-09-10T09:23:20.920Z"
 }

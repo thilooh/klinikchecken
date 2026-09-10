@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Toralf Koch",
+      "author_url": "https://www.google.com/maps/contrib/112696192704994150078/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEUqu9Ehj4Ot5AYB9Z_eWTcmjnEtXkC0l90EmdoQU6kozUdhYn=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von der Diagnostik mit ausführlicher Beratung über die Terminvereinbarung, die OP und Nachkontrollen. Alles perfekt und professionell. Vielen Dank an das Team des Venen- und OP Zentrum für die super Behandlung. Ich würde gerne noch mehr Sterne vergeben... es gehen aber nur 5...",
+      "time": 1789025611,
+      "translated": false
+    },
+    {
       "author_name": "Ilona Heinrich",
       "author_url": "https://www.google.com/maps/contrib/103275567313823729587/reviews",
       "language": "de",
@@ -320,6 +332,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4K1Wm0kpPk4AR2O66MQCqIs3QKq0EFo4wqHkAk5pqoNEI8Qs=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr schöne, neue Praxis nach Umzug. Das Personal ist sehr freundlich und kompetent.\nDer Wartebereich ist gemütlich, Wasser und was zu lesen steht den Wartenden frei zur Verfügung.\nDie Wartezeit ist gering!\nFrau Dr. Theus ist eine hervorragende Ärztin, sehr einfühlsam, immer freundlich, nimmt sich Zeit für ihre Patienten und hört zu! Ich fühle mich hier sehr gut aufgehoben, behandelt und mit meinen Sorgen verstanden. 👍❤️",
+      "time": 1781097934,
+      "translated": false
+    },
+    {
+      "author_name": "Pünktchen",
+      "author_url": "https://www.google.com/maps/contrib/108141967727085362271/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4K1Wm0kpPk4AR2O66MQCqIs3QKq0EFo4wqHkAk5pqoNEI8Qs=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Sehr schöne, neue Praxis nach Umzug. Das Personal ist sehr freundlich und kompetent.\nDer Wartebereich ist gemütlich, Wasser und was zu lesen steht den Wartenden frei zur Verfügung.\nDie Wartezeit ist gering!\nFrau Dr. Theus ist eine hervorragende Ärztin, sehr einfühlsam, immer freundlich, nimmt sich Zeit für ihre Patienten und hört zu! Ich fühle mich hier sehr gut aufgehoben, behandelt und mit meinen Sorgen verstanden. 👍❤️",
       "time": 1781097934,
       "translated": false
@@ -710,11 +734,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 64,
+  "reviewCount": 65,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:52.277Z"
+  "lastUpdated": "2026-09-10T09:23:01.979Z"
 }

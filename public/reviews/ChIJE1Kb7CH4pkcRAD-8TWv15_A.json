@@ -55,6 +55,16 @@
       "translated": false
     },
     {
+      "author_name": "TheSkyHai",
+      "author_url": "https://www.google.com/maps/contrib/116546298399953512170/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgwgusmygSy-5tcsF-h_BBxlWRmkbN0aB2wAlUsewkIoCBug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1787163878,
+      "translated": false
+    },
+    {
       "author_name": "Petra",
       "author_url": "https://www.google.com/maps/contrib/110925330810781984371/reviews",
       "language": "de",
@@ -370,5 +380,5 @@
   "rating": 4.9,
   "reviewCount": 66,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:32.530Z"
+  "lastUpdated": "2026-09-10T09:22:44.511Z"
 }

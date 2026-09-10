@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Simone -",
+      "author_url": "https://www.google.com/maps/contrib/115171891106495192036/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGzNxgJxd5Y_4fRTXE1BN8R5Mr2iRG1pYkEjhZwDIMgO7Uaw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als neue Patientin konnte ich bei einem akuten Anliegen sehr schnell einen Termin bekommen.\nIch wurde von einer sehr netten Ärztin sehr gut beraten und mir wurde geholfen.\nAbsolute Empfehlung!",
+      "time": 1788886776,
+      "translated": false
+    },
+    {
       "author_name": "Sophia",
       "author_url": "https://www.google.com/maps/contrib/114102948320569283447/reviews",
       "language": "de",
@@ -849,11 +861,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 104,
+  "reviewCount": 105,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:56:21.309Z"
+  "lastUpdated": "2026-09-10T09:22:34.100Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mari Mos",
+      "author_url": "https://www.google.com/maps/contrib/101593201820204623824/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMGQ2VlodtEXRPrFmEpjt9qQnFE25_5TZ9CkljHzxFTKZe-k-0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches und höfliches Personal. Die Ärztin war sehr aufmerksam, hat sich viel Zeit für mich genommen und ist auf meine Fragen eingegangen. Ich habe mich sehr gut aufgehoben und ernst genommen gefühlt.",
+      "time": 1788965652,
+      "translated": false
+    },
+    {
       "author_name": "Inge Esser",
       "author_url": "https://www.google.com/maps/contrib/106933708334017509186/reviews",
       "language": "de",
@@ -1157,12 +1169,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 235,
+  "rating": 4.6,
+  "reviewCount": 237,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:42.757Z"
+  "lastUpdated": "2026-09-10T09:22:53.536Z"
 }

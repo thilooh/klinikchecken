@@ -1,11 +1,43 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine Boruta",
+      "author_url": "https://www.google.com/maps/contrib/113813748468662958588/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLs4haCJbqImX2edCS3FfUZATYdk5lLriZqZdTseLKNW-d6hw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788886106,
+      "translated": false
+    },
+    {
+      "author_name": "Melina Naumann",
+      "author_url": "https://www.google.com/maps/contrib/112277320755816565141/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnQIQsTuKoeQtVTc_fmhlhqmTTlLpZuSJcz2yH-UpcOwAkTZoA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist super modern, sowohl organisatorisch, als auch was die Behandlungen angeht, machen sie einen guten Eindruck. Ich habe hier mein Hautkrebs Screening machen lassen und es wurde ein Muttermal entfernt, dabei sind sie sehr ordentlich und einfühlsam vorgegangen. Außerdem habe ich meine Couperose Lasern lassen und diese ist wirklich nach zwei Behandlungen fast komplett verschwunden! 😯 damit habe ich selbst noch nicht mal gerechnet und bin sehr begeistert. Danach war es natürlich erstmal gerötet aber man hat sofort gesehen, dass die Äderchen wie durch Zauberhand einfach verschwunden waren.",
+      "time": 1788780654,
+      "translated": false
+    },
+    {
       "author_name": "Θεοχαρης Χαλεντ",
       "author_url": "https://www.google.com/maps/contrib/102120041234006362564/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKDCpYxzn4KfMXL51ShSjjOOHdU0vE-cV9T6P_gGvHU_bD7w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788207679,
+      "translated": false
+    },
+    {
+      "author_name": "Θεοχαρης Χαλεντ",
+      "author_url": "https://www.google.com/maps/contrib/102120041234006362564/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKDCpYxzn4KfMXL51ShSjjOOHdU0vE-cV9T6P_gGvHU_bD7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1788207679,
       "translated": false
@@ -1354,11 +1386,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 265,
+  "reviewCount": 267,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-07T09:56:35.302Z"
+  "lastUpdated": "2026-09-10T09:22:46.990Z"
 }

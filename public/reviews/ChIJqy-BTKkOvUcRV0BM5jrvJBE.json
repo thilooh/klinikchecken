@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "J S",
+      "author_url": "https://www.google.com/maps/contrib/100441017571586089171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFqRe4ZhkzP6rdPHujRrwJa5AqnWw8xPyilTWxA8bAMYu-Fg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit fast 10 Jahren dort in Behandlung und hatte zwei ambulante OPs. Dr. Böhm ist sehr einfühlsam, empathisch und auf Augenhöhe. Das Team ist sehr professionell und gut organisiert. Ich musste nie lang warten.",
+      "time": 1788978680,
+      "translated": false
+    },
+    {
       "author_name": "S. C.",
       "author_url": "https://www.google.com/maps/contrib/108591993018516008015/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ92rfbBibI3lMwyUWIGAexqHCPIJHNFj_oU-roqJ63qRKx8w=s128-c0x00000000-cc-rp-mo",
@@ -398,7 +410,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 73,
+  "reviewCount": 74,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:27.826Z"
+  "lastUpdated": "2026-09-10T09:22:40.132Z"
 }

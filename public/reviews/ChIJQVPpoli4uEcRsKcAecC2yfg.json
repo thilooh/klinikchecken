@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alex M",
+      "author_url": "https://www.google.com/maps/contrib/115103483381902283658/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWicywVfQakxREC5t7Ie2tZn50NXOfYZaQd_T7ZBtPnTD9TAmZ6=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Praxis leider nicht empfehlen. Die Ärztin hat sich meine Haut nur für wenige Sekunden angesehen und keine gründliche Untersuchung durchgeführt. Ich hatte gehofft, dass eine Probe entnommen oder weitere Untersuchungen gemacht werden, um die Ursache des Problems festzustellen. Stattdessen wurde mir lediglich eine Salbe verschrieben, ohne eine klare Erklärung oder Diagnose. Zudem empfand ich die Art der Behandlung als wenig freundlich und wenig interessiert. Insgesamt eine enttäuschende Erfahrung.",
+      "time": 1788992200,
+      "translated": false
+    },
+    {
       "author_name": "Hamid Akbari",
       "author_url": "https://www.google.com/maps/contrib/113187488112431666692/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAGuNiI61xq22dXHEqJPMY1fBb79KjeEJLvhIO1PosZ4XU7dE=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr Sehr angenehme Praxis,  sehr empfehlenswert",
+      "time": 1786479483,
+      "translated": false
+    },
+    {
+      "author_name": "Hamid Akbari",
+      "author_url": "https://www.google.com/maps/contrib/113187488112431666692/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAGuNiI61xq22dXHEqJPMY1fBb79KjeEJLvhIO1PosZ4XU7dE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr Sehr angenehme Praxis,  sehr empfehlenswert",
       "time": 1786479483,
       "translated": false
@@ -812,11 +836,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 111,
+  "reviewCount": 112,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:56:44.290Z"
+  "lastUpdated": "2026-09-10T09:22:54.877Z"
 }

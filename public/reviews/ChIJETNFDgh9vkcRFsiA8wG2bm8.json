@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Melanie Linscheid",
+      "author_url": "https://www.google.com/maps/contrib/101121188288344055540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcvj9II3EEIhtIq0UmPjeV32hjdnVPl5WD1qGUm65ALjonJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein extrem nettes Team, sowohl Empfang, Arzthelferin,Arzt. Absolut top. Sehr freundlich. Absolut empfehlenswert.",
+      "time": 1788973098,
+      "translated": false
+    },
+    {
       "author_name": "Costina Mihaela CRĂCIUN",
       "author_url": "https://www.google.com/maps/contrib/107206090979785358974/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4lfLsd7rjImxaT6JBfCQZBX9NsJCfLf7MGOV9gsYPAOqt8YW6Rw=s128-c0x00000000-cc-rp-mo-ba5",
@@ -700,11 +712,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 45,
+  "reviewCount": 46,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-09-07T09:57:12.462Z"
+  "lastUpdated": "2026-09-10T09:23:19.584Z"
 }

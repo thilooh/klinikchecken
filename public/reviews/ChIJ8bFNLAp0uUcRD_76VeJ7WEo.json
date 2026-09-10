@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Burak Arslan",
+      "author_url": "https://www.google.com/maps/contrib/113022601675019430817/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3Vo1fZ5l-mzUsHtLdPPtu_l822K_y8i9Yz1BiqLvdUbVtjw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Krankenschwester Maria war sehr nett beim Notaufnahme. Ich bin sehr dankbar an ihr...",
+      "time": 1788381764,
+      "translated": false
+    },
+    {
       "author_name": "H. Wr",
       "author_url": "https://www.google.com/maps/contrib/113830619160288938113/reviews",
       "language": "de",
@@ -108,6 +120,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN_ridkrBCxWNACKun4fOPdMpsLVYzu5C62thObpeiH6COHg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1786374712,
+      "translated": false
+    },
+    {
+      "author_name": "Marc “Der Alte” Langer",
+      "author_url": "https://www.google.com/maps/contrib/115806252562292020085/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN_ridkrBCxWNACKun4fOPdMpsLVYzu5C62thObpeiH6COHg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1786374712,
       "translated": false
@@ -490,5 +512,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-07T09:57:00.914Z"
+  "lastUpdated": "2026-09-10T09:23:09.601Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Gabriel Calarasu",
+      "author_url": "https://www.google.com/maps/contrib/105081057562410184984/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqkrM2lD4RSe4WJjIX0HYfyshohLcI6B27L5U_VX4sT6O-ucBx=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789021070,
+      "translated": false
+    },
+    {
+      "author_name": "A.Rajcevic",
+      "author_url": "https://www.google.com/maps/contrib/108075819048645641151/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEovOEI-qS-vpidcYBezJ_ysR_CWA4H8wJpxk2Fil6zx2eVlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches und kompetentes Team! Super Service, flexible Terminvergabe und hervorragende Arbeit. Man fühlt sich rundum gut aufgehoben. Absolut empfehlenswert!",
+      "time": 1788895091,
+      "translated": false
+    },
+    {
       "author_name": "F. H.",
       "author_url": "https://www.google.com/maps/contrib/116738540957976013225/reviews",
       "language": "de",
@@ -1077,7 +1099,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 298,
+  "reviewCount": 300,
   "summary": [],
-  "lastUpdated": "2026-09-07T09:56:27.335Z"
+  "lastUpdated": "2026-09-10T09:22:39.629Z"
 }

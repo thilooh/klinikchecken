@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "AboMohamad19713@gmail.com 122333123*#",
+      "author_url": "https://www.google.com/maps/contrib/102900308346666563703/reviews",
+      "language": "ar",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz514Fq-z7fli0EE4vYTiUOIpsobewURA62IOozVIOxd1ewtc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "أنهم لطيفين و جيدين انصح بهم",
+      "time": 1788787113,
+      "translated": false
+    },
+    {
       "author_name": "Ammar Ammar",
       "author_url": "https://www.google.com/maps/contrib/114763712949806231242/reviews",
       "language": "ar",
@@ -61,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Mohammad Othman",
+      "author_url": "https://www.google.com/maps/contrib/117625248792812796540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt8FLcmYuS7vo7nDPVTVEN4T9dpH_PH5R5kwp7Y7mDWF0X8YKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Netter Umgang und hilfreiche Behandlung.\nAlso Empfehlenswert",
+      "time": 1787208169,
+      "translated": false
+    },
+    {
       "author_name": "Alaa Almajun",
       "author_url": "https://www.google.com/maps/contrib/104586541847206550971/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
@@ -96,6 +120,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1786457359,
+      "translated": false
+    },
+    {
+      "author_name": "Alaa Almajun",
+      "author_url": "https://www.google.com/maps/contrib/104586541847206550971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1786457359,
       "translated": false
@@ -1202,11 +1236,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 392,
+  "reviewCount": 393,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:57:00.657Z"
+  "lastUpdated": "2026-09-10T09:23:09.371Z"
 }

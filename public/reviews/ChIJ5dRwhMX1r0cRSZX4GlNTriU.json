@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alexandra Giorgi",
+      "author_url": "https://www.google.com/maps/contrib/111579433672422539333/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkNlTOsL75x2fo94r_8JdFiVhKaJV0auYhagfM2oFHbBlVgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Klinik kann ich bestens weiterempfehlen. Ich wurde von Dr.Chweri untersucht, der auf mich sehr kompetent wirkte. Ein wirklich sehr netter Arzt , was heute leider eine Seltenheit ist. Allgemein war das gesamte Personal sehr freundlich und hilfsbereit. Gerne empfehle ich diese Klinik weiter.",
+      "time": 1788808238,
+      "translated": false
+    },
+    {
       "author_name": "imran sarwar",
       "author_url": "https://www.google.com/maps/contrib/103224516610353894981/reviews",
       "language": "de",
@@ -480,11 +492,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 139,
+  "reviewCount": 140,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-07T09:56:37.814Z"
+  "lastUpdated": "2026-09-10T09:22:49.212Z"
 }

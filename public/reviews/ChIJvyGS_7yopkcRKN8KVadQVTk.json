@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jens Mueller",
+      "author_url": "https://www.google.com/maps/contrib/111505022499907362650/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgJoXrHFzIARaOAp3ZZB3FBpKfp_MpB28Ny-tC3t-AIsLDPcLz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788981299,
+      "translated": false
+    },
+    {
       "author_name": "K.S.",
       "author_url": "https://www.google.com/maps/contrib/112104097890996598467/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZtsvfFxJSVzQsKCzgMTiN_zH2aCmzcZU3zy0KFTo2HxI2=s128-c0x00000000-cc-rp-mo-ba3",
@@ -124,6 +134,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTZ_YREK36kp3ZdYiBOyDIEz8nFfEP7BFKsCvRWmDo4oPtjOrEKg=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nette Schwestern am Telefon und einen Termin online zu bekommen unmöglich.Man kann ja nicht 24 h 7 am Telefon sein um einen Termin zu ergattern.\nDa hilft nur eine Überweisung mit einem Tss Code von ihrem behandelten Arzt, dann bekommt man einen Termin.\nIch kann es auch verstehen.\nWo gibt es solch eine Praxis in Thüringen für das Problem Lipödem.\nTrotzdem bekommen sie vorab 4 Sterne, für ihre Mühe am Telefon.\nIrgendwann klappt es.",
+      "time": 1787083839,
+      "translated": false
+    },
+    {
+      "author_name": "Simone Koenitzer",
+      "author_url": "https://www.google.com/maps/contrib/116831800330590088223/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTZ_YREK36kp3ZdYiBOyDIEz8nFfEP7BFKsCvRWmDo4oPtjOrEKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr nette Schwestern am Telefon und einen Termin online zu bekommen unmöglich.Man kann ja nicht 24 h 7 am Telefon sein um einen Termin zu ergattern.\nDa hilft nur eine Überweisung mit einem Tss Code von ihrem behandelten Arzt, dann bekommt man einen Termin.\nIch kann es auch verstehen.\nWo gibt es solch eine Praxis in Thüringen für das Problem Lipödem.\nTrotzdem bekommen sie vorab 4 Sterne, für ihre Mühe am Telefon.\nIrgendwann klappt es.",
       "time": 1787083839,
       "translated": false
@@ -1212,11 +1234,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 207,
+  "reviewCount": 208,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-09-07T09:57:13.451Z"
+  "lastUpdated": "2026-09-10T09:23:20.469Z"
 }

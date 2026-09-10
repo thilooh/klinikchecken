@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Bernd Köbel",
+      "author_url": "https://www.google.com/maps/contrib/116245235030187363161/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFQtOPlm53Qt-1aldyasOXSmSNY-jzJh5NafwIa0UOuH2xHg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr beeindruckt,alles sauber und funktionell.Personal höflich,fachlich kompetent und nett",
+      "time": 1788956362,
+      "translated": false
+    },
+    {
+      "author_name": "Norman Mierswa",
+      "author_url": "https://www.google.com/maps/contrib/108736858245699152389/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlq-C9Xvt1jezlmdavOveMJ354yVYefxlbvLjeVtBhIAeX3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Personal und hervorragende Betreuung 👍\nVon mir gibt es dafür ein\ngroßes Dankeschön 🙏",
+      "time": 1788948289,
+      "translated": false
+    },
+    {
+      "author_name": "Claudia",
+      "author_url": "https://www.google.com/maps/contrib/102860118090944331626/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbciSa4fKh0_U91UVEm-IKw3iIaI642e9zIXsazfa-TsuQMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788874504,
+      "translated": false
+    },
+    {
+      "author_name": "Madlen Balke",
+      "author_url": "https://www.google.com/maps/contrib/113499274336569280308/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmwwMB55xc2C-4hTeEvvMgRGnLjcOHzqhHv3ER-SQh81XepA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles lief super, von Organisation, bis OP und Nachsorge. Ich kann es nur empfehlen.",
+      "time": 1788845999,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Meißner",
       "author_url": "https://www.google.com/maps/contrib/105360690975325256564/reviews",
       "language": "de",
@@ -1348,11 +1394,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 482,
+  "reviewCount": 487,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-07T09:56:38.568Z"
+  "lastUpdated": "2026-09-10T09:22:49.885Z"
 }
