@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rudi Ernsthaft",
+      "author_url": "https://www.google.com/maps/contrib/115540978245465124347/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWTpGi2dzMKWQyIYVfoxvcPqfIdeN6kbnyS3cOu7ju5vyjnw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr geehrte Damen und Herren und Doctores heute am 10.09.2026, war ich in der Hautarztpraxis Dr Wahn Frau Dr Clemens Cramer a. A. SOLLTE NUR DAS ERGEBNIS DER GEWEBS PROBE MIT MIR BESPRECHEN UND DIE DREI FÄDEN ZIEHEN. DIE FÄDEN WURDEN NICHT GEZOGEN UND DICH SOLLE MIR DIE NÄCHSTE WOCHE IM KRANKENHAUS ZIEHEN LASSEN. ICH WURD SEEEEEHR SCHLECHT BEHANDELT, UMD ICH BIN PRIVATPATIENT, WIE GEHT MAN ERST MIT KASSENPATIENTEN um? DIE RECHNUNG HATTE ICH SCHON 3 Tage nach Behandlung in der Post Niie wieder Das Personal an der Rezeption war sehr freundlich Mein Nam ist U Kania",
+      "time": 1789056350,
+      "translated": false
+    },
+    {
       "author_name": "Sabine Boruta",
       "author_url": "https://www.google.com/maps/contrib/113813748468662958588/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLs4haCJbqImX2edCS3FfUZATYdk5lLriZqZdTseLKNW-d6hw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -1386,11 +1398,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 267,
+  "reviewCount": 268,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-10T09:22:46.990Z"
+  "lastUpdated": "2026-09-13T09:59:26.867Z"
 }

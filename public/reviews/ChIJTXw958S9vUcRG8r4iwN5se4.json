@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jutta Hellbach",
+      "author_url": "https://www.google.com/maps/contrib/111997961321743703947/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8Cibv7YGUwET3hR74P-9Uxu9_F1PyyiIb32Iomd46KvSPVLFT=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Praxis.\nMir wurde ein Basaliom entfernt von Dr. Broichmann, alles gut gelaufen, Fr.Dr. Jetter Nachuntersuchung, ebenfalls sehr gut, eine gut organisierte Praxis, ich hatte Termin verwechselt und kam einen Tag zu früh, ich wurde nicht weggeschickt, sondern trotzdem behandelt, bin sehr zufrieden und werde der Praxis treu bleiben, kann sie nur empfehlen, trotz großem Patienten Aufkommen immer freundlich und für den Patienten..",
+      "time": 1789059555,
+      "translated": false
+    },
+    {
       "author_name": "Mario F",
       "author_url": "https://www.google.com/maps/contrib/113446740378371566872/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuIVm0kAEUCTOjDlpd5HVxs9fFAKxDJhsKWS86MBfgEUFFygc=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war hier in Behandlung, doch direkt bei der Terminvereinbarung hat man mir gesagt, dass Hautscreening nur gegen Rechnung und Barzahlung durchgeführt wird. Das \"normale\" Hautscreening als Kassenleistung bietet man hier nicht an.",
+      "time": 1787824607,
+      "translated": false
+    },
+    {
+      "author_name": "Acrylium",
+      "author_url": "https://www.google.com/maps/contrib/113339335517554207334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuIVm0kAEUCTOjDlpd5HVxs9fFAKxDJhsKWS86MBfgEUFFygc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war hier in Behandlung, doch direkt bei der Terminvereinbarung hat man mir gesagt, dass Hautscreening nur gegen Rechnung und Barzahlung durchgeführt wird. Das \"normale\" Hautscreening als Kassenleistung bietet man hier nicht an.",
       "time": 1787824607,
       "translated": false
@@ -1306,11 +1330,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 155,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:23:03.536Z"
+  "lastUpdated": "2026-09-13T09:59:45.342Z"
 }

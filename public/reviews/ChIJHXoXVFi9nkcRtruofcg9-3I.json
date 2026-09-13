@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "NFO WerEWulF",
+      "author_url": "https://www.google.com/maps/contrib/105695241020959518358/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrAYm8PufYmPvQvtQaOF5cfoC_byIoUUC2G0Z92xdncRPeRLgLBQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789048851,
+      "translated": false
+    },
+    {
       "author_name": "Anke J",
       "author_url": "https://www.google.com/maps/contrib/113628344275001199519/reviews",
       "language": "de",
@@ -25,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Daniel Kufer",
+      "author_url": "https://www.google.com/maps/contrib/109517579458827283553/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4DhaMXGAObLU7K68SbBjSFOs9Lf5B6jRNdTsHQH1vxWOSFP3F-A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ein tolles Krankenhaus mit sehr freundlichen Mitarbeitern und Ärzten. Ich hoffe, mein Rücken wird wieder gut.",
+      "time": 1788600483,
+      "translated": false
+    },
+    {
       "author_name": "Franz",
       "author_url": "https://www.google.com/maps/contrib/104265507944541013861/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUErXCR0HYq9Lzt_x7KUsWCsn-3kH2XNAz3T0I29TO59diTQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war mit dem gesamten Ärzte Team sehr Zufrieden",
+      "time": 1788593267,
+      "translated": false
+    },
+    {
+      "author_name": "Franz",
+      "author_url": "https://www.google.com/maps/contrib/104265507944541013861/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUErXCR0HYq9Lzt_x7KUsWCsn-3kH2XNAz3T0I29TO59diTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war mit dem gesamten Ärzte Team sehr Zufrieden",
       "time": 1788593267,
       "translated": false
@@ -56,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkE_QZ7GMa2PAszugWB8p3_FOkQ22V4T80-GVvP4QRaJRYVw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war hier gesamt 3 Tage und hab meine Nase operieren lassen .\nDer Mann an der Patientenaufnahme war so nett , er hat sich ein Lob verdient . Man hat gemerkt dass er seinen Job  gerne macht .\nAlle sind so lieb und kompetent .\nIch hatte keine Angst als ich zur Narkose kam und die Nachsorge war ebenfalls sehr toll . Großes Danke an Station 10 .\n😊",
+      "time": 1787822972,
+      "translated": false
+    },
+    {
+      "author_name": "Lauren Birle",
+      "author_url": "https://www.google.com/maps/contrib/102796640193412065892/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkE_QZ7GMa2PAszugWB8p3_FOkQ22V4T80-GVvP4QRaJRYVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war hier gesamt 3 Tage und hab meine Nase operieren lassen .\nDer Mann an der Patientenaufnahme war so nett , er hat sich ein Lob verdient . Man hat gemerkt dass er seinen Job  gerne macht .\nAlle sind so lieb und kompetent .\nIch hatte keine Angst als ich zur Narkose kam und die Nachsorge war ebenfalls sehr toll . Großes Danke an Station 10 .\n😊",
       "time": 1787822972,
       "translated": false
@@ -1362,5 +1408,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-10T09:22:55.326Z"
+  "lastUpdated": "2026-09-13T09:59:36.235Z"
 }

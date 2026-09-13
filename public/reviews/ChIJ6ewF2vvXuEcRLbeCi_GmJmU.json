@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Beate Ueberholz",
+      "author_url": "https://www.google.com/maps/contrib/101882255654241705884/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlYlO5GQ2gN8API9RuGpSAH7-moJjgodjya082NOU9RcwGPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin hellauf begeistert.\nEigentlich müssten es 15 Sterne geben und für das Team noch mal bitte 5",
+      "time": 1789119717,
+      "translated": false
+    },
+    {
       "author_name": "Mari Mos",
       "author_url": "https://www.google.com/maps/contrib/101593201820204623824/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK75bxdE0fa93OV4r0L9jQ4Bfy0pdCxnntKzzdwFAHlyNA9qA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Frau Dr. Dith hat meine Mutter (93) heute sehr gut und liebevoll behandelt . Ich kann  sie nur bestens weiter empfehlen!",
+      "time": 1787922933,
+      "translated": false
+    },
+    {
+      "author_name": "Inge Esser",
+      "author_url": "https://www.google.com/maps/contrib/106933708334017509186/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK75bxdE0fa93OV4r0L9jQ4Bfy0pdCxnntKzzdwFAHlyNA9qA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Frau Dr. Dith hat meine Mutter (93) heute sehr gut und liebevoll behandelt . Ich kann  sie nur bestens weiter empfehlen!",
       "time": 1787922933,
       "translated": false
@@ -1170,11 +1194,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 237,
+  "reviewCount": 238,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:22:53.536Z"
+  "lastUpdated": "2026-09-13T09:59:34.264Z"
 }

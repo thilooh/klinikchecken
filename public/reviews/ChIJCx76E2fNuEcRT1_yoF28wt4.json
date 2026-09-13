@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Alexandra Möllenbeck",
+      "author_url": "https://www.google.com/maps/contrib/115701525583164109736/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO1TSwzcyzls-K4CNxH_sIbWYWeOGWeITgODof9TBrNOlmgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kann nur sagen von Anfang bis zum Ende fühlt man sich wie ein Privatpatient, auch wenn man nur Kassenpatient ist.\nIn allen Bereichen großartig Rezeption bis zu den Speise Fünf Sterne noch zu wenig. Wenn es ein Hotel wär, würde ich noch mal buchen..😂\nLieben Dank an das komplette Team",
+      "time": 1789135296,
+      "translated": false
+    },
+    {
+      "author_name": "BZ ZB",
+      "author_url": "https://www.google.com/maps/contrib/110885493192336633658/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6SI-fsMqxOS_-i7dqLf0V2q99YOL5I95bVmYixDrIOuUb-nY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Auf der Website werden Behandlungen angeboten, die dort gar nicht mehr durchgeführt werden. Erst am Telefon erfährt man, dass diese nur früher angeboten wurden. Veraltete Informationen nicht zu aktualisieren, ist für eine medizinische Einrichtung äußerst unprofessionell und irreführend.",
+      "time": 1789125515,
+      "translated": false
+    },
+    {
       "author_name": "S. CM",
       "author_url": "https://www.google.com/maps/contrib/112037308916743496388/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJAFkGWuE-CzyCwuX-CfPI_rHE17kx6NlF5e_QbJuUWLgg6YJa=s128-c0x00000000-cc-rp-mo-ba4",
@@ -30,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKygUp3Spb1J32gYfrJPd8mTw0E_v34HLQnOZldweMZbM6oEsm=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zufrieden!",
+      "time": 1788501989,
+      "translated": false
+    },
+    {
+      "author_name": "Gerd Mittreiter",
+      "author_url": "https://www.google.com/maps/contrib/104162522174026628826/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKygUp3Spb1J32gYfrJPd8mTw0E_v34HLQnOZldweMZbM6oEsm=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr zufrieden!",
       "time": 1788501989,
       "translated": false
@@ -1280,11 +1316,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 434,
+  "reviewCount": 436,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-09-10T09:23:13.391Z"
+  "lastUpdated": "2026-09-13T09:59:56.362Z"
 }

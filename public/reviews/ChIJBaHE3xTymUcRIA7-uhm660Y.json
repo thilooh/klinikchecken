@@ -73,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Thomas Rissel",
+      "author_url": "https://www.google.com/maps/contrib/114125240214681926763/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyEEbL1bBjK0x5t2Bfw5Bpv_J2d1ghsarp4i76D-yggGeLZN_S=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Zwei Sterne wegen den netten Leuten am Empfang. Die Praxis ist  auch sehr schön eingerichtet. Der behandelnde Arzt allerdings,seinen Namen habe Ich nicht verstanden genauso wie den Großteil der Unterhaltung...unfreundlich, mürrisch. Nach dem Motto: Was wollen Sie hier?",
+      "time": 1787298879,
+      "translated": false
+    },
+    {
       "author_name": "Christa Jost",
       "author_url": "https://www.google.com/maps/contrib/111365806455607245685/reviews",
       "language": "de",
@@ -164,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4mD5W2rI8Os6e2eje9UyfjFqSY2C81gzSW3FumWGUw0oVHw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "In der Praxis nimmt man sich Zeit für die Patienten. Die Mitarbeiter sind kompetent und freundlich!",
+      "time": 1786694761,
+      "translated": false
+    },
+    {
+      "author_name": "Witta Kaiser",
+      "author_url": "https://www.google.com/maps/contrib/104855219697712050245/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4mD5W2rI8Os6e2eje9UyfjFqSY2C81gzSW3FumWGUw0oVHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "In der Praxis nimmt man sich Zeit für die Patienten. Die Mitarbeiter sind kompetent und freundlich!",
       "time": 1786694761,
       "translated": false
@@ -224,6 +248,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyOJ9NsE2-SEi9fY7GWYXcT0qblFEsyyDsSnLYj6MCApYG-g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr nettes Team, nur schade dass ich nicht zu Dr.Munteanu kam,den ich halt bei meinen Vorbesuche behandelte,  aber VL war ja im Urlaub.",
+      "time": 1786560951,
+      "translated": false
+    },
+    {
+      "author_name": "Ursula Eberhart",
+      "author_url": "https://www.google.com/maps/contrib/100642243176543810267/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyOJ9NsE2-SEi9fY7GWYXcT0qblFEsyyDsSnLYj6MCApYG-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr nettes Team, nur schade dass ich nicht zu Dr.Munteanu kam,den ich halt bei meinen Vorbesuche behandelte,  aber VL war ja im Urlaub.",
       "time": 1786560951,
       "translated": false
@@ -942,5 +978,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:23:18.689Z"
+  "lastUpdated": "2026-09-13T10:00:02.280Z"
 }

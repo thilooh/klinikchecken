@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nilya Jo",
+      "author_url": "https://www.google.com/maps/contrib/115736426827136848910/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLZzkwUXlDenblhz6Lff1up3UxcwcOkK4cHb-iM1v4VH541w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich muss in dieser Praxis eine Ärztin deutlich hervorheben. Dr.marlene piene. Eine selbstbewusste positive Erscheinung,hat sehr viel Ahnung von ihrer Arbeit.Jahrelang von Hautarzt zu Hautarzt gelaufen kein Erfolg,dann endlich jemand sehr kompetentes. Mein Dank an diese tolle Frau",
+      "time": 1789034953,
+      "translated": false
+    },
+    {
       "author_name": "Florian Zimmermann",
       "author_url": "https://www.google.com/maps/contrib/101131803074470055808/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-zcFWiyUjuwap40MVleMysUBkZQ-NOK9Z_hiQflWMsusBNg=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Das System ist Labor Labor Labor und ich verstehe den Sinn, erstmal zu einem Ergebniss zu kommen, allein das Labor widerspricht sich (Blut: extreme Allergien, Prick: nur Baumtyp A), und es gibt keinerlei Nachbesprechung über die eigentlichten Probleme, für die man den Arzt eigentlich aufgesucht hat. Telefonisch (bestätigt von Seketrärin: unerreichbar, keiner gehr dort ran, keine Zeit) unfassbar schlecht. Das klingt nacht einem Abkassieren von Kassenleistungen. Teils 45min Wartezeit trotz Termin und man hört wie es passiert: Patienten, die 1h zu spät waren werden einfach eingeschoben.",
+      "time": 1786483495,
+      "translated": false
+    },
+    {
+      "author_name": "Florian Zimmermann",
+      "author_url": "https://www.google.com/maps/contrib/101131803074470055808/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-zcFWiyUjuwap40MVleMysUBkZQ-NOK9Z_hiQflWMsusBNg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einem Monat",
       "text": "Das System ist Labor Labor Labor und ich verstehe den Sinn, erstmal zu einem Ergebniss zu kommen, allein das Labor widerspricht sich (Blut: extreme Allergien, Prick: nur Baumtyp A), und es gibt keinerlei Nachbesprechung über die eigentlichten Probleme, für die man den Arzt eigentlich aufgesucht hat. Telefonisch (bestätigt von Seketrärin: unerreichbar, keiner gehr dort ran, keine Zeit) unfassbar schlecht. Das klingt nacht einem Abkassieren von Kassenleistungen. Teils 45min Wartezeit trotz Termin und man hört wie es passiert: Patienten, die 1h zu spät waren werden einfach eingeschoben.",
       "time": 1786483495,
       "translated": false
@@ -1176,11 +1200,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 193,
+  "reviewCount": 194,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:23:15.340Z"
+  "lastUpdated": "2026-09-13T09:59:58.563Z"
 }

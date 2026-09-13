@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Jürgen Britsch",
+      "author_url": "https://www.google.com/maps/contrib/115751534170063640160/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1SB9KgzVZ6Y0Ax_gd6Coe5nNX0wfkq7tC9I5TZzd986G5SDjy=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788516800,
+      "translated": false
+    },
+    {
       "author_name": "Y D",
       "author_url": "https://www.google.com/maps/contrib/118319778003227782898/reviews",
       "language": "de",
@@ -42,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB-lkGNOSDMxAPZjP5QM8aCNuDR7T8Cz_1JIhv-sOD-9izNw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Super Arzt und kompetente Beratung",
+      "time": 1787299630,
+      "translated": false
+    },
+    {
+      "author_name": "Y D",
+      "author_url": "https://www.google.com/maps/contrib/118319778003227782898/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB-lkGNOSDMxAPZjP5QM8aCNuDR7T8Cz_1JIhv-sOD-9izNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Super Arzt und kompetente Beratung",
       "time": 1787299630,
       "translated": false
@@ -138,6 +160,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc3Ae9voASGkfltK4vKf6jK-I2QUSVbsRSFSXUunzM2iPpuA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Es ist nicht einfach, einen Termin beim Phlebologen zu bekommen. Hat man endlich einen, wird man in dieser Praxis freundlich und kompetent behandelt. Kurze Wartezeit, sorgfältige Untersuchung.",
+      "time": 1786639392,
+      "translated": false
+    },
+    {
+      "author_name": "Silja Blaetterrauschen",
+      "author_url": "https://www.google.com/maps/contrib/106275027701470736291/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc3Ae9voASGkfltK4vKf6jK-I2QUSVbsRSFSXUunzM2iPpuA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Es ist nicht einfach, einen Termin beim Phlebologen zu bekommen. Hat man endlich einen, wird man in dieser Praxis freundlich und kompetent behandelt. Kurze Wartezeit, sorgfältige Untersuchung.",
       "time": 1786639392,
       "translated": false
@@ -1074,5 +1108,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:23:16.233Z"
+  "lastUpdated": "2026-09-13T09:59:59.538Z"
 }

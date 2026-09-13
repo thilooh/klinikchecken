@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "K",
+      "author_url": "https://www.google.com/maps/contrib/113839255565530347922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE_PuYFkoNJNYglSWgJr-MCrLWUUQpLStXB2q5bICnM2_sJYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nicht weiterzuempfehlen!\nIch bin bereits seit mehr als 15 Jahren aufgrund einer damals gestellten Diagnose in Behandlung und habe mich ursprünglich bewusst für dieses Zentrum entschieden, weil dort ein Arzt tätig war, der mich über viele Jahre betreut und bei dem ich mich sehr gut aufgehoben und verstanden gefühlt habe.\nLeider ist dieser Arzt inzwischen nicht mehr in dem Zentrum tätig. Nach seinem Weggang habe ich mich weiterhin an das Zentrum gewandt, da ich auf die dortige Behandlung und die langjährige Kenntnis meiner Krankengeschichte vertraut habe.\nLeider habe ich mittlerweile eine sehr enttäuschende Erfahrung gemacht. Die Ärztin Frau Dr. Hack, die meine Behandlung übernommen hat, stellt meine Diagnose, die bereits vor rund 18 Jahren gestellt wurde, infrage und möchte diese erneut schriftlich bestätigt haben. Das wäre grundsätzlich nachvollziehbar, wenn es keine aktuelle fachärztliche Einschätzung gäbe. Allerdings wurde meine Diagnose zwischenzeitlich auch in der Universitätsklinik Bonn erneut überprüft und bestätigt.\nTrotzdem habe ich leider nicht das Gefühl, dass meine langjährige Krankengeschichte und die bereits erfolgte fachärztliche Bestätigung ausreichend berücksichtigt werden, denn seit der Patienten-Übernahme hat Frau Dr. Hack sich nicht ein einziges Mal mein Lymphödem angeschaut. Besonders schockierend finde ich, dass mir dadurch eine Behandlung meiner bestehenden Erkrankung verweigert wird!\nIch hätte mir gerade in einem spezialisierten Zentrum mehr Vertrauen in die bisherige Diagnostik und einen respektvollen Umgang mit meiner Krankengeschichte gewünscht und das ganz ohne angeschrien zu werden.",
+      "time": 1789081755,
+      "translated": false
+    },
+    {
       "author_name": "Birgit Bomert",
       "author_url": "https://www.google.com/maps/contrib/107668657348070107628/reviews",
       "language": "de",
@@ -72,6 +84,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_NHRpnI6kzE4zCI0BKppIBqNyx2J70Zgfoc5MWCDXCTxbxbyC=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1786697846,
+      "translated": false
+    },
+    {
+      "author_name": "Lothar Münzenthaler",
+      "author_url": "https://www.google.com/maps/contrib/103982984357841922319/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_NHRpnI6kzE4zCI0BKppIBqNyx2J70Zgfoc5MWCDXCTxbxbyC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1786697846,
       "translated": false
@@ -1036,8 +1058,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 98,
+  "rating": 4.5,
+  "reviewCount": 99,
   "summary": [],
-  "lastUpdated": "2026-09-10T09:22:39.369Z"
+  "lastUpdated": "2026-09-13T09:59:17.672Z"
 }

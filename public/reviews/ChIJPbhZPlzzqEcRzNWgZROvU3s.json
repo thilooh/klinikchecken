@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marco Wild",
+      "author_url": "https://www.google.com/maps/contrib/100060228710049182533/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJf9MDLCE3TdmLZWlS5JykUYYbBp7nhdBsSSzkwwV3XmFTRGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hier erwarten Sie eine super liebenswerte, zuhörende und kompetente Ärztin und ein wahnsinnig liebes Team.\n\nAuf meine Wünsche wurde sehr professionell eingegangen.\n\nMan fühlt sich sehr gut aufgehoben, dies beginnt bereits mit dem Betreten der wirklich wunderschönen Praxis.\n\nIch werde sehr gerne wieder dort hin gehen. 🙏🏻😊",
+      "time": 1788955725,
+      "translated": false
+    },
+    {
       "author_name": "Katharina Rosenberg-Ehrl",
       "author_url": "https://www.google.com/maps/contrib/100064385854420014137/reviews",
       "language": "de",
@@ -120,6 +132,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXD0DMxtXAUTHExynybWo-V7wbRzlcgl0tWUY6fBDoQLQBy5L2=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1786661498,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Dávid",
+      "author_url": "https://www.google.com/maps/contrib/116537518445166458783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXD0DMxtXAUTHExynybWo-V7wbRzlcgl0tWUY6fBDoQLQBy5L2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1786661498,
       "translated": false
@@ -1082,11 +1104,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 139,
+  "reviewCount": 140,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:23:02.867Z"
+  "lastUpdated": "2026-09-13T09:59:44.584Z"
 }

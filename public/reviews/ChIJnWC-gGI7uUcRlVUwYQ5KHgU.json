@@ -37,6 +37,18 @@
       "translated": true
     },
     {
+      "author_name": "Ammar Ammar",
+      "author_url": "https://www.google.com/maps/contrib/114763712949806231242/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-g8jXSxo0SLn7_tLgPLPJ8hvPQz2NfUEdbg_5_RGrSRSXghUX3w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "„Leider war es eine furchtbare Erfahrung. Die Ärztin in Dr. Al-Jubouris Klinik war im Umgang mit Patienten völlig unprofessionell und respektlos. Ihre Behandlung war extrem herablassend und respektlos, und wir fühlten uns als Araber unerwünscht. Ich würde sie niemals weiterempfehlen.“ 😡",
+      "time": 1787858853,
+      "translated": true
+    },
+    {
       "author_name": "Mohammad Othman",
       "author_url": "https://www.google.com/maps/contrib/117625248792812796540/reviews",
       "language": "de",
@@ -130,6 +142,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1786457359,
+      "translated": false
+    },
+    {
+      "author_name": "Alaa Almajun",
+      "author_url": "https://www.google.com/maps/contrib/104586541847206550971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRNSHA3TNC4BDYfq9vucpc2P2G7Yu-fRaaYjD0EFw8Fln6UxmDyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1786457359,
       "translated": false
@@ -1242,5 +1264,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-10T09:23:09.371Z"
+  "lastUpdated": "2026-09-13T09:59:51.937Z"
 }

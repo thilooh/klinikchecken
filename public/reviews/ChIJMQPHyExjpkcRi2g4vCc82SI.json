@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Wendler",
+      "author_url": "https://www.google.com/maps/contrib/116369722019568404472/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBc3KSZp7ftMo3M-0j7mJKL9Nq3njjn0-SL_LqLwreapxyeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin zum zweiten Mal da gewesen und habe mich wieder sehr über die so freundliche Behandlung/ Beratung vor Ort gefreut. Ergebnisse können sich sehen lassen! Komme gern wieder!",
+      "time": 1789129612,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Podubrin",
       "author_url": "https://www.google.com/maps/contrib/118278434542728486935/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSFElnAsgx4PoLJvXTbLCqM6Qtc0PgwK31DH1jL-nPNKzer0NT=s128-c0x00000000-cc-rp-mo",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSFElnAsgx4PoLJvXTbLCqM6Qtc0PgwK31DH1jL-nPNKzer0NT=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1787218722,
+      "translated": false
+    },
+    {
+      "author_name": "Susanne Podubrin",
+      "author_url": "https://www.google.com/maps/contrib/118278434542728486935/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSFElnAsgx4PoLJvXTbLCqM6Qtc0PgwK31DH1jL-nPNKzer0NT=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1787218722,
       "translated": false
@@ -1094,11 +1116,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 105,
+  "reviewCount": 106,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-10T09:23:05.975Z"
+  "lastUpdated": "2026-09-13T09:59:48.106Z"
 }

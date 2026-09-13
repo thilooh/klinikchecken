@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Helmuth Wegner",
+      "author_url": "https://www.google.com/maps/contrib/106653353854767738605/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTSQ1_MlivVEo1_v5IpLoRbWgYjXmdBu2c0fzPDtuWjPSCIVz8=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Netter und freundlicher Arzt. Ich wurde informativ beraten und kann nur sagen: Wo findet man so einen netten Arzt der eine Beratung macht und nicht sofort daran denkt,wie kann ich etwas machen was der Patient nicht braucht.Eigentlich dafür 10 Zusatzpunkte",
+      "time": 1788686111,
+      "translated": false
+    },
+    {
       "author_name": "Elena G.",
       "author_url": "https://www.google.com/maps/contrib/101986328229541036563/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_a-1dcWtUJyQPb8xqCiPyXrw-vg0xQ2ZF6_CPZMphE2kpbQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war bei Dr. Jörg Schweichler und bin sehr zufrieden. Er nimmt sich viel Zeit, hört aufmerksam zu und erklärt alles verständlich und ausführlich. Besonders angenehm fand ich seine menschliche und einfühlsame Art. Man fühlt sich wirklich gut aufgehoben und ernst genommen. Ich würde ihn jederzeit weiterempfehlen!",
+      "time": 1787943205,
+      "translated": false
+    },
+    {
+      "author_name": "Elena G.",
+      "author_url": "https://www.google.com/maps/contrib/101986328229541036563/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_a-1dcWtUJyQPb8xqCiPyXrw-vg0xQ2ZF6_CPZMphE2kpbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war bei Dr. Jörg Schweichler und bin sehr zufrieden. Er nimmt sich viel Zeit, hört aufmerksam zu und erklärt alles verständlich und ausführlich. Besonders angenehm fand ich seine menschliche und einfühlsame Art. Man fühlt sich wirklich gut aufgehoben und ernst genommen. Ich würde ihn jederzeit weiterempfehlen!",
       "time": 1787943205,
       "translated": false
@@ -608,5 +632,5 @@
   "rating": 4.5,
   "reviewCount": 77,
   "summary": [],
-  "lastUpdated": "2026-09-10T09:22:43.903Z"
+  "lastUpdated": "2026-09-13T09:59:23.182Z"
 }

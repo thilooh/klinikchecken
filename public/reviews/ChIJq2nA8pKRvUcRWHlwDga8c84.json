@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "K Rose",
+      "author_url": "https://www.google.com/maps/contrib/118222143762375271905/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEOtUNkzzKS8o_Ar-4ML1wvM5rDBHbZ33gwrwBQqtry81oNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute und schnelle Termine, Parkplätze direkt vor der Tür (kostenfrei). Angenehme Gespräche mit den Ärzten und gute Behandlung. Befunde werden dokumentiert und mit aktuellem Stand verglichen. Fühle mich dort gut behandelt.",
+      "time": 1789048543,
+      "translated": false
+    },
+    {
+      "author_name": "Nguyễn Taos",
+      "author_url": "https://www.google.com/maps/contrib/111099928961259776592/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoAYYVnLiykxE6gYhvugJwx35CScKqm_NvfKuk_DzNruHntLWA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Rat war ausgezeichnet und sehr hilfreich.",
+      "time": 1789039084,
+      "translated": false
+    },
+    {
       "author_name": "Bea Cz",
       "author_url": "https://www.google.com/maps/contrib/106424182590835972596/reviews",
       "language": "de",
@@ -1430,11 +1454,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 334,
+  "reviewCount": 336,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:23:03.757Z"
+  "lastUpdated": "2026-09-13T09:59:45.599Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Monika Troll",
+      "author_url": "https://www.google.com/maps/contrib/107442681278846839150/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIs5Ob_m2FG0mlAbmhJ0y5eypnb6cJ87x3Vrki3pdAj1WfuUg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gestern wurden mir im Gefäßzentrum am Rudolfplatz sehr viele Krampfadern mit dem Fast Closure Verfahren (Radiofrequenz) entfernt.\n\nAufgrund von viel Gewichtsabnahme war das von den Hautverhältnissen her wohl eher schwierig zu operieren  und wegen eines Trauma aus meiner Kindheit hatte ich riesige Angst vor der Vollnarkose.\n\nWie das Team damit umgegangen ist, war einfach klasse: Frau Dr. Aksoy und die spanische Anästhesistin, deren Namen ich leider vergessen habe, haben mir jegliche Sorge genommen und Spitzenarbeit geleistet. Auch das Pflegepersonal ist super lieb. Man merkt zwar, dass es eine viel besuchte Praxis ist, aber die Betreuung ist sehr persönlich und alles sehr gut organisiert.\n\nNatürlich muss der Heilungsprozess erst anfangen, aber das Ergebnis sieht jetzt schon richtig vielversprechend aus. Danke!",
+      "time": 1789119695,
+      "translated": false
+    },
+    {
       "author_name": "Sabine Weissenberger",
       "author_url": "https://www.google.com/maps/contrib/102150427213919633903/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6UXcAVXv__mOMF7bzDRE5hoex0gYx7tplaO_j8Dw5gq-o=s128-c0x00000000-cc-rp-mo",
@@ -124,6 +136,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInGvyv5Bg2v7IiVMYybntbmoKEqzrLSc9Jn8mJe-9sSPeZig=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich wurde im MVZ Gefäßzentrum am Rudolfplatz an den Venen operiert. Vom ersten Untersuchungstermin über den OP Termin bis hin zur Kontrolle lief absolut reibungslos. Ich habe mich sehr gut aufgehoben gefühlt. Das gesamte Team war super kompetent und freundlich. Sollte ich nochmal eine Venen OP benötigen, würde ich jederzeit wieder ins MVZ am Rudolfplatz.",
+      "time": 1786454981,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra",
+      "author_url": "https://www.google.com/maps/contrib/105184126703949688001/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInGvyv5Bg2v7IiVMYybntbmoKEqzrLSc9Jn8mJe-9sSPeZig=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich wurde im MVZ Gefäßzentrum am Rudolfplatz an den Venen operiert. Vom ersten Untersuchungstermin über den OP Termin bis hin zur Kontrolle lief absolut reibungslos. Ich habe mich sehr gut aufgehoben gefühlt. Das gesamte Team war super kompetent und freundlich. Sollte ich nochmal eine Venen OP benötigen, würde ich jederzeit wieder ins MVZ am Rudolfplatz.",
       "time": 1786454981,
       "translated": false
@@ -905,11 +929,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 190,
+  "reviewCount": 191,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-09-10T09:22:34.644Z"
+  "lastUpdated": "2026-09-13T09:59:11.466Z"
 }

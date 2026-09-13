@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "R Stan",
+      "author_url": "https://www.google.com/maps/contrib/102725470060569653426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxKgHdkiwln9ePnc1i0wBDx1N6y9W9rwghJPxbwo93n92zsMY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789059091,
+      "translated": false
+    },
+    {
       "author_name": "Rose M.",
       "author_url": "https://www.google.com/maps/contrib/111739622373395068413/reviews",
       "language": "de",
@@ -469,12 +479,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 54,
+  "rating": 4.3,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-10T09:22:53.084Z"
+  "lastUpdated": "2026-09-13T09:59:33.775Z"
 }

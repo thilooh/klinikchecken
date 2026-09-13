@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ulla Diwok",
+      "author_url": "https://www.google.com/maps/contrib/116503487619275722952/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGWDoHSPAPGRInKVq_ieCe-KOoxIgINzmbd7K9UzjB0p9bPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Shadi erklärt gut und wägt Vor-und Nachteile ab. Er bringt seine Erfahrung als Operateur ( Oberarzt an einer Klinik) mit ein",
+      "time": 1789052748,
+      "translated": false
+    },
+    {
       "author_name": "Irene Kühl",
       "author_url": "https://www.google.com/maps/contrib/117551128286007403539/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnTBdeFteE8FwcGeqziDeEyFK7jtJC8d5Rc0vjNS6VP_FvZA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Erstmal möchte ich mich herzlich beim Team sowohl bei dem kompetenten Doktor bedanken.\nIch habe mich auf anhieb in der Praxis,sowohl beim Beratung und Untersuchung sehr wohl gefühlt.\nHerr Doktor Sabe ist ein sehr kompetenter, feinfühliger Arzt mit einem sehr umfangreichen Fachwissen in seinem Gebiet. Dank Ihm habe ich endlich die Klarheit weswegen ich Jahre lange Schmerzen hatte, während andere Ärzte einen nicht ernst nehmen, und vertröstend mit Medikamenten nach Hause schicken, hat Herr Doktor Sabe mit einem Gespräch/Ultraschall/weitere Untersuchung die Ursachen und Herkunft meiner Beschwerden erkannt. Ich bin unendlich dankbar dass es solche Kompetente Ärzte gibt die Ihre Arbeit mit Herz durchführen. Ich kann den Herr Doktor Sabe sehr Empfehlen. Dankeschön für alles an das gesamte Team",
+      "time": 1787222043,
+      "translated": false
+    },
+    {
+      "author_name": "Canan Otten",
+      "author_url": "https://www.google.com/maps/contrib/115452987487588066105/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnTBdeFteE8FwcGeqziDeEyFK7jtJC8d5Rc0vjNS6VP_FvZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Erstmal möchte ich mich herzlich beim Team sowohl bei dem kompetenten Doktor bedanken.\nIch habe mich auf anhieb in der Praxis,sowohl beim Beratung und Untersuchung sehr wohl gefühlt.\nHerr Doktor Sabe ist ein sehr kompetenter, feinfühliger Arzt mit einem sehr umfangreichen Fachwissen in seinem Gebiet. Dank Ihm habe ich endlich die Klarheit weswegen ich Jahre lange Schmerzen hatte, während andere Ärzte einen nicht ernst nehmen, und vertröstend mit Medikamenten nach Hause schicken, hat Herr Doktor Sabe mit einem Gespräch/Ultraschall/weitere Untersuchung die Ursachen und Herkunft meiner Beschwerden erkannt. Ich bin unendlich dankbar dass es solche Kompetente Ärzte gibt die Ihre Arbeit mit Herz durchführen. Ich kann den Herr Doktor Sabe sehr Empfehlen. Dankeschön für alles an das gesamte Team",
       "time": 1787222043,
       "translated": false
@@ -144,6 +168,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWBLRCy_Yz5-fuUip4IP3qFr8dCWmvuDVdYvCsXoy1Ixv6Jg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1786711097,
+      "translated": false
+    },
+    {
+      "author_name": "Hilde Lüpges",
+      "author_url": "https://www.google.com/maps/contrib/108320378873537353359/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWBLRCy_Yz5-fuUip4IP3qFr8dCWmvuDVdYvCsXoy1Ixv6Jg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1786711097,
       "translated": false
@@ -888,11 +922,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 84,
+  "reviewCount": 85,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:23:06.395Z"
+  "lastUpdated": "2026-09-13T09:59:48.585Z"
 }

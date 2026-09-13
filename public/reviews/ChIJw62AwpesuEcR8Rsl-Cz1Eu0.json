@@ -21,11 +21,31 @@
       "translated": false
     },
     {
+      "author_name": "Achim Nowak",
+      "author_url": "https://www.google.com/maps/contrib/116604424917990523514/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAZGRKSWJ19sofPPquhkk3EfaM28lex34E1wzCgGg7wXWwXDY0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788645366,
+      "translated": false
+    },
+    {
       "author_name": "Steff Tou",
       "author_url": "https://www.google.com/maps/contrib/113285112176664472894/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5_cOGhw-G7fcv8QHB4dTxBKFE1b_uZl87Sg0kzOs5YoHqbw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788550474,
+      "translated": false
+    },
+    {
+      "author_name": "Steff Tou",
+      "author_url": "https://www.google.com/maps/contrib/113285112176664472894/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5_cOGhw-G7fcv8QHB4dTxBKFE1b_uZl87Sg0kzOs5YoHqbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1788550474,
       "translated": false
@@ -926,5 +946,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-10T09:23:06.704Z"
+  "lastUpdated": "2026-09-13T09:59:48.977Z"
 }

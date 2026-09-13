@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin B.",
+      "author_url": "https://www.google.com/maps/contrib/115789355526110548233/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_pkKcPTlazeqQkZuX8zWM-qbKLZZBl1k25QIZzGYlH4KOLQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Termin wurde pünktlich eingehalten, die Untersuchungen waren sehr zügig und der Arzt hat sich auch die Zeit genommen, um alles zu erklären.",
+      "time": 1789135306,
+      "translated": false
+    },
+    {
       "author_name": "olga kramar",
       "author_url": "https://www.google.com/maps/contrib/110789490609794437480/reviews",
       "language": "de",
@@ -896,7 +908,7 @@
     }
   ],
   "rating": 3.6,
-  "reviewCount": 126,
+  "reviewCount": 127,
   "summary": [],
-  "lastUpdated": "2026-09-10T09:22:40.843Z"
+  "lastUpdated": "2026-09-13T09:59:19.527Z"
 }

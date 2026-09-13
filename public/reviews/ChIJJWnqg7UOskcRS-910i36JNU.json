@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Samantha Mendoza",
+      "author_url": "https://www.google.com/maps/contrib/111857626607120835365/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITMpkIPRXj4is6tigJ3ErIPb-irxZVTorCX01RSaZ5yKn09g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte heute eine kleine OP bei Frau Winkelmann-Schirmer.\nEinfach nur TOP!! Frau Doktor ist sehr einfühlsam und wirkte auf mich extrem beruhigend.\nIch hatte mich nach langer Zeit für \"Hautpartner\" entschieden, weil ich immer mehr unzufrieden mit der Behandlung in Bad Schwartau wurde.\nIch habe in \"Hautpartner\" definitiv meinen Hautarzt für die Zukunft gefunden.\nNochmals vielen dank an Frau Winkelmann-Schirmer!",
+      "time": 1789141015,
+      "translated": false
+    },
+    {
+      "author_name": "Schlüter",
+      "author_url": "https://www.google.com/maps/contrib/108169151483629146525/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFWYj2xqHUqMwWWVKIuF7FZCIYwMJ91CdvWYbCiMWg0A8ArCkR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetente und freundliche Hautärzt*Innen , modern ausgestattete Praxis , schnelle Terminvergabe und wenn überhaupt kurze Wartezeiten in der Praxis , zuvorkommende medizinische Fachangestellte",
+      "time": 1789072272,
+      "translated": false
+    },
+    {
+      "author_name": "Gesa Rodust",
+      "author_url": "https://www.google.com/maps/contrib/112673583291965034951/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVs8ECI91HwEYhS33h3X6COFtFYVkz_XetneP1dlNEKSECPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich sehr aufgehoben gefühlt.\nUnd die Therapien wurden mir sehr gut erklärt!",
+      "time": 1789054532,
+      "translated": false
+    },
+    {
+      "author_name": "Kirsten",
+      "author_url": "https://www.google.com/maps/contrib/116413534816011414580/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-EkG0XaKJNTTujbKDQKP8k_U5lGg8ZKFrkvY6kz263Ov6BA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Winkelmann-Schirmer ist eine sehr tolle Ärztin. Nimmt sich Zeit für die Anliegen und hört zu. Gibt sehr wertvolle Tipps und ist immer sehr freundlich. Endlich eine Ärztin gefunden, die auf die Probleme eingeht und eine zufriedenstellende Lösung findet. Danke dafür",
+      "time": 1789040163,
+      "translated": false
+    },
+    {
       "author_name": "Rene Timrunvech",
       "author_url": "https://www.google.com/maps/contrib/107596888778787274598/reviews",
       "language": "de",
@@ -1826,11 +1874,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2383,
+  "reviewCount": 2386,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-10T09:22:50.575Z"
+  "lastUpdated": "2026-09-13T09:59:31.087Z"
 }

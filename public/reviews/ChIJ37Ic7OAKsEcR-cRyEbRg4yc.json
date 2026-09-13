@@ -1,11 +1,45 @@
 {
   "reviews": [
     {
+      "author_name": "Anja Gutbrod",
+      "author_url": "https://www.google.com/maps/contrib/118004099971608391407/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUC2-5LJ65hLeEueh6J_njzcnpy2aluFrPpItuuKm6Id6Sjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich, Kassenpatientin, bin absolut begeistert von dieser Hautarztpraxis, die ich auf Empfehlung schon seit längerer Zeit, insbesondre zum Hautkrebsscreening, besuche.\nHerr Dr. med. Platschek hatte auf Bitte seiner Assistenzärztin, Frau Lopes, sein geschultes Auge auf eine Stelle an meiner Schläfe geworfen und die Entfernung empfohlen. Zum großen Glück war von heute auf morgen ein OP-Termin möglich. Die Entfernung war voll zu Recht, da es sich als weißer Hautkrebs herausgestellt hatte. Herr Dr. Platschek erklärt auch einem Laien verständlich, was zu tun ist, und man fühlt sich bestens aufgehoben in seinen Händen. Die fachliche Kompetenz, auch seines sehr freundlichen Teams, ist hervorragend. Die Wartezeit ist kurz, das Wartezimmer groß und sauber und die Behandlungsräume sind mit modernster Technik ausgestattet. Mein Mann und ich können das MVZ an der Oper vollends empfehlen.\nVielen Dank, lieber Herr Dr. Platschek, und auch Frau Lopes für Ihre großartige Betreuung!",
+      "time": 1789224264,
+      "translated": false
+    },
+    {
+      "author_name": "JM",
+      "author_url": "https://www.google.com/maps/contrib/112076366761835269646/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv9Veusn_U9WBfYrnjaH9RwSYwzFrArwOSXxJWSwzf7axWOQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen herzlichen Dank an die liebe Frau Dr. Platschek für jeden guten Rat, ihre Hilfe und jedes liebe Wort. ❤️\n\nEine wundervolle Ärztin, die sich Zeit nimmt, zuhört und einem mit viel Herz und Verständnis begegnet. Ich bin sehr dankbar und kann Frau Dr. Platschek von Herzen weiterempfehlen! 🌷",
+      "time": 1789160110,
+      "translated": false
+    },
+    {
       "author_name": "Lilli Brodtmann",
       "author_url": "https://www.google.com/maps/contrib/118120235848885896746/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8yHiauT16JAVPiy_hWQZN1Wr-BsuL5UFYioEYiozo1izYOg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788436395,
+      "translated": false
+    },
+    {
+      "author_name": "Lilli Brodtmann",
+      "author_url": "https://www.google.com/maps/contrib/118120235848885896746/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8yHiauT16JAVPiy_hWQZN1Wr-BsuL5UFYioEYiozo1izYOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1788436395,
       "translated": false
@@ -54,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKczhq4pke1Tp7HMfMeHUpjVGk75XRhWq1j_Kc1x-OdczusQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Wir sind seit vielen Jahren bei Herrn Dr. Platschek und fühlen uns bei ihm sehr gut aufgehoben. Er ist ein sehr kompetenter, engagierter und menschlicher Arzt, der sich Zeit nimmt und genau zuhört. Auch bei unklaren Beschwerden hat er uns immer sehr kompetent weitergeholfen und sicher eingeschätzt, was zu tun ist. Besonders schätzen wir auch seinen tollen Umgang mit unseren Kindern. Wir haben großes Vertrauen zu ihm und können ihn uneingeschränkt weiterempfehlen.",
+      "time": 1787989298,
+      "translated": false
+    },
+    {
+      "author_name": "H. S.",
+      "author_url": "https://www.google.com/maps/contrib/116994561665718611888/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKczhq4pke1Tp7HMfMeHUpjVGk75XRhWq1j_Kc1x-OdczusQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Wir sind seit vielen Jahren bei Herrn Dr. Platschek und fühlen uns bei ihm sehr gut aufgehoben. Er ist ein sehr kompetenter, engagierter und menschlicher Arzt, der sich Zeit nimmt und genau zuhört. Auch bei unklaren Beschwerden hat er uns immer sehr kompetent weitergeholfen und sicher eingeschätzt, was zu tun ist. Besonders schätzen wir auch seinen tollen Umgang mit unseren Kindern. Wir haben großes Vertrauen zu ihm und können ihn uneingeschränkt weiterempfehlen.",
       "time": 1787989298,
       "translated": false
@@ -726,11 +772,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 179,
+  "reviewCount": 181,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-10T09:22:47.213Z"
+  "lastUpdated": "2026-09-13T09:59:27.102Z"
 }

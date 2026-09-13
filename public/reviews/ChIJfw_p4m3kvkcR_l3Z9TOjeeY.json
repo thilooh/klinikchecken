@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "leti",
+      "author_url": "https://www.google.com/maps/contrib/103342385039285864106/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWHCFGpO_rlmR3dhERZvKt4MAq7r0xXo5-_f_MhNeSIwBaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789044168,
+      "translated": false
+    },
+    {
       "author_name": "Lars",
       "author_url": "https://www.google.com/maps/contrib/118297949261525166689/reviews",
       "language": "de",
@@ -1197,12 +1207,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 116,
+  "rating": 4.3,
+  "reviewCount": 117,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-10T09:22:51.479Z"
+  "lastUpdated": "2026-09-13T09:59:32.056Z"
 }

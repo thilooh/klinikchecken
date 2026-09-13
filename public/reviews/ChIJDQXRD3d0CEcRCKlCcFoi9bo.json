@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lennart",
+      "author_url": "https://www.google.com/maps/contrib/112241627752924948479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCFvV3UNqliB_3XN9mQX3ad0QMcCAY2mGrqjpVEOitJHVv_dkc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Angerufen wegen nem Termin, waren keine vorhanden. Sollte mich dann im September nochmal melden. Hab ich versucht ( bestimmt 10 mal), zu unterschiedlich Zeiten und Tagen, auch mehrfach hintereinander, sogar ne email geschrieben, dass ich um Rückruf bitte da niemand zu erreichen ist. Heute am 11.09. hab ich dann endlich mal jemanden erreicht und dann ist natürlich kein Termin mehr frei. Soll ich mich im November nochmal melden. Sorry aber wie soll man bitte Anfang des Monates einen Termin machen, wenn weder auf Anrufe, noch auf Mails reagiert wird.",
+      "time": 1789108344,
+      "translated": false
+    },
+    {
       "author_name": "Axel Gründel",
       "author_url": "https://www.google.com/maps/contrib/103225961424974743670/reviews",
       "language": "de",
@@ -410,5 +422,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-10T09:23:24.670Z"
+  "lastUpdated": "2026-09-13T10:00:08.939Z"
 }

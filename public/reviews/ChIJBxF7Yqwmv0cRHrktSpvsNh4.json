@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Johanna",
+      "author_url": "https://www.google.com/maps/contrib/117796651262882636046/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHvmfOXqhZ38F_zke8VBgpjKLjqPBba5jxoJWjJI4jiK3mfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin bei Frau Dr. med. Thüroff in Behandlung.Ich hatte weissen Hautkrebs, der entfernt werden musste. Frau Dr. Thüroff hat dies ganz hervorragend operiert. Alles konnte entfernt werden und die Narbe ist sehr klein und sieht sehr gut aus. Eine tolle Ärztin, die ich sehr gerne weiterempfehle. Ich fühle mich sehr gut aufgehoben. Herzlichen Dank, Nicole Fränken.",
+      "time": 1789051468,
+      "translated": false
+    },
+    {
       "author_name": "Mrs. McNet",
       "author_url": "https://www.google.com/maps/contrib/115652184724666562646/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFM7vz5BLOKl5GlQPVEgcQu2Pq7k60D91GSWC553jKpQ6Ddg=s128-c0x00000000-cc-rp-mo-ba5",
@@ -56,6 +68,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFM7vz5BLOKl5GlQPVEgcQu2Pq7k60D91GSWC553jKpQ6Ddg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1784023177,
+      "translated": false
+    },
+    {
+      "author_name": "Mrs. McNet",
+      "author_url": "https://www.google.com/maps/contrib/115652184724666562646/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFM7vz5BLOKl5GlQPVEgcQu2Pq7k60D91GSWC553jKpQ6Ddg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1784023177,
       "translated": false
@@ -305,11 +327,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 24,
+  "reviewCount": 25,
   "summary": [
     "Hautscreening und kleinere Eingriffe werden als professionell und freundlich gelobt",
     "Rezeption und telefonische Erreichbarkeit werden mehrfach kritisiert",
     "Vereinzelt Kritik an Kommunikation bei Komplikationen und Befunden"
   ],
-  "lastUpdated": "2026-09-10T09:22:35.422Z"
+  "lastUpdated": "2026-09-13T09:59:12.532Z"
 }

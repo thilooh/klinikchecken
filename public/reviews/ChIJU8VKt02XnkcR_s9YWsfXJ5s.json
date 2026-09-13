@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jacqueline Amin",
+      "author_url": "https://www.google.com/maps/contrib/108538547484461388655/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGMCqD14WbCziwSDQ7bOd3ed9z7ae9wuq2mMpBzCLDxlfPFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin von Frau Dr. Gkata sehr nett aufgenommen worden und sehr gut beraten worden. Vielen Dank dafür!",
+      "time": 1789202851,
+      "translated": false
+    },
+    {
       "author_name": "Mehmet Tastemir",
       "author_url": "https://www.google.com/maps/contrib/114581635711095242351/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Mehmet Tastemir",
+      "author_url": "https://www.google.com/maps/contrib/114581635711095242351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIy-QztecvMgBne2isVOIuVuYJWVUISrY84wrS0Gu9J66tZew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Eine ausgezeichnete Ärztin, die nicht nur durch ihr Fachwissen überzeugt, sondern auch sehr nett und aufmerksam ist. Alle Fragen wurden ausführlich und ohne Zeitdruck beantwortet. Man fühlt sich ernst genommen und sehr gut betreut. Absolute Empfehlung!",
+      "time": 1786700127,
+      "translated": false
+    },
+    {
       "author_name": "Chiara Braun",
       "author_url": "https://www.google.com/maps/contrib/107387928965091699862/reviews",
       "language": "de",
@@ -97,6 +121,18 @@
       "translated": false
     },
     {
+      "author_name": "Chiara Braun",
+      "author_url": "https://www.google.com/maps/contrib/107387928965091699862/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVTrx0-PaAJseAxCe-gjR6J0yDueTorSOPTakQ-bLzCxEmsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich war sehr zufrieden mit meinem Besuch. Die Ärztin war wirklich super lieb und hat sich Zeit für mich und meine Fragen genommen.\n\nSehr positiv fand ich außerdem, dass die Praxis ebenerdig und problemlos mit dem Kinderwagen zugänglich ist. Besonders angenehm war auch, dass ich keine Wartezeit hatte und direkt drangekommen bin.",
+      "time": 1786693036,
+      "translated": false
+    },
+    {
       "author_name": "Ibrahim Bislimi",
       "author_url": "https://www.google.com/maps/contrib/112233571273096225243/reviews",
       "language": "de",
@@ -140,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAvUtY6VOOntnCoM3_t5i7Y7ibf76aBsQSihVlWTJUE7gjMQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Super freundliches Team und Kompetente Ärztin 👍🏻",
+      "time": 1786633725,
+      "translated": false
+    },
+    {
+      "author_name": "Ibrahim Bislimi",
+      "author_url": "https://www.google.com/maps/contrib/112233571273096225243/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAvUtY6VOOntnCoM3_t5i7Y7ibf76aBsQSihVlWTJUE7gjMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Super freundliches Team und Kompetente Ärztin 👍🏻",
       "time": 1786633725,
       "translated": false
@@ -164,6 +212,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5_Yl6Qo_Ca8vs_AarRGnsKbx5vo8cIgwGQhdjWf7uu_663g=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Nicht zu empfehlen.",
+      "time": 1786631614,
+      "translated": false
+    },
+    {
+      "author_name": "Jonas Krämer",
+      "author_url": "https://www.google.com/maps/contrib/117800712084734701749/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5_Yl6Qo_Ca8vs_AarRGnsKbx5vo8cIgwGQhdjWf7uu_663g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Nicht zu empfehlen.",
       "time": 1786631614,
       "translated": false
@@ -1132,11 +1192,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 159,
+  "reviewCount": 160,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-10T09:22:55.766Z"
+  "lastUpdated": "2026-09-13T09:59:36.721Z"
 }

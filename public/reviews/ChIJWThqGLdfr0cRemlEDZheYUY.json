@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "B. D.",
+      "author_url": "https://www.google.com/maps/contrib/105273834675843897062/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKMCqc4oE7bGpcWiXsj0GMlAejcnUE6gQVZSypg-HbDrHlyg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alle Mitarbeiter/Ärzte, mit denen ich in Kontakt war, waren freundlich und noch viel wichtiger, fachlich sehr! Kompetent.\nIn einer anderen medizinischen Einrichtung wurde meine akute Erkrankung nicht erkannt.\n\nVielen Dank an das gesamte Team, das ich nur empfehlen kann!",
+      "time": 1789071245,
+      "translated": false
+    },
+    {
+      "author_name": "Tino Splitt",
+      "author_url": "https://www.google.com/maps/contrib/103651389876298271850/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoZAm1D7WXfWxtFB4gV7q9Wa1BRbwRMqwnmCLs3U-ZqApP3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789051155,
+      "translated": false
+    },
+    {
+      "author_name": "M S",
+      "author_url": "https://www.google.com/maps/contrib/118112888852231043732/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIekc1Td1K-S0l1MtGgNglve8tUE97lWVhrjGyazsck6LD8RQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles Top , bin super zufrieden..wurde selten so gut behandelt.",
+      "time": 1789045389,
+      "translated": false
+    },
+    {
+      "author_name": "ANI",
+      "author_url": "https://www.google.com/maps/contrib/110284363835537197529/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbG17CRG7SqtZ3y4zjFDlr9xAMzwi7GlD9UnOvGd9mJiy6JbeI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789029408,
+      "translated": false
+    },
+    {
       "author_name": "Bernd Köbel",
       "author_url": "https://www.google.com/maps/contrib/116245235030187363161/reviews",
       "language": "de",
@@ -1394,11 +1438,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 487,
+  "reviewCount": 490,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-10T09:22:49.885Z"
+  "lastUpdated": "2026-09-13T09:59:30.332Z"
 }

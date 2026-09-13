@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Finck Dietmar",
+      "author_url": "https://www.google.com/maps/contrib/116903112709136830428/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo0fyGu9bLe0HM60q261393J9Y01bGjfYuoYBAOqt2vvX1jb4F=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Keine großen Wartezeiten",
+      "time": 1788435863,
+      "translated": false
+    },
+    {
       "author_name": "Kevin Sándor Szathmári",
       "author_url": "https://www.google.com/maps/contrib/101153230155138817531/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-ipCGEWRAJZw0v6VQy3PhNFngU_f6PQEDOmKZxCgt9L6ZiA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "vor einer Woche",
+      "text": "Gut: Man kriegt - anders als bei vielen Hautärzten - recht zeitnah einen Termin.\n\nSchlecht: Der Termin dauerte vielleicht maximal 5 Minuten. Wollte der Ärztin erstmal die Vorgeschichte erzählen, allerdings hat sie mich gar nicht auserzählen lassen. War sehr abgehetzt.\nAußerdem habe ich nachgefragt, weil ich etwas nicht gehört habe. Auf meine Nachfrage und dass sie sich ja unerhörterweise wiederholen musste, hat sie genervt und gereizt reagiert. Ich würde nicht nochmal hingehen.",
+      "time": 1787858921,
+      "translated": false
+    },
+    {
+      "author_name": "D V",
+      "author_url": "https://www.google.com/maps/contrib/100428939541722215454/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-ipCGEWRAJZw0v6VQy3PhNFngU_f6PQEDOmKZxCgt9L6ZiA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Gut: Man kriegt - anders als bei vielen Hautärzten - recht zeitnah einen Termin.\n\nSchlecht: Der Termin dauerte vielleicht maximal 5 Minuten. Wollte der Ärztin erstmal die Vorgeschichte erzählen, allerdings hat sie mich gar nicht auserzählen lassen. War sehr abgehetzt.\nAußerdem habe ich nachgefragt, weil ich etwas nicht gehört habe. Auf meine Nachfrage und dass sie sich ja unerhörterweise wiederholen musste, hat sie genervt und gereizt reagiert. Ich würde nicht nochmal hingehen.",
       "time": 1787858921,
       "translated": false
@@ -1344,5 +1368,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-10T09:22:57.987Z"
+  "lastUpdated": "2026-09-13T09:59:39.181Z"
 }
