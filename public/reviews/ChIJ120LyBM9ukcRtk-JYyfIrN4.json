@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Patrick R.",
+      "author_url": "https://www.google.com/maps/contrib/109464890197479558271/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKP1kBnDAwr_dWyklIIfr-A5VIl2UE__SDYnWkd1rid0GsDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kann nur Gutes über die Praxis Berichten.\nEntfernung einer Kranpfader verlief komplett problemlos.",
+      "time": 1789400659,
+      "translated": false
+    },
+    {
       "author_name": "Frank Röthemeyer",
       "author_url": "https://www.google.com/maps/contrib/101608814528373115653/reviews",
       "language": "de",
@@ -96,6 +108,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXE_3_DPCl454B0rEnTYgbXjK4OB6EePkJ1GXKCwMEnYC9mDg8=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1787010061,
+      "translated": false
+    },
+    {
+      "author_name": "Deniz T.",
+      "author_url": "https://www.google.com/maps/contrib/107089122427607024992/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXE_3_DPCl454B0rEnTYgbXjK4OB6EePkJ1GXKCwMEnYC9mDg8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1787010061,
       "translated": false
@@ -749,12 +771,12 @@
       "translated": false
     }
   ],
-  "rating": 3.9,
-  "reviewCount": 160,
+  "rating": 4,
+  "reviewCount": 161,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-13T09:59:33.527Z"
+  "lastUpdated": "2026-09-16T09:40:18.621Z"
 }

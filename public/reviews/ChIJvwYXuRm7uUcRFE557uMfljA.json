@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Maggy Burelli",
+      "author_url": "https://www.google.com/maps/contrib/106181421336385587407/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFkZ83cNXklgAUzGrZ7lrmY6qeMCDlNPlZYRb58EfdOHMd_w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolles Team Tolle Ärzte\nHier bin ich sehr gut aufgehoben",
+      "time": 1789389326,
+      "translated": false
+    },
+    {
       "author_name": "Sun Flower",
       "author_url": "https://www.google.com/maps/contrib/116226472134539493689/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaPVA53vIboISsA3glB-tbBqQjB_pt2lJtrYxPF-5gWC76DuI=s128-c0x00000000-cc-rp-mo",
@@ -478,11 +490,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 118,
+  "reviewCount": 119,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-13T09:59:32.788Z"
+  "lastUpdated": "2026-09-16T09:40:17.897Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "xXJohn04 Xx",
+      "author_url": "https://www.google.com/maps/contrib/108574409445245577109/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUrhufhIySaC23e0adomm3-SSL6VZZ-r_QL_HJOrakGK8uag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789480158,
+      "translated": false
+    },
+    {
       "author_name": "Merve Uyar",
       "author_url": "https://www.google.com/maps/contrib/112426315711309828158/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg2vLpFYaS1-wgVLVwxcTl7455e71ZvL4TKZtbU3PCqF_4LyhN=s128-c0x00000000-cc-rp-mo-ba3",
@@ -220,6 +230,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUY_kyXTWrPNVfn4DmSS4vveHWmzg4y_7HIEUuVI0Aq1rJaw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Super organisierte Praxis, sympathische und kompetente Beratung.\nAbsolut zu empfehlen!",
+      "time": 1784217337,
+      "translated": false
+    },
+    {
+      "author_name": "Lennart Thilmann",
+      "author_url": "https://www.google.com/maps/contrib/107129807118849498853/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUY_kyXTWrPNVfn4DmSS4vveHWmzg4y_7HIEUuVI0Aq1rJaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Super organisierte Praxis, sympathische und kompetente Beratung.\nAbsolut zu empfehlen!",
       "time": 1784217337,
       "translated": false
@@ -1082,11 +1104,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 272,
+  "reviewCount": 273,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-13T09:59:39.930Z"
+  "lastUpdated": "2026-09-16T09:40:28.341Z"
 }

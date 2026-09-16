@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Maren Lehmann",
+      "author_url": "https://www.google.com/maps/contrib/102753097244531475425/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCqp5iczAiLMRto_jbig4ZMqe-S2473RYs96LVM0bug0sqHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Weiterempfehlung!",
+      "time": 1789295184,
+      "translated": false
+    },
+    {
       "author_name": "Bettina Marx",
       "author_url": "https://www.google.com/maps/contrib/104223837052773813420/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8uOW3R2fa6KbL-n6cpIvx4vNAAKzkSZmGLBkntOt8QbcB=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788767649,
+      "translated": false
+    },
+    {
+      "author_name": "Bettina Marx",
+      "author_url": "https://www.google.com/maps/contrib/104223837052773813420/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8uOW3R2fa6KbL-n6cpIvx4vNAAKzkSZmGLBkntOt8QbcB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1788767649,
       "translated": false
@@ -31,6 +53,16 @@
       "translated": false
     },
     {
+      "author_name": "Eckernförde",
+      "author_url": "https://www.google.com/maps/contrib/106220710497266533712/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbIDsQAiMR_oOtGp-_QOmelYQW44rGxqNG9XNXNqbcTgLScEQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788690272,
+      "translated": false
+    },
+    {
       "author_name": "Cornelia Amtstätter",
       "author_url": "https://www.google.com/maps/contrib/116711344661972420452/reviews",
       "language": "de",
@@ -98,6 +130,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFMl-rNN8RKk30SKZZqTWfuC4CsL9Wlzw-bNX5DuOWpmheDA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich finde diese Hautarzt Praxis am Besten die ich jemals besucht habe.Ich bin schon lange \"Patientin\" und bisher wurde ich immer respektvoll und arbeitsmäßig TOP behandelt.Ausnahmsweise habe ich einen kurzfristigen Termin angefragt da ich Juckreiz wegen meinen Ketten am Hals hatte und ich Krebsvorbelastet bin.Macht weiter so!👍Ich komme immer wieder 🙋‍♀️",
+      "time": 1787727714,
+      "translated": false
+    },
+    {
+      "author_name": "A. Hund",
+      "author_url": "https://www.google.com/maps/contrib/101281765825251882914/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFMl-rNN8RKk30SKZZqTWfuC4CsL9Wlzw-bNX5DuOWpmheDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich finde diese Hautarzt Praxis am Besten die ich jemals besucht habe.Ich bin schon lange \"Patientin\" und bisher wurde ich immer respektvoll und arbeitsmäßig TOP behandelt.Ausnahmsweise habe ich einen kurzfristigen Termin angefragt da ich Juckreiz wegen meinen Ketten am Hals hatte und ich Krebsvorbelastet bin.Macht weiter so!👍Ich komme immer wieder 🙋‍♀️",
       "time": 1787727714,
       "translated": false
@@ -1366,5 +1410,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-13T09:59:58.314Z"
+  "lastUpdated": "2026-09-16T09:40:46.305Z"
 }

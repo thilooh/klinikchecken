@@ -329,6 +329,18 @@
       "translated": false
     },
     {
+      "author_name": "Ein Google Nutzer",
+      "author_url": "https://www.google.com/maps/contrib/105833268177006107326/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoQ_MAqlWp4JHN2l9HnlfEK4_AAowyf9U7y95sBRBeAjGkJPk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Der Empfang ist super nett und die Ärzte sehr kompetent",
+      "time": 1782420492,
+      "translated": false
+    },
+    {
       "author_name": "C. Müller",
       "author_url": "https://www.google.com/maps/contrib/108626590088187159368/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBIexI_QYxlst0uQQNi3l5Kbz6ZcnhiipUWNhQAikWyn7AgA=s128-c0x00000000-cc-rp-mo-ba4",
@@ -662,5 +674,5 @@
   "rating": 3.5,
   "reviewCount": 105,
   "summary": [],
-  "lastUpdated": "2026-09-13T09:59:25.568Z"
+  "lastUpdated": "2026-09-16T09:40:08.501Z"
 }

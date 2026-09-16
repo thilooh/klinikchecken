@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Serdar Musa",
+      "author_url": "https://www.google.com/maps/contrib/106211786799709536140/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5ddPJ1AVvAsM3GqCAi4NfFJSNuBxj7i4R8ikS9Mp91t1Sjlk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Dermatologie am Luegplatz absolut weiterempfehlen. Ich habe mich vom ersten Moment an sehr gut aufgehoben gefühlt. Das gesamte Team war freundlich, aufmerksam und professionell, und die Atmosphäre in der Praxis ist sehr angenehm.\n\nBesonders positiv fand ich, dass man sich Zeit für meine Anliegen genommen und alles verständlich und ausführlich erklärt hat. Die Untersuchung wirkte sehr gründlich und kompetent – man hat nicht das Gefühl, einfach nur schnell abgefertigt zu werden.\n\nEine Praxis, in der Fachkompetenz und ein freundlicher Umgang zusammenkommen. Vielen Dank an das gesamte Team – von mir eine klare Empfehlung und 5 Sterne!",
+      "time": 1789309918,
+      "translated": false
+    },
+    {
       "author_name": "Ramona Salewski",
       "author_url": "https://www.google.com/maps/contrib/108852135516800986556/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL95MX7Z4zi-e0l9gwlBrzLVPw-h3QUt2d9xy55NKtgwC46xA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Hyaluronidase-Behandlung in der Praxis und wurde von Anfang an super aufgeklärt und sehr herzlich betreut. Ich habe mich direkt wohl und gut aufgehoben gefühlt.\n\nSchon jetzt bin ich total zufrieden mit dem Ergebnis und vor allem glücklich, dass ich endlich keine Hubbel mehr an der Lippe habe.\n\nVielen Dank für die tolle Behandlung und die ausführliche Beratung! Ich kann die Praxis wirklich von Herzen weiterempfehlen.",
+      "time": 1788882310,
+      "translated": false
+    },
+    {
+      "author_name": "Ramona Salewski",
+      "author_url": "https://www.google.com/maps/contrib/108852135516800986556/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL95MX7Z4zi-e0l9gwlBrzLVPw-h3QUt2d9xy55NKtgwC46xA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute zur Hyaluronidase-Behandlung in der Praxis und wurde von Anfang an super aufgeklärt und sehr herzlich betreut. Ich habe mich direkt wohl und gut aufgehoben gefühlt.\n\nSchon jetzt bin ich total zufrieden mit dem Ergebnis und vor allem glücklich, dass ich endlich keine Hubbel mehr an der Lippe habe.\n\nVielen Dank für die tolle Behandlung und die ausführliche Beratung! Ich kann die Praxis wirklich von Herzen weiterempfehlen.",
       "time": 1788882310,
       "translated": false
@@ -1330,8 +1354,8 @@
       "time": 1771402015
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 239,
+  "rating": 4.5,
+  "reviewCount": 240,
   "summary": [],
-  "lastUpdated": "2026-09-13T09:59:17.056Z"
+  "lastUpdated": "2026-09-16T09:39:57.836Z"
 }

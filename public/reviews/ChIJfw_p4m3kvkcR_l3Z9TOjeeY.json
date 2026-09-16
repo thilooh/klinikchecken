@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine Rausch",
+      "author_url": "https://www.google.com/maps/contrib/113350391247412254325/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA2V1V3qNo6rFGvaDEC4stKpzZLeTynWBUJzeKv-126qlG2C9j=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut enttäuschend und unprofessionell!\n​Ich habe fast ein Jahr auf meinen Termin gewartet und dafür eine Anfahrt von zwei Stunden auf mich genommen. Vor Ort wurde ich dann trotz deutlicher Sichtbarkeit an der Anmeldung über 20 Minuten lang komplett ignoriert, während sich mindestens sechs Mitarbeiterinnen im Empfangszimmer seelenruhig über private Dinge unterhalten haben.\n​Erst als ich das Zimmer betreten und auf meinen Termin hingewiesen habe, hieß es plötzlich, es sei kein Arzt da und Termine würden erst wieder ab Oktober vergeben – obwohl mir vorher ein Termin bestätigt wurde. So etwas ist mir noch nie passiert und absolut kundenunfreundlich.",
+      "time": 1789470056,
+      "translated": false
+    },
+    {
       "author_name": "leti",
       "author_url": "https://www.google.com/maps/contrib/103342385039285864106/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWHCFGpO_rlmR3dhERZvKt4MAq7r0xXo5-_f_MhNeSIwBaQ=s128-c0x00000000-cc-rp-mo",
@@ -8,6 +20,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "",
       "time": 1789044168,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Heyduk",
+      "author_url": "https://www.google.com/maps/contrib/104830877166584232894/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL50yq9cRCPk2pwttbooE-9yR6_NQCb9ny9tKjX652KsPH28lY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich kann diese Praxis überhaupt nicht empfehlen, man wird als Kassenpatient behandelt wie ein Mensch zweiter Klasse.\nIch hatte einen Termin, welcher zweimal hintereinander aufgrund von Personalmangel hinsichtlich der Praxis einen Tag zuvor verschoben wurde. Beim zweiten mal wurde Vergessen mir Bescheid zu geben und ich wurde in der Praxis abgewiesen und wieder nach Hause geschickt. Daraufhin musste ich 6 Monate auf den nächsten Termin warten, welcher ohne Grund eine Woche vorher abgesagt wurde.\nTelefonisch auch während der Öffnungszeiten nicht zu erreichen.",
+      "time": 1788792290,
       "translated": false
     },
     {
@@ -30,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiowhXWETCnKDn2C66ZmLP651XoIVidpoS1NuBYBqMHDSEHj8=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich hatte über Doctolib bereits lange im Voraus einen Termin zur Hautuntersuchung gebucht. Dieser wurde kurzfristig mit der Begründung abgesagt, dass die behandelnde Person im Urlaub sei – was grundsätzlich verständlich ist.\n\nEnttäuschend war jedoch, dass mir kein Ersatztermin angeboten wurde. Meine anschließenden Versuche, einen neuen Termin zu vereinbaren, blieben per E-Mail unbeantwortet. Bei meinem telefonischen Versuch wurde ich zudem recht schroff darauf verwiesen, einfach wieder einen Termin über Doctolib zu buchen. Dort waren allerdings erst mehrere Monate später wieder Termine verfügbar.\n\nBesonders ärgerlich: Termine für Selbstzahler waren im gleichen Zeitraum durchaus verfügbar.\n\nNach Recherchen mehrerer Rezensionen scheint die kurzfristige Absage öfters vorzukommen.",
+      "time": 1788186860,
+      "translated": false
+    },
+    {
+      "author_name": "Lars",
+      "author_url": "https://www.google.com/maps/contrib/118297949261525166689/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiowhXWETCnKDn2C66ZmLP651XoIVidpoS1NuBYBqMHDSEHj8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich hatte über Doctolib bereits lange im Voraus einen Termin zur Hautuntersuchung gebucht. Dieser wurde kurzfristig mit der Begründung abgesagt, dass die behandelnde Person im Urlaub sei – was grundsätzlich verständlich ist.\n\nEnttäuschend war jedoch, dass mir kein Ersatztermin angeboten wurde. Meine anschließenden Versuche, einen neuen Termin zu vereinbaren, blieben per E-Mail unbeantwortet. Bei meinem telefonischen Versuch wurde ich zudem recht schroff darauf verwiesen, einfach wieder einen Termin über Doctolib zu buchen. Dort waren allerdings erst mehrere Monate später wieder Termine verfügbar.\n\nBesonders ärgerlich: Termine für Selbstzahler waren im gleichen Zeitraum durchaus verfügbar.\n\nNach Recherchen mehrerer Rezensionen scheint die kurzfristige Absage öfters vorzukommen.",
       "time": 1788186860,
       "translated": false
@@ -1207,12 +1243,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 117,
+  "rating": 4.6,
+  "reviewCount": 109,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-13T09:59:32.056Z"
+  "lastUpdated": "2026-09-16T09:40:17.184Z"
 }

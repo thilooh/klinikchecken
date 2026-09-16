@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Kai Groschupf",
+      "author_url": "https://www.google.com/maps/contrib/107173149746954151287/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTuTop5JWBRQ5MhlFVJvNx_O9BRaDbp4oRoc5ff5iHglyqTw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ja sehr empfehlenswert.",
+      "time": 1789452532,
+      "translated": false
+    },
+    {
+      "author_name": "Silvia Hoffmann",
+      "author_url": "https://www.google.com/maps/contrib/109533685210641026313/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9hO7ToHtKpyTDDbMQSWUylJP8FHTg2pEHTdfzsRqi9vXF1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe das MVZ bezüglich einer Venenuntersuchung der Beine kennen gelernt. Ich bin begeistert!!!! Montags gab ich meinen Wunsch für einenSprechstundentermin per E-mail bekannt. Am Tag darauf erhielt ich eine Nachricht- am nächsten Tag um 9:00 Uhr -  vorstellig werden zu können. In der heutigen Zeit für mich ein unglaubliches Erlebnis. Vor Ort setzte sich die Begeisterung fort. Nette Schwestern, ein freundlicher kompetenter Arzt und dann noch eine zügige Abarbeitung, rundherum eine durch und durch erfreuliche Erfahrung - Danke dafür .",
+      "time": 1789311962,
+      "translated": false
+    },
+    {
       "author_name": "B. D.",
       "author_url": "https://www.google.com/maps/contrib/105273834675843897062/reviews",
       "language": "de",
@@ -1438,11 +1462,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 490,
+  "reviewCount": 491,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-13T09:59:30.332Z"
+  "lastUpdated": "2026-09-16T09:40:14.990Z"
 }

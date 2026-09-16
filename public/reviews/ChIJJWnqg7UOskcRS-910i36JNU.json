@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Olbrich",
+      "author_url": "https://www.google.com/maps/contrib/110179789379155395662/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPCFy7Fw4skamLFNpyoQgFfXZgpcOobRKF1n3sZHunvODRZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Angenehme Praxisathmosphäre, keine Wartezeit, hervorragende Behandlung durch Prof. Krengel",
+      "time": 1789549139,
+      "translated": false
+    },
+    {
+      "author_name": "Heinz-Jürgen Willke",
+      "author_url": "https://www.google.com/maps/contrib/118121070134947386188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzc2HjuL2TK4rhI3Lobqv2ws9dlg3vYhoQ3mOvjY9HiLQoyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Frau und ich hatten am 15.09.2026 einen Termin bei Dr. Hause. Ein sehr netter und kompetenter Arzt der uns sehr geholfen hat. Wir würden zu jederzeit  seine Hilfe wieder in Anspruch nehmen. Auf diesem Weg  noch einmal herzlichen Dank Herr Doktor Haase. H.J.Willke",
+      "time": 1789539670,
+      "translated": false
+    },
+    {
+      "author_name": "Anneke Jaeger",
+      "author_url": "https://www.google.com/maps/contrib/101031944348827795320/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtxLPiRzuW8jucVsJpitcLMuPJNuYkx7XHyRpBKkHmb-IcjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal. Die Ärztin war einfühlsam und verständnisvoll und hat sich für alle meine Anliegen Zeit genommen.",
+      "time": 1789497959,
+      "translated": false
+    },
+    {
+      "author_name": "Mehmet Can",
+      "author_url": "https://www.google.com/maps/contrib/111176677535967951982/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQ1YpnJNEL2o6U7xBAd_wGgZunpnE5qCpLRnO2GTt2fcuDDn9e=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte mich beschweren: Mein Termin wurde storniert, nur weil ich 30 Minuten zu spät kam – dabei ist es ohnehin schon sehr schwer, überhaupt einen Termin zu bekommen. Ich habe die Situation erklärt: Die Straße war gesperrt und auf der Ausweichstrecke herrschte starker Verkehr, doch man zeigte kein Verständnis. Die Frau am Empfang verhielt sich äußerst verständnislos und respektlos; ich werde mich umgehend bei der Ärztekammer über Sie beschweren",
+      "time": 1789480526,
+      "translated": false
+    },
+    {
+      "author_name": "Helmut Braasch",
+      "author_url": "https://www.google.com/maps/contrib/115842369905368569804/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6ZqSohZj7hc1xDkAc6Zb6o2EWHfH1XSdq9LNDj2xvy6TKKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als langjähriger Patient dieser Gemeinschaftspraxis habe ich alle Ärzte als außerordentlich sorgfältig, kompetent und freundlich kennengelernt. Die Terminvergabe erfolgte problemlos und relativ zeitnah. Gleiches gilt auch für die online-Terminvergabe, die zuletzt genutzt habe. Die Wartezeiten am Termin waren vergleichsweise gering.\nDie für 3 Ärzte etwas beengte Praxis wird sich ab dem kommenden Jahr deutlich erweitern.\nFazit: eine sehr empfehlenswerte Adresse bei Hautproblemen und der Hautkrebsvorsorge.\n\nDie neue Praxis am Bahnhof macht einen sehr schönen transparenten und gut organisierten Eindruck. Die Aufteilung\nin zwei Praxisbereiche in den Häusern B und A ist wegen organisatorischen und orientierungsbedingten Missverständnissen leider nicht ganz glücklich, aber angesichts der Expansion der Praxis an diesem Ort wohl unvermeidbar.\nDie Online-Terminvergabe ist übersichtlich und problemkos\nZur Kompetenz und Freundlichkeit der Arzt sowie des gesamten Praxisteams habe ich nichts hinzuzufügen, wobei ich seit vielen\nJahren nur von Prof. Krengel betreut werde.",
+      "time": 1789472598,
+      "translated": false
+    },
+    {
       "author_name": "Samantha Mendoza",
       "author_url": "https://www.google.com/maps/contrib/111857626607120835365/reviews",
       "language": "de",
@@ -1874,11 +1934,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2386,
+  "reviewCount": 2393,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-13T09:59:31.087Z"
+  "lastUpdated": "2026-09-16T09:40:16.204Z"
 }

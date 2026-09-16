@@ -1,11 +1,45 @@
 {
   "reviews": [
     {
+      "author_name": "Lena Fomina",
+      "author_url": "https://www.google.com/maps/contrib/107108817973149150053/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIi4T40SJU3LavLOT5VbWG_ZOxXHohCjaIe23l_KRW2DbqtOQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte eine sehr enttäuschende Erfahrung mit VenaZiel Berlin.\nDie erste ärztliche Beratung verlief zwar effizient, doch alles, was danach geschah, gab mir ernsthafte Bedenken hinsichtlich Transparenz und Kommunikation.\nNach dem Termin erhielt ich einen Kostenvoranschlag für die VenaSeal-Behandlung von vier Stammvenen. Im späteren medizinischen Bericht hieß es jedoch eindeutig, dass nur zwei Venen am linken Bein zur Behandlung empfohlen würden, während die rechte Seite zunächst beobachtet werden sollte. Ich erhielt außerdem eine Rechnung für mehrere diagnostische Verfahren, an die ich mich nicht erinnern kann, und deren Ergebnisse im medizinischen Bericht nicht dokumentiert waren.\nIch kontaktierte die Klinik mehrmals, um sowohl die Rechnung als auch den Kostenvoranschlag für die VenaSeal-Behandlung zu klären und zu korrigieren. Anstatt Antworten auf meine konkreten Fragen zu erhalten, bekam ich zunächst nur den medizinischen Bericht, der die Unstimmigkeiten nicht aufklärte.\nBesonders enttäuschend ist, dass ich direkt nach der Beratung aktiv nach einem Termin für die VenaSeal-Behandlung gefragt und die Behandlung in der Klinik fortsetzen wollte. Die unklaren Antworten, die Widersprüche zwischen dem Arztbericht und dem Kostenvoranschlag sowie die ungeklärten Fragen zur Rechnung haben mich leider vom weiteren Vorgehen in dieser Praxis abgebracht. Gerade von einer Privatpraxis, die teure, invasive Eingriffe anbietet, erwarte ich eine deutlich klarere und verlässlichere Kommunikation bezüglich Diagnose, Abrechnung und Behandlungsplanung.",
+      "time": 1789381963,
+      "translated": true
+    },
+    {
+      "author_name": "K R",
+      "author_url": "https://www.google.com/maps/contrib/102398351387101115766/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuSolrhDk6cGHU2fiy3cXnPqixKRugS5z3kZNezE_EV5VO3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "I don't recommend this clinic. I came in with suspicions of a vein problem and left having received exactly zero examination. The doctor never asked me to show the area and never looked at my skin!! No exam of any kind but just an assumption based on what I described and me telling them “I really don’t know what is it”, followed immediately by a referral to an expensive radiology test.\n\nI'd already said I was only in Berlin briefly and paying entirely out of pocket; it didn't change anything.\n\nThe whole visit lasted 6 minutes. The doctor was 40 minutes late, and I wasn't even seen by the professor I'd specifically booked on Doctolib, but a completely different person.\n\nAt reception, I was quoted almost €130 for this: for a visit where nothing was examined, but ive heard only a brief diagnosis and a referral to an expensive test. When I pushed back, I was told \"oh, you didn't have an ultrasound,\" and the price dropped to €46 on the spot. That alone tells you how arbitrary the billing is.\n\nI later saw a different doctor, who actually looked at the problem and no radiology test was needed at all - the issue was something entirely different from what I'd been told here. I suspect I would have found that out on the spot, even in 6 minutes, if anyone had bothered to look at what I was describing in the first place.\n\nI walked out knowing less than when I walked in, with my actual concern never once examined. If you want a doctor to actually look at you, go elsewhere.",
+      "time": 1789310967,
+      "translated": false
+    },
+    {
       "author_name": "Nils Benner",
       "author_url": "https://www.google.com/maps/contrib/103298221849216769034/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBUmqgn1zMpxe0v1OKO8rA-rlQ2oor4gWsx-suXlUfn67XMA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1788858477,
+      "translated": false
+    },
+    {
+      "author_name": "Nils Benner",
+      "author_url": "https://www.google.com/maps/contrib/103298221849216769034/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBUmqgn1zMpxe0v1OKO8rA-rlQ2oor4gWsx-suXlUfn67XMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1788858477,
       "translated": false
@@ -1240,7 +1274,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 153,
+  "reviewCount": 155,
   "summary": [],
-  "lastUpdated": "2026-09-13T09:59:20.607Z"
+  "lastUpdated": "2026-09-16T09:40:03.015Z"
 }

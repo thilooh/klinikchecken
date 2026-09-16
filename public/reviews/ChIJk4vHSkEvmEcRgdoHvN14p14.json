@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Florian",
+      "author_url": "https://www.google.com/maps/contrib/110536312321766086028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdfTYPzmYCL6dVuNlx7pwozP1Xhfst6S_ZfwyvkGltHseNGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wer einen Termin hat muss mindestens 1 Stunde Wartezeit noch mitbringen.",
+      "time": 1789385994,
+      "translated": false
+    },
+    {
       "author_name": "Rosaria Giomblanco",
       "author_url": "https://www.google.com/maps/contrib/110759325243829351386/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Rosaria Giomblanco",
+      "author_url": "https://www.google.com/maps/contrib/110759325243829351386/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqcsHHPGi8v_L0eVvi-RIt0kACSDVz0DfzdMWqTpyQ-yFB7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich habe gerade telefonisch nach einem Termin gefragt und wollte kurz mein Anliegen schildern, Frau B. die von Anfang an schon unzufrieden und gelangweilt klang, wurde unhöflich und unterbrach mich einfach. Nachdem ich sie fragte warum sie mich nicht aussprechen lässt sagte sie „wollen Sie nun den Termin oder nicht“\n\nIch empfehle der Praxis vor- bzw. begleitend zum Einsatz an der Rezeption sie an eine Weiterbildung im Bereich Patientenkommunikation und professioneller Umgang mit Patienten anzumelden.\n\nSo jemanden kann man doch nicht an Rezeption setzen?!?!",
+      "time": 1788938832,
+      "translated": false
+    },
+    {
       "author_name": "Mustafa Güneş",
       "author_url": "https://www.google.com/maps/contrib/116677830459670322227/reviews",
       "language": "tr",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpO1WvRsJKuY14myiqlAPqIj5_AyWVIoIMtfkr7YPPAuyrcw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Orada çalışan, kayıt yapan yabancı kadın hiç yardımcı olmuyor. Almanca bilmeyenlere kötü davranıyor.\nAma doktorlar çok iyi.",
+      "time": 1788810080,
+      "translated": false
+    },
+    {
+      "author_name": "Mustafa Güneş",
+      "author_url": "https://www.google.com/maps/contrib/116677830459670322227/reviews",
+      "language": "tr",
+      "original_language": "tr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpO1WvRsJKuY14myiqlAPqIj5_AyWVIoIMtfkr7YPPAuyrcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Orada çalışan, kayıt yapan yabancı kadın hiç yardımcı olmuyor. Almanca bilmeyenlere kötü davranıyor.\nAma doktorlar çok iyi.",
       "time": 1788810080,
       "translated": false
@@ -94,6 +130,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3SRVMOcwxFuDhsN54JADC7m4e9VanvMVCaRFtYdHiYugslcsA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1786729456,
+      "translated": false
+    },
+    {
+      "author_name": "Ramis Misirli",
+      "author_url": "https://www.google.com/maps/contrib/112394421904782366745/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3SRVMOcwxFuDhsN54JADC7m4e9VanvMVCaRFtYdHiYugslcsA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1786729456,
       "translated": false
@@ -1356,11 +1402,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 206,
+  "reviewCount": 207,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-13T09:59:59.789Z"
+  "lastUpdated": "2026-09-16T09:40:47.750Z"
 }

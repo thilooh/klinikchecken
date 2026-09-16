@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jayjay",
+      "author_url": "https://www.google.com/maps/contrib/108401839224414635804/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA94096YI_uHvW_mfeeexzysfY6MRwTecxuAwI6vJ-vHdT_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "An Dr. Pourhassan habe ich nichts auszusetzen aber bitte wie unhöfflich sind die älteren Damen o Pardon die Medizinische Fachangestellte bitte?? Letztens war ich da für mein Vater Termin zu nehmen sage ihr das, sie steht auf holt irgend welche Papiere und faltet sie zusammen legt es in einem Briefumschalg und lässt sich voll Zeit 😂. Dann zu mir, ja um ein Termin zu machen brauche erst eine Überweisung! Ich überlege immer noch was diese Aktion sein sollte. Eins weiss ich definitiv sehr unfreundlich, unhöfflich. Generell sind dies e Frauen die da sitzen veraltet und unfreundlich.",
+      "time": 1789315195,
+      "translated": false
+    },
+    {
       "author_name": "Yannik Roden",
       "author_url": "https://www.google.com/maps/contrib/106981955565908605381/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoQc2AP_qRwR4sU_vylrJQgvkp9esmVjJLSV_gcy-DmB09_w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich wollte ein Termin machen aber telefonisch erreiche nie ein\nAm Tag mindestens 50 mal angerufen aber nie geht einer ran",
+      "time": 1787064781,
+      "translated": false
+    },
+    {
+      "author_name": "Yannik Roden",
+      "author_url": "https://www.google.com/maps/contrib/106981955565908605381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoQc2AP_qRwR4sU_vylrJQgvkp9esmVjJLSV_gcy-DmB09_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich wollte ein Termin machen aber telefonisch erreiche nie ein\nAm Tag mindestens 50 mal angerufen aber nie geht einer ran",
       "time": 1787064781,
       "translated": false
@@ -939,12 +963,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 65,
+  "rating": 4.6,
+  "reviewCount": 66,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-09-13T09:59:50.957Z"
+  "lastUpdated": "2026-09-16T09:40:39.160Z"
 }

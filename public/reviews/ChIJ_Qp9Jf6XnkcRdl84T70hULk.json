@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Anna Hamann",
+      "author_url": "https://www.google.com/maps/contrib/115861442745849121312/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW36NPUv680Zczgc_hHbPQi-e2xZxCA0ml2k0lRTwCBXDoFsmRgYQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine hervorragende Empfehlung für das Hautzentrum am Forsterpark – insbesondere für Herrn Dr. Michael Weidmann\nIch möchte meine uneingeschränkte Empfehlung für das Hautzentrum am Forsterpark aussprechen, insbesondere für Herrn Dr. Michael Weidmann.\nVon Anfang an hat mich die ausgesprochen professionelle, kompetente und herzliche Betreuung überzeugt. Herr Dr. Weidmann nimmt sich Zeit, hört aufmerksam zu und vermittelt durch sein umfangreiches Fachwissen, seine Erfahrung und seine ruhige, sichere Art sofort Vertrauen.\nBesonders hervorheben möchte ich die Kombination aus fachlicher Kompetenz, Wissen, Präzision und höchster Qualität. Man merkt, dass hier nicht einfach nach einem Standardverfahren gearbeitet wird, sondern dass der Mensch und seine individuellen Bedürfnisse im Mittelpunkt stehen.\nAuch das gesamte Team verdient ein großes Lob. Alle Mädels sind ausgesprochen freundlich, herzlich, aufmerksam und zuvorkommend. Man wird stets mit einem Lächeln empfangen und fühlt sich vom ersten Moment an willkommen und bestens aufgehoben.\nIch habe mich zu jedem Zeitpunkt sehr gut betreut und professionell beraten gefühlt. Die Qualität der Behandlung und das Fachwissen von Herrn Dr. Weidmann haben bei mir einen ausgesprochen positiven Eindruck hinterlassen.\nWer Wert auf Kompetenz, Qualität, Erfahrung und eine vertrauensvolle Behandlung legt, ist hier meiner Meinung nach bestens aufgehoben.\nEine klare und uneingeschränkte Empfehlung von mir – 5 Sterne für Herrn Dr. Michael Weidmann und das gesamte Team des Hautzentrums am Forsterpark!",
+      "time": 1789541902,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Müller",
+      "author_url": "https://www.google.com/maps/contrib/106785459262018360253/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVrhB7UvuOEo71uHnW8qPCRPFwv1oamrYO1ENmNYCZ2Iu5lg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe meine Sonnenschäden nach dem Screening lasern lassen. Hat mich bzw. die Krankenkasse alles in allem schlappe 1000 € gekostet! Über den Behandlungserfolg kann ich noch nicht berichten. Allerdings über die sehr sparsamen Auskünfte zum Heilungsprozess und zur Alltagsroutine (Sonne, Haare waschen, Sport usw.) und dies auch nur auf Nachfrage.",
+      "time": 1789310388,
+      "translated": false
+    },
+    {
       "author_name": "ghost girl",
       "author_url": "https://www.google.com/maps/contrib/100951954839077419359/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Anika Grahammer",
+      "author_url": "https://www.google.com/maps/contrib/106470006780074370230/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnrAU2Iyx-bNaNB72MuiilaR5HYlPR5vqhkdWf1GS1OETp9pA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr professionelle Untersuchung, moderne Methoden und wirklich ein cooles Team, vom Empfang, über die Ärzte bis hin zur Abrechnung. Ich habe mich zu 100% sehr gut aufgehoben gefühlt.\nIch habe ein Haut-Screening, zur Hautkrebs-Vorsorge machen lassen.\nDaumen hoch, für das Team. Auch wenn es nicht einfach ist einen Termin zu bekommen, es lohnt sich da dranzubleiben.\nBeste Grüße",
+      "time": 1788728601,
+      "translated": false
+    },
+    {
       "author_name": "to ru",
       "author_url": "https://www.google.com/maps/contrib/109602030586856132413/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlZ6Uq_bQhZ9TumspdmVefTtc7qj7f4aTjlkJp_E9pD_rK9w=s128-c0x00000000-cc-rp-mo-ba3",
@@ -40,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlZ6Uq_bQhZ9TumspdmVefTtc7qj7f4aTjlkJp_E9pD_rK9w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788228808,
+      "translated": false
+    },
+    {
+      "author_name": "to ru",
+      "author_url": "https://www.google.com/maps/contrib/109602030586856132413/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlZ6Uq_bQhZ9TumspdmVefTtc7qj7f4aTjlkJp_E9pD_rK9w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1788228808,
       "translated": false
@@ -1282,11 +1328,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 174,
+  "reviewCount": 176,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-13T09:59:36.475Z"
+  "lastUpdated": "2026-09-16T09:40:22.100Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "meinungsagen.online",
+      "author_url": "https://www.google.com/maps/contrib/115630085956554403564/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt8fR58bOk92cgZLnag9uLAHpiCeNdYTHvxS4X_NV0V8207I8=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789384177,
+      "translated": false
+    },
+    {
       "author_name": "Tobias Landman",
       "author_url": "https://www.google.com/maps/contrib/104266030988445424633/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp-guiOgoDyHpPjCa6eiPs-VAlzJgr48JXRO0saNN9oBSgeA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Leider sehr Enttäuschend, um 8:30 bis 45 insgesamt 10 mal Angerufen ohne Abnehmer, darauf hin hingefahren nur um 9:15 zu hören zu bekommen wir nehmen heute Niemanden mehr auf, Stühle im Warteraum war waren nicht mal alle Besetzt.",
+      "time": 1788856677,
+      "translated": false
+    },
+    {
+      "author_name": "Tobias Landman",
+      "author_url": "https://www.google.com/maps/contrib/104266030988445424633/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp-guiOgoDyHpPjCa6eiPs-VAlzJgr48JXRO0saNN9oBSgeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Leider sehr Enttäuschend, um 8:30 bis 45 insgesamt 10 mal Angerufen ohne Abnehmer, darauf hin hingefahren nur um 9:15 zu hören zu bekommen wir nehmen heute Niemanden mehr auf, Stühle im Warteraum war waren nicht mal alle Besetzt.",
       "time": 1788856677,
       "translated": false
@@ -56,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyMyANlgAyhzay-hV7GvmFQsCO047H9kd4FpxoCyEoIhXRcyg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin mit meiner Operation und der gesamten Betreuung sehr zufrieden. Das Team war von Anfang an freundlich, kompetent und sehr einfühlsam. Die OP verlief problemlos und ich habe mich jederzeit bestens aufgehoben gefühlt. Vielen Dank an das gesamte Team – absolut empfehlenswert!",
+      "time": 1788266820,
+      "translated": false
+    },
+    {
+      "author_name": "Denizcan Uygun",
+      "author_url": "https://www.google.com/maps/contrib/105671231901201322541/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyMyANlgAyhzay-hV7GvmFQsCO047H9kd4FpxoCyEoIhXRcyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin mit meiner Operation und der gesamten Betreuung sehr zufrieden. Das Team war von Anfang an freundlich, kompetent und sehr einfühlsam. Die OP verlief problemlos und ich habe mich jederzeit bestens aufgehoben gefühlt. Vielen Dank an das gesamte Team – absolut empfehlenswert!",
       "time": 1788266820,
       "translated": false
@@ -1034,11 +1068,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 224,
+  "reviewCount": 225,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-13T09:59:35.492Z"
+  "lastUpdated": "2026-09-16T09:40:21.132Z"
 }

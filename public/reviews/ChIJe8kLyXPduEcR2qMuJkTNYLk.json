@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sonja Funder",
+      "author_url": "https://www.google.com/maps/contrib/105891918902056370240/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_cpNXgTOLohuvaf6Z_uhrvtJhNQQWRUc1HKBVHGDIdTjKiN2a3A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich von Anfang bis Ende bestens aufgehoben und umsorgt gefühlt. Besten Dank an das gesamte Team.",
+      "time": 1789541532,
+      "translated": false
+    },
+    {
       "author_name": "Anja Schmidt",
       "author_url": "https://www.google.com/maps/contrib/117365706854008691250/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlrQnfwS1w9PRzmRp-ru1MAX6Y7dVQFK7dqrxnGA3EOjkKTDod=s128-c0x00000000-cc-rp-mo",
@@ -492,7 +504,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 46,
+  "reviewCount": 47,
   "summary": [],
-  "lastUpdated": "2026-09-13T09:59:26.287Z"
+  "lastUpdated": "2026-09-16T09:40:10.213Z"
 }

@@ -59,6 +59,18 @@
       "translated": false
     },
     {
+      "author_name": "Markus",
+      "author_url": "https://www.google.com/maps/contrib/112030688110952192044/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfbngl_9W4EcbFDe7V6jtG8S7_u9mgWsBa_pd7mLQLsbK4xw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr nette und menschliche Praxis. Termine werden eingehalten und es gibt kaum Wartezeiten.\nIch kann die Ärztin sehr empfehlen. Sie redet auf Augenhöhe mit den Patienten.",
+      "time": 1787051107,
+      "translated": false
+    },
+    {
       "author_name": "Maria Therese Becker",
       "author_url": "https://www.google.com/maps/contrib/101945991137837157178/reviews",
       "language": "de",
@@ -796,5 +808,5 @@
   "rating": 4.1,
   "reviewCount": 127,
   "summary": [],
-  "lastUpdated": "2026-09-13T09:59:26.051Z"
+  "lastUpdated": "2026-09-16T09:40:09.476Z"
 }

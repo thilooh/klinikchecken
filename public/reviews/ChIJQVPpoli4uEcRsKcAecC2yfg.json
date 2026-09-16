@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "H C",
+      "author_url": "https://www.google.com/maps/contrib/103509666019719314551/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYKSkRNObwIN2SKsI2amMgcE2HkS18D4vaHDrTGrP8Srk6lw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit einem Jahr leide ich unter starkem Juckreiz, und bis heute wurde die Ursache nicht festgestellt. Bei meinem Termin wurde ich kaum eine Minute angehört und anschließend direkt wieder nach Hause geschickt. Eine vernünftige Untersuchung oder Aufklärung über mögliche Ursachen und weitere Behandlungsmöglichkeiten fand für mich nicht statt.\n\nDie Ärztin war zudem sehr unfreundlich und hat sich aus meiner Sicht nicht ausreichend Zeit für mich genommen. Ich habe mich mit meinen Beschwerden nicht ernst genommen und nicht ausreichend aufgeklärt gefühlt.\n\nNach einem Jahr mit solchen Beschwerden hätte ich deutlich mehr ärztliche Betreuung, Verständnis und vor allem eine gründliche Abklärung erwartet. Für mich eine sehr enttäuschende Erfahrung, die ich nicht weiterempfehlen kann.",
+      "time": 1789309376,
+      "translated": false
+    },
+    {
       "author_name": "Alex M",
       "author_url": "https://www.google.com/maps/contrib/115103483381902283658/reviews",
       "language": "de",
@@ -848,11 +860,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 112,
+  "reviewCount": 113,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-13T09:59:35.736Z"
+  "lastUpdated": "2026-09-16T09:40:21.372Z"
 }

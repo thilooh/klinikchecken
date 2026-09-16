@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gabi Lohmann",
+      "author_url": "https://www.google.com/maps/contrib/106935572643984600331/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIId-SfgLA8rjd5QG07Vd1C7KB6sykNKKzW31rD_hDUIIOeKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche Damen am Empfang.  Dr. Hilton hat sehr intensiv meine Probleme begutachtet. Seine ehrliche Meinung mir im Moment nicht helfen zu können fand ich gut. Hab nächstes Jahr im März (2027).nochmal einen Termin gemacht,  dann schauen wir weiter.",
+      "time": 1789320484,
+      "translated": false
+    },
+    {
       "author_name": "Petra Deis-BenBouih",
       "author_url": "https://www.google.com/maps/contrib/113599185392056192050/reviews",
       "language": "de",
@@ -234,12 +246,12 @@
       "time": 1727789296
     }
   ],
-  "rating": 3.8,
-  "reviewCount": 13,
+  "rating": 3.9,
+  "reviewCount": 14,
   "summary": [
     "Schnelle Hilfe bei Hautnotfällen, Spezialistin Dr. Jopen für Allergologie wird gelobt",
     "Gemischte Erfahrungen: Botox-Behandlungen mit gemeldeten Komplikationen",
     "Kosmetik-Bereich erhält deutlich kritischere Bewertungen als der ärztliche Bereich"
   ],
-  "lastUpdated": "2026-09-13T09:59:12.879Z"
+  "lastUpdated": "2026-09-16T09:39:53.203Z"
 }

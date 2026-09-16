@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Ecem Serbest",
+      "author_url": "https://www.google.com/maps/contrib/103550700260219074979/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSG50MzLt6Aa0BMw1i9TlIRaCErYxAlpFwKq7T-j3O5fHhJiKv=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schrecklich mit einem Boten am Telefon abgefertigt zu werden obwohl man einen stinknormalen Termin haben möchte.",
+      "time": 1789548146,
+      "translated": false
+    },
+    {
+      "author_name": "bubblinski bubbl",
+      "author_url": "https://www.google.com/maps/contrib/113045027699802353446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7HP8dL31HtfSTxO1XDxBb3OdzyZn3oTLvR3ueatN5GQM2Duzf=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nettes Team aber lange Wartezeiten.",
+      "time": 1789486558,
+      "translated": false
+    },
+    {
+      "author_name": "Marcel Friedrich",
+      "author_url": "https://www.google.com/maps/contrib/103358315390249137473/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2B90-MkZRwgjt8qcy6n1L1I5Di-3mKXds8FnbpM-d0MaBXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789394629,
+      "translated": false
+    },
+    {
+      "author_name": "Jennifer Keber",
+      "author_url": "https://www.google.com/maps/contrib/100203930631213918894/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_iDI9xZMZmRUPWA3qtPkeJvR1JvSelU0aX92QwesHbzpN2rem=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe schon schlechte Erfahrungen machen müssen mit männlichen Ärzten beim Hautarzt, sodass ich erst sehr skeptisch und zögerlich war, dass man sich für das KI Screening komplett ausziehen muss (auch die Unterwäsche) und dies von einem Mann durchgeführt wird. Das wurde auf der Website nicht erwähnt, dass man sich komplett entkleidet.\n\nHerr Weber hat es aber super gemacht und ich habe mich nicht unwohl gefühlt. Das man sich komplett entkleiden soll, sagte er nicht persönlich zu mir, sondern bat mich einen DIN A4 Zettel durchzulesen worauf dies stand. Das fand ich sehr professionell und somit hat er auch alle Zweifel beseitigt und es kam nicht \"komisch rüber\", wenn er mich als Mann dazu auffordert. Anfassen muss er absolut gar nicht und hat er auch nicht.",
+      "time": 1789385693,
+      "translated": false
+    },
+    {
       "author_name": "K Rose",
       "author_url": "https://www.google.com/maps/contrib/118222143762375271905/reviews",
       "language": "de",
@@ -1454,11 +1500,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 336,
+  "reviewCount": 340,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-13T09:59:45.599Z"
+  "lastUpdated": "2026-09-16T09:40:33.915Z"
 }

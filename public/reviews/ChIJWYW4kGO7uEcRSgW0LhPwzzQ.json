@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "L. G.",
+      "author_url": "https://www.google.com/maps/contrib/103559110135452160744/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIICWRTCUmu_CDisYXgBNlI6PeTDAD92lksSAdG97li9-qUbQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789456784,
+      "translated": false
+    },
+    {
+      "author_name": "Michaela Pilger",
+      "author_url": "https://www.google.com/maps/contrib/110484953696595020053/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfKQSaBXo8ZcKUsTzwW_PnTgeREss58LWL37bxquUN10idiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man fühlt sich als Patient sehr  gut aufgehoben, die Ärzte nehmen sich Zeit, die Mitarbeiter sind immer freundlich und Termine werden eingehalten.",
+      "time": 1789371057,
+      "translated": false
+    },
+    {
       "author_name": "Horst Horstmann",
       "author_url": "https://www.google.com/maps/contrib/103727386461010748931/reviews",
       "language": "de",
@@ -13,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Horst Horstmann",
+      "author_url": "https://www.google.com/maps/contrib/103727386461010748931/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK687qvu2fuc7ZRyw8E5AQ6Tkx8U_WdEy5IKTxNFvmotFEe-oYC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Frau Korth ist ja mal der größte Engel unter allen Hautärzten :D Vorne sind aber auch alle super freundlich\n\nVor allem hat man hier überhaupt mal über Doctolib einen Platz bekommen, ist ja auch nicht Selbstverständlich 🙈",
+      "time": 1788864429,
+      "translated": false
+    },
+    {
       "author_name": "ben tichelkmap",
       "author_url": "https://www.google.com/maps/contrib/104192616067007239552/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWdSqo6-qwalY6cPpEhLL6Qo969CuDcLmp6x6EyQqddeE8g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis hat sehr stark nachgelassen!!!\nÜber 6 Monate Wartezeit für einen Termin und am selben Tag wird dieser einfach storniert.\nServicewüste Deutschland.",
+      "time": 1788769527,
+      "translated": false
+    },
+    {
+      "author_name": "ben tichelkmap",
+      "author_url": "https://www.google.com/maps/contrib/104192616067007239552/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWdSqo6-qwalY6cPpEhLL6Qo969CuDcLmp6x6EyQqddeE8g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Die Praxis hat sehr stark nachgelassen!!!\nÜber 6 Monate Wartezeit für einen Termin und am selben Tag wird dieser einfach storniert.\nServicewüste Deutschland.",
       "time": 1788769527,
       "translated": false
@@ -809,12 +855,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 46,
+  "rating": 4.1,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-13T09:59:49.975Z"
+  "lastUpdated": "2026-09-16T09:40:38.210Z"
 }

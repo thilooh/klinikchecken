@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gülderen Ferrara",
+      "author_url": "https://www.google.com/maps/contrib/105556870568696681555/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpEoZFGy2LZQNpT8YkF-vBSCZxB3ceO2c_fVf_Mdy_GjOwDw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Großartige Praxis und super Mitarbeiter. Die Hautärztin war wirklich toll und ich fühlte mich gut aufgehoben",
+      "time": 1789473722,
+      "translated": false
+    },
+    {
       "author_name": "Philipp O'Neill",
       "author_url": "https://www.google.com/maps/contrib/110480759426637502284/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbu0ZAZEvjbAf50BliP7QAJW7sMVqFyALNeNlZxsmZZDljPdQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "gerade eben das erste mal dort angerufen für eine Terminvergabe und ich muss sagen selten so eine hilfsbereite zugleich sehr sympathische und engagierte Mitarbeiterin am Telefon erlebt.\n\nSie hat versucht Unmögliches möglich zu machen und mit ihre hilfsbereitschaft Art noch andere Lösungen zu finden. Sowas findet man wirklich nur noch ganz selten ganz großes Lob.\nIch habe extra noch nach ihrem Namen gefragt ,, Maria,, das nenne ich mal ein super Service Danke !",
+      "time": 1788876719,
+      "translated": false
+    },
+    {
+      "author_name": "Philipp O'Neill",
+      "author_url": "https://www.google.com/maps/contrib/110480759426637502284/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbu0ZAZEvjbAf50BliP7QAJW7sMVqFyALNeNlZxsmZZDljPdQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "gerade eben das erste mal dort angerufen für eine Terminvergabe und ich muss sagen selten so eine hilfsbereite zugleich sehr sympathische und engagierte Mitarbeiterin am Telefon erlebt.\n\nSie hat versucht Unmögliches möglich zu machen und mit ihre hilfsbereitschaft Art noch andere Lösungen zu finden. Sowas findet man wirklich nur noch ganz selten ganz großes Lob.\nIch habe extra noch nach ihrem Namen gefragt ,, Maria,, das nenne ich mal ein super Service Danke !",
       "time": 1788876719,
       "translated": false
@@ -1332,7 +1356,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 334,
+  "reviewCount": 335,
   "summary": [],
-  "lastUpdated": "2026-09-13T09:59:25.809Z"
+  "lastUpdated": "2026-09-16T09:40:09.229Z"
 }

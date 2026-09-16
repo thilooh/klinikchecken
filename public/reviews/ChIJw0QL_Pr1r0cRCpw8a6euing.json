@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mennsor Mennsor",
+      "author_url": "https://www.google.com/maps/contrib/105454026690657730731/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPe2usD0ZbiC3ubIwMDTHknF_fSrAoLQVfGKr_uAu0DSWShH4=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789309605,
+      "translated": false
+    },
+    {
       "author_name": "Vospicus",
       "author_url": "https://www.google.com/maps/contrib/112383754380050321806/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQA9xFd3oyc4LYPV2TTqxFBc4jrtoo5zqTJXqpayL0JFk7ioE=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Man merkt schon das es eine Privatklinik ist.",
+      "time": 1788115023,
+      "translated": false
+    },
+    {
+      "author_name": "Vospicus",
+      "author_url": "https://www.google.com/maps/contrib/112383754380050321806/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQA9xFd3oyc4LYPV2TTqxFBc4jrtoo5zqTJXqpayL0JFk7ioE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Man merkt schon das es eine Privatklinik ist.",
       "time": 1788115023,
       "translated": false
@@ -50,6 +72,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwcH_EqJq2C9T3LEbIbaq1U_3TePaTovKmJ102J5a8YPesNmnK=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1787564841,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja G",
+      "author_url": "https://www.google.com/maps/contrib/100729257871096298808/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwcH_EqJq2C9T3LEbIbaq1U_3TePaTovKmJ102J5a8YPesNmnK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1787564841,
       "translated": false
@@ -1108,11 +1140,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 162,
+  "reviewCount": 163,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-13T09:59:29.837Z"
+  "lastUpdated": "2026-09-16T09:40:14.384Z"
 }

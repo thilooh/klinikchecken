@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Private Benutzerin",
+      "author_url": "https://www.google.com/maps/contrib/104583327079500147452/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqi8EMvmppxWrz2ktHzNwYnFv02zqbHVS3kJB7rSCUlXeRkw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider bin ich sehr sehr enttäuscht von der Leistung genau beim Dr Kasten.ich hatte hyuluron Spritze mir gewünscht genauso wie bei meinem letzten Besuch und als ich nach Hause kam: es stand irgendetwas im Papier !!!! Und warum dieses Mal Betäubungsmittel war gemischt ?????? Das hatte der Arzt vorher nicht gesagt und so ein anders Gefühl nach der Spritze hatte ich letzte Male nicht gehabt.\nJetzt merke ich fast gar keine Unterschiede vor und nach der“ Behandlung „\n\nWie ist bitte beschwerdemanagement?\n\nWie letztes Mal würde ich nicht auf eigenen Kosten noch mal kommen! Und für alles habe ich bezahlt natürlich. Nicht zu empfehlen. Vor 4 Jahren ja , jetzt nicht mehr",
+      "time": 1789330986,
+      "translated": false
+    },
+    {
       "author_name": "Raik Schmidt",
       "author_url": "https://www.google.com/maps/contrib/118073775243608210729/reviews",
       "language": "de",
@@ -1036,11 +1048,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 230,
+  "reviewCount": 231,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-13T09:59:45.840Z"
+  "lastUpdated": "2026-09-16T09:40:34.154Z"
 }

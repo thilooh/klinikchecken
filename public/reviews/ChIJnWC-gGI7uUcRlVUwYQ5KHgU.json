@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sophia Sturm",
+      "author_url": "https://www.google.com/maps/contrib/104038642900492376363/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUctXel8CNTXio69phkooRv1yEy3PqDPiMfZGsNPdg8MZ8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super netter Arzt!\nIch war heute als Neupatientin mit Notfall in der Praxis, hab gestern nachmittag angerufen und heute morgen einen Termin bekommen.\nIch wurde kurz nach der vereinbarten Zeit auch direkt ins Arztzimmer gerufen.\nIch wurde sehr fachkundig informiert und habe eine Überweisung an die Fachstelle in Bochum bekommen.\nWürde jederzeit wieder in die Praxis gehen!",
+      "time": 1789455838,
+      "translated": false
+    },
+    {
       "author_name": "AboMohamad19713@gmail.com 122333123*#",
       "author_url": "https://www.google.com/maps/contrib/102900308346666563703/reviews",
       "language": "ar",
@@ -11,6 +23,18 @@
       "text": "أنهم لطيفين و جيدين انصح بهم",
       "time": 1788787113,
       "translated": false
+    },
+    {
+      "author_name": "AboMohamad19713@gmail.com 122333123*#",
+      "author_url": "https://www.google.com/maps/contrib/102900308346666563703/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz514Fq-z7fli0EE4vYTiUOIpsobewURA62IOozVIOxd1ewtc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sie sind nett und gut, ich kann sie empfehlen.",
+      "time": 1788787113,
+      "translated": true
     },
     {
       "author_name": "Ammar Ammar",
@@ -1258,11 +1282,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 393,
+  "reviewCount": 394,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-13T09:59:51.937Z"
+  "lastUpdated": "2026-09-16T09:40:40.109Z"
 }
