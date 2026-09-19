@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nora Jerz",
+      "author_url": "https://www.google.com/maps/contrib/116493395184439981341/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUKjhw4zvV717xjlQDCgX48YFW4qFjJycEi2TOrfYuikAsDQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War jetzt schon zwei mal als trans Frau zur Laserhaarentfernung im Gesicht da. Schöne Praxis und super liebes Team! Die Behandlung tat natürlich weh, wurde aber schnell und ohne Probleme durchgeführt, und mir wurden Pausen und sogar ein Glas Wasser angeboten. Nach der ersten Session habe ich schon eine Reduktion in der Gesichtsbehaarung gemerkt.\nIch empfehle diese Praxis absolut und gehe gerne weiter hin!",
+      "time": 1789557541,
+      "translated": false
+    },
+    {
       "author_name": "caro loudyi",
       "author_url": "https://www.google.com/maps/contrib/106509645295962837358/reviews",
       "language": "de",
@@ -13,11 +25,33 @@
       "translated": false
     },
     {
+      "author_name": "So",
+      "author_url": "https://www.google.com/maps/contrib/108115842176609119063/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgWoCC79mFMK0mnvG21NkuWK7Nb-fGKzSgSQnKKuC3fTBMEQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich rufe da heute 10.09 9:12 Uhr zum 5 mal an, warte 10-15 min in der Warteschleife damit jemand dran geht und direkt auflegt",
+      "time": 1789024348,
+      "translated": false
+    },
+    {
       "author_name": "Gabriel Calarasu",
       "author_url": "https://www.google.com/maps/contrib/105081057562410184984/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqkrM2lD4RSe4WJjIX0HYfyshohLcI6B27L5U_VX4sT6O-ucBx=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789021070,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriel Calarasu",
+      "author_url": "https://www.google.com/maps/contrib/105081057562410184984/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzN4GaL7J_nrLGZ4WFJmtJDi7hngzLKQcfeCq0jHr4ExvzEh40=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1789021070,
       "translated": false
@@ -1145,7 +1179,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 301,
+  "reviewCount": 303,
   "summary": [],
-  "lastUpdated": "2026-09-16T09:39:58.791Z"
+  "lastUpdated": "2026-09-19T09:10:42.144Z"
 }

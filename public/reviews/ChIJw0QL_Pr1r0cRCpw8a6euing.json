@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine",
+      "author_url": "https://www.google.com/maps/contrib/113961112010612070470/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMeYmdOpp8P1VBJ0SKl5CoL57PkM5sbdpgd-9gfGczM-GGRgbT=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nur rein die Aufnahme in der Klinik am Zuckerberg in Braunschweig durch die Mitarbeiterin Lea waren ein Fünf Sterne Erlebnis\nJeder fühlt sich unwohl, wenn er in einer Klinik vor einer OP erscheinen muss\nDiese Frau bringt es mit ihrer Herzenswärme und ihrer fachlichen Kompetenz fertig, dass man bei der Ankunft Ängste vergisst\nIch dürfte schon mehrere Ärzte in der Klinik am Zuckerberg in Braunschweig kennen lernen und bin absolut überzeugt und kann diese Klinik nur weiter empfehlen",
+      "time": 1789588665,
+      "translated": false
+    },
+    {
       "author_name": "Mennsor Mennsor",
       "author_url": "https://www.google.com/maps/contrib/105454026690657730731/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPe2usD0ZbiC3ubIwMDTHknF_fSrAoLQVfGKr_uAu0DSWShH4=s128-c0x00000000-cc-rp-mo",
@@ -1140,11 +1152,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 163,
+  "reviewCount": 164,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-16T09:40:14.384Z"
+  "lastUpdated": "2026-09-19T09:10:54.397Z"
 }

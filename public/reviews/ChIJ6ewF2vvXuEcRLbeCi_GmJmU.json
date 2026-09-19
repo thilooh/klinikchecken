@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Tatjana Helwig",
+      "author_url": "https://www.google.com/maps/contrib/106653391087199723413/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4ss7iDHpk2PNGwPUl3TMRDwzT12IdT4CB2LTU9kvzI10pKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann Frau Dr. Dith herzlich weiter empfehlen!\nSie nimmt sich immer ausreichend Zeit, ist sehr professionell und man fühlt sich gut aufgehoben!\nDie Behandlungen führt sie immer gründlich durch, so dass alles reibungslos und ohne jegliche Komplikationen läuft.\nEine wirklich fachkundige Ärztin und ein freundliches Praxisteam!\nNochmals herzlichen Dank an Frau Dr. Dith!",
+      "time": 1789674783,
+      "translated": false
+    },
+    {
+      "author_name": "Abdul Abaji",
+      "author_url": "https://www.google.com/maps/contrib/109463419045780876446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5jHnYl_6DpLVSjgoa0Et6BuvnPy8o6t0xtPUfnQCbmdrupQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Maximal unfreundlich",
+      "time": 1789649148,
+      "translated": false
+    },
+    {
       "author_name": "Ulrich Neitzel",
       "author_url": "https://www.google.com/maps/contrib/118430771580195393779/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Beate Ueberholz",
+      "author_url": "https://www.google.com/maps/contrib/101882255654241705884/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlYlO5GQ2gN8API9RuGpSAH7-moJjgodjya082NOU9RcwGPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin hellauf begeistert.\nEigentlich müssten es 15 Sterne geben und für das Team noch mal bitte 5",
+      "time": 1789119717,
+      "translated": false
+    },
+    {
       "author_name": "Mari Mos",
       "author_url": "https://www.google.com/maps/contrib/101593201820204623824/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMGQ2VlodtEXRPrFmEpjt9qQnFE25_5TZ9CkljHzxFTKZe-k-0=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches und höfliches Personal. Die Ärztin war sehr aufmerksam, hat sich viel Zeit für mich genommen und ist auf meine Fragen eingegangen. Ich habe mich sehr gut aufgehoben und ernst genommen gefühlt.",
+      "time": 1788965652,
+      "translated": false
+    },
+    {
+      "author_name": "Mari Mos",
+      "author_url": "https://www.google.com/maps/contrib/101593201820204623824/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMGQ2VlodtEXRPrFmEpjt9qQnFE25_5TZ9CkljHzxFTKZe-k-0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundliches und höfliches Personal. Die Ärztin war sehr aufmerksam, hat sich viel Zeit für mich genommen und ist auf meine Fragen eingegangen. Ich habe mich sehr gut aufgehoben und ernst genommen gefühlt.",
       "time": 1788965652,
       "translated": false
@@ -1206,11 +1254,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 238,
+  "reviewCount": 240,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:19.340Z"
+  "lastUpdated": "2026-09-19T09:10:59.106Z"
 }

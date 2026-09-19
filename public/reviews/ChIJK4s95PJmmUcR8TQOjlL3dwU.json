@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lisa Buck",
+      "author_url": "https://www.google.com/maps/contrib/110078483603103025112/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2ZlcjQTr9tkXTV4yNjA1GJYbeXG3r2y9I49lDF2t9wB7l5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zufrieden. Ich habe mir nun schon des öfteren bei Herr Prof. Maier die Lippenkontur nachbessern lassen sowie Hyaluronunterspritzungen. Das Team ist super freundlich und aufmerksam - Terminierung sowie Ablauf in der Praxis einfach reibungslos. Herr Prof. Maier hat ein Auge und ein Händchen für Ästhetik - ich bin wie immer begeistert und komme definitiv wieder. Vielen Dank für die äußert gute Arbeit! Lisa Buck",
+      "time": 1789749149,
+      "translated": false
+    },
+    {
       "author_name": "Ramona Hoermann",
       "author_url": "https://www.google.com/maps/contrib/106642486999441036609/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Ramona Hoermann",
+      "author_url": "https://www.google.com/maps/contrib/106642486999441036609/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMBeQ5udivjl8hJprhUqa_Py2y-qTmNbn9YxAIXnqFbzmr7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Freundliche und kompetente Beratung, beginnt bereits an der Rezeption bei Frau Claudia über die Arzthelferinnen zu den Ärzten. Unkomplizierte Termin-Vergabe, ausführliche Beratung und top Behandlung.",
+      "time": 1789127888,
+      "translated": false
+    },
+    {
       "author_name": "Tobias Rainer",
       "author_url": "https://www.google.com/maps/contrib/114407967103665820752/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-rGMPY1Q6HQVRj-mmq_r4smv98b8UAb6XESsmSl3LgySnUA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wir sind von Frau Claudia sehr freundlich und hilfsbereit empfangen worden.\nFrau Dr. med Fathinia Grafl und Herr Prof. Dr. med. Heinz Maier waren ebenfalls sehr freundlich und konnten meiner Frau gut helfen.\nIch kann das komplette Team absolut weiterempfehlen.",
+      "time": 1788970575,
+      "translated": false
+    },
+    {
+      "author_name": "Tobias Rainer",
+      "author_url": "https://www.google.com/maps/contrib/114407967103665820752/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-rGMPY1Q6HQVRj-mmq_r4smv98b8UAb6XESsmSl3LgySnUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Wir sind von Frau Claudia sehr freundlich und hilfsbereit empfangen worden.\nFrau Dr. med Fathinia Grafl und Herr Prof. Dr. med. Heinz Maier waren ebenfalls sehr freundlich und konnten meiner Frau gut helfen.\nIch kann das komplette Team absolut weiterempfehlen.",
       "time": 1788970575,
       "translated": false
@@ -794,11 +830,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 144,
+  "reviewCount": 145,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:24.528Z"
+  "lastUpdated": "2026-09-19T09:11:03.011Z"
 }

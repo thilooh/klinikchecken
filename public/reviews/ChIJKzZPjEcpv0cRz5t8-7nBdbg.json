@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Werner Dausel",
+      "author_url": "https://www.google.com/maps/contrib/100095002887144966135/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl5n8HmmMD0s8WOki1BguaNLIbyNP6s4dsetlkAHU9OyozWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789654925,
+      "translated": false
+    },
+    {
       "author_name": "Detlef Beuth",
       "author_url": "https://www.google.com/maps/contrib/105437243315075608889/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfBWBtfCGbFfzt4gOTo4nsJ7WwYhz8Mx17mINf57TIEwf922Op=s128-c0x00000000-cc-rp-mo-ba4",
@@ -1214,11 +1224,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 235,
+  "reviewCount": 236,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-16T09:40:43.224Z"
+  "lastUpdated": "2026-09-19T09:11:20.958Z"
 }

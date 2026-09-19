@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nicole E.",
+      "author_url": "https://www.google.com/maps/contrib/110561872064799832826/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtjSeETNbAgWdzfGFPclhN_V1UaxzScsLvIC4CXvdJ0Mcpgw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ärzte sind soweit nett, aber…\neine Unterstützung zur Vorbereitung auf die Liposuktion ist nicht zu erwarten. Es wäre zu einfach gewesen, wenn bereits beim Erstgespräch das Gewicht dokumentiert worden wäre. Da man zur Übernahme der Kosten bei der Krankenkasse vorweisen muss, dass man sein Gewicht ein halbes Jahr gehalten halt, wäre diese kleine Dokumentation extrem wichtig gewesen.\nAuch hätte man darauf hinweisen können, dass man neben der manuellen Lymphdrainage Bewegungstheraphie vorweisen muss und beim Sport die Kompression tragen muss und dies offiziell vom Fitnessstudio zB schriftlich dokumentiert sein muss.\nIch hatte nach meinem Gespräch im Krankenhaus größte Mühe all diese Voraussetzungen schriftlich dokumentiert nachzureichen.\nDann war ich zuletzt vor Ort um mich vor meiner Liposuktion nochmal untersuchen zu lassen (zB auf Krampfadern). An der Stelle wollte man mir ein Gutachten verkaufen für sehr viel Geld, was von der Krankenkasse aber nicht gefordert wird! Eine Aufklärung darüber wie es nach der Operation weitergeht habe ich nie erhalten. Ich war dann davon ausgegangen, dass der Chirurg im Krankenhaus mich darüber aufklärt.\nEin wenig mehr Engagement wäre wünschenswert, da ich das Gefühl hatte alles selbstständig erarbeiten zu müssen. Sehr schade als Patient nicht die Unterstützung zu erhalten, die man erwarten dürfte.",
+      "time": 1789565910,
+      "translated": false
+    },
+    {
       "author_name": "Volker Barniske,Dr.",
       "author_url": "https://www.google.com/maps/contrib/115333521442213618562/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlADnAxcImwi_c0VbCRIL7tLUnMUHU2Xu8pnrDLSPr7Se9=s128-c0x00000000-cc-rp-mo",
@@ -118,6 +130,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFYVQ4QlpkeMUqd1BCdVG0GwQTY9uRCV4d3ucsj2WueoXyUQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Netter Arzt",
+      "time": 1787076767,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Probst",
+      "author_url": "https://www.google.com/maps/contrib/106782735690037329403/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFYVQ4QlpkeMUqd1BCdVG0GwQTY9uRCV4d3ucsj2WueoXyUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Netter Arzt",
       "time": 1787076767,
       "translated": false
@@ -1246,5 +1270,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-16T09:40:43.943Z"
+  "lastUpdated": "2026-09-19T09:11:21.725Z"
 }

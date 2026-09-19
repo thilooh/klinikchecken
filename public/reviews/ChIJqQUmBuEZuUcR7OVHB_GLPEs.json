@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Julia Turuta",
+      "author_url": "https://www.google.com/maps/contrib/115168875077594467495/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJ4W68-Bdt8f2UiNzUVOUvJHs0m5p6vdlfKWpKXK7XvUQACQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Normalerweise schreibe ich nur selten Bewertungen, allerdings muss ich diesmal eine für MVZ Hansaklinik hinterlassen, aufgrund von Dr. Kirsch. Ich kann ihn nämlich uneingeschränkt weiterempfehlen. Durch sein umfassendes Fachwissen, seine Sorgfalt und seinen ausgesprochen geschulten Blick hat er es geschafft, meine Haut nachhaltig in einen Zustand zu bringen, mit dem ich mehr als zufrieden bin. Ich fühle mich bei ihm fachlich wie menschlich bestens aufgehoben und schätze besonders, dass er sich Zeit nimmt, sehr genau arbeitet und individuell auf die Haut und ihre Bedürfnisse eingeht. Aus diesem Grund gehe ich mittlerweile regelmäßig zu ihm und würde meine Haut auch niemand anderem mehr anvertrauen. Inzwischen habe ich Dr. Kirsch bereits zahlreichen Freunden, Bekannten und Familienmitgliedern empfohlen. Auch dort ist die Begeisterung jedes Mal groß und die Rückmeldungen durchweg positiv. Für mich eine absolute Empfehlung und ein großes Dankeschön!",
+      "time": 1789663194,
+      "translated": false
+    },
+    {
       "author_name": "Tania Nogueira",
       "author_url": "https://www.google.com/maps/contrib/110917833284958774854/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrEr0cVUAvneVWFYKIoTg3YWSd74JJE-d3OGE_FWE-Uos7JHGldw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrEr0cVUAvneVWFYKIoTg3YWSd74JJE-d3OGE_FWE-Uos7JHGldw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788442254,
+      "translated": false
+    },
+    {
+      "author_name": "Tania Nogueira",
+      "author_url": "https://www.google.com/maps/contrib/110917833284958774854/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrEr0cVUAvneVWFYKIoTg3YWSd74JJE-d3OGE_FWE-Uos7JHGldw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1788442254,
       "translated": false
@@ -67,6 +89,18 @@
       "translated": false
     },
     {
+      "author_name": "Manu Fre",
+      "author_url": "https://www.google.com/maps/contrib/112264189647494239079/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjMOtx9AOmZ9rbyhb1te45apjdPF5_Lr9sDh8K8lIC5kAyw1i7pg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin schon mit einer kleinen Pause seit Jahrzehnten Patientin in der Hansaklinik und bin auch größtenteils zufrieden. Letzte Woche war ich da nach einer kleinen OP, Befund war leider noch nicht da. Ich soll telefonisch nachfragen ob der Befund da ist,aber man hängt ewig in der Warteschleife und die Online-Rezeption funktioniert nicht und über E-Mail werden auch keine Fragen mehr beantwortet. Ich kann doch nicht ständig in die Stadt fahren und das vielleicht auch noch umsonst. Das ist einfach blöd, bitte bearbeitet eure Homepage, damit man euch wenigstens online erreichen kann.",
+      "time": 1787842764,
+      "translated": false
+    },
+    {
       "author_name": "Ljudmila Samborskaja",
       "author_url": "https://www.google.com/maps/contrib/101349962756660266382/reviews",
       "language": "de",
@@ -198,6 +232,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoXVPKfo9_JbL8g_YCw6PcPb35wSwfSlR4kRAcwypvytNJr1_F=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Diese Klinik ist telefonisch gar nicht erreichbar, wie alle anderen Kliniken. Es ist wie, wenn man auf der Kirmes Lose kauft. Es sind fast immer Nieten.",
+      "time": 1787305257,
+      "translated": false
+    },
+    {
+      "author_name": "P K",
+      "author_url": "https://www.google.com/maps/contrib/117239708683156441301/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoXVPKfo9_JbL8g_YCw6PcPb35wSwfSlR4kRAcwypvytNJr1_F=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Diese Klinik ist telefonisch gar nicht erreichbar, wie alle anderen Kliniken. Es ist wie, wenn man auf der Kirmes Lose kauft. Es sind fast immer Nieten.",
       "time": 1787305257,
       "translated": false
@@ -1442,7 +1488,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 300,
+  "reviewCount": 301,
   "summary": [],
-  "lastUpdated": "2026-09-16T09:40:01.836Z"
+  "lastUpdated": "2026-09-19T09:10:43.979Z"
 }

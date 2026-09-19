@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Madalina Hohenegger",
+      "author_url": "https://www.google.com/maps/contrib/109090309731730931242/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAQMEsPYNKi3fbWj-i-AHenmUNWJiBSR9XtmJXNoHKjNFaIfs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788467633,
+      "translated": false
+    },
+    {
       "author_name": "Evelyn Hellmuth",
       "author_url": "https://www.google.com/maps/contrib/102080252063712391597/reviews",
       "language": "de",
@@ -40,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbpnNLDUkdUb2Lihp0JUpW6UKT3ZopS0rOH8_gKwjNddTDQg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war überrascht, wie schnell und reibungslos alles funktioniert hat. Parkplätze sind vorhanden, mein Termin war um 12 Uhr und ich wurde innerhalb  von 5 Minuten aufgerufen. Abfrage zum Anliegen und ärztliche Untersuchung war gut.",
+      "time": 1788460536,
+      "translated": false
+    },
+    {
+      "author_name": "Evelyn Hellmuth",
+      "author_url": "https://www.google.com/maps/contrib/102080252063712391597/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbpnNLDUkdUb2Lihp0JUpW6UKT3ZopS0rOH8_gKwjNddTDQg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war überrascht, wie schnell und reibungslos alles funktioniert hat. Parkplätze sind vorhanden, mein Termin war um 12 Uhr und ich wurde innerhalb  von 5 Minuten aufgerufen. Abfrage zum Anliegen und ärztliche Untersuchung war gut.",
       "time": 1788460536,
       "translated": false
@@ -624,5 +646,5 @@
   "rating": 3.2,
   "reviewCount": 48,
   "summary": [],
-  "lastUpdated": "2026-09-16T09:40:07.938Z"
+  "lastUpdated": "2026-09-19T09:10:49.125Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Stephanie Kamp",
+      "author_url": "https://www.google.com/maps/contrib/111856530039676229288/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQsep9Jhyf3wqgD36E84v_2GdLg-_pWx0XCkAaUY85s4tkWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789630225,
+      "translated": false
+    },
+    {
       "author_name": "Gabi Lohmann",
       "author_url": "https://www.google.com/maps/contrib/106935572643984600331/reviews",
       "language": "de",
@@ -246,12 +256,12 @@
       "time": 1727789296
     }
   ],
-  "rating": 3.9,
-  "reviewCount": 14,
+  "rating": 4,
+  "reviewCount": 15,
   "summary": [
     "Schnelle Hilfe bei Hautnotfällen, Spezialistin Dr. Jopen für Allergologie wird gelobt",
     "Gemischte Erfahrungen: Botox-Behandlungen mit gemeldeten Komplikationen",
     "Kosmetik-Bereich erhält deutlich kritischere Bewertungen als der ärztliche Bereich"
   ],
-  "lastUpdated": "2026-09-16T09:39:53.203Z"
+  "lastUpdated": "2026-09-19T09:10:36.650Z"
 }

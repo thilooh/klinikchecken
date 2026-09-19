@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Ella",
+      "author_url": "https://www.google.com/maps/contrib/117989491210173369441/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVk6w3IfKq2TzbLEerfWmyeTt7Mth-9KGEcuFA9ZqofVQYykZ0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meine Erfahrung am Telefon war leider nicht besonders positiv. Die Mitarbeiterin meldete sich am Telefon, ohne eine Begrüßung. Ich habe kurz erklärt, dass ich gerne einen Termin vereinbaren möchte. Daraufhin wurde gefragt, ob die Patientin privat versichert ist. Nachdem ich dies verneint hatte, wurde mir mitgeteilt, dass eine Behandlung nur als Selbstzahlerin möglich sei.\nAls ich daraufhin sagte, dass es dann leider nicht infrage kommt, wurde das Gespräch lediglich mit einem „okay“ beendet. Eine Verabschiedung gab es nicht…\nEin freundliches „Hallo“ am Anfang und eine kurze Verabschiedung am Ende sollten meiner Meinung nach selbstverständlich sein.",
+      "time": 1788947992,
+      "translated": false
+    },
+    {
       "author_name": "Lutz Lehnacker",
       "author_url": "https://www.google.com/maps/contrib/102406657164523536745/reviews",
       "language": "de",
@@ -54,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJykSuyanokHxy8VcKYlV7il_ZacaStCmLAIjyOFcOJNwg-5Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr freundliches Personal und kompetente Ärzte.",
+      "time": 1787915350,
+      "translated": false
+    },
+    {
+      "author_name": "Lutz Lehnacker",
+      "author_url": "https://www.google.com/maps/contrib/102406657164523536745/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJykSuyanokHxy8VcKYlV7il_ZacaStCmLAIjyOFcOJNwg-5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr freundliches Personal und kompetente Ärzte.",
       "time": 1787915350,
       "translated": false
@@ -860,5 +884,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:11.930Z"
+  "lastUpdated": "2026-09-19T09:10:52.174Z"
 }

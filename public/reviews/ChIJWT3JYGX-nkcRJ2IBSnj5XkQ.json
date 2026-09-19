@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mojo Muffins",
+      "author_url": "https://www.google.com/maps/contrib/115680644513936418064/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoElzx_AY9-EJCOxiahPwMtC_jB-Ul5mst-X7_V6GcbChrWQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist leider denkbar schlecht organisiert. Telefonisch kommt man praktisch nie durch... verschiedenste Tage und Uhrzeiten probiert, über mehrere Wochen. E-Mails werden ignoriert.\nWenn man dann mal einen Termin hat, ist der Ablauf entspannt und professionell. Nützt mir aber nur begrenzt was, wenn die Orga im Vorfeld so schlecht läuft.",
+      "time": 1789553056,
+      "translated": false
+    },
+    {
       "author_name": "Silke Richter",
       "author_url": "https://www.google.com/maps/contrib/115798451529688766314/reviews",
       "language": "de",
@@ -670,11 +682,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 63,
+  "reviewCount": 64,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:46.786Z"
+  "lastUpdated": "2026-09-19T09:11:24.771Z"
 }

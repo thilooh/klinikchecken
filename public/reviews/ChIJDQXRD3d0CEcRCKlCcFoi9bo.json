@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Karsten Dahlitz",
+      "author_url": "https://www.google.com/maps/contrib/107628606609992945486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY0avhKMf0fhdPhZC5vYdSNL-AJwHgMdaPMpAp9PFYZEHeM4Es=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789654248,
+      "translated": false
+    },
+    {
       "author_name": "Lennart",
       "author_url": "https://www.google.com/maps/contrib/112241627752924948479/reviews",
       "language": "de",
@@ -13,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Lennart",
+      "author_url": "https://www.google.com/maps/contrib/112241627752924948479/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCFvV3UNqliB_3XN9mQX3ad0QMcCAY2mGrqjpVEOitJHVv_dkc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Angerufen wegen nem Termin, waren keine vorhanden. Sollte mich dann im September nochmal melden. Hab ich versucht ( bestimmt 10 mal), zu unterschiedlich Zeiten und Tagen, auch mehrfach hintereinander, sogar ne email geschrieben, dass ich um Rückruf bitte da niemand zu erreichen ist. Heute am 11.09. hab ich dann endlich mal jemanden erreicht und dann ist natürlich kein Termin mehr frei. Soll ich mich im November nochmal melden. Sorry aber wie soll man bitte Anfang des Monates einen Termin machen, wenn weder auf Anrufe, noch auf Mails reagiert wird.",
+      "time": 1789108344,
+      "translated": false
+    },
+    {
       "author_name": "Axel Gründel",
       "author_url": "https://www.google.com/maps/contrib/103225961424974743670/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyNhrcbsSPrr67ery0XNgdg-CE8PMcFNc9j6fQ4oqVO7m03w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wer diese Praxis betritt muss sicher sein ein perfekter Mensch zu sein. Ich habe gestern die Praxis als übergewichtiger Mann betreten . Ich war dankbar für den relativ schnellen Termin. Die Schwester am Empfang war anfangs sehr empathielos. Hat sich aber später geändert. Sie war später sehr nett. Nun kommt die Ärztin ins Spiel. Ich würde erstmal, mit meinen 65 Jahren, niedergemacht weil ich zu schwer bin. Eine unmögliche Ärztin. Ich habe mich gefühlt wie ein Asozialer. Alle meine Antworten wurden geblockt. So viel Arroganz habe ich noch nicht gesehen! Auf die Liege durfte ich nicht. Zu schwer. Untersuchung wurde erstmal abgelehnt weil Ergebnis vorher klar. Darauf wollte ich meine Überweisung zurück um mir einen anderen Arzt suchen zu können. Daraufhin sah die nette Ärztin wohl ihre Einnahmen schwinden und machte einige Venenvermessungen im Stehen. War wohl nur ihem Gewinn geschuldet. Danach die Drohung alles im Arztbrief an meine Hausärztin zu senden. Die kennt mich jedoch genau. Also anschließend. Nur hingehen wenn Mann perfekt ist, oder ertragen das man in ihren Augen ein looser ist. Ergebnis: ein Stern zuviel! Geht aber nicht ohne.",
+      "time": 1788949465,
+      "translated": false
+    },
+    {
+      "author_name": "Axel Gründel",
+      "author_url": "https://www.google.com/maps/contrib/103225961424974743670/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyNhrcbsSPrr67ery0XNgdg-CE8PMcFNc9j6fQ4oqVO7m03w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Wer diese Praxis betritt muss sicher sein ein perfekter Mensch zu sein. Ich habe gestern die Praxis als übergewichtiger Mann betreten . Ich war dankbar für den relativ schnellen Termin. Die Schwester am Empfang war anfangs sehr empathielos. Hat sich aber später geändert. Sie war später sehr nett. Nun kommt die Ärztin ins Spiel. Ich würde erstmal, mit meinen 65 Jahren, niedergemacht weil ich zu schwer bin. Eine unmögliche Ärztin. Ich habe mich gefühlt wie ein Asozialer. Alle meine Antworten wurden geblockt. So viel Arroganz habe ich noch nicht gesehen! Auf die Liege durfte ich nicht. Zu schwer. Untersuchung wurde erstmal abgelehnt weil Ergebnis vorher klar. Darauf wollte ich meine Überweisung zurück um mir einen anderen Arzt suchen zu können. Daraufhin sah die nette Ärztin wohl ihre Einnahmen schwinden und machte einige Venenvermessungen im Stehen. War wohl nur ihem Gewinn geschuldet. Danach die Drohung alles im Arztbrief an meine Hausärztin zu senden. Die kennt mich jedoch genau. Also anschließend. Nur hingehen wenn Mann perfekt ist, oder ertragen das man in ihren Augen ein looser ist. Ergebnis: ein Stern zuviel! Geht aber nicht ohne.",
       "time": 1788949465,
       "translated": false
@@ -92,6 +126,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFpbiC31aogXHyIv8Zn7T0nV3-7768cc1klGNyJkzqdWhxew=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Das ist schon seltsam,seit April 2024 nehme ich mehrere Termine war und werde jedesmal aus fadenscheinigebn Gründen wieder weggeschickt....Der Höhepunkt war,das man angeblich mit mir telefonisch einen neuen Termin vereinbart hätte.....",
+      "time": 1784530773,
+      "translated": false
+    },
+    {
+      "author_name": "R. Rattei",
+      "author_url": "https://www.google.com/maps/contrib/115358531382191331506/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFpbiC31aogXHyIv8Zn7T0nV3-7768cc1klGNyJkzqdWhxew=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Das ist schon seltsam,seit April 2024 nehme ich mehrere Termine war und werde jedesmal aus fadenscheinigebn Gründen wieder weggeschickt....Der Höhepunkt war,das man angeblich mit mir telefonisch einen neuen Termin vereinbart hätte.....",
       "time": 1784530773,
       "translated": false
@@ -427,12 +473,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 15,
+  "rating": 4.4,
+  "reviewCount": 16,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-16T09:40:56.636Z"
+  "lastUpdated": "2026-09-19T09:11:35.395Z"
 }

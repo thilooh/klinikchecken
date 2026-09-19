@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nicky Scarabello",
+      "author_url": "https://www.google.com/maps/contrib/106964009911364793215/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfXo0FRp4ukcCM5D0KR_DB2ejNisHCUX2wDGQf-wbMfT6VfCA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal.\nKompetent und unkompliziert.",
+      "time": 1789634293,
+      "translated": false
+    },
+    {
       "author_name": "Stephanie F",
       "author_url": "https://www.google.com/maps/contrib/105181669998755567966/reviews",
       "language": "de",
@@ -89,6 +101,16 @@
       "translated": false
     },
     {
+      "author_name": "TheSkyHai",
+      "author_url": "https://www.google.com/maps/contrib/116546298399953512170/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgwgusmygSy-5tcsF-h_BBxlWRmkbN0aB2wAlUsewkIoCBug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1787163878,
+      "translated": false
+    },
+    {
       "author_name": "Petra",
       "author_url": "https://www.google.com/maps/contrib/110925330810781984371/reviews",
       "language": "de",
@@ -144,6 +166,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcg9Q_nOAOO9pEc5_NbY6IWBV_SUoGm1tD5cRs6i5amRKLrA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 6 Monaten",
+      "text": "Dr. med. Jany wurde mir empfohlen und diese Empfehlung kann und möchte ich gern weitergeben. Vom ersten Besuch an, war alles absolut perfekt durchorganisiert. Nach einer Gründliche Anamnese und einer ausführlichen Beratung erfolgte eine zeitnahe durchstrukturierte Terminvergabe für die geplante OP und Nachversorgung. Ich fühlte mich hier umsorgt und gut aufgehoben. Ich bin absolut mit dem Ergebnis zufrieden. Meine Erwartungen an die Behandlung sind mehr als erfüllt worden. Ich werde auch weiterhin diese Praxis bei Bedarf aufsuchen und sie jederzeit weiterempfehlen. Ich möchte mich für die gute fachliche und sehr freundliche Behandlung beim ganzen Team herzlich bedanken. Hier ist man als Patient und als Mensch in sehr guten Händen. Ihre Petra Penzel.",
+      "time": 1771433501,
+      "translated": false
+    },
+    {
+      "author_name": "Petra",
+      "author_url": "https://www.google.com/maps/contrib/110925330810781984371/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcg9Q_nOAOO9pEc5_NbY6IWBV_SUoGm1tD5cRs6i5amRKLrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 7 Monaten",
       "text": "Dr. med. Jany wurde mir empfohlen und diese Empfehlung kann und möchte ich gern weitergeben. Vom ersten Besuch an, war alles absolut perfekt durchorganisiert. Nach einer Gründliche Anamnese und einer ausführlichen Beratung erfolgte eine zeitnahe durchstrukturierte Terminvergabe für die geplante OP und Nachversorgung. Ich fühlte mich hier umsorgt und gut aufgehoben. Ich bin absolut mit dem Ergebnis zufrieden. Meine Erwartungen an die Behandlung sind mehr als erfüllt worden. Ich werde auch weiterhin diese Praxis bei Bedarf aufsuchen und sie jederzeit weiterempfehlen. Ich möchte mich für die gute fachliche und sehr freundliche Behandlung beim ganzen Team herzlich bedanken. Hier ist man als Patient und als Mensch in sehr guten Händen. Ihre Petra Penzel.",
       "time": 1771433501,
       "translated": false
@@ -402,7 +436,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 67,
+  "reviewCount": 68,
   "summary": [],
-  "lastUpdated": "2026-09-16T09:40:06.890Z"
+  "lastUpdated": "2026-09-19T09:10:47.983Z"
 }

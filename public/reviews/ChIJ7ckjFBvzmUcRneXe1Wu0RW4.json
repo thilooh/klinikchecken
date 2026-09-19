@@ -243,6 +243,16 @@
       "translated": false
     },
     {
+      "author_name": "suzana nesic",
+      "author_url": "https://www.google.com/maps/contrib/107495706521930342349/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIo_mJDJwb5mjOyWTpCuZTxq2f5EoSjKz0oM1IGwldDlZOVYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 11 Monaten",
+      "text": "",
+      "time": 1761123187,
+      "translated": false
+    },
+    {
       "author_name": "Julia",
       "author_url": "https://www.google.com/maps/contrib/108686735523271052319/reviews",
       "language": "de",
@@ -310,6 +320,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIS6rQFlVLAU9XzpM67zReXXjwnTAh8a1Glyklvcl9FYuVtEg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 12 Monaten",
+      "text": "Bin sehr froh, dass ich bei Frau Dr Ralf spontan einen Termin über doctolib bekommen habe und sie auch direkt geschnitten hat. Sie war von Anfang an sehr nett und kompetent, wie der Rest vom Team auch. Vielen Dank!",
+      "time": 1758211761,
+      "translated": false
+    },
+    {
+      "author_name": "Julia",
+      "author_url": "https://www.google.com/maps/contrib/108686735523271052319/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIS6rQFlVLAU9XzpM67zReXXjwnTAh8a1Glyklvcl9FYuVtEg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Jahr",
       "text": "Bin sehr froh, dass ich bei Frau Dr Ralf spontan einen Termin über doctolib bekommen habe und sie auch direkt geschnitten hat. Sie war von Anfang an sehr nett und kompetent, wie der Rest vom Team auch. Vielen Dank!",
       "time": 1758211761,
       "translated": false
@@ -454,5 +476,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-16T09:40:50.780Z"
+  "lastUpdated": "2026-09-19T09:11:29.012Z"
 }

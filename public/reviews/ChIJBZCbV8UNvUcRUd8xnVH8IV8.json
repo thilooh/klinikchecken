@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Cedric Ackermann",
+      "author_url": "https://www.google.com/maps/contrib/108313993317819733481/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKF88NQxp-8V5pqfHfi7g71MzawyKkszEZXsOxDMWoheQkRuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Laut der Empfehlung meines Facharztes handelt es sich hier wohl um ein fachlich sehr kompetentes Team. Meine persönliche Erfahrung mit der Praxis war leider eine völlig andere.\nIch habe am Montag aufgrund eines akuten Problems an meiner Wade eine Terminanfrage per E-Mail geschickt, bei der für mich auch ein gewisser zeitlicher Druck besteht. Nachdem ich keinerlei Rückmeldung erhalten hatte, habe ich zwei Tage lang mehrfach versucht, die Praxis telefonisch zu erreichen. Erschwerend kommt hinzu, dass eine der auf der Website angegebenen Telefonnummern nicht einmal funktioniert bzw. laut Ansage nicht vergeben ist. Erst über eine andere Nummer konnte ich schließlich jemanden erreichen.\nDort wurde mir dann lediglich mitgeteilt, dass aktuell keine neuen Patienten aufgenommen werden. Das an sich kann natürlich vorkommen und wäre für mich auch kein Grund für eine schlechte Bewertung. Was mich allerdings sehr ärgert, ist der Umgang damit: Eine kurze Antwort auf meine E-Mail hätte vollkommen ausgereicht und mir mehrere Tage Warten und zahlreiche Anrufversuche erspart.\nAm Telefon gab es weder eine Entschuldigung dafür noch irgendein Verständnis dafür, dass man auf eine solche Anfrage zumindest kurz hätte reagieren können. Stattdessen sinngemäß nur: „Wir nehmen keine neuen Patienten auf“ – und das Gespräch war beendet.\nGerade bei medizinischen Anfragen, bei denen möglicherweise ein gewisser Zeitdruck besteht, halte ich einen solchen Umgang für äußerst problematisch. Fachlich kann und möchte ich die Praxis nicht beurteilen – menschlich und organisatorisch war meine Erfahrung leider sehr enttäuschend.",
+      "time": 1789630217,
+      "translated": false
+    },
+    {
       "author_name": "Ralph Schubert",
       "author_url": "https://www.google.com/maps/contrib/109681047125485617552/reviews",
       "language": "de",
@@ -1011,8 +1023,8 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 101,
+  "rating": 4.8,
+  "reviewCount": 102,
   "summary": [],
-  "lastUpdated": "2026-09-16T09:39:59.540Z"
+  "lastUpdated": "2026-09-19T09:10:43.171Z"
 }

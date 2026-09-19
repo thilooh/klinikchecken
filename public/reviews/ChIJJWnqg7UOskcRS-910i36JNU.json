@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Jürgen Diekmann",
+      "author_url": "https://www.google.com/maps/contrib/106357466713613126319/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsoJYRcfRluq46mvxljd3ZS9vkBTMjQbnAzfhEHiro7dBrfjM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Durch Zufall sehr kurzfristig (am nächsten Tag) einen freigewordenen  Termin ergattert, nur 10 Min. Wartezeit, nettes Personal und sehr nette und kompetente Ärztin (Frau Dr. Mrowka)!\nBesser geht nicht!",
+      "time": 1789732648,
+      "translated": false
+    },
+    {
+      "author_name": "J H",
+      "author_url": "https://www.google.com/maps/contrib/105678988612697547231/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv9ZcSyFTEv5ZEGl_RRjcl9GH-hjCdEcYIb-r2MXj_seYRSHQn=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Moderne und hervorragend organisierte Praxis.Ich bin Patient bei Doktor Haase und seinem Praxis Team fühle ich mich immer kompetent und sehr ausführlich beraten. Dr. Haase ist mit seiner ruhigen ausgeglichenen Art\nimmer sehr angenehm.\nImmer gerne wieder!",
+      "time": 1789724952,
+      "translated": false
+    },
+    {
+      "author_name": "Christane Spinn",
+      "author_url": "https://www.google.com/maps/contrib/108613223100168935912/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP53qgS6kAlFFyprUyUMcfjsvBZOEenrsgjvjCYF2eTxLtsA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war am 17.9.2026 zum erstenmal in der HAUTARZTPRAXIS AM LINDENPLATZ. Terminvereinbarung bezüglich eines Hautkrebs Screening online klappte sehr gut und auch mit der Behandlung durch Frau Alfarsi war ich sehr zufrieden",
+      "time": 1789716464,
+      "translated": false
+    },
+    {
+      "author_name": "Eycke König-Nusseck",
+      "author_url": "https://www.google.com/maps/contrib/102541662229709177019/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIEIEKc8KgFSz8HCXOzarrD3xcGKtkejfzsWni3kEz6I75rA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "super, hat alles top geklappt!",
+      "time": 1789643566,
+      "translated": false
+    },
+    {
+      "author_name": "Hendrik Holtz",
+      "author_url": "https://www.google.com/maps/contrib/108874183554603356469/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB1AOalSZ8tBf_3iQncY8-61jPZB4ib_J4DCwXsbBprTzWfQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die tägliche offene Sprechstunde ist ein wahrer Glücksfall und toller Patientenservice. Das System funktioniert, die Wartezeiten sind gering.\nDazu sind die Ärzte und das Team sehr nett.\nLetztlich überzeugt selbstverständlich auch die fachliche Qualität.\nIch bin sehr zufrieden und fühle mich und meine Gesundheit hier bestens aufgehoben.",
+      "time": 1789637020,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Olbrich",
       "author_url": "https://www.google.com/maps/contrib/110179789379155395662/reviews",
       "language": "de",
@@ -1934,11 +1994,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2393,
+  "reviewCount": 2400,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-16T09:40:16.204Z"
+  "lastUpdated": "2026-09-19T09:10:55.715Z"
 }

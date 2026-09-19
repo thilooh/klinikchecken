@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gabrielle Frohn",
+      "author_url": "https://www.google.com/maps/contrib/105313314708370162417/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrku-5VBYKcmCKKuyKPIqcbHdzqNlJtDR7hFUzRoS8jCaqvQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vom Empfang bis zur kompeten Behandlung, Kontrolle der Halsschlagader in meinem Fall, bei Frau Dr. Zander, alles top. Frau Dr. Zander nimmt sich Zeit, hört zu und man fühlt sich ernst genommen, was durchaus nicht unbedingt überall der Fall ist. Kann ich weiter empfehlen.",
+      "time": 1789573439,
+      "translated": false
+    },
+    {
       "author_name": "Olaf Schroers",
       "author_url": "https://www.google.com/maps/contrib/111061923771279152771/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkvBPX0exsbillRurSX1uLRf3yrq7qhWoMU-cQUM0Skz6_NnpT=s128-c0x00000000-cc-rp-mo-ba4",
@@ -186,6 +198,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWysm5cou5FJdlmTSHIKWn1IXWakNIu312l_4HXbiRMOxSeT4i85A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich war das erste Mal dort und habe mich sehr gut betreut gefühlt, das Personal und natürlich auch die Ärztin war super nett und sie haben sich viel Zeit genommen und sehr gut aufgeklärt, ich komme gerne wieder aus Rheinland Pfalz angereist.",
+      "time": 1784384895,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine Dörfer",
+      "author_url": "https://www.google.com/maps/contrib/101787383638857682362/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWysm5cou5FJdlmTSHIKWn1IXWakNIu312l_4HXbiRMOxSeT4i85A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich war das erste Mal dort und habe mich sehr gut betreut gefühlt, das Personal und natürlich auch die Ärztin war super nett und sie haben sich viel Zeit genommen und sehr gut aufgeklärt, ich komme gerne wieder aus Rheinland Pfalz angereist.",
       "time": 1784384895,
       "translated": false
@@ -668,11 +692,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 87,
+  "reviewCount": 88,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:17.665Z"
+  "lastUpdated": "2026-09-19T09:10:57.277Z"
 }

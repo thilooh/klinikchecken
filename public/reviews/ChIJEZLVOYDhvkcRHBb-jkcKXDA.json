@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Markus Hühnerberg",
+      "author_url": "https://www.google.com/maps/contrib/106360068998531410324/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsIwEsuGPGlqZRFO0rCJ_DuLZmtj2L1J4UW_u1Im1cvYJqig=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr geehrte Damen und Herren,\n\nich möchte mich ausdrücklich über den Ablauf meiner Terminvereinbarung und den anschließenden Umgang damit beschweren\\.\n\nIch hatte online einen Termin bei Ihnen gebucht\\. Da ich sicherstellen wollte, dass ich diesen als Privatpatient bzw\\. Selbstzahler auch tatsächlich wahrnehmen kann, habe ich zusätzlich telefonisch bei Ihnen nachgefragt und mich ausdrücklich rückversichert, dass die Behandlung unter diesen Voraussetzungen möglich ist\\.\n\nAufgrund dieser telefonischen Bestätigung bin ich zu dem vereinbarten Termin persönlich bei Ihnen erschienen\\. Vor Ort wurde mir dann jedoch mitgeteilt, dass Sie grundsätzlich keine Privatpatienten bzw\\. Selbstzahler mehr annehmen\\.\n\nDass diese Information weder bei der Online\\-Terminbuchung ersichtlich war noch mir bei meinem vorherigen telefonischen Anruf mitgeteilt wurde, ist für mich nicht nachvollziehbar\\. Besonders ärgerlich ist, dass ich mich extra telefonisch rückversichert hatte, um genau eine solche Situation zu vermeiden\\.\n\nIch bin somit aufgrund einer falschen bzw\\. widersprüchlichen Auskunft unnötig zu dem Termin erschienen und habe dafür Zeit und Aufwand aufgebracht\\.\n\nIch empfinde diesen Ablauf als äußerst enttäuschend und im Umgang mit Patienten als sehr unprofessionell\\. Ich bitte Sie daher um eine Stellungnahme dazu, wie es zu dieser widersprüchlichen Kommunikation kommen konnte und warum weiterhin eine entsprechende Online\\-Terminbuchung möglich ist, wenn Privatpatienten und Selbstzahler tatsächlich nicht angenommen werden\\.\n\nIch erwarte, dass Sie die entsprechenden Informationen und Buchungsmöglichkeiten künftig klar und eindeutig kommunizieren, damit anderen Patienten eine solche Situation erspart bleibt\\.",
+      "time": 1789657039,
+      "translated": false
+    },
+    {
       "author_name": "Peter Kurth",
       "author_url": "https://www.google.com/maps/contrib/106193999493401695582/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuCyXH3ItXIUf2M-AcnLgZAWPDIMI_KpgYInOU7YT0r44xtQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -61,6 +73,16 @@
       "translated": false
     },
     {
+      "author_name": "Alan Mounajed",
+      "author_url": "https://www.google.com/maps/contrib/113820128388306532354/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUahiiBbLDvb0RJMcCZBHIPnW2mW2QOwWeEfHCUIVJSOXIbwSktwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1787169392,
+      "translated": false
+    },
+    {
       "author_name": "Juliette",
       "author_url": "https://www.google.com/maps/contrib/111631958769924594764/reviews",
       "language": "de",
@@ -116,6 +138,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHqqythF8VKswPwjqbP-a7TixoAbfnmCQPiWLjoDNECbS_SlTf=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich kann nur ein großes Lob an die Praxis aussprechen!!\nFrau Dr. BONNESS ist eine ganz tolle und herzliche Ärztin !!!!!!!!!!\nEin großes Lob an Frau Dr.BONNESS und das gesamte Praxisteam die 10 Sterne verdient haben.\nDurch einen Bahnausfall konnte ich nicht pünktlich den Termin wahrnehmen und Frau Bonness hat mich jedoch trotzdem noch dran genommen.\nVielen Dank!!!!!!!!!!!!!!!",
+      "time": 1786992147,
+      "translated": false
+    },
+    {
+      "author_name": "Juliette",
+      "author_url": "https://www.google.com/maps/contrib/111631958769924594764/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHqqythF8VKswPwjqbP-a7TixoAbfnmCQPiWLjoDNECbS_SlTf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich kann nur ein großes Lob an die Praxis aussprechen!!\nFrau Dr. BONNESS ist eine ganz tolle und herzliche Ärztin !!!!!!!!!!\nEin großes Lob an Frau Dr.BONNESS und das gesamte Praxisteam die 10 Sterne verdient haben.\nDurch einen Bahnausfall konnte ich nicht pünktlich den Termin wahrnehmen und Frau Bonness hat mich jedoch trotzdem noch dran genommen.\nVielen Dank!!!!!!!!!!!!!!!",
       "time": 1786992147,
       "translated": false
@@ -770,11 +804,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 99,
+  "reviewCount": 100,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-16T09:40:17.422Z"
+  "lastUpdated": "2026-09-19T09:10:57.020Z"
 }

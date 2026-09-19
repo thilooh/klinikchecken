@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Victoria",
+      "author_url": "https://www.google.com/maps/contrib/102376397126196272517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKveprUFjd4hrNiDvs7nvEDzQE3Ml3I9GuKis5xkX6HyDDfM-hm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788544977,
+      "translated": false
+    },
+    {
       "author_name": "Gonul Sedat Ahmed",
       "author_url": "https://www.google.com/maps/contrib/102936267380609237983/reviews",
       "language": "de",
@@ -88,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOdQ_gkfSTRmFZeKDQx50t8UcVoWUCsVQ-tydfo4XJW8sMmUM=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr zufrieden\n\nIch bin bereits seit vielen Jahren Patientin und nach wie vor sehr zufrieden. Man fühlt sich hier gut aufgehoben, ernst genommen und stets freundlich und kompetent betreut. Die Behandlung und der Umgang waren immer sehr lobenswert. Ich kann die Praxis daher uneingeschränkt weiterempfehlen und komme immer wieder gerne.",
+      "time": 1787744844,
+      "translated": false
+    },
+    {
+      "author_name": "Kiri",
+      "author_url": "https://www.google.com/maps/contrib/108458892438030579103/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOdQ_gkfSTRmFZeKDQx50t8UcVoWUCsVQ-tydfo4XJW8sMmUM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr zufrieden\n\nIch bin bereits seit vielen Jahren Patientin und nach wie vor sehr zufrieden. Man fühlt sich hier gut aufgehoben, ernst genommen und stets freundlich und kompetent betreut. Die Behandlung und der Umgang waren immer sehr lobenswert. Ich kann die Praxis daher uneingeschränkt weiterempfehlen und komme immer wieder gerne.",
       "time": 1787744844,
       "translated": false
@@ -1093,5 +1115,5 @@
   "rating": 4.2,
   "reviewCount": 61,
   "summary": [],
-  "lastUpdated": "2026-09-16T09:39:55.710Z"
+  "lastUpdated": "2026-09-19T09:10:38.808Z"
 }

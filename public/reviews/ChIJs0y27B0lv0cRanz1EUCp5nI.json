@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nathan Mendes",
+      "author_url": "https://www.google.com/maps/contrib/111176830468042705287/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrfrcwYmyzte361T48j7KO2_b7odxHMoJlatq8U5sKMk7srWrY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Mitarbeiterinnen am Empfang waren unglaublich unfreundlich und schlecht gelaunt. Der Umgangston war so unhöflich, dass ich letztendlich sogar darauf verzichtet habe, zum Arzt zu gehen.\nIch verstehe nicht, warum man Menschen, die Hilfe suchen, so unfreundlich und respektlos behandeln muss. Wenn man mit seiner Arbeit unzufrieden ist, sollte man vielleicht über einen Arbeitsplatzwechsel nachdenken, anstatt diese schlechte Stimmung an den Patienten auszulassen.",
+      "time": 1789643933,
+      "translated": false
+    },
+    {
       "author_name": "Emily S.",
       "author_url": "https://www.google.com/maps/contrib/115409749129864784236/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOL87x60JMRh8CyLVQdgS7wOWF20q8sexMwk7I6MlKI7cyuA=s128-c0x00000000-cc-rp-mo",
@@ -549,11 +561,11 @@
     }
   ],
   "rating": 3.2,
-  "reviewCount": 126,
+  "reviewCount": 127,
   "summary": [
     "Akuttermine kurzfristig verfügbar, behandelnde Ärzte als freundlich beschrieben",
     "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
     "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
   ],
-  "lastUpdated": "2026-09-16T09:39:51.413Z"
+  "lastUpdated": "2026-09-19T09:10:35.555Z"
 }

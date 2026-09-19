@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Xenia Albrecht",
+      "author_url": "https://www.google.com/maps/contrib/115637983421351695992/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBEDQUneJSMgJ8DnTi8Y6zeKLC5Ofb9WQ0FmeDCAnCuvNfug=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach 3 Jahren wird man als Kassenpatient einfach aus dem System geschmissen und kann nur noch auf Selbstzahlerbasis Termine buchen\n…erfährt man vor Ort",
+      "time": 1789716497,
+      "translated": false
+    },
+    {
       "author_name": "Gülderen Ferrara",
       "author_url": "https://www.google.com/maps/contrib/105556870568696681555/reviews",
       "language": "de",
@@ -57,6 +69,16 @@
       "translated": false
     },
     {
+      "author_name": "Hanieh Chenari",
+      "author_url": "https://www.google.com/maps/contrib/111783218777956783583/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9K_YQ6NNpQzXtw8T3AzRoQ336SuBlKbsrX7IkF07GteRDjaZJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788361795,
+      "translated": false
+    },
+    {
       "author_name": "M O",
       "author_url": "https://www.google.com/maps/contrib/114428303949521179670/reviews",
       "language": "de",
@@ -76,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk3BOeMEYT8XFSi4Af3ybLUsueivFs6pL5C78HlaPDfY8OcNY=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Terminvereinbarung wird nicht eingehalten. Und vor Ort war die Erfahrung leider nur ein Stern.",
+      "time": 1788342854,
+      "translated": false
+    },
+    {
+      "author_name": "M O",
+      "author_url": "https://www.google.com/maps/contrib/114428303949521179670/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk3BOeMEYT8XFSi4Af3ybLUsueivFs6pL5C78HlaPDfY8OcNY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Terminvereinbarung wird nicht eingehalten. Und vor Ort war die Erfahrung leider nur ein Stern.",
       "time": 1788342854,
       "translated": false
@@ -1356,7 +1390,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 335,
+  "reviewCount": 336,
   "summary": [],
-  "lastUpdated": "2026-09-16T09:40:09.229Z"
+  "lastUpdated": "2026-09-19T09:10:49.879Z"
 }

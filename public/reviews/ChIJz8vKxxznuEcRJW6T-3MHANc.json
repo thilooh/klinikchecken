@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ajwengo",
+      "author_url": "https://www.google.com/maps/contrib/100031221372077238112/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXLSE_WzhXC7WG61yM95MGpImjUczDoDvhOq-fgukTm79TQw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789685745,
+      "translated": false
+    },
+    {
       "author_name": "Reinhard Bartel",
       "author_url": "https://www.google.com/maps/contrib/115654076965693708062/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYHsCsZXZcrYBsFtX2iEl-BumEZ4E4PE8QDzbQrQL4Pg04Dg=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +26,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6l12-4BWANEvZKc7o0gh1_w2Zo034O0QfGcZuiyhKVXjzGMU=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789127041,
+      "translated": false
+    },
+    {
+      "author_name": "Katharina",
+      "author_url": "https://www.google.com/maps/contrib/108680387159169732934/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6l12-4BWANEvZKc7o0gh1_w2Zo034O0QfGcZuiyhKVXjzGMU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1789127041,
       "translated": false
@@ -45,6 +65,18 @@
       "translated": false
     },
     {
+      "author_name": "Lena Marina Scholtes",
+      "author_url": "https://www.google.com/maps/contrib/104061594712942225094/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGtVnJtxLloY9OrLcOg2WfZ-UOLpKd0tMllG6IKcoGKIL4VoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin rundum zufrieden mit dieser Hautarztpraxis und kann sie uneingeschränkt weiterempfehlen. Schon beim Empfang wird man freundlich und herzlich begrüßt und man fühlt sich sofort gut aufgehoben.\n\nDas gesamte Team ist sehr freundlich, kompetent und professionell. Besonders positiv empfand ich die ausführliche und verständliche Beratung. Herr Nico Nowak hat mich sehr gründlich untersucht und mein Eingriff dort verlief auch alles bestens. Es wurde sich ausreichend Zeit genommen, alle Fragen wurden geduldig beantwortet und man hatte zu jeder Zeit das Gefühl, ernst genommen zu werden.\n\nAuch die Behandlung war sehr angenehm und professionell. Die Praxis macht einen modernen, gepflegten und gut organisierten Eindruck. Die Atmosphäre ist angenehm und das gesamte Team arbeitet sehr aufmerksam und einfühlsam.\n\nVielen Dank für die tolle Betreuung und den freundlichen Umgang! Ich fühle mich hier bestens aufgehoben und werde die Praxis definitiv weiterempfehlen. 😊",
+      "time": 1788520719,
+      "translated": false
+    },
+    {
       "author_name": "Sagittarius A Star",
       "author_url": "https://www.google.com/maps/contrib/110007739360735079396/reviews",
       "language": "de",
@@ -64,6 +96,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7YwbtbUQmJlAvZbY1tE8BMuhV_eCIjNx8IGzfC-erjoMGZ9A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Herr Dr. Nowack hat sich Zeit genommen und alles sehr gut erklärt.",
+      "time": 1788449765,
+      "translated": false
+    },
+    {
+      "author_name": "Sagittarius A Star",
+      "author_url": "https://www.google.com/maps/contrib/110007739360735079396/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7YwbtbUQmJlAvZbY1tE8BMuhV_eCIjNx8IGzfC-erjoMGZ9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Herr Dr. Nowack hat sich Zeit genommen und alles sehr gut erklärt.",
       "time": 1788449765,
       "translated": false
@@ -1470,11 +1514,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 397,
+  "reviewCount": 398,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:37.961Z"
+  "lastUpdated": "2026-09-19T09:11:15.266Z"
 }

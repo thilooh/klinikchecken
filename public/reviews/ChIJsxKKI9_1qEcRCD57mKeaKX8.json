@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Paula Stappenbeck",
+      "author_url": "https://www.google.com/maps/contrib/107521113750541556040/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpGJPauZ-NCYCd4JSqmP1NpplBu4NHAYQgdbiCI991GCmzqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Herrn Dr. Hildebrand, um eine Zweitmeinung zu meiner bereits bestehenden Diagnose eines Lipödems einzuholen. Leider habe ich mich während des Gesprächs weder ernst genommen noch respektvoll behandelt gefühlt.\nMir wurde unter anderem gesagt, dass das Lipödem ein „Trend“ sei und meine Erstdiagnose im Grunde erfunden wäre. Ich wurde kaum medizinisch untersucht. Außerdem wurde mir unterstellt, ich würde die Diagnose als einfachen Ausweg nutzen, um durch die OP (Liposuktion) abzunehmen. Besonders irritierend fand ich die Empfehlung, bereits mit 21 Jahren eine Abnehmspritze in Betracht zu ziehen, obwohl zuvor weder nach meiner Ernährung noch nach meinem Bewegungsumfang oder meiner bisherigen Krankengeschichte gefragt wurde.\n\nVon einer Zweitmeinung hätte ich mir eine differenzierte medizinische Einschätzung, konkrete Nachfragen zu meiner Vorgeschichte und eine respektvolle Auseinandersetzung mit der bestehenden Diagnose gewünscht. Stattdessen hatte ich den Eindruck, dass bereits Annahmen über meine Lebensweise und meine Beweggründe getroffen wurden, ohne diese vorher mit mir zu besprechen.\n\nIch kann hier nur meine persönliche Erfahrung mit diesem Termin wiedergeben. Für mich war der Besuch enttäuschend und ich habe mich mit meinen Beschwerden und meiner bisherigen Diagnose nicht ernst genommen gefühlt. 82€, die ich bezahlen musste stehen in keinem Verhältnis zu dem, was ich bekommen habe.",
+      "time": 1789589972,
+      "translated": false
+    },
+    {
       "author_name": "Peter Neubauer",
       "author_url": "https://www.google.com/maps/contrib/100868317854724234181/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL3idZmt09aKCbgspNcllPr9iLnoxTfczs0s9H1zP9RgWgxA=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL3idZmt09aKCbgspNcllPr9iLnoxTfczs0s9H1zP9RgWgxA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788532906,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Neubauer",
+      "author_url": "https://www.google.com/maps/contrib/100868317854724234181/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL3idZmt09aKCbgspNcllPr9iLnoxTfczs0s9H1zP9RgWgxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1788532906,
       "translated": false
@@ -781,12 +803,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 151,
+  "rating": 4.8,
+  "reviewCount": 152,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:32.703Z"
+  "lastUpdated": "2026-09-19T09:11:09.694Z"
 }

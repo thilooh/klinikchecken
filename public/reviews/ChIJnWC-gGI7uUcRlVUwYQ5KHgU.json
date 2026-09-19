@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "H K",
+      "author_url": "https://www.google.com/maps/contrib/118039008100340340369/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqqWxefMvPIRXVR3rSxsMoY-XziFanYduX483hKeSavp8gXw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Hautarztpraxis. Auch in dringenden Fällen werden Patienten ohne Termin freundlich aufgenommen. Das Empfangspersonal ist sehr freundlich, hilfsbereit und zuvorkommend.\nVielen Dank für die freundliche und angenehme Betreuung!",
+      "time": 1789673350,
+      "translated": false
+    },
+    {
       "author_name": "Sophia Sturm",
       "author_url": "https://www.google.com/maps/contrib/104038642900492376363/reviews",
       "language": "de",
@@ -73,6 +85,18 @@
       "translated": true
     },
     {
+      "author_name": "Ammar Ammar",
+      "author_url": "https://www.google.com/maps/contrib/114763712949806231242/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-g8jXSxo0SLn7_tLgPLPJ8hvPQz2NfUEdbg_5_RGrSRSXghUX3w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "„Leider war es eine furchtbare Erfahrung. Die Ärztin in Dr. Al-Jubouris Klinik war im Umgang mit Patienten völlig unprofessionell und respektlos. Ihre Behandlung war extrem herablassend und respektlos, und wir fühlten uns als Araber unerwünscht. Ich würde sie niemals weiterempfehlen.“ 😡",
+      "time": 1787858853,
+      "translated": true
+    },
+    {
       "author_name": "Mohammad Othman",
       "author_url": "https://www.google.com/maps/contrib/117625248792812796540/reviews",
       "language": "de",
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt8FLcmYuS7vo7nDPVTVEN4T9dpH_PH5R5kwp7Y7mDWF0X8YKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Netter Umgang und hilfreiche Behandlung.\nAlso Empfehlenswert",
+      "time": 1787208169,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammad Othman",
+      "author_url": "https://www.google.com/maps/contrib/117625248792812796540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt8FLcmYuS7vo7nDPVTVEN4T9dpH_PH5R5kwp7Y7mDWF0X8YKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Netter Umgang und hilfreiche Behandlung.\nAlso Empfehlenswert",
       "time": 1787208169,
       "translated": false
@@ -1282,11 +1318,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 394,
+  "reviewCount": 395,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-16T09:40:40.109Z"
+  "lastUpdated": "2026-09-19T09:11:17.571Z"
 }

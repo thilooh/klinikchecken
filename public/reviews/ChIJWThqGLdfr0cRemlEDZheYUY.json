@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Katrin",
+      "author_url": "https://www.google.com/maps/contrib/107378975324459344130/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMyOoSSZxt018qdUXNG4Ahg2Iiyf54J5Onp6n83e1bBEPBfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alle sehr freundlich von der Station bis in den OP. Man fühlt sich sehr gut aufgehoben. Und die Zimmer sind sehr schön ( kein Gefühl von Krankenhaus).",
+      "time": 1789731324,
+      "translated": false
+    },
+    {
+      "author_name": "A. C.",
+      "author_url": "https://www.google.com/maps/contrib/101573761068909728337/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXPtLHB5UiLi4phYY5mbBEyHBDgHrq7h9CdvTpHJMqFKZpi4Em=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Venen OP mit Übernachtung, das komplette Team war sehr nett, hilfsbereit und kompetent.",
+      "time": 1789671350,
+      "translated": false
+    },
+    {
+      "author_name": "Fred Köppe",
+      "author_url": "https://www.google.com/maps/contrib/110912788139058666224/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYUn7JyI-SVETVMvM3MjSfJT7FM0yJmH1CzJA_uwRxZVWr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Service. Ging alles ruck Zuck. Auch durch die beiden hübschen Empfangsdamen Marina und Bianca",
+      "time": 1789662891,
+      "translated": false
+    },
+    {
       "author_name": "Kai Groschupf",
       "author_url": "https://www.google.com/maps/contrib/107173149746954151287/reviews",
       "language": "de",
@@ -1462,11 +1498,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 491,
+  "reviewCount": 494,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-16T09:40:14.990Z"
+  "lastUpdated": "2026-09-19T09:10:54.928Z"
 }

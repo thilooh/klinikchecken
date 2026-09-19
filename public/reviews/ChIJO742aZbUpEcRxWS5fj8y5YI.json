@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ita grO",
+      "author_url": "https://www.google.com/maps/contrib/105317596225206766071/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZJn2zVR0F74SX-F-usto3ipz_Mk7cyTitFxqPmi_RcBwcpXKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin rundum begeistert von der Praxis! Ein sehr kompetentes, herzliches und empathisches Team, bei dem man sich sofort wohl und gut aufgehoben fühlt. Die Behandlung war professionell und mit viel Liebe zum Detail. Man merkt, dass hier der Mensch und seine individuellen Bedürfnisse im Mittelpunkt stehen. Absolut empfehlenswert, ich komme sehr gerne wieder!",
+      "time": 1789728662,
+      "translated": false
+    },
+    {
       "author_name": "Antje Goldmann",
       "author_url": "https://www.google.com/maps/contrib/114441629410642859834/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-oGgrc-MzjbZ5JJY8iVQAZ1YlzIzBa7ZK3gbL5bVZYdYdWw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin sehr skeptisch gewesen als Angelina mir versicherte das sie mir helfen kann,  aber ich muss sagen es hat sich gelohnt.  Ich bin sehr zu frieden mit dem Ergebnis.\nSie nimmt sich Zeit und sieht nicht nur die Haut sondern auch den Körper.\nIch gehe mit einem sehr zufrieden Ergebnis nach Hause.\nDas sie Heilpraktikerin ist macht die zusammen Arbeit noch wertvoller.\nVielen Dank und ich komme wieder.",
+      "time": 1787327748,
+      "translated": false
+    },
+    {
+      "author_name": "Antje Goldmann",
+      "author_url": "https://www.google.com/maps/contrib/114441629410642859834/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-oGgrc-MzjbZ5JJY8iVQAZ1YlzIzBa7ZK3gbL5bVZYdYdWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich bin sehr skeptisch gewesen als Angelina mir versicherte das sie mir helfen kann,  aber ich muss sagen es hat sich gelohnt.  Ich bin sehr zu frieden mit dem Ergebnis.\nSie nimmt sich Zeit und sieht nicht nur die Haut sondern auch den Körper.\nIch gehe mit einem sehr zufrieden Ergebnis nach Hause.\nDas sie Heilpraktikerin ist macht die zusammen Arbeit noch wertvoller.\nVielen Dank und ich komme wieder.",
       "time": 1787327748,
       "translated": false
@@ -728,11 +752,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 118,
+  "reviewCount": 119,
   "summary": [
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen für Besenreiser-Behandlung",
     "Patienten empfehlen die Praxis weiter"
   ],
-  "lastUpdated": "2026-09-16T09:40:35.820Z"
+  "lastUpdated": "2026-09-19T09:11:13.093Z"
 }

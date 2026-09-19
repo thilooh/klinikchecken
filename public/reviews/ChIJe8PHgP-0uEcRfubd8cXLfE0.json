@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Susanne Gieser",
+      "author_url": "https://www.google.com/maps/contrib/108641299909486269739/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzFt_NNKlwkQC8oPv3brtvOnkpRaxRz37e0bfT48FwkYh8W8M=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch bin rundum begeistert von meiner Behandlung bei Frau Dr. Schumacher und ihrer OP-Assistenz Ayla Durmic!\n\nVon der ersten Minute an habe ich mich unglaublich gut aufgehoben und bestens betreut gefühlt. Beide waren ausgesprochen professionell, kompetent und gleichzeitig sehr einfühlsam. Besonders hervorheben möchte ich den liebevollen und respektvollen Umgang mit mir – gerade bei einer Behandlung wie der Entfernung von Muttermalen ist es einfach beruhigend, wenn man merkt, dass sich das Team wirklich Zeit nimmt und auf die eigenen Bedürfnisse eingeht.\n\nFrau Dr. Schumacher hat die Behandlung sehr souverän und professionell durchgeführt und mir jederzeit ein sicheres Gefühl vermittelt. Ayla Durmic war eine unglaublich freundliche und aufmerksame Unterstützung und hat mit ihrer ruhigen, herzlichen Art ganz wesentlich dazu beigetragen, dass ich mich wohlgefühlt habe.\n\nEin ganz großes Dankeschön an beide für die tolle Betreuung! ❤️ Ich würde mich jederzeit wieder in ihre Hände begeben und kann Frau Dr. Schumacher und Ayla Durmic absolut weiterempfehlen.",
+      "time": 1789710579,
+      "translated": false
+    },
+    {
+      "author_name": "Dieter Buhrau",
+      "author_url": "https://www.google.com/maps/contrib/106024277040822378911/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcilOrK6BonzMaqT2_waSJL5S6YgTbNyI8dPX8tHPHjo-vYf9n=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hautkrebs Entfernung war OK. Danach Folge Untersuchungen ein Witz, haben sich immer nur die Narbe angeschaut. Der Chef des Hauses verordnet gerne Finge die nicht geholfen haben. Einige Mitarbeiter kommen sich sehr wichtig vor. Nicht zu empfehlen !",
+      "time": 1789554798,
+      "translated": false
+    },
+    {
       "author_name": "Nilya Jo",
       "author_url": "https://www.google.com/maps/contrib/115736426827136848910/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLZzkwUXlDenblhz6Lff1up3UxcwcOkK4cHb-iM1v4VH541w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich muss in dieser Praxis eine Ärztin deutlich hervorheben. Dr.marlene piene. Eine selbstbewusste positive Erscheinung,hat sehr viel Ahnung von ihrer Arbeit.Jahrelang von Hautarzt zu Hautarzt gelaufen kein Erfolg,dann endlich jemand sehr kompetentes. Mein Dank an diese tolle Frau",
+      "time": 1789034953,
+      "translated": false
+    },
+    {
+      "author_name": "Nilya Jo",
+      "author_url": "https://www.google.com/maps/contrib/115736426827136848910/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLZzkwUXlDenblhz6Lff1up3UxcwcOkK4cHb-iM1v4VH541w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich muss in dieser Praxis eine Ärztin deutlich hervorheben. Dr.marlene piene. Eine selbstbewusste positive Erscheinung,hat sehr viel Ahnung von ihrer Arbeit.Jahrelang von Hautarzt zu Hautarzt gelaufen kein Erfolg,dann endlich jemand sehr kompetentes. Mein Dank an diese tolle Frau",
       "time": 1789034953,
       "translated": false
@@ -1199,12 +1235,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 194,
+  "rating": 4.6,
+  "reviewCount": 196,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:46.544Z"
+  "lastUpdated": "2026-09-19T09:11:24.519Z"
 }

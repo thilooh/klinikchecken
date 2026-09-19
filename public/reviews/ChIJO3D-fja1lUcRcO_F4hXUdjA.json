@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "manuel grun",
+      "author_url": "https://www.google.com/maps/contrib/111966292147906745275/reviews",
+      "language": "de",
+      "original_language": "fr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHlgMmwS4rWevW65pBAGdXmoarMTlhJYn8rBLbIvj2C3MsRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr einladend 👌",
+      "time": 1789742214,
+      "translated": true
+    },
+    {
       "author_name": "JuHe1967",
       "author_url": "https://www.google.com/maps/contrib/110696370244011718921/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1ZOaQsvVS6Y7Vn-_x_HCK_q3_3qvg8E_IJ1mNeNmNzTyQXg=s128-c0x00000000-cc-rp-mo-ba4",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocII5uXofcwxxDnQNU55tSj1NvrcaUgwdgjGKDrBtLSboCBcmg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789045008,
+      "translated": false
+    },
+    {
+      "author_name": "Zeinab Ahmad",
+      "author_url": "https://www.google.com/maps/contrib/102681379933739151956/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocII5uXofcwxxDnQNU55tSj1NvrcaUgwdgjGKDrBtLSboCBcmg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1789045008,
       "translated": false
@@ -1262,11 +1284,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 83,
+  "reviewCount": 84,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-16T09:40:35.348Z"
+  "lastUpdated": "2026-09-19T09:11:12.581Z"
 }

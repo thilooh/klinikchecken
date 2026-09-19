@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Dieter Kristen",
+      "author_url": "https://www.google.com/maps/contrib/103151784902044142139/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQA4jShE8KalcD0m4hG1gpKRGxCKxKf-jJ-v0nhq8LbtJUBQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "8,10 Termin vereinbart bis 8,45 gewartet Gesundheitskarte und Überweisung zurückgeben lassen .Praxis verlassen ...Sehr gute Termineinhaltung.. Werden mich nie wieder sehen",
+      "time": 1789633067,
+      "translated": false
+    },
+    {
+      "author_name": "Yasmina El B.",
+      "author_url": "https://www.google.com/maps/contrib/116512833034175989827/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL8o9ywPW1aXBdS_drMAxtpWFq-xCeq5y5bEigebDb9Fo5tg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich habe vor einigen Monaten über Doctolib einen Termin vereinbart. Der Termin wäre am Montag gewesen. Ich habe mir für den Tag frei genommen und am Freitag vor dem Termin eine aktuelle Überweisung geholt ( auch während meiner Arbeitszeit / Minusstunden), um dann nach monatelangem Warten, eine kommentarlose absage am Freitag 15 min vor Praxisschließung über die App zu erhalten. Ich habe direkt angerufen und die Dame am Telefon erklärte mir, dass es ja nicht genügend Ärzte am Montag gäbe und deswegen abgesagt wurde. Kann passieren. Natürlich bat ich dann um einen Ersatztermin, da ich Monate lang auf den Termin warte und mich auf diese Praxis verlassen habe. Antwort: Es werden keine Neupatienten aufgenommen und ich könnte frühestens im MÄRZ 2027 einen Termin bekommen. Danke für nichts bzw. Ihrer Unzuverlässigkeit.",
+      "time": 1789125299,
+      "translated": false
+    },
+    {
       "author_name": "Monika Troll",
       "author_url": "https://www.google.com/maps/contrib/107442681278846839150/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIs5Ob_m2FG0mlAbmhJ0y5eypnb6cJ87x3Vrki3pdAj1WfuUg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Gestern wurden mir im Gefäßzentrum am Rudolfplatz sehr viele Krampfadern mit dem Fast Closure Verfahren (Radiofrequenz) entfernt.\n\nAufgrund von viel Gewichtsabnahme war das von den Hautverhältnissen her wohl eher schwierig zu operieren  und wegen eines Trauma aus meiner Kindheit hatte ich riesige Angst vor der Vollnarkose.\n\nWie das Team damit umgegangen ist, war einfach klasse: Frau Dr. Aksoy und die spanische Anästhesistin, deren Namen ich leider vergessen habe, haben mir jegliche Sorge genommen und Spitzenarbeit geleistet. Auch das Pflegepersonal ist super lieb. Man merkt zwar, dass es eine viel besuchte Praxis ist, aber die Betreuung ist sehr persönlich und alles sehr gut organisiert.\n\nNatürlich muss der Heilungsprozess erst anfangen, aber das Ergebnis sieht jetzt schon richtig vielversprechend aus. Danke!",
+      "time": 1789119695,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Troll",
+      "author_url": "https://www.google.com/maps/contrib/107442681278846839150/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIs5Ob_m2FG0mlAbmhJ0y5eypnb6cJ87x3Vrki3pdAj1WfuUg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Gestern wurden mir im Gefäßzentrum am Rudolfplatz sehr viele Krampfadern mit dem Fast Closure Verfahren (Radiofrequenz) entfernt.\n\nAufgrund von viel Gewichtsabnahme war das von den Hautverhältnissen her wohl eher schwierig zu operieren  und wegen eines Trauma aus meiner Kindheit hatte ich riesige Angst vor der Vollnarkose.\n\nWie das Team damit umgegangen ist, war einfach klasse: Frau Dr. Aksoy und die spanische Anästhesistin, deren Namen ich leider vergessen habe, haben mir jegliche Sorge genommen und Spitzenarbeit geleistet. Auch das Pflegepersonal ist super lieb. Man merkt zwar, dass es eine viel besuchte Praxis ist, aber die Betreuung ist sehr persönlich und alles sehr gut organisiert.\n\nNatürlich muss der Heilungsprozess erst anfangen, aber das Ergebnis sieht jetzt schon richtig vielversprechend aus. Danke!",
       "time": 1789119695,
       "translated": false
@@ -98,6 +134,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQ4ZXTLRiO0oiwCC1BFT_p2rhBVJPTzT-aLsDbk2M0cvYBug=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr kompetenter und freundlicher Arzt (dr Kristen). Ich habe mich von Anfang an gut aufgehoben und ernst genommen gefühlt. Die Untersuchung und Beratung waren ausführlich und verständlich. Auch das gesamte Praxisteam war sehr freundlich und hilfsbereit. Ich kann diesen Arzt uneingeschränkt weiterempfehlen!",
+      "time": 1787121777,
+      "translated": false
+    },
+    {
+      "author_name": "Özge Yasar",
+      "author_url": "https://www.google.com/maps/contrib/117923248260129430701/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQ4ZXTLRiO0oiwCC1BFT_p2rhBVJPTzT-aLsDbk2M0cvYBug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr kompetenter und freundlicher Arzt (dr Kristen). Ich habe mich von Anfang an gut aufgehoben und ernst genommen gefühlt. Die Untersuchung und Beratung waren ausführlich und verständlich. Auch das gesamte Praxisteam war sehr freundlich und hilfsbereit. Ich kann diesen Arzt uneingeschränkt weiterempfehlen!",
       "time": 1787121777,
       "translated": false
@@ -950,12 +998,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 191,
+  "rating": 4.7,
+  "reviewCount": 193,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-09-16T09:39:50.635Z"
+  "lastUpdated": "2026-09-19T09:10:35.189Z"
 }
