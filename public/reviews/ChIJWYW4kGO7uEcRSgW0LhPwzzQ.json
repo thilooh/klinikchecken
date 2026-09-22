@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "lay9r",
+      "author_url": "https://www.google.com/maps/contrib/108084240563938790465/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUw0X6gCml_7M9ZwRlVABo81u8k8PZLCkI8MZb95ubdGueuA6NJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine telefonische Erreichbarkeit",
+      "time": 1790065946,
+      "translated": false
+    },
+    {
       "author_name": "L. G.",
       "author_url": "https://www.google.com/maps/contrib/103559110135452160744/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIICWRTCUmu_CDisYXgBNlI6PeTDAD92lksSAdG97li9-qUbQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789456784,
+      "translated": false
+    },
+    {
+      "author_name": "L. G.",
+      "author_url": "https://www.google.com/maps/contrib/103559110135452160744/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIICWRTCUmu_CDisYXgBNlI6PeTDAD92lksSAdG97li9-qUbQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1789456784,
       "translated": false
@@ -18,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfKQSaBXo8ZcKUsTzwW_PnTgeREss58LWL37bxquUN10idiw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Man fühlt sich als Patient sehr  gut aufgehoben, die Ärzte nehmen sich Zeit, die Mitarbeiter sind immer freundlich und Termine werden eingehalten.",
+      "time": 1789371057,
+      "translated": false
+    },
+    {
+      "author_name": "Michaela Pilger",
+      "author_url": "https://www.google.com/maps/contrib/110484953696595020053/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfKQSaBXo8ZcKUsTzwW_PnTgeREss58LWL37bxquUN10idiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Man fühlt sich als Patient sehr  gut aufgehoben, die Ärzte nehmen sich Zeit, die Mitarbeiter sind immer freundlich und Termine werden eingehalten.",
       "time": 1789371057,
       "translated": false
@@ -66,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWdSqo6-qwalY6cPpEhLL6Qo969CuDcLmp6x6EyQqddeE8g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Die Praxis hat sehr stark nachgelassen!!!\nÜber 6 Monate Wartezeit für einen Termin und am selben Tag wird dieser einfach storniert.\nServicewüste Deutschland.",
+      "time": 1788769527,
+      "translated": false
+    },
+    {
+      "author_name": "ben tichelkmap",
+      "author_url": "https://www.google.com/maps/contrib/104192616067007239552/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWdSqo6-qwalY6cPpEhLL6Qo969CuDcLmp6x6EyQqddeE8g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Die Praxis hat sehr stark nachgelassen!!!\nÜber 6 Monate Wartezeit für einen Termin und am selben Tag wird dieser einfach storniert.\nServicewüste Deutschland.",
       "time": 1788769527,
       "translated": false
@@ -855,12 +901,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 48,
+  "rating": 4,
+  "reviewCount": 49,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-19T09:11:15.523Z"
+  "lastUpdated": "2026-09-22T09:37:38.974Z"
 }

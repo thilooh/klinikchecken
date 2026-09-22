@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "HB",
+      "author_url": "https://www.google.com/maps/contrib/110868456075638942643/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDgiMbkwf0XyOTbQVyRR9Optzf432J2bwFYjcXLTe56xxnYjIg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum 1. Mal in dieser Praxis und würde jederzeit wiederkommen.\nMal von den extrem unfreundlichen Damen am Empfang abgesehen, war die Ärztin umso freundlicher, kompetent und hat alles super erklärt/aufgeklärt.\nDie Wartezeit war top..max. 5 Minuten und schon war ich dran.\nNur die Damen am Empfang waren eine Katastrophe!\nAber dennoch eine TOP Praxis.",
+      "time": 1790063889,
+      "translated": false
+    },
+    {
       "author_name": "Dieter Kristen",
       "author_url": "https://www.google.com/maps/contrib/103151784902044142139/reviews",
       "language": "de",
@@ -74,6 +86,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6UXcAVXv__mOMF7bzDRE5hoex0gYx7tplaO_j8Dw5gq-o=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788086835,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine Weissenberger",
+      "author_url": "https://www.google.com/maps/contrib/102150427213919633903/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6UXcAVXv__mOMF7bzDRE5hoex0gYx7tplaO_j8Dw5gq-o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1788086835,
       "translated": false
@@ -999,11 +1021,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 193,
+  "reviewCount": 194,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-09-19T09:10:35.189Z"
+  "lastUpdated": "2026-09-22T09:37:08.007Z"
 }

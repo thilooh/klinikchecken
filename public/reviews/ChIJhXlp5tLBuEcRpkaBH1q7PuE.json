@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sonya Danielyan",
+      "author_url": "https://www.google.com/maps/contrib/115065020939551326563/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiW8vheIXV7SlTQJ2AiUOKdj3U5mIJIXcmi0oxxNRLbg25dw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789973986,
+      "translated": false
+    },
+    {
       "author_name": "Monika Strohmeyer",
       "author_url": "https://www.google.com/maps/contrib/109135341388882840008/reviews",
       "language": "de",
@@ -320,11 +330,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 20,
+  "reviewCount": 21,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-19T09:11:16.296Z"
+  "lastUpdated": "2026-09-22T09:37:39.621Z"
 }

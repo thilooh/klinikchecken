@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Thefondern",
+      "author_url": "https://www.google.com/maps/contrib/100692305260151693591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO9iW90Nfgl3n_lDOiAf0e316ikfl3ilPjs7BORfYq4ViB3w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr.Wais ist mit Abstand der beste Arzt\nEr und sein Team sind sehr freundlich und locker drauf\nEr nimmt sich Zeit und erklärt auch alles so das man es versteht einfach super",
+      "time": 1789978539,
+      "translated": false
+    },
+    {
       "author_name": "Kafkas",
       "author_url": "https://www.google.com/maps/contrib/116387698645297672722/reviews",
       "language": "de",
@@ -1106,11 +1118,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 143,
+  "reviewCount": 144,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-19T09:11:16.804Z"
+  "lastUpdated": "2026-09-22T09:37:40.035Z"
 }

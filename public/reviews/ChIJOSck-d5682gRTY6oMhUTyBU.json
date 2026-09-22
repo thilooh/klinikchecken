@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sonya Danielyan",
+      "author_url": "https://www.google.com/maps/contrib/115065020939551326563/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiW8vheIXV7SlTQJ2AiUOKdj3U5mIJIXcmi0oxxNRLbg25dw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789974021,
+      "translated": false
+    },
+    {
       "author_name": "Laura",
       "author_url": "https://www.google.com/maps/contrib/100576235012049650956/reviews",
       "language": "de",
@@ -1248,11 +1258,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 125,
+  "reviewCount": 126,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-09-19T09:10:59.867Z"
+  "lastUpdated": "2026-09-22T09:37:26.109Z"
 }

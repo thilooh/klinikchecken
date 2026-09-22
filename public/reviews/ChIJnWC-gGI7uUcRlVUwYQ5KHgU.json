@@ -1,6 +1,46 @@
 {
   "reviews": [
     {
+      "author_name": "Alma Maha",
+      "author_url": "https://www.google.com/maps/contrib/105748952383421510123/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkOenNET9M9R8UWRLWcqlwtcC0M7eIyk-ut6PPZucuDxjNxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790065103,
+      "translated": false
+    },
+    {
+      "author_name": "Abdulrahman Kasha",
+      "author_url": "https://www.google.com/maps/contrib/101168787587246852790/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWU88RZoeeth8U5ViOFqohZb4X4nz2pr6NabS4StvFTK3Jz0rA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790003789,
+      "translated": false
+    },
+    {
+      "author_name": "Al ali",
+      "author_url": "https://www.google.com/maps/contrib/105797654585536748992/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxaKr28MiuuuzkMwWffUcTw_spymOxSbxlxtHcqO_cu3u1PMIe=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789998416,
+      "translated": false
+    },
+    {
+      "author_name": "Iris Neubauer-Spieß",
+      "author_url": "https://www.google.com/maps/contrib/112494583169495214597/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwO-84itTnWw3egsS2ZLYOYpvNsHVzjuKUYB0WtnkzH7ip5Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789887786,
+      "translated": false
+    },
+    {
       "author_name": "H K",
       "author_url": "https://www.google.com/maps/contrib/118039008100340340369/reviews",
       "language": "de",
@@ -1318,11 +1358,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 395,
+  "reviewCount": 399,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-19T09:11:17.571Z"
+  "lastUpdated": "2026-09-22T09:37:40.677Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Ingo Grashorn",
+      "author_url": "https://www.google.com/maps/contrib/116294009805562881763/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz-Es13W4IQTu9eyawmTxl1NToEPImzq24ZDCCZtXm5QJmWtRi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Madiha Mahmood hat einen tollen Job gemacht. Bin sehr happy mit dem Ergebnis! Danke!\n​​​​​",
+      "time": 1789990232,
+      "translated": false
+    },
+    {
+      "author_name": "Irena Beckedorf",
+      "author_url": "https://www.google.com/maps/contrib/105753377257488565086/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZ5wU9HkDkYDpf6dW4Uomlh37OnSpr7USSI7Zok7S8n-HhKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Tochter wurde von Frau Dr. Dr. Stier operiert. Eine sehr einfühlsame, kompetente Ärztin. Wir sind sehr zufrieden",
+      "time": 1789838209,
+      "translated": false
+    },
+    {
+      "author_name": "MI Müller",
+      "author_url": "https://www.google.com/maps/contrib/115139615448584623339/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJESd3z8umLrNU0wDSzV6i3MP-NJzOTcTc7QQR9QVjrqD1o-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "👍",
+      "time": 1789830164,
+      "translated": false
+    },
+    {
       "author_name": "joanna meiling",
       "author_url": "https://www.google.com/maps/contrib/101997124230836214683/reviews",
       "language": "de",
@@ -1496,7 +1532,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 460,
+  "reviewCount": 463,
   "summary": [],
-  "lastUpdated": "2026-09-19T09:10:47.388Z"
+  "lastUpdated": "2026-09-22T09:37:16.517Z"
 }

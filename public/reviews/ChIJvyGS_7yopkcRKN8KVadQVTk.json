@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Klaus",
+      "author_url": "https://www.google.com/maps/contrib/117537338313696981856/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIopBk8bQaUNgpj9T1_qLGFZpjwnbbgxwASZYFY6NhLGCTU5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790036720,
+      "translated": false
+    },
+    {
+      "author_name": "tino oehme",
+      "author_url": "https://www.google.com/maps/contrib/117305048894923902685/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz8yvOTrHBLdBksdRQiLJO2JRnftbZyFokfBQadj79enIHTUab=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789976502,
+      "translated": false
+    },
+    {
       "author_name": "Jens Mueller",
       "author_url": "https://www.google.com/maps/contrib/111505022499907362650/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgJoXrHFzIARaOAp3ZZB3FBpKfp_MpB28Ny-tC3t-AIsLDPcLz=s128-c0x00000000-cc-rp-mo-ba5",
@@ -46,6 +66,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZtsvfFxJSVzQsKCzgMTiN_zH2aCmzcZU3zy0KFTo2HxI2=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788071233,
+      "translated": false
+    },
+    {
+      "author_name": "K.S.",
+      "author_url": "https://www.google.com/maps/contrib/112104097890996598467/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZtsvfFxJSVzQsKCzgMTiN_zH2aCmzcZU3zy0KFTo2HxI2=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1788071233,
       "translated": false
@@ -94,6 +124,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh0ssbCdpAMFtD1A3TGqsbo5EZiJjZK5o9WNSsXYFUGi_A9w=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Habe selten einen so netten und zuvorkommenden Arzt wie Dr. Zollmann erlebt. War am 20.08.26 das erste Mal in der Praxis um einen neuen Termin für eine Operation am Karpaltunnelsyndrom klar zu machen. Hatte seit Wochen extreme Schmerzen in der rechten Hand und war deshalb auch total verzweifelt. Dr. Zollmann hat mich zum Glück noch am selben Tag operiert, obwohl das sonst nicht üblich ist.\nIch bin Dr. Zollmann und seinem netten Team unendlich dankbar. Außerdem fand ich es sehr nett, das Dr. Zollmann am Abend noch angerufen hat, um sich nach meinem Befinden zu erkundigen.\nWas soll man sagen, toller Arzt und tolles Team. Bin begeistert.",
+      "time": 1787407060,
+      "translated": false
+    },
+    {
+      "author_name": "Jeannette Dettmann",
+      "author_url": "https://www.google.com/maps/contrib/115151364885399595361/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh0ssbCdpAMFtD1A3TGqsbo5EZiJjZK5o9WNSsXYFUGi_A9w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Habe selten einen so netten und zuvorkommenden Arzt wie Dr. Zollmann erlebt. War am 20.08.26 das erste Mal in der Praxis um einen neuen Termin für eine Operation am Karpaltunnelsyndrom klar zu machen. Hatte seit Wochen extreme Schmerzen in der rechten Hand und war deshalb auch total verzweifelt. Dr. Zollmann hat mich zum Glück noch am selben Tag operiert, obwohl das sonst nicht üblich ist.\nIch bin Dr. Zollmann und seinem netten Team unendlich dankbar. Außerdem fand ich es sehr nett, das Dr. Zollmann am Abend noch angerufen hat, um sich nach meinem Befinden zu erkundigen.\nWas soll man sagen, toller Arzt und tolles Team. Bin begeistert.",
       "time": 1787407060,
       "translated": false
@@ -1314,11 +1356,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 208,
+  "reviewCount": 210,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-09-19T09:11:30.529Z"
+  "lastUpdated": "2026-09-22T09:37:51.250Z"
 }

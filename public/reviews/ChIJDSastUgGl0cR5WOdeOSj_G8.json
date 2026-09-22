@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alex Greenwood",
+      "author_url": "https://www.google.com/maps/contrib/105114770148799134595/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdqhSMqzMYwPkQO7FbSUyJ1F4Tk8khdkNNo-tzLO0-ooCsMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "\"Leider sind derzeit alle Mitarbeiter im Gespräch, bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal\". Diesen Satz habe ich ca. 40 Mal gehört zu unterschiedlichsten Zeiten. Es gibt keine telefonische Warteschlange, man wird direkt aus der Leitung geworfen. Wie soll ich einen Termin vereinbaren? Oder eine Frage zu meinem Problem beantwortet zu bekommen? Ich finde es traurig, wie man heutzutage mit Patienten umgeht.",
+      "time": 1789993406,
+      "translated": false
+    },
+    {
       "author_name": "huuble duuble",
       "author_url": "https://www.google.com/maps/contrib/118234435150117265844/reviews",
       "language": "de",
@@ -128,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpSa_1nbysl9rKvPS3fiejF6wOdBshaFU6GY-owqFMZIK9hSQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Weder über Telefon, noch Mail noch Doctolib lässt sich ein Termin verschieben / absagen, den ich nicht wahrnehmen kann. Schon die Terminvergabe war nur persönlich möglich.",
+      "time": 1788212184,
+      "translated": false
+    },
+    {
+      "author_name": "Manu",
+      "author_url": "https://www.google.com/maps/contrib/107075559679714976088/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpSa_1nbysl9rKvPS3fiejF6wOdBshaFU6GY-owqFMZIK9hSQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Weder über Telefon, noch Mail noch Doctolib lässt sich ein Termin verschieben / absagen, den ich nicht wahrnehmen kann. Schon die Terminvergabe war nur persönlich möglich.",
       "time": 1788212184,
       "translated": false
@@ -1392,11 +1416,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 235,
+  "reviewCount": 236,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-19T09:11:04.541Z"
+  "lastUpdated": "2026-09-22T09:37:29.973Z"
 }

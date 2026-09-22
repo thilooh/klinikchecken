@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Ursel B.",
+      "author_url": "https://www.google.com/maps/contrib/112077821235501451245/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8gHEd-yMU-CBEVGwzoNOFtnTHxpta51YZIKG6f89HROtWmA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kan. die Praxis und das Hautkrebsscreening zu 100% weiterempfehlen. Das Praxisteam ist sehr freundlich und der Arzt Dr. Tollmann kompetent, freundlich und er hat alles super erklärt.",
+      "time": 1790063336,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Frenk",
+      "author_url": "https://www.google.com/maps/contrib/111833824784076023145/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp69Ma_3JpnCwr2YXf8q6vmJPCGYbBloi37GpL18ng3kdEe7_3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Praxis mit einem sehr freundlichen Team. Ärzte die sich noch Zeit für ihre Patienten nehmen, und einem alles ausführlich erklären. Hier ist man als Patient in guten Händen. Danke für die schnelle und gute Behandlung.",
+      "time": 1790040361,
+      "translated": false
+    },
+    {
+      "author_name": "Nina Jost",
+      "author_url": "https://www.google.com/maps/contrib/111126943294875751171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCcgl30iQiBQIHcLsUW-sDDsr6edy89FsgLEKRXORcZE6tmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Praxis. Die Ärzte sind super kompetent, nehmen sich immer ausreichend Zeit und gehen auf alle Fragen und Anliegen ausführlich ein. Auch das Praxisteam ist sehr nett, freundlich und hilfsbereit. Man fühlt sich hier wirklich gut aufgehoben und bestens betreut. Absolut empfehlenswert!",
+      "time": 1789976933,
+      "translated": false
+    },
+    {
       "author_name": "Maren Lehmann",
       "author_url": "https://www.google.com/maps/contrib/102753097244531475425/reviews",
       "language": "de",
@@ -8,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCqp5iczAiLMRto_jbig4ZMqe-S2473RYs96LVM0bug0sqHg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Weiterempfehlung!",
+      "time": 1789295184,
+      "translated": false
+    },
+    {
+      "author_name": "Maren Lehmann",
+      "author_url": "https://www.google.com/maps/contrib/102753097244531475425/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCqp5iczAiLMRto_jbig4ZMqe-S2473RYs96LVM0bug0sqHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Absolute Weiterempfehlung!",
       "time": 1789295184,
       "translated": false
@@ -28,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8uOW3R2fa6KbL-n6cpIvx4vNAAKzkSZmGLBkntOt8QbcB=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788767649,
+      "translated": false
+    },
+    {
+      "author_name": "Bettina Marx",
+      "author_url": "https://www.google.com/maps/contrib/104223837052773813420/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8uOW3R2fa6KbL-n6cpIvx4vNAAKzkSZmGLBkntOt8QbcB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1788767649,
       "translated": false
@@ -1416,11 +1474,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 333,
+  "reviewCount": 336,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-19T09:11:24.266Z"
+  "lastUpdated": "2026-09-22T09:37:46.116Z"
 }

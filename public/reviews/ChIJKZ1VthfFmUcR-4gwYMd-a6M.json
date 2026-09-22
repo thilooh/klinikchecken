@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Georg Mühlbauer",
+      "author_url": "https://www.google.com/maps/contrib/106595270672817431549/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLVwxZd01UY8-7D5kdZWdQdKA6YDlRiz1uLPj7vAbrwhwULmQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als Kassenpatient ist man anscheinend zu unwichtig, als dass die Praxis Anrufe annehmen würde und es wird nach Abfrage des Versicherungsstatus automatisch aufgeleg. Nur für Privatpatienten geht man hier ans Telefon.",
+      "time": 1790000216,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Heiser",
+      "author_url": "https://www.google.com/maps/contrib/107299733663966297368/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEXspx67jBvriV4Cd0suFTFB1FZTcpDWQ3nBrplEp5YJj2YA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789824695,
+      "translated": false
+    },
+    {
       "author_name": "Xenia Albrecht",
       "author_url": "https://www.google.com/maps/contrib/115637983421351695992/reviews",
       "language": "de",
@@ -1390,7 +1412,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 336,
+  "reviewCount": 338,
   "summary": [],
-  "lastUpdated": "2026-09-19T09:10:49.879Z"
+  "lastUpdated": "2026-09-22T09:37:18.433Z"
 }

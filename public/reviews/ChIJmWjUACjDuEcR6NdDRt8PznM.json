@@ -261,6 +261,18 @@
       "translated": false
     },
     {
+      "author_name": "Roland Müller",
+      "author_url": "https://www.google.com/maps/contrib/117160885011387991445/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoCR_rImGFFp_dbV4gDaI4XVgany4Gi7jFSl5j0zUMBODRlA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Frau Luther macht immer wieder einen sehr kompetenten Eindruck und erklärt alle Fragen. Die neue Praxis ist auch deutlich angenehmer als die alten dunklen Räumlichkeiten.",
+      "time": 1784736563,
+      "translated": false
+    },
+    {
       "author_name": "Tahasanul Ibrahim",
       "author_url": "https://www.google.com/maps/contrib/112526867376538260201/reviews",
       "language": "de",
@@ -830,5 +842,5 @@
   "rating": 4.1,
   "reviewCount": 127,
   "summary": [],
-  "lastUpdated": "2026-09-19T09:10:50.137Z"
+  "lastUpdated": "2026-09-22T09:37:18.645Z"
 }

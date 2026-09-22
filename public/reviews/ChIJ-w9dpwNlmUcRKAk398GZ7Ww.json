@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Walter Michael Duschek",
+      "author_url": "https://www.google.com/maps/contrib/104993791364120846785/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5SvsaXsFdD9pr0p275gEe3Xuxaja-Q0kSRGEGhp9dWYTkNOnr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789929860,
+      "translated": false
+    },
+    {
       "author_name": "Sophie Müller",
       "author_url": "https://www.google.com/maps/contrib/101288975966849799883/reviews",
       "language": "de",
@@ -1216,11 +1226,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 162,
+  "reviewCount": 163,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-19T09:11:02.742Z"
+  "lastUpdated": "2026-09-22T09:37:28.468Z"
 }

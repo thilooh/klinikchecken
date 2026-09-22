@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jens Asmuth",
+      "author_url": "https://www.google.com/maps/contrib/108220664436788444719/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbR9agSQ-MK0LIc1_gY4k865lqvxOSRXancf25BzPuG1OLLKW_Ug=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789932289,
+      "translated": false
+    },
+    {
       "author_name": "Galina Maslova-Jackowski",
       "author_url": "https://www.google.com/maps/contrib/102928359797458678674/reviews",
       "language": "de",
@@ -13,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Galina Maslova-Jackowski",
+      "author_url": "https://www.google.com/maps/contrib/102928359797458678674/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpV9zkWCYrTJAgwRkWtZaRZVg_FFbeZGDSjiwvjsZW1KTVAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Kassenpatienten bekommen keinen Termin, fazit keine Hilfe in dieser Praxis",
+      "time": 1789383666,
+      "translated": false
+    },
+    {
       "author_name": "Anja Gutbrod",
       "author_url": "https://www.google.com/maps/contrib/118004099971608391407/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUC2-5LJ65hLeEueh6J_njzcnpy2aluFrPpItuuKm6Id6Sjg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich, Kassenpatientin, bin absolut begeistert von dieser Hautarztpraxis, die ich auf Empfehlung schon seit längerer Zeit, insbesondre zum Hautkrebsscreening, besuche.\nHerr Dr. med. Platschek hatte auf Bitte seiner Assistenzärztin, Frau Lopes, sein geschultes Auge auf eine Stelle an meiner Schläfe geworfen und die Entfernung empfohlen. Zum großen Glück war von heute auf morgen ein OP-Termin möglich. Die Entfernung war voll zu Recht, da es sich als weißer Hautkrebs herausgestellt hatte. Herr Dr. Platschek erklärt auch einem Laien verständlich, was zu tun ist, und man fühlt sich bestens aufgehoben in seinen Händen. Die fachliche Kompetenz, auch seines sehr freundlichen Teams, ist hervorragend. Die Wartezeit ist kurz, das Wartezimmer groß und sauber und die Behandlungsräume sind mit modernster Technik ausgestattet. Mein Mann und ich können das MVZ an der Oper vollends empfehlen.\nVielen Dank, lieber Herr Dr. Platschek, und auch Frau Lopes für Ihre großartige Betreuung!",
+      "time": 1789224264,
+      "translated": false
+    },
+    {
+      "author_name": "Anja Gutbrod",
+      "author_url": "https://www.google.com/maps/contrib/118004099971608391407/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUC2-5LJ65hLeEueh6J_njzcnpy2aluFrPpItuuKm6Id6Sjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich, Kassenpatientin, bin absolut begeistert von dieser Hautarztpraxis, die ich auf Empfehlung schon seit längerer Zeit, insbesondre zum Hautkrebsscreening, besuche.\nHerr Dr. med. Platschek hatte auf Bitte seiner Assistenzärztin, Frau Lopes, sein geschultes Auge auf eine Stelle an meiner Schläfe geworfen und die Entfernung empfohlen. Zum großen Glück war von heute auf morgen ein OP-Termin möglich. Die Entfernung war voll zu Recht, da es sich als weißer Hautkrebs herausgestellt hatte. Herr Dr. Platschek erklärt auch einem Laien verständlich, was zu tun ist, und man fühlt sich bestens aufgehoben in seinen Händen. Die fachliche Kompetenz, auch seines sehr freundlichen Teams, ist hervorragend. Die Wartezeit ist kurz, das Wartezimmer groß und sauber und die Behandlungsräume sind mit modernster Technik ausgestattet. Mein Mann und ich können das MVZ an der Oper vollends empfehlen.\nVielen Dank, lieber Herr Dr. Platschek, und auch Frau Lopes für Ihre großartige Betreuung!",
       "time": 1789224264,
       "translated": false
@@ -818,11 +852,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 182,
+  "reviewCount": 183,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-19T09:10:51.473Z"
+  "lastUpdated": "2026-09-22T09:37:19.503Z"
 }

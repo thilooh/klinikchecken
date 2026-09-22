@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Yasir Aljumaili",
+      "author_url": "https://www.google.com/maps/contrib/101810976706646981180/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNK2y2k5iXA7JV43Rsl6SCycGKU59R3T7UrQ1_EAu3w4WZGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790002046,
+      "translated": false
+    },
+    {
       "author_name": "Alexandra Heiderich",
       "author_url": "https://www.google.com/maps/contrib/109957275458458832842/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNARsUHjLnxtfVBoqxal3l_bEBOXuxeDMe4hbt1y9i1Ybbnpo=s128-c0x00000000-cc-rp-mo-ba2",
@@ -132,6 +142,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrxf9QBcUoPBziaxLtIwJnT6Gj7wsTFNZfGr5NAE9yotv5_A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Kurze Warte Zeit gute Beratung sehr Zufrieden. Sehr zu empfehlen",
+      "time": 1787566264,
+      "translated": false
+    },
+    {
+      "author_name": "Cengiz Yagci",
+      "author_url": "https://www.google.com/maps/contrib/104725405926226464255/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrxf9QBcUoPBziaxLtIwJnT6Gj7wsTFNZfGr5NAE9yotv5_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Kurze Warte Zeit gute Beratung sehr Zufrieden. Sehr zu empfehlen",
       "time": 1787566264,
       "translated": false
@@ -192,6 +214,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcgWSHD-U48aH-uZT5egcLaD4QPMFQd7S-TbVZTdUyutxUhX0=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Herr Dr. T. Gilfert kann ich mit gutem Gewissen weiterempfehlen.\nSehr gewissenhaft.\nDanke für die\nkompetente und schnelle Umsetzung sowie Hilfe bei der Durchführung Ihrer Diagnose.\nMfg. H.W\n\nDas ganze Team,  sehr freundlich und hilfsbereit.",
+      "time": 1787306819,
+      "translated": false
+    },
+    {
+      "author_name": "Heinz Wichmann",
+      "author_url": "https://www.google.com/maps/contrib/116735895351018916736/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcgWSHD-U48aH-uZT5egcLaD4QPMFQd7S-TbVZTdUyutxUhX0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Herr Dr. T. Gilfert kann ich mit gutem Gewissen weiterempfehlen.\nSehr gewissenhaft.\nDanke für die\nkompetente und schnelle Umsetzung sowie Hilfe bei der Durchführung Ihrer Diagnose.\nMfg. H.W\n\nDas ganze Team,  sehr freundlich und hilfsbereit.",
       "time": 1787306819,
       "translated": false
@@ -740,11 +774,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 149,
+  "reviewCount": 150,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-09-19T09:11:11.523Z"
+  "lastUpdated": "2026-09-22T09:37:35.750Z"
 }

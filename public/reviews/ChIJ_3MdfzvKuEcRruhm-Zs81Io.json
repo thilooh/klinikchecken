@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Josef Jakob",
+      "author_url": "https://www.google.com/maps/contrib/114612846668096213707/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAKggAfxjXcOiCJK5_fqEQ5F2a2QDmf8bx3rBxORjWItkj4w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe hier selbst eine Haartransplantation durchführen lassen und bin mit dem Ergebnis nicht zufrieden. Bei meiner Nachkontrolle am 18.09.2026 wollte ich meine Fragen und meine Unzufriedenheit besprechen. Leider wurde ich dabei sehr unfreundlich, respektlos und aggressiv behandelt. Statt meine Fragen als Patient ernst zu nehmen, hatte ich den Eindruck, dass man das Gespräch möglichst schnell beenden wollte.\n\nFür mich war das eine sehr enttäuschende Erfahrung – sowohl mit dem Ergebnis meiner Haartransplantation als auch mit der anschließenden Betreuung.\n\nIch empfehle jedem, sich vor einer Behandlung hier sehr genau zu informieren und eine zweite Meinung einzuholen.",
+      "time": 1789848566,
+      "translated": false
+    },
+    {
       "author_name": "D H",
       "author_url": "https://www.google.com/maps/contrib/105813912613298310002/reviews",
       "language": "de",
@@ -1445,7 +1457,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 387,
+  "reviewCount": 388,
   "summary": [],
-  "lastUpdated": "2026-09-19T09:10:40.658Z"
+  "lastUpdated": "2026-09-22T09:37:11.612Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sarah Adelmann",
+      "author_url": "https://www.google.com/maps/contrib/113475520028786683490/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrvGk4330RxLiyIOcLWhWc1gE6qiQORsSwBkhOMagRRurz0l4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "So eine tolle Praxis. 6 Sterne von mir 😉\nDas ganze Team ist sooo nett und einfühlsam, es wird einem alles erklärt und gut begleitet. Termine klappen perfekt, ohne warten. Und nach meinem Eingriff hab ich Kaffe mit Keksen bekommen.",
+      "time": 1789983539,
+      "translated": false
+    },
+    {
       "author_name": "Aron Ottstadt",
       "author_url": "https://www.google.com/maps/contrib/104352862577791295364/reviews",
       "language": "de",
@@ -469,12 +481,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 48,
+  "rating": 4.6,
+  "reviewCount": 49,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-19T09:11:02.481Z"
+  "lastUpdated": "2026-09-22T09:37:28.245Z"
 }

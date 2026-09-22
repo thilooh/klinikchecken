@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Concordia Büro",
+      "author_url": "https://www.google.com/maps/contrib/104373016216903481828/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4BakwdHuBK7FwR4FIa5xIqnx1XPwzU_Dr_sLZ65hzOj17Gg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789927833,
+      "translated": false
+    },
+    {
+      "author_name": "Angelika Papritz",
+      "author_url": "https://www.google.com/maps/contrib/108351373594008660498/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2HSIZm1rCTXDObgO32yNTt2g6oiVFlo3C4k888J0FUGAqeQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789910867,
+      "translated": false
+    },
+    {
       "author_name": "NFO WerEWulF",
       "author_url": "https://www.google.com/maps/contrib/105695241020959518358/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrAYm8PufYmPvQvtQaOF5cfoC_byIoUUC2G0Z92xdncRPeRLgLBQ=s128-c0x00000000-cc-rp-mo-ba5",
@@ -64,6 +84,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4DhaMXGAObLU7K68SbBjSFOs9Lf5B6jRNdTsHQH1vxWOSFP3F-A=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ein tolles Krankenhaus mit sehr freundlichen Mitarbeitern und Ärzten. Ich hoffe, mein Rücken wird wieder gut.",
+      "time": 1788600483,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Kufer",
+      "author_url": "https://www.google.com/maps/contrib/109517579458827283553/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4DhaMXGAObLU7K68SbBjSFOs9Lf5B6jRNdTsHQH1vxWOSFP3F-A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ein tolles Krankenhaus mit sehr freundlichen Mitarbeitern und Ärzten. Ich hoffe, mein Rücken wird wieder gut.",
       "time": 1788600483,
       "translated": false
@@ -1448,11 +1480,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 429,
+  "reviewCount": 431,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-19T09:11:01.173Z"
+  "lastUpdated": "2026-09-22T09:37:27.168Z"
 }

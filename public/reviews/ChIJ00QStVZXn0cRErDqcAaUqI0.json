@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "roland schmechtig",
+      "author_url": "https://www.google.com/maps/contrib/114020349975822669213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ2FdE29Ycb8RqYSAi6i49C4D0WhgHi3nfCMpOH2YR1rlZIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wirklich super kompetente Beratung und eine sehr sorgfältige Untersuchung.\nHier ist man in guten Händen.\nKaum Wartezeit und sehr freundliches Personal.\nKann ich nur weiterempfehlen.",
+      "time": 1789999280,
+      "translated": false
+    },
+    {
       "author_name": "Kingme6081",
       "author_url": "https://www.google.com/maps/contrib/113593562868303598787/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQM1TOkmUrOyl_Gyg6VLDEx34Q8dghcpgpU9k9YCE1GCN2lGiv=s128-c0x00000000-cc-rp-mo-ba2",
@@ -696,7 +708,7 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 19,
+  "reviewCount": 20,
   "summary": [],
-  "lastUpdated": "2026-09-19T09:10:48.868Z"
+  "lastUpdated": "2026-09-22T09:37:17.574Z"
 }

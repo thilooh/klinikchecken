@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Ralph Schubert",
+      "author_url": "https://www.google.com/maps/contrib/109681047125485617552/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYH9tCnCrV1-nA7lJRKGPkZt6xC2tm01GkwXf9dc_vAd12WPankA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Gute  Ärzte und freundliche Angestellte, oft lange Wartezeit",
+      "time": 1788179653,
+      "translated": false
+    },
+    {
       "author_name": "Irina W.",
       "author_url": "https://www.google.com/maps/contrib/105825800640558140634/reviews",
       "language": "de",
@@ -236,6 +248,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcsLixKbY7qs4H0iQzjEi3gxw5Az25cCi3hMqT2E6T4c_74w=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor einem Monat",
+      "text": "Total unzufrieden mit der Ärtzin.",
+      "time": 1784883251,
+      "translated": false
+    },
+    {
+      "author_name": "Nermina Ott",
+      "author_url": "https://www.google.com/maps/contrib/116361394723794731810/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcsLixKbY7qs4H0iQzjEi3gxw5Az25cCi3hMqT2E6T4c_74w=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Total unzufrieden mit der Ärtzin.",
       "time": 1784883251,
       "translated": false
@@ -1026,5 +1050,5 @@
   "rating": 4.8,
   "reviewCount": 102,
   "summary": [],
-  "lastUpdated": "2026-09-19T09:10:43.171Z"
+  "lastUpdated": "2026-09-22T09:37:13.157Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Baicu Samson",
+      "author_url": "https://www.google.com/maps/contrib/102846339709814758790/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzxT2wQUyTPrsVYt5oUL0QSnECzV7W7bDqSbXRdNh8Y3cvu9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "So etwas darf einfach nicht passieren. Ein kleines Kind braucht Hilfe, und statt eines Termins bekommt man eine Absage und dann erst nach 3 Monaten einen neuen Termin. Das ist unmenschlich und absolut inakzeptabel.",
+      "time": 1790064548,
+      "translated": false
+    },
+    {
+      "author_name": "Păun Dragomir",
+      "author_url": "https://www.google.com/maps/contrib/107050047271580668333/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJgp7msjJUGwA8X9vGEKV8zkvf0lkPVFH3tqVoqBvYo_ewPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ist eine Unverschämtheit: Den Patienten werden entweder gar keine Termine angeboten, oder die vereinbarten Termine werden einfach abgesagt. Einen neuen Termin bekommt man dann erst nach 2 bis 3 Monaten. So behandelt man keine Menschen.",
+      "time": 1790063638,
+      "translated": false
+    },
+    {
+      "author_name": "Paraipan Natali",
+      "author_url": "https://www.google.com/maps/contrib/106989708121337879107/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4wEjMrNVmSOdXLEMRtgvRvpybXETel_eNND6vcc1DbJ5Lyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man bietet den Patienten überhaupt keine Termine an. Und wenn jemand doch einen Termin hat, wird er einfach abgesagt, und dann bekommt man erst nach 2 bis 3 Monaten wieder einen. Das ist widerlich von ihrer Seite.",
+      "time": 1790063476,
+      "translated": false
+    },
+    {
       "author_name": "Ajwengo",
       "author_url": "https://www.google.com/maps/contrib/100031221372077238112/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXLSE_WzhXC7WG61yM95MGpImjUczDoDvhOq-fgukTm79TQw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -16,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYHsCsZXZcrYBsFtX2iEl-BumEZ4E4PE8QDzbQrQL4Pg04Dg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789314617,
+      "translated": false
+    },
+    {
+      "author_name": "Reinhard Bartel",
+      "author_url": "https://www.google.com/maps/contrib/115654076965693708062/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYHsCsZXZcrYBsFtX2iEl-BumEZ4E4PE8QDzbQrQL4Pg04Dg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1789314617,
       "translated": false
@@ -1514,11 +1560,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 398,
+  "reviewCount": 401,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-19T09:11:15.266Z"
+  "lastUpdated": "2026-09-22T09:37:38.755Z"
 }

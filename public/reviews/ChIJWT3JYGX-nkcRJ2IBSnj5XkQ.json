@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dorothea",
+      "author_url": "https://www.google.com/maps/contrib/107073968484651670992/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnhlQ2IS1RTXHQ2pLOUVjkFK0Gf6Y4FvrHS0-XFtydMPyKmw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir sind nicht überzeugt von der Praxis.\n\n1. die Dame an der Anmeldung war äußerst unfreundlich, sowas habe ich selten erlebt. Liess mich nicht aussprechen, riss mir Aufklärungs Unterlagen aus den Händen, die gar nicht für sie bestimmt waren und zeigt kein Einfühlungsvermögen. Am Ende noch ein schnippisches „Bitteschön“ von ihr, wobei man sich wirklich für gar nichts bedanken konnte.\n2. sehr lange Wartezeiten, über 2 Monate bis wir bei Wirtz-Vormittag waren, die einen falschen Befund stellte und uns an Brandenberg verwies. Nach weiteren 2 Monaten stellte dieser die OP Indikation und fragte, warum wir so lange gewartet haben.\n3. während des Termins kamen mehrfach MFAs oder andere Kollegen ins Untersuchungszimmer, mal versehentlich, mal für irgendwelche Fragen. Sehr störend und für den Patienten keine angenehme Atmosphäre, da man bei den Untersuchungen in Unterhose ist und keine Privatsphäre vorhanden ist.\n4. Herr Brandenberg soweit wir es beurteilen können chirurgisch sehr gut, zwischenmenschlich sehr kurz angebunden, lässt keine Zeit für Fragen. Aufklärung wurde nur teilweise durchgeführt, obwohl die Aufklärung ein elementarer Bestandteil ärztlicher Tätigkeit ist.\n\nDa sich manche Punkte nicht vermeiden lassen und die OP gut durchgeführt wurde gibt es zwei Sterne. Was Umgang, Aufklärung und Kommunikation betrifft, sind wir leider enttäuscht.",
+      "time": 1789993295,
+      "translated": false
+    },
+    {
       "author_name": "Mojo Muffins",
       "author_url": "https://www.google.com/maps/contrib/115680644513936418064/reviews",
       "language": "de",
@@ -681,12 +693,12 @@
       "translated": false
     }
   ],
-  "rating": 3.8,
-  "reviewCount": 64,
+  "rating": 3.7,
+  "reviewCount": 65,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-19T09:11:24.771Z"
+  "lastUpdated": "2026-09-22T09:37:46.541Z"
 }

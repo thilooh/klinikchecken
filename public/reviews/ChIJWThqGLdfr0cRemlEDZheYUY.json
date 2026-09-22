@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marc Schwirzke",
+      "author_url": "https://www.google.com/maps/contrib/115832657547417263361/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJho2EKk7owtkqlDDwc_4NZbLQ2a9FcXz9hwQMzgjWbw3lqDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundliches Personal, schöne Zimmer und schnelle Hilfe.",
+      "time": 1790069486,
+      "translated": false
+    },
+    {
       "author_name": "Katrin",
       "author_url": "https://www.google.com/maps/contrib/107378975324459344130/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTuTop5JWBRQ5MhlFVJvNx_O9BRaDbp4oRoc5ff5iHglyqTw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ja sehr empfehlenswert.",
+      "time": 1789452532,
+      "translated": false
+    },
+    {
+      "author_name": "Kai Groschupf",
+      "author_url": "https://www.google.com/maps/contrib/107173149746954151287/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTuTop5JWBRQ5MhlFVJvNx_O9BRaDbp4oRoc5ff5iHglyqTw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ja sehr empfehlenswert.",
       "time": 1789452532,
       "translated": false
@@ -1498,11 +1522,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 494,
+  "reviewCount": 495,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-19T09:10:54.928Z"
+  "lastUpdated": "2026-09-22T09:37:22.069Z"
 }

@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Markus Kwek",
+      "author_url": "https://www.google.com/maps/contrib/114508791170907553097/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKaW_mXM-bGVOSqEKXQKiA8eu_Yg6rw0OXbaW56klfeyoMtLW5Jw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789902884,
+      "translated": false
+    },
+    {
+      "author_name": "Юлія Гарбовська",
+      "author_url": "https://www.google.com/maps/contrib/113780395091071244747/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4yzgnwDOCEkPxsI-XBwYH4QB7QOsjGD95PaRONp7Gsh38Cim1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789897017,
+      "translated": false
+    },
+    {
       "author_name": "Serdar Musa",
       "author_url": "https://www.google.com/maps/contrib/106211786799709536140/reviews",
       "language": "de",
@@ -8,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5ddPJ1AVvAsM3GqCAi4NfFJSNuBxj7i4R8ikS9Mp91t1Sjlk=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Dermatologie am Luegplatz absolut weiterempfehlen. Ich habe mich vom ersten Moment an sehr gut aufgehoben gefühlt. Das gesamte Team war freundlich, aufmerksam und professionell, und die Atmosphäre in der Praxis ist sehr angenehm.\n\nBesonders positiv fand ich, dass man sich Zeit für meine Anliegen genommen und alles verständlich und ausführlich erklärt hat. Die Untersuchung wirkte sehr gründlich und kompetent – man hat nicht das Gefühl, einfach nur schnell abgefertigt zu werden.\n\nEine Praxis, in der Fachkompetenz und ein freundlicher Umgang zusammenkommen. Vielen Dank an das gesamte Team – von mir eine klare Empfehlung und 5 Sterne!",
+      "time": 1789309918,
+      "translated": false
+    },
+    {
+      "author_name": "Serdar Musa",
+      "author_url": "https://www.google.com/maps/contrib/106211786799709536140/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5ddPJ1AVvAsM3GqCAi4NfFJSNuBxj7i4R8ikS9Mp91t1Sjlk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann die Dermatologie am Luegplatz absolut weiterempfehlen. Ich habe mich vom ersten Moment an sehr gut aufgehoben gefühlt. Das gesamte Team war freundlich, aufmerksam und professionell, und die Atmosphäre in der Praxis ist sehr angenehm.\n\nBesonders positiv fand ich, dass man sich Zeit für meine Anliegen genommen und alles verständlich und ausführlich erklärt hat. Die Untersuchung wirkte sehr gründlich und kompetent – man hat nicht das Gefühl, einfach nur schnell abgefertigt zu werden.\n\nEine Praxis, in der Fachkompetenz und ein freundlicher Umgang zusammenkommen. Vielen Dank an das gesamte Team – von mir eine klare Empfehlung und 5 Sterne!",
       "time": 1789309918,
       "translated": false
@@ -1355,7 +1387,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 240,
+  "reviewCount": 242,
   "summary": [],
-  "lastUpdated": "2026-09-19T09:10:41.042Z"
+  "lastUpdated": "2026-09-22T09:37:11.839Z"
 }

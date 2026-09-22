@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Robin Kleinken",
+      "author_url": "https://www.google.com/maps/contrib/117995252993250870388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8YMci069zYEG534X1Pp2hXXbRTG2Njgpb2VTrKjE3ew9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790005894,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Gieser",
       "author_url": "https://www.google.com/maps/contrib/108641299909486269739/reviews",
       "language": "de",
@@ -1236,11 +1246,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 196,
+  "reviewCount": 197,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-19T09:11:24.519Z"
+  "lastUpdated": "2026-09-22T09:37:46.332Z"
 }

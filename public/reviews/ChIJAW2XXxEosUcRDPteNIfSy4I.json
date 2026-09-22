@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Juergen Fiedler",
+      "author_url": "https://www.google.com/maps/contrib/108739860523947700113/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUvjrOQHzYYoIDZN8Jus2ZW829sYLiebJxjHz0MPsJdi_rADF3=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789932578,
+      "translated": false
+    },
+    {
       "author_name": "Banno",
       "author_url": "https://www.google.com/maps/contrib/116575935050140272265/reviews",
       "language": "de",
@@ -768,11 +778,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 121,
+  "reviewCount": 122,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-19T09:10:52.515Z"
+  "lastUpdated": "2026-09-22T09:37:20.137Z"
 }
