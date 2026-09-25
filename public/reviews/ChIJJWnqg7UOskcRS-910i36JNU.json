@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Rüdiger Evers",
+      "author_url": "https://www.google.com/maps/contrib/110786120336361382915/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX_C5Zblb03A6Obf1SAt2KiwTkjftzu2y8eb7gdrUJypc8ig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wie schon mehrfach erlebt, eine sehr gute Untersuchung und perfekte Behandlung, absolut empfehlenswert. Vielen Dank.",
+      "time": 1790324328,
+      "translated": false
+    },
+    {
+      "author_name": "Hans J. Staats",
+      "author_url": "https://www.google.com/maps/contrib/112575009413773363720/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPNxQnz5RbMttotYgIX-DVRTlEheLSS0rpYo1rDeg3FVkIEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "kompetente Ärzte, freundliches Personal, gut durchorganisierte Praxis, Termin wurde eingehalten",
+      "time": 1790311439,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen Göbel",
+      "author_url": "https://www.google.com/maps/contrib/116588253834414295287/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL45kfHV1NvRlKXZw7cuYLx4-nq6N-Ix4jFFFlr_lsDWKIg0A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit vielen Jahren der Hautarzt meines Vertauens, das Team ist vorbehaltlos zu empfehlen.",
+      "time": 1790251374,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Hesemeier",
+      "author_url": "https://www.google.com/maps/contrib/104551321746791363024/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRSYT2NHBYoXnf4uVX4F5Kjux07rcniHUvmg7slB38x66Xxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Am 15.09.26 wurde ich im Rahmen einer Hautkrebsvorsorge von Frau Dr. Alfarsi untersucht. Bei allen bisherigen Untersuchungen hatte ich noch nie eine so sorgfältige Vorgehensweise erlebt. Frau Alfarsi hat sich Zeit genommen und alle Fragen ausführlich beantwortet.\nVielen Dank.",
+      "time": 1790183237,
+      "translated": false
+    },
+    {
+      "author_name": "Frau abc",
+      "author_url": "https://www.google.com/maps/contrib/113265351614774744007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfQILBHT8MEu-09QFZ9MxqpWBiJ0bjgRgRLJoRRSZLxRvAsdY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790155919,
+      "translated": false
+    },
+    {
       "author_name": "Jürgen Diekmann",
       "author_url": "https://www.google.com/maps/contrib/106357466713613126319/reviews",
       "language": "de",
@@ -1994,11 +2052,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2400,
+  "reviewCount": 2405,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-22T09:37:22.716Z"
+  "lastUpdated": "2026-09-25T09:59:34.993Z"
 }

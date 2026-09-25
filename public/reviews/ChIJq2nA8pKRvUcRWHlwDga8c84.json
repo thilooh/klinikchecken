@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ole S",
+      "author_url": "https://www.google.com/maps/contrib/108039473658551659795/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6ip1su9AODhucrDy2hJTiWdKJAQF-mLDJLgPxQVK-16TeZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider unerwünscht wenn gesetzlich versichert. 10!! Monate Wartezeit für unseren Sohn, 3 Telefonate um „zu beweisen“ dass man einen Termin benötigt. 3 Monate davor dann eine Absage weil das Ekzem keine „10 Hände groß“ wäre. Lauter Eigenleistungen, alles was in aktuellen Gesundswelt schief läuft sieht man an dieser Praxis. Sry. unfreundlich, man muss ein Bittsteller sein.",
+      "time": 1790256047,
+      "translated": false
+    },
+    {
+      "author_name": "Alexej Eventov",
+      "author_url": "https://www.google.com/maps/contrib/114600666093399667553/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKZyiiByadMUIjAoL6B9aUIeOiiznXk69od1RA4q0_TPC8wQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790147389,
+      "translated": false
+    },
+    {
       "author_name": "Eva Day",
       "author_url": "https://www.google.com/maps/contrib/111940089367569878456/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7HP8dL31HtfSTxO1XDxBb3OdzyZn3oTLvR3ueatN5GQM2Duzf=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Nettes Team aber lange Wartezeiten.",
+      "time": 1789486558,
+      "translated": false
+    },
+    {
+      "author_name": "bubblinski bubbl",
+      "author_url": "https://www.google.com/maps/contrib/113045027699802353446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7HP8dL31HtfSTxO1XDxBb3OdzyZn3oTLvR3ueatN5GQM2Duzf=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Nettes Team aber lange Wartezeiten.",
       "time": 1789486558,
       "translated": false
@@ -1558,11 +1592,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 340,
+  "reviewCount": 342,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:35.328Z"
+  "lastUpdated": "2026-09-25T09:59:49.494Z"
 }

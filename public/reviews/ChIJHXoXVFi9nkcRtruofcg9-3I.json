@@ -1,6 +1,60 @@
 {
   "reviews": [
     {
+      "author_name": "Victory",
+      "author_url": "https://www.google.com/maps/contrib/100677564059134740714/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhwDVSmSOOcYHlMlVQwYLRlSXyZ9JO8ETnu74q6sVFWAg4urA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790314964,
+      "translated": false
+    },
+    {
+      "author_name": "Dániel Pintea",
+      "author_url": "https://www.google.com/maps/contrib/108784523143750426167/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrT8Zt8r_u3cONW1oBQoibLnIL6e8nYRNaed4BitgtIbsX8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790238893,
+      "translated": false
+    },
+    {
+      "author_name": "Cristiano Ronaldo",
+      "author_url": "https://www.google.com/maps/contrib/110332444911941850546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoHv436R97DHyxQqH2FNk9WRI4vk79DXC_51f-_hCKWO6lpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zu lange Wartezeit",
+      "time": 1790181352,
+      "translated": false
+    },
+    {
+      "author_name": "Konrad Foerg",
+      "author_url": "https://www.google.com/maps/contrib/117186844748494438783/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuS0KbIGsvh1xrs2Mw_hpXb1i2uOT5AkCgQzElE7sWDILc2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Guter Standort, einfach zu erreichen.",
+      "time": 1790171085,
+      "translated": false
+    },
+    {
+      "author_name": "Dacian Vinchici",
+      "author_url": "https://www.google.com/maps/contrib/105803519793139583653/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKHMFdhaF4XbS5ZoU6vhhfDcaCqihDD6m1l1yKYJqbkV-xLcdd=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790082434,
+      "translated": false
+    },
+    {
       "author_name": "Concordia Büro",
       "author_url": "https://www.google.com/maps/contrib/104373016216903481828/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4BakwdHuBK7FwR4FIa5xIqnx1XPwzU_Dr_sLZ65hzOj17Gg=s128-c0x00000000-cc-rp-mo-ba2",
@@ -1480,11 +1534,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 431,
+  "reviewCount": 436,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-22T09:37:27.168Z"
+  "lastUpdated": "2026-09-25T09:59:40.085Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Suzana Harazim",
+      "author_url": "https://www.google.com/maps/contrib/102898876950096416913/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5hu4c4QhLUxi8gywR3TUYYw4LLZajQ_Dr9Y36iSI8Y2DiPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Toller Arzt, tolles Team und schöne Praxis! Man fühlt sich rundum wohl und gut aufgehoben. Kann ich vom Herzen empfehlen!",
+      "time": 1790077638,
+      "translated": false
+    },
+    {
       "author_name": "J S",
       "author_url": "https://www.google.com/maps/contrib/100441017571586089171/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFqRe4ZhkzP6rdPHujRrwJa5AqnWw8xPyilTWxA8bAMYu-Fg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin seit fast 10 Jahren dort in Behandlung und hatte zwei ambulante OPs. Dr. Böhm ist sehr einfühlsam, empathisch und auf Augenhöhe. Das Team ist sehr professionell und gut organisiert. Ich musste nie lang warten.",
+      "time": 1788978680,
+      "translated": false
+    },
+    {
+      "author_name": "J S",
+      "author_url": "https://www.google.com/maps/contrib/100441017571586089171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFqRe4ZhkzP6rdPHujRrwJa5AqnWw8xPyilTWxA8bAMYu-Fg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin seit fast 10 Jahren dort in Behandlung und hatte zwei ambulante OPs. Dr. Böhm ist sehr einfühlsam, empathisch und auf Augenhöhe. Das Team ist sehr professionell und gut organisiert. Ich musste nie lang warten.",
       "time": 1788978680,
       "translated": false
@@ -446,7 +470,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 74,
+  "reviewCount": 75,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:12.926Z"
+  "lastUpdated": "2026-09-25T09:59:23.969Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rina S",
+      "author_url": "https://www.google.com/maps/contrib/112934813985622394176/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjStZDMpoLVnr95qPEYC90GEJwd7ZxywfpCqtwcNGF2dGs0A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich sehr zufrieden mit Levvital! Das gesamte Personal ist super freundlich und man fühlt sich direkt wohl. Besonders schön fand ich, dass meine Beschwerden trotz meines jungen Alters endlich ernst genommen wurden. Die Termine wurden schnell vergeben und alle haben sich sehr bemüht, die Behandlung so angenehm wie möglich zu gestalten.\nAbsolute Empfehlung! ❤️",
+      "time": 1790089485,
+      "translated": false
+    },
+    {
       "author_name": "Gisela Goerke",
       "author_url": "https://www.google.com/maps/contrib/113997433230633189415/reviews",
       "language": "de",
@@ -410,11 +422,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 23,
+  "reviewCount": 24,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:43.815Z"
+  "lastUpdated": "2026-09-25T09:59:59.187Z"
 }

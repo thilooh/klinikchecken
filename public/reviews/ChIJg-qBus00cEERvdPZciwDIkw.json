@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Zrian A",
+      "author_url": "https://www.google.com/maps/contrib/109126160172752343899/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYYfYQda38T-VoU43yG76ZcW00m2dApinwEUxu9p-FZ3zdkJuo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Mölders ist eine hervorragende Ärztin. Sie hat sich für meine Mama sehr viel Zeit genommen, alles verständlich und geduldig erklärt und ist auf alle Fragen eingegangen. Man hat gemerkt, dass ihr die Patienten wirklich am Herzen liegen. Wir haben uns sehr gut aufgehoben und ernst genommen gefühlt. Vielen Dank für die tolle Betreuung. Klare Empfehlung!",
+      "time": 1790243050,
+      "translated": false
+    },
+    {
       "author_name": "Ludwig Dengel",
       "author_url": "https://www.google.com/maps/contrib/103494283132135870669/reviews",
       "language": "de",
@@ -439,8 +451,8 @@
       "translated": false
     }
   ],
-  "rating": 3.6,
-  "reviewCount": 30,
+  "rating": 3.7,
+  "reviewCount": 31,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:19.078Z"
+  "lastUpdated": "2026-09-25T09:59:30.856Z"
 }

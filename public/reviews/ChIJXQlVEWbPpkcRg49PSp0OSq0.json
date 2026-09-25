@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Annett Todziej",
+      "author_url": "https://www.google.com/maps/contrib/103202332932309369687/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNTEu1D-pd1az6QpFHI8IsyOFjP1jLJCVXfYTR9faDAklZCw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1789538499,
+      "translated": false
+    },
+    {
       "author_name": "Ute Oettler",
       "author_url": "https://www.google.com/maps/contrib/113142742329773642279/reviews",
       "language": "de",
@@ -18,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoyfAdTu6TLSZzzGnqTCO9h7KcMzUq8ezV0CVjUYVOGjIooA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher,kompetenter Arzt",
+      "time": 1789484781,
+      "translated": false
+    },
+    {
+      "author_name": "Ute Oettler",
+      "author_url": "https://www.google.com/maps/contrib/113142742329773642279/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoyfAdTu6TLSZzzGnqTCO9h7KcMzUq8ezV0CVjUYVOGjIooA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundlicher,kompetenter Arzt",
       "time": 1789484781,
       "translated": false
@@ -42,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsFg51xO3447U48cI1UeFEcAYTCIZHndwzBy8Itmpz4kgpTw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Finde den Mann absolut kompetent und sympathisch.\n\nDie besten Ärzte sind nunmal die, die offen deine Probleme ansprechen und nichts vor dir verstecken.\n\nDas ist keine Unfreundlichkeit, sondern eine Selbstverständlichkeit!",
+      "time": 1788935929,
+      "translated": false
+    },
+    {
+      "author_name": "Eric Vogelgesang",
+      "author_url": "https://www.google.com/maps/contrib/110658120436564910965/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsFg51xO3447U48cI1UeFEcAYTCIZHndwzBy8Itmpz4kgpTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Finde den Mann absolut kompetent und sympathisch.\n\nDie besten Ärzte sind nunmal die, die offen deine Probleme ansprechen und nichts vor dir verstecken.\n\nDas ist keine Unfreundlichkeit, sondern eine Selbstverständlichkeit!",
       "time": 1788935929,
       "translated": false
@@ -494,5 +528,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-22T09:37:53.178Z"
+  "lastUpdated": "2026-09-25T10:00:09.920Z"
 }

@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "last unicorn",
+      "author_url": "https://www.google.com/maps/contrib/102747090978984011154/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINMveY3ByHyXr6iRnpbra2n0V2Z_WWe73MT0qLN--Ag6xZyA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1788379862,
+      "translated": false
+    },
+    {
       "author_name": "Jörg Weimer",
       "author_url": "https://www.google.com/maps/contrib/110766755861310922626/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJx9qY2fVjmCcwJLEmBA7itKTtp_lhr7SjJQus6D3QNiJX0bQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -258,6 +268,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMUpkjoHFWd2_uRuIZDgMA0qs7KyCSZQ9gTbMckRNkanrJFg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Als langjährig tätiger Arzt und heute selbst Patient kann ich diese Hautarztpraxis uneingeschränkt empfehlen. Früher habe ich Patienten mit bestem Gewissen hierher überwiesen – die Rückmeldungen waren ausnahmslos hervorragend. Meine eigenen Erfahrungen bestätigen das: höchste fachliche Kompetenz, große Freundlichkeit und ein außergewöhnlich engagiertes Team. Besser geht es kaum.",
+      "time": 1784961771,
+      "translated": false
+    },
+    {
+      "author_name": "Dr. med. Th. Harrer",
+      "author_url": "https://www.google.com/maps/contrib/102939905748179187951/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMUpkjoHFWd2_uRuIZDgMA0qs7KyCSZQ9gTbMckRNkanrJFg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Als langjährig tätiger Arzt und heute selbst Patient kann ich diese Hautarztpraxis uneingeschränkt empfehlen. Früher habe ich Patienten mit bestem Gewissen hierher überwiesen – die Rückmeldungen waren ausnahmslos hervorragend. Meine eigenen Erfahrungen bestätigen das: höchste fachliche Kompetenz, große Freundlichkeit und ein außergewöhnlich engagiertes Team. Besser geht es kaum.",
       "time": 1784961771,
       "translated": false
@@ -942,5 +964,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:21.005Z"
+  "lastUpdated": "2026-09-25T09:59:33.024Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Carolina Moran",
+      "author_url": "https://www.google.com/maps/contrib/101761462044087329385/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqjcRyodV9zfDnqG6T3xEKRZRnsxPl4iEE7CFh1HuNY4RuoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der beste Arzttermin, den ich je hatte!\n\nIch wurde pünktlich aufgerufen und das gesamte Personal war sehr freundlich. Ich werde ohne Zweifel für weitere Behandlungen wiederkommen.",
+      "time": 1790089272,
+      "translated": false
+    },
+    {
       "author_name": "Jan Ahmadi, Dr.",
       "author_url": "https://www.google.com/maps/contrib/104177304844595311755/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Jan Ahmadi, Dr.",
+      "author_url": "https://www.google.com/maps/contrib/104177304844595311755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaQ76hjQuQil93yhWtLJe1xq2dR-UP5yf2WBB6tu-Nw15EuZ7g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin sehr zufrieden mit der schnellen Terminvergabe, den freundlichen Mitarbeitenden und der kompetenten Beratung durch Hr. Dr. Arayesch. Er hat mich sehr ausführlich und verständlich beraten und mir mehrere neuartige Behandlungsalternativen aufgezeigt. Dafür bin ich sehr dankbar und kann die Praxis uneingeschränkt weiterempfehlen.",
+      "time": 1789659268,
+      "translated": false
+    },
+    {
       "author_name": "L. N.",
       "author_url": "https://www.google.com/maps/contrib/118126288497450729125/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO8YdyGERXYZq-NFbp9tQLyIYa2l8OvKYfs8OPwhWI-v1Caw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Nach einem komplizierten Austausch mit einer KI Stimme heißt es endlich \"Sie werden verbunden\". Dann bricht das Telefonat ab. Per Email gehen keine Mails durch. Dann nicht...",
+      "time": 1789644123,
+      "translated": false
+    },
+    {
+      "author_name": "L. N.",
+      "author_url": "https://www.google.com/maps/contrib/118126288497450729125/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO8YdyGERXYZq-NFbp9tQLyIYa2l8OvKYfs8OPwhWI-v1Caw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Nach einem komplizierten Austausch mit einer KI Stimme heißt es endlich \"Sie werden verbunden\". Dann bricht das Telefonat ab. Per Email gehen keine Mails durch. Dann nicht...",
       "time": 1789644123,
       "translated": false
@@ -74,6 +110,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn1nI4gla0GnVmLcqkPFCbCHLaqxuA-tUUB61fQgZOU1OY0g=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788432633,
+      "translated": false
+    },
+    {
+      "author_name": "Niklas R.",
+      "author_url": "https://www.google.com/maps/contrib/115343038220722700923/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn1nI4gla0GnVmLcqkPFCbCHLaqxuA-tUUB61fQgZOU1OY0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1788432633,
       "translated": false
@@ -1334,11 +1380,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 155,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:19.710Z"
+  "lastUpdated": "2026-09-25T09:59:31.577Z"
 }

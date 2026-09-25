@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Kati Gerlach",
+      "author_url": "https://www.google.com/maps/contrib/108278176416408803484/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPAZT3iMvgoQGpbqmi-64gyqj39JVXWiqGy-X7X5fA00wPTg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe meinen hübschen tollen Freund super aufgenommen",
+      "time": 1790310916,
+      "translated": false
+    },
+    {
+      "author_name": "Herbert Manzert",
+      "author_url": "https://www.google.com/maps/contrib/114856013553720547936/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3XkMkRZ6LYHgXx2-1mVQtnmJTWxyJEq6QSXGx_lEnFSroYFHrrQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top organisiert und freundlich: vom online Termin über die Anmeldung bis zur ärztlichen Beratung. Besser kann man es nicht machen.  Chapeau!",
+      "time": 1790232291,
+      "translated": false
+    },
+    {
+      "author_name": "Gerald Lüdicke",
+      "author_url": "https://www.google.com/maps/contrib/116001354514486346424/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLK9lb1osZ-QnV2L-FgqRptwVX2YqTlZskMSgLGHL3h8_7mJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790100347,
+      "translated": false
+    },
+    {
       "author_name": "Marc Schwirzke",
       "author_url": "https://www.google.com/maps/contrib/115832657547417263361/reviews",
       "language": "de",
@@ -1522,11 +1556,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 495,
+  "reviewCount": 498,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-22T09:37:22.069Z"
+  "lastUpdated": "2026-09-25T09:59:34.216Z"
 }

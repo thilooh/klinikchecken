@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hedda Klemm",
+      "author_url": "https://www.google.com/maps/contrib/101390511023270799030/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOB6UufK-CQZfktd_MVioZvsXpYPEMUU9_w8aG87Dv1tDwzt1W=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte eine extrem entzündete Talgdrüse und habe gestern angerufen und gefragt ob Sie mich spontan dazwischen schieben können, zum Glück hatte jemand abgesagt und ich konnte noch am selben Tag vorbeischauen. Ich kam auch nach kurzer Wartezeit pünktlich dran. Nach Ansicht und Erklärung wurde mir direkt angeboten am nächsten Tag vorbeizukommen um die Drüse zu öffnen damit die Entzündung rausgeht. Es wurde mir alles erklärt und ich war innerhalb von anderthalb Tagen meine Beschwerden wieder los. Dank lokaler Betäubung ohne weitere Schmerzen. Ein super liebes Praxisteam und netter Arzt, habe mich sehr gut aufgehoben gefühlt und kann diese Praxis jedem empfehlen. ☺️",
+      "time": 1790079310,
+      "translated": false
+    },
+    {
       "author_name": "Burghard Puse",
       "author_url": "https://www.google.com/maps/contrib/106568105015984379428/reviews",
       "language": "de",
@@ -494,11 +506,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 106,
+  "reviewCount": 107,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-22T09:37:48.872Z"
+  "lastUpdated": "2026-09-25T10:00:04.957Z"
 }

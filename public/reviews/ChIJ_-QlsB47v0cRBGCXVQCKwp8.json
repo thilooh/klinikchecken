@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alina Zhang",
+      "author_url": "https://www.google.com/maps/contrib/103238175205892108217/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxjUOqNNTHlStHla24bqIiOb7VGGUyuKOcLc19aTwnvxswuQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte mich von Herzen bei Frau Dr. Peeters und Frau Behroozi bedanken!\n\nIch hatte direkt unter der Augenbraue eine Zyste und habe fast ein Jahr lang mit der Entscheidung zur Entfernung gezögert, weil ich große Sorge hatte, dass an dieser sichtbaren Stelle eine Narbe zurückbleiben könnte. Erst als die Zyste zunehmend schmerzhaft wurde, habe ich mich schließlich für die OP entschieden. Umso mehr bin ich heute froh und dankbar, dass Frau Dr. Peeters den Eingriff durchgeführt hat.\n\nSchon vor der OP hat sie sich sehr viel Zeit genommen und anhand meiner Mimik mehrfach genau überlegt, wie der Schnitt verlaufen sollte, damit das Ergebnis möglichst unauffällig wird. Während des Eingriffs war sie unglaublich geduldig, ruhig und gleichzeitig sehr präzise. Sie hat mir immer erklärt, was sie gerade macht und was als Nächstes kommt. Dadurch habe ich mich die ganze Zeit sehr sicher und gut aufgehoben gefühlt, fast so, als würde ich die OP gemeinsam mit ihr machen, weil ich jeden Schritt genau mitbekommen habe.\n\nAuch Frau Behroozi war sehr nett und herzlich. Heute hat sie mir die Fäden schnell und sehr routiniert gezogen.\n\nDa die Wunde die ganze Woche geschützt und abgeklebt war, wusste ich bis heute gar nicht, wie sie tatsächlich aussieht. Als Frau Behroozi mir nach dem Fädenziehen den Spiegel gegeben hat, war ich wirklich sprachlos. Ich war innerlich schon auf eine sichtbare Narbe vorbereitet – stattdessen musste ich selbst ganz nah an den Spiegel gehen, um den Schnitt überhaupt erkennen zu können.\n\nIch hätte nie gedacht, dass ein Schnitt an dieser Stelle so unauffällig aussehen kann – für mich wirklich ein Kunststück!\n\nVielen, vielen Dank an Frau Dr. Peeters und Frau Behroozi für die großartige Behandlung, die Geduld und dieses wunderschöne Ergebnis. Ich hätte es mir wirklich nicht besser wünschen können! ❤️",
+      "time": 1790252546,
+      "translated": false
+    },
+    {
       "author_name": "Jan Philipp Decker",
       "author_url": "https://www.google.com/maps/contrib/111154303814512855479/reviews",
       "language": "de",
@@ -771,7 +783,7 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 98,
+  "reviewCount": 99,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:10.836Z"
+  "lastUpdated": "2026-09-25T09:59:21.656Z"
 }

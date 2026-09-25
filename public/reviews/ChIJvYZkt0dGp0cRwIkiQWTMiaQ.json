@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "alexander schwitalla",
+      "author_url": "https://www.google.com/maps/contrib/105845632085816628394/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISmBwOoyx3SI1GpSRBaInygexaJ0yXx3ECqwRbCexC_piUag=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Telefonischer Kontakt mit KI .Trotz Überweisung wegen Verdacht auf Thrombose kurz und knapp die schriftliche Antwort ,, Wenden Sie sich mit der Überweisung und Diagnose an eine Notaufnahme\"\nDanke Schwester Sylvi.\nIn der Praxis Dr. Forkmann wurde das Problem gelöst.",
+      "time": 1790080125,
+      "translated": false
+    },
+    {
       "author_name": "Ines Steinert",
       "author_url": "https://www.google.com/maps/contrib/111070678337269798630/reviews",
       "language": "de",
@@ -693,12 +705,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 52,
+  "rating": 4.1,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:32.925Z"
+  "lastUpdated": "2026-09-25T09:59:46.587Z"
 }

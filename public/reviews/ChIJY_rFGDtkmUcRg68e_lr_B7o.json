@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tami",
+      "author_url": "https://www.google.com/maps/contrib/113172981902428937553/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA6_kDOlzV_6D9uprJ9o7RSxfEOWMnuFQarHYzo_N6sMnuVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das gesamte Team ist sehr einfühlsam. Es wurde mir immer genau gesagt was gemacht wird und wo ich berührt werde. Das hat mir persönlich die Angst sehr genommen. Man wird super aufgeklärt und beraten. Diese Praxis kann ich weiter empfehlen.",
+      "time": 1790160585,
+      "translated": false
+    },
+    {
       "author_name": "Hel Ka",
       "author_url": "https://www.google.com/maps/contrib/100549016079372197983/reviews",
       "language": "de",
@@ -108,6 +120,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzaWAVRB043FQGWyN254w8iOq9m7d458icxElofEIIxJRrPg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1787758874,
+      "translated": false
+    },
+    {
+      "author_name": "Kannst Knicken",
+      "author_url": "https://www.google.com/maps/contrib/110704752836536392894/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzaWAVRB043FQGWyN254w8iOq9m7d458icxElofEIIxJRrPg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1787758874,
       "translated": false
@@ -1046,11 +1068,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 93,
+  "reviewCount": 94,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:28.898Z"
+  "lastUpdated": "2026-09-25T09:59:42.005Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "SaKa'71",
+      "author_url": "https://www.google.com/maps/contrib/108250162395269275178/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfpONP3X1eCciczj4chFt4gogVQJlYxvG6I-wV-O9H-pq4mg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Mitarbeiterinnen 😊",
+      "time": 1790252158,
+      "translated": false
+    },
+    {
       "author_name": "Anna Reich",
       "author_url": "https://www.google.com/maps/contrib/117746899347026785315/reviews",
       "language": "de",
@@ -560,11 +572,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 51,
+  "reviewCount": 52,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-22T09:37:42.160Z"
+  "lastUpdated": "2026-09-25T09:59:57.306Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Kevin Pöss",
+      "author_url": "https://www.google.com/maps/contrib/101634784337139575148/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGwb6Zns17eUYbLeiCvBcwmp9wRTxhob9BT1tDT91SV4gjFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Krosta war sehr freundlich und hat mich sehr gut behandelt. Ich habe mich bei ihr sehr wohl und gut aufgehoben gefühlt.\n\nKevin Pöss",
+      "time": 1790328623,
+      "translated": false
+    },
+    {
+      "author_name": "Rezarta Arifi",
+      "author_url": "https://www.google.com/maps/contrib/107538871387657636141/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYpm-0JuiXOiXBGwLgZO2IjKKGYPtG5G8Qj4xkoX9kDMffZC8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe leider heute selbst eine Erfahrung gemacht, die ich so nicht in Ordnung finde. Ich bin direkt nach der Arbeit ungefähr eine Stunde zu diesem Termin gefahren. Mein Termin war um 14:25 Uhr, um 14:28 Uhr war ich in der Praxis. Danach stand ich noch ungefähr fünf Minuten vorne an der Rezeption, weil zunächst noch mehrere Fragen gestellt wurden. Anschließend wurde mir gesagt, ich solle mich ins Wartezimmer setzen. Kurz darauf wurde ich wieder aufgerufen und mir wurde gesagt, dass die Ärztin mich nicht mehr drannehmen würde, weil ich zu spät gekommen sei.\n\nIch finde das besonders enttäuschend, weil es bei mir nicht um irgendeinen belanglosen Termin geht, sondern um eine auffällige Hautgeschichte, die ich ärztlich abklären lassen möchte. Ich bin dafür direkt nach der Arbeit eine Stunde gefahren und war gerade einmal drei Minuten nach meinem Termin in der Praxis.\n\nAuch der Umgangston hat mich sehr enttäuscht. Ich habe die Kommunikation als sehr unfreundlich, unhöflich und wenig empathisch empfunden. Für mich hatte es leider den Eindruck, dass anschließend versucht wurde, die Situation umzudrehen und es so darzustellen, als wäre allein ich das Problem.\n\nMein Bruder war ebenfalls erst vor Kurzem dort und hat mir von seiner eigenen Erfahrung berichtet. Leider deckt sich das für mich mit dem, was ich heute selbst erlebt habe. Ich habe außerdem schon mehrfach mitbekommen, dass Patienten mit dem Umgang in dieser Praxis sehr unzufrieden waren.\n\nFür mich persönlich war der heutige Umgang absolut enttäuschend. Eine wirklich sehr negative Erfahrung. Gerade bei gesundheitlichen Anliegen hätte ich mir einen respektvollen und empathischen Umgang gewünscht.",
+      "time": 1790111924,
+      "translated": false
+    },
+    {
       "author_name": "Baicu Samson",
       "author_url": "https://www.google.com/maps/contrib/102846339709814758790/reviews",
       "language": "de",
@@ -1560,11 +1584,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 401,
+  "reviewCount": 405,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:38.755Z"
+  "lastUpdated": "2026-09-25T09:59:53.451Z"
 }

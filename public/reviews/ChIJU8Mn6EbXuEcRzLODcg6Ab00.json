@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "شامية",
+      "author_url": "https://www.google.com/maps/contrib/109279656256180230605/reviews",
+      "language": "ar",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaW4QrDI1huWFViSbH9DbUWUc_LmoZbprQ32m-coxfunEjFLM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "عنجد كتير الدكتورة بتجنن وتعاملها اكثر من رائع رايقة وبتفهم ومابهمها غير الشخص يطلع وهو رضيان ومبسوط من عندها",
+      "time": 1790271804,
+      "translated": false
+    },
+    {
+      "author_name": "hengame goldari",
+      "author_url": "https://www.google.com/maps/contrib/117096354280323754319/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmvzQZAi4iZf826XeI5Nm82Mh9DUtCE7MEYzVRfNG2FBWUpvyG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich begeistert von Frau Dr. und ihrem gesamten Team. ❤️\nFrau Dr. ist unglaublich freundlich, herzlich und sympathisch. Gleichzeitig merkt man sofort, dass sie fachlich sehr kompetent ist und mit modernen, zeitgemäßen Behandlungsmethoden arbeitet. Besonders schätze ich, dass sie ganz individuell auf die Bedürfnisse und Wünsche jeder Patientin eingeht. Auch das gesamte Team ist sehr professionell, freundlich und aufmerksam. Die Praxis bietet hochwertige und moderne Behandlungen mit sehr guten Materialien und viel Erfahrung an. Was ich besonders schätze: Trotz der hohen Qualität und der modernen Behandlungen sind die Preise im Vergleich zu vielen anderen Praxen, die für ähnliche Leistungen deutlich mehr verlangen, wirklich fair und angemessen.\nMan fühlt sich dort nicht wie eine Patientin von vielen, sondern persönlich und sehr gut aufgehoben. Für mich eine wunderbare Kombination aus fachlicher Kompetenz, modernen Behandlungsmethoden, hochwertigen Materialien und vor allem einer sehr herzlichen und persönlichen Betreuung. ❤️",
+      "time": 1790221896,
+      "translated": false
+    },
+    {
+      "author_name": "Haboosh Ab",
+      "author_url": "https://www.google.com/maps/contrib/102363974765430520282/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIL1eSNXIN7NhWtn-TgcopqMtxORM9WmlM5BBacuaGRQchehQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790166747,
+      "translated": false
+    },
+    {
       "author_name": "Shari Dawod",
       "author_url": "https://www.google.com/maps/contrib/105711763496070172752/reviews",
       "language": "de",
@@ -10,6 +44,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Ich bin sehr zufriden",
       "time": 1789970759,
+      "translated": false
+    },
+    {
+      "author_name": "Niru",
+      "author_url": "https://www.google.com/maps/contrib/103056633112805650158/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4wCFt4Z7TcNYY0nX5ES72tUq_ojAD2izgVrtcV913p-0fMg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nach der letzten botox Behandlung werde ich mit Sicherheit nie wieder hingehen. Ich habe der Ärztin 5 min erklärt das ich meine Krähenfüße behalten und nur eine Zone behandelt haben möchte, aber irgendwie schien das nicht in ihr Schönheitsbild zu passen und sie schien davon sogar eher genervt zu sein. Stattdessen spritzte sie mir in zwei Zonen obwohl ich nur eine bezahlt habe und das so tief das ich seit mehreren tagen aussehe als hätte ich auf die fresse bekommen. Es ist alles komplett geschwollen und grün und Blau seit 3 tagen, eine schmerzsalbe wurde gar nicht erst angeboten vorher.  sie sticht einfach so schnell überall rein, ohne vorher zu sagen wo sie überhaupt reinstechen wird, das man garnicht weiß wie einem geschieht, als würde sie im akkord arbeiten. An den Schwestern gibt es keine Kritik meinerseits, die waren tatsächlich sehr nett und einfühlsam im Gegensatz zur Ärztin.\n\nUpdate: Nach über einer Woche sind die Krähenfüße komplett weg, und unter dem Auge die falten sehen aus, als wäre ich übernacht um 10 jahre gealtert. Sollte sich das nicht ändern in den nächsten tagen und die haut sich zurückziehen, darf diese unfähige Ärztin sich auf eine Klage gefasst machen.",
+      "time": 1789541299,
       "translated": false
     },
     {
@@ -1108,11 +1154,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 426,
+  "reviewCount": 429,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:25.261Z"
+  "lastUpdated": "2026-09-25T09:59:37.953Z"
 }

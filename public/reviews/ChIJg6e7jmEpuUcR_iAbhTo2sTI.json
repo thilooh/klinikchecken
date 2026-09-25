@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Aysel Yorulmaz",
+      "author_url": "https://www.google.com/maps/contrib/114688366393808607952/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKItw-WGsf86iiwuc9AM9PQGNkxx7rQrnvTm6QCwjgnMq4a6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war sehr zufrieden mit der Behandlung. Sehr freundlich, kompetent und vor allem angenehm sanft. Die Venenverödung wurde super gemacht. Ich habe mich sehr gut aufgehoben gefühlt und kann ihn absolut weiterempfehlen!",
+      "time": 1789651243,
+      "translated": false
+    },
+    {
       "author_name": "Lynyrd Skynyrd",
       "author_url": "https://www.google.com/maps/contrib/101556243053925781167/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJw1Px_eXq50gMLJa9ci6G3QC5zs4QzPczVs_uObMzCb7gH1A=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr guter Arzt! Aber leider extrem lange Wartezeit, bis man an der Reihe ist.",
+      "time": 1788881239,
+      "translated": false
+    },
+    {
+      "author_name": "Lynyrd Skynyrd",
+      "author_url": "https://www.google.com/maps/contrib/101556243053925781167/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJw1Px_eXq50gMLJa9ci6G3QC5zs4QzPczVs_uObMzCb7gH1A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr guter Arzt! Aber leider extrem lange Wartezeit, bis man an der Reihe ist.",
       "time": 1788881239,
       "translated": false
@@ -1222,5 +1246,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:25.684Z"
+  "lastUpdated": "2026-09-25T09:59:38.427Z"
 }

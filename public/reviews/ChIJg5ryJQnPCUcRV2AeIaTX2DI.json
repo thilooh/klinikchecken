@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Francie Müller",
+      "author_url": "https://www.google.com/maps/contrib/113314417072573010171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJrk0Ht7lsyzHXAt5PRJlBLuS1iqLK66lGFqpAvRiG5J-q2pBB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das erste Mal beim Hautarzt...\nTrotz anfänglicher Nervosität mich halb nackt für ein Screen zu zeigen wurde diese schnell genommen.\nSuper freundliches Team am Empfang und Herr Dr. Leupold war direkt sehr freundlich und kompetent. Sein fachliches Wissen war unschwer zu erkennen. Ich fühlte mich prompt in den richtigen Händen und bin nun mehr als beruhigt nach meiner Untersuchung. Von mir klare Weiterempfehlung. Macht weiter so.",
+      "time": 1790129357,
+      "translated": false
+    },
+    {
       "author_name": "B. Benofsky",
       "author_url": "https://www.google.com/maps/contrib/113709167808567803846/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDfZETSCXsOkx9CQib7CKz-EPB908QX7GZWvq_GNE2K-hku8Q=s128-c0x00000000-cc-rp-mo-ba3",
@@ -36,6 +48,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDfZETSCXsOkx9CQib7CKz-EPB908QX7GZWvq_GNE2K-hku8Q=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1787857805,
+      "translated": false
+    },
+    {
+      "author_name": "B. Benofsky",
+      "author_url": "https://www.google.com/maps/contrib/113709167808567803846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDfZETSCXsOkx9CQib7CKz-EPB908QX7GZWvq_GNE2K-hku8Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1787857805,
       "translated": false
@@ -686,11 +708,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 120,
+  "reviewCount": 121,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-22T09:37:32.292Z"
+  "lastUpdated": "2026-09-25T09:59:45.882Z"
 }

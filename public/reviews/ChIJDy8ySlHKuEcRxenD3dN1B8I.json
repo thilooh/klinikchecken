@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Raphael Akam",
+      "author_url": "https://www.google.com/maps/contrib/105765472771449775830/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_-pwictNhEU_o0yK0kPk4N1h4Tk6ETwFbMpWl_HLhGWsj9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich suchte in Düsseldorf nach einem guten Dermatologen, um sicherzustellen, dass eine unerwartete Hautwucherung korrekt diagnostiziert und behandelt wird, ohne lange Wartezeiten oder Probleme wie Sprachbarrieren (da ich nur Englisch und kaum Deutsch spreche). Ich war von dem Service dieser Praxis, insbesondere von Dr. Ulrich Wehry und dem Praxisteam (Frau Ruth und anderen), sehr beeindruckt. Dr. Wehry stellte die Diagnose sehr schnell und veranlasste umgehend einen OP-Termin. Die Operation verlief schnell und hygienisch. Ich bin mit dem Service sehr zufrieden und kann die Praxis jedem empfehlen, der einen spezialisierten Dermatologen in Düsseldorf benötigt.",
+      "time": 1790181367,
+      "translated": true
+    },
+    {
+      "author_name": "Jana Saul",
+      "author_url": "https://www.google.com/maps/contrib/104484943905886815557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJze7iKOnuwtUg49ic_aBTUR4vTiKxHElUEHwPqcuu736RnFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790102707,
+      "translated": false
+    },
+    {
       "author_name": "Markus Kwek",
       "author_url": "https://www.google.com/maps/contrib/114508791170907553097/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKaW_mXM-bGVOSqEKXQKiA8eu_Yg6rw0OXbaW56klfeyoMtLW5Jw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -1387,7 +1409,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 242,
+  "reviewCount": 244,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:11.839Z"
+  "lastUpdated": "2026-09-25T09:59:22.745Z"
 }

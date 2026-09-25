@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rosi F",
+      "author_url": "https://www.google.com/maps/contrib/106295485299577581855/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNAwPoSCWte6SCzSAWNmQAQ_JOLl4EX3W2pzgm3MXuW7dTCzO1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super freundlich und kompetent.\nMit viel Zeit für alle Fragen.\nSehr zu empfehlen",
+      "time": 1790252164,
+      "translated": false
+    },
+    {
       "author_name": "Sonja Funder",
       "author_url": "https://www.google.com/maps/contrib/105891918902056370240/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_cpNXgTOLohuvaf6Z_uhrvtJhNQQWRUc1HKBVHGDIdTjKiN2a3A=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich von Anfang bis Ende bestens aufgehoben und umsorgt gefühlt. Besten Dank an das gesamte Team.",
+      "time": 1789541532,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja Funder",
+      "author_url": "https://www.google.com/maps/contrib/105891918902056370240/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_cpNXgTOLohuvaf6Z_uhrvtJhNQQWRUc1HKBVHGDIdTjKiN2a3A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe mich von Anfang bis Ende bestens aufgehoben und umsorgt gefühlt. Besten Dank an das gesamte Team.",
       "time": 1789541532,
       "translated": false
@@ -504,7 +528,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:18.866Z"
+  "lastUpdated": "2026-09-25T09:59:30.625Z"
 }

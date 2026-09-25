@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Janine M",
+      "author_url": "https://www.google.com/maps/contrib/110010405415629664555/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgn-MOBSj_4EchnC_dF9E_Rwb4bunb6pKC4vqmBbVSR2y2tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte heute wieder einen Termin. Die Dame am Empfang war super nett, hilfsbereit und hat gute Laune verbreitet.\nEbenso ihre Kollegin in Behandlungszimmer. Sie war ebenfalls sehr freundlich und geduldig.\nDr. Cherwon ist einer der wenigen Ärzte, der sich wirklich für seine Patienten zu interessieren scheint. Er fragt nach, beantwortet jede Frage ohne (wie schon bei anderen Ärzten erlebt) genervt oder gestresst zu wirken, ist freundlich und hat ein sehr positives Wesen.\nIch fühle mich in dieser Praxis sehr gut aufgehoben.",
+      "time": 1790329207,
+      "translated": false
+    },
+    {
       "author_name": "Nath P",
       "author_url": "https://www.google.com/maps/contrib/113287582127419022022/reviews",
       "language": "de",
@@ -494,11 +506,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 46,
+  "reviewCount": 47,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:30.822Z"
+  "lastUpdated": "2026-09-25T09:59:44.185Z"
 }

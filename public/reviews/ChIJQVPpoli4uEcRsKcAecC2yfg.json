@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Britta Kolanowski",
+      "author_url": "https://www.google.com/maps/contrib/101483724440845511972/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJo48PEzq765WGAz5TLkR65cPbVsnxd2WGZWG1VUYKKchURfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin heute da gewesen um einen Termin zu machen. Es war der Wahnsinn ich durfte tatsächlich da bleiben und kam nach 5.min dran. Ich hab selten so ein nettes und zuvorkommendes Personal erlebt. Vielen dank dafür. War schon bei mehreren Hautärzten aber keiner hat sich meinem Problem angenommen. Frau Dr. war da anders und hat mir sofort gegen meinen extremen Haarausfall etwas verschieben.  Ich kann natürlich nur abwarten ob es hilft aber ich bin guter Dinge. Habe auch sofort einen Folgetermin bekommen. Die Ärztin ist sehr nett und hilfsbereit.  Sehr zu empfehlen",
+      "time": 1790273996,
+      "translated": false
+    },
+    {
       "author_name": "H C",
       "author_url": "https://www.google.com/maps/contrib/103509666019719314551/reviews",
       "language": "de",
@@ -896,11 +908,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 106,
+  "reviewCount": 107,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:26.742Z"
+  "lastUpdated": "2026-09-25T09:59:39.607Z"
 }

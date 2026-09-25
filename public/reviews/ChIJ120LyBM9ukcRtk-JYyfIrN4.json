@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jennifer Nordmeyer",
+      "author_url": "https://www.google.com/maps/contrib/117742248372317658354/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJn75C_gtwaAxG9CyqG7anJdU7PFiOg91hq24uKmyf3JxFaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr freundlicher und humorvoller Arzt. Auch das Praxisteam ist absolut nett. Fühle mich hier immer wieder top aufgehoben. Herr Olbrich ist sehr empathisch, nimmt sich Zeit für seine Patienten, auch wenn diese gesetzlich versichert sind. Vielen Dank!",
+      "time": 1790175158,
+      "translated": false
+    },
+    {
       "author_name": "Patrick R.",
       "author_url": "https://www.google.com/maps/contrib/109464890197479558271/reviews",
       "language": "de",
@@ -818,11 +830,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 161,
+  "reviewCount": 162,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-22T09:37:24.845Z"
+  "lastUpdated": "2026-09-25T09:59:37.476Z"
 }

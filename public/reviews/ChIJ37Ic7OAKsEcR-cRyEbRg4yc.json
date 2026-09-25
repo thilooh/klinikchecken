@@ -113,6 +113,16 @@
       "translated": false
     },
     {
+      "author_name": "Lilli Brodtmann",
+      "author_url": "https://www.google.com/maps/contrib/118120235848885896746/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8yHiauT16JAVPiy_hWQZN1Wr-BsuL5UFYioEYiozo1izYOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1788436395,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele Hecht",
       "author_url": "https://www.google.com/maps/contrib/100012120993013492942/reviews",
       "language": "de",
@@ -852,11 +862,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 183,
+  "reviewCount": 182,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-22T09:37:19.503Z"
+  "lastUpdated": "2026-09-25T09:59:31.341Z"
 }

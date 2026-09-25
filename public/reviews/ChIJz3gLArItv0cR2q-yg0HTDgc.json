@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Natalia Pich",
+      "author_url": "https://www.google.com/maps/contrib/107975260513720306316/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrm2vR7pHUu8LvfQJgXe5XUkQJPszwGHFMipPO4WC9mIl1x4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790168353,
+      "translated": false
+    },
+    {
+      "author_name": "Anna F.",
+      "author_url": "https://www.google.com/maps/contrib/113526934479185539352/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaKlNnHVEmfPBqVyr0NwIt2gfL8n0B70BSL_y_YuLxtO-lFoE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Omaj hat sich mit seiner empathischen, offenen Art viel Zeit für mich genommen- sowohl während des operativen Eingriffs als auch zur Besprechung der Befunde. Ich habe mich jederzeit gut aufgehoben gefühlt und kann diese Hautarztpraxis sehr empfehlen!",
+      "time": 1790101098,
+      "translated": false
+    },
+    {
       "author_name": "Nora Jerz",
       "author_url": "https://www.google.com/maps/contrib/116493395184439981341/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUKjhw4zvV717xjlQDCgX48YFW4qFjJycEi2TOrfYuikAsDQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "War jetzt schon zwei mal als trans Frau zur Laserhaarentfernung im Gesicht da. Schöne Praxis und super liebes Team! Die Behandlung tat natürlich weh, wurde aber schnell und ohne Probleme durchgeführt, und mir wurden Pausen und sogar ein Glas Wasser angeboten. Nach der ersten Session habe ich schon eine Reduktion in der Gesichtsbehaarung gemerkt.\nIch empfehle diese Praxis absolut und gehe gerne weiter hin!",
+      "time": 1789557541,
+      "translated": false
+    },
+    {
+      "author_name": "Nora Jerz",
+      "author_url": "https://www.google.com/maps/contrib/116493395184439981341/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUKjhw4zvV717xjlQDCgX48YFW4qFjJycEi2TOrfYuikAsDQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "War jetzt schon zwei mal als trans Frau zur Laserhaarentfernung im Gesicht da. Schöne Praxis und super liebes Team! Die Behandlung tat natürlich weh, wurde aber schnell und ohne Probleme durchgeführt, und mir wurden Pausen und sogar ein Glas Wasser angeboten. Nach der ersten Session habe ich schon eine Reduktion in der Gesichtsbehaarung gemerkt.\nIch empfehle diese Praxis absolut und gehe gerne weiter hin!",
       "time": 1789557541,
       "translated": false
@@ -44,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgWoCC79mFMK0mnvG21NkuWK7Nb-fGKzSgSQnKKuC3fTBMEQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich rufe da heute 10.09 9:12 Uhr zum 5 mal an, warte 10-15 min in der Warteschleife damit jemand dran geht und direkt auflegt",
+      "time": 1789024348,
+      "translated": false
+    },
+    {
+      "author_name": "So",
+      "author_url": "https://www.google.com/maps/contrib/108115842176609119063/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgWoCC79mFMK0mnvG21NkuWK7Nb-fGKzSgSQnKKuC3fTBMEQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich rufe da heute 10.09 9:12 Uhr zum 5 mal an, warte 10-15 min in der Warteschleife damit jemand dran geht und direkt auflegt",
       "time": 1789024348,
       "translated": false
@@ -1191,7 +1237,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 303,
+  "reviewCount": 306,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:12.479Z"
+  "lastUpdated": "2026-09-25T09:59:23.481Z"
 }

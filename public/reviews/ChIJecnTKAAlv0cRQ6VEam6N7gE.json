@@ -45,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "ich",
+      "author_url": "https://www.google.com/maps/contrib/107766060887514201066/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW2dSG98OBp45lAGLxF1XEtWyNoyEYtPB_hRJ3cOfg8YlNJw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788882366,
+      "translated": false
+    },
+    {
       "author_name": "Ronald Meister",
       "author_url": "https://www.google.com/maps/contrib/112749656791711385309/reviews",
       "language": "de",
@@ -232,6 +242,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEgXMUXHIkbC3X7fK9SFJSkB0jJn657VKIT9orwqCusS8A7A=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor 4 Monaten",
+      "text": "Positiv war, dass ich zeitnah einen Termin bekommen hab. Ansonsten war ich mit der Praxis nicht zufrieden. Die Praxis Mitarbeiterin, die uns in Empfang genommen hat, begrüßt uns gleich mit dem Satz.\"Ich weiß eigentlich gar nicht, was ich für Sie tun soll, verschreiben kann ich Ihnen sowieso nix…\"die Untersuchung gestaltet sich schwierig, ich sitze im Rollstuhl und bekam nicht auf die Untersuchung. Liege, was die Mitarbeiterin schon nervte. Ich persönlich hatte den Eindruck, da ich Freitagmittag kurz vor dem Wochenende da war, musste alles schnell schnell gehen. Ich persönlich würde diese Praxis nicht weiterempfehlen.",
+      "time": 1777202537,
+      "translated": false
+    },
+    {
+      "author_name": "Drea Göbel",
+      "author_url": "https://www.google.com/maps/contrib/109018801044976039434/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEgXMUXHIkbC3X7fK9SFJSkB0jJn657VKIT9orwqCusS8A7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 5 Monaten",
       "text": "Positiv war, dass ich zeitnah einen Termin bekommen hab. Ansonsten war ich mit der Praxis nicht zufrieden. Die Praxis Mitarbeiterin, die uns in Empfang genommen hat, begrüßt uns gleich mit dem Satz.\"Ich weiß eigentlich gar nicht, was ich für Sie tun soll, verschreiben kann ich Ihnen sowieso nix…\"die Untersuchung gestaltet sich schwierig, ich sitze im Rollstuhl und bekam nicht auf die Untersuchung. Liege, was die Mitarbeiterin schon nervte. Ich persönlich hatte den Eindruck, da ich Freitagmittag kurz vor dem Wochenende da war, musste alles schnell schnell gehen. Ich persönlich würde diese Praxis nicht weiterempfehlen.",
       "time": 1777202537,
       "translated": false
@@ -491,5 +513,5 @@
   "rating": 3.5,
   "reviewCount": 33,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:09.899Z"
+  "lastUpdated": "2026-09-25T09:59:20.658Z"
 }

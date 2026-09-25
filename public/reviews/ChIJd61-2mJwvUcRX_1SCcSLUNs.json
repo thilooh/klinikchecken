@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Werner Ziegs",
+      "author_url": "https://www.google.com/maps/contrib/101191563007201688405/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdS7kXwCJoQH-L6_qk0o8ueqeDBjQ1H6GvQlQfiCjvRhDBFmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bad König",
+      "time": 1790087032,
+      "translated": false
+    },
+    {
       "author_name": "Soraya Shirzad",
       "author_url": "https://www.google.com/maps/contrib/109558447346121370816/reviews",
       "language": "de",
@@ -538,11 +550,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 51,
+  "reviewCount": 52,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-22T09:37:45.278Z"
+  "lastUpdated": "2026-09-25T10:00:00.819Z"
 }

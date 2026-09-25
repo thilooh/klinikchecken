@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Oday Oday",
+      "author_url": "https://www.google.com/maps/contrib/109732161348126580097/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj0DnHEL1NpFBWKT119RNwlPW52sREWbdv2iF-e8kVXYkcXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Also wirklich eine Frechheit,wo für habt ihr ein Handy Nummer wenn keiner von euch ran geht ich versuche es seit 3 Tage anzurufen und es klingelt und danach heißt es besetzt",
+      "time": 1790153756,
+      "translated": false
+    },
+    {
       "author_name": "Yaren",
       "author_url": "https://www.google.com/maps/contrib/100558386752520337005/reviews",
       "language": "de",
@@ -998,11 +1010,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 88,
+  "reviewCount": 89,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:49.796Z"
+  "lastUpdated": "2026-09-25T10:00:06.093Z"
 }

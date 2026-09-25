@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Chii",
+      "author_url": "https://www.google.com/maps/contrib/114251134115526787869/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvK1En9OheelKTe1rKwcRANfw5Ib7uMpmrc5uECo8ft0mzW4Y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War heute bei Frau Schnitter, wegen Krampfadern, da ich bei meinem eigentlichen Arzt nicht operiert werden kann und man nur diagnosen von dort operiert. Sie war sehr nett und höflich, empfehlen kann ich sie aber nicht. Mein anderer Arzt sagt mir schon länger das beide Beine gemacht werden müssen, sie findet nur eine Stelle an einem Bein, obwohl ich an beiden Beinen Probleme habe, ok, kann vorkommen. Als sie aber werden einer Flachstrick Versorgung zu mir meinte, das ich das nicht brauche da ich Lipödem operiert bin und das damit geheilt wäre bin ich fast vom Glauben abgefallen. Viele Ärzte und Studien bestätigen das Lipödem auch nach einer op nicht heilbar ist und wieder kommen kann, sie sagt es sei nicht so. Sry aber da kann ich auch an ihrer vorherigen Krampfader Diagnose nur Zweifeln. Ich bin kein Arzt, aber da ich betroffen bin kenne ich einige Studien und auch Aussagen von anderen Ärzten bei den ich war, es ist NICHT heilbar. Ich werde trotz der Schmerzen einen anderen Ort für eine op suchen, bei dem ich mich aufgehoben fühle",
+      "time": 1790163512,
+      "translated": false
+    },
+    {
+      "author_name": "Алексей Попач",
+      "author_url": "https://www.google.com/maps/contrib/115921056400827301152/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZrKFWYWQLjMc5k8S2vZnNt9RX53ebEcGVCrvC7b5TxuQHXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790144235,
+      "translated": false
+    },
+    {
       "author_name": "Zahra Ansari",
       "author_url": "https://www.google.com/maps/contrib/103433243215544822141/reviews",
       "language": "de",
@@ -13,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Zahra Ansari",
+      "author_url": "https://www.google.com/maps/contrib/103433243215544822141/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU06mDZFCIIHm6sVjpF_JME0B0YUWN40Tv72TrCUL-IBB_OQGE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "- Unfreundlicher Umgang\n- Telefonisch nicht erreichbar\n- Praxis schwer zu finden\n- Falsche Angabe: Erdgeschoss statt 1. Etage\n- Verspätung dadurch entstanden\n- Versicherungskarte bereits eingelesen\n- von Dr abgewiesen und Termin auf 2 Monate später verschoben!",
+      "time": 1789677739,
+      "translated": false
+    },
+    {
       "author_name": "Mohadeseh B",
       "author_url": "https://www.google.com/maps/contrib/107116992193340334035/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRMCLgmGVHRY3n9QbLxGzqWpO24K4NL4YACrOBT2i2iriaJvWJ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor zwei Wochen bei Frau Dr. med. Birgitt Schmauder-Cyba. das gesamte Praxisteam war sehr freundlich und hilfsbereit. Frau Dr. Schmauder-Cyba ist eine herzlich liebevolle und kompetente Ärztin, die sich viel Zeit nimmt. Ich habe mich bestens aufgehoben gefühlt und kann die Praxis weiterempfehlen!",
+      "time": 1789572274,
+      "translated": false
+    },
+    {
+      "author_name": "Mohadeseh B",
+      "author_url": "https://www.google.com/maps/contrib/107116992193340334035/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI3bgRjL6eCwF35KrlcD9YotckQDoISY79uetFf4OZ98KCOwB4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war vor zwei Wochen bei Frau Dr. med. Birgitt Schmauder-Cyba. das gesamte Praxisteam war sehr freundlich und hilfsbereit. Frau Dr. Schmauder-Cyba ist eine herzlich liebevolle und kompetente Ärztin, die sich viel Zeit nimmt. Ich habe mich bestens aufgehoben gefühlt und kann die Praxis weiterempfehlen!",
       "time": 1789572274,
       "translated": false
@@ -1398,11 +1444,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 439,
+  "reviewCount": 440,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-09-22T09:37:44.451Z"
+  "lastUpdated": "2026-09-25T09:59:59.896Z"
 }

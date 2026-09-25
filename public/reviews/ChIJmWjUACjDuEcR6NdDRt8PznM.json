@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Luca",
+      "author_url": "https://www.google.com/maps/contrib/116250121884660459581/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvIz507E2vwR73SvVskCrdWcuCsrwqhe1akP_Cn8HG30QmlVtzoQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super schicke Praxis, einfache Online-Terminvereinbarung. Dr. Pljakic nimmt sich sehr viel Zeit und erklärt beim Hautscreening alles sehr genau.",
+      "time": 1790314161,
+      "translated": false
+    },
+    {
       "author_name": "Miroslav Bulajić",
       "author_url": "https://www.google.com/maps/contrib/101654963992981285845/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkTkE8pmDbW45fMOc3Wg3ZDVlLevHXCPmsG2ryYIxe_ldTyA=s128-c0x00000000-cc-rp-mo-ba4",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkTkE8pmDbW45fMOc3Wg3ZDVlLevHXCPmsG2ryYIxe_ldTyA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788983982,
+      "translated": false
+    },
+    {
+      "author_name": "Miroslav Bulajić",
+      "author_url": "https://www.google.com/maps/contrib/101654963992981285845/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkTkE8pmDbW45fMOc3Wg3ZDVlLevHXCPmsG2ryYIxe_ldTyA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1788983982,
       "translated": false
@@ -840,7 +862,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 127,
+  "reviewCount": 128,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:18.645Z"
+  "lastUpdated": "2026-09-25T09:59:30.381Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bayonettaa x3",
+      "author_url": "https://www.google.com/maps/contrib/116813636914874120838/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9V0CpiLgH3_v0Lqvgdu-aXUVgUMiQqmAUONcnwmD_B2JMFbE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr enttäuschende Erfahrung. Trotz eines vorab gebuchten Termins in der Akutsprechstunde betrug die Wartezeit im Chaos des Warteraums über eine halbe Stunde, während neu ankommende Patienten ständig vorgezogen wurden. Die anschließende Behandlung dauerte keine zwei Minuten: Mein jahrelanger, fortschreitender Haarausfall wurde ohne jede körperliche Untersuchung oder Blutabnahme mit einer Standardfloskel abgetan. Statt medizinischer Ursachenforschung wurde mir ein Blutbild als IGeL-Leistung für 250 € angeboten und kostenlose Werbeproben in die Hand gedrückt. Hier geht es leider primär um Privatleistungen und nicht um das Patientenwohl. Nicht zu empfehlen.",
+      "time": 1790230099,
+      "translated": false
+    },
+    {
       "author_name": "lay9r",
       "author_url": "https://www.google.com/maps/contrib/108084240563938790465/reviews",
       "language": "de",
@@ -76,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK687qvu2fuc7ZRyw8E5AQ6Tkx8U_WdEy5IKTxNFvmotFEe-oYC=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Frau Korth ist ja mal der größte Engel unter allen Hautärzten :D Vorne sind aber auch alle super freundlich\n\nVor allem hat man hier überhaupt mal über Doctolib einen Platz bekommen, ist ja auch nicht Selbstverständlich 🙈",
+      "time": 1788864429,
+      "translated": false
+    },
+    {
+      "author_name": "Horst Horstmann",
+      "author_url": "https://www.google.com/maps/contrib/103727386461010748931/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK687qvu2fuc7ZRyw8E5AQ6Tkx8U_WdEy5IKTxNFvmotFEe-oYC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Frau Korth ist ja mal der größte Engel unter allen Hautärzten :D Vorne sind aber auch alle super freundlich\n\nVor allem hat man hier überhaupt mal über Doctolib einen Platz bekommen, ist ja auch nicht Selbstverständlich 🙈",
       "time": 1788864429,
       "translated": false
@@ -902,11 +926,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 49,
+  "reviewCount": 50,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-22T09:37:38.974Z"
+  "lastUpdated": "2026-09-25T09:59:53.682Z"
 }

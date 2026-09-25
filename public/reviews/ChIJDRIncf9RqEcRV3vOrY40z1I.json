@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "tata .p",
+      "author_url": "https://www.google.com/maps/contrib/108930260163727050126/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUWg-s18j-0ozGcN0fth4rT5xqv78XeXk2Y_ZM9O8QozgSbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Äußerst enttäuschende Erfahrung. Ich war pünktlich vor Ort, geriet am Empfang jedoch in ein absolutes Chaos. Vier Mitarbeiterinnen waren mit einem einzigen Patienten beschäftigt. Als ich endlich an der Reihe war, versagte die Technik: Ein dreimaliges Hin und Her mit einem nicht funktionierenden iPad und vertauschten Formularen folgte, bis die Mitarbeiterinnen das Problem endlich gelöst hatten.\n\nDass technische Störungen oder administrative Fehler passieren, ist menschlich ich habe geduldig gewartet.\n\nInakzeptabel war jedoch der weitere Verlauf: Ich hatte eigentlich einen Termin bei Frau Dr. Lilia Marte gebucht, mir wurde jedoch ohne vorherige Information Frau Dr. Sherly Nassiri zugeteilt.\n\nWährend ich nach dem ganzen Hin und Her das Formular ausfüllte, trat Frau Dr. Sherly Nassiri genervt an mich heran und maßregelte mich, ich sei zu spät. Auf meinen Hinweis, dass die Verzögerung durch die Technik- und Formularprobleme ihres eigenen Empfangs entstand, reagierte sie herablassend und meinte, ich hätte eben noch früher kommen müssen.\n\nAls Selbstzahler (allein für diesen Ersttermin waren über 500 € angesetzt, gefolgt von den entsprechenden Folgekosten für den gesamten Behandlungsverlauf) erwarte ich Professionalität, Respekt und Einsicht bei eigenen Fehlern. Ich habe die Praxis umgehend verlassen und werde mein Geld woanders investieren.",
+      "time": 1790242702,
+      "translated": false
+    },
+    {
+      "author_name": "Ahmed Dkeidek",
+      "author_url": "https://www.google.com/maps/contrib/108414611580166847909/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjOqsmqXzlWPpjawgpM5ScJnSBO6PydG3TV08FvT8VMi81qQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war wirklich zufrieden mit meiner Behandlung. Dr. Clarissa Asmussen hat sich Zeit für mich genommen und mir alles ruhig und verständlich erklärt. Ich habe mich sofort in guten Händen gefühlt – fachlich kompetent, aber gleichzeitig freundlich und geduldig mit allen Fragen. Auch das Praxisteam war sehr nett und hilfsbereit. Insgesamt eine rundum positive Erfahrung, kann ich nur empfehlen!",
+      "time": 1790077447,
+      "translated": false
+    },
+    {
       "author_name": "Berlin Berlin",
       "author_url": "https://www.google.com/maps/contrib/115292383159877365696/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpIxd7aVHIJB5QQMthNR7iGDcPmEU_2U39XZt0JZeIJxPxkw=s128-c0x00000000-cc-rp-mo",
@@ -1342,7 +1366,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 154,
+  "reviewCount": 155,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:14.413Z"
+  "lastUpdated": "2026-09-25T09:59:25.609Z"
 }

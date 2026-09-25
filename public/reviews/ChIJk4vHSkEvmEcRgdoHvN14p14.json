@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Till",
+      "author_url": "https://www.google.com/maps/contrib/118288917598998500424/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIx71Iviqhtw-406dnZfYECy0fe_UXnnfT6DFGeVlQexEeD9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mann muss 2 stunden warten bis man erst drankommt. Einfach sprachlos",
+      "time": 1790266859,
+      "translated": false
+    },
+    {
+      "author_name": "Bernd Sch",
+      "author_url": "https://www.google.com/maps/contrib/106874787419125902783/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHidwN_RoZ5Yx5rLCwN7XSPPM6yBr4po7VAl4EiELoazPBQHdo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Flegl ist eine super Ärztin, sie ist sehr Freundlich, erklärt was sie mach,  hat mir 3 Muttermale absolut schmerzfrei entfernt, ich geb ihr eine 10 von 10. Danke!!!",
+      "time": 1790169112,
+      "translated": false
+    },
+    {
       "author_name": "Florian",
       "author_url": "https://www.google.com/maps/contrib/110536312321766086028/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqcsHHPGi8v_L0eVvi-RIt0kACSDVz0DfzdMWqTpyQ-yFB7Q=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich habe gerade telefonisch nach einem Termin gefragt und wollte kurz mein Anliegen schildern, Frau B. die von Anfang an schon unzufrieden und gelangweilt klang, wurde unhöflich und unterbrach mich einfach. Nachdem ich sie fragte warum sie mich nicht aussprechen lässt sagte sie „wollen Sie nun den Termin oder nicht“\n\nIch empfehle der Praxis vor- bzw. begleitend zum Einsatz an der Rezeption sie an eine Weiterbildung im Bereich Patientenkommunikation und professioneller Umgang mit Patienten anzumelden.\n\nSo jemanden kann man doch nicht an Rezeption setzen?!?!",
+      "time": 1788938832,
+      "translated": false
+    },
+    {
+      "author_name": "Rosaria Giomblanco",
+      "author_url": "https://www.google.com/maps/contrib/110759325243829351386/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqcsHHPGi8v_L0eVvi-RIt0kACSDVz0DfzdMWqTpyQ-yFB7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich habe gerade telefonisch nach einem Termin gefragt und wollte kurz mein Anliegen schildern, Frau B. die von Anfang an schon unzufrieden und gelangweilt klang, wurde unhöflich und unterbrach mich einfach. Nachdem ich sie fragte warum sie mich nicht aussprechen lässt sagte sie „wollen Sie nun den Termin oder nicht“\n\nIch empfehle der Praxis vor- bzw. begleitend zum Einsatz an der Rezeption sie an eine Weiterbildung im Bereich Patientenkommunikation und professioneller Umgang mit Patienten anzumelden.\n\nSo jemanden kann man doch nicht an Rezeption setzen?!?!",
       "time": 1788938832,
       "translated": false
@@ -1414,11 +1450,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 205,
+  "reviewCount": 207,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:47.426Z"
+  "lastUpdated": "2026-09-25T10:00:03.266Z"
 }

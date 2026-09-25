@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marinela Hysenaj",
+      "author_url": "https://www.google.com/maps/contrib/111553210771454429073/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCzHn5RK7wwjghmOuZJ5xXJmJo0QEyEWIXVbceqy4Mv7OuEDU9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Frau an der Rezeption war sehr nett und freundlich. Man merkt, dass sie ihre Arbeit wirklich gerne macht. Herr Professor Dr Schwarz  sehr professionell, angenehm und entspannt. Ich habe mich sehr wohl und gut aufgehoben gefühlt.\nVielen Dank!",
+      "time": 1790254933,
+      "translated": false
+    },
+    {
       "author_name": "Sarah Adelmann",
       "author_url": "https://www.google.com/maps/contrib/113475520028786683490/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfjYrUbjnC5g2pUge1BQBKp8c9_4VmyolMLYTlf3esDxuaJA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Sehr kompetentes und organisiertes Team. Ich hatte eine Krampfader und wurde von der Beratung bis zur Entfernung super begleitet. Prof. Schwarz ist fachlich absolut brillant und hat bei mir jegliche Probleme behoben.😊",
+      "time": 1785145349,
+      "translated": false
+    },
+    {
+      "author_name": "Aron Ottstadt",
+      "author_url": "https://www.google.com/maps/contrib/104352862577791295364/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfjYrUbjnC5g2pUge1BQBKp8c9_4VmyolMLYTlf3esDxuaJA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Sehr kompetentes und organisiertes Team. Ich hatte eine Krampfader und wurde von der Beratung bis zur Entfernung super begleitet. Prof. Schwarz ist fachlich absolut brillant und hat bei mir jegliche Probleme behoben.😊",
       "time": 1785145349,
       "translated": false
@@ -482,11 +506,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 49,
+  "reviewCount": 50,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:28.245Z"
+  "lastUpdated": "2026-09-25T09:59:41.297Z"
 }

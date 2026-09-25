@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jacky Sza",
+      "author_url": "https://www.google.com/maps/contrib/103973229030305125759/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6hsxFtqN0s1Oug5zk1HtT6ybFJ4TXnjj9AgtWPG1-8UpCtZM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unendlich dankbar Dr. Schweichler gefunden zu haben ! Habe meine Arm und Bein Operation bei ihn machen lassen, bin bei den Beinen zwar erst Post OP Tag 14 aber man sieht jetzt schon so tolle Ergebnisse und die Arme sind auch super geworden. Grade für mich als Angst Patient ist er sehr feinfühlig und man fühlt sich bei ihm wohl, er operiert sehr gründlich und ist für Rückfragen auch immer gut erreichbar. Hatte von Anfang an immer ein super Gefühl dort und kann jeden nur ans Herz legen diese Praxis zu wählen. Danke für dieses neue Lebensgefühl 😊",
+      "time": 1790089059,
+      "translated": false
+    },
+    {
       "author_name": "Helmuth Wegner",
       "author_url": "https://www.google.com/maps/contrib/106653353854767738605/reviews",
       "language": "de",
@@ -666,7 +678,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 77,
+  "reviewCount": 78,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:16.356Z"
+  "lastUpdated": "2026-09-25T09:59:27.793Z"
 }

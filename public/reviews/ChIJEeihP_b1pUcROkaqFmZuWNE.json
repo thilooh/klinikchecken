@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Rüdiger Schulz (Rüdi)",
+      "author_url": "https://www.google.com/maps/contrib/116828203768687082374/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvoIxldrLZLavegorYl4-7Y30hJjSFFWYBwYbG1G9f9ZIA6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790074615,
+      "translated": false
+    },
+    {
       "author_name": "O D",
       "author_url": "https://www.google.com/maps/contrib/115866317763632432286/reviews",
       "language": "de",
@@ -707,12 +717,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 119,
+  "rating": 4.7,
+  "reviewCount": 120,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-22T09:37:22.284Z"
+  "lastUpdated": "2026-09-25T09:59:34.468Z"
 }

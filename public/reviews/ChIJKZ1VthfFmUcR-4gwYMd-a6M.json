@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Paolo",
+      "author_url": "https://www.google.com/maps/contrib/116348506089967863709/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTYBaKhc0mAh1mSXGCIjPqEyl5IQaobVRK2DauOvQTCfMuGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin sehr zufrieden mit der Laser-Venen-OP. Hatte fingerdicke Venen im Bereich der Kniekehle und am Schienbein. In nur 45 Minuten und ohne Vollnarkose war der Eingriff von Herrn Dr. Tesmann erledigt. Keine Schmerzen, nur ein ganz leichtes Ziehen oder Brennen während des Eingriffs.  Ich konnte schon eine halbe Stunde nach dem Eingriff nach Hause gehen. Nach 3 Wochen hat man fast nichts mehr gesehen von dem Eingriff, lediglich kleine Verhärtungen an den Einstichstellen. Nach einem halben Jahr waren die dann komplett zurückgebildet. Das tolle, ich muss jetzt keine Kompressionsstrümpfe mehr tragen. Die gesetzlichen Krankenkassen hat alles bezahlt. Ich kann Dr. Tesmann uneingeschränkt empfehlen. Wenn man zukünftig auch mal telefonisch die Rezeption erreichen könnte, dann könnte man nochmal einen Stern zusätzlich geben. Über Doctolib bekommt man allerdings relativ schnell einen Termin, auch als Kassenpatient, was nicht selbstverständlich ist.",
+      "time": 1790096863,
+      "translated": false
+    },
+    {
       "author_name": "Georg Mühlbauer",
       "author_url": "https://www.google.com/maps/contrib/106595270672817431549/reviews",
       "language": "de",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Xenia Albrecht",
+      "author_url": "https://www.google.com/maps/contrib/115637983421351695992/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBEDQUneJSMgJ8DnTi8Y6zeKLC5Ofb9WQ0FmeDCAnCuvNfug=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nach 3 Jahren wird man als Kassenpatient einfach aus dem System geschmissen und kann nur noch auf Selbstzahlerbasis Termine buchen\n…erfährt man vor Ort",
+      "time": 1789716497,
+      "translated": false
+    },
+    {
       "author_name": "Gülderen Ferrara",
       "author_url": "https://www.google.com/maps/contrib/105556870568696681555/reviews",
       "language": "de",
@@ -42,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpEoZFGy2LZQNpT8YkF-vBSCZxB3ceO2c_fVf_Mdy_GjOwDw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Großartige Praxis und super Mitarbeiter. Die Hautärztin war wirklich toll und ich fühlte mich gut aufgehoben",
+      "time": 1789473722,
+      "translated": false
+    },
+    {
+      "author_name": "Gülderen Ferrara",
+      "author_url": "https://www.google.com/maps/contrib/105556870568696681555/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpEoZFGy2LZQNpT8YkF-vBSCZxB3ceO2c_fVf_Mdy_GjOwDw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Großartige Praxis und super Mitarbeiter. Die Hautärztin war wirklich toll und ich fühlte mich gut aufgehoben",
       "time": 1789473722,
       "translated": false
@@ -1412,7 +1448,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 338,
+  "reviewCount": 339,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:18.433Z"
+  "lastUpdated": "2026-09-25T09:59:30.140Z"
 }

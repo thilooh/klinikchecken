@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Fabio K.",
+      "author_url": "https://www.google.com/maps/contrib/110216745398332542006/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa1wzfe3TCBQkcXgkRScdBH7qEIM1BogxTtdHxU0dX6mzx9M4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe die Praxis nach einem Screening einigermaßen sprachlos verlassen. Schroffer Empfang, Geschrei auf den Fluren. Ein Arzt, der einen ohne Anamnese untersucht und bei dem man aktiv die Ergebnisse erfragen muss. Das war einfach unprofessionell.",
+      "time": 1790181584,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Malca Liza",
       "author_url": "https://www.google.com/maps/contrib/108403163436580501348/reviews",
       "language": "de",
@@ -10,6 +22,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Die Praxis ist sehr schön und elegant, und die Wartezeit war nicht so lang. Leider hatte ich während des Gesprächs das Gefühl, dass die Hautärztin es eilig hatte. Ich hatte noch Fragen und wollte weitersprechen, aber sie ist einfach aufgestanden. Dadurch hatte ich den Eindruck, dass sie wollte, dass ich gehe.\n\nIst es eine Regel, dass das Gespräch nur fünf Minuten dauern muss??? :)",
       "time": 1789745406,
+      "translated": false
+    },
+    {
+      "author_name": "Bennet Keller",
+      "author_url": "https://www.google.com/maps/contrib/117315851341208907629/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5smVJyyLwA0VE8OxGOHVG-cPUgyIK5mLaNG2dcIhNZMuHXg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Termin spontan bekommen, keine lange Wartezeit, erstmal alles super. Anamnese durch einen anlernenden Arzt, auch noch alles gut. Erfahrene Ärztin wird zwecks Diagnose hinzugezogen, die ohne Begrüßung in das Behandlungszimmer stürmt, sich die betreffende Stelle 2 Sekunden anschaut und eine Verdachtsdiagnose auf Latein in den Raum ruft. “Geht vielleicht von selber weg, aber eigentlich nicht. Dann mit OP.” Auf Nachfrage, ob ich dann nicht gleich einen OP-Termin abmachen solle: “Meinetwegen nicht.” Und weg war sie. Es war kurz vor 12 und die Dame wollte wahrscheinlich in die Mittagspause, verständlich aber ich würde trotzdem gerne meine Diagnose und Therapiemöglichkeiten wissen? Auf Nachfrage am Empfang habe ich einen Post-It-Zettel mit der Verdachtsdiagnose bekommen, mehr nicht.\n\nVier Tage später bei einer anderen Praxis: Problem operativ am gleichen Tag innerhalb 30 min entfernt, Diagnose erstellt, histologische Untersuchung durchgeführt. Es kann so einfach sein :)\n\nEdit: Es wurde durch die Praxis versucht, diese Rezension zu löschen. Das ist auch der Fall mit weiteren negativen Rezensionen, wie man liest. Ich habe Einspruch bei Google eingelegt und Recht bekommen. Wer menschennahe Dienste anbietet, sollte sich nicht wundern, wenn Kritik kommt und diese nutzen!",
+      "time": 1789653113,
       "translated": false
     },
     {
@@ -1432,5 +1456,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:35.110Z"
+  "lastUpdated": "2026-09-25T09:59:49.120Z"
 }

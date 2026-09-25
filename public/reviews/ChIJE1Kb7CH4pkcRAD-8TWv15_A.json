@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anja Elsner",
+      "author_url": "https://www.google.com/maps/contrib/107722664637920519213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeRYpcM9BPVvfuUpbIhrrnGm0fjWSa8SR8MSF4-4NlK5ZM6g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche Praxis, die Schwestern und Herr Dr. Jany machen ein super Job.",
+      "time": 1789892392,
+      "translated": false
+    },
+    {
       "author_name": "Nicky Scarabello",
       "author_url": "https://www.google.com/maps/contrib/106964009911364793215/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfXo0FRp4ukcCM5D0KR_DB2ejNisHCUX2wDGQf-wbMfT6VfCA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal.\nKompetent und unkompliziert.",
+      "time": 1789634293,
+      "translated": false
+    },
+    {
+      "author_name": "Nicky Scarabello",
+      "author_url": "https://www.google.com/maps/contrib/106964009911364793215/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfXo0FRp4ukcCM5D0KR_DB2ejNisHCUX2wDGQf-wbMfT6VfCA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundliches Personal.\nKompetent und unkompliziert.",
       "time": 1789634293,
       "translated": false
@@ -460,7 +484,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 68,
+  "reviewCount": 69,
   "summary": [],
-  "lastUpdated": "2026-09-22T09:37:16.949Z"
+  "lastUpdated": "2026-09-25T09:59:28.451Z"
 }

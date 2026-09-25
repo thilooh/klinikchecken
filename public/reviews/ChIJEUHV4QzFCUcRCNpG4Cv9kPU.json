@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "mariana zapolska",
+      "author_url": "https://www.google.com/maps/contrib/101150674888727218786/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIazYnHo___Jy8hC40to_oGX312plQJd8HMcVrsQw_02poWEg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich musste 85 € für nichts bezahlen, man hat mir überhaupt nicht geholfen; außerdem beim ersten Mal wurde der Termin abgesagt, und beim zweiten Mal musste ich zudem auf den Termin warten, und obendrein war das Personal leider nicht so höflich",
+      "time": 1790262184,
+      "translated": false
+    },
+    {
       "author_name": "S.W.",
       "author_url": "https://www.google.com/maps/contrib/111831649974282494433/reviews",
       "language": "de",
@@ -140,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL0ZUE0EOBslPh8Hlqe7Ub7OzaVC5m42cYS01fXjh5vnH_nA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Weder wurde ein Kostenvoranschlag übermittelt, noch gab es eine transparente Preis- und Leistungsübersicht im Terminbuchungsprozess. Lediglich der Termin selbst wird klar kommuniziert. Erst vor Ort erfährt man von den anfallenden Kosten und der dahinterstehenden konkreten Leistung. Die Selbstzahlerpflicht wird im Online-Buchungsprozess nicht transparent dargestellt, sondern ist nur auf einer Unterseite versteckt (geprüft im August 2026). Wenn man die Behandlung daraufhin vor Ort nicht durchführen lassen möchte, wird direkt eine Ausfallgebühr von mindestens 75 € verlangt. Dadurch fühlt man sich stark unter Druck gesetzt, die Behandlung dennoch in Anspruch zu nehmen. Selbst das Personal räumte ein, dass Patienten vor Ort häufig überrascht reagieren.\nBitte sorgen Sie im Buchungsablauf direkt für klare Verhältnisse und vollständige Informationen, anstatt Patienten vor Ort mit Ausfallgebühren zu konfrontieren und unter Zugzwang zu setzen.",
+      "time": 1787633911,
+      "translated": false
+    },
+    {
+      "author_name": "Xkart01",
+      "author_url": "https://www.google.com/maps/contrib/105476919744143606118/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL0ZUE0EOBslPh8Hlqe7Ub7OzaVC5m42cYS01fXjh5vnH_nA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Weder wurde ein Kostenvoranschlag übermittelt, noch gab es eine transparente Preis- und Leistungsübersicht im Terminbuchungsprozess. Lediglich der Termin selbst wird klar kommuniziert. Erst vor Ort erfährt man von den anfallenden Kosten und der dahinterstehenden konkreten Leistung. Die Selbstzahlerpflicht wird im Online-Buchungsprozess nicht transparent dargestellt, sondern ist nur auf einer Unterseite versteckt (geprüft im August 2026). Wenn man die Behandlung daraufhin vor Ort nicht durchführen lassen möchte, wird direkt eine Ausfallgebühr von mindestens 75 € verlangt. Dadurch fühlt man sich stark unter Druck gesetzt, die Behandlung dennoch in Anspruch zu nehmen. Selbst das Personal räumte ein, dass Patienten vor Ort häufig überrascht reagieren.\nBitte sorgen Sie im Buchungsablauf direkt für klare Verhältnisse und vollständige Informationen, anstatt Patienten vor Ort mit Ausfallgebühren zu konfrontieren und unter Zugzwang zu setzen.",
       "time": 1787633911,
       "translated": false
@@ -732,5 +756,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:32.718Z"
+  "lastUpdated": "2026-09-25T09:59:46.352Z"
 }

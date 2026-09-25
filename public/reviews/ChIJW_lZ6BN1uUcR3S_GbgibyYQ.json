@@ -45,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "Miguel Puga Fiegler",
+      "author_url": "https://www.google.com/maps/contrib/113614012620783802646/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBcfSrZzDHTi0V73fFdKrSLJ3vj9PshzM0KPbviEtZXZS2vaE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788961644,
+      "translated": false
+    },
+    {
       "author_name": "Luca Bilbang",
       "author_url": "https://www.google.com/maps/contrib/115096672725004632082/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk1pZ99D88dD58HThqHfG7ESny5avEmMAfJAPraoFJxJ2Bhg=s128-c0x00000000-cc-rp-mo",
@@ -70,6 +80,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk1pZ99D88dD58HThqHfG7ESny5avEmMAfJAPraoFJxJ2Bhg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788356540,
+      "translated": false
+    },
+    {
+      "author_name": "Luca Bilbang",
+      "author_url": "https://www.google.com/maps/contrib/115096672725004632082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk1pZ99D88dD58HThqHfG7ESny5avEmMAfJAPraoFJxJ2Bhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1788356540,
       "translated": false
@@ -166,6 +186,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNzOLsGEKFc5LVGu0j-B67CEeVnefbQIEO4G2iU6qygwoZBeE=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr unfreundliche Damen am 26.08.26 am Empfang!\nKann diese Praxis nicht weiterempfehlen und werde dort Zukünftig keine Termine mehr vereinbaren.",
+      "time": 1787737269,
+      "translated": false
+    },
+    {
+      "author_name": "Niko Degen",
+      "author_url": "https://www.google.com/maps/contrib/105381979671612139205/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNzOLsGEKFc5LVGu0j-B67CEeVnefbQIEO4G2iU6qygwoZBeE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr unfreundliche Damen am 26.08.26 am Empfang!\nKann diese Praxis nicht weiterempfehlen und werde dort Zukünftig keine Termine mehr vereinbaren.",
       "time": 1787737269,
       "translated": false
@@ -1417,12 +1449,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 144,
+  "rating": 4.6,
+  "reviewCount": 141,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-22T09:37:41.098Z"
+  "lastUpdated": "2026-09-25T09:59:56.122Z"
 }

@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Daniel",
+      "author_url": "https://www.google.com/maps/contrib/117537338313696981856/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIopBk8bQaUNgpj9T1_qLGFZpjwnbbgxwASZYFY6NhLGCTU5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790036720,
+      "translated": false
+    },
+    {
       "author_name": "tino oehme",
       "author_url": "https://www.google.com/maps/contrib/117305048894923902685/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz8yvOTrHBLdBksdRQiLJO2JRnftbZyFokfBQadj79enIHTUab=s128-c0x00000000-cc-rp-mo-ba2",
@@ -36,6 +46,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgJoXrHFzIARaOAp3ZZB3FBpKfp_MpB28Ny-tC3t-AIsLDPcLz=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1788981299,
+      "translated": false
+    },
+    {
+      "author_name": "Jens Mueller",
+      "author_url": "https://www.google.com/maps/contrib/111505022499907362650/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgJoXrHFzIARaOAp3ZZB3FBpKfp_MpB28Ny-tC3t-AIsLDPcLz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1788981299,
       "translated": false
@@ -1362,5 +1382,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-09-22T09:37:51.250Z"
+  "lastUpdated": "2026-09-25T10:00:07.747Z"
 }
