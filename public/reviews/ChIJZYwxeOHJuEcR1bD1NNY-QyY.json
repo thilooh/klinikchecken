@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tim Kühn",
+      "author_url": "https://www.google.com/maps/contrib/104644291161515855448/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyGiEgywq_Lb3GNb_UwG9B6YxUg3ly20FKZM-cuJpeilLBZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden. Kurze Wartezeiten im Wartrzimmer, weil man ein Termin hat. Das ist leider bei anderen Ärzten nicht der Fall.\n\nHier konnte man mir mit meiner Schuppenflechte, welche ich jahrelang mit mir rumschleppte.",
+      "time": 1790144478,
+      "translated": false
+    },
+    {
       "author_name": "MORA LOTFI",
       "author_url": "https://www.google.com/maps/contrib/105262664835055480162/reviews",
       "language": "de",
@@ -1155,7 +1167,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [],
-  "lastUpdated": "2026-09-25T09:59:23.235Z"
+  "lastUpdated": "2026-09-28T11:25:43.852Z"
 }

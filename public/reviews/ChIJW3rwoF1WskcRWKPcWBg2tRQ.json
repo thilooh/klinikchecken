@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Jutta Boldt",
+      "author_url": "https://www.google.com/maps/contrib/101152817354065517397/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInDHK_nYCuiVlwVj0Lxl6HpLZxj7O5wVcEdcxEoRNUJiaHDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich gehe seit vielen Jahren in diese Praxis zum Hautcreening und  bin sehr zufrieden. Das Personal der Praxis ist sehr höflich und freundlich. Obwohl ich ca. 60 km entfernt wohne, bleibe ich auf jedem Fall in dieser Praxis.",
+      "time": 1790005417,
+      "translated": false
+    },
+    {
       "author_name": "Hamburger Boy",
       "author_url": "https://www.google.com/maps/contrib/116737077855206624556/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzssriHztyosl5JzQaQvMpBron6Ike6ksY5GMCHGpCwAYvXDwV=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1789970039,
+      "translated": false
+    },
+    {
+      "author_name": "Hamburger Boy",
+      "author_url": "https://www.google.com/maps/contrib/116737077855206624556/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzssriHztyosl5JzQaQvMpBron6Ike6ksY5GMCHGpCwAYvXDwV=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1789970039,
       "translated": false
@@ -1336,11 +1358,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 150,
+  "reviewCount": 151,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:32.544Z"
+  "lastUpdated": "2026-09-28T11:25:52.257Z"
 }

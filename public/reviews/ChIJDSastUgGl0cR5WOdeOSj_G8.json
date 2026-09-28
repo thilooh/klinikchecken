@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Udo Hölscher",
+      "author_url": "https://www.google.com/maps/contrib/100279750896190818779/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk7q6PR0V6dYxH7dZkbklUr48Hw9Pq_YDgdHL-Ri8wcBsyng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis mit kompetenten Ärzten und sehr freundlichem Personal, schon nach dem ersten Besuch waren Beschwerden weg. Wartezeit sage und schreibe weniger als 7 Minuten!!! Bin begeistert nur zum Empfehlen!!",
+      "time": 1790072557,
+      "translated": false
+    },
+    {
       "author_name": "Alex Greenwood",
       "author_url": "https://www.google.com/maps/contrib/105114770148799134595/reviews",
       "language": "de",
@@ -10,6 +22,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "\"Leider sind derzeit alle Mitarbeiter im Gespräch, bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal\". Diesen Satz habe ich ca. 40 Mal gehört zu unterschiedlichsten Zeiten. Es gibt keine telefonische Warteschlange, man wird direkt aus der Leitung geworfen. Wie soll ich einen Termin vereinbaren? Oder eine Frage zu meinem Problem beantwortet zu bekommen? Ich finde es traurig, wie man heutzutage mit Patienten umgeht.",
       "time": 1789993406,
+      "translated": false
+    },
+    {
+      "author_name": "SuperDj73",
+      "author_url": "https://www.google.com/maps/contrib/111183043647134275096/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAWYeS2rXKZ1Zex9y2SC4iB9WQp_j_TwXOes7Lq_Nk6abNUg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Innerhalb 10 min.drangekommen",
+      "time": 1789740048,
       "translated": false
     },
     {
@@ -1452,11 +1476,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 237,
+  "reviewCount": 238,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:43.233Z"
+  "lastUpdated": "2026-09-28T11:26:02.058Z"
 }

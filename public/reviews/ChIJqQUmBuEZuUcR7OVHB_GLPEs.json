@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin K.",
+      "author_url": "https://www.google.com/maps/contrib/107816127153390426009/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZGlo35uM4RA_IIQE-hJMI28RlhkjuU3fTDTa26mvRXWJYUw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine Verkaufsveranstaltung!\nIch bin seit mehr als 7 Jahren regelmäßig zum Hautscreening in der Hansaklinik und habe dies noch nie so schlecht erlebt wie dieses Mal!\nDas Screening hat vielleicht 3 Minuten gedauert (selbst andere geschulte Augen haben dafür bis dato länger gebraucht!).\nStattdessen wurden mir aber 3 Angebote für unterschiedliche Laser Anwendungen gemacht.\nGanz schlimm!\nDa in der Regel die Ärzte immer wechseln, werde ich im nächsten Jahr entscheiden, ob ich wechseln muss oder es ein einmaliges, erschreckendes Erlebnis war!",
+      "time": 1790577075,
+      "translated": false
+    },
+    {
+      "author_name": "Nicola Stoim",
+      "author_url": "https://www.google.com/maps/contrib/106770449660925817698/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL5f3YiaD3stNKiTZISV1UR6H2ux2TKTRBgfeM8izoF1PnnA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790544098,
+      "translated": false
+    },
+    {
+      "author_name": "Lord Waldemord",
+      "author_url": "https://www.google.com/maps/contrib/108072316293020469200/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIjSAO7DJUJreOdB3HDTOrrnK3jzxiVhwv7suPe2fSfxgO5Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Ärzte, fachlich kompetent, empathisch und sehr geduldig.",
+      "time": 1790363333,
+      "translated": false
+    },
+    {
       "author_name": "hanky 1909",
       "author_url": "https://www.google.com/maps/contrib/108218250374278390208/reviews",
       "language": "de",
@@ -1548,7 +1582,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 304,
+  "reviewCount": 307,
   "summary": [],
-  "lastUpdated": "2026-09-25T09:59:24.944Z"
+  "lastUpdated": "2026-09-28T11:25:45.384Z"
 }

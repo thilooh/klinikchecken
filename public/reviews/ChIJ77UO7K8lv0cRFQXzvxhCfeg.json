@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Me Krt",
+      "author_url": "https://www.google.com/maps/contrib/107692308114045378364/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPSCHodnU-Euj3Im9DJO8OoE7ARcB3mlPBxPe2EKE5MpKluQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Muttermalkontrolle in der Praxis und habe sehr zeitnah einen Termin bekommen. Vor Ort musste ich kaum warten und kam fast direkt dran. Sowohl die Hautärztin als auch das Praxisteam waren sehr freundlich. Ich habe mich während der Untersuchung gut aufgehoben gefühlt und komme gerne wieder!",
+      "time": 1790338287,
+      "translated": false
+    },
+    {
       "author_name": "Simone -",
       "author_url": "https://www.google.com/maps/contrib/115171891106495192036/reviews",
       "language": "de",
@@ -909,11 +921,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 105,
+  "reviewCount": 106,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-09-25T09:59:17.925Z"
+  "lastUpdated": "2026-09-28T11:25:38.834Z"
 }

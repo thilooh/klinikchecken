@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Camilla",
+      "author_url": "https://www.google.com/maps/contrib/104251863936169322234/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5uv9liya0uyhqmWR0I8vv9ATkzaoaxoBgLkgR15kTnr2pRwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor zwei Wochen bei Hautnah Düsseldorf zu einer Behandlung und habe bewusst etwas gewartet, bevor ich diese Bewertung schreibe, um sicherzugehen, dass ich nicht überreagiere. Mein Eindruck hat sich leider nicht geändert.\n\nFür eine relativ teure Laser-Behandlung am Gesicht war sie nach etwa fünf Minuten erledigt.\nMein Gesicht wurde vor der Behandlung lediglich mit einem trockenen Papiertuch und dazu noch ungleichmäßig gereinigt. Die Problemzonen, die ich vorab ausdrücklich angesprochen hatte, wurden nicht behandelt.\n\nDas Team wirkte auf mich auch unprofessionell. Selbst die Sonnencreme wurde zum Schluss nicht gleichmäßig aufgetragen, sondern nur an zwei Stellen halbherzig verteilt.\n\nBei dem Preis erwarte ich Zeit und Sorgfalt. Ich kann eine Behandlung in der Praxis nicht empfehlen.",
+      "time": 1790527716,
+      "translated": false
+    },
+    {
       "author_name": "Natalia Pich",
       "author_url": "https://www.google.com/maps/contrib/107975260513720306316/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrm2vR7pHUu8LvfQJgXe5XUkQJPszwGHFMipPO4WC9mIl1x4=s128-c0x00000000-cc-rp-mo",
@@ -20,6 +32,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Herr Dr. Omaj hat sich mit seiner empathischen, offenen Art viel Zeit für mich genommen- sowohl während des operativen Eingriffs als auch zur Besprechung der Befunde. Ich habe mich jederzeit gut aufgehoben gefühlt und kann diese Hautarztpraxis sehr empfehlen!",
       "time": 1790101098,
+      "translated": false
+    },
+    {
+      "author_name": "JGe",
+      "author_url": "https://www.google.com/maps/contrib/115962455088691383984/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSDOWi6PmR9MnNLqnk-V2DzQPT5ndFyBNanriuUXwZGSWEqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Es war eine tolle Erfahrung mit Dr. Omj und Jan. Beide sind sehr freundlich und fürsorglich. Ich freue mich riesig, dass es in Düsseldorf eine so kundenorientierte Praxis gibt!",
+      "time": 1789648659,
       "translated": false
     },
     {
@@ -1236,8 +1260,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 306,
+  "rating": 4.5,
+  "reviewCount": 307,
   "summary": [],
-  "lastUpdated": "2026-09-25T09:59:23.481Z"
+  "lastUpdated": "2026-09-28T11:25:44.076Z"
 }

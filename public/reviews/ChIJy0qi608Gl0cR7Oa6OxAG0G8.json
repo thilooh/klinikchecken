@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Gerold Gutmann",
+      "author_url": "https://www.google.com/maps/contrib/105932331973493948589/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBR6AEf06HNV3Be6dfQ34BmATMEJTy0_uVWRYBT-pOH36nKA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1789729511,
+      "translated": false
+    },
+    {
       "author_name": "Peter Pan",
       "author_url": "https://www.google.com/maps/contrib/101568990332040111367/reviews",
       "language": "de",
@@ -54,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2PV2gFU5UbiE3q4jNy31O8vLak-6AdldNidXfs6f2KdfRsQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr Tolle Organisation und freundliches  Personal",
+      "time": 1789369473,
+      "translated": false
+    },
+    {
+      "author_name": "Martin",
+      "author_url": "https://www.google.com/maps/contrib/117768486641847048685/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2PV2gFU5UbiE3q4jNy31O8vLak-6AdldNidXfs6f2KdfRsQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr Tolle Organisation und freundliches  Personal",
       "time": 1789369473,
       "translated": false
@@ -1474,5 +1496,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-25T09:59:42.992Z"
+  "lastUpdated": "2026-09-28T11:26:01.846Z"
 }

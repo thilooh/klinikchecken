@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dietmar John",
+      "author_url": "https://www.google.com/maps/contrib/112818722483189633444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuJ4a0JzasKem884w4lvJD7dbSfXzVq2vuyxtH97fCu_tYVdeF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider sehr lange Wartezeit",
+      "time": 1789929211,
+      "translated": false
+    },
+    {
       "author_name": "Bianca Albers",
       "author_url": "https://www.google.com/maps/contrib/114141497785858107441/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzLnbdp-g222McYk9aFmStGI2ovTE0yifI7-P2J2-6YY7aih0=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr freundlich und entgegenkommend",
+      "time": 1788679172,
+      "translated": false
+    },
+    {
+      "author_name": "Bianca Albers",
+      "author_url": "https://www.google.com/maps/contrib/114141497785858107441/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzLnbdp-g222McYk9aFmStGI2ovTE0yifI7-P2J2-6YY7aih0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr freundlich und entgegenkommend",
       "time": 1788679172,
       "translated": false
@@ -578,11 +602,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 19,
+  "reviewCount": 20,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:55.884Z"
+  "lastUpdated": "2026-09-28T11:26:13.049Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Katja Leppin",
+      "author_url": "https://www.google.com/maps/contrib/108090400332924157057/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBzQJR3SZIuYX3scGwRbtXl4vcD8-IF2pq7xjPllVfkRznXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich in der Praxis bei Frau Retzsch und ihrem Team sehr gut beraten und behandelt.",
+      "time": 1790346556,
+      "translated": false
+    },
+    {
+      "author_name": "M. N.",
+      "author_url": "https://www.google.com/maps/contrib/115538431386313734292/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWirTdvY-fDwAVanRLga5DCKA1se2VjV3NHI2N8Nu2u2zUce60=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich habe nach einer ausführlichen Beratung bereits meinen zweiten Termin in der Praxis wahrgenommen. Ich bin sehr zufrieden mit der Behandlung von Frau Rentzsch. Den Service, das  Team und das Ambiente möchte ich ebenfalls loben. Klare Empfehlung, wenn man eine vertrauensvolle Praxis aufsuchen möchte!",
+      "time": 1789557672,
+      "translated": false
+    },
+    {
       "author_name": "Kati",
       "author_url": "https://www.google.com/maps/contrib/106376124705966303974/reviews",
       "language": "de",
@@ -374,11 +398,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 95,
+  "reviewCount": 96,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:35.487Z"
+  "lastUpdated": "2026-09-28T11:25:54.942Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "C B",
+      "author_url": "https://www.google.com/maps/contrib/118112052323000209225/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpPEWKG9k2SIamshkxefXVnHgAOLP8C2wHoFVIRacbJsJPz77u=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es gibt ja nur fünf Sterne und diese sind hier wohlüberlegt! Ich fühlte mich sehr gut aufgehoben. Warum? Kompetente umfassende Beratung, freundliche Menschen, sofortiges Handeln. Mehr geht nicht.",
+      "time": 1790582193,
+      "translated": false
+    },
+    {
+      "author_name": "Heindaddelduh “Heindaddelduh”",
+      "author_url": "https://www.google.com/maps/contrib/107862327222707843582/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_ahwHsyBviCFW36oxzBvKk-GCshP9UnAlJQA2V5zJhbB7zA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Winkelmann-Schirmer hat mich wie mich allen bisherigen Besuchen sehr gut betreut. Die bisherige Entwicklung wurde nachbesprochen, das weitere Vorgehen abgestimmt und meine Fragen verständlich beantwortet.  Vielen Dank!!!",
+      "time": 1790348546,
+      "translated": false
+    },
+    {
+      "author_name": "Netti Finck",
+      "author_url": "https://www.google.com/maps/contrib/106684867590677731562/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgE7l3UUQKHT7Z-JVINZ4prtXd44StG4sJcyHP-6ugcUKzPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr schöne Praxis ,man fühlt sich gleich wohl.Ich war zur Fleck- weg Beratung,die mir schon sehr gut gefallen hat und warte jetzt auf den ersten Termin.Ich bin gespannt....",
+      "time": 1790346847,
+      "translated": false
+    },
+    {
       "author_name": "Rüdiger Evers",
       "author_url": "https://www.google.com/maps/contrib/110786120336361382915/reviews",
       "language": "de",
@@ -2052,11 +2088,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2405,
+  "reviewCount": 2410,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-25T09:59:34.993Z"
+  "lastUpdated": "2026-09-28T11:25:54.512Z"
 }

@@ -47,6 +47,30 @@
       "translated": false
     },
     {
+      "author_name": "Nina Jost",
+      "author_url": "https://www.google.com/maps/contrib/111126943294875751171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCcgl30iQiBQIHcLsUW-sDDsr6edy89FsgLEKRXORcZE6tmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin sehr zufrieden mit der Praxis. Die Ärzte sind super kompetent, nehmen sich immer ausreichend Zeit und gehen auf alle Fragen und Anliegen ausführlich ein. Auch das Praxisteam ist sehr nett, freundlich und hilfsbereit. Man fühlt sich hier wirklich gut aufgehoben und bestens betreut. Absolut empfehlenswert!",
+      "time": 1789976933,
+      "translated": false
+    },
+    {
+      "author_name": "Halime Reibert",
+      "author_url": "https://www.google.com/maps/contrib/101866491591234832964/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYhuWCT1ZnBa1V2KiN7sXmvHbMBKEzIBxwshKKTm3bd3tZqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Gute Organisation, freundliche Behandlung, hohe Sachkompetenz",
+      "time": 1789825462,
+      "translated": false
+    },
+    {
       "author_name": "Maren Lehmann",
       "author_url": "https://www.google.com/maps/contrib/102753097244531475425/reviews",
       "language": "de",
@@ -1484,11 +1508,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 336,
+  "reviewCount": 338,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-25T10:00:01.791Z"
+  "lastUpdated": "2026-09-28T11:26:18.472Z"
 }

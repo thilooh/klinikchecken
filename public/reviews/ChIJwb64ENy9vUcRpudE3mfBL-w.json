@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "KLH ThePro",
+      "author_url": "https://www.google.com/maps/contrib/116967884488307673801/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHNkx3OABNObZD6PJD2RCFu37ws1wdoXecRjM2lO0K2gh-GA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Richtige Mistpraxis. Schlecht organisiert und unfreundliches Personal. Nicht zu empfehlen",
+      "time": 1790580023,
+      "translated": false
+    },
+    {
       "author_name": "Carmen Schippke",
       "author_url": "https://www.google.com/maps/contrib/114105231848928202696/reviews",
       "language": "de",
@@ -82,6 +94,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9eHSnJhetXDFXUzEerkryTJirb-ZcWVPW8pHf9_HIHgCfu4i0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1787759542,
+      "translated": false
+    },
+    {
+      "author_name": "Norbert Hilge",
+      "author_url": "https://www.google.com/maps/contrib/117148839988977597157/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9eHSnJhetXDFXUzEerkryTJirb-ZcWVPW8pHf9_HIHgCfu4i0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1787759542,
       "translated": false
@@ -1102,11 +1124,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 153,
+  "reviewCount": 154,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:48.812Z"
+  "lastUpdated": "2026-09-28T11:26:06.975Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Marikka Weimann-Cossaeth",
+      "author_url": "https://www.google.com/maps/contrib/109732684933406792303/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWp3F7vxSO36daeQdDWHImwDnsskUmBUILIJrMoXuxkCFU4ZgM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ist nur meine persönliche Erfahrung! Ich habe kein Vertrauen aufgrund von Ablaufprocedere und Freundlichkeit. Den angedachten Termin habe ich Heute abgesagt, nach meinen Erfahrungen bei der Blutabnahme.\n\nHier habe ich Heute bereits direkt an info@ ausführlich geschrieben.",
+      "time": 1790495485,
+      "translated": false
+    },
+    {
+      "author_name": "Detlev Schank",
+      "author_url": "https://www.google.com/maps/contrib/104542654359560043218/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxsuZknNuRyb_7bpAPJbORDY2s11D-O77eay3uWODjJtY23g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mehrere Monate Wartezeit über Doc-Lib. laser-Behandlung dann super schnell und routiniert. Freundliches Op-Personal.",
+      "time": 1790427544,
+      "translated": false
+    },
+    {
+      "author_name": "Jingyi Jin",
+      "author_url": "https://www.google.com/maps/contrib/109056962444559549368/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0F4Mtec5XhqJ3kisXheXiycofOZk7fOUG6x-bEuudYS-PHNI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zur Behandlung einer kleinen Hautveränderung am Auge in der Praxis. Die Ärztin war sehr einfühlsam, hat mir die Angst genommen und direkt kompetent gehandelt. Der Eingriff war schnell und absolut schmerzfrei. Ich habe mich sehr gut aufgehoben gefühlt und bin mit dem Ergebnis sehr zufrieden. Vielen Dank an das gesamte Team!",
+      "time": 1790419277,
+      "translated": false
+    },
+    {
       "author_name": "Chii",
       "author_url": "https://www.google.com/maps/contrib/114251134115526787869/reviews",
       "language": "de",
@@ -1444,11 +1480,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 440,
+  "reviewCount": 444,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-09-25T09:59:59.896Z"
+  "lastUpdated": "2026-09-28T11:26:16.795Z"
 }

@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Tomas Bergmann",
+      "author_url": "https://www.google.com/maps/contrib/115264670791537150652/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvrh9xH6E0C8GkvfZ5sOe3z78aQ9aQHzSbrSZFMVmDM6Y_Ng=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Auch ich hatte einen Termin, und er wurde einfach abgesagt. Nach der Absage wollten sie mir erst nach 3 Monaten wieder einen Termin geben.",
+      "time": 1790063991,
+      "translated": false
+    },
+    {
       "author_name": "Păun Dragomir",
       "author_url": "https://www.google.com/maps/contrib/107050047271580668333/reviews",
       "language": "de",
@@ -58,6 +70,30 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Man bietet den Patienten überhaupt keine Termine an. Und wenn jemand doch einen Termin hat, wird er einfach abgesagt, und dann bekommt man erst nach 2 bis 3 Monaten wieder einen. Das ist widerlich von ihrer Seite.",
       "time": 1790063476,
+      "translated": false
+    },
+    {
+      "author_name": "Samson Baicu",
+      "author_url": "https://www.google.com/maps/contrib/100582846076380396205/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgFOTJu5gB9k0vwdJ2EX2gIJl437_GDzH1ktVy-4sEks7KrrQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Tochter hatte einen Termin am 09.09.2026. Ich habe auf diesen Termin 2 Monate gewartet, und in der Zwischenzeit hat sich ihr Zustand verschlechtert. Einen Tag vorher habe ich angerufen und mir wurde gesagt, dass der Termin gültig ist, um 9:00 Uhr. Als ich zum Termin kam, wurde mir mitgeteilt, dass der Termin abgesagt wurde, weil der Arzt krank ist. Obwohl es auch andere Ärzte gab, haben sie uns nicht empfangen und uns erst im Dezember einen neuen Termin angeboten, also nach weiteren 3 Monaten. Praktisch wurde meine Tochter nach Monaten des Wartens von keinem Arzt gesehen. Ich halte das für eine Verhöhnung.",
+      "time": 1790062709,
+      "translated": false
+    },
+    {
+      "author_name": "W. Pankoff",
+      "author_url": "https://www.google.com/maps/contrib/117261660707898978270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXsl0_4U5-rUZ7teGEZlmZhhLmuVpspsXXRqj01Wk9VUCri_ylRg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Super Praxis, pünktliche Termineinhaltung",
+      "time": 1789817093,
       "translated": false
     },
     {
@@ -1584,11 +1620,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 405,
+  "reviewCount": 401,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:53.451Z"
+  "lastUpdated": "2026-09-28T11:26:10.881Z"
 }

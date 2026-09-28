@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Freia Willems-Theisen",
+      "author_url": "https://www.google.com/maps/contrib/111831328808783797126/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt75lLWjomPKB2_FIWfkrDG4obgXp2o_HOlXzybn-RzUzN634=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich dort richtig gut aufgehoben. 👍🏻👍🏻👍🏻",
+      "time": 1790099804,
+      "translated": false
+    },
+    {
       "author_name": "H L",
       "author_url": "https://www.google.com/maps/contrib/101514653642341651035/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3aYkR2kDZfqJPGxP1WSlqEEPQil4bv-FUfnwkuTnO1WdRMQ=s128-c0x00000000-cc-rp-mo",
@@ -116,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHAVOj6WtuEhL_IpBGFbkG6irxL6tOZIg2K4d8FlS3OvCFe34H=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Gutgeführte Praxis und ich habe mich in kompeter Händen befunden.",
+      "time": 1787840800,
+      "translated": false
+    },
+    {
+      "author_name": "Schusi 64-94",
+      "author_url": "https://www.google.com/maps/contrib/107830871585651657996/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHAVOj6WtuEhL_IpBGFbkG6irxL6tOZIg2K4d8FlS3OvCFe34H=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Gutgeführte Praxis und ich habe mich in kompeter Händen befunden.",
       "time": 1787840800,
       "translated": false
@@ -836,11 +860,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 53,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T10:00:08.008Z"
+  "lastUpdated": "2026-09-28T11:26:23.928Z"
 }

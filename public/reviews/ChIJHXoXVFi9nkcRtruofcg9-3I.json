@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Ortlieb",
+      "author_url": "https://www.google.com/maps/contrib/107973738688683992192/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcW2zBnIcUbs5bzPO_taG6pQdS2IrH_ny8XCEIjvUKoqrH0oc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790486533,
+      "translated": false
+    },
+    {
       "author_name": "Victory",
       "author_url": "https://www.google.com/maps/contrib/100677564059134740714/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhwDVSmSOOcYHlMlVQwYLRlSXyZ9JO8ETnu74q6sVFWAg4urA=s128-c0x00000000-cc-rp-mo-ba2",
@@ -1534,11 +1544,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 436,
+  "reviewCount": 438,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-09-25T09:59:40.085Z"
+  "lastUpdated": "2026-09-28T11:25:59.207Z"
 }

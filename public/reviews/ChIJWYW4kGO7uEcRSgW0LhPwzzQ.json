@@ -69,6 +69,18 @@
       "translated": false
     },
     {
+      "author_name": "Michaela Pilger",
+      "author_url": "https://www.google.com/maps/contrib/110484953696595020053/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfKQSaBXo8ZcKUsTzwW_PnTgeREss58LWL37bxquUN10idiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Man fühlt sich als Patient sehr  gut aufgehoben, die Ärzte nehmen sich Zeit, die Mitarbeiter sind immer freundlich und Termine werden eingehalten.",
+      "time": 1789371057,
+      "translated": false
+    },
+    {
       "author_name": "Horst Horstmann",
       "author_url": "https://www.google.com/maps/contrib/103727386461010748931/reviews",
       "language": "de",
@@ -136,6 +148,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWdSqo6-qwalY6cPpEhLL6Qo969CuDcLmp6x6EyQqddeE8g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Die Praxis hat sehr stark nachgelassen!!!\nÜber 6 Monate Wartezeit für einen Termin und am selben Tag wird dieser einfach storniert.\nServicewüste Deutschland.",
+      "time": 1788769527,
+      "translated": false
+    },
+    {
+      "author_name": "ben tichelkmap",
+      "author_url": "https://www.google.com/maps/contrib/104192616067007239552/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcWdSqo6-qwalY6cPpEhLL6Qo969CuDcLmp6x6EyQqddeE8g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Die Praxis hat sehr stark nachgelassen!!!\nÜber 6 Monate Wartezeit für einen Termin und am selben Tag wird dieser einfach storniert.\nServicewüste Deutschland.",
       "time": 1788769527,
       "translated": false
@@ -926,11 +950,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 50,
+  "reviewCount": 49,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-25T09:59:53.682Z"
+  "lastUpdated": "2026-09-28T11:26:11.092Z"
 }

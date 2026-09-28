@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "ferhat yazgılı",
+      "author_url": "https://www.google.com/maps/contrib/106596651097039094256/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_51ZTo6Iu6ot8rumb3WLqxztQR2-82JR9Ebn_agbY1nw-Sg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790404141,
+      "translated": false
+    },
+    {
       "author_name": "Ole S",
       "author_url": "https://www.google.com/maps/contrib/108039473658551659795/reviews",
       "language": "de",
@@ -32,6 +42,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Ich hatte heute einen Termin um 10.40 Uhr, ich kam um 10.20 Uhr dort an und die Patienten standen Schlage bis zum raus zum Parkplatz nur um zur Anmeldung zu kommen!\n45 Minuten später stand ich immer noch in der Schlange und entschied mich zu gehen.\nEs war EINE Angestellte am Empfang für all diese Leute!!!!\nEs ist eine Unverschämtheit und organisatorisch ein absolutes No-Go Patienten so zu behandeln! Nie wieder!",
       "time": 1789990905,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Bro (agent-F)",
+      "author_url": "https://www.google.com/maps/contrib/111857691213133392991/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIedMhthGjZMvtOJDuX0TNbdJY-hWU69LUQY30wC_xqFoxw1g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich hatte einen Termin zum Hautscreening hohe Sicherheit für 199€. Ja, das ist viel Geld, aber was ist dir eine sehr gründliche Untersuchung wert! Die Untersuchung, Bilder machen, Auswertung, ärztliche Untersuchung wurde sehr gründlich durchgeführt. Ja, es kam zu einer längere Wartezeit in der Praxis, was aber ein generelles Problem in Praxen zu sein scheint.",
+      "time": 1789927021,
       "translated": false
     },
     {
@@ -1598,5 +1620,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:49.494Z"
+  "lastUpdated": "2026-09-28T11:26:07.398Z"
 }

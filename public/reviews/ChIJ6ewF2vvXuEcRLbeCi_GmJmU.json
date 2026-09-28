@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ilona Schmidt-Murati",
+      "author_url": "https://www.google.com/maps/contrib/115090301156326919051/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzuhIB9b69nAYSzLuOZqmfZPDXmKt8k4So1MW8hgtY-ODXEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790576820,
+      "translated": false
+    },
+    {
+      "author_name": "Holger Frank Kerber",
+      "author_url": "https://www.google.com/maps/contrib/103451661866558109060/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnsijbZVvuSx-w9GcvbAPM6Z4yESWQhgSX2LcIaJo1mPUpoA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Ärztin und freundliches Personal.",
+      "time": 1790394098,
+      "translated": false
+    },
+    {
       "author_name": "Tatjana Helwig",
       "author_url": "https://www.google.com/maps/contrib/106653391087199723413/reviews",
       "language": "de",
@@ -1314,11 +1336,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 240,
+  "reviewCount": 242,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:38.186Z"
+  "lastUpdated": "2026-09-28T11:25:57.490Z"
 }

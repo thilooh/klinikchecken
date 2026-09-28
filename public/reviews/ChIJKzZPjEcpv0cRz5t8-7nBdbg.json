@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Ulrich Krüger",
+      "author_url": "https://www.google.com/maps/contrib/111393165903216988247/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsMD9DzX5PtAkz95aemEwHRXBZMS9F7N2CjiZq3_yVdR6EDw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher Empfang.\nÄrztin hat sich Zeit genommen .\nIch fühle mich dort verstanden und gut aufgehoben.",
+      "time": 1790092419,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele",
+      "author_url": "https://www.google.com/maps/contrib/100680951774638029811/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgtTbGPCFb2Gi9u7VAiIix_7HbEjJa0TFH4KZ33a_hFPR14g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich kann Dr. Linz NICHT empfehlen.\nIch war wegen Beschwerden in den Beinen bei Dr. Linz, da ich seit Jahren in der Praxis zur Behandlung war, aber bisher immer bei einem anderen Arzt. Die Damen am Empfang waren nett und hilfsbereit, leider aber nicht der Arzt.\nIch hatte ihm Fragen gestellt, was man bei meinen Beschwerden machen kann. Plötzlich hat er mir in einem aggressiven Ton den Mund verboten. Das hat er dreimal wiederholt und mich wegen meines Alters diskriminiert. Am Ende wurde ich noch nicht mal untersucht und sogar aus der Praxis geschmissen. Mir wurde sogar gesagt, dass ich mir einen neuen Arzt suchen soll. Ein solches Verhalten gegenüber Patienten habe ich von einem Arzt noch nie gesehen oder gehört.",
+      "time": 1789849242,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Dubbel",
+      "author_url": "https://www.google.com/maps/contrib/107043479817093554797/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSfc2dKx4MWh-7SN0AAbvwOcuzhUerfSekaaKRzaYCEnxAbA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Kompetent und gründlich",
+      "time": 1789841351,
+      "translated": false
+    },
+    {
       "author_name": "Werner Dausel",
       "author_url": "https://www.google.com/maps/contrib/100095002887144966135/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl5n8HmmMD0s8WOki1BguaNLIbyNP6s4dsetlkAHU9OyozWQ=s128-c0x00000000-cc-rp-mo",
@@ -1246,11 +1282,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 236,
+  "reviewCount": 239,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-25T09:59:58.716Z"
+  "lastUpdated": "2026-09-28T11:26:15.719Z"
 }

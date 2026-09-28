@@ -51,6 +51,16 @@
       "translated": false
     },
     {
+      "author_name": "Alexandra Heiderich",
+      "author_url": "https://www.google.com/maps/contrib/109957275458458832842/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNARsUHjLnxtfVBoqxal3l_bEBOXuxeDMe4hbt1y9i1Ybbnpo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1787912370,
+      "translated": false
+    },
+    {
       "author_name": "Patricia Siemon",
       "author_url": "https://www.google.com/maps/contrib/102310180275041618467/reviews",
       "language": "de",
@@ -106,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVucpTLSLrvNls-DYF6AoQsbj8eqYAKJ8CfsKmBXlN2H_Z_aht1Bg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich fühle mich gut aufgehoben",
+      "time": 1787823178,
+      "translated": false
+    },
+    {
+      "author_name": "Patricia Siemon",
+      "author_url": "https://www.google.com/maps/contrib/102310180275041618467/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVucpTLSLrvNls-DYF6AoQsbj8eqYAKJ8CfsKmBXlN2H_Z_aht1Bg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich fühle mich gut aufgehoben",
       "time": 1787823178,
       "translated": false
@@ -804,5 +826,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-09-25T09:59:49.964Z"
+  "lastUpdated": "2026-09-28T11:26:07.835Z"
 }

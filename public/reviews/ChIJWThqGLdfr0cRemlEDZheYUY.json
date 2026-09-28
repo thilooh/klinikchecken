@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Walter Weiß",
+      "author_url": "https://www.google.com/maps/contrib/104342956072396876560/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpOL94FIW2EynvN7Faf4mYEj_gTgoM328es0s578dZomor08vZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790521982,
+      "translated": false
+    },
+    {
       "author_name": "Kati Gerlach",
       "author_url": "https://www.google.com/maps/contrib/108278176416408803484/reviews",
       "language": "de",
@@ -1556,11 +1566,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 498,
+  "reviewCount": 500,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-25T09:59:34.216Z"
+  "lastUpdated": "2026-09-28T11:25:53.870Z"
 }

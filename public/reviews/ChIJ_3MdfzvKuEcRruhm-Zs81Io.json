@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Marli Perch",
+      "author_url": "https://www.google.com/maps/contrib/115971652975194152887/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBmvsi2iAHeFxWX8bxrQPVNhONEzjfLnOnAK-eKq6OAxxi7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch hatte bei Herrn Dr. Spengler eine Brustverkleinerung inklusive Bruststraffung und bin mit dem Ergebnis unglaublich glücklich – ich liebe meine neue Oberweite! 🥰\n\nVon Tag eins an habe ich mich bestens beraten, verstanden und ernst genommen gefühlt. Die OP ist vollkommen komplikationslos verlaufen und auch die Nachuntersuchungen waren jederzeit kompetent und professionell.\n\nBesonders positiv empfand ich außerdem die kurzen Wartezeiten vor den Terminen – langes Sitzen und Warten war eigentlich nie ein Thema. Auch der Empfang ist stets unglaublich freundlich und aufmerksam. Man fühlt sich direkt wohl, sobald man die MSC betritt. 💛\n\nVielen Dank an das gesamte Team für die tolle Betreuung! Ich würde mich jederzeit wieder in Ihre Hände begeben und komme sehr gerne auf Sie zurück.",
+      "time": 1790401419,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah Pieper",
+      "author_url": "https://www.google.com/maps/contrib/101368514365802277121/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5q5vrie8rhN98npHGB4T904RfcyB0rq_MPJFlCWsJvyEVlFk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790367395,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Wojcik",
       "author_url": "https://www.google.com/maps/contrib/107888504130618632602/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAKggAfxjXcOiCJK5_fqEQ5F2a2QDmf8bx3rBxORjWItkj4w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe hier selbst eine Haartransplantation durchführen lassen und bin mit dem Ergebnis nicht zufrieden. Bei meiner Nachkontrolle am 18.09.2026 wollte ich meine Fragen und meine Unzufriedenheit besprechen. Leider wurde ich dabei sehr unfreundlich, respektlos und aggressiv behandelt. Statt meine Fragen als Patient ernst zu nehmen, hatte ich den Eindruck, dass man das Gespräch möglichst schnell beenden wollte.\n\nFür mich war das eine sehr enttäuschende Erfahrung – sowohl mit dem Ergebnis meiner Haartransplantation als auch mit der anschließenden Betreuung.\n\nIch empfehle jedem, sich vor einer Behandlung hier sehr genau zu informieren und eine zweite Meinung einzuholen.",
+      "time": 1789848566,
+      "translated": false
+    },
+    {
+      "author_name": "Josef Jakob",
+      "author_url": "https://www.google.com/maps/contrib/114612846668096213707/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAKggAfxjXcOiCJK5_fqEQ5F2a2QDmf8bx3rBxORjWItkj4w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe hier selbst eine Haartransplantation durchführen lassen und bin mit dem Ergebnis nicht zufrieden. Bei meiner Nachkontrolle am 18.09.2026 wollte ich meine Fragen und meine Unzufriedenheit besprechen. Leider wurde ich dabei sehr unfreundlich, respektlos und aggressiv behandelt. Statt meine Fragen als Patient ernst zu nehmen, hatte ich den Eindruck, dass man das Gespräch möglichst schnell beenden wollte.\n\nFür mich war das eine sehr enttäuschende Erfahrung – sowohl mit dem Ergebnis meiner Haartransplantation als auch mit der anschließenden Betreuung.\n\nIch empfehle jedem, sich vor einer Behandlung hier sehr genau zu informieren und eine zweite Meinung einzuholen.",
       "time": 1789848566,
       "translated": false
@@ -1493,7 +1527,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 390,
+  "reviewCount": 392,
   "summary": [],
-  "lastUpdated": "2026-09-25T09:59:22.500Z"
+  "lastUpdated": "2026-09-28T11:25:43.071Z"
 }

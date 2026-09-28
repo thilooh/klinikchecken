@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Frank R. (Frank R.)",
+      "author_url": "https://www.google.com/maps/contrib/116058755202374551152/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUCRF7DuJJJafzQ374NOzrGfwf9sUcu8DjgzIQC2YMfPTVt1E_=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein Super Arzt, vor allem super sensibel wie eine Eisenbahnschiene.\nEine Patientin nicht vernünftig zu untersuchen und diese mit dem Tipp wegzuschicken erstmal 30kg abzunehmen, toll.\nSie solle sich doch die Abnehmspritze besorgen, wow. Kein Gefühl dafür, dass jemand mit erheblichen Leidensdruck vor einem steht, ist für einen Arzt die Champions League der Unsympathen.",
+      "time": 1790337596,
+      "translated": false
+    },
+    {
       "author_name": "Ulla Diwok",
       "author_url": "https://www.google.com/maps/contrib/116503487619275722952/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT1EuAUySzOvKeNye6sdc72aVDUN7ECd0_8D6nrzGNQREpbQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich war mit meiner Mutter dort um den Verdacht auf ein Lymphödem zu klären nach einer Brustkrebserkrankung. Allerdings wurden wir vom Arzt ohne Untersuchung wieder weg geschickt mit den Worten, dass sich das Krankenhaus darum kümmern solle, das den Krebs behandelt hat.\nEmpathie und Hilfsbereitschaft sucht man hier vergebens",
+      "time": 1787765560,
+      "translated": false
+    },
+    {
+      "author_name": "Irene Kühl",
+      "author_url": "https://www.google.com/maps/contrib/117551128286007403539/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT1EuAUySzOvKeNye6sdc72aVDUN7ECd0_8D6nrzGNQREpbQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war mit meiner Mutter dort um den Verdacht auf ein Lymphödem zu klären nach einer Brustkrebserkrankung. Allerdings wurden wir vom Arzt ohne Untersuchung wieder weg geschickt mit den Worten, dass sich das Krankenhaus darum kümmern solle, das den Krebs behandelt hat.\nEmpathie und Hilfsbereitschaft sucht man hier vergebens",
       "time": 1787765560,
       "translated": false
@@ -1028,11 +1052,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 85,
+  "reviewCount": 86,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:52.313Z"
+  "lastUpdated": "2026-09-28T11:26:09.948Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Judit Benedek",
+      "author_url": "https://www.google.com/maps/contrib/115501775397205162023/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIASLG1ET1jJe-tehdEsUVRtHz_aLpWOAJkhactZKeEeREefw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetenter, freundlicher Arzt und sehr nette Arzthelferinnen, absolut zu empfehlen!\nIch war letzte Woche das erste Mal zum Hautscreening in der Praxis, wo nach der Untersuchung sofort einige Auffälligkeiten entfernt wurden (zum Glück rechtzeitig, da eine der Veränderungen bösartig war). Die gleiche Behandlung wünscht man sich bei jedem Facharzt.",
+      "time": 1790078123,
+      "translated": false
+    },
+    {
       "author_name": "M M",
       "author_url": "https://www.google.com/maps/contrib/115112696656682944906/reviews",
       "language": "de",
@@ -710,11 +722,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 54,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-25T09:59:44.684Z"
+  "lastUpdated": "2026-09-28T11:26:03.346Z"
 }

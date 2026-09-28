@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Engler",
+      "author_url": "https://www.google.com/maps/contrib/106505136971881433446/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG95LqMXsJH2uU7N9avsXWwUyO8VR1miduZ6AltoGA_3a8XQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790514536,
+      "translated": false
+    },
+    {
       "author_name": "roland schmechtig",
       "author_url": "https://www.google.com/maps/contrib/114020349975822669213/reviews",
       "language": "de",
@@ -58,6 +68,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQM1TOkmUrOyl_Gyg6VLDEx34Q8dghcpgpU9k9YCE1GCN2lGiv=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1787815521,
+      "translated": false
+    },
+    {
+      "author_name": "Kingme6081",
+      "author_url": "https://www.google.com/maps/contrib/113593562868303598787/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQM1TOkmUrOyl_Gyg6VLDEx34Q8dghcpgpU9k9YCE1GCN2lGiv=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1787815521,
       "translated": false
@@ -718,7 +738,7 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 20,
+  "reviewCount": 21,
   "summary": [],
-  "lastUpdated": "2026-09-25T09:59:29.170Z"
+  "lastUpdated": "2026-09-28T11:25:49.211Z"
 }

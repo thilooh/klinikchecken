@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Klat",
+      "author_url": "https://www.google.com/maps/contrib/108821989845000145696/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKM2RfM2F9p3Fe0pnWBiXjSXSg989x-Gw0YZdNmgwQsIkvB2g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super schön",
+      "time": 1790331151,
+      "translated": false
+    },
+    {
       "author_name": "Elke Käser",
       "author_url": "https://www.google.com/maps/contrib/105920369386277218935/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvl6pCRB14zLnvpKM3HFwWTWC8ze_qsoSiLjJSc7PIPhMRuw=s128-c0x00000000-cc-rp-mo",
@@ -112,6 +124,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0sExGmo2xiaLW10qGpuxBfQuJoSZfJ-PQTlsKKEDQ5i2JlXdC=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1787743238,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Schoepperle",
+      "author_url": "https://www.google.com/maps/contrib/104760036868819218422/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0sExGmo2xiaLW10qGpuxBfQuJoSZfJ-PQTlsKKEDQ5i2JlXdC=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1787743238,
       "translated": false
@@ -1258,11 +1280,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 185,
+  "reviewCount": 186,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:40.803Z"
+  "lastUpdated": "2026-09-28T11:25:59.859Z"
 }

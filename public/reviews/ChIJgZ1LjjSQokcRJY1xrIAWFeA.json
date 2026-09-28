@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ulrike Köhler",
+      "author_url": "https://www.google.com/maps/contrib/108058869823815499697/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsytx3brGworUhCCVLd2gBOjrsQrum4QUGZBz6Q1gq_lE3kw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr netter Empfang. Nach einer kurzen Besprechung konnte bei mir ein kleiner Eingriff sogar gleich gemacht werden.\nSehr unkompliziert und gute Beratung.",
+      "time": 1790529019,
+      "translated": false
+    },
+    {
       "author_name": "Kevin",
       "author_url": "https://www.google.com/maps/contrib/111258490630399828038/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl8rsiP2Bx4hAxGtwXWXQNBfBIxrEio2Zn-X6pfCra9yrTLw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -650,11 +662,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 70,
+  "reviewCount": 71,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:45.424Z"
+  "lastUpdated": "2026-09-28T11:26:03.986Z"
 }

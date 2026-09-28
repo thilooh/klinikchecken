@@ -399,6 +399,16 @@
       "translated": false
     },
     {
+      "author_name": "Ursula Nùcken",
+      "author_url": "https://www.google.com/maps/contrib/105698717141978252122/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXadrsg-1BNPld6VBU1UsjZcyb_bl0R6u_G7GQrIjW4i1YnOayA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1785329363,
+      "translated": false
+    },
+    {
       "author_name": "Mik",
       "author_url": "https://www.google.com/maps/contrib/104323704636103771213/reviews",
       "language": "de",
@@ -586,6 +596,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyFZtezZfycAVS24pmcVPvQM-meNCHVs2LJEIrcCRtLlCjmGA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Alles war super, das Personal war freundlich, der Arzt war toll, alles lief perfekt. Der Termin hat geklappt!",
+      "time": 1784149004,
+      "translated": true
+    },
+    {
+      "author_name": "wlad klipp",
+      "author_url": "https://www.google.com/maps/contrib/105787982614570423350/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyFZtezZfycAVS24pmcVPvQM-meNCHVs2LJEIrcCRtLlCjmGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Alles war super, das Personal war freundlich, der Arzt war toll, alles lief perfekt. Der Termin hat geklappt!",
       "time": 1784149004,
       "translated": true
@@ -1342,5 +1364,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:35.986Z"
+  "lastUpdated": "2026-09-28T11:25:55.376Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mick Ravens",
+      "author_url": "https://www.google.com/maps/contrib/104985840098849345208/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdo_V2r_Ta0c9FDYhj8SWLkI7NlciqyQA1DTuIokJ4ZP-Hgw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin jetzt zum dritten Mal zur Vorsorge hier. Die Untersuchungen sind außerordentlich gründlich und werden akribisch dokumentiert. So können Veränderungen an den dokumentierten Leberflecken genau erkannt werden. Die Terminvergabe ist unkompliziert und das Team sehr freundlich. Die Kosten für die Untersuchungen sind überschaubar und ihr Geld in jedem Fall wert. Ich werde regelmäßig wiederkommen.",
+      "time": 1790520120,
+      "translated": false
+    },
+    {
       "author_name": "Denis Kadirov",
       "author_url": "https://www.google.com/maps/contrib/101949214065658612468/reviews",
       "language": "de",
@@ -112,6 +124,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJykSuyanokHxy8VcKYlV7il_ZacaStCmLAIjyOFcOJNwg-5Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundliches Personal und kompetente Ärzte.",
+      "time": 1787915350,
+      "translated": false
+    },
+    {
+      "author_name": "Lutz Lehnacker",
+      "author_url": "https://www.google.com/maps/contrib/102406657164523536745/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJykSuyanokHxy8VcKYlV7il_ZacaStCmLAIjyOFcOJNwg-5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr freundliches Personal und kompetente Ärzte.",
       "time": 1787915350,
       "translated": false
@@ -924,11 +948,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 198,
+  "reviewCount": 199,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:31.832Z"
+  "lastUpdated": "2026-09-28T11:25:51.607Z"
 }

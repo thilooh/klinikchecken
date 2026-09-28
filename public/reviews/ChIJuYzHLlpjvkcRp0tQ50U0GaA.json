@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Volker Hagenschulte",
+      "author_url": "https://www.google.com/maps/contrib/102382068808788505885/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG72UTIUY3VP9GlaCwppt4-iLOO55T0bOdX6pL1qL9pZSM5FlUgQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790430028,
+      "translated": false
+    },
+    {
       "author_name": "Gerhard Oster",
       "author_url": "https://www.google.com/maps/contrib/116418919669252459426/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3QnrW8IsqqLJbd_UzSxi21Bnucf55THFsZeO6MpCUf98EsQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -26,6 +36,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3QnrW8IsqqLJbd_UzSxi21Bnucf55THFsZeO6MpCUf98EsQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788530467,
+      "translated": false
+    },
+    {
+      "author_name": "Gerhard Oster",
+      "author_url": "https://www.google.com/maps/contrib/116418919669252459426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3QnrW8IsqqLJbd_UzSxi21Bnucf55THFsZeO6MpCUf98EsQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1788530467,
       "translated": false
@@ -415,12 +435,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 6,
+  "rating": 4.1,
+  "reviewCount": 7,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-25T10:00:07.059Z"
+  "lastUpdated": "2026-09-28T11:26:22.974Z"
 }

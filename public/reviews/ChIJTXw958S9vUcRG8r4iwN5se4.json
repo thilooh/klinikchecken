@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Barbara Robinson",
+      "author_url": "https://www.google.com/maps/contrib/117701487320863650688/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuT1w_4x6W4uo1rWbUd3_JXqWvx9n0Kj3ZTKS-MEQrR5r30jLr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790581891,
+      "translated": false
+    },
+    {
       "author_name": "Fabio K.",
       "author_url": "https://www.google.com/maps/contrib/110216745398332542006/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdpq-QaDTB6DMNLxv6QMyrZkYVTbicU_qW8prhmPx9H3lVtQ=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist sehr schön und elegant, und die Wartezeit war nicht so lang. Leider hatte ich während des Gesprächs das Gefühl, dass die Hautärztin es eilig hatte. Ich hatte noch Fragen und wollte weitersprechen, aber sie ist einfach aufgestanden. Dadurch hatte ich den Eindruck, dass sie wollte, dass ich gehe.\n\nIst es eine Regel, dass das Gespräch nur fünf Minuten dauern muss??? :)",
+      "time": 1789745406,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Malca Liza",
+      "author_url": "https://www.google.com/maps/contrib/108403163436580501348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdpq-QaDTB6DMNLxv6QMyrZkYVTbicU_qW8prhmPx9H3lVtQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Die Praxis ist sehr schön und elegant, und die Wartezeit war nicht so lang. Leider hatte ich während des Gesprächs das Gefühl, dass die Hautärztin es eilig hatte. Ich hatte noch Fragen und wollte weitersprechen, aber sie ist einfach aufgestanden. Dadurch hatte ich den Eindruck, dass sie wollte, dass ich gehe.\n\nIst es eine Regel, dass das Gespräch nur fünf Minuten dauern muss??? :)",
       "time": 1789745406,
       "translated": false
@@ -1450,11 +1472,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 158,
+  "reviewCount": 160,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-25T09:59:49.120Z"
+  "lastUpdated": "2026-09-28T11:26:07.189Z"
 }
