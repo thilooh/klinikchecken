@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rüdiger Siegmund",
+      "author_url": "https://www.google.com/maps/contrib/102119614579755209033/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9UQ3hbdcXeCTgMmYKJENmCmVAzvMq9-mmrizzwpeg3aDNXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche und kompetente Ärztin.\nBin dort langjähriger und zufriedener Patient.",
+      "time": 1790699222,
+      "translated": false
+    },
+    {
       "author_name": "D.",
       "author_url": "https://www.google.com/maps/contrib/104720294553824659874/reviews",
       "language": "de",
@@ -740,11 +752,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 53,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:25:54.293Z"
+  "lastUpdated": "2026-10-01T11:21:23.465Z"
 }

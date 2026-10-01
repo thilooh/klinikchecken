@@ -1,6 +1,48 @@
 {
   "reviews": [
     {
+      "author_name": "Vadim Iarovih",
+      "author_url": "https://www.google.com/maps/contrib/117460924120312241666/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKToG5DD4HfAbea-7-hoWJiERebVL4k3kbDY4cQbBxWi4Kthw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790706875,
+      "translated": false
+    },
+    {
+      "author_name": "Özlem K",
+      "author_url": "https://www.google.com/maps/contrib/105447868604937736692/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj6mktqyVPRx1GCRcDBwV25vqgZnlD8eMD23kMDf3jOxDClQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790696332,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriela Winkler",
+      "author_url": "https://www.google.com/maps/contrib/104595680072899608237/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3GUSe51c4rEIbQxIi5oSn2hzEEPpzvoW6nS1sPYjGoMUHlA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790681634,
+      "translated": false
+    },
+    {
+      "author_name": "M Mertens",
+      "author_url": "https://www.google.com/maps/contrib/104608129973245703000/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWauao2E7HnQu4bEzRws2W_JMPw9XL28nxO875WioV2v-NQeXKbgw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit mehreren Jahren Patient im Laserzentrum und habe mehrere Ärzte doch konsultiert. Alle zeichneten sich durch hohe Kompetenz aus. Ich fühle mich sicher und gut betreut. Die Angestellten an der Rezeption sind durchgängig freundlich und hilfsbereit, die Helferinnen im Praxisbereich sind ebenfalls sehr kompetent und dem Patienten zugewandt. Die hier teilweise heftigen Kritiken gg. einzelne Ärzte kann ich in keinster Weise nachvollziehen oder bestästigen.",
+      "time": 1790665526,
+      "translated": false
+    },
+    {
       "author_name": "Melanie",
       "author_url": "https://www.google.com/maps/contrib/104738142238747008168/reviews",
       "language": "de",
@@ -1559,12 +1601,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 270,
+  "rating": 4.4,
+  "reviewCount": 274,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-28T11:25:50.963Z"
+  "lastUpdated": "2026-10-01T11:21:19.721Z"
 }

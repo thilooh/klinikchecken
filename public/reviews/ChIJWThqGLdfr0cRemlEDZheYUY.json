@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Poke Mon",
+      "author_url": "https://www.google.com/maps/contrib/102375440941084795078/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJauXMjlYlpn0BPS7XdZgCjweCYju8zJkV2_V1LM6iR4AJCws=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ambulante OP. . Sehr sehr freundliches Personal nehmen sich Zeit erklären alles. Immer gerne wieder. Vielen Dank für alles",
+      "time": 1790836524,
+      "translated": false
+    },
+    {
+      "author_name": "Annett Bommer",
+      "author_url": "https://www.google.com/maps/contrib/116916115091815440995/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwKa1uAD_ceJOfi-o7OL2MiAwinAZCngpRsxx6f9N5lDb9R1iK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich empfehle das Altstadtquartier gern  und unbedingt weiter, da ich mich hier nach einem operativen Eingriff verbunden mit einem ambulanten Aufenthalt auf der Komfortstation sehr gut aufgehoben gefühlt habe. Die Aufklärung vor der OP, die OP selbst und auch die Nachsorge waren terminlich super strukturiert und durch das Schwesternteam und Ärzte stets transparent und freundlich begleitet.\nVielen Dank!\nIch wünsche allen Mitarbeitern, dass sie diesen Standard beibehalten und … alles Gute!",
+      "time": 1790835949,
+      "translated": false
+    },
+    {
+      "author_name": "Silvio Grun",
+      "author_url": "https://www.google.com/maps/contrib/112860005002737687784/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMtR5426W5KuiWK8Ii0LlUzm2w1njTEe1pqjSZC_264oVm1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Personal was sehr professionell und höflich. Die Ausstattung ist modern, alle Ärzte sind kompetent und erklären alles was man fragt. Ich habe mich im ambulanten Bereich sehr wohl gefühlt.",
+      "time": 1790768695,
+      "translated": false
+    },
+    {
+      "author_name": "Ramona Griesert",
+      "author_url": "https://www.google.com/maps/contrib/108154664310661239597/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSll7T2LdYk69PwWBpCN8M5aMsacVUvLIyEt3RLeerO9Wf9fc7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790768024,
+      "translated": false
+    },
+    {
+      "author_name": "Steffen M.",
+      "author_url": "https://www.google.com/maps/contrib/103626480363596643777/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK27tA7vg9dFq8DCmtWyLrIO1lPqMFibBM-srk5leO9QfI4dw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Team. Sehr gute Betreuung nach der OP.",
+      "time": 1790755526,
+      "translated": false
+    },
+    {
       "author_name": "Walter Weiß",
       "author_url": "https://www.google.com/maps/contrib/104342956072396876560/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpOL94FIW2EynvN7Faf4mYEj_gTgoM328es0s578dZomor08vZ=s128-c0x00000000-cc-rp-mo",
@@ -1566,11 +1624,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 500,
+  "reviewCount": 509,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-28T11:25:53.870Z"
+  "lastUpdated": "2026-10-01T11:21:22.982Z"
 }

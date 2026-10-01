@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Emre Saroglu",
+      "author_url": "https://www.google.com/maps/contrib/111545941327299466676/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQU0-7QzAdGaBUA5gsxPsojE-joOFhPy8J1YLW6yYQxX-luQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unprofessionell Finger weg ! Wir haben vor zwei Monaten hier einen Termin vereinbart ! Kamen heute an und sie meinten Termine wären abgesagt per email weil die Ärztin krank wäre ich habe keine email bekommen habe es sogar gezeigt ! Dann kam der Herr dr. Riedel und sagte das sie auch keine neue Termine anbieten können obwohl sie uns abgesagt haben weil eine Ärztin krank wäre also müssen sie einen neuen vergeben vor allem wenn man schon zwei Monate drauf wartet ! Unprofessionell ich werde die Beschwerde weiter geben wenn ihr nicht unnötig 2 Monate auf einen Termin warten wollt dann lässt die Finger weg !!",
+      "time": 1790752263,
+      "translated": false
+    },
+    {
       "author_name": "CLAUDIA Lefevre",
       "author_url": "https://www.google.com/maps/contrib/102634484063785831017/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHPngnwOiE5b0kwGz2I4vD5N5fQW_Nyn9sRzcYfPPsqHWI-g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790167652,
+      "translated": false
+    },
+    {
+      "author_name": "CLAUDIA Lefevre",
+      "author_url": "https://www.google.com/maps/contrib/102634484063785831017/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHPngnwOiE5b0kwGz2I4vD5N5fQW_Nyn9sRzcYfPPsqHWI-g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790167652,
       "translated": false
@@ -50,6 +72,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUrhufhIySaC23e0adomm3-SSL6VZZ-r_QL_HJOrakGK8uag=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1789480158,
+      "translated": false
+    },
+    {
+      "author_name": "xXJohn04 Xx",
+      "author_url": "https://www.google.com/maps/contrib/108574409445245577109/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUrhufhIySaC23e0adomm3-SSL6VZZ-r_QL_HJOrakGK8uag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1789480158,
       "translated": false
@@ -1189,12 +1221,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 274,
+  "rating": 4.5,
+  "reviewCount": 275,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-28T11:26:02.482Z"
+  "lastUpdated": "2026-10-01T11:21:32.757Z"
 }

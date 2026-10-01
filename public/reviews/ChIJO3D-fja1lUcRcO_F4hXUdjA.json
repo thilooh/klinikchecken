@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Elena Fraidych",
+      "author_url": "https://www.google.com/maps/contrib/107150014208151205483/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtZVALb_QAjf4iEmAcUNopONnbqUb3McNEtUhAxEMp6yNSffgz4Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790681148,
+      "translated": false
+    },
+    {
       "author_name": "manuel grun",
       "author_url": "https://www.google.com/maps/contrib/111966292147906745275/reviews",
       "language": "de",
@@ -1346,11 +1356,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 84,
+  "reviewCount": 85,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:08.684Z"
+  "lastUpdated": "2026-10-01T11:21:40.007Z"
 }

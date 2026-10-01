@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Laura Fietz",
+      "author_url": "https://www.google.com/maps/contrib/107995096056734363908/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjXXm5eNrSwADZAO_HbnAnLnx_K-spoA6Z09MJdhnKzc6SSg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich sehr gut aufgehoben gefühlt bei Herrn Dr.Kusenack. Man merkt, dass er sehr viel Ahnung hat und auf dem neuesten Stand der Medizin ist - und das Wichtigste: Der Mensch steht hier ganzheitlich im Vordergrund. Er nimmt sich viel Zeit und versucht wirklich die Ursache zu verstehen - ganzheitlich und mit viel Empathie. Er hat zu keinster Zeit versucht mir irgendetwas anzudrehen und mir realistische Einschätzungen zu geben. In der Praxis habe ich mich sehr wohl gefühlt und das Geld, was ich als gesetzlich Versicherte investiert habe, hat sich gelohnt. Vielen Dank!",
+      "time": 1790756912,
+      "translated": false
+    },
+    {
+      "author_name": "Tanja Arden",
+      "author_url": "https://www.google.com/maps/contrib/109254798751186565311/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpOIr_0chGvbosJZyUy8BWOld64OzKw8bpQtIHu50fsz9WWA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein ganz toller, emphatischer und absolut patenter Doc! Meine Mutter hat sich sehr gut aufgehoben gefühlt. Auch hatte Dr. Kusenack sich noch meines Vaters angenommen, obwohl dieser keinen Termin bei ihm hatte.\nAlles in allem hat der Doc sich seine 5 Sterne verdient!\nNoch einmal ein herzliches Dankeschön auch für den kurzfristig Termin am späten Abend!\n\nAbsolut empfehlenswert!\nIch würde ja sagen: Gerne immer wieder, aber wir bleiben dann doch lieber alle gesund ;-)\n\nLiebe Grüße aus Kleve\nFamilie Thies/ Arden",
+      "time": 1790717068,
+      "translated": false
+    },
+    {
       "author_name": "Inci Kurttas",
       "author_url": "https://www.google.com/maps/contrib/114899672765806040425/reviews",
       "language": "de",
@@ -116,6 +140,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPdREfq2rcTJcRJGoFEK4IHXGNj_FZeyJv00_jh5otd70nrQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1785516224,
+      "translated": false
+    },
+    {
+      "author_name": "Pedja",
+      "author_url": "https://www.google.com/maps/contrib/109828245384499261272/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPdREfq2rcTJcRJGoFEK4IHXGNj_FZeyJv00_jh5otd70nrQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1785516224,
       "translated": false
@@ -927,11 +961,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 83,
+  "reviewCount": 85,
   "summary": [
     "Dr. Kusenack nimmt sich außergewöhnlich viel Zeit — Patienten reisen teils extra aus dem Ausland an",
     "Krampfader-Behandlungen mit sehr hoher Erfolgsrate, persönliche Nachsorge noch am OP-Abend",
     "Familiäre, vertrauensvolle Atmosphäre — auch Angehörige werden daraufhin Patienten"
   ],
-  "lastUpdated": "2026-09-28T11:25:40.577Z"
+  "lastUpdated": "2026-10-01T11:21:08.162Z"
 }

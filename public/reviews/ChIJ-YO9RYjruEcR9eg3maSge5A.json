@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Calderon",
+      "author_url": "https://www.google.com/maps/contrib/106896679473703119191/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwsew4hCc2YNSi3W2ytRBCbG_2OeMk3tSB-t1CTsYZBOBScA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde an beiden Leisten und am Bauchnabel gleichzeitig am 9.9.26 Operiert.Hatte auch eigentlich sehr schnell einen Termin bekommen,hatte aber da nur leider das Pech gehabt das der Dr.in den (wohl verdienten )Urlaub gegangen ist.Danach aber sofort ein Termin bekommen habe.\nich bin ein schisser vor dem Herrn was OPs angeht,was das Team auch  schnell bemerkt hatte . Was das Team und der Herr Dr.Wais im speziellen mir da aber die Ängste genommen haben, ist der Wahnsinn !!👍.\nDie offene, ehrlich,und lässige Art des Herrn Dr Wais haben mich dabei sehr Beruhigt 🤗.\nDie Gespräche,der Ablauf,meine Fragen und die OP war alles Super verlaufen.\nDanke nochmal für alles !!\n\nKann diese Praxis wirklich nur weiter Empfehlen und wünschte es gäbe mehrere von dieser Sorte (Ärzte und Personal).\nMfg.",
+      "time": 1790680318,
+      "translated": false
+    },
+    {
       "author_name": "Hasan Anac",
       "author_url": "https://www.google.com/maps/contrib/111912601884064181224/reviews",
       "language": "de",
@@ -23,11 +35,31 @@
       "translated": false
     },
     {
+      "author_name": "Roland Dziubinsky",
+      "author_url": "https://www.google.com/maps/contrib/114325008432678707408/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1sKP4T4q0S1LGvcxkU6lYbSSdoHPNZOH-iaDcG86MOmUowA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790240429,
+      "translated": false
+    },
+    {
       "author_name": "Mara Moldenhauer",
       "author_url": "https://www.google.com/maps/contrib/107684518922470939280/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq4nLilaHk47gsUqOVVNsWjmPORMq5Hti8rOErD7BI9jvXYw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790232029,
+      "translated": false
+    },
+    {
+      "author_name": "Mara Moldenhauer",
+      "author_url": "https://www.google.com/maps/contrib/107684518922470939280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq4nLilaHk47gsUqOVVNsWjmPORMq5Hti8rOErD7BI9jvXYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790232029,
       "translated": false
@@ -1174,11 +1206,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 147,
+  "reviewCount": 148,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:12.188Z"
+  "lastUpdated": "2026-10-01T11:21:44.089Z"
 }

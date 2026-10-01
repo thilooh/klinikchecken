@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Jouneit Khalil",
+      "author_url": "https://www.google.com/maps/contrib/106082815240196827120/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXajokVDFZb7y6lEQ-iIyguQwwwflojo-n6yb0CoQnT-nI8439kiA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Heike Luther ist eine sehr freundliche und einfühlsame Ärztin. Sie nimmt sich viel Zeit für ihre Patienten, hört aufmerksam zu und geht auf alle Fragen und Anliegen sehr verständnisvoll ein. Ihre ruhige und herzliche Art schafft sofort Vertrauen und man fühlt sich bei ihr sehr gut aufgehoben.\n\nIch bin mit ihrer Behandlung und ihrem Umgang mit den Patienten sehr zufrieden und kann sie aufgrund ihrer Kompetenz, Freundlichkeit und ihres hervorragenden Stils nur weiterempfehlen. Vielen Dank für die tolle Betreuung!\nDanke 🙏",
+      "time": 1790848074,
+      "translated": false
+    },
+    {
+      "author_name": "Daniela Buschfeld",
+      "author_url": "https://www.google.com/maps/contrib/104397332199568555635/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2jbSey1jEaKCL8dPlOll0kPRTTPvKl9D42vZDQM_ecg8jgCMZ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr netter und einfühlsamer Arzt. Kann ich nur weiter empfehlen. Die Dame an der Anmeldung war auch super nett. Vielen Dank für den angenehmen Besuch.",
+      "time": 1790719573,
+      "translated": false
+    },
+    {
+      "author_name": "Wahida Sediqi",
+      "author_url": "https://www.google.com/maps/contrib/106470341848610798415/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4R3qDOJyv8wM1lhKBnpFHTaevsBYaswPwVccxX7-OS8hLhJDI=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790668146,
+      "translated": false
+    },
+    {
       "author_name": "Luca",
       "author_url": "https://www.google.com/maps/contrib/116250121884660459581/reviews",
       "language": "de",
@@ -38,6 +72,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkTkE8pmDbW45fMOc3Wg3ZDVlLevHXCPmsG2ryYIxe_ldTyA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788983982,
+      "translated": false
+    },
+    {
+      "author_name": "Miroslav Bulajić",
+      "author_url": "https://www.google.com/maps/contrib/101654963992981285845/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkTkE8pmDbW45fMOc3Wg3ZDVlLevHXCPmsG2ryYIxe_ldTyA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1788983982,
       "translated": false
@@ -862,7 +906,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 128,
+  "reviewCount": 130,
   "summary": [],
-  "lastUpdated": "2026-09-28T11:25:50.314Z"
+  "lastUpdated": "2026-10-01T11:21:18.995Z"
 }

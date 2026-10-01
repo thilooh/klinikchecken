@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "J. A.",
+      "author_url": "https://www.google.com/maps/contrib/103224730964061444587/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA5neJ4mDnXeHoi_53x1gJpdr89Ts6SZws4k8AjLNT3WUMzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Praxis uneingeschränkt weiterempfehlen. Man bekommt verhältnismäßig schnell einen Termin und alle sind total freundlich. Würde auf keinen Fall mehr woanders hingehen. Ich habe mich zu jeder Zeit wohl und ernst genommen gefühlt. Es wurde sich Zeit gelassen und ich hatte nicht das Gefühl, dass ich „abgearbeitet“ werde o.ä.",
+      "time": 1790695680,
+      "translated": false
+    },
+    {
       "author_name": "Carolina Moran",
       "author_url": "https://www.google.com/maps/contrib/101761462044087329385/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqjcRyodV9zfDnqG6T3xEKRZRnsxPl4iEE7CFh1HuNY4RuoA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Der beste Arzttermin, den ich je hatte!\n\nIch wurde pünktlich aufgerufen und das gesamte Personal war sehr freundlich. Ich werde ohne Zweifel für weitere Behandlungen wiederkommen.",
+      "time": 1790089272,
+      "translated": false
+    },
+    {
+      "author_name": "Carolina Moran",
+      "author_url": "https://www.google.com/maps/contrib/101761462044087329385/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqjcRyodV9zfDnqG6T3xEKRZRnsxPl4iEE7CFh1HuNY4RuoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Der beste Arzttermin, den ich je hatte!\n\nIch wurde pünktlich aufgerufen und das gesamte Personal war sehr freundlich. Ich werde ohne Zweifel für weitere Behandlungen wiederkommen.",
       "time": 1790089272,
       "translated": false
@@ -1391,12 +1415,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 156,
+  "rating": 4.9,
+  "reviewCount": 154,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:25:51.391Z"
+  "lastUpdated": "2026-10-01T11:21:20.276Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jérôme Ruhf",
+      "author_url": "https://www.google.com/maps/contrib/109092986556417358604/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfSpzjYRdt-gqB5XuDPY1hnaVFfLyfbRMaUNCVqcvZNat-iKM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute mal wieder dort gewesen wegen psoriasis 70% von Körper betroffenen dann bekommt man eine arme salbe und Licht Therapie 3 mal in der Woche 😓 also da hätte ich auch zuhause bleiben können und ein Tag Urlaub sparen können!",
+      "time": 1790762298,
+      "translated": false
+    },
+    {
+      "author_name": "K W",
+      "author_url": "https://www.google.com/maps/contrib/117914551319308351222/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGdIjjXji2dGQplpanXNjMs0sxGSwtzKWN3cMHOJB0btfMe2Lu=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein sehr freundliches und sympathisches Team, das man nur empfehlen kann.",
+      "time": 1790678120,
+      "translated": false
+    },
+    {
       "author_name": "Udo Hölscher",
       "author_url": "https://www.google.com/maps/contrib/100279750896190818779/reviews",
       "language": "de",
@@ -13,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Udo Hölscher",
+      "author_url": "https://www.google.com/maps/contrib/100279750896190818779/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk7q6PR0V6dYxH7dZkbklUr48Hw9Pq_YDgdHL-Ri8wcBsyng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Tolle Praxis mit kompetenten Ärzten und sehr freundlichem Personal, schon nach dem ersten Besuch waren Beschwerden weg. Wartezeit sage und schreibe weniger als 7 Minuten!!! Bin begeistert nur zum Empfehlen!!",
+      "time": 1790072557,
+      "translated": false
+    },
+    {
       "author_name": "Alex Greenwood",
       "author_url": "https://www.google.com/maps/contrib/105114770148799134595/reviews",
       "language": "de",
@@ -20,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdqhSMqzMYwPkQO7FbSUyJ1F4Tk8khdkNNo-tzLO0-ooCsMQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "\"Leider sind derzeit alle Mitarbeiter im Gespräch, bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal\". Diesen Satz habe ich ca. 40 Mal gehört zu unterschiedlichsten Zeiten. Es gibt keine telefonische Warteschlange, man wird direkt aus der Leitung geworfen. Wie soll ich einen Termin vereinbaren? Oder eine Frage zu meinem Problem beantwortet zu bekommen? Ich finde es traurig, wie man heutzutage mit Patienten umgeht.",
+      "time": 1789993406,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Greenwood",
+      "author_url": "https://www.google.com/maps/contrib/105114770148799134595/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdqhSMqzMYwPkQO7FbSUyJ1F4Tk8khdkNNo-tzLO0-ooCsMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "\"Leider sind derzeit alle Mitarbeiter im Gespräch, bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal\". Diesen Satz habe ich ca. 40 Mal gehört zu unterschiedlichsten Zeiten. Es gibt keine telefonische Warteschlange, man wird direkt aus der Leitung geworfen. Wie soll ich einen Termin vereinbaren? Oder eine Frage zu meinem Problem beantwortet zu bekommen? Ich finde es traurig, wie man heutzutage mit Patienten umgeht.",
       "time": 1789993406,
       "translated": false
@@ -1475,12 +1523,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 238,
+  "rating": 4.5,
+  "reviewCount": 240,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:02.058Z"
+  "lastUpdated": "2026-10-01T11:21:32.260Z"
 }

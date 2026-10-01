@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "I H",
+      "author_url": "https://www.google.com/maps/contrib/114093338838336066481/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT8vpHOZr7gvNw6VrtvpZL0K4OtbVVJKzevvkURHPQ5FjRNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Termine für gesetzlich Versicherte - auch Bestandspatienten - werden laut Mitarbeiter am Telefon nur auf ein Jahr im Voraus vergeben. Für Menschen mit regelmäßigem und ggf. auch kurzfristigerem (aber nicht notfallmäßigem) Kontrollbedarf wurde hier telefonisch keine Lösung angeboten. Auch wenn eine regelmäßigere Kontrolle von der Ärztin angeraten war. Für Privatpatienten gibt es über Doctolib hingegen sehr kurzfristig Termine. Die einzige Untersuchung die ich unter diesen Umständen mit langer Wartezeit wahrnehmen konnte erschien mir professionell und fachlich versiert, die Praxis ist gepflegt und modern eingerichtet. Leider aufgrund der Terminsituation für mich aktuell trotzdem keine Alternative.",
+      "time": 1789393922,
+      "translated": false
+    },
+    {
       "author_name": "Sara T.",
       "author_url": "https://www.google.com/maps/contrib/111775963623270620246/reviews",
       "language": "de",
@@ -224,6 +236,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ6FErI8qNZttjcB6u0iWKVjP34skOAS2VJuks1lbbUzdD5A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Top Praxis, gutes Angebot, Termine ok, parken mit etwas Glück direkt vor der Tür",
+      "time": 1785442815,
+      "translated": false
+    },
+    {
+      "author_name": "Scotty",
+      "author_url": "https://www.google.com/maps/contrib/108872855014064635465/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ6FErI8qNZttjcB6u0iWKVjP34skOAS2VJuks1lbbUzdD5A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Top Praxis, gutes Angebot, Termine ok, parken mit etwas Glück direkt vor der Tür",
       "time": 1785442815,
       "translated": false
@@ -667,5 +691,5 @@
   "rating": 4.8,
   "reviewCount": 79,
   "summary": [],
-  "lastUpdated": "2026-09-28T11:25:42.047Z"
+  "lastUpdated": "2026-10-01T11:21:09.700Z"
 }

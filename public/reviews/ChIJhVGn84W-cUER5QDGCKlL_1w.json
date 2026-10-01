@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Elfi Maith",
+      "author_url": "https://www.google.com/maps/contrib/117855893524850444113/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxnQpKpEpxIxCsedUlOy0v1lozLv7P6ZYZxrRAnyGVxdykPw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetenter Arzt, sehr freundlich und beantwortet jede Frage verständlich. Nimmt sich Zeit,man fühlt sich gut aufgehoben.",
+      "time": 1790784560,
+      "translated": false
+    },
+    {
       "author_name": "Frank R. (Frank R.)",
       "author_url": "https://www.google.com/maps/contrib/116058755202374551152/reviews",
       "language": "de",
@@ -1052,11 +1064,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 86,
+  "reviewCount": 87,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:09.948Z"
+  "lastUpdated": "2026-10-01T11:21:41.512Z"
 }

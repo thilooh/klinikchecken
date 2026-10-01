@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Denis Kadirov",
+      "author_url": "https://www.google.com/maps/contrib/101949214065658612468/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ5xAxGLH5UANr63L7dH3OqMVprkJPltPs67ESc98oYiCV6jrHCg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Der Mitarbeiter am Telefon sagte, ich müsse aus eigener Tasche bezahlen. Sie arbeiten nicht mit der Krankenversicherung zusammen.",
+      "time": 1790160680,
+      "translated": false
+    },
+    {
       "author_name": "S. Seefried",
       "author_url": "https://www.google.com/maps/contrib/113319199451614137742/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmk7088Aj0ds0Wxo-vqMDlhWbvhwnPvm67T51PjDk4JFH1w=s128-c0x00000000-cc-rp-mo-ba4",
@@ -40,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmk7088Aj0ds0Wxo-vqMDlhWbvhwnPvm67T51PjDk4JFH1w=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1789408927,
+      "translated": false
+    },
+    {
+      "author_name": "S. Seefried",
+      "author_url": "https://www.google.com/maps/contrib/113319199451614137742/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmk7088Aj0ds0Wxo-vqMDlhWbvhwnPvm67T51PjDk4JFH1w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1789408927,
       "translated": false
@@ -76,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVk6w3IfKq2TzbLEerfWmyeTt7Mth-9KGEcuFA9ZqofVQYykZ0=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Meine Erfahrung am Telefon war leider nicht besonders positiv. Die Mitarbeiterin meldete sich am Telefon, ohne eine Begrüßung. Ich habe kurz erklärt, dass ich gerne einen Termin vereinbaren möchte. Daraufhin wurde gefragt, ob die Patientin privat versichert ist. Nachdem ich dies verneint hatte, wurde mir mitgeteilt, dass eine Behandlung nur als Selbstzahlerin möglich sei.\nAls ich daraufhin sagte, dass es dann leider nicht infrage kommt, wurde das Gespräch lediglich mit einem „okay“ beendet. Eine Verabschiedung gab es nicht…\nEin freundliches „Hallo“ am Anfang und eine kurze Verabschiedung am Ende sollten meiner Meinung nach selbstverständlich sein.",
+      "time": 1788947992,
+      "translated": false
+    },
+    {
+      "author_name": "Ella",
+      "author_url": "https://www.google.com/maps/contrib/117989491210173369441/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVk6w3IfKq2TzbLEerfWmyeTt7Mth-9KGEcuFA9ZqofVQYykZ0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Meine Erfahrung am Telefon war leider nicht besonders positiv. Die Mitarbeiterin meldete sich am Telefon, ohne eine Begrüßung. Ich habe kurz erklärt, dass ich gerne einen Termin vereinbaren möchte. Daraufhin wurde gefragt, ob die Patientin privat versichert ist. Nachdem ich dies verneint hatte, wurde mir mitgeteilt, dass eine Behandlung nur als Selbstzahlerin möglich sei.\nAls ich daraufhin sagte, dass es dann leider nicht infrage kommt, wurde das Gespräch lediglich mit einem „okay“ beendet. Eine Verabschiedung gab es nicht…\nEin freundliches „Hallo“ am Anfang und eine kurze Verabschiedung am Ende sollten meiner Meinung nach selbstverständlich sein.",
       "time": 1788947992,
       "translated": false
@@ -954,5 +988,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:25:51.607Z"
+  "lastUpdated": "2026-10-01T11:21:20.522Z"
 }

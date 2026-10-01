@@ -1,11 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "M V",
+      "author_url": "https://www.google.com/maps/contrib/100632800970090873400/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5b4hzB-iVlNlL7AyM04FO3d-O0DWg3jaafAHxsvOVF3wux8sQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790704029,
+      "translated": false
+    },
+    {
       "author_name": "Melanie Xandra Oldewurtel",
       "author_url": "https://www.google.com/maps/contrib/113666229836216461911/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_BGjvVX9y734omCPZKemBgFglRfoiLDy82U-aNoSbKZCL3A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790098101,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie Xandra Oldewurtel",
+      "author_url": "https://www.google.com/maps/contrib/113666229836216461911/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_BGjvVX9y734omCPZKemBgFglRfoiLDy82U-aNoSbKZCL3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790098101,
       "translated": false
@@ -94,6 +114,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4q9v5ixC1aqc0ZZ6WMnbpb5s_iFZSX45eUq-AZcYqrsAw-g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1788328343,
+      "translated": false
+    },
+    {
+      "author_name": "Carolin Dürkop",
+      "author_url": "https://www.google.com/maps/contrib/104900605042443126109/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4q9v5ixC1aqc0ZZ6WMnbpb5s_iFZSX45eUq-AZcYqrsAw-g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1788328343,
       "translated": false
@@ -982,11 +1012,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 78,
+  "reviewCount": 79,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:25:52.038Z"
+  "lastUpdated": "2026-10-01T11:21:21.003Z"
 }

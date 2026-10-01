@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Manfred Quinte",
+      "author_url": "https://www.google.com/maps/contrib/106520527149337890085/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzz0uV-ItJywoquCm_2oIvy0WTbrhchaAonkFP0cN2muvgZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790684714,
+      "translated": false
+    },
+    {
       "author_name": "Jens Freudiger (Jens2111)",
       "author_url": "https://www.google.com/maps/contrib/112656931465173312779/reviews",
       "language": "de",
@@ -540,11 +550,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 262,
+  "reviewCount": 263,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:06.115Z"
+  "lastUpdated": "2026-10-01T11:21:36.945Z"
 }

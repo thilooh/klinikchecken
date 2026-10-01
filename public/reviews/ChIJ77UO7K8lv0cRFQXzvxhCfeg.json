@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Simone -",
+      "author_url": "https://www.google.com/maps/contrib/115171891106495192036/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGzNxgJxd5Y_4fRTXE1BN8R5Mr2iRG1pYkEjhZwDIMgO7Uaw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Als neue Patientin konnte ich bei einem akuten Anliegen sehr schnell einen Termin bekommen.\nIch wurde von einer sehr netten Ärztin sehr gut beraten und mir wurde geholfen.\nAbsolute Empfehlung!",
+      "time": 1788886776,
+      "translated": false
+    },
+    {
       "author_name": "Sophia",
       "author_url": "https://www.google.com/maps/contrib/114102948320569283447/reviews",
       "language": "de",
@@ -236,6 +248,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5X-jpyGJDAZ1cw06lVCT7oj__VnVEqkSJVwDw8AeQ0SzcGQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1785503286,
+      "translated": false
+    },
+    {
+      "author_name": "Maria Isabella Heigl",
+      "author_url": "https://www.google.com/maps/contrib/105044314481306057042/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5X-jpyGJDAZ1cw06lVCT7oj__VnVEqkSJVwDw8AeQ0SzcGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1785503286,
       "translated": false
@@ -927,5 +949,5 @@
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-09-28T11:25:38.834Z"
+  "lastUpdated": "2026-10-01T11:21:06.144Z"
 }

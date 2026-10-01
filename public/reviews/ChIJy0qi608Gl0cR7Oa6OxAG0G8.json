@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Fatima El Khayat",
+      "author_url": "https://www.google.com/maps/contrib/114980411881791040499/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuwinaMvwoBTwB7g_bBt5AutB72iVrHfDx0CxGdkp0pAVnmbKx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790615859,
+      "translated": false
+    },
+    {
       "author_name": "Gerold Gutmann",
       "author_url": "https://www.google.com/maps/contrib/105932331973493948589/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBR6AEf06HNV3Be6dfQ34BmATMEJTy0_uVWRYBT-pOH36nKA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -40,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiJeX46O93Ub_7x8LoMYdGE-LSOcfBJPLzOoeP_qeZpAXMhw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Heute Morgen hat mir Herr Dr Calvo eine Hautprobe entnommen. Es ging schnell, professionell und fast schmerzlos😀.\n\nIch finde eine sehr gute organisierte Praxis. Auch nachdem Professor Carolin ausgeschieden ist. Hatte Termin und musste keine 10 Minuten warten.\n\nFühlte und fühle mich immer sehr gut beraten und behandelt.",
+      "time": 1789633640,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Pan",
+      "author_url": "https://www.google.com/maps/contrib/101568990332040111367/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiJeX46O93Ub_7x8LoMYdGE-LSOcfBJPLzOoeP_qeZpAXMhw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Heute Morgen hat mir Herr Dr Calvo eine Hautprobe entnommen. Es ging schnell, professionell und fast schmerzlos😀.\n\nIch finde eine sehr gute organisierte Praxis. Auch nachdem Professor Carolin ausgeschieden ist. Hatte Termin und musste keine 10 Minuten warten.\n\nFühlte und fühle mich immer sehr gut beraten und behandelt.",
       "time": 1789633640,
       "translated": false
@@ -1490,11 +1512,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1123,
+  "reviewCount": 1124,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-28T11:26:01.846Z"
+  "lastUpdated": "2026-10-01T11:21:31.994Z"
 }

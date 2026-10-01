@@ -33,6 +33,16 @@
       "translated": false
     },
     {
+      "author_name": "Alexej Eventov",
+      "author_url": "https://www.google.com/maps/contrib/114600666093399667553/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKZyiiByadMUIjAoL6B9aUIeOiiznXk69od1RA4q0_TPC8wQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790147389,
+      "translated": false
+    },
+    {
       "author_name": "Eva Day",
       "author_url": "https://www.google.com/maps/contrib/111940089367569878456/reviews",
       "language": "de",
@@ -93,6 +103,18 @@
       "translated": false
     },
     {
+      "author_name": "bubblinski bubbl",
+      "author_url": "https://www.google.com/maps/contrib/113045027699802353446/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7HP8dL31HtfSTxO1XDxBb3OdzyZn3oTLvR3ueatN5GQM2Duzf=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Nettes Team aber lange Wartezeiten.",
+      "time": 1789486558,
+      "translated": false
+    },
+    {
       "author_name": "Marcel Friedrich",
       "author_url": "https://www.google.com/maps/contrib/103358315390249137473/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2B90-MkZRwgjt8qcy6n1L1I5Di-3mKXds8FnbpM-d0MaBXw=s128-c0x00000000-cc-rp-mo",
@@ -108,6 +130,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2B90-MkZRwgjt8qcy6n1L1I5Di-3mKXds8FnbpM-d0MaBXw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1789394629,
+      "translated": false
+    },
+    {
+      "author_name": "Marcel Friedrich",
+      "author_url": "https://www.google.com/maps/contrib/103358315390249137473/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2B90-MkZRwgjt8qcy6n1L1I5Di-3mKXds8FnbpM-d0MaBXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1789394629,
       "translated": false
@@ -1620,5 +1652,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:07.398Z"
+  "lastUpdated": "2026-10-01T11:21:38.517Z"
 }

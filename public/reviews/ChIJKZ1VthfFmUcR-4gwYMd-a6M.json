@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Cristian Miclos",
+      "author_url": "https://www.google.com/maps/contrib/109651430126519788815/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7TVyA8Yvswmi4M9n0H4hEUKhsRc5BVM94-Nfyc2tCqdb5oWQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790832864,
+      "translated": false
+    },
+    {
+      "author_name": "Katarzyna Jurek",
+      "author_url": "https://www.google.com/maps/contrib/108319910605741586566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKIYO4P9PpchoL06NKkn4VEX9b40z_ap_V_N9qsJ6Xh5ZGzw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790611238,
+      "translated": false
+    },
+    {
       "author_name": "Nici Em",
       "author_url": "https://www.google.com/maps/contrib/106811061355185315717/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwju7CruIgdPibF3OhwTbD0eLwjquiOvpyVnUYiz49ZDRmUQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -11,6 +31,18 @@
       "translated": false
     },
     {
+      "author_name": "Claudia Rischer",
+      "author_url": "https://www.google.com/maps/contrib/113846403128090296715/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI77FDEWdJbI2SqYTByHFr3KBwCFX6nyQp-XzruqAD9_sQAdw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider enttäuschend. Trotz Akuttermin mussten wir 30 Minuten warten – mit unserem einjährigen Kind als Patient. Bei einem Termin, für den zusätzlich 70 € berechnet werden und trotz Privatversicherung finde ich das nicht angemessen. Wir werden uns künftig einen anderen Hautarzt suchen. War leider auch nicht das erste Mal..",
+      "time": 1790102457,
+      "translated": false
+    },
+    {
       "author_name": "Paolo",
       "author_url": "https://www.google.com/maps/contrib/116348506089967863709/reviews",
       "language": "de",
@@ -18,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTYBaKhc0mAh1mSXGCIjPqEyl5IQaobVRK2DauOvQTCfMuGA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Bin sehr zufrieden mit der Laser-Venen-OP. Hatte fingerdicke Venen im Bereich der Kniekehle und am Schienbein. In nur 45 Minuten und ohne Vollnarkose war der Eingriff von Herrn Dr. Tesmann erledigt. Keine Schmerzen, nur ein ganz leichtes Ziehen oder Brennen während des Eingriffs.  Ich konnte schon eine halbe Stunde nach dem Eingriff nach Hause gehen. Nach 3 Wochen hat man fast nichts mehr gesehen von dem Eingriff, lediglich kleine Verhärtungen an den Einstichstellen. Nach einem halben Jahr waren die dann komplett zurückgebildet. Das tolle, ich muss jetzt keine Kompressionsstrümpfe mehr tragen. Die gesetzlichen Krankenkassen hat alles bezahlt. Ich kann Dr. Tesmann uneingeschränkt empfehlen. Wenn man zukünftig auch mal telefonisch die Rezeption erreichen könnte, dann könnte man nochmal einen Stern zusätzlich geben. Über Doctolib bekommt man allerdings relativ schnell einen Termin, auch als Kassenpatient, was nicht selbstverständlich ist.",
+      "time": 1790096863,
+      "translated": false
+    },
+    {
+      "author_name": "Paolo",
+      "author_url": "https://www.google.com/maps/contrib/116348506089967863709/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTYBaKhc0mAh1mSXGCIjPqEyl5IQaobVRK2DauOvQTCfMuGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Bin sehr zufrieden mit der Laser-Venen-OP. Hatte fingerdicke Venen im Bereich der Kniekehle und am Schienbein. In nur 45 Minuten und ohne Vollnarkose war der Eingriff von Herrn Dr. Tesmann erledigt. Keine Schmerzen, nur ein ganz leichtes Ziehen oder Brennen während des Eingriffs.  Ich konnte schon eine halbe Stunde nach dem Eingriff nach Hause gehen. Nach 3 Wochen hat man fast nichts mehr gesehen von dem Eingriff, lediglich kleine Verhärtungen an den Einstichstellen. Nach einem halben Jahr waren die dann komplett zurückgebildet. Das tolle, ich muss jetzt keine Kompressionsstrümpfe mehr tragen. Die gesetzlichen Krankenkassen hat alles bezahlt. Ich kann Dr. Tesmann uneingeschränkt empfehlen. Wenn man zukünftig auch mal telefonisch die Rezeption erreichen könnte, dann könnte man nochmal einen Stern zusätzlich geben. Über Doctolib bekommt man allerdings relativ schnell einen Termin, auch als Kassenpatient, was nicht selbstverständlich ist.",
       "time": 1790096863,
       "translated": false
@@ -1467,8 +1511,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 337,
+  "rating": 4.6,
+  "reviewCount": 329,
   "summary": [],
-  "lastUpdated": "2026-09-28T11:25:50.092Z"
+  "lastUpdated": "2026-10-01T11:21:18.735Z"
 }

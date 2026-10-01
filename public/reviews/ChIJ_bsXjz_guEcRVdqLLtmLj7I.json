@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Salam Chooqee",
+      "author_url": "https://www.google.com/maps/contrib/101290443221151007120/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6DA6uijJ_wkX1WvqQu9ju0fLhy0MOrEqtLOdOJxyjntOjQLeF=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Am Empfang fragt mich die Schwester ob ich akute Beschwerden habe, ich sage ja, sie bittet mir einen Termin in zwei Wochen!",
+      "time": 1790691071,
+      "translated": false
+    },
+    {
       "author_name": "Lin Ni",
       "author_url": "https://www.google.com/maps/contrib/100003852669521262282/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvngGHahzTaLPLCPBnEaeqaM2hFWyeYsSZmZjDLLI2hC53XPqZ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790103045,
+      "translated": false
+    },
+    {
+      "author_name": "Lin Ni",
+      "author_url": "https://www.google.com/maps/contrib/100003852669521262282/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvngGHahzTaLPLCPBnEaeqaM2hFWyeYsSZmZjDLLI2hC53XPqZ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790103045,
       "translated": false
@@ -1363,12 +1385,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 250,
+  "rating": 4.6,
+  "reviewCount": 251,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:25:57.924Z"
+  "lastUpdated": "2026-10-01T11:21:27.470Z"
 }

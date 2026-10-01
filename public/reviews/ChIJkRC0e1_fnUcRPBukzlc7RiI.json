@@ -247,6 +247,18 @@
       "translated": false
     },
     {
+      "author_name": "Florin Antochi",
+      "author_url": "https://www.google.com/maps/contrib/111988835344762489389/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUqJDPcuy5WSoVexkmAgV6_wJ2YDqogOBuf47AxGKJyg2eUEXU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Das gesamte Praxisteam ist sehr freundlich und top organisiert. Die Ärztin ist äußerst professionell, empathisch und nimmt sich die nötige Zeit, um alles im Detail zu erklären.",
+      "time": 1785439680,
+      "translated": false
+    },
+    {
       "author_name": "Miriam Divya",
       "author_url": "https://www.google.com/maps/contrib/104359904873376900170/reviews",
       "language": "en",
@@ -890,5 +902,5 @@
   "rating": 4.5,
   "reviewCount": 121,
   "summary": [],
-  "lastUpdated": "2026-09-28T11:25:46.865Z"
+  "lastUpdated": "2026-10-01T11:21:15.021Z"
 }

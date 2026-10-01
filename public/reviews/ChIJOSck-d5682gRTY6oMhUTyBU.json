@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "G. G. (SONNENBLÜMCHEN)",
+      "author_url": "https://www.google.com/maps/contrib/105254925478917189349/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXbShasa8XJDoIWB_60UaeovHV9gZPG23yp3xb2EyaIaQr9AU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herzliche Frau Dr.,ich habe mich extrem wohl gefühlt, menschlich ,sehr informativ. Es wurde sich viel Zeit genommen von Anfang an ,der junge sehr liebe Arzthelfer ebenfalls sehr herzlich .Mit meiner HOCM Vorerkrankungen, wurde ich bestens aufgeklärt und beraten. Ein tolles Team .Herzlichen Dank",
+      "time": 1790830945,
+      "translated": false
+    },
+    {
       "author_name": "Sonya Danielyan",
       "author_url": "https://www.google.com/maps/contrib/115065020939551326563/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiW8vheIXV7SlTQJ2AiUOKdj3U5mIJIXcmi0oxxNRLbg25dw=s128-c0x00000000-cc-rp-mo",
@@ -112,6 +124,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCGPDU1SQQfNy16s0zhYgJZ4xKS6IRXjf0n-YL56DWt-hXEA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ein riesiges Kompliment an das gesamte Praxisteam und Frau Dr. Mayböck! Ich kam heute Nachmittag mit großen Sorgen wegen eines Gefässverschlusses spontan und ohne Termin in die Praxis und wurde vom ersten Moment an unglaublich nett und zuvorkommend behandelt. Frau Dr. Mayböck hat sich enorm viel Zeit für mich genommen, mich extrem kompetent und auf Augenhöhe aufgeklärt und mich mit einem gründlichen Ultraschall beruhigt. Man merkt sofort die jahrelange Erfahrung und die echte Empathie für den Patienten. Herzlichen Dank für diese tolle medizinische und menschliche Hilfe, besser geht es nicht!",
+      "time": 1788277538,
+      "translated": false
+    },
+    {
+      "author_name": "Katja N",
+      "author_url": "https://www.google.com/maps/contrib/117796019154291494993/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCGPDU1SQQfNy16s0zhYgJZ4xKS6IRXjf0n-YL56DWt-hXEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ein riesiges Kompliment an das gesamte Praxisteam und Frau Dr. Mayböck! Ich kam heute Nachmittag mit großen Sorgen wegen eines Gefässverschlusses spontan und ohne Termin in die Praxis und wurde vom ersten Moment an unglaublich nett und zuvorkommend behandelt. Frau Dr. Mayböck hat sich enorm viel Zeit für mich genommen, mich extrem kompetent und auf Augenhöhe aufgeklärt und mich mit einem gründlichen Ultraschall beruhigt. Man merkt sofort die jahrelange Erfahrung und die echte Empathie für den Patienten. Herzlichen Dank für diese tolle medizinische und menschliche Hilfe, besser geht es nicht!",
       "time": 1788277538,
       "translated": false
@@ -1316,11 +1340,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 126,
+  "reviewCount": 127,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-09-28T11:25:58.133Z"
+  "lastUpdated": "2026-10-01T11:21:27.733Z"
 }

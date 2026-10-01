@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christine L.",
+      "author_url": "https://www.google.com/maps/contrib/109358436605835702982/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0-arN3oNNPjLyhoEGHN9Spz92xyWaJ172HZN7mSvy-PTPqw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine wunderbare Ärztin! Professionell, empathisch, zugewandt - ich habe mich sehr gut aufgehoben und verstanden gefühlt und wurde fachlich einwandfrei beraten. Herzlichen Dank!",
+      "time": 1790760171,
+      "translated": false
+    },
+    {
       "author_name": "Paula Kinzel",
       "author_url": "https://www.google.com/maps/contrib/104414036868447766620/reviews",
       "language": "de",
@@ -230,7 +242,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 42,
+  "reviewCount": 43,
   "summary": [],
-  "lastUpdated": "2026-09-28T11:25:47.087Z"
+  "lastUpdated": "2026-10-01T11:21:15.265Z"
 }

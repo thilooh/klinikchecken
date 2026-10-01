@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Harry Baums",
+      "author_url": "https://www.google.com/maps/contrib/103251087747051658471/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-1UT1RazWRej-CuCnYt9ADTBlXZ3gwTU2s-Q588Lq5_2jMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ist eine Katastrophe wie man an der Anmeldung behandet wird. So eine unfreundliche und zickige Person gehört nicht dahin. Die muss mal einen Lehrgang machen wie man mit Leuten umgeht. Es war eine Frechheit wie wir behandelt wurden. Ich werde mich bei der Ärztekammer beschweren",
+      "time": 1790620267,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele Dietz",
       "author_url": "https://www.google.com/maps/contrib/110133854299538760371/reviews",
       "language": "de",
@@ -693,12 +705,12 @@
       "translated": false
     }
   ],
-  "rating": 3.9,
-  "reviewCount": 30,
+  "rating": 3.8,
+  "reviewCount": 31,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:24.149Z"
+  "lastUpdated": "2026-10-01T11:21:57.758Z"
 }

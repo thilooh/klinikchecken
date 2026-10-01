@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sertac Heris",
+      "author_url": "https://www.google.com/maps/contrib/111886292094520060348/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBD8dWeM3xd3lHcLTDG157kCQm6I6XV6RagYXswgJOnp0qIfc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790758056,
+      "translated": false
+    },
+    {
       "author_name": "Peter Diedrich",
       "author_url": "https://www.google.com/maps/contrib/111474904756046369823/reviews",
       "language": "de",
@@ -1027,12 +1037,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 132,
+  "rating": 4.5,
+  "reviewCount": 133,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-09-28T11:26:08.475Z"
+  "lastUpdated": "2026-10-01T11:21:39.752Z"
 }

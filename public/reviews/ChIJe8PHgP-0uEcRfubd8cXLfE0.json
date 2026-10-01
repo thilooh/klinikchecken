@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Alis Alisma",
+      "author_url": "https://www.google.com/maps/contrib/114331713709325596564/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLebwk-uKFMwajGqRQgnTRxJ_Ue7LzOy24c-xObFwISqvIHow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790697258,
+      "translated": false
+    },
+    {
       "author_name": "Gabriela Rümenapp",
       "author_url": "https://www.google.com/maps/contrib/102023663632504819288/reviews",
       "language": "de",
@@ -18,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8YMci069zYEG534X1Pp2hXXbRTG2Njgpb2VTrKjE3ew9w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790005894,
+      "translated": false
+    },
+    {
+      "author_name": "Robin Kleinken",
+      "author_url": "https://www.google.com/maps/contrib/117995252993250870388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8YMci069zYEG534X1Pp2hXXbRTG2Njgpb2VTrKjE3ew9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790005894,
       "translated": false
@@ -66,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcilOrK6BonzMaqT2_waSJL5S6YgTbNyI8dPX8tHPHjo-vYf9n=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Hautkrebs Entfernung war OK. Danach Folge Untersuchungen ein Witz, haben sich immer nur die Narbe angeschaut. Der Chef des Hauses verordnet gerne Finge die nicht geholfen haben. Einige Mitarbeiter kommen sich sehr wichtig vor. Nicht zu empfehlen !",
+      "time": 1789554798,
+      "translated": false
+    },
+    {
+      "author_name": "Dieter Buhrau",
+      "author_url": "https://www.google.com/maps/contrib/106024277040822378911/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcilOrK6BonzMaqT2_waSJL5S6YgTbNyI8dPX8tHPHjo-vYf9n=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Hautkrebs Entfernung war OK. Danach Folge Untersuchungen ein Witz, haben sich immer nur die Narbe angeschaut. Der Chef des Hauses verordnet gerne Finge die nicht geholfen haben. Einige Mitarbeiter kommen sich sehr wichtig vor. Nicht zu empfehlen !",
       "time": 1789554798,
       "translated": false
@@ -1294,11 +1326,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 198,
+  "reviewCount": 199,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:18.685Z"
+  "lastUpdated": "2026-10-01T11:21:51.428Z"
 }

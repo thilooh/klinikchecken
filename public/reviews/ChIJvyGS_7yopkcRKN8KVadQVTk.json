@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Kathrin Schubert",
+      "author_url": "https://www.google.com/maps/contrib/114127284577005462407/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyBWnjYhB7aohGRwqe2yqI2mJeDZlBtKUSxXXEBj2wVJye9-iA6g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Immer sehr zufrieden",
+      "time": 1790740838,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Benß",
+      "author_url": "https://www.google.com/maps/contrib/105695533592379538419/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1WoupXxt3Rr-dtyxxROIOdY9k8Bu1X_NwoDnv0idHPa_akA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hallo an euer Team meine Frau hatte heute einen OP Termin Hand  leider kann sie sich gerade nicht selbst bei euch bedanken (Hand eingeschient) so übernehme ich das vielen Dank ihr seid einfach nur ein super tolles Team total kompetent was man noch selten findet einfach lieben Dank und 100% weiterempfehlung lg Peter Benß",
+      "time": 1790615291,
+      "translated": false
+    },
+    {
       "author_name": "Lou P.",
       "author_url": "https://www.google.com/maps/contrib/105179271563159886357/reviews",
       "language": "de",
@@ -78,6 +102,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgJoXrHFzIARaOAp3ZZB3FBpKfp_MpB28Ny-tC3t-AIsLDPcLz=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1788981299,
+      "translated": false
+    },
+    {
+      "author_name": "Jens Mueller",
+      "author_url": "https://www.google.com/maps/contrib/111505022499907362650/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgJoXrHFzIARaOAp3ZZB3FBpKfp_MpB28Ny-tC3t-AIsLDPcLz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1788981299,
       "translated": false
@@ -1420,11 +1454,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 211,
+  "reviewCount": 213,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-09-28T11:26:23.713Z"
+  "lastUpdated": "2026-10-01T11:21:57.269Z"
 }

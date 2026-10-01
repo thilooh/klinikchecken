@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Bernd Sch",
+      "author_url": "https://www.google.com/maps/contrib/106874787419125902783/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHidwN_RoZ5Yx5rLCwN7XSPPM6yBr4po7VAl4EiELoazPBQHdo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Frau Dr. Flegl ist eine super Ärztin, sie ist sehr Freundlich, erklärt was sie mach,  hat mir 3 Muttermale absolut schmerzfrei entfernt, ich geb ihr eine 10 von 10. Danke!!!",
+      "time": 1790169112,
+      "translated": false
+    },
+    {
       "author_name": "Florian",
       "author_url": "https://www.google.com/maps/contrib/110536312321766086028/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdfTYPzmYCL6dVuNlx7pwozP1Xhfst6S_ZfwyvkGltHseNGQ=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wer einen Termin hat muss mindestens 1 Stunde Wartezeit noch mitbringen.",
+      "time": 1789385994,
+      "translated": false
+    },
+    {
+      "author_name": "Florian",
+      "author_url": "https://www.google.com/maps/contrib/110536312321766086028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdfTYPzmYCL6dVuNlx7pwozP1Xhfst6S_ZfwyvkGltHseNGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Wer einen Termin hat muss mindestens 1 Stunde Wartezeit noch mitbringen.",
       "time": 1789385994,
       "translated": false
@@ -1456,5 +1480,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:19.740Z"
+  "lastUpdated": "2026-10-01T11:21:52.654Z"
 }

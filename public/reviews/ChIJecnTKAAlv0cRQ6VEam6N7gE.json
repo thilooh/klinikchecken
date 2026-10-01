@@ -67,6 +67,16 @@
       "translated": false
     },
     {
+      "author_name": "ich",
+      "author_url": "https://www.google.com/maps/contrib/107766060887514201066/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW2dSG98OBp45lAGLxF1XEtWyNoyEYtPB_hRJ3cOfg8YlNJw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1788882366,
+      "translated": false
+    },
+    {
       "author_name": "Ronald Meister",
       "author_url": "https://www.google.com/maps/contrib/112749656791711385309/reviews",
       "language": "de",
@@ -525,5 +535,5 @@
   "rating": 3.5,
   "reviewCount": 33,
   "summary": [],
-  "lastUpdated": "2026-09-28T11:25:41.307Z"
+  "lastUpdated": "2026-10-01T11:21:08.951Z"
 }

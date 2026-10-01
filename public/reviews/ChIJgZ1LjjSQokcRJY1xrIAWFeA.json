@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Denise Fahlbusch",
+      "author_url": "https://www.google.com/maps/contrib/103239211582518476771/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyCeREi1ZdVzHkEQje7hffTthQNSdHF1kh2q0NWYLdaChlGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790845296,
+      "translated": false
+    },
+    {
       "author_name": "Ulrike Köhler",
       "author_url": "https://www.google.com/maps/contrib/108058869823815499697/reviews",
       "language": "de",
@@ -58,6 +68,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl8rsiP2Bx4hAxGtwXWXQNBfBIxrEio2Zn-X6pfCra9yrTLw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1785579215,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/111258490630399828038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl8rsiP2Bx4hAxGtwXWXQNBfBIxrEio2Zn-X6pfCra9yrTLw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1785579215,
       "translated": false
@@ -130,6 +150,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCjD7Dx99X3rn-Lw_Dni-qLLGEuX6bD2ceNZa1SgAvvDp6M5g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Sehr moderne Praxis, Freundliche Mitarbeiter Und ein Sehr seriöses Auftreten!",
+      "time": 1785482899,
+      "translated": false
+    },
+    {
+      "author_name": "e_bozz",
+      "author_url": "https://www.google.com/maps/contrib/100523091596751098419/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCjD7Dx99X3rn-Lw_Dni-qLLGEuX6bD2ceNZa1SgAvvDp6M5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Sehr moderne Praxis, Freundliche Mitarbeiter Und ein Sehr seriöses Auftreten!",
       "time": 1785482899,
       "translated": false
@@ -662,11 +694,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 71,
+  "reviewCount": 72,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-09-28T11:26:03.986Z"
+  "lastUpdated": "2026-10-01T11:21:34.448Z"
 }

@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Larissa",
+      "author_url": "https://www.google.com/maps/contrib/103397023546263000620/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdiYsNOpTymnOoavqfr_rvVG2malMaMbZ08ceEgyBevdjv0JTgww=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fünf Sterne sind wirklich noch zu wenig! Ich bin extra aus München angereist und war zur Laserbehandlung im Gesicht in dieser Hautarztpraxis. Schon beim Ankommen habe ich mich sehr willkommen gefühlt. Das gesamte Praxisteam ist ausgesprochen herzlich, freundlich und aufmerksam. Alles wirkte gut organisiert, und ich hatte von Anfang an das Gefühl, in guten Händen zu sein.\n\nDie Ärzte sind sehr kompetent und empathisch und nehmen sich Zeit, zuzuhören und auf Fragen und Wünsche einzugehen. Besonders angenehm fand ich die freundliche und persönliche Betreuung während meines Besuchs. Auch mit der Laserbehandlung bin ich sehr zufrieden.\n\nIch kann die Praxis aus voller Überzeugung weiterempfehlen und komme gerne wieder. Vielen Dank an das großartige Team für die tolle Betreuung!\n\nDie Praxis befindet sich in der 2 Etage , aber es gibt einen Fahrstuhl !\nKurz vor der Praxis ist ein grosser Parkplatz,  der 4 Euro die Stunde kostet (gleicher Preis wie in den Nebenstrassen), so ist man sehr schnell wieder am Auto 😉",
+      "time": 1790769419,
+      "translated": false
+    },
+    {
       "author_name": "Phil",
       "author_url": "https://www.google.com/maps/contrib/114388228573666135302/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJSZix8NuysEikJl0N0kKF_rmViF-epS8UGhPmw-YoS21cpFpF=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790116200,
+      "translated": false
+    },
+    {
+      "author_name": "Phil",
+      "author_url": "https://www.google.com/maps/contrib/114388228573666135302/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJSZix8NuysEikJl0N0kKF_rmViF-epS8UGhPmw-YoS21cpFpF=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790116200,
       "translated": false
@@ -23,6 +45,18 @@
       "translated": false
     },
     {
+      "author_name": "Ursel B.",
+      "author_url": "https://www.google.com/maps/contrib/112077821235501451245/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8gHEd-yMU-CBEVGwzoNOFtnTHxpta51YZIKG6f89HROtWmA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich kan. die Praxis und das Hautkrebsscreening zu 100% weiterempfehlen. Das Praxisteam ist sehr freundlich und der Arzt Dr. Tollmann kompetent, freundlich und er hat alles super erklärt.",
+      "time": 1790063336,
+      "translated": false
+    },
+    {
       "author_name": "Martin Frenk",
       "author_url": "https://www.google.com/maps/contrib/111833824784076023145/reviews",
       "language": "de",
@@ -30,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp69Ma_3JpnCwr2YXf8q6vmJPCGYbBloi37GpL18ng3kdEe7_3=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super Praxis mit einem sehr freundlichen Team. Ärzte die sich noch Zeit für ihre Patienten nehmen, und einem alles ausführlich erklären. Hier ist man als Patient in guten Händen. Danke für die schnelle und gute Behandlung.",
+      "time": 1790040361,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Frenk",
+      "author_url": "https://www.google.com/maps/contrib/111833824784076023145/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp69Ma_3JpnCwr2YXf8q6vmJPCGYbBloi37GpL18ng3kdEe7_3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super Praxis mit einem sehr freundlichen Team. Ärzte die sich noch Zeit für ihre Patienten nehmen, und einem alles ausführlich erklären. Hier ist man als Patient in guten Händen. Danke für die schnelle und gute Behandlung.",
       "time": 1790040361,
       "translated": false
@@ -1508,11 +1554,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 338,
+  "reviewCount": 339,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-28T11:26:18.472Z"
+  "lastUpdated": "2026-10-01T11:21:51.185Z"
 }

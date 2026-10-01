@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine K.",
+      "author_url": "https://www.google.com/maps/contrib/104444553656884629810/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1bp08IvqTF-tvQss_BJSAVvJxhnJhZDqiRivtMuveBzn87w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Möglichkeit des \"Ein-Fleck-Termines\" finde ich hervorragend! Kurzfristig einen Termin bekommen, sehr nettes und freundliches Team und extrem pünktlich!\nFrau Dr. Haase hat mich sehr genau untersucht und zur Vorsorge gab es einen OP Termin. Auch der fand zeitnah statt, alles war unkompliziert und professionell. Ich fühlte mich dort sehr gut aufgehoben und von Frau Dr. Haase kompetent beraten.",
+      "time": 1790842298,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Beese",
+      "author_url": "https://www.google.com/maps/contrib/110267471419072577721/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv6OF4bqt28cFb-skH9afKIZqoBkeTqezdul2s1iaP7z74GQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790837667,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Köhler",
+      "author_url": "https://www.google.com/maps/contrib/117037271793387463697/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYagQTsCyOSnri73caNfLRRqGpZledu8x53IZX8ysm1nogi1EQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790765422,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Baseler",
+      "author_url": "https://www.google.com/maps/contrib/106401224191699265420/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFGlbi9N69dkU2tVl45ewGJ6g-V0AP8dxyLnFKtqyaDzR64Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termin mit kurzer Wartezeit, nach dem Foto-Screening hat man sich noch viel Zeit genommen, um einzelne auffällige Hautflecken zu besprechen. Bin sehr zufrieden.",
+      "time": 1790760786,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Pieper",
+      "author_url": "https://www.google.com/maps/contrib/103913775701836749570/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaxing4Arfb1th_Zf-zwM31PBr7yv9jECxFqtxT8i2yaRTlf8PQA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seid Jahren Patienten dort und immer wieder, so auch heute, alles super. Fachlich sehr kompetent, alle sehr herzlich. Immer wieder gerne.",
+      "time": 1790759472,
+      "translated": false
+    },
+    {
       "author_name": "C B",
       "author_url": "https://www.google.com/maps/contrib/118112052323000209225/reviews",
       "language": "de",
@@ -2088,11 +2144,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2410,
+  "reviewCount": 2423,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-09-28T11:25:54.512Z"
+  "lastUpdated": "2026-10-01T11:21:23.736Z"
 }

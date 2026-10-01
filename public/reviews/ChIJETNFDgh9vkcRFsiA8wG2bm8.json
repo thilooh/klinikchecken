@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Diana Frik",
+      "author_url": "https://www.google.com/maps/contrib/101271319151724816038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYl956bKYKGAUz5OZFDpLC0fKZuR1IBkDZTGGIBKYjuUBLYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790166754,
+      "translated": false
+    },
+    {
       "author_name": "Melanie Linscheid",
       "author_url": "https://www.google.com/maps/contrib/101121188288344055540/reviews",
       "language": "de",
@@ -42,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcvj9II3EEIhtIq0UmPjeV32hjdnVPl5WD1qGUm65ALjonJg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ein extrem nettes Team, sowohl Empfang, Arzthelferin,Arzt. Absolut top. Sehr freundlich. Absolut empfehlenswert.",
+      "time": 1788973098,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie Linscheid",
+      "author_url": "https://www.google.com/maps/contrib/101121188288344055540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcvj9II3EEIhtIq0UmPjeV32hjdnVPl5WD1qGUm65ALjonJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ein extrem nettes Team, sowohl Empfang, Arzthelferin,Arzt. Absolut top. Sehr freundlich. Absolut empfehlenswert.",
       "time": 1788973098,
       "translated": false
@@ -782,5 +804,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-09-28T11:26:22.763Z"
+  "lastUpdated": "2026-10-01T11:21:56.272Z"
 }
