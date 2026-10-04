@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jan-Rainer Ruhe",
+      "author_url": "https://www.google.com/maps/contrib/101124156932192878820/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVfygUjYFMchwUrlF26XGEmLCCgaDdMfh91TBXuD597oGFlg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790882976,
+      "translated": false
+    },
+    {
       "author_name": "Oksana Korobchenko",
       "author_url": "https://www.google.com/maps/contrib/104261769932679618789/reviews",
       "language": "de",
@@ -35,11 +45,31 @@
       "translated": false
     },
     {
+      "author_name": "Thomas Ortlieb",
+      "author_url": "https://www.google.com/maps/contrib/107973738688683992192/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcW2zBnIcUbs5bzPO_taG6pQdS2IrH_ny8XCEIjvUKoqrH0oc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790486533,
+      "translated": false
+    },
+    {
       "author_name": "Victory",
       "author_url": "https://www.google.com/maps/contrib/100677564059134740714/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhwDVSmSOOcYHlMlVQwYLRlSXyZ9JO8ETnu74q6sVFWAg4urA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790314964,
+      "translated": false
+    },
+    {
+      "author_name": "Victory",
+      "author_url": "https://www.google.com/maps/contrib/100677564059134740714/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhwDVSmSOOcYHlMlVQwYLRlSXyZ9JO8ETnu74q6sVFWAg4urA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790314964,
       "translated": false
@@ -1578,11 +1608,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 440,
+  "reviewCount": 441,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-01T11:21:28.997Z"
+  "lastUpdated": "2026-10-04T10:53:28.321Z"
 }

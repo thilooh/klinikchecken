@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "S. Hane",
+      "author_url": "https://www.google.com/maps/contrib/102571545498329586168/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlT3kKfmCTz1C5etxZRdOtgQ4KheuLXaCAAY2rxJ9p48n84qLi=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790865860,
+      "translated": false
+    },
+    {
       "author_name": "KLH ThePro",
       "author_url": "https://www.google.com/maps/contrib/116967884488307673801/reviews",
       "language": "de",
@@ -1136,11 +1146,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 154,
+  "reviewCount": 155,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:37.955Z"
+  "lastUpdated": "2026-10-04T10:53:37.224Z"
 }

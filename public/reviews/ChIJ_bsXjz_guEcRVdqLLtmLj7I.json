@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Madeleine Voigt",
+      "author_url": "https://www.google.com/maps/contrib/103135956073563583951/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAu_cluxPAEtcHzc3Bu1tejfFri4qQOyJt3tdF_fsJ5mZzYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War da um meine Warze entfernen zu lassen. Allerdings lässt der Service, sowie die Beratung zu wünschen übrig. Die Arzthelferin hat mich kaum aufgeklärt, sondern nur gemeint, ich soll eine Salbe benutzen & die Ärztin hat gewirkt, als hätte sie keine Lust zu arbeiten. Sie kam rein mit einem kurzen ,,Hallo“, hat ihren Job gemacht, und weg war sie auch schon wieder. Kein ,,Haben sie noch irgendwelche Fragen“, oder sonst was. Als Patient erwarte ich, dass ich richtig beraten, behandelt, sowie nochmal ausführlich aufgeklärt werde. War das erste, und letzte Mal das ich da gewesen bin.",
+      "time": 1790857745,
+      "translated": false
+    },
+    {
       "author_name": "Salam Chooqee",
       "author_url": "https://www.google.com/maps/contrib/101290443221151007120/reviews",
       "language": "de",
@@ -53,6 +65,16 @@
       "translated": false
     },
     {
+      "author_name": "Katja Schreiber",
+      "author_url": "https://www.google.com/maps/contrib/105670522633052993353/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpozxSZkyHZ8FD1teEePo7YRyHvMdK7uZCkeiS8LULNvON3LY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1789676187,
+      "translated": false
+    },
+    {
       "author_name": "Michael Wyschka",
       "author_url": "https://www.google.com/maps/contrib/118166746035696564996/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPrgA3I4oKD_wcQaGRuUV-bg3OK6KOWrJjls0fMfhscdpDkw=s128-c0x00000000-cc-rp-mo",
@@ -68,6 +90,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPrgA3I4oKD_wcQaGRuUV-bg3OK6KOWrJjls0fMfhscdpDkw=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1789652940,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Wyschka",
+      "author_url": "https://www.google.com/maps/contrib/118166746035696564996/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPrgA3I4oKD_wcQaGRuUV-bg3OK6KOWrJjls0fMfhscdpDkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1789652940,
       "translated": false
@@ -1386,11 +1418,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 251,
+  "reviewCount": 252,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:27.470Z"
+  "lastUpdated": "2026-10-04T10:53:26.836Z"
 }

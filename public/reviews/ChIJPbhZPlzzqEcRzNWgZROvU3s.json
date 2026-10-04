@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manuela S.",
+      "author_url": "https://www.google.com/maps/contrib/117375316175465920476/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDMtd2Z6i3Hx_UDSql_WmHOqjHmKNaR3I13A_Qi3IcB8lRAJw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Praxis uneingeschränkt weiterempfehlen. Das gesamte Team war von Anfang an sehr nett und freundlich.\nIm Beratungsgespräch, für eine Oberlidstraffung, hat sich Fr. Dr. Last viel Zeit für mich genommen. Da ich lange mit mir gehadert habe, war ich besonders dankbar, dass ich auch danach weiterhin  noch telefonisch beraten wurde. Ich wurde zu nichts gedrängt und konnte mir in Ruhe meine Entscheidung überlegen.\nMit dem Ergebnis bin ich sehr zufrieden.  Ich hatte  kaum blaue Flecken und schon nach ein paar Tagen hat man nichts mehr gesehen. Ich bin froh, dass ich mich für den Eingriff und für diese Praxis entschieden habe. Vielen Dank an das ganze Team!",
+      "time": 1791100841,
+      "translated": false
+    },
+    {
       "author_name": "Elke Baum",
       "author_url": "https://www.google.com/maps/contrib/116039690165356081612/reviews",
       "language": "de",
@@ -140,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVh9j6bFK8GJJf_xV5BazaPqvW2ZOqYY2yCS8791GbyCiIng=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "⭐⭐⭐⭐⭐\n\nAbsolute Herzens-Empfehlung ❤️\n\nIch bin jedes Mal aufs Neue begeistert von der großartigen Arbeit. Frau Dr. Last verfügt über ein unglaublich umfangreiches Fachwissen und man merkt sofort, dass sie genau weiß, was sie tut. Ihre Beratung ist kompetent, ehrlich und individuell – man fühlt sich einfach rundum verstanden und bestens aufgehoben.\n\nDie gesamte Praxis ist hochprofessionell, sehr sauber, modern und wunderschön eingerichtet. Von der ersten Minute an fühlt man sich wohl und in besten Händen. Besonders schätze ich die Kombination aus Fachkompetenz, Präzision, einem hohen Anspruch an Qualität und einer sehr angenehmen, vertrauensvollen Atmosphäre.\n\nDie Ergebnisse sind jedes Mal wunderschön und genau das, was ich mir wünsche – natürlich, ästhetisch und mit einem perfekten Blick fürs Detail. ✨\n\nIch komme hier immer wieder sehr gerne hin und kann Frau Dr. Jasmin Last und ihre Praxis von Herzen weiterempfehlen! Absolute 5 Sterne! ⭐️⭐️⭐️⭐️⭐️",
+      "time": 1788296318,
+      "translated": false
+    },
+    {
+      "author_name": "Katharina Rosenberg-Ehrl",
+      "author_url": "https://www.google.com/maps/contrib/100064385854420014137/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVh9j6bFK8GJJf_xV5BazaPqvW2ZOqYY2yCS8791GbyCiIng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "⭐⭐⭐⭐⭐\n\nAbsolute Herzens-Empfehlung ❤️\n\nIch bin jedes Mal aufs Neue begeistert von der großartigen Arbeit. Frau Dr. Last verfügt über ein unglaublich umfangreiches Fachwissen und man merkt sofort, dass sie genau weiß, was sie tut. Ihre Beratung ist kompetent, ehrlich und individuell – man fühlt sich einfach rundum verstanden und bestens aufgehoben.\n\nDie gesamte Praxis ist hochprofessionell, sehr sauber, modern und wunderschön eingerichtet. Von der ersten Minute an fühlt man sich wohl und in besten Händen. Besonders schätze ich die Kombination aus Fachkompetenz, Präzision, einem hohen Anspruch an Qualität und einer sehr angenehmen, vertrauensvollen Atmosphäre.\n\nDie Ergebnisse sind jedes Mal wunderschön und genau das, was ich mir wünsche – natürlich, ästhetisch und mit einem perfekten Blick fürs Detail. ✨\n\nIch komme hier immer wieder sehr gerne hin und kann Frau Dr. Jasmin Last und ihre Praxis von Herzen weiterempfehlen! Absolute 5 Sterne! ⭐️⭐️⭐️⭐️⭐️",
       "time": 1788296318,
       "translated": false
@@ -1272,11 +1296,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:37.432Z"
+  "lastUpdated": "2026-10-04T10:53:36.732Z"
 }

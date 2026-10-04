@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "H S (BJ)",
+      "author_url": "https://www.google.com/maps/contrib/117910942003856710575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTXf6U2Kp3f7SOZzt8KATt2UAA6UOmoAeO_YXtp3NE5kMNwP7p3A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr netter, sympathischer und kompetenter Arzt!",
+      "time": 1789723074,
+      "translated": false
+    },
+    {
       "author_name": "J S",
       "author_url": "https://www.google.com/maps/contrib/100441017571586089171/reviews",
       "language": "de",
@@ -140,6 +152,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ92rfbBibI3lMwyUWIGAexqHCPIJHNFj_oU-roqJ63qRKx8w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1785749110,
+      "translated": false
+    },
+    {
+      "author_name": "S. C.",
+      "author_url": "https://www.google.com/maps/contrib/108591993018516008015/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ92rfbBibI3lMwyUWIGAexqHCPIJHNFj_oU-roqJ63qRKx8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1785749110,
       "translated": false
@@ -508,5 +530,5 @@
   "rating": 4.8,
   "reviewCount": 76,
   "summary": [],
-  "lastUpdated": "2026-10-01T11:21:12.334Z"
+  "lastUpdated": "2026-10-04T10:53:11.835Z"
 }

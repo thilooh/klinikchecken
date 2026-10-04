@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Evi Dreher",
+      "author_url": "https://www.google.com/maps/contrib/110076158582978454935/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWniUxQsxOTfyxZf2xBJlYaO-FfXj8XZENkrP1maTvG20fOvbcCPA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn ich zehn Sterne vergeben könnte, hätte ich das gemacht. Es war ein rundum sorglos Paket. Die ganze Behandlung von Anfang bis Ende. Super professionell, das ganze Team sehr sehr nett und fürsorglich. Dr. Weiler ein Meister seines Faches. Großes Lob!! Sollte es mal wieder nötig werden, gerne jederzeit wieder. Ich kann die Praxis zu 100% weiter empfehlen! Ich kann nur \"danke\" sagen 👍🏼😊",
+      "time": 1790946442,
+      "translated": false
+    },
+    {
       "author_name": "CHA",
       "author_url": "https://www.google.com/maps/contrib/114486965490448781348/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu4Q7d0aps3PM7yr38ANv6wqZ2p4uutrlusDxGIoBHXBSFFQ=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Gute Praxis.",
+      "time": 1789726917,
+      "translated": false
+    },
+    {
+      "author_name": "CHA",
+      "author_url": "https://www.google.com/maps/contrib/114486965490448781348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu4Q7d0aps3PM7yr38ANv6wqZ2p4uutrlusDxGIoBHXBSFFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Gute Praxis.",
       "time": 1789726917,
       "translated": false
@@ -46,6 +70,30 @@
       "relative_time_description": "vor 2 Wochen",
       "text": "Hallo,\n\nhatte eine Stammvarikosis, etc. hauptsächlich an den Unterschenkeln, diese wurde im November 2023 mit einer Lasertherapie durch Dr. Tenholt behandelt. Vor wenigen Tagen hatte ich die dritte Nachuntersuchung, diese bestätigte nun das die Lasertherapie zu 100% ein Erfolg war und auch das nachwachsen bis heute unterblieben ist.\n\nVielen Dank an das gesamte Praxisteam.\n\nMartin Deger",
       "time": 1789052628,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Deger",
+      "author_url": "https://www.google.com/maps/contrib/116267086485592737690/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxPURV4GAj6iF9Lw1v7yP5MSBv8QNJrPmBaAnPjaeIlYeNbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Hallo,\n\nhatte eine Stammvarikosis, etc. hauptsächlich an den Unterschenkeln, diese wurde im November 2023 mit einer Lasertherapie durch Dr. Tenholt behandelt. Vor wenigen Tagen hatte ich die dritte Nachuntersuchung, diese bestätigte nun das die Lasertherapie zu 100% ein Erfolg war und auch das nachwachsen bis heute unterblieben ist.\n\nVielen Dank an das gesamte Praxisteam.\n\nMartin Deger",
+      "time": 1789052628,
+      "translated": false
+    },
+    {
+      "author_name": "A. Fianni",
+      "author_url": "https://www.google.com/maps/contrib/114130368509006975800/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7obp7sKWOUF45cgW4VWelNFE9VIlpccg2K8XP1Rz0Bwkdfg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "tolles Team. Dr. Weiler erkennt die Probleme gleich und steht mit Rat und Tat zur Seite. Die OP verlief gut das Team ist eingespielt. Die Praxis und die OP Räume sind modern. Nun muss ich alle paar Monate zur Nachsorge. Bisher bin ich mit allem zufrieden von der Beratung bis Nachsorge.",
+      "time": 1788462179,
       "translated": false
     },
     {
@@ -1272,11 +1320,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 165,
+  "reviewCount": 166,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:53.156Z"
+  "lastUpdated": "2026-10-04T10:53:52.268Z"
 }

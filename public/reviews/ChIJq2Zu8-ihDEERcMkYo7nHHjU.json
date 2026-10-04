@@ -1,7 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "L D",
+      "author_url": "https://www.google.com/maps/contrib/113859477623594185127/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXB1RPXrMV7B0QOutNW2965c52ETEQQ8ptDujbGCGInelLXkyk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr enttäuscht über meine Erfahrung mit dieser Hautarztpraxis.\n\nMeine Kommentare werden hier andauern gelöscht :)\n\nIch hatte für meinen Sohn bereits zwei Monate im Voraus einen Termin vereinbart. Gestern bin ich extra mit meinen Kindern zur Praxis gefahren. Dort wurde mir von der Mitarbeiterin mitgeteilt, dass alle Termine per E-Mail abgesagt worden seien. Ich habe jedoch keine einzige E-Mail, SMS oder einen Anruf erhalten. Habe es auch der Mitarbeiter gezeigt.\n\nAnschließend wurde mir erklärt, dass die Ärztin krank sei und deshalb alle Termine abgesagt worden seien. Dafür habe ich selbstverständlich Verständnis. Was ich allerdings nicht nachvollziehen kann, ist, dass mir trotz meiner langen Wartezeit kein Ersatztermin angeboten wurde. Auf meine Nachfrage hieß es lediglich, dass keine Kapazitäten mehr vorhanden seien.\n\nIch bin extra mit meinen Kindern früh dort gewesen , habe zwei Monate auf diesen Termin gewartet und bin völlig umsonst in die Praxis gefahren. Am Ende stand ich ohne Untersuchung und ohne eine Lösung da.\n\nBesonders enttäuschend finde ich, dass meine ursprüngliche Rezension nach einer Beschwerde wegen angeblicher Verleumdung gelöscht wurde. Ich habe lediglich meine persönlichen Erfahrungen geschildert und meine ehrliche Meinung geäußert. Ich finde, dass Patienten das Recht haben sollten, sachlich über ihre tatsächlichen Erlebnisse zu berichten, auch wenn diese Kritik der Praxis nicht gefällt.\n\nIch hätte mir eine bessere Kommunikation, mehr Verständnis und vor allem eine faire Lösung für meinen Sohn gewünscht. Ich habe auch eine email an die Praxis geschickt bis jetzt natürlich ohne Rückmeldung aber wenn ich als Patient das Recht auch habe meine Erfahrung hier zu schreiben wird es sofort gelöscht oder was ? Ich habe auch der Google Widerspruch geschrieben und sehe es nicht ein.\n\nDiese Erfahrung hat mich sehr enttäuscht. Ich hoffe, dass andere Patienten zumindest rechtzeitig über Terminabsagen informiert werden und nicht vor derselben Situation stehen und das wenigstens für abgesagte Termine neue Termine vergeben wird.",
+      "time": 1790865010,
+      "translated": false
+    },
+    {
       "author_name": "Emre Saroglu",
+      "author_url": "https://www.google.com/maps/contrib/111545941327299466676/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQU0-7QzAdGaBUA5gsxPsojE-joOFhPy8J1YLW6yYQxX-luQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unprofessionell Finger weg ! Wir haben vor zwei Monaten hier einen Termin vereinbart ! Kamen heute an und sie meinten Termine wären abgesagt per email weil die Ärztin krank wäre ich habe keine email bekommen habe es sogar gezeigt ! Dann kam der Herr dr. Riedel und sagte das sie auch keine neue Termine anbieten können obwohl sie uns abgesagt haben weil eine Ärztin krank wäre also müssen sie einen neuen vergeben vor allem wenn man schon zwei Monate drauf wartet ! Unprofessionell ich werde die Beschwerde weiter geben wenn ihr nicht unnötig 2 Monate auf einen Termin warten wollt dann lässt die Finger weg !!",
+      "time": 1790752263,
+      "translated": false
+    },
+    {
+      "author_name": "E S",
       "author_url": "https://www.google.com/maps/contrib/111545941327299466676/reviews",
       "language": "de",
       "original_language": "de",
@@ -52,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2veZ8HR4ZXGQMV6OdeeMSRgusybry8KCpePOc362fp5izzg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Moderne gut geführte Praxis, bei Termin keine lange Wartezeit ,Ärzte sehr freundlich und kompetent ,Mfa alle sehr freundlich und hilfsbereit\n2026 mal wieder zur Kontrolle gewesen ,keine Wartezeit, freundlich begrüßt, sorgfältig ,freundlich und zuvorkommend behandelt worden.\nAuch nach 2 Jahren immernoch eine top Praxis",
+      "time": 1789723990,
+      "translated": false
+    },
+    {
+      "author_name": "Anke Saeger",
+      "author_url": "https://www.google.com/maps/contrib/105842354192700760771/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2veZ8HR4ZXGQMV6OdeeMSRgusybry8KCpePOc362fp5izzg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Moderne gut geführte Praxis, bei Termin keine lange Wartezeit ,Ärzte sehr freundlich und kompetent ,Mfa alle sehr freundlich und hilfsbereit\n2026 mal wieder zur Kontrolle gewesen ,keine Wartezeit, freundlich begrüßt, sorgfältig ,freundlich und zuvorkommend behandelt worden.\nAuch nach 2 Jahren immernoch eine top Praxis",
       "time": 1789723990,
       "translated": false
@@ -1228,5 +1264,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-01T11:21:32.757Z"
+  "lastUpdated": "2026-10-04T10:53:32.022Z"
 }

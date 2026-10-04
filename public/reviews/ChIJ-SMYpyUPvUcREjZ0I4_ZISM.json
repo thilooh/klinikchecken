@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Henrieta Alamri",
+      "author_url": "https://www.google.com/maps/contrib/106319267139804331009/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2aBb1clMeN09xCElV7vemMddD1RhiqFsT0ufYa1rbDbcI_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790855719,
+      "translated": false
+    },
+    {
       "author_name": "M. A.",
       "author_url": "https://www.google.com/maps/contrib/107618152281040384741/reviews",
       "language": "de",
@@ -1192,7 +1202,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 164,
+  "reviewCount": 165,
   "summary": [],
-  "lastUpdated": "2026-10-01T11:21:12.076Z"
+  "lastUpdated": "2026-10-04T10:53:11.587Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Freddy Brauner",
+      "author_url": "https://www.google.com/maps/contrib/110237944386170286686/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqyDCvEKe8v5vc_8XTmciDtCmsXevvO_7SinjEpQR95vF3innY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hat top funktioniert.\nTermin bzw. Uhrzeit ohne Warten eingehalten, top Empfehlung!",
+      "time": 1790948121,
+      "translated": false
+    },
+    {
+      "author_name": "Melissa Alvarez Fernandez",
+      "author_url": "https://www.google.com/maps/contrib/104682293443420964831/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAv8sqKSJw5tAqij3UrksRSUoVLIynps10U46FicLX06YtOg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790940771,
+      "translated": false
+    },
+    {
       "author_name": "Lisa G",
       "author_url": "https://www.google.com/maps/contrib/110081019352015046840/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKAYp1e8e7ut016PVIg00vgNpXmDCob0KF9lG9eQMuL4vE6Q=s128-c0x00000000-cc-rp-mo-ba4",
@@ -784,11 +806,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 68,
+  "reviewCount": 70,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:51.670Z"
+  "lastUpdated": "2026-10-04T10:53:50.788Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Frederik Huf",
+      "author_url": "https://www.google.com/maps/contrib/113358634213788336243/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFEnVFa3miynK8gl3PG1zXYJG--qHKUCf7ITkYVmB54RdI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791052023,
+      "translated": false
+    },
+    {
       "author_name": "BeaTrix K",
       "author_url": "https://www.google.com/maps/contrib/114619568064166762655/reviews",
       "language": "de",
@@ -996,11 +1006,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 161,
+  "reviewCount": 162,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:34.209Z"
+  "lastUpdated": "2026-10-04T10:53:33.502Z"
 }

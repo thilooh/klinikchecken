@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Diana Q",
+      "author_url": "https://www.google.com/maps/contrib/111713127641981094358/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZyjZ-PouZ1G90uWKyXcBfyQE5OvqRFSRZWaljcfAJIkbyRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider sehr enttäuschende Erfahrung. Telefonisch ist die Anmeldung kaum erreichbar. Trotz eines 3–4 Monate vorher vereinbarten Termins musste ich vor Ort fast 2 Stunden warten. Die eigentliche Behandlung hat dann nicht einmal 5 Minuten gedauert, für diese lange Wartezeit absolut unverhältnismäßig.\n\nAuch die Damen am Empfang waren leider nicht besonders freundlich. Insgesamt sehr schlechter Service und absolut nicht empfehlenswert. Wenn möglich, würde ich keinen Stern vergeben.",
+      "time": 1790935636,
+      "translated": false
+    },
+    {
+      "author_name": "Василий Штыль",
+      "author_url": "https://www.google.com/maps/contrib/113051618965892251514/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0UHBwdCv5ncXWE4BZGvCcsvVJJT0a1RFxJKv44Os8Mu_W_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790922655,
+      "translated": false
+    },
+    {
+      "author_name": "deborah schoppe",
+      "author_url": "https://www.google.com/maps/contrib/105285854577874220072/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvdE0-U9ProQ08i9Tj8nTR6G6YJsIVXEosVGzkrVMb8hOC4Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es wird sich keine Zeit für den Patienten genommen und eine Untersuchung findet auch nicht statt. Die Ärztin hat sich die betroffenen Hautstellen überhaupt nicht angeschaut und nie gesagt, dass sie mir eine Salbe verschreibt. Das Rezept war dann allerdings - wie sich erst im Nachhinein herausstellten - ein Privatrezept. Ich wurde weder Untersucht, noch könnte ich Fragen stellen bzw. meine Problematik tatsächlich schildern und letztlich könnte ich nichtmal das Rezept einlösen. Ich empfehle diese Praxis auf keinen Fall weiter!",
+      "time": 1790857851,
+      "translated": false
+    },
+    {
       "author_name": "Vadim Iarovih",
       "author_url": "https://www.google.com/maps/contrib/117460924120312241666/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKToG5DD4HfAbea-7-hoWJiERebVL4k3kbDY4cQbBxWi4Kthw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -1602,11 +1636,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 274,
+  "reviewCount": 277,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-01T11:21:19.721Z"
+  "lastUpdated": "2026-10-04T10:53:19.093Z"
 }

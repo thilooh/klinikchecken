@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Florian Diern (90degreeees)",
+      "author_url": "https://www.google.com/maps/contrib/110150307998269706729/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgX_CJU260DqCazV3iRRPMl6uZMUfLfGCBN5egnwRUymArtCI0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790871234,
+      "translated": false
+    },
+    {
       "author_name": "Chiara Holt",
       "author_url": "https://www.google.com/maps/contrib/107470449086592636454/reviews",
       "language": "de",
@@ -578,11 +588,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 90,
+  "reviewCount": 91,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:25.744Z"
+  "lastUpdated": "2026-10-04T10:53:25.076Z"
 }

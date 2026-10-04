@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Lange",
+      "author_url": "https://www.google.com/maps/contrib/109633842997079049072/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPcHm565Bdpd8KgT9AO5LRy_vFp1cU8s01zT8q613zV4S8q7Fr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zweimal wegen Haarausfalls und Trichoskopie dort gewesen. Freundlicher Kontakt, aber für eine objektive Verlaufskontrolle war der Erkenntnisgewinn leider gering. Mir wurde erklärt, dass sich mit der dort eingesetzten Trichoskopie kein belastbarer Verlauf bestimmen lässt.\n\nWas mir gefehlt hat:\nder Hinweis, dass es dafür computergestützte quantitative Haaranalysen gibt und man sich dafür ggf. an eine entsprechend ausgestattete Praxis wenden sollte.\n\nWer Haardichte, Haardurchmesser und Miniaturisierung objektiv erfassen und im Verlauf vergleichen möchte, sollte vorher genau klären, welche Technik angeboten wird.\nNach zwei kostenpflichtigen Terminen blieb meine zentrale Frage leider offen.",
+      "time": 1790921919,
+      "translated": false
+    },
+    {
       "author_name": "mariana zapolska",
       "author_url": "https://www.google.com/maps/contrib/101150674888727218786/reviews",
       "language": "de",
@@ -774,11 +786,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 56,
+  "reviewCount": 57,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:35.447Z"
+  "lastUpdated": "2026-10-04T10:53:34.741Z"
 }

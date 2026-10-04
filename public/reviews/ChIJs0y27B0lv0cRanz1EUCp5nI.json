@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Nezir Sirin",
+      "author_url": "https://www.google.com/maps/contrib/107825165640317930158/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3MlrNvc09JOFj9rlAecljjY9uT-RHVaNq95KdsykmmbH_Kw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790972084,
+      "translated": false
+    },
+    {
       "author_name": "Nathan Mendes",
       "author_url": "https://www.google.com/maps/contrib/111176830468042705287/reviews",
       "language": "de",
@@ -596,12 +606,12 @@
       "translated": false
     }
   ],
-  "rating": 3.2,
-  "reviewCount": 127,
+  "rating": 3.1,
+  "reviewCount": 128,
   "summary": [
     "Akuttermine kurzfristig verfügbar, behandelnde Ärzte als freundlich beschrieben",
     "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
     "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
   ],
-  "lastUpdated": "2026-10-01T11:21:07.075Z"
+  "lastUpdated": "2026-10-04T10:53:04.980Z"
 }

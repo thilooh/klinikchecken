@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Snezana Basic",
+      "author_url": "https://www.google.com/maps/contrib/110499883332439936299/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY7SOz0ORY08hCBx3ixeybIkcwh1dvboK9Yzg8YE-aNGVdvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher und angenehmer Arzt. Er nimmt sich Zeit, erklärt alles verständlich und geht auf alle Fragen ein. Ich habe mich sehr gut aufgehoben gefühlt und kann ihn gerne weiterempfehlen.",
+      "time": 1791059622,
+      "translated": false
+    },
+    {
+      "author_name": "Sümeyra Selin Öndogan",
+      "author_url": "https://www.google.com/maps/contrib/112708497634651330214/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdBwGvK1UQ2XODTInHlBRVWAfRy3_xpy-n7lzwYOzGPgKjug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin absolut begeistert von Dr. Azem Pljakic! Ein wirklich hervorragender Arzt, bei dem man sich von der ersten Sekunde an gut aufgehoben fühlt. Er nimmt sich Zeit für seine Patienten, erklärt alles verständlich und arbeitet äußerst kompetent und gewissenhaft.\nAuch das gesamte Praxisteam ist super freundlich und gut organisiert, sodass die Wartezeiten angenehm kurz waren. Ich bin absolut zufrieden und kann Dr. Pljakic uneingeschränkt weiterempfehlen!",
+      "time": 1790891459,
+      "translated": false
+    },
+    {
       "author_name": "Jouneit Khalil",
       "author_url": "https://www.google.com/maps/contrib/106082815240196827120/reviews",
       "language": "de",
@@ -906,7 +930,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 130,
+  "reviewCount": 132,
   "summary": [],
-  "lastUpdated": "2026-10-01T11:21:18.995Z"
+  "lastUpdated": "2026-10-04T10:53:18.363Z"
 }

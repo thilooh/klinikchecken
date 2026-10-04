@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Julias Schandee",
+      "author_url": "https://www.google.com/maps/contrib/109793403174236051606/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpiSnv8nt9noXCDlR6yuYLJ6SgvuLJ7mZrlnrCC-T8uWSu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr cool",
+      "time": 1790932777,
+      "translated": false
+    },
+    {
       "author_name": "Gisela Rauh",
       "author_url": "https://www.google.com/maps/contrib/116093088374306883174/reviews",
       "language": "de",
@@ -892,11 +904,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 77,
+  "reviewCount": 78,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:39.264Z"
+  "lastUpdated": "2026-10-04T10:53:38.450Z"
 }

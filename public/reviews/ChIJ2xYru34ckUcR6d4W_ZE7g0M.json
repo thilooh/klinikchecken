@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sanda Sandq",
+      "author_url": "https://www.google.com/maps/contrib/107060064056991124771/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSfHz-cmGWfvuvPi1ifbtIs9AqRt2Y15T3dwwk5P4dh9wko3wF9A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790976116,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Klat",
       "author_url": "https://www.google.com/maps/contrib/108821989845000145696/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKM2RfM2F9p3Fe0pnWBiXjSXSg989x-Gw0YZdNmgwQsIkvB2g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super schön",
+      "time": 1790331151,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Klat",
+      "author_url": "https://www.google.com/maps/contrib/108821989845000145696/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKM2RfM2F9p3Fe0pnWBiXjSXSg989x-Gw0YZdNmgwQsIkvB2g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super schön",
       "time": 1790331151,
       "translated": false
@@ -1312,11 +1334,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 186,
+  "reviewCount": 187,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:29.734Z"
+  "lastUpdated": "2026-10-04T10:53:29.052Z"
 }

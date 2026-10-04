@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Jennifer G",
+      "author_url": "https://www.google.com/maps/contrib/114022807711152703623/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkz50-8y6s3OcW4t7dlaio8gN04YJ5TV-xqxvpv0SCk7HWdA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790957695,
+      "translated": false
+    },
+    {
+      "author_name": "Frau Klinnert",
+      "author_url": "https://www.google.com/maps/contrib/115881179661745189922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSE5owhFNfeeKU6TnAnRtkpBOPtk71N6hLdlhlS9277fiFpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super freundliches Personal, Fr. Dr. Michael ist unbezahlbar. Meine Mutti ist so froh bei Ihr zu sein. Vielen Dank an alle.",
+      "time": 1790851214,
+      "translated": false
+    },
+    {
       "author_name": "Poke Mon",
       "author_url": "https://www.google.com/maps/contrib/102375440941084795078/reviews",
       "language": "de",
@@ -1624,11 +1646,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 509,
+  "reviewCount": 510,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-01T11:21:22.982Z"
+  "lastUpdated": "2026-10-04T10:53:22.303Z"
 }

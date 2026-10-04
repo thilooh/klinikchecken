@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Matthias Hank",
+      "author_url": "https://www.google.com/maps/contrib/116241347674342001082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhaOdvXyd_OrWj1Mi8QVSvJHItYjIBT1vQCV5HFzOHkmEJkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790962059,
+      "translated": false
+    },
+    {
+      "author_name": "Tanja",
+      "author_url": "https://www.google.com/maps/contrib/107173471964464274120/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhYrlQ01Y1A91_x_TwiDjNVEkdaC8eddR3ihvv8vwOamo0fTnw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin seit  Jahren in der und war anfangs sehr zufrieden  mit dem Empfang  und der Behandlung der Ärzte. War dann einige Zeit  nicht in der Praxis,da im dermatologisch Bereich keine Auffälligkeiten waren. Bin dann in diesem Jahr wieder in der Praxis gewesen und wollte mir einen Termin geben lassen. Das Personal wirkte sehr unfreundlich und gab mir keinen Termin  da alles ausgebucht sei. Info an mich  war dann nur ich könnte  zum Krankenhaus gehen bzw eine andere Praxis aufsuchen",
+      "time": 1790880690,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin K.",
       "author_url": "https://www.google.com/maps/contrib/107816127153390426009/reviews",
       "language": "de",
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIjSAO7DJUJreOdB3HDTOrrnK3jzxiVhwv7suPe2fSfxgO5Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Ärzte, fachlich kompetent, empathisch und sehr geduldig.",
+      "time": 1790363333,
+      "translated": false
+    },
+    {
+      "author_name": "Lord Waldemord",
+      "author_url": "https://www.google.com/maps/contrib/108072316293020469200/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIjSAO7DJUJreOdB3HDTOrrnK3jzxiVhwv7suPe2fSfxgO5Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nette Ärzte, fachlich kompetent, empathisch und sehr geduldig.",
       "time": 1790363333,
       "translated": false
@@ -1582,7 +1616,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 307,
+  "reviewCount": 309,
   "summary": [],
-  "lastUpdated": "2026-10-01T11:21:13.342Z"
+  "lastUpdated": "2026-10-04T10:53:12.833Z"
 }

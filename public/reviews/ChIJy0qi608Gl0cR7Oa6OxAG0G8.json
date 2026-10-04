@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "Gerold Gutmann",
+      "author_url": "https://www.google.com/maps/contrib/105932331973493948589/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBR6AEf06HNV3Be6dfQ34BmATMEJTy0_uVWRYBT-pOH36nKA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1789729511,
+      "translated": false
+    },
+    {
       "author_name": "Peter Pan",
       "author_url": "https://www.google.com/maps/contrib/101568990332040111367/reviews",
       "language": "de",
@@ -146,6 +156,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo0fyGu9bLe0HM60q261393J9Y01bGjfYuoYBAOqt2vvX1jb4F=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Keine großen Wartezeiten",
+      "time": 1788435863,
+      "translated": false
+    },
+    {
+      "author_name": "Finck Dietmar",
+      "author_url": "https://www.google.com/maps/contrib/116903112709136830428/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo0fyGu9bLe0HM60q261393J9Y01bGjfYuoYBAOqt2vvX1jb4F=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Keine großen Wartezeiten",
       "time": 1788435863,
       "translated": false
@@ -1518,5 +1540,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:31.994Z"
+  "lastUpdated": "2026-10-04T10:53:31.281Z"
 }

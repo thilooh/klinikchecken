@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Luisa Braunschweig",
+      "author_url": "https://www.google.com/maps/contrib/106071236360862225768/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6HiLMZO9r-YagZyu__RSXbDG27oSxDZAy-VBcwhM48gvM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meiner Behandlung bei Ästhetik Halle in jeder Hinsicht außerordentlich zufrieden. Das gesamte Praxisteam agiert hochprofessionell, zuvorkommend und sorgt für eine rundum angenehme und vertrauensvolle Atmosphäre.\nEin besonderer Dank gilt Frau Dr. Guellil. Ihre fachliche Kompetenz, die ausführliche, ehrliche Beratung und die präzise Durchführung der Behandlung sind absolut überzeugend. Das Ergebnis ist immer wieder hervorragend.\nWer Wert auf höchste Qualität, medizinische Expertise und eine erstklassige Betreuung legt, ist hier in den besten Händen.",
+      "time": 1790942360,
+      "translated": false
+    },
+    {
       "author_name": "Claudia B.",
       "author_url": "https://www.google.com/maps/contrib/108812042677250502263/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGc225NGpyXSGw0dIiUUyyhCAUm7sEfxsYLy2S2TX9o_oJXQ=s128-c0x00000000-cc-rp-mo",
@@ -96,6 +108,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBc3KSZp7ftMo3M-0j7mJKL9Nq3njjn0-SL_LqLwreapxyeg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Bin zum zweiten Mal da gewesen und habe mich wieder sehr über die so freundliche Behandlung/ Beratung vor Ort gefreut. Ergebnisse können sich sehen lassen! Komme gern wieder!",
+      "time": 1789129612,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Wendler",
+      "author_url": "https://www.google.com/maps/contrib/116369722019568404472/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBc3KSZp7ftMo3M-0j7mJKL9Nq3njjn0-SL_LqLwreapxyeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Bin zum zweiten Mal da gewesen und habe mich wieder sehr über die so freundliche Behandlung/ Beratung vor Ort gefreut. Ergebnisse können sich sehen lassen! Komme gern wieder!",
       "time": 1789129612,
       "translated": false
@@ -1248,11 +1272,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 109,
+  "reviewCount": 110,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:41.003Z"
+  "lastUpdated": "2026-10-04T10:53:40.172Z"
 }

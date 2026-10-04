@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Minna B",
+      "author_url": "https://www.google.com/maps/contrib/105349049923844745303/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCX0JPn8v2_ZmEea1b0v_N2_lAAAvc9MbzAtB6hV4y6qmMfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790882542,
+      "translated": false
+    },
+    {
       "author_name": "Angelika Blohm",
       "author_url": "https://www.google.com/maps/contrib/105343755399972155352/reviews",
       "language": "de",
@@ -564,11 +574,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 40,
+  "reviewCount": 41,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:21.982Z"
+  "lastUpdated": "2026-10-04T10:53:21.319Z"
 }

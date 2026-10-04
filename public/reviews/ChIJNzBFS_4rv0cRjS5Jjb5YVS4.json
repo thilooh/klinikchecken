@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Wolf Kress",
+      "author_url": "https://www.google.com/maps/contrib/104536312297267824408/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4pqs2ccxSDDVQGImaknugDVtXygHpw6FxNs9WS7_fbKGGxA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Arzthelferin und Ärztin.Hab mich direkt von Anfang an wie Zuhause gefühlt.🤗😉",
+      "time": 1791082767,
+      "translated": false
+    },
+    {
       "author_name": "M. B.",
       "author_url": "https://www.google.com/maps/contrib/113115669552707494410/reviews",
       "language": "de",
@@ -602,11 +614,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 25,
+  "reviewCount": 26,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:48.279Z"
+  "lastUpdated": "2026-10-04T10:53:47.376Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Wolfgang Luedicke",
+      "author_url": "https://www.google.com/maps/contrib/112157695745537389547/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKzHwfDPCBh9y69b8-8A79NaFGCqSOKIaQkFsqUs-ZnKKZKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche Mitarbeitende, sehr freundlicher und kompetenter Arzt, alles zur vollster Zufriedenheit 👍",
+      "time": 1790923232,
+      "translated": false
+    },
+    {
+      "author_name": "Hildegard Holz",
+      "author_url": "https://www.google.com/maps/contrib/102207817639002282956/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdNdD8vw9y4-whlcaEqY8Rhrc0T7GXtFkhP31uKi0ezZU1hA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790868027,
+      "translated": false
+    },
+    {
       "author_name": "Larissa",
       "author_url": "https://www.google.com/maps/contrib/103397023546263000620/reviews",
       "language": "de",
@@ -1554,11 +1576,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 339,
+  "reviewCount": 341,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:51.185Z"
+  "lastUpdated": "2026-10-04T10:53:50.293Z"
 }

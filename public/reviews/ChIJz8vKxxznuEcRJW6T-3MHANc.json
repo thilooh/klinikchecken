@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Anud Ali",
+      "author_url": "https://www.google.com/maps/contrib/114640165734643785914/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhWr_8vfEPD3r87Wmz3hcgLKj5eYeI4V1SIAurduBGLurKsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791059196,
+      "translated": false
+    },
+    {
       "author_name": "Melli Kersten",
       "author_url": "https://www.google.com/maps/contrib/112650820345743955163/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGwb6Zns17eUYbLeiCvBcwmp9wRTxhob9BT1tDT91SV4gjFQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Krosta war sehr freundlich und hat mich sehr gut behandelt. Ich habe mich bei ihr sehr wohl und gut aufgehoben gefühlt.\n\nKevin Pöss",
+      "time": 1790328623,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Pöss",
+      "author_url": "https://www.google.com/maps/contrib/101634784337139575148/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGwb6Zns17eUYbLeiCvBcwmp9wRTxhob9BT1tDT91SV4gjFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Frau Dr. Krosta war sehr freundlich und hat mich sehr gut behandelt. Ich habe mich bei ihr sehr wohl und gut aufgehoben gefühlt.\n\nKevin Pöss",
       "time": 1790328623,
       "translated": false
@@ -140,6 +162,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXsl0_4U5-rUZ7teGEZlmZhhLmuVpspsXXRqj01Wk9VUCri_ylRg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super Praxis, pünktliche Termineinhaltung",
+      "time": 1789817093,
+      "translated": false
+    },
+    {
+      "author_name": "W. Pankoff",
+      "author_url": "https://www.google.com/maps/contrib/117261660707898978270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXsl0_4U5-rUZ7teGEZlmZhhLmuVpspsXXRqj01Wk9VUCri_ylRg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super Praxis, pünktliche Termineinhaltung",
       "time": 1789817093,
       "translated": false
@@ -1674,5 +1708,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:42.613Z"
+  "lastUpdated": "2026-10-04T10:53:41.736Z"
 }

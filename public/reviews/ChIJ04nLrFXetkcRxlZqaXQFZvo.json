@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Stefan Kuper",
+      "author_url": "https://www.google.com/maps/contrib/104579432789128160211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZjF04Un9kfbeUOzGTK8FUzZ7ubMSq7REvGn3oYBD4t5Q8Jlw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte auf diesen Weg Lob für diese wunderbare Behandlung und die gute Atmosphäre aussprechen, Herr und Frau Doktor Krüger sowie das ganze Team haben mir nett und kompetent zur Seite gestanden. Ich kann diese Praxis wärmstens weiterempfehlen.",
+      "time": 1791011717,
+      "translated": false
+    },
+    {
+      "author_name": "Jördis Bajorat",
+      "author_url": "https://www.google.com/maps/contrib/115623993198862403341/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmSm0NSNd_-586EviF7m8lPu0iXlheLqeYR4FWoXNowFuj9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Im Venenzentrum fühlte ich mich in den besten Händen. Wirklich alle, Ärztin, Arzt und die weiteren medizinischen Mitarbeiterinnen der Praxis waren sehr freundlich. Bzgl. des Eingriffes wurden meine Ängste ernst genommen und auf meine Wünsche eingegangen. Heilung verlief noch rascher und besser als gedacht. Ich bin sehr froh, auf diese Praxis gestoßen zu sein und kann sie nur empfehlen.",
+      "time": 1790859749,
+      "translated": false
+    },
+    {
       "author_name": "Yumii",
       "author_url": "https://www.google.com/maps/contrib/108931473017488582091/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmnUPi42PsZB1RgYzWm5n_Mrj-SDZtuVppWggJUlPwnNauk5ma=s128-c0x00000000-cc-rp-mo",
@@ -30,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfpONP3X1eCciczj4chFt4gogVQJlYxvG6I-wV-O9H-pq4mg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Mitarbeiterinnen 😊",
+      "time": 1790252158,
+      "translated": false
+    },
+    {
+      "author_name": "SaKa'71",
+      "author_url": "https://www.google.com/maps/contrib/108250162395269275178/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfpONP3X1eCciczj4chFt4gogVQJlYxvG6I-wV-O9H-pq4mg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nette Mitarbeiterinnen 😊",
       "time": 1790252158,
       "translated": false
@@ -606,11 +642,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 54,
+  "reviewCount": 56,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:46.565Z"
+  "lastUpdated": "2026-10-04T10:53:45.676Z"
 }

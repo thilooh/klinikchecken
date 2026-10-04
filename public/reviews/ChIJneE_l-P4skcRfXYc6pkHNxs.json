@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Yasemin Priv",
+      "author_url": "https://www.google.com/maps/contrib/110996806746429836247/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvs-msxjX4-jhUgM4Ox3JkyD00M2KVC6NXIBB4hDJXAqI5QA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Mein Vater und ich waren beide bei Doktor Eyad! Toller Arzt. Nimmt sich Zeit und erklärt alles ganz in Ruhe! Top!",
+      "time": 1790493165,
+      "translated": false
+    },
+    {
       "author_name": "Becky",
       "author_url": "https://www.google.com/maps/contrib/112024456266485666343/reviews",
       "language": "de",
@@ -70,6 +82,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINMveY3ByHyXr6iRnpbra2n0V2Z_WWe73MT0qLN--Ag6xZyA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1788379862,
+      "translated": false
+    },
+    {
+      "author_name": "last unicorn",
+      "author_url": "https://www.google.com/maps/contrib/102747090978984011154/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINMveY3ByHyXr6iRnpbra2n0V2Z_WWe73MT0qLN--Ag6xZyA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1788379862,
       "translated": false
@@ -1018,5 +1040,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:21.739Z"
+  "lastUpdated": "2026-10-04T10:53:21.070Z"
 }

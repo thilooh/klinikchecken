@@ -67,6 +67,16 @@
       "translated": false
     },
     {
+      "author_name": "Corinne Rijk",
+      "author_url": "https://www.google.com/maps/contrib/105934628215533710484/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlx_qR_jFPUqZVduQtS1gXLeaIsoe9JxBA_5UgKvcr3CwWIA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1789117535,
+      "translated": false
+    },
+    {
       "author_name": "D B",
       "author_url": "https://www.google.com/maps/contrib/101298790234717601498/reviews",
       "language": "de",
@@ -74,6 +84,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8lxFKE1Fke7AD7QziJbFVgctzfwav9raVMKg5VieSTNYEvHv_=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Reibungsloser Ablauf, freundliche Mitarbeiterinnen, gute Aufklärung.",
+      "time": 1789049569,
+      "translated": false
+    },
+    {
+      "author_name": "D B",
+      "author_url": "https://www.google.com/maps/contrib/101298790234717601498/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8lxFKE1Fke7AD7QziJbFVgctzfwav9raVMKg5VieSTNYEvHv_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Reibungsloser Ablauf, freundliche Mitarbeiterinnen, gute Aufklärung.",
       "time": 1789049569,
       "translated": false
@@ -134,6 +156,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnmPJw_L5hmezcllhv2_rbpzW5LdFj0tyZXpT7ulpMRIODqDg=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Gute Beratung, Hilfe und Versorgung. Termin unbedingt früh planen. Gute und freundliche Orga.",
+      "time": 1788675869,
+      "translated": false
+    },
+    {
+      "author_name": "Nelly Bly & henrinski",
+      "author_url": "https://www.google.com/maps/contrib/117096891527480080069/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnmPJw_L5hmezcllhv2_rbpzW5LdFj0tyZXpT7ulpMRIODqDg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Gute Beratung, Hilfe und Versorgung. Termin unbedingt früh planen. Gute und freundliche Orga.",
       "time": 1788675869,
       "translated": false
@@ -1214,5 +1248,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:28.732Z"
+  "lastUpdated": "2026-10-04T10:53:28.066Z"
 }

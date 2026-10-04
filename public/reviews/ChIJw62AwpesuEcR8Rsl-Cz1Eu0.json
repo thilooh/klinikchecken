@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Antkowiak",
+      "author_url": "https://www.google.com/maps/contrib/108070658188641315111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNw0L6UP4mkBS0-cOE8zp6st1NAJybOuGXDk1XzgnVNWufrg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gut strukturierte Praxis, aus meiner Sicht leider bei der Behandlung mit Tempo, aber ein gutes Gefühl.",
+      "time": 1791110321,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Sonderhoff",
+      "author_url": "https://www.google.com/maps/contrib/103110170096430170369/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWL-WO28r6XFPFflMbu1miqzbWfZ_RmBnQAiINTyvVBB2SDijI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetent und nett.",
+      "time": 1790943480,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Patyk",
       "author_url": "https://www.google.com/maps/contrib/113528436273896713817/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB3Lwqj9wLNXZjFKyWdDouSs-UQZOEP13XtAYsIdpF60Tzqw=s128-c0x00000000-cc-rp-mo-ba6",
@@ -81,6 +105,16 @@
       "translated": false
     },
     {
+      "author_name": "Achim Nowak",
+      "author_url": "https://www.google.com/maps/contrib/116604424917990523514/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAZGRKSWJ19sofPPquhkk3EfaM28lex34E1wzCgGg7wXWwXDY0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1788645366,
+      "translated": false
+    },
+    {
       "author_name": "Steff Tou",
       "author_url": "https://www.google.com/maps/contrib/113285112176664472894/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5_cOGhw-G7fcv8QHB4dTxBKFE1b_uZl87Sg0kzOs5YoHqbw=s128-c0x00000000-cc-rp-mo",
@@ -116,6 +150,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5_cOGhw-G7fcv8QHB4dTxBKFE1b_uZl87Sg0kzOs5YoHqbw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1788550474,
+      "translated": false
+    },
+    {
+      "author_name": "Steff Tou",
+      "author_url": "https://www.google.com/maps/contrib/113285112176664472894/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5_cOGhw-G7fcv8QHB4dTxBKFE1b_uZl87Sg0kzOs5YoHqbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1788550474,
       "translated": false
@@ -1070,11 +1114,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 109,
+  "reviewCount": 111,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:41.879Z"
+  "lastUpdated": "2026-10-04T10:53:40.998Z"
 }

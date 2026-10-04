@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "KliGedi !",
+      "author_url": "https://www.google.com/maps/contrib/103482648794630330067/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0QJJMVd6EQ0q0OS3XGarwfupXmY-UavQHvEJWvBJusjatefZX=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die Pädiatrie ist hervorragend. Das Personal ist gut organisiert und die Arbeitsabläufe sind gut eingespielt - ein großes Lob an das gesamte Team.",
+      "time": 1790161431,
+      "translated": false
+    },
+    {
       "author_name": "Dietmar John",
       "author_url": "https://www.google.com/maps/contrib/112818722483189633444/reviews",
       "language": "de",
@@ -61,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Bianca Albers",
+      "author_url": "https://www.google.com/maps/contrib/114141497785858107441/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzLnbdp-g222McYk9aFmStGI2ovTE0yifI7-P2J2-6YY7aih0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr freundlich und entgegenkommend",
+      "time": 1788679172,
+      "translated": false
+    },
+    {
       "author_name": "Burak Arslan",
       "author_url": "https://www.google.com/maps/contrib/113022601675019430817/reviews",
       "language": "de",
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3Vo1fZ5l-mzUsHtLdPPtu_l822K_y8i9Yz1BiqLvdUbVtjw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Krankenschwester Maria war sehr nett beim Notaufnahme. Ich bin sehr dankbar an ihr...",
+      "time": 1788381764,
+      "translated": false
+    },
+    {
+      "author_name": "Burak Arslan",
+      "author_url": "https://www.google.com/maps/contrib/113022601675019430817/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3Vo1fZ5l-mzUsHtLdPPtu_l822K_y8i9Yz1BiqLvdUbVtjw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Krankenschwester Maria war sehr nett beim Notaufnahme. Ich bin sehr dankbar an ihr...",
       "time": 1788381764,
       "translated": false
@@ -614,11 +650,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 20,
+  "reviewCount": 21,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:45.083Z"
+  "lastUpdated": "2026-10-04T10:53:44.209Z"
 }

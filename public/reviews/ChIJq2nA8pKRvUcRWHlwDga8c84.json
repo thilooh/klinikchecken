@@ -1,11 +1,57 @@
 {
   "reviews": [
     {
+      "author_name": "Andrea Stricker",
+      "author_url": "https://www.google.com/maps/contrib/118206717007671522474/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXsFjyYa44zrT-kesD5F22DynfcYli25iWtY8VuF9cYDuygQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Quist ist eine hervorragende Ärztin und ihre Mitarbeiterinnen sehr zuvorkommend..danke dafür.",
+      "time": 1791058747,
+      "translated": false
+    },
+    {
+      "author_name": "Valeriia Du",
+      "author_url": "https://www.google.com/maps/contrib/114655269245079320894/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUI8YtHHktH6BUgSK1tnX0R-5SraRhAVBz6jYZr-JJbecJUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte eine Ultra Clear Laserbehandlung zur Behandlung von Aknenarben bei der Dr. Bergmann und Laura gemacht und habe mich super aufgehoben gefühlt:)\n\nDie Erfahrung war ein Erlebnis für sich und ich denke nicht, dass ich es noch mal machen werde (ich bin sehr schmerzempfindlich), aber nachdem alles verheilt ist, sieht man einen deutlichen Unterschied - die Haut ist ebenmäßiger und das Hautbild ist deutlich besser.\n\nDie Beratung zur Nachbehandlung von Frau Dr. Quist war sehr achtsam und professionell - es wurde nur das empfohlen, was für meine Haut das beste ist.\n\nDie Praxis kann ich vom Herzen empfehlen!",
+      "time": 1790968538,
+      "translated": false
+    },
+    {
+      "author_name": "Anne-Maj Tangermann",
+      "author_url": "https://www.google.com/maps/contrib/112001915913273279138/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPn0nGMd_NEmGwQlRuW5BvWFO0UfpOzyGsFJPLDe2GTV0P0F4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war für die Hautkrebsvorsorge zu einem Full Body Scan in der Praxis. Sehr angenehmes Klima und professionelle Abläufe. Der Scan wurde von Herrn Weber gemacht. Ich habe mich sehr wohl gefühlt.",
+      "time": 1790929500,
+      "translated": false
+    },
+    {
       "author_name": "ferhat yazgılı",
       "author_url": "https://www.google.com/maps/contrib/106596651097039094256/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_51ZTo6Iu6ot8rumb3WLqxztQR2-82JR9Ebn_agbY1nw-Sg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790404141,
+      "translated": false
+    },
+    {
+      "author_name": "ferhat yazgılı",
+      "author_url": "https://www.google.com/maps/contrib/106596651097039094256/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_51ZTo6Iu6ot8rumb3WLqxztQR2-82JR9Ebn_agbY1nw-Sg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790404141,
       "translated": false
@@ -1646,11 +1692,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 342,
+  "reviewCount": 345,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-01T11:21:38.517Z"
+  "lastUpdated": "2026-10-04T10:53:37.722Z"
 }

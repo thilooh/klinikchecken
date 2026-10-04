@@ -81,6 +81,16 @@
       "translated": false
     },
     {
+      "author_name": "Iris Neubauer-Spieß",
+      "author_url": "https://www.google.com/maps/contrib/112494583169495214597/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwO-84itTnWw3egsS2ZLYOYpvNsHVzjuKUYB0WtnkzH7ip5Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1789887786,
+      "translated": false
+    },
+    {
       "author_name": "H K",
       "author_url": "https://www.google.com/maps/contrib/118039008100340340369/reviews",
       "language": "de",
@@ -100,6 +110,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqqWxefMvPIRXVR3rSxsMoY-XziFanYduX483hKeSavp8gXw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin sehr zufrieden mit der Hautarztpraxis. Auch in dringenden Fällen werden Patienten ohne Termin freundlich aufgenommen. Das Empfangspersonal ist sehr freundlich, hilfsbereit und zuvorkommend.\nVielen Dank für die freundliche und angenehme Betreuung!",
+      "time": 1789673350,
+      "translated": false
+    },
+    {
+      "author_name": "H K",
+      "author_url": "https://www.google.com/maps/contrib/118039008100340340369/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqqWxefMvPIRXVR3rSxsMoY-XziFanYduX483hKeSavp8gXw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin sehr zufrieden mit der Hautarztpraxis. Auch in dringenden Fällen werden Patienten ohne Termin freundlich aufgenommen. Das Empfangspersonal ist sehr freundlich, hilfsbereit und zuvorkommend.\nVielen Dank für die freundliche und angenehme Betreuung!",
       "time": 1789673350,
       "translated": false
@@ -1410,11 +1432,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 398,
+  "reviewCount": 397,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-01T11:21:44.839Z"
+  "lastUpdated": "2026-10-04T10:53:43.967Z"
 }

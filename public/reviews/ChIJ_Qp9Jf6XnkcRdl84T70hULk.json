@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "yusuf soysal",
+      "author_url": "https://www.google.com/maps/contrib/114354456470972984636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTZOIYXU_3F_NiiaB3Hsvt3AEL6ImsYI1oEm6nsxeCTwSGXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meinen Termin hatte ich bereits vier Monate im Voraus vereinbart. Bei der Terminvereinbarung habe ich meine Überweisung und die erforderlichen Versicherungsunterlagen vorgelegt. Die Unterlagen wurden geprüft, mir wurde ein Termin gegeben und die Dokumente anschließend wieder zurückgegeben. Da die Gültigkeit der Unterlagen bis zum Termin ablaufen würde, wurde ich sogar darauf hingewiesen, neue Unterlagen mitzubringen.\n\nErst am Tag des Termins wurde mir mitgeteilt, dass die Behandlung angeblich nicht von meiner Versicherung übernommen werde. Aus diesem Grund wurde ich nicht einmal untersucht.\n\nBesonders unverständlich ist dies für mich, da ich mit denselben Unterlagen bereits bei einem anderen Hautarzt behandelt wurde und die Kosten dort übernommen wurden. Ich wollte lediglich eine zweite fachliche Meinung einholen.\n\nBesonders ärgerlich finde ich, dass dies erst nach vier Monaten Wartezeit mitgeteilt wurde. Wenn es Probleme mit der Kostenübernahme gegeben haben sollte, hätte dies bereits bei der Terminvergabe geprüft und kommuniziert werden können. Dann hätte ich rechtzeitig einen Termin in einer anderen\nPraxis vereinbaren können, anstatt vier Monate umsonst zu warten.\n\nDa meine Unterlagen bereits bei der\nTerminvereinbarung vorgelegt und geprüft worden waren, ist dieses Vorgehen für mich nicht nachvollziehbar.\n\nInsgesamt empfand ich den Umgang als unprofessionell und respektlos gegenüber meiner Zeit.",
+      "time": 1790334004,
+      "translated": false
+    },
+    {
       "author_name": "Iwona Unilowski",
       "author_url": "https://www.google.com/maps/contrib/109491998064859276564/reviews",
       "language": "de",
@@ -128,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJysi2hCcOTvCtZ4RhdW8qVPC76aBBJcdJu10Kw9-AY3SHJAA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Frau Dr Kelp ist sehr kompetent und höchst professionell.\n\nSie ist die erste und einzige welche meine Hautprobleme nachhaltig behandeln konnte und mir ein nun weniger schmerzhaftes Leben ermöglichen konnte.\n\nIch würde immer wieder diese Praxis aufsuchen- trotz Umzug ist sie für mich die einzige Option.\n\nDas einzige Manko wäre die telefonische Erreichbarkeit, welche für ältere Patienten sehr wichtig ist.\n\nDie online Termin Vergabe funktioniert einwandfrei und auch ansonsten gibt es keine Probleme.\n\nSehr zu empfehlen wenn man kompetente Hilfe sucht.",
+      "time": 1789108668,
+      "translated": false
+    },
+    {
+      "author_name": "ghost girl",
+      "author_url": "https://www.google.com/maps/contrib/100951954839077419359/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJysi2hCcOTvCtZ4RhdW8qVPC76aBBJcdJu10Kw9-AY3SHJAA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Frau Dr Kelp ist sehr kompetent und höchst professionell.\n\nSie ist die erste und einzige welche meine Hautprobleme nachhaltig behandeln konnte und mir ein nun weniger schmerzhaftes Leben ermöglichen konnte.\n\nIch würde immer wieder diese Praxis aufsuchen- trotz Umzug ist sie für mich die einzige Option.\n\nDas einzige Manko wäre die telefonische Erreichbarkeit, welche für ältere Patienten sehr wichtig ist.\n\nDie online Termin Vergabe funktioniert einwandfrei und auch ansonsten gibt es keine Probleme.\n\nSehr zu empfehlen wenn man kompetente Hilfe sucht.",
       "time": 1789108668,
       "translated": false
@@ -1468,11 +1492,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 176,
+  "reviewCount": 177,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-01T11:21:29.239Z"
+  "lastUpdated": "2026-10-04T10:53:28.566Z"
 }
