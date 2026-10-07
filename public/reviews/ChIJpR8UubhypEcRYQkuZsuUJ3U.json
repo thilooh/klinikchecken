@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Loreen Kopplow",
+      "author_url": "https://www.google.com/maps/contrib/103180050398290134077/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHYmFdT01aIAntjC2IOzmAB0sMNInKfPAJoTEIhwSwcYt_xMjG=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meine Mutter ist seit Jahren Patientin dort. Nun hat sie eine Überweisung der Hausärztin bekommen und als sie in der Praxis war hat ein Mann behauptet sie wäre im Vorjahr nicht da gewesen und sie solle sich einen neuen Arzt suchen sie bekommt keinen Termin. 1. war meine Mutter im Vorjahr dort und 2. was ist das denn für ein Umgang mit Patienten! Frech, einfach Frech! Wieso gibt man einfach keine Termine obwohl jemand regelmäßig dort war und selbst wenn Mal 1 Jahr dazwischen fehlt was soll das? Dieser Mann am Tresen ist wohl bei vielen schon sehr unangenehm aufgefallen.",
+      "time": 1790588471,
+      "translated": false
+    },
+    {
       "author_name": "Simone Leich",
       "author_url": "https://www.google.com/maps/contrib/110230934572677199316/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL90MzqDfqjfxhgZwUQzj2zNBCKOPEh2eVl9K2TaQTEJz4-yw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Wir versuchen seit Tagen die Praxis telefonisch zu erreichen, auch Email funktioniert nicht, finde ich sehr traurig und enttäuschend. Man muss mindestens 1 Stern vergeben, um hier weiter zu kommen,aber man muss ja froh sein überhaupt einen Arzt dieser Fachrichtung zu finden",
+      "time": 1788794109,
+      "translated": false
+    },
+    {
+      "author_name": "Simone Leich",
+      "author_url": "https://www.google.com/maps/contrib/110230934572677199316/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL90MzqDfqjfxhgZwUQzj2zNBCKOPEh2eVl9K2TaQTEJz4-yw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Wir versuchen seit Tagen die Praxis telefonisch zu erreichen, auch Email funktioniert nicht, finde ich sehr traurig und enttäuschend. Man muss mindestens 1 Stern vergeben, um hier weiter zu kommen,aber man muss ja froh sein überhaupt einen Arzt dieser Fachrichtung zu finden",
       "time": 1788794109,
       "translated": false
@@ -104,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXbkQZttQl0Zu4O3BNB3E_SWyDIt-LDjEX3XiFBHS5maLoOssH=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Kompetente Ärztin\n\nAngenehmer Wartebereich\n\nZentral gelegen. Gut über ÖPNV erreichbar",
+      "time": 1788599347,
+      "translated": false
+    },
+    {
+      "author_name": "Sascha",
+      "author_url": "https://www.google.com/maps/contrib/114481321475258804700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXbkQZttQl0Zu4O3BNB3E_SWyDIt-LDjEX3XiFBHS5maLoOssH=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Kompetente Ärztin\n\nAngenehmer Wartebereich\n\nZentral gelegen. Gut über ÖPNV erreichbar",
       "time": 1788599347,
       "translated": false
@@ -613,12 +649,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 52,
+  "rating": 4.6,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:35.987Z"
+  "lastUpdated": "2026-10-07T11:31:11.114Z"
 }

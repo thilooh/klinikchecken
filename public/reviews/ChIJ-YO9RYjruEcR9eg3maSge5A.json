@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "D. Tester",
+      "author_url": "https://www.google.com/maps/contrib/102383137528420789607/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcUQAYb9v1xhP9cjC7oEUnp0gx4uqHYXssHLvd0zdx2qermPJK=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetenter Arzt. Alles bestens gelaufen!",
+      "time": 1791228319,
+      "translated": false
+    },
+    {
       "author_name": "Frank Calderon",
       "author_url": "https://www.google.com/maps/contrib/106896679473703119191/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwsew4hCc2YNSi3W2ytRBCbG_2OeMk3tSB-t1CTsYZBOBScA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde an beiden Leisten und am Bauchnabel gleichzeitig am 9.9.26 Operiert.Hatte auch eigentlich sehr schnell einen Termin bekommen,hatte aber da nur leider das Pech gehabt das der Dr.in den (wohl verdienten )Urlaub gegangen ist.Danach aber sofort ein Termin bekommen habe.\nich bin ein schisser vor dem Herrn was OPs angeht,was das Team auch  schnell bemerkt hatte . Was das Team und der Herr Dr.Wais im speziellen mir da aber die Ängste genommen haben, ist der Wahnsinn !!👍.\nDie offene, ehrlich,und lässige Art des Herrn Dr Wais haben mich dabei sehr Beruhigt 🤗.\nDie Gespräche,der Ablauf,meine Fragen und die OP war alles Super verlaufen.\nDanke nochmal für alles !!\n\nKann diese Praxis wirklich nur weiter Empfehlen und wünschte es gäbe mehrere von dieser Sorte (Ärzte und Personal).\nMfg.",
+      "time": 1790680318,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Calderon",
+      "author_url": "https://www.google.com/maps/contrib/106896679473703119191/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwsew4hCc2YNSi3W2ytRBCbG_2OeMk3tSB-t1CTsYZBOBScA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich wurde an beiden Leisten und am Bauchnabel gleichzeitig am 9.9.26 Operiert.Hatte auch eigentlich sehr schnell einen Termin bekommen,hatte aber da nur leider das Pech gehabt das der Dr.in den (wohl verdienten )Urlaub gegangen ist.Danach aber sofort ein Termin bekommen habe.\nich bin ein schisser vor dem Herrn was OPs angeht,was das Team auch  schnell bemerkt hatte . Was das Team und der Herr Dr.Wais im speziellen mir da aber die Ängste genommen haben, ist der Wahnsinn !!👍.\nDie offene, ehrlich,und lässige Art des Herrn Dr Wais haben mich dabei sehr Beruhigt 🤗.\nDie Gespräche,der Ablauf,meine Fragen und die OP war alles Super verlaufen.\nDanke nochmal für alles !!\n\nKann diese Praxis wirklich nur weiter Empfehlen und wünschte es gäbe mehrere von dieser Sorte (Ärzte und Personal).\nMfg.",
       "time": 1790680318,
       "translated": false
@@ -1218,11 +1242,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 148,
+  "reviewCount": 149,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:43.229Z"
+  "lastUpdated": "2026-10-07T11:31:18.396Z"
 }

@@ -1,11 +1,53 @@
 {
   "reviews": [
     {
+      "author_name": "S X",
+      "author_url": "https://www.google.com/maps/contrib/115565383068100533446/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMGGa8knPu-Kkpfrl2VR-Oc-wGDDEnOtY--smuRgm_4PbWoA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791281658,
+      "translated": false
+    },
+    {
+      "author_name": "Torsten S.",
+      "author_url": "https://www.google.com/maps/contrib/105412035874030702352/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRnvleh5yTIAzBidVwsTQOnwXsAqxz4IAc-2RTWhrF1cgU_PXF=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791204665,
+      "translated": false
+    },
+    {
+      "author_name": "H E",
+      "author_url": "https://www.google.com/maps/contrib/100159788162726264518/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqRixL6UQFWxqaGjzrsAoKVbdyDd1sVH3ozXLc-Bq6FkT7YTU=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Der KI Assistent ist wirklich schlimm. Man hat keine Möglichkeit die Praxis zu erreichen und kurz nach wichtigen Informationen zu fragen… Leider super frustrierend.",
+      "time": 1790759746,
+      "translated": false
+    },
+    {
       "author_name": "Elena Fraidych",
       "author_url": "https://www.google.com/maps/contrib/107150014208151205483/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtZVALb_QAjf4iEmAcUNopONnbqUb3McNEtUhAxEMp6yNSffgz4Q=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790681148,
+      "translated": false
+    },
+    {
+      "author_name": "Elena Fraidych",
+      "author_url": "https://www.google.com/maps/contrib/107150014208151205483/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtZVALb_QAjf4iEmAcUNopONnbqUb3McNEtUhAxEMp6yNSffgz4Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790681148,
       "translated": false
@@ -1388,11 +1430,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 85,
+  "reviewCount": 88,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:39.188Z"
+  "lastUpdated": "2026-10-07T11:31:14.331Z"
 }

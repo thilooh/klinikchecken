@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gerda Kubik",
+      "author_url": "https://www.google.com/maps/contrib/113581766623857429789/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInEoBKFesmpLvxTtlWqr7Z4PiqYJimmmfIc8KAunNG5NtfSw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde kürzlich von Herrn Dr. Mehdi Rahmanian Koshkaki hervorragend behandelt. Seine kompetente und ruhige Art alle Behandlungsschritte genau zu erklären hat mich sehr beeindruckt. Nicht vergessen darf man die äußerst freundliche und kompetente Mitarbeiterin!\nDiese Praxis habe ich bereits weiter empfohlen.\nEin großes Dankeschön.",
+      "time": 1791301114,
+      "translated": false
+    },
+    {
       "author_name": "Heinrich Ulherr",
       "author_url": "https://www.google.com/maps/contrib/102909907935452629853/reviews",
       "language": "de",
@@ -506,11 +518,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 9,
+  "reviewCount": 10,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-10-04T10:53:53.802Z"
+  "lastUpdated": "2026-10-07T11:31:28.950Z"
 }

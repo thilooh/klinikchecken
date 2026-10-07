@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "ML Assitant",
+      "author_url": "https://www.google.com/maps/contrib/100253360574365520041/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqG0RZIsxzmVKmnfEoTDU6XWOxMcIEZFW7frPfflMQzeTnuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791203627,
+      "translated": false
+    },
+    {
+      "author_name": "Jenny",
+      "author_url": "https://www.google.com/maps/contrib/115157031970441439175/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiKpBowMDmInDkdNXwrTIuSEBNQAphiJojF-6j87oFVhXOgQ8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe über Doctolib zwei mal Termine gebucht innerhalb eines Jahres. Immer mit enormen Wartezeiten. Beide Termine wurden mir abgesagt. Einmal aus unerklärlichen Gründen und einmal wegen Urlaub (den man ja schon eher kennen sollte).\nIch werde kein drittes Mal einen Termin machen.",
+      "time": 1791196632,
+      "translated": false
+    },
+    {
+      "author_name": "juliatheonlyone",
+      "author_url": "https://www.google.com/maps/contrib/105747225703998103763/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUms_3W9HLO2EN3BjKwcLY0kiVs_1xPTIByavM-hpvCOaF9waeb=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Praxis sagt andauernd die Termine ab. Seit einem Jahr werden immer meine Termine abgesagt. Aktuell 'auf Grund von Urlaub'. Vorher Monate im Voraus wegen 'Notfall'. Alternativen werden nicht angeboten.",
+      "time": 1791192937,
+      "translated": false
+    },
+    {
+      "author_name": "Oleg Luchnikov",
+      "author_url": "https://www.google.com/maps/contrib/106272529493716568939/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_nLiESKtMGvJxaLyRTXMOBuxlg4flrA87N3sQyYK2uqc-Ww=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Russischsprachiger Dermatologe.",
+      "time": 1791138624,
+      "translated": true
+    },
+    {
       "author_name": "Gabi Rűtters",
       "author_url": "https://www.google.com/maps/contrib/100077405786497954165/reviews",
       "language": "de",
@@ -1417,12 +1463,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 111,
+  "rating": 4.4,
+  "reviewCount": 115,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:24.072Z"
+  "lastUpdated": "2026-10-07T11:30:59.184Z"
 }

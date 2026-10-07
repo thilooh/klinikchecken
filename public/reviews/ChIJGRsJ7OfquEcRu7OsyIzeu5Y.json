@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "leni Möller",
+      "author_url": "https://www.google.com/maps/contrib/109059383216870775513/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpPmluBy2jI1FwU8ErKVeRvVlx7d8bHoqs8Bdjqmo5LifFfg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche Sprechstundenhilfen die mir kompetent weiter geholfen haben!!!\nDer Arzt selbst hat sich die Zeit genommen, mir alles bis ins Kleinste zu erklären!!!\nImmer fragte er mich, ob ich seine Ausführungen verstanden habe.\nFür mich ist dieser Arzt, der nicht nur die Gefäßchirurgie beherrscht, sondern ganzheitlich den Menschen in den Fokus rückt!!!\nBedingt durch seine Untersuchungen weiß ich jetzt das ist keine neue Hüfte benötige.!\nDanke dem ganzen Team!!!!",
+      "time": 1791295545,
+      "translated": false
+    },
+    {
       "author_name": "Sabine",
       "author_url": "https://www.google.com/maps/contrib/103128852255676244631/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVJwc3P03gnLveFCKEmHiu6_ddtqIRJdK7qwxhfaSrfng70w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Diese Praxis lässt einen vergessen, wie unser Gesundheitssystem teilweise ist.\nEin sehr freundliches Praxis-Team, ein kompetenter, erfahrener und zugewandter Arzt.\nIch fühlte mich sehr gut aufgehoben, ernst genommen und behandelt. Top!",
+      "time": 1790021089,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine",
+      "author_url": "https://www.google.com/maps/contrib/103128852255676244631/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVJwc3P03gnLveFCKEmHiu6_ddtqIRJdK7qwxhfaSrfng70w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Diese Praxis lässt einen vergessen, wie unser Gesundheitssystem teilweise ist.\nEin sehr freundliches Praxis-Team, ein kompetenter, erfahrener und zugewandter Arzt.\nIch fühlte mich sehr gut aufgehoben, ernst genommen und behandelt. Top!",
       "time": 1790021089,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA94096YI_uHvW_mfeeexzysfY6MRwTecxuAwI6vJ-vHdT_w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "An Dr. Pourhassan habe ich nichts auszusetzen aber bitte wie unhöfflich sind die älteren Damen o Pardon die Medizinische Fachangestellte bitte?? Letztens war ich da für mein Vater Termin zu nehmen sage ihr das, sie steht auf holt irgend welche Papiere und faltet sie zusammen legt es in einem Briefumschalg und lässt sich voll Zeit 😂. Dann zu mir, ja um ein Termin zu machen brauche erst eine Überweisung! Ich überlege immer noch was diese Aktion sein sollte. Eins weiss ich definitiv sehr unfreundlich, unhöfflich. Generell sind dies e Frauen die da sitzen veraltet und unfreundlich.",
+      "time": 1789315195,
+      "translated": false
+    },
+    {
+      "author_name": "Jayjay",
+      "author_url": "https://www.google.com/maps/contrib/108401839224414635804/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA94096YI_uHvW_mfeeexzysfY6MRwTecxuAwI6vJ-vHdT_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "An Dr. Pourhassan habe ich nichts auszusetzen aber bitte wie unhöfflich sind die älteren Damen o Pardon die Medizinische Fachangestellte bitte?? Letztens war ich da für mein Vater Termin zu nehmen sage ihr das, sie steht auf holt irgend welche Papiere und faltet sie zusammen legt es in einem Briefumschalg und lässt sich voll Zeit 😂. Dann zu mir, ja um ein Termin zu machen brauche erst eine Überweisung! Ich überlege immer noch was diese Aktion sein sollte. Eins weiss ich definitiv sehr unfreundlich, unhöfflich. Generell sind dies e Frauen die da sitzen veraltet und unfreundlich.",
       "time": 1789315195,
       "translated": false
@@ -1048,11 +1084,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 67,
+  "reviewCount": 68,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-10-04T10:53:42.980Z"
+  "lastUpdated": "2026-10-07T11:31:18.157Z"
 }

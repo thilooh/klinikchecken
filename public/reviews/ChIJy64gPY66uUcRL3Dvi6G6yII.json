@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "F. Rolfes",
+      "author_url": "https://www.google.com/maps/contrib/107535471595129598679/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAYMNDpKWdiAUaYtGCOwcnnscEBurh-YMa0-VAHcmJe3C2Nw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Empfangen wird man von einem sehr freundlichen und zuvorkommenden Praxispersonal. Dr. Schlarb und Dr. Rütter sind ebenfalls sehr kompetent und sympathisch, komme immer gerne wieder. Die Untersuchungen sind auf modernstem Niveau und lassen keine Wünsche offen.",
+      "time": 1791141358,
+      "translated": false
+    },
+    {
       "author_name": "Florian Diern (90degreeees)",
       "author_url": "https://www.google.com/maps/contrib/110150307998269706729/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgX_CJU260DqCazV3iRRPMl6uZMUfLfGCBN5egnwRUymArtCI0=s128-c0x00000000-cc-rp-mo-ba3",
@@ -588,11 +600,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 91,
+  "reviewCount": 92,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:25.076Z"
+  "lastUpdated": "2026-10-07T11:31:00.171Z"
 }

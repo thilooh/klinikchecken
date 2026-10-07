@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Uhlemann",
+      "author_url": "https://www.google.com/maps/contrib/110815545480267979167/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhlOBJdIUHa1d1zZcU2P6K3lanLNtmiZK2Tu38jqV2xGzv7K4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freudluche Aufnahme, kurze Wartezeit, gute Behandlung",
+      "time": 1791261068,
+      "translated": false
+    },
+    {
       "author_name": "Papatya Ya",
       "author_url": "https://www.google.com/maps/contrib/112060371586336973375/reviews",
       "language": "de",
@@ -1504,11 +1516,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:44.456Z"
+  "lastUpdated": "2026-10-07T11:31:19.625Z"
 }

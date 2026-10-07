@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "dannyontherox",
+      "author_url": "https://www.google.com/maps/contrib/105027967655469890399/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLK2zs9w97wPqr2DddiKxOCIeVtdMYSOFMpAbhQrFFCCwSYfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791363031,
+      "translated": false
+    },
+    {
       "author_name": "Frederik Huf",
       "author_url": "https://www.google.com/maps/contrib/113358634213788336243/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFEnVFa3miynK8gl3PG1zXYJG--qHKUCf7ITkYVmB54RdI=s128-c0x00000000-cc-rp-mo",
@@ -198,6 +208,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBW-ddMp7VkBWt8sFpaqYiLd2VrU7VIpN7c6EJzLL9Jj89Boc=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Sehr schlechte venen operation",
+      "time": 1786135521,
+      "translated": false
+    },
+    {
+      "author_name": "n tt",
+      "author_url": "https://www.google.com/maps/contrib/108088055743575616028/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBW-ddMp7VkBWt8sFpaqYiLd2VrU7VIpN7c6EJzLL9Jj89Boc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Sehr schlechte venen operation",
       "time": 1786135521,
       "translated": false
@@ -1006,11 +1028,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 162,
+  "reviewCount": 163,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:33.502Z"
+  "lastUpdated": "2026-10-07T11:31:08.632Z"
 }

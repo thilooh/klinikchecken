@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "M Mersmann",
+      "author_url": "https://www.google.com/maps/contrib/103588570574229901899/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIELpn4yzzlb2XvpKZYCMJVjRH91bt4LaQbjFXnrqbBiyNeLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wurde heute erneut mit nur wenig Wartezeit sehr freundlich zu meinem online ergatterten Termin behandelt.",
+      "time": 1791350419,
+      "translated": false
+    },
+    {
+      "author_name": "Inessa Tsepkova",
+      "author_url": "https://www.google.com/maps/contrib/103237323893181901229/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdJm3Tvme3b6PVhMJh0p7AuPZ4SgpqoArKKa6K5n--GAm6Ow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791276957,
+      "translated": false
+    },
+    {
+      "author_name": "Gùnter Köhnke",
+      "author_url": "https://www.google.com/maps/contrib/115246066438205134049/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe22YAtOujkiqsT-1NK2oUQdnn1NtgRQoM3bW6rMz9czHXjUse7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde von Frau Alfarsi untersucht , ich war sehr zufrieden .",
+      "time": 1791226428,
+      "translated": false
+    },
+    {
+      "author_name": "Olaf Bruch",
+      "author_url": "https://www.google.com/maps/contrib/117980551911739561830/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwRmE2wNjH4fgan1rL17drwGMwGnuMEMKmzXygcZ1VE-6gmA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nur Online Termine.Denn noch kurze Wartezeit, sehr kompetent und Fachlich für jeden verständlich. Kinder gehen mit gutem Gefühl und keinen ängsten hin. Ärzteschwestern sind sehr nett und hilfbereit. Auch nach dem Termin,wenn man was vergessen hat zu fragen.Wird einem geholfen. Danke",
+      "time": 1791220927,
+      "translated": false
+    },
+    {
       "author_name": "Hinrich Tietjen",
       "author_url": "https://www.google.com/maps/contrib/104097210702395399511/reviews",
       "language": "de",
@@ -2200,11 +2246,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2426,
+  "reviewCount": 2434,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-04T10:53:23.082Z"
+  "lastUpdated": "2026-10-07T11:30:58.193Z"
 }

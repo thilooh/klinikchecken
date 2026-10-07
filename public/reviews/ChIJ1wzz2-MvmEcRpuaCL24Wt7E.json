@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Tamara Otto",
+      "author_url": "https://www.google.com/maps/contrib/106894946394783227737/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZmGmqXfVQTXAQKKuLsI9WGeak4axnIUF2ceV9qbs39xiTMg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791364521,
+      "translated": false
+    },
+    {
       "author_name": "Jürgen Britsch",
       "author_url": "https://www.google.com/maps/contrib/115751534170063640160/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1SB9KgzVZ6Y0Ax_gd6Coe5nNX0wfkq7tC9I5TZzd986G5SDjy=s128-c0x00000000-cc-rp-mo-ba4",
@@ -1168,11 +1178,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 98,
+  "reviewCount": 99,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:51.516Z"
+  "lastUpdated": "2026-10-07T11:31:26.749Z"
 }

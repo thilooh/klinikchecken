@@ -49,11 +49,33 @@
       "translated": false
     },
     {
+      "author_name": "Daniela Buschfeld",
+      "author_url": "https://www.google.com/maps/contrib/104397332199568555635/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2jbSey1jEaKCL8dPlOll0kPRTTPvKl9D42vZDQM_ecg8jgCMZ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr netter und einfühlsamer Arzt. Kann ich nur weiter empfehlen. Die Dame an der Anmeldung war auch super nett. Vielen Dank für den angenehmen Besuch.",
+      "time": 1790719573,
+      "translated": false
+    },
+    {
       "author_name": "Wahida Sediqi",
       "author_url": "https://www.google.com/maps/contrib/106470341848610798415/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4R3qDOJyv8wM1lhKBnpFHTaevsBYaswPwVccxX7-OS8hLhJDI=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790668146,
+      "translated": false
+    },
+    {
+      "author_name": "Wahida Sediqi",
+      "author_url": "https://www.google.com/maps/contrib/106470341848610798415/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4R3qDOJyv8wM1lhKBnpFHTaevsBYaswPwVccxX7-OS8hLhJDI=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790668146,
       "translated": false
@@ -932,5 +954,5 @@
   "rating": 4.1,
   "reviewCount": 132,
   "summary": [],
-  "lastUpdated": "2026-10-04T10:53:18.363Z"
+  "lastUpdated": "2026-10-07T11:30:53.480Z"
 }

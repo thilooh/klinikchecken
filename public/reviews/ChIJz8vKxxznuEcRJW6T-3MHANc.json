@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Markus Reichmann",
+      "author_url": "https://www.google.com/maps/contrib/105812944420155151896/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEL6v9FwNTXj2f1ADXocHOtfDNbYiLVlF1oTOmKPMce8TQAQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ohne Termin nur ein kurze Wartezeit. Sehr freundliches Personal. Die Behandlung professionell. Sehr zu empfehlen.",
+      "time": 1791305927,
+      "translated": false
+    },
+    {
+      "author_name": "Anaa",
+      "author_url": "https://www.google.com/maps/contrib/108077097722326856819/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBFomA_Rl_aDhqJ5iqXytHnxaz9cbQh10DsJDJ5G9U4_-vsN8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als sie erfuhren, dass wir nicht aus dem Land stammten, änderte sich ihr Verhalten uns gegenüber auf rassistische Weise.",
+      "time": 1791292968,
+      "translated": false
+    },
+    {
+      "author_name": "Lady Lady",
+      "author_url": "https://www.google.com/maps/contrib/100125736121481293398/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMFkB7ThGa9P5Kf7pR-khDLg-EFTE20AZc5g70MZB6KV8iplYF=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791197557,
+      "translated": false
+    },
+    {
+      "author_name": "Ra Wa",
+      "author_url": "https://www.google.com/maps/contrib/112048643289819061276/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxBKYLWRLdJCY82sWIYn1SyR5US-sCL8WVskJxLmwyJDBq7Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Ärzte",
+      "time": 1791195960,
+      "translated": false
+    },
+    {
       "author_name": "Anud Ali",
       "author_url": "https://www.google.com/maps/contrib/114640165734643785914/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhWr_8vfEPD3r87Wmz3hcgLKj5eYeI4V1SIAurduBGLurKsw=s128-c0x00000000-cc-rp-mo",
@@ -1702,11 +1748,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 402,
+  "reviewCount": 406,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:41.736Z"
+  "lastUpdated": "2026-10-07T11:31:16.898Z"
 }

@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Mohsen Zaddam",
+      "author_url": "https://www.google.com/maps/contrib/104083604858539053553/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJCg6sWFYLKlLY78RHwefjMV_fAk5FC7HxP64JXc9DjEVRiQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791194043,
+      "translated": false
+    },
+    {
+      "author_name": "Yahia Adam",
+      "author_url": "https://www.google.com/maps/contrib/116959904032644432789/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUT0yVBmzA74IjXQ_6orYfMrLbJ6K65jK0q4oj5-Z53-Ti6Z0c=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791190813,
+      "translated": false
+    },
+    {
       "author_name": "Mick Ravens",
       "author_url": "https://www.google.com/maps/contrib/104985840098849345208/reviews",
       "language": "de",
@@ -8,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdo_V2r_Ta0c9FDYhj8SWLkI7NlciqyQA1DTuIokJ4ZP-Hgw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin jetzt zum dritten Mal zur Vorsorge hier. Die Untersuchungen sind außerordentlich gründlich und werden akribisch dokumentiert. So können Veränderungen an den dokumentierten Leberflecken genau erkannt werden. Die Terminvergabe ist unkompliziert und das Team sehr freundlich. Die Kosten für die Untersuchungen sind überschaubar und ihr Geld in jedem Fall wert. Ich werde regelmäßig wiederkommen.",
+      "time": 1790520120,
+      "translated": false
+    },
+    {
+      "author_name": "Mick Ravens",
+      "author_url": "https://www.google.com/maps/contrib/104985840098849345208/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdo_V2r_Ta0c9FDYhj8SWLkI7NlciqyQA1DTuIokJ4ZP-Hgw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin jetzt zum dritten Mal zur Vorsorge hier. Die Untersuchungen sind außerordentlich gründlich und werden akribisch dokumentiert. So können Veränderungen an den dokumentierten Leberflecken genau erkannt werden. Die Terminvergabe ist unkompliziert und das Team sehr freundlich. Die Kosten für die Untersuchungen sind überschaubar und ihr Geld in jedem Fall wert. Ich werde regelmäßig wiederkommen.",
       "time": 1790520120,
       "translated": false
@@ -32,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ5xAxGLH5UANr63L7dH3OqMVprkJPltPs67ESc98oYiCV6jrHCg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Der Mitarbeiter am Telefon sagte, ich müsse aus eigener Tasche bezahlen. Sie arbeiten nicht mit der Krankenversicherung zusammen.",
+      "time": 1790160680,
+      "translated": false
+    },
+    {
+      "author_name": "Denis Kadirov",
+      "author_url": "https://www.google.com/maps/contrib/101949214065658612468/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ5xAxGLH5UANr63L7dH3OqMVprkJPltPs67ESc98oYiCV6jrHCg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Der Mitarbeiter am Telefon sagte, ich müsse aus eigener Tasche bezahlen. Sie arbeiten nicht mit der Krankenversicherung zusammen.",
       "time": 1790160680,
       "translated": false
@@ -62,6 +106,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmk7088Aj0ds0Wxo-vqMDlhWbvhwnPvm67T51PjDk4JFH1w=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1789408927,
+      "translated": false
+    },
+    {
+      "author_name": "S. Seefried",
+      "author_url": "https://www.google.com/maps/contrib/113319199451614137742/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmk7088Aj0ds0Wxo-vqMDlhWbvhwnPvm67T51PjDk4JFH1w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1789408927,
       "translated": false
@@ -982,11 +1036,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 199,
+  "reviewCount": 201,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:19.832Z"
+  "lastUpdated": "2026-10-07T11:30:54.970Z"
 }

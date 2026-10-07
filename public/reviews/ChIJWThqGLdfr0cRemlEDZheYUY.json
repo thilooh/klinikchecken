@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "karla onkel",
+      "author_url": "https://www.google.com/maps/contrib/103558574358246469964/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV786FWvxWlSUlBB14oRlkU7zO3bMnNEbyIWf5xUcNt2ByfWQZs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Team unter Leitung von Dr. Dalicho ist top ,fachkompetent und feundlich.\nIn der Klinik befindet man sich in guten Händen..",
+      "time": 1791300777,
+      "translated": false
+    },
+    {
+      "author_name": "Manuela Fitzek-Kuhle",
+      "author_url": "https://www.google.com/maps/contrib/101893680575990678750/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsioTBnvHDM8nagIomSIXi-5FhV-wvhhi7GK3N_AN-UcOKvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes und kompetentes Team aus Ärzten und Pflegepersonal. Top. Ich fühle mich sehr gut aufgehoben und werde als Patient und nicht als Nummer wahrgenommen. Vielen Dank für die tolle Versorgung und auch Nachsorge",
+      "time": 1791294139,
+      "translated": false
+    },
+    {
+      "author_name": "Doc Free",
+      "author_url": "https://www.google.com/maps/contrib/110328893464670368749/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUikNI1jCfl6RhfFRVUPt2IjiTv30gU2J5LPIsqE4ECROhGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte eine größere ambulante OP in Narkose. Alles super gelaufen. Ich  bekam einen schnellen Termin, wurde sehr freundlich und kompetent betreut und bin rundum zufrieden- ich denke besser geht es nicht. Vielen vielen Dank an das gesamte Team!",
+      "time": 1791131843,
+      "translated": false
+    },
+    {
       "author_name": "Jennifer G",
       "author_url": "https://www.google.com/maps/contrib/114022807711152703623/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkz50-8y6s3OcW4t7dlaio8gN04YJ5TV-xqxvpv0SCk7HWdA=s128-c0x00000000-cc-rp-mo",
@@ -1646,11 +1682,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 510,
+  "reviewCount": 513,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-04T10:53:22.303Z"
+  "lastUpdated": "2026-10-07T11:30:57.454Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Kern",
+      "author_url": "https://www.google.com/maps/contrib/101659678158211562616/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAbCQtSxzIxWRdgI9Pm7Ljdr8hRYk2-zWR32HILmIFISNarzWVrA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin zufrieden, der Dr. Ist nett und ist kompetent.\nEin Stern Abzug für die nicht so tolle EDV samt online Terminvergabe.",
+      "time": 1791305476,
+      "translated": false
+    },
+    {
       "author_name": "Diana Q",
       "author_url": "https://www.google.com/maps/contrib/111713127641981094358/reviews",
       "language": "de",
@@ -40,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKToG5DD4HfAbea-7-hoWJiERebVL4k3kbDY4cQbBxWi4Kthw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790706875,
+      "translated": false
+    },
+    {
+      "author_name": "Vadim Iarovih",
+      "author_url": "https://www.google.com/maps/contrib/117460924120312241666/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKToG5DD4HfAbea-7-hoWJiERebVL4k3kbDY4cQbBxWi4Kthw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790706875,
       "translated": false
@@ -1636,11 +1658,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 277,
+  "reviewCount": 278,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-04T10:53:19.093Z"
+  "lastUpdated": "2026-10-07T11:30:54.221Z"
 }

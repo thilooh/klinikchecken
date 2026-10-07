@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bol Sk",
+      "author_url": "https://www.google.com/maps/contrib/116426169850067736384/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI59twuD6D2nXRv-96q8X4uBUzBrKa6rTy4_7B1_Xon_7_8vw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "3x war ich da und 3x müsste ich 2 Stunden warten",
+      "time": 1791302553,
+      "translated": false
+    },
+    {
       "author_name": "Gia",
       "author_url": "https://www.google.com/maps/contrib/104116101209431696994/reviews",
       "language": "de",
@@ -1519,12 +1531,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 210,
+  "rating": 4.3,
+  "reviewCount": 211,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:51.765Z"
+  "lastUpdated": "2026-10-07T11:31:26.995Z"
 }

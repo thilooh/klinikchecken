@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Bettina C.",
+      "author_url": "https://www.google.com/maps/contrib/100985072163011188846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlWUjnDn-ONB6JhSr9svRMw2IK8Yal39Lnp8M0FO2sBpT7yo0_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791294892,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Kaldenpoth",
+      "author_url": "https://www.google.com/maps/contrib/112998179346205604596/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyATwYffkb-uCeG0OIsvDwe5fln_JOh9TIjYVK5UiGZefOGFfF6A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791140708,
+      "translated": false
+    },
+    {
       "author_name": "Bayonettaa x3",
       "author_url": "https://www.google.com/maps/contrib/116813636914874120838/reviews",
       "language": "de",
@@ -79,6 +99,16 @@
       "translated": false
     },
     {
+      "author_name": "L. G.",
+      "author_url": "https://www.google.com/maps/contrib/103559110135452160744/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIICWRTCUmu_CDisYXgBNlI6PeTDAD92lksSAdG97li9-qUbQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1789456784,
+      "translated": false
+    },
+    {
       "author_name": "Michaela Pilger",
       "author_url": "https://www.google.com/maps/contrib/110484953696595020053/reviews",
       "language": "de",
@@ -110,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfKQSaBXo8ZcKUsTzwW_PnTgeREss58LWL37bxquUN10idiw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Man fühlt sich als Patient sehr  gut aufgehoben, die Ärzte nehmen sich Zeit, die Mitarbeiter sind immer freundlich und Termine werden eingehalten.",
+      "time": 1789371057,
+      "translated": false
+    },
+    {
+      "author_name": "Michaela Pilger",
+      "author_url": "https://www.google.com/maps/contrib/110484953696595020053/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfKQSaBXo8ZcKUsTzwW_PnTgeREss58LWL37bxquUN10idiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Man fühlt sich als Patient sehr  gut aufgehoben, die Ärzte nehmen sich Zeit, die Mitarbeiter sind immer freundlich und Termine werden eingehalten.",
       "time": 1789371057,
       "translated": false
@@ -995,12 +1037,12 @@
       "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 49,
+  "rating": 4.1,
+  "reviewCount": 51,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-04T10:53:41.984Z"
+  "lastUpdated": "2026-10-07T11:31:17.141Z"
 }

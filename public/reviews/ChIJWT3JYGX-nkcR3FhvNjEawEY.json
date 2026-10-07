@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mehtap Kutluca",
+      "author_url": "https://www.google.com/maps/contrib/102854079214867368482/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5AK0KZNzJrjA0WvS8VZCjkeLNqAM577-tqlTskNdnPteJC9k=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791288692,
+      "translated": false
+    },
+    {
       "author_name": "Susi Pfab",
       "author_url": "https://www.google.com/maps/contrib/110343604038751548412/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsdosOSIuvrI9n8dKpq8LzdGc2xI2S22yOCpZtWiMGPBKXUg=s128-c0x00000000-cc-rp-mo",
@@ -332,11 +342,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 19,
+  "reviewCount": 20,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-04T10:53:51.270Z"
+  "lastUpdated": "2026-10-07T11:31:26.498Z"
 }

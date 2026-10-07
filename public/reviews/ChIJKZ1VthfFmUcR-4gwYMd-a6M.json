@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ell",
+      "author_url": "https://www.google.com/maps/contrib/100903860367205168620/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaqo-P3W0RZ3ILcxNljgyOAk2uJRbpOywzHxkFOttZ32UP0oj84Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "NO words for dr Hamann. She is the most caring doctor i ve ever met. Literally takes her time to understand your problems while completely listening to what u have to say. She speaks perfect english which was amazing for someone that still learns german. This place is definetely to recommend further.\n(Went to her for hair loss problems)",
+      "time": 1791287283,
+      "translated": false
+    },
+    {
       "author_name": "Cristian Miclos",
       "author_url": "https://www.google.com/maps/contrib/109651430126519788815/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7TVyA8Yvswmi4M9n0H4hEUKhsRc5BVM94-Nfyc2tCqdb5oWQ=s128-c0x00000000-cc-rp-mo-ba6",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKIYO4P9PpchoL06NKkn4VEX9b40z_ap_V_N9qsJ6Xh5ZGzw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790611238,
+      "translated": false
+    },
+    {
+      "author_name": "Katarzyna Jurek",
+      "author_url": "https://www.google.com/maps/contrib/108319910605741586566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKIYO4P9PpchoL06NKkn4VEX9b40z_ap_V_N9qsJ6Xh5ZGzw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790611238,
       "translated": false
@@ -48,6 +70,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI77FDEWdJbI2SqYTByHFr3KBwCFX6nyQp-XzruqAD9_sQAdw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Leider enttäuschend. Trotz Akuttermin mussten wir 30 Minuten warten – mit unserem einjährigen Kind als Patient. Bei einem Termin, für den zusätzlich 70 € berechnet werden und trotz Privatversicherung finde ich das nicht angemessen. Wir werden uns künftig einen anderen Hautarzt suchen. War leider auch nicht das erste Mal..",
+      "time": 1790102457,
+      "translated": false
+    },
+    {
+      "author_name": "Claudia Rischer",
+      "author_url": "https://www.google.com/maps/contrib/113846403128090296715/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI77FDEWdJbI2SqYTByHFr3KBwCFX6nyQp-XzruqAD9_sQAdw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Leider enttäuschend. Trotz Akuttermin mussten wir 30 Minuten warten – mit unserem einjährigen Kind als Patient. Bei einem Termin, für den zusätzlich 70 € berechnet werden und trotz Privatversicherung finde ich das nicht angemessen. Wir werden uns künftig einen anderen Hautarzt suchen. War leider auch nicht das erste Mal..",
       "time": 1790102457,
       "translated": false
@@ -1522,7 +1556,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 330,
+  "reviewCount": 331,
   "summary": [],
-  "lastUpdated": "2026-10-04T10:53:18.116Z"
+  "lastUpdated": "2026-10-07T11:30:53.237Z"
 }

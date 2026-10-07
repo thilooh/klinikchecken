@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "J Kas",
+      "author_url": "https://www.google.com/maps/contrib/115266386566666308333/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5_zOXLbzdHXZloRJQT33XVmWVbxzejUD_2mg2YtxXz1tUXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider muss ich mich in Kritik üben, da mir hier fast jeder Termin in den letzten Jahren KURZFRISTIG ABGESAGT wurde. Über Doctolib wird entweder gestrichen oder auf einen x-beliebigen Termin Wochen später verschoben....\nFür Krebs- Patienten ist so etwas eine Katastrophe! Wo bleibt da das Einfühlungsvermögen?\nTelefonisch ist fast nie jemand zu erreichen und eine Email Adresse gibt es nicht. Sehr traurig 😖\nDie Behandlung war meist sehr freundlich und professionell.",
+      "time": 1790703190,
+      "translated": false
+    },
+    {
       "author_name": "Markus Hühnerberg",
       "author_url": "https://www.google.com/maps/contrib/106360068998531410324/reviews",
       "language": "de",
@@ -74,6 +86,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuCyXH3ItXIUf2M-AcnLgZAWPDIMI_KpgYInOU7YT0r44xtQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1788809313,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Kurth",
+      "author_url": "https://www.google.com/maps/contrib/106193999493401695582/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuCyXH3ItXIUf2M-AcnLgZAWPDIMI_KpgYInOU7YT0r44xtQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1788809313,
       "translated": false
@@ -866,5 +888,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-04T10:53:24.328Z"
+  "lastUpdated": "2026-10-07T11:30:59.431Z"
 }

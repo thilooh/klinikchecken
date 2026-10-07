@@ -61,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Sonja Funder",
+      "author_url": "https://www.google.com/maps/contrib/105891918902056370240/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_cpNXgTOLohuvaf6Z_uhrvtJhNQQWRUc1HKBVHGDIdTjKiN2a3A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich habe mich von Anfang bis Ende bestens aufgehoben und umsorgt gefühlt. Besten Dank an das gesamte Team.",
+      "time": 1789541532,
+      "translated": false
+    },
+    {
       "author_name": "Anja Schmidt",
       "author_url": "https://www.google.com/maps/contrib/117365706854008691250/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlrQnfwS1w9PRzmRp-ru1MAX6Y7dVQFK7dqrxnGA3EOjkKTDod=s128-c0x00000000-cc-rp-mo",
@@ -333,6 +345,18 @@
       "translated": false
     },
     {
+      "author_name": "Annette Kamphausen",
+      "author_url": "https://www.google.com/maps/contrib/104250007592568299034/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqL-QjgkqcM1SMuqe6L7pI5y5pk3xGMIh1dU2lt5FlKEotxw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
+      "text": "Dr. Krug ist ein sehr netter, kompetenter und empathischer Arzt, der sich Zeit nimmt und die Fragen und Sorgen der Patienten ernst nimmt. Auch sein gesamtes Team ist sehr freundlich und aufgeschlossen. Ich fühle mich dort sehr gut aufgehoben und kann die Praxis wärmstens empfehlen.",
+      "time": 1778169629,
+      "translated": false
+    },
+    {
       "author_name": "Bert Poeten",
       "author_url": "https://www.google.com/maps/contrib/116289088828961378017/reviews",
       "language": "de",
@@ -566,5 +590,5 @@
   "rating": 4.7,
   "reviewCount": 48,
   "summary": [],
-  "lastUpdated": "2026-10-04T10:53:18.604Z"
+  "lastUpdated": "2026-10-07T11:30:53.736Z"
 }

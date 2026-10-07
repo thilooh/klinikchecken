@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Adib Azeddine",
+      "author_url": "https://www.google.com/maps/contrib/117132089386684319767/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW34afAh7zMciv0eN19Y3du7xg7Qc6z9FF5YBe3nYftH8LfxCcyw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791310703,
+      "translated": false
+    },
+    {
+      "author_name": "Elida Thaqi-Kazic",
+      "author_url": "https://www.google.com/maps/contrib/117306784297399009682/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDoB4uZY5KlZQGc4Q2hIaQHWiD2cBSdv4vfPmJHaQxiXTkfO7p=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "sehr unfreundlich und nur auf Geld hinaus",
+      "time": 1791296165,
+      "translated": false
+    },
+    {
+      "author_name": "Adrian Cobbers",
+      "author_url": "https://www.google.com/maps/contrib/101740015273234027209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5QGGXHCzEgaAIAX4K8JjDgoh1_gdyRB3d7e3ggJzr62ICzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791212097,
+      "translated": false
+    },
+    {
+      "author_name": "Friederike Brandt",
+      "author_url": "https://www.google.com/maps/contrib/102719482135493912476/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULXuqDdi4sBYL8ZP_Qf1YZKtnsdOkd1yXWYPRsA8rOfPNxHp8Spw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gute Ärzte uns sehr freundliches\nPersonal",
+      "time": 1791211846,
+      "translated": false
+    },
+    {
+      "author_name": "Denise Koeken",
+      "author_url": "https://www.google.com/maps/contrib/104519906939420168122/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVBR9lOsywXprHLuESiYbdl6VkW1MqbOhObTGU-SlcjLLYbA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und hilfsbereit.",
+      "time": 1791204072,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Stricker",
       "author_url": "https://www.google.com/maps/contrib/118206717007671522474/reviews",
       "language": "de",
@@ -1692,11 +1748,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 345,
+  "reviewCount": 350,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:37.722Z"
+  "lastUpdated": "2026-10-07T11:31:12.857Z"
 }

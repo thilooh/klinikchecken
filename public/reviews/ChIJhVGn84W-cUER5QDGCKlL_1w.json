@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "jiji coba",
+      "author_url": "https://www.google.com/maps/contrib/105779049675153898495/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0rWv5KOWOmUxXytrb_V_JkEZJ6upBz0GhoyETOvDJVDVfPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "😂 حاضر حاضر، فهمت عليكِ هالمرة. بدك صيغة مختلفة فعلًا، مو نفس الكلام مع تبديل كلمات. جربي هاي، أسلوبها طبيعي وراقي ومش مبالغ فيه:\n\n⭐⭐⭐⭐⭐\n\nEin großes Dankeschön an Dr. Sabe und das gesamte Team! Ich habe mich während meiner gesamten Behandlung sehr wohl und bestens aufgehoben gefühlt.\n\nWas mir besonders gefallen hat, ist die Kombination aus Professionalität, Ruhe und einem sehr freundlichen Umgang. Man bekommt das Gefühl, dass hier wirklich Wert auf die Zufriedenheit und das Wohlbefinden der Patienten gelegt wird.\n\nIch bin mit dem Ergebnis und der gesamten Betreuung sehr zufrieden und würde mich jederzeit wieder für diese Praxis entscheiden\nMit freundlichen Grüßen\nM.Daniels",
+      "time": 1791280071,
+      "translated": false
+    },
+    {
+      "author_name": "Salwa El",
+      "author_url": "https://www.google.com/maps/contrib/105966368250051915985/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIndT7nUTqdslPhXlAc7PTspap5_UIpAum8fZ8U-AMLnGwC2A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Behandlung und möchte mich herzlich bei Dr. Shadi Sabe und seinem gesamten Team bedanken. Von Anfang an wurde ich sehr freundlich und respektvoll empfangen und habe mich sofort gut aufgehoben und ernst genommen gefühlt.\n\nDr. Sabe nimmt sich viel Zeit, erklärt alles verständlich und geht sehr einfühlsam auf die persönlichen Bedürfnisse ein. Seine Kompetenz, Professionalität und gleichzeitig seine menschliche Art haben bei mir einen sehr positiven Eindruck hinterlassen.\n\nAuch das gesamte Praxisteam ist ausgesprochen freundlich, hilfsbereit und professionell. Eine solche Betreuung ist heutzutage wirklich nicht selbstverständlich.\n\nIch kann die Praxis mit bestem Gewissen weiterempfehlen und würde jederzeit wiederkommen. Vielen herzlichen Dank für die hervorragende Betreuung!",
+      "time": 1791271959,
+      "translated": false
+    },
+    {
+      "author_name": "Elham Shakra",
+      "author_url": "https://www.google.com/maps/contrib/113900353380992735144/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGiGIPy3PzYffmtwCpAKgvfdXXqabsWHo5_PeFpxhNLCCiLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut",
+      "time": 1791128600,
+      "translated": false
+    },
+    {
+      "author_name": "Heba Hammal",
+      "author_url": "https://www.google.com/maps/contrib/100731551908296925143/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_QbLKnaSvyKIsCW0K7lIYRTDwwpOU42s7i2Q1wQYmdLaUsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein fantastischer Arzt! Dr. Sabe ist unglaublich nett, geduldig und fachlich absolut kompetent. Man fühlt sich vom ersten Moment an bestens aufgehoben und verstanden. Auch das gesamte Praxisteam ist sehr freundlich und hilfsbereit. Ich kann Dr. Sabe und die Praxis von Herzen weiterempfehlen!",
+      "time": 1791124226,
+      "translated": false
+    },
+    {
+      "author_name": "Mira Shakara",
+      "author_url": "https://www.google.com/maps/contrib/105674324035315698261/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMbfO018zSVec4zZ0kmOd1BKGMyl34Piyrz00JfDjgmT4eKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Richtig nettes Personal",
+      "time": 1791124083,
+      "translated": false
+    },
+    {
       "author_name": "Christina B.",
       "author_url": "https://www.google.com/maps/contrib/103275543896683716783/reviews",
       "language": "de",
@@ -1111,12 +1171,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 89,
+  "rating": 4.8,
+  "reviewCount": 94,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-04T10:53:40.642Z"
+  "lastUpdated": "2026-10-07T11:31:15.789Z"
 }
