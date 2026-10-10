@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tung Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/100128414357274337725/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi0zJLUtnhMLkdE26_-4WJAJN-D7WmbobIQtAbyhh37djNSw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr lange Wartezeit von 2,5-3 Stunden. Das Personal war unfreundlich und wenig hilfsbereit, besonders am Empfang.",
+      "time": 1791540329,
+      "translated": false
+    },
+    {
       "author_name": "Walter",
       "author_url": "https://www.google.com/maps/contrib/111821762880752199870/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvwNbDyWSRkZzjsMwElkYPsWSPh7XLjIK-wk6LUAi2RCjFog=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "in der letzten Woche",
+      "text": "Am 20.04.2026 erhielt ich einen Termin für den 30.11.2026. Nach mehr als fünf Monaten Wartezeit wurde dieser Termin am 01.10.2026 über Doctolib abgesagt.\n\nEin Ersatztermin wurde mir nicht angeboten. Für Patienten, die über Monate auf einen Facharzttermin warten, ist dies sehr enttäuschend.\n\nGleichzeitig wird auf der Praxiswebseite eine Privatpraxis für Gefäßmedizin mit bereits freigeschalteter Terminvergabe beworben. Ob dies mit meiner Terminabsage zusammenhängt, kann ich nicht beurteilen. Als gesetzlich Versicherter hinterlässt der gesamte Ablauf bei mir jedoch einen unglücklichen Eindruck.\n\nNach einer so langen Wartezeit hätte ich mir zumindest eine persönliche Information, eine Erklärung oder ein konkretes Alternativangebot gewünscht.",
+      "time": 1790869525,
+      "translated": false
+    },
+    {
+      "author_name": "Walter",
+      "author_url": "https://www.google.com/maps/contrib/111821762880752199870/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvwNbDyWSRkZzjsMwElkYPsWSPh7XLjIK-wk6LUAi2RCjFog=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
       "text": "Am 20.04.2026 erhielt ich einen Termin für den 30.11.2026. Nach mehr als fünf Monaten Wartezeit wurde dieser Termin am 01.10.2026 über Doctolib abgesagt.\n\nEin Ersatztermin wurde mir nicht angeboten. Für Patienten, die über Monate auf einen Facharzttermin warten, ist dies sehr enttäuschend.\n\nGleichzeitig wird auf der Praxiswebseite eine Privatpraxis für Gefäßmedizin mit bereits freigeschalteter Terminvergabe beworben. Ob dies mit meiner Terminabsage zusammenhängt, kann ich nicht beurteilen. Als gesetzlich Versicherter hinterlässt der gesamte Ablauf bei mir jedoch einen unglücklichen Eindruck.\n\nNach einer so langen Wartezeit hätte ich mir zumindest eine persönliche Information, eine Erklärung oder ein konkretes Alternativangebot gewünscht.",
       "time": 1790869525,
       "translated": false
@@ -52,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfxUisY59DpATw8Oy5aqFfEzOFUWGnyovj-JAV6x129l4f-aB6ig=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790282512,
+      "translated": false
+    },
+    {
+      "author_name": "Carmen Bruch",
+      "author_url": "https://www.google.com/maps/contrib/105939623564935863336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfxUisY59DpATw8Oy5aqFfEzOFUWGnyovj-JAV6x129l4f-aB6ig=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1790282512,
       "translated": false
@@ -1170,12 +1204,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 195,
+  "rating": 4.7,
+  "reviewCount": 196,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-10-07T11:30:39.910Z"
+  "lastUpdated": "2026-10-10T10:56:21.169Z"
 }

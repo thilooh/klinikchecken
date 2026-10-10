@@ -73,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Nicky Scarabello",
+      "author_url": "https://www.google.com/maps/contrib/106964009911364793215/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfXo0FRp4ukcCM5D0KR_DB2ejNisHCUX2wDGQf-wbMfT6VfCA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundliches Personal.\nKompetent und unkompliziert.",
+      "time": 1789634293,
+      "translated": false
+    },
+    {
       "author_name": "Stephanie F",
       "author_url": "https://www.google.com/maps/contrib/105181669998755567966/reviews",
       "language": "de",
@@ -570,5 +582,5 @@
   "rating": 4.9,
   "reviewCount": 69,
   "summary": [],
-  "lastUpdated": "2026-10-07T11:30:51.509Z"
+  "lastUpdated": "2026-10-10T10:56:31.574Z"
 }

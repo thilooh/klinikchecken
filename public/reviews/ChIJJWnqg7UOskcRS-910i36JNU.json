@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "J.",
+      "author_url": "https://www.google.com/maps/contrib/110191038671672244809/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJes2AqUSmk53ccLGoiH2LqFJyAiB3NpR9crhcxFny6ls-ALQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe für meine Tochter einen Selbstzahler Termin bei Herrn Dr. Haase gebucht, da man als gesetzlich Versicherte bei Dr. Haase zeitnah keinen Termin bekommt. Da es um eine eventuelle OP ging, die nur er und später habe ich erfahren,  dass es auch Frau Dr. Nienburg macht, sollte der Termin bei ihm stattfinden. An dem besagten Tag war Dr. Haase krank und wir wurden dann von Frau Mrowka behandelt. Jeder kann mal krank werden, da ich aber per Mail 3 Tage vorher mit der Praxis kommuniziert habe, sollte denen klar gewesen sein, dass der Termin bei einem Arzt stattfindet, der die OP auch wirklich macht. Frau Dr. Mrowka war wirklich sehr nett und hat es auch gut erklärt, aber wir hätten die genaue Vorgehensweise gerne von dem Arzt erfahren, der dies auch operiert. Schließen waren wir 6 Wochen vorher schon da, wo uns die Vorgehensweise teilweise schon erklärt wurde und wir uns diesbezüglich einen Termin bei Dr. Haase buchen sollten, da er es operiert. Es ärgert mich einfach, dass ich den Termin als Selbstzahler gebucht habe und den natürlich auch selber zahlen muss, dass ich dann nicht den Arzt bekomme, den ich auch benötige. Man hätte mich auch anrufen können und dann hätten wir selber entscheiden können, ob wir den Termin wahrnehmen wollen oder nicht. Schließlich muss ich auch eine Ausfallgebühr bezahlen, wenn ich meinen Termin nicht 24 Std. vorher absage.\nWie gesagt Fr. Mrowka war sehr nett, keine Frage, aber das hatten wir uns anders vorgestellt.",
+      "time": 1791615085,
+      "translated": false
+    },
+    {
+      "author_name": "Thorsten Höppner",
+      "author_url": "https://www.google.com/maps/contrib/103107553332354106639/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWSJZQi1bAOQH-sCff4P3Q_dG-DpqW78HyxRDAMz-4En0wpQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Service und Leistung wie es sein soll.",
+      "time": 1791480051,
+      "translated": false
+    },
+    {
+      "author_name": "U. Böttger",
+      "author_url": "https://www.google.com/maps/contrib/101476572402249193419/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJdFHOcf4d8RI8dCjyov06sRjk-pfa2uRmcv4r8ojKYQF60Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791476213,
+      "translated": false
+    },
+    {
+      "author_name": "Volker Leinweber",
+      "author_url": "https://www.google.com/maps/contrib/107077676624323231127/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz8b0Drq8ij3vGo5mWruv478kktoAHqliBOaPBI6gyKXIMdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte um 12:30 Uhr einen Termin zur Hautkrebsvorsorge bei Frau Dr. Martens.\nUm 12:35 wurde ich aufgerufen und die Untersuchung lief ohne Probleme.\nEinziger Wermutstropfen, es hat bald ein halbes Jahr gedauert, bis ich diesen Termin online buchen konnte.",
+      "time": 1791468726,
+      "translated": false
+    },
+    {
+      "author_name": "Liv Nie",
+      "author_url": "https://www.google.com/maps/contrib/114456729924618867903/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKntQfjsqVXKrNumFly3idyhqrzQ5tV4g63k7HnsBg7EzYOUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Etwas kompliziert einen freien Termin zu erwischen aber das warten lohnt sich. Frau Alfarsi war sehr gründlich, freundlich und ich fühlte mich wohl.",
+      "time": 1791458704,
+      "translated": false
+    },
+    {
       "author_name": "M Mersmann",
       "author_url": "https://www.google.com/maps/contrib/103588570574229901899/reviews",
       "language": "de",
@@ -2246,11 +2304,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2434,
+  "reviewCount": 2442,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-07T11:30:58.193Z"
+  "lastUpdated": "2026-10-10T10:56:39.120Z"
 }

@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "T. A.",
+      "author_url": "https://www.google.com/maps/contrib/103360970900603298630/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKc7lm5dUFbB8DosJZ2JvZsibMOOo7o435eCt3GhCRDG_VmPit0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank für Eure Hilfe , ein Herzlichen Dank an Frau Mavric ,Hilfsbereit, sehr Nett ,die Damen am Empfang Frau Kersten und Frau Hartmann Vielen Dank immer Hilfsbereit. Den Ärzten Vielen Dank . Kann die Praxis weiter empfehlen, hier ist der Patient gut aufgehoben.  Vielen Dank das es Euch gibt .\nLiebe Grüße\nT.A.",
+      "time": 1791618847,
+      "translated": false
+    },
+    {
+      "author_name": "Horst Weyand",
+      "author_url": "https://www.google.com/maps/contrib/105598653681860386613/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkdeDFWWH3VRm7KyZbOZqtrVAZa_PBd7Qth_wnmu_6nHlI_cBHcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut eingerichtet, moderne Technik. Trotz viel Betrieb eine gute Praxisorganisation, übersichtliche Wartezeiten. Viele Infos und auch Formulare digital, geht schnell und einfach. Freundliche Begleitung von der Anmeldung, beim Arzt/Ärztin bis zum Labor. Dank an Frau Mavric",
+      "time": 1791464213,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Blume",
+      "author_url": "https://www.google.com/maps/contrib/115638762930257627217/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVYKGO9f8iLPkt7aphY7WyOufFDoLcqlMhTatus79cEutWvvo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791449644,
+      "translated": false
+    },
+    {
       "author_name": "Adib Azeddine",
       "author_url": "https://www.google.com/maps/contrib/117132089386684319767/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW34afAh7zMciv0eN19Y3du7xg7Qc6z9FF5YBe3nYftH8LfxCcyw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -1748,11 +1782,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 350,
+  "reviewCount": 351,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:12.857Z"
+  "lastUpdated": "2026-10-10T10:56:54.095Z"
 }

@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Jule Krüger",
+      "author_url": "https://www.google.com/maps/contrib/107736202022663081168/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5W7RB31PKh2p-WOKWI-muE20x9COhs-gUFRZs6_9IdQQw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unmöglicher Praxis Ablauf. Ich habe vor vier Monaten einen Termin in dieser Praxis gebucht (als Kassenleistung). In der Zwischenzeit habe ich mich telefonisch in der Praxis gemeldet, um benötigte Unterlagen, das Vorgehen oder eine eventuelle benötigte Überweisung zu erfragen. Am heutigen Tag schaute ich in die Doctolib App, um mich noch mal über die Terminzeit zu informieren. Hierbei fiel mir auf, dass der Termin ohne Angabe von Gründen storniert wurde. Online konnte ich nur noch einen Selbstzahler Termin buchen. Bei telefonischer Nachfrage wurde mir mitgeteilt, dass es Probleme mit Doctolib gab und deshalb der Termin ohne Angabe von Gründen storniert wurde. Der Selbstzahler Termin sollte nun 115 € kosten. In der Praxis selbst wurde mir eröffnet, dass der Termin 215 € kosten soll. Der Arzt wolle angeblich keine Lipödem Termine mehr als Kassenleistung anbieten. Weitere Lösungsmöglichkeiten wurden seitens der Praxis abgelehnt. Der Termin wurde meinerseits vor Ort abgelehnt und gar nicht erst angetreten. Meiner Meinung nach ist es unverschämt, mehrere Monate auf einen Termin zu warten sich telefonisch noch in der Praxis zu erkundigen und zu keinem Zeitpunkt darüber informiert zu werden, dass ein Termin storniert oder nur noch auf Selbstzahler Basis verfügbar ist. Sehr schade.\n\nErgänzung: trotz dessen dass ich vor Ort war; wurde bei meinem Termin hinterlegt, dass ich nicht erschienen sei",
+      "time": 1791546822,
+      "translated": false
+    },
+    {
+      "author_name": "naima scheu",
+      "author_url": "https://www.google.com/maps/contrib/115313819351162075063/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKS95VBFkF_6ZFoknM4AGJEyfVz4CqGV3j1JP29HMcMBcLu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fand den Arzt super sympathisch, sehr verständnisvoll, hat sich Zeit genommen. War nach langer Zeit, endlich mal wieder ein positives Erlebnis. Bei dem aktuellen Kampf, endlich mal wieder mit einem guten Gefühl aus einer Praxis raus gegangen. Tat mal ganz gut zur Abwechslung. Dafür ein riesen Danke ♡",
+      "time": 1791472212,
+      "translated": false
+    },
+    {
+      "author_name": "Sana Sumakia",
+      "author_url": "https://www.google.com/maps/contrib/112204082312873884956/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8Cx2TdO5eDza13T7DEFWalMse_ZaSIkRbhQF2XzF_u-n4cA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher Arzt und nettes Personal. Die Praxis ist sauber und gut organisiert. Ich habe mich sehr wohlgefühlt. Vielen Dank!",
+      "time": 1791393954,
+      "translated": false
+    },
+    {
+      "author_name": "Yasmine Daniels",
+      "author_url": "https://www.google.com/maps/contrib/101626899671040440845/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMVgEsZHW1rY8IQyA2DVaFweVAss1uHOGbw8P4ASxY_21aRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein großes Dankeschön an Dr. Sabe und das gesamte Team! Ich habe mich während meiner gesamten Behandlung sehr wohl und bestens aufgehoben gefühlt.\n\nWas mir besonders gefallen hat, ist die Kombination aus Professionalität, Ruhe und einem sehr freundlichen Umgang. Man bekommt das Gefühl, dass hier wirklich Wert auf die Zufriedenheit und das Wohlbefinden der Patienten gelegt wird.\n\nIch bin mit dem Ergebnis und der gesamten Betreuung sehr zufrieden und würde mich jederzeit wieder für diese Praxis entscheiden.\nMit freundlichen Grüßen\nYasmine Daniels",
+      "time": 1791385439,
+      "translated": false
+    },
+    {
       "author_name": "jiji coba",
       "author_url": "https://www.google.com/maps/contrib/105779049675153898495/reviews",
       "language": "de",
@@ -1172,11 +1220,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 94,
+  "reviewCount": 97,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:15.789Z"
+  "lastUpdated": "2026-10-10T10:56:57.070Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ailisha Salman",
+      "author_url": "https://www.google.com/maps/contrib/105568197957845583815/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLukPCRzjv8eU2DlZ6Zh6LLdi2EcqdvzeHPQuLaps6IIKDXxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791585588,
+      "translated": false
+    },
+    {
+      "author_name": "Christina Liselotte Maria Hundeshagen",
+      "author_url": "https://www.google.com/maps/contrib/113820007769165319124/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl5m4BauE6c2qm_ckDnMaNYVy0EpnVF3FICMXsNzgqotIrPlBD=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Erster Besuch - sehr guter Eindruck! Ich war heute zum ersten Mal in der Praxis und hatte direkt einen Akuttermin bekommen. Telefonisch hatte ich zuvor sofort beim ersten Anruf einen sehr netten Mitarbeiter erreichen können und auch auf meine E-Mail wurde mir sehr freundlich geantwortet. Ich bin wirklich begeistert - alle sind sehr nett - am Empfang- die Ärztin. Ich wechsel ab sofort zu dieser Praxis. Vielen Dank 🙏",
+      "time": 1791524100,
+      "translated": false
+    },
+    {
       "author_name": "Med",
       "author_url": "https://www.google.com/maps/contrib/107583367573009528576/reviews",
       "language": "de",
@@ -49,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "Zoe Suma",
+      "author_url": "https://www.google.com/maps/contrib/101656311501811735381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIx_ZA2iVyg7uExzKICJptGD0AQwE6ekPLP_JTk6upq6L0XA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Negativ!!! Es wird eine Zwei-Klassen-Behandlung vorgenommen. Bei Privatpatienten nimmt eine Sprechstunden-Hilfe das Telefonat an, die vorherige Bandansage bietet sogar eine WhatsApp-Nummer an. Bei Kassenpatienten ertönt eine Bandansage, dass Mitarbeiter derzeit im Gespräch wären und man wird auf eine eMail-Anfrage verwiesen.\nWenn hier bereits Klassen-Unterschiede gemacht werden, kann man sich schon denken, dass es bei der medizinischen Behandlung genauso verhält.",
+      "time": 1790326488,
+      "translated": false
+    },
+    {
       "author_name": "Natalia Pich",
       "author_url": "https://www.google.com/maps/contrib/107975260513720306316/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrm2vR7pHUu8LvfQJgXe5XUkQJPszwGHFMipPO4WC9mIl1x4=s128-c0x00000000-cc-rp-mo",
@@ -64,6 +98,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrm2vR7pHUu8LvfQJgXe5XUkQJPszwGHFMipPO4WC9mIl1x4=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790168353,
+      "translated": false
+    },
+    {
+      "author_name": "Natalia Pich",
+      "author_url": "https://www.google.com/maps/contrib/107975260513720306316/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrm2vR7pHUu8LvfQJgXe5XUkQJPszwGHFMipPO4WC9mIl1x4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1790168353,
       "translated": false
@@ -1355,7 +1399,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 309,
+  "reviewCount": 311,
   "summary": [],
-  "lastUpdated": "2026-10-07T11:30:46.319Z"
+  "lastUpdated": "2026-10-10T10:56:26.337Z"
 }

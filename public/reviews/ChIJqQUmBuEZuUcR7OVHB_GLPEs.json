@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Rabije Abdiu",
+      "author_url": "https://www.google.com/maps/contrib/105379144870501823827/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrp4fSzq7R3AEQuztgl5KserkvoutJwmKWAHEpGrVM2DPig=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mit Termin 2 stunden gewartet",
+      "time": 1791452177,
+      "translated": false
+    },
+    {
+      "author_name": "M. V.",
+      "author_url": "https://www.google.com/maps/contrib/116579428324600688144/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7L7R5dGh3uR6zq1B4bVPheuwNKPnivs46McpW0dv-msTzHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe meine Nasolabialfalten mit Hyaluronsäure behandeln lassen und nun bilden sich Marionettenfältchen, die ich vorher nicht hatte und sogar Erhebungen sind sichtbar. Ich war kurz nach der Behandlung in der Praxis und habe gesagt, dass sich die behandelten Partien zu schwer anfühlen und dass eventuell zu viel Hyaluron verwendet wurde, aber man versicherte mir alles sei in Ordnung. Später kontaktierte ich die Praxis erneut, jedoch werden meine E-Mail's nicht beantwortet und telefonisch wurde ich vertröstet, ohne Lösung der geschilderten Problematik bis zum heutigen Tag. Schade, mein erster Eindruck von der Praxis war sehr gut, aber der aktuelle Eindruck steht dem ersten diametral gegenüber.",
+      "time": 1791297881,
+      "translated": false
+    },
+    {
       "author_name": "Gerhard Paul Zupke",
       "author_url": "https://www.google.com/maps/contrib/111552283595641379723/reviews",
       "language": "de",
@@ -23,6 +47,16 @@
       "translated": false
     },
     {
+      "author_name": "Matthias Hank",
+      "author_url": "https://www.google.com/maps/contrib/116241347674342001082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhaOdvXyd_OrWj1Mi8QVSvJHItYjIBT1vQCV5HFzOHkmEJkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790962059,
+      "translated": false
+    },
+    {
       "author_name": "Tanja",
       "author_url": "https://www.google.com/maps/contrib/107173471964464274120/reviews",
       "language": "de",
@@ -30,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhYrlQ01Y1A91_x_TwiDjNVEkdaC8eddR3ihvv8vwOamo0fTnw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Bin seit  Jahren in der und war anfangs sehr zufrieden  mit dem Empfang  und der Behandlung der Ärzte. War dann einige Zeit  nicht in der Praxis,da im dermatologisch Bereich keine Auffälligkeiten waren. Bin dann in diesem Jahr wieder in der Praxis gewesen und wollte mir einen Termin geben lassen. Das Personal wirkte sehr unfreundlich und gab mir keinen Termin  da alles ausgebucht sei. Info an mich  war dann nur ich könnte  zum Krankenhaus gehen bzw eine andere Praxis aufsuchen",
+      "time": 1790880690,
+      "translated": false
+    },
+    {
+      "author_name": "Tanja",
+      "author_url": "https://www.google.com/maps/contrib/107173471964464274120/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhYrlQ01Y1A91_x_TwiDjNVEkdaC8eddR3ihvv8vwOamo0fTnw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Bin seit  Jahren in der und war anfangs sehr zufrieden  mit dem Empfang  und der Behandlung der Ärzte. War dann einige Zeit  nicht in der Praxis,da im dermatologisch Bereich keine Auffälligkeiten waren. Bin dann in diesem Jahr wieder in der Praxis gewesen und wollte mir einen Termin geben lassen. Das Personal wirkte sehr unfreundlich und gab mir keinen Termin  da alles ausgebucht sei. Info an mich  war dann nur ich könnte  zum Krankenhaus gehen bzw eine andere Praxis aufsuchen",
       "time": 1790880690,
       "translated": false
@@ -1649,8 +1695,8 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 310,
+  "rating": 4.6,
+  "reviewCount": 312,
   "summary": [],
-  "lastUpdated": "2026-10-07T11:30:47.909Z"
+  "lastUpdated": "2026-10-10T10:56:27.894Z"
 }

@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Alexander Siebert",
+      "author_url": "https://www.google.com/maps/contrib/102011195128849087794/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwBgEfOpXcEoYSp6d3vBBB8BueP-oTN5-4a2y8m1vbnbm6_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791544805,
+      "translated": false
+    },
+    {
+      "author_name": "Olaf Schirmer",
+      "author_url": "https://www.google.com/maps/contrib/102300476795147083460/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUIqkCXapUQkaE06xt2FMy5jorkWVSyAbI-JSZSU_GoykRzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte heute eine Krampfader OP und möchte mich ganz herzlich bedanken bei den behandelnden Schwestern und Ärzten. Von der Voruntersuchung bis zur OP und deren Nachbehandlung war ich sehr zufrieden. Vielen lieben Dank😊",
+      "time": 1791542732,
+      "translated": false
+    },
+    {
+      "author_name": "Karim OUFIGHOU",
+      "author_url": "https://www.google.com/maps/contrib/103376895501219691742/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2wL4TFhKmAkOvqp-M9HZcYI9HLS6hyoJ5Z44SUDM9Uu2WCtY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "5 stars hospital!! Das gesamte medizinische Personal hier ist großartig. Vielen Dank für Ihre Freundlichkeit und Ihre Professionalität.",
+      "time": 1791540466,
+      "translated": false
+    },
+    {
+      "author_name": "Seni Müller",
+      "author_url": "https://www.google.com/maps/contrib/106494598083122173985/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbAlHO9rQ8WVhX4QriZkVIaAr1kQddlWhxc0GdblPDRLhdQtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde zweimal operiert und habe mich immer sehr wohl gefühlt. Tolles Team, moderne Räumlichkeiten! Absolutes Wohlfühlen auf der Station. Vielen herzlichen Dank",
+      "time": 1791377122,
+      "translated": false
+    },
+    {
       "author_name": "karla onkel",
       "author_url": "https://www.google.com/maps/contrib/103558574358246469964/reviews",
       "language": "de",
@@ -1682,11 +1728,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 513,
+  "reviewCount": 517,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-07T11:30:57.454Z"
+  "lastUpdated": "2026-10-10T10:56:38.255Z"
 }

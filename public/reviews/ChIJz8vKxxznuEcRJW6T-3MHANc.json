@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dejan Makek",
+      "author_url": "https://www.google.com/maps/contrib/100708352281615165079/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYnZ9Csr8yg5u9GIwFn2HwbN4vag_OgFjoKN5EOLwB6kWS6KM9fA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top! MA's im Empfangsbereich sehr freundlich, Ärzte ebenfalls kompetent und freundlich. Bin absolut zufrieden!",
+      "time": 1791458822,
+      "translated": false
+    },
+    {
       "author_name": "Markus Reichmann",
       "author_url": "https://www.google.com/maps/contrib/105812944420155151896/reviews",
       "language": "de",
@@ -1748,11 +1760,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 406,
+  "reviewCount": 407,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:16.898Z"
+  "lastUpdated": "2026-10-10T10:56:58.251Z"
 }

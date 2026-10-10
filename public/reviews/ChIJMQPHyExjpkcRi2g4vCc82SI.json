@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Isabell Wittek",
+      "author_url": "https://www.google.com/maps/contrib/116975274876928271958/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJU6_lfekgp7cYhInILZ1SOSxISnul5wCi8uOGJADecr2bCWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kenne Frau Dr. Guellil bereits aus ihrer Zeit als plastische Chirurgin im Bergmannstrost Halle. Schon damals ist sie mir durch ihre äußerst professionelle und vor allem herzliche Art in bester Erinnerung geblieben. Besonders geschätzt habe ich, wie individuell sie auf ihre Patientinnen und Patienten eingegangen ist und diese betreut hat.\n\nAls ich vor einiger Zeit auf der Suche nach einer Praxis für ästhetische Behandlungen in Halle und Umgebung war, bin ich glücklicherweise wieder auf Frau Dr. Guellil gestoßen. Mein Wunsch war es, auf natürliche Weise frischer auszusehen und erste sichtbare Alterserscheinungen sanft zu behandeln.\n\nIm ausführlichen Beratungsgespräch wurden mir verschiedene Möglichkeiten verständlich erklärt und passende Behandlungen individuell empfohlen. Besonders die Methoden der Biostimulation haben mich überzeugt. Inzwischen habe ich bereits Behandlungen durchführen lassen und bin vom Ergebnis absolut begeistert. Das Ergebnis ist frisch und natürlich, ohne künstlich zu wirken, und hält zudem lange an.\n\nAuch die gesamte Praxis überzeugt auf ganzer Linie. Das Team ist überaus freundlich und kompetent, die Räumlichkeiten sind angenehm und einladend, sodass man sich sofort wohlfühlt.\n\nIch kann Ästhetik Halle und insbesondere Frau Dr. Guellil aus voller Überzeugung weiterempfehlen. Wer Wert auf fachliche Kompetenz, eine individuelle Beratung und natürliche Ergebnisse legt, ist hier genau richtig.",
+      "time": 1791620464,
+      "translated": false
+    },
+    {
       "author_name": "Luisa Braunschweig",
       "author_url": "https://www.google.com/maps/contrib/106071236360862225768/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6HiLMZO9r-YagZyu__RSXbDG27oSxDZAy-VBcwhM48gvM=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meiner Behandlung bei Ästhetik Halle in jeder Hinsicht außerordentlich zufrieden. Das gesamte Praxisteam agiert hochprofessionell, zuvorkommend und sorgt für eine rundum angenehme und vertrauensvolle Atmosphäre.\nEin besonderer Dank gilt Frau Dr. Guellil. Ihre fachliche Kompetenz, die ausführliche, ehrliche Beratung und die präzise Durchführung der Behandlung sind absolut überzeugend. Das Ergebnis ist immer wieder hervorragend.\nWer Wert auf höchste Qualität, medizinische Expertise und eine erstklassige Betreuung legt, ist hier in den besten Händen.",
+      "time": 1790942360,
+      "translated": false
+    },
+    {
+      "author_name": "Luisa Braunschweig",
+      "author_url": "https://www.google.com/maps/contrib/106071236360862225768/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6HiLMZO9r-YagZyu__RSXbDG27oSxDZAy-VBcwhM48gvM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin mit meiner Behandlung bei Ästhetik Halle in jeder Hinsicht außerordentlich zufrieden. Das gesamte Praxisteam agiert hochprofessionell, zuvorkommend und sorgt für eine rundum angenehme und vertrauensvolle Atmosphäre.\nEin besonderer Dank gilt Frau Dr. Guellil. Ihre fachliche Kompetenz, die ausführliche, ehrliche Beratung und die präzise Durchführung der Behandlung sind absolut überzeugend. Das Ergebnis ist immer wieder hervorragend.\nWer Wert auf höchste Qualität, medizinische Expertise und eine erstklassige Betreuung legt, ist hier in den besten Händen.",
       "time": 1790942360,
       "translated": false
@@ -1304,11 +1328,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 110,
+  "reviewCount": 111,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-07T11:31:15.321Z"
+  "lastUpdated": "2026-10-10T10:56:56.613Z"
 }

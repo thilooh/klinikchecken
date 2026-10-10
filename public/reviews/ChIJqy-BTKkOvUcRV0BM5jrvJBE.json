@@ -61,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "H S (BJ)",
+      "author_url": "https://www.google.com/maps/contrib/117910942003856710575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTXf6U2Kp3f7SOZzt8KATt2UAA6UOmoAeO_YXtp3NE5kMNwP7p3A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr netter, sympathischer und kompetenter Arzt!",
+      "time": 1789723074,
+      "translated": false
+    },
+    {
       "author_name": "J S",
       "author_url": "https://www.google.com/maps/contrib/100441017571586089171/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFqRe4ZhkzP6rdPHujRrwJa5AqnWw8xPyilTWxA8bAMYu-Fg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin seit fast 10 Jahren dort in Behandlung und hatte zwei ambulante OPs. Dr. Böhm ist sehr einfühlsam, empathisch und auf Augenhöhe. Das Team ist sehr professionell und gut organisiert. Ich musste nie lang warten.",
+      "time": 1788978680,
+      "translated": false
+    },
+    {
+      "author_name": "J S",
+      "author_url": "https://www.google.com/maps/contrib/100441017571586089171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFqRe4ZhkzP6rdPHujRrwJa5AqnWw8xPyilTWxA8bAMYu-Fg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich bin seit fast 10 Jahren dort in Behandlung und hatte zwei ambulante OPs. Dr. Böhm ist sehr einfühlsam, empathisch und auf Augenhöhe. Das Team ist sehr professionell und gut organisiert. Ich musste nie lang warten.",
       "time": 1788978680,
       "translated": false
@@ -542,5 +566,5 @@
   "rating": 4.8,
   "reviewCount": 76,
   "summary": [],
-  "lastUpdated": "2026-10-07T11:30:46.809Z"
+  "lastUpdated": "2026-10-10T10:56:26.876Z"
 }

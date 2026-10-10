@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jessica Högemann",
+      "author_url": "https://www.google.com/maps/contrib/101667572589770636500/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyb3VDwE_oapo1sxzRRhoFdIgrdJQUdkMoRc6JhEGNatLxAQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nettes und kompetentes Team",
+      "time": 1791470244,
+      "translated": false
+    },
+    {
+      "author_name": "Selinay I.",
+      "author_url": "https://www.google.com/maps/contrib/106934278287985102290/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJywXcWHMibXeCEwiSAgjaU6vqD75hN4YOhPx7av6xBftjBeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr schöne und freundliche Hautarztpraxis! Freundliche Mitarbeiter und auch die behandelnden Ärzte sind alle sehr aufmerksam und geduldig!",
+      "time": 1791469375,
+      "translated": false
+    },
+    {
       "author_name": "Uhlemann",
       "author_url": "https://www.google.com/maps/contrib/110815545480267979167/reviews",
       "language": "de",
@@ -72,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBcfSrZzDHTi0V73fFdKrSLJ3vj9PshzM0KPbviEtZXZS2vaE=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1788961644,
+      "translated": false
+    },
+    {
+      "author_name": "Miguel Puga Fiegler",
+      "author_url": "https://www.google.com/maps/contrib/113614012620783802646/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBcfSrZzDHTi0V73fFdKrSLJ3vj9PshzM0KPbviEtZXZS2vaE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1788961644,
       "translated": false
@@ -1516,11 +1550,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 142,
+  "reviewCount": 144,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:19.625Z"
+  "lastUpdated": "2026-10-10T10:57:01.065Z"
 }

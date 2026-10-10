@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Benito Ocasio",
+      "author_url": "https://www.google.com/maps/contrib/112807339269596979171/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB6pKhFCzimlgHMMFZEBF1edtUipXVX89YhM4f0SeBj3npxREd=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top! War noch nie so schnell dran und wieder raus 😂",
+      "time": 1791551420,
+      "translated": false
+    },
+    {
       "author_name": "Madeleine Voigt",
       "author_url": "https://www.google.com/maps/contrib/103135956073563583951/reviews",
       "language": "de",
@@ -100,6 +112,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPrgA3I4oKD_wcQaGRuUV-bg3OK6KOWrJjls0fMfhscdpDkw=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1789652940,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Wyschka",
+      "author_url": "https://www.google.com/maps/contrib/118166746035696564996/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPrgA3I4oKD_wcQaGRuUV-bg3OK6KOWrJjls0fMfhscdpDkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1789652940,
       "translated": false
@@ -1430,11 +1452,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 248,
+  "reviewCount": 249,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:01.900Z"
+  "lastUpdated": "2026-10-10T10:56:43.079Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Karl-Heinz D",
+      "author_url": "https://www.google.com/maps/contrib/113614781389549333405/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo_8oEX53lZlUlZqa_QSf6pXzvEgkaj3-DwPYu9_kNIYgQ0g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und kompetent",
+      "time": 1791396406,
+      "translated": false
+    },
+    {
       "author_name": "Lukas P.",
       "author_url": "https://www.google.com/maps/contrib/104429895992589429175/reviews",
       "language": "de",
@@ -108,6 +120,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_pkKcPTlazeqQkZuX8zWM-qbKLZZBl1k25QIZzGYlH4KOLQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Der Termin wurde pünktlich eingehalten, die Untersuchungen waren sehr zügig und der Arzt hat sich auch die Zeit genommen, um alles zu erklären.",
+      "time": 1789135306,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin B.",
+      "author_url": "https://www.google.com/maps/contrib/115789355526110548233/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_pkKcPTlazeqQkZuX8zWM-qbKLZZBl1k25QIZzGYlH4KOLQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Der Termin wurde pünktlich eingehalten, die Untersuchungen waren sehr zügig und der Arzt hat sich auch die Zeit genommen, um alles zu erklären.",
       "time": 1789135306,
       "translated": false
@@ -1044,7 +1068,7 @@
     }
   ],
   "rating": 3.6,
-  "reviewCount": 129,
+  "reviewCount": 130,
   "summary": [],
-  "lastUpdated": "2026-10-07T11:30:47.656Z"
+  "lastUpdated": "2026-10-10T10:56:27.634Z"
 }

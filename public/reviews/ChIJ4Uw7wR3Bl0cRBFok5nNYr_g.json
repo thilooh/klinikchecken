@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Melanie",
+      "author_url": "https://www.google.com/maps/contrib/107812169413386723235/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImVY0N8GhYP2gtX56raeKlHwwTFYNo-YXx1Jt-vxMSOZmrYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791380475,
+      "translated": false
+    },
+    {
       "author_name": "Uwe Kirsch",
       "author_url": "https://www.google.com/maps/contrib/111998510992933417764/reviews",
       "language": "de",
@@ -140,6 +150,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJqXDLn9AV8wO0MoN_gyNviT56fK-NHFKZzErw1U53jpdxUQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Alles war perfekt. Von der Terminvergabe, über die erste Untersuchung bis hin zur OP und Kontrolle. Sehr sympathisches Praxisteam. Ich wurde über jeden Schritt genau informiert und hab mich immer sehr wohl gefühlt.",
+      "time": 1786277041,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Lechner",
+      "author_url": "https://www.google.com/maps/contrib/112728718872325381455/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJqXDLn9AV8wO0MoN_gyNviT56fK-NHFKZzErw1U53jpdxUQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Alles war perfekt. Von der Terminvergabe, über die erste Untersuchung bis hin zur OP und Kontrolle. Sehr sympathisches Praxisteam. Ich wurde über jeden Schritt genau informiert und hab mich immer sehr wohl gefühlt.",
       "time": 1786277041,
       "translated": false
@@ -652,11 +674,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 45,
+  "reviewCount": 46,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:05.902Z"
+  "lastUpdated": "2026-10-10T10:56:47.115Z"
 }

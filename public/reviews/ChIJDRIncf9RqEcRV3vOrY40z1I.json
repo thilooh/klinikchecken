@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Marc Strauss-Neumann",
+      "author_url": "https://www.google.com/maps/contrib/112460314615802557494/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdmhaio7yu4nmh3M8mhuTIOXhO0DH39YiiCcSLMJpUuxhDZQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schnelle Terminfindung über Doctolib, sehr freundliches Personal vom Empfang über die Schwester bis zum Arzt. So ziemlich alle Prozesse laufen Digital an was einen sehr guten Eindruck. Vor Ort werden auch ambulante Operationen durchgeführt, auch hier fühlt man sich in sicheren Händen.",
+      "time": 1791439580,
+      "translated": false
+    },
+    {
       "author_name": "Nele Mulder",
       "author_url": "https://www.google.com/maps/contrib/100803027302887654827/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHSxVtJ2jAsKXrvVkcxn5lb00CWx5L_QaD3tWEhc2tnZjCrg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790848379,
+      "translated": false
+    },
+    {
+      "author_name": "Nele Mulder",
+      "author_url": "https://www.google.com/maps/contrib/100803027302887654827/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHSxVtJ2jAsKXrvVkcxn5lb00CWx5L_QaD3tWEhc2tnZjCrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790848379,
       "translated": false
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUWg-s18j-0ozGcN0fth4rT5xqv78XeXk2Y_ZM9O8QozgSbw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Äußerst enttäuschende Erfahrung. Ich war pünktlich vor Ort, geriet am Empfang jedoch in ein absolutes Chaos. Vier Mitarbeiterinnen waren mit einem einzigen Patienten beschäftigt. Als ich endlich an der Reihe war, versagte die Technik: Ein dreimaliges Hin und Her mit einem nicht funktionierenden iPad und vertauschten Formularen folgte, bis die Mitarbeiterinnen das Problem endlich gelöst hatten.\n\nDass technische Störungen oder administrative Fehler passieren, ist menschlich ich habe geduldig gewartet.\n\nInakzeptabel war jedoch der weitere Verlauf: Ich hatte eigentlich einen Termin bei Frau Dr. Lilia Marte gebucht, mir wurde jedoch ohne vorherige Information Frau Dr. Sherly Nassiri zugeteilt.\n\nWährend ich nach dem ganzen Hin und Her das Formular ausfüllte, trat Frau Dr. Sherly Nassiri genervt an mich heran und maßregelte mich, ich sei zu spät. Auf meinen Hinweis, dass die Verzögerung durch die Technik- und Formularprobleme ihres eigenen Empfangs entstand, reagierte sie herablassend und meinte, ich hätte eben noch früher kommen müssen.\n\nAls Selbstzahler (allein für diesen Ersttermin waren über 500 € angesetzt, gefolgt von den entsprechenden Folgekosten für den gesamten Behandlungsverlauf) erwarte ich Professionalität, Respekt und Einsicht bei eigenen Fehlern. Ich habe die Praxis umgehend verlassen und werde mein Geld woanders investieren.",
+      "time": 1790242702,
+      "translated": false
+    },
+    {
+      "author_name": "tata .p",
+      "author_url": "https://www.google.com/maps/contrib/108930260163727050126/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUWg-s18j-0ozGcN0fth4rT5xqv78XeXk2Y_ZM9O8QozgSbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Äußerst enttäuschende Erfahrung. Ich war pünktlich vor Ort, geriet am Empfang jedoch in ein absolutes Chaos. Vier Mitarbeiterinnen waren mit einem einzigen Patienten beschäftigt. Als ich endlich an der Reihe war, versagte die Technik: Ein dreimaliges Hin und Her mit einem nicht funktionierenden iPad und vertauschten Formularen folgte, bis die Mitarbeiterinnen das Problem endlich gelöst hatten.\n\nDass technische Störungen oder administrative Fehler passieren, ist menschlich ich habe geduldig gewartet.\n\nInakzeptabel war jedoch der weitere Verlauf: Ich hatte eigentlich einen Termin bei Frau Dr. Lilia Marte gebucht, mir wurde jedoch ohne vorherige Information Frau Dr. Sherly Nassiri zugeteilt.\n\nWährend ich nach dem ganzen Hin und Her das Formular ausfüllte, trat Frau Dr. Sherly Nassiri genervt an mich heran und maßregelte mich, ich sei zu spät. Auf meinen Hinweis, dass die Verzögerung durch die Technik- und Formularprobleme ihres eigenen Empfangs entstand, reagierte sie herablassend und meinte, ich hätte eben noch früher kommen müssen.\n\nAls Selbstzahler (allein für diesen Ersttermin waren über 500 € angesetzt, gefolgt von den entsprechenden Folgekosten für den gesamten Behandlungsverlauf) erwarte ich Professionalität, Respekt und Einsicht bei eigenen Fehlern. Ich habe die Praxis umgehend verlassen und werde mein Geld woanders investieren.",
       "time": 1790242702,
       "translated": false
@@ -1494,7 +1528,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 158,
+  "reviewCount": 159,
   "summary": [],
-  "lastUpdated": "2026-10-07T11:30:48.592Z"
+  "lastUpdated": "2026-10-10T10:56:28.544Z"
 }

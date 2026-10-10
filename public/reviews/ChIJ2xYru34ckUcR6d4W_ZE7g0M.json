@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Sanda Sandq",
+      "author_url": "https://www.google.com/maps/contrib/107060064056991124771/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSfHz-cmGWfvuvPi1ifbtIs9AqRt2Y15T3dwwk5P4dh9wko3wF9A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790976116,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Klat",
       "author_url": "https://www.google.com/maps/contrib/108821989845000145696/reviews",
       "language": "de",
@@ -40,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKM2RfM2F9p3Fe0pnWBiXjSXSg989x-Gw0YZdNmgwQsIkvB2g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super schön",
+      "time": 1790331151,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Klat",
+      "author_url": "https://www.google.com/maps/contrib/108821989845000145696/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKM2RfM2F9p3Fe0pnWBiXjSXSg989x-Gw0YZdNmgwQsIkvB2g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super schön",
       "time": 1790331151,
       "translated": false
@@ -60,6 +82,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvl6pCRB14zLnvpKM3HFwWTWC8ze_qsoSiLjJSc7PIPhMRuw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790205880,
+      "translated": false
+    },
+    {
+      "author_name": "Elke Käser",
+      "author_url": "https://www.google.com/maps/contrib/105920369386277218935/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvl6pCRB14zLnvpKM3HFwWTWC8ze_qsoSiLjJSc7PIPhMRuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1790205880,
       "translated": false
@@ -90,6 +122,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdyim8REZP7PXxOvkJCpigtPP0H67y4sGMk-JYPXsUPhyAqA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1789568194,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Neff",
+      "author_url": "https://www.google.com/maps/contrib/103750675664838746034/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdyim8REZP7PXxOvkJCpigtPP0H67y4sGMk-JYPXsUPhyAqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1789568194,
       "translated": false
@@ -1344,11 +1386,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 188,
+  "reviewCount": 187,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:04.158Z"
+  "lastUpdated": "2026-10-10T10:56:45.403Z"
 }

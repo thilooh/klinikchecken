@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Volker Brüning",
+      "author_url": "https://www.google.com/maps/contrib/113586822794547412592/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRDLrX8tvYTV9SXpMxnxEcq_PDqW5oJjB-uPGSGBReVlgzyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791402432,
+      "translated": false
+    },
+    {
+      "author_name": "Robin Stiegler",
+      "author_url": "https://www.google.com/maps/contrib/106117435755795102865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxD_xlO6j47CR1kb6vbOCm7SN-szKI5e4sBabOR1UfKpDG0dpwPw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schön wie man als Kassenpatient hier behandelt wird 😅 super nett(ironie), man darf erstmal bezahlen. Katastrophalen Krankenkassen System in Deutschland machen die sich zu nutze.",
+      "time": 1791391269,
+      "translated": false
+    },
+    {
       "author_name": "Ell",
       "author_url": "https://www.google.com/maps/contrib/100903860367205168620/reviews",
       "language": "en",
@@ -18,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7TVyA8Yvswmi4M9n0H4hEUKhsRc5BVM94-Nfyc2tCqdb5oWQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790832864,
+      "translated": false
+    },
+    {
+      "author_name": "Cristian Miclos",
+      "author_url": "https://www.google.com/maps/contrib/109651430126519788815/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7TVyA8Yvswmi4M9n0H4hEUKhsRc5BVM94-Nfyc2tCqdb5oWQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790832864,
       "translated": false
@@ -1556,7 +1588,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 331,
+  "reviewCount": 332,
   "summary": [],
-  "lastUpdated": "2026-10-07T11:30:53.237Z"
+  "lastUpdated": "2026-10-10T10:56:33.869Z"
 }

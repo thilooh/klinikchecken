@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Anastasies",
+      "author_url": "https://www.google.com/maps/contrib/116345295356818600750/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG992exw4KcbEl5NGvsMJcIEiZaow3iPTTA2YdBxilHRbv1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vor Kurzem habe ich meine Hautärztin gewechselt, da mir niemand helfen oder eine Diagnose stellen konnte. Dank Frau Reine Saba bin ich alle Hautprobleme im Gesicht losgeworden, die mich als junge Frau sehr gestört haben. Ich bin ihr unglaublich dankbar und finde, dass sie die Beste auf ihrem Gebiet ist! Ich kann sie wärmstens empfehlen ❤️",
+      "time": 1791477621,
+      "translated": false
+    },
+    {
+      "author_name": "Mustafa Tawila",
+      "author_url": "https://www.google.com/maps/contrib/103527132331791655187/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO_CQqxVig3eK3isnVI3H9h2ja2IS2hxvgd46ngilgZXFWoVN2=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791389357,
+      "translated": false
+    },
+    {
       "author_name": "Bol Sk",
       "author_url": "https://www.google.com/maps/contrib/116426169850067736384/reviews",
       "language": "de",
@@ -25,11 +47,33 @@
       "translated": false
     },
     {
+      "author_name": "Gia",
+      "author_url": "https://www.google.com/maps/contrib/104116101209431696994/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLRzB4C3_wxtZE0KXpcKSs8-6GfT850AD3UNkvNaC3VyyqZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die Dame an der Anmeldung war unfreundlich.\nDie Wartezeit war jeweils über 1 Stunde.\nDie Erstbegutachtung hat nicht einmal 1 Minute gedauert einfach nur abgefertigt.\nBeim 2. Termin (es war der OP Termin) von der Ärztin wie am Fließband abgefertigt.\nDer einzige Lichtblick war die wirklich nette und kompetente Arzthelferin, die die Wundversorgung gemacht hat.\nBefund gibt es nur wenn was „gefunden“ wird.\nDa waren wir zum letzten mal !!!",
+      "time": 1790876632,
+      "translated": false
+    },
+    {
       "author_name": "Xython",
       "author_url": "https://www.google.com/maps/contrib/108413117465495488583/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzgahBwYV9odoA6qK3q7duz_qW41af35Vu7YjFG6lkvOr6sxtt=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790854711,
+      "translated": false
+    },
+    {
+      "author_name": "Xython",
+      "author_url": "https://www.google.com/maps/contrib/108413117465495488583/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzgahBwYV9odoA6qK3q7duz_qW41af35Vu7YjFG6lkvOr6sxtt=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790854711,
       "translated": false
@@ -1532,11 +1576,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 211,
+  "reviewCount": 213,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:26.995Z"
+  "lastUpdated": "2026-10-10T10:57:08.545Z"
 }

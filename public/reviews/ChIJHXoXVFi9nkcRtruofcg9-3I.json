@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Petya",
+      "author_url": "https://www.google.com/maps/contrib/104915854485084833651/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW7bmA-aKCJHk8ORZNE6AFcZPUyEPIThFW4SZUqA8wfzl5fQE=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791584253,
+      "translated": false
+    },
+    {
+      "author_name": "Sabrina Gümbel",
+      "author_url": "https://www.google.com/maps/contrib/103182016105015112859/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCBc9lfqIvKPQgI14LGgI2YWlvXHjM63wtJxJ-NIF5_AGZzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Win super Team, total nettes hilfsbereite Pflegepersonal und Arzt und Oberärztin waren super. Sie nehmen sich Zeit für ihre Patienten und fertigen einen nicht einfach ab wie eine Nummer!!! Sehr zu empfehlen diese Klinik!",
+      "time": 1791533023,
+      "translated": false
+    },
+    {
       "author_name": "RazZ0r07",
       "author_url": "https://www.google.com/maps/contrib/106168057439044109577/reviews",
       "language": "de",
@@ -30,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVfygUjYFMchwUrlF26XGEmLCCgaDdMfh91TBXuD597oGFlg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790882976,
+      "translated": false
+    },
+    {
+      "author_name": "Jan-Rainer Ruhe",
+      "author_url": "https://www.google.com/maps/contrib/101124156932192878820/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVfygUjYFMchwUrlF26XGEmLCCgaDdMfh91TBXuD597oGFlg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790882976,
       "translated": false
@@ -1656,11 +1688,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 443,
+  "reviewCount": 445,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-07T11:31:03.397Z"
+  "lastUpdated": "2026-10-10T10:56:44.651Z"
 }

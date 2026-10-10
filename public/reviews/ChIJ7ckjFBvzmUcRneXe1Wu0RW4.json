@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tamara Sauer",
+      "author_url": "https://www.google.com/maps/contrib/115004513176248745225/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdPZok1QLzQJWWjDPXngHcQQ8FtP1tt96hF6H1QzOLVgdAPUw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sowohl das Praxisteam, als auch Frau Dr. Ellen Ralf waren super freundlich, nett und hilfsbereit.\nFrau Dr. Ralf hat sofort geholfen und bei akuten Problemen Hilfe geleistet, sowie eine umfassende Beratung gegeben und sich viel Zeit genommen.\nVielen Dank!",
+      "time": 1791446339,
+      "translated": false
+    },
+    {
       "author_name": "Vitomir Vučetić",
       "author_url": "https://www.google.com/maps/contrib/111530047778092551194/reviews",
       "language": "de",
@@ -493,12 +505,12 @@
       "translated": true
     }
   ],
-  "rating": 4,
-  "reviewCount": 16,
+  "rating": 4.1,
+  "reviewCount": 17,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-07T11:31:30.008Z"
+  "lastUpdated": "2026-10-10T10:57:11.841Z"
 }

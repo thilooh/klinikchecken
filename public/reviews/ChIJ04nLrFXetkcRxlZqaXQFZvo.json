@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Dietrich Brama",
+      "author_url": "https://www.google.com/maps/contrib/106781152340549902432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWitugs2SQNDlQ-ydzC5WdOTHQqOt4LvRmoKfsjyKuxtSTa0USa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791366858,
+      "translated": false
+    },
+    {
       "author_name": "Stefan Kuper",
       "author_url": "https://www.google.com/maps/contrib/104579432789128160211/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZjF04Un9kfbeUOzGTK8FUzZ7ubMSq7REvGn3oYBD4t5Q8Jlw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte auf diesen Weg Lob für diese wunderbare Behandlung und die gute Atmosphäre aussprechen, Herr und Frau Doktor Krüger sowie das ganze Team haben mir nett und kompetent zur Seite gestanden. Ich kann diese Praxis wärmstens weiterempfehlen.",
+      "time": 1791011717,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Kuper",
+      "author_url": "https://www.google.com/maps/contrib/104579432789128160211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZjF04Un9kfbeUOzGTK8FUzZ7ubMSq7REvGn3oYBD4t5Q8Jlw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich möchte auf diesen Weg Lob für diese wunderbare Behandlung und die gute Atmosphäre aussprechen, Herr und Frau Doktor Krüger sowie das ganze Team haben mir nett und kompetent zur Seite gestanden. Ich kann diese Praxis wärmstens weiterempfehlen.",
       "time": 1791011717,
       "translated": false
@@ -25,11 +47,33 @@
       "translated": false
     },
     {
+      "author_name": "Jördis Bajorat",
+      "author_url": "https://www.google.com/maps/contrib/115623993198862403341/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmSm0NSNd_-586EviF7m8lPu0iXlheLqeYR4FWoXNowFuj9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Im Venenzentrum fühlte ich mich in den besten Händen. Wirklich alle, Ärztin, Arzt und die weiteren medizinischen Mitarbeiterinnen der Praxis waren sehr freundlich. Bzgl. des Eingriffes wurden meine Ängste ernst genommen und auf meine Wünsche eingegangen. Heilung verlief noch rascher und besser als gedacht. Ich bin sehr froh, auf diese Praxis gestoßen zu sein und kann sie nur empfehlen.",
+      "time": 1790859749,
+      "translated": false
+    },
+    {
       "author_name": "Yumii",
       "author_url": "https://www.google.com/maps/contrib/108931473017488582091/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmnUPi42PsZB1RgYzWm5n_Mrj-SDZtuVppWggJUlPwnNauk5ma=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790837196,
+      "translated": false
+    },
+    {
+      "author_name": "Yumii",
+      "author_url": "https://www.google.com/maps/contrib/108931473017488582091/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmnUPi42PsZB1RgYzWm5n_Mrj-SDZtuVppWggJUlPwnNauk5ma=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790837196,
       "translated": false
@@ -660,5 +704,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-07T11:31:20.844Z"
+  "lastUpdated": "2026-10-10T10:57:02.297Z"
 }

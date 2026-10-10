@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Susann von Doepp",
+      "author_url": "https://www.google.com/maps/contrib/105452671693577634511/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPxy-2qMAD7hHedPs8igZszbBNFjqgpMZ--IYuIksnQ836QQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich komme seit Jahren und bin sehr zufrieden.  Fachkompetenz,  Kundenservice und gute Preise.  Ich bin begeistert.\n\nMittlerweile mit neuen Möglichkeiten,  natürlich schön auszusehen. War ich zur Laserbehandlung da. Einfach und schnell und mein Gesicht hat ein frisches Strahlen bekommen. Dankeschön ich freue mich auf den nächsten Termin",
+      "time": 1791480678,
+      "translated": false
+    },
+    {
       "author_name": "Fabienne Lee",
       "author_url": "https://www.google.com/maps/contrib/115329016467065899268/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLW_j11sYja0wfqnNRJhAJ_JnTO0VcBjZOw-tBAlNiTkPIoPdM=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1790852574,
+      "translated": false
+    },
+    {
+      "author_name": "Fabienne Lee",
+      "author_url": "https://www.google.com/maps/contrib/115329016467065899268/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLW_j11sYja0wfqnNRJhAJ_JnTO0VcBjZOw-tBAlNiTkPIoPdM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1790852574,
       "translated": false
@@ -1136,5 +1158,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:13.100Z"
+  "lastUpdated": "2026-10-10T10:56:54.363Z"
 }

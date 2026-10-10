@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Max Manroth",
+      "author_url": "https://www.google.com/maps/contrib/103183175455563560859/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpP0i5vIQNBBnvIgWbkpD09eziHbeQ3SfUOvcUhh4EGbbIhVXrCQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Haut ist höchst kompetent, sehr freundlich und nimmt sich Zeit für verständliche Erläuterungen.\nDies strahlt auf das gesamte Team der technisch hochwertigst ausgestatteten Praxis aus. Wir, meine gesamte Familie, fühlen uns hier sehr gut aufgehoben, betreut und behandelt.",
+      "time": 1791629037,
+      "translated": false
+    },
+    {
+      "author_name": "Matse",
+      "author_url": "https://www.google.com/maps/contrib/114444580891894412110/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX39ggTdRr6RM3ofpvouahya5L-2uEhoUKruNYM99-Qv1c2KLc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war gestern zum wiederholten Mal bei meiner Stammhautärztin, Frau Dr. Christina Haut, zur Laser-u. Botox/Hyaluronbehandlung und habe wie immer sehr zufrieden die Praxis verlassen.\nIch bin dort schon viele Jahre Patient/Kunde und wurde immer ausgezeichnet und erfolgreich behandelt.\nFazit: sehr empfehlenswert!\nMatse",
+      "time": 1791531934,
+      "translated": false
+    },
+    {
+      "author_name": "Su Mano",
+      "author_url": "https://www.google.com/maps/contrib/105440471816592821648/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKChWTylGvZc1Z4gVdm0HjEKwYCUm11LINfZgFdG2k0TyfXvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Einfach eine Praxis und mit Frau Dr Haut eine Ärztin, bei der man ein rundum gutes Gefühl hat.\nSuper organisierte Praxis, kaum Wartezeit, professionelle sympathische Mitarbeiter, hochmoderne Ausstattung und gefühlt (was ich als Laie beurteilen kann)auf dem neuesten Wissensstand.\nMan wird über alles gut informiert und nimmt sich die nötige Zeit für den Patienten.\nDanke!",
+      "time": 1791477626,
+      "translated": false
+    },
+    {
       "author_name": "Cathrin Adämmer",
       "author_url": "https://www.google.com/maps/contrib/104524332885058727274/reviews",
       "language": "de",
@@ -1412,11 +1448,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 95,
+  "reviewCount": 98,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-07T11:31:35.907Z"
+  "lastUpdated": "2026-10-10T10:57:18.383Z"
 }

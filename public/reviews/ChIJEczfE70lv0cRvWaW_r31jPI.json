@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Silvia Kalenberg",
+      "author_url": "https://www.google.com/maps/contrib/117367888389537586311/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuonyW1Wez18rI4gzipurGPVcrbbdmlx1_lmp4QAABXU53MQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Guten Morgen,\nich hatte am Montag einen Gesprächstermin mit anschließender Botoxbehandlung bei Herrn Dr. Esfahani. Das Gespräch war sehr ausführlich und auch die Botoxbehandlung war die beste die ich je bekommen habe.\nEndlich einmal ohne blaue Flecken. Das war bei mir bei anderen Ärzten sonst immer so.\nVielen Dank.",
+      "time": 1791452086,
+      "translated": false
+    },
+    {
       "author_name": "Weir Do",
       "author_url": "https://www.google.com/maps/contrib/112039768933372927443/reviews",
       "language": "de",
@@ -356,6 +368,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKk0RxGBIklUEs470wCwnTuDXq3oJfNG03z-uVgZshnnLeoQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Ich bin rundum begeistert von der Behandlung bei Dr. Esfahani. Vom ersten Termin an habe ich mich bestens aufgehoben gefühlt. Dr. Esfahani nimmt sich viel Zeit, hört aufmerksam zu und erklärt alle Behandlungsschritte verständlich und mit großer Geduld.\n\nDie gesamte Praxis ist modern, hervorragend organisiert und das Team ist ausnahmslos freundlich, hilfsbereit und professionell. Man merkt sofort, dass hier das Wohl der Patienten an erster Stelle steht.\n\nDank der kompetenten und einfühlsamen Behandlung habe ich mich jederzeit sicher und gut betreut gefühlt. Ich kann Dr. Esfahani uneingeschränkt weiterempfehlen und vergebe mit voller Überzeugung 5 Sterne. Vielen Dank an das gesamte Praxisteam!",
+      "time": 1783630269,
+      "translated": false
+    },
+    {
+      "author_name": "Rever Age",
+      "author_url": "https://www.google.com/maps/contrib/103512203514543221346/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKk0RxGBIklUEs470wCwnTuDXq3oJfNG03z-uVgZshnnLeoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Ich bin rundum begeistert von der Behandlung bei Dr. Esfahani. Vom ersten Termin an habe ich mich bestens aufgehoben gefühlt. Dr. Esfahani nimmt sich viel Zeit, hört aufmerksam zu und erklärt alle Behandlungsschritte verständlich und mit großer Geduld.\n\nDie gesamte Praxis ist modern, hervorragend organisiert und das Team ist ausnahmslos freundlich, hilfsbereit und professionell. Man merkt sofort, dass hier das Wohl der Patienten an erster Stelle steht.\n\nDank der kompetenten und einfühlsamen Behandlung habe ich mich jederzeit sicher und gut betreut gefühlt. Ich kann Dr. Esfahani uneingeschränkt weiterempfehlen und vergebe mit voller Überzeugung 5 Sterne. Vielen Dank an das gesamte Praxisteam!",
       "time": 1783630269,
       "translated": false
@@ -1081,11 +1105,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 148,
+  "reviewCount": 149,
   "summary": [
     "Dr. Esfahani gilt als äußerst präziser Chirurg — Ergebnisse übertreffen laut Patienten oft die Erwartungen",
     "Eingriffe verlaufen schmerzfrei und komplikationslos, auch komplexe Korrekturen gelingen",
     "Das gesamte Team wird als herzlich, einfühlsam und professionell beschrieben"
   ],
-  "lastUpdated": "2026-10-07T11:30:40.601Z"
+  "lastUpdated": "2026-10-10T10:56:21.738Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nutella Toast",
+      "author_url": "https://www.google.com/maps/contrib/118192994332590115089/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkKBH8mxQ07uue6KR4tg_0oRYbjzh1eq43SSNGuIAbd1RCcM8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr empfehlenswerte Praxis!\nMich hat eine sehr nette und kompetente Fachärztin behandelt. Ich habe mich zu jedem Zeitpunkt sicher gefühlt und die Behandlung an sich verlief auch schnell und ohne Probleme.\nDas Personal generell war auch sehr nett.",
+      "time": 1791540193,
+      "translated": false
+    },
+    {
       "author_name": "dannyontherox",
       "author_url": "https://www.google.com/maps/contrib/105027967655469890399/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLK2zs9w97wPqr2DddiKxOCIeVtdMYSOFMpAbhQrFFCCwSYfA=s128-c0x00000000-cc-rp-mo",
@@ -1028,11 +1040,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 163,
+  "reviewCount": 164,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:31:08.632Z"
+  "lastUpdated": "2026-10-10T10:56:49.933Z"
 }

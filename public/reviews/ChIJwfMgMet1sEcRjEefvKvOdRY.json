@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Cemil Balli",
+      "author_url": "https://www.google.com/maps/contrib/104170455815357546879/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIZ5DvYpvpSzMrXawefJBDZO5kKZYCYstOSdji9DJi-OTwIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für heute 07.10.26 hatte ich eine Termin als Kassenpatient gebucht. Als ich in der Praxis ankam wurde mir mitgeteilt, dass der Termin Privat sei und ich bezahlen müsste. Das habe ich abgelehnt und nach eine neue Termin als Kassenpatient haben möchte. Mir wurde gesagt dass die Praxis voll ausgelastet sei. Obwohl ich akute Beschwerden, an beiden Füßen offene und nässende Wunden habe, wurde mir eine Behandlung verweigert. Aber wenn ich privat zahle könnte der Arzt mal schnell nachschauen. Null Sterne kann man leider nicht geben.",
+      "time": 1791578742,
+      "translated": false
+    },
+    {
       "author_name": "J. A.",
       "author_url": "https://www.google.com/maps/contrib/103224730964061444587/reviews",
       "language": "de",
@@ -97,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Jan Ahmadi, Dr.",
+      "author_url": "https://www.google.com/maps/contrib/104177304844595311755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaQ76hjQuQil93yhWtLJe1xq2dR-UP5yf2WBB6tu-Nw15EuZ7g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin sehr zufrieden mit der schnellen Terminvergabe, den freundlichen Mitarbeitenden und der kompetenten Beratung durch Hr. Dr. Arayesch. Er hat mich sehr ausführlich und verständlich beraten und mir mehrere neuartige Behandlungsalternativen aufgezeigt. Dafür bin ich sehr dankbar und kann die Praxis uneingeschränkt weiterempfehlen.",
+      "time": 1789659268,
+      "translated": false
+    },
+    {
       "author_name": "L. N.",
       "author_url": "https://www.google.com/maps/contrib/118126288497450729125/reviews",
       "language": "de",
@@ -128,6 +152,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO8YdyGERXYZq-NFbp9tQLyIYa2l8OvKYfs8OPwhWI-v1Caw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Nach einem komplizierten Austausch mit einer KI Stimme heißt es endlich \"Sie werden verbunden\". Dann bricht das Telefonat ab. Per Email gehen keine Mails durch. Dann nicht...",
+      "time": 1789644123,
+      "translated": false
+    },
+    {
+      "author_name": "L. N.",
+      "author_url": "https://www.google.com/maps/contrib/118126288497450729125/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO8YdyGERXYZq-NFbp9tQLyIYa2l8OvKYfs8OPwhWI-v1Caw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Nach einem komplizierten Austausch mit einer KI Stimme heißt es endlich \"Sie werden verbunden\". Dann bricht das Telefonat ab. Per Email gehen keine Mails durch. Dann nicht...",
       "time": 1789644123,
       "translated": false
@@ -1475,12 +1511,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 155,
+  "rating": 4.8,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-07T11:30:54.726Z"
+  "lastUpdated": "2026-10-10T10:56:35.484Z"
 }

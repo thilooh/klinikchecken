@@ -27,6 +27,18 @@
     {
       "author_name": "R Stan",
       "author_url": "https://www.google.com/maps/contrib/102725470060569653426/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxKgHdkiwln9ePnc1i0wBDx1N6y9W9rwghJPxbwo93n92zsMY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kann nur sagen das ich mich persönlich in der Praxis sehr gut aufgehoben gefühlt habe.",
+      "time": 1789635328,
+      "translated": false
+    },
+    {
+      "author_name": "R Stan",
+      "author_url": "https://www.google.com/maps/contrib/102725470060569653426/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxKgHdkiwln9ePnc1i0wBDx1N6y9W9rwghJPxbwo93n92zsMY=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
@@ -371,6 +383,18 @@
       "translated": false
     },
     {
+      "author_name": "Volker Janitschke",
+      "author_url": "https://www.google.com/maps/contrib/116153986759411094450/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtjusK2RId24-Z53WsDuMcHi9pqa3hOZ8zgtV2obmYpTNRLkuM6Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 7 Monaten",
+      "text": "Bin gestern von meinem Orthopäden hierhin überwiesen worden. Habe noch am gleichen Tag ein Termin bekommen, Dringlichkeit war vorhanden und was soll ich sagen, dass Personal am Empfang und die kompetente Behandlung von Frau Dr. Arnold sind hervorragend. Ich fühle mich hier sehr gut vertreten und das ist nicht mehr selbstverständlich in unserer heutigen Zeit. Vielen Dank an das gesamte Team.",
+      "time": 1773246445,
+      "translated": false
+    },
+    {
       "author_name": "Sophie Grap",
       "author_url": "https://www.google.com/maps/contrib/115218555322791116286/reviews",
       "language": "de",
@@ -546,5 +570,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-07T11:31:00.914Z"
+  "lastUpdated": "2026-10-10T10:56:42.051Z"
 }

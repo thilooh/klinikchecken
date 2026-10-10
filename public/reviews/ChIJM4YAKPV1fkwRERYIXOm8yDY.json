@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sarah Gregorius",
+      "author_url": "https://www.google.com/maps/contrib/111593773692403811505/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUw4eIUVTHbLmecexOUF-pR6jfhDf7Tg-nx5g8SqdZ_au9Dw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin total dankbar dort Patientin zu sein. Das Personal ist super freundlich und rücksichtsvoll, Räume werden wie selbstverständlich für lichtempfindliche Patienten abgedunkelt und es gibt sogar extra Sessel für Patienten mit Me/cfs bzw. POTS. Bei Dr. Kacik fühle ich mich zum ersten Mal gut mit meiner Erkrankung ernstgenommen und gut aufgehoben. Dank des individuell angepassten Therapieplans fühle ich erstmalig eine Verbesserung.",
+      "time": 1791571687,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja Lange Bangs",
+      "author_url": "https://www.google.com/maps/contrib/118018848325808311936/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhN7h2ihUBM32Blk6DnXkK9JRqR0IzixFQquF_YWCulMiDZ435=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Exzellente Diagnostik für Post Vac vom Fachmann. Gründliche Untersuchung mit modernen Geräten, freundliches Team. Kann ich als Betroffene nur wärmstens empfehlen. Herzlichen Dank an Dr Kacik und sein Team. Macht weiter so.",
+      "time": 1791466291,
+      "translated": false
+    },
+    {
       "author_name": "Stu",
       "author_url": "https://www.google.com/maps/contrib/110473582644909313727/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQBI-N9r_yyNEOqcWr8xVdfsqG0kRj3Z6hHy2k26dKVHA_HQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Super nette Mitarbeiter in der Praxis,  Dr. Kacik nimmt sich richtig viel Zeit und erklärt alles. Er will wirklich helfen und tut dies auch. Wirkt sehr kompetent. Warteliste gibt es nicht ohne Grund. Absolut empfehlenswert",
+      "time": 1788957904,
+      "translated": false
+    },
+    {
+      "author_name": "Stu",
+      "author_url": "https://www.google.com/maps/contrib/110473582644909313727/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQBI-N9r_yyNEOqcWr8xVdfsqG0kRj3Z6hHy2k26dKVHA_HQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Super nette Mitarbeiter in der Praxis,  Dr. Kacik nimmt sich richtig viel Zeit und erklärt alles. Er will wirklich helfen und tut dies auch. Wirkt sehr kompetent. Warteliste gibt es nicht ohne Grund. Absolut empfehlenswert",
       "time": 1788957904,
       "translated": false
@@ -1230,11 +1266,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-10-07T11:31:00.411Z"
+  "lastUpdated": "2026-10-10T10:56:41.548Z"
 }
