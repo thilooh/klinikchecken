@@ -45,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "Barbara Robinson",
+      "author_url": "https://www.google.com/maps/contrib/117701487320863650688/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuT1w_4x6W4uo1rWbUd3_JXqWvx9n0Kj3ZTKS-MEQrR5r30jLr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1790581891,
+      "translated": false
+    },
+    {
       "author_name": "Fabio K.",
       "author_url": "https://www.google.com/maps/contrib/110216745398332542006/reviews",
       "language": "de",
@@ -112,6 +122,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkQ9iF-UCbr_6jEEZTWmZS4xEaxDt5ZDyJlqv17RrLEGQO9w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Leider sehr lange Wartezeiten. Wir haben über 2Std. gewartet, trotz Termin. Patienten die nach uns kamen waren schon längst zuhause.\nSchade…",
+      "time": 1790070088,
+      "translated": false
+    },
+    {
+      "author_name": "David",
+      "author_url": "https://www.google.com/maps/contrib/113345050615506599004/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkQ9iF-UCbr_6jEEZTWmZS4xEaxDt5ZDyJlqv17RrLEGQO9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Leider sehr lange Wartezeiten. Wir haben über 2Std. gewartet, trotz Termin. Patienten die nach uns kamen waren schon längst zuhause.\nSchade…",
       "time": 1790070088,
       "translated": false
@@ -1590,11 +1612,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 161,
+  "reviewCount": 159,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:53.838Z"
+  "lastUpdated": "2026-10-13T12:27:23.800Z"
 }

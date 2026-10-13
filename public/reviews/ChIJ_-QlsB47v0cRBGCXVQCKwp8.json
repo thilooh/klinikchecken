@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Connor Grulich",
+      "author_url": "https://www.google.com/maps/contrib/112578317112660044626/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjYw7v3W3PWZkBaOJnV__-R3DTnPDK5YRaLq4yQrB0NsbjxQ8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bedanke mich für die schnelle Hilfe und vorallem bei Frau Berenike Hasagic, die mir mega freundlich und kompetent weitergeholfen hat.\nAuch nach den Terminen wurde nochmal Angerufen und gefragt wie es aktuell läuft und besprochen, ob noch weiteres Vorgehen nötig ist. Die Verschreibung in die Tagesklinik war auch genau der richtige Weg und hier der erste Vorschlag, welcher mir bei vorherigen Ärzten nicht angeboten wurde.\nIch habe anders als bei anderen Ärzten in dieser Praxis nur Positives erlebt, keine langen Wartezeiten, kein genervtes Personal und fühle mich dort sehr gut aufgehoben.\n\nViele Grüße\nConnor Grulich",
+      "time": 1791883903,
+      "translated": false
+    },
+    {
       "author_name": "Diana Coadis",
       "author_url": "https://www.google.com/maps/contrib/107487266054610293416/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1AaW5yXC3xTIeu3j8ISvawiaXre6DaNm7pRA5MQm1pvHdqhLEHQ=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1AaW5yXC3xTIeu3j8ISvawiaXre6DaNm7pRA5MQm1pvHdqhLEHQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790589031,
+      "translated": false
+    },
+    {
+      "author_name": "Diana Coadis",
+      "author_url": "https://www.google.com/maps/contrib/107487266054610293416/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1AaW5yXC3xTIeu3j8ISvawiaXre6DaNm7pRA5MQm1pvHdqhLEHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1790589031,
       "translated": false
@@ -881,7 +903,7 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [],
-  "lastUpdated": "2026-10-10T10:56:24.362Z"
+  "lastUpdated": "2026-10-13T12:26:58.830Z"
 }

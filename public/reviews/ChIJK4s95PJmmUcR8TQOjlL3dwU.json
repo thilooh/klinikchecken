@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Yasemin Jesmen",
+      "author_url": "https://www.google.com/maps/contrib/111385523047760179810/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsWS47efCBHOkQyztUlL3zCEoZN6qBpCCH977tSqkbdOsFxlRS=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war letzte Woche im Areion und musste miterleben, wie unfreundlich und respektlos die ältere Damen an der Rezeption mit ausländischen Patienten umgegangen sind. Der Ton war absolut unangemessen und wirkte sehr diskriminierend. Es ist traurig, wenn Menschen allein wegen mangelnder Deutschkenntnisse nicht die Hilfe und den Respekt bekommen, den sie verdienen. Hier sollte dringend etwas geändert werden!",
+      "time": 1791813557,
+      "translated": false
+    },
+    {
       "author_name": "Lisa Buck",
       "author_url": "https://www.google.com/maps/contrib/110078483603103025112/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMBeQ5udivjl8hJprhUqa_Py2y-qTmNbn9YxAIXnqFbzmr7A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Freundliche und kompetente Beratung, beginnt bereits an der Rezeption bei Frau Claudia über die Arzthelferinnen zu den Ärzten. Unkomplizierte Termin-Vergabe, ausführliche Beratung und top Behandlung.",
+      "time": 1789127888,
+      "translated": false
+    },
+    {
+      "author_name": "Ramona Hoermann",
+      "author_url": "https://www.google.com/maps/contrib/106642486999441036609/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMBeQ5udivjl8hJprhUqa_Py2y-qTmNbn9YxAIXnqFbzmr7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Freundliche und kompetente Beratung, beginnt bereits an der Rezeption bei Frau Claudia über die Arzthelferinnen zu den Ärzten. Unkomplizierte Termin-Vergabe, ausführliche Beratung und top Behandlung.",
       "time": 1789127888,
       "translated": false
@@ -236,6 +260,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2672Z4zUdA4KPNMdj4JoN82hFPtzXmdwHDTqyFY-uwMlkBm8=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Dr. Mühlmeier ist ein unfassbar kompetenter und sehr sympathischer HNO, der mir geholfen hat, jahrelange Schmerzen am Ohr zu beheben und meinen Tinnitus stark vermindert hat. Da die Behandlung noch andauert, hoffe ich auf weitere Besserung. auch sein Team ist sehr zuvorkommend, man fühlt sich sehr wohl und ernstgenommen.",
+      "time": 1786532442,
+      "translated": false
+    },
+    {
+      "author_name": "Carola Eppinger",
+      "author_url": "https://www.google.com/maps/contrib/117443157157512610347/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2672Z4zUdA4KPNMdj4JoN82hFPtzXmdwHDTqyFY-uwMlkBm8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Dr. Mühlmeier ist ein unfassbar kompetenter und sehr sympathischer HNO, der mir geholfen hat, jahrelange Schmerzen am Ohr zu beheben und meinen Tinnitus stark vermindert hat. Da die Behandlung noch andauert, hoffe ich auf weitere Besserung. auch sein Team ist sehr zuvorkommend, man fühlt sich sehr wohl und ernstgenommen.",
       "time": 1786532442,
       "translated": false
@@ -950,11 +986,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 144,
+  "reviewCount": 145,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:46.379Z"
+  "lastUpdated": "2026-10-13T12:27:17.282Z"
 }

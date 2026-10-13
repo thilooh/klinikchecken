@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Ich Bins",
+      "author_url": "https://www.google.com/maps/contrib/113578261693743329830/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTofzmNZa0MghqjpPirR58lvNt8q3zMjph2p6Ib8d64SKXvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mangelhaft in allem.",
+      "time": 1791885099,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin Alexander",
+      "author_url": "https://www.google.com/maps/contrib/118365562158801591390/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCNy9deS-Ou3EHxd0URY98YDWy-y1UsnyEfi4S8h8V2UTZGV-7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nett, informativ, pünktlich",
+      "time": 1791808511,
+      "translated": false
+    },
+    {
+      "author_name": "Lea-Hannah Reiß",
+      "author_url": "https://www.google.com/maps/contrib/118018927063996652248/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6y1En-5P5SRTHikCELkiPAPnxrjt_CpuQSwNNQdbbAGFyGOtE=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin als Patientin sehr zufrieden und dühle mich sicher, gut aufgehoben und sehr gut beraten. Ich komme gerne hier her.",
+      "time": 1791793089,
+      "translated": false
+    },
+    {
       "author_name": "Marc Strauss-Neumann",
       "author_url": "https://www.google.com/maps/contrib/112460314615802557494/reviews",
       "language": "de",
@@ -1528,7 +1564,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 159,
+  "reviewCount": 162,
   "summary": [],
-  "lastUpdated": "2026-10-10T10:56:28.544Z"
+  "lastUpdated": "2026-10-13T12:27:02.484Z"
 }

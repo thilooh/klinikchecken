@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "SL",
+      "author_url": "https://www.google.com/maps/contrib/103978691263763530338/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXskypkyzitosb89GIttTTY4h6U27GH6bLE5DgOk3uWlkLDB5I=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Katastrophale Organisation\nIch wurde einen Tag vor der seit Monaten geplant OP darüber informiert, dass meine Krankenkasse den Vertrag mit der Remigius Klinik beendet hat.\nMan hätte mich schon vier Monate vorher informieren können, was aber nicht geschehen ist. Eine neue Terminfindung in einer anderen Klinik wird jetzt schwierig.\nIch bin entsetzt über die Inkompetenz des Klinikums.",
+      "time": 1791788447,
+      "translated": false
+    },
+    {
+      "author_name": "MARC WERNER",
+      "author_url": "https://www.google.com/maps/contrib/115459930384282204492/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwpX2lY1qFKTshQ9lPczhyUOeffyMWWloU9KJjjXxwhmNU3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791774230,
+      "translated": false
+    },
+    {
       "author_name": "Mohamed âoudia",
       "author_url": "https://www.google.com/maps/contrib/116265117191409503737/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL5FQ8XcHZze3CRSRM1o_Fb5NsyjngFHYJpbzUNomb2JbAxQ=s128-c0x00000000-cc-rp-mo",
@@ -54,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWp3F7vxSO36daeQdDWHImwDnsskUmBUILIJrMoXuxkCFU4ZgM=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Es ist nur meine persönliche Erfahrung! Ich habe kein Vertrauen aufgrund von Ablaufprocedere und Freundlichkeit. Den angedachten Termin habe ich Heute abgesagt, nach meinen Erfahrungen bei der Blutabnahme.\n\nHier habe ich Heute bereits direkt an info@ ausführlich geschrieben.",
+      "time": 1790495485,
+      "translated": false
+    },
+    {
+      "author_name": "Marikka Weimann-Cossaeth",
+      "author_url": "https://www.google.com/maps/contrib/109732684933406792303/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWp3F7vxSO36daeQdDWHImwDnsskUmBUILIJrMoXuxkCFU4ZgM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Es ist nur meine persönliche Erfahrung! Ich habe kein Vertrauen aufgrund von Ablaufprocedere und Freundlichkeit. Den angedachten Termin habe ich Heute abgesagt, nach meinen Erfahrungen bei der Blutabnahme.\n\nHier habe ich Heute bereits direkt an info@ ausführlich geschrieben.",
       "time": 1790495485,
       "translated": false
@@ -1584,11 +1618,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 445,
+  "reviewCount": 447,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-10-10T10:57:05.072Z"
+  "lastUpdated": "2026-10-13T12:27:33.485Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Caro Bie",
+      "author_url": "https://www.google.com/maps/contrib/107536516019066752966/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9V5DjlXjnnzNKkM83exFQI6bogsw2_zaEBMfdqJgAZyp6PUNb=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr einladende Umgebung ,die Ärztin sehr freundlich und gründlich  alle Fragen beantwortet und Tipps gegeben ,aufgeklärt.\nDie Helferin sehr nett und schnell einen Termin bekommen.\nIch bin sehr zufrieden mit der Praxis\nDanke",
+      "time": 1791890885,
+      "translated": false
+    },
+    {
+      "author_name": "Marwan Al obaidi",
+      "author_url": "https://www.google.com/maps/contrib/109880156535604135850/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7kr3KRr1spWO8aquZyKQfAzY7dmlN8_JoTHHJjU3XqWqOPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐ Ein außergewöhnlicher Arzt – menschlich und fachlich hervorragend!\n\nSeit meiner Kindheit leide ich an Psoriasis (Schuppenflechte). Diese Erkrankung hat mich über viele Jahre nicht nur körperlich, sondern auch seelisch sehr belastet und meine Lebensqualität stark beeinträchtigt.\n\nIm Laufe der Jahre habe ich zahlreiche Ärzte in Deutschland aufgesucht, doch leider konnte mir niemand wirklich langfristig helfen.\n\nDurch einen glücklichen Zufall bin ich schließlich auf Dr. Azem Pljakic aufmerksam geworden, als sich seine Praxis noch in Herne befand.\n\nSchon bei unserem ersten Kontakt sagte er mir, dass eine erfolgreiche Behandlung Geduld, Vertrauen und vor allem konsequente Mitarbeit erfordert. Ich habe seinen Rat ernst genommen und mich an seine Empfehlungen gehalten.\n\nDr. Pljakic hat verschiedene Behandlungsmöglichkeiten mit mir ausprobiert und dabei niemals aufgegeben. Dank seiner fachlichen Kompetenz, seiner Geduld und seines großen Engagements sind heute etwa 90 % meiner Beschwerden verschwunden. Für jemanden, der seit seiner Kindheit unter dieser Erkrankung leidet, bedeutet das unglaublich viel.\n\nWas Dr. Pljakic für mich so besonders macht, ist nicht nur sein medizinisches Fachwissen, sondern vor allem seine Menschlichkeit. Er ist ein außergewöhnlich freundlicher, respektvoller und einfühlsamer Arzt, bei dem man sich als Mensch ernst genommen und bestens aufgehoben fühlt.\n\nIch bin Dr. Pljakic von ganzem Herzen dankbar. Er hat mir ein großes Stück Lebensqualität zurückgegeben, und das werde ich ihm niemals vergessen.\n\nFür mich ist er nicht nur ein hervorragender Arzt, sondern auch ein wunderbarer Mensch.\n\nIch kann Dr. Azem Pljakic aus voller Überzeugung und mit größter Dankbarkeit weiterempfehlen!\n\nVielen, vielen Dank für alles, Herr Dr. Pljakic!",
+      "time": 1791647591,
+      "translated": false
+    },
+    {
       "author_name": "Jörg S.",
       "author_url": "https://www.google.com/maps/contrib/109984804344290798765/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY7SOz0ORY08hCBx3ixeybIkcwh1dvboK9Yzg8YE-aNGVdvg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher und angenehmer Arzt. Er nimmt sich Zeit, erklärt alles verständlich und geht auf alle Fragen ein. Ich habe mich sehr gut aufgehoben gefühlt und kann ihn gerne weiterempfehlen.",
+      "time": 1791059622,
+      "translated": false
+    },
+    {
+      "author_name": "Snezana Basic",
+      "author_url": "https://www.google.com/maps/contrib/110499883332439936299/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY7SOz0ORY08hCBx3ixeybIkcwh1dvboK9Yzg8YE-aNGVdvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundlicher und angenehmer Arzt. Er nimmt sich Zeit, erklärt alles verständlich und geht auf alle Fragen ein. Ich habe mich sehr gut aufgehoben gefühlt und kann ihn gerne weiterempfehlen.",
       "time": 1791059622,
       "translated": false
@@ -988,7 +1024,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 132,
+  "reviewCount": 134,
   "summary": [],
-  "lastUpdated": "2026-10-10T10:56:34.126Z"
+  "lastUpdated": "2026-10-13T12:27:06.928Z"
 }

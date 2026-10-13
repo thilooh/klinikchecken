@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Thomas Engler",
+      "author_url": "https://www.google.com/maps/contrib/106505136971881433446/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG95LqMXsJH2uU7N9avsXWwUyO8VR1miduZ6AltoGA_3a8XQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1790514536,
+      "translated": false
+    },
+    {
       "author_name": "roland schmechtig",
       "author_url": "https://www.google.com/maps/contrib/114020349975822669213/reviews",
       "language": "de",
@@ -52,6 +62,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ2FdE29Ycb8RqYSAi6i49C4D0WhgHi3nfCMpOH2YR1rlZIA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Wirklich super kompetente Beratung und eine sehr sorgfältige Untersuchung.\nHier ist man in guten Händen.\nKaum Wartezeit und sehr freundliches Personal.\nKann ich nur weiterempfehlen.",
+      "time": 1789999280,
+      "translated": false
+    },
+    {
+      "author_name": "roland schmechtig",
+      "author_url": "https://www.google.com/maps/contrib/114020349975822669213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ2FdE29Ycb8RqYSAi6i49C4D0WhgHi3nfCMpOH2YR1rlZIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Wirklich super kompetente Beratung und eine sehr sorgfältige Untersuchung.\nHier ist man in guten Händen.\nKaum Wartezeit und sehr freundliches Personal.\nKann ich nur weiterempfehlen.",
       "time": 1789999280,
       "translated": false
@@ -196,6 +218,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2z4Zt9exoKY6OvngmHsWgRrb3CTbpG5oAbDbFNwYiAZ82sQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Habe bei einem akuten Problem kompetente und hilfreiche Behandlung bekommen. Vielen Dank dafür!",
+      "time": 1783879247,
+      "translated": false
+    },
+    {
+      "author_name": "David Vogt",
+      "author_url": "https://www.google.com/maps/contrib/108362167856408400533/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2z4Zt9exoKY6OvngmHsWgRrb3CTbpG5oAbDbFNwYiAZ82sQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Habe bei einem akuten Problem kompetente und hilfreiche Behandlung bekommen. Vielen Dank dafür!",
       "time": 1783879247,
       "translated": false
@@ -786,5 +820,5 @@
   "rating": 5,
   "reviewCount": 21,
   "summary": [],
-  "lastUpdated": "2026-10-10T10:56:32.531Z"
+  "lastUpdated": "2026-10-13T12:27:05.814Z"
 }

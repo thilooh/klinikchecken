@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mena Mena",
+      "author_url": "https://www.google.com/maps/contrib/102721542105111322132/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJco2Stm9esURNjKw3nKrbFusNYDgSQ_eAzSUstlE3THwMe9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791764228,
+      "translated": false
+    },
+    {
       "author_name": "Jessica Högemann",
       "author_url": "https://www.google.com/maps/contrib/101667572589770636500/reviews",
       "language": "de",
@@ -32,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhlOBJdIUHa1d1zZcU2P6K3lanLNtmiZK2Tu38jqV2xGzv7K4w=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Freudluche Aufnahme, kurze Wartezeit, gute Behandlung",
+      "time": 1791261068,
+      "translated": false
+    },
+    {
+      "author_name": "Uhlemann",
+      "author_url": "https://www.google.com/maps/contrib/110815545480267979167/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhlOBJdIUHa1d1zZcU2P6K3lanLNtmiZK2Tu38jqV2xGzv7K4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Freudluche Aufnahme, kurze Wartezeit, gute Behandlung",
       "time": 1791261068,
       "translated": false
@@ -1550,11 +1572,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 144,
+  "reviewCount": 145,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:57:01.065Z"
+  "lastUpdated": "2026-10-13T12:27:29.890Z"
 }

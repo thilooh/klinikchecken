@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Tamanini",
+      "author_url": "https://www.google.com/maps/contrib/115159534822265791970/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICuoeckovW44l2NwPyRWYSBy72kKPFWyIFLs3QnoBeNipudQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791793205,
+      "translated": false
+    },
+    {
+      "author_name": "Sven Kammerer",
+      "author_url": "https://www.google.com/maps/contrib/103959185490791216210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQbBSFfTOoXD5xo2yBjyM7c_0FzmvHPu-7RfSjGYkQExC54LnuQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Praxis mit freundlichen Personal 👍",
+      "time": 1791710133,
+      "translated": false
+    },
+    {
       "author_name": "elsbeth hug",
       "author_url": "https://www.google.com/maps/contrib/115915212791213831017/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZbL87hkagcTicqnFMXLw4gDk2snybJHHmUBOW4ZEi85ejwA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -1386,11 +1408,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 187,
+  "reviewCount": 189,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:45.403Z"
+  "lastUpdated": "2026-10-13T12:27:16.430Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marco Meier",
+      "author_url": "https://www.google.com/maps/contrib/114412153504752627375/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLARDgVa_E5KF81P-O3unigJeCjqVzElyaDj06xgP8BVG1SpQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Arzt.",
+      "time": 1791796352,
+      "translated": false
+    },
+    {
       "author_name": "Stefan Meuschel",
       "author_url": "https://www.google.com/maps/contrib/108204553483671953098/reviews",
       "language": "de",
@@ -432,11 +444,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 54,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:50.400Z"
+  "lastUpdated": "2026-10-13T12:27:20.788Z"
 }

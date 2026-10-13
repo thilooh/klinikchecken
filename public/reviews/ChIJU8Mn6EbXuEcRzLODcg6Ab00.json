@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Fatima Alshrif",
+      "author_url": "https://www.google.com/maps/contrib/105361789990451872086/reviews",
+      "language": "ar",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtohIIjMWpVi92bLDe5pR-hw4UEW6Inw1zEa_0k7VP1jjyvwxJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "كان كتير سيئ انا رحت عملت فلير الشفايف وكان اول مرة الي مالي تجربة بهالشي ماعندي اي فكرة بروح لهنيك على أمل الدكتورة تشرحلي بتجي بتعمل الفلر بس وبتطلع ولا عطتني مجال استفسر ولا حتى هي شرحتلي شي مو كان لازم هي كدكتورة تشرحلي كيف رح يصير وشو بيلزمو حتى جلسة رتوش ماحددتلي نصدمت الصراحة اخترتها مع انو مكانها بعيد عني مسافة منيحة وانصدم بقلة المسؤلية حتى الفلير مكان معبى اكتر من مكان 🙂",
+      "time": 1791718147,
+      "translated": false
+    },
+    {
       "author_name": "Sara",
       "author_url": "https://www.google.com/maps/contrib/100346236670722689042/reviews",
       "language": "ar",
@@ -1294,11 +1306,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 435,
+  "reviewCount": 436,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:42.313Z"
+  "lastUpdated": "2026-10-13T12:27:13.736Z"
 }

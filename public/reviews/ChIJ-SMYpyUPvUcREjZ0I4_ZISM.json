@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Yasmi Leona",
+      "author_url": "https://www.google.com/maps/contrib/105938544689230259872/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOCs6cGueSygOALJPJCKG_hyHVS2S58gwImsvlZ8_2Cg5WkiO9=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Behandlung. Der Arzt ist sehr professionell und hat sich Zeit genommen. Sehr empfehlenswert!",
+      "time": 1791801606,
+      "translated": false
+    },
+    {
       "author_name": "Daniel Mebrahtom",
       "author_url": "https://www.google.com/maps/contrib/107521029748974398102/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUcdfds34iAN_EwnqAWxWQ8rNO2oU2fZ2OOjUkkKglIjY0G0au=s128-c0x00000000-cc-rp-mo",
@@ -1270,7 +1282,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 166,
+  "reviewCount": 167,
   "summary": [],
-  "lastUpdated": "2026-10-10T10:56:26.589Z"
+  "lastUpdated": "2026-10-13T12:27:00.748Z"
 }

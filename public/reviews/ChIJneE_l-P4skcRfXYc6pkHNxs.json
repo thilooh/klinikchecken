@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Yasemin Priv",
+      "author_url": "https://www.google.com/maps/contrib/110996806746429836247/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvs-msxjX4-jhUgM4Ox3JkyD00M2KVC6NXIBB4hDJXAqI5QA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Mein Vater und ich waren beide bei Doktor Eyad! Toller Arzt. Nimmt sich Zeit und erklärt alles ganz in Ruhe! Top!",
+      "time": 1790493165,
+      "translated": false
+    },
+    {
       "author_name": "Becky",
       "author_url": "https://www.google.com/maps/contrib/112024456266485666343/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKg9RWu5i0sCSkKPpFHD3PKWyWgX-j1SAd0dmFoXpuF9n_kJw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Kompetente Ärzt*innen und sehr netter Empfang!!",
+      "time": 1789931870,
+      "translated": false
+    },
+    {
+      "author_name": "Becky",
+      "author_url": "https://www.google.com/maps/contrib/112024456266485666343/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKg9RWu5i0sCSkKPpFHD3PKWyWgX-j1SAd0dmFoXpuF9n_kJw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Kompetente Ärzt*innen und sehr netter Empfang!!",
       "time": 1789931870,
       "translated": false
@@ -1058,11 +1082,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 107,
+  "reviewCount": 106,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:37.007Z"
+  "lastUpdated": "2026-10-13T12:27:09.325Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dr. Dieter Sedlacek",
+      "author_url": "https://www.google.com/maps/contrib/100094115131595306606/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwmJRQRHiQ6wEoPOht6K5Drl-jNsN7Xm3LqM3canYXvRc2qfY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Miserable Abwicklung - ewige Wartezeiten.",
+      "time": 1791822384,
+      "translated": false
+    },
+    {
       "author_name": "Anastasies",
       "author_url": "https://www.google.com/maps/contrib/116345295356818600750/reviews",
       "language": "de",
@@ -1576,11 +1588,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 213,
+  "reviewCount": 214,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:57:08.545Z"
+  "lastUpdated": "2026-10-13T12:27:36.454Z"
 }

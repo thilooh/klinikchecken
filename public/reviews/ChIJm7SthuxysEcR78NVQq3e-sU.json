@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Nina B.",
+      "author_url": "https://www.google.com/maps/contrib/116365163209549968271/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpTTE-ZWrbOABX_RBOy0MOnzxwxij2G1su9MyAJjlkKso6Bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Trotz vereinbartem Termin musste ich sehr lange warten. Positiv hervorzuheben ist lediglich die freundliche junge Dame am Empfang.\n\nDer Kontakt mit der sehr jungen Ärztin war leider äußerst enttäuschend. Sie wirkte auf mich überfordert und wenig motiviert, auf mein Anliegen einzugehen. Statt einer fachlichen Beratung wurden mir vielmehr die Sparmaßnahmen des Praxisinhabers erläutert. Eine ihrer Aussagen lautete wortwörtlich : „Wir sind ein Laserzentrum, kein Hautarzt.“\n\nNach langer Wartezeit hatte ich gerade einmal etwa fünf Minuten Kontakt mit der Ärztin, ohne eine hilfreiche Beratung, eine Lösung oder irgendeinen erkennbaren Behandlungserfolg. Entsprechend unzufrieden habe ich die Praxis wieder verlassen.\n\nInsgesamt eine enttäuschende Erfahrung, bei der weder die lange Wartezeit noch der kurze und für mich ergebnislose Arztkontakt dem vereinbarten Termin gerecht wurden.",
+      "time": 1791828101,
+      "translated": false
+    },
+    {
+      "author_name": "Osmanli",
+      "author_url": "https://www.google.com/maps/contrib/115456322612610995903/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqS0OJVBNNEOOVbmtXl0TxnayqlesJUxnGMu8CVioYFHA-Jw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Inkompetentes Personal\nHäufig wurde ich Zeugin von Streitigkeiten zwischen Patient und Arzt in aller Öffentlichkeit am Eingang in der Anmeldung\nFast 30min an der Telefonschleife warten müssen und dann nach\n20minuten Fahrzeit immer noch keine Auskunft zu erhalten, ob für Privatpatienten eine Behandlung unter der allgemeinen Gebühr fällt oder nicht\nDas könne die Rezeption beim nicht Arzt erfragen?!\n\nDie Dame an der Anmeldung schickt mich von der Anmeldung 1 zum Wartebereich 2 danach ruft sie mich wieder zurück, um nach ihrer Aussage erstmal \"Bar oder mit Karte\" Geld zu kassieren.\nIch sagte ihr ich habe die Rechnung bereits beglichen, sie diskutiert weiter und will mich nicht aufnehmen.\n\nNach solch einer absolut dreisten und inkompetenten Umgangsweise verzichte ich sehr gerne auf eine Behandlung in einer versnoppte Praxis wie diese!",
+      "time": 1791811509,
+      "translated": false
+    },
+    {
       "author_name": "Privat",
       "author_url": "https://www.google.com/maps/contrib/106639242390326327274/reviews",
       "language": "de",
@@ -1706,11 +1730,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 280,
+  "reviewCount": 281,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-10T10:56:34.947Z"
+  "lastUpdated": "2026-10-13T12:27:07.573Z"
 }

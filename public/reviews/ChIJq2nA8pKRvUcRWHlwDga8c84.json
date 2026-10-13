@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Joho Hoho",
+      "author_url": "https://www.google.com/maps/contrib/102502999774113061957/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjVoIDUT9mBuKOdhpKakO7iVjbZ4ylF3Eo2WCi2KHOukfQ6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Abgesehen davon, dass man für ein gerade einmal zweiminütiges Gespräch 50 € bezahlt, ist der Umgang mit Patienten durch die Rezeptionistin Frau absolut unprofessionell und unhöflich.\nEs ist wirklich unglaublich, dass eine derart unfreundliche und inkompetent wirkende Person in einer angeblich „modernen Praxis“ arbeitet. Allein aufgrund dieser Erfahrung werde ich diese Praxis nie wieder besuchen.\nEin moderner Eindruck und hohe Preise bringen nichts, wenn der respektvolle Umgang mit Patienten fehlt. Ich bin sehr enttäuscht von dieser Erfahrung und kann den Umgang mit der Rezeption in keiner Weise positiv bewerten.\nUnd ich bin nicht die einzige die die gleiche Meinung hat.",
+      "time": 1791813204,
+      "translated": false
+    },
+    {
       "author_name": "T. A.",
       "author_url": "https://www.google.com/maps/contrib/103360970900603298630/reviews",
       "language": "de",
@@ -1782,11 +1794,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 351,
+  "reviewCount": 352,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:54.095Z"
+  "lastUpdated": "2026-10-13T12:27:24.038Z"
 }

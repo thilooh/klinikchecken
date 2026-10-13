@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Ariane Steinberg",
+      "author_url": "https://www.google.com/maps/contrib/105039074890808162689/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLD41-DqL5uQitVng2Kva30vfnUuMBxCrEITQJ4LENIOoH6kQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "keine langen Wartezeiten als Selbstzahler. Kompetente Beratung und qualifizierte Behandlung. Bin sehr zufrieden.",
+      "time": 1791888471,
+      "translated": false
+    },
+    {
+      "author_name": "Kirsten Mielke",
+      "author_url": "https://www.google.com/maps/contrib/114345195120207612724/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLMiv3DWKqF8nmmEtLs_uczz_UeMkajnpFE-uJvk99pxhFXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe online einen Termin um 11 Uhr zur Hautkrebsvorsorge gehabt. Ich musste über eine Stunde warten, hat mich etwas  genervt. Bin schon seit einiger Zeit Patient in der Praxis und so lange musste ich noch nie warten. Als ich dann endlich aufgerufen wurde hat sich die Ärztin für die lange Wartezeit entschuldigt. Ich muss sagen ich hatte eine sehr nette und kompetente Ärztin die mich gründlich untersucht hat, ich kann diese Praxis nur empfehlen.",
+      "time": 1791649684,
+      "translated": false
+    },
+    {
       "author_name": "J.",
       "author_url": "https://www.google.com/maps/contrib/110191038671672244809/reviews",
       "language": "de",
@@ -2304,11 +2328,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2442,
+  "reviewCount": 2443,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-10T10:56:39.120Z"
+  "lastUpdated": "2026-10-13T12:27:11.069Z"
 }

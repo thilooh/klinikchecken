@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ramon Iglesia Gonzalez",
+      "author_url": "https://www.google.com/maps/contrib/118106779985392697337/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcKAlHDdqw55QL1HqVo4MzxKIBxmTlPRYzIR0WP8AXb_YvUq8=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis wirkt modern und sauber, allerdings war der Ablauf und Kommunikation für mich sehr schwierig. Die Wartezeiten waren deutlich länger als erwartet, und ich hätte mir gewünscht, dass die einzelnen Schritte besser erklärt werden, damit man sich besser orientieren kann. Bisher habe ich die Befunde nicht ausgehändigt bekommen. Ich fände es hilfreich, Zugang zu den Ergebnissen und einer ordentliche Erklärung zu bekommen, um meine Gesundheit gut nachvollziehen zu können. Mir ist wichtig, dass ich mich als Patient ernst genommen fühle und bei Entscheidungen mitwirken kann.\nMeiner Meinung nach liegt ein wesentlicher Nachteil des MVZ-Konzepts darin, dass die Behandlung auf den Patienten oft unpersönlich wirkt.",
+      "time": 1791648263,
+      "translated": false
+    },
+    {
       "author_name": "Viktor Domme",
       "author_url": "https://www.google.com/maps/contrib/101955415316473368388/reviews",
       "language": "de",
@@ -1323,12 +1335,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 276,
+  "rating": 4.5,
+  "reviewCount": 277,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-10T10:56:48.416Z"
+  "lastUpdated": "2026-10-13T12:27:19.026Z"
 }

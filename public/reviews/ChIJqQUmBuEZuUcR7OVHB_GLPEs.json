@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Krabi",
+      "author_url": "https://www.google.com/maps/contrib/108308246858544100301/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXFRpH1BGc5vBY_s6yHTzIWELtBxL4PIK7d0khefjO1nfr9xkGPA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ärzte sehr nett , aber es ist sehr schwierig telefonisch oder online einen Termin zu vereinbaren! War in meinem Fall auf beiden Wegen nicht möglich! Ich hatte Glück das meine  Freundin auch dort in Behandlung ist und mir einen Termin mitbrachte !",
+      "time": 1791891200,
+      "translated": false
+    },
+    {
       "author_name": "Rabije Abdiu",
       "author_url": "https://www.google.com/maps/contrib/105379144870501823827/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbfpvr6BqzMA9bfbsiwhbrq6xSSQlIbr8SXVqjB007ZL560Q=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Gute Beratung OP mit Laser sofort  wegen Hautkrebs",
+      "time": 1791200677,
+      "translated": false
+    },
+    {
+      "author_name": "Gerhard Paul Zupke",
+      "author_url": "https://www.google.com/maps/contrib/111552283595641379723/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbfpvr6BqzMA9bfbsiwhbrq6xSSQlIbr8SXVqjB007ZL560Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Gute Beratung OP mit Laser sofort  wegen Hautkrebs",
       "time": 1791200677,
       "translated": false
@@ -1696,7 +1720,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 312,
+  "reviewCount": 313,
   "summary": [],
-  "lastUpdated": "2026-10-10T10:56:27.894Z"
+  "lastUpdated": "2026-10-13T12:27:01.885Z"
 }

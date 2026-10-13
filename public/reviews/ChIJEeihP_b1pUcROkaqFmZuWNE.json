@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Heidemarie Heek",
+      "author_url": "https://www.google.com/maps/contrib/111927793205462019111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu7HdN0HRhYt6mZ8i13d--kU5ubgvyb3b6jj78DhDIj0qyKw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die notwendige OP am Ohr wurde von Dr. Brücher mit viel Sorgfalt und auf ein kosmetisch gutes Ergebnis bedacht durchgeführt.Wärend der OP wurde mir sowohl vom Arzt als auch von der OP-Schwester die Schritte erläutert.Die Atmosphäre war entspannt sodass meine Anspannung gemindert wurde.Die wochenlangen Nachbehandlung wurde von der superfreundlichen Verbandsschwester vorbildlich durchgeführt.Gemessen an der Größe des Eingriffes bin ich vollkommen zufrieden.H.Heek",
+      "time": 1791788348,
+      "translated": false
+    },
+    {
       "author_name": "Rüdiger Schulz (Rüdi)",
       "author_url": "https://www.google.com/maps/contrib/116828203768687082374/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvoIxldrLZLavegorYl4-7Y30hJjSFFWYBwYbG1G9f9ZIA6w=s128-c0x00000000-cc-rp-mo",
@@ -761,12 +773,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 120,
+  "rating": 4.6,
+  "reviewCount": 121,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-10T10:56:38.508Z"
+  "lastUpdated": "2026-10-13T12:27:10.639Z"
 }

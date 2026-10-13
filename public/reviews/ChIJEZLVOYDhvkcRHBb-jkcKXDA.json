@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "A",
+      "author_url": "https://www.google.com/maps/contrib/101730821576299055640/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9jcQOOZlzJgPSfEO-vHDomgGyAV0Iubg6G6Hu2riAfc9KPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791884570,
+      "translated": false
+    },
+    {
       "author_name": "Boukhair Joumana",
       "author_url": "https://www.google.com/maps/contrib/109706578219090167117/reviews",
       "language": "de",
@@ -928,11 +938,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-10T10:56:40.513Z"
+  "lastUpdated": "2026-10-13T12:27:12.230Z"
 }

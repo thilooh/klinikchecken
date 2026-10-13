@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Євген",
+      "author_url": "https://www.google.com/maps/contrib/112768494939470337405/reviews",
+      "language": "de",
+      "original_language": "uk",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcBfVMFAXBV7xSak5AduhxNs40Hj19b-hyYweuHN-_eH5pcic=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Klinik, professionelle Ärzte 👍",
+      "time": 1791841705,
+      "translated": true
+    },
+    {
+      "author_name": "Isabell Hahne-Etterer",
+      "author_url": "https://www.google.com/maps/contrib/109198656952350635342/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1eCK0uwQ4DvqBp3rWI04r9Kpgl8e6iCW2okWM7nCUyGRUkg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit längerem im Venenzentrum in Behandlung und sehr zufrieden. Ich fühle mich gut beraten und empathisch behandelt. Vielen Dank dafür!",
+      "time": 1791694148,
+      "translated": false
+    },
+    {
       "author_name": "Mel",
       "author_url": "https://www.google.com/maps/contrib/103977578423308843724/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1s3rDibZEERgE66i2tzE_Q5NT8WyQpBoz42rHruRiRC26aT8=s128-c0x00000000-cc-rp-mo",
@@ -860,7 +884,7 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 78,
+  "reviewCount": 80,
   "summary": [],
-  "lastUpdated": "2026-10-10T10:56:31.318Z"
+  "lastUpdated": "2026-10-13T12:27:04.928Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Simone Vaupel",
+      "author_url": "https://www.google.com/maps/contrib/100992726877689350922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCch6jmBlAEFlmevNQKBgHLRmXhnpESJsxcw1DYgztDeO7ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine top Klinik mit tollem fachkundigem Personal. Sehr zu empfehlen. Ich komme wieder😉",
+      "time": 1791726514,
+      "translated": false
+    },
+    {
       "author_name": "Nadja Schmitzer",
       "author_url": "https://www.google.com/maps/contrib/100573167549455814517/reviews",
       "language": "de",
@@ -1346,11 +1358,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 190,
+  "reviewCount": 191,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-10T10:57:06.574Z"
+  "lastUpdated": "2026-10-13T12:27:34.742Z"
 }

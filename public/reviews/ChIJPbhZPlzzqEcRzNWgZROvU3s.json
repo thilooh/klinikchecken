@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin Seewald",
+      "author_url": "https://www.google.com/maps/contrib/109992221131560625532/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKFC8tV2tdAXQIiu5PF7RHUtH-6lY4vFW6403jVh9Q4gKE2XE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte mich recht herzlich bedanken.In der Praxis fühlt man sich sehr gut aufgehoben.Alle Mitarbeiterinnen sind super freundlich und zuvorkommend.Frau Dr.Last ist eine Top Ärztin.Sie erklärt alles sehr verständlich und ausführlich.Meine Empfehlung ist bei 100%.Gerne wieder.",
+      "time": 1791886223,
+      "translated": false
+    },
+    {
       "author_name": "Manuela S.",
       "author_url": "https://www.google.com/maps/contrib/117375316175465920476/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDMtd2Z6i3Hx_UDSql_WmHOqjHmKNaR3I13A_Qi3IcB8lRAJw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann diese Praxis uneingeschränkt weiterempfehlen. Das gesamte Team war von Anfang an sehr nett und freundlich.\nIm Beratungsgespräch, für eine Oberlidstraffung, hat sich Fr. Dr. Last viel Zeit für mich genommen. Da ich lange mit mir gehadert habe, war ich besonders dankbar, dass ich auch danach weiterhin  noch telefonisch beraten wurde. Ich wurde zu nichts gedrängt und konnte mir in Ruhe meine Entscheidung überlegen.\nMit dem Ergebnis bin ich sehr zufrieden.  Ich hatte  kaum blaue Flecken und schon nach ein paar Tagen hat man nichts mehr gesehen. Ich bin froh, dass ich mich für den Eingriff und für diese Praxis entschieden habe. Vielen Dank an das ganze Team!",
+      "time": 1791100841,
+      "translated": false
+    },
+    {
+      "author_name": "Manuela S.",
+      "author_url": "https://www.google.com/maps/contrib/117375316175465920476/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDMtd2Z6i3Hx_UDSql_WmHOqjHmKNaR3I13A_Qi3IcB8lRAJw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann diese Praxis uneingeschränkt weiterempfehlen. Das gesamte Team war von Anfang an sehr nett und freundlich.\nIm Beratungsgespräch, für eine Oberlidstraffung, hat sich Fr. Dr. Last viel Zeit für mich genommen. Da ich lange mit mir gehadert habe, war ich besonders dankbar, dass ich auch danach weiterhin  noch telefonisch beraten wurde. Ich wurde zu nichts gedrängt und konnte mir in Ruhe meine Entscheidung überlegen.\nMit dem Ergebnis bin ich sehr zufrieden.  Ich hatte  kaum blaue Flecken und schon nach ein paar Tagen hat man nichts mehr gesehen. Ich bin froh, dass ich mich für den Eingriff und für diese Praxis entschieden habe. Vielen Dank an das ganze Team!",
       "time": 1791100841,
       "translated": false
@@ -1320,11 +1344,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 142,
+  "reviewCount": 143,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:53.114Z"
+  "lastUpdated": "2026-10-13T12:27:23.143Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Dieter Kuri",
+      "author_url": "https://www.google.com/maps/contrib/117945629065849554450/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzpL9WLCmt60wABqC_6jBheGe_6XRyDCRY__LilOoiR1iQBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791664306,
+      "translated": false
+    },
+    {
       "author_name": "V W",
       "author_url": "https://www.google.com/maps/contrib/105900448347608942760/reviews",
       "language": "de",
@@ -272,6 +282,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvM9z-g6y5oDRLC0wgy2_NvTpZ0cpRhFtl0tkegAV1oiRPz40u=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Ich bin enttäuscht von dem, was in der Klinik passiert ist. Mein Besuch dort gab mir die letzte Hoffnung, dermatologische Hilfe zu erhalten (ich leide seit Wochen an einer schweren Hautallergie, die ich nicht in den Griff bekomme), aber ich wurde abgewiesen, weil ich kein Notfall sei und nun erst am 1. August einen Termin bekommen soll. Es fehlt jegliches Verständnis für die Patienten. Ich bin nicht hierhergekommen, weil ich nichts Besseres zu tun habe; ich brauchte dringend Hilfe. Ich bin sehr enttäuscht.",
+      "time": 1783922751,
+      "translated": false
+    },
+    {
+      "author_name": "Barbara Podasca",
+      "author_url": "https://www.google.com/maps/contrib/108636811304958333834/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvM9z-g6y5oDRLC0wgy2_NvTpZ0cpRhFtl0tkegAV1oiRPz40u=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Ich bin enttäuscht von dem, was in der Klinik passiert ist. Mein Besuch dort gab mir die letzte Hoffnung, dermatologische Hilfe zu erhalten (ich leide seit Wochen an einer schweren Hautallergie, die ich nicht in den Griff bekomme), aber ich wurde abgewiesen, weil ich kein Notfall sei und nun erst am 1. August einen Termin bekommen soll. Es fehlt jegliches Verständnis für die Patienten. Ich bin nicht hierhergekommen, weil ich nichts Besseres zu tun habe; ich brauchte dringend Hilfe. Ich bin sehr enttäuscht.",
       "time": 1783922751,
       "translated": false
@@ -674,11 +696,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 176,
+  "reviewCount": 177,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-10T10:56:48.174Z"
+  "lastUpdated": "2026-10-13T12:27:18.809Z"
 }

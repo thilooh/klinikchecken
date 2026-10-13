@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Soso Fabro",
+      "author_url": "https://www.google.com/maps/contrib/114114580211080925125/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOieNkWyW-unfR8shmWPGbkXBASG4uHF7ESDojBeQcanE3LxjNoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fachlich TOP! Ich komme extra aus Berlin angereist für die hervorragende Behandlung! Ich habe hier das Gefühl Ernst genommen zu werden! Und dafür nehme ich den langen Weg in Kauf!",
+      "time": 1791801363,
+      "translated": false
+    },
+    {
       "author_name": "Azad Amude",
       "author_url": "https://www.google.com/maps/contrib/102521843445200751194/reviews",
       "language": "de",
@@ -1346,11 +1358,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 177,
+  "reviewCount": 178,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-10T10:56:42.821Z"
+  "lastUpdated": "2026-10-13T12:27:14.172Z"
 }
