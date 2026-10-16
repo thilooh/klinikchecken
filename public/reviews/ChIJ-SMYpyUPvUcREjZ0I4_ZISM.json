@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Schick",
+      "author_url": "https://www.google.com/maps/contrib/118116164212109262659/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_5TQ7sEj2p7K4_igDrvxfFxS2n0UfXHtuqlkOMpdWqz00Iz8s=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank für die SUPER Venenbehandlung. Ich kann nur jedem empfehlen nicht so lange zu warten, und sich kurzfristig von Dr. Hölper behandeln zu lassen. Ich kann das Venenzentrum uneingeschränkt nur weiterempfehlen!!!",
+      "time": 1791956755,
+      "translated": false
+    },
+    {
       "author_name": "Yasmi Leona",
       "author_url": "https://www.google.com/maps/contrib/105938544689230259872/reviews",
       "language": "de",
@@ -18,6 +30,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUcdfds34iAN_EwnqAWxWQ8rNO2oU2fZ2OOjUkkKglIjY0G0au=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791451342,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Mebrahtom",
+      "author_url": "https://www.google.com/maps/contrib/107521029748974398102/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUcdfds34iAN_EwnqAWxWQ8rNO2oU2fZ2OOjUkkKglIjY0G0au=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791451342,
       "translated": false
@@ -43,6 +65,16 @@
       "translated": false
     },
     {
+      "author_name": "Henrieta Alamri",
+      "author_url": "https://www.google.com/maps/contrib/106319267139804331009/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2aBb1clMeN09xCElV7vemMddD1RhiqFsT0ufYa1rbDbcI_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1790855719,
+      "translated": false
+    },
+    {
       "author_name": "M. A.",
       "author_url": "https://www.google.com/maps/contrib/107618152281040384741/reviews",
       "language": "de",
@@ -62,6 +94,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEsg0z46-33qCh82ymMgYMvSIpTqFrtz5Lw_ANvYIySR94-A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr gut organisierte Praxis mit sehr guten Ärzten und Mitarbeitenden. Sehr empfehlenswert.",
+      "time": 1790783875,
+      "translated": false
+    },
+    {
+      "author_name": "M. A.",
+      "author_url": "https://www.google.com/maps/contrib/107618152281040384741/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEsg0z46-33qCh82ymMgYMvSIpTqFrtz5Lw_ANvYIySR94-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr gut organisierte Praxis mit sehr guten Ärzten und Mitarbeitenden. Sehr empfehlenswert.",
       "time": 1790783875,
       "translated": false
@@ -1282,7 +1326,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 167,
+  "reviewCount": 168,
   "summary": [],
-  "lastUpdated": "2026-10-13T12:27:00.748Z"
+  "lastUpdated": "2026-10-16T09:28:39.748Z"
 }

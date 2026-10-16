@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Даша Зиневич",
+      "author_url": "https://www.google.com/maps/contrib/104409181355291865000/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRJmdXGMu4XneqwMuEXk1u6wMXMZG7V7BufqQue9M25uj1ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte vier Monate auf meinen Termin gewartet – gebucht über Doctolib, wobei ich angegeben hatte, dass es sich um einen Erstbesuch handelt. Als ich dann dort ankam, hieß es, dass keine neuen Patienten angenommen werden. Man kann auch jetzt noch online einen Ersttermin in dieser Praxis vereinbaren, ein halbes Jahr warten und dann vor Ort erfahren, dass man nicht behandelt wird. Andere Praxen hingegen weisen sofort darauf hin, dass sie keine neuen Patienten aufnehmen.",
+      "time": 1791967092,
+      "translated": false
+    },
+    {
       "author_name": "ML Assitant",
       "author_url": "https://www.google.com/maps/contrib/100253360574365520041/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqG0RZIsxzmVKmnfEoTDU6XWOxMcIEZFW7frPfflMQzeTnuQ=s128-c0x00000000-cc-rp-mo",
@@ -1476,11 +1488,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 108,
+  "reviewCount": 109,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:12.015Z"
+  "lastUpdated": "2026-10-16T09:28:52.218Z"
 }

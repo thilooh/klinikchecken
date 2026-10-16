@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Arndt",
+      "author_url": "https://www.google.com/maps/contrib/113558614809842607923/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOuGtVIJJNG3z1W1FfBItHZ4ydxaU87QmK_fNcdfvt_01WOXqc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Also der Service war soweit gut. Ärzte und Personal waren nett und hilfreich. Trotzdem gibt es nur einen Punkt. Weil Ich Ignoranz nicht tolerieren kann. Man kann 1000x sagen , das man Gehörlos ist. Und man per SMS oder E-Mail benachrichtigt werden will. Nur weil man Ci's trägt , heißt es nicht. Das man die Zuhause immer trägt!",
+      "time": 1792137138,
+      "translated": false
+    },
+    {
       "author_name": "Birgit Grothe",
       "author_url": "https://www.google.com/maps/contrib/104463196491934274571/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Dejan Makek",
+      "author_url": "https://www.google.com/maps/contrib/100708352281615165079/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYnZ9Csr8yg5u9GIwFn2HwbN4vag_OgFjoKN5EOLwB6kWS6KM9fA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Top! MA's im Empfangsbereich sehr freundlich, Ärzte ebenfalls kompetent und freundlich. Bin absolut zufrieden!",
+      "time": 1791458822,
+      "translated": false
+    },
+    {
       "author_name": "Markus Reichmann",
       "author_url": "https://www.google.com/maps/contrib/105812944420155151896/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEL6v9FwNTXj2f1ADXocHOtfDNbYiLVlF1oTOmKPMce8TQAQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ohne Termin nur ein kurze Wartezeit. Sehr freundliches Personal. Die Behandlung professionell. Sehr zu empfehlen.",
+      "time": 1791305927,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Reichmann",
+      "author_url": "https://www.google.com/maps/contrib/105812944420155151896/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEL6v9FwNTXj2f1ADXocHOtfDNbYiLVlF1oTOmKPMce8TQAQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ohne Termin nur ein kurze Wartezeit. Sehr freundliches Personal. Die Behandlung professionell. Sehr zu empfehlen.",
       "time": 1791305927,
       "translated": false
@@ -1784,11 +1820,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 409,
+  "reviewCount": 410,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:27.530Z"
+  "lastUpdated": "2026-10-16T09:29:10.085Z"
 }

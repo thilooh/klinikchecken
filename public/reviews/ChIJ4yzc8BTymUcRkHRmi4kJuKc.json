@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Lena Rulantica",
+      "author_url": "https://www.google.com/maps/contrib/103601475709867719999/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzMqUko0XPTe631mPWdmh1MgDSEkbFR06UyV5BDVDruLmy6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man sollte sich vor starker Sonneneinstrahlung zwischen 11:00 und 15:00 Uhr sowie in den Frühlings- und Sommermonaten von April bis September (bzw. ab einem UV-Index von 3) schützen. Am besten von 6:00 bis 23:00. Hatte selber mal um 18:00 noch einen an der Schulter bekommen und es war noch kein Hochsommer.\n\nTageszeit\n\n• Hauptschutzzeit: Zwischen 11:00 und 15:00 Uhr (der Sonnenhöchststand liegt meist um 13:00 Uhr) ist die UV-Strahlung am intensivsten.\n• Empfehlung: Meiden Sie in diesem Zeitfenster die pralle Sonne oder suchen Sie gezielt Schatten auf.\n\nJahreszeit\n\n• Hauptschutzzeit: Von April bis September (in Mitteleuropa) ist die UV-Belastung stark genug, um Hautschäden und Sonnenbrand zu verursachen.\n• Besonderheit: In den Wintermonaten (Oktober bis März) ist der UV-Index in Deutschland meist niedrig (1 bis 2), weshalb in der Regel kein Sonnenschutz nötig ist – außer im Hochgebirge, im Schnee oder bei stark reflektierender Umgebung.\n• Faustregel nach Schatten: Orientieren Sie sich an der Schattenregel: Ist Ihr Schatten kürzer als Sie selbst, ist die UV-Strahlung hoch und ein Schutz dringend erforderlich.\nSorry, tut mir echt Leid, wenn das hier nicht reinpasst. DIe harmlose Info kann man ja wieder löschen. Lesen muss das niemand.Vielleicht interessiert es jemand. Ja, man sollte die Augen unbedingt vor der Sonne schützen.\nWarum ist Schutz wichtig?\n\n• Akute Schäden: Zu viel UV-Strahlung kann die Binde- und Hornhaut reizen oder schädigen (z. B. Schneeblindheit / Photokeratitis).\n• Langzeitschäden: Dauerhafte Einwirkung erhöht das Risiko für Grauen Star (Katarakt), Erkrankungen der Netzhaut und Hautkrebs an den empfindlichen Augenlidern.\n• Ab einem UV-Index von 3: Augenärzte und Fachgesellschaften wie die PRO RETINA empfehlen ab diesem Wert konsequenten Sonnenschutz\n\nSo schützen Sie Ihre Augen richtig:\n\n• Gute Sonnenbrille: Achten Sie auf die Kennzeichnung „UV400“ oder „100 % UV-Schutz“, da sie Strahlung bis 400 nm herausfiltert. Das Bundesamt für Strahlenschutz empfiehlt zudem einen ausreichenden seitlichen Schutz vor Streustrahlung\nVorsicht bei billigen Tönungen: Reine Dunkelheit der Gläser ohne UV-Filter ist gefährlich – die Pupille weitet sich durch die Tönung, und mehr schädliche Strahlen dringen ins ungeschützte Auge ein. Kopfbedeckung: Ein Hut mit breiter Krempe oder eine Schirmmütze halten einen großen Teil des direkten Sonnenlichts von oben ab.Direkten Blick meiden: Niemals direkt in die Sonne blicken (gilt besonders bei Sonnenfinsternissen oder ohne Spezialbrille)\n\nIst nur abkopiert und alles auf eigene Verantwortung. Man hat nie ausgelernt im Leben^^",
+      "time": 1792113414,
+      "translated": false
+    },
+    {
+      "author_name": "I. Renoth",
+      "author_url": "https://www.google.com/maps/contrib/100767584748564377450/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAlqdpB5hLxtBi4Q2ORfOByMN0ezW5dlJzMmpOxbke_vvYfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792067427,
+      "translated": false
+    },
+    {
       "author_name": "Dominik A",
       "author_url": "https://www.google.com/maps/contrib/110917267825057096672/reviews",
       "language": "de",
@@ -18,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJfaXLu5nrSmRfR8103GYTw9L6yHci_IF_neHMziLgl3rYft640A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791297964,
+      "translated": false
+    },
+    {
+      "author_name": "Lilli Hoerz",
+      "author_url": "https://www.google.com/maps/contrib/115098637308478042850/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJfaXLu5nrSmRfR8103GYTw9L6yHci_IF_neHMziLgl3rYft640A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791297964,
       "translated": false
@@ -1127,12 +1159,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
+  "rating": 4.6,
   "reviewCount": 93,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:38.819Z"
+  "lastUpdated": "2026-10-16T09:29:22.976Z"
 }

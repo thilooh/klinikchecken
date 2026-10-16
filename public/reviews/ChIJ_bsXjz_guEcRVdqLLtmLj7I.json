@@ -127,6 +127,16 @@
       "translated": false
     },
     {
+      "author_name": "Michael Wyschka",
+      "author_url": "https://www.google.com/maps/contrib/118166746035696564996/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPrgA3I4oKD_wcQaGRuUV-bg3OK6KOWrJjls0fMfhscdpDkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1789652940,
+      "translated": false
+    },
+    {
       "author_name": "Sascha Uszball",
       "author_url": "https://www.google.com/maps/contrib/116007892540812439011/reviews",
       "language": "de",
@@ -338,6 +348,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt5RYTmLyeVVO1KdNwluaXSeCk-p0IB_buxcSVZsTHQQr9Ab4=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Sehr gute Ärzte und sehr freundliches Personal",
+      "time": 1786790999,
+      "translated": false
+    },
+    {
+      "author_name": "Elias",
+      "author_url": "https://www.google.com/maps/contrib/114958677131839423863/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt5RYTmLyeVVO1KdNwluaXSeCk-p0IB_buxcSVZsTHQQr9Ab4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Sehr gute Ärzte und sehr freundliches Personal",
       "time": 1786790999,
       "translated": false
@@ -1458,5 +1480,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:14.394Z"
+  "lastUpdated": "2026-10-16T09:28:54.919Z"
 }

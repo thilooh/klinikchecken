@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Franziska K",
+      "author_url": "https://www.google.com/maps/contrib/113856332115971296815/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxa2KOOTljkvulh9PNOjqQH5sejxegZS49RvhpKdOqZT1Kig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Klare Empfehlung für jeden☺️.\nQualität, Kompetenz, vertrauensvolle Betreuung und Freundlichkeit werden hier GANZ GROSS geschrieben! Ich komme immer gerne und freue mich auf weitere Termine in der Praxis.\n\nIch lasse regelmäßig von Frau Dr. Last meine Falten behandeln. Sie ist immer professionell, ehrlich und sehr freundlich. Behandlungen sind immer hygienisch und werden bei jedem Termin erklärt, was mir persönlich Sicherheit schenkt.\n\nMan fühlt sich sehr gut aufgehoben. Die Atmosphäre in der Praxis ist angenehm und entspannt. Die Lage hervorragend.\nDas Team ist sehr freundlich und zuvorkommend. ⭐️⭐️⭐️⭐️⭐️\n\nViele Grüße 😊 und bleibt so 💓",
+      "time": 1792134638,
+      "translated": false
+    },
+    {
+      "author_name": "Sebastian Brill",
+      "author_url": "https://www.google.com/maps/contrib/117194251480856396931/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLV3Vqhb9sQA8or-z9dyTThblu8z8958Aultb8HQimvpVmbWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791977283,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin Seewald",
       "author_url": "https://www.google.com/maps/contrib/109992221131560625532/reviews",
       "language": "de",
@@ -80,6 +102,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5tRnjnpavgYmnImiXOv7XX0a4ebBiVZMwhESPNOGaj1X-pw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war zuerst zur Vorberatung und die Kompetenz von Dr. Jasmin Last hat mich überzeugt. Die Oberlidstraffung verlief sehr gut und jetzt 4 Monate später bin ich immer noch sehr zufrieden. Auch das Praxisteam ist echt toll. Es gab mehrere Anrufe, mit Nachfragen wie es mir geht.",
+      "time": 1789632901,
+      "translated": false
+    },
+    {
+      "author_name": "Elke Baum",
+      "author_url": "https://www.google.com/maps/contrib/116039690165356081612/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5tRnjnpavgYmnImiXOv7XX0a4ebBiVZMwhESPNOGaj1X-pw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich war zuerst zur Vorberatung und die Kompetenz von Dr. Jasmin Last hat mich überzeugt. Die Oberlidstraffung verlief sehr gut und jetzt 4 Monate später bin ich immer noch sehr zufrieden. Auch das Praxisteam ist echt toll. Es gab mehrere Anrufe, mit Nachfragen wie es mir geht.",
       "time": 1789632901,
       "translated": false
@@ -1344,11 +1378,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 143,
+  "reviewCount": 145,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:23.143Z"
+  "lastUpdated": "2026-10-16T09:29:05.085Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Malte Vogel",
+      "author_url": "https://www.google.com/maps/contrib/103668844779194153042/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgRVqKNZE8VJsuqcNvFHK-UkRi90xb_-pM97k3Z4dHs48qZMoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nette Bedienung faire Preise",
+      "time": 1792065763,
+      "translated": false
+    },
+    {
       "author_name": "Yvonne Sauermann",
       "author_url": "https://www.google.com/maps/contrib/102552666600664506591/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIscOK6McjKGbZFZZv73LiCzyT99fsW1UfOqJEp8xT6tPz9Hw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Große Empfehlung für das gesamte Praxisteam und besonders Dr. Schlupkothen. Kurze Wartezeiten und eine sehr sympathische Ärztin, die sich Zeit für ihre Patienten nimmt.",
+      "time": 1789411954,
+      "translated": false
+    },
+    {
+      "author_name": "Yvonne Sauermann",
+      "author_url": "https://www.google.com/maps/contrib/102552666600664506591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIscOK6McjKGbZFZZv73LiCzyT99fsW1UfOqJEp8xT6tPz9Hw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Große Empfehlung für das gesamte Praxisteam und besonders Dr. Schlupkothen. Kurze Wartezeiten und eine sehr sympathische Ärztin, die sich Zeit für ihre Patienten nimmt.",
       "time": 1789411954,
       "translated": false
@@ -1334,11 +1358,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 129,
+  "reviewCount": 130,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-13T12:27:15.504Z"
+  "lastUpdated": "2026-10-16T09:28:56.160Z"
 }

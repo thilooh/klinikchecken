@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Miri Kue",
+      "author_url": "https://www.google.com/maps/contrib/114401582085061746188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2cEEWcO96lBjFk7cxFCveg0p-2ESy64K1MBG1WGzSoqoBng=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für  mehrere Mini-Ops da gewesen. Kaum Wartezeit. Eine sehr empathische Ärztin erlebt, die mit viel Feingefühl vorgegangen ist. Bei einer weiteren Ärztin habe ich absolut nicht gut aufgehoben gefühlt. Diese ist leider sehr ruppig vorgegangen. Daher vergebe ich insgesamt nur 3 Sterne und keine 5 (die hätte die erst genannte Ärztin und auch das Empfangspersonal verdient).",
+      "time": 1792141028,
+      "translated": false
+    },
+    {
+      "author_name": "M.",
+      "author_url": "https://www.google.com/maps/contrib/117665377494550020832/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEmyekI1ZegfoqbHWbZdslLyuEWe09T2WGl8-XNk_zaDaoCBfJ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider verlief mein Termin nicht so, wie ich es erwartet hatte. Obwohl ich für 17:15 Uhr eingeplant war und mich wegen einer arbeitsbedingten Verspätung von ungefähr fünf Minuten bereits ab 16:55 Uhr wiederholt über beide angegebenen Telefonnummern melden wollte, konnte ich die Praxis telefonisch nicht erreichen.\n\nBei meiner Ankunft war außerdem nicht eindeutig, an welchem Empfang ich mich anmelden sollte. Erst gegen 17:30 Uhr konnte ich die Anmeldung abschließen. Dort wurde mir gesagt, dass ich trotz der Verzögerung noch behandelt werde, allerdings mit zusätzlicher Wartezeit.\n\nDer gesamte Ablauf wirkte auf mich daher wenig organisiert. Eine bessere telefonische Erreichbarkeit sowie eine deutlichere Kennzeichnung des zuständigen Empfangs hätten die Situation erheblich erleichtert. Insgesamt war ich mit diesem Termin leider nicht zufrieden.",
+      "time": 1791957524,
+      "translated": false
+    },
+    {
       "author_name": "Krabi",
       "author_url": "https://www.google.com/maps/contrib/108308246858544100301/reviews",
       "language": "de",
@@ -1719,8 +1743,8 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 313,
+  "rating": 4.7,
+  "reviewCount": 310,
   "summary": [],
-  "lastUpdated": "2026-10-13T12:27:01.885Z"
+  "lastUpdated": "2026-10-16T09:28:40.983Z"
 }

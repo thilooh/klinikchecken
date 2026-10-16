@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Nick Neu",
+      "author_url": "https://www.google.com/maps/contrib/115321401414877118250/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGuUDUOTpPuVJZQklbTmrMHg3q6V3CmmYXCY6Fk9Cch35JxA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wartezeiten sind unmöglich. Termineinhaltung Fehlanzeige, egal ob Kassenpatient oder Privatpatient. Respektlos so mit der Zeit von Patienten umzugehen. Die Empfangsmitarbeitenden waren höflich, eine Begrüßung der Ärztin selbst Fehlanzeige. Eingriffe die in der Vergangenheit vorgenommen wurden sind absolut unästhetisch verheilt und haben zu auffälligen Narben geführt.",
+      "time": 1792064586,
+      "translated": false
+    },
+    {
+      "author_name": "Haris Dzaferagic",
+      "author_url": "https://www.google.com/maps/contrib/104340754951637655541/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFOfMfNi6Z5Q5BzMskJMzx5oAtlE4s15ZqYWlY8lwTBU7A1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gestern Morgen wurde ich bei der Anmeldung gebeten im Wartezimmer Platz zu nehmen. Zuvor hörte ich, wie eine Mitarbeiterin vor anderen anwesenden Personen ihre Kolleginnen laut aufforderte, keine weiteren Patienten in den hinteren Bereich zu lassen.\n\nNach etwa 1,5 std Wartezeit fragte ich nach, wann ich an die Reihe kommen würde, da ich beobachtet hatte, dass mehrere Patienten, die nach mir gekommen waren, bereits aufgerufen worden waren. Daraufhin wurde mir mitgeteilt, dass ich offenbar aus dem System gefallen sei.\n\nEine Entschuldigung erhielt ich nicht von der Empfangsdame sondern erst von der Ärztin. Ich empfand den Umgang mit der Situation als unprofessionell und war mit der Organisation und Kommunikation sehr unzufrieden.\n\nIch wurde heute 15.10.2026 um 10:58 Uhr von einer Mitarbeiterin der Arztpraxis angerufen und man teilte mir mit, dass ich die schlechte Rezession löschen soll oder man würde mich anzeigen.",
+      "time": 1792056497,
+      "translated": false
+    },
+    {
+      "author_name": "Deborah Comandatore",
+      "author_url": "https://www.google.com/maps/contrib/103268200746655852325/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItU9fwiJPiNYSqRsr6hQMcuIay8iArUsYgXOErMrXiXX0XLQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Diese Bewertung richtet sich ausschließlich an Frau Mavric!\n\nIch habe beim Blutabnehmen normalerweise immer große Schwierigkeiten, da meine Venen sehr schwer zu finden sind. Frau Mavric hat das jedoch sofort und völlig problemlos geschafft – ohne langes Suchen, ohne Zögern, einfach schnell, sicher und absolut professionell! So unkompliziert habe ich eine Blutabnahme selten erlebt. Wirklich großartig! Ein riesiges Lob und herzliches Dankeschön an Frau Mavric!",
+      "time": 1791973755,
+      "translated": false
+    },
+    {
       "author_name": "Joho Hoho",
       "author_url": "https://www.google.com/maps/contrib/102502999774113061957/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkdeDFWWH3VRm7KyZbOZqtrVAZa_PBd7Qth_wnmu_6nHlI_cBHcg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut eingerichtet, moderne Technik. Trotz viel Betrieb eine gute Praxisorganisation, übersichtliche Wartezeiten. Viele Infos und auch Formulare digital, geht schnell und einfach. Freundliche Begleitung von der Anmeldung, beim Arzt/Ärztin bis zum Labor. Dank an Frau Mavric",
+      "time": 1791464213,
+      "translated": false
+    },
+    {
+      "author_name": "Horst Weyand",
+      "author_url": "https://www.google.com/maps/contrib/105598653681860386613/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkdeDFWWH3VRm7KyZbOZqtrVAZa_PBd7Qth_wnmu_6nHlI_cBHcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr gut eingerichtet, moderne Technik. Trotz viel Betrieb eine gute Praxisorganisation, übersichtliche Wartezeiten. Viele Infos und auch Formulare digital, geht schnell und einfach. Freundliche Begleitung von der Anmeldung, beim Arzt/Ärztin bis zum Labor. Dank an Frau Mavric",
       "time": 1791464213,
       "translated": false
@@ -1794,11 +1842,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 352,
+  "reviewCount": 354,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:24.038Z"
+  "lastUpdated": "2026-10-16T09:29:06.060Z"
 }

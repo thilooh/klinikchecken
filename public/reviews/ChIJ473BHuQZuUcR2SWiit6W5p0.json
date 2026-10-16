@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Karl-Heinz D",
+      "author_url": "https://www.google.com/maps/contrib/113614781389549333405/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo_8oEX53lZlUlZqa_QSf6pXzvEgkaj3-DwPYu9_kNIYgQ0g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr freundlich und kompetent",
+      "time": 1791396406,
+      "translated": false
+    },
+    {
       "author_name": "Lukas P.",
       "author_url": "https://www.google.com/maps/contrib/104429895992589429175/reviews",
       "language": "de",
@@ -84,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJx29TT5CoHLAZYL38DhvpJeOT04D2UWkPCVYWZ4HptD9nNA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1789500541,
+      "translated": false
+    },
+    {
+      "author_name": "Mehmet Tekin",
+      "author_url": "https://www.google.com/maps/contrib/112875373968906960527/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJx29TT5CoHLAZYL38DhvpJeOT04D2UWkPCVYWZ4HptD9nNA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1789500541,
       "translated": false
@@ -1094,5 +1116,5 @@
   "rating": 3.6,
   "reviewCount": 130,
   "summary": [],
-  "lastUpdated": "2026-10-13T12:27:01.654Z"
+  "lastUpdated": "2026-10-16T09:28:40.737Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel Veits",
+      "author_url": "https://www.google.com/maps/contrib/108878187768742782641/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8AnlnD38HPJd71s61o18hlwvOwhrEbEe4ZCeCEFu-xCMx1XM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Ärzte",
+      "time": 1792004341,
+      "translated": false
+    },
+    {
       "author_name": "Michael Mitterer",
       "author_url": "https://www.google.com/maps/contrib/101839518409612378179/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJ-DJcvyGe9qs3Q0Fi1aQmIuOopKNIxsUqDJzLv8lpfAeyXtSX=s128-c0x00000000-cc-rp-mo",
@@ -33,6 +45,18 @@
       "translated": false
     },
     {
+      "author_name": "Sabrina Gümbel",
+      "author_url": "https://www.google.com/maps/contrib/103182016105015112859/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCBc9lfqIvKPQgI14LGgI2YWlvXHjM63wtJxJ-NIF5_AGZzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Win super Team, total nettes hilfsbereite Pflegepersonal und Arzt und Oberärztin waren super. Sie nehmen sich Zeit für ihre Patienten und fertigen einen nicht einfach ab wie eine Nummer!!! Sehr zu empfehlen diese Klinik!",
+      "time": 1791533023,
+      "translated": false
+    },
+    {
       "author_name": "RazZ0r07",
       "author_url": "https://www.google.com/maps/contrib/106168057439044109577/reviews",
       "language": "de",
@@ -40,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtJJYHJBj-rdGVZzGz28RY6p-1tVXRQSbSYKoVYDzXX75PPA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühlte mich von Anfang an von Herrn Meinhold und seinem Team sehr wohl und rundum sehr gut bereut. Es wird viel getan, damit den Patienten der Aufenthalt so angenehm wie möglich gemacht wird.\n\nAuch die Krankenschwestern waren alle sehr nett, zuvorkommend und hilfsbereit. Jedoch würde ich mich als Patient wünschen, dass die Krankenschwestern auch über ihre Patienten Bescheid wissen, warum sie denn hier liegen.\n\nIch wurde somit mehrmals gefragt, was eigentlich bei mir gemacht wurde, ob ich schon meine Thrombose-Spritze erhalten haben, ob ich schon entlassen wurde etc.\n\nHier könnte man noch deutlich an der internen Kommunikation arbeiten.\n\nAnsonsten war ich sehr zufrieden!",
+      "time": 1791296030,
+      "translated": false
+    },
+    {
+      "author_name": "RazZ0r07",
+      "author_url": "https://www.google.com/maps/contrib/106168057439044109577/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtJJYHJBj-rdGVZzGz28RY6p-1tVXRQSbSYKoVYDzXX75PPA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich fühlte mich von Anfang an von Herrn Meinhold und seinem Team sehr wohl und rundum sehr gut bereut. Es wird viel getan, damit den Patienten der Aufenthalt so angenehm wie möglich gemacht wird.\n\nAuch die Krankenschwestern waren alle sehr nett, zuvorkommend und hilfsbereit. Jedoch würde ich mich als Patient wünschen, dass die Krankenschwestern auch über ihre Patienten Bescheid wissen, warum sie denn hier liegen.\n\nIch wurde somit mehrmals gefragt, was eigentlich bei mir gemacht wurde, ob ich schon meine Thrombose-Spritze erhalten haben, ob ich schon entlassen wurde etc.\n\nHier könnte man noch deutlich an der internen Kommunikation arbeiten.\n\nAnsonsten war ich sehr zufrieden!",
       "time": 1791296030,
       "translated": false
@@ -1710,11 +1746,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 446,
+  "reviewCount": 447,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-13T12:27:15.771Z"
+  "lastUpdated": "2026-10-16T09:28:56.407Z"
 }

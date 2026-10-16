@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anke Dörper",
+      "author_url": "https://www.google.com/maps/contrib/103745072581240707057/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJq8dgTQIB0BskIEOeFN0NFpdACVDDqwYkqyMe5420tIZNnJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch möchte an dieser Stelle ganz bewusst eine positive Erfahrung teilen, denn auch die verdient es, gehört zu werden!\n\nBereits bei meinem ersten Termin fühlte ich mich bei Dr. Linz sehr gut aufgehoben. Mit seiner ruhigen, kompetenten Art konnte er mir meine anfängliche Angst vor einer Thrombose weitgehend nehmen und hat sich Zeit genommen, mir alles verständlich zu erklären.\n\nBesonders hervorheben möchte ich aber auch Frau Dr. Gassen und das gesamte OP-Team. Ich bin mit einer gewissen Nervosität zu meinem Eingriff gekommen und wurde von Anfang an so freundlich, herzlich und beruhigend empfangen, dass ich mich schnell entspannen konnte. Die angenehme Atmosphäre, der freundliche Umgang miteinander und die spürbare Fürsorge haben mir unglaublich gutgetan.\n\nHier trifft medizinische Kompetenz auf echte Menschlichkeit und Warmherzigkeit. Man fühlt sich nicht einfach nur behandelt, sondern als Mensch wahrgenommen und ernst genommen.\n\nEin großes Dankeschön an das gesamte Team! Ich kann diese Praxis aus voller Überzeugung weiterempfehlen.",
+      "time": 1792064921,
+      "translated": false
+    },
+    {
       "author_name": "Manuela Thiel-Preuß",
       "author_url": "https://www.google.com/maps/contrib/110261237281530772342/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsMD9DzX5PtAkz95aemEwHRXBZMS9F7N2CjiZq3_yVdR6EDw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr freundlicher Empfang.\nÄrztin hat sich Zeit genommen .\nIch fühle mich dort verstanden und gut aufgehoben.",
+      "time": 1790092419,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrich Krüger",
+      "author_url": "https://www.google.com/maps/contrib/111393165903216988247/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsMD9DzX5PtAkz95aemEwHRXBZMS9F7N2CjiZq3_yVdR6EDw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr freundlicher Empfang.\nÄrztin hat sich Zeit genommen .\nIch fühle mich dort verstanden und gut aufgehoben.",
       "time": 1790092419,
       "translated": false
@@ -1386,11 +1410,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 240,
+  "reviewCount": 241,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-13T12:27:32.282Z"
+  "lastUpdated": "2026-10-16T09:29:15.457Z"
 }

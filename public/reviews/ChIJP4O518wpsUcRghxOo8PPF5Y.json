@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Petra Dein Ernährungscoach",
+      "author_url": "https://www.google.com/maps/contrib/107059126743287776114/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtZTXKG5OluHBcn9rjKOBGCF22GVKgfxWvgtwCXnkZOZLy-Blu=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kam als Selbstzahlerin in die Praxis, weil ich in Praxen mit Kassenleistung keine Termine bekam. Das ist ein Jahr her und ich muß sagen: Das war eine sehr gute Entscheidung. Das ganze Team ist sehr freundlich. Die Atmosphäre in der Praxis ist stressfrei, was den Druck der Angst herausnimmt.\n\nDr. Kaune beriet mich sehr gut über verschiedene Möglichkeiten. Das kleine Lasern war dann echt harmlos.\nNun kann ich auch sagen, die Gefäßchirurgie ist genauso gut.\nFrau Dr. Heßemer ist eine sehr sympathische Ärztin. Ihre positive Ausstrahlung nahm mir die Unruhe und ich fühlte mich sofort ernst genommen. Das war in der Vergangenheit bei anderen Ärzten nicht der Fall.\n\nVielen Dank für alles.",
+      "time": 1791912046,
+      "translated": false
+    },
+    {
       "author_name": "Mohsen Zaddam",
       "author_url": "https://www.google.com/maps/contrib/104083604858539053553/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJCg6sWFYLKlLY78RHwefjMV_fAk5FC7HxP64JXc9DjEVRiQ=s128-c0x00000000-cc-rp-mo-ba2",
@@ -108,6 +120,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ5xAxGLH5UANr63L7dH3OqMVprkJPltPs67ESc98oYiCV6jrHCg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Der Mitarbeiter am Telefon sagte, ich müsse aus eigener Tasche bezahlen. Sie arbeiten nicht mit der Krankenversicherung zusammen.",
+      "time": 1790160680,
+      "translated": false
+    },
+    {
+      "author_name": "Denis Kadirov",
+      "author_url": "https://www.google.com/maps/contrib/101949214065658612468/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ5xAxGLH5UANr63L7dH3OqMVprkJPltPs67ESc98oYiCV6jrHCg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Der Mitarbeiter am Telefon sagte, ich müsse aus eigener Tasche bezahlen. Sie arbeiten nicht mit der Krankenversicherung zusammen.",
       "time": 1790160680,
       "translated": false
@@ -1078,11 +1102,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 201,
+  "reviewCount": 202,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:08.235Z"
+  "lastUpdated": "2026-10-16T09:28:48.039Z"
 }

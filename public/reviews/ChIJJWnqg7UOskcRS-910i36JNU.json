@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Wolfgang Gerdes",
+      "author_url": "https://www.google.com/maps/contrib/108136337696001784076/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWj6rbiJ-c5vpN4SdHFEj09kze1ZuzC4NgCtCbDMsPIFnY0A=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe mich sofort sehr wohl gefühlt .helle schöne Räume,freundliche Mitarbeiterinnen ,angenehme Atmosphäre , alles blitzsauber",
+      "time": 1792093227,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah Schellbach",
+      "author_url": "https://www.google.com/maps/contrib/108937705749448551164/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISVLEtQPAQAuwxmjmJH2EVmK5N-sRRgrMj9pWpoCWZTJO3gA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super liebe Ärzte, keine lange Wartezeit. Ich habe mich sehr gut aufgehoben gefühlt.",
+      "time": 1792067711,
+      "translated": false
+    },
+    {
+      "author_name": "Uschi Elsinger",
+      "author_url": "https://www.google.com/maps/contrib/110608234605536949990/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7WovmTxdOBXDBDKgPy6gOgy0s30ZtjXC8naB8fUYLmKnR-yiq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Äußerst angenehmes Klima und professionelle Organisation. Ich habe betr. Hautkrebsverdacht unverzüglich einen Termin erhalten.\nAuch das Angebot „Kosmetik“ möchte ich nicht unerwähnt lassen. Eine sehr kompetente Beratung sowie  sorgfältige und angenehme Behandlung. Vielen Dank an Prof. Dr. Krengel und Frau Hartung.",
+      "time": 1791922887,
+      "translated": false
+    },
+    {
+      "author_name": "Nora Geissler",
+      "author_url": "https://www.google.com/maps/contrib/101290008965313282770/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlBBBUUKThx4fdvwVSujP50uLTRaIAesfj25F0IUGX-eNjU7n6eQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791917699,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Brühl",
+      "author_url": "https://www.google.com/maps/contrib/107928021063507250940/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQiwVPPBi6-5MY3GaaREnttRG36KeYGtYD3o3k89lNkLgHjME=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Da habe ich mehrfach Glück gehabt. Kurzftistig einen Termin bekommen (wird wohl jemand abgesagt haben), super nette und äußerst kompetente Vorsorgeuntersuchung. Sehr zu empfehlen.",
+      "time": 1791905729,
+      "translated": false
+    },
+    {
       "author_name": "Ariane Steinberg",
       "author_url": "https://www.google.com/maps/contrib/105039074890808162689/reviews",
       "language": "de",
@@ -2328,11 +2386,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2443,
+  "reviewCount": 2447,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-13T12:27:11.069Z"
+  "lastUpdated": "2026-10-16T09:28:51.231Z"
 }

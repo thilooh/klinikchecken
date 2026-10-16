@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mirja Möcklinghoff",
+      "author_url": "https://www.google.com/maps/contrib/100622694547936246995/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMr3k2wRo8ypuGBDmitk7kTur4SEaegKQiugsvbZoLU2IJdZs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Selten einen so gleichermaßen kompetenten wie freundlichen Arzt erlebt.",
+      "time": 1792082195,
+      "translated": false
+    },
+    {
       "author_name": "F. Rolfes",
       "author_url": "https://www.google.com/maps/contrib/107535471595129598679/reviews",
       "language": "de",
@@ -40,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgX_CJU260DqCazV3iRRPMl6uZMUfLfGCBN5egnwRUymArtCI0=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790871234,
+      "translated": false
+    },
+    {
+      "author_name": "Florian Diern (90degreeees)",
+      "author_url": "https://www.google.com/maps/contrib/110150307998269706729/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgX_CJU260DqCazV3iRRPMl6uZMUfLfGCBN5egnwRUymArtCI0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1790871234,
       "translated": false
@@ -632,11 +654,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 92,
+  "reviewCount": 93,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:12.879Z"
+  "lastUpdated": "2026-10-16T09:28:53.198Z"
 }

@@ -97,6 +97,18 @@
       "translated": false
     },
     {
+      "author_name": "Andreas Panterodt",
+      "author_url": "https://www.google.com/maps/contrib/114591856560425034795/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdTUaznoQubRymrQlTs2gSxP0QrRG5Et22A4W6oSThq7cY_Tf0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich kann diese Praxis in jedem Fall empfehlen. Von der guten und offenen Umgangsweise und der fortlaufenden medizinischen Beratung und Begleitung. Einfach nur gut.",
+      "time": 1789491164,
+      "translated": false
+    },
+    {
       "author_name": "Nathalie Truschel",
       "author_url": "https://www.google.com/maps/contrib/117985401349087480812/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAoeWIwlQXw8f2j8UfW4SJw7l-Kqb9x88H0m3rUvgCkeB1Dixb=s128-c0x00000000-cc-rp-mo",
@@ -986,5 +998,5 @@
   "rating": 4.4,
   "reviewCount": 79,
   "summary": [],
-  "lastUpdated": "2026-10-13T12:27:04.324Z"
+  "lastUpdated": "2026-10-16T09:28:43.641Z"
 }

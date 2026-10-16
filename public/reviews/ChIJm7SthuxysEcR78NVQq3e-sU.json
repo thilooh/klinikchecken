@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Maria Sass",
+      "author_url": "https://www.google.com/maps/contrib/100122136901757225558/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkl545Ix9E_O64nApk_4cVLUjPrUNVt1VA-j_rCl3K_wqvfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792088240,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Barth",
+      "author_url": "https://www.google.com/maps/contrib/108306705544495650478/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJIcksLEKyypEWEZvFiMM1VgH1zTQNpww--U6apxc32ymL2Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Lange Wartezeiten",
+      "time": 1792086507,
+      "translated": false
+    },
+    {
+      "author_name": "Henner Hoeschen",
+      "author_url": "https://www.google.com/maps/contrib/105951329618345851801/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiAhf7EbCgqWe8o4poByJLwhu4vd3fFmswl0LIeKvWx7rMMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "sehr unfreundliches Personal , schon an der Repzeption gibt es kein Guten Tag / Aufwiedersehen. Völlig überfordert, da Massenabfertigung. Es wird sich keine Zeit für den Patienten genommen. Termine werden nicht rechtzeitig abgesagt, auch werden keine Termine zusammengelegt, wenn man 2 in Folge wegen unterschiedlichen Sachen hat , wie zb. Hautkontolle und ein andres Problem. da muss man 2 Termine war nehmen , die max. 5 min.dauernd. auch der Hinweis , dass man von weiter weg kommt, wir nur schnippich beantwortet , dann suchen sie sich doch einen anderen Arzt. nicht empfehlenswert diese Praxis",
+      "time": 1791970157,
+      "translated": false
+    },
+    {
+      "author_name": "Ales sandra",
+      "author_url": "https://www.google.com/maps/contrib/106574246233507286632/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDxrVpH2XNESa79QOgEU5iMqDXXgf5uhX4o2_gq-wqYWqo9-TI=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Enttäuschende Terminorganisation:\nIch benötigte lediglich ein Folgerezept und mir wurde mitgeteilt, dass ich dafür einen Termin vereinbaren müsse, was online möglich sei. Zunächst waren jedoch keinerlei Online-Termine verfügbar. Auf meine Nachfrage, was ich in diesem Fall tun solle, wurde mir erklärt, dass man bereits bei der Terminvergabe im nächsten Jahr sei und ich regelmäßig online nach freien Terminen schauen solle.\nTatsächlich hatte ich dann Glück und fand kurzfristig einen Termin für zwei Tage später. Umso ärgerlicher war es, dass dieser Termin nur eine Stunde vorher per E-Mail aus organisatorischen Gründen abgesagt wurde.\nDass man als Patient selbst ständig nach Terminen suchen muss und sich nicht einmal auf einen bereits bestätigten Termin verlassen kann, ist enttäuschend.",
+      "time": 1791961695,
+      "translated": false
+    },
+    {
       "author_name": "Nina B.",
       "author_url": "https://www.google.com/maps/contrib/116365163209549968271/reviews",
       "language": "de",
@@ -1729,12 +1775,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
-  "reviewCount": 281,
+  "rating": 4.3,
+  "reviewCount": 285,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-13T12:27:07.573Z"
+  "lastUpdated": "2026-10-16T09:28:47.268Z"
 }

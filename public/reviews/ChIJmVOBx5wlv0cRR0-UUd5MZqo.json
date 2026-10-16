@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "* Hawkins",
+      "author_url": "https://www.google.com/maps/contrib/112606622364129061441/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVa7SYDnww6TPx7YUDwomMv7eQ35VG2xcpzfQsjz3KPnNd6conmZg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir sind keine Patienten, wir sind Kunden. Ein Ausfallhornorar zu verlangen ist nicht Kundenbindend.\nVor allem wenn die Praxis immer so überfüllt ist, dass beim verbleiben eines Kunden sofort der nächste nachrückt.\nIch wurde nicht behandelt, es gab nur Kortison und überteuerte Präparate.\nDas gibt’s auch beim Hausarzt, da braucht man auch keinen Termin für. Also überlegt euch wie nötig Ihr wirklich zum Hautarzt müsst wenn es da eh keine echte Hilfe gibt.",
+      "time": 1792053229,
+      "translated": false
+    },
+    {
       "author_name": "Carsten Buenger",
       "author_url": "https://www.google.com/maps/contrib/105801119196394246166/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMyccl-RpYQd5z-wr-Ab5Up7H5P2cGIV0b2GfyJAFz26MTKQ=s128-c0x00000000-cc-rp-mo-ba2",
@@ -42,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmJlyJUUiKFyMemh-fVz4pas80PjC-2GhEyUe0duz6zPJcomY=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr netter und gründlicher Arzt, kaum Wartezeigten!",
+      "time": 1790174577,
+      "translated": false
+    },
+    {
+      "author_name": "Hansi",
+      "author_url": "https://www.google.com/maps/contrib/104844570199602293209/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmJlyJUUiKFyMemh-fVz4pas80PjC-2GhEyUe0duz6zPJcomY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr netter und gründlicher Arzt, kaum Wartezeigten!",
       "time": 1790174577,
       "translated": false
@@ -1285,7 +1309,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 63,
+  "reviewCount": 64,
   "summary": [],
-  "lastUpdated": "2026-10-13T12:26:58.361Z"
+  "lastUpdated": "2026-10-16T09:28:37.133Z"
 }

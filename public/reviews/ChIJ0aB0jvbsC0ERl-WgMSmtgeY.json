@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lischen Müller",
+      "author_url": "https://www.google.com/maps/contrib/117056527667245300639/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaQqTbL1-R4arekRQ46LQliajaaZt7IESdJ9M5VMQeuAFvEw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kurze Wartezeit,  genügend Parkplätze\nDefinitiv mega freundliche MFA hab ich tatsächlich nicht oft erlebt , jede sehr kompetent. Fachlich tolle Erklärung.  Ärzte Beratung super gut , man wird gut aufgeklärt und wir fühlten uns sehr gut beraten.\nPraxis sauber und genügend Plätze auch im Warteraum.",
+      "time": 1791919599,
+      "translated": false
+    },
+    {
       "author_name": "Christian Süss",
       "author_url": "https://www.google.com/maps/contrib/117879696877461900764/reviews",
       "language": "de",
@@ -1380,11 +1392,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 167,
+  "reviewCount": 168,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:36.880Z"
+  "lastUpdated": "2026-10-16T09:29:20.640Z"
 }

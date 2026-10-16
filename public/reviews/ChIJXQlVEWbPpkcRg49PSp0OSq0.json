@@ -41,6 +41,16 @@
       "translated": false
     },
     {
+      "author_name": "Annett Todziej",
+      "author_url": "https://www.google.com/maps/contrib/103202332932309369687/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNTEu1D-pd1az6QpFHI8IsyOFjP1jLJCVXfYTR9faDAklZCw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1789538499,
+      "translated": false
+    },
+    {
       "author_name": "Ute Oettler",
       "author_url": "https://www.google.com/maps/contrib/113142742329773642279/reviews",
       "language": "de",
@@ -84,6 +94,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoyfAdTu6TLSZzzGnqTCO9h7KcMzUq8ezV0CVjUYVOGjIooA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundlicher,kompetenter Arzt",
+      "time": 1789484781,
+      "translated": false
+    },
+    {
+      "author_name": "Ute Oettler",
+      "author_url": "https://www.google.com/maps/contrib/113142742329773642279/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoyfAdTu6TLSZzzGnqTCO9h7KcMzUq8ezV0CVjUYVOGjIooA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr freundlicher,kompetenter Arzt",
       "time": 1789484781,
       "translated": false
@@ -638,5 +660,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-13T12:27:42.277Z"
+  "lastUpdated": "2026-10-16T09:29:26.865Z"
 }

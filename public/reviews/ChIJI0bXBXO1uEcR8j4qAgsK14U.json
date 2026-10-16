@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tobias Vollmer",
+      "author_url": "https://www.google.com/maps/contrib/111959085107021354355/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNmQbiTQBettmNlVrQsiDhx-RtAN606KSRdhABhXjK1MA05l3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kamen ohne Termin her das super nette Kolegium hat uns trotzdem reingelassen und behandelt und super Beraten . Absolut Empfehlenswert",
+      "time": 1791985284,
+      "translated": false
+    },
+    {
       "author_name": "alisson trento",
       "author_url": "https://www.google.com/maps/contrib/102091231728707527501/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKzHwfDPCBh9y69b8-8A79NaFGCqSOKIaQkFsqUs-ZnKKZKA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr freundliche Mitarbeitende, sehr freundlicher und kompetenter Arzt, alles zur vollster Zufriedenheit 👍",
+      "time": 1790923232,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfgang Luedicke",
+      "author_url": "https://www.google.com/maps/contrib/112157695745537389547/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKzHwfDPCBh9y69b8-8A79NaFGCqSOKIaQkFsqUs-ZnKKZKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr freundliche Mitarbeitende, sehr freundlicher und kompetenter Arzt, alles zur vollster Zufriedenheit 👍",
       "time": 1790923232,
       "translated": false
@@ -1646,11 +1670,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 341,
+  "reviewCount": 342,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-13T12:27:35.154Z"
+  "lastUpdated": "2026-10-16T09:29:18.679Z"
 }

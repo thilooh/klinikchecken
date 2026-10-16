@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Juergen Bruells",
+      "author_url": "https://www.google.com/maps/contrib/115005243728337602432/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWaaIhe1fId08_PmWJgdfDfZoGQWCRpdVYquToyFtXvUuYaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Kontrolle mit meiner Thrombose und möchte gerne meinen Dank schreiben für dieses sehr freundliches und kompetentes Team von der Anmeldung bis zu den Ärzten. Vielen lieben Dank.",
+      "time": 1791962860,
+      "translated": false
+    },
+    {
       "author_name": "Nanny1984",
       "author_url": "https://www.google.com/maps/contrib/111714352698680491599/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8y31k2Yw3Qm3L_6HjgAzY_h2AlJ35SzVKzLI8iOCdt506RmZoIQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin immer noch fast sprachlos... Wie TOLL kann ein Team überhaupt sein??? Habe mich hier heute super aufgehoben gefühlt, die Damen an der Anmeldung mega lieb, hilfsbereit und geduldig. Musste eigentlich gar nicht warten. Die Ärztin war super lieb, ich bin über alles was ich wissen musste aufgeklärt und beraten worden, super verständnisvoll und einfühlsam! Selten sowas erlebt. Eine ganz klare Empfehlung. Vielen lieben Dank!!! ☺️",
+      "time": 1790188024,
+      "translated": false
+    },
+    {
+      "author_name": "Nanny1984",
+      "author_url": "https://www.google.com/maps/contrib/111714352698680491599/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8y31k2Yw3Qm3L_6HjgAzY_h2AlJ35SzVKzLI8iOCdt506RmZoIQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin immer noch fast sprachlos... Wie TOLL kann ein Team überhaupt sein??? Habe mich hier heute super aufgehoben gefühlt, die Damen an der Anmeldung mega lieb, hilfsbereit und geduldig. Musste eigentlich gar nicht warten. Die Ärztin war super lieb, ich bin über alles was ich wissen musste aufgeklärt und beraten worden, super verständnisvoll und einfühlsam! Selten sowas erlebt. Eine ganz klare Empfehlung. Vielen lieben Dank!!! ☺️",
       "time": 1790188024,
       "translated": false
@@ -85,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Gabrielle Frohn",
+      "author_url": "https://www.google.com/maps/contrib/105313314708370162417/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrku-5VBYKcmCKKuyKPIqcbHdzqNlJtDR7hFUzRoS8jCaqvQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Vom Empfang bis zur kompeten Behandlung, Kontrolle der Halsschlagader in meinem Fall, bei Frau Dr. Zander, alles top. Frau Dr. Zander nimmt sich Zeit, hört zu und man fühlt sich ernst genommen, was durchaus nicht unbedingt überall der Fall ist. Kann ich weiter empfehlen.",
+      "time": 1789573439,
+      "translated": false
+    },
+    {
       "author_name": "Olaf Schroers",
       "author_url": "https://www.google.com/maps/contrib/111061923771279152771/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkvBPX0exsbillRurSX1uLRf3yrq7qhWoMU-cQUM0Skz6_NnpT=s128-c0x00000000-cc-rp-mo-ba4",
@@ -120,6 +156,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkvBPX0exsbillRurSX1uLRf3yrq7qhWoMU-cQUM0Skz6_NnpT=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1789478254,
+      "translated": false
+    },
+    {
+      "author_name": "Olaf Schroers",
+      "author_url": "https://www.google.com/maps/contrib/111061923771279152771/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkvBPX0exsbillRurSX1uLRf3yrq7qhWoMU-cQUM0Skz6_NnpT=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1789478254,
       "translated": false
@@ -816,11 +862,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 89,
+  "reviewCount": 90,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:12.437Z"
+  "lastUpdated": "2026-10-16T09:28:52.710Z"
 }

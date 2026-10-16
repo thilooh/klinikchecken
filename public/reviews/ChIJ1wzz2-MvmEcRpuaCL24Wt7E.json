@@ -1,11 +1,31 @@
 {
   "reviews": [
     {
+      "author_name": "Maria Lucia Lo Brutto",
+      "author_url": "https://www.google.com/maps/contrib/115823354624462161214/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxlfCw8CMN5CEeHgySSPtlVWBTZc7woMABCf8uPZFBlUBU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791965030,
+      "translated": false
+    },
+    {
       "author_name": "Tamara Otto",
       "author_url": "https://www.google.com/maps/contrib/106894946394783227737/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZmGmqXfVQTXAQKKuLsI9WGeak4axnIUF2ceV9qbs39xiTMg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791364521,
+      "translated": false
+    },
+    {
+      "author_name": "Tamara Otto",
+      "author_url": "https://www.google.com/maps/contrib/106894946394783227737/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZmGmqXfVQTXAQKKuLsI9WGeak4axnIUF2ceV9qbs39xiTMg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791364521,
       "translated": false
@@ -1190,11 +1210,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 99,
+  "reviewCount": 100,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:36.234Z"
+  "lastUpdated": "2026-10-16T09:29:19.911Z"
 }

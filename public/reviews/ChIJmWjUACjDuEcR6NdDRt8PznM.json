@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Can Yagmur",
+      "author_url": "https://www.google.com/maps/contrib/113394832806468940340/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbmTb3G607I4F9IIm-hq7QF0nNtNfQt-QbNI7tc5N8D6E6Tw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Danke an Herrn Dr. Azem Pljakic und das ganze Team. Ich fühle mich sehr gut versorgt. 👍 Tolle Arbeit geleistet im Juni mit einer kleinen OP.",
+      "time": 1792088241,
+      "translated": false
+    },
+    {
       "author_name": "Caro Bie",
       "author_url": "https://www.google.com/maps/contrib/107536516019066752966/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaxHM1IV8M9R_BpCLW_h1KvoDqZhSCvzDHw8ayDCC4o1ORiw=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche, kompetente und hilfsbereite Praxis, inklusive Personal.\n\nModern, sauber und gut aufgestellter Ablauf.\n\nIch kann nur eine klare Weiterempfehlung aussprechen.\n\nBin hier gut aufgehoben.",
+      "time": 1791376502,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg S.",
+      "author_url": "https://www.google.com/maps/contrib/109984804344290798765/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaxHM1IV8M9R_BpCLW_h1KvoDqZhSCvzDHw8ayDCC4o1ORiw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundliche, kompetente und hilfsbereite Praxis, inklusive Personal.\n\nModern, sauber und gut aufgestellter Ablauf.\n\nIch kann nur eine klare Weiterempfehlung aussprechen.\n\nBin hier gut aufgehoben.",
       "time": 1791376502,
       "translated": false
@@ -1024,7 +1048,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 134,
+  "reviewCount": 135,
   "summary": [],
-  "lastUpdated": "2026-10-13T12:27:06.928Z"
+  "lastUpdated": "2026-10-16T09:28:46.529Z"
 }

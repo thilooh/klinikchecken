@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Black Harley",
+      "author_url": "https://www.google.com/maps/contrib/110279415587741265197/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFoFmIl366UUEnI-S6OJY-h0kMCOGFrXukB0Md4GfMQIGDpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Besser die andere Klinik in der Nähe aufsuchen vor allem wenn man kein Freund von Privatversichert ist.",
+      "time": 1791975355,
+      "translated": false
+    },
+    {
       "author_name": "Jenny Konrads",
       "author_url": "https://www.google.com/maps/contrib/115364231577587252421/reviews",
       "language": "de",
@@ -164,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOh_ZjMKmFG5QouDdjX6n6x5PTzDebmBsQ4tmXUL3h4A8mGw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Hallo, ich kann diese Klinik wärmstens empfehlen, die Ärzte und das Pflegepersonal sind hervorragend. Vielen Dank für die wunderbare Betreuung. Mit freundlichen Grüßen.",
+      "time": 1786904279,
+      "translated": true
+    },
+    {
+      "author_name": "Leszek Guszczak",
+      "author_url": "https://www.google.com/maps/contrib/112146715665739190418/reviews",
+      "language": "de",
+      "original_language": "pl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOh_ZjMKmFG5QouDdjX6n6x5PTzDebmBsQ4tmXUL3h4A8mGw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Hallo, ich kann diese Klinik wärmstens empfehlen, die Ärzte und das Pflegepersonal sind hervorragend. Vielen Dank für die wunderbare Betreuung. Mit freundlichen Grüßen.",
       "time": 1786904279,
       "translated": true
@@ -890,11 +914,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 172,
+  "reviewCount": 173,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-13T12:27:11.796Z"
+  "lastUpdated": "2026-10-16T09:28:51.976Z"
 }

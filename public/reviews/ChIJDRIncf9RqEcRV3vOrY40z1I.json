@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Marc Strauss-Neumann",
+      "author_url": "https://www.google.com/maps/contrib/112460314615802557494/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdmhaio7yu4nmh3M8mhuTIOXhO0DH39YiiCcSLMJpUuxhDZQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Schnelle Terminfindung über Doctolib, sehr freundliches Personal vom Empfang über die Schwester bis zum Arzt. So ziemlich alle Prozesse laufen Digital an was einen sehr guten Eindruck. Vor Ort werden auch ambulante Operationen durchgeführt, auch hier fühlt man sich in sicheren Händen.",
+      "time": 1791439580,
+      "translated": false
+    },
+    {
       "author_name": "Nele Mulder",
       "author_url": "https://www.google.com/maps/contrib/100803027302887654827/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHSxVtJ2jAsKXrvVkcxn5lb00CWx5L_QaD3tWEhc2tnZjCrg=s128-c0x00000000-cc-rp-mo",
@@ -64,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHSxVtJ2jAsKXrvVkcxn5lb00CWx5L_QaD3tWEhc2tnZjCrg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1790848379,
+      "translated": false
+    },
+    {
+      "author_name": "Nele Mulder",
+      "author_url": "https://www.google.com/maps/contrib/100803027302887654827/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHSxVtJ2jAsKXrvVkcxn5lb00CWx5L_QaD3tWEhc2tnZjCrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1790848379,
       "translated": false
@@ -1566,5 +1588,5 @@
   "rating": 4.7,
   "reviewCount": 162,
   "summary": [],
-  "lastUpdated": "2026-10-13T12:27:02.484Z"
+  "lastUpdated": "2026-10-16T09:28:41.641Z"
 }

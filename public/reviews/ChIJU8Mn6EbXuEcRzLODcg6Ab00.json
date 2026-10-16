@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Leon Iphone",
+      "author_url": "https://www.google.com/maps/contrib/111748176649058569546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQOrfEkMN1AM2T4GuOKK2EgDwIj0GEAazw5P9mvBLKQQBVjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Telefonisch Termin vereinbart, trotzt Termin +90 min Wartezeit!  Telefonisch Preis durchgeben, bei Ankunft ist der Preis um 250€ teuerer\nNicht zu empfehlen",
+      "time": 1791920515,
+      "translated": false
+    },
+    {
       "author_name": "Fatima Alshrif",
       "author_url": "https://www.google.com/maps/contrib/105361789990451872086/reviews",
       "language": "ar",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Sara",
+      "author_url": "https://www.google.com/maps/contrib/100346236670722689042/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFE28itS7PGa3ZmCeRzT9159-GhKPaI5lvlpYAFIMjTSCIHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich hatte eine Augenlidoperation und möchte Ihnen und Dr. Christine für ihre hervorragende Arbeit danken. Das Ergebnis ist fantastisch, und ihr Stil ist einfach großartig. Jeder, der sich an Dr. Christine wendet, wird es nicht bereuen. Gott segne Sie, meine Liebe, so wie Sie die Welt segnen.",
+      "time": 1791488940,
+      "translated": true
+    },
+    {
       "author_name": "Raffaella Jansen",
       "author_url": "https://www.google.com/maps/contrib/110749777399586197226/reviews",
       "language": "de",
@@ -37,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Raffaella Jansen",
+      "author_url": "https://www.google.com/maps/contrib/110749777399586197226/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgbAZy4rppnbC0WvNuxLyYLUGebv8AgE-8Vb44A4xhmTt68A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Einfach kompetent, kann ich nur empfehlen. 🍀💫",
+      "time": 1791388035,
+      "translated": false
+    },
+    {
       "author_name": "Dhaouadi Syrine",
       "author_url": "https://www.google.com/maps/contrib/102805668818021088218/reviews",
       "language": "de",
@@ -44,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT61Xe8xqpHf-o-iDWglx2PS1Of2U0t2vL7o1kZ0kftcNpHQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super nette und liebe Ärztin! Sie hört aufmerksam zu, nimmt sich Zeit und geht sehr gut auf die Wünsche ihrer Patientinnen ein. Ich bin mit dem Ergebnis sehr zufrieden und kann sie absolut weiterempfehlen! ❤️",
+      "time": 1791373901,
+      "translated": false
+    },
+    {
+      "author_name": "Dhaouadi Syrine",
+      "author_url": "https://www.google.com/maps/contrib/102805668818021088218/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT61Xe8xqpHf-o-iDWglx2PS1Of2U0t2vL7o1kZ0kftcNpHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super nette und liebe Ärztin! Sie hört aufmerksam zu, nimmt sich Zeit und geht sehr gut auf die Wünsche ihrer Patientinnen ein. Ich bin mit dem Ergebnis sehr zufrieden und kann sie absolut weiterempfehlen! ❤️",
       "time": 1791373901,
       "translated": false
@@ -1306,11 +1354,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 436,
+  "reviewCount": 435,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:13.736Z"
+  "lastUpdated": "2026-10-16T09:28:54.182Z"
 }

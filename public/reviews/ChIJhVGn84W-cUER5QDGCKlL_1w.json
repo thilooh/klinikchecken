@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Lana Nawlo",
+      "author_url": "https://www.google.com/maps/contrib/110879884478788771613/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8RfljBVwU7Gt8m8ES0bBCmU4ei3wp87kM6igP2w5_2dQOlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit meinem Besuch! Der Arzt war sehr freundlich und das ganze Team war nett und hilfsbereit. Ich habe mich sehr wohl und gut aufgehoben gefühlt.",
+      "time": 1792063718,
+      "translated": false
+    },
+    {
+      "author_name": "Nina Tota",
+      "author_url": "https://www.google.com/maps/contrib/100860234524037633960/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_VlWoPDAI5Ntj3KZrArvr0SdTUl--8DNRwhd5G-LVVTTXtg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr empfehlenswerte Praxis!\nIch bin absolut begeistert von der Behandlung bei Dr. Sabe. Das gesamte Team ist äußerst freundlich, aufmerksam und organisiert. Dr. Sabe nimmt sich wirklich Zeit für seine Patienten, erklärt alles verständlich und geht auf alle Fragen ein. Man fühlt sich hier bestens aufgehoben und medizinisch hervorragend versorgt. Herzlichen Dank an das gesamte Team!",
+      "time": 1792051403,
+      "translated": false
+    },
+    {
       "author_name": "Jule Krüger",
       "author_url": "https://www.google.com/maps/contrib/107736202022663081168/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "naima scheu",
+      "author_url": "https://www.google.com/maps/contrib/115313819351162075063/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKS95VBFkF_6ZFoknM4AGJEyfVz4CqGV3j1JP29HMcMBcLu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Fand den Arzt super sympathisch, sehr verständnisvoll, hat sich Zeit genommen. War nach langer Zeit, endlich mal wieder ein positives Erlebnis. Bei dem aktuellen Kampf, endlich mal wieder mit einem guten Gefühl aus einer Praxis raus gegangen. Tat mal ganz gut zur Abwechslung. Dafür ein riesen Danke ♡",
+      "time": 1791472212,
+      "translated": false
+    },
+    {
       "author_name": "Sana Sumakia",
       "author_url": "https://www.google.com/maps/contrib/112204082312873884956/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8Cx2TdO5eDza13T7DEFWalMse_ZaSIkRbhQF2XzF_u-n4cA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher Arzt und nettes Personal. Die Praxis ist sauber und gut organisiert. Ich habe mich sehr wohlgefühlt. Vielen Dank!",
+      "time": 1791393954,
+      "translated": false
+    },
+    {
+      "author_name": "Sana Sumakia",
+      "author_url": "https://www.google.com/maps/contrib/112204082312873884956/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8Cx2TdO5eDza13T7DEFWalMse_ZaSIkRbhQF2XzF_u-n4cA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundlicher Arzt und nettes Personal. Die Praxis ist sauber und gut organisiert. Ich habe mich sehr wohlgefühlt. Vielen Dank!",
       "time": 1791393954,
       "translated": false
@@ -1232,11 +1280,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 97,
+  "reviewCount": 99,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:26.584Z"
+  "lastUpdated": "2026-10-16T09:29:08.959Z"
 }

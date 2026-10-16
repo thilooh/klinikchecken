@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sensei Pepe",
+      "author_url": "https://www.google.com/maps/contrib/116363220036957576693/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZxK0I5xOi2omYtDJg5Zo8_8d2E6kYLoYlAkclLBivJpVJkw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider nicht kundenfreundlich sehr sehr schade",
+      "time": 1791973274,
+      "translated": false
+    },
+    {
       "author_name": "Jens Asmuth",
       "author_url": "https://www.google.com/maps/contrib/108220664436788444719/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbR9agSQ-MK0LIc1_gY4k865lqvxOSRXancf25BzPuG1OLLKW_Ug=s128-c0x00000000-cc-rp-mo-ba3",
@@ -1022,11 +1034,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 182,
+  "reviewCount": 183,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-13T12:27:07.796Z"
+  "lastUpdated": "2026-10-16T09:28:47.540Z"
 }

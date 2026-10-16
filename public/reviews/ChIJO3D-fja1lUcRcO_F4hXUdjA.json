@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Rico Lein",
+      "author_url": "https://www.google.com/maps/contrib/101970383075148477343/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAh86kIUurvWs7gqHiM2GfEArIjJNWJKMIyPxJtHDdQGrVpkGc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792048564,
+      "translated": false
+    },
+    {
       "author_name": "Petra Jochum",
       "author_url": "https://www.google.com/maps/contrib/106126092381673548848/reviews",
       "language": "de",
@@ -1498,11 +1508,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 91,
+  "reviewCount": 92,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-13T12:27:25.313Z"
+  "lastUpdated": "2026-10-16T09:29:07.521Z"
 }

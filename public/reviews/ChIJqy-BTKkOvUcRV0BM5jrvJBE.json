@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "vo ki",
+      "author_url": "https://www.google.com/maps/contrib/110453493058226587799/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXg5EENbaPbZ6iwhe-JcbkA6cxbxpAVY2Ydk7S-Z0rsZbl1Jho=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "freundlich, kompetentes Personal.  Ein Arzt, der durch sachliche Freundlichkeit in Verbindung mit hoher fachlicher Erfahrung und Kompetenz, mit der adäquaten Prise Empathie überzeugt, heutzutage eine Rarität. Dankeschön",
+      "time": 1791966507,
+      "translated": false
+    },
+    {
       "author_name": "Manuela Kracker",
       "author_url": "https://www.google.com/maps/contrib/108738968971406604127/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTXf6U2Kp3f7SOZzt8KATt2UAA6UOmoAeO_YXtp3NE5kMNwP7p3A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr netter, sympathischer und kompetenter Arzt!",
+      "time": 1789723074,
+      "translated": false
+    },
+    {
+      "author_name": "H S (BJ)",
+      "author_url": "https://www.google.com/maps/contrib/117910942003856710575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTXf6U2Kp3f7SOZzt8KATt2UAA6UOmoAeO_YXtp3NE5kMNwP7p3A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr netter, sympathischer und kompetenter Arzt!",
       "time": 1789723074,
       "translated": false
@@ -588,7 +612,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 77,
+  "reviewCount": 78,
   "summary": [],
-  "lastUpdated": "2026-10-13T12:27:00.964Z"
+  "lastUpdated": "2026-10-16T09:28:39.993Z"
 }
