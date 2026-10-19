@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M E",
+      "author_url": "https://www.google.com/maps/contrib/111246000144344912087/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhCc5ZC-BiST2EqqANQy5II1kocPBG7AOeayxa_ckNusFLPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Ugur ist der Typ Arzt den wir brauchen, vielen Dank für alles, Sie haben mir wieder ein Lächeln ins Gesicht ins gezaubert.",
+      "time": 1792401190,
+      "translated": false
+    },
+    {
       "author_name": "Smarsly Helmut",
       "author_url": "https://www.google.com/maps/contrib/103055397127030930620/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW7mkgO5HmDw3P3Xhyo7iFnWi3jTDY7b7HVGrEmcT4nNB71NrG=s128-c0x00000000-cc-rp-mo",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Beba",
+      "author_url": "https://www.google.com/maps/contrib/110275049979628015853/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6SI-Xtvg8_p8ykbEf9Tv4-bs2AHOvrZ6OwWC22QOybd7VJJI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Nie wieder. Ärztin gibt Ratschläge, die gar nicht ihr Fachgebiet, angeblich Phlebologie, betreffen, hab nirgends eine Vita von ihr gefunden, von Dr. Ugur auch nicht. Ging fix und fertig aus der Praxis und sah mich schon bei einer Herz OP im KH. Mein Hausarzt hat mich wieder geerdet und mir bewiesen, dass das ein Quatschgespräch war.\nIn diese gruselige Praxis setz ich keinen Fuß mehr.",
+      "time": 1791022628,
+      "translated": false
+    },
+    {
       "author_name": "Sertac Heris",
       "author_url": "https://www.google.com/maps/contrib/111886292094520060348/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBD8dWeM3xd3lHcLTDG157kCQm6I6XV6RagYXswgJOnp0qIfc=s128-c0x00000000-cc-rp-mo",
@@ -96,6 +120,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWxdqFqbmy7-xn8krUBvsDeJrGq9VtY5qA_HPfq-gFiChP0n4I=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ein hervorragendes Venenzentrum. Sehr freundliche Menschen und sehr gute Ärzte",
+      "time": 1790490689,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Diedrich",
+      "author_url": "https://www.google.com/maps/contrib/111474904756046369823/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWxdqFqbmy7-xn8krUBvsDeJrGq9VtY5qA_HPfq-gFiChP0n4I=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ein hervorragendes Venenzentrum. Sehr freundliche Menschen und sehr gute Ärzte",
       "time": 1790490689,
       "translated": false
@@ -1128,11 +1164,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 135,
+  "reviewCount": 136,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-16T09:29:07.276Z"
+  "lastUpdated": "2026-10-19T10:29:56.826Z"
 }

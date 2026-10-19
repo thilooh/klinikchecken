@@ -121,6 +121,18 @@
       "translated": false
     },
     {
+      "author_name": "H S (BJ)",
+      "author_url": "https://www.google.com/maps/contrib/117910942003856710575/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTXf6U2Kp3f7SOZzt8KATt2UAA6UOmoAeO_YXtp3NE5kMNwP7p3A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr netter, sympathischer und kompetenter Arzt!",
+      "time": 1789723074,
+      "translated": false
+    },
+    {
       "author_name": "J S",
       "author_url": "https://www.google.com/maps/contrib/100441017571586089171/reviews",
       "language": "de",
@@ -614,5 +626,5 @@
   "rating": 4.8,
   "reviewCount": 78,
   "summary": [],
-  "lastUpdated": "2026-10-16T09:28:39.993Z"
+  "lastUpdated": "2026-10-19T10:29:32.874Z"
 }

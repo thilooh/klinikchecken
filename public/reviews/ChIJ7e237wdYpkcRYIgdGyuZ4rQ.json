@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Mandy Lehmann",
+      "author_url": "https://www.google.com/maps/contrib/115906576234372135984/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjOvSVmoh4ewHH5fDq3GGFzgiuOKwewTsnlXd5pawBNTuYdLIy4w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr freundlicher Empfang",
+      "time": 1789850511,
+      "translated": false
+    },
+    {
       "author_name": "Gute Seele",
       "author_url": "https://www.google.com/maps/contrib/116257409810520375356/reviews",
       "language": "de",
@@ -848,5 +860,5 @@
   "rating": 4.5,
   "reviewCount": 52,
   "summary": [],
-  "lastUpdated": "2026-10-16T09:28:44.796Z"
+  "lastUpdated": "2026-10-19T10:29:37.130Z"
 }

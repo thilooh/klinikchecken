@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Redfox",
+      "author_url": "https://www.google.com/maps/contrib/107074183511207379254/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9nlVz1uIYB63NR9pb59Bu2yzPsflsUtYPPckIiZhc7qXaQZBL=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792233402,
+      "translated": false
+    },
+    {
       "author_name": "Maria Sass",
       "author_url": "https://www.google.com/maps/contrib/100122136901757225558/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkl545Ix9E_O64nApk_4cVLUjPrUNVt1VA-j_rCl3K_wqvfQ=s128-c0x00000000-cc-rp-mo",
@@ -71,6 +81,18 @@
       "translated": false
     },
     {
+      "author_name": "Maike",
+      "author_url": "https://www.google.com/maps/contrib/106488688802834407578/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhPwNKUdalV_qFbr8AnUfFSsjaDnvjtNBwnltO2wcf39Wlfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Topische Lokaltherapien, die Teil des Leistungskataloges der gesetzlichen Krankenkasse sind werden nur als Privatrezept ausgestellt, was schlichtweg nicht zulässig ist (selbst eine antibiotische Creme wurde mir nur als Privatrezept ausgestellt). Ich weiß, dass Praxen darauf achten müssen ihr Budget für über die Krankenkasse verordnete Medikamente nicht zu überschreiten, dass deshalb ein ganzes Krankheitsbild nur per Privatrezepten behandelt wird ist aber unzulässig und überhaupt nicht ok. Deshalb werde ich mich auch bei der kassenärztlichen Vereinigung und meiner Krankenkasse über dieses Vorgehen beschweren.",
+      "time": 1791570640,
+      "translated": false
+    },
+    {
       "author_name": "Privat",
       "author_url": "https://www.google.com/maps/contrib/106639242390326327274/reviews",
       "language": "de",
@@ -114,6 +136,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAbCQtSxzIxWRdgI9Pm7Ljdr8hRYk2-zWR32HILmIFISNarzWVrA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin zufrieden, der Dr. Ist nett und ist kompetent.\nEin Stern Abzug für die nicht so tolle EDV samt online Terminvergabe.",
+      "time": 1791305476,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Kern",
+      "author_url": "https://www.google.com/maps/contrib/101659678158211562616/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAbCQtSxzIxWRdgI9Pm7Ljdr8hRYk2-zWR32HILmIFISNarzWVrA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin zufrieden, der Dr. Ist nett und ist kompetent.\nEin Stern Abzug für die nicht so tolle EDV samt online Terminvergabe.",
       "time": 1791305476,
       "translated": false
@@ -1775,12 +1809,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 285,
+  "rating": 4.5,
+  "reviewCount": 277,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-16T09:28:47.268Z"
+  "lastUpdated": "2026-10-19T10:29:39.338Z"
 }

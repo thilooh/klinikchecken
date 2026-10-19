@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Renate Gradtke",
+      "author_url": "https://www.google.com/maps/contrib/109376083662735444323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSvMAFR29nN2OUHMYOWckFu7EDTczEOxRZSBZjoNkCHUFd9w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Praxis, aber besser man braucht sie nicht.",
+      "time": 1791539256,
+      "translated": false
+    },
+    {
       "author_name": "Zrian A",
       "author_url": "https://www.google.com/maps/contrib/109126160172752343899/reviews",
       "language": "de",
@@ -560,5 +572,5 @@
   "rating": 3.7,
   "reviewCount": 32,
   "summary": [],
-  "lastUpdated": "2026-10-16T09:28:47.019Z"
+  "lastUpdated": "2026-10-19T10:29:39.095Z"
 }

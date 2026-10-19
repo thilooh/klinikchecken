@@ -155,6 +155,18 @@
       "translated": false
     },
     {
+      "author_name": "MORA LOTFI",
+      "author_url": "https://www.google.com/maps/contrib/105262664835055480162/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2t1FT4en_vHefsSglNuIIA-B4_rD1LJmvZ_k9lQ9HWnwYpmk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Herr Lazek bester Spezialist für Haut",
+      "time": 1789563357,
+      "translated": false
+    },
+    {
       "author_name": "RamiN LG",
       "author_url": "https://www.google.com/maps/contrib/100057306217863271550/reviews",
       "language": "de",
@@ -210,6 +222,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcxEhCg6w5oM2QgOkaBUjJ9VqrO3ncLwdWvKUdMznp01QWQkZ_=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Bester Hausarzt",
+      "time": 1789563260,
+      "translated": false
+    },
+    {
+      "author_name": "RamiN LG",
+      "author_url": "https://www.google.com/maps/contrib/100057306217863271550/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcxEhCg6w5oM2QgOkaBUjJ9VqrO3ncLwdWvKUdMznp01QWQkZ_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Bester Hausarzt",
       "time": 1789563260,
       "translated": false
@@ -1359,5 +1383,5 @@
   "rating": 4.6,
   "reviewCount": 104,
   "summary": [],
-  "lastUpdated": "2026-10-16T09:28:39.249Z"
+  "lastUpdated": "2026-10-19T10:29:32.214Z"
 }

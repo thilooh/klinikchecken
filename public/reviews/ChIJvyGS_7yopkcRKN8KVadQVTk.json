@@ -133,6 +133,18 @@
       "translated": false
     },
     {
+      "author_name": "Lou P.",
+      "author_url": "https://www.google.com/maps/contrib/105179271563159886357/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfVx82ZV0Wfm0mUsoBQX-M5qQV6SeVj5szfW1sOubUEwocWA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Kompetentes Team",
+      "time": 1790440559,
+      "translated": false
+    },
+    {
       "author_name": "Klaus",
       "author_url": "https://www.google.com/maps/contrib/117537338313696981856/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIopBk8bQaUNgpj9T1_qLGFZpjwnbbgxwASZYFY6NhLGCTU5g=s128-c0x00000000-cc-rp-mo",
@@ -188,6 +200,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz8yvOTrHBLdBksdRQiLJO2JRnftbZyFokfBQadj79enIHTUab=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1789976502,
+      "translated": false
+    },
+    {
+      "author_name": "tino oehme",
+      "author_url": "https://www.google.com/maps/contrib/117305048894923902685/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz8yvOTrHBLdBksdRQiLJO2JRnftbZyFokfBQadj79enIHTUab=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1789976502,
       "translated": false
@@ -1576,5 +1598,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-10-16T09:29:24.646Z"
+  "lastUpdated": "2026-10-19T10:30:11.978Z"
 }

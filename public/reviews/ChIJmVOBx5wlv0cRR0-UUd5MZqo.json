@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "Carsten Buenger",
+      "author_url": "https://www.google.com/maps/contrib/105801119196394246166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMyccl-RpYQd5z-wr-Ab5Up7H5P2cGIV0b2GfyJAFz26MTKQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791579954,
+      "translated": false
+    },
+    {
       "author_name": "Hansi",
       "author_url": "https://www.google.com/maps/contrib/104844570199602293209/reviews",
       "language": "de",
@@ -1308,8 +1318,8 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 64,
+  "rating": 4.1,
+  "reviewCount": 63,
   "summary": [],
-  "lastUpdated": "2026-10-16T09:28:37.133Z"
+  "lastUpdated": "2026-10-19T10:29:30.116Z"
 }

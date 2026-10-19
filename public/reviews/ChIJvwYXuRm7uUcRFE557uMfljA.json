@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Gra Schling",
+      "author_url": "https://www.google.com/maps/contrib/101406904814248381425/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrPhKsw7gMrUSeHFtF9YK9Z2_aeE80wc5mb1j5-YRUEGxqtw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Praxisteam und kompetente Ärzte. Gute Organisation.",
+      "time": 1792226491,
+      "translated": false
+    },
+    {
       "author_name": "rüdiger wenzel",
       "author_url": "https://www.google.com/maps/contrib/102664802912876741280/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlW5J32tqAVGJlPJEs-2wnR8dil9Bd22L_EJ8KD2OMp33meg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791607518,
+      "translated": false
+    },
+    {
+      "author_name": "rüdiger wenzel",
+      "author_url": "https://www.google.com/maps/contrib/102664802912876741280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlW5J32tqAVGJlPJEs-2wnR8dil9Bd22L_EJ8KD2OMp33meg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791607518,
       "translated": false
@@ -620,11 +642,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 121,
+  "reviewCount": 122,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-16T09:28:52.960Z"
+  "lastUpdated": "2026-10-19T10:29:44.332Z"
 }

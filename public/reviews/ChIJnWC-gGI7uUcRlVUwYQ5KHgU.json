@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Jessika Bozek",
+      "author_url": "https://www.google.com/maps/contrib/117593667743795490590/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxpp6bI62uL2O4ajSwAty-OEzrKo5oCuUhr5rTgMYG30zS0O85=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr kompetent. Erklärt ausführlich. Nimmt sich Zeit",
+      "time": 1791569149,
+      "translated": false
+    },
+    {
       "author_name": "Mohamed Mosaad",
       "author_url": "https://www.google.com/maps/contrib/105867798006309124902/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4PsLycfdp_2i3LokOgrNB82354MCPrfp84zJSxgVrr6QQZPA=s128-c0x00000000-cc-rp-mo",
@@ -58,6 +70,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4vZIPk8DqFQ3zMWUYGh7RmyFQZ_aCyExTgJztgnTkXQ55ag=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791193550,
+      "translated": false
+    },
+    {
+      "author_name": "Rejin Shuker",
+      "author_url": "https://www.google.com/maps/contrib/107098078142974653138/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4vZIPk8DqFQ3zMWUYGh7RmyFQZ_aCyExTgJztgnTkXQ55ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1791193550,
       "translated": false
@@ -1564,5 +1586,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-16T09:29:12.321Z"
+  "lastUpdated": "2026-10-19T10:30:01.261Z"
 }

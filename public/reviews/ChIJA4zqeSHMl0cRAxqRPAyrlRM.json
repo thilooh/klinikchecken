@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Margarete Gogröf",
+      "author_url": "https://www.google.com/maps/contrib/116671165671156941334/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9c2T58_TB_SS7P6RmK9A5-4g_h1WMRt9uHT9wetFKCFdM5Ho=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hat mich beim letzten Termin fünf Stunden warten lassen!!!",
+      "time": 1792139241,
+      "translated": false
+    },
+    {
       "author_name": "Ecem",
       "author_url": "https://www.google.com/maps/contrib/112493212812997547758/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW2ge48aXM-Y_XbKk8XlxrdYMhd3rgub8jaRkqwpKwfStg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr professioneller und sympathischer Arzt im Bereich Phlebologie und sehr tolles Team. Das Leistungsspektrum ist sehr umfangreich. Ich war bereits zur Venenuntersuchung, Krampfaderentfernung (minimalinvasiv und super verheilt!), Tattoo und besenreisser Entfernung dort. Ich fühle mich kompetent betreut. Vielen Dank!",
+      "time": 1791794370,
+      "translated": false
+    },
+    {
+      "author_name": "B M",
+      "author_url": "https://www.google.com/maps/contrib/105006616061991351336/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW2ge48aXM-Y_XbKk8XlxrdYMhd3rgub8jaRkqwpKwfStg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr professioneller und sympathischer Arzt im Bereich Phlebologie und sehr tolles Team. Das Leistungsspektrum ist sehr umfangreich. Ich war bereits zur Venenuntersuchung, Krampfaderentfernung (minimalinvasiv und super verheilt!), Tattoo und besenreisser Entfernung dort. Ich fühle mich kompetent betreut. Vielen Dank!",
       "time": 1791794370,
       "translated": false
@@ -580,5 +604,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-10-16T09:29:00.431Z"
+  "lastUpdated": "2026-10-19T10:29:50.979Z"
 }

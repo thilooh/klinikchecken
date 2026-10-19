@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Vanessa",
+      "author_url": "https://www.google.com/maps/contrib/110250606179484626205/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0Xy3dvJTUTVryjjus7UT3nxpWYDPB1TTfw0oU8vlCxRjPHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bei Angelina fühlt man sich einfach wohl und in den besten Händen. Sie arbeitet unglaublich präzise und sauber, und das Ergebnis ist wunderschön natürlich geworden. Ich bin mehr als zufrieden und kann sie von Herzen weiterempfehlen! 🤍",
+      "time": 1792169319,
+      "translated": false
+    },
+    {
       "author_name": "Ita grO",
       "author_url": "https://www.google.com/maps/contrib/105317596225206766071/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZJn2zVR0F74SX-F-usto3ipz_Mk7cyTitFxqPmi_RcBwcpXKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin rundum begeistert von der Praxis! Ein sehr kompetentes, herzliches und empathisches Team, bei dem man sich sofort wohl und gut aufgehoben fühlt. Die Behandlung war professionell und mit viel Liebe zum Detail. Man merkt, dass hier der Mensch und seine individuellen Bedürfnisse im Mittelpunkt stehen. Absolut empfehlenswert, ich komme sehr gerne wieder!",
+      "time": 1789728662,
+      "translated": false
+    },
+    {
+      "author_name": "Ita grO",
+      "author_url": "https://www.google.com/maps/contrib/105317596225206766071/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZJn2zVR0F74SX-F-usto3ipz_Mk7cyTitFxqPmi_RcBwcpXKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich bin rundum begeistert von der Praxis! Ein sehr kompetentes, herzliches und empathisches Team, bei dem man sich sofort wohl und gut aufgehoben fühlt. Die Behandlung war professionell und mit viel Liebe zum Detail. Man merkt, dass hier der Mensch und seine individuellen Bedürfnisse im Mittelpunkt stehen. Absolut empfehlenswert, ich komme sehr gerne wieder!",
       "time": 1789728662,
       "translated": false
@@ -832,11 +856,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 119,
+  "reviewCount": 120,
   "summary": [
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen für Besenreiser-Behandlung",
     "Patienten empfehlen die Praxis weiter"
   ],
-  "lastUpdated": "2026-10-16T09:29:08.003Z"
+  "lastUpdated": "2026-10-19T10:29:57.476Z"
 }

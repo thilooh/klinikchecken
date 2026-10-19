@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Birgit Urbahn",
+      "author_url": "https://www.google.com/maps/contrib/111641524627722619126/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6t5M8CLN5mDRRhV7_TjmdwQLbKiS57sxVtELnqqlXAIM3TjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zum Zwecke eines proktologischen Eingriffs hier im MVZ Altstadt Magdeburg.\nVon der 1.Minute an- ab der Ankunft auf der Tagesstation, über die Betreuung in der Vorbereitung und später im OP - Raum, hab ich mich von allen Mitarbeitern nicht nur kompetent sondern auch sehr empathisch und liebevoll\nbetreut gefühlt. Ich möchte mich bei Allen Recht herzlich bedanken und kann diese medizinische Einrichtung von Herzen weiterempfehlen.",
+      "time": 1792402801,
+      "translated": false
+    },
+    {
       "author_name": "Dieter Haensch",
       "author_url": "https://www.google.com/maps/contrib/107036358444932025318/reviews",
       "language": "de",
@@ -23,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "Alexander Siebert",
+      "author_url": "https://www.google.com/maps/contrib/102011195128849087794/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwBgEfOpXcEoYSp6d3vBBB8BueP-oTN5-4a2y8m1vbnbm6_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791544805,
+      "translated": false
+    },
+    {
       "author_name": "Olaf Schirmer",
       "author_url": "https://www.google.com/maps/contrib/102300476795147083460/reviews",
       "language": "de",
@@ -35,6 +57,18 @@
       "translated": false
     },
     {
+      "author_name": "Olaf Schirmer",
+      "author_url": "https://www.google.com/maps/contrib/102300476795147083460/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUIqkCXapUQkaE06xt2FMy5jorkWVSyAbI-JSZSU_GoykRzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich hatte heute eine Krampfader OP und möchte mich ganz herzlich bedanken bei den behandelnden Schwestern und Ärzten. Von der Voruntersuchung bis zur OP und deren Nachbehandlung war ich sehr zufrieden. Vielen lieben Dank😊",
+      "time": 1791542732,
+      "translated": false
+    },
+    {
       "author_name": "Karim OUFIGHOU",
       "author_url": "https://www.google.com/maps/contrib/103376895501219691742/reviews",
       "language": "de",
@@ -42,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2wL4TFhKmAkOvqp-M9HZcYI9HLS6hyoJ5Z44SUDM9Uu2WCtY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "5 stars hospital!! Das gesamte medizinische Personal hier ist großartig. Vielen Dank für Ihre Freundlichkeit und Ihre Professionalität.",
+      "time": 1791540466,
+      "translated": false
+    },
+    {
+      "author_name": "Karim OUFIGHOU",
+      "author_url": "https://www.google.com/maps/contrib/103376895501219691742/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2wL4TFhKmAkOvqp-M9HZcYI9HLS6hyoJ5Z44SUDM9Uu2WCtY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "5 stars hospital!! Das gesamte medizinische Personal hier ist großartig. Vielen Dank für Ihre Freundlichkeit und Ihre Professionalität.",
       "time": 1791540466,
       "translated": false
@@ -1752,11 +1798,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 518,
+  "reviewCount": 519,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-16T09:28:50.498Z"
+  "lastUpdated": "2026-10-19T10:29:42.186Z"
 }

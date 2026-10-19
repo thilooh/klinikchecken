@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ingo Euler",
+      "author_url": "https://www.google.com/maps/contrib/115647792548486479159/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKw0OW30MLsUGDxeMC7ZUJgneJrCxSsZMzOenzfwnQ7oyCY3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792223056,
+      "translated": false
+    },
+    {
       "author_name": "Francie Müller",
       "author_url": "https://www.google.com/maps/contrib/113314417072573010171/reviews",
       "language": "de",
@@ -766,11 +776,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 121,
+  "reviewCount": 122,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-16T09:29:02.537Z"
+  "lastUpdated": "2026-10-19T10:29:52.702Z"
 }

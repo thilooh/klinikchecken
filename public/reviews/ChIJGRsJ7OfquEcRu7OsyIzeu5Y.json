@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Andrea Maassen",
+      "author_url": "https://www.google.com/maps/contrib/117853453149540606589/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcC3Y0VEIQPZM_8cWKKyFfDzTLNyeavrItLmS1pZzXmk7yKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundlich, kompet ,zugewandt",
+      "time": 1792385283,
+      "translated": false
+    },
+    {
       "author_name": "leni Möller",
       "author_url": "https://www.google.com/maps/contrib/109059383216870775513/reviews",
       "language": "de",
@@ -212,6 +224,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoQc2AP_qRwR4sU_vylrJQgvkp9esmVjJLSV_gcy-DmB09_w=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich wollte ein Termin machen aber telefonisch erreiche nie ein\nAm Tag mindestens 50 mal angerufen aber nie geht einer ran",
+      "time": 1787064781,
+      "translated": false
+    },
+    {
+      "author_name": "Yannik Roden",
+      "author_url": "https://www.google.com/maps/contrib/106981955565908605381/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoQc2AP_qRwR4sU_vylrJQgvkp9esmVjJLSV_gcy-DmB09_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich wollte ein Termin machen aber telefonisch erreiche nie ein\nAm Tag mindestens 50 mal angerufen aber nie geht einer ran",
       "time": 1787064781,
       "translated": false
@@ -1132,11 +1156,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 68,
+  "reviewCount": 69,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-10-16T09:29:11.346Z"
+  "lastUpdated": "2026-10-19T10:30:00.384Z"
 }

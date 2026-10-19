@@ -1,6 +1,36 @@
 {
   "reviews": [
     {
+      "author_name": "Vika Tigra",
+      "author_url": "https://www.google.com/maps/contrib/110035352378672450800/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFT509O-EG5pczBmWQwuFukKRgjbwFRJWCYilNhI3K2XpTA-er=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792342551,
+      "translated": false
+    },
+    {
+      "author_name": "Elisa P",
+      "author_url": "https://www.google.com/maps/contrib/116177657720829699455/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW14u983zkoU5Gil-ksNu4-6WxUFGyzcnoUPE_fwZtXx0phkf0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792151452,
+      "translated": false
+    },
+    {
+      "author_name": "Johann Reichert",
+      "author_url": "https://www.google.com/maps/contrib/105937860645608455646/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwq-mZ9QtayoU8jjD-Z8eJJurFOXUp8MJ8koXpIMrNUX714w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792146735,
+      "translated": false
+    },
+    {
       "author_name": "Peter Schick",
       "author_url": "https://www.google.com/maps/contrib/118116164212109262659/reviews",
       "language": "de",
@@ -1326,7 +1356,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 168,
+  "reviewCount": 171,
   "summary": [],
-  "lastUpdated": "2026-10-16T09:28:39.748Z"
+  "lastUpdated": "2026-10-19T10:29:32.659Z"
 }

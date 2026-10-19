@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Eckert",
+      "author_url": "https://www.google.com/maps/contrib/105507563686923722733/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ58M7c-rMQCclhRJP9XP79yROcVhg9BobmRGkBaIFD_tePqg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetente Ärzte offensichtlich. Schnelle und funktionale Abläufe",
+      "time": 1792167086,
+      "translated": false
+    },
+    {
       "author_name": "Lischen Müller",
       "author_url": "https://www.google.com/maps/contrib/117056527667245300639/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Christian Süss",
+      "author_url": "https://www.google.com/maps/contrib/117879696877461900764/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK01j-wRd-Mf6bwQb-so2BIOvfdj_cuBKxEVAOt9I1aewL7DQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Top Versorgung! Kam vorbelastet nach vorheriger Behandlung, die ein Lymphödem zur Folge hatte und bin mit bisheriger Behandlung sehr zufrieden. Alles gut erklärt, ging schnell und professionell im Ablauf. Narkose wurde top eingestellt, war überhaupt nicht groggy. Wirklich alles bestens! Klare Empfehlung! Vielen Dank auch nochmal an Herrn Dr.Weiler und Frau Brenner!",
+      "time": 1791627020,
+      "translated": false
+    },
+    {
       "author_name": "Evi Dreher",
       "author_url": "https://www.google.com/maps/contrib/110076158582978454935/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWniUxQsxOTfyxZf2xBJlYaO-FfXj8XZENkrP1maTvG20fOvbcCPA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Wenn ich zehn Sterne vergeben könnte, hätte ich das gemacht. Es war ein rundum sorglos Paket. Die ganze Behandlung von Anfang bis Ende. Super professionell, das ganze Team sehr sehr nett und fürsorglich. Dr. Weiler ein Meister seines Faches. Großes Lob!! Sollte es mal wieder nötig werden, gerne jederzeit wieder. Ich kann die Praxis zu 100% weiter empfehlen! Ich kann nur \"danke\" sagen 👍🏼😊",
+      "time": 1790946442,
+      "translated": false
+    },
+    {
+      "author_name": "Evi Dreher",
+      "author_url": "https://www.google.com/maps/contrib/110076158582978454935/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWniUxQsxOTfyxZf2xBJlYaO-FfXj8XZENkrP1maTvG20fOvbcCPA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Wenn ich zehn Sterne vergeben könnte, hätte ich das gemacht. Es war ein rundum sorglos Paket. Die ganze Behandlung von Anfang bis Ende. Super professionell, das ganze Team sehr sehr nett und fürsorglich. Dr. Weiler ein Meister seines Faches. Großes Lob!! Sollte es mal wieder nötig werden, gerne jederzeit wieder. Ich kann die Praxis zu 100% weiter empfehlen! Ich kann nur \"danke\" sagen 👍🏼😊",
       "time": 1790946442,
       "translated": false
@@ -80,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu4Q7d0aps3PM7yr38ANv6wqZ2p4uutrlusDxGIoBHXBSFFQ=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Gute Praxis.",
+      "time": 1789726917,
+      "translated": false
+    },
+    {
+      "author_name": "CHA",
+      "author_url": "https://www.google.com/maps/contrib/114486965490448781348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu4Q7d0aps3PM7yr38ANv6wqZ2p4uutrlusDxGIoBHXBSFFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "Gute Praxis.",
       "time": 1789726917,
       "translated": false
@@ -1392,11 +1440,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 168,
+  "reviewCount": 169,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-16T09:29:20.640Z"
+  "lastUpdated": "2026-10-19T10:30:08.559Z"
 }

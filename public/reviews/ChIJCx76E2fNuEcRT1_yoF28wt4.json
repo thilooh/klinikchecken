@@ -49,11 +49,33 @@
       "translated": false
     },
     {
+      "author_name": "SL",
+      "author_url": "https://www.google.com/maps/contrib/103978691263763530338/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXskypkyzitosb89GIttTTY4h6U27GH6bLE5DgOk3uWlkLDB5I=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Katastrophale Organisation\nIch wurde einen Tag vor der seit Monaten geplant OP darüber informiert, dass meine Krankenkasse den Vertrag mit der Remigius Klinik beendet hat.\nMan hätte mich schon vier Monate vorher informieren können, was aber nicht geschehen ist. Eine neue Terminfindung in einer anderen Klinik wird jetzt schwierig.\nIch bin entsetzt über die Inkompetenz des Klinikums.",
+      "time": 1791788447,
+      "translated": false
+    },
+    {
       "author_name": "MARC WERNER",
       "author_url": "https://www.google.com/maps/contrib/115459930384282204492/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwpX2lY1qFKTshQ9lPczhyUOeffyMWWloU9KJjjXxwhmNU3Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791774230,
+      "translated": false
+    },
+    {
+      "author_name": "MARC WERNER",
+      "author_url": "https://www.google.com/maps/contrib/115459930384282204492/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwpX2lY1qFKTshQ9lPczhyUOeffyMWWloU9KJjjXxwhmNU3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791774230,
       "translated": false
@@ -1660,5 +1682,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-10-16T09:29:16.754Z"
+  "lastUpdated": "2026-10-19T10:30:05.161Z"
 }

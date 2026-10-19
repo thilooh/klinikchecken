@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "privat privat",
+      "author_url": "https://www.google.com/maps/contrib/116809467468825892777/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4QpZGKmk-YFJXQtvvYg5PUKfSlKLriS9qE1lmT4cBf2MK9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792369451,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Ple",
       "author_url": "https://www.google.com/maps/contrib/110793428239767679912/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLED5FFO0jjijtmfNS_6KDBdCA8CIwMKo8I7HOMxoznGu_WUQ=s128-c0x00000000-cc-rp-mo",
@@ -92,6 +102,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBR6AEf06HNV3Be6dfQ34BmATMEJTy0_uVWRYBT-pOH36nKA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1789729511,
+      "translated": false
+    },
+    {
+      "author_name": "Gerold Gutmann",
+      "author_url": "https://www.google.com/maps/contrib/105932331973493948589/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBR6AEf06HNV3Be6dfQ34BmATMEJTy0_uVWRYBT-pOH36nKA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1789729511,
       "translated": false
@@ -1626,11 +1646,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1125,
+  "reviewCount": 1126,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-16T09:28:59.351Z"
+  "lastUpdated": "2026-10-19T10:29:50.100Z"
 }

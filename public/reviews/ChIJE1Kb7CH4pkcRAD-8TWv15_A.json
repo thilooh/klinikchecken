@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Anja Elsner",
+      "author_url": "https://www.google.com/maps/contrib/107722664637920519213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeRYpcM9BPVvfuUpbIhrrnGm0fjWSa8SR8MSF4-4NlK5ZM6g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr freundliche Praxis, die Schwestern und Herr Dr. Jany machen ein super Job.",
+      "time": 1789892392,
+      "translated": false
+    },
+    {
       "author_name": "Nicky Scarabello",
       "author_url": "https://www.google.com/maps/contrib/106964009911364793215/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfXo0FRp4ukcCM5D0KR_DB2ejNisHCUX2wDGQf-wbMfT6VfCA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr freundliches Personal.\nKompetent und unkompliziert.",
+      "time": 1789634293,
+      "translated": false
+    },
+    {
+      "author_name": "Nicky Scarabello",
+      "author_url": "https://www.google.com/maps/contrib/106964009911364793215/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfXo0FRp4ukcCM5D0KR_DB2ejNisHCUX2wDGQf-wbMfT6VfCA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr freundliches Personal.\nKompetent und unkompliziert.",
       "time": 1789634293,
       "translated": false
@@ -298,6 +322,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgwgusmygSy-5tcsF-h_BBxlWRmkbN0aB2wAlUsewkIoCBug=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1787163878,
+      "translated": false
+    },
+    {
+      "author_name": "TheSkyHai",
+      "author_url": "https://www.google.com/maps/contrib/116546298399953512170/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgwgusmygSy-5tcsF-h_BBxlWRmkbN0aB2wAlUsewkIoCBug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1787163878,
       "translated": false
@@ -630,5 +664,5 @@
   "rating": 4.9,
   "reviewCount": 69,
   "summary": [],
-  "lastUpdated": "2026-10-16T09:28:44.549Z"
+  "lastUpdated": "2026-10-19T10:29:36.918Z"
 }

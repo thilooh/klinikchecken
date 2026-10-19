@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hedwig Alberts",
+      "author_url": "https://www.google.com/maps/contrib/115985125886599045964/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1gW9A7ZAW6DzM8qE9ZzvEWt3z4-GNvdGVNFVVYnhfjy50_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin begeistert. Wer unter Krampfadern leidet ist hier sehr gut aufgehoben.",
+      "time": 1792329028,
+      "translated": false
+    },
+    {
       "author_name": "Dietrich Brama",
       "author_url": "https://www.google.com/maps/contrib/106781152340549902432/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWitugs2SQNDlQ-ydzC5WdOTHQqOt4LvRmoKfsjyKuxtSTa0USa=s128-c0x00000000-cc-rp-mo",
@@ -40,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZjF04Un9kfbeUOzGTK8FUzZ7ubMSq7REvGn3oYBD4t5Q8Jlw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich möchte auf diesen Weg Lob für diese wunderbare Behandlung und die gute Atmosphäre aussprechen, Herr und Frau Doktor Krüger sowie das ganze Team haben mir nett und kompetent zur Seite gestanden. Ich kann diese Praxis wärmstens weiterempfehlen.",
+      "time": 1791011717,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan Kuper",
+      "author_url": "https://www.google.com/maps/contrib/104579432789128160211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZjF04Un9kfbeUOzGTK8FUzZ7ubMSq7REvGn3oYBD4t5Q8Jlw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich möchte auf diesen Weg Lob für diese wunderbare Behandlung und die gute Atmosphäre aussprechen, Herr und Frau Doktor Krüger sowie das ganze Team haben mir nett und kompetent zur Seite gestanden. Ich kann diese Praxis wärmstens weiterempfehlen.",
       "time": 1791011717,
       "translated": false
@@ -742,11 +766,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 57,
+  "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-16T09:29:14.029Z"
+  "lastUpdated": "2026-10-19T10:30:02.768Z"
 }

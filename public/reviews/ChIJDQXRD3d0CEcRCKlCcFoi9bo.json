@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Natascha Tamm",
+      "author_url": "https://www.google.com/maps/contrib/113610589786692538164/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtse-sHw_PyX2oOhnpNSSW_KyYFdj93fajR2W-Hv9BsPbp5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich schreibe im Namen meiner Mutter Gudrun.\nIch möchte Frau Dr. Dolge-Reetz ein großes Lob aussprechen. Sie ist eine ganz kompetente Ärztin, die sehr gut auf mich als Patientin eingeht, was man heutzutage selten hat.",
+      "time": 1791781044,
+      "translated": false
+    },
+    {
       "author_name": "Karsten Dahlitz",
       "author_url": "https://www.google.com/maps/contrib/107628606609992945486/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY0avhKMf0fhdPhZC5vYdSNL-AJwHgMdaPMpAp9PFYZEHeM4Es=s128-c0x00000000-cc-rp-mo-ba2",
@@ -58,6 +70,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY0avhKMf0fhdPhZC5vYdSNL-AJwHgMdaPMpAp9PFYZEHeM4Es=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1789654248,
+      "translated": false
+    },
+    {
+      "author_name": "Karsten Dahlitz",
+      "author_url": "https://www.google.com/maps/contrib/107628606609992945486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY0avhKMf0fhdPhZC5vYdSNL-AJwHgMdaPMpAp9PFYZEHeM4Es=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1789654248,
       "translated": false
@@ -250,6 +272,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFpbiC31aogXHyIv8Zn7T0nV3-7768cc1klGNyJkzqdWhxew=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Das ist schon seltsam,seit April 2024 nehme ich mehrere Termine war und werde jedesmal aus fadenscheinigebn Gründen wieder weggeschickt....Der Höhepunkt war,das man angeblich mit mir telefonisch einen neuen Termin vereinbart hätte.....",
+      "time": 1784530773,
+      "translated": false
+    },
+    {
+      "author_name": "R. Rattei",
+      "author_url": "https://www.google.com/maps/contrib/115358531382191331506/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFpbiC31aogXHyIv8Zn7T0nV3-7768cc1klGNyJkzqdWhxew=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Das ist schon seltsam,seit April 2024 nehme ich mehrere Termine war und werde jedesmal aus fadenscheinigebn Gründen wieder weggeschickt....Der Höhepunkt war,das man angeblich mit mir telefonisch einen neuen Termin vereinbart hätte.....",
       "time": 1784530773,
       "translated": false
@@ -602,5 +636,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-16T09:29:29.213Z"
+  "lastUpdated": "2026-10-19T10:30:16.030Z"
 }

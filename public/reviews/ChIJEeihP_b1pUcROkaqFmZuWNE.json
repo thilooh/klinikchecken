@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Madame M",
+      "author_url": "https://www.google.com/maps/contrib/117256520134770584862/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWH8x73fggYsb5ddJZfd45LqvhKEbU8ajkV279uK6gDFPgY19fD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn ich könnte, würde ich 0 Sterne geben.\nIch habe online einen Termin gebucht. Ich hatte angegeben, dass ich einen privaten Hautcheck brauche, da mich 3 Leberflecke stören. Ich habe einen Termin mit 4 Monaten Wartezeit bekommen. Am Tag des Termins wurde dieser seitens der Praxis abgesagt. Ein neuer Termin wurde 5 Monate später vereinbart.\nIch betrete die Praxis, alles fühlt sich beengt an, unmodern, dunkel. Geräte stehen auf dem Flur.\nIch wurde von einem Mann ins Sprechzimmer gerufen. Die Praxis heißt 'Dr. Brücher und Doktoren', also gehe ich davon aus, dass dort mehrere Ärzte arbeiten.\nIch war also bei einem unbekannten Mann im Sprechzimmer. Er hat sich nicht vorgestellt und schaute von seinem Schreibtisch nicht hoch während ich mein Problem schilderte. Ihm war es wichtig, dass ich mich komplett ausziehe! Ich muss dazu sagen, meine Problem-Leberflecke befinden sich am Haaransatz und am Arm! Wortlos untersuchte er Rücken, Bauch und Beine.\nEs gab keine Auswertung. Ich solle mir keine Sorgen machen und in 2 Jahren wiederkommen. Er hat nicht mal Tschüss gesagt.\nGrauenvolles Erlebnis. Verstehe die guten Bewertungen hier nicht.",
+      "time": 1792310347,
+      "translated": false
+    },
+    {
       "author_name": "Heidemarie Heek",
       "author_url": "https://www.google.com/maps/contrib/111927793205462019111/reviews",
       "language": "de",
@@ -10,6 +22,30 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Die notwendige OP am Ohr wurde von Dr. Brücher mit viel Sorgfalt und auf ein kosmetisch gutes Ergebnis bedacht durchgeführt.Wärend der OP wurde mir sowohl vom Arzt als auch von der OP-Schwester die Schritte erläutert.Die Atmosphäre war entspannt sodass meine Anspannung gemindert wurde.Die wochenlangen Nachbehandlung wurde von der superfreundlichen Verbandsschwester vorbildlich durchgeführt.Gemessen an der Größe des Eingriffes bin ich vollkommen zufrieden.H.Heek",
       "time": 1791788348,
+      "translated": false
+    },
+    {
+      "author_name": "Heidemarie Heek",
+      "author_url": "https://www.google.com/maps/contrib/111927793205462019111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu7HdN0HRhYt6mZ8i13d--kU5ubgvyb3b6jj78DhDIj0qyKw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die notwendige OP am Ohr wurde von Dr. Brücher mit viel Sorgfalt und auf ein kosmetisch gutes Ergebnis bedacht durchgeführt.Wärend der OP wurde mir sowohl vom Arzt als auch von der OP-Schwester die Schritte erläutert.Die Atmosphäre war entspannt sodass meine Anspannung gemindert wurde.Die wochenlangen Nachbehandlung wurde von der superfreundlichen Verbandsschwester vorbildlich durchgeführt.Gemessen an der Größe des Eingriffes bin ich vollkommen zufrieden.H.Heek",
+      "time": 1791788348,
+      "translated": false
+    },
+    {
+      "author_name": "S W",
+      "author_url": "https://www.google.com/maps/contrib/102213556704150806227/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIftytTWjYDJD2sjaHrthjPrDxj0UrfVuCx103VFyYpF_ziGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Unmöglich einen Termin zu vereinbaren.",
+      "time": 1791656835,
       "translated": false
     },
     {
@@ -774,11 +810,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 121,
+  "reviewCount": 123,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-16T09:28:50.738Z"
+  "lastUpdated": "2026-10-19T10:29:42.396Z"
 }

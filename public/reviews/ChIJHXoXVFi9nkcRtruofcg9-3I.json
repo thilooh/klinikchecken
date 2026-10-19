@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Florian Schaller",
+      "author_url": "https://www.google.com/maps/contrib/111348111548439723741/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCK4dWVbT12lPetb-L5im0iu9Nwyx_SZYAu9LNHVhPpuo4Pg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes und kompetentes Personal.\nLeider ist die Parkplatzsuche ein Graus.",
+      "time": 1792396128,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja Guckert",
+      "author_url": "https://www.google.com/maps/contrib/108925559230071058814/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNHZUDWRs-6H1X6wbYbXU6XgUXpFZC6PMskUC9-DUr-s3K4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792313992,
+      "translated": false
+    },
+    {
+      "author_name": "Ela Hörbrand",
+      "author_url": "https://www.google.com/maps/contrib/116666732186828366186/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVXAYVzYecQg_km8jAm02EgdWeC91NoNq038m6OsGGhGY_Mg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war  wegen meiner ausgeprägten Krampfadern in der Klinik Vincentinum in Behandlung. Vom ersten Beratungsgespräch über die Untersuchung bis hin zur Verödung lief alles absolut professionell und reibungslos. Das gesamte Team und die Ärzte sind sehr empathisch, nehmen sich Zeit und erklären jeden Schritt genau. Ich habe mich rundum sicher und bestens aufgehoben gefühlt.\nVielen Dank für die tolle Betreuung – uneingeschränkte Weiterempfehlung!\"",
+      "time": 1792230820,
+      "translated": false
+    },
+    {
       "author_name": "Daniel Veits",
       "author_url": "https://www.google.com/maps/contrib/108878187768742782641/reviews",
       "language": "de",
@@ -1746,11 +1780,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 447,
+  "reviewCount": 449,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-16T09:28:56.407Z"
+  "lastUpdated": "2026-10-19T10:29:47.360Z"
 }
