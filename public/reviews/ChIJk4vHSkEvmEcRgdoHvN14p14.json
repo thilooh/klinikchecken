@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "iDropzLost",
+      "author_url": "https://www.google.com/maps/contrib/112506392961532042921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmssLz5TihAUALZEdx61mE4Fa65LiGk5PP8lyXxvt47TjTTL3D=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792586737,
+      "translated": false
+    },
+    {
+      "author_name": "Rozhin Kadir",
+      "author_url": "https://www.google.com/maps/contrib/107790919112629621227/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI2QHJMSEnIQdCqfaTgGUESiuUh-cwhPxP1JR98daeYhCBQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792504233,
+      "translated": false
+    },
+    {
       "author_name": "Mona Merkle",
       "author_url": "https://www.google.com/maps/contrib/110702032814510510265/reviews",
       "language": "de",
@@ -25,6 +45,18 @@
       "translated": false
     },
     {
+      "author_name": "Alexander Nikolai",
+      "author_url": "https://www.google.com/maps/contrib/107280354536261592095/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7MjPrWtghfkWxjKj-MCv06zx_uB4xz4aL-hZQ6FDyGmnBow=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Einfach nur umorganisiert. 2 Eingänge, 3 Stockwerke, mehrere Empfangstresen und Wartebereichen. Trotz Termin lange Wartezeit. Chaotisches Terminmanagement, Termine werden am gleichen Tag abgesagt und den neuen Termin gibt es aber erst in mehr als einem Monat, obwohl die Absage von der Praxis kam. Dann, am OP Termin, wird einem gesagt, dass der Eingriff so nicht durchführbar ist. Die Ärztin, bei der ich zur Voruntersuchung war, hatte das mit keiner Silbe erwähnt. Musste mich dann an eine Gesichtschirurgie wenden. Eine Überweisung wegen eines eventuellen Termins in einer Klinik muss man selbst anleiern und persönlich abholen,  wurde von der Ärztin selbst nicht im System hinterlegt, obwohl ich auf mir einen anderen Operateur suchen musste. Da war selbst die Dame am Telefon überrascht, dass der Patient sich selbst um die Überweisung kümmern musste.\n\nP.S. als ich meine Überweisung abholte, telefonierte die Dame am Empfang lautstark mit einer Kollegin und lästete lautstark über eine Ärztin, was diese machen muss und was nicht und was dabei die Aufgabe der MTA ist. Und wenn das so weiter geht, dann muss die mal mit dem Chef reden. Nicht so toll.",
+      "time": 1791959609,
+      "translated": false
+    },
+    {
       "author_name": "Dr. Dieter Sedlacek",
       "author_url": "https://www.google.com/maps/contrib/100094115131595306606/reviews",
       "language": "de",
@@ -32,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwmJRQRHiQ6wEoPOht6K5Drl-jNsN7Xm3LqM3canYXvRc2qfY=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Miserable Abwicklung - ewige Wartezeiten.",
+      "time": 1791822384,
+      "translated": false
+    },
+    {
+      "author_name": "Dr. Dieter Sedlacek",
+      "author_url": "https://www.google.com/maps/contrib/100094115131595306606/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwmJRQRHiQ6wEoPOht6K5Drl-jNsN7Xm3LqM3canYXvRc2qfY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Miserable Abwicklung - ewige Wartezeiten.",
       "time": 1791822384,
       "translated": false
@@ -1633,12 +1677,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 216,
+  "rating": 4.4,
+  "reviewCount": 214,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:30:08.131Z"
+  "lastUpdated": "2026-10-22T09:50:28.375Z"
 }

@@ -13,11 +13,33 @@
       "translated": false
     },
     {
+      "author_name": "Andreas Fendler",
+      "author_url": "https://www.google.com/maps/contrib/100507044186276978376/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN-kqEd9mUV-veJSY4wYEU32EwMmwk6fdUBUqB2QpB0sbCEsOF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Coole Ärztin, lockere Atmosphäre, freundliches Personal.🍀🍀🍀🍀🍀",
+      "time": 1791877838,
+      "translated": false
+    },
+    {
       "author_name": "Ingrid Grundmann",
       "author_url": "https://www.google.com/maps/contrib/116427008892839253484/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_9Fx0mfJPL8tGncbYqr31XkT5-MxSwjdDhlr1EhGzF1xZQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791817501,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Grundmann",
+      "author_url": "https://www.google.com/maps/contrib/116427008892839253484/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_9Fx0mfJPL8tGncbYqr31XkT5-MxSwjdDhlr1EhGzF1xZQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791817501,
       "translated": false
@@ -54,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9UQ3hbdcXeCTgMmYKJENmCmVAzvMq9-mmrizzwpeg3aDNXQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr freundliche und kompetente Ärztin.\nBin dort langjähriger und zufriedener Patient.",
+      "time": 1790699222,
+      "translated": false
+    },
+    {
+      "author_name": "Rüdiger Siegmund",
+      "author_url": "https://www.google.com/maps/contrib/102119614579755209033/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9UQ3hbdcXeCTgMmYKJENmCmVAzvMq9-mmrizzwpeg3aDNXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr freundliche und kompetente Ärztin.\nBin dort langjähriger und zufriedener Patient.",
       "time": 1790699222,
       "translated": false
@@ -852,5 +886,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:42.609Z"
+  "lastUpdated": "2026-10-22T09:49:55.869Z"
 }

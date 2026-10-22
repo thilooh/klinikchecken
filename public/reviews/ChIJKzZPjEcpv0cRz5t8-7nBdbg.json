@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Dieter Grimm",
+      "author_url": "https://www.google.com/maps/contrib/106235706919095570414/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLYoilnfLyQEQswdSN_P1tl_p0tWSoFlQ6rIRw-uVBn5dh7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792652257,
+      "translated": false
+    },
+    {
       "author_name": "Anke Dörper",
       "author_url": "https://www.google.com/maps/contrib/103745072581240707057/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRAm4zhjU5VY6TNtiiIF1vj6YiZAcgjyIZXNsfj2u83GqcHoLOtg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden. Bei mir wurde an einem Bein mit der neuen Technik eine Krampfader verletzt, die der Körper nun abbaut. Es heilt gut und das Bein sieht bereits nach kurzer Zeit sehr viel besser aus als vorher und lagert auch kein Wasser mehr ein. Ich fühle mich sehr gut betreut und beraten und die OP verlief locker, leicht und unbeschwert. Alle in der Praxis sind sehr freundlich und ich fühle mich wohl dort.",
+      "time": 1791819116,
+      "translated": false
+    },
+    {
+      "author_name": "Manuela Thiel-Preuß",
+      "author_url": "https://www.google.com/maps/contrib/110261237281530772342/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRAm4zhjU5VY6TNtiiIF1vj6YiZAcgjyIZXNsfj2u83GqcHoLOtg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin sehr zufrieden. Bei mir wurde an einem Bein mit der neuen Technik eine Krampfader verletzt, die der Körper nun abbaut. Es heilt gut und das Bein sieht bereits nach kurzer Zeit sehr viel besser aus als vorher und lagert auch kein Wasser mehr ein. Ich fühle mich sehr gut betreut und beraten und die OP verlief locker, leicht und unbeschwert. Alle in der Praxis sind sehr freundlich und ich fühle mich wohl dort.",
       "time": 1791819116,
       "translated": false
@@ -73,6 +95,18 @@
       "translated": false
     },
     {
+      "author_name": "Ulrich Krüger",
+      "author_url": "https://www.google.com/maps/contrib/111393165903216988247/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsMD9DzX5PtAkz95aemEwHRXBZMS9F7N2CjiZq3_yVdR6EDw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr freundlicher Empfang.\nÄrztin hat sich Zeit genommen .\nIch fühle mich dort verstanden und gut aufgehoben.",
+      "time": 1790092419,
+      "translated": false
+    },
+    {
       "author_name": "Gabriele",
       "author_url": "https://www.google.com/maps/contrib/100680951774638029811/reviews",
       "language": "de",
@@ -116,6 +150,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgtTbGPCFb2Gi9u7VAiIix_7HbEjJa0TFH4KZ33a_hFPR14g=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich kann Dr. Linz NICHT empfehlen.\nIch war wegen Beschwerden in den Beinen bei Dr. Linz, da ich seit Jahren in der Praxis zur Behandlung war, aber bisher immer bei einem anderen Arzt. Die Damen am Empfang waren nett und hilfsbereit, leider aber nicht der Arzt.\nIch hatte ihm Fragen gestellt, was man bei meinen Beschwerden machen kann. Plötzlich hat er mir in einem aggressiven Ton den Mund verboten. Das hat er dreimal wiederholt und mich wegen meines Alters diskriminiert. Am Ende wurde ich noch nicht mal untersucht und sogar aus der Praxis geschmissen. Mir wurde sogar gesagt, dass ich mir einen neuen Arzt suchen soll. Ein solches Verhalten gegenüber Patienten habe ich von einem Arzt noch nie gesehen oder gehört.",
+      "time": 1789849242,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele",
+      "author_url": "https://www.google.com/maps/contrib/100680951774638029811/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgtTbGPCFb2Gi9u7VAiIix_7HbEjJa0TFH4KZ33a_hFPR14g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich kann Dr. Linz NICHT empfehlen.\nIch war wegen Beschwerden in den Beinen bei Dr. Linz, da ich seit Jahren in der Praxis zur Behandlung war, aber bisher immer bei einem anderen Arzt. Die Damen am Empfang waren nett und hilfsbereit, leider aber nicht der Arzt.\nIch hatte ihm Fragen gestellt, was man bei meinen Beschwerden machen kann. Plötzlich hat er mir in einem aggressiven Ton den Mund verboten. Das hat er dreimal wiederholt und mich wegen meines Alters diskriminiert. Am Ende wurde ich noch nicht mal untersucht und sogar aus der Praxis geschmissen. Mir wurde sogar gesagt, dass ich mir einen neuen Arzt suchen soll. Ein solches Verhalten gegenüber Patienten habe ich von einem Arzt noch nie gesehen oder gehört.",
       "time": 1789849242,
       "translated": false
@@ -1434,11 +1480,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 241,
+  "reviewCount": 242,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-19T10:30:04.036Z"
+  "lastUpdated": "2026-10-22T09:50:23.351Z"
 }

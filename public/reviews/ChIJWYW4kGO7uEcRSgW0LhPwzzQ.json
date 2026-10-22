@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Heike K.",
+      "author_url": "https://www.google.com/maps/contrib/111639223836306214116/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC5ocHModV9p--Y-BqGLKexqEKMihQZwd9I3M2pm1a2K98mylGFA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann nur Positives berichten. Über Doctolib innerhalb weniger Tage einen Termin bekommen,  knapp 5 Minuten im Wartezimmer gewartet. Ärztin Frau Dr. Korth sehr freundlich und bemüht. Komme hier gerne bei Bedarf wieder hin.",
+      "time": 1792612567,
+      "translated": false
+    },
+    {
       "author_name": "Bettina C.",
       "author_url": "https://www.google.com/maps/contrib/100985072163011188846/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlWUjnDn-ONB6JhSr9svRMw2IK8Yal39Lnp8M0FO2sBpT7yo0_=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlWUjnDn-ONB6JhSr9svRMw2IK8Yal39Lnp8M0FO2sBpT7yo0_=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791294892,
+      "translated": false
+    },
+    {
+      "author_name": "Bettina C.",
+      "author_url": "https://www.google.com/maps/contrib/100985072163011188846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlWUjnDn-ONB6JhSr9svRMw2IK8Yal39Lnp8M0FO2sBpT7yo0_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1791294892,
       "translated": false
@@ -94,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9V0CpiLgH3_v0Lqvgdu-aXUVgUMiQqmAUONcnwmD_B2JMFbE=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr enttäuschende Erfahrung. Trotz eines vorab gebuchten Termins in der Akutsprechstunde betrug die Wartezeit im Chaos des Warteraums über eine halbe Stunde, während neu ankommende Patienten ständig vorgezogen wurden. Die anschließende Behandlung dauerte keine zwei Minuten: Mein jahrelanger, fortschreitender Haarausfall wurde ohne jede körperliche Untersuchung oder Blutabnahme mit einer Standardfloskel abgetan. Statt medizinischer Ursachenforschung wurde mir ein Blutbild als IGeL-Leistung für 250 € angeboten und kostenlose Werbeproben in die Hand gedrückt. Hier geht es leider primär um Privatleistungen und nicht um das Patientenwohl. Nicht zu empfehlen.",
+      "time": 1790230099,
+      "translated": false
+    },
+    {
+      "author_name": "Bayonettaa x3",
+      "author_url": "https://www.google.com/maps/contrib/116813636914874120838/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9V0CpiLgH3_v0Lqvgdu-aXUVgUMiQqmAUONcnwmD_B2JMFbE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr enttäuschende Erfahrung. Trotz eines vorab gebuchten Termins in der Akutsprechstunde betrug die Wartezeit im Chaos des Warteraums über eine halbe Stunde, während neu ankommende Patienten ständig vorgezogen wurden. Die anschließende Behandlung dauerte keine zwei Minuten: Mein jahrelanger, fortschreitender Haarausfall wurde ohne jede körperliche Untersuchung oder Blutabnahme mit einer Standardfloskel abgetan. Statt medizinischer Ursachenforschung wurde mir ein Blutbild als IGeL-Leistung für 250 € angeboten und kostenlose Werbeproben in die Hand gedrückt. Hier geht es leider primär um Privatleistungen und nicht um das Patientenwohl. Nicht zu empfehlen.",
       "time": 1790230099,
       "translated": false
@@ -1136,11 +1170,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 51,
+  "reviewCount": 52,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-19T10:29:59.507Z"
+  "lastUpdated": "2026-10-22T09:50:17.443Z"
 }

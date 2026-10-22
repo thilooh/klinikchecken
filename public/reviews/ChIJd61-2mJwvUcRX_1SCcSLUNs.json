@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nancy Helferich",
+      "author_url": "https://www.google.com/maps/contrib/113121737192646485927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGivcCv622c_6HoaddcETf9gKnb3Vknv-JhYpavOoC5nCe1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Ärzte und Schwestern. Alle professionell und sehr freundlich.",
+      "time": 1792584721,
+      "translated": false
+    },
+    {
       "author_name": "Werner Ziegs",
       "author_url": "https://www.google.com/maps/contrib/101191563007201688405/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdS7kXwCJoQH-L6_qk0o8ueqeDBjQ1H6GvQlQfiCjvRhDBFmA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Bad König",
+      "time": 1790087032,
+      "translated": false
+    },
+    {
+      "author_name": "Werner Ziegs",
+      "author_url": "https://www.google.com/maps/contrib/101191563007201688405/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdS7kXwCJoQH-L6_qk0o8ueqeDBjQ1H6GvQlQfiCjvRhDBFmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Bad König",
       "time": 1790087032,
       "translated": false
@@ -236,6 +260,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUU8iYygnVyckUFfM4gWLEpL1LrMa-NfjLZ-0VP-z2gmCPN3Zh=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Wie versprochen, es hat nicht weh getan 👍",
+      "time": 1782139279,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Standhartinger",
+      "author_url": "https://www.google.com/maps/contrib/106876404062000298890/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUU8iYygnVyckUFfM4gWLEpL1LrMa-NfjLZ-0VP-z2gmCPN3Zh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Wie versprochen, es hat nicht weh getan 👍",
       "time": 1782139279,
       "translated": false
@@ -622,11 +658,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 52,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-19T10:30:05.999Z"
+  "lastUpdated": "2026-10-22T09:50:25.858Z"
 }

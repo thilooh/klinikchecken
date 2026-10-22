@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Bracher",
+      "author_url": "https://www.google.com/maps/contrib/110955164830250902859/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITV9loTuDsPaQnlPXSFXWi-R_f0WGpK1K_zzmgYVURX1pHcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fünf Sterne. Für Praxisorganisation, Freundlichkeit, Beratung und Behandlung.",
+      "time": 1792604037,
+      "translated": false
+    },
+    {
       "author_name": "Diana Frik",
       "author_url": "https://www.google.com/maps/contrib/101271319151724816038/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYl956bKYKGAUz5OZFDpLC0fKZuR1IBkDZTGGIBKYjuUBLYg=s128-c0x00000000-cc-rp-mo",
@@ -36,6 +48,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYl956bKYKGAUz5OZFDpLC0fKZuR1IBkDZTGGIBKYjuUBLYg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1790166754,
+      "translated": false
+    },
+    {
+      "author_name": "Diana Frik",
+      "author_url": "https://www.google.com/maps/contrib/101271319151724816038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYl956bKYKGAUz5OZFDpLC0fKZuR1IBkDZTGGIBKYjuUBLYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1790166754,
       "translated": false
@@ -236,6 +258,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb2XVvDljKYF1Us70BVINGK9V6-H9-7CdNyhuuSjnSVvTyHLhT7A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1784648040,
+      "translated": false
+    },
+    {
+      "author_name": "klaudius freitag",
+      "author_url": "https://www.google.com/maps/contrib/101337356524869498422/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb2XVvDljKYF1Us70BVINGK9V6-H9-7CdNyhuuSjnSVvTyHLhT7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1784648040,
       "translated": false
@@ -850,11 +882,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-10-19T10:30:11.140Z"
+  "lastUpdated": "2026-10-22T09:50:32.304Z"
 }

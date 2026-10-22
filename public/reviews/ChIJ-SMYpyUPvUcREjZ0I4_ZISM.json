@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sofia Maria Kajtazi",
+      "author_url": "https://www.google.com/maps/contrib/106912368786848989309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4GgctePHZZHehK--yl4_KrymlxOWxK8vykLdLYPmltmLZ6vLKRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde heute von Frau Dr. L. Petrescu an meinen Krampfadern operiert und bin wirklich sehr zufrieden. Das ganze Team war sehr freundlich und lieb, und Frau Dr. Petrescu hat mir alles ganz in Ruhe und ausführlich erklärt.\n\nBesonders beeindruckt hat mich auch die gute Vorbereitung und wie harmonisch das ganze Team zusammengearbeitet hat. Man hat gemerkt, dass jeder genau weiß, was zu tun ist und sich alle aufeinander verlassen können. Das hat mir ein sehr gutes Gefühl gegeben und mir viel von meiner Angst genommen.\n\nIch hatte ehrlich gesagt ziemlich Angst vor der OP, weil ich sehr empfindlich bin. Aber ich war wirklich positiv überrascht, denn ich habe von der ambulanten Operation kaum etwas gespürt. Ich habe mich von Anfang an gut aufgehoben gefühlt.\n\nVielen lieben Dank an Frau Dr. Petrescu und die Arzthelferinnen für die freundliche Betreuung und die tolle Arbeit. 💐 Ich kann die Praxis wirklich nur weiterempfehlen. Gerade wenn man mit Angst zu einer OP geht, macht es einen großen Unterschied, wenn man so herzlich empfangen wird und merkt, dass man in guten Händen ist.☺️",
+      "time": 1792493393,
+      "translated": false
+    },
+    {
       "author_name": "Vika Tigra",
       "author_url": "https://www.google.com/maps/contrib/110035352378672450800/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFT509O-EG5pczBmWQwuFukKRgjbwFRJWCYilNhI3K2XpTA-er=s128-c0x00000000-cc-rp-mo",
@@ -38,6 +50,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_5TQ7sEj2p7K4_igDrvxfFxS2n0UfXHtuqlkOMpdWqz00Iz8s=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank für die SUPER Venenbehandlung. Ich kann nur jedem empfehlen nicht so lange zu warten, und sich kurzfristig von Dr. Hölper behandeln zu lassen. Ich kann das Venenzentrum uneingeschränkt nur weiterempfehlen!!!",
+      "time": 1791956755,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Schick",
+      "author_url": "https://www.google.com/maps/contrib/118116164212109262659/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_5TQ7sEj2p7K4_igDrvxfFxS2n0UfXHtuqlkOMpdWqz00Iz8s=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Vielen Dank für die SUPER Venenbehandlung. Ich kann nur jedem empfehlen nicht so lange zu warten, und sich kurzfristig von Dr. Hölper behandeln zu lassen. Ich kann das Venenzentrum uneingeschränkt nur weiterempfehlen!!!",
       "time": 1791956755,
       "translated": false
@@ -1356,7 +1380,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 171,
+  "reviewCount": 172,
   "summary": [],
-  "lastUpdated": "2026-10-19T10:29:32.659Z"
+  "lastUpdated": "2026-10-22T09:49:42.558Z"
 }

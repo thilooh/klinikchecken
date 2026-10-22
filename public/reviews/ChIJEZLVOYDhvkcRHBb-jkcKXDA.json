@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "A",
+      "author_url": "https://www.google.com/maps/contrib/101730821576299055640/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9jcQOOZlzJgPSfEO-vHDomgGyAV0Iubg6G6Hu2riAfc9KPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791884570,
+      "translated": false
+    },
+    {
       "author_name": "Boukhair Joumana",
       "author_url": "https://www.google.com/maps/contrib/109706578219090167117/reviews",
       "language": "de",
@@ -90,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5_zOXLbzdHXZloRJQT33XVmWVbxzejUD_2mg2YtxXz1tUXw=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Leider muss ich mich in Kritik üben, da mir hier fast jeder Termin in den letzten Jahren KURZFRISTIG ABGESAGT wurde. Über Doctolib wird entweder gestrichen oder auf einen x-beliebigen Termin Wochen später verschoben....\nFür Krebs- Patienten ist so etwas eine Katastrophe! Wo bleibt da das Einfühlungsvermögen?\nTelefonisch ist fast nie jemand zu erreichen und eine Email Adresse gibt es nicht. Sehr traurig 😖\nDie Behandlung war meist sehr freundlich und professionell.",
+      "time": 1790703190,
+      "translated": false
+    },
+    {
+      "author_name": "J Kas",
+      "author_url": "https://www.google.com/maps/contrib/115266386566666308333/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5_zOXLbzdHXZloRJQT33XVmWVbxzejUD_2mg2YtxXz1tUXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Leider muss ich mich in Kritik üben, da mir hier fast jeder Termin in den letzten Jahren KURZFRISTIG ABGESAGT wurde. Über Doctolib wird entweder gestrichen oder auf einen x-beliebigen Termin Wochen später verschoben....\nFür Krebs- Patienten ist so etwas eine Katastrophe! Wo bleibt da das Einfühlungsvermögen?\nTelefonisch ist fast nie jemand zu erreichen und eine Email Adresse gibt es nicht. Sehr traurig 😖\nDie Behandlung war meist sehr freundlich und professionell.",
       "time": 1790703190,
       "translated": false
@@ -997,12 +1019,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 98,
+  "rating": 4.7,
+  "reviewCount": 97,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-19T10:29:43.913Z"
+  "lastUpdated": "2026-10-22T09:49:57.456Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marvin Möller",
+      "author_url": "https://www.google.com/maps/contrib/107515366361764277458/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc7_UXtUur6tA9hsrx_ZtVf4QtRixpNm9gAfz5jI9b1sBshg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nur eine KI Empfangsdame mit der man sich Unterhalten muss. Nachdem mein Name und mein Anlegen aufgenommen wurde, sagte die KI, sie melden sich und hat Aufgelegt. Die KI hat aber nie meine Telefonnummer oder ähnliches abgefragt....",
+      "time": 1792406895,
+      "translated": false
+    },
+    {
       "author_name": "Matthias Detlefsen",
       "author_url": "https://www.google.com/maps/contrib/110648107433925121561/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM51WgnCjlMsXDvUCYVed7KCtAnppGit3FDJV4GAdladIxzwYs=s128-c0x00000000-cc-rp-mo",
@@ -83,6 +95,18 @@
       "translated": false
     },
     {
+      "author_name": "Jutta Boldt",
+      "author_url": "https://www.google.com/maps/contrib/101152817354065517397/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInDHK_nYCuiVlwVj0Lxl6HpLZxj7O5wVcEdcxEoRNUJiaHDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Ich gehe seit vielen Jahren in diese Praxis zum Hautcreening und  bin sehr zufrieden. Das Personal der Praxis ist sehr höflich und freundlich. Obwohl ich ca. 60 km entfernt wohne, bleibe ich auf jedem Fall in dieser Praxis.",
+      "time": 1790005417,
+      "translated": false
+    },
+    {
       "author_name": "Hamburger Boy",
       "author_url": "https://www.google.com/maps/contrib/116737077855206624556/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzssriHztyosl5JzQaQvMpBron6Ike6ksY5GMCHGpCwAYvXDwV=s128-c0x00000000-cc-rp-mo-ba3",
@@ -128,6 +152,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzssriHztyosl5JzQaQvMpBron6Ike6ksY5GMCHGpCwAYvXDwV=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1789970039,
+      "translated": false
+    },
+    {
+      "author_name": "Hamburger Boy",
+      "author_url": "https://www.google.com/maps/contrib/116737077855206624556/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzssriHztyosl5JzQaQvMpBron6Ike6ksY5GMCHGpCwAYvXDwV=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1789970039,
       "translated": false
@@ -1518,11 +1552,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 153,
+  "reviewCount": 154,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:40.664Z"
+  "lastUpdated": "2026-10-22T09:49:53.227Z"
 }

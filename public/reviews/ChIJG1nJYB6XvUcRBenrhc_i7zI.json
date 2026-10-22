@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Isabel",
+      "author_url": "https://www.google.com/maps/contrib/112823314708163117754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmj8KbJpW14fJreHPoHf_qAbfud-kYUhGTJL-FXLcrtT-_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit ein paar Monaten bin ich Patientin in der Praxis Dr. Kasten.\nÜber den ersten Kontakt, zur Vorbesprechung der OP bis hin zur OP war alles perfekt.\n\nDie Aufklärung vor und während der OP war einwandfrei. Alle Fragen wurden kompetent und in Ruhe beantwortet.\n\nHervorheben möchte ich die tolle Idee Videos zu den einzelnen OPs auf der Website zu hinterlegen.\n\nAlles in allem waren die Aufenthalte in dieser Praxis geprägt mit Vertrauen und Wertschätzung. Freundlichkeit wird hier auch sehr groß geschrieben. Danke!",
+      "time": 1792527659,
+      "translated": false
+    },
+    {
       "author_name": "Susann von Doepp",
       "author_url": "https://www.google.com/maps/contrib/105452671693577634511/reviews",
       "language": "de",
@@ -242,6 +254,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu59xtIp_Uq8gN6gpANjty6svQvu1UCBPx7zTRQc1hHyvuXw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Ich gehe seit einigen Jahren dorthin und kann bestätigen, dass es eine wirklich angenehme Praxis mit sehr gutem Service ist. Die Terminvereinbarung online ist unkompliziert, man erhält eine Bestätigung per E-Mail und muss im Wartezimmer nicht warten. Ärzte und Assistenten sind hochqualifiziert und sprechen fließend Deutsch und Englisch. Es gibt ausreichend Parkplätze. Der Kundenservice ist erstklassig (10/10).",
+      "time": 1784873186,
+      "translated": true
+    },
+    {
+      "author_name": "Charles Bagarie",
+      "author_url": "https://www.google.com/maps/contrib/112692288391487092763/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu59xtIp_Uq8gN6gpANjty6svQvu1UCBPx7zTRQc1hHyvuXw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Ich gehe seit einigen Jahren dorthin und kann bestätigen, dass es eine wirklich angenehme Praxis mit sehr gutem Service ist. Die Terminvereinbarung online ist unkompliziert, man erhält eine Bestätigung per E-Mail und muss im Wartezimmer nicht warten. Ärzte und Assistenten sind hochqualifiziert und sprechen fließend Deutsch und Englisch. Es gibt ausreichend Parkplätze. Der Kundenservice ist erstklassig (10/10).",
       "time": 1784873186,
       "translated": true
@@ -1174,11 +1198,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 231,
+  "reviewCount": 232,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:55.958Z"
+  "lastUpdated": "2026-10-22T09:50:12.941Z"
 }

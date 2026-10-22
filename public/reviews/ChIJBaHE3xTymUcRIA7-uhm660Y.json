@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Doris Schillinger",
+      "author_url": "https://www.google.com/maps/contrib/117847011461185826570/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrTYn-0O3QV2R5S_L3hNeiUouer9VGs2kViyyWZYkrzeYnww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792568628,
+      "translated": false
+    },
+    {
       "author_name": "Deniz",
       "author_url": "https://www.google.com/maps/contrib/111050913472767020206/reviews",
       "language": "de",
@@ -188,6 +198,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyEEbL1bBjK0x5t2Bfw5Bpv_J2d1ghsarp4i76D-yggGeLZN_S=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "vor einem Monat",
+      "text": "Zwei Sterne wegen den netten Leuten am Empfang. Die Praxis ist  auch sehr schön eingerichtet. Der behandelnde Arzt allerdings,seinen Namen habe Ich nicht verstanden genauso wie den Großteil der Unterhaltung...unfreundlich, mürrisch. Nach dem Motto: Was wollen Sie hier?",
+      "time": 1787298879,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Rissel",
+      "author_url": "https://www.google.com/maps/contrib/114125240214681926763/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyEEbL1bBjK0x5t2Bfw5Bpv_J2d1ghsarp4i76D-yggGeLZN_S=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Zwei Sterne wegen den netten Leuten am Empfang. Die Praxis ist  auch sehr schön eingerichtet. Der behandelnde Arzt allerdings,seinen Namen habe Ich nicht verstanden genauso wie den Großteil der Unterhaltung...unfreundlich, mürrisch. Nach dem Motto: Was wollen Sie hier?",
       "time": 1787298879,
       "translated": false
@@ -1116,11 +1138,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 111,
+  "reviewCount": 112,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:30:10.279Z"
+  "lastUpdated": "2026-10-22T09:50:31.273Z"
 }

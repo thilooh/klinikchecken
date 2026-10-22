@@ -61,6 +61,16 @@
       "translated": false
     },
     {
+      "author_name": "City Security",
+      "author_url": "https://www.google.com/maps/contrib/108630438003803244595/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIehO9UsMsNqg10w1roLjsSJVVFemGcJOIAxnWRQzEt1ef_hg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1787290538,
+      "translated": false
+    },
+    {
       "author_name": "Detlef Dolezal",
       "author_url": "https://www.google.com/maps/contrib/108965921660843044714/reviews",
       "language": "de",
@@ -742,5 +752,5 @@
   "rating": 3.5,
   "reviewCount": 105,
   "summary": [],
-  "lastUpdated": "2026-10-19T10:29:38.204Z"
+  "lastUpdated": "2026-10-22T09:49:50.131Z"
 }

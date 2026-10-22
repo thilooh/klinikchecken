@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Angela Geckert",
+      "author_url": "https://www.google.com/maps/contrib/104381373755365502430/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKch3VDlcof_xbC31jBIHgJvSk6JakGBNtXl0Qdz9qwhGh58g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792573576,
+      "translated": false
+    },
+    {
       "author_name": "Mena Mena",
       "author_url": "https://www.google.com/maps/contrib/102721542105111322132/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJco2Stm9esURNjKw3nKrbFusNYDgSQ_eAzSUstlE3THwMe9w=s128-c0x00000000-cc-rp-mo",
@@ -88,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhlOBJdIUHa1d1zZcU2P6K3lanLNtmiZK2Tu38jqV2xGzv7K4w=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Freudluche Aufnahme, kurze Wartezeit, gute Behandlung",
+      "time": 1791261068,
+      "translated": false
+    },
+    {
+      "author_name": "Uhlemann",
+      "author_url": "https://www.google.com/maps/contrib/110815545480267979167/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhlOBJdIUHa1d1zZcU2P6K3lanLNtmiZK2Tu38jqV2xGzv7K4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Freudluche Aufnahme, kurze Wartezeit, gute Behandlung",
       "time": 1791261068,
       "translated": false
@@ -1612,5 +1634,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:30:01.700Z"
+  "lastUpdated": "2026-10-22T09:50:20.370Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Susann Terjung",
+      "author_url": "https://www.google.com/maps/contrib/108180195361659712874/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLE01mM4B3pRji_TXLoiIEKIr-BkLPAJ-jT_xZv76asRNAqow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe Dr Pourhassan als sehr kompetent und Mensch zugewandt erlebt.\nEr nimmt sich Zeit für seine Patienten und erklärt alles in Ruhe und ausführlich.",
+      "time": 1792418526,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Maassen",
       "author_url": "https://www.google.com/maps/contrib/117853453149540606589/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpPmluBy2jI1FwU8ErKVeRvVlx7d8bHoqs8Bdjqmo5LifFfg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr freundliche Sprechstundenhilfen die mir kompetent weiter geholfen haben!!!\nDer Arzt selbst hat sich die Zeit genommen, mir alles bis ins Kleinste zu erklären!!!\nImmer fragte er mich, ob ich seine Ausführungen verstanden habe.\nFür mich ist dieser Arzt, der nicht nur die Gefäßchirurgie beherrscht, sondern ganzheitlich den Menschen in den Fokus rückt!!!\nBedingt durch seine Untersuchungen weiß ich jetzt das ist keine neue Hüfte benötige.!\nDanke dem ganzen Team!!!!",
+      "time": 1791295545,
+      "translated": false
+    },
+    {
+      "author_name": "leni Möller",
+      "author_url": "https://www.google.com/maps/contrib/109059383216870775513/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpPmluBy2jI1FwU8ErKVeRvVlx7d8bHoqs8Bdjqmo5LifFfg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr freundliche Sprechstundenhilfen die mir kompetent weiter geholfen haben!!!\nDer Arzt selbst hat sich die Zeit genommen, mir alles bis ins Kleinste zu erklären!!!\nImmer fragte er mich, ob ich seine Ausführungen verstanden habe.\nFür mich ist dieser Arzt, der nicht nur die Gefäßchirurgie beherrscht, sondern ganzheitlich den Menschen in den Fokus rückt!!!\nBedingt durch seine Untersuchungen weiß ich jetzt das ist keine neue Hüfte benötige.!\nDanke dem ganzen Team!!!!",
       "time": 1791295545,
       "translated": false
@@ -80,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVJwc3P03gnLveFCKEmHiu6_ddtqIRJdK7qwxhfaSrfng70w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Diese Praxis lässt einen vergessen, wie unser Gesundheitssystem teilweise ist.\nEin sehr freundliches Praxis-Team, ein kompetenter, erfahrener und zugewandter Arzt.\nIch fühlte mich sehr gut aufgehoben, ernst genommen und behandelt. Top!",
+      "time": 1790021089,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine",
+      "author_url": "https://www.google.com/maps/contrib/103128852255676244631/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVJwc3P03gnLveFCKEmHiu6_ddtqIRJdK7qwxhfaSrfng70w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Diese Praxis lässt einen vergessen, wie unser Gesundheitssystem teilweise ist.\nEin sehr freundliches Praxis-Team, ein kompetenter, erfahrener und zugewandter Arzt.\nIch fühlte mich sehr gut aufgehoben, ernst genommen und behandelt. Top!",
       "time": 1790021089,
       "translated": false
@@ -1156,11 +1192,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 69,
+  "reviewCount": 70,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen"
   ],
-  "lastUpdated": "2026-10-19T10:30:00.384Z"
+  "lastUpdated": "2026-10-22T09:50:18.712Z"
 }

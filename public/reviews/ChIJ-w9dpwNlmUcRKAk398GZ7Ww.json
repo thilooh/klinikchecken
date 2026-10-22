@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Taner 230",
+      "author_url": "https://www.google.com/maps/contrib/100379509596310557964/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfXGQhpfp1W4ZD9wOQRaFiNoh9NlNBM_ji99g6K2aEsmOuRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde vor Kurzem am Steißbein operiert und bin absolut begeistert von der gesamten Behandlung. Von der ersten Voruntersuchung bis hin zur Nachsorge nach der Operation habe ich mich rundum bestens aufgehoben gefühlt. Das gesamte Team ist super toll, unglaublich nett und einfühlsam – angefangen bei Frau Maier bis hin zu den Krankenschwestern auf der Station. Vielen Dank für die großartige und menschliche Unterstützung in dieser Zeit. Ich kann diese Klinik/Praxis wärmstens weiterempfehlen!",
+      "time": 1792661062,
+      "translated": false
+    },
+    {
       "author_name": "Zlatan J",
       "author_url": "https://www.google.com/maps/contrib/115127179107131688673/reviews",
       "language": "de",
@@ -55,6 +67,16 @@
       "translated": false
     },
     {
+      "author_name": "Alexander Kranz",
+      "author_url": "https://www.google.com/maps/contrib/104077865756921787180/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPI8u2QjEWDOSns1pl0swYkcYbASbVWAw4_C3rIKcEMc9tsQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1790832442,
+      "translated": false
+    },
+    {
       "author_name": "Tatjana Frank",
       "author_url": "https://www.google.com/maps/contrib/101793389635414073308/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRPOZq1qmGwvK7JIFfmreMPZDSQJ9ex4mBzTe0VjTCZH3BCQ=s128-c0x00000000-cc-rp-mo-ba2",
@@ -80,6 +102,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRPOZq1qmGwvK7JIFfmreMPZDSQJ9ex4mBzTe0VjTCZH3BCQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1790710138,
+      "translated": false
+    },
+    {
+      "author_name": "Tatjana Frank",
+      "author_url": "https://www.google.com/maps/contrib/101793389635414073308/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRPOZq1qmGwvK7JIFfmreMPZDSQJ9ex4mBzTe0VjTCZH3BCQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1790710138,
       "translated": false
@@ -130,6 +162,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxFM5sa2Vr0oOmmgEHPoHL_sKB1vqoI4J9JpvKXzT_YDJ7gTP9=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1789929860,
+      "translated": false
+    },
+    {
+      "author_name": "Walter Michael Duschek",
+      "author_url": "https://www.google.com/maps/contrib/104993791364120846785/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxFM5sa2Vr0oOmmgEHPoHL_sKB1vqoI4J9JpvKXzT_YDJ7gTP9=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1789929860,
       "translated": false
@@ -1422,11 +1464,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 166,
+  "reviewCount": 167,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-19T10:29:48.639Z"
+  "lastUpdated": "2026-10-22T09:50:03.744Z"
 }

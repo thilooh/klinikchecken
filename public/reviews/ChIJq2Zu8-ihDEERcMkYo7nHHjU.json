@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "sözdar Unvar",
+      "author_url": "https://www.google.com/maps/contrib/111719259475866718487/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlvr-OP6gPerl3mYPZuJ0BZanK7Th3gzD3eT4lLIq5AckXq600Bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792615274,
+      "translated": false
+    },
+    {
       "author_name": "Ramon Iglesia Gonzalez",
       "author_url": "https://www.google.com/maps/contrib/118106779985392697337/reviews",
       "language": "de",
@@ -120,6 +130,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHPngnwOiE5b0kwGz2I4vD5N5fQW_Nyn9sRzcYfPPsqHWI-g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1790167652,
+      "translated": false
+    },
+    {
+      "author_name": "CLAUDIA Lefevre",
+      "author_url": "https://www.google.com/maps/contrib/102634484063785831017/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHPngnwOiE5b0kwGz2I4vD5N5fQW_Nyn9sRzcYfPPsqHWI-g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1790167652,
       "translated": false
@@ -1380,11 +1400,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 276,
+  "reviewCount": 277,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-19T10:29:50.756Z"
+  "lastUpdated": "2026-10-22T09:50:06.205Z"
 }

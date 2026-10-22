@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Roger Lang",
+      "author_url": "https://www.google.com/maps/contrib/110240288977301430128/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMXD1ouHDjkIrWE6No2TDT4BBEfmXF6code-G8BEMyjKNgBhxe_Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heut muß man ja schon sagen...eine positive Ausnahmeerscheinung solch ein Doc. Kompetent und äußerst freundlich und zugänglich.  N i c h t   n u r   nach Norm. Die Bandagen,die der Gesetzgeber den Ärzten aufgedrückt hat sind vollkommen daneben, denn sie sind gesundheitskontraproduktiv.",
+      "time": 1792585322,
+      "translated": false
+    },
+    {
       "author_name": "Meysam Meysam",
       "author_url": "https://www.google.com/maps/contrib/114811880927115145403/reviews",
       "language": "de",
@@ -73,6 +85,18 @@
       "translated": false
     },
     {
+      "author_name": "J. A.",
+      "author_url": "https://www.google.com/maps/contrib/103224730964061444587/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA5neJ4mDnXeHoi_53x1gJpdr89Ts6SZws4k8AjLNT3WUMzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kann diese Praxis uneingeschränkt weiterempfehlen. Man bekommt verhältnismäßig schnell einen Termin und alle sind total freundlich. Würde auf keinen Fall mehr woanders hingehen. Ich habe mich zu jeder Zeit wohl und ernst genommen gefühlt. Es wurde sich Zeit gelassen und ich hatte nicht das Gefühl, dass ich „abgearbeitet“ werde o.ä.",
+      "time": 1790695680,
+      "translated": false
+    },
+    {
       "author_name": "Carolina Moran",
       "author_url": "https://www.google.com/maps/contrib/101761462044087329385/reviews",
       "language": "de",
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqjcRyodV9zfDnqG6T3xEKRZRnsxPl4iEE7CFh1HuNY4RuoA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Der beste Arzttermin, den ich je hatte!\n\nIch wurde pünktlich aufgerufen und das gesamte Personal war sehr freundlich. Ich werde ohne Zweifel für weitere Behandlungen wiederkommen.",
+      "time": 1790089272,
+      "translated": false
+    },
+    {
+      "author_name": "Carolina Moran",
+      "author_url": "https://www.google.com/maps/contrib/101761462044087329385/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqjcRyodV9zfDnqG6T3xEKRZRnsxPl4iEE7CFh1HuNY4RuoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Der beste Arzttermin, den ich je hatte!\n\nIch wurde pünktlich aufgerufen und das gesamte Personal war sehr freundlich. Ich werde ohne Zweifel für weitere Behandlungen wiederkommen.",
       "time": 1790089272,
       "translated": false
@@ -1584,11 +1620,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 157,
+  "reviewCount": 158,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:39.770Z"
+  "lastUpdated": "2026-10-22T09:49:52.123Z"
 }

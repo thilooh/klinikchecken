@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Oliver Suehring",
+      "author_url": "https://www.google.com/maps/contrib/117473075716926878689/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrIt5CeBcVYa8cdIrXD8TTx4eV2hSfjG3HmLBEKDosaTBBSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe selten eine so professionelle, persönliche und fachlich kompetente Betreuung wie durch Herrn Dr. med. Cammerer und sein Team erleben dürfen. Ich habe mich jederzeit in besten Händen gewusst, wobei dies auf der sehr guten und verständlichen, wie emphatischen Vermittlung der Diagnose und der Behandlung durch Herrn Dr. Cammerer basierte.\nIch kann Herrn Dr. Cammerer und sein ganzes Team nur wärmstens mit Bestnoten empfehlen und sage herzlichen Dank!",
+      "time": 1792573112,
+      "translated": false
+    },
+    {
       "author_name": "G",
       "author_url": "https://www.google.com/maps/contrib/114785674113664518461/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0skg1lzCpxdG2lBx_UKLFxllabgivffFFiGPt29pgFRO4Tw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden und kann diese Praxis nur weiterempfehlen – hier ist man wirklich in den besten Händen. Vielen Dank an das gesamte Team!",
+      "time": 1791924622,
+      "translated": false
+    },
+    {
+      "author_name": "G",
+      "author_url": "https://www.google.com/maps/contrib/114785674113664518461/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0skg1lzCpxdG2lBx_UKLFxllabgivffFFiGPt29pgFRO4Tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin sehr zufrieden und kann diese Praxis nur weiterempfehlen – hier ist man wirklich in den besten Händen. Vielen Dank an das gesamte Team!",
       "time": 1791924622,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA6_kDOlzV_6D9uprJ9o7RSxfEOWMnuFQarHYzo_N6sMnuVQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Das gesamte Team ist sehr einfühlsam. Es wurde mir immer genau gesagt was gemacht wird und wo ich berührt werde. Das hat mir persönlich die Angst sehr genommen. Man wird super aufgeklärt und beraten. Diese Praxis kann ich weiter empfehlen.",
+      "time": 1790160585,
+      "translated": false
+    },
+    {
+      "author_name": "Tami",
+      "author_url": "https://www.google.com/maps/contrib/113172981902428937553/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA6_kDOlzV_6D9uprJ9o7RSxfEOWMnuFQarHYzo_N6sMnuVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Das gesamte Team ist sehr einfühlsam. Es wurde mir immer genau gesagt was gemacht wird und wo ich berührt werde. Das hat mir persönlich die Angst sehr genommen. Man wird super aufgeklärt und beraten. Diese Praxis kann ich weiter empfehlen.",
       "time": 1790160585,
       "translated": false
@@ -1184,11 +1220,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 95,
+  "reviewCount": 96,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:49.247Z"
+  "lastUpdated": "2026-10-22T09:50:04.225Z"
 }

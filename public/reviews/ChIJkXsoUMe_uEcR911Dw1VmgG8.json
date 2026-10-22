@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kenan Bögüs",
+      "author_url": "https://www.google.com/maps/contrib/103709114995939913737/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSJlltX2ymyLqyr1IZhhbt4MQr4csc7dn7438zqAwnw2iB_fI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte sehr lange mit starkem Haarausfall zu kämpfen. Erst als ich zu diesem Hautarzt gekommen bin, hat sich alles zum Guten gewendet. Er hat mir sehr geholfen und dafür bin ich sehr dankbar.Heute geht es mir wieder super. Meine Haare sind wieder schön dick und voll geworden und fallen nicht mehr aus. Ich kann diesen Hautarzt nur weiterempfehlen!",
+      "time": 1792575446,
+      "translated": false
+    },
+    {
       "author_name": "meinungsagen.online",
       "author_url": "https://www.google.com/maps/contrib/115630085956554403564/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt8fR58bOk92cgZLnag9uLAHpiCeNdYTHvxS4X_NV0V8207I8=s128-c0x00000000-cc-rp-mo-ba6",
@@ -1270,11 +1282,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 225,
+  "reviewCount": 226,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-19T10:29:46.722Z"
+  "lastUpdated": "2026-10-22T09:50:01.189Z"
 }

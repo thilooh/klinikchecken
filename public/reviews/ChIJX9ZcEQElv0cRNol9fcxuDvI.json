@@ -195,6 +195,18 @@
       "translated": false
     },
     {
+      "author_name": "Ingo Hagen",
+      "author_url": "https://www.google.com/maps/contrib/113113554977749810326/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIyFoLqmedelWAM7QMbRtkHQC1PR12vrr_Xe80KSznWROSmrR3=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Meine Mutter ist jetzt schon länger als Patientin im MVZ.\nDa ich immer mit vor Ort bin, kann ich schreiben wir sind sehr zufrieden, seit meine Mutter dort in Behandlung ist, schreitet die Heilung voran.\n\nDas ganze Team ist sehr freundlich und fachkundig!\nbesonderer Dank an Frau Preker.",
+      "time": 1790110379,
+      "translated": false
+    },
+    {
       "author_name": "HB",
       "author_url": "https://www.google.com/maps/contrib/110868456075638942643/reviews",
       "language": "de",
@@ -226,6 +238,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDgiMbkwf0XyOTbQVyRR9Optzf432J2bwFYjcXLTe56xxnYjIg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war zum 1. Mal in dieser Praxis und würde jederzeit wiederkommen.\nMal von den extrem unfreundlichen Damen am Empfang abgesehen, war die Ärztin umso freundlicher, kompetent und hat alles super erklärt/aufgeklärt.\nDie Wartezeit war top..max. 5 Minuten und schon war ich dran.\nNur die Damen am Empfang waren eine Katastrophe!\nAber dennoch eine TOP Praxis.",
+      "time": 1790063889,
+      "translated": false
+    },
+    {
+      "author_name": "HB",
+      "author_url": "https://www.google.com/maps/contrib/110868456075638942643/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDgiMbkwf0XyOTbQVyRR9Optzf432J2bwFYjcXLTe56xxnYjIg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich war zum 1. Mal in dieser Praxis und würde jederzeit wiederkommen.\nMal von den extrem unfreundlichen Damen am Empfang abgesehen, war die Ärztin umso freundlicher, kompetent und hat alles super erklärt/aufgeklärt.\nDie Wartezeit war top..max. 5 Minuten und schon war ich dran.\nNur die Damen am Empfang waren eine Katastrophe!\nAber dennoch eine TOP Praxis.",
       "time": 1790063889,
       "translated": false
@@ -1273,11 +1297,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 196,
+  "reviewCount": 195,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-10-19T10:29:27.665Z"
+  "lastUpdated": "2026-10-22T09:49:35.887Z"
 }

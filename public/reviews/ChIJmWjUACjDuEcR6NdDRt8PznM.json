@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Jasmin Hermes",
+      "author_url": "https://www.google.com/maps/contrib/114582187108919704551/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU1vWaAIP9B411VCl2CrnZv2KH3zIC0nIkSZnCJmrDpTn_eKAsJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe diese Praxis gezielt ausgewählt, da auf der Homepage die wIRA-Behandlung für Warzen beworben wird. Ich hatte sogar zwei Wochen vorab eine E-Mail geschickt und explizit nach dieser Therapie gefragt – ein Hinweis, dass das Gerät gar nicht existiert, kam nie.\nAls ich extra morgens um 7:00 Uhr mit meiner sechsjährigen Tochter, die unter Schmerzen litt, in die Praxis kam, folgte das totale Organisationsversagen: Das beworbene Gerät war gar nicht da. Schlimmer noch: Man wollte uns eiskalt wegschicken! Mit der Ausrede, man habe schon zehn Patienten, sollten wir ins Krankenhaus oder am nächsten Tag wiederkommen. Ein Kind mit Schmerzen so abzuweisen, ist eine absolute Frechheit.\nErst als ich mir das nicht bieten ließ, einen lautstarken Aufstand gemacht und den Angestellten sowie der Ärztin den Screenshot ihrer eigenen Homepage und meine E-Mail schwarz auf weiß vor die Nase gehalten habe, lenkte man widerwillig ein.\nNur durch meinen Druck hat die Ärztin überhaupt einen Blick auf meine Tochter geworfen. Statt sich jedoch den Fehler im eigenen Praxismanagement einzugestehen in Form einer Entschuldigung, versuchte man am Empfang nur, sich rauszureden und mir einzureden, ich hätte keine Ahnung unter dem Begriff Wira würden alle Behandlungen wie eine Warze behandelt werden kann fallen.Als „Fachberatung“ riet man mir dann noch ernsthaft, für meine Tochter bei Rossmann eine normale Rotlichtlampe zu kaufen, da dies „dasselbe“ sei. Das ist medizinisch und physikalisch absolut falsch. Eine normale Wärmelampe hat keine wIRA-Tiefenwirkung und hilft nicht gegen Warzen. Zudem ist das Gerät der wiratherapie mit einem speziellen Filter der die schädlichen Strahlen filtert.\nHier wurde fachlicher Unsinn erzählt, nur um das eigene Versagen zu überspielen.\nFazit: Empathieloser Umgang mit schmerzgeplagten Kindern, dreiste Ausreden und mangelhafte Fachkompetenz. Nur wer hier massiven Druck macht, wird überhaupt angehört. Absolut nicht zu empfehlen!",
+      "time": 1792661134,
+      "translated": false
+    },
+    {
+      "author_name": "R R",
+      "author_url": "https://www.google.com/maps/contrib/102948546120970675258/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcUKEpsF0qrm4pCoFCddX147FCwR_xJ0K9A6VsyMrDULbm6DMfjA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792499079,
+      "translated": false
+    },
+    {
       "author_name": "Can Yagmur",
       "author_url": "https://www.google.com/maps/contrib/113394832806468940340/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9V5DjlXjnnzNKkM83exFQI6bogsw2_zaEBMfdqJgAZyp6PUNb=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr einladende Umgebung ,die Ärztin sehr freundlich und gründlich  alle Fragen beantwortet und Tipps gegeben ,aufgeklärt.\nDie Helferin sehr nett und schnell einen Termin bekommen.\nIch bin sehr zufrieden mit der Praxis\nDanke",
+      "time": 1791890885,
+      "translated": false
+    },
+    {
+      "author_name": "Caro Bie",
+      "author_url": "https://www.google.com/maps/contrib/107536516019066752966/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9V5DjlXjnnzNKkM83exFQI6bogsw2_zaEBMfdqJgAZyp6PUNb=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr einladende Umgebung ,die Ärztin sehr freundlich und gründlich  alle Fragen beantwortet und Tipps gegeben ,aufgeklärt.\nDie Helferin sehr nett und schnell einen Termin bekommen.\nIch bin sehr zufrieden mit der Praxis\nDanke",
       "time": 1791890885,
       "translated": false
@@ -1072,7 +1106,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 135,
+  "reviewCount": 137,
   "summary": [],
-  "lastUpdated": "2026-10-19T10:29:38.658Z"
+  "lastUpdated": "2026-10-22T09:49:50.772Z"
 }

@@ -101,6 +101,16 @@
       "translated": false
     },
     {
+      "author_name": "Claudia B.",
+      "author_url": "https://www.google.com/maps/contrib/108812042677250502263/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGc225NGpyXSGw0dIiUUyyhCAUm7sEfxsYLy2S2TX9o_oJXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1790082916,
+      "translated": false
+    },
+    {
       "author_name": "Simone Hölbing",
       "author_url": "https://www.google.com/maps/contrib/112448939630198293394/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRYoRzmkH0YxfvDsrBHM6KhW7efsWphgDJx4STjZLadQyAsg=s128-c0x00000000-cc-rp-mo",
@@ -151,6 +161,16 @@
       "translated": false
     },
     {
+      "author_name": "Simone Hölbing",
+      "author_url": "https://www.google.com/maps/contrib/112448939630198293394/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRYoRzmkH0YxfvDsrBHM6KhW7efsWphgDJx4STjZLadQyAsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1789985400,
+      "translated": false
+    },
+    {
       "author_name": "Katalin Kantor",
       "author_url": "https://www.google.com/maps/contrib/115268176627964128232/reviews",
       "language": "de",
@@ -206,6 +226,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDRgZCOWZYyFeMBoWDq-DCZPfD5NqEvRef3VgwicBXD8KNyn8C=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr freundliche und sehr kompetente Ärztin;)",
+      "time": 1789909270,
+      "translated": false
+    },
+    {
+      "author_name": "Katalin Kantor",
+      "author_url": "https://www.google.com/maps/contrib/115268176627964128232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDRgZCOWZYyFeMBoWDq-DCZPfD5NqEvRef3VgwicBXD8KNyn8C=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr freundliche und sehr kompetente Ärztin;)",
       "time": 1789909270,
       "translated": false
@@ -1412,5 +1444,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-19T10:29:57.908Z"
+  "lastUpdated": "2026-10-22T09:50:15.405Z"
 }

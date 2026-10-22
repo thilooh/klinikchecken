@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mihai Irinel Popescu",
+      "author_url": "https://www.google.com/maps/contrib/114574266118418731152/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzM0wnEOqXnMPVPFCVTw4btmMlbvgfCn4fTyu88DaAPuX2Nhxi=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "I am a regular 42y old Male. Went there with a real emergency as my regular doctor Hartmut Heukelbach was closed for holidays. I was the only male pacient in the clinic, at 10.42. I told the reception lady I really need to see a doctor as I have a severe rash and leaving for holidays the next day 💊The lady takes my health card and comes back with the assistant with two necklaces from the photos 🤷‍♂️🌈 whatever I don't care about who will treat me and that they have tik toks alias on their business cards 🙄 He tells me that lunch break is almost there (at 10.42?) and the time for emergencies are just Tuesday. I look baffled, then told him I can come any time during the day, he said it's not possible. What the hell, why do you refuse to treat emergencies, I just need a look and something to control the rash for the next 2 weeks!?! 😓My advice, don't go to any of these clinics near the Kö, they are there just to treat ladies and they care more about their tik toks accounts than patients! Never again.",
+      "time": 1792596179,
+      "translated": false
+    },
+    {
       "author_name": "Ailisha Salman",
       "author_url": "https://www.google.com/maps/contrib/105568197957845583815/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLukPCRzjv8eU2DlZ6Zh6LLdi2EcqdvzeHPQuLaps6IIKDXxw=s128-c0x00000000-cc-rp-mo",
@@ -76,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz2AqfEymuqSGKa-umLnNOOUG46QrAqNuCD5QZNeypQyhmLA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Super, sehr nett und Termin kriegt man schnell",
+      "time": 1790689159,
+      "translated": false
+    },
+    {
+      "author_name": "Med",
+      "author_url": "https://www.google.com/maps/contrib/107583367573009528576/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz2AqfEymuqSGKa-umLnNOOUG46QrAqNuCD5QZNeypQyhmLA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Super, sehr nett und Termin kriegt man schnell",
       "time": 1790689159,
       "translated": false
@@ -1455,7 +1479,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 312,
+  "reviewCount": 313,
   "summary": [],
-  "lastUpdated": "2026-10-19T10:29:32.441Z"
+  "lastUpdated": "2026-10-22T09:49:42.322Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Bauer",
+      "author_url": "https://www.google.com/maps/contrib/102864639147220645940/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIL2If6maEnNldlWkHyW-cdsCrm1ibhNAyje6MPXZ_w-n5_sA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792643400,
+      "translated": false
+    },
+    {
+      "author_name": "Ernst Gröber",
+      "author_url": "https://www.google.com/maps/contrib/102852065743245877893/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaXzG4w4mcdhbyx3EE3Ahjzd5h12JtQc3JUm-MQraxAuXe-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche, bemühte Mitarbeitende, Hygiene hervorragend, Behandlung ohne Wartezeiten, umfassende Erläuterungen, hotelähnliche Unterbringung",
+      "time": 1792596997,
+      "translated": false
+    },
+    {
       "author_name": "Florian Schaller",
       "author_url": "https://www.google.com/maps/contrib/111348111548439723741/reviews",
       "language": "de",
@@ -1780,11 +1802,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 449,
+  "reviewCount": 451,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-19T10:29:47.360Z"
+  "lastUpdated": "2026-10-22T09:50:01.983Z"
 }

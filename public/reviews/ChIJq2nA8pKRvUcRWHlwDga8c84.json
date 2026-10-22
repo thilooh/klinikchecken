@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Juan Sebastián Galindo Berrío",
+      "author_url": "https://www.google.com/maps/contrib/107439902051209674349/reviews",
+      "language": "es",
+      "original_language": "es",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiSfokMKk02Y3NQq1Xnx134c-z7dris32IY0eIG5pVpN_925IC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Saque una cita de dermatología el 05.05.2026 con la Dra Renate Quaisser a traves de la app Doctorlib. La cita era para el 15 de Octubre... Es decir más de 5 meses después. El día antes de la cita llamaron a cancelar la cita diciendo que habían cancelado la cita porque yo era paciente nuevo y ya no atendían pacientes nuevos. Los demás adjetivos calificativos para este tipo de trato los pueden escoger ustedes...",
+      "time": 1792573345,
+      "translated": false
+    },
+    {
+      "author_name": "K_S",
+      "author_url": "https://www.google.com/maps/contrib/117361878156643348809/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlUdSiQ3hYg8hOYqFp89rWnwxRA0_CbUX2sBrmalZUPgIg7w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Personal, gutes Management, gute Behandlung.\nSehr empfehlenswert.",
+      "time": 1792557954,
+      "translated": false
+    },
+    {
+      "author_name": "Avin",
+      "author_url": "https://www.google.com/maps/contrib/110438765620990759317/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtMqumrmcwJWCrO7ljesNzlsw7FszmepM_55ZpxZN_FUZnX8uZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792520371,
+      "translated": false
+    },
+    {
+      "author_name": "Rima Saban",
+      "author_url": "https://www.google.com/maps/contrib/105696623647571634217/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5FRbPZoJ_tBeb8LypiHKDsdNg-BCiVEuZ8xtADtCfowqU_jB5=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792514243,
+      "translated": false
+    },
+    {
+      "author_name": "Tanja Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/106632727685450148996/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITt1l2vvaoLbcEHEAR94vGxNpTZomCijzNBJyZ2anNoXfptQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ist schon bemerkenswert, dass man kaum einen Termin für eine ganz normale Behandlung bekommt (man soll einfach kommen und warten - stellt sich wie folgt dar - man steht in einer Schlange bis auf die Straße), gleichzeitig aber regelrecht mit Werbung für teure Zusatzbehandlungen überschüttet wird. Da drängt sich durchaus der Eindruck auf, dass hier die finanziell lukrativen Leistungen im Vordergrund stehen.",
+      "time": 1792509248,
+      "translated": false
+    },
+    {
       "author_name": "Nick Neu",
       "author_url": "https://www.google.com/maps/contrib/115321401414877118250/reviews",
       "language": "de",
@@ -1854,11 +1910,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 354,
+  "reviewCount": 358,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:55.748Z"
+  "lastUpdated": "2026-10-22T09:50:12.623Z"
 }

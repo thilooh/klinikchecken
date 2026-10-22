@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Berk",
+      "author_url": "https://www.google.com/maps/contrib/115634955798887209594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpGiGWFFANM1KKXktKhdDPP7-vRQMRoE5qOOy1OHyui8MsnT4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792494817,
+      "translated": false
+    },
+    {
       "author_name": "Christopher",
       "author_url": "https://www.google.com/maps/contrib/109405400126126211095/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0vgXl9lAUTSkeG-9F7B9VkU6u6Vx9nOLFh_DWILvzaTMivQ=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +26,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0vgXl9lAUTSkeG-9F7B9VkU6u6Vx9nOLFh_DWILvzaTMivQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791272321,
+      "translated": false
+    },
+    {
+      "author_name": "Christopher",
+      "author_url": "https://www.google.com/maps/contrib/109405400126126211095/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0vgXl9lAUTSkeG-9F7B9VkU6u6Vx9nOLFh_DWILvzaTMivQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1791272321,
       "translated": false
@@ -1047,11 +1067,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 107,
+  "reviewCount": 108,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-10-19T10:29:27.123Z"
+  "lastUpdated": "2026-10-22T09:49:35.006Z"
 }

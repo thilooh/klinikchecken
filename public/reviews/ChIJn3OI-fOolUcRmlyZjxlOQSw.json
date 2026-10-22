@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Alexandru Schiopu",
+      "author_url": "https://www.google.com/maps/contrib/114237812278492610303/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKK3BG_nqv-yfX25Prq0hLnCABf-AkXOP7Fszkh8VBepUL6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792564466,
+      "translated": false
+    },
+    {
       "author_name": "M E",
       "author_url": "https://www.google.com/maps/contrib/111246000144344912087/reviews",
       "language": "de",
@@ -18,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW7mkgO5HmDw3P3Xhyo7iFnWi3jTDY7b7HVGrEmcT4nNB71NrG=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791814691,
+      "translated": false
+    },
+    {
+      "author_name": "Smarsly Helmut",
+      "author_url": "https://www.google.com/maps/contrib/103055397127030930620/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW7mkgO5HmDw3P3Xhyo7iFnWi3jTDY7b7HVGrEmcT4nNB71NrG=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791814691,
       "translated": false
@@ -84,6 +104,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBD8dWeM3xd3lHcLTDG157kCQm6I6XV6RagYXswgJOnp0qIfc=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1790758056,
+      "translated": false
+    },
+    {
+      "author_name": "Sertac Heris",
+      "author_url": "https://www.google.com/maps/contrib/111886292094520060348/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBD8dWeM3xd3lHcLTDG157kCQm6I6XV6RagYXswgJOnp0qIfc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1790758056,
       "translated": false
@@ -1164,11 +1194,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 136,
+  "reviewCount": 137,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-19T10:29:56.826Z"
+  "lastUpdated": "2026-10-22T09:50:14.155Z"
 }

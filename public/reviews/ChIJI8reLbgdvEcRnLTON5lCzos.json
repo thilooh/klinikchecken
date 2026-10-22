@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Reimund Schmitt",
+      "author_url": "https://www.google.com/maps/contrib/112822477407170394613/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkGJrkpurHG_38vwfo_DA2_zXF0QmeztateWipxjahCZ3t0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Team Ärzte und Personal!!   Danke 👍",
+      "time": 1792407756,
+      "translated": false
+    },
+    {
       "author_name": "Beckey Swag",
       "author_url": "https://www.google.com/maps/contrib/100466153082655278415/reviews",
       "language": "de",
@@ -179,12 +191,12 @@
       "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 35,
+  "rating": 4.1,
+  "reviewCount": 36,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-19T10:30:14.788Z"
+  "lastUpdated": "2026-10-22T09:50:36.890Z"
 }

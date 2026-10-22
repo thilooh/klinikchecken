@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Firat Ertürk",
+      "author_url": "https://www.google.com/maps/contrib/115233582452748981388/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPZrixb73VsfjhTjO9gXveM5LVog8woN00hz05qqKj_8XrIKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein großes Lob an Frau Claudia! Sehr freundlich, ehrlich und hilfsbereit am Telefon. So eine angenehme und kompetente Art erlebt man heutzutage wirklich selten. Sie nimmt sich Zeit und begegnet einem mit Respekt und Offenheit. Solche Mitarbeiterinnen sind ein echter Gewinn für jede Praxis. Vielen Dank für das freundliche Gespräch und weiter so!",
+      "time": 1792509424,
+      "translated": false
+    },
+    {
       "author_name": "Yasemin Jesmen",
       "author_url": "https://www.google.com/maps/contrib/111385523047760179810/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsWS47efCBHOkQyztUlL3zCEoZN6qBpCCH977tSqkbdOsFxlRS=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war letzte Woche im Areion und musste miterleben, wie unfreundlich und respektlos die ältere Damen an der Rezeption mit ausländischen Patienten umgegangen sind. Der Ton war absolut unangemessen und wirkte sehr diskriminierend. Es ist traurig, wenn Menschen allein wegen mangelnder Deutschkenntnisse nicht die Hilfe und den Respekt bekommen, den sie verdienen. Hier sollte dringend etwas geändert werden!",
+      "time": 1791813557,
+      "translated": false
+    },
+    {
+      "author_name": "Yasemin Jesmen",
+      "author_url": "https://www.google.com/maps/contrib/111385523047760179810/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsWS47efCBHOkQyztUlL3zCEoZN6qBpCCH977tSqkbdOsFxlRS=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war letzte Woche im Areion und musste miterleben, wie unfreundlich und respektlos die ältere Damen an der Rezeption mit ausländischen Patienten umgegangen sind. Der Ton war absolut unangemessen und wirkte sehr diskriminierend. Es ist traurig, wenn Menschen allein wegen mangelnder Deutschkenntnisse nicht die Hilfe und den Respekt bekommen, den sie verdienen. Hier sollte dringend etwas geändert werden!",
       "time": 1791813557,
       "translated": false
@@ -998,11 +1022,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 145,
+  "reviewCount": 146,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:49.028Z"
+  "lastUpdated": "2026-10-22T09:50:03.985Z"
 }

@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Diedrich",
+      "author_url": "https://www.google.com/maps/contrib/117981392566052342817/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6bCw6M8uDVF7wfqhmJGG2MQenZhzPaLCQihv0vdjf6ePEyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792654779,
+      "translated": false
+    },
+    {
+      "author_name": "Dirk Voigt",
+      "author_url": "https://www.google.com/maps/contrib/116920023306893709572/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJo0Ns5PPI_-HJUXk0-Edo81Bv78m_RCZBUF-vpWETqtripg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Beste medizinische Einrichtung\nfür mich in Magdeburg.\nFreundliches Personal, keine langen Wartezeiten, Räumlichkeiten sehr patientenfreundlich.\nAbsolute Weiterempfehlung!!!",
+      "time": 1792593943,
+      "translated": false
+    },
+    {
+      "author_name": "Jacky O.",
+      "author_url": "https://www.google.com/maps/contrib/114281744248198478243/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmCjPRG7fVJ3BP8oEQJJUZexzAyxk45dAzo_pGedUAYfv6dipt=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top, alles ist sehr gut organisiert. Von der Terminvergabe bis zur OP. Die Mitarbeiter und Mitarbeiterinnen sind sehr zuvorkommend und hilfsbereit.",
+      "time": 1792567008,
+      "translated": false
+    },
+    {
       "author_name": "Birgit Urbahn",
       "author_url": "https://www.google.com/maps/contrib/111641524627722619126/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImgghWafh5znJtQxUrKooRMPIIPdX6FUJc78quwWCWTA_PNg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Musste mich am 22.09.2026 einer Leistenbruch OP unterziehen.\nDas gesamte Team war ausgezeichnet, stets freundlich und bemüht.  Vom Vorgespräch bis zur Nachsorge, einfach Spitze.\nEinen besonderen Dank an Dr. Dalicho, einer toller Arzt.\nIch kann das MVZ- Altstadtquartier jedem empfehlen. Vielen Dank",
+      "time": 1791884113,
+      "translated": false
+    },
+    {
+      "author_name": "Dieter Haensch",
+      "author_url": "https://www.google.com/maps/contrib/107036358444932025318/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImgghWafh5znJtQxUrKooRMPIIPdX6FUJc78quwWCWTA_PNg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Musste mich am 22.09.2026 einer Leistenbruch OP unterziehen.\nDas gesamte Team war ausgezeichnet, stets freundlich und bemüht.  Vom Vorgespräch bis zur Nachsorge, einfach Spitze.\nEinen besonderen Dank an Dr. Dalicho, einer toller Arzt.\nIch kann das MVZ- Altstadtquartier jedem empfehlen. Vielen Dank",
       "time": 1791884113,
       "translated": false
@@ -1798,11 +1844,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 519,
+  "reviewCount": 522,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-19T10:29:42.186Z"
+  "lastUpdated": "2026-10-22T09:49:55.305Z"
 }

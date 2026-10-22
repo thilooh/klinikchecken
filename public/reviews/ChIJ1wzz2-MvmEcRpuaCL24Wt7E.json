@@ -1,11 +1,45 @@
 {
   "reviews": [
     {
+      "author_name": "Siegfred Dohmen",
+      "author_url": "https://www.google.com/maps/contrib/110347094858625372807/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0Myn9fOrk-PmjNm8uv-iGVhT92E4OnPqogY1o6_h5CpgS2xo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Schnell, einen Ersatztermin bekommen.",
+      "time": 1792655846,
+      "translated": false
+    },
+    {
+      "author_name": "Montz Daniel",
+      "author_url": "https://www.google.com/maps/contrib/108175888119465388777/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ8rGFVgISNj8wRHENbZhzFI8L99_S2qNevD08Hu7epBSaIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nett Personal, der Arzt auch sehr freundlich und kompetent   Es wird einem alles genau erklärt . Sehr gut .",
+      "time": 1792578279,
+      "translated": false
+    },
+    {
       "author_name": "Maria Lucia Lo Brutto",
       "author_url": "https://www.google.com/maps/contrib/115823354624462161214/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxlfCw8CMN5CEeHgySSPtlVWBTZc7woMABCf8uPZFBlUBU=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791965030,
+      "translated": false
+    },
+    {
+      "author_name": "Maria Lucia Lo Brutto",
+      "author_url": "https://www.google.com/maps/contrib/115823354624462161214/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxlfCw8CMN5CEeHgySSPtlVWBTZc7woMABCf8uPZFBlUBU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791965030,
       "translated": false
@@ -26,6 +60,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZmGmqXfVQTXAQKKuLsI9WGeak4axnIUF2ceV9qbs39xiTMg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791364521,
+      "translated": false
+    },
+    {
+      "author_name": "Tamara Otto",
+      "author_url": "https://www.google.com/maps/contrib/106894946394783227737/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZmGmqXfVQTXAQKKuLsI9WGeak4axnIUF2ceV9qbs39xiTMg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1791364521,
       "translated": false
@@ -1222,11 +1266,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 100,
+  "reviewCount": 102,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:30:07.919Z"
+  "lastUpdated": "2026-10-22T09:50:28.136Z"
 }

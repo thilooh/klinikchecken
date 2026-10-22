@@ -1,6 +1,64 @@
 {
   "reviews": [
     {
+      "author_name": "Maikel Yakob",
+      "author_url": "https://www.google.com/maps/contrib/105880696320378259718/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjpoN45NsrwveKdyqPfxOZbCzz92wTYT6aFFv6Jpkg2VZq2vKc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ganz gut",
+      "time": 1792599205,
+      "translated": false
+    },
+    {
+      "author_name": "CoSie",
+      "author_url": "https://www.google.com/maps/contrib/114875327130010953012/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbI_363FGchp5Z67NrLG_LPuy-SJsIdUw_ZTz5m5huvqJeYcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792580349,
+      "translated": false
+    },
+    {
+      "author_name": "bktin inct",
+      "author_url": "https://www.google.com/maps/contrib/101137842628996965995/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgH8GrXHYeDPzHTRSkuV5bFwN5l33iu1PtBuq3gZii6gC_4_Xf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute mein erster Besuch bei Dr. med. Broichmann und ich bin mehr als zufrieden! Ein kompetenter und sehr sympathischer Arzt. Das Team an der Rezeption war ebenfalls extrem nett und hilfsbereit. Absolute Empfehlung.\n\n- Ilyas L.",
+      "time": 1792492924,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Becker",
+      "author_url": "https://www.google.com/maps/contrib/113087726820595599424/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzku688MELZ7lduGRAHaRBFRcqT7dbrk3jLpaqVXaOUir1FZiX=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärzte sind sehr gut und professionell. Wartezeiten am Termintag extrem lang. Unter 1 Stunde habe ich noch nie erlebt. Man braucht fast einen halben Tag Urlaub für einen 5-minütigen Termin. Der Frontdesk ist eine Katastrophe. Eine ewige Schlange beim Einchecken von Patienten, obwohl es da 3 Arzthelferinen gibt. Mehrfach habe ich auch erlebt, wie sie an der Rezeption über die Ärzte lästern. Bessere Organisation der Prozesse würde nicht schaden.",
+      "time": 1792484526,
+      "translated": false
+    },
+    {
+      "author_name": "Barbara Coskun",
+      "author_url": "https://www.google.com/maps/contrib/111796786463923381137/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt6BKcWpyXpG9AG14L_NNKYYPJjC9GDUhz7WiH1sm6FfNrvSDUTA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute das erste mal im Hautzentrum bei Fr Dr Arz, sehr freundlich und herzlich, ich werde sehr gerne wieder zu Ihnen kommen!",
+      "time": 1792433098,
+      "translated": false
+    },
+    {
       "author_name": "M A",
       "author_url": "https://www.google.com/maps/contrib/113049486158462538269/reviews",
       "language": "de",
@@ -1670,11 +1728,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 160,
+  "reviewCount": 165,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:55.531Z"
+  "lastUpdated": "2026-10-22T09:50:12.382Z"
 }

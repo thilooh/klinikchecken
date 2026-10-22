@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Le Vinh",
+      "author_url": "https://www.google.com/maps/contrib/110914644510970978982/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFype5XBiO7K_h4im-bpK0M83AK_IrLpn8mROjKeTnR1JBOfIw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Waiting for the invoice could last forever. No one picks up the phone when you ask about this.",
+      "time": 1792496197,
+      "translated": false
+    },
+    {
       "author_name": "Saskia S",
       "author_url": "https://www.google.com/maps/contrib/112836143321251367260/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP9QFPvUPIigUIEWi_JkZ-9ynfSAsaSfgaUkx2jSI_U0lgvjw6=s128-c0x00000000-cc-rp-mo-ba3",
@@ -1776,7 +1788,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 467,
+  "reviewCount": 468,
   "summary": [],
-  "lastUpdated": "2026-10-19T10:29:36.479Z"
+  "lastUpdated": "2026-10-22T09:49:47.887Z"
 }

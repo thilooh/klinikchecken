@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "K D",
+      "author_url": "https://www.google.com/maps/contrib/115629990103437373948/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_4nxRYFKSx9F_WyolYHL7B8oGp0s912ceegXVtVrl_w8wQADy=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wie bei Familie zu Besuch sein - plus hochprofessionelle Behandlung und tolle Ergebnisse. Was will man mehr ❤️",
+      "time": 1792447889,
+      "translated": false
+    },
+    {
       "author_name": "Katja Leppin",
       "author_url": "https://www.google.com/maps/contrib/108090400332924157057/reviews",
       "language": "de",
@@ -518,11 +530,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 96,
+  "reviewCount": 97,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:43.263Z"
+  "lastUpdated": "2026-10-22T09:49:56.673Z"
 }

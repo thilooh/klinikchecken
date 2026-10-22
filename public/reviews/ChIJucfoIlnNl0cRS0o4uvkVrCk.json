@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine XXX",
+      "author_url": "https://www.google.com/maps/contrib/104280431499452957449/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKg2dtpewYQJAC3Z0dsj9Sh1XNB7EWIiZY0ScjPFcsrsQVAdQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war mit Herrn Dr. Cherwon und seinem freundlichen Praxis-Team immer sehr zufrieden. Leider ist als Kassenpatient schon seit längerem kein Termin mehr zu bekommen, so dass ich mir nun einen anderen Phlebologen gesucht habe.",
+      "time": 1792617512,
+      "translated": false
+    },
+    {
       "author_name": "Dagi Z",
       "author_url": "https://www.google.com/maps/contrib/116800400907707706256/reviews",
       "language": "de",
@@ -602,11 +614,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:51.187Z"
+  "lastUpdated": "2026-10-22T09:50:06.832Z"
 }

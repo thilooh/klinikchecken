@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Özlem Kaya",
+      "author_url": "https://www.google.com/maps/contrib/107771641953235349030/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNmM4x7Pod2Hl3ZnWO72eENSR4Xg8AYJZEZfT9vaZi7m5yeVks=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit zwei Jahren Patientin in dieser Praxis.\nDr. Sharaf und Frau Dr. Rempel sind beide tolle Ärzte. Man merkt sofort, sie sind vom Fach und super in der Beratung. Sie nehmen sich die Zeit für ihre Patienten.\nAuch der Empfang ist sehr freundlich.",
+      "time": 1792655001,
+      "translated": false
+    },
+    {
       "author_name": "Maike L.",
       "author_url": "https://www.google.com/maps/contrib/117493613041655896166/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3rEaVW-GkWRQ-APS-ewevlEM3l5JnN8axCl64GxoB_okwAB3_6A=s128-c0x00000000-cc-rp-mo-ba4",
@@ -105,6 +117,18 @@
       "translated": false
     },
     {
+      "author_name": "Gisela Rauh",
+      "author_url": "https://www.google.com/maps/contrib/116093088374306883174/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOmP3GWdFSAyRMdheWUMQvEQx8_NOnjzF_Bz-ygEDNO45nxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr kompetent",
+      "time": 1790183701,
+      "translated": false
+    },
+    {
       "author_name": "Wess Annegret",
       "author_url": "https://www.google.com/maps/contrib/116376728457270435067/reviews",
       "language": "de",
@@ -148,6 +172,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaMQ8UfIr2z3Az2Y2_SPspGujMCWaEVLTyKZNmsdVqBA6Fzw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Beste Praxis for ever! Super nettes Personal, kurze Wartezeit, sehr kompetente Ärzte.Wenn möglich würde ich auch 10 Punkte geben.",
+      "time": 1790178322,
+      "translated": false
+    },
+    {
+      "author_name": "Wess Annegret",
+      "author_url": "https://www.google.com/maps/contrib/116376728457270435067/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaMQ8UfIr2z3Az2Y2_SPspGujMCWaEVLTyKZNmsdVqBA6Fzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Beste Praxis for ever! Super nettes Personal, kurze Wartezeit, sehr kompetente Ärzte.Wenn möglich würde ich auch 10 Punkte geben.",
       "time": 1790178322,
       "translated": false
@@ -1018,11 +1054,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 79,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:56.388Z"
+  "lastUpdated": "2026-10-22T09:50:13.584Z"
 }

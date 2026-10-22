@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "T. Peters",
+      "author_url": "https://www.google.com/maps/contrib/116679619708709175755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaaybTQtEWSy9FK9qSWGRpvPnBMgXHM0tqR0mNhFenOl2pQCjgjg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut organisiert.  Sehr nette und kompetente Mitarbeiter.",
+      "time": 1792510113,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Caroli",
+      "author_url": "https://www.google.com/maps/contrib/105231204293358593141/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcMAwP8ZjpjH5prpB5sLuVj5hYyl4QAgVHiS6RjOvMzluVNA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792505694,
+      "translated": false
+    },
+    {
       "author_name": "Zineb Nauen Peerbooms",
       "author_url": "https://www.google.com/maps/contrib/104112379015371166132/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_VlWoPDAI5Ntj3KZrArvr0SdTUl--8DNRwhd5G-LVVTTXtg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr empfehlenswerte Praxis!\nIch bin absolut begeistert von der Behandlung bei Dr. Sabe. Das gesamte Team ist äußerst freundlich, aufmerksam und organisiert. Dr. Sabe nimmt sich wirklich Zeit für seine Patienten, erklärt alles verständlich und geht auf alle Fragen ein. Man fühlt sich hier bestens aufgehoben und medizinisch hervorragend versorgt. Herzlichen Dank an das gesamte Team!",
+      "time": 1792051403,
+      "translated": false
+    },
+    {
+      "author_name": "Nina Tota",
+      "author_url": "https://www.google.com/maps/contrib/100860234524037633960/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_VlWoPDAI5Ntj3KZrArvr0SdTUl--8DNRwhd5G-LVVTTXtg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr empfehlenswerte Praxis!\nIch bin absolut begeistert von der Behandlung bei Dr. Sabe. Das gesamte Team ist äußerst freundlich, aufmerksam und organisiert. Dr. Sabe nimmt sich wirklich Zeit für seine Patienten, erklärt alles verständlich und geht auf alle Fragen ein. Man fühlt sich hier bestens aufgehoben und medizinisch hervorragend versorgt. Herzlichen Dank an das gesamte Team!",
       "time": 1792051403,
       "translated": false
@@ -1304,11 +1338,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 99,
+  "reviewCount": 100,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:58.318Z"
+  "lastUpdated": "2026-10-22T09:50:16.018Z"
 }

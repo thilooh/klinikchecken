@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mariam Agha",
+      "author_url": "https://www.google.com/maps/contrib/116055066786900580691/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKr9KPzOWZpzQeBBZP4Z9_qAG-glwzZOz4ylbz1ZqXgMpjjwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider habe ich mich in dieser Praxis überhaupt nicht wohlgefühlt. Einige Mitarbeiterinnen wirken sehr unfreundlich. Besonders die kräftige Mitarbeiterin mit den kurzen, dunklen Haaren ist extrem unfreundlich und kommt sehr überheblich und urteilend rüber. Ihre Art ist teilweise richtig frech, sodass man sich als Patientin überhaupt nicht wohlfühlt. Man hat das Gefühl, von ihr direkt beurteilt zu werden, anstatt freundlich und respektvoll behandelt zu werden... Man sollte sich in einer Arztpraxis willkommen fühlen und nicht mit einem unangenehmen Gefühl wieder nach Hause gehen.",
+      "time": 1791974594,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Antkowiak",
       "author_url": "https://www.google.com/maps/contrib/108070658188641315111/reviews",
       "language": "de",
@@ -1192,11 +1204,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 111,
+  "reviewCount": 112,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-19T10:29:58.651Z"
+  "lastUpdated": "2026-10-22T09:50:16.345Z"
 }

@@ -35,11 +35,33 @@
       "translated": false
     },
     {
+      "author_name": "Anđa Jakić",
+      "author_url": "https://www.google.com/maps/contrib/116959707897216397600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyYeTJY9zV73SmefgWAwjoMHu4zhAoE_6HRzWG_wyhDkXPxGE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Warum bieten Sie Online-Termine an, wenn Sie diese ohne Angabe von Gründen stornieren? Das ist sehr unprofessionell.",
+      "time": 1791984719,
+      "translated": false
+    },
+    {
       "author_name": "Mark Müller",
       "author_url": "https://www.google.com/maps/contrib/109163138490340987167/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4Ub3NHxq_ASekImiUySOgUC3SfzcGXM_rQ46XLePKIGgu=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1791901077,
+      "translated": false
+    },
+    {
+      "author_name": "Mark Müller",
+      "author_url": "https://www.google.com/maps/contrib/109163138490340987167/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4Ub3NHxq_ASekImiUySOgUC3SfzcGXM_rQ46XLePKIGgu=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1791901077,
       "translated": false
@@ -52,6 +74,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW78hRjy-bFoq8QeXdwHiwXUuJQZ1P7i0aOw3iuyFMNoleVNOtz=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Leider eine sehr enttäuschende Erfahrung, die ich so nicht erwartet hätte.\n\nIch hatte am 13.10. um 13:30 Uhr einen fest vereinbarten Termin und war selbstverständlich pünktlich bereits um 13:25 Uhr vor Ort. Gegen 13:30 Uhr wurde ich in ein Behandlungszimmer gebeten. So weit, so gut.\n\nWas danach folgte, war allerdings alles andere als professionell. Ich saß 40 Minuten allein im Behandlungszimmer, ohne dass ein Arzt erschien oder sich jemand die Mühe machte, mich über die Verzögerung zu informieren.\n\nNach insgesamt rund 45 Minuten vor Ort habe ich die Praxis schließlich verlassen, ohne behandelt worden zu sein.\n\nMein Eindruck: Hier scheint die linke Hand nicht zu wissen, was die rechte macht. Eine vernünftige Terminorganisation und zumindest eine kurze Information über längere Wartezeiten sollten in einer Arztpraxis selbstverständlich sein.\n\nMir ist durchaus bewusst, dass es im medizinischen Alltag zu Verzögerungen und unvorhergesehenen Situationen kommen kann. Dafür habe ich grundsätzlich Verständnis. Was mir allerdings fehlt, ist die Wertschätzung gegenüber der Zeit der Patienten und eine transparente Kommunikation.\n\nSehr schade, denn gerade bei einem fest vereinbarten Termin erwarte ich ein Mindestmaß an Organisation und Professionalität.",
+      "time": 1791894262,
+      "translated": false
+    },
+    {
+      "author_name": "Sachverständiger Dede",
+      "author_url": "https://www.google.com/maps/contrib/102218874945386995245/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW78hRjy-bFoq8QeXdwHiwXUuJQZ1P7i0aOw3iuyFMNoleVNOtz=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Leider eine sehr enttäuschende Erfahrung, die ich so nicht erwartet hätte.\n\nIch hatte am 13.10. um 13:30 Uhr einen fest vereinbarten Termin und war selbstverständlich pünktlich bereits um 13:25 Uhr vor Ort. Gegen 13:30 Uhr wurde ich in ein Behandlungszimmer gebeten. So weit, so gut.\n\nWas danach folgte, war allerdings alles andere als professionell. Ich saß 40 Minuten allein im Behandlungszimmer, ohne dass ein Arzt erschien oder sich jemand die Mühe machte, mich über die Verzögerung zu informieren.\n\nNach insgesamt rund 45 Minuten vor Ort habe ich die Praxis schließlich verlassen, ohne behandelt worden zu sein.\n\nMein Eindruck: Hier scheint die linke Hand nicht zu wissen, was die rechte macht. Eine vernünftige Terminorganisation und zumindest eine kurze Information über längere Wartezeiten sollten in einer Arztpraxis selbstverständlich sein.\n\nMir ist durchaus bewusst, dass es im medizinischen Alltag zu Verzögerungen und unvorhergesehenen Situationen kommen kann. Dafür habe ich grundsätzlich Verständnis. Was mir allerdings fehlt, ist die Wertschätzung gegenüber der Zeit der Patienten und eine transparente Kommunikation.\n\nSehr schade, denn gerade bei einem fest vereinbarten Termin erwarte ich ein Mindestmaß an Organisation und Professionalität.",
       "time": 1791894262,
       "translated": false
@@ -1676,7 +1710,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 336,
+  "reviewCount": 335,
   "summary": [],
-  "lastUpdated": "2026-10-19T10:29:38.448Z"
+  "lastUpdated": "2026-10-22T09:49:50.452Z"
 }

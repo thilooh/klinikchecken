@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mariham Melek",
+      "author_url": "https://www.google.com/maps/contrib/109658660427861630401/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGLibSRNCiz_ed337uf6mEZfKcWlW3vnQ_sGJOIQTxZuzTrznt=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Very good clinic, neat, staff are kind and welcoming. Doctors are very good, they listen and answer all questions with patience.\nThey speak English too.",
+      "time": 1792485238,
+      "translated": false
+    },
+    {
       "author_name": "Ich Bins",
       "author_url": "https://www.google.com/maps/contrib/113578261693743329830/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Ich Bins",
+      "author_url": "https://www.google.com/maps/contrib/113578261693743329830/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTofzmNZa0MghqjpPirR58lvNt8q3zMjph2p6Ib8d64SKXvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Mangelhaft in allem.",
+      "time": 1791885099,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin Alexander",
       "author_url": "https://www.google.com/maps/contrib/118365562158801591390/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCNy9deS-Ou3EHxd0URY98YDWy-y1UsnyEfi4S8h8V2UTZGV-7=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nett, informativ, pünktlich",
+      "time": 1791808511,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin Alexander",
+      "author_url": "https://www.google.com/maps/contrib/118365562158801591390/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCNy9deS-Ou3EHxd0URY98YDWy-y1UsnyEfi4S8h8V2UTZGV-7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nett, informativ, pünktlich",
       "time": 1791808511,
       "translated": false
@@ -68,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdmhaio7yu4nmh3M8mhuTIOXhO0DH39YiiCcSLMJpUuxhDZQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Schnelle Terminfindung über Doctolib, sehr freundliches Personal vom Empfang über die Schwester bis zum Arzt. So ziemlich alle Prozesse laufen Digital an was einen sehr guten Eindruck. Vor Ort werden auch ambulante Operationen durchgeführt, auch hier fühlt man sich in sicheren Händen.",
+      "time": 1791439580,
+      "translated": false
+    },
+    {
+      "author_name": "Marc Strauss-Neumann",
+      "author_url": "https://www.google.com/maps/contrib/112460314615802557494/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdmhaio7yu4nmh3M8mhuTIOXhO0DH39YiiCcSLMJpUuxhDZQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Schnelle Terminfindung über Doctolib, sehr freundliches Personal vom Empfang über die Schwester bis zum Arzt. So ziemlich alle Prozesse laufen Digital an was einen sehr guten Eindruck. Vor Ort werden auch ambulante Operationen durchgeführt, auch hier fühlt man sich in sicheren Händen.",
       "time": 1791439580,
       "translated": false
@@ -1598,7 +1646,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 162,
+  "reviewCount": 163,
   "summary": [],
-  "lastUpdated": "2026-10-19T10:29:34.347Z"
+  "lastUpdated": "2026-10-22T09:49:45.140Z"
 }

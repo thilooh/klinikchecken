@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Ostarek",
+      "author_url": "https://www.google.com/maps/contrib/114025766573895149426/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILgtKLpSuAAGxSPGXpLIVh6iNAjlqb0mGlOI8rUsWaXIbCIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein super Team und eine ganz ganz tolle Ärztin...danke an die Sprechstundenhilfe die mir den Abszess geöffnet hat",
+      "time": 1792571841,
+      "translated": false
+    },
+    {
       "author_name": "Iweri Achwlediani",
       "author_url": "https://www.google.com/maps/contrib/110661133398818405496/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaL6NrkQDK9LiDKy9rsZbwqrEIF5EoE_uxx-7udOpkz3zFJ1vW=s128-c0x00000000-cc-rp-mo-ba2",
@@ -1506,11 +1518,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 250,
+  "reviewCount": 251,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-19T10:29:46.059Z"
+  "lastUpdated": "2026-10-22T09:50:00.377Z"
 }

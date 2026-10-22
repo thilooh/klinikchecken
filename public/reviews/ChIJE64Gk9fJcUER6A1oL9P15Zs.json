@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sven Siebert",
+      "author_url": "https://www.google.com/maps/contrib/103639376539569457874/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdgUiCWQhHsxF3Qcwk0X6DRfqNrULNKLY8qKV8P_JWx8V5s_Z45Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792423801,
+      "translated": false
+    },
+    {
       "author_name": "Євген",
       "author_url": "https://www.google.com/maps/contrib/112768494939470337405/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcBfVMFAXBV7xSak5AduhxNs40Hj19b-hyYweuHN-_eH5pcic=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Klinik, professionelle Ärzte 👍",
+      "time": 1791841705,
+      "translated": true
+    },
+    {
+      "author_name": "Євген",
+      "author_url": "https://www.google.com/maps/contrib/112768494939470337405/reviews",
+      "language": "de",
+      "original_language": "uk",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcBfVMFAXBV7xSak5AduhxNs40Hj19b-hyYweuHN-_eH5pcic=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Tolle Klinik, professionelle Ärzte 👍",
       "time": 1791841705,
       "translated": true
@@ -895,8 +917,8 @@
       "translated": false
     }
   ],
-  "rating": 3.7,
-  "reviewCount": 80,
+  "rating": 3.8,
+  "reviewCount": 81,
   "summary": [],
-  "lastUpdated": "2026-10-19T10:29:36.691Z"
+  "lastUpdated": "2026-10-22T09:49:48.134Z"
 }
