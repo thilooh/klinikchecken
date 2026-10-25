@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Gra Schling",
+      "author_url": "https://www.google.com/maps/contrib/101406904814248381425/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrPhKsw7gMrUSeHFtF9YK9Z2_aeE80wc5mb1j5-YRUEGxqtw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr freundliches Praxisteam und kompetente Ärzte. Gute Organisation.",
+      "time": 1792226491,
+      "translated": false
+    },
+    {
       "author_name": "rüdiger wenzel",
       "author_url": "https://www.google.com/maps/contrib/102664802912876741280/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlW5J32tqAVGJlPJEs-2wnR8dil9Bd22L_EJ8KD2OMp33meg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -28,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlW5J32tqAVGJlPJEs-2wnR8dil9Bd22L_EJ8KD2OMp33meg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791607518,
+      "translated": false
+    },
+    {
+      "author_name": "rüdiger wenzel",
+      "author_url": "https://www.google.com/maps/contrib/102664802912876741280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlW5J32tqAVGJlPJEs-2wnR8dil9Bd22L_EJ8KD2OMp33meg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1791607518,
       "translated": false
@@ -252,6 +274,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3UtoXFVMQzcoQBmIGunMOajmyM-tK5mVTjwotfOZ96qcMEA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Diese Praxis verdient nicht nur wegen ihrer hohen medizinischen Kompetenz einen Award, sondern auch wegen ihrer Freundlichkeit. Angefangen bei der sehr schnellen Terminvergabe, den super netten Mitarbeiterinnen am Empfang bis hin zu den tollen Ärzten. Ein Glücksfall hier Patient sein zu dürfen.\nHerzlichen Dank",
+      "time": 1784899390,
+      "translated": false
+    },
+    {
+      "author_name": "Elke Münker",
+      "author_url": "https://www.google.com/maps/contrib/106371239103441440533/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3UtoXFVMQzcoQBmIGunMOajmyM-tK5mVTjwotfOZ96qcMEA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Diese Praxis verdient nicht nur wegen ihrer hohen medizinischen Kompetenz einen Award, sondern auch wegen ihrer Freundlichkeit. Angefangen bei der sehr schnellen Terminvergabe, den super netten Mitarbeiterinnen am Empfang bis hin zu den tollen Ärzten. Ein Glücksfall hier Patient sein zu dürfen.\nHerzlichen Dank",
       "time": 1784899390,
       "translated": false
@@ -660,5 +694,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:49:58.002Z"
+  "lastUpdated": "2026-10-25T09:34:12.455Z"
 }

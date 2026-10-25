@@ -119,6 +119,18 @@
       "translated": false
     },
     {
+      "author_name": "Suzana Harazim",
+      "author_url": "https://www.google.com/maps/contrib/102898876950096416913/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5hu4c4QhLUxi8gywR3TUYYw4LLZajQ_Dr9Y36iSI8Y2DiPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Toller Arzt, tolles Team und schöne Praxis! Man fühlt sich rundum wohl und gut aufgehoben. Kann ich vom Herzen empfehlen!",
+      "time": 1790077638,
+      "translated": false
+    },
+    {
       "author_name": "H S (BJ)",
       "author_url": "https://www.google.com/maps/contrib/117910942003856710575/reviews",
       "language": "de",
@@ -672,5 +684,5 @@
   "rating": 4.8,
   "reviewCount": 79,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:42.972Z"
+  "lastUpdated": "2026-10-25T09:33:59.720Z"
 }

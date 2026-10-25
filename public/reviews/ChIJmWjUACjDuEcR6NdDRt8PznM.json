@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Framed AH",
+      "author_url": "https://www.google.com/maps/contrib/102435146821376874023/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFaF_2VPEUjp29RREz3MW9NMqmMnJ1hNqSUuA8vWQTh-WC4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eigentlich wollte ich mich gerade bei der tollen Ärztin und den freundlichen Mitarbeiterinnen am Empfang bedanken, da heute Morgen alles super mit der Notfallsprechstunde geklappt hat.\nAber die letzte Bewertung muss doch ein Scherz sein oder ?\nIch war selbst bereits um 07:40 Uhr vor der Praxistür und muss mich zu der Dame äußern, gegen 08:30 Uhr mit dem Kind in die Praxis zu kommen, wo schon bereits 10 Patienten pünktlich vor Ort waren und teilweise schon in Behandlung sind und dann noch so rum zu schreien!\nEs ist schon traurig so einen Mist zu schreiben,\ndie Damen waren doch mehr als freundlich und bemüht und ermöglichten dir dennoch trotz deiner Verspätung einen Gespräch mit der Ärztin! Davor wurde auch mehrmals erklärt welche Arten von Therapien möglich sind, wenn man halt nicht zuhören kann und selbst die Diagnose stellt, soll man vieleicht andere Fachrichtungen bevorzügen..\nMan soll wirklich nicht alles glauben was man hier mittlerweile so liest.Das ist mehr als traurig.\nVon meiner Seite ein großes Lob an die Ärztin und das gesamte Praxisteam für die freundliche Betreuung. Riesen Respekt für die Rühe trotz fragwürdigen Patienten!\nIch habe mich über den reibungslosen Ablauf sehr gefreut und kann mich nur bedanken!\nS.A",
+      "time": 1792678150,
+      "translated": false
+    },
+    {
       "author_name": "Jasmin Hermes",
       "author_url": "https://www.google.com/maps/contrib/114582187108919704551/reviews",
       "language": "de",
@@ -30,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbmTb3G607I4F9IIm-hq7QF0nNtNfQt-QbNI7tc5N8D6E6Tw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Danke an Herrn Dr. Azem Pljakic und das ganze Team. Ich fühle mich sehr gut versorgt. 👍 Tolle Arbeit geleistet im Juni mit einer kleinen OP.",
+      "time": 1792088241,
+      "translated": false
+    },
+    {
+      "author_name": "Can Yagmur",
+      "author_url": "https://www.google.com/maps/contrib/113394832806468940340/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbmTb3G607I4F9IIm-hq7QF0nNtNfQt-QbNI7tc5N8D6E6Tw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Danke an Herrn Dr. Azem Pljakic und das ganze Team. Ich fühle mich sehr gut versorgt. 👍 Tolle Arbeit geleistet im Juni mit einer kleinen OP.",
       "time": 1792088241,
       "translated": false
@@ -1106,7 +1130,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 137,
+  "reviewCount": 138,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:50.772Z"
+  "lastUpdated": "2026-10-25T09:34:06.289Z"
 }

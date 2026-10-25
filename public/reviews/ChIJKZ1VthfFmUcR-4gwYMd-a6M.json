@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Miss Apfelgrün",
+      "author_url": "https://www.google.com/maps/contrib/102638974175513618746/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJR9BWZU9fzpJWQSb2_haD7n831OBFPe4hTGYRgC7EFxopCQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man kommt pünktlich zum Termin und dann wartet man in der Schlange an der Rezeption 20 Minuten um sich anmelden zu können. Falls man dann nach der Untersuchung einen weiteren Termin ausmachen muss, wartet man ebenso wieder. Somit verbringt man leider unfassbar viel Zeit in der Praxis nur mit warten. Das sollte dringend anderst organisiert werden. Dafür gibt es Punktabzug. Das Team ist sehr nett .",
+      "time": 1792823877,
+      "translated": false
+    },
+    {
+      "author_name": "Helen Limitone",
+      "author_url": "https://www.google.com/maps/contrib/114785270167193578748/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMGqF74SW_yF4G0rSKGgrbxqtV-vA9nY-u2x7zqHddzQ5N3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein man hat eine Venenlaserbehandlung gemacht bei Dr. Tessmann und ist sehr zufrieden, sehr kompetent und professionell. Ich kann die Praxis mit besten Gewissen weiterempfehlen. Vielen Dank",
+      "time": 1792745407,
+      "translated": false
+    },
+    {
       "author_name": "kp kp",
       "author_url": "https://www.google.com/maps/contrib/103805695729110995960/reviews",
       "language": "de",
@@ -13,11 +37,33 @@
       "translated": false
     },
     {
+      "author_name": "kp kp",
+      "author_url": "https://www.google.com/maps/contrib/103805695729110995960/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInWbwXNIAZfDqFhOLxKsAj797q2gYy_HMAIEwfV3H-SWcm-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Wenn du Gesetzlich versichert bist -> wir nehmen keine neuen Patienten auf.\nWenn du Privat versichert bist -> natürlich nehmen wir neue Patienten auf, du kannst aus gefühlt 100 verschiedenen Terminarten und Leistungen wählen. Ich denke mal das Motto der Arztpraxis ist Geld Geld Geld",
+      "time": 1792080949,
+      "translated": false
+    },
+    {
       "author_name": "A.",
       "author_url": "https://www.google.com/maps/contrib/110856744178338726151/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2KDVV5cNabWEuQICCaIxp335ng57Q8NrdEfjdAZ7baEIdpw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792075765,
+      "translated": false
+    },
+    {
+      "author_name": "A.",
+      "author_url": "https://www.google.com/maps/contrib/110856744178338726151/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2KDVV5cNabWEuQICCaIxp335ng57Q8NrdEfjdAZ7baEIdpw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792075765,
       "translated": false
@@ -1710,7 +1756,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 335,
+  "reviewCount": 337,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:50.452Z"
+  "lastUpdated": "2026-10-25T09:34:06.050Z"
 }

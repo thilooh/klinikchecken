@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "F. Sch.",
+      "author_url": "https://www.google.com/maps/contrib/106073955241702026707/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaM5Rd8Bf4L0hA3Z-NCP6ywicvKPP1Ozce7XyeZIUc4oh24C9E=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Zunächst möchte ich betonen, dass ich selbst vom Fach bin. Gerade deshalb hat mich die Erfahrung in Ihrer Praxis besonders irritiert.\n\nDie Mitarbeiterinnen waren durchweg freundlich; meine Kritik richtet sich ausdrücklich an den behandelnden Arzt.\n\nDass ich seinen Namen nicht nennen kann, liegt daran, dass er sich mir nicht einmal vorgestellt hat. Die Untersuchung selbst dauerte höchstens zwei Minuten und war von bemerkenswerter Wortkargheit geprägt. Eine frühere Venen-Operation wurde offenbar nicht berücksichtigt, was den Eindruck erweckte, dass mein Anamnesebogen gar nicht eingesehen worden war. Auch meine geschilderten Symptome wurden ohne erkennbare vertiefte Prüfung abgetan. Statt einer nachvollziehbaren Einschätzung erhielt ich lediglich die Auskunft, ich sei an der falschen medizinischen Adresse und meine Beschwerden hätten nichts mit den Venen zu tun.\n\nIch habe mich weder ernst genommen noch ausreichend untersucht gefühlt. Das Vertrauen, das für eine medizinische Behandlung unerlässlich ist, konnte unter diesen Umständen nicht entstehen. Eine operative Behandlung hätte ich in dieser Praxis daher keinesfalls durchführen lassen.",
+      "time": 1792676423,
+      "translated": false
+    },
+    {
       "author_name": "Olena Chubchyk",
       "author_url": "https://www.google.com/maps/contrib/109952673129735756646/reviews",
       "language": "de",
@@ -720,11 +732,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:49:54.432Z"
+  "lastUpdated": "2026-10-25T09:34:09.401Z"
 }

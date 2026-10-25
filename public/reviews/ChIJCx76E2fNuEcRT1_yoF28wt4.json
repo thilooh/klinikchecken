@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Reiner Schneider",
+      "author_url": "https://www.google.com/maps/contrib/118374634316914385232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIumfy-vcAh7O3GMbvSRQE9ITQNe8zvSyb3ydctOP-Tf8MwLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schöner kleiner Ort zum shopping  ,Parken außerhalb der Parkhäuser ist tricky",
+      "time": 1792687434,
+      "translated": false
+    },
+    {
       "author_name": "Tülay Pi",
       "author_url": "https://www.google.com/maps/contrib/117922257957237839580/reviews",
       "language": "de",
@@ -1712,11 +1724,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 450,
+  "reviewCount": 451,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:50:24.858Z"
+  "lastUpdated": "2026-10-25T09:34:35.120Z"
 }

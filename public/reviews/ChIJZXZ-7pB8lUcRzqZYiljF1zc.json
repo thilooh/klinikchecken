@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "J.B. S.",
+      "author_url": "https://www.google.com/maps/contrib/115617827291923893947/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7aGP5eJWYXdt_OwXFGi5h0g4yTrV1ed6zPQIKLkXjHJyZEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bei Dr. Steinmann und Seinem Team fühle ich mich bestens aufgehoben, als Mensch gesehen und verstanden. Ich habe bei Dr Steinmann erfahren, wie Schulmedizin zielgerichtet eingesetzt wurde. Durch Seine offensichtliche Lebens- und Berufserfahrung empfand ich Seine Therapie sehr angenehm und zielführend.\nIch wünsche Ihm und dem Team weiterhin alles Gute.",
+      "time": 1792738395,
+      "translated": false
+    },
+    {
       "author_name": "Urlaub ist toll!",
       "author_url": "https://www.google.com/maps/contrib/105431714385560027705/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8lF0taTBZD8Edt1Pv-FjESGb1wzigfL9_WdOma4C27_zMxKY=s128-c0x00000000-cc-rp-mo-ba4",
@@ -854,11 +866,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 81,
+  "reviewCount": 82,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-22T09:50:34.226Z"
+  "lastUpdated": "2026-10-25T09:34:43.417Z"
 }

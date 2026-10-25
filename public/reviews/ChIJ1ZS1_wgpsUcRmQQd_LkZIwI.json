@@ -91,6 +91,16 @@
       "translated": false
     },
     {
+      "author_name": "Melanie Xandra Oldewurtel",
+      "author_url": "https://www.google.com/maps/contrib/113666229836216461911/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_BGjvVX9y734omCPZKemBgFglRfoiLDy82U-aNoSbKZCL3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1790098101,
+      "translated": false
+    },
+    {
       "author_name": "Klaus Budzin",
       "author_url": "https://www.google.com/maps/contrib/103304116099874858775/reviews",
       "language": "de",
@@ -314,6 +324,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3r2kUiry1fRsm5sDOGIEARDXiMnWast6rHguE5YIPo18g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Sehr netter kompetenter Arzt, sehr nette Arzthelferin, sehr kurze Wartezeit! Absolut empfehlenswert!!",
+      "time": 1787674329,
+      "translated": false
+    },
+    {
+      "author_name": "Bine Oetting",
+      "author_url": "https://www.google.com/maps/contrib/117213893134681977092/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3r2kUiry1fRsm5sDOGIEARDXiMnWast6rHguE5YIPo18g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Sehr netter kompetenter Arzt, sehr nette Arzthelferin, sehr kurze Wartezeit! Absolut empfehlenswert!!",
       "time": 1787674329,
       "translated": false
@@ -1100,5 +1122,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-22T09:49:52.910Z"
+  "lastUpdated": "2026-10-25T09:34:08.196Z"
 }

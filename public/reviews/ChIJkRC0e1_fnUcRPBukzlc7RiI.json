@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel Matschinski",
+      "author_url": "https://www.google.com/maps/contrib/117541261485827781990/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpFJibqpzbPNyeyX-9T3E-2BZ7XNTLKlmWoDgUVuSr3LoKTg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war hier wegen mehrerer Warzen am Fuß in Behandlung. Da ich gesetzlich versichert bin, musste ich es selber zahlen, aber nach Aussage meiner (gesetzlichen) Hautärztin hätte da nur Lasern etwas bewirkt. Positiv war, dass die Behandlungskosten hier in dieser Praxis etwa bei der Hälfte lagen von dem, was mir meine (gesetzliche) Hautärztin als IGL-Leistung aufschwatzen wollte.\n\nIch habe 7 Termine benötigt und habe mich bei jedem Termin gut aufgehoben gefühlt. Ich hatte nicht das Gefühl, dass ich hier in dieser Praxis länger als nötig behandelt wurde. Das ganze Praxisteam war dabei auch stets freundlich.",
+      "time": 1792862627,
+      "translated": false
+    },
+    {
       "author_name": "Dieter Englert",
       "author_url": "https://www.google.com/maps/contrib/109006809708655386747/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdYXE2an_cnAQ02STJvR9o4vgftZckBgwNe-QF2v-idE7mdEM=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Frau Dr. Wißmüller ist eine äußerst sympathische Ärztin, immer auf dem neuesten Stand der Medizin, in einer super schönen Praxis, im Herzen Münchens, das Praxis Team ist ebenfalls ganz wunderbar...\nMehr geht nicht....😍",
+      "time": 1791463570,
+      "translated": false
+    },
+    {
+      "author_name": "Dieter Englert",
+      "author_url": "https://www.google.com/maps/contrib/109006809708655386747/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdYXE2an_cnAQ02STJvR9o4vgftZckBgwNe-QF2v-idE7mdEM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Frau Dr. Wißmüller ist eine äußerst sympathische Ärztin, immer auf dem neuesten Stand der Medizin, in einer super schönen Praxis, im Herzen Münchens, das Praxis Team ist ebenfalls ganz wunderbar...\nMehr geht nicht....😍",
       "time": 1791463570,
       "translated": false
@@ -1026,7 +1050,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 123,
+  "reviewCount": 124,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:46.210Z"
+  "lastUpdated": "2026-10-25T09:34:02.525Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tina 83",
+      "author_url": "https://www.google.com/maps/contrib/110220609267095923738/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIl3So4AgOXjHQVCxvbshSIOTc2EX0187tdg58HlRm_fuJJR4BF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit Jahren Patientin und immer zufrieden. Alle sehr nett,Praxis ist sauber und toller Arzt. Kann nichts negatives sagen",
+      "time": 1792683355,
+      "translated": false
+    },
+    {
       "author_name": "B. A.",
       "author_url": "https://www.google.com/maps/contrib/109569297915299195410/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcPdOuW4W6-BjG-PmzQaJUvpQpAxwCXj5CgQ3Pxj0Z7GMPRA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich war heute das erste Mal mit meiner Tochter in der Praxis und ich bin begeistert. Der Empfang ist freundlich, die Praxis ist sauber und Dr.Krokowski ist einfach eine 100! Wir brauchen mehr solche Ärzte, er ist auf mein Kind spielerisch eingegangen, hat sich Zeit für meine Fragen genommen und war super sympathisch. Eine absolute Weiterempfehlung. Ein großes Dankeschön :)",
+      "time": 1790926812,
+      "translated": false
+    },
+    {
+      "author_name": "B. A.",
+      "author_url": "https://www.google.com/maps/contrib/109569297915299195410/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcPdOuW4W6-BjG-PmzQaJUvpQpAxwCXj5CgQ3Pxj0Z7GMPRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich war heute das erste Mal mit meiner Tochter in der Praxis und ich bin begeistert. Der Empfang ist freundlich, die Praxis ist sauber und Dr.Krokowski ist einfach eine 100! Wir brauchen mehr solche Ärzte, er ist auf mein Kind spielerisch eingegangen, hat sich Zeit für meine Fragen genommen und war super sympathisch. Eine absolute Weiterempfehlung. Ein großes Dankeschön :)",
       "time": 1790926812,
       "translated": false
@@ -867,12 +891,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 59,
+  "rating": 4.9,
+  "reviewCount": 60,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:50:13.830Z"
+  "lastUpdated": "2026-10-25T09:34:25.778Z"
 }

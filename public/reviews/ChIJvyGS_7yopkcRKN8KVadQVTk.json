@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Wolle Fischer",
+      "author_url": "https://www.google.com/maps/contrib/117976919374270994188/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6KBmrfjGZPho87EN7gMPsI8_IZjd13jIbb-3_xIhdVjtH7Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792826829,
+      "translated": false
+    },
+    {
       "author_name": "Yvonne Lindemann",
       "author_url": "https://www.google.com/maps/contrib/101021548300749328169/reviews",
       "language": "de",
@@ -1638,11 +1648,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 214,
+  "reviewCount": 216,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-10-22T09:50:33.432Z"
+  "lastUpdated": "2026-10-25T09:34:42.702Z"
 }

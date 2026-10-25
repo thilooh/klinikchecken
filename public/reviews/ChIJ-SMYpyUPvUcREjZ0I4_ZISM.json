@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Seda Ustaoglu",
+      "author_url": "https://www.google.com/maps/contrib/114339016345228992309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlu2AbCSVfG2BieV_AaBG8ZF6qsadB7000_eEoZejajFjPzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch war bei Frau Dr. Laura A. Petrescu zur Entfernung meiner Krampfadern und bin rundum zufrieden! Die OP verlief hervorragend und das gesamte Team war sehr freundlich, einfühlsam und professionell. Ich habe mich jederzeit bestens aufgehoben gefühlt. Ein großes Dankeschön an Frau Dr. Petrescu und das tolle Team! Absolute Weiterempfehlung! ❤️\n\nLiebe Grüße Seda Ustaoglu",
+      "time": 1792669238,
+      "translated": false
+    },
+    {
       "author_name": "Sofia Maria Kajtazi",
       "author_url": "https://www.google.com/maps/contrib/106912368786848989309/reviews",
       "language": "de",
@@ -33,11 +45,31 @@
       "translated": false
     },
     {
+      "author_name": "Elisa P",
+      "author_url": "https://www.google.com/maps/contrib/116177657720829699455/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW14u983zkoU5Gil-ksNu4-6WxUFGyzcnoUPE_fwZtXx0phkf0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792151452,
+      "translated": false
+    },
+    {
       "author_name": "Johann Reichert",
       "author_url": "https://www.google.com/maps/contrib/105937860645608455646/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwq-mZ9QtayoU8jjD-Z8eJJurFOXUp8MJ8koXpIMrNUX714w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792146735,
+      "translated": false
+    },
+    {
+      "author_name": "Johann Reichert",
+      "author_url": "https://www.google.com/maps/contrib/105937860645608455646/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwq-mZ9QtayoU8jjD-Z8eJJurFOXUp8MJ8koXpIMrNUX714w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792146735,
       "translated": false
@@ -1380,7 +1412,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 172,
+  "reviewCount": 173,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:42.558Z"
+  "lastUpdated": "2026-10-25T09:33:59.410Z"
 }

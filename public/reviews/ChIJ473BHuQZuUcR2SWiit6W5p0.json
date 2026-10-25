@@ -85,6 +85,18 @@
       "translated": false
     },
     {
+      "author_name": "Lukas P.",
+      "author_url": "https://www.google.com/maps/contrib/104429895992589429175/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtC-3PUcuhQ6tnIdrjGNldd2XbAAfH4FHJwn341dG9pa3hQUI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Gute und schnelle Behandlung!",
+      "time": 1790456060,
+      "translated": false
+    },
+    {
       "author_name": "Mehmet Tekin",
       "author_url": "https://www.google.com/maps/contrib/112875373968906960527/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJx29TT5CoHLAZYL38DhvpJeOT04D2UWkPCVYWZ4HptD9nNA=s128-c0x00000000-cc-rp-mo",
@@ -1152,5 +1164,5 @@
   "rating": 3.6,
   "reviewCount": 130,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:43.989Z"
+  "lastUpdated": "2026-10-25T09:34:00.583Z"
 }

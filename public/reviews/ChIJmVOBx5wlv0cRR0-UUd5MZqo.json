@@ -57,6 +57,16 @@
       "translated": false
     },
     {
+      "author_name": "Carsten Buenger",
+      "author_url": "https://www.google.com/maps/contrib/105801119196394246166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMyccl-RpYQd5z-wr-Ab5Up7H5P2cGIV0b2GfyJAFz26MTKQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1791579954,
+      "translated": false
+    },
+    {
       "author_name": "Hansi",
       "author_url": "https://www.google.com/maps/contrib/104844570199602293209/reviews",
       "language": "de",
@@ -112,6 +122,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmJlyJUUiKFyMemh-fVz4pas80PjC-2GhEyUe0duz6zPJcomY=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr netter und gründlicher Arzt, kaum Wartezeigten!",
+      "time": 1790174577,
+      "translated": false
+    },
+    {
+      "author_name": "Hansi",
+      "author_url": "https://www.google.com/maps/contrib/104844570199602293209/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmJlyJUUiKFyMemh-fVz4pas80PjC-2GhEyUe0duz6zPJcomY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr netter und gründlicher Arzt, kaum Wartezeigten!",
       "time": 1790174577,
       "translated": false
@@ -1355,7 +1377,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 64,
+  "reviewCount": 63,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:39.189Z"
+  "lastUpdated": "2026-10-25T09:33:56.362Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Feri Feigl",
+      "author_url": "https://www.google.com/maps/contrib/117398511014473724543/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL7pwToue4bYsusppDx98Eihp6rkFcmK9k39Jj4BcxK9JaqQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792754934,
+      "translated": false
+    },
+    {
       "author_name": "Alex RA",
       "author_url": "https://www.google.com/maps/contrib/108008459480189178844/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLma-urMOy0SUngTIVVySHTzmwqlmn-ygEledVt3Ly3gR2HZQ=s128-c0x00000000-cc-rp-mo",
@@ -114,11 +124,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 5,
+  "reviewCount": 6,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:50:27.667Z"
+  "lastUpdated": "2026-10-25T09:34:37.689Z"
 }

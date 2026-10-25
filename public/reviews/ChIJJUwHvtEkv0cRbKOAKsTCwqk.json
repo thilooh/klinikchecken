@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Schavier",
+      "author_url": "https://www.google.com/maps/contrib/111275669940816401979/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyaOepa992g1qMFVrv4MKgUy5cclWEju1lfggYdlWN6kIuHA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792679411,
+      "translated": false
+    },
+    {
       "author_name": "Eva",
       "author_url": "https://www.google.com/maps/contrib/104319738027321532315/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmcwxbrKb3x0ESUGZoixGWktLijDCHsoYvkvvDTsi4n3xd4g=s128-c0x00000000-cc-rp-mo",
@@ -757,7 +767,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 80,
+  "reviewCount": 81,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:39.527Z"
+  "lastUpdated": "2026-10-25T09:33:56.690Z"
 }

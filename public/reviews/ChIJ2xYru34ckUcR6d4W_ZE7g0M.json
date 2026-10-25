@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Oliver Claus",
+      "author_url": "https://www.google.com/maps/contrib/105105368155607035600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI54TnzC8-87J8-hTAl_lro-LLnBgKF1A-D6gBBtiszPsBxvg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mir wurde hervorragend geholfen, alle waren sehr freundlich.",
+      "time": 1792898547,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Schuler",
+      "author_url": "https://www.google.com/maps/contrib/101517803024690095790/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX26HINfQQbVHv-_tdomm8zXcTWTM8HFFBBGIDfj4QsGX-Ugwl6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Große Venen Praxis\nAmbulante Operationen\nKompetente Behandlung",
+      "time": 1792774857,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Tamanini",
       "author_url": "https://www.google.com/maps/contrib/115159534822265791970/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICuoeckovW44l2NwPyRWYSBy72kKPFWyIFLs3QnoBeNipudQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -40,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQbBSFfTOoXD5xo2yBjyM7c_0FzmvHPu-7RfSjGYkQExC54LnuQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Praxis mit freundlichen Personal 👍",
+      "time": 1791710133,
+      "translated": false
+    },
+    {
+      "author_name": "Sven Kammerer",
+      "author_url": "https://www.google.com/maps/contrib/103959185490791216210/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQbBSFfTOoXD5xo2yBjyM7c_0FzmvHPu-7RfSjGYkQExC54LnuQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr gute Praxis mit freundlichen Personal 👍",
       "time": 1791710133,
       "translated": false
@@ -1472,11 +1508,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 189,
+  "reviewCount": 191,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-22T09:50:02.854Z"
+  "lastUpdated": "2026-10-25T09:34:16.498Z"
 }

@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "Minna B",
+      "author_url": "https://www.google.com/maps/contrib/105349049923844745303/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCX0JPn8v2_ZmEea1b0v_N2_lAAAvc9MbzAtB6hV4y6qmMfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1790882542,
+      "translated": false
+    },
+    {
       "author_name": "Angelika Blohm",
       "author_url": "https://www.google.com/maps/contrib/105343755399972155352/reviews",
       "language": "de",
@@ -206,6 +216,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwh2I8HmcwJLXTx75_iSMNu-XvCMbrneP9gClbxY4KMrGV-g=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Ich erreiche die Praxis nie.",
+      "time": 1782305796,
+      "translated": false
+    },
+    {
+      "author_name": "Felix Kuka",
+      "author_url": "https://www.google.com/maps/contrib/112165768683088988505/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwh2I8HmcwJLXTx75_iSMNu-XvCMbrneP9gClbxY4KMrGV-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Ich erreiche die Praxis nie.",
       "time": 1782305796,
       "translated": false
@@ -634,5 +656,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:49:54.096Z"
+  "lastUpdated": "2026-10-25T09:34:09.154Z"
 }

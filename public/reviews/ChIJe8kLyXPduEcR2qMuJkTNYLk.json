@@ -71,6 +71,18 @@
       "translated": false
     },
     {
+      "author_name": "Rosi F",
+      "author_url": "https://www.google.com/maps/contrib/106295485299577581855/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNAwPoSCWte6SCzSAWNmQAQ_JOLl4EX3W2pzgm3MXuW7dTCzO1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Super freundlich und kompetent.\nMit viel Zeit für alle Fragen.\nSehr zu empfehlen",
+      "time": 1790252164,
+      "translated": false
+    },
+    {
       "author_name": "Sonja Funder",
       "author_url": "https://www.google.com/maps/contrib/105891918902056370240/reviews",
       "language": "de",
@@ -670,5 +682,5 @@
   "rating": 4.7,
   "reviewCount": 50,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:51.099Z"
+  "lastUpdated": "2026-10-25T09:34:06.531Z"
 }

@@ -35,6 +35,18 @@
       "translated": false
     },
     {
+      "author_name": "Maurice",
+      "author_url": "https://www.google.com/maps/contrib/106795190765112395351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJbB_292VszK1VWMw5c-6XQ6jQ1xxUQieL_CoSXUPY-GGeFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Rechnungsstellung über 5 Monate. Behandlung 29.04. RG-Datum 08.10. Das finde ich nicht so gut. Sie entschuldigen sich zwar auf der RG dafür, trotzdem nicht so schön. Kosten Vorgespräch 43,13. Muttermalentfernung 250,00, also ca. 300€ Ich habe mir ein hautfarbenes Muttermal (Dermale Nävuszellnaevi) zwischen den Augenbrauen entfernen lassen. Ergebnis 75%. Ich sehe heute nach knapp 6 Monaten leider immer noch eine Erhebung, wenn auch kleiner als zuvor. Vor Ort ist alles sehr modern und hochwertig. In so einem schönen Wartebereich saß ich noch nie.",
+      "time": 1792136160,
+      "translated": false
+    },
+    {
       "author_name": "DiMe Hamburg (Kirk)",
       "author_url": "https://www.google.com/maps/contrib/100118002910631878519/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3pNlLxlSZhjNqG2ALrg8Va4XDYObwbpnrsOtV0OlLgd5wee0=s128-c0x00000000-cc-rp-mo-ba4",
@@ -60,6 +72,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3pNlLxlSZhjNqG2ALrg8Va4XDYObwbpnrsOtV0OlLgd5wee0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1790944994,
+      "translated": false
+    },
+    {
+      "author_name": "DiMe Hamburg (Kirk)",
+      "author_url": "https://www.google.com/maps/contrib/100118002910631878519/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3pNlLxlSZhjNqG2ALrg8Va4XDYObwbpnrsOtV0OlLgd5wee0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1790944994,
       "translated": false
@@ -108,6 +130,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_3rMm0UdVrR5GhI1VDT0teeYq74SF4NAxJVbmcCnQeZm7MA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr professionelles Ärzteteam und sehr freundliches Personal! Ich war zweimal wegen dringender medizinischer Probleme dort und habe schnell und professionell Hilfe sowie eine sehr angenehme Behandlung erhalten. Obwohl es sich um eine Privatpraxis handelt, bemühen sich die Ärzte sehr, die Kosten so gering wie möglich zu halten und informieren einen im Voraus über die voraussichtlichen Kosten. Letzte Woche hatte ich dort erneut einen kleinen Eingriff. Ich denke, ich werde von nun an Stammpatientin bleiben.",
+      "time": 1790333963,
+      "translated": true
+    },
+    {
+      "author_name": "Christine",
+      "author_url": "https://www.google.com/maps/contrib/113296049300627768152/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_3rMm0UdVrR5GhI1VDT0teeYq74SF4NAxJVbmcCnQeZm7MA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr professionelles Ärzteteam und sehr freundliches Personal! Ich war zweimal wegen dringender medizinischer Probleme dort und habe schnell und professionell Hilfe sowie eine sehr angenehme Behandlung erhalten. Obwohl es sich um eine Privatpraxis handelt, bemühen sich die Ärzte sehr, die Kosten so gering wie möglich zu halten und informieren einen im Voraus über die voraussichtlichen Kosten. Letzte Woche hatte ich dort erneut einen kleinen Eingriff. Ich denke, ich werde von nun an Stammpatientin bleiben.",
       "time": 1790333963,
       "translated": true
@@ -1790,5 +1824,5 @@
   "rating": 4.4,
   "reviewCount": 468,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:47.887Z"
+  "lastUpdated": "2026-10-25T09:34:03.894Z"
 }

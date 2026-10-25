@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Erich Drost",
+      "author_url": "https://www.google.com/maps/contrib/116254860509063026636/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfF0o1zvhZcmDbbdzgqZblFp9_h30AF9MYkpTc9J6OVop2YQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sie ist eine sehr gute Ärztin begleitet mich seit Jahren und hat meine komplizierte Beine im Griff.\nIch bin Ihr sehr Dankbar für alles .\nE. DROST",
+      "time": 1792691827,
+      "translated": false
+    },
+    {
       "author_name": "Marco Schimmelpfennig",
       "author_url": "https://www.google.com/maps/contrib/108734648379726732897/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnq1_S1oPtaLWBi1eoB8fEh5jpDFvYPVWjCdvLVgGy5y6pOg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -40,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLGjrvc4kiRM8kHzi32lsX8wduKDhQboNwzmsORyuK0ILn6g=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war Anfang des Jahres 2026 zu einer Untersuchung, Frau Dr. Wilms erschien mir als sehr arrogant  mit wenig Empathie. Die Diagnose, die sie stellte, war für mich nicht überzeugend. Ich habe den Arzt gewechselt.",
+      "time": 1791561770,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfgang Thoms",
+      "author_url": "https://www.google.com/maps/contrib/113280627404557825264/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLGjrvc4kiRM8kHzi32lsX8wduKDhQboNwzmsORyuK0ILn6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war Anfang des Jahres 2026 zu einer Untersuchung, Frau Dr. Wilms erschien mir als sehr arrogant  mit wenig Empathie. Die Diagnose, die sie stellte, war für mich nicht überzeugend. Ich habe den Arzt gewechselt.",
       "time": 1791561770,
       "translated": false
@@ -112,6 +136,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4pqs2ccxSDDVQGImaknugDVtXygHpw6FxNs9WS7_fbKGGxA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nette Arzthelferin und Ärztin.Hab mich direkt von Anfang an wie Zuhause gefühlt.🤗😉",
+      "time": 1791082767,
+      "translated": false
+    },
+    {
+      "author_name": "Wolf Kress",
+      "author_url": "https://www.google.com/maps/contrib/104536312297267824408/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4pqs2ccxSDDVQGImaknugDVtXygHpw6FxNs9WS7_fbKGGxA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr nette Arzthelferin und Ärztin.Hab mich direkt von Anfang an wie Zuhause gefühlt.🤗😉",
       "time": 1791082767,
       "translated": false
@@ -717,12 +753,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 29,
+  "rating": 4.3,
+  "reviewCount": 30,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:50:23.674Z"
+  "lastUpdated": "2026-10-25T09:34:34.163Z"
 }

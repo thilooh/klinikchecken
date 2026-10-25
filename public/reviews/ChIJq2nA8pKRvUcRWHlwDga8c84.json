@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "VomWindeVerweht",
+      "author_url": "https://www.google.com/maps/contrib/109558213089995225037/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1Y7y_BtDwgSGy5dNoKWd6-Qz48nh-Q8PgL2m9Sa1JxuyUwDqd=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Netter, freundlicher Empfang und super moderne Praxis!\nPünktlich zum Termin ging das Hautscreening los. Die Fotoaufnahmen & das anschließende Gespräch mit der Ärztin hab ich als sehr angenehm empfunden. Es wurde sich Zeit genommen und gründlich ,, unter die Lupe genommen,,. OP Termin steht, kann die Praxis jedem empfehlen!\n\nParkplätze gibt es auch kostenlos vor der Tür.",
+      "time": 1792762449,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Töpfer",
+      "author_url": "https://www.google.com/maps/contrib/113265562517333297526/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvX7dAeQt7ATDcaI5NPOo-TCF4tHcoGdcOXyn1Jo-AkcUBqQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde von Benedetti behandelt und bin sehr zufrieden.  Man wird mit höchste Aufmerksamkeit und Professionalität beachtet.  Vielen Dank!",
+      "time": 1792756353,
+      "translated": false
+    },
+    {
       "author_name": "Juan Sebastián Galindo Berrío",
       "author_url": "https://www.google.com/maps/contrib/107439902051209674349/reviews",
       "language": "es",
@@ -1916,5 +1940,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-22T09:50:12.623Z"
+  "lastUpdated": "2026-10-25T09:34:24.820Z"
 }

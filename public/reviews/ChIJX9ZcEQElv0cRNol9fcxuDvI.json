@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rebekka Krüger",
+      "author_url": "https://www.google.com/maps/contrib/116954140282647984481/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGEAt4LOEHxr9ZWKqUFCVgkX7AUDPekAAle2_HfBhav0vNlA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolles Team. Einfühlsam. Reibungsloser Ablauf🤗hab mich sehr gut aufgehoben gefühlt 👍🏻",
+      "time": 1792870081,
+      "translated": false
+    },
+    {
       "author_name": "Norbert Brand",
       "author_url": "https://www.google.com/maps/contrib/106759331279036244817/reviews",
       "language": "de",
@@ -13,11 +25,33 @@
       "translated": false
     },
     {
+      "author_name": "Norbert Brand",
+      "author_url": "https://www.google.com/maps/contrib/106759331279036244817/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl_nScKrOtrNbbKg1KRLwM29u-IxiO3DvwOd-PZeaGJYT5aw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Top Ärzte und Personal",
+      "time": 1792244110,
+      "translated": false
+    },
+    {
       "author_name": "Anita Horochowik",
       "author_url": "https://www.google.com/maps/contrib/103294662639420158930/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImJGC0lF0RnbENnaAFKdhp4C6a4Umr2Fg_SD2Yt7_IL1MddA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792072619,
+      "translated": false
+    },
+    {
+      "author_name": "Anita Horochowik",
+      "author_url": "https://www.google.com/maps/contrib/103294662639420158930/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImJGC0lF0RnbENnaAFKdhp4C6a4Umr2Fg_SD2Yt7_IL1MddA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792072619,
       "translated": false
@@ -147,6 +181,16 @@
       "translated": false
     },
     {
+      "author_name": "Carmen Bruch",
+      "author_url": "https://www.google.com/maps/contrib/105939623564935863336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfxUisY59DpATw8Oy5aqFfEzOFUWGnyovj-JAV6x129l4f-aB6ig=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1790282512,
+      "translated": false
+    },
+    {
       "author_name": "Ingo Hagen",
       "author_url": "https://www.google.com/maps/contrib/113113554977749810326/reviews",
       "language": "de",
@@ -202,6 +246,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIyFoLqmedelWAM7QMbRtkHQC1PR12vrr_Xe80KSznWROSmrR3=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Meine Mutter ist jetzt schon länger als Patientin im MVZ.\nDa ich immer mit vor Ort bin, kann ich schreiben wir sind sehr zufrieden, seit meine Mutter dort in Behandlung ist, schreitet die Heilung voran.\n\nDas ganze Team ist sehr freundlich und fachkundig!\nbesonderer Dank an Frau Preker.",
+      "time": 1790110379,
+      "translated": false
+    },
+    {
+      "author_name": "Ingo Hagen",
+      "author_url": "https://www.google.com/maps/contrib/113113554977749810326/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIyFoLqmedelWAM7QMbRtkHQC1PR12vrr_Xe80KSznWROSmrR3=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Meine Mutter ist jetzt schon länger als Patientin im MVZ.\nDa ich immer mit vor Ort bin, kann ich schreiben wir sind sehr zufrieden, seit meine Mutter dort in Behandlung ist, schreitet die Heilung voran.\n\nDas ganze Team ist sehr freundlich und fachkundig!\nbesonderer Dank an Frau Preker.",
       "time": 1790110379,
       "translated": false
@@ -1297,11 +1353,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 195,
+  "reviewCount": 196,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-10-22T09:49:35.887Z"
+  "lastUpdated": "2026-10-25T09:33:53.401Z"
 }

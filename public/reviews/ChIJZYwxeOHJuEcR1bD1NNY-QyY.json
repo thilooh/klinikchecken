@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marcel Elsenpeter",
+      "author_url": "https://www.google.com/maps/contrib/108720051010864450667/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEvykdD_Zxo-qZTYG54cz4WoQRr81vCZwTuPkN3eXhz4sKpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alle super nett und selbst ein guten wickel tisch mit allem was dazu gehört für die kleinen patienten. Kann ich nur empfehlen",
+      "time": 1792662632,
+      "translated": false
+    },
+    {
       "author_name": "Wolfgang Bergens",
       "author_url": "https://www.google.com/maps/contrib/101161953236502691239/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfZxr4ARBOS03WmCPn_toWuejHmmGG37tYUbw5gTOURTtvNQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -124,6 +136,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyGiEgywq_Lb3GNb_UwG9B6YxUg3ly20FKZM-cuJpeilLBZw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich bin sehr zufrieden. Kurze Wartezeiten im Wartrzimmer, weil man ein Termin hat. Das ist leider bei anderen Ärzten nicht der Fall.\n\nHier konnte man mir mit meiner Schuppenflechte, welche ich jahrelang mit mir rumschleppte.",
+      "time": 1790144478,
+      "translated": false
+    },
+    {
+      "author_name": "Tim Kühn",
+      "author_url": "https://www.google.com/maps/contrib/104644291161515855448/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyGiEgywq_Lb3GNb_UwG9B6YxUg3ly20FKZM-cuJpeilLBZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich bin sehr zufrieden. Kurze Wartezeiten im Wartrzimmer, weil man ein Termin hat. Das ist leider bei anderen Ärzten nicht der Fall.\n\nHier konnte man mir mit meiner Schuppenflechte, welche ich jahrelang mit mir rumschleppte.",
       "time": 1790144478,
       "translated": false
@@ -1415,7 +1439,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 103,
+  "reviewCount": 104,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:41.913Z"
+  "lastUpdated": "2026-10-25T09:33:58.904Z"
 }

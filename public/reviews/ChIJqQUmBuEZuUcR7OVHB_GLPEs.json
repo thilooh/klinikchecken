@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sabrina Kempe",
+      "author_url": "https://www.google.com/maps/contrib/108059845856293481622/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzQf15DFbt6Y-qr28xnDQRrCFsPSP8MBLCmCicwyYj6OHtUg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schon viele Jahre hier in Behandlung .....",
+      "time": 1792867036,
+      "translated": false
+    },
+    {
       "author_name": "Jörg Reinhardt",
       "author_url": "https://www.google.com/maps/contrib/116697241836110928041/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "M. V.",
+      "author_url": "https://www.google.com/maps/contrib/116579428324600688144/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7L7R5dGh3uR6zq1B4bVPheuwNKPnivs46McpW0dv-msTzHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich habe meine Nasolabialfalten mit Hyaluronsäure behandeln lassen und nun bilden sich Marionettenfältchen, die ich vorher nicht hatte und je nach Blickwinkel sind sogar leichte Erhebungen sichtbar. Ich war kurz nach der Behandlung in der Praxis und habe gesagt, dass sich die behandelten Partien zu schwer anfühlen und dass eventuell zu viel Hyaluron verwendet wurde, aber man versicherte mir alles sei in Ordnung. Später kontaktierte ich die Praxis erneut und schilderte die Problematik (die Schwere und die Erhebungen, die neue Linienführung war zu dem Zeitpunkt noch nicht sichtbar). Daraufhin wurde mir eine Auflösung des Hyalurons angeboten, mit dem Hinweis es könne erstmal zu \"Dellen\" in meinem Gesicht führen und es sei daher besser abzuwarten. Als mir nach ein paar Wochen zusätzlich zu der Schwere auch noch die neu entstehenden Marionettenfältchen auffielen, schrieb ich der Praxis eine Mail, bekam jedoch keine Antwort mehr. Auch mein erneutes Nachfragen wurde nicht beantwortet und als es nach Monaten(!) endlich zu einem Telefonat kam, wurde ich vertröstet, ohne Lösung der geschilderten Problematik bis zum heutigen Tag. Schade, mein erster Eindruck von der Praxis war sehr gut, aber mein jetziger Eindruck steht dem ersten diametral gegenüber.\n\nDa die Praxis meine erste Rezension hat löschen lassen: In meiner Akte ist dokumentiert, dass ich in der Hansaklinik behandelt wurde und auch den erwähnten Emailverkehr habe ich vorliegen. Anstatt eine negative Rezension löschen zu lassen, wäre es eine Idee eine adäquate Lösung für die geschilderten Problematik anzubieten.",
+      "time": 1792159179,
+      "translated": false
+    },
+    {
       "author_name": "Miri Kue",
       "author_url": "https://www.google.com/maps/contrib/114401582085061746188/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2cEEWcO96lBjFk7cxFCveg0p-2ESy64K1MBG1WGzSoqoBng=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Für  mehrere Mini-Ops da gewesen. Kaum Wartezeit. Eine sehr empathische Ärztin erlebt, die mit viel Feingefühl vorgegangen ist. Bei einer weiteren Ärztin habe ich absolut nicht gut aufgehoben gefühlt. Diese ist leider sehr ruppig vorgegangen. Daher vergebe ich insgesamt nur 3 Sterne und keine 5 (die hätte die erst genannte Ärztin und auch das Empfangspersonal verdient).",
+      "time": 1792141028,
+      "translated": false
+    },
+    {
+      "author_name": "Miri Kue",
+      "author_url": "https://www.google.com/maps/contrib/114401582085061746188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2cEEWcO96lBjFk7cxFCveg0p-2ESy64K1MBG1WGzSoqoBng=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Für  mehrere Mini-Ops da gewesen. Kaum Wartezeit. Eine sehr empathische Ärztin erlebt, die mit viel Feingefühl vorgegangen ist. Bei einer weiteren Ärztin habe ich absolut nicht gut aufgehoben gefühlt. Diese ist leider sehr ruppig vorgegangen. Daher vergebe ich insgesamt nur 3 Sterne und keine 5 (die hätte die erst genannte Ärztin und auch das Empfangspersonal verdient).",
       "time": 1792141028,
       "translated": false
@@ -1802,7 +1838,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 311,
+  "reviewCount": 312,
   "summary": [],
-  "lastUpdated": "2026-10-22T09:49:44.342Z"
+  "lastUpdated": "2026-10-25T09:34:00.900Z"
 }

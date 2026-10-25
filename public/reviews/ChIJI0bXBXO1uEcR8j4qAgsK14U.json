@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Harald Kaufhold",
+      "author_url": "https://www.google.com/maps/contrib/114789889512616709238/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1t4wLotKVBy2_So5y3lHyL8JsfYgmpoafRBRlcr1W3dGNrA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut organisiert und kompetent.",
+      "time": 1792895397,
+      "translated": false
+    },
+    {
+      "author_name": "Angela Zeuchner",
+      "author_url": "https://www.google.com/maps/contrib/105151280416667954330/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWlQicIibu9vZfmUwAI7imEgR13f2y2vcMiVXA9cKlXw8Okw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hallo,\nHeute war ich das erste Mal in dieser Praxis zum DermaScan. Ich fühlte mich sofort sehr gut aufgehoben. Die Helferinnen waren sehr locker drauf und sehr freundlich und zuvorkommend. Der Arzt ist sehr kompetent und gewissenhaft. Er hat mir alles plausibel und bis ins kleinste erklärt. Zudem ist er auch, wie sein Team, entspannt und freundlich. Weitere Termine bestehen schon. Selbstverständlich kann ich diese Praxis, nach meinem heutigen Eindruck guten Gewissens weiterempfehlen.\nDaher von mir volle fünf Sterne 👍",
+      "time": 1792770384,
+      "translated": false
+    },
+    {
       "author_name": "Frank Hess",
       "author_url": "https://www.google.com/maps/contrib/115765143924023589087/reviews",
       "language": "de",
@@ -1730,11 +1754,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 343,
+  "reviewCount": 345,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:50:26.882Z"
+  "lastUpdated": "2026-10-25T09:34:36.971Z"
 }

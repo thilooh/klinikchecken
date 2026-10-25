@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sascia Stannek",
+      "author_url": "https://www.google.com/maps/contrib/110294640355526716413/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLefy2wCa8GETBog6EKivdzjm5gIjAwpdsT23NhCfJivBCPxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792878726,
+      "translated": false
+    },
+    {
       "author_name": "Harry Baums",
       "author_url": "https://www.google.com/maps/contrib/103251087747051658471/reviews",
       "language": "de",
@@ -116,6 +126,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVeMre7UcAqvoOgnV5jU-GlRcJCt075CDokqyEemqP1sRteMzp=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
+      "text": "Arzt kompetent und nett, aber die blonde etwas kräftigere junge Frau an der Anmeldung ist sehr unfreundlich",
+      "time": 1787508569,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriele Dietz",
+      "author_url": "https://www.google.com/maps/contrib/110133854299538760371/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVeMre7UcAqvoOgnV5jU-GlRcJCt075CDokqyEemqP1sRteMzp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Arzt kompetent und nett, aber die blonde etwas kräftigere junge Frau an der Anmeldung ist sehr unfreundlich",
       "time": 1787508569,
       "translated": false
@@ -778,11 +800,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 31,
+  "reviewCount": 32,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-22T09:50:33.986Z"
+  "lastUpdated": "2026-10-25T09:34:43.175Z"
 }

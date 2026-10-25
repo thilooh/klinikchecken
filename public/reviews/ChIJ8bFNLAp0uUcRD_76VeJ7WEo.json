@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ksenia Alexandrovna",
+      "author_url": "https://www.google.com/maps/contrib/101012318528530342441/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-y4XvhK4uIFJSAJdaK4aiHkVNZukpOV3MIIyxFQt3OMMNtjpC=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792913991,
+      "translated": false
+    },
+    {
+      "author_name": "Izabela",
+      "author_url": "https://www.google.com/maps/contrib/101292473471306489540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRg5KhmFihBB6CJpU07WwIFa3kZS_02bRA69qQr9sQe6rBREU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dankeschon",
+      "time": 1792828690,
+      "translated": false
+    },
+    {
       "author_name": "KliGedi !",
       "author_url": "https://www.google.com/maps/contrib/103482648794630330067/reviews",
       "language": "de",
@@ -44,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0QJJMVd6EQ0q0OS3XGarwfupXmY-UavQHvEJWvBJusjatefZX=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Die Pädiatrie ist hervorragend. Das Personal ist gut organisiert und die Arbeitsabläufe sind gut eingespielt - ein großes Lob an das gesamte Team.",
+      "time": 1790161431,
+      "translated": false
+    },
+    {
+      "author_name": "KliGedi !",
+      "author_url": "https://www.google.com/maps/contrib/103482648794630330067/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0QJJMVd6EQ0q0OS3XGarwfupXmY-UavQHvEJWvBJusjatefZX=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Die Pädiatrie ist hervorragend. Das Personal ist gut organisiert und die Arbeitsabläufe sind gut eingespielt - ein großes Lob an das gesamte Team.",
       "time": 1790161431,
       "translated": false
@@ -757,12 +791,12 @@
       "translated": false
     }
   ],
-  "rating": 4,
-  "reviewCount": 21,
+  "rating": 4.1,
+  "reviewCount": 23,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-22T09:50:20.060Z"
+  "lastUpdated": "2026-10-25T09:34:31.122Z"
 }

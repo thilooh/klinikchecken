@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine Methler",
+      "author_url": "https://www.google.com/maps/contrib/114772291155779780601/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBa1XrhdP3OFIiUN7EiXXKdlA568nxX3_cF2gg_Qs25MAOIo_Iog=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider war das Team an meinem Termin etwas überlastet. Ich fühlte mich etwas abgebürstet. Ich kenne es sonst anders.....",
+      "time": 1792876570,
+      "translated": false
+    },
+    {
+      "author_name": "Romy",
+      "author_url": "https://www.google.com/maps/contrib/106574384784799959036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTI5QUxJN_OwcWdbysGDsrwtRtyxWz0Gz1Q-hgEinQoxic8Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792770145,
+      "translated": false
+    },
+    {
+      "author_name": "Barbara Debert",
+      "author_url": "https://www.google.com/maps/contrib/113036334746604409298/reviews",
+      "language": "de",
+      "original_language": "pl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLS8TbsEu0kw6o12ap_Mhz3KHiHHZahQNBzaAAT95Ze0wB9-w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetente Ärzte und überaus freundliches Personal. Sehr empfehlenswert!",
+      "time": 1792668477,
+      "translated": true
+    },
+    {
       "author_name": "G. Pr.",
       "author_url": "https://www.google.com/maps/contrib/104348818158416008098/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGK4RzgiO984_OvtfuiOv6RLl0E_gX_RpTc_rwJfsVdsTwvw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -56,6 +90,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgUTnTV-CyUSYJztqT8tOjsZdBEsmPq2XqRYcCWBoHtJGMU3HE=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1790884863,
+      "translated": false
+    },
+    {
+      "author_name": "Nikola Otto",
+      "author_url": "https://www.google.com/maps/contrib/100604019753649885559/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgUTnTV-CyUSYJztqT8tOjsZdBEsmPq2XqRYcCWBoHtJGMU3HE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1790884863,
       "translated": false
@@ -1500,11 +1544,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 129,
+  "reviewCount": 132,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-10-22T09:50:00.606Z"
+  "lastUpdated": "2026-10-25T09:34:14.598Z"
 }

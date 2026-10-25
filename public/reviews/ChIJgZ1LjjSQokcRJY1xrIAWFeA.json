@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "CB",
+      "author_url": "https://www.google.com/maps/contrib/101912564144859191804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxpZZBxm_Oz32ZKEVbgFjlWiQa_7E_b8CDTV9P-XwWVrQYqmI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792741801,
+      "translated": false
+    },
+    {
       "author_name": "Marc Schwittai",
       "author_url": "https://www.google.com/maps/contrib/108705038060626775247/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy35OtpRKzPznWtgdMvmJN8EmgZ2GU7c5S-80UQTmw8jL9Pc64VQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -782,11 +792,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 72,
+  "reviewCount": 73,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-22T09:50:08.272Z"
+  "lastUpdated": "2026-10-25T09:34:21.025Z"
 }

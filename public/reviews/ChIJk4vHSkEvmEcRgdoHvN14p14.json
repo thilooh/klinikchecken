@@ -21,6 +21,18 @@
       "translated": false
     },
     {
+      "author_name": "Ramona",
+      "author_url": "https://www.google.com/maps/contrib/109969842050359609033/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzjGlAIR6oy70oaok5Wquoebk6R-_YFVoIWLgRaYtJjVJ6pA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider sind die Mitarbeiter dort sehr unfreundlich . Das ist mir noch schon öfter dort passiert und das in einem Maße ,was nicht mehr tolerierbar ist .",
+      "time": 1792056510,
+      "translated": false
+    },
+    {
       "author_name": "Mona Merkle",
       "author_url": "https://www.google.com/maps/contrib/110702032814510510265/reviews",
       "language": "de",
@@ -100,6 +112,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG992exw4KcbEl5NGvsMJcIEiZaow3iPTTA2YdBxilHRbv1w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Vor Kurzem habe ich meine Hautärztin gewechselt, da mir niemand helfen oder eine Diagnose stellen konnte. Dank Frau Reine Saba bin ich alle Hautprobleme im Gesicht losgeworden, die mich als junge Frau sehr gestört haben. Ich bin ihr unglaublich dankbar und finde, dass sie die Beste auf ihrem Gebiet ist! Ich kann sie wärmstens empfehlen ❤️",
+      "time": 1791477621,
+      "translated": false
+    },
+    {
+      "author_name": "Anastasies",
+      "author_url": "https://www.google.com/maps/contrib/116345295356818600750/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG992exw4KcbEl5NGvsMJcIEiZaow3iPTTA2YdBxilHRbv1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Vor Kurzem habe ich meine Hautärztin gewechselt, da mir niemand helfen oder eine Diagnose stellen konnte. Dank Frau Reine Saba bin ich alle Hautprobleme im Gesicht losgeworden, die mich als junge Frau sehr gestört haben. Ich bin ihr unglaublich dankbar und finde, dass sie die Beste auf ihrem Gebiet ist! Ich kann sie wärmstens empfehlen ❤️",
       "time": 1791477621,
       "translated": false
@@ -1678,11 +1702,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 214,
+  "reviewCount": 208,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-22T09:50:28.375Z"
+  "lastUpdated": "2026-10-25T09:34:38.414Z"
 }

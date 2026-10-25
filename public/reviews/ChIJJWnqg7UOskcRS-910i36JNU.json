@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Maren Moukalled",
+      "author_url": "https://www.google.com/maps/contrib/108559356362805130960/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4klO_bNsjbkKULzcxP_8EAH13_6Pf0rL6cKrNrTUu53ZlAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr geehrtes Hautarzt-Praxisteam,\nich bin äußerst zufrieden mit meinem Termin bei Ihnen. Die Mitarbeiterin am Empfang war sehr freundlich (leider weiß ich nicht ihren Namen). Bei Frau D. Mrowka hatte ich einen chirurgischen Eingriff. Sie hat alles gut erklärt, war sehr nett und aufmerksam und sie hat durch ihr freundliches Wesen zu einer entspannten Atmosphäre beigetragen. Ihr Assistent war ebenfalls sehr freundlich und umsichtig.  Ich habe mich sehr wohl gefühlt bei Ihnen und habe Sie schon an 2 Personen weiter empfohlen.\nViele Grüße\nM.Moukalled",
+      "time": 1792845672,
+      "translated": false
+    },
+    {
+      "author_name": "tjark Burgtorf",
+      "author_url": "https://www.google.com/maps/contrib/101190926546021259945/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyK5bct4RZA2_tGDDbiFEZuNE4a4jaw_XcPNnyPdaSnSDVHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super organisiert die Praxis keine Wartezeit.Kompetente Ärztin.",
+      "time": 1792686481,
+      "translated": false
+    },
+    {
       "author_name": "Themistoklis Tsintarakis",
       "author_url": "https://www.google.com/maps/contrib/113736428704180807710/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbn7cBwxN2soGemT4eKUwt803G5f4lB17XgGW91SsnFobcLA=s128-c0x00000000-cc-rp-mo",
@@ -2444,11 +2468,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2450,
+  "reviewCount": 2452,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-22T09:49:56.196Z"
+  "lastUpdated": "2026-10-25T09:34:10.813Z"
 }
