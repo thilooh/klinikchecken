@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Yvonne Thiel",
+      "author_url": "https://www.google.com/maps/contrib/110225430213011965546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINGvqFXlPLpLFyhzG5Ss9n8o5nxvLl9FW-om2y1djYUJhXRQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann Frau Dr. Dith uneingeschränkt weiterempfehlen! Im Gegensatz zu vielen anderen Hautärzten, bei denen man sich oft schnell abgefertigt fühlt, ist sie unglaublich nett und ruhig. Sie nimmt sich Zeit, erklärt alles verständlich und arbeitet absolut professionell. Endlich mal eine Ärztin, bei der man sich bestens aufgehoben fühlt!",
+      "time": 1793048687,
+      "translated": false
+    },
+    {
       "author_name": "Yeliz Öner",
       "author_url": "https://www.google.com/maps/contrib/110971261348799174510/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvdQzIM18FrXEke-NJVN_15onJFii_03RFr2VTc61OAq27ZA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Modern eingerichtete Praxis, absolut freundliches und hilfsbereites Team, und eine sehr freundliche und kompetente Ärztin!!\nHab mich sehr gut aufgehoben gefühlt.\nAuch ohne Termin, dank der offenen Sprechstunde, war die Wartezeit absolut okay. Kleiner Tipp: Früh genug da sein😊\nDANKE!!",
+      "time": 1791360603,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan K.",
+      "author_url": "https://www.google.com/maps/contrib/111372613380502161868/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvdQzIM18FrXEke-NJVN_15onJFii_03RFr2VTc61OAq27ZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Modern eingerichtete Praxis, absolut freundliches und hilfsbereites Team, und eine sehr freundliche und kompetente Ärztin!!\nHab mich sehr gut aufgehoben gefühlt.\nAuch ohne Termin, dank der offenen Sprechstunde, war die Wartezeit absolut okay. Kleiner Tipp: Früh genug da sein😊\nDANKE!!",
       "time": 1791360603,
       "translated": false
@@ -156,6 +180,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzuhIB9b69nAYSzLuOZqmfZPDXmKt8k4So1MW8hgtY-ODXEA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1790576820,
+      "translated": false
+    },
+    {
+      "author_name": "Ilona Schmidt-Murati",
+      "author_url": "https://www.google.com/maps/contrib/115090301156326919051/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzuhIB9b69nAYSzLuOZqmfZPDXmKt8k4So1MW8hgtY-ODXEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1790576820,
       "translated": false
@@ -1570,11 +1604,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 245,
+  "reviewCount": 246,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:13.882Z"
+  "lastUpdated": "2026-10-28T10:57:42.032Z"
 }

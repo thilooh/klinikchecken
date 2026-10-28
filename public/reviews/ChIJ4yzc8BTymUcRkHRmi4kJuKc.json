@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Carmen Lang-Valteau",
+      "author_url": "https://www.google.com/maps/contrib/109625807722667890927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUH10yn6to0Q1uXM9-EdogxYsoadqVBFxrVgM8U6_UZy4u77-4A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nettes Team ,Anmeldung vor Ort sehr gut.",
+      "time": 1793088440,
+      "translated": false
+    },
+    {
       "author_name": "Lena Rulantica",
       "author_url": "https://www.google.com/maps/contrib/103601475709867719999/reviews",
       "language": "de",
@@ -64,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO7bf7vJSrCMvr6DSIA4KqvIz7kUrRkcDH_je0mU7FD_TQ8Kk=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Bei einem womöglich Notfall wird man hier abgelehnt, da man keine Neupatienten annimmt…",
+      "time": 1791809220,
+      "translated": false
+    },
+    {
+      "author_name": "Dominik A",
+      "author_url": "https://www.google.com/maps/contrib/110917267825057096672/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO7bf7vJSrCMvr6DSIA4KqvIz7kUrRkcDH_je0mU7FD_TQ8Kk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Bei einem womöglich Notfall wird man hier abgelehnt, da man keine Neupatienten annimmt…",
       "time": 1791809220,
       "translated": false
@@ -94,6 +118,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJfaXLu5nrSmRfR8103GYTw9L6yHci_IF_neHMziLgl3rYft640A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1791297964,
+      "translated": false
+    },
+    {
+      "author_name": "Lilli Hoerz",
+      "author_url": "https://www.google.com/maps/contrib/115098637308478042850/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJfaXLu5nrSmRfR8103GYTw9L6yHci_IF_neHMziLgl3rYft640A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1791297964,
       "translated": false
@@ -1222,5 +1256,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:41.053Z"
+  "lastUpdated": "2026-10-28T10:58:09.495Z"
 }

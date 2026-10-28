@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "L.",
+      "author_url": "https://www.google.com/maps/contrib/116826577777599380514/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5ffD8JNKd8tKRqbja4R0F-c6CH0qCrJ18ImFsmSStga66_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Behandlung dort und kann die Praxis nur empfehlen",
+      "time": 1792995581,
+      "translated": false
+    },
+    {
       "author_name": "Susanne Baukrowitz",
       "author_url": "https://www.google.com/maps/contrib/114436372678992020008/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILgtKLpSuAAGxSPGXpLIVh6iNAjlqb0mGlOI8rUsWaXIbCIw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ein super Team und eine ganz ganz tolle Ärztin...danke an die Sprechstundenhilfe die mir den Abszess geöffnet hat",
+      "time": 1792571841,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Ostarek",
+      "author_url": "https://www.google.com/maps/contrib/114025766573895149426/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILgtKLpSuAAGxSPGXpLIVh6iNAjlqb0mGlOI8rUsWaXIbCIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ein super Team und eine ganz ganz tolle Ärztin...danke an die Sprechstundenhilfe die mir den Abszess geöffnet hat",
       "time": 1792571841,
       "translated": false
@@ -1552,11 +1576,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 252,
+  "reviewCount": 253,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:14.364Z"
+  "lastUpdated": "2026-10-28T10:57:42.542Z"
 }

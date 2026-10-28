@@ -35,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "R R",
+      "author_url": "https://www.google.com/maps/contrib/102948546120970675258/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcUKEpsF0qrm4pCoFCddX147FCwR_xJ0K9A6VsyMrDULbm6DMfjA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792499079,
+      "translated": false
+    },
+    {
       "author_name": "Can Yagmur",
       "author_url": "https://www.google.com/maps/contrib/113394832806468940340/reviews",
       "language": "de",
@@ -78,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9V5DjlXjnnzNKkM83exFQI6bogsw2_zaEBMfdqJgAZyp6PUNb=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr einladende Umgebung ,die Ärztin sehr freundlich und gründlich  alle Fragen beantwortet und Tipps gegeben ,aufgeklärt.\nDie Helferin sehr nett und schnell einen Termin bekommen.\nIch bin sehr zufrieden mit der Praxis\nDanke",
+      "time": 1791890885,
+      "translated": false
+    },
+    {
+      "author_name": "Caro Bie",
+      "author_url": "https://www.google.com/maps/contrib/107536516019066752966/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9V5DjlXjnnzNKkM83exFQI6bogsw2_zaEBMfdqJgAZyp6PUNb=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr einladende Umgebung ,die Ärztin sehr freundlich und gründlich  alle Fragen beantwortet und Tipps gegeben ,aufgeklärt.\nDie Helferin sehr nett und schnell einen Termin bekommen.\nIch bin sehr zufrieden mit der Praxis\nDanke",
       "time": 1791890885,
       "translated": false
@@ -1132,5 +1154,5 @@
   "rating": 4.1,
   "reviewCount": 138,
   "summary": [],
-  "lastUpdated": "2026-10-25T09:34:06.289Z"
+  "lastUpdated": "2026-10-28T10:57:34.350Z"
 }

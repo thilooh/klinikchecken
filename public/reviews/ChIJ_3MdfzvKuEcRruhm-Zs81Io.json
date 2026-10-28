@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "XPauli",
+      "author_url": "https://www.google.com/maps/contrib/102651370604630897145/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcuCeV8tRuaKR8fwcz6L4dScJoUV3tLPH6oxUzlPlz0Er_riK0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich für eine Brustvergrößerung mit\n510 cc bei Dr. Ignatiadis entschieden und bin mittlerweile knapp 4 Monate nach der OP unglaublich glücklich mit meiner Entscheidung! ❤️ 🥹😍🍒\n\nSchon beim Beratungsgespräch hatte ich direkt ein gutes Gefühl. Dr. Ignatiadis hat sich Zeit genommen, ist auf meine Wünsche eingegangen und hat mir mit seiner ruhigen, professionellen Art viel Vertrauen gegeben. Für mich war es eine sehr persönliche Entscheidung und ich bin wirklich froh, dass ich sie in seine Hände gelegt habe.\n\nMit meinem bisherigen Ergebnis bin ich mehr als zufrieden! Meine Brüste haben eine wunderschöne Form und meine Narben sind nach knapp 4 Monaten bereits super verheilt. 🥰 Natürlich befindet sich das Ergebnis noch im Heilungsprozess, aber ich bin jetzt schon unglaublich glücklich und freue mich jedes Mal, wenn ich das Ergebnis sehe.\n\nWas ich besonders schätze, ist, dass ich mich mit meiner Entscheidung bei Dr. Ignatiadis von Anfang an sicher gefühlt habe. Man merkt, wie wichtig eine gute Betreuung und ein schönes Ergebnis sind. Für mich hat er wirklich tolle Arbeit geleistet und meine Erwartungen bisher mehr als erfüllt.\n\nVielen lieben Dank, Dr. Ignatiadis, für Ihre tolle Arbeit und dafür, dass Sie mich auf diesem Weg begleitet haben! Ich würde mich jederzeit wieder für Sie entscheiden und kann Sie wirklich von Herzen weiterempfehlen. ❤️",
+      "time": 1793142862,
+      "translated": false
+    },
+    {
       "author_name": "Mandy Berger",
       "author_url": "https://www.google.com/maps/contrib/104427356380046770696/reviews",
       "language": "de",
@@ -152,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBmvsi2iAHeFxWX8bxrQPVNhONEzjfLnOnAK-eKq6OAxxi7w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "⭐⭐⭐⭐⭐\n\nIch hatte bei Herrn Dr. Spengler eine Brustverkleinerung inklusive Bruststraffung und bin mit dem Ergebnis unglaublich glücklich – ich liebe meine neue Oberweite! 🥰\n\nVon Tag eins an habe ich mich bestens beraten, verstanden und ernst genommen gefühlt. Die OP ist vollkommen komplikationslos verlaufen und auch die Nachuntersuchungen waren jederzeit kompetent und professionell.\n\nBesonders positiv empfand ich außerdem die kurzen Wartezeiten vor den Terminen – langes Sitzen und Warten war eigentlich nie ein Thema. Auch der Empfang ist stets unglaublich freundlich und aufmerksam. Man fühlt sich direkt wohl, sobald man die MSC betritt. 💛\n\nVielen Dank an das gesamte Team für die tolle Betreuung! Ich würde mich jederzeit wieder in Ihre Hände begeben und komme sehr gerne auf Sie zurück.",
+      "time": 1790401419,
+      "translated": false
+    },
+    {
+      "author_name": "Marli Perch",
+      "author_url": "https://www.google.com/maps/contrib/115971652975194152887/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBmvsi2iAHeFxWX8bxrQPVNhONEzjfLnOnAK-eKq6OAxxi7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "⭐⭐⭐⭐⭐\n\nIch hatte bei Herrn Dr. Spengler eine Brustverkleinerung inklusive Bruststraffung und bin mit dem Ergebnis unglaublich glücklich – ich liebe meine neue Oberweite! 🥰\n\nVon Tag eins an habe ich mich bestens beraten, verstanden und ernst genommen gefühlt. Die OP ist vollkommen komplikationslos verlaufen und auch die Nachuntersuchungen waren jederzeit kompetent und professionell.\n\nBesonders positiv empfand ich außerdem die kurzen Wartezeiten vor den Terminen – langes Sitzen und Warten war eigentlich nie ein Thema. Auch der Empfang ist stets unglaublich freundlich und aufmerksam. Man fühlt sich direkt wohl, sobald man die MSC betritt. 💛\n\nVielen Dank an das gesamte Team für die tolle Betreuung! Ich würde mich jederzeit wieder in Ihre Hände begeben und komme sehr gerne auf Sie zurück.",
       "time": 1790401419,
       "translated": false
@@ -1759,7 +1783,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 395,
+  "reviewCount": 396,
   "summary": [],
-  "lastUpdated": "2026-10-25T09:33:58.020Z"
+  "lastUpdated": "2026-10-28T10:57:26.013Z"
 }

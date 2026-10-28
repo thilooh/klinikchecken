@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Levente Till",
+      "author_url": "https://www.google.com/maps/contrib/105584544136529114422/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL98NIA4xxIwFj5M1jZLEkOYAZYX8-Wljn4WWZs8cCYJV6KaQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793119906,
+      "translated": false
+    },
+    {
+      "author_name": "YZ Tai",
+      "author_url": "https://www.google.com/maps/contrib/104068633113343410968/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEjSTQTIoQntLXP1TgzB-oRn-4Ufl8VHg-mSE014uKkUcGXXk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als Medizinstudent und ehemaliger Patient habe ich von Dr. Kasten und den Mitarbeitern sehr viel gelernt. Dr. Kasten ist für jeden ein Vorbild, wenn es darum geht, wie man Patienten behandelt. Dr. Kasten und das gesamte Praxisteam sind sehr freundlich und kompetent, sodass sie jedem Patienten alle verfügbaren Therapieoptionen aufzeigen können.",
+      "time": 1793003023,
+      "translated": false
+    },
+    {
       "author_name": "Isabel",
       "author_url": "https://www.google.com/maps/contrib/112823314708163117754/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmj8KbJpW14fJreHPoHf_qAbfud-kYUhGTJL-FXLcrtT-_Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Seit ein paar Monaten bin ich Patientin in der Praxis Dr. Kasten.\nÜber den ersten Kontakt, zur Vorbesprechung der OP bis hin zur OP war alles perfekt.\n\nDie Aufklärung vor und während der OP war einwandfrei. Alle Fragen wurden kompetent und in Ruhe beantwortet.\n\nHervorheben möchte ich die tolle Idee Videos zu den einzelnen OPs auf der Website zu hinterlegen.\n\nAlles in allem waren die Aufenthalte in dieser Praxis geprägt mit Vertrauen und Wertschätzung. Freundlichkeit wird hier auch sehr groß geschrieben. Danke!",
+      "time": 1792527659,
+      "translated": false
+    },
+    {
+      "author_name": "Isabel",
+      "author_url": "https://www.google.com/maps/contrib/112823314708163117754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmj8KbJpW14fJreHPoHf_qAbfud-kYUhGTJL-FXLcrtT-_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Seit ein paar Monaten bin ich Patientin in der Praxis Dr. Kasten.\nÜber den ersten Kontakt, zur Vorbesprechung der OP bis hin zur OP war alles perfekt.\n\nDie Aufklärung vor und während der OP war einwandfrei. Alle Fragen wurden kompetent und in Ruhe beantwortet.\n\nHervorheben möchte ich die tolle Idee Videos zu den einzelnen OPs auf der Website zu hinterlegen.\n\nAlles in allem waren die Aufenthalte in dieser Praxis geprägt mit Vertrauen und Wertschätzung. Freundlichkeit wird hier auch sehr groß geschrieben. Danke!",
       "time": 1792527659,
       "translated": false
@@ -1220,11 +1254,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 232,
+  "reviewCount": 234,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:25.064Z"
+  "lastUpdated": "2026-10-28T10:57:53.363Z"
 }

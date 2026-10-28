@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Nurcan Çepük",
+      "author_url": "https://www.google.com/maps/contrib/114273876490987327599/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXL9QiEOAJyy0Y3lUwaEa6UjiOV_3crxV_FzNOuFaZjHHiZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793116941,
+      "translated": false
+    },
+    {
+      "author_name": "Werner Krasztinat",
+      "author_url": "https://www.google.com/maps/contrib/104640100648339199568/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXF4ynCPOBrAJMxHftCZVJaI4_a02pscCkbunudNoKzX7oz3SNevA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war im Ärztehaus beim Kardiologen,  so ein tolles Team habe ich noch nie erlebt,  so einfühlsam,  mit Humor  und immer absolut professionell.  Danke,  es war super bei Ihnen.",
+      "time": 1793036710,
+      "translated": false
+    },
+    {
       "author_name": "Peter Scholz",
       "author_url": "https://www.google.com/maps/contrib/112184566075794523300/reviews",
       "language": "de",
@@ -1824,11 +1846,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 452,
+  "reviewCount": 454,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-25T09:34:15.790Z"
+  "lastUpdated": "2026-10-28T10:57:43.985Z"
 }

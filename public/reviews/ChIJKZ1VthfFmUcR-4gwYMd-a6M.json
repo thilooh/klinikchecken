@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Berin Kapi",
+      "author_url": "https://www.google.com/maps/contrib/102376953509517798456/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUuYrdOS5ArSt2U1q36xbz0MdDCIEQjPl3ZlmUdI-tJFfPlkw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man vereinbart einen Gesamtpreis und kriegt dann eine Rechnung wo die mwst noch dazu kommt. In meinem Fall waren es 70€ mehr als vereinbart.",
+      "time": 1793127336,
+      "translated": false
+    },
+    {
       "author_name": "Miss Apfelgrün",
       "author_url": "https://www.google.com/maps/contrib/102638974175513618746/reviews",
       "language": "de",
@@ -1758,5 +1770,5 @@
   "rating": 4.5,
   "reviewCount": 337,
   "summary": [],
-  "lastUpdated": "2026-10-25T09:34:06.050Z"
+  "lastUpdated": "2026-10-28T10:57:34.109Z"
 }

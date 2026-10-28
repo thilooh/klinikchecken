@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Annika Wiese",
+      "author_url": "https://www.google.com/maps/contrib/113937393415364538877/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxg1uSMFUMW5K-Kac6zZ0fSPUregWnsRfSBMpcg5bhZLWAcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793105939,
+      "translated": false
+    },
+    {
       "author_name": "Christina W.",
       "author_url": "https://www.google.com/maps/contrib/118220636773520887165/reviews",
       "language": "de",
@@ -856,11 +866,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 81,
+  "reviewCount": 82,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:33.459Z"
+  "lastUpdated": "2026-10-28T10:58:01.864Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Susanne",
+      "author_url": "https://www.google.com/maps/contrib/111559015507625775181/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaGNdhzqrNKhHnfRisizQtWOcGEM2rtSOPGYGO2Bj4XI9Ceg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Lange auf einen Termin gewartet, aber dann sehr zufrieden. Kompetent und emphatisch.",
+      "time": 1792942746,
+      "translated": false
+    },
+    {
       "author_name": "Karl-Heinz D",
       "author_url": "https://www.google.com/maps/contrib/113614781389549333405/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtC-3PUcuhQ6tnIdrjGNldd2XbAAfH4FHJwn341dG9pa3hQUI=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Gute und schnelle Behandlung!",
+      "time": 1790456060,
+      "translated": false
+    },
+    {
+      "author_name": "Lukas P.",
+      "author_url": "https://www.google.com/maps/contrib/104429895992589429175/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtC-3PUcuhQ6tnIdrjGNldd2XbAAfH4FHJwn341dG9pa3hQUI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Gute und schnelle Behandlung!",
       "time": 1790456060,
       "translated": false
@@ -1162,7 +1186,7 @@
     }
   ],
   "rating": 3.6,
-  "reviewCount": 130,
+  "reviewCount": 131,
   "summary": [],
-  "lastUpdated": "2026-10-25T09:34:00.583Z"
+  "lastUpdated": "2026-10-28T10:57:28.655Z"
 }

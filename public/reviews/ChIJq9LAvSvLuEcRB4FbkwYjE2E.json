@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "André",
+      "author_url": "https://www.google.com/maps/contrib/101722631621185967887/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR5UjkrPqNGPyq4rDuC7GB4ddEmuC6iXFNWgrkDILSOj4F8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin nun seit 7 Jahren Patient bei Dr. Kusenack und muß sagen, daß ich sehr froh bin einen Arzt gefunden zu haben der äußerst kompetent und zudem menschlich und sympathisch ist.\nDas Praxisteam ist ebenfalls immer professionell und äußerst sympathisch.\nNach nun 2 operativen Eingriffen und vielen Kontrolluntersuchungen ist die Praxis von Dr. Kusenack meine erste Wahl!\nVielen Dank noch mal für Ihre professionelle und nette Hilfe!\nBis bald,\nA.R",
+      "time": 1793114520,
+      "translated": false
+    },
+    {
       "author_name": "Kristina B",
       "author_url": "https://www.google.com/maps/contrib/115248309883144373570/reviews",
       "language": "de",
@@ -97,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Laura Fietz",
+      "author_url": "https://www.google.com/maps/contrib/107995096056734363908/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjXXm5eNrSwADZAO_HbnAnLnx_K-spoA6Z09MJdhnKzc6SSg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Ich habe mich sehr gut aufgehoben gefühlt bei Herrn Dr.Kusenack. Man merkt, dass er sehr viel Ahnung hat und auf dem neuesten Stand der Medizin ist - und das Wichtigste: Der Mensch steht hier ganzheitlich im Vordergrund. Er nimmt sich viel Zeit und versucht wirklich die Ursache zu verstehen - ganzheitlich und mit viel Empathie. Er hat zu keinster Zeit versucht mir irgendetwas anzudrehen und mir realistische Einschätzungen zu geben. In der Praxis habe ich mich sehr wohl gefühlt und das Geld, was ich als gesetzlich Versicherte investiert habe, hat sich gelohnt. Vielen Dank!",
+      "time": 1790756912,
+      "translated": false
+    },
+    {
       "author_name": "Tanja Arden",
       "author_url": "https://www.google.com/maps/contrib/109254798751186565311/reviews",
       "language": "de",
@@ -140,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpOIr_0chGvbosJZyUy8BWOld64OzKw8bpQtIHu50fsz9WWA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ein ganz toller, emphatischer und absolut patenter Doc! Meine Mutter hat sich sehr gut aufgehoben gefühlt. Auch hatte Dr. Kusenack sich noch meines Vaters angenommen, obwohl dieser keinen Termin bei ihm hatte.\nAlles in allem hat der Doc sich seine 5 Sterne verdient!\nNoch einmal ein herzliches Dankeschön auch für den kurzfristig Termin am späten Abend!\n\nAbsolut empfehlenswert!\nIch würde ja sagen: Gerne immer wieder, aber wir bleiben dann doch lieber alle gesund ;-)\n\nLiebe Grüße aus Kleve\nFamilie Thies/ Arden",
+      "time": 1790717068,
+      "translated": false
+    },
+    {
+      "author_name": "Tanja Arden",
+      "author_url": "https://www.google.com/maps/contrib/109254798751186565311/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpOIr_0chGvbosJZyUy8BWOld64OzKw8bpQtIHu50fsz9WWA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ein ganz toller, emphatischer und absolut patenter Doc! Meine Mutter hat sich sehr gut aufgehoben gefühlt. Auch hatte Dr. Kusenack sich noch meines Vaters angenommen, obwohl dieser keinen Termin bei ihm hatte.\nAlles in allem hat der Doc sich seine 5 Sterne verdient!\nNoch einmal ein herzliches Dankeschön auch für den kurzfristig Termin am späten Abend!\n\nAbsolut empfehlenswert!\nIch würde ja sagen: Gerne immer wieder, aber wir bleiben dann doch lieber alle gesund ;-)\n\nLiebe Grüße aus Kleve\nFamilie Thies/ Arden",
       "time": 1790717068,
       "translated": false
@@ -1093,11 +1129,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 86,
+  "reviewCount": 87,
   "summary": [
     "Dr. Kusenack nimmt sich außergewöhnlich viel Zeit — Patienten reisen teils extra aus dem Ausland an",
     "Krampfader-Behandlungen mit sehr hoher Erfolgsrate, persönliche Nachsorge noch am OP-Abend",
     "Familiäre, vertrauensvolle Atmosphäre — auch Angehörige werden daraufhin Patienten"
   ],
-  "lastUpdated": "2026-10-25T09:33:54.997Z"
+  "lastUpdated": "2026-10-28T10:57:22.871Z"
 }

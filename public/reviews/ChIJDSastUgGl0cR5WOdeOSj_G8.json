@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "M K",
+      "author_url": "https://www.google.com/maps/contrib/113026749715195973425/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1SdE57UpEHrregZWLLazQ2ginGzTS27mZmsgsqUw8ZMEDV8c=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "\"Leider sind derzeit alle Mitarbeiter im Gespräch, bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal\" - und dann wird aufgelegt.\n\nEgal an welchem Tag, egal zu welcher Uhrzeit, egal wie oft, die Praxis scheint telefonisch nicht erreichbar zu sein - dabei soll man für Terminvereinbarung anrufen.",
+      "time": 1793115071,
+      "translated": false
+    },
+    {
       "author_name": "Alojz Cvetko",
       "author_url": "https://www.google.com/maps/contrib/113848663851967944861/reviews",
       "language": "de",
@@ -40,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAEdxOt5OxbSq8KC2mVqNgokStR7sIQKiwSuYL4fAixktipw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1791968590,
+      "translated": false
+    },
+    {
+      "author_name": "Gazmend Arifovic",
+      "author_url": "https://www.google.com/maps/contrib/104332927753065978017/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAEdxOt5OxbSq8KC2mVqNgokStR7sIQKiwSuYL4fAixktipw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1791968590,
       "translated": false
@@ -1748,11 +1770,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 244,
+  "reviewCount": 245,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:18.861Z"
+  "lastUpdated": "2026-10-28T10:57:47.074Z"
 }

@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Jörg Reinhardt",
+      "author_url": "https://www.google.com/maps/contrib/116697241836110928041/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBApTptRkqNlPUA_A-brTbvb02JNfv0StG9kE4K4SFBQVndQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Alles in Ordnung. Sauber.",
+      "time": 1792577465,
+      "translated": false
+    },
+    {
       "author_name": "M. V.",
       "author_url": "https://www.google.com/maps/contrib/116579428324600688144/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXFRpH1BGc5vBY_s6yHTzIWELtBxL4PIK7d0khefjO1nfr9xkGPA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "vor einer Woche",
+      "text": "Ärzte sehr nett , aber es ist sehr schwierig telefonisch oder online einen Termin zu vereinbaren! War in meinem Fall auf beiden Wegen nicht möglich! Ich hatte Glück das meine  Freundin auch dort in Behandlung ist und mir einen Termin mitbrachte !",
+      "time": 1791891200,
+      "translated": false
+    },
+    {
+      "author_name": "Krabi",
+      "author_url": "https://www.google.com/maps/contrib/108308246858544100301/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXFRpH1BGc5vBY_s6yHTzIWELtBxL4PIK7d0khefjO1nfr9xkGPA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ärzte sehr nett , aber es ist sehr schwierig telefonisch oder online einen Termin zu vereinbaren! War in meinem Fall auf beiden Wegen nicht möglich! Ich hatte Glück das meine  Freundin auch dort in Behandlung ist und mir einen Termin mitbrachte !",
       "time": 1791891200,
       "translated": false
@@ -1840,5 +1864,5 @@
   "rating": 4.7,
   "reviewCount": 312,
   "summary": [],
-  "lastUpdated": "2026-10-25T09:34:00.900Z"
+  "lastUpdated": "2026-10-28T10:57:28.898Z"
 }

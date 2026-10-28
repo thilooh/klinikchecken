@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Y K",
+      "author_url": "https://www.google.com/maps/contrib/108554025858179220443/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTC67Tgbtf6MUGOjfNfEvDwhVem6vQrrcTzhj5lAqIdwe5cA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider eine sehr enttäuschende Erfahrung. Durch eine minimale Verspätung von wenigen Minuten (plus zusätzlicher Wartezeit an der Rezeption) wurde ich vom Arzt direkt unfreundlich empfangen und herablassend gefragt, wie er mir in der restlichen Zeit überhaupt noch helfen solle. Und das nicht nur einmal sondern gleich dreimal. Ich habe mich extrem unwohl gefühlt. Den vereinbarten Folgetermin habe ich daraufhin abgesagt. So wünscht man sich als Patient keinen Umgang – keine Empfehlung. Außerdem war es auch nicht der Arzt bei dem ich eigentlich für den Termin eingetragen war.\nKomm runter von deinem „hohen“ Ross Herr Al-….",
+      "time": 1792755565,
+      "translated": false
+    },
+    {
       "author_name": "Franka Musche",
       "author_url": "https://www.google.com/maps/contrib/105252290741311470507/reviews",
       "language": "de",
@@ -1379,5 +1391,5 @@
   "rating": 4.1,
   "reviewCount": 63,
   "summary": [],
-  "lastUpdated": "2026-10-25T09:33:56.362Z"
+  "lastUpdated": "2026-10-28T10:57:24.408Z"
 }

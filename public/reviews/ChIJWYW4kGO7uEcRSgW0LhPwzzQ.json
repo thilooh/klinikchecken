@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "DagobertDrip",
+      "author_url": "https://www.google.com/maps/contrib/103383637508453205937/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw7HrMO4HdxxwajhecBAQTKfzsfDtJmaPByYeeyx3kFQno1hU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Aufgrund bereits vorhandener positiver Rezensionen habe ich in der Praxis bei Herrn Lodin einen Termin zur Hautkrebsvorsorge gemacht. Und was soll ich sagen? Ich wurde absolut nicht enttäuscht! Ganz im Gegenteil. Ein unfassbar freundlicher Mensch und ein super Umgang mit Patienten. Gleichzeitig wird große Kompetenz ausgestrahlt. Ich habe mich sehr wohl gefühlt und kann die Praxis daher nur empfehlen. 😌",
+      "time": 1793136704,
+      "translated": false
+    },
+    {
       "author_name": "Heike K.",
       "author_url": "https://www.google.com/maps/contrib/111639223836306214116/reviews",
       "language": "de",
@@ -43,6 +55,16 @@
       "translated": false
     },
     {
+      "author_name": "Bettina C.",
+      "author_url": "https://www.google.com/maps/contrib/100985072163011188846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlWUjnDn-ONB6JhSr9svRMw2IK8Yal39Lnp8M0FO2sBpT7yo0_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1791294892,
+      "translated": false
+    },
+    {
       "author_name": "Frank Kaldenpoth",
       "author_url": "https://www.google.com/maps/contrib/112998179346205604596/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyATwYffkb-uCeG0OIsvDwe5fln_JOh9TIjYVK5UiGZefOGFfF6A=s128-c0x00000000-cc-rp-mo-ba4",
@@ -68,6 +90,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyATwYffkb-uCeG0OIsvDwe5fln_JOh9TIjYVK5UiGZefOGFfF6A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1791140708,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Kaldenpoth",
+      "author_url": "https://www.google.com/maps/contrib/112998179346205604596/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyATwYffkb-uCeG0OIsvDwe5fln_JOh9TIjYVK5UiGZefOGFfF6A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1791140708,
       "translated": false
@@ -1182,11 +1214,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 52,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:28.971Z"
+  "lastUpdated": "2026-10-28T10:57:57.280Z"
 }

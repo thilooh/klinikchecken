@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Demet Ce",
+      "author_url": "https://www.google.com/maps/contrib/112953138158407092912/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO35DTQVzgYXM2tLp-wzhnfR4VOE1nnsS98CkehmVbsNjcMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vergeben „schnelle“ Termine an privat Patienten und die Wartezeit beträgt über 1 Stunde.",
+      "time": 1793011759,
+      "translated": false
+    },
+    {
       "author_name": "Mariam Agha",
       "author_url": "https://www.google.com/maps/contrib/116055066786900580691/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNw0L6UP4mkBS0-cOE8zp6st1NAJybOuGXDk1XzgnVNWufrg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Gut strukturierte Praxis, aus meiner Sicht leider bei der Behandlung mit Tempo, aber ein gutes Gefühl.",
+      "time": 1791110321,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Antkowiak",
+      "author_url": "https://www.google.com/maps/contrib/108070658188641315111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNw0L6UP4mkBS0-cOE8zp6st1NAJybOuGXDk1XzgnVNWufrg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Gut strukturierte Praxis, aus meiner Sicht leider bei der Behandlung mit Tempo, aber ein gutes Gefühl.",
       "time": 1791110321,
       "translated": false
@@ -1222,5 +1246,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:28.009Z"
+  "lastUpdated": "2026-10-28T10:57:56.311Z"
 }

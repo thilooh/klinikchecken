@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Vanessa Baur 20",
+      "author_url": "https://www.google.com/maps/contrib/110172491349383119274/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE2ERgZvPnwIJmI8kzPZilzyTiPg3hUVW6OAal2zCPtGRgkQ0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wahnsinnig gute Praxis. Kompetente Ärzte und Helfer/innen.♥️✨🫶🏽",
+      "time": 1793123914,
+      "translated": false
+    },
+    {
       "author_name": "Maikel Yakob",
       "author_url": "https://www.google.com/maps/contrib/105880696320378259718/reviews",
       "language": "de",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "bktin inct",
+      "author_url": "https://www.google.com/maps/contrib/101137842628996965995/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgH8GrXHYeDPzHTRSkuV5bFwN5l33iu1PtBuq3gZii6gC_4_Xf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Heute mein erster Besuch bei Dr. med. Broichmann und ich bin mehr als zufrieden! Ein kompetenter und sehr sympathischer Arzt. Das Team an der Rezeption war ebenfalls extrem nett und hilfsbereit. Absolute Empfehlung.\n\n- Ilyas L.",
+      "time": 1792492924,
+      "translated": false
+    },
+    {
       "author_name": "Anna Becker",
       "author_url": "https://www.google.com/maps/contrib/113087726820595599424/reviews",
       "language": "de",
@@ -42,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzku688MELZ7lduGRAHaRBFRcqT7dbrk3jLpaqVXaOUir1FZiX=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Die Ärzte sind sehr gut und professionell. Wartezeiten am Termintag extrem lang. Unter 1 Stunde habe ich noch nie erlebt. Man braucht fast einen halben Tag Urlaub für einen 5-minütigen Termin. Der Frontdesk ist eine Katastrophe. Eine ewige Schlange beim Einchecken von Patienten, obwohl es da 3 Arzthelferinen gibt. Mehrfach habe ich auch erlebt, wie sie an der Rezeption über die Ärzte lästern. Bessere Organisation der Prozesse würde nicht schaden.",
+      "time": 1792484526,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Becker",
+      "author_url": "https://www.google.com/maps/contrib/113087726820595599424/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzku688MELZ7lduGRAHaRBFRcqT7dbrk3jLpaqVXaOUir1FZiX=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Die Ärzte sind sehr gut und professionell. Wartezeiten am Termintag extrem lang. Unter 1 Stunde habe ich noch nie erlebt. Man braucht fast einen halben Tag Urlaub für einen 5-minütigen Termin. Der Frontdesk ist eine Katastrophe. Eine ewige Schlange beim Einchecken von Patienten, obwohl es da 3 Arzthelferinen gibt. Mehrfach habe ich auch erlebt, wie sie an der Rezeption über die Ärzte lästern. Bessere Organisation der Prozesse würde nicht schaden.",
       "time": 1792484526,
       "translated": false
@@ -1728,11 +1764,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 165,
+  "reviewCount": 166,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:24.577Z"
+  "lastUpdated": "2026-10-28T10:57:52.890Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Xenia Maass",
+      "author_url": "https://www.google.com/maps/contrib/118143000729932300614/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzVYXiKVGl54YaJyWX6gWHMvoDu8U3fZmrJu4PwjzNSZfIbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "LevVital ist super vom Personal her sehr freundlich und verständnisvoll die Geräte sind auch super ich habe nichts zu meckern.",
+      "time": 1793028596,
+      "translated": false
+    },
+    {
       "author_name": "Rina S",
       "author_url": "https://www.google.com/maps/contrib/112934813985622394176/reviews",
       "language": "de",
@@ -530,11 +542,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 24,
+  "reviewCount": 25,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:34.396Z"
+  "lastUpdated": "2026-10-28T10:58:02.801Z"
 }

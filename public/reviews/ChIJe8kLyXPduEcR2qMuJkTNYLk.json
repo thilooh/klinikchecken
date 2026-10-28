@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Birgit Moeller-Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/115467853768811715837/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2lG1PfU6ZYHMfEdsYb5R3OYI7Xslq0Zmbq_IMMRSBUY8gGA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zugewandter Arzt, nettes freundliches Personal",
+      "time": 1793018294,
+      "translated": false
+    },
+    {
       "author_name": "CHRISTIAN Rusch",
       "author_url": "https://www.google.com/maps/contrib/109197144071925844334/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXd9-vJHffTQVMzwqgusdh6OSqdob4qFWKVvA33-7U-Lpr5t-xLzQ=s128-c0x00000000-cc-rp-mo",
@@ -18,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCrh10L0mJ_JpujGWkcN_zhENd_spH3AMFJzacRDsf8E8mhA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetenter Arzt, sehr freundlich, erklärt alles super. Auch die Damen sind sehr sehr nett.",
+      "time": 1792432052,
+      "translated": false
+    },
+    {
+      "author_name": "Brigitte Werner",
+      "author_url": "https://www.google.com/maps/contrib/118333582916638341397/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCrh10L0mJ_JpujGWkcN_zhENd_spH3AMFJzacRDsf8E8mhA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr kompetenter Arzt, sehr freundlich, erklärt alles super. Auch die Damen sind sehr sehr nett.",
       "time": 1792432052,
       "translated": false
@@ -680,7 +704,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 50,
+  "reviewCount": 51,
   "summary": [],
-  "lastUpdated": "2026-10-25T09:34:06.531Z"
+  "lastUpdated": "2026-10-28T10:57:34.588Z"
 }

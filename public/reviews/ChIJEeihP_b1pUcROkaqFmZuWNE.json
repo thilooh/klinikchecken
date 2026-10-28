@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Lilli Künnemann",
+      "author_url": "https://www.google.com/maps/contrib/112713105652525701655/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKfK2tGKVZYqbGl7CeBaevvJ7mylhPg8JBLbiSgdsvETA7zA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792510511,
+      "translated": false
+    },
+    {
       "author_name": "Madame M",
       "author_url": "https://www.google.com/maps/contrib/117256520134770584862/reviews",
       "language": "de",
@@ -47,6 +57,18 @@
       "translated": false
     },
     {
+      "author_name": "Heidemarie Heek",
+      "author_url": "https://www.google.com/maps/contrib/111927793205462019111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu7HdN0HRhYt6mZ8i13d--kU5ubgvyb3b6jj78DhDIj0qyKw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Die notwendige OP am Ohr wurde von Dr. Brücher mit viel Sorgfalt und auf ein kosmetisch gutes Ergebnis bedacht durchgeführt.Wärend der OP wurde mir sowohl vom Arzt als auch von der OP-Schwester die Schritte erläutert.Die Atmosphäre war entspannt sodass meine Anspannung gemindert wurde.Die wochenlangen Nachbehandlung wurde von der superfreundlichen Verbandsschwester vorbildlich durchgeführt.Gemessen an der Größe des Eingriffes bin ich vollkommen zufrieden.H.Heek",
+      "time": 1791788348,
+      "translated": false
+    },
+    {
       "author_name": "S W",
       "author_url": "https://www.google.com/maps/contrib/102213556704150806227/reviews",
       "language": "de",
@@ -78,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvoIxldrLZLavegorYl4-7Y30hJjSFFWYBwYbG1G9f9ZIA6w=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr freundliche Schwestern und MFA",
+      "time": 1791309294,
+      "translated": false
+    },
+    {
+      "author_name": "Rüdiger Schulz (Rüdi)",
+      "author_url": "https://www.google.com/maps/contrib/116828203768687082374/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvoIxldrLZLavegorYl4-7Y30hJjSFFWYBwYbG1G9f9ZIA6w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr freundliche Schwestern und MFA",
       "time": 1791309294,
       "translated": false
@@ -843,12 +877,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 123,
+  "rating": 4.7,
+  "reviewCount": 121,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-25T09:34:10.340Z"
+  "lastUpdated": "2026-10-28T10:57:38.440Z"
 }

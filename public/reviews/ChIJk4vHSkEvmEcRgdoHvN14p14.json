@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ioannis Charontakis",
+      "author_url": "https://www.google.com/maps/contrib/101265478309904977339/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVhGg0LlRVDFCnpXH_2q54kT5TUyYrTOeR9B9ZBmlCLlCTuaTg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine ausgesprochen positive Erfahrung bei Frau Maria-Anna Exouzidou im Haut- und Laserzentrum Heilbronn.\n\nFrau Exouzidou überzeugte durch ihre hohe fachliche Kompetenz, ihre freundliche Art und eine sorgfältige, verständliche Beratung. Das Hautkrebsscreening wurde sehr gründlich und professionell durchgeführt. Besonders positiv fand ich, dass sowohl die Beratung als auch die Untersuchung auf Deutsch und Griechisch möglich waren.\n\nAuch die Organisation war hervorragend: Trotz des hohen Patientenaufkommens im MVZ gab es keinerlei Wartezeit.\n\nEine fachlich und menschlich ausgezeichnete Ärztin, die ich uneingeschränkt weiterempfehlen kann!",
+      "time": 1793033939,
+      "translated": false
+    },
+    {
       "author_name": "iDropzLost",
       "author_url": "https://www.google.com/maps/contrib/112506392961532042921/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmssLz5TihAUALZEdx61mE4Fa65LiGk5PP8lyXxvt47TjTTL3D=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI2QHJMSEnIQdCqfaTgGUESiuUh-cwhPxP1JR98daeYhCBQQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792504233,
+      "translated": false
+    },
+    {
+      "author_name": "Rozhin Kadir",
+      "author_url": "https://www.google.com/maps/contrib/107790919112629621227/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI2QHJMSEnIQdCqfaTgGUESiuUh-cwhPxP1JR98daeYhCBQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792504233,
       "translated": false
@@ -88,6 +110,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwmJRQRHiQ6wEoPOht6K5Drl-jNsN7Xm3LqM3canYXvRc2qfY=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Miserable Abwicklung - ewige Wartezeiten.",
+      "time": 1791822384,
+      "translated": false
+    },
+    {
+      "author_name": "Dr. Dieter Sedlacek",
+      "author_url": "https://www.google.com/maps/contrib/100094115131595306606/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwmJRQRHiQ6wEoPOht6K5Drl-jNsN7Xm3LqM3canYXvRc2qfY=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Miserable Abwicklung - ewige Wartezeiten.",
       "time": 1791822384,
       "translated": false
@@ -1701,12 +1735,12 @@
       "translated": false
     }
   ],
-  "rating": 4.4,
+  "rating": 4.5,
   "reviewCount": 208,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:38.414Z"
+  "lastUpdated": "2026-10-28T10:58:06.827Z"
 }

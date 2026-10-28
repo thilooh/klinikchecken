@@ -79,6 +79,16 @@
       "translated": false
     },
     {
+      "author_name": "Franz Schweigert",
+      "author_url": "https://www.google.com/maps/contrib/107447986967858015267/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWML8dJhnp5prZXOdx5mWr3WBaO6gaYmnB8n8D3MEKXkK7biEdWsg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1791370159,
+      "translated": false
+    },
+    {
       "author_name": "Wolfram Ro",
       "author_url": "https://www.google.com/maps/contrib/117928469877001468602/reviews",
       "language": "de",
@@ -110,6 +120,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_QaA6JNI6rGTcWHZhOrF1T20de9Om8nebDN77j1xyqzhytA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Schnelle, unkomplizierte Terminreservierung über Doctolib. Anmeldung und Datenerfassung über \"Nelly\" am eigenen Handy. Professioneller Ablauf, kaum Wartezeit, perfekte Untersuchung und Beratung durch Dr. Lingk.",
+      "time": 1791302924,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfram Ro",
+      "author_url": "https://www.google.com/maps/contrib/117928469877001468602/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_QaA6JNI6rGTcWHZhOrF1T20de9Om8nebDN77j1xyqzhytA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Schnelle, unkomplizierte Terminreservierung über Doctolib. Anmeldung und Datenerfassung über \"Nelly\" am eigenen Handy. Professioneller Ablauf, kaum Wartezeit, perfekte Untersuchung und Beratung durch Dr. Lingk.",
       "time": 1791302924,
       "translated": false
@@ -1708,5 +1730,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-25T09:34:16.023Z"
+  "lastUpdated": "2026-10-28T10:57:44.221Z"
 }

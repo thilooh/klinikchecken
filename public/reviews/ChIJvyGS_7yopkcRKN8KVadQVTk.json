@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Carmen Kroker",
+      "author_url": "https://www.google.com/maps/contrib/108430582542953521787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrjLHmBl82NlzrQFcOO_nDnglx8x0iuN7uzrtZF6KPMG80iw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es gibt keine bessere Praxis.\nKaum Wartezeit, sehr ruhiger geregelter Praxis Ablauf.\nSuper nettes Personal und Ärzte Team.\nHab heute meine 3.OP, immer sehr zu zufrieden,würde zu keiner anderen Praxis gehen.Man ist einfach gut aufgehoben in dieser Praxis. Grosses Dankeschön an das gesamte Team und an Dr. Philipp Zollmann weiter so.\nIhre dankbare Patientin\nFrau Carmen Kroker",
+      "time": 1793170418,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Lange",
+      "author_url": "https://www.google.com/maps/contrib/110540049812514221092/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXysNa-oRmoNiq-ppN0hm10eY5UPy9rW45dZLdp5YcitEBbRe1s=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Personal und kompetente Ärzte. Habe zeitnah einen Termin erhalten. Keine grosse Wartezeiten alles nach Termin.",
+      "time": 1793126758,
+      "translated": false
+    },
+    {
       "author_name": "Wolle Fischer",
       "author_url": "https://www.google.com/maps/contrib/117976919374270994188/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6KBmrfjGZPho87EN7gMPsI8_IZjd13jIbb-3_xIhdVjtH7Q=s128-c0x00000000-cc-rp-mo-ba4",
@@ -1648,11 +1672,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 216,
+  "reviewCount": 218,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-10-25T09:34:42.702Z"
+  "lastUpdated": "2026-10-28T10:58:11.127Z"
 }

@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Kinnaj Tsuj",
+      "author_url": "https://www.google.com/maps/contrib/100353864032311674720/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHWXsT5D0DtPzOZ8P7qmm-B-NY_3FRVhlwcMuQCMctc_QKcw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war 2025 und 2026 zu Behandlung einer nadelkopfgroßen Wucherung am Nasenflügel im Dermatologikum.\n2025 wurde scheinbar nicht das komplette Gewebe entfernt. Das Geschwulst bildete sich innerhalb von 3 Monate nach und wurde größer.\nIm Mai 2026 wurde ein erneuter Termin für das gleiche Geschwulst, an gleicher Stelle und in ähnlicher Größe vereinbart.\n\nAllerdings wurden 2026 dann nicht nur die ärztlichen Leistungen ( 100€ höher als 6 Monate vorher) sondern auch histopathologische Untersuchungen in Rechnung gestellt im Wert von 340,10€ über welche ich im Beratungsgespräch unter Ziffer 1 (Gegenwert 10€) vorher nicht aufgeklärt wurde.\n\nEs wurde gesagt die Kosten wären identisch mit den Kosten des ersten Eingriffs.\n\nAlso eigentlich zahle ich dreifach für etwas was bereits mit dem Eingriff hätte vollständig entfernt werden können.\n\nGleichzeitig wird das Fädenziehen, welches 2min dauerte, berechnet mit:  \"symptombezogen zeitaufwändige Behandlung bei zusätzlichem Verbandswechsel und Fadenextraktion\"!\n\nHätte ich das vorher gewusst wäre ich in eine andere Praxis gegangen.\n\nLassen sie sich vorher korrekt über die Kosten aufklären! Lassen Sie alles ausführlich dokumentieren!\n\nDermatologikum Hamburg sieht mich allerdings nicht wieder.",
+      "time": 1793177716,
+      "translated": false
+    },
+    {
+      "author_name": "Virgo",
+      "author_url": "https://www.google.com/maps/contrib/106678523966792268596/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8VzleAWyO7oV-5rbPG4TgTg6-e2oluIY83bnXy0khk5HJYII=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Privatärztliche Praxis für Hauterkrankungen",
+      "time": 1793124150,
+      "translated": false
+    },
+    {
+      "author_name": "Lucy",
+      "author_url": "https://www.google.com/maps/contrib/107881568370319634360/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSY_Xymh_sf32LyLvJCYZslNhgEdeTbJNpjLlhe8RhwGAi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein herzliches Dankeschön an Frau Dr. Eimer und das gesamte Team des Dermatologikums! Nach drei Jahren voller Ängste und der Suche nach einer passenden Lösung für meine Bauchstraffung fühlte ich mich hier vom ersten Beratungsgespräch  gut aufgehoben. Frau Dr. Eimer nahm meine Sorgen ernst und hatte vor und nach der OP immer ein offenes Ohr für meine vielen Fragen.\n\nDas gesamte Team war professionell, freundlich und hilfsbereit. Die Heilung verlief unkompliziert und das Ergebnis entspricht genau meinen Vorstellungen. Ich bin sehr zufrieden und dankbar!",
+      "time": 1793051990,
+      "translated": false
+    },
+    {
       "author_name": "Le Vinh",
       "author_url": "https://www.google.com/maps/contrib/110914644510970978982/reviews",
       "language": "en",
@@ -13,11 +49,33 @@
       "translated": false
     },
     {
+      "author_name": "Le Vinh",
+      "author_url": "https://www.google.com/maps/contrib/110914644510970978982/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFype5XBiO7K_h4im-bpK0M83AK_IrLpn8mROjKeTnR1JBOfIw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Die Wartezeit auf die Rechnung kann ewig dauern. Niemand geht ans Telefon, wenn man danach fragt.",
+      "time": 1792496197,
+      "translated": true
+    },
+    {
       "author_name": "Saskia S",
       "author_url": "https://www.google.com/maps/contrib/112836143321251367260/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP9QFPvUPIigUIEWi_JkZ-9ynfSAsaSfgaUkx2jSI_U0lgvjw6=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792328199,
+      "translated": false
+    },
+    {
+      "author_name": "Saskia S",
+      "author_url": "https://www.google.com/maps/contrib/112836143321251367260/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP9QFPvUPIigUIEWi_JkZ-9ynfSAsaSfgaUkx2jSI_U0lgvjw6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792328199,
       "translated": false
@@ -1822,7 +1880,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 468,
+  "reviewCount": 471,
   "summary": [],
-  "lastUpdated": "2026-10-25T09:34:03.894Z"
+  "lastUpdated": "2026-10-28T10:57:31.953Z"
 }

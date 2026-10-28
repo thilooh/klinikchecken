@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Chris",
+      "author_url": "https://www.google.com/maps/contrib/112136827326664930254/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrdoE5gyG-3wl56BVapTyDczRZUcLPhIoAl0WCaAKuwQvpJDnU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termine sind wie Goldstücke: rar bis gar nicht.",
+      "time": 1792922436,
+      "translated": false
+    },
+    {
       "author_name": "Loreen Kopplow",
       "author_url": "https://www.google.com/maps/contrib/103180050398290134077/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHYmFdT01aIAntjC2IOzmAB0sMNInKfPAJoTEIhwSwcYt_xMjG=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Meine Mutter ist seit Jahren Patientin dort. Nun hat sie eine Überweisung der Hausärztin bekommen und als sie in der Praxis war hat ein Mann behauptet sie wäre im Vorjahr nicht da gewesen und sie solle sich einen neuen Arzt suchen sie bekommt keinen Termin. 1. war meine Mutter im Vorjahr dort und 2. was ist das denn für ein Umgang mit Patienten! Frech, einfach Frech! Wieso gibt man einfach keine Termine obwohl jemand regelmäßig dort war und selbst wenn Mal 1 Jahr dazwischen fehlt was soll das? Dieser Mann am Tresen ist wohl bei vielen schon sehr unangenehm aufgefallen.",
+      "time": 1790588471,
+      "translated": false
+    },
+    {
+      "author_name": "Loreen Kopplow",
+      "author_url": "https://www.google.com/maps/contrib/103180050398290134077/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHYmFdT01aIAntjC2IOzmAB0sMNInKfPAJoTEIhwSwcYt_xMjG=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Meine Mutter ist seit Jahren Patientin dort. Nun hat sie eine Überweisung der Hausärztin bekommen und als sie in der Praxis war hat ein Mann behauptet sie wäre im Vorjahr nicht da gewesen und sie solle sich einen neuen Arzt suchen sie bekommt keinen Termin. 1. war meine Mutter im Vorjahr dort und 2. was ist das denn für ein Umgang mit Patienten! Frech, einfach Frech! Wieso gibt man einfach keine Termine obwohl jemand regelmäßig dort war und selbst wenn Mal 1 Jahr dazwischen fehlt was soll das? Dieser Mann am Tresen ist wohl bei vielen schon sehr unangenehm aufgefallen.",
       "time": 1790588471,
       "translated": false
@@ -704,5 +728,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:23.146Z"
+  "lastUpdated": "2026-10-28T10:57:51.445Z"
 }

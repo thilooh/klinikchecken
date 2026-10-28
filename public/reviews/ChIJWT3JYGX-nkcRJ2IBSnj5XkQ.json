@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "YLDM",
+      "author_url": "https://www.google.com/maps/contrib/100048068068639798197/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbVwLHQ0GkJf_dNCBW6WfY8xQKnC1EqDEPzpxHKa13vI0rMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider war ich mit dem Umgang des Praxisteams nicht zufrieden. Die Rothaarige Bereits beim Empfang empfand ich die Kommunikation als unfreundlich. Auf meine Fragen wurde aus meiner Sicht wenig freundlich reagiert, und ich hätte mir eine höflichere und verständnisvollere Ansprache gewünscht. Gerade im Umgang mit Patienten sind Respekt und eine angemessene Kommunikation wichtig. Aufgrund dieser Erfahrung habe ich mich in der Praxis nicht gut aufgehoben gefühlt und kann sie daher leider nicht weiterempfehlen.",
+      "time": 1793090212,
+      "translated": false
+    },
+    {
+      "author_name": "Reinhard Hölzl",
+      "author_url": "https://www.google.com/maps/contrib/111175086317681838459/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_oVjl_6BgrHtkj6Wbf5ugUtYLYeAFuAg931OFV7RJzi5i1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bei allen Terminen immer pünktlich.\nKeine Wartezeit.\nExtrem vorbildlich und sehr freundlich und kompetent.👍👍",
+      "time": 1793005074,
+      "translated": false
+    },
+    {
       "author_name": "Freddy Brauner",
       "author_url": "https://www.google.com/maps/contrib/110237944386170286686/reviews",
       "language": "de",
@@ -978,11 +1002,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 69,
+  "reviewCount": 71,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:37.456Z"
+  "lastUpdated": "2026-10-28T10:58:05.858Z"
 }

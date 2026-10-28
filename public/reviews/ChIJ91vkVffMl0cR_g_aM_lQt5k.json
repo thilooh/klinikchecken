@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marcin Rozanski",
+      "author_url": "https://www.google.com/maps/contrib/105567705151751508729/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_XWrUlfm9unUEa7API-iE6LR170Bwibv0eCexXqws_1jSuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Top Top!!!\nKann ich nur empfehlen.\nÜberragende Beratung im Vorfeld.\nTolle Ergebnisse nach der Behandlung.\nFreundliche und hochqualifizierte Ärzte auf menschlicher Ebene, die auf die Bedürfnisse des Patienten eingehen.\n\nDanke an das gesamte Team",
+      "time": 1793118896,
+      "translated": false
+    },
+    {
       "author_name": "Dominique Spindler",
       "author_url": "https://www.google.com/maps/contrib/106496616839651261375/reviews",
       "language": "de",
@@ -936,11 +948,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 61,
+  "reviewCount": 62,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:32.305Z"
+  "lastUpdated": "2026-10-28T10:58:00.661Z"
 }

@@ -1,6 +1,60 @@
 {
   "reviews": [
     {
+      "author_name": "Tiara Kujau",
+      "author_url": "https://www.google.com/maps/contrib/113032902121207930423/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfG0rAFLHIvrWh2rujdNN22PnJAAWmb96GFxQL28nXpTgzJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatten keine lange Wartezeit, sehr freundliches Personal und die Ärztin hat sich so viel Zeit genommen wie nötig war und man hatte nicht das Gefühl das man \"nur schnell abgearbeitet \" wurde . Waren sehr zufrieden.",
+      "time": 1793184240,
+      "translated": false
+    },
+    {
+      "author_name": "Assi Zimmer",
+      "author_url": "https://www.google.com/maps/contrib/100385475648741215946/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJym6m4E-HkvqhV1P2gqnE9I2EQTYIabsGL_Uuo-PskqiSUQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es hat gut geklappt, bei der offenen Sprechstunde unterzukommen. Der angegebene Termin fand dann pünktlich statt. Mit der Beratung bin ich sehr zufrieden. Es folgte direkt eine weitere Untersuchung ohne Wartezeit und Folgetermine wurden auch direkt vereinbart. Die Ärztin und die Mitarbeiterinnen, mit denen ich heute zu tun hatte, waren alle sehr freundlich.",
+      "time": 1793130457,
+      "translated": false
+    },
+    {
+      "author_name": "Johan Eicke",
+      "author_url": "https://www.google.com/maps/contrib/109076344150264074475/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJR8QFDbGJUaFf7h24XPn0lrXudWszftwJ_83oYycE12twGvDI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793101024,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfgang Röhner",
+      "author_url": "https://www.google.com/maps/contrib/112280750879826434421/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLejP_YDdPBJVfRsDHwmb_QS4td8WHzA5v7If8E1bNjhGwmug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793056864,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Skibbe",
+      "author_url": "https://www.google.com/maps/contrib/104847091698937209119/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIfEM5gSp_DH5u6y2vjprJXPrTx8tIqKU9qswFMd11BwxWcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793033881,
+      "translated": false
+    },
+    {
       "author_name": "Maren Moukalled",
       "author_url": "https://www.google.com/maps/contrib/108559356362805130960/reviews",
       "language": "de",
@@ -2468,11 +2522,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2452,
+  "reviewCount": 2456,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:10.813Z"
+  "lastUpdated": "2026-10-28T10:57:38.928Z"
 }

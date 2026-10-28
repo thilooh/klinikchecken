@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Yvonne Magnus",
+      "author_url": "https://www.google.com/maps/contrib/113574161200293741104/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwJOGSFf5n1GERE3DZNQiq-Fhy9-LHdMeS4NH2lAOK22Hgkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach langem  Suchen nach einem Hautarzt bin ich in dieser Praxis angekommen. Ein großes Lob geht vorab an Frau Bärbel Siebert 😊. Ich habe es schon lange nicht mehr erlebt das man so freundlich und herzlich am Telefon begrüßt und beraten wird. Habe zeitnah einen Termin bekommen und was ich besonders positiv anmerken muss, ist  das diese Praxis auch Samstags Sprechstunde hat. 👍",
+      "time": 1793130773,
+      "translated": false
+    },
+    {
+      "author_name": "Marie Wasem",
+      "author_url": "https://www.google.com/maps/contrib/104483753109378452130/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz3MqpbGfYgjAiUR-uWWkJ4rxZgGSVDz5-LLJ6NXTuNuA_SQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche und professionelle  Behandlung durch Frau Sarah Gramata-Jones und Frau Luise Süssenberger. Kann ich sehr weiterempfehlen 👍🏼",
+      "time": 1793005147,
+      "translated": false
+    },
+    {
       "author_name": "VomWindeVerweht",
       "author_url": "https://www.google.com/maps/contrib/109558213089995225037/reviews",
       "language": "de",
@@ -35,6 +59,18 @@
       "text": "Saque una cita de dermatología el 05.05.2026 con la Dra Renate Quaisser a traves de la app Doctorlib. La cita era para el 15 de Octubre... Es decir más de 5 meses después. El día antes de la cita llamaron a cancelar la cita diciendo que habían cancelado la cita porque yo era paciente nuevo y ya no atendían pacientes nuevos. Los demás adjetivos calificativos para este tipo de trato los pueden escoger ustedes...",
       "time": 1792573345,
       "translated": false
+    },
+    {
+      "author_name": "Juan Sebastián Galindo Berrío",
+      "author_url": "https://www.google.com/maps/contrib/107439902051209674349/reviews",
+      "language": "de",
+      "original_language": "es",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiSfokMKk02Y3NQq1Xnx134c-z7dris32IY0eIG5pVpN_925IC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich vereinbarte am 5. Mai 2026 über die Doctorlib-App einen Termin bei Dr. Renate Quaisser, einer Hautärztin, für den 15. Oktober – also mehr als fünf Monate später. Am Tag vor dem Termin riefen sie an und sagten ihn ab. Sie erklärten, ich sei eine Neupatientin und sie würden keine neuen Patienten mehr aufnehmen. Sie können sich Ihre eigenen Worte aussuchen, um diese Art von Behandlung zu beschreiben…",
+      "time": 1792573345,
+      "translated": true
     },
     {
       "author_name": "K_S",
@@ -1934,11 +1970,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 358,
+  "reviewCount": 362,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:24.820Z"
+  "lastUpdated": "2026-10-28T10:57:53.129Z"
 }

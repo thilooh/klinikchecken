@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Marion Gilles",
+      "author_url": "https://www.google.com/maps/contrib/102106686541850878014/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKW7MeU_nnTk0-3odbPwVxvrjFudeytkL8FAojxIwoVZt-IJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit Jahren Patientin und habe diverse Behandlungen, vor allem Laser, erhalten. Von Terminvergabe über Freundlichkeit der Angestellten und Ärzte bis zur Beratung/  Aufklärung, Ablauf bei den Behandlungen alles sehr kompetent. Harmonisch, locker und freundlich lief alles ab. Wir haben auch gemeinsam gelacht, was die Situation bei einem Eingriff erleichtert/die Angst nimmt.\nHeute war ich das erste Mal bei Dr.Ritz zur Laserbehandlung. Sehr sympathisch, ruhig, erklärt gut, null Hektik. Ich habe mich gut aufgehoben gefühlt. Die Behandlung lief super ab.\nIch habe bereits fleißig die Werbetrommel gerührt, um weitere Patienten in die Praxis zu bringen.\nAuch ein Dank an die Damen am Empfang und bei der Behandlung. Immer freundlich, hilfsbereit. Ich habe dort noch kein langes Gesicht gesehen.",
+      "time": 1793114950,
+      "translated": false
+    },
+    {
+      "author_name": "Brigitte Küster",
+      "author_url": "https://www.google.com/maps/contrib/109779246162488346955/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJd5glc_X6KZw-1jCYfxYWVveZeug_0WjTU1G7jjBoo619aQA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793033016,
+      "translated": false
+    },
+    {
       "author_name": "Harald Kaufhold",
       "author_url": "https://www.google.com/maps/contrib/114789889512616709238/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5Eaf15tS0vmDCwh_eeOWuKdyF3-XeCOarb00z5P94nyIaag=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super freundliches Praxisteam. Termine werden sehr gut eingehalten, kaum Aufenthalt im Wartezimmer. Sehr kompetenter und humorvoller Arzt. Habe mich sehr gut aufgehoben gefühlt. Alle Behandlungen zu meiner vollsten Zufriedenheit.",
+      "time": 1792433982,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Hess",
+      "author_url": "https://www.google.com/maps/contrib/115765143924023589087/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5Eaf15tS0vmDCwh_eeOWuKdyF3-XeCOarb00z5P94nyIaag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super freundliches Praxisteam. Termine werden sehr gut eingehalten, kaum Aufenthalt im Wartezimmer. Sehr kompetenter und humorvoller Arzt. Habe mich sehr gut aufgehoben gefühlt. Alle Behandlungen zu meiner vollsten Zufriedenheit.",
       "time": 1792433982,
       "translated": false
@@ -1754,11 +1788,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 345,
+  "reviewCount": 347,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:36.971Z"
+  "lastUpdated": "2026-10-28T10:58:05.383Z"
 }

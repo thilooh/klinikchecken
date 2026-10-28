@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Patricia Bormuth",
+      "author_url": "https://www.google.com/maps/contrib/112445236984851251175/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCoeRzq9RHZCSq9IVn4em3Qmyc8XS2fDP9FaBBwHPAyTf3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793026145,
+      "translated": false
+    },
+    {
       "author_name": "Nancy Helferich",
       "author_url": "https://www.google.com/maps/contrib/113121737192646485927/reviews",
       "language": "de",
@@ -670,11 +680,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 53,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:36.035Z"
+  "lastUpdated": "2026-10-28T10:58:04.438Z"
 }

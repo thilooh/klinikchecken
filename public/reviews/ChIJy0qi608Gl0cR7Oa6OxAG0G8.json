@@ -13,11 +13,33 @@
       "translated": false
     },
     {
+      "author_name": "Sabrina",
+      "author_url": "https://www.google.com/maps/contrib/111236094870885164159/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDHXpYfzFEvH0kUlRMtm2XGrUNl6j07xpvQnHd-rDJTmX8bg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Mein Sohn hat einen \"veränderten\" Pikmentfleck. Ich musste nun vier Wochen auf einen Termin warten. Als ich pünktlich zu unserem Termin da war, wurde mir gesagt, dass ich keinen Termin hätte. Mein Termin wäre erst zwei Tage später. Als ich den Termin telefonisch vereinbart habe, habe ich ihn mir diesen direkt eingetragen. Zudem hab ich hierbei den Stundenplan meines Sohnes beachtet. Somit besteht für mich kein Zweifel. Ich habe mich flexibel gezeigt und wollte den anderen Termin annehmen, jedoch hätte ich diesen um eine Stunde nach hinten verschieben müssen. Hier gab es jedoch kein Entgegenkommen der Praxis. Ich würde erst wieder im Januar einen Termin bekommen. Das man als Mutter kein weiteres viertel Jahr wartet um eine Veränderung eines Pigmentflecks abzuklären, ist denke ich selbstverständlich.",
+      "time": 1792572251,
+      "translated": false
+    },
+    {
       "author_name": "privat privat",
       "author_url": "https://www.google.com/maps/contrib/116809467468825892777/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4QpZGKmk-YFJXQtvvYg5PUKfSlKLriS9qE1lmT4cBf2MK9Q=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792369451,
+      "translated": false
+    },
+    {
+      "author_name": "privat privat",
+      "author_url": "https://www.google.com/maps/contrib/116809467468825892777/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4QpZGKmk-YFJXQtvvYg5PUKfSlKLriS9qE1lmT4cBf2MK9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792369451,
       "translated": false
@@ -43,6 +65,16 @@
       "translated": false
     },
     {
+      "author_name": "Thomas Ple",
+      "author_url": "https://www.google.com/maps/contrib/110793428239767679912/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLED5FFO0jjijtmfNS_6KDBdCA8CIwMKo8I7HOMxoznGu_WUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1791829798,
+      "translated": false
+    },
+    {
       "author_name": "Ralf Czanderle",
       "author_url": "https://www.google.com/maps/contrib/113491589553257726583/reviews",
       "language": "de",
@@ -79,6 +111,18 @@
       "translated": false
     },
     {
+      "author_name": "Ralf Czanderle",
+      "author_url": "https://www.google.com/maps/contrib/113491589553257726583/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5DBXXJS5p7ii9_eMFPl-clSNW7-mhA7TNph5X_RbykQibhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "…was war das einmal für eine gut geführte und kompetente Praxis. Jetzt geht es nur noch über Terminvereinbarung, lange Wartezeiten und einer Ärztin, welche einen operativen Eingriff aus der Akte liest ohne diesen überhaupt anzusehen. Schade, aber hierfür kann man keine Empfehlung mehr aussprechen .",
+      "time": 1791296313,
+      "translated": false
+    },
+    {
       "author_name": "Fatima El Khayat",
       "author_url": "https://www.google.com/maps/contrib/114980411881791040499/reviews",
       "language": "de",
@@ -98,6 +142,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuwinaMvwoBTwB7g_bBt5AutB72iVrHfDx0CxGdkp0pAVnmbKx=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Liebste",
+      "time": 1791266966,
+      "translated": true
+    },
+    {
+      "author_name": "Fatima El Khayat",
+      "author_url": "https://www.google.com/maps/contrib/114980411881791040499/reviews",
+      "language": "de",
+      "original_language": "it",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuwinaMvwoBTwB7g_bBt5AutB72iVrHfDx0CxGdkp0pAVnmbKx=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Liebste",
       "time": 1791266966,
       "translated": true
@@ -1698,5 +1754,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:18.619Z"
+  "lastUpdated": "2026-10-28T10:57:46.829Z"
 }

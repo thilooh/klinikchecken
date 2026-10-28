@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Christian Volk",
+      "author_url": "https://www.google.com/maps/contrib/104849461344325287550/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJR3SIBKJCN1dWvbJDCNcPpN9kaXh6UJaV7VQgnBLz3EvpiZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Überwiegend Geldschneiderei. Herr Dr. Matziris ist oberflächlich, hektisch, ohne Empathie und Zeit. Es ist annähernd unmöglich einen Termin zu bekommen.... Die Praxis kann ich nicht empfehlen.",
+      "time": 1793118247,
+      "translated": false
+    },
+    {
+      "author_name": "Stefanus Secundus",
+      "author_url": "https://www.google.com/maps/contrib/103205887974897973910/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj5etX0Va0L4OnCBl5w6jgmeefSnn346ilv_oXF4SfYuo5XTZO=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793095184,
+      "translated": false
+    },
+    {
+      "author_name": "Engel Simi",
+      "author_url": "https://www.google.com/maps/contrib/111638513964151363726/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKYlbi1RVDKkDKKT2i5tTxyejNiztyoeKJFguRU87REFVghjUo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dieser Artzt ist total scheiße !! Ich habe 250 Euro ausgegeben für was das am Ende bei einem anderen Artzt raus operiert werden musste . Und die Frauen da die Arbeiten mögen wohl keine voll tättoowierten blonde Frauen :)  ich kann nix dafür daß ihr nicht so geil seit wie ich",
+      "time": 1793013580,
+      "translated": false
+    },
+    {
       "author_name": "Christoph Pfad",
       "author_url": "https://www.google.com/maps/contrib/117842022593817647540/reviews",
       "language": "de",
@@ -1866,11 +1900,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 282,
+  "reviewCount": 284,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-25T09:34:07.012Z"
+  "lastUpdated": "2026-10-28T10:57:35.051Z"
 }

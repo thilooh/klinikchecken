@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Simon Haasis",
+      "author_url": "https://www.google.com/maps/contrib/106338552498589614325/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJW_QWKqz0W5RFUeXtYBpMZEbn1_aOx1RAYXkRr9sI6Voamg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Begrüßung durch den Arzt Dr. Munteanu und dem Praxisteam\nwar sehr freundlich.\nHat die Funktion der Vene und Arterie sehr gut erklärt.\nBei der Untersuchung habe ich mich sehr gut aufgehoben gefühlt. Kann die Praxis weiterempfehlen!",
+      "time": 1793115053,
+      "translated": false
+    },
+    {
       "author_name": "Doris Schillinger",
       "author_url": "https://www.google.com/maps/contrib/117847011461185826570/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrTYn-0O3QV2R5S_L3hNeiUouer9VGs2kViyyWZYkrzeYnww=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792568628,
+      "translated": false
+    },
+    {
+      "author_name": "Doris Schillinger",
+      "author_url": "https://www.google.com/maps/contrib/117847011461185826570/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrTYn-0O3QV2R5S_L3hNeiUouer9VGs2kViyyWZYkrzeYnww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792568628,
       "translated": false
@@ -54,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrg3WTE0yDFJ-52rtrmhIocG-fa4IfvvM-RPpy5C-L-zCSz5v-=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Diese Praxis ist einfach top!\n\nSchon ab dem ersten Telefonat, über den Empfang und das gesamte Praxisteam bis hin zum Arzt, ist wirklich jeder Einzelne jedesmal ausnahmslos freundlich, aufmerksam und herzlich. Man fühlt sich hier so wohl, dass ich wahrscheinlich sogar herkommen würde, wenn ich gar keine Beschwerden hätte! Ein riesen Dankeschön an das gesamte Team.",
+      "time": 1790537378,
+      "translated": false
+    },
+    {
+      "author_name": "Deniz",
+      "author_url": "https://www.google.com/maps/contrib/111050913472767020206/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrg3WTE0yDFJ-52rtrmhIocG-fa4IfvvM-RPpy5C-L-zCSz5v-=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Diese Praxis ist einfach top!\n\nSchon ab dem ersten Telefonat, über den Empfang und das gesamte Praxisteam bis hin zum Arzt, ist wirklich jeder Einzelne jedesmal ausnahmslos freundlich, aufmerksam und herzlich. Man fühlt sich hier so wohl, dass ich wahrscheinlich sogar herkommen würde, wenn ich gar keine Beschwerden hätte! Ein riesen Dankeschön an das gesamte Team.",
       "time": 1790537378,
       "translated": false
@@ -1150,11 +1184,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 112,
+  "reviewCount": 113,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:40.815Z"
+  "lastUpdated": "2026-10-28T10:58:09.257Z"
 }

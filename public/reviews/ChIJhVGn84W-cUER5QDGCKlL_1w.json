@@ -13,11 +13,33 @@
       "translated": false
     },
     {
+      "author_name": "T. Peters",
+      "author_url": "https://www.google.com/maps/contrib/116679619708709175755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaaybTQtEWSy9FK9qSWGRpvPnBMgXHM0tqR0mNhFenOl2pQCjgjg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr gut organisiert.  Sehr nette und kompetente Mitarbeiter.",
+      "time": 1792510113,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Caroli",
       "author_url": "https://www.google.com/maps/contrib/105231204293358593141/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcMAwP8ZjpjH5prpB5sLuVj5hYyl4QAgVHiS6RjOvMzluVNA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792505694,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Caroli",
+      "author_url": "https://www.google.com/maps/contrib/105231204293358593141/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcMAwP8ZjpjH5prpB5sLuVj5hYyl4QAgVHiS6RjOvMzluVNA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792505694,
       "translated": false
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITozH7sBV1CNtDlKxwvv3ifcz5IEvzdDbFDckWpKAq83CL_A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Team",
+      "time": 1792400948,
+      "translated": false
+    },
+    {
+      "author_name": "Zineb Nauen Peerbooms",
+      "author_url": "https://www.google.com/maps/contrib/104112379015371166132/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITozH7sBV1CNtDlKxwvv3ifcz5IEvzdDbFDckWpKAq83CL_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr nettes Team",
       "time": 1792400948,
       "translated": false
@@ -1356,5 +1390,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:27.681Z"
+  "lastUpdated": "2026-10-28T10:57:55.997Z"
 }

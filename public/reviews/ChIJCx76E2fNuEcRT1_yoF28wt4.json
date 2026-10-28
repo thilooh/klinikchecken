@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nastja P",
+      "author_url": "https://www.google.com/maps/contrib/113022905667455165087/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc5ByvsV9M0gKNGsuxmim8tMOIhIehfjFuyS8WePY6iqPxbg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch möchte mich ganz herzlich bei Dr. Statynoo und Schwester Kira für die hervorragende Betreuung bedanken! 🤍\n\nVon Anfang an habe ich mich unglaublich gut aufgehoben und betreut gefühlt. Mir wurde alles verständlich und ausführlich erklärt, sodass mir ein großer Teil meiner Angst vor dem Eingriff genommen wurde. Beide waren ausgesprochen freundlich, einfühlsam und professionell, und ich hatte jederzeit das Gefühl, in den besten Händen zu sein.\n\nDer gesamte Eingriff verlief sehr professionell und reibungslos. Besonders schön fand ich, dass sich Zeit für mich genommen wurde und auch auf meine Sorgen eingegangen wurde. Gerade bei einem Eingriff, vor dem man vielleicht etwas Angst hat, ist das alles andere als selbstverständlich.\n\nEin großes Dankeschön an Dr. Statynoo und Kira für die tolle Arbeit, die herzliche Art und das Gefühl, als Patientin wirklich ernst genommen zu werden. Ich kann die Klinik und das Team von Herzen weiterempfehlen! 🌷",
+      "time": 1793045710,
+      "translated": false
+    },
+    {
       "author_name": "Reiner Schneider",
       "author_url": "https://www.google.com/maps/contrib/118374634316914385232/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3VX61mBFjwU-ADmvPXbgswLbfYIXwyzxz63u1LchZ5lxStpKX8Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "vor einer Woche",
+      "text": "OP gelungen aber...\nKrampfadern wurden gelasert...\nLeider besteht im Haus extremer Mitarbeitermangel, dass bekommt der Patient auch zu spüren und dies verunsichert sehr!  Wäre mir die Klinik nicht empfohlen worden, wäre ich weggelaufen. Überwiegend hatte ich es mit netten Mitarbeitern zu tun.\nFazit: Der Eingriff ist bestens gelungen, zusätzliches Personal ist dringend nötig...",
+      "time": 1791917107,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea",
+      "author_url": "https://www.google.com/maps/contrib/109010047025351564251/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3VX61mBFjwU-ADmvPXbgswLbfYIXwyzxz63u1LchZ5lxStpKX8Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
       "text": "OP gelungen aber...\nKrampfadern wurden gelasert...\nLeider besteht im Haus extremer Mitarbeitermangel, dass bekommt der Patient auch zu spüren und dies verunsichert sehr!  Wäre mir die Klinik nicht empfohlen worden, wäre ich weggelaufen. Überwiegend hatte ich es mit netten Mitarbeitern zu tun.\nFazit: Der Eingriff ist bestens gelungen, zusätzliches Personal ist dringend nötig...",
       "time": 1791917107,
       "translated": false
@@ -1724,11 +1748,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 451,
+  "reviewCount": 452,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:35.120Z"
+  "lastUpdated": "2026-10-28T10:58:03.517Z"
 }

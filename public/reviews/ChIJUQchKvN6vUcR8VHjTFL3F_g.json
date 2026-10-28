@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "ClaudiaB",
+      "author_url": "https://www.google.com/maps/contrib/100263753380856995188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUi-03OniDCLGUAXs2VrjQgsGdtTZXjx5oAUEerAEUGQK4yMFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe in der Rosenparkklinik eine Liposuktion an Hüften, Taille und Rücken durchführen lassen und bin sehr glücklich mit dem bereits deutlich sichtbaren Ergebnis. Alles ist gut verlaufen, und ich habe mich während der gesamten Behandlung bestens aufgehoben gefühlt.\n\nMein besonderer Dank gilt meiner behandelnden Ärztin Frau Capelo. Mit ihrer herzlichen, einfühlsamen Art und ihrer kompetenten Betreuung hat sie mir viel Vertrauen gegeben. Auch bei der Nachuntersuchung habe ich mich sehr gut betreut und mit meinen Fragen ernst genommen gefühlt.\n\nVielen Dank an Frau Capelo und das gesamte Team für die liebevolle Begleitung. Ich kann die Klinik aus meiner Erfahrung von Herzen weiterempfehlen!",
+      "time": 1793013965,
+      "translated": false
+    },
+    {
       "author_name": "Simone Vaupel",
       "author_url": "https://www.google.com/maps/contrib/100992726877689350922/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCch6jmBlAEFlmevNQKBgHLRmXhnpESJsxcw1DYgztDeO7ag=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Eine top Klinik mit tollem fachkundigem Personal. Sehr zu empfehlen. Ich komme wieder😉",
+      "time": 1791726514,
+      "translated": false
+    },
+    {
+      "author_name": "Simone Vaupel",
+      "author_url": "https://www.google.com/maps/contrib/100992726877689350922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCch6jmBlAEFlmevNQKBgHLRmXhnpESJsxcw1DYgztDeO7ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Eine top Klinik mit tollem fachkundigem Personal. Sehr zu empfehlen. Ich komme wieder😉",
       "time": 1791726514,
       "translated": false
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL5Ll8ZvGXxGqz0EHXoFd02lOUqO9vpCsF1HBBl_kJrxGaUQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Wie immer einfach zu empfehlen!",
+      "time": 1790685059,
+      "translated": false
+    },
+    {
+      "author_name": "Nadja Schmitzer",
+      "author_url": "https://www.google.com/maps/contrib/100573167549455814517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL5Ll8ZvGXxGqz0EHXoFd02lOUqO9vpCsF1HBBl_kJrxGaUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Wie immer einfach zu empfehlen!",
       "time": 1790685059,
       "translated": false
@@ -1472,11 +1508,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 191,
+  "reviewCount": 192,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-25T09:34:36.504Z"
+  "lastUpdated": "2026-10-28T10:58:04.915Z"
 }

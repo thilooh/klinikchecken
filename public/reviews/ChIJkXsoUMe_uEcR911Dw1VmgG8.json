@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Zehra Aydin",
+      "author_url": "https://www.google.com/maps/contrib/116719089793969663300/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLReYQMd4-EtvHFg5CEIyM6phczzjtP2V3657nNkzfx544GFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bisher eigentlich immer zufrieden mit dieser Hautarztpraxis und wollte dort auch weiterhin Patientin bleiben. Umso enttäuschender und unverständlicher war für mich der Umgang mit mir am Telefon.\n\nIch habe ganz normal angerufen und gefragt, ob man mir einen Termin geben könne. Die Helferin verwies mich lediglich auf die offene Sprechstunde zwischen 8:30 und 9:00 Uhr. Als ich erklärte, dass ich berufstätig bin und nicht einfach morgens spontan von der Arbeit wegbleiben kann, sagte sie zu mir: „Dann müssen Sie sich eine andere Praxis suchen\"\n\nWas ich besonders unverständlich finde: Auf der eigenen Website steht ausdrücklich, dass sich die Praxis vorbehält, die Patientenannahme vorzeitig zu beenden, wenn das Patientenaufkommen die Kapazitäten übersteigt. Das bedeutet für mich, dass ich unter Umständen extra bei der Arbeit fehlen, morgens zur offenen Sprechstunde erscheinen und dort möglicherweise lange warten müsste – ohne die Sicherheit, überhaupt noch angenommen und behandelt zu werden.\n\nWie soll man das als berufstätige Person vernünftig organisieren? Ich kann doch nicht einfach auf gut Glück bei der Arbeit fehlen, nur um dann eventuell unverrichteter Dinge wieder nach Hause geschickt zu werden.\n\nMir ist bewusst, dass eine Praxis ihre Abläufe selbst festlegen kann. Was ich jedoch nicht akzeptabel finde, ist, dass man bei einer ganz normalen Terminanfrage derart unfreundlich abgefertigt wird, anstatt zumindest zu versuchen, eine Lösung zu finden.\n\nDass mir als bisher zufriedener Patientin am Telefon praktisch gesagt wird, ich solle mir eben eine andere Praxis suchen, nur weil ich die offene Sprechstunde aus beruflichen Gründen nicht wahrnehmen kann, ist für mich absolut enttäuschend und unprofessionell.\n\nSehr schade, dass ein bisher positiver Eindruck durch ein einziges Telefonat so stark beschädigt wurde.",
+      "time": 1793102462,
+      "translated": false
+    },
+    {
+      "author_name": "Dirk Winsberg",
+      "author_url": "https://www.google.com/maps/contrib/108862006902565781539/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlQoZVSggukmLvLusoXA6ReWtq6kT63p2441nefZTuXfiqvQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nachmittags um 15:30 da gewesen. Hatte kein Termin. Ohne Termin morgen kommen. Ich bin aber berufstätig. Also ab nach Hause und dort angerufen. Gleich Aussage bekommen. Also wenn man arbeitet bekommt man KEINEN Termin. Nett echt nett.",
+      "time": 1793027224,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Basteck",
       "author_url": "https://www.google.com/maps/contrib/104639865988187852405/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSJlltX2ymyLqyr1IZhhbt4MQr4csc7dn7438zqAwnw2iB_fI=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte sehr lange mit starkem Haarausfall zu kämpfen. Erst als ich zu diesem Hautarzt gekommen bin, hat sich alles zum Guten gewendet. Er hat mir sehr geholfen und dafür bin ich sehr dankbar.Heute geht es mir wieder super. Meine Haare sind wieder schön dick und voll geworden und fallen nicht mehr aus. Ich kann diesen Hautarzt nur weiterempfehlen!",
+      "time": 1792575446,
+      "translated": false
+    },
+    {
+      "author_name": "Kenan Bögüs",
+      "author_url": "https://www.google.com/maps/contrib/103709114995939913737/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSJlltX2ymyLqyr1IZhhbt4MQr4csc7dn7438zqAwnw2iB_fI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich hatte sehr lange mit starkem Haarausfall zu kämpfen. Erst als ich zu diesem Hautarzt gekommen bin, hat sich alles zum Guten gewendet. Er hat mir sehr geholfen und dafür bin ich sehr dankbar.Heute geht es mir wieder super. Meine Haare sind wieder schön dick und voll geworden und fallen nicht mehr aus. Ich kann diesen Hautarzt nur weiterempfehlen!",
       "time": 1792575446,
       "translated": false
@@ -1294,11 +1330,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 227,
+  "reviewCount": 229,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-25T09:34:15.076Z"
+  "lastUpdated": "2026-10-28T10:57:43.255Z"
 }

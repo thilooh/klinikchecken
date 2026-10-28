@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sam Salamatian",
+      "author_url": "https://www.google.com/maps/contrib/107475350383035219962/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTYX8swCaNIuVeBPa0iiycOS0OK1QZHpN5CTztck6oyoqq3fg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793085285,
+      "translated": false
+    },
+    {
       "author_name": "Roger Lang",
       "author_url": "https://www.google.com/maps/contrib/110240288977301430128/reviews",
       "language": "de",
@@ -116,6 +126,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA5neJ4mDnXeHoi_53x1gJpdr89Ts6SZws4k8AjLNT3WUMzw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kann diese Praxis uneingeschränkt weiterempfehlen. Man bekommt verhältnismäßig schnell einen Termin und alle sind total freundlich. Würde auf keinen Fall mehr woanders hingehen. Ich habe mich zu jeder Zeit wohl und ernst genommen gefühlt. Es wurde sich Zeit gelassen und ich hatte nicht das Gefühl, dass ich „abgearbeitet“ werde o.ä.",
+      "time": 1790695680,
+      "translated": false
+    },
+    {
+      "author_name": "J. A.",
+      "author_url": "https://www.google.com/maps/contrib/103224730964061444587/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA5neJ4mDnXeHoi_53x1gJpdr89Ts6SZws4k8AjLNT3WUMzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich kann diese Praxis uneingeschränkt weiterempfehlen. Man bekommt verhältnismäßig schnell einen Termin und alle sind total freundlich. Würde auf keinen Fall mehr woanders hingehen. Ich habe mich zu jeder Zeit wohl und ernst genommen gefühlt. Es wurde sich Zeit gelassen und ich hatte nicht das Gefühl, dass ich „abgearbeitet“ werde o.ä.",
       "time": 1790695680,
       "translated": false
@@ -1656,11 +1678,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 158,
+  "reviewCount": 159,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-25T09:34:07.482Z"
+  "lastUpdated": "2026-10-28T10:57:35.531Z"
 }

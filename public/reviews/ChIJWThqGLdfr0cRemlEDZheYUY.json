@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Yvonne Mattulke-R.",
+      "author_url": "https://www.google.com/maps/contrib/108384692751355057328/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbsO4AzDqNc5ru-5BRPBLmZzf0vej_g5eu9YwsQ2b5OvxrmQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das beste Ärzte- und Schwesternteam was ich bisher hatte. Ruhig, sowas von freundlich, verständnisvoll und wirklich weiter zu empfehlen. Das es sowas noch gibt - MEGA",
+      "time": 1793183395,
+      "translated": false
+    },
+    {
       "author_name": "Michael Diedrich",
       "author_url": "https://www.google.com/maps/contrib/117981392566052342817/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6bCw6M8uDVF7wfqhmJGG2MQenZhzPaLCQihv0vdjf6ePEyQ=s128-c0x00000000-cc-rp-mo",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Jacky O.",
+      "author_url": "https://www.google.com/maps/contrib/114281744248198478243/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmCjPRG7fVJ3BP8oEQJJUZexzAyxk45dAzo_pGedUAYfv6dipt=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Top, alles ist sehr gut organisiert. Von der Terminvergabe bis zur OP. Die Mitarbeiter und Mitarbeiterinnen sind sehr zuvorkommend und hilfsbereit.",
+      "time": 1792567008,
+      "translated": false
+    },
+    {
       "author_name": "Birgit Urbahn",
       "author_url": "https://www.google.com/maps/contrib/111641524627722619126/reviews",
       "language": "de",
@@ -42,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6t5M8CLN5mDRRhV7_TjmdwQLbKiS57sxVtELnqqlXAIM3TjA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zum Zwecke eines proktologischen Eingriffs hier im MVZ Altstadt Magdeburg.\nVon der 1.Minute an- ab der Ankunft auf der Tagesstation, über die Betreuung in der Vorbereitung und später im OP - Raum, hab ich mich von allen Mitarbeitern nicht nur kompetent sondern auch sehr empathisch und liebevoll\nbetreut gefühlt. Ich möchte mich bei Allen Recht herzlich bedanken und kann diese medizinische Einrichtung von Herzen weiterempfehlen.",
+      "time": 1792402801,
+      "translated": false
+    },
+    {
+      "author_name": "Birgit Urbahn",
+      "author_url": "https://www.google.com/maps/contrib/111641524627722619126/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6t5M8CLN5mDRRhV7_TjmdwQLbKiS57sxVtELnqqlXAIM3TjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war heute zum Zwecke eines proktologischen Eingriffs hier im MVZ Altstadt Magdeburg.\nVon der 1.Minute an- ab der Ankunft auf der Tagesstation, über die Betreuung in der Vorbereitung und später im OP - Raum, hab ich mich von allen Mitarbeitern nicht nur kompetent sondern auch sehr empathisch und liebevoll\nbetreut gefühlt. Ich möchte mich bei Allen Recht herzlich bedanken und kann diese medizinische Einrichtung von Herzen weiterempfehlen.",
       "time": 1792402801,
       "translated": false
@@ -1844,11 +1880,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 522,
+  "reviewCount": 523,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-25T09:34:10.111Z"
+  "lastUpdated": "2026-10-28T10:57:38.195Z"
 }
