@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Rafik India",
+      "author_url": "https://www.google.com/maps/contrib/103008222483482607334/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa0GA3iANjKojcv8LJT4vjxjZKCeFeswR0yoQB-5EW7EFjJgQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793352561,
+      "translated": false
+    },
+    {
+      "author_name": "Erik Skala",
+      "author_url": "https://www.google.com/maps/contrib/112716069744831321522/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV90mifj2NcYhw_1rS7qJQZZWfHNQ-4jfKkwt26LtLsJu8r8L0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Beratung und gründliche sowie kompetente Untersuchung - aus meiner persönlichen Sicht sehr zu empfehlen...",
+      "time": 1793275463,
+      "translated": false
+    },
+    {
       "author_name": "Vanessa Baur 20",
       "author_url": "https://www.google.com/maps/contrib/110172491349383119274/reviews",
       "language": "de",
@@ -25,11 +47,33 @@
       "translated": false
     },
     {
+      "author_name": "Maikel Yakob",
+      "author_url": "https://www.google.com/maps/contrib/105880696320378259718/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjpoN45NsrwveKdyqPfxOZbCzz92wTYT6aFFv6Jpkg2VZq2vKc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ganz gut",
+      "time": 1792599205,
+      "translated": false
+    },
+    {
       "author_name": "CoSie",
       "author_url": "https://www.google.com/maps/contrib/114875327130010953012/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbI_363FGchp5Z67NrLG_LPuy-SJsIdUw_ZTz5m5huvqJeYcQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792580349,
+      "translated": false
+    },
+    {
+      "author_name": "CoSie",
+      "author_url": "https://www.google.com/maps/contrib/114875327130010953012/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbI_363FGchp5Z67NrLG_LPuy-SJsIdUw_ZTz5m5huvqJeYcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792580349,
       "translated": false
@@ -1764,11 +1808,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 166,
+  "reviewCount": 167,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:52.890Z"
+  "lastUpdated": "2026-10-31T10:43:36.640Z"
 }

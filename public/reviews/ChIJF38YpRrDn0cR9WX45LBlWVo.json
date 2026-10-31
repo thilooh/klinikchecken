@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dana Deutschland",
+      "author_url": "https://www.google.com/maps/contrib/112056353781006514814/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ3CvS1TNfRiLiSxBDjOtEqQ_4pql2409GFISY1OeaoPLaLQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit Jahren fühle ich mich dort gut betreut",
+      "time": 1793202640,
+      "translated": false
+    },
+    {
       "author_name": "Stefanie Bittner",
       "author_url": "https://www.google.com/maps/contrib/104617047325791922085/reviews",
       "language": "de",
@@ -686,11 +698,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 54,
+  "reviewCount": 55,
   "summary": [
     "Ärztliche Kompetenz und sorgfältige Beratung werden positiv hervorgehoben",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:48.785Z"
+  "lastUpdated": "2026-10-31T10:43:32.582Z"
 }

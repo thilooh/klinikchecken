@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ina Rutz",
+      "author_url": "https://www.google.com/maps/contrib/103012391616515052826/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZdEzylfha06474nIL0MEoMKvYoGcCQr4BOObqNGmS5yzJcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches und kompetentes Team! Man fühlt sich in der Praxis gut aufgehoben und wird professionell von Dr. Lodin beraten und behandelt.",
+      "time": 1793292396,
+      "translated": false
+    },
+    {
+      "author_name": "Can Ergin",
+      "author_url": "https://www.google.com/maps/contrib/105673506954852178891/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQY8hKCrSDDtaIb83AtBdmrpw3AATfyfaodLcxjgkvdGP-gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793257893,
+      "translated": false
+    },
+    {
       "author_name": "DagobertDrip",
       "author_url": "https://www.google.com/maps/contrib/103383637508453205937/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC5ocHModV9p--Y-BqGLKexqEKMihQZwd9I3M2pm1a2K98mylGFA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann nur Positives berichten. Über Doctolib innerhalb weniger Tage einen Termin bekommen,  knapp 5 Minuten im Wartezimmer gewartet. Ärztin Frau Dr. Korth sehr freundlich und bemüht. Komme hier gerne bei Bedarf wieder hin.",
+      "time": 1792612567,
+      "translated": false
+    },
+    {
+      "author_name": "Heike K.",
+      "author_url": "https://www.google.com/maps/contrib/111639223836306214116/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC5ocHModV9p--Y-BqGLKexqEKMihQZwd9I3M2pm1a2K98mylGFA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann nur Positives berichten. Über Doctolib innerhalb weniger Tage einen Termin bekommen,  knapp 5 Minuten im Wartezimmer gewartet. Ärztin Frau Dr. Korth sehr freundlich und bemüht. Komme hier gerne bei Bedarf wieder hin.",
       "time": 1792612567,
       "translated": false
@@ -1214,11 +1248,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 53,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-28T10:57:57.280Z"
+  "lastUpdated": "2026-10-31T10:43:41.288Z"
 }

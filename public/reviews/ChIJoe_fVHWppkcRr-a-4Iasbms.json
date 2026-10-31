@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Carolin Petzoldt",
+      "author_url": "https://www.google.com/maps/contrib/117172482164427236572/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9GOPgfS44CihU4XHLSz3kpWd68V3jL00YwinWo8GwAW8yyw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher Empfang. Sehr nette Ärztin- gründlich und kompetent. Man hat sich gut aufgehoben gefühlt.",
+      "time": 1793279688,
+      "translated": false
+    },
+    {
       "author_name": "Heike Stopp",
       "author_url": "https://www.google.com/maps/contrib/115314974601037249978/reviews",
       "language": "de",
@@ -181,12 +193,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 2,
+  "rating": 4.7,
+  "reviewCount": 3,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-10-28T10:58:10.671Z"
+  "lastUpdated": "2026-10-31T10:43:54.646Z"
 }

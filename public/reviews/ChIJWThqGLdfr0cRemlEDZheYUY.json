@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Chrissi König",
+      "author_url": "https://www.google.com/maps/contrib/118339506325691667137/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVENNthrVZF_ML25ueOtytDvBIjU4keGTIZuEgpGtvNwqIQS6M7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte heute meine 2 OP dort.\nAlleine von der Anmeldung bis zur OP bin ich hell auf begeistert. ALLE machen eine super Arbeit. Die Schwestern dort sind ein Traum und für jeden Spaß zu haben. Ich habe mich super wohl gefühlt trotz meiner Angststörung.\nIch empfehle jeden der Probleme hat dort hinzugehen.\nVielen lieben Dank. Möge all das gute jeden Tag zu euch zurück kommen ❤️",
+      "time": 1793203440,
+      "translated": false
+    },
+    {
+      "author_name": "holger schmidt",
+      "author_url": "https://www.google.com/maps/contrib/106744910832012459270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURiD5Z0cLLRiXxRc98FON1C5yc9E5mkXGYz3vay_IKeY8BJT4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin hier super zufrieden..top Team..,kann ich nur empfehlen.",
+      "time": 1793185801,
+      "translated": false
+    },
+    {
       "author_name": "Yvonne Mattulke-R.",
       "author_url": "https://www.google.com/maps/contrib/108384692751355057328/reviews",
       "language": "de",
@@ -23,6 +47,16 @@
       "translated": false
     },
     {
+      "author_name": "Michael Diedrich",
+      "author_url": "https://www.google.com/maps/contrib/117981392566052342817/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6bCw6M8uDVF7wfqhmJGG2MQenZhzPaLCQihv0vdjf6ePEyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792654779,
+      "translated": false
+    },
+    {
       "author_name": "Dirk Voigt",
       "author_url": "https://www.google.com/maps/contrib/116920023306893709572/reviews",
       "language": "de",
@@ -30,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJo0Ns5PPI_-HJUXk0-Edo81Bv78m_RCZBUF-vpWETqtripg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Beste medizinische Einrichtung\nfür mich in Magdeburg.\nFreundliches Personal, keine langen Wartezeiten, Räumlichkeiten sehr patientenfreundlich.\nAbsolute Weiterempfehlung!!!",
+      "time": 1792593943,
+      "translated": false
+    },
+    {
+      "author_name": "Dirk Voigt",
+      "author_url": "https://www.google.com/maps/contrib/116920023306893709572/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJo0Ns5PPI_-HJUXk0-Edo81Bv78m_RCZBUF-vpWETqtripg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Beste medizinische Einrichtung\nfür mich in Magdeburg.\nFreundliches Personal, keine langen Wartezeiten, Räumlichkeiten sehr patientenfreundlich.\nAbsolute Weiterempfehlung!!!",
       "time": 1792593943,
       "translated": false
@@ -1880,11 +1926,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 523,
+  "reviewCount": 525,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-28T10:57:38.195Z"
+  "lastUpdated": "2026-10-31T10:43:21.865Z"
 }

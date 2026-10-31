@@ -11,11 +11,31 @@
       "translated": false
     },
     {
+      "author_name": "CB",
+      "author_url": "https://www.google.com/maps/contrib/101912564144859191804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxpZZBxm_Oz32ZKEVbgFjlWiQa_7E_b8CDTV9P-XwWVrQYqmI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792741801,
+      "translated": false
+    },
+    {
       "author_name": "Marc Schwittai",
       "author_url": "https://www.google.com/maps/contrib/108705038060626775247/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy35OtpRKzPznWtgdMvmJN8EmgZ2GU7c5S-80UQTmw8jL9Pc64VQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792582237,
+      "translated": false
+    },
+    {
+      "author_name": "Marc Schwittai",
+      "author_url": "https://www.google.com/maps/contrib/108705038060626775247/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy35OtpRKzPznWtgdMvmJN8EmgZ2GU7c5S-80UQTmw8jL9Pc64VQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792582237,
       "translated": false
@@ -56,6 +76,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyCeREi1ZdVzHkEQje7hffTthQNSdHF1kh2q0NWYLdaChlGQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1790845296,
+      "translated": false
+    },
+    {
+      "author_name": "Denise Fahlbusch",
+      "author_url": "https://www.google.com/maps/contrib/103239211582518476771/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyCeREi1ZdVzHkEQje7hffTthQNSdHF1kh2q0NWYLdaChlGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1790845296,
       "translated": false
@@ -176,6 +206,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl8rsiP2Bx4hAxGtwXWXQNBfBIxrEio2Zn-X6pfCra9yrTLw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1785579215,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/111258490630399828038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl8rsiP2Bx4hAxGtwXWXQNBfBIxrEio2Zn-X6pfCra9yrTLw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1785579215,
       "translated": false
@@ -810,5 +850,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:49.277Z"
+  "lastUpdated": "2026-10-31T10:43:33.066Z"
 }

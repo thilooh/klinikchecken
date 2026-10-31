@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "tienanton",
+      "author_url": "https://www.google.com/maps/contrib/101869241001023386358/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMWhFSsQ5xxc0ossyXZn6Bd4cV5ZNbB4YKEBaV_DDXGKFcCZA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetent - sehr hilfreich i.S. Allergie",
+      "time": 1793390732,
+      "translated": false
+    },
+    {
+      "author_name": "Johanna Suntinger",
+      "author_url": "https://www.google.com/maps/contrib/100023645241498302504/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW515ZgfKIYRNIGzPGmZhvsN8Cw1ZvC9JFSjbhrmS9pL4eUY9Jt=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis! Absolut weiterzuempfehlen!\nDas Team ist unglaublich freundlich und professionell.\nMan fühlt sich direkt wohl!\nMit meiner Behandlung war ich mehr als zufrieden und ich komme gerne wieder!",
+      "time": 1793298882,
+      "translated": false
+    },
+    {
+      "author_name": "Levy",
+      "author_url": "https://www.google.com/maps/contrib/112442554139817025491/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv2u20AR6uzsEibnauk_OwfbSzec-s9jPiDc9HBfEJvI7byUc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793186052,
+      "translated": false
+    },
+    {
       "author_name": "Marion Gilles",
       "author_url": "https://www.google.com/maps/contrib/102106686541850878014/reviews",
       "language": "de",
@@ -1788,11 +1822,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 347,
+  "reviewCount": 350,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-28T10:58:05.383Z"
+  "lastUpdated": "2026-10-31T10:43:49.379Z"
 }

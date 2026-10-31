@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Florian Junk",
+      "author_url": "https://www.google.com/maps/contrib/110340789046724181223/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFD-TNjIuUjszN190LNALyGDfkX1Qc33QR42gJW_LII4uWru-b=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetent, freundlich und hilfsbereit- nur zu empfehlen.",
+      "time": 1793288473,
+      "translated": false
+    },
+    {
+      "author_name": "Jennifer Lenz",
+      "author_url": "https://www.google.com/maps/contrib/109659459823974069520/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU030_UXHZT4dG1hicZzWpAma7zU4eFLh7XCzPd6tk85ZNU-NJJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Praxisleiter, Dr. Med Zons ist einer der wenigen kompetenten Ärzt*innen in dieser Praxis. Mit vielen der dort tätigen Ärztin hatte ich hingegen schlechte Erfahrungen.\n\nEine Ärztin hatte unter anderem behauptet dass ich mich selbst verletzen würde. Als ich später um Korrektur in der Akte gebeten hatte, war diese verweigert worden.\n\nBei Termin mit verschiedener der dort weiblich Angestellten Ärztin kam es zu schweren Diskrepanzen.\nAnderem hatte dr med Barbara Schacht mir vorgeworfen, dass ich durch auftragen von Silikongel \"einen Keloid machen würde\".\n\nEine andere Ärztin hatte mir gegen Hautausschlag eine Creme mit dickflüssigem Paraffin, bzw Paraffinum Liquidum verschrieben. Bei Paraffinum Liquidum handelt es sich um einen Stoff, gegen welchen ich allergisch bin. Diese Allergie ist bei der Dermatologie Praxis zu Zons eingetragen gewesen.\n\nDes Weiteren werden mir in dieser Praxis seit mehreren Jahren anti-neurodermitis-Produkte verschrieben. Sowohl Salicylsäure, als auch keine Cortisoncreme. Sämtliche dieser Produkte sind trotz regelmäßigen auftragen über mehrere Monate hinweg, mindestens zweimal die Woche mit jeweils mindestens zwei Stunden Einwirkzeit bisher nicht angeschlagen.\nZusätzlich verwende ich seit Jahren Kertozolin und Stieproxal. Seit ca 4 Monaten im Wechsel, weil eine dortige Ärztin behauptet hatte dass der Grund dafür dass es nicht wirkt wäre, dass ich es zu lange verwendet hätte und sich die Haut deshalb dran gewöhnt gehabt hätte.\nIn einer passablen Praxis wären gemäß meiner Internetrecherche längst andere Möglichkeiten, wie eine Injektion zwecks der Entzündungshemmung empfohlen worden.\n\nAußerdem hatte ich mich dort vor einigen Monaten einen Termin in Bezug auf die Narbenentfernung einer Keloidnarbe am Handgelenk gemacht. Die behandelnde Ärztin hatte mir gegenüber erst behauptet, dass man die keloidnappe am Handgelenk nicht behandeln könne und dass sie ausschließlich eine Windpocken Narbe in meinem Gesicht behandeln könne.\nBei dem Beratungsgespräch zur Laserbehandlung war dann behauptet worden, dass eine Laserbehandlung die flache, weiche und gut verheilte hypotrope Narbe ausschließlich dunkel machen könne.\n\nMein einziger Termin bei Herrn Doktor Zons war hingegen sehr professionell und so wie es eigentlich normal sein sollte verlaufen.\n\nBei Neubehandlung in einer anderen Praxis besteht ein hohes Risiko, dass mir nicht geglaubt werden würde dass ich bereits seit Jahren regelmäßig mit verschiedenen Neurodermitis Produkten behandle",
+      "time": 1793200147,
+      "translated": false
+    },
+    {
+      "author_name": "Julija Grzibovska",
+      "author_url": "https://www.google.com/maps/contrib/114284845365573760532/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnAhALmmR1yi7bxHLIlWFAppjsyVVYc5AvO4Kf1F4JKaCMasny=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine erste Bewertung auf Google aller Zeiten! Wusste nicht, dass das so nötig ist, aber ja, meine Hände zittern schon vor Stress. Mega Eintauchen vom ganzen Ablauf in der Praxis. Die Termine sollen unbedingt online gemacht werden und zwar immer wieder neue ohne weitere Hilfe. Mit dem Arzt zu sprechen ist immer ein Quest, und das habe ich seit Monaten noch nicht geschafft. Das Rezeptionspersonal ist so was von unhöflich, vielleicht nicht alle, aber die drei Personen, die ich getroffen habe, haben mir gar nicht geholfen. Ich bin aber immer mega nett und kann alles verstehen und so, aber das hier ist einfach Abzocke. Sitze wieder im Wartezimmer für gar nichts... will nur weinen... crazy!\nNie wieder!",
+      "time": 1793185615,
+      "translated": false
+    },
+    {
       "author_name": "Alexander Koch",
       "author_url": "https://www.google.com/maps/contrib/105555472540043808739/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzVeM2r2D3mm4gsmTJ1hugwewyzi1VLDKjIXbI0Q3QUplcWg=s128-c0x00000000-cc-rp-mo",
@@ -1537,12 +1573,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 204,
+  "rating": 4.5,
+  "reviewCount": 207,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:58:05.620Z"
+  "lastUpdated": "2026-10-31T10:43:49.613Z"
 }

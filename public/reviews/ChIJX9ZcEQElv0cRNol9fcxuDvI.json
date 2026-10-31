@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jörg Emmerich",
+      "author_url": "https://www.google.com/maps/contrib/105988915870268858273/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGy11mnkd5_byXnjbe9LK9Hr85FbUz6Ofj23DMFDdP_3TSBbHQWg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein Termin für Januar 2027 habe ich vor 6 Monaten vereinbart, dieser wurde nun einfach wortlos via Doctolib abgesagt. Dann erkundigt man sich, wieso das passiert ist. Die Antwort: \"man muß keine Rechenschaft abgeben, wieso wir Termine absagen...\". Kundenfreundlich ist dies nicht.  Den nächsten Termin den man mir anbieten könne wäre im Mai 2027!!. Ich habe dann kurz später versucht als Privatpatient einen Termin zu buchen, diesen hätte ich bereits in einer Woche bekommen ;-) Das sagt eigentlich genug über diese Praxis aus.",
+      "time": 1793282833,
+      "translated": false
+    },
+    {
       "author_name": "Rebekka Krüger",
       "author_url": "https://www.google.com/maps/contrib/116954140282647984481/reviews",
       "language": "de",
@@ -52,6 +64,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImJGC0lF0RnbENnaAFKdhp4C6a4Umr2Fg_SD2Yt7_IL1MddA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792072619,
+      "translated": false
+    },
+    {
+      "author_name": "Anita Horochowik",
+      "author_url": "https://www.google.com/maps/contrib/103294662639420158930/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImJGC0lF0RnbENnaAFKdhp4C6a4Umr2Fg_SD2Yt7_IL1MddA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1792072619,
       "translated": false
@@ -1353,11 +1375,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 196,
+  "reviewCount": 197,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-10-28T10:57:21.412Z"
+  "lastUpdated": "2026-10-31T10:43:05.743Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Irmtraud Mutschler",
+      "author_url": "https://www.google.com/maps/contrib/104259645321144836502/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLzyYhJF0ydlwjSCfT6kWMYThrkLne-xnFK5B-t-UzB2h25A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Hautarztpraxis.  Meinen 1. Termin zum Hautscreening habe ich sehr schnell bekommen. Fr. Thönnes war wirklich sehr gründlich und sehr nett.\n\nBeim 2. Termin wurde ich durch Herrn Nowack behandelt. Auch er war ausgesprochen freundlich, hatte Geduld und Professionalität. Mehrere Hautveränderungen wurden gelasert.\n\nDie MFA bei der Anmeldung und der Behandlung waren alle sehr nett und ich hatte nur eine kurze Wartezeit.\n\nAnschlusstermine bekam ich zeitnah.\nIch bin voll zufrieden und kann die Praxis nur weiterempfehlen.",
+      "time": 1793408950,
+      "translated": false
+    },
+    {
+      "author_name": "Mykola",
+      "author_url": "https://www.google.com/maps/contrib/115522953006110465824/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcbpUHVqrjnukuDSkQvQZkaRsNZNFZJfglVvHQm398-ciW-PE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das ist keine Klinik, sondern ein Kindergarten! Mir wurde keinerlei Behandlung verschrieben. Da stellt sich doch die Frage: Warum habe ich dann so lange auf meinen Termin gewartet??? Ich habe offensichtliche Probleme, die behoben werden können, aber stattdessen hat man mir einfach gesagt: „Das geht nicht, das lässt sich nicht behandeln.\"???!?!!????. Danach wurde mir ein falsches Rezept ausgestellt, das sehr teuer ist. Ich habe das Gefühl, dass ich kompetenter bin als die Ärzte. -5 Sterne!",
+      "time": 1793357913,
+      "translated": false
+    },
+    {
       "author_name": "Xiaoyan Lin",
       "author_url": "https://www.google.com/maps/contrib/100999382606091424295/reviews",
       "language": "de",
@@ -1924,11 +1948,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 413,
+  "reviewCount": 415,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:57.024Z"
+  "lastUpdated": "2026-10-31T10:43:41.045Z"
 }

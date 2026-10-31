@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Giroux",
+      "author_url": "https://www.google.com/maps/contrib/106760579421267952188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRHADgzvVbMywFan6S3FpdvDRC2sOQdkbFZub2JtwmT4qkE3WsRw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fünf Sterne dafür, dass man am Telefon gefragt wird, ob man neu patient sei, und dann bei Bejahung das Gespräch direkt kommentarlos abgebrochen wird. Ich finde das sehr humorvoll.",
+      "time": 1793360480,
+      "translated": false
+    },
+    {
+      "author_name": "Mohsen Ramezanzadeh",
+      "author_url": "https://www.google.com/maps/contrib/116207174201585157426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOADxL10PyBm7U6MYRNUqjwVdb0WwviCWJfu_dD5qZ1M3deg0r=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793281931,
+      "translated": false
+    },
+    {
       "author_name": "Victoria Aharonov",
       "author_url": "https://www.google.com/maps/contrib/111410628043130604323/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWgND3_x603wQH90vVOpJ_mxDAWY4pqPkn7TALMh7NauN9jw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Chaotische und zugleich sehr unempathische Praxis. Ich wurde zunächst zu einem MRT geschickt. Der Termin zur Besprechung und Auswertung wurde anschließend mehrfach abgesagt. Als schließlich ein Termin zustande kam, erlebte ich den Arzt als ausgesprochen ignorant und wenig zugewandt. Er sprach mit mir, als müsste ich als Patientin selbstverständlich über medizinisches Fachwissen verfügen, und erklärte mir weder die Befunde verständlich noch zeigte er mir einen konkreten Weg auf, wie es weitergehen könnte. Geholfen hat mir dieser Termin letztlich überhaupt nicht.\n\nAnschließend habe ich die Praxis kontaktiert, um eine Kopie meines MRTs zu erhalten, damit ich die Untersuchung in einer anderen Praxis weiter abklären lassen kann. Auf meine Anfrage erhielt ich jedoch keinerlei Rückmeldung.\n\nInsgesamt eine sehr enttäuschende Erfahrung: organisatorisch chaotisch und im Umgang mit Patientinnen und Patienten leider völlig ohne Empathie.",
+      "time": 1792831820,
+      "translated": false
+    },
+    {
+      "author_name": "Victoria Aharonov",
+      "author_url": "https://www.google.com/maps/contrib/111410628043130604323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWgND3_x603wQH90vVOpJ_mxDAWY4pqPkn7TALMh7NauN9jw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Chaotische und zugleich sehr unempathische Praxis. Ich wurde zunächst zu einem MRT geschickt. Der Termin zur Besprechung und Auswertung wurde anschließend mehrfach abgesagt. Als schließlich ein Termin zustande kam, erlebte ich den Arzt als ausgesprochen ignorant und wenig zugewandt. Er sprach mit mir, als müsste ich als Patientin selbstverständlich über medizinisches Fachwissen verfügen, und erklärte mir weder die Befunde verständlich noch zeigte er mir einen konkreten Weg auf, wie es weitergehen könnte. Geholfen hat mir dieser Termin letztlich überhaupt nicht.\n\nAnschließend habe ich die Praxis kontaktiert, um eine Kopie meines MRTs zu erhalten, damit ich die Untersuchung in einer anderen Praxis weiter abklären lassen kann. Auf meine Anfrage erhielt ich jedoch keinerlei Rückmeldung.\n\nInsgesamt eine sehr enttäuschende Erfahrung: organisatorisch chaotisch und im Umgang mit Patientinnen und Patienten leider völlig ohne Empathie.",
       "time": 1792831820,
       "translated": false
@@ -1705,8 +1739,8 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 164,
+  "rating": 4.6,
+  "reviewCount": 166,
   "summary": [],
-  "lastUpdated": "2026-10-28T10:57:29.625Z"
+  "lastUpdated": "2026-10-31T10:43:13.238Z"
 }

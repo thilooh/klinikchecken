@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Stein",
+      "author_url": "https://www.google.com/maps/contrib/103335675199525223740/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxCMwujXZ9aujeTcbVmJC_WlOEHhQQ3RWJSpxas5Jpo_FYHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Telefonisch nicht erreichbar. Das sehe ich als no go für einen Arzt.",
+      "time": 1793354022,
+      "translated": false
+    },
+    {
       "author_name": "Britta Kolanowski",
       "author_url": "https://www.google.com/maps/contrib/101483724440845511972/reviews",
       "language": "de",
@@ -369,6 +381,18 @@
       "translated": false
     },
     {
+      "author_name": "Caro Ters",
+      "author_url": "https://www.google.com/maps/contrib/100295418762104529772/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXLE6PqgvNI2VPWjCCK8xheagD-8fWD51_-bNbFYP83grfArfT=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
+      "text": "Ich komme schon seit vielen Jahren hier hin.\nFreundliches Team, gutes Zeitmanagement, man hat mir Termin  kaum bis gar keine Wartezeit.\nGenerell auch eine schnell.\nFrau Doktor hat immer ein offenes Ohr und hört sich alles an. Ich bin sehr zufrieden.",
+      "time": 1780406120,
+      "translated": false
+    },
+    {
       "author_name": "Merve Yakar",
       "author_url": "https://www.google.com/maps/contrib/102477560712540737145/reviews",
       "language": "de",
@@ -713,6 +737,18 @@
       "translated": true
     },
     {
+      "author_name": "Andyan Pour",
+      "author_url": "https://www.google.com/maps/contrib/106263527044608083780/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBfMh3iW6JgyWmS9Ak_dfCkZsg0JAW-MOsoGsLmRUCwgniiAc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 6 Monaten",
+      "text": "Ich hatte eine wirklich wunderbare Erfahrung mit Dr. Khalil Moghadam. Er war freundlich, aufmerksam und ich fühlte mich von Anfang an rundum wohl. Ich habe es sehr geschätzt, wie aufmerksam er zuhörte und alles so klar erklärte. Ich bin sehr dankbar für die erhaltene Behandlung und kann Dr. Khalil Moghadam wärmstens empfehlen.",
+      "time": 1777879160,
+      "translated": true
+    },
+    {
       "author_name": "Yusuf Oflas",
       "author_url": "https://www.google.com/maps/contrib/116567171445718359282/reviews",
       "language": "de",
@@ -1004,11 +1040,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 107,
+  "reviewCount": 108,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:43.490Z"
+  "lastUpdated": "2026-10-31T10:43:27.246Z"
 }

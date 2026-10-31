@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christoph Lohss",
+      "author_url": "https://www.google.com/maps/contrib/109355514218167962219/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZiO5h2a-p1MUqMzHTUomRwD2AqnMfNfbdBI36NqYQby0XLtn5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Rebecca Stier, wenn man nichts riskieren möchte: fachlich topp!\nSehr zufrieden!",
+      "time": 1793268665,
+      "translated": false
+    },
+    {
       "author_name": "Kinnaj Tsuj",
       "author_url": "https://www.google.com/maps/contrib/100353864032311674720/reviews",
       "language": "de",
@@ -1880,7 +1892,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 471,
+  "reviewCount": 472,
   "summary": [],
-  "lastUpdated": "2026-10-28T10:57:31.953Z"
+  "lastUpdated": "2026-10-31T10:43:15.580Z"
 }

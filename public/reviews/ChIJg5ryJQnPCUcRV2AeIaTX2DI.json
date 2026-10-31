@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Lara Lobreyer",
+      "author_url": "https://www.google.com/maps/contrib/113420544610534711480/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM5DyEyeXUG-3z-KeiwMZVBDlMZZZ3rf--3gwndxvGEQR90A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792742841,
+      "translated": false
+    },
+    {
       "author_name": "Ingo Euler",
       "author_url": "https://www.google.com/maps/contrib/115647792548486479159/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKw0OW30MLsUGDxeMC7ZUJgneJrCxSsZMzOenzfwnQ7oyCY3Q=s128-c0x00000000-cc-rp-mo-ba4",
@@ -26,6 +36,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKw0OW30MLsUGDxeMC7ZUJgneJrCxSsZMzOenzfwnQ7oyCY3Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792223056,
+      "translated": false
+    },
+    {
+      "author_name": "Ingo Euler",
+      "author_url": "https://www.google.com/maps/contrib/115647792548486479159/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKw0OW30MLsUGDxeMC7ZUJgneJrCxSsZMzOenzfwnQ7oyCY3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1792223056,
       "translated": false
@@ -848,5 +868,5 @@
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-28T10:57:49.778Z"
+  "lastUpdated": "2026-10-31T10:43:33.539Z"
 }

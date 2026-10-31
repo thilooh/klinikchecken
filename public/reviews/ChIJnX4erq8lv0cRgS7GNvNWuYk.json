@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Heinz Schoenburg",
+      "author_url": "https://www.google.com/maps/contrib/111260744163783701931/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb3gA8DEQQdVg7rgJ8MOfPNi7xW1ofwTNInGoNEXy3xvyJuA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alle super freundlich,  kompetente Ärztin",
+      "time": 1793277418,
+      "translated": false
+    },
+    {
       "author_name": "Christian Krüll",
       "author_url": "https://www.google.com/maps/contrib/109403214131340197187/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB8kF4QXvjBGluGN6lyKSp6rPFzsTaEznF-Rvw21mjKA9DGw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -589,11 +601,11 @@
     }
   ],
   "rating": 3,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [
     "Für Hautkrebsscreening empfohlen — Ärztin nimmt sich Zeit und erklärt verständlich",
     "Freundliche Atmosphäre, Erstpatienten fühlen sich wohl",
     "Vereinzelte Kritik: Behandlung wirkte oberflächlich, Produkte werden aktiv empfohlen"
   ],
-  "lastUpdated": "2026-10-28T10:57:21.086Z"
+  "lastUpdated": "2026-10-31T10:43:05.422Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Meyer",
+      "author_url": "https://www.google.com/maps/contrib/100792448084460957542/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnESv6dYv6oGWjIUDSMcyHAweUaXalz47mnANFh9AR8nIbag=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Frau ist sehr zufrieden",
+      "time": 1793345443,
+      "translated": false
+    },
+    {
+      "author_name": "JTM",
+      "author_url": "https://www.google.com/maps/contrib/104358825110030755003/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzEBEEw6Mt9Z0C66WOr_Lw4UgBqsbEo-Hkv5oKBS5fcNR75mQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793274847,
+      "translated": false
+    },
+    {
       "author_name": "Christian Volk",
       "author_url": "https://www.google.com/maps/contrib/104849461344325287550/reviews",
       "language": "de",
@@ -1900,11 +1922,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 284,
+  "reviewCount": 286,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-28T10:57:35.051Z"
+  "lastUpdated": "2026-10-31T10:43:18.710Z"
 }

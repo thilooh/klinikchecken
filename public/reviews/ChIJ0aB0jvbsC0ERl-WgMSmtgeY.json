@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jörg Fickenscher",
+      "author_url": "https://www.google.com/maps/contrib/103725788144787284913/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUATqUq1rSGTS4AP2CjSU1MEAviPHsVCJZdDSczWKkSMLw1xAbzzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Spezi vom Fach👍",
+      "time": 1793385083,
+      "translated": false
+    },
+    {
       "author_name": "Ilona Tedesco",
       "author_url": "https://www.google.com/maps/contrib/106979590849953133212/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ58M7c-rMQCclhRJP9XP79yROcVhg9BobmRGkBaIFD_tePqg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Kompetente Ärzte offensichtlich. Schnelle und funktionale Abläufe",
+      "time": 1792167086,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Eckert",
+      "author_url": "https://www.google.com/maps/contrib/105507563686923722733/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ58M7c-rMQCclhRJP9XP79yROcVhg9BobmRGkBaIFD_tePqg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Kompetente Ärzte offensichtlich. Schnelle und funktionale Abläufe",
       "time": 1792167086,
       "translated": false
@@ -116,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK01j-wRd-Mf6bwQb-so2BIOvfdj_cuBKxEVAOt9I1aewL7DQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Top Versorgung! Kam vorbelastet nach vorheriger Behandlung, die ein Lymphödem zur Folge hatte und bin mit bisheriger Behandlung sehr zufrieden. Alles gut erklärt, ging schnell und professionell im Ablauf. Narkose wurde top eingestellt, war überhaupt nicht groggy. Wirklich alles bestens! Klare Empfehlung! Vielen Dank auch nochmal an Herrn Dr.Weiler und Frau Brenner!",
+      "time": 1791627020,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Süss",
+      "author_url": "https://www.google.com/maps/contrib/117879696877461900764/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK01j-wRd-Mf6bwQb-so2BIOvfdj_cuBKxEVAOt9I1aewL7DQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Top Versorgung! Kam vorbelastet nach vorheriger Behandlung, die ein Lymphödem zur Folge hatte und bin mit bisheriger Behandlung sehr zufrieden. Alles gut erklärt, ging schnell und professionell im Ablauf. Narkose wurde top eingestellt, war überhaupt nicht groggy. Wirklich alles bestens! Klare Empfehlung! Vielen Dank auch nochmal an Herrn Dr.Weiler und Frau Brenner!",
       "time": 1791627020,
       "translated": false
@@ -1524,11 +1560,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 170,
+  "reviewCount": 171,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:58:07.295Z"
+  "lastUpdated": "2026-10-31T10:43:51.275Z"
 }

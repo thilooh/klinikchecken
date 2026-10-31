@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Arina xv",
+      "author_url": "https://www.google.com/maps/contrib/100858373892759492864/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9yPoRbrPPd5PrFw_5vtkRwJxLWNDYNBIpqjTRc2nNTmRwCovAZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Team und sehr netter Arzt",
+      "time": 1793197156,
+      "translated": false
+    },
+    {
       "author_name": "Susanne",
       "author_url": "https://www.google.com/maps/contrib/111559015507625775181/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo_8oEX53lZlUlZqa_QSf6pXzvEgkaj3-DwPYu9_kNIYgQ0g=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr freundlich und kompetent",
+      "time": 1791396406,
+      "translated": false
+    },
+    {
+      "author_name": "Karl-Heinz D",
+      "author_url": "https://www.google.com/maps/contrib/113614781389549333405/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo_8oEX53lZlUlZqa_QSf6pXzvEgkaj3-DwPYu9_kNIYgQ0g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr freundlich und kompetent",
       "time": 1791396406,
       "translated": false
@@ -1185,8 +1209,8 @@
       "translated": false
     }
   ],
-  "rating": 3.6,
-  "reviewCount": 131,
+  "rating": 3.7,
+  "reviewCount": 132,
   "summary": [],
-  "lastUpdated": "2026-10-28T10:57:28.655Z"
+  "lastUpdated": "2026-10-31T10:43:12.354Z"
 }

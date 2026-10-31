@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "بسام اامحمد",
+      "author_url": "https://www.google.com/maps/contrib/111382450151192246681/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6xlxTq3P_OSqOpmsSnorjVVeviOtibDBq4D6qcW4N4zt-vWr0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793303188,
+      "translated": false
+    },
+    {
+      "author_name": "Albion Kaciu",
+      "author_url": "https://www.google.com/maps/contrib/111583495486721680859/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4Ky5AKIFN2Gs10fKN1b7GfYcxUhKQeMpcmUOxUXjMwcIyKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793272895,
+      "translated": false
+    },
+    {
       "author_name": "Bshar Shabi",
       "author_url": "https://www.google.com/maps/contrib/113261144445078088632/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDxMFEdTBsy52YikZ_RtUXyUki-E4-6E45OTv6OQRJU05jJTA=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +36,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDxMFEdTBsy52YikZ_RtUXyUki-E4-6E45OTv6OQRJU05jJTA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792044190,
+      "translated": false
+    },
+    {
+      "author_name": "Bshar Shabi",
+      "author_url": "https://www.google.com/maps/contrib/113261144445078088632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDxMFEdTBsy52YikZ_RtUXyUki-E4-6E45OTv6OQRJU05jJTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1792044190,
       "translated": false
@@ -52,6 +82,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxpp6bI62uL2O4ajSwAty-OEzrKo5oCuUhr5rTgMYG30zS0O85=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr kompetent. Erklärt ausführlich. Nimmt sich Zeit",
+      "time": 1791569149,
+      "translated": false
+    },
+    {
+      "author_name": "Jessika Bozek",
+      "author_url": "https://www.google.com/maps/contrib/117593667743795490590/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxpp6bI62uL2O4ajSwAty-OEzrKo5oCuUhr5rTgMYG30zS0O85=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr kompetent. Erklärt ausführlich. Nimmt sich Zeit",
       "time": 1791569149,
       "translated": false
@@ -1644,11 +1686,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 402,
+  "reviewCount": 404,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-28T10:57:59.242Z"
+  "lastUpdated": "2026-10-31T10:43:43.228Z"
 }

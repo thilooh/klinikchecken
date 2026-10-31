@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dani Antonio",
+      "author_url": "https://www.google.com/maps/contrib/100016587878908375092/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ3FIXAddNk6h-zlGYrNGpv8RBeNkaYjTAu3uQWt0QdL-pjrZa=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man braucht ganz viel Zeit und Geduld…. nicht zu empfehlen.",
+      "time": 1793287581,
+      "translated": false
+    },
+    {
       "author_name": "Rainer & Alexandra Heumann",
       "author_url": "https://www.google.com/maps/contrib/110311559309775072280/reviews",
       "language": "de",
@@ -1724,11 +1736,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 178,
+  "reviewCount": 179,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-10-28T10:57:44.221Z"
+  "lastUpdated": "2026-10-31T10:43:27.966Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nedia Zaghdoudi",
+      "author_url": "https://www.google.com/maps/contrib/104908504623130317822/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRLBgMJJ_PlZlLnsfBuYuRGq9zc0p8db9UBSwTVkkHWS7uvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch kann die Venen Clinic Bad Neuenahr von Herzen weiterempfehlen!\n\nVom ersten Kontakt an habe ich mich unglaublich gut aufgehoben und kompetent betreut gefühlt. Das gesamte Team ist ausgesprochen freundlich, einfühlsam und nimmt sich Zeit für die individuellen Bedürfnisse und Fragen. Man merkt sofort, dass hier nicht nur die fachliche Kompetenz, sondern vor allem auch der Mensch im Mittelpunkt steht.\n\nBesonders positiv empfand ich die ausführliche Beratung, die professionelle Behandlung und das Gefühl, jederzeit ernst genommen zu werden.\n\nAuch die Verpflegung und die gesamte Betreuung im Haus verdienen ein ganz besonderes Lob. Man wird einfach unglaublich lieb umsorgt, jeder gibt sich Mühe, den Aufenthalt so angenehm wie möglich zu gestalten. Es fehlt einem wirklich an nichts und man fühlt sich rundum gut aufgehoben.\n\nEin riesengroßes Dankeschön an das gesamte Team für die Herzlichkeit, die Fürsorge und die tolle professionelle Begleitung. Ich habe mich jederzeit willkommen und bestens betreut gefühlt und würde mich immer wieder für die Venen Clinic entscheiden.\n\nEine absolute Empfehlung!",
+      "time": 1793401213,
+      "translated": false
+    },
+    {
       "author_name": "Eugen Holz",
       "author_url": "https://www.google.com/maps/contrib/103238803825511430705/reviews",
       "language": "de",
@@ -986,11 +998,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 175,
+  "reviewCount": 176,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-28T10:57:39.637Z"
+  "lastUpdated": "2026-10-31T10:43:23.306Z"
 }

@@ -3572,7 +3572,7 @@ export const clinics: Clinic[] = [
     ratenzahlung: false,
     parking: false,
     certified: true,
-    media: { logo: '/images/clinic-60/logo.svg', streetview: '/images/clinic-60/streetview.webp', map: '/images/clinic-60/map.webp' },
+    media: { logo: '/images/clinic-60/logo.jpg', streetview: '/images/clinic-60/streetview.webp', map: '/images/clinic-60/map.webp' },
     photoCount: 3,
     lastInquiry: 'vor 5 Std.',
     featured: false,

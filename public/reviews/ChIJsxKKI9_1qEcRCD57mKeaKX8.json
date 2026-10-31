@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alexander vS",
+      "author_url": "https://www.google.com/maps/contrib/102173910093014681501/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyO_xNMMtNmA3143joQmfd6Bf9z42WzB9K_fy8i5BTlY0rfg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gut organisiert und zentral gelegen mit eigenen Parkplätzen. Die Stärken der Praxis scheinen mir eher im ästhetischen Bereich zu liegen. Wer mit „normalen“ Hautkrankheitsbildern erscheint bekommt merkwürdige Diagnosen und wird mit überzogenen Maßnahmen, die vor allem Geld in die Kasse spülen, konfrontiert. Die Kompetenz ist begrenzt, weshalb man an Kliniken verwiesen wird. Die Kommunikation mit den Patienten ist sehr unzuverlässig.",
+      "time": 1793205868,
+      "translated": false
+    },
+    {
       "author_name": "Karin Oelke",
       "author_url": "https://www.google.com/maps/contrib/107584370143117955333/reviews",
       "language": "de",
@@ -1021,12 +1033,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 152,
+  "rating": 4.8,
+  "reviewCount": 153,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:51.912Z"
+  "lastUpdated": "2026-10-31T10:43:35.680Z"
 }

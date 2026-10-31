@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Anja Laupichler",
+      "author_url": "https://www.google.com/maps/contrib/116236161803451705664/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRHtlsoPgC8W8zfUckyMLtsXI4TODrX0neZSiL0N4yV0TOsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis . Nette Mitarbeiter . In der heutigen Zeit ist dies eher die Ausnahme. Sehr zu empfehlen",
+      "time": 1793388664,
+      "translated": false
+    },
+    {
+      "author_name": "REINER",
+      "author_url": "https://www.google.com/maps/contrib/114287888453964909100/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfC2DOBKDYwkbEqagLw4i1bcyEa0JdOIo5rI4DcZjGmo55eQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Habe sehr kurzfristig einen Kurz-Termin bekommen. Da man nicht die Möglichkeit hat, zum Arzt seiner Wahl zu gehen, war ich sehr gespannt, wer/was mich erwartet. Ich war mit der Behandlung sehr zufrieden und hoffe, dass ich beim nächsten Mal einen Termin bei der selben Ärztin bekomme.",
+      "time": 1793370114,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver B.",
+      "author_url": "https://www.google.com/maps/contrib/108263165838784720024/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCWlsSxPUhGCrsOQNFEWyLybelXTO2nmJvzdGxaDPPorZeNDc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kompetente und zugewandte Ärzte, mit Termin wenig Wartezeit",
+      "time": 1793361589,
+      "translated": false
+    },
+    {
+      "author_name": "Claus Zuther",
+      "author_url": "https://www.google.com/maps/contrib/108619586480732508001/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpM_S9iJPSvezyy8u6TfwTbht1oOcP7H2TYitNxEEnVeSiIiQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin heute das erste Mal hier gewesen und fühlte mich gleich bestens aufgehoben. Das Team ist sehr freundlich und zuvorkommend. Im Gespräch mit dem Arzt ist mir der Sachverhalt so vermittelt worden, dass ich ihn mühelos verstanden habe. Dankesehr!",
+      "time": 1793354301,
+      "translated": false
+    },
+    {
+      "author_name": "Eunika Kuczkowska",
+      "author_url": "https://www.google.com/maps/contrib/111683862033781646728/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpU2UwymO2z_Wd4S3jslSbsufi2xYfV8sOy7Ds-1g7i7zRKKuVAQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr. Mrowka ist eine sympathische Ärztin, die den Eingriff professionell und mit großer Sorgfalt durchgeführt hat. Auch das gesamte Team war freundlich und hilfsbereit. Ich habe mich von Anfang an gut aufgehoben gefühlt. Vielen lieben Dank an Frau Dr. Mrowka und das ganze Team für die tolle Betreuung! Ich kann die Praxis wirklich weiterempfehlen.",
+      "time": 1793295435,
+      "translated": false
+    },
+    {
       "author_name": "Tiara Kujau",
       "author_url": "https://www.google.com/maps/contrib/113032902121207930423/reviews",
       "language": "de",
@@ -2522,11 +2582,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2456,
+  "reviewCount": 2464,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-28T10:57:38.928Z"
+  "lastUpdated": "2026-10-31T10:43:22.590Z"
 }

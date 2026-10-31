@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Anne Pietrowski",
+      "author_url": "https://www.google.com/maps/contrib/100398432428246082632/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdH5OEKdVwbhwoiiweM-5fuy0molkCiaXsl26dMT3B1zaoFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gründliche Untersuchung, alle überaus freundlich und hilfsbereit,\nDr. Koletzko und Assistentin wirkten sehr kompetent und freundlich",
+      "time": 1793357194,
+      "translated": false
+    },
+    {
+      "author_name": "Ninett",
+      "author_url": "https://www.google.com/maps/contrib/116317746162675831038/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJszYJ06sl-Kmg9n1svBLnjwI1qSL0td6hkotJADR4JUnwKkg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein phantastisches Kosmetikerinnen Team mit Catarina Jesus do Nascimento und Senada Bernedetti.\nTolle Hydrafacial- Microneedlingbehandlungen.\nMan fühlt sich sehr wohl, umsorgt und gut beraten.\nDas ganze Team, mit Laura und Kim ist sehr freundlich und hilfsbereit.\nAbsolut empfehlenswert!\nN. Bauer",
+      "time": 1793297796,
+      "translated": false
+    },
+    {
+      "author_name": "E V",
+      "author_url": "https://www.google.com/maps/contrib/110604777235902494156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG-tbTKWpj0w_00Y-E2fEIH6YKqa9lzOvEtFTDSC1S5jETHA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793277164,
+      "translated": false
+    },
+    {
+      "author_name": "Fadoua As",
+      "author_url": "https://www.google.com/maps/contrib/106904993706826593130/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVdxTg7eBRmzcNgw-QD2G8kmDnusHt8bYQ12AyYaiNN96P85rq=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "I had a hair consultation (Haarsprechstunde) and was very disappointed with the experience.\n\nI expected to be examined by the main doctor, but the consultation was mostly conducted by her assistant. When the doctor finally came in, she spent less than two minutes with me. Unfortunately, I did not feel that the assistant was particularly engaged or interested in helping me.\n\nI specifically chose a private specialist and paid for the appointment because I expected a thorough examination, a professional assessment, and a clear diagnosis. Instead, I was advised to have blood tests (ferritin, iron, vitamin D, TSH, T3, and T4) which my general practitioner could have recommended as well. If these tests were all I needed, I could have simply visited my GP without going through this disappointing experience at a private specialist clinic. I also noticed that the services described on their website were quite different from what was actually provided during the appointment. For example, a Trichoscan was mentioned on the website, but it was not performed, and I was not shown any results or images. I expected a much more comprehensive evaluation and a proper diagnostic approach from a specialist, rather than advice that I could have received from my general practitioner\n\nI also got the impression that there was more emphasis on selling products than on identifying the underlying cause of my hair problems.\n\nI have already tried numerous products, which is precisely why I decided to consult a specialist. I was looking for answers about the root cause of my problem, not recommendations to buy even more products.\n\nOverall, the experience did not meet my expectations, and I left feeling disappointed. I expected a proper medical assessment and a clear diagnostic approach, especially given the cost of a private consultation.\n\nI gave two stars because of the blood test.",
+      "time": 1793179155,
+      "translated": false
+    },
+    {
       "author_name": "Yvonne Magnus",
       "author_url": "https://www.google.com/maps/contrib/113574161200293741104/reviews",
       "language": "de",
@@ -1970,11 +2016,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 362,
+  "reviewCount": 365,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:53.129Z"
+  "lastUpdated": "2026-10-31T10:43:36.884Z"
 }

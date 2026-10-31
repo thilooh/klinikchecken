@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alexander Heinemann",
+      "author_url": "https://www.google.com/maps/contrib/118396355963820201281/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDY32WIFPihIUj6nF2tsXwbECMCTJRytdRjw5e4dTKQJGeBWU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nicht zu empfehlen.",
+      "time": 1793323899,
+      "translated": false
+    },
+    {
       "author_name": "Sabrina Kempe",
       "author_url": "https://www.google.com/maps/contrib/108059845856293481622/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2cEEWcO96lBjFk7cxFCveg0p-2ESy64K1MBG1WGzSoqoBng=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "vor einer Woche",
+      "text": "Für  mehrere Mini-Ops da gewesen. Kaum Wartezeit. Eine sehr empathische Ärztin erlebt, die mit viel Feingefühl vorgegangen ist. Bei einer weiteren Ärztin habe ich absolut nicht gut aufgehoben gefühlt. Diese ist leider sehr ruppig vorgegangen. Daher vergebe ich insgesamt nur 3 Sterne und keine 5 (die hätte die erst genannte Ärztin und auch das Empfangspersonal verdient).",
+      "time": 1792141028,
+      "translated": false
+    },
+    {
+      "author_name": "Miri Kue",
+      "author_url": "https://www.google.com/maps/contrib/114401582085061746188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2cEEWcO96lBjFk7cxFCveg0p-2ESy64K1MBG1WGzSoqoBng=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Für  mehrere Mini-Ops da gewesen. Kaum Wartezeit. Eine sehr empathische Ärztin erlebt, die mit viel Feingefühl vorgegangen ist. Bei einer weiteren Ärztin habe ich absolut nicht gut aufgehoben gefühlt. Diese ist leider sehr ruppig vorgegangen. Daher vergebe ich insgesamt nur 3 Sterne und keine 5 (die hätte die erst genannte Ärztin und auch das Empfangspersonal verdient).",
       "time": 1792141028,
       "translated": false
@@ -1861,8 +1885,8 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 312,
+  "rating": 4.6,
+  "reviewCount": 313,
   "summary": [],
-  "lastUpdated": "2026-10-28T10:57:28.898Z"
+  "lastUpdated": "2026-10-31T10:43:12.600Z"
 }

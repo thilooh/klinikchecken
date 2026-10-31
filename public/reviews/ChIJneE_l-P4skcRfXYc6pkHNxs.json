@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Nani m",
+      "author_url": "https://www.google.com/maps/contrib/117702436147588237328/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9WdL-VF1LU45UW9j5ESAXuIIkDwj9kVz01tGrMu4XI_bzCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde sehr kurzfristig gebeten, früher zu meinem Termin zu erscheinen. Eine Mitarbeiterin der Praxis teilte mir dann per Anrufbeantworter in einem äußerst unfreundlichen Ton und ohne jegliche abschließende Grußformel mit, dass sie nicht mehr in der Praxis seien und ich daher nicht zum Termin kommen solle.\n\nEs gibt definitiv bessere Hautarztpraxen in Kiel.",
+      "time": 1793355161,
+      "translated": false
+    },
+    {
+      "author_name": "Travelreviews with Dawn",
+      "author_url": "https://www.google.com/maps/contrib/108463474035718166260/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiS5lYj2JsNdrkM-r-ZLZayfKATur__1oKkVPJTjABruEkyuo9=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War wegen eines Hautausschlags da. Der Ausschlag war am ganzen Körper, mit Juckreiz. Der Arzt hat sich nur eine kleine Stelle angesehen und eine Salbe verschrieben. Ich solle in 6 Monaten wiederkommen. Die Salbe nützte leider nichts, da bin ich zu einer anderen Ärztin gegangen. Diese hat eine Probe entnommen und ins Labor gesendet. Daraufhin bekam ich eine Bestrahlung und eine passende Salbe. Nun geht es mir langsam besser.",
+      "time": 1793192216,
+      "translated": false
+    },
+    {
       "author_name": "Yasemin Priv",
       "author_url": "https://www.google.com/maps/contrib/110996806746429836247/reviews",
       "language": "de",
@@ -1141,12 +1165,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 106,
+  "rating": 4.1,
+  "reviewCount": 108,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:36.985Z"
+  "lastUpdated": "2026-10-31T10:43:20.659Z"
 }

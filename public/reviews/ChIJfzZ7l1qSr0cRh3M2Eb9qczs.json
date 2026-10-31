@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Maik Klingberg",
+      "author_url": "https://www.google.com/maps/contrib/108580293276329885620/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEhI-4zOiBuHx7kvwJL8UXjZp4PY-NZXaD2bsdJiimrgDI3jXJrw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut freundlich und ich kann diese Praxis nur empfehlen",
+      "time": 1793277492,
+      "translated": false
+    },
+    {
       "author_name": "Carola Plantikow",
       "author_url": "https://www.google.com/maps/contrib/111678563647954954307/reviews",
       "language": "de",
@@ -84,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgOUISKnVo1Vp6YODdd0mzazurIZsUSYa7pqFbueBvQuD1ng=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1790784090,
+      "translated": false
+    },
+    {
+      "author_name": "Eugen Rosca",
+      "author_url": "https://www.google.com/maps/contrib/104735362772016926258/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgOUISKnVo1Vp6YODdd0mzazurIZsUSYa7pqFbueBvQuD1ng=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1790784090,
       "translated": false
@@ -678,11 +700,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 110,
+  "reviewCount": 111,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-28T10:58:08.458Z"
+  "lastUpdated": "2026-10-31T10:43:52.424Z"
 }

@@ -109,6 +109,18 @@
       "translated": false
     },
     {
+      "author_name": "Nadja Schmitzer",
+      "author_url": "https://www.google.com/maps/contrib/100573167549455814517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL5Ll8ZvGXxGqz0EHXoFd02lOUqO9vpCsF1HBBl_kJrxGaUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Wie immer einfach zu empfehlen!",
+      "time": 1790685059,
+      "translated": false
+    },
+    {
       "author_name": "Christian",
       "author_url": "https://www.google.com/maps/contrib/102871475123233452671/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtFE46QF9Y2-CRTvXEY4R3oMuGz6TturDoIQbAWXOH1rWR1ycj1g=s128-c0x00000000-cc-rp-mo-ba6",
@@ -1508,11 +1520,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 192,
+  "reviewCount": 191,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-28T10:58:04.915Z"
+  "lastUpdated": "2026-10-31T10:43:48.909Z"
 }

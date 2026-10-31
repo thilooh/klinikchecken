@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tom Kaster",
+      "author_url": "https://www.google.com/maps/contrib/114147057962716922369/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfm56puvCAJYYVWKOzTJRcTzN1UrzzZ23YPdt5kSvDMYhv7kUP=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Freundin und ich hatten jeweils einen Termin zur Hautkrebsvorsorge und waren pünktlich vor Ort. Dennoch musste meine Freundin über eine Stunde im Behandlungszimmer warten und fragte zwischenzeitlich sogar nach, ob sie möglicherweise vergessen worden sei. Nachdem wir nach insgesamt knapp 1 Stunde und 15 Minuten immer noch keinerlei Kontakt mit einem Arzt hatten und auch ich bereits seit etwa 25 Minuten im Behandlungszimmer wartete, haben wir die Praxis schließlich verlassen.\n\nEine derart lange Wartezeit trotz vereinbarten Terminen ist eine bodenlose Frechheit. Wenn man als Praxis den Terminplan voll hat sollte man vielleicht keine weiteren Termine vergeben.",
+      "time": 1793197221,
+      "translated": false
+    },
+    {
       "author_name": "Liolevian Marxs",
       "author_url": "https://www.google.com/maps/contrib/108533838895860392114/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXmtccJ0cSySxQkBsUpCmOP8ratKdw0yGqGWGnvAqYGU6SrFg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -36,6 +48,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXmtccJ0cSySxQkBsUpCmOP8ratKdw0yGqGWGnvAqYGU6SrFg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1790966709,
+      "translated": false
+    },
+    {
+      "author_name": "Liolevian Marxs",
+      "author_url": "https://www.google.com/maps/contrib/108533838895860392114/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXmtccJ0cSySxQkBsUpCmOP8ratKdw0yGqGWGnvAqYGU6SrFg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1790966709,
       "translated": false
@@ -1065,12 +1087,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 44,
+  "rating": 4.6,
+  "reviewCount": 45,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:54.802Z"
+  "lastUpdated": "2026-10-31T10:43:38.762Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Bernd Zeller",
+      "author_url": "https://www.google.com/maps/contrib/103486479117519797275/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEfUYu9vfefmiV95sOKlukWLXfgj-9deB7DCjACwWCDSh7cA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Fachlich und menschlich überragend! Ich bin absolut begeistert von Frau Dr. Hildenbrand . Neben ihrer hohen fachlichen Kompetenz strahlt sie eine wunderbare Empathie und Ruhe aus. Sie geht ganzheitlich auf den Patienten ein und nimmt bestehende Sorgen ernst. Eine Ärztin mit Herz, wie man sie heute nur noch selten findet.Ich kann diese Praxis jedem nur wärmstens empfehlen.",
+      "time": 1793280635,
+      "translated": false
+    },
+    {
       "author_name": "Berin Kapi",
       "author_url": "https://www.google.com/maps/contrib/102376953509517798456/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Miss Apfelgrün",
+      "author_url": "https://www.google.com/maps/contrib/102638974175513618746/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJR9BWZU9fzpJWQSb2_haD7n831OBFPe4hTGYRgC7EFxopCQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Man kommt pünktlich zum Termin und dann wartet man in der Schlange an der Rezeption 20 Minuten um sich anmelden zu können. Falls man dann nach der Untersuchung einen weiteren Termin ausmachen muss, wartet man ebenso wieder. Somit verbringt man leider unfassbar viel Zeit in der Praxis nur mit warten. Das sollte dringend anderst organisiert werden. Dafür gibt es Punktabzug. Das Team ist sehr nett .",
+      "time": 1792823877,
+      "translated": false
+    },
+    {
       "author_name": "Helen Limitone",
       "author_url": "https://www.google.com/maps/contrib/114785270167193578748/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMGqF74SW_yF4G0rSKGgrbxqtV-vA9nY-u2x7zqHddzQ5N3A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Mein man hat eine Venenlaserbehandlung gemacht bei Dr. Tessmann und ist sehr zufrieden, sehr kompetent und professionell. Ich kann die Praxis mit besten Gewissen weiterempfehlen. Vielen Dank",
+      "time": 1792745407,
+      "translated": false
+    },
+    {
+      "author_name": "Helen Limitone",
+      "author_url": "https://www.google.com/maps/contrib/114785270167193578748/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMGqF74SW_yF4G0rSKGgrbxqtV-vA9nY-u2x7zqHddzQ5N3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Mein man hat eine Venenlaserbehandlung gemacht bei Dr. Tessmann und ist sehr zufrieden, sehr kompetent und professionell. Ich kann die Praxis mit besten Gewissen weiterempfehlen. Vielen Dank",
       "time": 1792745407,
       "translated": false
@@ -1768,7 +1804,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 337,
+  "reviewCount": 339,
   "summary": [],
-  "lastUpdated": "2026-10-28T10:57:34.109Z"
+  "lastUpdated": "2026-10-31T10:43:17.760Z"
 }

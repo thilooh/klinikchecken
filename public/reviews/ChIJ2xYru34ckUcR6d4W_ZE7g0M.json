@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sandra Laudicina",
+      "author_url": "https://www.google.com/maps/contrib/108528954157682379754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCyLPRJoyY6lgsKpvOYgu9yF9n6Cs-vmN2u0QZ-07ounlK-Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette, kompetente Ärzte",
+      "time": 1793342319,
+      "translated": false
+    },
+    {
       "author_name": "Oliver Claus",
       "author_url": "https://www.google.com/maps/contrib/105105368155607035600/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX26HINfQQbVHv-_tdomm8zXcTWTM8HFFBBGIDfj4QsGX-Ugwl6=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Große Venen Praxis\nAmbulante Operationen\nKompetente Behandlung",
+      "time": 1792774857,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Schuler",
+      "author_url": "https://www.google.com/maps/contrib/101517803024690095790/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX26HINfQQbVHv-_tdomm8zXcTWTM8HFFBBGIDfj4QsGX-Ugwl6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Große Venen Praxis\nAmbulante Operationen\nKompetente Behandlung",
       "time": 1792774857,
       "translated": false
@@ -1528,11 +1552,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 191,
+  "reviewCount": 192,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-28T10:57:44.687Z"
+  "lastUpdated": "2026-10-31T10:43:28.435Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dave Klar",
+      "author_url": "https://www.google.com/maps/contrib/103229964794516870400/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt7_UYswEnMhY7gsVWX4voPJbOGIodLyWLc9BcJ_5TuLVdLg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wie alle Ärzte heutzutage unangagiert,\nWenn man mit hunderten Tumoren kommt und nicht mal abgetastet wird fragt man sich warum man dort ist oder warum man sich auszieht wenn dann nichts passiert.... Reine Zeitverschwendung gewesen.",
+      "time": 1793261971,
+      "translated": false
+    },
+    {
       "author_name": "katia cosseddu",
       "author_url": "https://www.google.com/maps/contrib/102849094090979443592/reviews",
       "language": "de",
@@ -565,12 +577,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 51,
+  "rating": 4.2,
+  "reviewCount": 52,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-10-28T10:57:46.590Z"
+  "lastUpdated": "2026-10-31T10:43:30.364Z"
 }

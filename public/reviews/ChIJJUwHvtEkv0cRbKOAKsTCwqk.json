@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Manolo Link freier Schriftsteller",
+      "author_url": "https://www.google.com/maps/contrib/105922606370450710840/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZbgw4xTUn2KVT8Z3DFXfIzltmU_qCtlbXklRflW14u4RZvOg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herzlichen Dank an Frau Dr. Lorenz und das gesamte Team, die mich äußerst freundlich und fachkompetent behandelt haben. Ich war sehr zufrieden und empfehle die Praxis sehr gerne.",
+      "time": 1793382883,
+      "translated": false
+    },
+    {
       "author_name": "Peter Schavier",
       "author_url": "https://www.google.com/maps/contrib/111275669940816401979/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyaOepa992g1qMFVrv4MKgUy5cclWEju1lfggYdlWN6kIuHA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1792679411,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Schavier",
+      "author_url": "https://www.google.com/maps/contrib/111275669940816401979/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyaOepa992g1qMFVrv4MKgUy5cclWEju1lfggYdlWN6kIuHA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1792679411,
       "translated": false
@@ -779,5 +801,5 @@
   "rating": 4.8,
   "reviewCount": 81,
   "summary": [],
-  "lastUpdated": "2026-10-28T10:57:24.653Z"
+  "lastUpdated": "2026-10-31T10:43:09.075Z"
 }
