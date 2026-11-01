@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gernot Wölfer",
+      "author_url": "https://www.google.com/maps/contrib/117943745606718189035/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoZ27GM3jzio1WIqsDXs73CQkzz40HiIq_5YTcZ1_VfNTrcoAGYQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Frau kommt seit Jahren hier her, weil sie sehr zufrieden ist. Wir kommen aus dem Oberbergischen Kreis, aber das ist uns die Fahrt wert, zumal Freiburg eine sehr schöne Stadt ist!",
+      "time": 1793527288,
+      "translated": false
+    },
+    {
       "author_name": "Sandra Laudicina",
       "author_url": "https://www.google.com/maps/contrib/108528954157682379754/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI54TnzC8-87J8-hTAl_lro-LLnBgKF1A-D6gBBtiszPsBxvg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Mir wurde hervorragend geholfen, alle waren sehr freundlich.",
+      "time": 1792898547,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Claus",
+      "author_url": "https://www.google.com/maps/contrib/105105368155607035600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI54TnzC8-87J8-hTAl_lro-LLnBgKF1A-D6gBBtiszPsBxvg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Mir wurde hervorragend geholfen, alle waren sehr freundlich.",
       "time": 1792898547,
       "translated": false
@@ -1552,11 +1576,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 192,
+  "reviewCount": 193,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-31T10:43:28.435Z"
+  "lastUpdated": "2026-11-01T11:40:13.393Z"
 }

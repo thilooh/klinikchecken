@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Johannes Holter",
+      "author_url": "https://www.google.com/maps/contrib/107571042184195733156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7y3ljGU7a1rxBY_HVm0FF51RxJ4U7xt_4FCTxFORsLUczxg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793461036,
+      "translated": false
+    },
+    {
       "author_name": "T. Peters",
       "author_url": "https://www.google.com/maps/contrib/116679619708709175755/reviews",
       "language": "de",
@@ -1408,11 +1418,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-31T10:43:39.997Z"
+  "lastUpdated": "2026-11-01T11:40:24.852Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Amira Patrizia",
+      "author_url": "https://www.google.com/maps/contrib/100172712455305093033/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKF-UgehrapoATwxigM5EHM0zpTmSdZdTUyYHaysW_zNaWZw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Bewertungen schreien nach Betrug. Eine überhebliche Praxis die mit Laser werben die sie gar nicht besitzen und am Ende werden nicht mal Absprachen eingehalten. Meiner Meinung nach absolute Vorsicht",
+      "time": 1793453385,
+      "translated": false
+    },
+    {
       "author_name": "Nour Najem",
       "author_url": "https://www.google.com/maps/contrib/101870795146814751269/reviews",
       "language": "de",
@@ -1762,11 +1774,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 241,
+  "reviewCount": 242,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-31T10:43:41.533Z"
+  "lastUpdated": "2026-11-01T11:40:26.478Z"
 }

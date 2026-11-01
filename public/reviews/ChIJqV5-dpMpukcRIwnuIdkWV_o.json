@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christina B.",
+      "author_url": "https://www.google.com/maps/contrib/115625031063703899348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCmEqdHKf3CaVgKvuW62ZyYto4x9KMjXbtSOdvLmoqILfoPg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super tolles nettes und kompetentes Personal. Sehr gute Informationen und Erklärungen . Terminvergabe perfekt und eine tolle Abwicklung vor Ort und Besprechung der Untersuchungsergebnisse und Behandlungsmöglichkeiten",
+      "time": 1793525396,
+      "translated": false
+    },
+    {
       "author_name": "Max Manroth",
       "author_url": "https://www.google.com/maps/contrib/103183175455563560859/reviews",
       "language": "de",
@@ -1616,11 +1628,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 98,
+  "reviewCount": 99,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-10-31T10:43:59.346Z"
+  "lastUpdated": "2026-11-01T11:40:44.047Z"
 }

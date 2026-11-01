@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Pia S.",
+      "author_url": "https://www.google.com/maps/contrib/113200358936835279006/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8H31DVIxfLs6MZEoHTFjNKJHEexnNXBP5x1FjRmbgNYYnww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit 2024 bei Herrn Dr. Kacik in Behandlung und fühle mich bei ihm medizinisch sehr gut aufgehoben.\n\nAls schwer an ME und PCS erkrankte Patientin weiß ich, wie wichtig es ist, einen Arzt an seiner Seite zu haben, der sich mit diesen komplexen Erkrankungen auskennt, intensiv beschäftigt und ständig fortbildet.\n\nHerr Dr. Kacik verfügt auf seinem Gebiet über eine große fachliche Expertise, ein umfassendes Wissen, betrachtet den Patienten im Ganzen und nimmt seine Sorgen ernst.\n\nDass man in seiner Praxis ein sehr umfangreiches Untersuchungsangebot mit den entsprechenden Gerätschaften hat und somit nicht von A nach Z für jede einzelne Abklärung pilgern muss, halte ich - gerade in unserem teilweise sehr schlechtem Zustand - für sehr wertvoll.\n\nMein Gesundheitszustand ist nach wie vor sehr eingeschränkt und schwer, aber auf meinem ohnehin niedrigen Niveau bin ich schon seit längerem weitgehend stabil.\nIch bin überzeugt, dass seine kompetente und umfassende Betreuung einen sehr wichtigen Beitrag dazu leistet.\n\nTrotz des für mich sehr weiten Anfahrtsweg und die sehr anstrengende Reise nehme ich diesen Weg zur regelmäßigen Kontrolle auf mich, weil ich weiß, dass ich dort in guten Händen bin.\n\nAuch das Praxispersonal ist nett und stets bemüht, dass alles reibungslos und reizarm wie möglich abläuft.\n\nEine klare Empfehlung meinerseits für Herrn Dr. Kacik und seine Praxis …",
+      "time": 1793464888,
+      "translated": false
+    },
+    {
       "author_name": "Julia",
       "author_url": "https://www.google.com/maps/contrib/113396581348001618079/reviews",
       "language": "de",
@@ -1386,11 +1398,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 103,
+  "reviewCount": 104,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-10-31T10:43:24.758Z"
+  "lastUpdated": "2026-11-01T11:40:09.888Z"
 }

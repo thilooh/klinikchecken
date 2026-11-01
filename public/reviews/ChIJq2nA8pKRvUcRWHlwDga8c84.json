@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Friedel und Ruth Schiffer",
+      "author_url": "https://www.google.com/maps/contrib/109705667544917976443/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDt1h1ea6alHcBkBP2KtjZiQgKl0kTQaq3SP1HHxLFmjg3Ug=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr angetan: die Organisation, die Kompetenz, das Kümmern, alles in bester Weise! Ich habe unerwartet viel Zeit gekostet, was vermutlich für andere Patienten Wartezeit bedeutet hat. Umso mehr bin ich dankbar für die umfassende Diagnose.",
+      "time": 1793467475,
+      "translated": false
+    },
+    {
       "author_name": "Anne Pietrowski",
       "author_url": "https://www.google.com/maps/contrib/100398432428246082632/reviews",
       "language": "de",
@@ -2016,11 +2028,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 365,
+  "reviewCount": 366,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-31T10:43:36.884Z"
+  "lastUpdated": "2026-11-01T11:40:22.013Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hadeel Murad",
+      "author_url": "https://www.google.com/maps/contrib/108349727008647128003/reviews",
+      "language": "ar",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_mvDIFT5QfJ2tVo3c0i6i0bc-kjeqXAHnm3jpLHjNrsWK6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "موعد سريع جدا تعامل بجننن",
+      "time": 1793451961,
+      "translated": false
+    },
+    {
       "author_name": "Leon Iphone",
       "author_url": "https://www.google.com/maps/contrib/111748176649058569546/reviews",
       "language": "de",
@@ -1522,11 +1534,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 435,
+  "reviewCount": 436,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-10-31T10:43:25.471Z"
+  "lastUpdated": "2026-11-01T11:40:10.598Z"
 }
