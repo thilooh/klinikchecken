@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Enne",
+      "author_url": "https://www.google.com/maps/contrib/107517244973590260951/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKT15X3E3zxMSGL5du8C_yI1VF5q_p6nEaQ0SoG0KCC39jNHA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nicht zu empfehlen.\nBei Problemen gibt es keine Hilfe.\nIch wurde bei einer Laserbehandlung verbrannt mit Blasenbildung und starken Schwellungen im Gesicht.Meine \"Hilferufe\" wurden nicht beantwortet und landeten im Wirrwarr der Telefonanlage mit Verweis auf Doctolib.Ich schrieb 3 Emails und nach 5 Tagen kam ein Anruf der Praxis und mein Rückruf versandete wieder in den Weiten der Telefonansagen.\nIch hätte nur gerne gewusst,wie ich selbst die Schwellungen und Brandblasen behandeln kann.\nMein Eindruck ist,dass junge Ärztinnen in dem Fachgebiet auf Patienten losgelassen werden,üben, und nach kurzer Zeit die Praxis wieder verlassen. Ich hatte innerhalb 2 Jahre 3 verschiedene Ärztinnen.\nFehler können passieren,zumal wenn die Ärztin neu und jung ist. Aber die Verantwortung tragen die erfahrenen Ärzte und ich hätte wirklich Hilfe gebraucht.",
+      "time": 1793738154,
+      "translated": false
+    },
+    {
       "author_name": "Bernd Zeller",
       "author_url": "https://www.google.com/maps/contrib/103486479117519797275/reviews",
       "language": "de",
@@ -1803,8 +1815,8 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 339,
+  "rating": 4.8,
+  "reviewCount": 312,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:40:03.014Z"
+  "lastUpdated": "2026-11-04T12:46:12.460Z"
 }

@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Ahmad Zaza",
+      "author_url": "https://www.google.com/maps/contrib/114969780692557315388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJD7yC9apFFdSjl8ebQ77WoTgKq2erEEk2sIqf7FEYZ7RbwVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793778671,
+      "translated": false
+    },
+    {
+      "author_name": "Khaled Shahin",
+      "author_url": "https://www.google.com/maps/contrib/108378261164888835852/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP_C0oMBhS4j9S0n06K23uIVqH1bGsm4FoAs_f4FdHeDwV3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Praxis nur weiterempfehlen ,Sehr gut organisierte Praxis mit unglaublich nettem und verständnisvollen Mitarbeitern.\nEine Praxis, die ich immer weiter empfehlen würde",
+      "time": 1793732547,
+      "translated": false
+    },
+    {
+      "author_name": "Lana Sileman",
+      "author_url": "https://www.google.com/maps/contrib/105319732522403888177/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZjpm_0MB714Yj7SKZOAAg2TvkaPxSd4ij7DTc6IApH-C7cg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Latif ist ein sehr professioneller Arzt. Er hat die Beschneidung meines Sohnes durchgeführt, und alles verlief perfekt. Ich danke ihm sehr für seine Arbeit und die hervorragende Betreuung seiner Patienten.",
+      "time": 1793666014,
+      "translated": true
+    },
+    {
       "author_name": "jhan Omer",
       "author_url": "https://www.google.com/maps/contrib/101690218467193289495/reviews",
       "language": "de",
@@ -56,6 +90,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOieNkWyW-unfR8shmWPGbkXBASG4uHF7ESDojBeQcanE3LxjNoQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Fachlich TOP! Ich komme extra aus Berlin angereist für die hervorragende Behandlung! Ich habe hier das Gefühl Ernst genommen zu werden! Und dafür nehme ich den langen Weg in Kauf!",
+      "time": 1791801363,
+      "translated": false
+    },
+    {
+      "author_name": "Soso Fabro",
+      "author_url": "https://www.google.com/maps/contrib/114114580211080925125/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOieNkWyW-unfR8shmWPGbkXBASG4uHF7ESDojBeQcanE3LxjNoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Fachlich TOP! Ich komme extra aus Berlin angereist für die hervorragende Behandlung! Ich habe hier das Gefühl Ernst genommen zu werden! Und dafür nehme ich den langen Weg in Kauf!",
       "time": 1791801363,
       "translated": false
@@ -1478,11 +1524,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 179,
+  "reviewCount": 182,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:11.059Z"
+  "lastUpdated": "2026-11-04T12:46:20.185Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Brigitte Fammels",
+      "author_url": "https://www.google.com/maps/contrib/101069268018457726713/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrz1BgZQuwbbChDwpKRKsyik4y1eipuJ11xAF9vhG1rn0edg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Danke! Möchte mich bedanken für die gute Behandlung am Montag bis Dienstag war ich in der kö Klinik und bei meinen Ärzten Krankschwestern war alles top!!\nHabe foriges Jahre nicht so gute Erfahrungen gemacht. Dafür jetzt alle gut Danke",
+      "time": 1793784550,
+      "translated": false
+    },
+    {
       "author_name": "Jusyna Fritzsche",
       "author_url": "https://www.google.com/maps/contrib/104495203542103492823/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcuCeV8tRuaKR8fwcz6L4dScJoUV3tLPH6oxUzlPlz0Er_riK0=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich für eine Brustvergrößerung mit\n510 cc bei Dr. Ignatiadis entschieden und bin mittlerweile knapp 4 Monate nach der OP unglaublich glücklich mit meiner Entscheidung! ❤️ 🥹😍🍒\n\nSchon beim Beratungsgespräch hatte ich direkt ein gutes Gefühl. Dr. Ignatiadis hat sich Zeit genommen, ist auf meine Wünsche eingegangen und hat mir mit seiner ruhigen, professionellen Art viel Vertrauen gegeben. Für mich war es eine sehr persönliche Entscheidung und ich bin wirklich froh, dass ich sie in seine Hände gelegt habe.\n\nMit meinem bisherigen Ergebnis bin ich mehr als zufrieden! Meine Brüste haben eine wunderschöne Form und meine Narben sind nach knapp 4 Monaten bereits super verheilt. 🥰 Natürlich befindet sich das Ergebnis noch im Heilungsprozess, aber ich bin jetzt schon unglaublich glücklich und freue mich jedes Mal, wenn ich das Ergebnis sehe.\n\nWas ich besonders schätze, ist, dass ich mich mit meiner Entscheidung bei Dr. Ignatiadis von Anfang an sicher gefühlt habe. Man merkt, wie wichtig eine gute Betreuung und ein schönes Ergebnis sind. Für mich hat er wirklich tolle Arbeit geleistet und meine Erwartungen bisher mehr als erfüllt.\n\nVielen lieben Dank, Dr. Ignatiadis, für Ihre tolle Arbeit und dafür, dass Sie mich auf diesem Weg begleitet haben! Ich würde mich jederzeit wieder für Sie entscheiden und kann Sie wirklich von Herzen weiterempfehlen. ❤️",
+      "time": 1793142862,
+      "translated": false
+    },
+    {
+      "author_name": "XPauli",
+      "author_url": "https://www.google.com/maps/contrib/102651370604630897145/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcuCeV8tRuaKR8fwcz6L4dScJoUV3tLPH6oxUzlPlz0Er_riK0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe mich für eine Brustvergrößerung mit\n510 cc bei Dr. Ignatiadis entschieden und bin mittlerweile knapp 4 Monate nach der OP unglaublich glücklich mit meiner Entscheidung! ❤️ 🥹😍🍒\n\nSchon beim Beratungsgespräch hatte ich direkt ein gutes Gefühl. Dr. Ignatiadis hat sich Zeit genommen, ist auf meine Wünsche eingegangen und hat mir mit seiner ruhigen, professionellen Art viel Vertrauen gegeben. Für mich war es eine sehr persönliche Entscheidung und ich bin wirklich froh, dass ich sie in seine Hände gelegt habe.\n\nMit meinem bisherigen Ergebnis bin ich mehr als zufrieden! Meine Brüste haben eine wunderschöne Form und meine Narben sind nach knapp 4 Monaten bereits super verheilt. 🥰 Natürlich befindet sich das Ergebnis noch im Heilungsprozess, aber ich bin jetzt schon unglaublich glücklich und freue mich jedes Mal, wenn ich das Ergebnis sehe.\n\nWas ich besonders schätze, ist, dass ich mich mit meiner Entscheidung bei Dr. Ignatiadis von Anfang an sicher gefühlt habe. Man merkt, wie wichtig eine gute Betreuung und ein schönes Ergebnis sind. Für mich hat er wirklich tolle Arbeit geleistet und meine Erwartungen bisher mehr als erfüllt.\n\nVielen lieben Dank, Dr. Ignatiadis, für Ihre tolle Arbeit und dafür, dass Sie mich auf diesem Weg begleitet haben! Ich würde mich jederzeit wieder für Sie entscheiden und kann Sie wirklich von Herzen weiterempfehlen. ❤️",
       "time": 1793142862,
       "translated": false
@@ -1821,5 +1845,5 @@
   "rating": 4.8,
   "reviewCount": 396,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:55.535Z"
+  "lastUpdated": "2026-11-04T12:46:05.248Z"
 }

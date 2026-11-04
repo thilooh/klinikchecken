@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Tina",
+      "author_url": "https://www.google.com/maps/contrib/105025405850445815857/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1cFhL77HXbjXSGj5PWbqrwMjitOsLgaCU8pNeez847bicSh-z1g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793774134,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmin Kovacic",
+      "author_url": "https://www.google.com/maps/contrib/110745543787741932948/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrSy88avU4zSKftKUadD7fC5Re_xfLNfH6_wmPTPsydDOjkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793740453,
+      "translated": false
+    },
+    {
       "author_name": "Seda Ustaoglu",
       "author_url": "https://www.google.com/maps/contrib/114339016345228992309/reviews",
       "language": "de",
@@ -44,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4GgctePHZZHehK--yl4_KrymlxOWxK8vykLdLYPmltmLZ6vLKRg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich wurde heute von Frau Dr. L. Petrescu an meinen Krampfadern operiert und bin wirklich sehr zufrieden. Das ganze Team war sehr freundlich und lieb, und Frau Dr. Petrescu hat mir alles ganz in Ruhe und ausführlich erklärt.\n\nBesonders beeindruckt hat mich auch die gute Vorbereitung und wie harmonisch das ganze Team zusammengearbeitet hat. Man hat gemerkt, dass jeder genau weiß, was zu tun ist und sich alle aufeinander verlassen können. Das hat mir ein sehr gutes Gefühl gegeben und mir viel von meiner Angst genommen.\n\nIch hatte ehrlich gesagt ziemlich Angst vor der OP, weil ich sehr empfindlich bin. Aber ich war wirklich positiv überrascht, denn ich habe von der ambulanten Operation kaum etwas gespürt. Ich habe mich von Anfang an gut aufgehoben gefühlt.\n\nVielen lieben Dank an Frau Dr. Petrescu und die Arzthelferinnen für die freundliche Betreuung und die tolle Arbeit. 💐 Ich kann die Praxis wirklich nur weiterempfehlen. Gerade wenn man mit Angst zu einer OP geht, macht es einen großen Unterschied, wenn man so herzlich empfangen wird und merkt, dass man in guten Händen ist.☺️",
+      "time": 1792493393,
+      "translated": false
+    },
+    {
+      "author_name": "Sofia Maria Kajtazi",
+      "author_url": "https://www.google.com/maps/contrib/106912368786848989309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4GgctePHZZHehK--yl4_KrymlxOWxK8vykLdLYPmltmLZ6vLKRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich wurde heute von Frau Dr. L. Petrescu an meinen Krampfadern operiert und bin wirklich sehr zufrieden. Das ganze Team war sehr freundlich und lieb, und Frau Dr. Petrescu hat mir alles ganz in Ruhe und ausführlich erklärt.\n\nBesonders beeindruckt hat mich auch die gute Vorbereitung und wie harmonisch das ganze Team zusammengearbeitet hat. Man hat gemerkt, dass jeder genau weiß, was zu tun ist und sich alle aufeinander verlassen können. Das hat mir ein sehr gutes Gefühl gegeben und mir viel von meiner Angst genommen.\n\nIch hatte ehrlich gesagt ziemlich Angst vor der OP, weil ich sehr empfindlich bin. Aber ich war wirklich positiv überrascht, denn ich habe von der ambulanten Operation kaum etwas gespürt. Ich habe mich von Anfang an gut aufgehoben gefühlt.\n\nVielen lieben Dank an Frau Dr. Petrescu und die Arzthelferinnen für die freundliche Betreuung und die tolle Arbeit. 💐 Ich kann die Praxis wirklich nur weiterempfehlen. Gerade wenn man mit Angst zu einer OP geht, macht es einen großen Unterschied, wenn man so herzlich empfangen wird und merkt, dass man in guten Händen ist.☺️",
       "time": 1792493393,
       "translated": false
@@ -64,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFT509O-EG5pczBmWQwuFukKRgjbwFRJWCYilNhI3K2XpTA-er=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792342551,
+      "translated": false
+    },
+    {
+      "author_name": "Vika Tigra",
+      "author_url": "https://www.google.com/maps/contrib/110035352378672450800/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFT509O-EG5pczBmWQwuFukKRgjbwFRJWCYilNhI3K2XpTA-er=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1792342551,
       "translated": false
@@ -1466,7 +1508,7 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 173,
+  "reviewCount": 175,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:56.729Z"
+  "lastUpdated": "2026-11-04T12:46:06.386Z"
 }

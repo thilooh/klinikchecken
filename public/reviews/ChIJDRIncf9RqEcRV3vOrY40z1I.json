@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Isabell Gollmer",
+      "author_url": "https://www.google.com/maps/contrib/108476085845552764767/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKhIIQFF2FHjQibQsZoGWJTXYa_kpnv5o6ocnSA_Iw_6YvEzM=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Beratungsqualität hängt stark vom setzt ab, bei dem man landet. Rezeption ist telefonisch und per Mail nicht erreichbar - ich musste persönlich hinfahren um eine wichtige Frage zu einem geplanten Eingriff zu stellen (der Selbstzahlerleistung ist!). Vor Ort wurde sich nicht mal für die Unerreichbarkeit entschuldigt.",
+      "time": 1793002594,
+      "translated": false
+    },
+    {
       "author_name": "Victoria Aharonov",
       "author_url": "https://www.google.com/maps/contrib/111410628043130604323/reviews",
       "language": "de",
@@ -66,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGLibSRNCiz_ed337uf6mEZfKcWlW3vnQ_sGJOIQTxZuzTrznt=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Eine sehr gute, saubere Klinik mit freundlichem und zuvorkommendem Personal. Die Ärzte sind sehr kompetent, hören aufmerksam zu und beantworten alle Fragen geduldig. Sie sprechen auch Englisch.",
+      "time": 1792485238,
+      "translated": true
+    },
+    {
+      "author_name": "Mariham Melek",
+      "author_url": "https://www.google.com/maps/contrib/109658660427861630401/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGLibSRNCiz_ed337uf6mEZfKcWlW3vnQ_sGJOIQTxZuzTrznt=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Eine sehr gute, saubere Klinik mit freundlichem und zuvorkommendem Personal. Die Ärzte sind sehr kompetent, hören aufmerksam zu und beantworten alle Fragen geduldig. Sie sprechen auch Englisch.",
       "time": 1792485238,
       "translated": true
@@ -1740,7 +1764,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 166,
+  "reviewCount": 167,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:58.543Z"
+  "lastUpdated": "2026-11-04T12:46:08.266Z"
 }

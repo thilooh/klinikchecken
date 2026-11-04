@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Iris Hahn",
+      "author_url": "https://www.google.com/maps/contrib/111744674010211884831/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkBGYCptAudS5V4RbPrN0HZZ2264B8OKYOVqQo4tRYv1eMu1Pc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich bei Dr. Pljakic von Anfang an sehr gut aufgehoben gefühlt. Er hat meine Sorgen ernst genommen, aufmerksam zugehört und ist auf meine Fragen und Anliegen eingegangen. Man merkt, dass er sich Zeit für seine Patienten nimmt und ihnen mit Verständnis begegnet.\n\nAuch die Termine wurden immer pünktlich eingehalten. Das gesamte Praxisteam war sehr freundlich und herzlich, sodass man sich rundum wohlfühlen konnte.\n\nInsgesamt bin ich sehr zufrieden und würde Dr. Pljakic und sein Team jederzeit weiterempfehlen!",
+      "time": 1793631509,
+      "translated": false
+    },
+    {
       "author_name": "Sandra Kiesow",
       "author_url": "https://www.google.com/maps/contrib/113755700958887045218/reviews",
       "language": "de",
@@ -1200,7 +1212,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 140,
+  "reviewCount": 141,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:40:03.334Z"
+  "lastUpdated": "2026-11-04T12:46:12.704Z"
 }

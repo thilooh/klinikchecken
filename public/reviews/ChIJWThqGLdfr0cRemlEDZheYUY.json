@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Rochlitz",
+      "author_url": "https://www.google.com/maps/contrib/108860509415595233924/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTmLgguV4vwQQ-W0V2xiyCvN3YMldaKLZNgOWRnROqjjwEMeF3=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "hervorragend betreut während der der Operation und vor und nach B  etreitung auf fer Aufwaschstiation",
+      "time": 1793789893,
+      "translated": false
+    },
+    {
+      "author_name": "Senada Busse",
+      "author_url": "https://www.google.com/maps/contrib/116917728336446291452/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8kvnucopQPOvaDt9RtVcSq2RnDhSZ-38-x4T8tR9SDcLtKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Also die schwestern sind top sehr sehr freundlich und nett und die Ärzte sind top Sauberkeit auf 1 platz",
+      "time": 1793787920,
+      "translated": false
+    },
+    {
+      "author_name": "Nancy Stiller",
+      "author_url": "https://www.google.com/maps/contrib/107510862435874318566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzJg7UO7K2rQYwcldJ33Yc3f-zv0Bc725fWmx3_b1ZtCvBPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793705852,
+      "translated": false
+    },
+    {
       "author_name": "Chrissi König",
       "author_url": "https://www.google.com/maps/contrib/118339506325691667137/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURiD5Z0cLLRiXxRc98FON1C5yc9E5mkXGYz3vay_IKeY8BJT4=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Bin hier super zufrieden..top Team..,kann ich nur empfehlen.",
+      "time": 1793185801,
+      "translated": false
+    },
+    {
+      "author_name": "holger schmidt",
+      "author_url": "https://www.google.com/maps/contrib/106744910832012459270/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURiD5Z0cLLRiXxRc98FON1C5yc9E5mkXGYz3vay_IKeY8BJT4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Bin hier super zufrieden..top Team..,kann ich nur empfehlen.",
       "time": 1793185801,
       "translated": false
@@ -1926,11 +1972,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 525,
+  "reviewCount": 528,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-01T11:40:07.073Z"
+  "lastUpdated": "2026-11-04T12:46:16.399Z"
 }

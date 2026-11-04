@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Claudia Wehning",
+      "author_url": "https://www.google.com/maps/contrib/101901245018700812758/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqbGPMR3liLhckgBuKA16bmdSJK2ELm4bMAAABuReunFdDVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach mindestens 10 Jahren mit MECFS-Erkrankung und einem Bell-Wert von 20 hatte ich im Frühjahr 2023 meinen ersten Termin bei Dr. Kacik. Endlich ein Arzt, der sich mit dem Krankheitsbild auskennt und auch behandelt.  Eine ausführliche Anamnese, Blutentnahme und diverse Untersuchungen erfolgten noch am gleichen Tag. Anhand von Befunden und Befinden wurde mein Behandlungsplan aufgestellt. Nach 3 Jahren war ich bei einem Bell-Wert von 40 angekommen. Ich kann E-Bike fahren und kurze, langsame Spaziergänge machen. Im Winter 2025/2026 kam es durch mangelndes Pacing meinerseits und gleichzeitiger Reduzierung einiger Medikamente zur Verschlechterung. Dr. Kacik konnte durch einen neuen Therapieplan meinen Gesundheitszustand wieder stabilisieren. Medikamente, Pacing und Baseline muss ich im Auge behalten. Ich bin Dr. Kacik für sein Engagement und seiner wirkungsvollen Therapie sehr dankbar.",
+      "time": 1793541815,
+      "translated": false
+    },
+    {
       "author_name": "Pia S.",
       "author_url": "https://www.google.com/maps/contrib/113200358936835279006/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTuHc6i8pOtldtuYgq4SqAyEDFSykmNIxCaqVhnOQ71iFZWA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin an Long-Covid mit Me/Cfs erkrankt. Nach unzähligen Arztbesuchen und Untersuchungen, bin ich endlich auf Herrn Dr. Kacik gestoßen. Der Termin war sehr angenehm, me/cfs freundlich und das ganze Team war sehr freundlich. Ich bedanke mich vielmals für diese Unterstützung.",
+      "time": 1792341899,
+      "translated": false
+    },
+    {
+      "author_name": "Julia",
+      "author_url": "https://www.google.com/maps/contrib/113396581348001618079/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTuHc6i8pOtldtuYgq4SqAyEDFSykmNIxCaqVhnOQ71iFZWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin an Long-Covid mit Me/Cfs erkrankt. Nach unzähligen Arztbesuchen und Untersuchungen, bin ich endlich auf Herrn Dr. Kacik gestoßen. Der Termin war sehr angenehm, me/cfs freundlich und das ganze Team war sehr freundlich. Ich bedanke mich vielmals für diese Unterstützung.",
       "time": 1792341899,
       "translated": false
@@ -1398,11 +1422,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 104,
+  "reviewCount": 105,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-11-01T11:40:09.888Z"
+  "lastUpdated": "2026-11-04T12:46:19.103Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Langenau",
+      "author_url": "https://www.google.com/maps/contrib/100686998233467689083/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxY9bJiDkqn5DYwKyGrXzulNysSS3MMma5rK-pIIHqxI8S-hC4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bzw. bin noch zum zweiten Mal in der Praxis und wurde sowohl an der Anmeldung , alsauch  durch die behandelnden Ärztinnen freundlich und kompetent behandelt. Frau Dr. Weber möchte ich besonders für ihren Arzt/Patientenumgang loben.\nKann diese Praxis nur empfehlen.",
+      "time": 1793529320,
+      "translated": false
+    },
+    {
       "author_name": "Florian Junk",
       "author_url": "https://www.google.com/maps/contrib/110340789046724181223/reviews",
       "language": "de",
@@ -37,11 +49,33 @@
       "translated": false
     },
     {
+      "author_name": "Julija Grzibovska",
+      "author_url": "https://www.google.com/maps/contrib/114284845365573760532/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnAhALmmR1yi7bxHLIlWFAppjsyVVYc5AvO4Kf1F4JKaCMasny=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meine erste Bewertung auf Google aller Zeiten! Wusste nicht, dass das so nötig ist, aber ja, meine Hände zittern schon vor Stress. Mega Eintauchen vom ganzen Ablauf in der Praxis. Die Termine sollen unbedingt online gemacht werden und zwar immer wieder neue ohne weitere Hilfe. Mit dem Arzt zu sprechen ist immer ein Quest, und das habe ich seit Monaten noch nicht geschafft. Das Rezeptionspersonal ist so was von unhöflich, vielleicht nicht alle, aber die drei Personen, die ich getroffen habe, haben mir gar nicht geholfen. Ich bin aber immer mega nett und kann alles verstehen und so, aber das hier ist einfach Abzocke. Sitze wieder im Wartezimmer für gar nichts... will nur weinen... crazy!\nNie wieder!",
+      "time": 1793185615,
+      "translated": false
+    },
+    {
       "author_name": "Alexander Koch",
       "author_url": "https://www.google.com/maps/contrib/105555472540043808739/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzVeM2r2D3mm4gsmTJ1hugwewyzi1VLDKjIXbI0Q3QUplcWg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793009458,
+      "translated": false
+    },
+    {
+      "author_name": "Alexander Koch",
+      "author_url": "https://www.google.com/maps/contrib/105555472540043808739/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzVeM2r2D3mm4gsmTJ1hugwewyzi1VLDKjIXbI0Q3QUplcWg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1793009458,
       "translated": false
@@ -1590,5 +1624,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:34.417Z"
+  "lastUpdated": "2026-11-04T12:46:41.288Z"
 }

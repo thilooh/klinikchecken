@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Marcel Bischof",
+      "author_url": "https://www.google.com/maps/contrib/101004773705497163787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjftjcJ7u852rM6Bo9kFZj0nCC298lxNW5mTAUISzOGufW=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr enttäuschend – so etwas habe ich bei einem Arztbesuch noch nicht erlebt.\n\nEine Woche vor meinem OP-Termin wurde besprochen, dass eine schmerzhafte Veränderung an meinem Knie, die mich im Alltag und bei der Arbeit beeinträchtigt, zusammen mit einem Muttermal entfernt wird – als Kassenleistung.\n\nBeim OP-Termin dann die Überraschung: Nach fast einer Stunde Wartezeit lag ich bereits teilweise entkleidet auf der Liege, als plötzlich erklärt wurde, die Entfernung am Knie sei jetzt eine „kosmetische Behandlung“ und solle rund 400 € kosten.\n\nAuf meine Frage, warum aus der vereinbarten Kassenleistung innerhalb einer Woche plötzlich eine 400-€-Privatleistung geworden ist, lautete die Erklärung ernsthaft, die Stelle habe letzte Woche „trockener“ bzw. anders ausgesehen.\n\nFür mich absolut nicht nachvollziehbar. Die Stelle verursacht weiterhin Schmerzen und Probleme bei Bewegung – genau deshalb wollte ich sie entfernen lassen und nicht aus kosmetischen Gründen.\n\nMein Vertrauen war nach diesem Ablauf komplett weg. Ich habe den Eingriff abgebrochen und auch das Muttermal dort nicht mehr entfernen lassen.\n\nDass sich eine medizinische Einschätzung ändern kann, ist eine Sache. Einen Patienten aber erst beim OP-Termin, bereits auf der Liege, mit  ca.350€ Kosten zu konfrontieren, obwohl vorher von einer Kassenleistung die Rede war, finde ich äußerst fragwürdig und enttäuschend.",
+      "time": 1793717290,
+      "translated": false
+    },
+    {
+      "author_name": "Blerina Sadriu (Blerina lila.)",
+      "author_url": "https://www.google.com/maps/contrib/106087662776147939342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2pT4sBqGR9H2ssaAoflpaCkPNwghzY7VfRH-aBSXEmbIZSBZR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793598960,
+      "translated": false
+    },
+    {
       "author_name": "Diyar Kourd",
       "author_url": "https://www.google.com/maps/contrib/115839415511382231558/reviews",
       "language": "de",
@@ -20,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEzoK4HsJNKQcdjR5RWBK6_rPKp5UXLUJXJoQAGXzGESI6WQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "War schon öfters zur Vorsorge hier und finde Dr. Omaj sowie das Team nett und ordentlich. Fühle mich kompetent beraten.",
+      "time": 1793033974,
+      "translated": false
+    },
+    {
+      "author_name": "J-Dog",
+      "author_url": "https://www.google.com/maps/contrib/101567200154331935311/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEzoK4HsJNKQcdjR5RWBK6_rPKp5UXLUJXJoQAGXzGESI6WQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "War schon öfters zur Vorsorge hier und finde Dr. Omaj sowie das Team nett und ordentlich. Fühle mich kompetent beraten.",
       "time": 1793033974,
       "translated": false
@@ -1583,7 +1617,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 315,
+  "reviewCount": 317,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:56.492Z"
+  "lastUpdated": "2026-11-04T12:46:06.171Z"
 }

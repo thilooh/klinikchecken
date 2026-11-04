@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Wegner",
+      "author_url": "https://www.google.com/maps/contrib/113887612661757290696/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlmCG7OJWzFBYVhAJBCT4LTB6qnbzgUgExkA1mAUqkcZMhco0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die kurze Version: Ich finde die Praxis sehr menschenfremd.\n\nKein Augenkontakt bei der Kommunikation, denke, dass damit verbunden auch kein Problem darin gesehen wird, Menschen monatelang auf Termine warten zu lassen, für die sie Geld ausgeben, um überhaupt zu kommen, und dann werden sie nach Hause geschickt, ohne dass die Ärztin überhaupt drauf schaute. Also finanzielles Minus, Zeit verloren, monatelang auf Heilung gewartet und emotional aufgebracht worden, um am Ende dann der Traurige zu sein.\n\nEs sollte mir nicht zugemutet werden, für jeden Arztbesuch 10 bis 15 Euro Ausgaben zu haben, Stunden zu fahren um dann nach Hause geschickt zu werden. Ich gebe die Suche und vor allem das Vertrauen auf. 21 Jahre trage ich ein Atherome auf dem Kopf und die Ärzte scheinen mir nicht helfen wollen. So oft Enttäuschung, dass ich jetzt nur noch akzeptiere, dass Selektion das Problem und vermutlich die Regel ist.\n\nVerantwortung hätte man auch übernehmen können. Die Ärztin hätte sich das gestern auch drei Minuten anschauen und dann einen Termin vereinbaren können, aber nein, das haben sie nicht. Meine Kosten, meine Zeit, mein Verlust, aufgrund deren Fehlern. Da kann man doch nur über die Menschheitsferne traurig sein.",
+      "time": 1793723442,
+      "translated": false
+    },
+    {
+      "author_name": "Maximilian Skyba",
+      "author_url": "https://www.google.com/maps/contrib/100185519901858864883/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuKM7uu57ksLZW6JQeAHV2aNmaa8vxvLWXuDAhm7pXdxto0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793614853,
+      "translated": false
+    },
+    {
       "author_name": "Kevin Klaric",
       "author_url": "https://www.google.com/maps/contrib/102245785326727309331/reviews",
       "language": "de",
@@ -1594,11 +1616,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 112,
+  "reviewCount": 114,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:08.723Z"
+  "lastUpdated": "2026-11-04T12:46:17.973Z"
 }

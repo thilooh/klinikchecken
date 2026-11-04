@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Patrick Depret",
+      "author_url": "https://www.google.com/maps/contrib/107246892560684649841/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2Bn2lXUziCtsFK3VNxqSATUpl4u6MM5F8XuhF4esMMHznRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Laboranalyse vor 2 wochen und immer noch keine nachricht. Telefonisch nicht erreichbar. Keine email. Unmenschliche Kommunikation ... Hautkrebs oder doch nicht?",
+      "time": 1793626200,
+      "translated": false
+    },
+    {
       "author_name": "Tom Kaster",
       "author_url": "https://www.google.com/maps/contrib/114147057962716922369/reviews",
       "language": "de",
@@ -58,6 +70,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXmtccJ0cSySxQkBsUpCmOP8ratKdw0yGqGWGnvAqYGU6SrFg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1790966709,
+      "translated": false
+    },
+    {
+      "author_name": "Liolevian Marxs",
+      "author_url": "https://www.google.com/maps/contrib/108533838895860392114/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXmtccJ0cSySxQkBsUpCmOP8ratKdw0yGqGWGnvAqYGU6SrFg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1790966709,
       "translated": false
@@ -1100,11 +1122,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 45,
+  "reviewCount": 46,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:23.681Z"
+  "lastUpdated": "2026-11-04T12:46:31.516Z"
 }

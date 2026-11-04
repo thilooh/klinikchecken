@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mila Bega",
+      "author_url": "https://www.google.com/maps/contrib/110746525623451513947/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGjBonRAUPmvXSSA14WuHuaSsq1zcZycM2ajrFkn2NiXNkvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute knapp 10min.später da weil der Bahn nicht weiter gefahren ist und ich musste eine Haltestelle laufen. Die nette Dame am Empfang sagte:  denTermin hat der Arzt gestrichen. Ich bin sehr enttäuscht. Das ist nicht menschlich für mich.\nFünf Sterne  für die Frau Yilmaz am Empfang, schön das noch nette Menschen existieren.",
+      "time": 1793743580,
+      "translated": false
+    },
+    {
       "author_name": "Katharine S.",
       "author_url": "https://www.google.com/maps/contrib/105366515819307511437/reviews",
       "language": "de",
@@ -106,6 +118,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrv9qgAiMjh4UgWzT9kH15Tg8fJdnRzRihMw5_sId_-MFGmg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1790965486,
+      "translated": false
+    },
+    {
+      "author_name": "Selina Hasbach",
+      "author_url": "https://www.google.com/maps/contrib/115708279831414466209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrv9qgAiMjh4UgWzT9kH15Tg8fJdnRzRihMw5_sId_-MFGmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1790965486,
       "translated": false
@@ -984,8 +1006,8 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 52,
+  "rating": 4.6,
+  "reviewCount": 53,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:56.018Z"
+  "lastUpdated": "2026-11-04T12:46:05.701Z"
 }

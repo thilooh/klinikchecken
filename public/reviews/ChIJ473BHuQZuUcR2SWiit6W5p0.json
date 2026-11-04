@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Susanne",
+      "author_url": "https://www.google.com/maps/contrib/111559015507625775181/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaGNdhzqrNKhHnfRisizQtWOcGEM2rtSOPGYGO2Bj4XI9Ceg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Lange auf einen Termin gewartet, aber dann sehr zufrieden. Kompetent und emphatisch.",
+      "time": 1792942746,
+      "translated": false
+    },
+    {
       "author_name": "Karl-Heinz D",
       "author_url": "https://www.google.com/maps/contrib/113614781389549333405/reviews",
       "language": "de",
@@ -1212,5 +1224,5 @@
   "rating": 3.7,
   "reviewCount": 132,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:57.667Z"
+  "lastUpdated": "2026-11-04T12:46:07.311Z"
 }

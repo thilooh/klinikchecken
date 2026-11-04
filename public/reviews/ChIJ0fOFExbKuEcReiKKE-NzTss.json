@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manuela D",
+      "author_url": "https://www.google.com/maps/contrib/111231634768879329072/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHyK931HNrzhYkLIVRuXYT1hPZJUZVdwtI4pv3Ut6Zhv6wXg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schon seit 2010 bei Frau Paschenko in der Altstadtpraxis Düsseldorf und jedes Mal aufs Neue begeistert. Sie hat einfach ein tolles Gespür für Ästhetik und ein besonderes Händchen für natürliche, schöne Ergebnisse mit Botox und Hyaluron. Auch das Preis-Leistungs-Verhältnis ist wirklich super. Ich fahre extra 45 Minuten aus einer anderen Stadt zu ihr, und das ist es mir jedes Mal wert. Ich fühle mich bei ihr bestens aufgehoben und kann sie nur weiterempfehlen!",
+      "time": 1793781472,
+      "translated": false
+    },
+    {
       "author_name": "Britta Grote",
       "author_url": "https://www.google.com/maps/contrib/113115225224973388788/reviews",
       "language": "de",
@@ -611,5 +623,5 @@
   "rating": 5,
   "reviewCount": 97,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:55.297Z"
+  "lastUpdated": "2026-11-04T12:46:05.032Z"
 }

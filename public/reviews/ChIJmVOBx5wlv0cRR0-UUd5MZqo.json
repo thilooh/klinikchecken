@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mike Mockschan",
+      "author_url": "https://www.google.com/maps/contrib/102146449790306889912/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_kAg5R9pxWoDIGmbemPI1iSnR66tem0nlPqHsS9Zoh0PG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen Termin zur Hautkrebs Vorsorge bei Herr Dr.Al-Mashhadani.\nDie Untersuchung so wie das Vorab -  und Nachgespräch waren sehr gut. Ich habe mich sehr gut beraten gefühlt und während des Aufenthaltes sehr wohl gefühlt. Es war eine professionelle Behandlung und Beratung.",
+      "time": 1793737752,
+      "translated": false
+    },
+    {
       "author_name": "Y K",
       "author_url": "https://www.google.com/maps/contrib/108554025858179220443/reviews",
       "language": "de",
@@ -228,6 +240,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKveprUFjd4hrNiDvs7nvEDzQE3Ml3I9GuKis5xkX6HyDDfM-hm=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1788544977,
+      "translated": false
+    },
+    {
+      "author_name": "Victoria",
+      "author_url": "https://www.google.com/maps/contrib/102376397126196272517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKveprUFjd4hrNiDvs7nvEDzQE3Ml3I9GuKis5xkX6HyDDfM-hm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1788544977,
       "translated": false
@@ -1422,8 +1444,8 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
+  "rating": 4.2,
   "reviewCount": 63,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:54.204Z"
+  "lastUpdated": "2026-11-04T12:46:04.019Z"
 }

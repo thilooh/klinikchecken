@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "aleyna",
+      "author_url": "https://www.google.com/maps/contrib/117127253477032026362/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRSqpaaC__Az1me39uRZmPgSYmNNVH0yx02IjaYMuKFw2Gd2iMGg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793688176,
+      "translated": false
+    },
+    {
       "author_name": "M V",
       "author_url": "https://www.google.com/maps/contrib/100632800970090873400/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5b4hzB-iVlNlL7AyM04FO3d-O0DWg3jaafAHxsvOVF3wux8sQ=s128-c0x00000000-cc-rp-mo-ba2",
@@ -1146,11 +1156,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 79,
+  "reviewCount": 80,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:05.193Z"
+  "lastUpdated": "2026-11-04T12:46:14.611Z"
 }

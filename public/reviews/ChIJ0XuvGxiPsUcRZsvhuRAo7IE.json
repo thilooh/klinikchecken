@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Katharina Menne-Vogler",
+      "author_url": "https://www.google.com/maps/contrib/112682462654790373704/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxyGfHRCBampmU_2oRUkZTpTpMXRulD66e7Udri01dXjF17g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut fachkompete medizinische Versorgung und sehr gute Organisation!",
+      "time": 1793540149,
+      "translated": false
+    },
+    {
+      "author_name": "Steven Helmig",
+      "author_url": "https://www.google.com/maps/contrib/117967897891399492916/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKjfme9WP9wU8oQaRUDcPFjHkTHVGxt9Ia-I6K4QNFUV5fOGyw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Med. Eimer ist professionell, empathisch und zuverlässig. Beim nächsten Tumor komme ich wieder.",
+      "time": 1793528777,
+      "translated": false
+    },
+    {
       "author_name": "Christoph Lohss",
       "author_url": "https://www.google.com/maps/contrib/109355514218167962219/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Kinnaj Tsuj",
+      "author_url": "https://www.google.com/maps/contrib/100353864032311674720/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHWXsT5D0DtPzOZ8P7qmm-B-NY_3FRVhlwcMuQCMctc_QKcw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war 2025 und 2026 zu Behandlung einer nadelkopfgroßen Wucherung am Nasenflügel im Dermatologikum.\n2025 wurde scheinbar nicht das komplette Gewebe entfernt. Das Geschwulst bildete sich innerhalb von 3 Monate nach und wurde größer.\nIm Mai 2026 wurde ein erneuter Termin für das gleiche Geschwulst, an gleicher Stelle und in ähnlicher Größe vereinbart.\n\nAllerdings wurden 2026 dann nicht nur die ärztlichen Leistungen ( 100€ höher als 6 Monate vorher) sondern auch histopathologische Untersuchungen in Rechnung gestellt im Wert von 340,10€ über welche ich im Beratungsgespräch unter Ziffer 1 (Gegenwert 10€) vorher nicht aufgeklärt wurde.\n\nEs wurde gesagt die Kosten wären identisch mit den Kosten des ersten Eingriffs.\n\nAlso eigentlich zahle ich dreifach für etwas was bereits mit dem Eingriff hätte vollständig entfernt werden können.\n\nGleichzeitig wird das Fädenziehen, welches 2min dauerte, berechnet mit:  \"symptombezogen zeitaufwändige Behandlung bei zusätzlichem Verbandswechsel und Fadenextraktion\"!\n\nHätte ich das vorher gewusst wäre ich in eine andere Praxis gegangen.\n\nLassen sie sich vorher korrekt über die Kosten aufklären! Lassen Sie alles ausführlich dokumentieren!\n\nDermatologikum Hamburg sieht mich allerdings nicht wieder.",
+      "time": 1793177716,
+      "translated": false
+    },
+    {
       "author_name": "Virgo",
       "author_url": "https://www.google.com/maps/contrib/106678523966792268596/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8VzleAWyO7oV-5rbPG4TgTg6-e2oluIY83bnXy0khk5HJYII=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Privatärztliche Praxis für Hauterkrankungen",
+      "time": 1793124150,
+      "translated": false
+    },
+    {
+      "author_name": "Virgo",
+      "author_url": "https://www.google.com/maps/contrib/106678523966792268596/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8VzleAWyO7oV-5rbPG4TgTg6-e2oluIY83bnXy0khk5HJYII=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Privatärztliche Praxis für Hauterkrankungen",
       "time": 1793124150,
       "translated": false
@@ -1892,7 +1940,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 473,
+  "reviewCount": 474,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:40:00.851Z"
+  "lastUpdated": "2026-11-04T12:46:10.475Z"
 }

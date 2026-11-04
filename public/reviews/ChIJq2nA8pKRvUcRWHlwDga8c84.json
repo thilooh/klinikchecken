@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "dom sansi",
+      "author_url": "https://www.google.com/maps/contrib/100170709578589796642/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIljWrAY0y6uK6d_NshVgrSyNUf_CSZYgMe8XVv_9AkOgU_og=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetent und sehr freundlich! Sehr zufrieden",
+      "time": 1793707871,
+      "translated": false
+    },
+    {
+      "author_name": "Craigminni",
+      "author_url": "https://www.google.com/maps/contrib/108877045052236944540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJiMYW7cjKs9Be0xYJisFKx9K-D3yeHSeBSlirdmqi6IYGvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde in der Dermatologie Quist in Mainz von Frau Tatjana Schilling behandelt und bin rundum begeistert. Bei mir war ein kleiner Eingriff an der Nase nötig, und ich war vorher ehrlich gesagt ziemlich nervös. Frau Schilling hat mir diese Angst mit ihrer herzlichen, einfühlsamen Art sofort genommen. Der Eingriff selbst verlief völlig schmerzfrei und wurde sehr sorgfältig und professionell durchgeführt. Man merkt, dass sie nicht nur fachlich top ist, sondern sich auch wirklich Zeit für ihre Patienten nimmt. Vielen Dank :-) Ich kann Frau Schilling und die Praxis uneingeschränkt weiterempfehlen!",
+      "time": 1793655065,
+      "translated": false
+    },
+    {
       "author_name": "Friedel und Ruth Schiffer",
       "author_url": "https://www.google.com/maps/contrib/109705667544917976443/reviews",
       "language": "de",
@@ -2028,11 +2052,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 366,
+  "reviewCount": 368,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:22.013Z"
+  "lastUpdated": "2026-11-04T12:46:29.986Z"
 }

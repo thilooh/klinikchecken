@@ -73,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Christiane Berger",
+      "author_url": "https://www.google.com/maps/contrib/115655377958002414473/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMkXeHUutKU4X0K_geW0SeOxdVwMenW4sq7Eg_fKDNlQRARA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war mit akuten Problemen in der Praxis und hab glücklicherweise über die online Terminvergabe innerhalb von 10 Tagen einen Termin bekommen. Herr Dr. Wais hat mich fachlich und vor allem menschlich total überzeugt und begeistert. Ich bin froh, dass meine Hausärztin ihn mir empfohlen hat !",
+      "time": 1791885682,
+      "translated": false
+    },
+    {
       "author_name": "Romy Schneider",
       "author_url": "https://www.google.com/maps/contrib/115850615614550302427/reviews",
       "language": "de",
@@ -164,6 +176,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcUQAYb9v1xhP9cjC7oEUnp0gx4uqHYXssHLvd0zdx2qermPJK=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Kompetenter Arzt. Alles bestens gelaufen!",
+      "time": 1791228319,
+      "translated": false
+    },
+    {
+      "author_name": "D. Tester",
+      "author_url": "https://www.google.com/maps/contrib/102383137528420789607/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcUQAYb9v1xhP9cjC7oEUnp0gx4uqHYXssHLvd0zdx2qermPJK=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Kompetenter Arzt. Alles bestens gelaufen!",
       "time": 1791228319,
       "translated": false
@@ -1474,5 +1498,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:27.422Z"
+  "lastUpdated": "2026-11-04T12:46:34.858Z"
 }

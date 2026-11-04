@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "C L",
+      "author_url": "https://www.google.com/maps/contrib/116528335462915724443/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2-lDPEdeIjrZVx0kpRRLKDm4llaKsF2Mxw1tsv5GU5W6XHv5PJg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termin zur Hautkrebsvorsorge für gesetzlich Versicherte innerhalb von 3 Wochen.\nFreundliches Praxisteam. Untersuchung pünktlich, ohne Wartezeit.  Frau Dr. Glocker untersucht sehr gründlich und kompetent.\nNimmt sich Zeit und berät sehr gut. Vielen Dank,  hier fühle ich mich wirklich in guten Händen.",
+      "time": 1793641862,
+      "translated": false
+    },
+    {
       "author_name": "Birgit Uhr-Blessing",
       "author_url": "https://www.google.com/maps/contrib/117744967628736337947/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5Iak_TXjzIek36gZmTsR9nyiThyLL8qsHNA-N_obAGQz8Eg=s128-c0x00000000-cc-rp-mo-ba4",
@@ -1488,11 +1500,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 278,
+  "reviewCount": 279,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-01T11:40:16.435Z"
+  "lastUpdated": "2026-11-04T12:46:24.978Z"
 }

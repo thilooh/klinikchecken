@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Mathias Faiß",
+      "author_url": "https://www.google.com/maps/contrib/110630160984964689474/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJji01mUxC1tiErOPAftwdT7kF9qWEvmj9tPVIJAnkz7lEUdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793600417,
+      "translated": false
+    },
+    {
       "author_name": "Heckmann Larisa",
       "author_url": "https://www.google.com/maps/contrib/101562833103132450181/reviews",
       "language": "de",
@@ -732,11 +742,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 110,
+  "reviewCount": 111,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-01T11:40:36.514Z"
+  "lastUpdated": "2026-11-04T12:46:43.235Z"
 }

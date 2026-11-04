@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dennis Frieß",
+      "author_url": "https://www.google.com/maps/contrib/111511722218562215444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk6Wp9up4MLaqgO9Yk4hMeQelJVn6O_ajuWcylgfBT0wHAeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zu einer Behandlung in der Klinik und bin total begeistert von dem tollen Personal. Viele Ärzte haben an meiner Erkrankung herumgedoktert, aber in der MVZ wurde eine Lösung gefunden! Vielen vielen Dank!",
+      "time": 1793786377,
+      "translated": false
+    },
+    {
       "author_name": "Alexander Heinemann",
       "author_url": "https://www.google.com/maps/contrib/118396355963820201281/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBApTptRkqNlPUA_A-brTbvb02JNfv0StG9kE4K4SFBQVndQ=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "vor einer Woche",
+      "text": "Alles in Ordnung. Sauber.",
+      "time": 1792577465,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg Reinhardt",
+      "author_url": "https://www.google.com/maps/contrib/116697241836110928041/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBApTptRkqNlPUA_A-brTbvb02JNfv0StG9kE4K4SFBQVndQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Alles in Ordnung. Sauber.",
       "time": 1792577465,
       "translated": false
@@ -1898,7 +1922,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 313,
+  "reviewCount": 314,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:39:57.909Z"
+  "lastUpdated": "2026-11-04T12:46:07.532Z"
 }

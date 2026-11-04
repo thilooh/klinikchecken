@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Marcel B.",
+      "author_url": "https://www.google.com/maps/contrib/108399082544108375020/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8BT5wmdqTIs8lCgT-IHfO7GgNXFWOYuEzaCtBHLw1qy9xcA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Über 1 1/2 Jahre Wartezeit für einen Vorsorge Termin.. Das geht bei anderen schneller.",
+      "time": 1793702081,
+      "translated": false
+    },
+    {
+      "author_name": "Reiner Zeller",
+      "author_url": "https://www.google.com/maps/contrib/101161647128504064566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPLYM6dC-q3CJdzQIMsGOtwU02ahS9eAcCPZ3FP6fMuWFgJSQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793634768,
+      "translated": false
+    },
+    {
       "author_name": "Gerhard Wähling (GWAE)",
       "author_url": "https://www.google.com/maps/contrib/105623715877230232235/reviews",
       "language": "de",
@@ -811,12 +833,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 138,
+  "rating": 4.6,
+  "reviewCount": 140,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:08.004Z"
+  "lastUpdated": "2026-11-04T12:46:17.298Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Philip Mauthe",
+      "author_url": "https://www.google.com/maps/contrib/113353859489962580396/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxDvHxOHK5NlaGiMCx82n_jHgAynL_d1M8fNkSw--CuqtDpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Leistung und Betreuung von Herrn Dr. Munteanu und dem gesamten Team.\nVon dem Erstgespräch, Venen screening und dem umfangreichen Klärungsgespräch bis hin zu meinem gestrigen Venen OP Termin.\nMan hat sich immer viel Zeit genommen und alle offenen Fragen geklärt.\nKurzum man fühlt sich sehr gut betreut und aufgehoben und das finde ich am Wichtigsten.",
+      "time": 1793710428,
+      "translated": false
+    },
+    {
       "author_name": "Simon Haasis",
       "author_url": "https://www.google.com/maps/contrib/106338552498589614325/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJW_QWKqz0W5RFUeXtYBpMZEbn1_aOx1RAYXkRr9sI6Voamg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Die Begrüßung durch den Arzt Dr. Munteanu und dem Praxisteam\nwar sehr freundlich.\nHat die Funktion der Vene und Arterie sehr gut erklärt.\nBei der Untersuchung habe ich mich sehr gut aufgehoben gefühlt. Kann die Praxis weiterempfehlen!",
+      "time": 1793115053,
+      "translated": false
+    },
+    {
+      "author_name": "Simon Haasis",
+      "author_url": "https://www.google.com/maps/contrib/106338552498589614325/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJW_QWKqz0W5RFUeXtYBpMZEbn1_aOx1RAYXkRr9sI6Voamg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Die Begrüßung durch den Arzt Dr. Munteanu und dem Praxisteam\nwar sehr freundlich.\nHat die Funktion der Vene und Arterie sehr gut erklärt.\nBei der Untersuchung habe ich mich sehr gut aufgehoben gefühlt. Kann die Praxis weiterempfehlen!",
       "time": 1793115053,
       "translated": false
@@ -28,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrTYn-0O3QV2R5S_L3hNeiUouer9VGs2kViyyWZYkrzeYnww=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792568628,
+      "translated": false
+    },
+    {
+      "author_name": "Doris Schillinger",
+      "author_url": "https://www.google.com/maps/contrib/117847011461185826570/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrTYn-0O3QV2R5S_L3hNeiUouer9VGs2kViyyWZYkrzeYnww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1792568628,
       "translated": false
@@ -1184,11 +1218,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 113,
+  "reviewCount": 114,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:38.021Z"
+  "lastUpdated": "2026-11-04T12:46:44.601Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jelena W",
+      "author_url": "https://www.google.com/maps/contrib/114479885458724881395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDTU8uQQLy65PcKLZMkIc6Hy15C_vNeN7hImnfMLWE2Xefd0Wg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vor einer Woche hatte ich meine Krampfadern-Operation bei Frau Dr. Kind und ich bin wirklich sehr zufrieden. Ich habe mich von Anfang an sehr gut aufgehoben gefühlt. Frau Dr. Kind ist eine  freundliche, kompetente und professionelle Ärztin, die sich Zeit nimmt und alles verständlich erklärt. Sowohl vor als auch während und nach der Operation hatte ich jederzeit das Gefühl, in sicheren Händen zu sein.\nAuch das gesamte Team war freundlich und hilfsbereit – angefangen beim Empfang bis hin zur Betreuung nach dem Eingriff. Man merkt, dass hier nicht nur professionell gearbeitet wird, sondern auch der menschliche Umgang mit den Patienten eine große Rolle spielt.\nEin herzliches Dankeschön an Frau Dr. Kind und das gesamte Team für die tolle Betreuung! Ich kann die Praxis wirklich von Herzen weiterempfehlen.",
+      "time": 1793794480,
+      "translated": false
+    },
+    {
+      "author_name": "C. Töpfer",
+      "author_url": "https://www.google.com/maps/contrib/104981468887300746603/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBgr9xoFwpAqk59PE7VV3TVsgfKnRI24fvqvTDeRXms8EunQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin wirklich ausgesprochen zufrieden mit dem Venenzentrum am Brühl! Das gesamte Team ist unglaublich freundlich und hilfsbereit. Besonders toll finde ich, dass man auch bei akuten Problemen sehr schnell und kompetent betreut wird. Das ist heute alles andere als selbstverständlich.\n\nAuch fachlich fühle ich mich hier bestens aufgehoben. Die Ärzte sind ausgesprochen kompetent, nehmen sich Zeit und man merkt einfach, dass sie wissen, was sie tun.\n\nIch fühle mich hier rundum gut betreut und kann die Praxis nur weiterempfehlen. Ein großes Dankeschön an das gesamte Team!",
+      "time": 1793556315,
+      "translated": false
+    },
+    {
       "author_name": "Sven Siebert",
       "author_url": "https://www.google.com/maps/contrib/103639376539569457874/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdgUiCWQhHsxF3Qcwk0X6DRfqNrULNKLY8qKV8P_JWx8V5s_Z45Q=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdgUiCWQhHsxF3Qcwk0X6DRfqNrULNKLY8qKV8P_JWx8V5s_Z45Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792423801,
+      "translated": false
+    },
+    {
+      "author_name": "Sven Siebert",
+      "author_url": "https://www.google.com/maps/contrib/103639376539569457874/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdgUiCWQhHsxF3Qcwk0X6DRfqNrULNKLY8qKV8P_JWx8V5s_Z45Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1792423801,
       "translated": false
@@ -52,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcBfVMFAXBV7xSak5AduhxNs40Hj19b-hyYweuHN-_eH5pcic=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Tolle Klinik, professionelle Ärzte 👍",
+      "time": 1791841705,
+      "translated": true
+    },
+    {
+      "author_name": "Євген",
+      "author_url": "https://www.google.com/maps/contrib/112768494939470337405/reviews",
+      "language": "de",
+      "original_language": "uk",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcBfVMFAXBV7xSak5AduhxNs40Hj19b-hyYweuHN-_eH5pcic=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Tolle Klinik, professionelle Ärzte 👍",
       "time": 1791841705,
       "translated": true
@@ -986,7 +1032,7 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 81,
+  "reviewCount": 83,
   "summary": [],
-  "lastUpdated": "2026-11-01T11:40:01.100Z"
+  "lastUpdated": "2026-11-04T12:46:10.691Z"
 }

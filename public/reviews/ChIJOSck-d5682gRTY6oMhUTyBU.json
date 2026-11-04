@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Christoph Thomas",
+      "author_url": "https://www.google.com/maps/contrib/118393898451956709314/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh5WJzEDDHPWw6bqUkn45dYzcpDr721f9UisLZUOwRXs5OXA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute morgen erfolgreich einer Venen-OP unterzogen. Alles ohne Probleme und mit optimaler \"Rundum-Betreung\".\nVielen Dank, an das gesamte OP- Team\ninklusive natürlich der beiden Doktoren.",
+      "time": 1793706847,
+      "translated": false
+    },
+    {
       "author_name": "Sabine Methler",
       "author_url": "https://www.google.com/maps/contrib/114772291155779780601/reviews",
       "language": "de",
@@ -104,6 +116,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGK4RzgiO984_OvtfuiOv6RLl0E_gX_RpTc_rwJfsVdsTwvw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1791136122,
+      "translated": false
+    },
+    {
+      "author_name": "G. Pr.",
+      "author_url": "https://www.google.com/maps/contrib/104348818158416008098/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGK4RzgiO984_OvtfuiOv6RLl0E_gX_RpTc_rwJfsVdsTwvw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1791136122,
       "translated": false
@@ -1608,11 +1630,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 132,
+  "reviewCount": 133,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt"
   ],
-  "lastUpdated": "2026-11-01T11:40:11.524Z"
+  "lastUpdated": "2026-11-04T12:46:20.637Z"
 }

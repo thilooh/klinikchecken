@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lextus",
+      "author_url": "https://www.google.com/maps/contrib/112695094808283289354/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8Xsj5w8qx480_Hci0ZncY__1uGxcY78K9JKhQzdVnj2vhv0I=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mit einem Termin wartet man trotzdem 2 Stunden bis man drankommt.",
+      "time": 1793623726,
+      "translated": false
+    },
+    {
       "author_name": "Reimund Schmitt",
       "author_url": "https://www.google.com/maps/contrib/112822477407170394613/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkGJrkpurHG_38vwfo_DA2_zXF0QmeztateWipxjahCZ3t0Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Top Team Ärzte und Personal!!   Danke 👍",
+      "time": 1792407756,
+      "translated": false
+    },
+    {
+      "author_name": "Reimund Schmitt",
+      "author_url": "https://www.google.com/maps/contrib/112822477407170394613/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkGJrkpurHG_38vwfo_DA2_zXF0QmeztateWipxjahCZ3t0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Top Team Ärzte und Personal!!   Danke 👍",
       "time": 1792407756,
       "translated": false
@@ -203,12 +227,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 36,
+  "rating": 4,
+  "reviewCount": 37,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-01T11:40:42.911Z"
+  "lastUpdated": "2026-11-04T12:46:49.077Z"
 }

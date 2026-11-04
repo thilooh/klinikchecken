@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Fatime Demirhan Alay",
+      "author_url": "https://www.google.com/maps/contrib/102091575841104155316/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiXcobOWGuBTNd1AZQvISY--7eJihsLj1UIjBNT0VDLx9rfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute das erste mal in der Gefäßparxis Koblenz und wurde von Dr. Maxhuni behandelt.\nIch war sehr Zufrieden mit den Behandlungen und den empfohlenen Therapien.\nDie Praxismitarbeiter sind alle sehr nett und es läuft reibungslos ab.\nIch kann die Praxis sehr empfehlen.",
+      "time": 1793793685,
+      "translated": false
+    },
+    {
       "author_name": "Iris Taugs-Lützel",
       "author_url": "https://www.google.com/maps/contrib/116991115925593076097/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoOu9EyK8d4EaSshjd-9W3EpImlxGUK8Iwevj0t0aZp7JIJaAr=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich habe heute in der Praxis angerufen für einen Termin zur Ultrachaluntersuchung der Halsschlagader. Am Telefon erwähnte ich, daß ich eine Überweisung für die Gefäßchirugie habe. Ich wurde unverschämt am Telefon mit dem Kommentar  Zitat [  Ich solle doch zu einem Herzchirugen gehen. Die würden das auch machen. ] Wenn ich doch eine Überweisung für Gefäßchirugie habe,kann man doch nicht so eine Aussage am Telefon machen. Wenn man kein Bock für die Arbeit hat,sollte mann sich überlegen einen anderen Beruf aus zu üben.",
+      "time": 1792489685,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra",
+      "author_url": "https://www.google.com/maps/contrib/118197545443329473887/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoOu9EyK8d4EaSshjd-9W3EpImlxGUK8Iwevj0t0aZp7JIJaAr=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich habe heute in der Praxis angerufen für einen Termin zur Ultrachaluntersuchung der Halsschlagader. Am Telefon erwähnte ich, daß ich eine Überweisung für die Gefäßchirugie habe. Ich wurde unverschämt am Telefon mit dem Kommentar  Zitat [  Ich solle doch zu einem Herzchirugen gehen. Die würden das auch machen. ] Wenn ich doch eine Überweisung für Gefäßchirugie habe,kann man doch nicht so eine Aussage am Telefon machen. Wenn man kein Bock für die Arbeit hat,sollte mann sich überlegen einen anderen Beruf aus zu üben.",
       "time": 1792489685,
       "translated": false
@@ -724,11 +748,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 29,
+  "reviewCount": 30,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:38.728Z"
+  "lastUpdated": "2026-11-04T12:46:45.251Z"
 }

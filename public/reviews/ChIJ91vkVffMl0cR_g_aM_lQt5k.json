@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Miriam Herbert",
+      "author_url": "https://www.google.com/maps/contrib/118080775049390105048/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcfg4nDSDj-6iNILt_o_HB_465ffvyp6G7vi2ZredAmKNKzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793725608,
+      "translated": false
+    },
+    {
+      "author_name": "Abdullah Guelviran",
+      "author_url": "https://www.google.com/maps/contrib/103353848752767382133/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwk0rWxjLw7IRQuR9Ds83wc0GWZYyjoSJOs2vqg_qbs2aWRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr liebe und vertrauensvolle Menschen\nImmer wieder gerne",
+      "time": 1793719815,
+      "translated": false
+    },
+    {
       "author_name": "Marcin Rozanski",
       "author_url": "https://www.google.com/maps/contrib/105567705151751508729/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_XWrUlfm9unUEa7API-iE6LR170Bwibv0eCexXqws_1jSuA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Top Top Top!!!\nKann ich nur empfehlen.\nÜberragende Beratung im Vorfeld.\nTolle Ergebnisse nach der Behandlung.\nFreundliche und hochqualifizierte Ärzte auf menschlicher Ebene, die auf die Bedürfnisse des Patienten eingehen.\n\nDanke an das gesamte Team",
+      "time": 1793118896,
+      "translated": false
+    },
+    {
+      "author_name": "Marcin Rozanski",
+      "author_url": "https://www.google.com/maps/contrib/105567705151751508729/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_XWrUlfm9unUEa7API-iE6LR170Bwibv0eCexXqws_1jSuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Top Top Top!!!\nKann ich nur empfehlen.\nÜberragende Beratung im Vorfeld.\nTolle Ergebnisse nach der Behandlung.\nFreundliche und hochqualifizierte Ärzte auf menschlicher Ebene, die auf die Bedürfnisse des Patienten eingehen.\n\nDanke an das gesamte Team",
       "time": 1793118896,
       "translated": false
@@ -972,11 +1006,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 62,
+  "reviewCount": 64,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:29.521Z"
+  "lastUpdated": "2026-11-04T12:46:36.788Z"
 }

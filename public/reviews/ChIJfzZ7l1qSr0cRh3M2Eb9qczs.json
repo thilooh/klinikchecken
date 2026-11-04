@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jenny Duwe",
+      "author_url": "https://www.google.com/maps/contrib/110591513068056911460/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInAJUzD9kT40JXahWUR-SpS8wBKj8zoeL1fvtm1FJRjkfX-18=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die schlechten Bewertungen überhaupt nicht verstehen.  Ich kann diesen Arzt einfach nur weiterempfehlen. Das ganze Team dort ist einfach nur freundlich und zuvorkommend. Ich habe mich dort sehr gut aufgehoben gefühlt. Es wurde alles ganz genau erklärt und mir wurde sofort die angst genommen.\nIch werde immer wieder dort hingehen wenn irgendwas wieder ist.",
+      "time": 1793795166,
+      "translated": false
+    },
+    {
       "author_name": "Maik Klingberg",
       "author_url": "https://www.google.com/maps/contrib/108580293276329885620/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8y7fkjuSqQjRxvaBefFLnVy35DLk28O5OTcoE8qaAs1d3KA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich muss ein großes Lob aussprechen. DIese Praxis ist nicht nur super organisiert, alle sind sehr nett und fachlich bin ich auch sehr zufrieden. Da zeigt es sich, es geht auch anders.\nWenn man mehr Sterne vergeben könnte 10/10",
+      "time": 1792994450,
+      "translated": false
+    },
+    {
+      "author_name": "Carola Plantikow",
+      "author_url": "https://www.google.com/maps/contrib/111678563647954954307/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8y7fkjuSqQjRxvaBefFLnVy35DLk28O5OTcoE8qaAs1d3KA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich muss ein großes Lob aussprechen. DIese Praxis ist nicht nur super organisiert, alle sind sehr nett und fachlich bin ich auch sehr zufrieden. Da zeigt es sich, es geht auch anders.\nWenn man mehr Sterne vergeben könnte 10/10",
       "time": 1792994450,
       "translated": false
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc_SJWE-qJ_0bzSDwZ2hmyGSLeQr0ibYSQ9wNsCmWTIXls1g=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Man bekommt schnell einen Termin. Das Wartezimmer ist leer, sodass wir gleich durchgehen konnten! Unsere Beschwerden wurden leider nicht ernst genommen, gar abgeschmälert, sodass wir uns eine zweite Meinung eingeholt haben durch einen anderen Arzt. Erst durch den Arzt danach  wurden Beschwerden mit wochenlanger Behandlung verbessert!",
+      "time": 1791142250,
+      "translated": false
+    },
+    {
+      "author_name": "M. Menna",
+      "author_url": "https://www.google.com/maps/contrib/103229275642780488214/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc_SJWE-qJ_0bzSDwZ2hmyGSLeQr0ibYSQ9wNsCmWTIXls1g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Man bekommt schnell einen Termin. Das Wartezimmer ist leer, sodass wir gleich durchgehen konnten! Unsere Beschwerden wurden leider nicht ernst genommen, gar abgeschmälert, sodass wir uns eine zweite Meinung eingeholt haben durch einen anderen Arzt. Erst durch den Arzt danach  wurden Beschwerden mit wochenlanger Behandlung verbessert!",
       "time": 1791142250,
       "translated": false
@@ -700,11 +736,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 111,
+  "reviewCount": 112,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-01T11:40:37.182Z"
+  "lastUpdated": "2026-11-04T12:46:43.848Z"
 }

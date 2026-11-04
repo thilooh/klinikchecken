@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Oskar Broßwitz",
+      "author_url": "https://www.google.com/maps/contrib/111120750876671565608/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlWnIchngngfKftR6NFBxIA8fVHSPMny0sDNbY4Yx7aiFMPYbe3w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und hilfsbereit",
+      "time": 1793733668,
+      "translated": false
+    },
+    {
+      "author_name": "Magnus Grönwoldt",
+      "author_url": "https://www.google.com/maps/contrib/116536802193774173930/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYsKDoN5f-4Z_4GYS3p-5SLb4-fVh0HRvQ_seObWE23BIWMw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zur Hautkrebsvorsorge bei Frau Winkelmann-Schirmer. Bereits am Empfang wurde ich freundlich begrüßt und von einer sympathischen Medizinischen Fachangestellten zum Scan gebracht. Wartezeit war fast gar nicht vorhanden, insgesamt gut organisiert und gut erklärt, ich komme gerne wieder.",
+      "time": 1793731429,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Gieseke",
+      "author_url": "https://www.google.com/maps/contrib/108523555737214055962/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfhCgDUrwHCmBwJPQBkDEb7YY7DMt5wahBx0uJ8b3TGffkthJ3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich wirklich gut aufgehoben gefühlt. Die Praxis ist sauber und Patienten freundlich. Herr Dr. Haase ist tatsächlich sehr höflich und engagiert. Ich werde bei Bedarf wieder einen Termin in dieser Praxis buchen. 👍",
+      "time": 1793708082,
+      "translated": false
+    },
+    {
+      "author_name": "Bernd Kuhlmann",
+      "author_url": "https://www.google.com/maps/contrib/114306095175493426116/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq3RIp1-_hANITtUznsijWdqegjEtPt70FtBo_0Xvub8gNxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Mitarbeiter waren alle sehr nett die Ärztin war sehr professionell und gründlich.",
+      "time": 1793706153,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Leiers-Kording",
+      "author_url": "https://www.google.com/maps/contrib/104522974360195626024/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYxp4XyOUvKQ55s6W46qST2cTYuIwN0NeEukmcvq6TxTZ5dA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "wir haben zwar etwas gewartet, bis wir dran waren\ndas Hautscreening mit Fotos und die anschließende Untersuchung waren hervorragend, sehr zu empfehlen! wir kommen wieder!",
+      "time": 1793697445,
+      "translated": false
+    },
+    {
       "author_name": "Anja Laupichler",
       "author_url": "https://www.google.com/maps/contrib/116236161803451705664/reviews",
       "language": "de",
@@ -2582,11 +2642,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2465,
+  "reviewCount": 2471,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-01T11:40:07.772Z"
+  "lastUpdated": "2026-11-04T12:46:17.059Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kelly Mautner",
+      "author_url": "https://www.google.com/maps/contrib/113322099982770570686/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9zP6R8q53ejm7cDdtLaPIWNlQYsVBYjvmZYpGbALM46er=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin absolut begeistert von Frau Dr. Gkata und ihrem gesamten Praxisteam! Man fühlt sich hier vom ersten Moment an rundum wohl und gut aufgehoben.\nFrau Gkata ist eine unglaublich empathische, kompetente und zugewandte Ärztin, die sich wirklich Zeit für ihre Patienten nimmt, genau zuhört und alles verständlich erklärt. Vielen Dank!",
+      "time": 1793776158,
+      "translated": false
+    },
+    {
       "author_name": "Horst W.",
       "author_url": "https://www.google.com/maps/contrib/100461896425831992543/reviews",
       "language": "de",
@@ -86,6 +98,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkNC1kJlSB-jICU42sFFMYWBSvGybAkdf-vGRawIOZQ1xFKsY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich und meine Tochter(7Jahre)hatten dort einen Termin für ein Hautscreening, musste nicht lange warten am Tag des Termines. Es waren alle super freundlich. Die Frau Doktor hat eine sehr freundliche und kompetente Art, und hat meine Tochter gut mit einbezogen. Bin völlig zufrieden. Die Praxis ist sehr hell, sauber und modern. Kann ich uneingeschränkt empfehlen👍🏻",
+      "time": 1791210825,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Eska",
+      "author_url": "https://www.google.com/maps/contrib/102908935117178424008/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkNC1kJlSB-jICU42sFFMYWBSvGybAkdf-vGRawIOZQ1xFKsY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich und meine Tochter(7Jahre)hatten dort einen Termin für ein Hautscreening, musste nicht lange warten am Tag des Termines. Es waren alle super freundlich. Die Frau Doktor hat eine sehr freundliche und kompetente Art, und hat meine Tochter gut mit einbezogen. Bin völlig zufrieden. Die Praxis ist sehr hell, sauber und modern. Kann ich uneingeschränkt empfehlen👍🏻",
       "time": 1791210825,
       "translated": false
@@ -1426,11 +1450,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 164,
+  "reviewCount": 165,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-01T11:40:13.161Z"
+  "lastUpdated": "2026-11-04T12:46:22.150Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Lilli Dright",
+      "author_url": "https://www.google.com/maps/contrib/108915361107745200377/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7UZvfoZj9E4ngd8NbEjfPYqvLmshH0zAT7DnZ8l_YQR6Q_Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793634116,
+      "translated": false
+    },
+    {
       "author_name": "Freia Willems-Theisen",
       "author_url": "https://www.google.com/maps/contrib/111831328808783797126/reviews",
       "language": "de",
@@ -178,6 +188,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqa0EmEf4_RoicpPq_4DgJKbuedSaZbhDS2irsdDjEb7r3jg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1788419574,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Olk",
+      "author_url": "https://www.google.com/maps/contrib/114869659343682404654/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqa0EmEf4_RoicpPq_4DgJKbuedSaZbhDS2irsdDjEb7r3jg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1788419574,
       "translated": false
@@ -994,11 +1014,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 54,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-01T11:40:40.113Z"
+  "lastUpdated": "2026-11-04T12:46:46.528Z"
 }
