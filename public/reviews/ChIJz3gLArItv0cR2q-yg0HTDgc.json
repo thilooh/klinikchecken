@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jan Hillebrand",
+      "author_url": "https://www.google.com/maps/contrib/109757896717864523231/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUStClqyVQwckMKKBij64RxXBzoTdTvjqP1NBdds2HPWfV0AXg2Iw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Frau und ich wurden sehr gut von Dr. Omaj und seinem Team behandelt. Wir empfehlen seine tolle Praxis sehr gerne weiter!",
+      "time": 1793864580,
+      "translated": false
+    },
+    {
       "author_name": "Marcel Bischof",
       "author_url": "https://www.google.com/maps/contrib/101004773705497163787/reviews",
       "language": "de",
@@ -30,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCZIKGJe7cd2z-cteh7YqjfDqo9Udc50r7puVnqqLcwVJeFNWp=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Zwei-Klassen-Behandlung schon bei der Terminvereinbarung!\n\nSobald man am Telefon „gesetzlich versichert“ auswählt, kommt sofort die Bandansage, dass angeblich alle Mitarbeiter im Gespräch seien. Anschließend wird man darauf verwiesen, einen Termin per E-Mail zu vereinbaren.\n\nGerade wenn man akute gesundheitliche Beschwerden hat und dringend einen Termin benötigt, ist das absolut enttäuschend.\n\nAls gesetzlich Versicherter fühlt man sich hier bereits bei der Kontaktaufnahme benachteiligt. Patienten sollten unabhängig von ihrer Versicherungsart ernst genommen werden.\n\nSehr enttäuschend und alles andere als patientenfreundlich!",
+      "time": 1793269268,
+      "translated": false
+    },
+    {
+      "author_name": "Diyar Kourd",
+      "author_url": "https://www.google.com/maps/contrib/115839415511382231558/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCZIKGJe7cd2z-cteh7YqjfDqo9Udc50r7puVnqqLcwVJeFNWp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Zwei-Klassen-Behandlung schon bei der Terminvereinbarung!\n\nSobald man am Telefon „gesetzlich versichert“ auswählt, kommt sofort die Bandansage, dass angeblich alle Mitarbeiter im Gespräch seien. Anschließend wird man darauf verwiesen, einen Termin per E-Mail zu vereinbaren.\n\nGerade wenn man akute gesundheitliche Beschwerden hat und dringend einen Termin benötigt, ist das absolut enttäuschend.\n\nAls gesetzlich Versicherter fühlt man sich hier bereits bei der Kontaktaufnahme benachteiligt. Patienten sollten unabhängig von ihrer Versicherungsart ernst genommen werden.\n\nSehr enttäuschend und alles andere als patientenfreundlich!",
       "time": 1793269268,
       "translated": false
@@ -1617,7 +1641,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 317,
+  "reviewCount": 318,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:06.171Z"
+  "lastUpdated": "2026-11-07T11:29:55.136Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "ECKHARD KÖHN",
+      "author_url": "https://www.google.com/maps/contrib/108688294807592463997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSl-2l9Uf90_yOaaacf2HJv2Jf5fiq3FBAHXoRVybmKr_MKDoV=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Grandios gute Allergologie rund um Herrn Vieluf. - Unaufgeregt, kein hype, sachlich, sehr klar, wirkungsvoll.\n\nDanke !",
+      "time": 1793827217,
+      "translated": false
+    },
+    {
       "author_name": "Katharina Menne-Vogler",
       "author_url": "https://www.google.com/maps/contrib/112682462654790373704/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZiO5h2a-p1MUqMzHTUomRwD2AqnMfNfbdBI36NqYQby0XLtn5=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Rebecca Stier, wenn man nichts riskieren möchte: fachlich topp!\nSehr zufrieden!",
+      "time": 1793268665,
+      "translated": false
+    },
+    {
+      "author_name": "Christoph Lohss",
+      "author_url": "https://www.google.com/maps/contrib/109355514218167962219/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZiO5h2a-p1MUqMzHTUomRwD2AqnMfNfbdBI36NqYQby0XLtn5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr. Rebecca Stier, wenn man nichts riskieren möchte: fachlich topp!\nSehr zufrieden!",
       "time": 1793268665,
       "translated": false
@@ -1940,7 +1964,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 474,
+  "reviewCount": 475,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:10.475Z"
+  "lastUpdated": "2026-11-07T11:29:59.204Z"
 }

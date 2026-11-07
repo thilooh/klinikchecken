@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "Stefan U.",
+      "author_url": "https://www.google.com/maps/contrib/116115552905737115215/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP8NbOzmqndftoggIPwtwtiYUdsJSm5mKSl0ps17qlIJDbEps=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794041064,
+      "translated": false
+    },
+    {
+      "author_name": "Michaela Reimann",
+      "author_url": "https://www.google.com/maps/contrib/113137646371871821525/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrVWEouaPxW4hJpWyOzv_Zl9oBg8k8x7c55Cjz9SUZf0XJ5woS=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793997652,
+      "translated": false
+    },
+    {
+      "author_name": "Walter Läng",
+      "author_url": "https://www.google.com/maps/contrib/103314751946009645291/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVEJ4-I14VmyIvxuttQ4H0_ThMzO3U-wz8OspSCutw1EUATg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es handelte sich um eine Venen OP. Die Vorbereitung zur OP und das zur Verfügung gestellte Informationsmaterial, die Betreuung in der Tagesklinik, Verlauf der OP sowie die Betreuung nach der OP und Wundversorgung, ließen keine Wünsche offen.",
+      "time": 1793965703,
+      "translated": false
+    },
+    {
+      "author_name": "Marion Mitterhuber",
+      "author_url": "https://www.google.com/maps/contrib/109899319386475977283/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_Rx18u1WcFgZ_SCy0HuT5h6795EMyn2whUlkoCbSX1IO1oQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War zur Knie Op  im Krankenhaus die Schwertern und Pfleger sind alle sehr freundlich und  Fachlich gut ausgebildet",
+      "time": 1793829999,
+      "translated": false
+    },
+    {
       "author_name": "Marc Schwalber",
       "author_url": "https://www.google.com/maps/contrib/108818900687699752713/reviews",
       "language": "de",
@@ -1916,11 +1960,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 457,
+  "reviewCount": 461,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-11-04T12:46:21.722Z"
+  "lastUpdated": "2026-11-07T11:30:10.116Z"
 }

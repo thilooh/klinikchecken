@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Volker Kaibel",
+      "author_url": "https://www.google.com/maps/contrib/114231064326134003439/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZh-BnaxVBvXuFDHHFIKAv3kZdgV-aVNvv1yOAu8LfWRw8Xg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793876587,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine und Marko",
+      "author_url": "https://www.google.com/maps/contrib/117585204593718275875/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeXXrdmlIgizT3m5yZiQBu9brziQ0T4vxJ_0ZD2rRry3sHeiXP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles gut organisiert",
+      "time": 1793819774,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Rochlitz",
       "author_url": "https://www.google.com/maps/contrib/108860509415595233924/reviews",
       "language": "de",
@@ -1972,11 +1994,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 528,
+  "reviewCount": 530,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-04T12:46:16.399Z"
+  "lastUpdated": "2026-11-07T11:30:04.865Z"
 }

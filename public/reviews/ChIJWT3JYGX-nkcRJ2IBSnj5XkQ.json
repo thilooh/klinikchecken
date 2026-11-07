@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jürgen Wolkenstein",
+      "author_url": "https://www.google.com/maps/contrib/101716228143265986921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8bQ1AJBWkG0KIs3TARzfM7OrcnzOsIN1hQ94YB6m28IL3zdOh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793899321,
+      "translated": false
+    },
+    {
       "author_name": "El Dorado",
       "author_url": "https://www.google.com/maps/contrib/106618539441832278071/reviews",
       "language": "de",
@@ -1101,12 +1111,12 @@
       "translated": false
     }
   ],
-  "rating": 3.7,
-  "reviewCount": 72,
+  "rating": 3.8,
+  "reviewCount": 73,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-04T12:46:41.501Z"
+  "lastUpdated": "2026-11-07T11:30:30.610Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Caroline Hor",
+      "author_url": "https://www.google.com/maps/contrib/101679053678122831877/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2hXx3aVccd4BXzeXouoP5mWSCvanyOkDumCfRX-mz2iYYHoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793897155,
+      "translated": false
+    },
+    {
       "author_name": "Cornelia May",
       "author_url": "https://www.google.com/maps/contrib/104865194529063073233/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe52O4OJtzKFjcSyaTOSv5nn4ibyt2V4ra28gRG5HYOtPIPA=s128-c0x00000000-cc-rp-mo",
@@ -932,11 +942,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 59,
+  "reviewCount": 60,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-04T12:46:27.367Z"
+  "lastUpdated": "2026-11-07T11:30:15.783Z"
 }

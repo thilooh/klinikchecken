@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Robert Gietl",
+      "author_url": "https://www.google.com/maps/contrib/104097717303258337198/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVK2W8YOYKtbWUpE_hgQtSiGLVXD4dBuulggYu-8rymSVv9h_US=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wurde sehr gut beraten und die Behandlung war Top\nTolles Team",
+      "time": 1794042198,
+      "translated": false
+    },
+    {
       "author_name": "Michael",
       "author_url": "https://www.google.com/maps/contrib/104887120824917325223/reviews",
       "language": "de",
@@ -754,11 +766,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 72,
+  "reviewCount": 73,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-04T12:46:25.649Z"
+  "lastUpdated": "2026-11-07T11:30:14.033Z"
 }

@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Alexander Heinemann",
+      "author_url": "https://www.google.com/maps/contrib/118396355963820201281/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDY32WIFPihIUj6nF2tsXwbECMCTJRytdRjw5e4dTKQJGeBWU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nicht zu empfehlen.",
+      "time": 1793323899,
+      "translated": false
+    },
+    {
       "author_name": "Sabrina Kempe",
       "author_url": "https://www.google.com/maps/contrib/108059845856293481622/reviews",
       "language": "de",
@@ -1924,5 +1936,5 @@
   "rating": 4.6,
   "reviewCount": 314,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:07.532Z"
+  "lastUpdated": "2026-11-07T11:29:56.479Z"
 }

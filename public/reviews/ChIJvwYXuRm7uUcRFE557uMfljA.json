@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Gra Schling",
+      "author_url": "https://www.google.com/maps/contrib/101406904814248381425/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrPhKsw7gMrUSeHFtF9YK9Z2_aeE80wc5mb1j5-YRUEGxqtw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundliches Praxisteam und kompetente Ärzte. Gute Organisation.",
+      "time": 1792226491,
+      "translated": false
+    },
+    {
       "author_name": "rüdiger wenzel",
       "author_url": "https://www.google.com/maps/contrib/102664802912876741280/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlW5J32tqAVGJlPJEs-2wnR8dil9Bd22L_EJ8KD2OMp33meg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -72,6 +84,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlW5J32tqAVGJlPJEs-2wnR8dil9Bd22L_EJ8KD2OMp33meg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1791607518,
+      "translated": false
+    },
+    {
+      "author_name": "rüdiger wenzel",
+      "author_url": "https://www.google.com/maps/contrib/102664802912876741280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlW5J32tqAVGJlPJEs-2wnR8dil9Bd22L_EJ8KD2OMp33meg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1791607518,
       "translated": false
@@ -740,5 +762,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-04T12:46:18.657Z"
+  "lastUpdated": "2026-11-07T11:30:07.052Z"
 }

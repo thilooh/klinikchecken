@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mac Muksi",
+      "author_url": "https://www.google.com/maps/contrib/109836801284924776538/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpIhy9gL5EAWX59qK5eg2mrJjkjSvPj3B_i-bPD1dYrPvzErRx=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut 👍🏻 geführte Praxis, bin neuer Patient und habe mir einen Medizinischen und einen kosmetischen Eingriff unterzogen. War alles BESTENS, Tolles Team. Sehr gute Versorgung und Behandlung. Klare Empfehlung meinerseits",
+      "time": 1793798580,
+      "translated": false
+    },
+    {
       "author_name": "Zehra Aydin",
       "author_url": "https://www.google.com/maps/contrib/116719089793969663300/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5u83_g2WsvqlmsAb8sKdm3EVwQ6wgpar2FDA6PLiUTWG-=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich fühle mich hier gut aufgehoben. Dr Szabo und sein Team sind sehr freundlich.  Habe mir hier Muttermale entfernen lassen. Alles super und ohne Komplikationen verlaufen. Wartezeit bei Terminen zwischen 5 und 20 Minuten, was ich für eine Facharztpraxis recht \"kurz\" finde",
+      "time": 1792685170,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Basteck",
+      "author_url": "https://www.google.com/maps/contrib/104639865988187852405/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5u83_g2WsvqlmsAb8sKdm3EVwQ6wgpar2FDA6PLiUTWG-=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich fühle mich hier gut aufgehoben. Dr Szabo und sein Team sind sehr freundlich.  Habe mir hier Muttermale entfernen lassen. Alles super und ohne Komplikationen verlaufen. Wartezeit bei Terminen zwischen 5 und 20 Minuten, was ich für eine Facharztpraxis recht \"kurz\" finde",
       "time": 1792685170,
       "translated": false
@@ -1378,11 +1402,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 229,
+  "reviewCount": 230,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-04T12:46:21.069Z"
+  "lastUpdated": "2026-11-07T11:30:09.469Z"
 }

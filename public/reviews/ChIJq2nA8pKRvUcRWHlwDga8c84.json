@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "Niklas Schmitt",
+      "author_url": "https://www.google.com/maps/contrib/106030388621197230651/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5Ym2ju2dA8L17bq91c-_UVLxP8wfDRp4FdQZuaYC3zDlBxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin pünktlich zu meinem Termin angekommen, habe meine Überweisung abgegeben und dann den Fragebogen ausgefüllt. Hier wurden auch viele Fragen zu Angeboten der Praxis gestellt, die eher einen kosmetischen Hintergrund hatten und ob ich daran Interesse hätte. Ich wurde dann zügig in den Behandlungsraum gerufen. Nach kurzer Zeit sollte ich nochmal an die Anmeldung, hier wurde mir dann gesagt, ich soll noch die Selbstzahlerpauschale von 50€ zahlen. Dann sollte ich wieder kurz warten. Dann hieß es, ich müsse den Termin selber bezahlen, weil die Überweisung nicht für einen Privattermin ist und ich mich dann darum kümmern soll, dass ich das Geld wieder bekomme. Ich habe dann den Termin abgebrochen und mein Geld zurückgefordert. Das ging aber leider nicht, weil man erst nicht mein Bargeld wollte und ich mit Karte zahlen musste, es wusste aber auch keiner den Pin für das Gerät um eine Erstattung freizugeben. Ich muss jetzt drauf warten, dass die Buchhaltung mir das Geld zurück überweist.",
+      "time": 1793973884,
+      "translated": false
+    },
+    {
+      "author_name": "Lord Vader74",
+      "author_url": "https://www.google.com/maps/contrib/111325509315529680459/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISxrY6jMexe9CmL2C_cjJsZOogXJkZk_S1HBN_apMx-ht1-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr angenehme dermatologische Praxis mit einem freundlichen Team.\n\nBesonders positiv hervorheben möchte ich Frau Dr. Born.\n\nSie überzeugt durch ihre freundliche, empathische und zugewandte Art.\n\nDer persönliche und respektvolle Umgang schafft eine angenehme Atmosphäre.\n\nInsgesamt ein sehr positiver Eindruck – absolut empfehlenswert!",
+      "time": 1793909952,
+      "translated": false
+    },
+    {
+      "author_name": "Reinhold Reusch",
+      "author_url": "https://www.google.com/maps/contrib/104998860874786441583/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6gtNw2WoIqZs8U8wCnyN6FVZ6Thovc5Tivf3jHbwSnoMLEtM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dermatologie Quist ist eine gut besuchte Hautarztpraxis. Trotzdem sind die Mitarbeiter an der Rezeption immer freundlich und hilfbereit. Der \"Fotograph\" war sehr nett und erklärte die Vorgehensweise ganz ruhig und verständlich. Auch die uns behandelnde Ärztin Frau Süssenberger erklärte alles sehr verständlich. Vielen Dank",
+      "time": 1793902972,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah Malta",
+      "author_url": "https://www.google.com/maps/contrib/114441527921496520252/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiJ4N3-rcBQBq-Rq2fNaAgj6wqCQ7ZLJT-rCX5Ad0lBgzY6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe jetzt bald einen Termin bei der Praxis und kann jetzt schon sagen: sehr tolle Mitarbeiter!!! Man wird aufgeklärt und alle Fragen werden mit Geduld beantwortet. Ich bin positiv gestimmt und freue mich umso mehr auf den Termin. Die Liebe Bärbel siebert war am Telefon. Ganz ganz tolle Frau!!",
+      "time": 1793890072,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole",
+      "author_url": "https://www.google.com/maps/contrib/106739156009641543997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKn7fRrU5CwhmrzUslzr1H_1SjQ_1ulZnF9APz1ATbJvfOYJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich möchte mich ganz herzlich bei Frau Dr. Schilling und Frau Dr. Henning für die kompetente und fürsorgliche Behandlung bedanken.",
+      "time": 1793855218,
+      "translated": false
+    },
+    {
       "author_name": "dom sansi",
       "author_url": "https://www.google.com/maps/contrib/100170709578589796642/reviews",
       "language": "de",
@@ -2052,11 +2112,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 368,
+  "reviewCount": 373,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-04T12:46:29.986Z"
+  "lastUpdated": "2026-11-07T11:30:18.921Z"
 }

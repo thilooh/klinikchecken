@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Michel",
+      "author_url": "https://www.google.com/maps/contrib/101478791501794613677/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVzmOGfYEk0WTaGGbRfPTKP0dYVia3vpPjUc8kJ1_zOKARuMCc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Ich hatte eine sehr positive Erfahrung bei Dr. Camerer. Er ist ein außergewöhnlich aufmerksamer und gründlicher Arzt, der sich Zeit nimmt und genau zuhört. Er hat alles verständlich erklärt und sich sehr bemüht, die bestmögliche medizinische Lösung für mein Anliegen zu finden. Ich habe mich rundum gut betreut und in besten Händen gefühlt. Ich kann ihn wärmstens empfehlen.",
+      "time": 1792776163,
+      "translated": false
+    },
+    {
       "author_name": "Sibylle Hauler",
       "author_url": "https://www.google.com/maps/contrib/117871157106830921157/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9DQaXgI62AcPUyOSfBRmY9XNU62VBPUcMYMyNfX7NAgjlcg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -40,6 +52,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9DQaXgI62AcPUyOSfBRmY9XNU62VBPUcMYMyNfX7NAgjlcg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1792689467,
+      "translated": false
+    },
+    {
+      "author_name": "Sibylle Hauler",
+      "author_url": "https://www.google.com/maps/contrib/117871157106830921157/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9DQaXgI62AcPUyOSfBRmY9XNU62VBPUcMYMyNfX7NAgjlcg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1792689467,
       "translated": false
@@ -1318,5 +1340,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-04T12:46:23.462Z"
+  "lastUpdated": "2026-11-07T11:30:11.869Z"
 }

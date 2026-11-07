@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Maike Adler",
+      "author_url": "https://www.google.com/maps/contrib/110132366538984867460/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInkkzlX53aTilUfHlYIz3t6FR64hnJ36nHeBct1bz9mJEX_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793878546,
+      "translated": false
+    },
+    {
+      "author_name": "Tom Scharfenorth",
+      "author_url": "https://www.google.com/maps/contrib/105178932804115412606/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcWTO3dO2Gb4BrolNwsZxTJj48iWOB8cIlBq8GFgZ_c89swNY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Spitzenklasse! Ich habe bereits für den nächsten Tag einen Termin bekommen (sehr einfach online vereinbart). Vor Ort lief alles sehr angenehm, super professionell und schnell ab und ich fühlte mich gut aufgehoben und beraten.",
+      "time": 1793878022,
+      "translated": false
+    },
+    {
+      "author_name": "Bjoern Kock",
+      "author_url": "https://www.google.com/maps/contrib/108287040148347322101/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzGAOMvcTCdJuKNc8U1odaj3lodTHDQTYWZzJ2wvXLk0zn9Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Termin, Behandlung,Betreuung erste Klasse sehr zufrieden mit der Praxis. Es konnte schon oft geholfen werden.",
+      "time": 1793871066,
+      "translated": false
+    },
+    {
+      "author_name": "Ulrich Fink",
+      "author_url": "https://www.google.com/maps/contrib/103250809355589267476/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIovs2Ay_Kr-TCx7Fx8R5WyhXT-p4JJMngT7oIpkdO6CK59vw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Stimmung in der Praxis ist sehr toll. Alle Mitarbeiter freundlich. Auch wenn nicht geplante Behandlungen nötig sind, wird das mitgemacht. Ganz besonderer Dank an Frau Dr \" Flitz\"",
+      "time": 1793809875,
+      "translated": false
+    },
+    {
       "author_name": "Oskar Broßwitz",
       "author_url": "https://www.google.com/maps/contrib/111120750876671565608/reviews",
       "language": "de",
@@ -2642,11 +2688,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2471,
+  "reviewCount": 2474,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-04T12:46:17.059Z"
+  "lastUpdated": "2026-11-07T11:30:05.528Z"
 }

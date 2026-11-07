@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Felix Otto",
+      "author_url": "https://www.google.com/maps/contrib/102921494636677758986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWyjp1MC5gKAI5ZR6ep96w9c_RzhIJkDEC--v1PrCWsGV4tA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793898005,
+      "translated": false
+    },
+    {
       "author_name": "Michi Klaus",
       "author_url": "https://www.google.com/maps/contrib/108337869234791620461/reviews",
       "language": "de",
@@ -1691,7 +1701,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 244,
+  "reviewCount": 245,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:05.477Z"
+  "lastUpdated": "2026-11-07T11:29:54.470Z"
 }

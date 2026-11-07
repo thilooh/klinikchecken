@@ -1,6 +1,38 @@
 {
   "reviews": [
     {
+      "author_name": "Rafet Memaj",
+      "author_url": "https://www.google.com/maps/contrib/109892879211847138340/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTPCq7ohCZOsvYXpVf7nYogU5RvCApA_BdRYA8An9ONwWBvOz8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793949025,
+      "translated": false
+    },
+    {
+      "author_name": "Gisela Merz",
+      "author_url": "https://www.google.com/maps/contrib/111813639969419559278/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_ZNmjPcS4tvyokHkVfAYjp_7FQ2-kh8wNMIG1K_-SzafTlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Enttäuschender Umgang mit Patienten – absolut nicht empfehlenswert!\n\nIch bin wirklich enttäuscht und verärgert über den Umgang in dieser Hautarztpraxis.\n\nIch wollte mich aufgrund einer akuten Hautentzündung, die sich bereits seit über einer Woche verschlimmert und deren Rötung zunehmend größer geworden ist, ärztlich untersuchen lassen. Statt einer Untersuchung oder zumindest einer vernünftigen Einschätzung wurde ich in der Praxis einfach abgewiesen mit dem Hinweis, dass nur Notfälle behandelt werden.\n\nIch erwarte nicht, dass man ohne Termin sofort ausführlich behandelt wird. Aber bei einer akuten Entzündung hätte ich zumindest einen professionellen Umgang, eine kurze Einschätzung oder eine sinnvolle Weitervermittlung erwartet.\n\nPatientenfreundlichkeit und Hilfsbereitschaft sehen für mich definitiv anders aus.\n\nFür mich war das eine äußerst enttäuschende Erfahrung. Diese Praxis werde ich nicht weiterempfehlen.",
+      "time": 1793904798,
+      "translated": false
+    },
+    {
+      "author_name": "Rudolf Ebert",
+      "author_url": "https://www.google.com/maps/contrib/110454394320990700140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILvSphAVeQs12cQ1IeAndP5tPZxiN_Q9mADBjGJ6ZIeIou-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793792736,
+      "translated": false
+    },
+    {
       "author_name": "Sabrina",
       "author_url": "https://www.google.com/maps/contrib/111236094870885164159/reviews",
       "language": "de",
@@ -1804,11 +1836,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1128,
+  "reviewCount": 1130,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-04T12:46:24.309Z"
+  "lastUpdated": "2026-11-07T11:30:12.737Z"
 }

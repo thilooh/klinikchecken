@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "celine Glücklich",
+      "author_url": "https://www.google.com/maps/contrib/118305871211847879701/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWf2C4sAqnxk_neMtcg8dkE7tqmJ_2SDD7y9gLFq-9V0JPgsdh=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man ruft an es geht keiner ran versuche den ganzen Tag schon! Online Termin vereinbaren funktioniert auch nicht.",
+      "time": 1793804239,
+      "translated": false
+    },
+    {
       "author_name": "martin WINTER",
       "author_url": "https://www.google.com/maps/contrib/115063303960521597567/reviews",
       "language": "de",
@@ -1784,11 +1796,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 183,
+  "reviewCount": 184,
   "summary": [
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-11-04T12:46:21.939Z"
+  "lastUpdated": "2026-11-07T11:30:10.332Z"
 }

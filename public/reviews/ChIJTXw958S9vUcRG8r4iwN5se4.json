@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Adil Harraqi",
+      "author_url": "https://www.google.com/maps/contrib/110258413884202265801/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUleH_H_qJvOA-_cKuFeKa3Z0TxghwZscIlJq9g0PgpUAa9er9p=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider war mein Besuch heute sehr enttäuschend. Ich kam mit einem dringenden Anliegen kurz vor Praxisschluss, wurde aber nicht hereingelassen. Mir wurde gesagt, dass die Ärzte bereits um 15:00 Uhr gehen. Laut den angegebenen Öffnungszeiten ist die Praxis jedoch bis 17:00 Uhr geöffnet.\nBesonders enttäuscht hat mich der Umgangston des Personals, der unfreundlich und herablassend war. Gerade in einem Notfall erwarte ich mehr Verständnis oder zumindest einen Hinweis, wohin ich mich wenden kann.\nIch bitte darum, die Öffnungszeiten korrekt anzugeben und im Umgang mit Patienten freundlicher zu sein.",
+      "time": 1793982353,
+      "translated": false
+    },
+    {
       "author_name": "Rafik India",
       "author_url": "https://www.google.com/maps/contrib/103008222483482607334/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa0GA3iANjKojcv8LJT4vjxjZKCeFeswR0yoQB-5EW7EFjJgQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793352561,
+      "translated": false
+    },
+    {
+      "author_name": "Rafik India",
+      "author_url": "https://www.google.com/maps/contrib/103008222483482607334/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa0GA3iANjKojcv8LJT4vjxjZKCeFeswR0yoQB-5EW7EFjJgQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1793352561,
       "translated": false
@@ -18,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV90mifj2NcYhw_1rS7qJQZZWfHNQ-4jfKkwt26LtLsJu8r8L0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Beratung und gründliche sowie kompetente Untersuchung - aus meiner persönlichen Sicht sehr zu empfehlen...",
+      "time": 1793275463,
+      "translated": false
+    },
+    {
+      "author_name": "Erik Skala",
+      "author_url": "https://www.google.com/maps/contrib/112716069744831321522/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV90mifj2NcYhw_1rS7qJQZZWfHNQ-4jfKkwt26LtLsJu8r8L0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr gute Beratung und gründliche sowie kompetente Untersuchung - aus meiner persönlichen Sicht sehr zu empfehlen...",
       "time": 1793275463,
       "translated": false
@@ -66,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjpoN45NsrwveKdyqPfxOZbCzz92wTYT6aFFv6Jpkg2VZq2vKc=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ganz gut",
+      "time": 1792599205,
+      "translated": false
+    },
+    {
+      "author_name": "Maikel Yakob",
+      "author_url": "https://www.google.com/maps/contrib/105880696320378259718/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjpoN45NsrwveKdyqPfxOZbCzz92wTYT6aFFv6Jpkg2VZq2vKc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ganz gut",
       "time": 1792599205,
       "translated": false
@@ -1830,11 +1876,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 167,
+  "reviewCount": 168,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-04T12:46:29.769Z"
+  "lastUpdated": "2026-11-07T11:30:18.683Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dennis “HONIGDACHS” N",
+      "author_url": "https://www.google.com/maps/contrib/103634610027367452992/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKani5Sbcu8GxQoh560bGdfR5EepCpB5lOM9bUfn3OZBYHAedIW=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte letztens ein Gespräch+ routine Untersuchung, durfte 40 min im Wartezimmer darauf warten obwohl ich pünktlich war. Diesmal warte ich seit 2 Stunden im Wartezimmer. Katastrophe diese Überbuchungen! Terminplanung für die Tonne",
+      "time": 1793876189,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Meyer",
       "author_url": "https://www.google.com/maps/contrib/100792448084460957542/reviews",
       "language": "de",
@@ -13,11 +25,33 @@
       "translated": false
     },
     {
+      "author_name": "Andreas Meyer",
+      "author_url": "https://www.google.com/maps/contrib/100792448084460957542/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnESv6dYv6oGWjIUDSMcyHAweUaXalz47mnANFh9AR8nIbag=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meine Frau ist sehr zufrieden",
+      "time": 1793345443,
+      "translated": false
+    },
+    {
       "author_name": "JTM",
       "author_url": "https://www.google.com/maps/contrib/104358825110030755003/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzEBEEw6Mt9Z0C66WOr_Lw4UgBqsbEo-Hkv5oKBS5fcNR75mQ=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793274847,
+      "translated": false
+    },
+    {
+      "author_name": "JTM",
+      "author_url": "https://www.google.com/maps/contrib/104358825110030755003/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzEBEEw6Mt9Z0C66WOr_Lw4UgBqsbEo-Hkv5oKBS5fcNR75mQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1793274847,
       "translated": false
@@ -1956,11 +1990,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 286,
+  "reviewCount": 287,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-04T12:46:13.463Z"
+  "lastUpdated": "2026-11-07T11:30:02.040Z"
 }

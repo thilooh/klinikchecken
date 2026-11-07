@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "uwe kastner",
+      "author_url": "https://www.google.com/maps/contrib/100033039402551452132/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQgruTOHQA6UQAA9vBjxP1n05Nb-BVhc9-RwZdT_OnY7rUzc8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793855489,
+      "translated": false
+    },
+    {
       "author_name": "aleyna",
       "author_url": "https://www.google.com/maps/contrib/117127253477032026362/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRSqpaaC__Az1me39uRZmPgSYmNNVH0yx02IjaYMuKFw2Gd2iMGg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -186,6 +196,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFPeB1i0oLoxmp2kPnpUtttI5SVfd9ePOAH_zt3Qp2x7VP4XCq=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Top\nAlle nett\nNehmen sich Zeit\nHeute dran gekommen, obwohl ich keinen Termin hatte\nAbsolute bedingungslose Empfehlung\nTOP Arzt\nErklärt immer alles, Diagnosen werden gut beschrieben\nIch bin sehr begeistert",
+      "time": 1788769008,
+      "translated": false
+    },
+    {
+      "author_name": "Klaus Budzin",
+      "author_url": "https://www.google.com/maps/contrib/103304116099874858775/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFPeB1i0oLoxmp2kPnpUtttI5SVfd9ePOAH_zt3Qp2x7VP4XCq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Top\nAlle nett\nNehmen sich Zeit\nHeute dran gekommen, obwohl ich keinen Termin hatte\nAbsolute bedingungslose Empfehlung\nTOP Arzt\nErklärt immer alles, Diagnosen werden gut beschrieben\nIch bin sehr begeistert",
       "time": 1788769008,
       "translated": false
@@ -1156,11 +1178,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 80,
+  "reviewCount": 81,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-04T12:46:14.611Z"
+  "lastUpdated": "2026-11-07T11:30:03.127Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tim Nagel",
+      "author_url": "https://www.google.com/maps/contrib/102256378095687723647/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_IdHjyc3GFqbwP-o-8nYDDAfUJ63EaXHDMt75VrkBmShVuyLV7g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr sympathischer Arzt der mich professionell und menschlich untersucht und beraten hat, schöne Praxis",
+      "time": 1793977269,
+      "translated": false
+    },
+    {
       "author_name": "Nicole Skodda",
       "author_url": "https://www.google.com/maps/contrib/103006021585569899894/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTVH_b-YtMXe8O_MPvqtPiqhekTrmdzNrA16yJ8ISbTMMpog=s128-c0x00000000-cc-rp-mo",
@@ -1076,7 +1088,7 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 81,
+  "reviewCount": 82,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:10.089Z"
+  "lastUpdated": "2026-11-07T11:29:58.823Z"
 }

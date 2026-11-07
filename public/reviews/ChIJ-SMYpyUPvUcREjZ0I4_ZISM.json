@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "U. Caspar",
+      "author_url": "https://www.google.com/maps/contrib/115647247824651067527/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrRnMjk7WfrTIBz1NliWdkzgS-8lxH_Gfouepdef4W2zn1ag=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolles Team, tolle Praxis.\nOP ist super verlaufen. Keine Schmerzen oder irgendwelche Probleme. Alles wurde verständlich erklärt.\nKann man definitiv nur weiterempfehlen 👌.",
+      "time": 1793881729,
+      "translated": false
+    },
+    {
       "author_name": "Tina",
       "author_url": "https://www.google.com/maps/contrib/105025405850445815857/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1cFhL77HXbjXSGj5PWbqrwMjitOsLgaCU8pNeez847bicSh-z1g=s128-c0x00000000-cc-rp-mo-ba2",
@@ -40,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlu2AbCSVfG2BieV_AaBG8ZF6qsadB7000_eEoZejajFjPzg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch war bei Frau Dr. Laura A. Petrescu zur Entfernung meiner Krampfadern und bin rundum zufrieden! Die OP verlief hervorragend und das gesamte Team war sehr freundlich, einfühlsam und professionell. Ich habe mich jederzeit bestens aufgehoben gefühlt. Ein großes Dankeschön an Frau Dr. Petrescu und das tolle Team! Absolute Weiterempfehlung! ❤️\n\nLiebe Grüße Seda Ustaoglu",
+      "time": 1792669238,
+      "translated": false
+    },
+    {
+      "author_name": "Seda Ustaoglu",
+      "author_url": "https://www.google.com/maps/contrib/114339016345228992309/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlu2AbCSVfG2BieV_AaBG8ZF6qsadB7000_eEoZejajFjPzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "⭐⭐⭐⭐⭐\n\nIch war bei Frau Dr. Laura A. Petrescu zur Entfernung meiner Krampfadern und bin rundum zufrieden! Die OP verlief hervorragend und das gesamte Team war sehr freundlich, einfühlsam und professionell. Ich habe mich jederzeit bestens aufgehoben gefühlt. Ein großes Dankeschön an Frau Dr. Petrescu und das tolle Team! Absolute Weiterempfehlung! ❤️\n\nLiebe Grüße Seda Ustaoglu",
       "time": 1792669238,
       "translated": false
@@ -1510,5 +1534,5 @@
   "rating": 4.9,
   "reviewCount": 175,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:06.386Z"
+  "lastUpdated": "2026-11-07T11:29:55.361Z"
 }

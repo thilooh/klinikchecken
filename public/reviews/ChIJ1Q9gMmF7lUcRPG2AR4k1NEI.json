@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "eva rozsos",
+      "author_url": "https://www.google.com/maps/contrib/118305734938936628149/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk81jaLCrnmnc5dPsAcnjXWCfjVQJXXUFJEaR7oGHSeQDbdA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kollegin an der Rezeption alles andere als hilfsbereit, und sehr unhöflich",
+      "time": 1793889414,
+      "translated": false
+    },
+    {
       "author_name": "Sascia Stannek",
       "author_url": "https://www.google.com/maps/contrib/110294640355526716413/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLefy2wCa8GETBog6EKivdzjm5gIjAwpdsT23NhCfJivBCPxg=s128-c0x00000000-cc-rp-mo",
@@ -833,12 +845,12 @@
       "translated": false
     }
   ],
-  "rating": 3.8,
-  "reviewCount": 32,
+  "rating": 3.7,
+  "reviewCount": 33,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-04T12:46:46.746Z"
+  "lastUpdated": "2026-11-07T11:30:35.859Z"
 }

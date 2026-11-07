@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Marcel Elsenpeter",
+      "author_url": "https://www.google.com/maps/contrib/108720051010864450667/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEvykdD_Zxo-qZTYG54cz4WoQRr81vCZwTuPkN3eXhz4sKpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Alle super nett und selbst ein guten wickel tisch mit allem was dazu gehört für die kleinen patienten. Kann ich nur empfehlen",
+      "time": 1792662632,
+      "translated": false
+    },
+    {
       "author_name": "Wolfgang Bergens",
       "author_url": "https://www.google.com/maps/contrib/101161953236502691239/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfZxr4ARBOS03WmCPn_toWuejHmmGG37tYUbw5gTOURTtvNQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -1497,5 +1509,5 @@
   "rating": 4.6,
   "reviewCount": 104,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:05.937Z"
+  "lastUpdated": "2026-11-07T11:29:54.917Z"
 }

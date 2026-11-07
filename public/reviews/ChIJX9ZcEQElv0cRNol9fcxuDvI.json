@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Rob Fishr",
+      "author_url": "https://www.google.com/maps/contrib/115007669466770382406/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2bk0cjNGT6a1MZhorNtPvH1ijVbDa_4SIKpkVim-ee6Q7Yu0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schnelle und Kompetente Beratung bis hin zur Venen-OP in beiden Beinen. Narkose und Beatmung waren Top, nichts im Nachgang gemerkt. Aufgewacht, aufgestanden und rumgelaufen. Kurze Zeit später durfte ich schon nach Hause.\nSehr nette Anästhesistin, hat alles erklärt, etc.\nNachsorgetermine verliefen problemlos, ich kam immer sehr schnell in einen Behandlungsraum.\nEs gibt auf jeden Fall viel Durchlauf. Der Zulauf an Patienten ist sehr hoch, was vllt. ebenfalls für sich spricht.",
+      "time": 1794039969,
+      "translated": false
+    },
+    {
+      "author_name": "Parsa A.G",
+      "author_url": "https://www.google.com/maps/contrib/107460240255088249625/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkOmITjxDG79XcK3dAux2fVExpeWbvK_nAmNUEDOlXH9JKJHjB=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte die Ehre, dass Frau Dr. Wieber mich untersucht und behandelt hat. Die Frau Ärztin ist sehr kompetent und freundlich. Ich bin ihr sehr dankbar!",
+      "time": 1793908255,
+      "translated": false
+    },
+    {
       "author_name": "Jörg Emmerich",
       "author_url": "https://www.google.com/maps/contrib/105988915870268858273/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGy11mnkd5_byXnjbe9LK9Hr85FbUz6Ofj23DMFDdP_3TSBbHQWg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Mein Termin für Januar 2027 habe ich vor 6 Monaten vereinbart, dieser wurde nun einfach wortlos via Doctolib abgesagt. Dann erkundigt man sich, wieso das passiert ist. Die Antwort: \"man muß keine Rechenschaft abgeben, wieso wir Termine absagen...\". Kundenfreundlich ist dies nicht.  Den nächsten Termin den man mir anbieten könne wäre im Mai 2027!!. Ich habe dann kurz später versucht als Privatpatient einen Termin zu buchen, diesen hätte ich bereits in einer Woche bekommen ;-) Das sagt eigentlich genug über diese Praxis aus.",
+      "time": 1793282833,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg Emmerich",
+      "author_url": "https://www.google.com/maps/contrib/105988915870268858273/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGy11mnkd5_byXnjbe9LK9Hr85FbUz6Ofj23DMFDdP_3TSBbHQWg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Mein Termin für Januar 2027 habe ich vor 6 Monaten vereinbart, dieser wurde nun einfach wortlos via Doctolib abgesagt. Dann erkundigt man sich, wieso das passiert ist. Die Antwort: \"man muß keine Rechenschaft abgeben, wieso wir Termine absagen...\". Kundenfreundlich ist dies nicht.  Den nächsten Termin den man mir anbieten könne wäre im Mai 2027!!. Ich habe dann kurz später versucht als Privatpatient einen Termin zu buchen, diesen hätte ich bereits in einer Woche bekommen ;-) Das sagt eigentlich genug über diese Praxis aus.",
       "time": 1793282833,
       "translated": false
@@ -1399,11 +1435,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 197,
+  "reviewCount": 199,
   "summary": [
     "Ärztinnen werden durchgehend als kompetent, ehrlich und sehr patientenfreundlich gelobt",
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-11-04T12:46:01.576Z"
+  "lastUpdated": "2026-11-07T11:29:50.610Z"
 }

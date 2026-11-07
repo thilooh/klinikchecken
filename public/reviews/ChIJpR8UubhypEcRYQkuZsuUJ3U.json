@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin Wünsch",
+      "author_url": "https://www.google.com/maps/contrib/117694403729735803322/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5jKupc9Tf4QW8whQaVSxlkKaThciJ1Ug-gpHhJLndGEpS0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich beschreibe hier stellvertretend für meine Mutter, die bisher langjährige Patientin in dieser Praxis war.\nMeine Mutter musste hier nach längerer Zeit vorstellig werden mit Überweisung ihres Hausarztes. Sie wurde schroff und unfreundlich abgewiesen, vom Ehemann der Frau Dr. Brugger, der wohl Momentan am Empfangstresen Dienst tut. Ihr wurde vorgeworfen, dass sie länger nicht da war und nun solle sie sich gefälligst einen anderen Facharzt suchen. Ich bin über dieses Verhalten höchst empört, zumal meine Mutter ihren krebskranken Ehemann zuhause pflegt und bisher einfach gar keine Zeit hatte, spezielle Fachärzte aufzusuchen. Wir hatten uns diesen Termin mühevoll freigeschaufelt. Ich bin auch nicht gewillt, das Ganze auf sich beruhen zu lassen. Ich werde mich ggf. auch an Presse und Fernsehen wenden, weil es einfach nicht sein darf, dass man so mit Patienten umgeht, auch nicht im größten Stress!",
+      "time": 1793969905,
+      "translated": false
+    },
+    {
       "author_name": "Chris",
       "author_url": "https://www.google.com/maps/contrib/112136827326664930254/reviews",
       "language": "de",
@@ -128,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL90MzqDfqjfxhgZwUQzj2zNBCKOPEh2eVl9K2TaQTEJz4-yw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Wir versuchen seit Tagen die Praxis telefonisch zu erreichen, auch Email funktioniert nicht, finde ich sehr traurig und enttäuschend. Man muss mindestens 1 Stern vergeben, um hier weiter zu kommen,aber man muss ja froh sein überhaupt einen Arzt dieser Fachrichtung zu finden",
+      "time": 1788794109,
+      "translated": false
+    },
+    {
+      "author_name": "Simone Leich",
+      "author_url": "https://www.google.com/maps/contrib/110230934572677199316/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL90MzqDfqjfxhgZwUQzj2zNBCKOPEh2eVl9K2TaQTEJz4-yw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Wir versuchen seit Tagen die Praxis telefonisch zu erreichen, auch Email funktioniert nicht, finde ich sehr traurig und enttäuschend. Man muss mindestens 1 Stern vergeben, um hier weiter zu kommen,aber man muss ja froh sein überhaupt einen Arzt dieser Fachrichtung zu finden",
       "time": 1788794109,
       "translated": false
@@ -745,12 +769,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 53,
+  "rating": 4.5,
+  "reviewCount": 54,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-04T12:46:28.441Z"
+  "lastUpdated": "2026-11-07T11:30:17.374Z"
 }

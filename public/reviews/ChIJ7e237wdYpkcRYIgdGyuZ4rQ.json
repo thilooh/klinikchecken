@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Brunotte",
+      "author_url": "https://www.google.com/maps/contrib/105829726488846763712/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnrHus80AKM8M3gDjUhd4TRTNjknAP3K4zoxeSc-1JYnVPrrtd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich sage nur freundlich kompetent\nIn allem perfekt 👌",
+      "time": 1793823384,
+      "translated": false
+    },
+    {
       "author_name": "Lydia Schubert",
       "author_url": "https://www.google.com/maps/contrib/101594831363202772148/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl2yeHSH5yiiR6fKoOsiq2dem9O5_SA_8ntjPV9Ym_8BjdFQ=s128-c0x00000000-cc-rp-mo",
@@ -155,6 +167,18 @@
       "translated": false
     },
     {
+      "author_name": "Gute Seele",
+      "author_url": "https://www.google.com/maps/contrib/116257409810520375356/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbSQGK9vPmvHJJ-znH1ubSbptI33sC5-HZQye7OO-GLDwfi-U=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Top Arzt, liebe Schwestern, bin sehr zufrieden, hatte auch schon einen kleinen Notfall und hatte nach telefonischer Rücksprache einen Termin bekommen und mir wurde sehr gut und schnell geholfen.",
+      "time": 1788643886,
+      "translated": false
+    },
+    {
       "author_name": "Nicole CN",
       "author_url": "https://www.google.com/maps/contrib/117913598902916673639/reviews",
       "language": "de",
@@ -222,6 +246,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPkBkBXYNgnzZcbx89A45mXXiEv_9PS085mbuyVA-69T7nIw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich war in der vergangen Woche in der Praxis als neuer Patient und ich war sehr zufrieden, der Arzt hat sich sehr viel Zeit für mich genommen, meine Beschwerden angehörten konnte mir gute fachliche Informationen geben. Die Schwestern in der Praxis sind auch sehr sehr freundlich, sowohl am telefon, als auch vor Ort. Eine Top Empfehlung. Vielen Dank, ich fühlte mich sehr wohl",
+      "time": 1788626526,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole CN",
+      "author_url": "https://www.google.com/maps/contrib/117913598902916673639/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPkBkBXYNgnzZcbx89A45mXXiEv_9PS085mbuyVA-69T7nIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich war in der vergangen Woche in der Praxis als neuer Patient und ich war sehr zufrieden, der Arzt hat sich sehr viel Zeit für mich genommen, meine Beschwerden angehörten konnte mir gute fachliche Informationen geben. Die Schwestern in der Praxis sind auch sehr sehr freundlich, sowohl am telefon, als auch vor Ort. Eine Top Empfehlung. Vielen Dank, ich fühlte mich sehr wohl",
       "time": 1788626526,
       "translated": false
@@ -892,7 +928,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 53,
+  "reviewCount": 54,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:11.136Z"
+  "lastUpdated": "2026-11-07T11:29:59.869Z"
 }

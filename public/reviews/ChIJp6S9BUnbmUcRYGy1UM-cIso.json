@@ -51,6 +51,16 @@
       "translated": false
     },
     {
+      "author_name": "Jasmin M.",
+      "author_url": "https://www.google.com/maps/contrib/117858212376007790622/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-qZybYCF2oQFGb28MW-NeLaqf-E3NJZBQa6YNCydfzdX72w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1791287948,
+      "translated": false
+    },
+    {
       "author_name": "the lettuce",
       "author_url": "https://www.google.com/maps/contrib/117932750437699624690/reviews",
       "language": "de",
@@ -430,6 +440,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRyJLIHHHBPmBIYc8kOceB0a2YYb8OkPOfrNZSrgg9Klnb8C-z=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 6 Monaten",
+      "text": "Dr. med. Heiko Petersen ist ein sehr netter Arzt der mich grundlich untersucht und mir alles verständlich erklärt hat.",
+      "time": 1775805434,
+      "translated": false
+    },
+    {
+      "author_name": "Tuba tugba",
+      "author_url": "https://www.google.com/maps/contrib/100496130796828111180/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRyJLIHHHBPmBIYc8kOceB0a2YYb8OkPOfrNZSrgg9Klnb8C-z=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 7 Monaten",
       "text": "Dr. med. Heiko Petersen ist ein sehr netter Arzt der mich grundlich untersucht und mir alles verständlich erklärt hat.",
       "time": 1775805434,
       "translated": false
@@ -642,5 +664,5 @@
   "rating": 3.9,
   "reviewCount": 62,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:12.006Z"
+  "lastUpdated": "2026-11-07T11:30:00.734Z"
 }

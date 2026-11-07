@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Marianne Schäffer",
+      "author_url": "https://www.google.com/maps/contrib/118436812797462533555/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocId1Il3B_y_QvQlA32HCmPvHbztuu3OH0C8ai_F6zicwd9TKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Herr Dr. Jawadi ist ein hervorragender Venenspezialist. Er operiert konzentriert, schmerzlos und besitzt dabei einen wunderbaren Humor, mit dem er den Patienen ein grosses Gefühl der Sicherheit vermittelt. Für mich der beste Venenspezialist.\nDie Nachsorge wird prompt und mit Engagement vorgenommen und es werden alle Fragen bestens beantwortet.\nIch kann die gesamte Praxis mit dem besten Gefühl empfehlen.\nMan fühlt sich durch die freundlichen Mitarbeitenden und der wunderbaren Ausstattung fast wie zu Hause.\nWir, als Düsseldorfer, dürfen stolz sein, dass wir eine solch großartige Praxis in unserer Stadt zur Verfügung haben.",
+      "time": 1794043749,
+      "translated": false
+    },
+    {
+      "author_name": "sweet sixty",
+      "author_url": "https://www.google.com/maps/contrib/101765377259591829484/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInDcTh1b3KOOK0BZBwCuyFTF9kz_iy9Bz4zwGpVgc-AuCaEw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr froh, diesen kompetenten Arzt gefunden zu haben. Das ganze Team ist super nett und ich habe mich bei 1 operativen Eingriffen und auch in der Vor- und Nachsorge jederzeit bestmöglich versorgt gefühlt.",
+      "time": 1793891152,
+      "translated": false
+    },
+    {
+      "author_name": "Zahra Daneshmazian",
+      "author_url": "https://www.google.com/maps/contrib/109244722582646076082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKg-swJ7NNNQRrbOWhk8TlMaq_q-sArKT64QGsd38ffcFEUgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793809959,
+      "translated": false
+    },
+    {
       "author_name": "Mila Bega",
       "author_url": "https://www.google.com/maps/contrib/110746525623451513947/reviews",
       "language": "de",
@@ -20,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7Uba9lM1eT-EHahRfUukxwjRxNfmXsR7fz25rUQAn4cXmeQM=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Jawadi ist für mich ein Engel auf Erden! Durch einen frei gewordenen Termin konnte ich schon am nächsten Tag operiert werden – unkompliziert und mit rundum perfekter Betreuung. Er hat die zuvor andernorts entstandene Portnarbe wunderbar korrigiert. Bereits nach zehn Tagen ist sie kaum noch zu sehen.\n\nDoch nicht nur das Ergebnis begeistert mich: Dr. Jawadi und sein ausgesprochen zuvorkommendes Team geben einem vom ersten Moment an das Gefühl, geborgen und fürsorglich betreut zu sein. Ich habe mich jederzeit wohlgefühlt. Von Herzen danke!",
+      "time": 1793426241,
+      "translated": false
+    },
+    {
+      "author_name": "Katharine S.",
+      "author_url": "https://www.google.com/maps/contrib/105366515819307511437/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7Uba9lM1eT-EHahRfUukxwjRxNfmXsR7fz25rUQAn4cXmeQM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr. Jawadi ist für mich ein Engel auf Erden! Durch einen frei gewordenen Termin konnte ich schon am nächsten Tag operiert werden – unkompliziert und mit rundum perfekter Betreuung. Er hat die zuvor andernorts entstandene Portnarbe wunderbar korrigiert. Bereits nach zehn Tagen ist sie kaum noch zu sehen.\n\nDoch nicht nur das Ergebnis begeistert mich: Dr. Jawadi und sein ausgesprochen zuvorkommendes Team geben einem vom ersten Moment an das Gefühl, geborgen und fürsorglich betreut zu sein. Ich habe mich jederzeit wohlgefühlt. Von Herzen danke!",
       "time": 1793426241,
       "translated": false
@@ -1007,7 +1053,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 53,
+  "reviewCount": 56,
   "summary": [],
-  "lastUpdated": "2026-11-04T12:46:05.701Z"
+  "lastUpdated": "2026-11-07T11:29:54.692Z"
 }

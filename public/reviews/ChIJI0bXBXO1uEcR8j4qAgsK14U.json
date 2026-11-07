@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Gabi Wrobel",
+      "author_url": "https://www.google.com/maps/contrib/114481575160102922477/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxBt6tlDwjAFxTbhkDwomoQ6M3rso8LyMyFEjWMRIeilEu6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr  sympathisches und kompetentes Praxisteam",
+      "time": 1793885635,
+      "translated": false
+    },
+    {
+      "author_name": "Tprk_lucy",
+      "author_url": "https://www.google.com/maps/contrib/102225391751013704833/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNzA1KQoB9i_73piCfY0myaCqiEUmsLU2mgBjn6MGYvLaqNZqx9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin schon seit Jahren da und bin Mega zufrieden",
+      "time": 1793883006,
+      "translated": false
+    },
+    {
+      "author_name": "Birgit P",
+      "author_url": "https://www.google.com/maps/contrib/117955583481983023487/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwpcphcdyrvz0jlxi0_YfKXLXAVxcbAv3QRjkQgtBaY7fSSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum ersten mal dort. Sehr angenehme Atmosphäre und ein sehr freundliches Team. Das Ergebnis des Dermascans wurde mir ausführlich erklärt und ich konnte beruhigt wieder gehen\nKontrolle in einem Jahr auf jeden Fall dort.",
+      "time": 1793865137,
+      "translated": false
+    },
+    {
       "author_name": "Carsten Ganswich",
       "author_url": "https://www.google.com/maps/contrib/116439696435280905220/reviews",
       "language": "de",
@@ -1856,11 +1892,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 352,
+  "reviewCount": 355,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-04T12:46:41.070Z"
+  "lastUpdated": "2026-11-07T11:30:30.122Z"
 }

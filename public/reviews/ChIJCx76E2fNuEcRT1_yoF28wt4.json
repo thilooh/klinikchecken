@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Helmut von Hagen",
+      "author_url": "https://www.google.com/maps/contrib/102552246834822742065/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIhilk7M-oVXBx31TO1W2S0b32w_Xpc-YL6w-I6x2EIwtEBQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wegen eines Venen-Strippings bin ich von meiner Phlebologin in die Remigius-Klinik eingewiesen worden. Optisch und organisatorisch hatte ich einen sehr guten Eindruck von der Klinik, obwohl einiges anders abgelaufen ist als erwartet. So war die OP selbst (vermutlich) medizinisch gut, aber z.T. schmerzhaft, und ich  konnte nicht am gleichen Tag nach Hause, sondern musste doch 1 Nacht stationär bleiben. Dies ist allerdings verblüffend gut geregelt worden - Unterbringung und Verpflegung können mit jedem guten Hotel mithalten. Besonders freundlich und kompetent erschienen mir Schwester Rashida (\"Löckchen\") und Nachtschwester Gabi. Im Nachhinein hätte ich mir beim Verlassen ein paar mehr Informationen zum richtigen Verhalten nach der OP gewünscht, sonst hätte ich 5 Sterne gegeben.",
+      "time": 1793824435,
+      "translated": false
+    },
+    {
       "author_name": "Ute Kluckow",
       "author_url": "https://www.google.com/maps/contrib/114179732063966153767/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSnO6BmDPw5TAkRHrI2kBWOJuFLJEWtCQhPnSnqAAKtxpit9A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Bin super zufrieden mit der der gesamten Versorgung gewesen. Von Empfang, über OP bis zur Nachsorge alles top gewesen. Trotz auch stressigen Situationen meist durch unfreundliche Patienten verursacht, behalten die Angestellten einen kühlen Kopf und bleiben trotzdem freundlich. Bleibe auf jeden Fall weiterhin hier in Behandlung, auch wenn die Anfahrt mit 60km nicht gerade um die Ecke ist.",
+      "time": 1793269270,
+      "translated": false
+    },
+    {
+      "author_name": "Helga Sahin",
+      "author_url": "https://www.google.com/maps/contrib/108215879260983615900/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSnO6BmDPw5TAkRHrI2kBWOJuFLJEWtCQhPnSnqAAKtxpit9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Bin super zufrieden mit der der gesamten Versorgung gewesen. Von Empfang, über OP bis zur Nachsorge alles top gewesen. Trotz auch stressigen Situationen meist durch unfreundliche Patienten verursacht, behalten die Angestellten einen kühlen Kopf und bleiben trotzdem freundlich. Bleibe auf jeden Fall weiterhin hier in Behandlung, auch wenn die Anfahrt mit 60km nicht gerade um die Ecke ist.",
       "time": 1793269270,
       "translated": false
@@ -1844,11 +1868,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 456,
+  "reviewCount": 457,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-11-04T12:46:39.356Z"
+  "lastUpdated": "2026-11-07T11:30:28.411Z"
 }
