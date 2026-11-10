@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "L. L.",
+      "author_url": "https://www.google.com/maps/contrib/105803061750125144007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWVqMoVfZA7zs0aSD_DVW37t6eqeMwu_XwzQZ1fppeHwYxmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794252400,
+      "translated": false
+    },
+    {
       "author_name": "Jack Post",
       "author_url": "https://www.google.com/maps/contrib/110734639505209245646/reviews",
       "language": "de",
@@ -164,6 +174,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcvj9II3EEIhtIq0UmPjeV32hjdnVPl5WD1qGUm65ALjonJg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ein extrem nettes Team, sowohl Empfang, Arzthelferin,Arzt. Absolut top. Sehr freundlich. Absolut empfehlenswert.",
+      "time": 1788973098,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie Linscheid",
+      "author_url": "https://www.google.com/maps/contrib/101121188288344055540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcvj9II3EEIhtIq0UmPjeV32hjdnVPl5WD1qGUm65ALjonJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ein extrem nettes Team, sowohl Empfang, Arzthelferin,Arzt. Absolut top. Sehr freundlich. Absolut empfehlenswert.",
       "time": 1788973098,
       "translated": false
@@ -938,11 +960,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 49,
+  "reviewCount": 50,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-11-07T11:30:34.575Z"
+  "lastUpdated": "2026-11-10T13:14:31.491Z"
 }

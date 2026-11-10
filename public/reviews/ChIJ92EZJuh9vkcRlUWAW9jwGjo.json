@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jan",
+      "author_url": "https://www.google.com/maps/contrib/107081411613225946387/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkczX21CQbXa3PUukmM-wzWE1k_RtKf4v24-qO6jZPCF27SW4=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es erfordert schon eine ausgesprochen schlechte Behandlung, um mich dazu zu bringen, meine Zeit für eine Google Bewertung zu opfern..\nMeine Frau und ich wurden selten so unfreundlich und respektlos behandelt wie in diesem Laden.\n\nAußerdem kann man vor Ort keinen Termin ausmachen. Man MUSS sich versuchen telefonisch zu melden. Das ist allerdings kaum möglich, da das Telefon einfach nur klingelt und das Personal mit den einfachsten Aufgaben komplett überfordert ist.\nDas lässt es dann auch die Patienten spüren ;)",
+      "time": 1794212005,
+      "translated": false
+    },
+    {
       "author_name": "Fatime Demirhan Alay",
       "author_url": "https://www.google.com/maps/contrib/102091575841104155316/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwlXfD1GYh7k5mTJvFnxf55QRDSZ8Q2LVwkGlUfZSNrzHuBA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich bin schon seit Jahren in der Praxis Patientin. Habe mich von Anfang an dort wohlgefühlt,  auch jetzt mit den neuen Ärzten.  Auch die Arzthelferinnen, egal ob an der Anmeldung,  bei den Untersuchungen oder auch im OP sind immer sehr nett. Die Ärzte nehmen sich wirklich Zeit für die Patienten.\nKann diese Praxis wärmstens empfehlen.\nUnd Termine sind meiner Meinung nach jetzt viel schneller zu bekommen als vorher.",
+      "time": 1792853875,
+      "translated": false
+    },
+    {
+      "author_name": "Iris Taugs-Lützel",
+      "author_url": "https://www.google.com/maps/contrib/116991115925593076097/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwlXfD1GYh7k5mTJvFnxf55QRDSZ8Q2LVwkGlUfZSNrzHuBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich bin schon seit Jahren in der Praxis Patientin. Habe mich von Anfang an dort wohlgefühlt,  auch jetzt mit den neuen Ärzten.  Auch die Arzthelferinnen, egal ob an der Anmeldung,  bei den Untersuchungen oder auch im OP sind immer sehr nett. Die Ärzte nehmen sich wirklich Zeit für die Patienten.\nKann diese Praxis wärmstens empfehlen.\nUnd Termine sind meiner Meinung nach jetzt viel schneller zu bekommen als vorher.",
       "time": 1792853875,
       "translated": false
@@ -771,12 +795,12 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 30,
+  "rating": 4.2,
+  "reviewCount": 31,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:34.360Z"
+  "lastUpdated": "2026-11-10T13:14:31.254Z"
 }

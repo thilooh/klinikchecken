@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Simone -",
+      "author_url": "https://www.google.com/maps/contrib/115171891106495192036/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGzNxgJxd5Y_4fRTXE1BN8R5Mr2iRG1pYkEjhZwDIMgO7Uaw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kann die Praxis sehr weiter empfehlen!\nMan hat mir spontan sehr gut geholfen.Nach einer längeren Odyssee wegen einem Ekzem, wie sich später rausstellte, rief ich morgens in der Praxis an, war ein Tip von meinem Freund, und fragte nach einem Termin.\nMan konnte mich am selben Tag als Neupatientin noch einschieben, erkannte was ich hatte, bekam eine Salbe und nach vier Tagen war das Problem nicht mehr da.\nDer Arzt hat sich auch Zeit genommen und einen Abstrich gemacht  was vorher woanders keiner gemacht hatte.\nVolle Emofehlung!",
+      "time": 1794167154,
+      "translated": false
+    },
+    {
       "author_name": "hoodfellazproductionz",
       "author_url": "https://www.google.com/maps/contrib/108768234525015745624/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX40i8pNAS_qmJ8lS6l1nGNBQIfz4oaq7TMcXE2XZBEWYrmGwzLEw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Die unfreundlichste Praxis in Köln. Die nette Dame in blond und Brille sollte mal ne Schule für Freundlichkeit besuchen und wie man mit Menschen redet. 5 minus !!!! Nie wieder diese Praxis",
+      "time": 1791797850,
+      "translated": false
+    },
+    {
+      "author_name": "hoodfellazproductionz",
+      "author_url": "https://www.google.com/maps/contrib/108768234525015745624/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX40i8pNAS_qmJ8lS6l1nGNBQIfz4oaq7TMcXE2XZBEWYrmGwzLEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Die unfreundlichste Praxis in Köln. Die nette Dame in blond und Brille sollte mal ne Schule für Freundlichkeit besuchen und wie man mit Menschen redet. 5 minus !!!! Nie wieder diese Praxis",
       "time": 1791797850,
       "translated": false
@@ -246,6 +270,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOL87x60JMRh8CyLVQdgS7wOWF20q8sexMwk7I6MlKI7cyuA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1786477298,
+      "translated": false
+    },
+    {
+      "author_name": "Emily S.",
+      "author_url": "https://www.google.com/maps/contrib/115409749129864784236/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOL87x60JMRh8CyLVQdgS7wOWF20q8sexMwk7I6MlKI7cyuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1786477298,
       "translated": false
@@ -775,11 +809,11 @@
     }
   ],
   "rating": 3.1,
-  "reviewCount": 129,
+  "reviewCount": 130,
   "summary": [
     "Akuttermine kurzfristig verfügbar, behandelnde Ärzte als freundlich beschrieben",
     "Rezeption und Telefon wiederholt als unfreundlich und schwer erreichbar kritisiert",
     "Privatpatienten kommen schnell dran — Kassenpatienten warten oft mehrere Monate"
   ],
-  "lastUpdated": "2026-11-07T11:29:50.849Z"
+  "lastUpdated": "2026-11-10T13:13:41.427Z"
 }

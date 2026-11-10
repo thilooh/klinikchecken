@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Diana Fandi",
+      "author_url": "https://www.google.com/maps/contrib/111624327923722975829/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJK0gealIR_mKO29tj7T29bi4KUZ0Rw8LS7HxT4HAyruPI03g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider sehr schlechte Erfahrung. Die ältere Mitarbeiterin am Empfang war äußerst unfreundlich. Mir wurde ebenfalls erst vor Ort gesagt, dass ich für die Untersuchung privat bezahlen müsse. Ich wollte zunächst nur meinen Arm zeigen, damit der Arzt beurteilen kann, was los ist. Auf meine Frage nach einem neuen Termin bekam ich keine Antwort. Statt einer freundlichen Erklärung wurde ich sehr unangenehm behandelt. Nach dieser Erfahrung kann ich die Praxis absolut nicht empfehlen.",
+      "time": 1794229534,
+      "translated": false
+    },
+    {
       "author_name": "Lara",
       "author_url": "https://www.google.com/maps/contrib/108589784630365814047/reviews",
       "language": "de",
@@ -52,6 +64,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTYX8swCaNIuVeBPa0iiycOS0OK1QZHpN5CTztck6oyoqq3fg=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793085285,
+      "translated": false
+    },
+    {
+      "author_name": "Sam Salamatian",
+      "author_url": "https://www.google.com/maps/contrib/107475350383035219962/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTYX8swCaNIuVeBPa0iiycOS0OK1QZHpN5CTztck6oyoqq3fg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1793085285,
       "translated": false
@@ -1790,5 +1812,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:02.481Z"
+  "lastUpdated": "2026-11-10T13:13:55.292Z"
 }

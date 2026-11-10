@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "My Name is Nobody (R.E.D.)",
+      "author_url": "https://www.google.com/maps/contrib/116883834752007627715/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcrU8SDzrbLpSJVN4qJToF9a_0BKkU_vQCbMDVPvl8Nntx8w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ersttermin Vorsorgeuntersuchung\nFreundlicher Empfang, kompetente und ausführliche Untersuchung. Das Gespräch mit Dr.Mrowka war entspannt, sehr angenehm und informativ. Alles wurde sehr gut erklärt und vermittelt. Ohne Einschränkung 100%ig empfehlenswert.",
+      "time": 1794298392,
+      "translated": false
+    },
+    {
+      "author_name": "C M",
+      "author_url": "https://www.google.com/maps/contrib/116655751096124273276/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX21yl_3_lTEtKxSTwwsTwweyMYmQMbGs1AZ2OyEaGOvxdyVSCLgw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nWir haben heute ganz spontan über das Online-Buchungssystem einen Termin zum Hautkrebsscreening bekommen, um einige Unsicherheiten abklären zu lassen. Das gesamte Praxisteam begegnete uns ausgesprochen freundlich, zuvorkommend und geduldig – auch im Umgang mit älteren Menschen, die etwas mehr Zeit benötigen.\n\nDie Untersuchung wurde sehr gründlich und gewissenhaft durchgeführt. Insgesamt fühlt man sich in dieser Praxis bestens aufgehoben und ernst genommen. Vielen lieben Dank an das gesamte Team für die einfühlsame Betreuung! Eine klare Empfehlung.",
+      "time": 1794251371,
+      "translated": false
+    },
+    {
+      "author_name": "thomas berthold",
+      "author_url": "https://www.google.com/maps/contrib/110404180225729731042/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhT7C3lW3qxcPuLvJd7b8pQhLVixLLXARt-_QSTMWc_NnH21g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Termin bei Frau Dr. Haase war super. Kurzfristig Kurzfristig einen Termin bekommen und zügig in der Kurzsprechstunde bearbeitet.  Vielen Dank",
+      "time": 1794225521,
+      "translated": false
+    },
+    {
       "author_name": "Maike Adler",
       "author_url": "https://www.google.com/maps/contrib/110132366538984867460/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInkkzlX53aTilUfHlYIz3t6FR64hnJ36nHeBct1bz9mJEX_A=s128-c0x00000000-cc-rp-mo",
@@ -2688,11 +2724,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2474,
+  "reviewCount": 2478,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-07T11:30:05.528Z"
+  "lastUpdated": "2026-11-10T13:13:58.749Z"
 }

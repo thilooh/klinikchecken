@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Josipa Simundic",
+      "author_url": "https://www.google.com/maps/contrib/112952770661814690629/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLk2wqFovsVfeTDBKzsnUb-ETReaf0QCO24qdAEi-i49nhuQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "My honest review about this private clinic is that I am very disappointed with service, I felt like I am just a number here. Although they said one price, my bill came almost 70 € higher for the things they didn't even do. I got no aftercare at all, not even said or writen on a piece of a paper. They said laser is going to be for 10-15 minutes, my treatment lasted for 2-maximum 3 minutes. For two days my skin was like nothing happened, then days after bacome very much red and much worse that was before the treatment. Giving this much amount of money for no consultation, no explanation, no after care and 2 minutes of laser treatment is so not worth it. I canceled my next appointment since I am very much disappointed and will search for another private practice. If I am going to pay hefty I want my procedure to be perfect. Everything about after care I needed to google myself since nothing was said or explained to me. So so sad. Also I paid 360, almost 370 for whole face, but when doctor was doing the laser I had to say to her can we also do the nose and beard since she only would do a bit of cheeks and little bit of forehead so I had to remind her that I am doing my whole face. The staff is nice and friendly but that is the only good thing about this place.",
+      "time": 1794235617,
+      "translated": false
+    },
+    {
+      "author_name": "Od 917",
+      "author_url": "https://www.google.com/maps/contrib/103430154121871654413/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSBPvZUq43SpoAeoocYS0lUz3Yc3Qyd7BwVvaPSjb0wW4yuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr professionelle, schnelle und freundliche Behandlung, keine Wartezeit, präzise Diagnostik, und einen ganz besonderen Dank an die sehr kompetente Fr Barnbeck - mein Problem ist jetzt gelöst!! Kann diese Klinik nur empfehlen.",
+      "time": 1794080416,
+      "translated": false
+    },
+    {
       "author_name": "ECKHARD KÖHN",
       "author_url": "https://www.google.com/maps/contrib/108688294807592463997/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Katharina Menne-Vogler",
+      "author_url": "https://www.google.com/maps/contrib/112682462654790373704/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxyGfHRCBampmU_2oRUkZTpTpMXRulD66e7Udri01dXjF17g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Absolut fachkompete medizinische Versorgung und sehr gute Organisation!",
+      "time": 1793540149,
+      "translated": false
+    },
+    {
       "author_name": "Steven Helmig",
       "author_url": "https://www.google.com/maps/contrib/117967897891399492916/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKjfme9WP9wU8oQaRUDcPFjHkTHVGxt9Ia-I6K4QNFUV5fOGyw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Med. Eimer ist professionell, empathisch und zuverlässig. Beim nächsten Tumor komme ich wieder.",
+      "time": 1793528777,
+      "translated": false
+    },
+    {
+      "author_name": "Steven Helmig",
+      "author_url": "https://www.google.com/maps/contrib/117967897891399492916/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKjfme9WP9wU8oQaRUDcPFjHkTHVGxt9Ia-I6K4QNFUV5fOGyw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr. Med. Eimer ist professionell, empathisch und zuverlässig. Beim nächsten Tumor komme ich wieder.",
       "time": 1793528777,
       "translated": false
@@ -1964,7 +2012,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 475,
+  "reviewCount": 477,
   "summary": [],
-  "lastUpdated": "2026-11-07T11:29:59.204Z"
+  "lastUpdated": "2026-11-10T13:13:51.522Z"
 }

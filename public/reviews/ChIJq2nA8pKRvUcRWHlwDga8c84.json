@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Claus Scholz",
+      "author_url": "https://www.google.com/maps/contrib/104641507519774748116/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkOxdds8x-N7UROienLnxWJJ41SSEQGjTPwUE68Q1VzGzfhOjmLA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich gehe dorthin regelmässig zur Hautkrebsvorsorge und auch mit akuten Beschwerden\n\nIch fühle mich gut aufgehoben und gut beraten\nDer junge Arzt in Fortbildung macht seine Sache richtig gut",
+      "time": 1794266006,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Oehl",
+      "author_url": "https://www.google.com/maps/contrib/103510392345501116757/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEmTG-ftVhXC9kqDM9JzDNdMhadMa1B-jNl4Fv4dtIky63yA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle moderne Praxis. Empfang nette & freundliche Mitarbeiterinnen.\nIch fühle mich bei Frau Dr. Bergmann sehr gut aufgehoben. Sie nimmt sich Zeit alle Fragen zu beantworten und alles verständlich zu erklären.\nTop organisiert, kaum Wartezeit.\nIch kann Frau Dr. Bergmann nur empfehlen.\nVielen Dank !",
+      "time": 1794234157,
+      "translated": false
+    },
+    {
       "author_name": "Niklas Schmitt",
       "author_url": "https://www.google.com/maps/contrib/106030388621197230651/reviews",
       "language": "de",
@@ -2112,11 +2136,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 373,
+  "reviewCount": 375,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:18.921Z"
+  "lastUpdated": "2026-11-10T13:14:13.563Z"
 }

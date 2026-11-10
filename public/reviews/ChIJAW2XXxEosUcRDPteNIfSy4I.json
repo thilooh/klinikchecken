@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "J Roq",
+      "author_url": "https://www.google.com/maps/contrib/116525957743946776130/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5-555O1HghM5EvqlZwZCpQtsFyeWh1c6eG1Oe1WLsnEls7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Terminvergabe am Telefon war sehr freundlich. Die nette Mitarbeiterin hatte innerhalb von 1,5 Wochen einen freien Termin für mich. Vor Ort hat mich dann (leider) eine Kollegin in Empfang genommen - eine sehr unfreundliche Dame! Zum Thema Kundenorientierung, Höflichkeit, Kommunikation und netter Umgang kann sie sich noch einiges von ihrer freundlichen Kollegin (mit den etwas längeren blonden Haaren) abschauen. Die Untersuchung war sehr schnell. Kein Mann der großen Worte. Stützstrümpfe empfiehlt er vermutlich jedem Patienten.",
+      "time": 1794226316,
+      "translated": false
+    },
+    {
       "author_name": "Celina Kruse",
       "author_url": "https://www.google.com/maps/contrib/103739572320379610620/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-7PXnYz_qOMg7twAD9Z-Dwf3fmVaaejY1DEFJ1luRJUtwJQ=s128-c0x00000000-cc-rp-mo",
@@ -46,6 +58,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-7PXnYz_qOMg7twAD9Z-Dwf3fmVaaejY1DEFJ1luRJUtwJQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1791536585,
+      "translated": false
+    },
+    {
+      "author_name": "Celina Kruse",
+      "author_url": "https://www.google.com/maps/contrib/103739572320379610620/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-7PXnYz_qOMg7twAD9Z-Dwf3fmVaaejY1DEFJ1luRJUtwJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1791536585,
       "translated": false
@@ -1118,11 +1140,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 126,
+  "reviewCount": 127,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:02.915Z"
+  "lastUpdated": "2026-11-10T13:13:55.793Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Alina D",
+      "author_url": "https://www.google.com/maps/contrib/101702096758790605971/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt92s2LsUYkv3tdAzKbJlK3hfJzF-e5O-BIB_RtTb_uzLkOA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mir vor sieben Jahren bereits Implantate in dieser Klinik einsetzen lassen und war damals mit Frau Dr. Bergander sehr zufrieden. Aufgrund einer Implantatruptur habe ich mich nun erneut für die Klinik entschieden und wurde von Herrn Ignatiadis behandelt. Er hat einen sehr guten Eindruck auf mich gemacht, ich habe mich bei ihm wohlgefühlt und bin sowohl mit seiner chirurgischen Leistung als auch mit dem Operationsergebnis ausgesprochen zufrieden. Für mich ist er ein sehr guter Arzt.\n\nLeider kann ich das über die organisatorischen Abläufe und die Betreuung der Klinik nicht sagen.\n\nNachdem ich krankheitsbedingt meinen OP-Termin verschieben musste, erhielt ich weder auf meine E-Mails noch auf meine Anrufe eine Rückmeldung. Auch am OP-Tag musste ich drei Stunden im OP-Hemd auf meinem Zimmer warten. Generell sind die Wartezeiten extrem lang – selbst bei der Nachkontrolle habe ich über anderthalb Stunden gewartet. Als berufstätige Patientin ist das besonders ärgerlich und mit einer guten Planung kaum vereinbar.\n\nAuch während meines stationären Aufenthalts habe ich mich nicht wirklich gut aufgehoben gefühlt. Die zuständige Schwester hatte offenbar ihren ersten Arbeitstag und wirkte völlig überfordert. Auf das Klingeln wurde nicht zeitnah reagiert, und teilweise hatte man das Gefühl, mit seinen Anliegen allein gelassen zu werden. Gerade nach einer Operation erwartet man eine zuverlässige Betreuung und ausreichend Unterstützung für das Pflegepersonal.\n\nMein Fazit: Medizinisch bin ich mit Herrn Ignatiadis und dem Ergebnis wirklich sehr zufrieden. Das gesamte Drumherum hat mich allerdings einiges an Nerven gekostet. Fehlende Rückmeldungen, lange Wartezeiten und die Betreuung während des Aufenthalts haben meinen Gesamteindruck leider erheblich getrübt. Trotz des guten Ergebnisses würde ich mich daher vermutlich nicht noch einmal für diese Klinik entscheiden. Hier hätte ich deutlich mehr Professionalität und Organisation erwartet.",
+      "time": 1794206302,
+      "translated": false
+    },
+    {
       "author_name": "Jaqueline Schuster",
       "author_url": "https://www.google.com/maps/contrib/115070555971175442604/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7BtyFwvYxuag12xY2c3zbFb_NN6bnYoQK-eE-k2ZlhDs9pg=s128-c0x00000000-cc-rp-mo",
@@ -32,6 +44,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Danke! Möchte mich bedanken für die gute Behandlung am Montag bis Dienstag war ich in der kö Klinik und bei meinen Ärzten Krankschwestern war alles top!!\nHabe foriges Jahre nicht so gute Erfahrungen gemacht. Dafür jetzt alle gut Danke",
       "time": 1793784550,
+      "translated": false
+    },
+    {
+      "author_name": "Hedi Randall",
+      "author_url": "https://www.google.com/maps/contrib/106342736656007899344/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKI_hX5L_CM_LgDFidAOl_22Fmam3eECoiBWbrlhd93IMSQxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war sehr zufrieden mit der Beratung für eine Nasenkorrektur, weil diese sehr ausführlich war und hatte deshalb hohe Erwartungen. Jetzt, 3 Jahre später ist meine Nase an einer Seite total verbeult, anscheinend hat der Arzt an einer Stelle Zuviel Knorpel entnommen, an einer anderen Stelle zu viel stehen gelassen und zwischen meinen Augenbrauen ist ein Höcker, den ich vorher nie gespürt habe. Außerdem ist die hautpartie von meiner Nase bis unters Auge ausgeprägt und sieht aus, als hätte mir jemand draufgeboxt. Ich habe viel Geld ausgegeben und bin so enttäuscht, dass ich mich nochmal operieren lassen muss, wieder eine Menge Geld ausgeben muss, damit es gerichtet werden kann. Ich bin extra 4 Stunden nach Düsseldorf gereist, weil diese Stadt für ihre plastische Chirurgie bekannt ist und doch pure Enttäuschung. Ich habe auch gesehen, dass der Arzt gar nicht mehr dort arbeitet, ist auch fragwürdig",
+      "time": 1793615603,
       "translated": false
     },
     {
@@ -1877,7 +1901,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 398,
+  "reviewCount": 400,
   "summary": [],
-  "lastUpdated": "2026-11-07T11:29:54.249Z"
+  "lastUpdated": "2026-11-10T13:13:45.790Z"
 }

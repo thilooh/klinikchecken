@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Vogt",
+      "author_url": "https://www.google.com/maps/contrib/113223290206140199949/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6QDfx-u9FGUwh4-BBN9BUXstHXwpQiqFqYH6QvYQejQLFbEo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794212070,
+      "translated": false
+    },
+    {
+      "author_name": "F.R. K.",
+      "author_url": "https://www.google.com/maps/contrib/104163245580414534428/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjR1Ws2HtTE09WpOxQ0l77jL3vDQm2a2xI-UHQvER3Ex1S2ts=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr Freundlich und Kompetent!",
+      "time": 1794052145,
+      "translated": false
+    },
+    {
       "author_name": "Nani m",
       "author_url": "https://www.google.com/maps/contrib/117702436147588237328/reviews",
       "language": "de",
@@ -1199,12 +1221,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 108,
+  "rating": 4.2,
+  "reviewCount": 110,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:03.777Z"
+  "lastUpdated": "2026-11-10T13:13:56.771Z"
 }

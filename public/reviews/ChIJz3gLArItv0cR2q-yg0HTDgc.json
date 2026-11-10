@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Oliver Bargfeld",
+      "author_url": "https://www.google.com/maps/contrib/115438739737759615385/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX22007ui7IRIsVjT8R7WnI1tTsedZ19_1j8fT2YiCn4pK8eJry=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Wechsel hat sich gelohnt ! Sehr aufmerksam. Sehr genau. Man wird gar nicht abgefertigt und professionell betreut. Die Wartezeit war nur geringfügig, ein Termin konnte kurzfristig vereinbart werden. Optimal!",
+      "time": 1794207672,
+      "translated": false
+    },
+    {
       "author_name": "Jan Hillebrand",
       "author_url": "https://www.google.com/maps/contrib/109757896717864523231/reviews",
       "language": "de",
@@ -30,6 +42,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2pT4sBqGR9H2ssaAoflpaCkPNwghzY7VfRH-aBSXEmbIZSBZR=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793598960,
+      "translated": false
+    },
+    {
+      "author_name": "Blerina Sadriu (Blerina lila.)",
+      "author_url": "https://www.google.com/maps/contrib/106087662776147939342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2pT4sBqGR9H2ssaAoflpaCkPNwghzY7VfRH-aBSXEmbIZSBZR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1793598960,
       "translated": false
@@ -78,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEzoK4HsJNKQcdjR5RWBK6_rPKp5UXLUJXJoQAGXzGESI6WQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "War schon öfters zur Vorsorge hier und finde Dr. Omaj sowie das Team nett und ordentlich. Fühle mich kompetent beraten.",
+      "time": 1793033974,
+      "translated": false
+    },
+    {
+      "author_name": "J-Dog",
+      "author_url": "https://www.google.com/maps/contrib/101567200154331935311/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEzoK4HsJNKQcdjR5RWBK6_rPKp5UXLUJXJoQAGXzGESI6WQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "War schon öfters zur Vorsorge hier und finde Dr. Omaj sowie das Team nett und ordentlich. Fühle mich kompetent beraten.",
       "time": 1793033974,
       "translated": false
@@ -1641,7 +1675,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 318,
+  "reviewCount": 317,
   "summary": [],
-  "lastUpdated": "2026-11-07T11:29:55.136Z"
+  "lastUpdated": "2026-11-10T13:13:46.903Z"
 }

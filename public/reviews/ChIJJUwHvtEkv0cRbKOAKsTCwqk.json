@@ -85,6 +85,16 @@
       "translated": false
     },
     {
+      "author_name": "Eva",
+      "author_url": "https://www.google.com/maps/contrib/104319738027321532315/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmcwxbrKb3x0ESUGZoixGWktLijDCHsoYvkvvDTsi4n3xd4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1792435694,
+      "translated": false
+    },
+    {
       "author_name": "I H",
       "author_url": "https://www.google.com/maps/contrib/114093338838336066481/reviews",
       "language": "de",
@@ -845,5 +855,5 @@
   "rating": 4.8,
   "reviewCount": 81,
   "summary": [],
-  "lastUpdated": "2026-11-07T11:29:53.221Z"
+  "lastUpdated": "2026-11-10T13:13:44.619Z"
 }

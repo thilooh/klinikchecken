@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marcel",
+      "author_url": "https://www.google.com/maps/contrib/103672854413446617466/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjyZiSvEpZFc_-QC7jYR_jWYfs5-DacLA6sLDuH7ziBgKePg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine Bewertung zu einer operativen Behandlung kann ich (noch) nicht abgeben. Ich möchte aber eine Dame am Empfang mit 5 Sternen bewerten, deren Namen ich leider nicht weiß. Ich hatte ein Vorgespräch zur OP. Bei solchen Terminen bin ich immer sehr aufgeregt und nervös. Dazu kam ich einige Minuten zu spät wegen Verkehrsstau und war umso aufgeregter. Dafür hatte sie absolutes Verständnis als ich mich entschuldigt habe. Ich wurde darauf hingewiesen mir Wasser nehmen zu können und dass ich mir erstmal ein paar Minuten zum ausruhen nehmen soll. Da war ich schon erleichtert, weil ich mich schlecht gefühlt hatte. Dann hatte ich einige Fragen. Nicht nur wurde mir jede Frage die mir Sorgen bereitete ruhig beantwortet und Unsicherheit genommen die ich hatte, ihre herzliche, ruhige einfühlsame Art hat mich beruhigt, so dass ich nach den Termin entspannt war. Leider ist es nicht selbstverständlich dass man so freundlich behandelt wird. Deswegen ist es mir eine extra Bewertung wert. Vielen Dank.",
+      "time": 1794233632,
+      "translated": false
+    },
+    {
       "author_name": "Larossi",
       "author_url": "https://www.google.com/maps/contrib/118148982621471324865/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIf9Q8MMDeUJ9DQzNcT1KaKMFxpXcGWEt3YflsaqRwGcUE5PA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐ Ein herzliches Dankeschön an ein großartiges Team!\nIch möchte mich von Herzen für die erfolgreiche Venenoperation und die gute Betreuung bedanken. Vom ersten Gespräch bis zur Behandlung habe ich mich gut aufgehoben und ernst genommen gefühlt.\nBesonders dankbar bin ich für die freundliche Art, die fachliche Kompetenz und das Vertrauen, das mir vermittelt wurde. Man merkt, dass hier nicht nur die medizinische Behandlung, sondern auch der Mensch dahinter zählt.\nVielen Dank für die hervorragende Arbeit und die fürsorgliche Betreuung. Ich kann diese Praxis mit bestem Gewissen weiterempfehlen!",
+      "time": 1793449985,
+      "translated": false
+    },
+    {
+      "author_name": "Larossi",
+      "author_url": "https://www.google.com/maps/contrib/118148982621471324865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIf9Q8MMDeUJ9DQzNcT1KaKMFxpXcGWEt3YflsaqRwGcUE5PA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "⭐⭐⭐⭐⭐ Ein herzliches Dankeschön an ein großartiges Team!\nIch möchte mich von Herzen für die erfolgreiche Venenoperation und die gute Betreuung bedanken. Vom ersten Gespräch bis zur Behandlung habe ich mich gut aufgehoben und ernst genommen gefühlt.\nBesonders dankbar bin ich für die freundliche Art, die fachliche Kompetenz und das Vertrauen, das mir vermittelt wurde. Man merkt, dass hier nicht nur die medizinische Behandlung, sondern auch der Mensch dahinter zählt.\nVielen Dank für die hervorragende Arbeit und die fürsorgliche Betreuung. Ich kann diese Praxis mit bestem Gewissen weiterempfehlen!",
       "time": 1793449985,
       "translated": false
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEUqu9Ehj4Ot5AYB9Z_eWTcmjnEtXkC0l90EmdoQU6kozUdhYn=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Von der Diagnostik mit ausführlicher Beratung über die Terminvereinbarung, die OP und Nachkontrollen. Alles perfekt und professionell. Vielen Dank an das Team des Venen- und OP Zentrum für die super Behandlung. Ich würde gerne noch mehr Sterne vergeben... es gehen aber nur 5...",
+      "time": 1789025611,
+      "translated": false
+    },
+    {
+      "author_name": "Toralf Koch",
+      "author_url": "https://www.google.com/maps/contrib/112696192704994150078/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEUqu9Ehj4Ot5AYB9Z_eWTcmjnEtXkC0l90EmdoQU6kozUdhYn=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Von der Diagnostik mit ausführlicher Beratung über die Terminvereinbarung, die OP und Nachkontrollen. Alles perfekt und professionell. Vielen Dank an das Team des Venen- und OP Zentrum für die super Behandlung. Ich würde gerne noch mehr Sterne vergeben... es gehen aber nur 5...",
       "time": 1789025611,
       "translated": false
@@ -878,11 +914,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 66,
+  "reviewCount": 67,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:17.157Z"
+  "lastUpdated": "2026-11-10T13:14:11.569Z"
 }

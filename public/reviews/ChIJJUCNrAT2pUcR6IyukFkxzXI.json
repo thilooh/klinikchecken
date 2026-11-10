@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Flori",
+      "author_url": "https://www.google.com/maps/contrib/106134120021710221821/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7bZZy7wMDCj_2_K6UBZOZfqgUI_WkFbmCeMnBKh2K1ijnLvYKlw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794139544,
+      "translated": false
+    },
+    {
       "author_name": "Christine Richter",
       "author_url": "https://www.google.com/maps/contrib/113399839419084765142/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIx4JCUfq3hCLT4ocDKdvJyP-ZB5nVZU-FapJHyxJ8tCUzepA=s128-c0x00000000-cc-rp-mo-ba3",
@@ -16,6 +26,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIx4JCUfq3hCLT4ocDKdvJyP-ZB5nVZU-FapJHyxJ8tCUzepA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793105692,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Richter",
+      "author_url": "https://www.google.com/maps/contrib/113399839419084765142/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIx4JCUfq3hCLT4ocDKdvJyP-ZB5nVZU-FapJHyxJ8tCUzepA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1793105692,
       "translated": false
@@ -69,6 +89,18 @@
       "translated": false
     },
     {
+      "author_name": "Andreas Fendler",
+      "author_url": "https://www.google.com/maps/contrib/100507044186276978376/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN-kqEd9mUV-veJSY4wYEU32EwMmwk6fdUBUqB2QpB0sbCEsOF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "Coole Ärztin, lockere Atmosphäre, freundliches Personal.🍀🍀🍀🍀🍀",
+      "time": 1791877838,
+      "translated": false
+    },
+    {
       "author_name": "Ingrid Grundmann",
       "author_url": "https://www.google.com/maps/contrib/116427008892839253484/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_9Fx0mfJPL8tGncbYqr31XkT5-MxSwjdDhlr1EhGzF1xZQ=s128-c0x00000000-cc-rp-mo-ba2",
@@ -104,6 +136,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_9Fx0mfJPL8tGncbYqr31XkT5-MxSwjdDhlr1EhGzF1xZQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1791817501,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Grundmann",
+      "author_url": "https://www.google.com/maps/contrib/116427008892839253484/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_9Fx0mfJPL8tGncbYqr31XkT5-MxSwjdDhlr1EhGzF1xZQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1791817501,
       "translated": false
@@ -980,11 +1022,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 57,
+  "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:05.300Z"
+  "lastUpdated": "2026-11-10T13:13:58.499Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Willibald Pernesch",
+      "author_url": "https://www.google.com/maps/contrib/101693011084066726453/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuyxKyLM-NXfhBuHF9JMs9UgmOjZ7JGUhgGdh3P8dXSb5Vsw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794306061,
+      "translated": false
+    },
+    {
       "author_name": "Philip Mauthe",
       "author_url": "https://www.google.com/maps/contrib/113353859489962580396/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxDvHxOHK5NlaGiMCx82n_jHgAynL_d1M8fNkSw--CuqtDpA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Leistung und Betreuung von Herrn Dr. Munteanu und dem gesamten Team.\nVon dem Erstgespräch, Venen screening und dem umfangreichen Klärungsgespräch bis hin zu meinem gestrigen Venen OP Termin.\nMan hat sich immer viel Zeit genommen und alle offenen Fragen geklärt.\nKurzum man fühlt sich sehr gut betreut und aufgehoben und das finde ich am Wichtigsten.",
+      "time": 1793710428,
+      "translated": false
+    },
+    {
+      "author_name": "Philip Mauthe",
+      "author_url": "https://www.google.com/maps/contrib/113353859489962580396/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxDvHxOHK5NlaGiMCx82n_jHgAynL_d1M8fNkSw--CuqtDpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin sehr zufrieden mit der Leistung und Betreuung von Herrn Dr. Munteanu und dem gesamten Team.\nVon dem Erstgespräch, Venen screening und dem umfangreichen Klärungsgespräch bis hin zu meinem gestrigen Venen OP Termin.\nMan hat sich immer viel Zeit genommen und alle offenen Fragen geklärt.\nKurzum man fühlt sich sehr gut betreut und aufgehoben und das finde ich am Wichtigsten.",
       "time": 1793710428,
       "translated": false
@@ -1218,11 +1240,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 114,
+  "reviewCount": 115,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:33.711Z"
+  "lastUpdated": "2026-11-10T13:14:30.526Z"
 }

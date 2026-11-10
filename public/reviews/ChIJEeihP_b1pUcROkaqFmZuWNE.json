@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Gloria Alemania",
+      "author_url": "https://www.google.com/maps/contrib/111172589574563934131/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmqTFtvE9uDGaWyk6VYPMa2u6xvPFV3X37JHsAhzh-zulANTU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Große Praxis und überlastete Ärzte, leider ist die Online Anmeldung sehr schlecht gemacht. Selbst mit Behandlungsauftrag kein Termin zu bekommen. Für Privatpatienten und Selbstzahler kein Problem.",
+      "time": 1794305816,
+      "translated": false
+    },
+    {
+      "author_name": "Denis B",
+      "author_url": "https://www.google.com/maps/contrib/102461596383956491122/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhSnmqkrNx-9tp64TOxoJhTSrcheBmhA36LufWlmixLm4dnA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794202546,
+      "translated": false
+    },
+    {
       "author_name": "Lilli Künnemann",
       "author_url": "https://www.google.com/maps/contrib/112713105652525701655/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKfK2tGKVZYqbGl7CeBaevvJ7mylhPg8JBLbiSgdsvETA7zA=s128-c0x00000000-cc-rp-mo",
@@ -110,6 +132,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIftytTWjYDJD2sjaHrthjPrDxj0UrfVuCx103VFyYpF_ziGQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Unmöglich einen Termin zu vereinbaren.",
+      "time": 1791656835,
+      "translated": false
+    },
+    {
+      "author_name": "S W",
+      "author_url": "https://www.google.com/maps/contrib/102213556704150806227/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIftytTWjYDJD2sjaHrthjPrDxj0UrfVuCx103VFyYpF_ziGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Unmöglich einen Termin zu vereinbaren.",
       "time": 1791656835,
       "translated": false
@@ -948,11 +982,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 120,
+  "reviewCount": 122,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-07T11:30:05.086Z"
+  "lastUpdated": "2026-11-10T13:13:58.258Z"
 }

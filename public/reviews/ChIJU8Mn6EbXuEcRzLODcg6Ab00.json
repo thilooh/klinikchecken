@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Malak Malak",
+      "author_url": "https://www.google.com/maps/contrib/102280903160133120633/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXkBNIvGg-d8OYiPEI0QP6NWuNX6clFPkzzM_tMG-v-Ocfvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sprechen sie Arabisch?",
+      "time": 1794258024,
+      "translated": true
+    },
+    {
+      "author_name": "Yazan Ismail",
+      "author_url": "https://www.google.com/maps/contrib/100914240251319088780/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoicUekK4Jyb7VAtl7aKl42EC1seOP3_G9eECcc05nGslc9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794089148,
+      "translated": false
+    },
+    {
+      "author_name": "Reyana Yass8n",
+      "author_url": "https://www.google.com/maps/contrib/118086084859230742542/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqILU3avzUXUDMdq9t4QFS2GuW1YkXlDz4aqAIrGr2-2igeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte mehr Interesse erwartet...",
+      "time": 1794056864,
+      "translated": true
+    },
+    {
       "author_name": "Hadeel Murad",
       "author_url": "https://www.google.com/maps/contrib/108349727008647128003/reviews",
       "language": "ar",
@@ -11,6 +45,18 @@
       "text": "موعد سريع جدا تعامل بجننن",
       "time": 1793451961,
       "translated": false
+    },
+    {
+      "author_name": "Hadeel Murad",
+      "author_url": "https://www.google.com/maps/contrib/108349727008647128003/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_mvDIFT5QfJ2tVo3c0i6i0bc-kjeqXAHnm3jpLHjNrsWK6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr schneller Termin, hervorragender Service",
+      "time": 1793451961,
+      "translated": true
     },
     {
       "author_name": "Leon Iphone",
@@ -92,6 +138,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFE28itS7PGa3ZmCeRzT9159-GhKPaI5lvlpYAFIMjTSCIHw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ich hatte eine Augenlidoperation und möchte Ihnen und Dr. Christine für ihre hervorragende Arbeit danken. Das Ergebnis ist fantastisch, und ihr Stil ist einfach großartig. Jeder, der sich an Dr. Christine wendet, wird es nicht bereuen. Gott segne Sie, meine Liebe, so wie Sie die Welt segnen.",
+      "time": 1791488940,
+      "translated": true
+    },
+    {
+      "author_name": "Sara",
+      "author_url": "https://www.google.com/maps/contrib/100346236670722689042/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFE28itS7PGa3ZmCeRzT9159-GhKPaI5lvlpYAFIMjTSCIHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich hatte eine Augenlidoperation und möchte Ihnen und Dr. Christine für ihre hervorragende Arbeit danken. Das Ergebnis ist fantastisch, und ihr Stil ist einfach großartig. Jeder, der sich an Dr. Christine wendet, wird es nicht bereuen. Gott segne Sie, meine Liebe, so wie Sie die Welt segnen.",
       "time": 1791488940,
       "translated": true
@@ -1582,11 +1640,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 436,
+  "reviewCount": 439,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:08.158Z"
+  "lastUpdated": "2026-11-10T13:14:01.801Z"
 }

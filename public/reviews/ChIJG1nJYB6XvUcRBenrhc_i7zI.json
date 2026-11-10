@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "E-Learning",
+      "author_url": "https://www.google.com/maps/contrib/107126386045858431745/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7tNvoIzA8U8iPL5IbwKJsh5CkFthOxJRsBmPsirEQC-I9wA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793618095,
+      "translated": false
+    },
+    {
       "author_name": "Uta",
       "author_url": "https://www.google.com/maps/contrib/111309950442168272701/reviews",
       "language": "de",
@@ -74,6 +84,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEjSTQTIoQntLXP1TgzB-oRn-4Ufl8VHg-mSE014uKkUcGXXk=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Als Medizinstudent und ehemaliger Patient habe ich von Dr. Kasten und den Mitarbeitern sehr viel gelernt. Dr. Kasten ist für jeden ein Vorbild, wenn es darum geht, wie man Patienten behandelt. Dr. Kasten und das gesamte Praxisteam sind sehr freundlich und kompetent, sodass sie jedem Patienten alle verfügbaren Therapieoptionen aufzeigen können.",
+      "time": 1793003023,
+      "translated": false
+    },
+    {
+      "author_name": "YZ Tai",
+      "author_url": "https://www.google.com/maps/contrib/104068633113343410968/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEjSTQTIoQntLXP1TgzB-oRn-4Ufl8VHg-mSE014uKkUcGXXk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Als Medizinstudent und ehemaliger Patient habe ich von Dr. Kasten und den Mitarbeitern sehr viel gelernt. Dr. Kasten ist für jeden ein Vorbild, wenn es darum geht, wie man Patienten behandelt. Dr. Kasten und das gesamte Praxisteam sind sehr freundlich und kompetent, sodass sie jedem Patienten alle verfügbaren Therapieoptionen aufzeigen können.",
       "time": 1793003023,
       "translated": false
@@ -1334,11 +1356,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 236,
+  "reviewCount": 237,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:19.136Z"
+  "lastUpdated": "2026-11-10T13:14:13.830Z"
 }

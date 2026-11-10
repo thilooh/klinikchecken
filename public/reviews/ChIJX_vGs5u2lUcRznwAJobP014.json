@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Patrick Depret",
+      "author_url": "https://www.google.com/maps/contrib/107246892560684649841/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2Bn2lXUziCtsFK3VNxqSATUpl4u6MM5F8XuhF4esMMHznRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Laboranalyse vor 2 wochen und immer noch keine nachricht. Telefonisch nicht erreichbar. Keine email. Unmenschliche Kommunikation ... Hautkrebs oder doch nicht?",
+      "time": 1793626200,
+      "translated": false
+    },
+    {
       "author_name": "Tom Kaster",
       "author_url": "https://www.google.com/maps/contrib/114147057962716922369/reviews",
       "language": "de",
@@ -142,6 +154,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLlxh3TKDze1Tz1g1n131iedJABzTmesLt_6FqcI9MzT74ZA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1789035984,
+      "translated": false
+    },
+    {
+      "author_name": "Reiner Lahm",
+      "author_url": "https://www.google.com/maps/contrib/109407916964923805237/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLlxh3TKDze1Tz1g1n131iedJABzTmesLt_6FqcI9MzT74ZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1789035984,
       "translated": false
@@ -1140,5 +1162,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:20.459Z"
+  "lastUpdated": "2026-11-10T13:14:15.353Z"
 }

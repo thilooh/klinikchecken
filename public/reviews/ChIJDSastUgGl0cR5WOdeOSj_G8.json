@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "The Renchen",
+      "author_url": "https://www.google.com/maps/contrib/104220226171951801976/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_MyVepmB2meBYI7PyAivZZ_6z68HPMAO2x6zbdstpuXRaIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "An sich die Ärzte sind ABER man erreicht dort telefonisch so gut wie nie jemand. Und Emails werden gar nicht mehr bearbeitet, wie toll(nicht. ) Doctolib Funktoniert auch nicht richtig also kann ich nicht alle Sterne geben. Die sollten mal Ihre technischen Probleme in den Griff kriegen mit doctolib.",
+      "time": 1794235365,
+      "translated": false
+    },
+    {
       "author_name": "Hans-Peter Hipp",
       "author_url": "https://www.google.com/maps/contrib/103020040629732174134/reviews",
       "language": "de",
@@ -1876,11 +1888,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 246,
+  "reviewCount": 247,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:12.954Z"
+  "lastUpdated": "2026-11-10T13:14:07.298Z"
 }

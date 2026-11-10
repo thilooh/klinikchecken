@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Elga Stange",
+      "author_url": "https://www.google.com/maps/contrib/111060162152997530988/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKbPFvpv3xuffdOd1Z08d4Sc1K_tKG0su9ml13s4HSbxpoIw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794136772,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin Wünsch",
       "author_url": "https://www.google.com/maps/contrib/117694403729735803322/reviews",
       "language": "de",
@@ -770,11 +780,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 54,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:17.374Z"
+  "lastUpdated": "2026-11-10T13:14:11.809Z"
 }

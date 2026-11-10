@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Soon",
+      "author_url": "https://www.google.com/maps/contrib/101164119735759417827/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4_14zNPjSxjRZ4l4XJU4VEchuzzgk8Ub46uNWYGsYA60U-UE=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis hat ihre besten Zeiten hinter sich und ist in die Jahre gekommen.\nDie Mitarbeiter sind nicht besonders freundlich aber es ist noch im Rahmen.\nHerr Dr. Nasif kann ich nicht empfehlen, ich fühlte mich nicht ernst genommen, er hört nicht zu und hat für alles eine \"Erklärung\". Erst hat er mir meine Diagnose abgesprochen, dann konnte ich ihn \"überzeugen\" und dann sprach er davon, dass ja eine OP möglich sei...\nUnmöglich",
+      "time": 1794223805,
+      "translated": false
+    },
+    {
       "author_name": "Ahmad Zaza",
       "author_url": "https://www.google.com/maps/contrib/114969780692557315388/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJD7yC9apFFdSjl8ebQ77WoTgKq2erEEk2sIqf7FEYZ7RbwVQ=s128-c0x00000000-cc-rp-mo",
@@ -30,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZjpm_0MB714Yj7SKZOAAg2TvkaPxSd4ij7DTc6IApH-C7cg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Latif ist ein sehr professioneller Arzt. Er hat die Beschneidung meines Sohnes durchgeführt, und alles verlief perfekt. Ich danke ihm sehr für seine Arbeit und die hervorragende Betreuung seiner Patienten.",
+      "time": 1793666014,
+      "translated": true
+    },
+    {
+      "author_name": "Lana Sileman",
+      "author_url": "https://www.google.com/maps/contrib/105319732522403888177/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZjpm_0MB714Yj7SKZOAAg2TvkaPxSd4ij7DTc6IApH-C7cg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Dr. Latif ist ein sehr professioneller Arzt. Er hat die Beschneidung meines Sohnes durchgeführt, und alles verlief perfekt. Ich danke ihm sehr für seine Arbeit und die hervorragende Betreuung seiner Patienten.",
       "time": 1793666014,
       "translated": true
@@ -1536,11 +1560,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 182,
+  "reviewCount": 183,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:08.611Z"
+  "lastUpdated": "2026-11-10T13:14:02.294Z"
 }

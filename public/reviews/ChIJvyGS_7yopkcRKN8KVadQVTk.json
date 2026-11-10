@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Rob Kr",
+      "author_url": "https://www.google.com/maps/contrib/102959011267812624555/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzjNm6Ll-hL3DKikFSzXRDy85CYNHQj_TAtVmiATT8edUPfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794151280,
+      "translated": false
+    },
+    {
       "author_name": "Katharina Kirscht",
       "author_url": "https://www.google.com/maps/contrib/117000897045223780316/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7XnoR5iYO3dYG-6q8z3bguAonyLtkWmGi3xI3loHldxz5BQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Team. War dieses Jahr schon 3x  zur OP da und es hat wieder alles gepasst. Wartezeiten, Freundlichkeit und Beratung sehr gut . Ich fühle mich sehr gut aufgehoben und verstanden.Vielen lieben Dank",
+      "time": 1793606801,
+      "translated": false
+    },
+    {
+      "author_name": "Katharina Kirscht",
+      "author_url": "https://www.google.com/maps/contrib/117000897045223780316/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7XnoR5iYO3dYG-6q8z3bguAonyLtkWmGi3xI3loHldxz5BQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super nettes Team. War dieses Jahr schon 3x  zur OP da und es hat wieder alles gepasst. Wartezeiten, Freundlichkeit und Beratung sehr gut . Ich fühle mich sehr gut aufgehoben und verstanden.Vielen lieben Dank",
       "time": 1793606801,
       "translated": false
@@ -1764,11 +1786,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 219,
+  "reviewCount": 220,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-11-07T11:30:35.422Z"
+  "lastUpdated": "2026-11-10T13:14:32.457Z"
 }

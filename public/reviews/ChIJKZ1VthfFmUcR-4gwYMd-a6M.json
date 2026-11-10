@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "C.",
+      "author_url": "https://www.google.com/maps/contrib/115830018302876445591/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNkug865rPBMojU09Ae5qUECDnTUKs2ehwrIiKzVjNjjVT84g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hier nochmal meine Bewertung, da die andere ganz komischerweise verschwunden ist. 😉\n\nMan sollte Doclib vielleicht endlich mal korrekt einstellen, damit man nicht völlig umsonst in die Praxis fährt. Es kann doch wirklich nicht so schwer sein, die Informationen und Dienstleistungen auf dieser Seite aktuell und korrekt zu halten.\n\nEs ist absolut ärgerlich, wenn man sich auf die Angaben verlässt, extra hinfährt und dabei unnötig Sprit, Zeit und Aufwand verschwendet. Eine zuverlässige und vernünftige Organisation sollte eigentlich selbstverständlich sein.\n\nSehr enttäuschend und definitiv verbesserungswürdig!",
+      "time": 1794162739,
+      "translated": false
+    },
+    {
       "author_name": "James 0815",
       "author_url": "https://www.google.com/maps/contrib/100241319386262330485/reviews",
       "language": "de",
@@ -1864,7 +1876,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 313,
+  "reviewCount": 315,
   "summary": [],
-  "lastUpdated": "2026-11-07T11:30:01.174Z"
+  "lastUpdated": "2026-11-10T13:13:53.773Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lumzan",
+      "author_url": "https://www.google.com/maps/contrib/110693358443534407652/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGccFlgramdc7EXutXgOonG0PaefYSPXNeTdwLKvDiXa3SqA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ist leider schwierig, einen Termin zu bekommen. Das Personal ist sehr freundlich und die Ärzte sind ebenfalls freundlich und kompetent.",
+      "time": 1794216371,
+      "translated": false
+    },
+    {
       "author_name": "Adil Harraqi",
       "author_url": "https://www.google.com/maps/contrib/110258413884202265801/reviews",
       "language": "de",
@@ -1876,11 +1888,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 168,
+  "reviewCount": 169,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:18.683Z"
+  "lastUpdated": "2026-11-10T13:14:13.321Z"
 }

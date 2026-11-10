@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "gudrun",
+      "author_url": "https://www.google.com/maps/contrib/114352168805977859215/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrNNeOZrA44aUrPg3Efx8i01Pw4QuFsJ1JfJCy465ypBI9aS_9Rg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute das erste Mal im Venenzentrum Adlershof bei Fr.Dr.Minz.Die Mitarbeiterinnen am Empfang waren freundlich. Hatte kaum Wartezeit und bei Fr.Dr.Minz hatte ich eine sehr professionelle Untersuchung. Ich konnte Fragen stellen und Gott sei Dank ist alles im grünen Bereich. Vielen lieben Dank. L.G.\nGudrun Seidel",
+      "time": 1794227498,
+      "translated": false
+    },
+    {
       "author_name": "Pinky Krümel",
       "author_url": "https://www.google.com/maps/contrib/118219729212960355152/reviews",
       "language": "de",
@@ -284,6 +296,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF4iMgDKss_tOG50QpHUEHYLq891Ma37ookQaWB7K4P7T4PXB6=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Echt großartig",
+      "time": 1783868818,
+      "translated": false
+    },
+    {
+      "author_name": "lydi112",
+      "author_url": "https://www.google.com/maps/contrib/108522492176028944632/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF4iMgDKss_tOG50QpHUEHYLq891Ma37ookQaWB7K4P7T4PXB6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Echt großartig",
       "time": 1783868818,
       "translated": false
@@ -710,7 +734,7 @@
     }
   ],
   "rating": 3.5,
-  "reviewCount": 37,
+  "reviewCount": 38,
   "summary": [],
-  "lastUpdated": "2026-11-07T11:29:57.504Z"
+  "lastUpdated": "2026-11-10T13:13:49.599Z"
 }

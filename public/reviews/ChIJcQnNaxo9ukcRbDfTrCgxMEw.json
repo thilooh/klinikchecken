@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Kimberly Knocke",
+      "author_url": "https://www.google.com/maps/contrib/100593814885763372418/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKHkkUa1E1lzldxFpZv3CYXfj9OoGgHf7Hbb2G8b3FDl_W7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794060110,
+      "translated": false
+    },
+    {
       "author_name": "R Stan",
       "author_url": "https://www.google.com/maps/contrib/102725470060569653426/reviews",
       "language": "de",
@@ -636,11 +646,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 55,
+  "reviewCount": 56,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-07T11:30:07.935Z"
+  "lastUpdated": "2026-11-10T13:14:01.553Z"
 }

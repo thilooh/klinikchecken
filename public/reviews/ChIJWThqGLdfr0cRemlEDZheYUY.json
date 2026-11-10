@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Zekerija Dupljak",
+      "author_url": "https://www.google.com/maps/contrib/103622242346427669665/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLANHXJ--PLKSaPy8ZVW7rNU1bSIbpUvAcehGMR30Xq63VqyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794306954,
+      "translated": false
+    },
+    {
+      "author_name": "Krischi",
+      "author_url": "https://www.google.com/maps/contrib/118210877876937137443/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUzX73pdlqbpRtzCNtK4kwtsoNaKkw71Ka8MNGpt8sORAEpphr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794300217,
+      "translated": false
+    },
+    {
       "author_name": "Volker Kaibel",
       "author_url": "https://www.google.com/maps/contrib/114231064326134003439/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZh-BnaxVBvXuFDHHFIKAv3kZdgV-aVNvv1yOAu8LfWRw8Xg=s128-c0x00000000-cc-rp-mo",
@@ -1994,11 +2014,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 530,
+  "reviewCount": 532,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-07T11:30:04.865Z"
+  "lastUpdated": "2026-11-10T13:13:58.013Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Kerstin “Kickfighter” Verse",
+      "author_url": "https://www.google.com/maps/contrib/102208381314123101147/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaFXWReWTSkeaVyeqAL_JI1Vtq9e7n5sJVTAlw_cXMrcrs3vHPOQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr Topp ist ein sehr toller Arzt !",
+      "time": 1794205511,
+      "translated": false
+    },
+    {
       "author_name": "Heike Krönung",
       "author_url": "https://www.google.com/maps/contrib/110190036371266879093/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1DCvSrNoIlO5A7tL6EhmERNYeyWbvZJILwAbFhRwJatewwQ=s128-c0x00000000-cc-rp-mo-ba3",
@@ -774,11 +786,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 168,
+  "reviewCount": 169,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:22.128Z"
+  "lastUpdated": "2026-11-10T13:14:17.295Z"
 }

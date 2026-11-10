@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Галина Сагайдак",
+      "author_url": "https://www.google.com/maps/contrib/115428879693100506101/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVTh7PLFECfe6b4xp_nEVe5AOreUekEsCWIlYDqYWNgL0edA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794237954,
+      "translated": false
+    },
+    {
       "author_name": "Maryam Ebadifar",
       "author_url": "https://www.google.com/maps/contrib/110922796907502355578/reviews",
       "language": "de",
@@ -1030,11 +1040,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 122,
+  "reviewCount": 123,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-07T11:30:09.257Z"
+  "lastUpdated": "2026-11-10T13:14:03.028Z"
 }
