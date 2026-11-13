@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Alexander Just",
+      "author_url": "https://www.google.com/maps/contrib/112884793373450712348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK50AMAs7QkTDjeBqdVJm5_tKkuFaWzz1BAF8AHQIog6YY9WA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war (leider 🫢) zum zweiten Mal bei Herrn Dr. Wais in Behandlung und kann erneut sagen, dass ich mich rundum wohl gefühlt habe. Von den Vorgesprächen, über die Operation bis zur Nachsorge wurde ich top betreut. Medizinische Kompetenz gepaart mit einer tollen und sympathischen zwischenmenschlichen Ebene - ich kann die Praxis, Herrn Dr. Wais und sein Team wärmstens empfehlen!",
+      "time": 1794488209,
+      "translated": false
+    },
+    {
+      "author_name": "Silvia Reese Peiker",
+      "author_url": "https://www.google.com/maps/contrib/100263894744200089653/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOpkIgSnpI-y21HDRcDHTGLfrbnIXZzgrxRhI0d2BdkaOefRNx=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin bei Dr Webels in Behandlung. Tolles Team und ein Arzt der weiß was er macht",
+      "time": 1794383628,
+      "translated": false
+    },
+    {
       "author_name": "Mareike Barten",
       "author_url": "https://www.google.com/maps/contrib/100858836000349117200/reviews",
       "language": "de",
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJKwkBJHeV7tGi0h7gxVsZhUOTlXBmyeZ4HCDfTPB-itZl7w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Tolle moderne Praxis!\nBin am 20.10.26 an der rechten Hand operiert worden, Karpal-Tunnel-Syndrom.\nDr. Webels hat operiert, Anästhesie Dr. Grundmann. Alles super gelaufen. Fühlte mich sehr gut behandelt, sowohl vorher und auch nach dem Eingriff. Besonders lobe ich hier die Mitarbeiterinnen die sich im Vorfeld und danach kümmern. Schön das es Euch gibt. Ohne Euch würde es nicht funktionieren! 🫶 Ich kann die Praxis absolut empfehlen! Alle mega nett! 🙏",
+      "time": 1792676396,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Kirchhoefer",
+      "author_url": "https://www.google.com/maps/contrib/111138262232273118137/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJKwkBJHeV7tGi0h7gxVsZhUOTlXBmyeZ4HCDfTPB-itZl7w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Tolle moderne Praxis!\nBin am 20.10.26 an der rechten Hand operiert worden, Karpal-Tunnel-Syndrom.\nDr. Webels hat operiert, Anästhesie Dr. Grundmann. Alles super gelaufen. Fühlte mich sehr gut behandelt, sowohl vorher und auch nach dem Eingriff. Besonders lobe ich hier die Mitarbeiterinnen die sich im Vorfeld und danach kümmern. Schön das es Euch gibt. Ohne Euch würde es nicht funktionieren! 🫶 Ich kann die Praxis absolut empfehlen! Alle mega nett! 🙏",
       "time": 1792676396,
       "translated": false
@@ -1564,11 +1600,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 154,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:19.277Z"
+  "lastUpdated": "2026-11-13T12:51:47.306Z"
 }

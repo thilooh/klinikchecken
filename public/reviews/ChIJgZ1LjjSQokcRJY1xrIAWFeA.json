@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Melanie Illig",
+      "author_url": "https://www.google.com/maps/contrib/118146536820548321388/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZkM0SPepGzHCLsG_zsBW6JraL7MqlFs5ctcY_B7KNsefSKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unfreundlich die Arzthelferin am Telefon",
+      "time": 1794556380,
+      "translated": false
+    },
+    {
       "author_name": "CB",
       "author_url": "https://www.google.com/maps/contrib/101912564144859191804/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxpZZBxm_Oz32ZKEVbgFjlWiQa_7E_b8CDTV9P-XwWVrQYqmI=s128-c0x00000000-cc-rp-mo",
@@ -31,6 +43,16 @@
       "translated": false
     },
     {
+      "author_name": "CB",
+      "author_url": "https://www.google.com/maps/contrib/101912564144859191804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxpZZBxm_Oz32ZKEVbgFjlWiQa_7E_b8CDTV9P-XwWVrQYqmI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1792741801,
+      "translated": false
+    },
+    {
       "author_name": "Marc Schwittai",
       "author_url": "https://www.google.com/maps/contrib/108705038060626775247/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy35OtpRKzPznWtgdMvmJN8EmgZ2GU7c5S-80UQTmw8jL9Pc64VQ=s128-c0x00000000-cc-rp-mo-ba4",
@@ -56,6 +78,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy35OtpRKzPznWtgdMvmJN8EmgZ2GU7c5S-80UQTmw8jL9Pc64VQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1792582237,
+      "translated": false
+    },
+    {
+      "author_name": "Marc Schwittai",
+      "author_url": "https://www.google.com/maps/contrib/108705038060626775247/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy35OtpRKzPznWtgdMvmJN8EmgZ2GU7c5S-80UQTmw8jL9Pc64VQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1792582237,
       "translated": false
@@ -864,11 +896,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 73,
+  "reviewCount": 74,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:09.533Z"
+  "lastUpdated": "2026-11-13T12:51:35.618Z"
 }

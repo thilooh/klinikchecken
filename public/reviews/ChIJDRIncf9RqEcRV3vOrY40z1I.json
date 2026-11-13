@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Omar Oumayrat",
+      "author_url": "https://www.google.com/maps/contrib/114605715194498559423/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwQYodLFrKI2eYiDvO5zlaFScZfJa0a-sopug_lQQGIEJWnQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794399227,
+      "translated": false
+    },
+    {
       "author_name": "Frank Klein",
       "author_url": "https://www.google.com/maps/contrib/107351393623126886896/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKzGO8BU0_nj3XGcSgr7Zyjk7VaCFGheKKlvkaPsKfma8Lxg=s128-c0x00000000-cc-rp-mo",
@@ -18,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdaxAhX5JfiIPhrV98BKgAVBHRn_EiperSM7SNR7OeLENSgQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Absolut unterirdische Kommunikation, Termin musste verschoben werden, weil die AI Telefonanlage nicht in der Lage ist Kontakt mit der Praxis herzustellen.\nIn der Praxis wurde man mit \"Ah, ja die AI\" begrüßt, das Problem ist scheinbar bekannt, aber man zieht es vor nicht für Patienten erreichbar zu sein.\n\nDer zweite Termin wurde am Tag vor der OP einseitig via Doctolib und Ansagen auf dem AB insgesamt 4 mal geändert, wider war niemand zu erreichen.",
+      "time": 1793955985,
+      "translated": false
+    },
+    {
+      "author_name": "Lazo Vu",
+      "author_url": "https://www.google.com/maps/contrib/111095038974278090537/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdaxAhX5JfiIPhrV98BKgAVBHRn_EiperSM7SNR7OeLENSgQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Absolut unterirdische Kommunikation, Termin musste verschoben werden, weil die AI Telefonanlage nicht in der Lage ist Kontakt mit der Praxis herzustellen.\nIn der Praxis wurde man mit \"Ah, ja die AI\" begrüßt, das Problem ist scheinbar bekannt, aber man zieht es vor nicht für Patienten erreichbar zu sein.\n\nDer zweite Termin wurde am Tag vor der OP einseitig via Doctolib und Ansagen auf dem AB insgesamt 4 mal geändert, wider war niemand zu erreichen.",
       "time": 1793955985,
       "translated": false
@@ -42,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRHADgzvVbMywFan6S3FpdvDRC2sOQdkbFZub2JtwmT4qkE3WsRw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Fünf Sterne dafür, dass man am Telefon gefragt wird, ob man neu patient sei, und dann bei Bejahung das Gespräch direkt kommentarlos abgebrochen wird. Ich finde das sehr humorvoll.",
+      "time": 1793360480,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Giroux",
+      "author_url": "https://www.google.com/maps/contrib/106760579421267952188/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRHADgzvVbMywFan6S3FpdvDRC2sOQdkbFZub2JtwmT4qkE3WsRw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Fünf Sterne dafür, dass man am Telefon gefragt wird, ob man neu patient sei, und dann bei Bejahung das Gespräch direkt kommentarlos abgebrochen wird. Ich finde das sehr humorvoll.",
       "time": 1793360480,
       "translated": false
@@ -1834,7 +1868,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 162,
+  "reviewCount": 163,
   "summary": [],
-  "lastUpdated": "2026-11-10T13:13:49.093Z"
+  "lastUpdated": "2026-11-13T12:51:10.818Z"
 }

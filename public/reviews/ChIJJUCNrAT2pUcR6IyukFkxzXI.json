@@ -101,6 +101,18 @@
       "translated": false
     },
     {
+      "author_name": "Andreas Fendler",
+      "author_url": "https://www.google.com/maps/contrib/100507044186276978376/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN-kqEd9mUV-veJSY4wYEU32EwMmwk6fdUBUqB2QpB0sbCEsOF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Coole Ärztin, lockere Atmosphäre, freundliches Personal.🍀🍀🍀🍀🍀",
+      "time": 1791877838,
+      "translated": false
+    },
+    {
       "author_name": "Ingrid Grundmann",
       "author_url": "https://www.google.com/maps/contrib/116427008892839253484/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_9Fx0mfJPL8tGncbYqr31XkT5-MxSwjdDhlr1EhGzF1xZQ=s128-c0x00000000-cc-rp-mo-ba2",
@@ -146,6 +158,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_9Fx0mfJPL8tGncbYqr31XkT5-MxSwjdDhlr1EhGzF1xZQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1791817501,
+      "translated": false
+    },
+    {
+      "author_name": "Ingrid Grundmann",
+      "author_url": "https://www.google.com/maps/contrib/116427008892839253484/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_9Fx0mfJPL8tGncbYqr31XkT5-MxSwjdDhlr1EhGzF1xZQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1791817501,
       "translated": false
@@ -1028,5 +1050,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:13:58.499Z"
+  "lastUpdated": "2026-11-13T12:51:22.052Z"
 }

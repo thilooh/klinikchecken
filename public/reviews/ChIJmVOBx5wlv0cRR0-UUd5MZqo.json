@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Lea Simonis",
+      "author_url": "https://www.google.com/maps/contrib/117067232698174187675/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqLqfA6iE5-TkXiZE6bt3kNDBzz95dPdjGT3eEu4EE40mdxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine Wartezeit, sehr nettes Personal am Empfang und vor allem Frau Dr. Kronenberg hat mich wirklich positiv überrascht! Sie hat sich viel Zeit genommen, war unglaublich freundlich und einfühlsam. Sie hat mir von Anfang an ein sehr gutes Gefühl gegeben. So wünscht man sich einen Arztbesuch! 😊",
+      "time": 1794496061,
+      "translated": false
+    },
+    {
+      "author_name": "Amira T.",
+      "author_url": "https://www.google.com/maps/contrib/117434945682477329265/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjJIRj1BEIwDqenjNTIsvqCafauRCxKMo6obngva_q-Gb0PRf=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es ging schnell und flott.",
+      "time": 1794414027,
+      "translated": false
+    },
+    {
       "author_name": "Mike Mockschan",
       "author_url": "https://www.google.com/maps/contrib/102146449790306889912/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_kAg5R9pxWoDIGmbemPI1iSnR66tem0nlPqHsS9Zoh0PG=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte einen Termin zur Hautkrebs Vorsorge bei Herr Dr.Al-Mashhadani.\nDie Untersuchung so wie das Vorab -  und Nachgespräch waren sehr gut. Ich habe mich sehr gut beraten gefühlt und während des Aufenthaltes sehr wohl gefühlt. Es war eine professionelle Behandlung und Beratung.",
+      "time": 1793737752,
+      "translated": false
+    },
+    {
+      "author_name": "Mike Mockschan",
+      "author_url": "https://www.google.com/maps/contrib/102146449790306889912/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_kAg5R9pxWoDIGmbemPI1iSnR66tem0nlPqHsS9Zoh0PG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich hatte einen Termin zur Hautkrebs Vorsorge bei Herr Dr.Al-Mashhadani.\nDie Untersuchung so wie das Vorab -  und Nachgespräch waren sehr gut. Ich habe mich sehr gut beraten gefühlt und während des Aufenthaltes sehr wohl gefühlt. Es war eine professionelle Behandlung und Beratung.",
       "time": 1793737752,
       "translated": false
@@ -1465,7 +1501,7 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 63,
+  "reviewCount": 65,
   "summary": [],
-  "lastUpdated": "2026-11-10T13:13:44.365Z"
+  "lastUpdated": "2026-11-13T12:51:05.138Z"
 }

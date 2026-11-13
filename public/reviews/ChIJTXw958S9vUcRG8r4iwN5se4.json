@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "BW Brazil Beauty Studio",
+      "author_url": "https://www.google.com/maps/contrib/103309888946186219697/reviews",
+      "language": "de",
+      "original_language": "it",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVK4osR6TihR6oCQSKlvzyPZY7hJAnVUj843kg9dqEXScKtY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Toller Ort",
+      "time": 1794327368,
+      "translated": true
+    },
+    {
       "author_name": "Lumzan",
       "author_url": "https://www.google.com/maps/contrib/110693358443534407652/reviews",
       "language": "de",
@@ -45,6 +57,16 @@
       "translated": false
     },
     {
+      "author_name": "Rafik India",
+      "author_url": "https://www.google.com/maps/contrib/103008222483482607334/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa0GA3iANjKojcv8LJT4vjxjZKCeFeswR0yoQB-5EW7EFjJgQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793352561,
+      "translated": false
+    },
+    {
       "author_name": "Erik Skala",
       "author_url": "https://www.google.com/maps/contrib/112716069744831321522/reviews",
       "language": "de",
@@ -64,6 +86,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV90mifj2NcYhw_1rS7qJQZZWfHNQ-4jfKkwt26LtLsJu8r8L0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Beratung und gründliche sowie kompetente Untersuchung - aus meiner persönlichen Sicht sehr zu empfehlen...",
+      "time": 1793275463,
+      "translated": false
+    },
+    {
+      "author_name": "Erik Skala",
+      "author_url": "https://www.google.com/maps/contrib/112716069744831321522/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV90mifj2NcYhw_1rS7qJQZZWfHNQ-4jfKkwt26LtLsJu8r8L0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr gute Beratung und gründliche sowie kompetente Untersuchung - aus meiner persönlichen Sicht sehr zu empfehlen...",
       "time": 1793275463,
       "translated": false
@@ -1888,11 +1922,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 169,
+  "reviewCount": 170,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:13.321Z"
+  "lastUpdated": "2026-11-13T12:51:40.422Z"
 }

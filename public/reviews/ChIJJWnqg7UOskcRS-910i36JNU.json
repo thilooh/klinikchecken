@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "S. Steckel",
+      "author_url": "https://www.google.com/maps/contrib/104906019294697981767/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOiho1fhU1sMOqQpYX1hIngIAaF5pITYHpuxW5LGMloJF7Bg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe für meine Sohn innerhalb von 3 Wochen einen Termin in der \"Kinder- und Jugendhaut\"-Sprechstunde erhalten. Direkt nachdem wir angekommen waren, konnten wir schon ins Sprechzimmer. Es ging wirklich super schnell. Frau Dr. Haase hat sich die HautProbleme unseres Sohnes wirklich angehört, viel nachgefragt und sich seine aktuelle Pflegeroutine auf Fotos zeigen lassen. Auch Rückfragen hat Sie gern beantwortet. Immer mit einem Lächeln und viel Humor. Es wurde auch nicht alles verteufelt oder in frage gestellt was er bisher gemacht hat für die Haut und auch das \"Gesamte\" hat sie interessiert. Z.B. ob er Sport macht, Keartin nimmt oder Protein. Meiner Meinung nach eine Ärztin die ein wirklich gutes Gefühl vermittelt. Wir fühlen uns beide gut aufgehoben und freuen uns auf den nächsten Termin dort.",
+      "time": 1794413019,
+      "translated": false
+    },
+    {
+      "author_name": "Joachim Bach",
+      "author_url": "https://www.google.com/maps/contrib/113135762030523277931/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7Te48rLoIcD1WsNRcsk9deND33FZCIT5jvHcZ1IIUWNhlJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wie immer wurde ich freundlichst empfangen und meine Anliegen wurden schnell und gründlich erledigt! Frau Dr. Morowka ist einfach eine wunderbare Ärztin. Vielen Dank !\nJoachim Bach",
+      "time": 1794402397,
+      "translated": false
+    },
+    {
+      "author_name": "Marianne Schäfer",
+      "author_url": "https://www.google.com/maps/contrib/115028121509903746229/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY1NMBZ4tyqguFnBzy4iEqmc5RCZGGCWWVgWQaaM9rHmaveRU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Für uns ist es immer perfekt 😊\nTermin online anfragen und schon bekommt man einen verbindlichen Termin. Ja manchmal erfordert es eine etwas längere Wartezeit, aber alle sind freundlich und wir stellen uns darauf ein. Fachlich ist für uns immer alles super gewesen. Vielen Dank für die vertrauensvolle Behandlung.",
+      "time": 1794385826,
+      "translated": false
+    },
+    {
+      "author_name": "Hamburger",
+      "author_url": "https://www.google.com/maps/contrib/106075133268195784267/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcH6DuRnpvwkatzDR1ixVtluz0aNnTNkijQSSPoQo54tC2zQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden gute Erfahrungen, kein Stress, kurze Wartezeit. Frau Martens zugewandt und kompetent .",
+      "time": 1794328662,
+      "translated": false
+    },
+    {
+      "author_name": "Henrik",
+      "author_url": "https://www.google.com/maps/contrib/103081070575579064475/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQ12RECoPJEUgDdah4tZhrmNq9Moqj5NLIUmwXmbgfjhCEJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein wirklich sehr kompetentes und freundliches Team in der Praxis. Von der Anmeldung bis zur Behandlung war alles super. Die Wartezeiten sind immer sehr gering und es wird sich genügend Zeit für die Patienten genommen. Auch die OP lief reibungslos und ich habe mich die ganze Zeit gut aufgehoben gefühlt.",
+      "time": 1794321124,
+      "translated": false
+    },
+    {
       "author_name": "My Name is Nobody (R.E.D.)",
       "author_url": "https://www.google.com/maps/contrib/116883834752007627715/reviews",
       "language": "de",
@@ -2724,11 +2784,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2478,
+  "reviewCount": 2484,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-10T13:13:58.749Z"
+  "lastUpdated": "2026-11-13T12:51:22.332Z"
 }

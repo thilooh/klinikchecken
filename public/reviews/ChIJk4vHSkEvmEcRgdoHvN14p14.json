@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "daria a.",
+      "author_url": "https://www.google.com/maps/contrib/118295257348445829809/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW91sZajTK8jIJU9YgsaJE0GL6u-3IKtlkJYnBEOgwT5g21jKiz=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider eine äußerst enttäuschende Erfahrung. Mein Termin war für 17:20 Uhr vereinbart, dennoch musste ich fast zwei Stunden warten und kam erst gegen 18:50 Uhr zum Arzt.\n\nBesonders unprofessionell und respektlos empfand ich die Art und Weise, wie der Arzt( Herr Dr. med. Arnold) mit mir gesprochen hat. Die Aussage, ich solle „nicht jedem Scheiß im Internet glauben“, ist für mich im Umgang mit Patienten absolut inakzeptabel. Besonders irritierend fand ich, dass sich die Praxis als „Hautarzt- und Laserzentrum“ bezeichnet, der Arzt jedoch sagte, dass er grundsätzlich keine Laserbehandlungen durchführt, „altmodisch und aus 19.Jahrhundert“ bezeichnete und persönlich gegen solche Behandlungen sei. Diese Diskrepanz fand ich angesichts der Bezeichnung der Praxis sehr verwirrend.\n\nAufgrund der langen Wartezeit musste ich außerdem meinen anschließenden Termin absagen. Letztendlich habe ich fast zwei Stunden gewartet, nur um etwa fünf Minuten beim Arzt zu verbringen und ohne die gewünschte Behandlung wieder zu gehen.\n\nWeder der Service noch der Umgang mit Patienten entsprechen meinen Erwartungen. Definitiv keine positive Erfahrung.",
+      "time": 1794434562,
+      "translated": false
+    },
+    {
       "author_name": "Yannick (PanNic)",
       "author_url": "https://www.google.com/maps/contrib/100706985615321464247/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpXTfR3jVxiWkpCrsmSS2pIbdaLkDRTqTbiUUB2KNuL827Ms4=s128-c0x00000000-cc-rp-mo-ba2",
@@ -16,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQxvjZdd2OwNNPgvZ18ZCXdTdLXdSm_7azCzZB2Rp-Fxexr3cB=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793779707,
+      "translated": false
+    },
+    {
+      "author_name": "T. Basma",
+      "author_url": "https://www.google.com/maps/contrib/103297643229177301632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQxvjZdd2OwNNPgvZ18ZCXdTdLXdSm_7azCzZB2Rp-Fxexr3cB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1793779707,
       "translated": false
@@ -82,6 +104,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmssLz5TihAUALZEdx61mE4Fa65LiGk5PP8lyXxvt47TjTTL3D=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1792586737,
+      "translated": false
+    },
+    {
+      "author_name": "iDropzLost",
+      "author_url": "https://www.google.com/maps/contrib/112506392961532042921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmssLz5TihAUALZEdx61mE4Fa65LiGk5PP8lyXxvt47TjTTL3D=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1792586737,
       "translated": false
@@ -1846,11 +1878,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 211,
+  "reviewCount": 212,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:27.855Z"
+  "lastUpdated": "2026-11-13T12:51:58.917Z"
 }

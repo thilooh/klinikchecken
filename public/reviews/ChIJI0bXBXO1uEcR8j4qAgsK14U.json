@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Nicole M.Z",
+      "author_url": "https://www.google.com/maps/contrib/107613566897749897641/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnM0zwXVxHhSPmtM75ih3PYfQVkmnfSqIDXtbsmGGLHeS5vg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolute Empfehlung! Ich habe über zwei Jahre lang viele Hautärzte und sogar Kliniken in Neuss und Umgebung ausprobiert, aber leider konnte mir niemand helfen. Das Derma Zentrum war meine letzte Anlaufstelle – und ich bin einfach restlos begeistert!\nMein Problem wurde sofort ernst genommen, und der Arzt hat sich unglaublich viel Zeit für mich genommen. Sowohl der Arzt als auch das gesamte Team waren absolut toll. Vielen Dank für die großartige Hilfe!",
+      "time": 1794337167,
+      "translated": false
+    },
+    {
       "author_name": "Gabi Wrobel",
       "author_url": "https://www.google.com/maps/contrib/114481575160102922477/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxBt6tlDwjAFxTbhkDwomoQ6M3rso8LyMyFEjWMRIeilEu6Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr  sympathisches und kompetentes Praxisteam",
+      "time": 1793885635,
+      "translated": false
+    },
+    {
+      "author_name": "Gabi Wrobel",
+      "author_url": "https://www.google.com/maps/contrib/114481575160102922477/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxBt6tlDwjAFxTbhkDwomoQ6M3rso8LyMyFEjWMRIeilEu6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr  sympathisches und kompetentes Praxisteam",
       "time": 1793885635,
       "translated": false
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Tprk_lucy",
+      "author_url": "https://www.google.com/maps/contrib/102225391751013704833/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNzA1KQoB9i_73piCfY0myaCqiEUmsLU2mgBjn6MGYvLaqNZqx9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Bin schon seit Jahren da und bin Mega zufrieden",
+      "time": 1793883006,
+      "translated": false
+    },
+    {
       "author_name": "Birgit P",
       "author_url": "https://www.google.com/maps/contrib/117955583481983023487/reviews",
       "language": "de",
@@ -37,6 +73,18 @@
       "translated": false
     },
     {
+      "author_name": "Birgit P",
+      "author_url": "https://www.google.com/maps/contrib/117955583481983023487/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwpcphcdyrvz0jlxi0_YfKXLXAVxcbAv3QRjkQgtBaY7fSSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war zum ersten mal dort. Sehr angenehme Atmosphäre und ein sehr freundliches Team. Das Ergebnis des Dermascans wurde mir ausführlich erklärt und ich konnte beruhigt wieder gehen\nKontrolle in einem Jahr auf jeden Fall dort.",
+      "time": 1793865137,
+      "translated": false
+    },
+    {
       "author_name": "Carsten Ganswich",
       "author_url": "https://www.google.com/maps/contrib/116439696435280905220/reviews",
       "language": "de",
@@ -44,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRmRIG6hxEqTL0eppfUJejJD9EfRyRaZRXBsMtnXEWE2lAqTI=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Super Team\nKlasse Arzt\nMan fühlt sich einfach Wohl.....",
+      "time": 1793775660,
+      "translated": false
+    },
+    {
+      "author_name": "Carsten Ganswich",
+      "author_url": "https://www.google.com/maps/contrib/116439696435280905220/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRmRIG6hxEqTL0eppfUJejJD9EfRyRaZRXBsMtnXEWE2lAqTI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Super Team\nKlasse Arzt\nMan fühlt sich einfach Wohl.....",
       "time": 1793775660,
       "translated": false
@@ -1904,11 +1964,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 355,
+  "reviewCount": 356,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-10T13:14:26.365Z"
+  "lastUpdated": "2026-11-13T12:51:56.957Z"
 }

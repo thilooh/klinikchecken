@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Alina Hut",
+      "author_url": "https://www.google.com/maps/contrib/101166722947574507938/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUa7oup-_CMOFSAKGUuHyxTk2nNpeoN7iSAWEy_BdKp690FRcN=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin sehr zufrieden, Hautkrebsvorsorge war effizient und gründlich. Kaum Wartezeit",
+      "time": 1794418411,
+      "translated": false
+    },
+    {
+      "author_name": "Dr. Farshid Behi",
+      "author_url": "https://www.google.com/maps/contrib/107123906215468486119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxMzxQPGKpHrjlEcODLMqd1DMY8qOqciTqujWEH7qPQFrkMnwr=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte bereits einen früheren Kontakt mit dem Dermatologikum Bremen und war daher umso enttäuschter über meine jüngste telefonische Erfahrung.\n\nDer Umgang am Telefon war ausgesprochen unfreundlich und auffallend patzig. Es entstand zudem der Eindruck, dass keinerlei ernsthaftes Interesse bestand, nach einem geeigneten Termin zu suchen oder eine konstruktive Lösung anzubieten.\n\nGerade von einer etablierten dermatologischen Fachpraxis darf man ein angemessenes Maß an Professionalität, Patientenorientierung und respektvoller Kommunikation erwarten. Ein derartiger Umgang wird diesem Anspruch aus meiner Sicht in keiner Weise gerecht.\n\nIch habe mich daher entschieden, künftig eine andere dermatologische Praxis zu konsultieren.\n\nEine Empfehlung für das Dermatologikum Bremen kann ich aufgrund dieser Erfahrung leider nicht aussprechen. Fachliche Kompetenz allein genügt nicht – ein respektvoller und wertschätzender Umgang mit Patienten sollte eine selbstverständliche Grundlage jeder medizinischen Einrichtung sein.",
+      "time": 1794411381,
+      "translated": false
+    },
+    {
       "author_name": "Petra Dein Ernährungscoach",
       "author_url": "https://www.google.com/maps/contrib/107059126743287776114/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtZTXKG5OluHBcn9rjKOBGCF22GVKgfxWvgtwCXnkZOZLy-Blu=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich kam als Selbstzahlerin in die Praxis, weil ich in Praxen mit Kassenleistung keine Termine bekam. Das ist ein Jahr her und ich muß sagen: Das war eine sehr gute Entscheidung. Das ganze Team ist sehr freundlich. Die Atmosphäre in der Praxis ist stressfrei, was den Druck der Angst herausnimmt.\n\nDr. Kaune beriet mich sehr gut über verschiedene Möglichkeiten. Das kleine Lasern war dann echt harmlos.\nNun kann ich auch sagen, die Gefäßchirurgie ist genauso gut.\nFrau Dr. Heßemer ist eine sehr sympathische Ärztin. Ihre positive Ausstrahlung nahm mir die Unruhe und ich fühlte mich sofort ernst genommen. Das war in der Vergangenheit bei anderen Ärzten nicht der Fall.\n\nVielen Dank für alles.",
+      "time": 1791912046,
+      "translated": false
+    },
+    {
+      "author_name": "Petra Dein Ernährungscoach",
+      "author_url": "https://www.google.com/maps/contrib/107059126743287776114/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtZTXKG5OluHBcn9rjKOBGCF22GVKgfxWvgtwCXnkZOZLy-Blu=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ich kam als Selbstzahlerin in die Praxis, weil ich in Praxen mit Kassenleistung keine Termine bekam. Das ist ein Jahr her und ich muß sagen: Das war eine sehr gute Entscheidung. Das ganze Team ist sehr freundlich. Die Atmosphäre in der Praxis ist stressfrei, was den Druck der Angst herausnimmt.\n\nDr. Kaune beriet mich sehr gut über verschiedene Möglichkeiten. Das kleine Lasern war dann echt harmlos.\nNun kann ich auch sagen, die Gefäßchirurgie ist genauso gut.\nFrau Dr. Heßemer ist eine sehr sympathische Ärztin. Ihre positive Ausstrahlung nahm mir die Unruhe und ich fühlte mich sofort ernst genommen. Das war in der Vergangenheit bei anderen Ärzten nicht der Fall.\n\nVielen Dank für alles.",
       "time": 1791912046,
       "translated": false
@@ -1246,11 +1282,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 202,
+  "reviewCount": 204,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:13:55.552Z"
+  "lastUpdated": "2026-11-13T12:51:18.712Z"
 }

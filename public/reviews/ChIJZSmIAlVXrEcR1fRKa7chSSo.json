@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Werner",
+      "author_url": "https://www.google.com/maps/contrib/115460559366078761421/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvqvRz-JEIO-qzEX_JmB-aRZ3Hp35moaoOqTeyh6OQFoc1KA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolles Team, Terminabsprache und Behandlung hat immer gut geklappt. Fühle mich gut beraten und aufgehoben.",
+      "time": 1794330592,
+      "translated": false
+    },
+    {
       "author_name": "Minna B",
       "author_url": "https://www.google.com/maps/contrib/105349049923844745303/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCX0JPn8v2_ZmEea1b0v_N2_lAAAvc9MbzAtB6hV4y6qmMfA=s128-c0x00000000-cc-rp-mo",
@@ -152,6 +164,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0Wyb7eAUKfQJtkUd2RxoFBcZfGHfumrtdYxYNl6LRL-C7CbIL=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Untersuchung und Diagnose noch nicht abgeschlossen,ich fühlte mich dort verstanden und es gefällt mir sehr gut.Dr.Pabst ist ein gründlicher Arzt und sehr kompetent in meinen Augen.\nNur eins gefällt mir nicht,die Terminvergabe,es dauert einfach zu lange und OP Termine ein Jahr später…wenn man schon älter ist könnte man bis dahin schon gestorben sein.\nNaja mal abwarten!",
+      "time": 1784049169,
+      "translated": false
+    },
+    {
+      "author_name": "Angelika Blohm",
+      "author_url": "https://www.google.com/maps/contrib/105343755399972155352/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0Wyb7eAUKfQJtkUd2RxoFBcZfGHfumrtdYxYNl6LRL-C7CbIL=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Untersuchung und Diagnose noch nicht abgeschlossen,ich fühlte mich dort verstanden und es gefällt mir sehr gut.Dr.Pabst ist ein gründlicher Arzt und sehr kompetent in meinen Augen.\nNur eins gefällt mir nicht,die Terminvergabe,es dauert einfach zu lange und OP Termine ein Jahr später…wenn man schon älter ist könnte man bis dahin schon gestorben sein.\nNaja mal abwarten!",
       "time": 1784049169,
       "translated": false
@@ -328,6 +352,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhDv0lYIYnNHb-g7uilTuuYLzI1sKW_j1dDeU5dgRWoJ87vg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Monaten",
+      "text": "",
+      "time": 1781544675,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah.2503",
+      "author_url": "https://www.google.com/maps/contrib/102016135190559789467/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhDv0lYIYnNHb-g7uilTuuYLzI1sKW_j1dDeU5dgRWoJ87vg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
       "text": "",
       "time": 1781544675,
       "translated": false
@@ -670,11 +704,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 41,
+  "reviewCount": 42,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-10T13:13:57.019Z"
+  "lastUpdated": "2026-11-13T12:51:20.427Z"
 }

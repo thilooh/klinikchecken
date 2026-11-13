@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Mi Li",
+      "author_url": "https://www.google.com/maps/contrib/108125709985097720269/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP0sD78h_FEiBy7CG3gJca0LrJ9pHxkUiiwUbz1pFJ_mjsEKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich in der Dermatologie Quist in Mainz sehr gut aufgehoben. Besonders Frau Dr. Bergmann möchte ich von Herzen danken. Sie ist nicht nur eine hervorragende und kompetente Ärztin, sondern begegnet ihren Patientinnen und Patienten mit viel Aufmerksamkeit, Fürsorge und Menschlichkeit.\n\nNach meiner Tumoroperation hat sie sich sogar persönlich mit meinem Onkologen abgestimmt, um sicherzustellen, dass meine Medikamente mit der Behandlung meiner Schuppenflechte vereinbar sind. Dieses außergewöhnliche Engagement hat mir viel Sicherheit gegeben und zeigt, wie sehr ihr das Wohl ihrer Patienten am Herzen liegt.\n\nBei Frau Dr. Bergmann fühle ich mich jederzeit ernst genommen, bestens betreut und einfach in den richtigen Händen. Eine Ärztin, auf die man sich zu 100 % verlassen kann.\nVielen Dank dafür! ❤️",
+      "time": 1794487396,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Windheuser",
+      "author_url": "https://www.google.com/maps/contrib/100257085574762267304/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_iL_J9Z2IAFIID9o0le50K76Gzxy7aOvMFFYZtt8wkyllHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute wurde ich von Frau Schmidt aus der Praxis zurückgerufen.  Eine sehr nette Mitarbeiterin .\nIch hatte vor einiger Zeit meine Daten auf der Mailbox erhalten. Wegen einem technischen Problem hat es zwar etwas gedauert, aber jetzt habe ich innerhalb von 14 Tagen einen Termin zum Hautkrebs-Screening via Body-Scan. Vorblildlich und ab jetzt meine Hautarztpraxis!\n\nBis bald. Frank",
+      "time": 1794393138,
+      "translated": false
+    },
+    {
       "author_name": "Claus Scholz",
       "author_url": "https://www.google.com/maps/contrib/104641507519774748116/reviews",
       "language": "de",
@@ -2136,11 +2160,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 375,
+  "reviewCount": 377,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:13.563Z"
+  "lastUpdated": "2026-11-13T12:51:40.665Z"
 }

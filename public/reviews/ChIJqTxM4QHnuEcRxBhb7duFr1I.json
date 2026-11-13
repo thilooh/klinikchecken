@@ -53,6 +53,16 @@
       "translated": false
     },
     {
+      "author_name": "Heike Krönung",
+      "author_url": "https://www.google.com/maps/contrib/110190036371266879093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1DCvSrNoIlO5A7tL6EhmERNYeyWbvZJILwAbFhRwJatewwQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1791950808,
+      "translated": false
+    },
+    {
       "author_name": "Lydia",
       "author_url": "https://www.google.com/maps/contrib/103315775810513606542/reviews",
       "language": "de",
@@ -344,6 +354,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ7qLlLFr9ZTX04Vwf0J6vDI0IbXkwUPXMt5EhQ5v_scvgU03M=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Monaten",
+      "text": "Ein wunderbarer Arzt, was seine Behandlung und seine Freundlichkeit betrifft.",
+      "time": 1781606624,
+      "translated": true
+    },
+    {
+      "author_name": "Ali Alali",
+      "author_url": "https://www.google.com/maps/contrib/107641648485375912483/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ7qLlLFr9ZTX04Vwf0J6vDI0IbXkwUPXMt5EhQ5v_scvgU03M=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
       "text": "Ein wunderbarer Arzt, was seine Behandlung und seine Freundlichkeit betrifft.",
       "time": 1781606624,
       "translated": true
@@ -792,5 +814,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:17.295Z"
+  "lastUpdated": "2026-11-13T12:51:45.280Z"
 }

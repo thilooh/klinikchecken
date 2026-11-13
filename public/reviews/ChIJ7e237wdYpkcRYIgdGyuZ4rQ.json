@@ -13,11 +13,33 @@
       "translated": false
     },
     {
+      "author_name": "Michael Brunotte",
+      "author_url": "https://www.google.com/maps/contrib/105829726488846763712/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnrHus80AKM8M3gDjUhd4TRTNjknAP3K4zoxeSc-1JYnVPrrtd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich sage nur freundlich kompetent\nIn allem perfekt 👌",
+      "time": 1793823384,
+      "translated": false
+    },
+    {
       "author_name": "Lydia Schubert",
       "author_url": "https://www.google.com/maps/contrib/101594831363202772148/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl2yeHSH5yiiR6fKoOsiq2dem9O5_SA_8ntjPV9Ym_8BjdFQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1793713047,
+      "translated": false
+    },
+    {
+      "author_name": "Lydia Schubert",
+      "author_url": "https://www.google.com/maps/contrib/101594831363202772148/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl2yeHSH5yiiR6fKoOsiq2dem9O5_SA_8ntjPV9Ym_8BjdFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1793713047,
       "translated": false
@@ -930,5 +952,5 @@
   "rating": 4.5,
   "reviewCount": 54,
   "summary": [],
-  "lastUpdated": "2026-11-10T13:13:52.281Z"
+  "lastUpdated": "2026-11-13T12:51:14.538Z"
 }

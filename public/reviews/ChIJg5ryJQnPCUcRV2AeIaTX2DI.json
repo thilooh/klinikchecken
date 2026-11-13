@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sophie Gutmann",
+      "author_url": "https://www.google.com/maps/contrib/105351834052185485807/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpbrO36U3WtzFC5ohdT-kHR80AFofkcKr2xgYyA02UDvnoEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Absolut empfehlenswert! Ich hatte 14.00uhr den Termin um zwei Dinge Lasern zu lassen. Höchstens 5min Wartezeit. Dann ging es schon los. Ich habe die Praxis 14.24 verlassen inklusive Behandlung und ein nettes Gespräch. Auch der Empfang ganz liebe Mitarbeiter. Als Privatpatient komme ich gerne wieder 🤗 ist jeden Cent wert!",
+      "time": 1794339338,
+      "translated": false
+    },
+    {
       "author_name": "Lara Lobreyer",
       "author_url": "https://www.google.com/maps/contrib/113420544610534711480/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM5DyEyeXUG-3z-KeiwMZVBDlMZZZ3rf--3gwndxvGEQR90A=s128-c0x00000000-cc-rp-mo",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM5DyEyeXUG-3z-KeiwMZVBDlMZZZ3rf--3gwndxvGEQR90A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1792742841,
+      "translated": false
+    },
+    {
+      "author_name": "Lara Lobreyer",
+      "author_url": "https://www.google.com/maps/contrib/113420544610534711480/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM5DyEyeXUG-3z-KeiwMZVBDlMZZZ3rf--3gwndxvGEQR90A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1792742841,
       "translated": false
@@ -882,11 +904,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 123,
+  "reviewCount": 124,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-10T13:14:10.074Z"
+  "lastUpdated": "2026-11-13T12:51:36.205Z"
 }

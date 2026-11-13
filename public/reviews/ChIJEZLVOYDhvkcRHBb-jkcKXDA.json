@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Christel Deckert",
+      "author_url": "https://www.google.com/maps/contrib/118307154879846921948/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzj7916R8SH_J6hA64elIeE2MOrFpvIwlDVuwo_A82W7-Lqw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794337268,
+      "translated": false
+    },
+    {
       "author_name": "Christina Herrmann",
       "author_url": "https://www.google.com/maps/contrib/112008740904793209572/reviews",
       "language": "de",
@@ -32,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnaWEVHhglp-acCUm-_fz_iI5Hf73gODZJrN7LxmS_ceW2Dg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Ich bin hier gut aufgehoben. Hatte schon öfter Hautpropleme und mir wurde immer geholfen. Ich bin mit allem zu Frieden.",
+      "time": 1792686044,
+      "translated": false
+    },
+    {
+      "author_name": "Christina Herrmann",
+      "author_url": "https://www.google.com/maps/contrib/112008740904793209572/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnaWEVHhglp-acCUm-_fz_iI5Hf73gODZJrN7LxmS_ceW2Dg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Ich bin hier gut aufgehoben. Hatte schon öfter Hautpropleme und mir wurde immer geholfen. Ich bin mit allem zu Frieden.",
       "time": 1792686044,
       "translated": false
@@ -82,6 +104,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9jcQOOZlzJgPSfEO-vHDomgGyAV0Iubg6G6Hu2riAfc9KPg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1791884570,
+      "translated": false
+    },
+    {
+      "author_name": "A",
+      "author_url": "https://www.google.com/maps/contrib/101730821576299055640/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9jcQOOZlzJgPSfEO-vHDomgGyAV0Iubg6G6Hu2riAfc9KPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1791884570,
       "translated": false
@@ -1194,11 +1226,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 98,
+  "reviewCount": 99,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-10T13:14:00.002Z"
+  "lastUpdated": "2026-11-13T12:51:23.744Z"
 }

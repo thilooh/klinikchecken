@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "mario Bütow",
+      "author_url": "https://www.google.com/maps/contrib/117696100146591586284/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYn1gOVnN3tP9Gg-dW7rjRuEM9ngSz_tVaDWz2yvs1y4PcUg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793893180,
+      "translated": false
+    },
+    {
       "author_name": "A M",
       "author_url": "https://www.google.com/maps/contrib/101817251632109728792/reviews",
       "language": "de",
@@ -18,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGNpjWXJA7lSwgaUSGwgk11HacHapuOBL_hWEr8jJNQjpoOWs=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Einfach nur schlecht",
+      "time": 1793865315,
+      "translated": false
+    },
+    {
+      "author_name": "A M",
+      "author_url": "https://www.google.com/maps/contrib/101817251632109728792/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGNpjWXJA7lSwgaUSGwgk11HacHapuOBL_hWEr8jJNQjpoOWs=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Einfach nur schlecht",
       "time": 1793865315,
       "translated": false
@@ -1728,5 +1750,5 @@
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-10T13:14:36.804Z"
+  "lastUpdated": "2026-11-13T12:52:09.226Z"
 }

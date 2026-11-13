@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Jürgen Wolkenstein",
+      "author_url": "https://www.google.com/maps/contrib/101716228143265986921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8bQ1AJBWkG0KIs3TARzfM7OrcnzOsIN1hQ94YB6m28IL3zdOh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793899321,
+      "translated": false
+    },
+    {
       "author_name": "El Dorado",
       "author_url": "https://www.google.com/maps/contrib/106618539441832278071/reviews",
       "language": "de",
@@ -18,6 +28,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9dxrHFZem2dXNYFYSkpuM8ZdVQDPE6sL7-zJIlk9pzO2mR4E=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr zufrieden.",
+      "time": 1793722959,
+      "translated": false
+    },
+    {
+      "author_name": "El Dorado",
+      "author_url": "https://www.google.com/maps/contrib/106618539441832278071/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9dxrHFZem2dXNYFYSkpuM8ZdVQDPE6sL7-zJIlk9pzO2mR4E=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr zufrieden.",
       "time": 1793722959,
       "translated": false
@@ -1142,5 +1164,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:26.856Z"
+  "lastUpdated": "2026-11-13T12:51:57.657Z"
 }

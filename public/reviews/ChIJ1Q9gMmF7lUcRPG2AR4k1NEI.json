@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "eva rozsos",
+      "author_url": "https://www.google.com/maps/contrib/118305734938936628149/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk81jaLCrnmnc5dPsAcnjXWCfjVQJXXUFJEaR7oGHSeQDbdA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Kollegin an der Rezeption alles andere als hilfsbereit, und sehr unhöflich",
+      "time": 1793889414,
+      "translated": false
+    },
+    {
       "author_name": "Sascia Stannek",
       "author_url": "https://www.google.com/maps/contrib/110294640355526716413/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLefy2wCa8GETBog6EKivdzjm5gIjAwpdsT23NhCfJivBCPxg=s128-c0x00000000-cc-rp-mo",
@@ -290,6 +302,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQYcVJ5wecTX_K7DwZ6C3PZ9nfw1Qii58psQayFY_YYbKEC8=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 2,
       "relative_time_description": "vor 2 Monaten",
+      "text": "Sehr unfreundliche Dame am Empfang.",
+      "time": 1786556724,
+      "translated": false
+    },
+    {
+      "author_name": "Gaby",
+      "author_url": "https://www.google.com/maps/contrib/107595053606798544546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQYcVJ5wecTX_K7DwZ6C3PZ9nfw1Qii58psQayFY_YYbKEC8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "vor 3 Monaten",
       "text": "Sehr unfreundliche Dame am Empfang.",
       "time": 1786556724,
       "translated": false
@@ -862,5 +886,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:32.934Z"
+  "lastUpdated": "2026-11-13T12:52:04.663Z"
 }

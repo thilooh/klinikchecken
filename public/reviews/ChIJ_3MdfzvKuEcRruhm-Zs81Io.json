@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Anne Zens",
+      "author_url": "https://www.google.com/maps/contrib/107367623235981529765/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwhT-saj6X3p0C90p2xbg-AcTKVX7TcsAy3QjBFpaWpvlHvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Klinik und gutes Personal",
+      "time": 1794334503,
+      "translated": false
+    },
+    {
       "author_name": "Alina D",
       "author_url": "https://www.google.com/maps/contrib/101702096758790605971/reviews",
       "language": "de",
@@ -35,6 +47,18 @@
       "translated": false
     },
     {
+      "author_name": "Felicia Knürr",
+      "author_url": "https://www.google.com/maps/contrib/111754776651360851787/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJD0JQDAhURn6jK5vCO0iIiAUBCJz6K0poZx2bRoOcQoJnpWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ein großes Dankeschön an das gesamte Team der KÖ-Klinik!\n\nIch bin von der ersten Beratung bis hin zur Operation und der anschließenden Betreuung rundum mehr als zufrieden.\n\nOperiert wurde ich von Herrn Dr. Alexandros Ignatiadis, bei dem ich mich von Anfang an bestens aufgehoben und verstanden gefühlt habe. Auf meine Wünsche wurde jederzeit eingegangen und ich hatte stets das Gefühl, dass man sich wirklich Zeit für mich nimmt. Besonders hervorheben möchte ich auch, dass mir meine anfängliche Angst und Unsicherheit genommen wurden. Mir wurde Mut zugesprochen und durch die einfühlsame Art und die ausführlichen Gespräche war am OP-Tag selbst von meinen anfänglichen Bedenken und Ängsten nichts mehr übrig.\n\nEin ganz besonderes Lob möchte ich auch den Schwestern auf der Station aussprechen! Die Betreuung war wirklich außergewöhnlich herzlich und aufmerksam. Ich habe mich zu jeder Zeit gut aufgehoben gefühlt. Es wurde sich nicht nur um das Medizinische gekümmert, sondern man hat sich auch Zeit für persönliche Gespräche genommen. Man hatte nie das Gefühl, einfach nur abgefertigt zu werden, sondern wurde als Mensch wahrgenommen. Das ist gerade in einer solchen Situation unglaublich viel wert!\n\nAuch meine Fragen wurden während des gesamten Prozesses stets ausführlich, verständlich und präzise beantwortet.\n\nIch kann die KÖ-Klinik und insbesondere Herrn Dr. Alexandros Ignatiadis sowie das gesamte Stationsteam von Herzen weiterempfehlen.\n\nVielen Dank für die tolle Betreuung, die Herzlichkeit und dafür, dass ihr mir ein so gutes Gefühl vor, während und nach meiner Operation gegeben habt!",
+      "time": 1793877804,
+      "translated": false
+    },
+    {
       "author_name": "Brigitte Fammels",
       "author_url": "https://www.google.com/maps/contrib/101069268018457726713/reviews",
       "language": "de",
@@ -42,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrz1BgZQuwbbChDwpKRKsyik4y1eipuJ11xAF9vhG1rn0edg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Danke! Möchte mich bedanken für die gute Behandlung am Montag bis Dienstag war ich in der kö Klinik und bei meinen Ärzten Krankschwestern war alles top!!\nHabe foriges Jahre nicht so gute Erfahrungen gemacht. Dafür jetzt alle gut Danke",
+      "time": 1793784550,
+      "translated": false
+    },
+    {
+      "author_name": "Brigitte Fammels",
+      "author_url": "https://www.google.com/maps/contrib/101069268018457726713/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrz1BgZQuwbbChDwpKRKsyik4y1eipuJ11xAF9vhG1rn0edg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Danke! Möchte mich bedanken für die gute Behandlung am Montag bis Dienstag war ich in der kö Klinik und bei meinen Ärzten Krankschwestern war alles top!!\nHabe foriges Jahre nicht so gute Erfahrungen gemacht. Dafür jetzt alle gut Danke",
       "time": 1793784550,
       "translated": false
@@ -1901,7 +1937,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 400,
+  "reviewCount": 401,
   "summary": [],
-  "lastUpdated": "2026-11-10T13:13:45.790Z"
+  "lastUpdated": "2026-11-13T12:51:06.818Z"
 }

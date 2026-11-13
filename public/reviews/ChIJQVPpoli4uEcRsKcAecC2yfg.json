@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Silvia van der Pas",
+      "author_url": "https://www.google.com/maps/contrib/115026481874703645657/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHbvDvgEqYuMK9cfAeXVYl0bjHpQpKShUq97TYEVQiOBmbGg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Gestern war ich mit meiner 95 Jahre alten Mutter bei Frau Dr. Die Mitarbeiterin am Empfang war sehr freundlich,  was ich von Frau Dr. nicht sagen kann. Sie hat sich nicht die Zeit genommen um über das Problem zu sprechen und der letzte Satz von Ihr war \"wir brauchen den Raum\". Es war für uns das erste und letzte Mal.",
+      "time": 1794552218,
+      "translated": false
+    },
+    {
       "author_name": "Frank Stein",
       "author_url": "https://www.google.com/maps/contrib/103335675199525223740/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxCMwujXZ9aujeTcbVmJC_WlOEHhQQ3RWJSpxas5Jpo_FYHg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "Telefonisch nicht erreichbar. Das sehe ich als no go für einen Arzt.",
+      "time": 1793354022,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Stein",
+      "author_url": "https://www.google.com/maps/contrib/103335675199525223740/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxCMwujXZ9aujeTcbVmJC_WlOEHhQQ3RWJSpxas5Jpo_FYHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Telefonisch nicht erreichbar. Das sehe ich als no go für einen Arzt.",
       "time": 1793354022,
       "translated": false
@@ -1063,12 +1087,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 108,
+  "rating": 4.8,
+  "reviewCount": 109,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:03.530Z"
+  "lastUpdated": "2026-11-13T12:51:27.673Z"
 }

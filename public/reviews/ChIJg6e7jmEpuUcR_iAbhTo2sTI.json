@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Harald",
+      "author_url": "https://www.google.com/maps/contrib/116121108248231376592/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9c1G9A8mOkvY4lKhQF6eaMBc8McXsE2i_1GDeYHZnyZ7AIjIH=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man muss schon mal ein bisschen Wartezeit einplanen",
+      "time": 1794413580,
+      "translated": false
+    },
+    {
       "author_name": "Soon",
       "author_url": "https://www.google.com/maps/contrib/101164119735759417827/reviews",
       "language": "de",
@@ -23,6 +35,16 @@
       "translated": false
     },
     {
+      "author_name": "Ahmad Zaza",
+      "author_url": "https://www.google.com/maps/contrib/114969780692557315388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJD7yC9apFFdSjl8ebQ77WoTgKq2erEEk2sIqf7FEYZ7RbwVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793778671,
+      "translated": false
+    },
+    {
       "author_name": "Khaled Shahin",
       "author_url": "https://www.google.com/maps/contrib/108378261164888835852/reviews",
       "language": "de",
@@ -30,6 +52,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP_C0oMBhS4j9S0n06K23uIVqH1bGsm4FoAs_f4FdHeDwV3w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann die Praxis nur weiterempfehlen ,Sehr gut organisierte Praxis mit unglaublich nettem und verständnisvollen Mitarbeitern.\nEine Praxis, die ich immer weiter empfehlen würde",
+      "time": 1793732547,
+      "translated": false
+    },
+    {
+      "author_name": "Khaled Shahin",
+      "author_url": "https://www.google.com/maps/contrib/108378261164888835852/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP_C0oMBhS4j9S0n06K23uIVqH1bGsm4FoAs_f4FdHeDwV3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich kann die Praxis nur weiterempfehlen ,Sehr gut organisierte Praxis mit unglaublich nettem und verständnisvollen Mitarbeitern.\nEine Praxis, die ich immer weiter empfehlen würde",
       "time": 1793732547,
       "translated": false
@@ -1560,11 +1594,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 183,
+  "reviewCount": 184,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:14:02.294Z"
+  "lastUpdated": "2026-11-13T12:51:26.110Z"
 }

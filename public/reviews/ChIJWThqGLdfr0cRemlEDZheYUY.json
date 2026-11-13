@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Wenke Wagner",
+      "author_url": "https://www.google.com/maps/contrib/107740633049863550631/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcDaRnz3Norzmnc3XPbNiH79VUEOJU98ba3Jag7EtzQDCN2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es hat mich ehrlich überrascht,  dass es soetwas gibt. Von der ersten Minute an war ich Patient und nicht nur eine Nummer. Die Organisation der einzelnen Abläufe, der Umgang mit den Patienten und auch der Umgang des Personals untereinander sind nicht zu toppen. Die Zusammenarbeit der verschiedenen Fachbereiche klappte wunderbar bei übergreifender Terminvergabe. Auf der Komfortstation fühlt man sich wie ein Privatpatient. Ich bin heute froh, mich für das MVZ entschieden zu haben und würde es, trotz längerer Anfahrt, immer wieder vorziehen. Danke an alle, die mir die Angst vor der OP genommen haben und meine Fragen und Bedenken ausführlich beantwortet haben.",
+      "time": 1794422923,
+      "translated": false
+    },
+    {
+      "author_name": "Steven Bretschneider",
+      "author_url": "https://www.google.com/maps/contrib/105139256213815072967/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl9RZokeiWnii1XtgNsk-DRpRQYao9iib0VaTH0tOjSBKZpEub=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Da können sich andere Einrichtungen eine Scheibe abschneiden.\nWirklich sehr zu empfehlen.",
+      "time": 1794406016,
+      "translated": false
+    },
+    {
+      "author_name": "Philipp",
+      "author_url": "https://www.google.com/maps/contrib/109099264641702646922/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0Vb9Xl1HN8AEA6j1Y4QWgJAb41qPKW97rmykDloO8l3CQ4kiu7g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine rundum hervorragende Betreuung – absolut empfehlenswert!\n\nIch wurde aufgrund eines Leistenbruchs im MVZ Altstadt Quartier in Magdeburg operiert und kann wirklich nur Positives berichten.\n\nKomfortstation: Die Schwestern waren durchweg unglaublich freundlich, aufmerksam und fürsorglich. Hier fühlt man sich als Patient wirklich wohl und bestens aufgehoben – auch während eines stationären Aufenthalts. Eine Betreuung, wie man sie sich nur wünschen kann!\n\nAnästhesie: Besonders hervorheben möchte ich auch das Anästhesieteam. Mit viel Verständnis, Einfühlungsvermögen und einer ausgesprochen freundlichen Art wurde mir die Nervosität vor dem Eingriff genommen. Man fühlt sich ernst genommen und bestens betreut.\n\nOperation: Den eigentlichen Eingriff kann ich als Patient natürlich nur bedingt beurteilen. Das bisherige Ergebnis ist jedoch tadellos und ich bin sehr zufrieden.\n\nDr. med. Stephan Dalicho : Er hat sich von Anfang an persönlich und zuverlässig um mein Anliegen gekümmert. Bereits ab der ersten Minute hatte ich das Gefühl, in den richtigen Händen zu sein. Dieses Vertrauen hat sich während der gesamten Behandlung bestätigt.\n\nEin herzliches Dankeschön an das gesamte Team – von der ärztlichen Betreuung über die Anästhesie bis hin zur Pflege auf der Komfortstation.\n\nMan merkt, wenn Menschen ihre Arbeit mit Kompetenz, Engagement und Menschlichkeit ausüben.\n\nVielen Dank für alles! Absolute Weiterempfehlung!",
+      "time": 1794404664,
+      "translated": false
+    },
+    {
+      "author_name": "Christian Strunk",
+      "author_url": "https://www.google.com/maps/contrib/109080930140298450706/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUS3YdaTVtlzFPjs8KZI-x7M-BOO1LX6u-QZL32ndI6taf3s-bk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super Personal, alle ganz lieb und nett, ein super Team.👍👍👍👍👍",
+      "time": 1794391118,
+      "translated": false
+    },
+    {
       "author_name": "Zekerija Dupljak",
       "author_url": "https://www.google.com/maps/contrib/103622242346427669665/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLANHXJ--PLKSaPy8ZVW7rNU1bSIbpUvAcehGMR30Xq63VqyA=s128-c0x00000000-cc-rp-mo",
@@ -2014,11 +2062,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 532,
+  "reviewCount": 536,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-10T13:13:58.013Z"
+  "lastUpdated": "2026-11-13T12:51:21.459Z"
 }

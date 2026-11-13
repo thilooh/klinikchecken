@@ -1,6 +1,38 @@
 {
   "reviews": [
     {
+      "author_name": "Janet Müller",
+      "author_url": "https://www.google.com/maps/contrib/117431094228884730278/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU205WW9F4ot8URM2EI8drCUlI7loNvmwUAPl-9bBnaka32YCJ6=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794492361,
+      "translated": false
+    },
+    {
+      "author_name": "Heike Staar",
+      "author_url": "https://www.google.com/maps/contrib/103473645282206022302/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMQxhfx31rOO4gF9jCVk49ApJ39b7rzU-v-ALIZk6SWaZ3hQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute sehr überrascht und sehr zufrieden,man bekommt schnell ein Termin und kommt auch pünktlich dran. Sehr nettes Personal und eine sehr nette Ärztin",
+      "time": 1794343927,
+      "translated": false
+    },
+    {
+      "author_name": "Jürgen B",
+      "author_url": "https://www.google.com/maps/contrib/105139775015308854426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxovcBzvxpqne6wHErm9QFovVhFPCjktuELzO7jdvZ1KQGhcBKvA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794323619,
+      "translated": false
+    },
+    {
       "author_name": "Rob Kr",
       "author_url": "https://www.google.com/maps/contrib/102959011267812624555/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzjNm6Ll-hL3DKikFSzXRDy85CYNHQj_TAtVmiATT8edUPfQ=s128-c0x00000000-cc-rp-mo",
@@ -1786,11 +1818,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 220,
+  "reviewCount": 223,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-11-10T13:14:32.457Z"
+  "lastUpdated": "2026-11-13T12:52:04.016Z"
 }

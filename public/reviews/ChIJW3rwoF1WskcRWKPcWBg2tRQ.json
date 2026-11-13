@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine Sabine",
+      "author_url": "https://www.google.com/maps/contrib/113722965663360647075/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNHBo2axzQNYlIBDE4-uUXx4rhYfs1Bv2aV37nC9A0gtqbmQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794517869,
+      "translated": false
+    },
+    {
       "author_name": "Marvin Möller",
       "author_url": "https://www.google.com/maps/contrib/107515366361764277458/reviews",
       "language": "de",
@@ -1666,11 +1676,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 154,
+  "reviewCount": 155,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-10T13:13:56.272Z"
+  "lastUpdated": "2026-11-13T12:51:19.574Z"
 }

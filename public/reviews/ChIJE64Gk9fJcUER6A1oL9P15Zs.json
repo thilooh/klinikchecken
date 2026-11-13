@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lisa S.",
+      "author_url": "https://www.google.com/maps/contrib/117854174414047181731/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRSk5gDlZQ3olUTB4nPFTyF4QTu4pen63eyVkfou4UlaAmHUc2qw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach 7 Monaten Wartezeit wurde mir von der immer sehr unfreundlichen Empfangsdame mitgeteilt, dass kein Termin vermerkt ist.\nDen Termin habe ich mit ihr vor Ort abgesprochen, nachdem mir beim ersten Termin, zur weiteren Behandlung, eine Venenkontrolle nahegelegt wurde.\nNach meiner Frage wann sie mir den nächsten Termin anbieten können sagte sie zunächst und wie gewohnt patzig: \"gar nicht\" und dann : \"im Mai\" - also in 6 Monaten. Kleiner Scherz von ihr, oder ?!\nNein Danke. Hier nicht nur keine Empfehlung, sondern der Rat tunlichst von dieser Praxis abzusehen - allein aufgrund des Empfangs.",
+      "time": 1794404686,
+      "translated": false
+    },
+    {
       "author_name": "Jelena W",
       "author_url": "https://www.google.com/maps/contrib/114479885458724881395/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDTU8uQQLy65PcKLZMkIc6Hy15C_vNeN7hImnfMLWE2Xefd0Wg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Vor einer Woche hatte ich meine Krampfadern-Operation bei Frau Dr. Kind und ich bin wirklich sehr zufrieden. Ich habe mich von Anfang an sehr gut aufgehoben gefühlt. Frau Dr. Kind ist eine  freundliche, kompetente und professionelle Ärztin, die sich Zeit nimmt und alles verständlich erklärt. Sowohl vor als auch während und nach der Operation hatte ich jederzeit das Gefühl, in sicheren Händen zu sein.\nAuch das gesamte Team war freundlich und hilfsbereit – angefangen beim Empfang bis hin zur Betreuung nach dem Eingriff. Man merkt, dass hier nicht nur professionell gearbeitet wird, sondern auch der menschliche Umgang mit den Patienten eine große Rolle spielt.\nEin herzliches Dankeschön an Frau Dr. Kind und das gesamte Team für die tolle Betreuung! Ich kann die Praxis wirklich von Herzen weiterempfehlen.",
+      "time": 1793794480,
+      "translated": false
+    },
+    {
+      "author_name": "Jelena W",
+      "author_url": "https://www.google.com/maps/contrib/114479885458724881395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDTU8uQQLy65PcKLZMkIc6Hy15C_vNeN7hImnfMLWE2Xefd0Wg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Vor einer Woche hatte ich meine Krampfadern-Operation bei Frau Dr. Kind und ich bin wirklich sehr zufrieden. Ich habe mich von Anfang an sehr gut aufgehoben gefühlt. Frau Dr. Kind ist eine  freundliche, kompetente und professionelle Ärztin, die sich Zeit nimmt und alles verständlich erklärt. Sowohl vor als auch während und nach der Operation hatte ich jederzeit das Gefühl, in sicheren Händen zu sein.\nAuch das gesamte Team war freundlich und hilfsbereit – angefangen beim Empfang bis hin zur Betreuung nach dem Eingriff. Man merkt, dass hier nicht nur professionell gearbeitet wird, sondern auch der menschliche Umgang mit den Patienten eine große Rolle spielt.\nEin herzliches Dankeschön an Frau Dr. Kind und das gesamte Team für die tolle Betreuung! Ich kann die Praxis wirklich von Herzen weiterempfehlen.",
       "time": 1793794480,
       "translated": false
@@ -132,6 +156,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcBfVMFAXBV7xSak5AduhxNs40Hj19b-hyYweuHN-_eH5pcic=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Tolle Klinik, professionelle Ärzte 👍",
+      "time": 1791841705,
+      "translated": true
+    },
+    {
+      "author_name": "Євген",
+      "author_url": "https://www.google.com/maps/contrib/112768494939470337405/reviews",
+      "language": "de",
+      "original_language": "uk",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcBfVMFAXBV7xSak5AduhxNs40Hj19b-hyYweuHN-_eH5pcic=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Tolle Klinik, professionelle Ärzte 👍",
       "time": 1791841705,
       "translated": true
@@ -1078,7 +1114,7 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 83,
+  "reviewCount": 84,
   "summary": [],
-  "lastUpdated": "2026-11-10T13:13:51.786Z"
+  "lastUpdated": "2026-11-13T12:51:14.041Z"
 }
