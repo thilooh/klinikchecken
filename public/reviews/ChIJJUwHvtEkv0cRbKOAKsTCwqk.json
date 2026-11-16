@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Heinz-Gerd Fischer",
+      "author_url": "https://www.google.com/maps/contrib/116099626657692678983/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6uhD8YAIxVqn6D6Ev_BDrVWLLd8yXawu96RpeO3OuRaYHEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794597427,
+      "translated": false
+    },
+    {
       "author_name": "Mashid Hashemi",
       "author_url": "https://www.google.com/maps/contrib/112099453294637230062/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSP92jRB1iraNCBvZgbGS1V5P25fMgBtcmGp5KFPxkEwzuCA=s128-c0x00000000-cc-rp-mo",
@@ -30,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZbgw4xTUn2KVT8Z3DFXfIzltmU_qCtlbXklRflW14u4RZvOg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Herzlichen Dank an Frau Dr. Lorenz und das gesamte Team, die mich äußerst freundlich und fachkompetent behandelt haben. Ich war sehr zufrieden und empfehle die Praxis sehr gerne.",
+      "time": 1793382883,
+      "translated": false
+    },
+    {
+      "author_name": "Manolo Link freier Schriftsteller",
+      "author_url": "https://www.google.com/maps/contrib/105922606370450710840/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZbgw4xTUn2KVT8Z3DFXfIzltmU_qCtlbXklRflW14u4RZvOg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Herzlichen Dank an Frau Dr. Lorenz und das gesamte Team, die mich äußerst freundlich und fachkompetent behandelt haben. Ich war sehr zufrieden und empfehle die Praxis sehr gerne.",
       "time": 1793382883,
       "translated": false
@@ -873,7 +895,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 82,
+  "reviewCount": 83,
   "summary": [],
-  "lastUpdated": "2026-11-13T12:51:05.388Z"
+  "lastUpdated": "2026-11-16T13:20:31.323Z"
 }

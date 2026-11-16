@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Richrath",
+      "author_url": "https://www.google.com/maps/contrib/109981761341573009844/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9qJs--jMKAW0i1p3iGEJZu_pXE1PNWL5BY4AnItEpnpkmAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794826881,
+      "translated": false
+    },
+    {
       "author_name": "Noor",
       "author_url": "https://www.google.com/maps/contrib/111321421671305929171/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsPmz0p8xnoi0e6OvQfpUmetmNCDPzt-6TwDYHb4HuyvbHStE=s128-c0x00000000-cc-rp-mo-ba2",
@@ -16,6 +26,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsPmz0p8xnoi0e6OvQfpUmetmNCDPzt-6TwDYHb4HuyvbHStE=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793559688,
+      "translated": false
+    },
+    {
+      "author_name": "Noor",
+      "author_url": "https://www.google.com/maps/contrib/111321421671305929171/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsPmz0p8xnoi0e6OvQfpUmetmNCDPzt-6TwDYHb4HuyvbHStE=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1793559688,
       "translated": false
@@ -1120,11 +1140,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 86,
+  "reviewCount": 87,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-13T12:51:46.532Z"
+  "lastUpdated": "2026-11-16T13:21:03.263Z"
 }

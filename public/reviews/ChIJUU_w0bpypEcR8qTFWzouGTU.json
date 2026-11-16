@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Birgit Eck",
+      "author_url": "https://www.google.com/maps/contrib/114790887737505298879/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn3Mi8bUhr87IVH0DfcCFUMzOx3v3Tme-cKcjn3zOrnSHeIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man findet eine sehr gut organisierte Praxis vor , wo man sich vom ersten Moment als Patient sehr gut aufgehoben fühlt,  ein sehr nettes und kompetentes Team , Ärzte klären einen über jeden Schritt auf , man kann nur Danke sagen und weiterhin alles Gute,  Birgit Eck",
+      "time": 1794574327,
+      "translated": false
+    },
+    {
       "author_name": "Marcel",
       "author_url": "https://www.google.com/maps/contrib/103672854413446617466/reviews",
       "language": "de",
@@ -10,6 +22,18 @@
       "relative_time_description": "in der letzten Woche",
       "text": "Eine Bewertung zu einer operativen Behandlung kann ich (noch) nicht abgeben. Ich möchte aber eine Dame am Empfang mit 5 Sternen bewerten, deren Namen ich leider nicht weiß. Ich hatte ein Vorgespräch zur OP. Bei solchen Terminen bin ich immer sehr aufgeregt und nervös. Dazu kam ich einige Minuten zu spät wegen Verkehrsstau und war umso aufgeregter. Dafür hatte sie absolutes Verständnis als ich mich entschuldigt habe. Ich wurde darauf hingewiesen mir Wasser nehmen zu können und dass ich mir erstmal ein paar Minuten zum ausruhen nehmen soll. Da war ich schon erleichtert, weil ich mich schlecht gefühlt hatte. Dann hatte ich einige Fragen. Nicht nur wurde mir jede Frage die mir Sorgen bereitete ruhig beantwortet und Unsicherheit genommen die ich hatte, ihre herzliche, ruhige einfühlsame Art hat mich beruhigt, so dass ich nach den Termin entspannt war. Leider ist es nicht selbstverständlich dass man so freundlich behandelt wird. Deswegen ist es mir eine extra Bewertung wert. Vielen Dank.",
       "time": 1794233632,
+      "translated": false
+    },
+    {
+      "author_name": "Nick P",
+      "author_url": "https://www.google.com/maps/contrib/104037631634763268204/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW6m_-akoXdBTklNczjVl4yxXqzNgp8UiWW4fpSwBowmUmQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Das erste mal bat ich Ende Juni 2026 per E-Mail um einen Termin, nachdem ich von meiner Hausärztin eine Überweisung bekommen habe. Als Antwort bekam ich, dass aktuell keine Termin frei sind, und ich im September/Oktober wieder nachfragen solle.\n\nAnfang September bat ich erneut per E-Mail um einen Termin und erhielt als Antwort, dass sich die Terminplanung intern verzögert habe, so dass das System ab dem 15. Oktober 2026 für die offizielle Vergabe geöffnet werden kann. Ich brauche mich um nichts weiter kümmern, man melde sich ab dem 15. Oktober bei mir um einen Termin zu vereinbaren.\n\nNun warte ich auch am 9. November 2026 noch darauf, dass sich jemand zwecks Terminvereinbarung bei mir meldet. Auf eine weitere E-Mail, wann ich denn einen Termin erhalte, erhielt ich keine Antwort mehr.",
+      "time": 1794221788,
       "translated": false
     },
     {
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIf9Q8MMDeUJ9DQzNcT1KaKMFxpXcGWEt3YflsaqRwGcUE5PA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "⭐⭐⭐⭐⭐ Ein herzliches Dankeschön an ein großartiges Team!\nIch möchte mich von Herzen für die erfolgreiche Venenoperation und die gute Betreuung bedanken. Vom ersten Gespräch bis zur Behandlung habe ich mich gut aufgehoben und ernst genommen gefühlt.\nBesonders dankbar bin ich für die freundliche Art, die fachliche Kompetenz und das Vertrauen, das mir vermittelt wurde. Man merkt, dass hier nicht nur die medizinische Behandlung, sondern auch der Mensch dahinter zählt.\nVielen Dank für die hervorragende Arbeit und die fürsorgliche Betreuung. Ich kann diese Praxis mit bestem Gewissen weiterempfehlen!",
+      "time": 1793449985,
+      "translated": false
+    },
+    {
+      "author_name": "Larossi",
+      "author_url": "https://www.google.com/maps/contrib/118148982621471324865/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIf9Q8MMDeUJ9DQzNcT1KaKMFxpXcGWEt3YflsaqRwGcUE5PA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "⭐⭐⭐⭐⭐ Ein herzliches Dankeschön an ein großartiges Team!\nIch möchte mich von Herzen für die erfolgreiche Venenoperation und die gute Betreuung bedanken. Vom ersten Gespräch bis zur Behandlung habe ich mich gut aufgehoben und ernst genommen gefühlt.\nBesonders dankbar bin ich für die freundliche Art, die fachliche Kompetenz und das Vertrauen, das mir vermittelt wurde. Man merkt, dass hier nicht nur die medizinische Behandlung, sondern auch der Mensch dahinter zählt.\nVielen Dank für die hervorragende Arbeit und die fürsorgliche Betreuung. Ich kann diese Praxis mit bestem Gewissen weiterempfehlen!",
       "time": 1793449985,
       "translated": false
@@ -913,12 +949,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 67,
+  "rating": 4.7,
+  "reviewCount": 69,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:51:37.984Z"
+  "lastUpdated": "2026-11-16T13:20:56.895Z"
 }

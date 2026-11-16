@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Maria Zottel",
+      "author_url": "https://www.google.com/maps/contrib/109778511874862505198/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZu3Wbdb7qw2MG8UDO0pGHbDKpSPqFeVcDuHcbvj-7cXO0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich einer Hernie Operation unterzogen und bin sehr zufrieden mit der Organisation und dem Ablauf. Von der Besprechung des Befundes über OP Vorbereitung bis hin zur Durchführung habe ich mich hier sehr gut aufgehoben gefüllt. Die Mitarbeiter sind sehr freundlich, zuvorkommend und kompetent. Die Aufnahme vor der OP  erfolgt in einem sauberen 2 Bettzimmer mit separatem Bad für jeden Patienten. Nach der OP kam mehrfach eine Schwestern rein, um nach mir zu sehen zudem wurde ich reichlich mit Getränken und Essen versorgt.",
+      "time": 1794575910,
+      "translated": false
+    },
+    {
       "author_name": "Wenke Wagner",
       "author_url": "https://www.google.com/maps/contrib/107740633049863550631/reviews",
       "language": "de",
@@ -2062,11 +2074,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 536,
+  "reviewCount": 537,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-13T12:51:21.459Z"
+  "lastUpdated": "2026-11-16T13:20:43.811Z"
 }

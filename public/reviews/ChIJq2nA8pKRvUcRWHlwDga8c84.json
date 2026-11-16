@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Amelie",
+      "author_url": "https://www.google.com/maps/contrib/104910939574761375199/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSzf9fJarV_02tQHXkLnzCTdabT805Z6AMziVFoTYbYJELrw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor Kurzem das erste Mal in der Praxis Quist und wurde von Frau Dr. Ahmadzadeh betreut. Ich bin rundum begeistert und kann diese Dermatologin von Herzen weiterempfehlen! Man fühlt sich vom ersten Moment an sehr gut aufgehoben und ernst genommen. Sie ist unglaublich freundlich, einfühlsam und nimmt sich Zeit, um auf alle Fragen und Anliegen einzugehen. Besonders schätze ich ihre menschliche Art. Man merkt, dass ihr das Wohl ihrer Patienten wirklich am Herzen liegt. Eine Ärztin, bei der nicht nur die fachliche Kompetenz, sondern auch die Menschlichkeit stimmt. Vielen herzlichen Dank für die tolle Betreuung!",
+      "time": 1794756788,
+      "translated": false
+    },
+    {
+      "author_name": "David Kpunkt",
+      "author_url": "https://www.google.com/maps/contrib/112523132800105187376/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2LM-_wJBt9Fys3DqREh6pd3Q5de9WF7vIQSEMgE_SVxbuuw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde von Fr. Dr. Schilling sehr gut betreut. Sie hat sich für mein Anliegen viel Zeit genommen und sehr gründlich gearbeitet.",
+      "time": 1794661162,
+      "translated": false
+    },
+    {
       "author_name": "Mi Li",
       "author_url": "https://www.google.com/maps/contrib/108125709985097720269/reviews",
       "language": "de",
@@ -2160,11 +2184,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 377,
+  "reviewCount": 379,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:51:40.665Z"
+  "lastUpdated": "2026-11-16T13:20:58.739Z"
 }

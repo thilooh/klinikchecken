@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Marc Hanneforth",
+      "author_url": "https://www.google.com/maps/contrib/108603594307896232868/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaztmxI4Lk9g6HSkuhTpwuUry6FsHHXE0TVIfhv3mdpf-rSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine tolle und sehr kompetente Ärztin. Wir fühlen uns mit der ganzen Familie super aufgehoben.",
+      "time": 1794591644,
+      "translated": false
+    },
+    {
       "author_name": "mario Bütow",
       "author_url": "https://www.google.com/maps/contrib/117696100146591586284/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYn1gOVnN3tP9Gg-dW7rjRuEM9ngSz_tVaDWz2yvs1y4PcUg=s128-c0x00000000-cc-rp-mo",
@@ -64,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCmEqdHKf3CaVgKvuW62ZyYto4x9KMjXbtSOdvLmoqILfoPg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super tolles nettes und kompetentes Personal. Sehr gute Informationen und Erklärungen . Terminvergabe perfekt und eine tolle Abwicklung vor Ort und Besprechung der Untersuchungsergebnisse und Behandlungsmöglichkeiten",
+      "time": 1793525396,
+      "translated": false
+    },
+    {
+      "author_name": "Christina B.",
+      "author_url": "https://www.google.com/maps/contrib/115625031063703899348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCmEqdHKf3CaVgKvuW62ZyYto4x9KMjXbtSOdvLmoqILfoPg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super tolles nettes und kompetentes Personal. Sehr gute Informationen und Erklärungen . Terminvergabe perfekt und eine tolle Abwicklung vor Ort und Besprechung der Untersuchungsergebnisse und Behandlungsmöglichkeiten",
       "time": 1793525396,
       "translated": false
@@ -1744,11 +1768,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 101,
+  "reviewCount": 100,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-13T12:52:09.226Z"
+  "lastUpdated": "2026-11-16T13:21:20.147Z"
 }

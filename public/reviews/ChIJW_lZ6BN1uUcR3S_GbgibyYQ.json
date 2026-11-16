@@ -91,6 +91,16 @@
       "translated": false
     },
     {
+      "author_name": "Esther Pierog",
+      "author_url": "https://www.google.com/maps/contrib/114026470687585117040/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi00GY5ya6_bESl-29nLOMEBxXktnDgy9thw_RejPx_GPQM3q7sg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1792768046,
+      "translated": false
+    },
+    {
       "author_name": "Michael Roxlau",
       "author_url": "https://www.google.com/maps/contrib/103494587956672467534/reviews",
       "language": "de",
@@ -1818,11 +1828,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 149,
+  "reviewCount": 148,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:51:48.721Z"
+  "lastUpdated": "2026-11-16T13:21:05.089Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Aya Alhawash",
+      "author_url": "https://www.google.com/maps/contrib/113625094526538623983/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIpa2zSgkSUaRpyI1EbHOnyYm3p3fWgg3A2n6t1zww-C9sfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794773022,
+      "translated": false
+    },
+    {
       "author_name": "Patrick Depret",
       "author_url": "https://www.google.com/maps/contrib/107246892560684649841/reviews",
       "language": "de",
@@ -1167,12 +1177,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 46,
+  "rating": 4.5,
+  "reviewCount": 47,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:51:43.130Z"
+  "lastUpdated": "2026-11-16T13:21:00.346Z"
 }

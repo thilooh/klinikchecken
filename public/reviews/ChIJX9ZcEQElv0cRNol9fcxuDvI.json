@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rainer Schiller",
+      "author_url": "https://www.google.com/maps/contrib/111551303676122117429/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5f5nFS-7YWus4QDOt_ci0x6pVftE9OaLyvq65mtRuHSn4Fe6j=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlich und Kompetent.",
+      "time": 1794567465,
+      "translated": false
+    },
+    {
       "author_name": "Rob Fishr",
       "author_url": "https://www.google.com/maps/contrib/115007669466770382406/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2bk0cjNGT6a1MZhorNtPvH1ijVbDa_4SIKpkVim-ee6Q7Yu0=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Schnelle und Kompetente Beratung bis hin zur Venen-OP in beiden Beinen. Narkose und Beatmung waren Top, nichts im Nachgang gemerkt. Aufgewacht, aufgestanden und rumgelaufen. Kurze Zeit später durfte ich schon nach Hause.\nSehr nette Anästhesistin, hat alles erklärt, etc.\nNachsorgetermine verliefen problemlos, ich kam immer sehr schnell in einen Behandlungsraum.\nEs gibt auf jeden Fall viel Durchlauf. Der Zulauf an Patienten ist sehr hoch, was vllt. ebenfalls für sich spricht.",
+      "time": 1794039969,
+      "translated": false
+    },
+    {
+      "author_name": "Rob Fishr",
+      "author_url": "https://www.google.com/maps/contrib/115007669466770382406/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2bk0cjNGT6a1MZhorNtPvH1ijVbDa_4SIKpkVim-ee6Q7Yu0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Schnelle und Kompetente Beratung bis hin zur Venen-OP in beiden Beinen. Narkose und Beatmung waren Top, nichts im Nachgang gemerkt. Aufgewacht, aufgestanden und rumgelaufen. Kurze Zeit später durfte ich schon nach Hause.\nSehr nette Anästhesistin, hat alles erklärt, etc.\nNachsorgetermine verliefen problemlos, ich kam immer sehr schnell in einen Behandlungsraum.\nEs gibt auf jeden Fall viel Durchlauf. Der Zulauf an Patienten ist sehr hoch, was vllt. ebenfalls für sich spricht.",
       "time": 1794039969,
       "translated": false
@@ -104,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGEAt4LOEHxr9ZWKqUFCVgkX7AUDPekAAle2_HfBhav0vNlA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Tolles Team. Einfühlsam. Reibungsloser Ablauf🤗hab mich sehr gut aufgehoben gefühlt 👍🏻",
+      "time": 1792870081,
+      "translated": false
+    },
+    {
+      "author_name": "Rebekka Krüger",
+      "author_url": "https://www.google.com/maps/contrib/116954140282647984481/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGEAt4LOEHxr9ZWKqUFCVgkX7AUDPekAAle2_HfBhav0vNlA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Tolles Team. Einfühlsam. Reibungsloser Ablauf🤗hab mich sehr gut aufgehoben gefühlt 👍🏻",
       "time": 1792870081,
       "translated": false
@@ -1489,5 +1525,5 @@
     "Auch englischsprachige Patienten gut betreut — internationales, professionelles Team",
     "Gelegentlich lange Wartezeiten, Behandlungsergebnisse überzeugen jedoch vollständig"
   ],
-  "lastUpdated": "2026-11-13T12:51:01.090Z"
+  "lastUpdated": "2026-11-16T13:20:28.601Z"
 }

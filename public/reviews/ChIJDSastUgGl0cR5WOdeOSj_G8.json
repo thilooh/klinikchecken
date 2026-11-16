@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rudolf Hiller",
+      "author_url": "https://www.google.com/maps/contrib/106868381980699891250/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6vfLnGaRv4m90KjHBdpqkIlLLfZOha_QhR1JW_0m4xdWbpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist sehr sauber und bestens organisiert. Man kann direkt vor Ort vorbeischauen, Termine vereinbaren oder Fragen stellen. Alternativ lassen sich Termine auch ganz bequem online über die Doctolib-App buchen. Das gesamte Team ist sehr freundlich und zuvorkommend. Man kann alles in Ruhe und ganz ohne Stress besprechen. Man fühlt sich dort gut aufgehoben und nimmt sich ausreichend Zeit für die Patienten.Die Praxis ist sehr sauber und bestens organisiert. Man kann direkt vor Ort vorbeischauen, Termine vereinbaren oder Fragen stellen. Alternativ lassen sich Termine auch ganz bequem online über die Doctolib-App buchen. Das gesamte Team ist sehr freundlich und zuvorkommend. Man kann alles in Ruhe und ganz ohne Stress besprechen. Man fühlt sich dort gut aufgehoben und nimmt sich ausreichend Zeit für die Patienten.",
+      "time": 1794592021,
+      "translated": false
+    },
+    {
       "author_name": "The Renchen",
       "author_url": "https://www.google.com/maps/contrib/104220226171951801976/reviews",
       "language": "de",
@@ -116,6 +128,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfO_VBTfVjhkyyuU6ZG5hSncoocqyZGqH9jahMQgecEUOoUA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr freundlich und kompetent.",
+      "time": 1792211887,
+      "translated": false
+    },
+    {
+      "author_name": "Alojz Cvetko",
+      "author_url": "https://www.google.com/maps/contrib/113848663851967944861/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfO_VBTfVjhkyyuU6ZG5hSncoocqyZGqH9jahMQgecEUOoUA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr freundlich und kompetent.",
       "time": 1792211887,
       "translated": false
@@ -1922,11 +1946,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 247,
+  "reviewCount": 248,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:51:32.650Z"
+  "lastUpdated": "2026-11-16T13:20:52.790Z"
 }

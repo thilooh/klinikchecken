@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Swetlana P",
+      "author_url": "https://www.google.com/maps/contrib/102960860269903236549/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdDGHy_iv9HRK0_aFKrm14GakmR0z5o4CZjGW9nphNay7STwat=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundlicher Personal, sehr sauber,schöne  Atmosphäre.",
+      "time": 1794773184,
+      "translated": false
+    },
+    {
+      "author_name": "Roberto Leone",
+      "author_url": "https://www.google.com/maps/contrib/109694942201908583349/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWjz4vClei9o1vzon89IsblcOA6eTdzE2Sz0mrvC-GrE6yoA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794600143,
+      "translated": false
+    },
+    {
       "author_name": "Willibald Pernesch",
       "author_url": "https://www.google.com/maps/contrib/101693011084066726453/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuyxKyLM-NXfhBuHF9JMs9UgmOjZ7JGUhgGdh3P8dXSb5Vsw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -1261,12 +1283,12 @@
       "translated": false
     }
   ],
-  "rating": 4.7,
-  "reviewCount": 115,
+  "rating": 4.8,
+  "reviewCount": 117,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:52:01.813Z"
+  "lastUpdated": "2026-11-16T13:21:14.282Z"
 }

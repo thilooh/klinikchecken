@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "Yazan Ismail",
+      "author_url": "https://www.google.com/maps/contrib/100914240251319088780/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoicUekK4Jyb7VAtl7aKl42EC1seOP3_G9eECcc05nGslc9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794089148,
+      "translated": false
+    },
+    {
       "author_name": "Reyana Yass8n",
       "author_url": "https://www.google.com/maps/contrib/118086084859230742542/reviews",
       "language": "de",
@@ -30,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqILU3avzUXUDMdq9t4QFS2GuW1YkXlDz4aqAIrGr2-2igeg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte mehr Interesse erwartet...",
+      "time": 1794056864,
+      "translated": true
+    },
+    {
+      "author_name": "Reyana Yass8n",
+      "author_url": "https://www.google.com/maps/contrib/118086084859230742542/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqILU3avzUXUDMdq9t4QFS2GuW1YkXlDz4aqAIrGr2-2igeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich hatte mehr Interesse erwartet...",
       "time": 1794056864,
       "translated": true
@@ -54,6 +76,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_mvDIFT5QfJ2tVo3c0i6i0bc-kjeqXAHnm3jpLHjNrsWK6g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr schneller Termin, hervorragender Service",
+      "time": 1793451961,
+      "translated": true
+    },
+    {
+      "author_name": "Hadeel Murad",
+      "author_url": "https://www.google.com/maps/contrib/108349727008647128003/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_mvDIFT5QfJ2tVo3c0i6i0bc-kjeqXAHnm3jpLHjNrsWK6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr schneller Termin, hervorragender Service",
       "time": 1793451961,
       "translated": true
@@ -1646,5 +1680,5 @@
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:51:25.601Z"
+  "lastUpdated": "2026-11-16T13:20:47.518Z"
 }

@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Ира Завизен",
+      "author_url": "https://www.google.com/maps/contrib/116293006204992467438/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBMYEAKDrhdQ21FojvXBVVidFsOu--FEiPzVxCm8I0WQhxq2bf=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794727987,
+      "translated": false
+    },
+    {
       "author_name": "Tina 83",
       "author_url": "https://www.google.com/maps/contrib/110220609267095923738/reviews",
       "language": "de",
@@ -976,11 +986,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 60,
+  "reviewCount": 61,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-13T12:51:41.990Z"
+  "lastUpdated": "2026-11-16T13:20:59.647Z"
 }

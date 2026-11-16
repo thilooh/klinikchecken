@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Georgeta Ratoi",
+      "author_url": "https://www.google.com/maps/contrib/109706111799175228288/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkyvBRyqdSXuuKDjE85cnMDO-uiGp81xwi8AK6dvUzG69ADKvqew=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794750418,
+      "translated": false
+    },
+    {
       "author_name": "Rafet Memaj",
       "author_url": "https://www.google.com/maps/contrib/109892879211847138340/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTPCq7ohCZOsvYXpVf7nYogU5RvCApA_BdRYA8An9ONwWBvOz8=s128-c0x00000000-cc-rp-mo",
@@ -136,6 +146,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4QpZGKmk-YFJXQtvvYg5PUKfSlKLriS9qE1lmT4cBf2MK9Q=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1792369451,
+      "translated": false
+    },
+    {
+      "author_name": "privat privat",
+      "author_url": "https://www.google.com/maps/contrib/116809467468825892777/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4QpZGKmk-YFJXQtvvYg5PUKfSlKLriS9qE1lmT4cBf2MK9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1792369451,
       "translated": false
@@ -1888,11 +1908,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 1129,
+  "reviewCount": 1130,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-13T12:51:32.418Z"
+  "lastUpdated": "2026-11-16T13:20:52.453Z"
 }

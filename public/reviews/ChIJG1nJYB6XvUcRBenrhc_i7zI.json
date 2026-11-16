@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jan Jahns",
+      "author_url": "https://www.google.com/maps/contrib/103920378448318508368/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO6vDpMZa2ofSJ0Pc85pD3qp8E_rUpV_mzDgAJXf3aQoHVEw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit langer Zeit dort  Patient und schätze die gute und zuverlässige Organisation und freundliche Atmosphäre. Ich fühle mich fachlich dort sehr gut betreut.",
+      "time": 1794608069,
+      "translated": false
+    },
+    {
       "author_name": "Jo Schneider",
       "author_url": "https://www.google.com/maps/contrib/111427360762156926625/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpSZyPpAyOuaMv-6ZfhNZIWrL-aVmuEsJwx_KGMiJpeTjArw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7tNvoIzA8U8iPL5IbwKJsh5CkFthOxJRsBmPsirEQC-I9wA=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793618095,
+      "translated": false
+    },
+    {
+      "author_name": "E-Learning",
+      "author_url": "https://www.google.com/maps/contrib/107126386045858431745/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7tNvoIzA8U8iPL5IbwKJsh5CkFthOxJRsBmPsirEQC-I9wA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1793618095,
       "translated": false
@@ -1388,11 +1410,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 237,
+  "reviewCount": 238,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:51:41.112Z"
+  "lastUpdated": "2026-11-16T13:20:58.971Z"
 }

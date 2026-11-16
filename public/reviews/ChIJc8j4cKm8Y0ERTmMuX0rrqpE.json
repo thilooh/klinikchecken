@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Tim Nagel",
+      "author_url": "https://www.google.com/maps/contrib/102256378095687723647/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_IdHjyc3GFqbwP-o-8nYDDAfUJ63EaXHDMt75VrkBmShVuyLV7g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr sympathischer Arzt der mich professionell und menschlich untersucht und beraten hat, schöne Praxis",
+      "time": 1793977269,
+      "translated": false
+    },
+    {
       "author_name": "Nicole Skodda",
       "author_url": "https://www.google.com/maps/contrib/103006021585569899894/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTVH_b-YtMXe8O_MPvqtPiqhekTrmdzNrA16yJ8ISbTMMpog=s128-c0x00000000-cc-rp-mo",
@@ -196,6 +208,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdTUaznoQubRymrQlTs2gSxP0QrRG5Et22A4W6oSThq7cY_Tf0=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich kann diese Praxis in jedem Fall empfehlen. Von der guten und offenen Umgangsweise und der fortlaufenden medizinischen Beratung und Begleitung. Einfach nur gut.",
+      "time": 1789491164,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Panterodt",
+      "author_url": "https://www.google.com/maps/contrib/114591856560425034795/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUnq678R1P27TFbJ95GKpQF7YYKXb3RKvmkHCOtCuA9Y3CYrAF=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich kann diese Praxis in jedem Fall empfehlen. Von der guten und offenen Umgangsweise und der fortlaufenden medizinischen Beratung und Begleitung. Einfach nur gut.",
       "time": 1789491164,
       "translated": false
@@ -1112,5 +1136,5 @@
   "rating": 4.3,
   "reviewCount": 82,
   "summary": [],
-  "lastUpdated": "2026-11-13T12:51:13.392Z"
+  "lastUpdated": "2026-11-16T13:20:37.276Z"
 }

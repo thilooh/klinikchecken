@@ -1,6 +1,66 @@
 {
   "reviews": [
     {
+      "author_name": "D K",
+      "author_url": "https://www.google.com/maps/contrib/116286860967852870771/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVh42Bv-nx0hqsneDDb6hp7wloMImG-5lk8V6x-utySX5Rf3nu6nw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nur böse Menschen am Empfang",
+      "time": 1794817022,
+      "translated": false
+    },
+    {
+      "author_name": "Fluffy",
+      "author_url": "https://www.google.com/maps/contrib/104800700603451431361/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQoLXkxx8XSUsCaQZ4Er9mFDit6Te4iIZYe6peSxuM7R4dow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Deutschlands beste Hautarztpraxis! Coole Livestreams auf Tiktok! Wäre da nicht so ein seltsamer Tiktoker Namens Kevin, der sich über alles aufregt! Weitermachen! 🙏🥰",
+      "time": 1794753480,
+      "translated": false
+    },
+    {
+      "author_name": "Krami McCormick",
+      "author_url": "https://www.google.com/maps/contrib/103088052768536785324/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe_QNuVG8x8ZLRXfsFdsAytS8jMQTwF7wmOKw05VCIweinbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bekannt aus TikTok Livestreams vom Empfang.",
+      "time": 1794749291,
+      "translated": false
+    },
+    {
+      "author_name": "ManniMel",
+      "author_url": "https://www.google.com/maps/contrib/112773349950456376842/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyXONW_5vPmsmTxpED7KkNSgksYFmFL6HxAlPV0xP9YbCwdWU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine Praxis, die offenbar weder Datenschutz noch Professionalität kennt. Die mfa nennt ihre Vorgesetzte öffentlich Baddie und denunziert und diskreditiert eine Fachärztin. Wer will sich hier bitte behandeln lassen?",
+      "time": 1794748506,
+      "translated": false
+    },
+    {
+      "author_name": "Зоя Садоян",
+      "author_url": "https://www.google.com/maps/contrib/101444690959528583800/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIbBlEzUNG7TvxQ2oo328KycPoglFyomU0NMX5_sAfKP5PHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich verstehe immer noch nicht, warum eine der beiden nicht mehr auf der Website zu finden ist, die andere aber weiterhin angezeigt wird. Wenn es sich um eine Kündigung handelt, müssten doch beide entfernt werden. Die beiden haben schließlich nichts mit Medizin zu tun.",
+      "time": 1794745716,
+      "translated": false
+    },
+    {
       "author_name": "thomas muster",
       "author_url": "https://www.google.com/maps/contrib/104905197258520165739/reviews",
       "language": "de",
@@ -1589,12 +1649,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 281,
+  "rating": 4.4,
+  "reviewCount": 293,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-13T12:51:33.350Z"
+  "lastUpdated": "2026-11-16T13:20:53.467Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thomas Lehnen",
+      "author_url": "https://www.google.com/maps/contrib/115265415128247398855/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKD4NScDyNRaByY_a2NrDvNHqG7_PlwFpYZ4cOnY2EHzLSkwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Freundliche  zuvorkommend  Mitarbeiter  Arzt sehe zu empfehlen",
+      "time": 1794717559,
+      "translated": false
+    },
+    {
       "author_name": "Siggi Stamm",
       "author_url": "https://www.google.com/maps/contrib/111591893236455133759/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKbfflGi5c1DcRa9MtPZd8SAmDH-4Tp5wuHYwdvKyCdXwvpfJp=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr empathischer Arzt\nKaum Wartezeit\nAngenehmes Ambiente",
+      "time": 1792049037,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra Gartenhexe",
+      "author_url": "https://www.google.com/maps/contrib/112656182194113866770/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKbfflGi5c1DcRa9MtPZd8SAmDH-4Tp5wuHYwdvKyCdXwvpfJp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr empathischer Arzt\nKaum Wartezeit\nAngenehmes Ambiente",
       "time": 1792049037,
       "translated": false
@@ -1674,11 +1698,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 82,
+  "reviewCount": 83,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-13T12:51:53.171Z"
+  "lastUpdated": "2026-11-16T13:21:08.277Z"
 }

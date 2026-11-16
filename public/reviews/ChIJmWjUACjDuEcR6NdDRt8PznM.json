@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Axel Mulders",
+      "author_url": "https://www.google.com/maps/contrib/104132194259936089785/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMiUnB95OVAbc5xL1eSw7Eyqnp3mE2NfXwyVSCGwUgYEROfdchbQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Schöne Villa in der sich die Praxis nun befindet. Dr Pljakic nimmt sich immer die Zeit um seine Behandlung auch zu erklären. Termine werden pünktlich abgewickelt. Das Team ist sehr nett und immer hilfsbereit",
+      "time": 1794687020,
+      "translated": false
+    },
+    {
       "author_name": "Iris Hahn",
       "author_url": "https://www.google.com/maps/contrib/111744674010211884831/reviews",
       "language": "de",
@@ -1320,7 +1332,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [],
-  "lastUpdated": "2026-11-13T12:51:16.550Z"
+  "lastUpdated": "2026-11-16T13:20:40.022Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dirk Diefenbach",
+      "author_url": "https://www.google.com/maps/contrib/116069809275488824358/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo-GiQXFq8GM1wMReKxHKDAgqWVHMaOLjzINwVgbJUelJF2sQW=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe mich bei Herrn Doktor Kramer sehr wohl gefühlt.",
+      "time": 1794591270,
+      "translated": false
+    },
+    {
       "author_name": "Nicole Schulz",
       "author_url": "https://www.google.com/maps/contrib/107021573529972103557/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxOVuleiV4OTpB4qUdg2CP6kQrqynV-FGSeG4oliVC3u9UWQ=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "in der letzten Woche",
+      "text": "Regelmäßiges Termin Chaos, jedesmal Wartezeiten von bis zu ner Stunde , trotz Termin. Und Selbstzahler ( privat ) werden genau so lieblos behandelt wie Kassenpatienten.  Trotz Preisintensiver Behandlungen. Sehr unangenehm. Doc Wahn ist fachlich super, im Umgang mit Menschen ( mir ) eher nicht.\nHäufig wechselnde Ärzte, fast jedes Mal ein neuer.\nViel Luft nach oben. Leider der einzige Hautarzt in der Nähe.",
+      "time": 1794219519,
+      "translated": false
+    },
+    {
+      "author_name": "S G",
+      "author_url": "https://www.google.com/maps/contrib/106803090671560955775/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxOVuleiV4OTpB4qUdg2CP6kQrqynV-FGSeG4oliVC3u9UWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
       "text": "Regelmäßiges Termin Chaos, jedesmal Wartezeiten von bis zu ner Stunde , trotz Termin. Und Selbstzahler ( privat ) werden genau so lieblos behandelt wie Kassenpatienten.  Trotz Preisintensiver Behandlungen. Sehr unangenehm. Doc Wahn ist fachlich super, im Umgang mit Menschen ( mir ) eher nicht.\nHäufig wechselnde Ärzte, fast jedes Mal ein neuer.\nViel Luft nach oben. Leider der einzige Hautarzt in der Nähe.",
       "time": 1794219519,
       "translated": false
@@ -2050,11 +2074,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 291,
+  "reviewCount": 292,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-13T12:51:17.558Z"
+  "lastUpdated": "2026-11-16T13:20:40.703Z"
 }

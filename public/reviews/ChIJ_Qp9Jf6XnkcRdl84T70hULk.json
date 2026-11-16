@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Manfred Weis",
+      "author_url": "https://www.google.com/maps/contrib/102254845751939639884/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF0hS243fGnPrfB1ECX50fOC2-MQQynUptRTOt4n1BHvRW2L-qRw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bisher war ich mit der Praxis immer sehr zufrieden. Telefonisch zwar schlecht erreichbar, aber per E-Mail wurde immer kurzfristig geantwortet. Das ist jetzt leider vorbei. Ich hatte vergessen vor 2 Wochen gleich einen Nachsorgetermin zu vereinbaren. Meine 4 E-Mails und ein Fax blieben unbeantwortet. Telefonisch hing ich drei Mal 20 Minuten in der Warteschleife - immer mit dem Hinweis ich könnte auch eine E-Mail schreiben. Heute war ich persönlich dort. 6 Damen am Empfang und keine Patientenschlage - super. Anscheinend funktioniert sogar die Telefonanlage wieder. Eine freundliche Dame hat mir dann auch einen Termin gegeben. Auf Nachfrage warum meine anderen Versuche der Kontaktaufnahme nicht geklappt hätten, wurde ich darauf hingewiesen dass aus Personalmangel sich E-Mails stapeln und ich sollte mich doch bitte an die Ärzte wenden. Das macht mich sehr traurig denn in meinem Berufsleben hat Teamarbeit immer super geklappt und ich musste niemals Kunden bitten sich an meinen Chef zu wenden.",
+      "time": 1794828543,
+      "translated": false
+    },
+    {
       "author_name": "celine Glücklich",
       "author_url": "https://www.google.com/maps/contrib/118305871211847879701/reviews",
       "language": "de",
@@ -1862,5 +1874,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-11-13T12:51:28.607Z"
+  "lastUpdated": "2026-11-16T13:20:49.860Z"
 }

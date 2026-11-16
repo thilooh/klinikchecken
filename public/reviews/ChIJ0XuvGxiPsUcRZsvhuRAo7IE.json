@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Od 917",
+      "author_url": "https://www.google.com/maps/contrib/103430154121871654413/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSBPvZUq43SpoAeoocYS0lUz3Yc3Qyd7BwVvaPSjb0wW4yuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr professionelle, schnelle und freundliche Behandlung, keine Wartezeit, präzise Diagnostik, und einen ganz besonderen Dank an die sehr kompetente Fr Barnbeck - mein Problem ist jetzt gelöst!! Kann diese Klinik nur empfehlen.",
+      "time": 1794080416,
+      "translated": false
+    },
+    {
       "author_name": "ECKHARD KÖHN",
       "author_url": "https://www.google.com/maps/contrib/108688294807592463997/reviews",
       "language": "de",
@@ -68,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxyGfHRCBampmU_2oRUkZTpTpMXRulD66e7Udri01dXjF17g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Absolut fachkompete medizinische Versorgung und sehr gute Organisation!",
+      "time": 1793540149,
+      "translated": false
+    },
+    {
+      "author_name": "Katharina Menne-Vogler",
+      "author_url": "https://www.google.com/maps/contrib/112682462654790373704/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxyGfHRCBampmU_2oRUkZTpTpMXRulD66e7Udri01dXjF17g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Absolut fachkompete medizinische Versorgung und sehr gute Organisation!",
       "time": 1793540149,
       "translated": false
@@ -92,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKjfme9WP9wU8oQaRUDcPFjHkTHVGxt9Ia-I6K4QNFUV5fOGyw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Dr. Med. Eimer ist professionell, empathisch und zuverlässig. Beim nächsten Tumor komme ich wieder.",
+      "time": 1793528777,
+      "translated": false
+    },
+    {
+      "author_name": "Steven Helmig",
+      "author_url": "https://www.google.com/maps/contrib/117967897891399492916/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKjfme9WP9wU8oQaRUDcPFjHkTHVGxt9Ia-I6K4QNFUV5fOGyw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Dr. Med. Eimer ist professionell, empathisch und zuverlässig. Beim nächsten Tumor komme ich wieder.",
       "time": 1793528777,
       "translated": false
@@ -2026,5 +2062,5 @@
   "rating": 4.4,
   "reviewCount": 477,
   "summary": [],
-  "lastUpdated": "2026-11-13T12:51:13.793Z"
+  "lastUpdated": "2026-11-16T13:20:37.670Z"
 }

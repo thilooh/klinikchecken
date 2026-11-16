@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Marina Behringer",
+      "author_url": "https://www.google.com/maps/contrib/105570134633454837125/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9vhudyZwZKrrSaaEdQhiaUEZAOHoksNhmsQNkgTXfRHpBRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794824314,
+      "translated": false
+    },
+    {
       "author_name": "daria a.",
       "author_url": "https://www.google.com/maps/contrib/118295257348445829809/reviews",
       "language": "de",
@@ -18,6 +28,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpXTfR3jVxiWkpCrsmSS2pIbdaLkDRTqTbiUUB2KNuL827Ms4=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794119597,
+      "translated": false
+    },
+    {
+      "author_name": "Yannick (PanNic)",
+      "author_url": "https://www.google.com/maps/contrib/100706985615321464247/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpXTfR3jVxiWkpCrsmSS2pIbdaLkDRTqTbiUUB2KNuL827Ms4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1794119597,
       "translated": false
@@ -1878,11 +1898,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 212,
+  "reviewCount": 213,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-13T12:51:58.917Z"
+  "lastUpdated": "2026-11-16T13:21:11.946Z"
 }

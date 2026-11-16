@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Birgit Moeller-Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/115467853768811715837/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2lG1PfU6ZYHMfEdsYb5R3OYI7Xslq0Zmbq_IMMRSBUY8gGA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr zugewandter Arzt, nettes freundliches Personal",
+      "time": 1793018294,
+      "translated": false
+    },
+    {
       "author_name": "CHRISTIAN Rusch",
       "author_url": "https://www.google.com/maps/contrib/109197144071925844334/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXd9-vJHffTQVMzwqgusdh6OSqdob4qFWKVvA33-7U-Lpr5t-xLzQ=s128-c0x00000000-cc-rp-mo",
@@ -240,6 +252,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_cpNXgTOLohuvaf6Z_uhrvtJhNQQWRUc1HKBVHGDIdTjKiN2a3A=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Ich habe mich von Anfang bis Ende bestens aufgehoben und umsorgt gefühlt. Besten Dank an das gesamte Team.",
+      "time": 1789541532,
+      "translated": false
+    },
+    {
+      "author_name": "Sonja Funder",
+      "author_url": "https://www.google.com/maps/contrib/105891918902056370240/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_cpNXgTOLohuvaf6Z_uhrvtJhNQQWRUc1HKBVHGDIdTjKiN2a3A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Ich habe mich von Anfang bis Ende bestens aufgehoben und umsorgt gefühlt. Besten Dank an das gesamte Team.",
       "time": 1789541532,
       "translated": false
@@ -784,5 +808,5 @@
   "rating": 4.7,
   "reviewCount": 51,
   "summary": [],
-  "lastUpdated": "2026-11-13T12:51:16.794Z"
+  "lastUpdated": "2026-11-16T13:20:40.254Z"
 }

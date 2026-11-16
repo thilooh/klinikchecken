@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ute Beissert",
+      "author_url": "https://www.google.com/maps/contrib/117817840550436582665/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINPnl--rufy3ZficWZCSFDOyT4QyJw35oUXWuOKWsj0udRXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794766685,
+      "translated": false
+    },
+    {
+      "author_name": "Angelika Boetel",
+      "author_url": "https://www.google.com/maps/contrib/106552637444700881584/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0_qKKKoMaqzKglLLwYzgCuCW7mtd1FWjjScd0dNU4wqevEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Tolle Praxis und sehr gute Erreichbarkeit. Terminbuchung ging online hervorragend. Mitarbeitende und Arzt sehr den Patienten zugewandt und nahbar.",
+      "time": 1794658758,
+      "translated": false
+    },
+    {
       "author_name": "S. Steckel",
       "author_url": "https://www.google.com/maps/contrib/104906019294697981767/reviews",
       "language": "de",
@@ -2784,11 +2806,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2484,
+  "reviewCount": 2486,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-13T12:51:22.332Z"
+  "lastUpdated": "2026-11-16T13:20:44.512Z"
 }
