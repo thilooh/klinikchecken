@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "23121946",
+      "author_url": "https://www.google.com/maps/contrib/109478070829780766312/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkLnP4hiCTsoNCv5KhIhZ1qjicuVaoUkA3NbQ5ErJRc8a-cTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich bin seit vielen Jahren zum Hautkrebsscreening in der Praxis. Damit bin ich sehr zufrieden. Mehrfach wurde mir empfohlen, Stellen rausschneiden zu lassen, was ich auch habe machen lassen. Später stellte sich zum Glück jedes Mal heraus, dass es nicht nötig gewesen wäre. Aber auch ich bin da lieber übervorsichtig.\nAllerdings fällt mir auf, dass auch das Rausschneiden immer mehr fließbandmäßig erledigt wird. Man wartet kaum, dass die Narkose wirkt, Spritzen funktionieren nicht und die Gespräche, die die Ärzte und Arzthelferinnen führen, sind nicht besonders vertrauenserweckend. Dass ich beim letzten Mal mehr als einen Monat auf den Befund wartete, bestätigte meinen schlechter werdenden Eindruck nur noch.\n\nAnders sieht es bei den Kleinigkeiten aus, weshalb man zusätzlich einmal zum Hautarzt geht. Bei mir war es Haut im Zehenbereich, die quasi abblätterte, bis das rohe Fleisch rausschaute. Sätze, wie von Dr. Wißmüller getätigt: \"Jeder 2. hat Hautpilz, ich habe keinen.\" sind v. a. dann völlig daneben, wenn man selber zwar ein Problem, aber letztlich auch keinen Hautpilz hat. Was es wirklich war, weiß ich auch 5 Jahre später noch nicht.\nAuch beim 2. Mal brachten weder der Besuch, noch die verschriebenen Salben und Crémes auch nur den Hauch einer Verbesserung. Da weiß ich heute wenigstens aus anderer Quelle, dass es die sog. Hotelkrankheit war, für die es spezielle Shampoos mit Sofortwirkung gibt.\n\nEine Behandlung, die unter Ästhetik fällt, hatte ich noch nie.\n\nAlles in allem bin ich heute weit weniger zufrieden, als vor 10 Jahren und würde die Praxis nur noch fürs Screening weiterempfehlen.",
+      "time": 1794326533,
+      "translated": false
+    },
+    {
       "author_name": "Daniel Matschinski",
       "author_url": "https://www.google.com/maps/contrib/117541261485827781990/reviews",
       "language": "de",
@@ -1180,7 +1192,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 124,
+  "reviewCount": 125,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:36.338Z"
+  "lastUpdated": "2026-11-19T14:06:07.897Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Susi W",
+      "author_url": "https://www.google.com/maps/contrib/100608594309177069588/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKogOHEtmW5s626K2A3RlEdAT1uyxTb7IHZxf-pwRlvBmHltKag=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein Mann wurde dort gut operiert und versorgt.\nDoch die EKG- Elektronen auf eine behaarte Brust zu kleben ist völlig unnötig, denn es gibt die Möglichkeit die Stellen kurz zu rasieren und es gibt Geräte mit Saugnupsen.",
+      "time": 1794910565,
+      "translated": false
+    },
+    {
       "author_name": "A Meinke",
       "author_url": "https://www.google.com/maps/contrib/106177734683825904746/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Hubert R",
+      "author_url": "https://www.google.com/maps/contrib/101545985168291042484/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtnCeocOuzCn8da8IbYW_b7sMavLBQUnizAOyL2ZlyZ8cFn-vN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Erfahrungsbericht:\n\nIch bin heute aus der Praxis rausgeschmissen worden, weil ich vor 8 Wochen, mal bei einem anderen Hautarzt war. Die Ärztin begrüßte mich mit den Worten: ich hätte sie betrogen und hintergangen.Ich dachte ich höre nicht richtig. Sie sagte \"Sie\" hätte kein Vertrauen mehr zu mir.\nIch habe versucht ihr ruhig und sachlich zu erklären, daß eine Hautveränderungen, vor einem 8 wöchigen Auslandsaufenthalt,mich besorgt hätte und ich keinen kurzfristigen Termin in ihrer Praxis bekommen könnte.\nDarauf habe ich einen anderen Arzt aufgesucht,was sie mir als Vertrauensbruch auslegt, und sie könne mich nicht mehr behandeln.Ich sollen bitte gehen!\nIch werde dies jetzt mal mit der Ärztekammer klären!\nDie Verweigerung einer ärztlichen Behandlung, wei man einmal einen Kollegen aufgesucht hat, finde ich schon ein Starkes Stück!\nMeine Familie geht schon seit Jahren zur Hautuntersuchung und bei Hautkrankheiten in dieser Klinik und die Sprechstundenassistentin war total entsetzt über das Verhalten dieser Assistenzärztin und hat sich tausendmal entschuldigt.\nAber vielleicht geht es diesen Ärzten einfach zu gut und sie haben es nicht nötig, oder einfach keinen Bock, wer weiß das schon ?\nAndere Patienten haben sich auch schon beschwert! Also gar nicht zu empfehlen!!?",
+      "time": 1794314995,
+      "translated": false
+    },
+    {
       "author_name": "Ann",
       "author_url": "https://www.google.com/maps/contrib/109548699711594883060/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKc7UlsDRC2mtmRyZ3q2FZJUM-lgGO3g_80tehFtV1KDrtwkg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Telefonisch hier jemanden zu erreichen ist unmöglich. Und wenn man nach 1 Stunde in der Warteschlange doch durchkommt wird man sehr unhöflich behandelt.",
+      "time": 1794306808,
+      "translated": false
+    },
+    {
+      "author_name": "Ann",
+      "author_url": "https://www.google.com/maps/contrib/109548699711594883060/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKc7UlsDRC2mtmRyZ3q2FZJUM-lgGO3g_80tehFtV1KDrtwkg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Telefonisch hier jemanden zu erreichen ist unmöglich. Und wenn man nach 1 Stunde in der Warteschlange doch durchkommt wird man sehr unhöflich behandelt.",
       "time": 1794306808,
       "translated": false
@@ -1952,11 +1988,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 462,
+  "reviewCount": 464,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-11-16T13:21:08.737Z"
+  "lastUpdated": "2026-11-19T14:06:42.465Z"
 }

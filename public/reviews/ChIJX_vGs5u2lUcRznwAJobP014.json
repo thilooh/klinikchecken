@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Michaela Bauer",
+      "author_url": "https://www.google.com/maps/contrib/113008834709419818037/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsfqlF0BPha2YEAJi1KDlHCWarzyTCTC3PwDP2zGeLiDfrhg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794864490,
+      "translated": false
+    },
+    {
       "author_name": "Aya Alhawash",
       "author_url": "https://www.google.com/maps/contrib/113625094526538623983/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIpa2zSgkSUaRpyI1EbHOnyYm3p3fWgg3A2n6t1zww-C9sfw=s128-c0x00000000-cc-rp-mo",
@@ -30,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2Bn2lXUziCtsFK3VNxqSATUpl4u6MM5F8XuhF4esMMHznRw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Laboranalyse vor 2 wochen und immer noch keine nachricht. Telefonisch nicht erreichbar. Keine email. Unmenschliche Kommunikation ... Hautkrebs oder doch nicht?",
+      "time": 1793626200,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Depret",
+      "author_url": "https://www.google.com/maps/contrib/107246892560684649841/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2Bn2lXUziCtsFK3VNxqSATUpl4u6MM5F8XuhF4esMMHznRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Laboranalyse vor 2 wochen und immer noch keine nachricht. Telefonisch nicht erreichbar. Keine email. Unmenschliche Kommunikation ... Hautkrebs oder doch nicht?",
       "time": 1793626200,
       "translated": false
@@ -66,6 +88,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfm56puvCAJYYVWKOzTJRcTzN1UrzzZ23YPdt5kSvDMYhv7kUP=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Meine Freundin und ich hatten jeweils einen Termin zur Hautkrebsvorsorge und waren pünktlich vor Ort. Dennoch musste meine Freundin über eine Stunde im Behandlungszimmer warten und fragte zwischenzeitlich sogar nach, ob sie möglicherweise vergessen worden sei. Nachdem wir nach insgesamt knapp 1 Stunde und 15 Minuten immer noch keinerlei Kontakt mit einem Arzt hatten und auch ich bereits seit etwa 25 Minuten im Behandlungszimmer wartete, haben wir die Praxis schließlich verlassen.\n\nEine derart lange Wartezeit trotz vereinbarten Terminen ist eine bodenlose Frechheit. Wenn man als Praxis den Terminplan voll hat sollte man vielleicht keine weiteren Termine vergeben.",
+      "time": 1793197221,
+      "translated": false
+    },
+    {
+      "author_name": "Tom Kaster",
+      "author_url": "https://www.google.com/maps/contrib/114147057962716922369/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfm56puvCAJYYVWKOzTJRcTzN1UrzzZ23YPdt5kSvDMYhv7kUP=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Meine Freundin und ich hatten jeweils einen Termin zur Hautkrebsvorsorge und waren pünktlich vor Ort. Dennoch musste meine Freundin über eine Stunde im Behandlungszimmer warten und fragte zwischenzeitlich sogar nach, ob sie möglicherweise vergessen worden sei. Nachdem wir nach insgesamt knapp 1 Stunde und 15 Minuten immer noch keinerlei Kontakt mit einem Arzt hatten und auch ich bereits seit etwa 25 Minuten im Behandlungszimmer wartete, haben wir die Praxis schließlich verlassen.\n\nEine derart lange Wartezeit trotz vereinbarten Terminen ist eine bodenlose Frechheit. Wenn man als Praxis den Terminplan voll hat sollte man vielleicht keine weiteren Termine vergeben.",
       "time": 1793197221,
       "translated": false
@@ -1177,12 +1211,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
+  "rating": 4.6,
   "reviewCount": 47,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:21:00.346Z"
+  "lastUpdated": "2026-11-19T14:06:33.398Z"
 }

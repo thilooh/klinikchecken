@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Lisa Ste",
+      "author_url": "https://www.google.com/maps/contrib/117604033488440690494/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRy6OYSgNXSmSf6fChJBnB7ubDa9IDKAXzc3DUIKSrIhnT0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Unfassbar - ich hatte über Doctolib vor einigen Wochen einen Termin für die normale Sprechstunde gebucht, für Neupatienten, aufgrund einer aktuellen schweren Nesselsucht.\nHeute Morgen an der Anmeldung wollte man dann erklären man würde keine neuen Patienten annehmen - aber ich könnte als Selbstzahler bleiben und den Termin wahrnehmen - bitte was?!? Also danke für nichts - ich kann die Praxis so definitiv nicht empfehlen.",
+      "time": 1794993194,
+      "translated": false
+    },
+    {
       "author_name": "Tony Mueller",
       "author_url": "https://www.google.com/maps/contrib/110153542706082583136/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnOVKG8_AE1Tsk6atgHrLUq93eWpRKhOb9nKP5UR2PEIhQQq4nXw=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Kompetenz und Erfahrung... Freundliches Personal... Kurzfristige Termine ohne lange Wartezeit",
+      "time": 1792497525,
+      "translated": false
+    },
+    {
+      "author_name": "Tony Mueller",
+      "author_url": "https://www.google.com/maps/contrib/110153542706082583136/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnOVKG8_AE1Tsk6atgHrLUq93eWpRKhOb9nKP5UR2PEIhQQq4nXw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Kompetenz und Erfahrung... Freundliches Personal... Kurzfristige Termine ohne lange Wartezeit",
       "time": 1792497525,
       "translated": false
@@ -1338,11 +1362,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 155,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:20:58.271Z"
+  "lastUpdated": "2026-11-19T14:06:31.124Z"
 }

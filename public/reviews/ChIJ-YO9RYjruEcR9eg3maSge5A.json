@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Damir Jasarevic",
+      "author_url": "https://www.google.com/maps/contrib/104943289247130300761/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4xlixhR5C-OjwrZhHLy4zxUhElzbkkW6wC5rY-Qvr0mVjFKn=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super sympathischer Arzt, der locker ist und klartext spricht. Klare Empfehlung meinerseits!!!",
+      "time": 1794908474,
+      "translated": false
+    },
+    {
       "author_name": "Alexander Just",
       "author_url": "https://www.google.com/maps/contrib/112884793373450712348/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK50AMAs7QkTDjeBqdVJm5_tKkuFaWzz1BAF8AHQIog6YY9WA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war (leider 🫢) zum zweiten Mal bei Herrn Dr. Wais in Behandlung und kann erneut sagen, dass ich mich rundum wohl gefühlt habe. Von den Vorgesprächen, über die Operation bis zur Nachsorge wurde ich top betreut. Medizinische Kompetenz gepaart mit einer tollen und sympathischen zwischenmenschlichen Ebene - ich kann die Praxis, Herrn Dr. Wais und sein Team wärmstens empfehlen!",
+      "time": 1794488209,
+      "translated": false
+    },
+    {
+      "author_name": "Alexander Just",
+      "author_url": "https://www.google.com/maps/contrib/112884793373450712348/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK50AMAs7QkTDjeBqdVJm5_tKkuFaWzz1BAF8AHQIog6YY9WA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war (leider 🫢) zum zweiten Mal bei Herrn Dr. Wais in Behandlung und kann erneut sagen, dass ich mich rundum wohl gefühlt habe. Von den Vorgesprächen, über die Operation bis zur Nachsorge wurde ich top betreut. Medizinische Kompetenz gepaart mit einer tollen und sympathischen zwischenmenschlichen Ebene - ich kann die Praxis, Herrn Dr. Wais und sein Team wärmstens empfehlen!",
       "time": 1794488209,
       "translated": false
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Silvia Reese Peiker",
+      "author_url": "https://www.google.com/maps/contrib/100263894744200089653/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOpkIgSnpI-y21HDRcDHTGLfrbnIXZzgrxRhI0d2BdkaOefRNx=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Bin bei Dr Webels in Behandlung. Tolles Team und ein Arzt der weiß was er macht",
+      "time": 1794383628,
+      "translated": false
+    },
+    {
       "author_name": "Mareike Barten",
       "author_url": "https://www.google.com/maps/contrib/100858836000349117200/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtwkljinbLNAJ2gL5xeZkbf0ODljHXXqP4y6HFAXqF6EKLNA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Moderne Praxis, hab superschnell einen Termin bekommen, und der Doktor ist sehr professionell! Er hat mit humor die situation aufgelockert und mich direkt behandelt, sodass ich gar keine zeit hatte, angst zu haben! Würde jederzeit wiederkommen!",
+      "time": 1794243414,
+      "translated": false
+    },
+    {
+      "author_name": "Mareike Barten",
+      "author_url": "https://www.google.com/maps/contrib/100858836000349117200/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtwkljinbLNAJ2gL5xeZkbf0ODljHXXqP4y6HFAXqF6EKLNA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Moderne Praxis, hab superschnell einen Termin bekommen, und der Doktor ist sehr professionell! Er hat mit humor die situation aufgelockert und mich direkt behandelt, sodass ich gar keine zeit hatte, angst zu haben! Würde jederzeit wiederkommen!",
       "time": 1794243414,
       "translated": false
@@ -1612,11 +1660,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 156,
+  "reviewCount": 157,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:21:03.951Z"
+  "lastUpdated": "2026-11-19T14:06:37.295Z"
 }

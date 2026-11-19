@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Josef Dobler",
+      "author_url": "https://www.google.com/maps/contrib/116336021217378930395/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqKf89YdqBYhHafWxpRCfGeLUaOIG-hgLtd0HaosuKK9A79g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War alles super….weiter so",
+      "time": 1795028068,
+      "translated": false
+    },
+    {
+      "author_name": "Anita",
+      "author_url": "https://www.google.com/maps/contrib/116800668406229247931/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLehWio3ghCygQlIsYIIq2AfeDVY3xvJP0kilmr-vEYxmOKmQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Top Ärztin, tolles Ergebnis, Walk pünktlich dran",
+      "time": 1794930259,
+      "translated": false
+    },
+    {
       "author_name": "Ute Beissert",
       "author_url": "https://www.google.com/maps/contrib/117817840550436582665/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINPnl--rufy3ZficWZCSFDOyT4QyJw35oUXWuOKWsj0udRXQ=s128-c0x00000000-cc-rp-mo",
@@ -30,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOiho1fhU1sMOqQpYX1hIngIAaF5pITYHpuxW5LGMloJF7Bg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe für meine Sohn innerhalb von 3 Wochen einen Termin in der \"Kinder- und Jugendhaut\"-Sprechstunde erhalten. Direkt nachdem wir angekommen waren, konnten wir schon ins Sprechzimmer. Es ging wirklich super schnell. Frau Dr. Haase hat sich die HautProbleme unseres Sohnes wirklich angehört, viel nachgefragt und sich seine aktuelle Pflegeroutine auf Fotos zeigen lassen. Auch Rückfragen hat Sie gern beantwortet. Immer mit einem Lächeln und viel Humor. Es wurde auch nicht alles verteufelt oder in frage gestellt was er bisher gemacht hat für die Haut und auch das \"Gesamte\" hat sie interessiert. Z.B. ob er Sport macht, Keartin nimmt oder Protein. Meiner Meinung nach eine Ärztin die ein wirklich gutes Gefühl vermittelt. Wir fühlen uns beide gut aufgehoben und freuen uns auf den nächsten Termin dort.",
+      "time": 1794413019,
+      "translated": false
+    },
+    {
+      "author_name": "S. Steckel",
+      "author_url": "https://www.google.com/maps/contrib/104906019294697981767/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOiho1fhU1sMOqQpYX1hIngIAaF5pITYHpuxW5LGMloJF7Bg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich habe für meine Sohn innerhalb von 3 Wochen einen Termin in der \"Kinder- und Jugendhaut\"-Sprechstunde erhalten. Direkt nachdem wir angekommen waren, konnten wir schon ins Sprechzimmer. Es ging wirklich super schnell. Frau Dr. Haase hat sich die HautProbleme unseres Sohnes wirklich angehört, viel nachgefragt und sich seine aktuelle Pflegeroutine auf Fotos zeigen lassen. Auch Rückfragen hat Sie gern beantwortet. Immer mit einem Lächeln und viel Humor. Es wurde auch nicht alles verteufelt oder in frage gestellt was er bisher gemacht hat für die Haut und auch das \"Gesamte\" hat sie interessiert. Z.B. ob er Sport macht, Keartin nimmt oder Protein. Meiner Meinung nach eine Ärztin die ein wirklich gutes Gefühl vermittelt. Wir fühlen uns beide gut aufgehoben und freuen uns auf den nächsten Termin dort.",
       "time": 1794413019,
       "translated": false
@@ -2806,11 +2842,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2486,
+  "reviewCount": 2488,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-16T13:20:44.512Z"
+  "lastUpdated": "2026-11-19T14:06:16.755Z"
 }

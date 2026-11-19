@@ -273,6 +273,16 @@
       "translated": false
     },
     {
+      "author_name": "Markus Kwek",
+      "author_url": "https://www.google.com/maps/contrib/114508791170907553097/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKaW_mXM-bGVOSqEKXQKiA8eu_Yg6rw0OXbaW56klfeyoMtLW5Jw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1789902884,
+      "translated": false
+    },
+    {
       "author_name": "Юлія Гарбовська",
       "author_url": "https://www.google.com/maps/contrib/113780395091071244747/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4yzgnwDOCEkPxsI-XBwYH4QB7QOsjGD95PaRONp7Gsh38Cim1=s128-c0x00000000-cc-rp-mo",
@@ -1713,5 +1723,5 @@
   "rating": 4.5,
   "reviewCount": 245,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:32.636Z"
+  "lastUpdated": "2026-11-19T14:06:03.730Z"
 }

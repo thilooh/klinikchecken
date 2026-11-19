@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Lukas Gzyl",
+      "author_url": "https://www.google.com/maps/contrib/117410697317642863851/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfVhorkS3xAN-Vi0kIqDv_6YxRaMcA0MOE6fwkJHl4m8Dxyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Frau am Empfang/ Telefon( alt, brünette und ne Brille) hat mir heute eine ist mir doch egal Einstellung und eine arrogante Art an den Tag gelegt.\nSowas geht gar nicht.\nNicht bei Ärzten oder Ämtern.\n\nBesser nicht hingehen!!!",
+      "time": 1795075547,
+      "translated": false
+    },
+    {
+      "author_name": "Sven Rabe",
+      "author_url": "https://www.google.com/maps/contrib/100824588302654791833/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtNsjJKetbIyt_j6u-JhPqaUvyIc-0qVguENKI8BSyyneztg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute bei Frau Dr. Huhn in der Praxis Dermatologie am Dom. Sie war super nett, hat alles ausführlich erklärt und hat sich für meine Beschwerden auch Zeit genommen. Ich war rundum zufrieden. Vielen Dank!",
+      "time": 1794950448,
+      "translated": false
+    },
+    {
+      "author_name": "Cemil Özüsaglam",
+      "author_url": "https://www.google.com/maps/contrib/107398323418137138132/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgNzRupKsxLZIwVp_uvnu2SxaFI6DNlfU6-i8QXYjqLXnMsQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794860885,
+      "translated": false
+    },
+    {
       "author_name": "Tschiman Ibrahim",
       "author_url": "https://www.google.com/maps/contrib/100542055212570065391/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHUsj4ckq6dRum0O5596wq5NgQLJ_r9rERQPPOzMKnLu_G7w=s128-c0x00000000-cc-rp-mo",
@@ -66,6 +100,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpGiGWFFANM1KKXktKhdDPP7-vRQMRoE5qOOy1OHyui8MsnT4=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1792494817,
+      "translated": false
+    },
+    {
+      "author_name": "Berk",
+      "author_url": "https://www.google.com/maps/contrib/115634955798887209594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpGiGWFFANM1KKXktKhdDPP7-vRQMRoE5qOOy1OHyui8MsnT4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1792494817,
       "translated": false
@@ -1193,11 +1237,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 108,
+  "reviewCount": 111,
   "summary": [
     "Ärztin Frau Huhn wird für einfühlsame, gründliche Behandlung und sofort spürbare Ergebnisse gelobt",
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-11-16T13:20:28.072Z"
+  "lastUpdated": "2026-11-19T14:05:57.815Z"
 }

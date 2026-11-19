@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Robin Henning",
+      "author_url": "https://www.google.com/maps/contrib/105042051705328753213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKqZ604vlCZ9CfL2JgvbG3fhSmhCJsqjWQ5L2pQNNEPA-vRWFb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "ACHTUNG, seid ihr für eure seniorigen Eltern, oder generell für euch, auf der Suche nach einem Hautarzt, spart euch die Zeit! Geht hier NICHT hin! Nehmt die unzähligen 1 Sterne Bewertungen ernst. Ich will gar nicht wissen, wieviel Geld diese Praxis an älteren \"hilflosen\" Patienten Verdient, weil die älteren Herrschaften nicht genauer nachfragen und sich das Gesagte plausibilisieren lassen, oder den Ärzten hier einfach blind vertrauen.\n\nAuf den Termin musste ich 2,5 Monate warten. Dann musste ich im Wartebereich etwas über eine Stunde warten, nur dass mir dann nach einer Minute gesagt wurde, dass man mir nicht helfen könnte, ABER man mir gerne Laserbehandlungen verkaufen wollte. Wirksamkeit = Fragwürdig, so die Aussage der angestellten Ärztin, die sichtlich kein Bock hatte. Nach Nachfrage meinerseits wurde darauf verwiesen, dass vom Chef höchstpersönlich ausgegeben wurde, dass Umsatz zu generieren sei, und dadurch auch entsprechende Kosten für Arzneimittel vom Patienten getragen werden müssten. Der Termin glich eher eine Gewinn/ Profit maximierenden verkappten Verkaufsschau, anstatt das ein Arzt einem Patienten hilft. Wenn ich beim Schreiben der Rezension wieder daran denke, kommt mir die Galle hoch. Eine absolute Schande!\n\nTut euch selber den Gefallen und tut euch das nicht an! Ja ich weiß, Ärztemangel. Aber glaubt mir, dass ist kein Grund doch hier hin zu gehen. WIRKLICH!",
+      "time": 1794944274,
+      "translated": false
+    },
+    {
       "author_name": "Dirk Diefenbach",
       "author_url": "https://www.google.com/maps/contrib/116069809275488824358/reviews",
       "language": "de",
@@ -25,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Nicole Schulz",
+      "author_url": "https://www.google.com/maps/contrib/107021573529972103557/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv77OcDd18E2KK7EM_ZopdEigMAGI3Za6Wd3WAEfdqy9mfjw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meine Mutter ist wegen Hautkrebs Patientin dieser Praxis. Termine werden ständig rausgenommen oder verschoben ohne die Patienten zu benachrichtigen. Man steht dort wie der Ochs vorm Berge und wird trotzTermin weggeschickt und wann anders wieder einbestellt.  Die Damen an der Anmeldung sind dabei patzig und überheblich. Die Behandlung selber erfolgt im Eiltempo. Für Nachfragen ist keine Zeit, da sind die Ärzte schon wieder raus. Jedes Mal ein anderer Arzt kommt noch dazu. Wenn es auch schwer ist Facharzttermine zu bekommen - diese Praxis ist nicht zu empfehlen!",
+      "time": 1794303719,
+      "translated": false
+    },
+    {
       "author_name": "prince netti",
       "author_url": "https://www.google.com/maps/contrib/115732701563920511620/reviews",
       "language": "de",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0L-bb2A-7UQf8KG06qbqqOBwqVvJW2ybQpfO8XFQQLOHv5w=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Immer zufrieden",
+      "time": 1794240336,
+      "translated": false
+    },
+    {
+      "author_name": "prince netti",
+      "author_url": "https://www.google.com/maps/contrib/115732701563920511620/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0L-bb2A-7UQf8KG06qbqqOBwqVvJW2ybQpfO8XFQQLOHv5w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Immer zufrieden",
       "time": 1794240336,
       "translated": false
@@ -2074,11 +2110,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 292,
+  "reviewCount": 286,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-16T13:20:40.703Z"
+  "lastUpdated": "2026-11-19T14:06:12.640Z"
 }

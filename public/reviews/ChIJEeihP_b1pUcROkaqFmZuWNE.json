@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Petra Michalak",
+      "author_url": "https://www.google.com/maps/contrib/103408371667234560836/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1GEYdtHeZ_trGDWI53D-aJ51C8-sNIcPKtgAXDGEv2OAMOg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühlte mich von der Terminvereinbarung bis zum Abschluss der Untersuchung in sehr kompetenten Händen. Alles ist super organisiert. Kaum Wartezeiten. Es herrscht eine freundliche Atmosphäre. Die Untersuchung war gewissenhaft. Vielen Dank an das Team.",
+      "time": 1794844460,
+      "translated": false
+    },
+    {
+      "author_name": "Becca Z.",
+      "author_url": "https://www.google.com/maps/contrib/114177834634898606611/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlSt0byqH7CsSqkNVeYRTY1UynvCHUmoJSQsY0X_-kHzI9zfo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Einfache Terminvereinbarung online. Keine lange Wartezeit. Nezzr Ärztin.",
+      "time": 1794840823,
+      "translated": false
+    },
+    {
       "author_name": "Gloria Alemania",
       "author_url": "https://www.google.com/maps/contrib/111172589574563934131/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmqTFtvE9uDGaWyk6VYPMa2u6xvPFV3X37JHsAhzh-zulANTU=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Große Praxis und überlastete Ärzte, leider ist die Online Anmeldung sehr schlecht gemacht. Selbst mit Behandlungsauftrag kein Termin zu bekommen. Für Privatpatienten und Selbstzahler kein Problem.",
+      "time": 1794305816,
+      "translated": false
+    },
+    {
+      "author_name": "Gloria Alemania",
+      "author_url": "https://www.google.com/maps/contrib/111172589574563934131/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmqTFtvE9uDGaWyk6VYPMa2u6xvPFV3X37JHsAhzh-zulANTU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Große Praxis und überlastete Ärzte, leider ist die Online Anmeldung sehr schlecht gemacht. Selbst mit Behandlungsauftrag kein Termin zu bekommen. Für Privatpatienten und Selbstzahler kein Problem.",
       "time": 1794305816,
       "translated": false
@@ -68,6 +104,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKfK2tGKVZYqbGl7CeBaevvJ7mylhPg8JBLbiSgdsvETA7zA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1792510511,
+      "translated": false
+    },
+    {
+      "author_name": "Lilli Künnemann",
+      "author_url": "https://www.google.com/maps/contrib/112713105652525701655/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKfK2tGKVZYqbGl7CeBaevvJ7mylhPg8JBLbiSgdsvETA7zA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1792510511,
       "translated": false
@@ -1002,11 +1048,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 122,
+  "reviewCount": 124,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-16T13:20:44.042Z"
+  "lastUpdated": "2026-11-19T14:06:16.265Z"
 }

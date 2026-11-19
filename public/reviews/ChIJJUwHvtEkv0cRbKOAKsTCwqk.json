@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Mashid Hashemi",
+      "author_url": "https://www.google.com/maps/contrib/112099453294637230062/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSP92jRB1iraNCBvZgbGS1V5P25fMgBtcmGp5KFPxkEwzuCA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794394143,
+      "translated": false
+    },
+    {
       "author_name": "Manolo Link freier Schriftsteller",
       "author_url": "https://www.google.com/maps/contrib/105922606370450710840/reviews",
       "language": "de",
@@ -132,6 +142,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmcwxbrKb3x0ESUGZoixGWktLijDCHsoYvkvvDTsi4n3xd4g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1792435694,
+      "translated": false
+    },
+    {
+      "author_name": "Eva",
+      "author_url": "https://www.google.com/maps/contrib/104319738027321532315/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmcwxbrKb3x0ESUGZoixGWktLijDCHsoYvkvvDTsi4n3xd4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1792435694,
       "translated": false
@@ -897,5 +917,5 @@
   "rating": 4.8,
   "reviewCount": 83,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:31.323Z"
+  "lastUpdated": "2026-11-19T14:06:02.235Z"
 }

@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "An. Te59",
+      "author_url": "https://www.google.com/maps/contrib/117307086759767207012/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcrdMd2vxCSSlB3dyX07mI1-C1jkE9bl5cKFGBvvaUUsdvddrkcg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Freundliches Personal! Irini",
+      "time": 1793175667,
+      "translated": false
+    },
+    {
       "author_name": "City Security",
       "author_url": "https://www.google.com/maps/contrib/108630438003803244595/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIehO9UsMsNqg10w1roLjsSJVVFemGcJOIAxnWRQzEt1ef_hg=s128-c0x00000000-cc-rp-mo-ba2",
@@ -102,6 +114,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIehO9UsMsNqg10w1roLjsSJVVFemGcJOIAxnWRQzEt1ef_hg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1787290538,
+      "translated": false
+    },
+    {
+      "author_name": "City Security",
+      "author_url": "https://www.google.com/maps/contrib/108630438003803244595/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIehO9UsMsNqg10w1roLjsSJVVFemGcJOIAxnWRQzEt1ef_hg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1787290538,
       "translated": false
@@ -836,5 +858,5 @@
   "rating": 3.5,
   "reviewCount": 106,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:39.549Z"
+  "lastUpdated": "2026-11-19T14:06:11.366Z"
 }

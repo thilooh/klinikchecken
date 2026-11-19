@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jolina Franz",
+      "author_url": "https://www.google.com/maps/contrib/116129969547757658346/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfUHXB2bYBJUHLTIodpI2IJqfV9gYF__tVlpvMF_9682eQPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine Super Praxis! Ich wurde dort aufgrund von eingewachsenen Fußnägeln zwei Mal operiert, einmal sogar noch am selben Tag meines Ansichts Termines. Obwohl ich Angst Patientin bin wurde ich dort mit Verständnis behandelt. Alle sind sehr freundlich und lieb. Was ebenfalls sehr positiv ist, sind die Wartezeiten auf Termine. Ich habe immer innerhalb weniger Tage oder einer Woche einen Termin erhalten.",
+      "time": 1794992026,
+      "translated": false
+    },
+    {
       "author_name": "Ibrahim Mah",
       "author_url": "https://www.google.com/maps/contrib/112648136698216405075/reviews",
       "language": "de",
@@ -13,11 +25,33 @@
       "translated": false
     },
     {
+      "author_name": "Ibrahim Mah",
+      "author_url": "https://www.google.com/maps/contrib/112648136698216405075/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzDPDyovAQXOOfMJHj5_tjHOfpPEK5UyrFi2w6as1qkwDSUAY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Respektloser Umgang, mangelnde Menschlichkeit und fehlende Rücksichtnahme!\n\nTrotz eines festen Termins mussten wir lange warten, während zwei Patienten, die nach uns kamen, vor meinem Vater aufgerufen wurden, ohne dass uns der Grund erklärt wurde.\n\nIch begleitete meinen 75-jährigen, schwerhörigen Vater, der auf meine Unterstützung angewiesen ist. Nach längerem Stehen wollte ich mich kurz auf einen freien Stuhl setzen. Eine Mitarbeiterin forderte mich jedoch in einem unfreundlichen Ton auf, draußen zu warten. Ich erklärte ihr, dass ich vom langen Stehen erschöpft sei und mich nur kurz ausruhen möchte. Trotzdem lehnte sie dies ab. So wenig Menschlichkeit und Verständnis kann ich kaum fassen!\n\nAls ich mich direkt beim Arzt über dieses Verhalten beschweren wollte, erklärte mir die zweite Mitarbeiterin, dass man mit dem Arzt nur während einer Sprechstunde sprechen könne. Man stelle sich diese Denkweise vor! Selbst für eine Beschwerde über das Empfangspersonal wird man auf eine Sprechstunde verwiesen!\n\nBereits vor unserem Besuch hatte ich mehrere negative Bewertungen über das Empfangspersonal gelesen, teilweise aus vergangenen Jahren. Leider habe ich diese nicht ernst genommen. Nach meiner eigenen Erfahrung kann ich diese Kritik nun sehr gut nachvollziehen.\n\nIch frage mich ernsthaft, ob Dr. Assaf diese Bewertungen überhaupt liest und wie mit solchen Beschwerden in der Praxis umgegangen wird.\n\nGerade ältere und schwerhörige Patienten verdienen Respekt, Verständnis und Rücksichtnahme auf ihre gesundheitliche Situation.\n\nFür mich war diese Erfahrung äußerst enttäuschend. Ein derart respektloser Umgang ist absolut inakzeptabel!",
+      "time": 1794479029,
+      "translated": false
+    },
+    {
       "author_name": "Галина Сагайдак",
       "author_url": "https://www.google.com/maps/contrib/115428879693100506101/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVTh7PLFECfe6b4xp_nEVe5AOreUekEsCWIlYDqYWNgL0edA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794237954,
+      "translated": false
+    },
+    {
+      "author_name": "Галина Сагайдак",
+      "author_url": "https://www.google.com/maps/contrib/115428879693100506101/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVTh7PLFECfe6b4xp_nEVe5AOreUekEsCWIlYDqYWNgL0edA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1794237954,
       "translated": false
@@ -1087,12 +1121,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 124,
+  "rating": 4.2,
+  "reviewCount": 125,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:20:48.707Z"
+  "lastUpdated": "2026-11-19T14:06:21.004Z"
 }

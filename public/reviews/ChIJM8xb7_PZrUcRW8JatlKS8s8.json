@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jadranka Paunova",
+      "author_url": "https://www.google.com/maps/contrib/102797121827704883588/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhKstOd_sVQX4GViZ2_MuzCTQ5dcXIlbEPt4RRXqOyMhtbkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794861073,
+      "translated": false
+    },
+    {
       "author_name": "Steffi lein",
       "author_url": "https://www.google.com/maps/contrib/105841903202264895409/reviews",
       "language": "de",
@@ -566,11 +576,11 @@
     }
   ],
   "rating": 3.9,
-  "reviewCount": 26,
+  "reviewCount": 27,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:21:17.260Z"
+  "lastUpdated": "2026-11-19T14:06:52.045Z"
 }

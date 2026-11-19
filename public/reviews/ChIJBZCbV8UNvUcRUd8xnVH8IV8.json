@@ -89,6 +89,18 @@
       "translated": false
     },
     {
+      "author_name": "Ella Schimmer",
+      "author_url": "https://www.google.com/maps/contrib/102641832341743165010/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSq72h5saq2DXCQQcSJj0Dz1K_OMg6FA-4xcA7frrpipXD3Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "vor einem Monat",
+      "text": "Alles schön und gut aber eine Wartezeit von 3 Stunde trotz Termin ist absolut unzumutbar !!!",
+      "time": 1792430140,
+      "translated": false
+    },
+    {
       "author_name": "Lisa Krämer",
       "author_url": "https://www.google.com/maps/contrib/102191682074454064002/reviews",
       "language": "de",
@@ -1492,5 +1504,5 @@
   "rating": 4.8,
   "reviewCount": 110,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:34.056Z"
+  "lastUpdated": "2026-11-19T14:06:05.451Z"
 }

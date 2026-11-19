@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Sabine Gaede",
+      "author_url": "https://www.google.com/maps/contrib/109275540525062396963/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1EaTguebDudfNbMmuBiAhRn2mRPoSTR3KZ_qQOMhosBMIjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches Pflege- und Ärztpersonal, ich habe mich sehr gut umsorgt gefühlt. Die Zimmer erinnern nicht so an Krankenhaus und es ist alles sehr durchdacht angelegt. Von mir klare Empfehlung!",
+      "time": 1794979803,
+      "translated": false
+    },
+    {
+      "author_name": "Marienkäfer23",
+      "author_url": "https://www.google.com/maps/contrib/103815150408359315057/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnUrq8xROBZK7xMAuByDmQa-IBI8IRVA_6qoYupsavBAVo2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Danke für den angenehmen Aufenthalt trotz OP. Die Schwester und Anästhesisten waren Tag und Nacht sehr freundlich, liebevoll und fürsorglich und haben ihr Bestes gegeben!\nIch habe mich sehr gut versorgt gefühlt und kann die Komfortstation bedenkenlos an jeden weiterempfehlen!\nGanz lieben Dank!",
+      "time": 1794951172,
+      "translated": false
+    },
+    {
       "author_name": "Maria Zottel",
       "author_url": "https://www.google.com/maps/contrib/109778511874862505198/reviews",
       "language": "de",
@@ -25,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Wenke Wagner",
+      "author_url": "https://www.google.com/maps/contrib/107740633049863550631/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcDaRnz3Norzmnc3XPbNiH79VUEOJU98ba3Jag7EtzQDCN2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Es hat mich ehrlich überrascht,  dass es soetwas gibt. Von der ersten Minute an war ich Patient und nicht nur eine Nummer. Die Organisation der einzelnen Abläufe, der Umgang mit den Patienten und auch der Umgang des Personals untereinander sind nicht zu toppen. Die Zusammenarbeit der verschiedenen Fachbereiche klappte wunderbar bei übergreifender Terminvergabe. Auf der Komfortstation fühlt man sich wie ein Privatpatient. Ich bin heute froh, mich für das MVZ entschieden zu haben und würde es, trotz längerer Anfahrt, immer wieder vorziehen. Danke an alle, die mir die Angst vor der OP genommen haben und meine Fragen und Bedenken ausführlich beantwortet haben.",
+      "time": 1794422923,
+      "translated": false
+    },
+    {
       "author_name": "Steven Bretschneider",
       "author_url": "https://www.google.com/maps/contrib/105139256213815072967/reviews",
       "language": "de",
@@ -32,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl9RZokeiWnii1XtgNsk-DRpRQYao9iib0VaTH0tOjSBKZpEub=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Da können sich andere Einrichtungen eine Scheibe abschneiden.\nWirklich sehr zu empfehlen.",
+      "time": 1794406016,
+      "translated": false
+    },
+    {
+      "author_name": "Steven Bretschneider",
+      "author_url": "https://www.google.com/maps/contrib/105139256213815072967/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl9RZokeiWnii1XtgNsk-DRpRQYao9iib0VaTH0tOjSBKZpEub=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Da können sich andere Einrichtungen eine Scheibe abschneiden.\nWirklich sehr zu empfehlen.",
       "time": 1794406016,
       "translated": false
@@ -2074,11 +2122,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 537,
+  "reviewCount": 539,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-16T13:20:43.811Z"
+  "lastUpdated": "2026-11-19T14:06:15.928Z"
 }

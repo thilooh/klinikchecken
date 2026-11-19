@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tina M.",
+      "author_url": "https://www.google.com/maps/contrib/102251018245127519789/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzS5bp1KVs-5AOPnurfY4cOXyhN3NTFCf31ZkINHWMcI02Nao=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin von meiner KTP-Laserbehandlung maßlos enttäuscht. Bereits die Behandlung selbst war ausgesprochen schmerzhaft und deutlich unangenehmer als bei meiner früheren KTP-Behandlung vor fünf bis sechs Jahren. Damals war mein Gesicht nach zwei Tagen wieder völlig unauffällig.\n\nDiesmal hatte ich anschließend erhebliche Schwellungen, Quaddeln und Krustenbildung. Auch Tage später sind noch deutliche rote Stellen im Gesicht sichtbar. Mit einer derart heftigen Reaktion hatte ich überhaupt nicht gerechnet. Dass ich möglicherweise wochenlang mit sichtbaren Spuren im Gesicht herumlaufen muss, ist für mich absolut inakzeptabel.\n\nFür mich war das definitiv der letzte Besuch in dieser Praxis.",
+      "time": 1795069331,
+      "translated": false
+    },
+    {
       "author_name": "Alina Hut",
       "author_url": "https://www.google.com/maps/contrib/101166722947574507938/reviews",
       "language": "de",
@@ -13,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Alina Hut",
+      "author_url": "https://www.google.com/maps/contrib/101166722947574507938/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUa7oup-_CMOFSAKGUuHyxTk2nNpeoN7iSAWEy_BdKp690FRcN=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Bin sehr zufrieden, Hautkrebsvorsorge war effizient und gründlich. Kaum Wartezeit",
+      "time": 1794418411,
+      "translated": false
+    },
+    {
       "author_name": "Dr. Farshid Behi",
       "author_url": "https://www.google.com/maps/contrib/107123906215468486119/reviews",
       "language": "de",
@@ -20,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxMzxQPGKpHrjlEcODLMqd1DMY8qOqciTqujWEH7qPQFrkMnwr=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte bereits einen früheren Kontakt mit dem Dermatologikum Bremen und war daher umso enttäuschter über meine jüngste telefonische Erfahrung.\n\nDer Umgang am Telefon war ausgesprochen unfreundlich und auffallend patzig. Es entstand zudem der Eindruck, dass keinerlei ernsthaftes Interesse bestand, nach einem geeigneten Termin zu suchen oder eine konstruktive Lösung anzubieten.\n\nGerade von einer etablierten dermatologischen Fachpraxis darf man ein angemessenes Maß an Professionalität, Patientenorientierung und respektvoller Kommunikation erwarten. Ein derartiger Umgang wird diesem Anspruch aus meiner Sicht in keiner Weise gerecht.\n\nIch habe mich daher entschieden, künftig eine andere dermatologische Praxis zu konsultieren.\n\nEine Empfehlung für das Dermatologikum Bremen kann ich aufgrund dieser Erfahrung leider nicht aussprechen. Fachliche Kompetenz allein genügt nicht – ein respektvoller und wertschätzender Umgang mit Patienten sollte eine selbstverständliche Grundlage jeder medizinischen Einrichtung sein.",
+      "time": 1794411381,
+      "translated": false
+    },
+    {
+      "author_name": "Dr. Farshid Behi",
+      "author_url": "https://www.google.com/maps/contrib/107123906215468486119/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxMzxQPGKpHrjlEcODLMqd1DMY8qOqciTqujWEH7qPQFrkMnwr=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich hatte bereits einen früheren Kontakt mit dem Dermatologikum Bremen und war daher umso enttäuschter über meine jüngste telefonische Erfahrung.\n\nDer Umgang am Telefon war ausgesprochen unfreundlich und auffallend patzig. Es entstand zudem der Eindruck, dass keinerlei ernsthaftes Interesse bestand, nach einem geeigneten Termin zu suchen oder eine konstruktive Lösung anzubieten.\n\nGerade von einer etablierten dermatologischen Fachpraxis darf man ein angemessenes Maß an Professionalität, Patientenorientierung und respektvoller Kommunikation erwarten. Ein derartiger Umgang wird diesem Anspruch aus meiner Sicht in keiner Weise gerecht.\n\nIch habe mich daher entschieden, künftig eine andere dermatologische Praxis zu konsultieren.\n\nEine Empfehlung für das Dermatologikum Bremen kann ich aufgrund dieser Erfahrung leider nicht aussprechen. Fachliche Kompetenz allein genügt nicht – ein respektvoller und wertschätzender Umgang mit Patienten sollte eine selbstverständliche Grundlage jeder medizinischen Einrichtung sein.",
       "time": 1794411381,
       "translated": false
@@ -1282,11 +1318,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 204,
+  "reviewCount": 205,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:20:41.420Z"
+  "lastUpdated": "2026-11-19T14:06:13.389Z"
 }

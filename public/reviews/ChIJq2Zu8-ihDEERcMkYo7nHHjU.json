@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Florian Burghardt",
+      "author_url": "https://www.google.com/maps/contrib/108428493300842864512/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVy15xenvn5mDfLm8K7_IBr5DPNfvbWt_nk_6P_Ma7P9nEaNIlGYg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Durch die Empfangsmitarbeiterinnen die keine Ahnung von Datenschutz haben bleibe ich jedenfalls fern!",
+      "time": 1794988004,
+      "translated": false
+    },
+    {
+      "author_name": "Anita A.",
+      "author_url": "https://www.google.com/maps/contrib/100871119391673137790/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEoXfvC6CQSQ1jO4Ql2JICzzkRwuJDb3ZKyFd6K6eGfPUiF4Z5ZA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann als Patientin nichts zu den dortigen Gegebenheiten sagen aber Ich möchte nur mal sagen dass ich es sehr gut finde dass ihr so konsequent gegen die Sache mit den Streamerinnen von Tiktok vorgeht.\nEs muss endlich ein Ende haben dass alle denken dass sie alles machen können, selbst wenn sie in der Pause sind. Wenn Sie das privat machen ist Es egal, aber nicht in den Praxisräumen und den praxisoutfit. Ich finde es stark dass ihr euren Ruf Durch das Verhalten der zwei Mädels nicht verlieren wollt und entschieden dagegen vorgeht. ❤️ Falls ich mal persönlich einen Hautarzt brauche werde ich euch im Hinterkopf behalten 🥳",
+      "time": 1794838367,
+      "translated": false
+    },
+    {
+      "author_name": "Cem 1887",
+      "author_url": "https://www.google.com/maps/contrib/105054810446096940783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbRrFlRU6XdLW2cT3bDop_e7CaR2s5XTtdGoXQQIkOmSYvne4T=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794837063,
+      "translated": false
+    },
+    {
       "author_name": "D K",
       "author_url": "https://www.google.com/maps/contrib/116286860967852870771/reviews",
       "language": "de",
@@ -1656,5 +1690,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-16T13:20:53.467Z"
+  "lastUpdated": "2026-11-19T14:06:25.817Z"
 }

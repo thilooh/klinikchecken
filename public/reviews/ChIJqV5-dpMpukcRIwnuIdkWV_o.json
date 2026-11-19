@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ralf Soehner",
+      "author_url": "https://www.google.com/maps/contrib/109061185462553300329/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWm7V2rKVlVQ2xzddCrBHzQ622DcR2H9fOnbsq4FUmOAVI0iwJK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das komplette Team sehr freundlich , fachlich kompetent, sehr organisiert mit nahezu reibungslosen Abläufen und ohne Schnörkel an die Arbeit . Das Ganze mit sehr positivem Ergebnis - Danke !\n5/5 Sterne ⭐️⭐️⭐️⭐️⭐️",
+      "time": 1794854566,
+      "translated": false
+    },
+    {
       "author_name": "Marc Hanneforth",
       "author_url": "https://www.google.com/maps/contrib/108603594307896232868/reviews",
       "language": "de",
@@ -1768,11 +1780,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-16T13:21:20.147Z"
+  "lastUpdated": "2026-11-19T14:06:55.297Z"
 }

@@ -1,11 +1,41 @@
 {
   "reviews": [
     {
+      "author_name": "Andrea Heumueller",
+      "author_url": "https://www.google.com/maps/contrib/108777598152048303436/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJ3VkxcSBr1Pr346P4Pv94BwatUdLv0yt70U0SLEpRUZvAEg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795012978,
+      "translated": false
+    },
+    {
+      "author_name": "Manuela Ortiz",
+      "author_url": "https://www.google.com/maps/contrib/114583403644429992812/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXngZd2xQG1ZtqVpgTI6oSE4fRQFtaJQ0SNfkUQ8QhbHr-eA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794942894,
+      "translated": false
+    },
+    {
       "author_name": "Marina",
       "author_url": "https://www.google.com/maps/contrib/112904163455606732795/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrMuJVbQDKhus7KRi-BFDXL_2GLHvwhV_3notHVwPfd1j-1rQ-Dg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794395931,
+      "translated": false
+    },
+    {
+      "author_name": "Marina",
+      "author_url": "https://www.google.com/maps/contrib/112904163455606732795/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrMuJVbQDKhus7KRi-BFDXL_2GLHvwhV_3notHVwPfd1j-1rQ-Dg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1794395931,
       "translated": false
@@ -30,6 +60,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaYpvk3xzHWVzacjC5viqbX784iAfERj_jz06QyAVX74p4uTo=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Reinkommen und quasi \"willkommen\" sein....",
+      "time": 1793806343,
+      "translated": false
+    },
+    {
+      "author_name": "der OPPA",
+      "author_url": "https://www.google.com/maps/contrib/114870687444877455737/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaYpvk3xzHWVzacjC5viqbX784iAfERj_jz06QyAVX74p4uTo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Reinkommen und quasi \"willkommen\" sein....",
       "time": 1793806343,
       "translated": false
@@ -60,6 +102,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVRgWm_h60d93DRj_uJ021eGY7YRpZnCyllROXxpfnnZy-Km8=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793279599,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin Krings",
+      "author_url": "https://www.google.com/maps/contrib/100963475871269009926/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVRgWm_h60d93DRj_uJ021eGY7YRpZnCyllROXxpfnnZy-Km8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793279599,
       "translated": false
@@ -1504,11 +1556,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 133,
+  "reviewCount": 135,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-16T13:20:49.406Z"
+  "lastUpdated": "2026-11-19T14:06:21.781Z"
 }

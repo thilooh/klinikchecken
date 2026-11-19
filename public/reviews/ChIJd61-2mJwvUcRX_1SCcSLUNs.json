@@ -55,6 +55,16 @@
       "translated": false
     },
     {
+      "author_name": "Patricia Bormuth",
+      "author_url": "https://www.google.com/maps/contrib/112445236984851251175/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCoeRzq9RHZCSq9IVn4em3Qmyc8XS2fDP9FaBBwHPAyTf3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1793026145,
+      "translated": false
+    },
+    {
       "author_name": "Nancy Helferich",
       "author_url": "https://www.google.com/maps/contrib/113121737192646485927/reviews",
       "language": "de",
@@ -98,6 +108,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGivcCv622c_6HoaddcETf9gKnb3Vknv-JhYpavOoC5nCe1A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr gute Ärzte und Schwestern. Alle professionell und sehr freundlich.",
+      "time": 1792584721,
+      "translated": false
+    },
+    {
+      "author_name": "Nancy Helferich",
+      "author_url": "https://www.google.com/maps/contrib/113121737192646485927/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGivcCv622c_6HoaddcETf9gKnb3Vknv-JhYpavOoC5nCe1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr gute Ärzte und Schwestern. Alle professionell und sehr freundlich.",
       "time": 1792584721,
       "translated": false
@@ -778,5 +800,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-16T13:21:09.659Z"
+  "lastUpdated": "2026-11-19T14:06:43.482Z"
 }

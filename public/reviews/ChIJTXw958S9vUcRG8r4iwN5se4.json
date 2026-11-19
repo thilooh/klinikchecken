@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Christina Mewes",
+      "author_url": "https://www.google.com/maps/contrib/101275732196845072444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzcwrltVZF3aqC_gHUC60Weg7Ey25iYC0rQC_QI73VnMch8Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin sehr zügig dran gekommen,  obwohl die Praxis sehr voll war. Fr.Dr. Jeder hat mir gute Tipps gegeben.  Nun mal schauen,  ob sie erfolgreich sind.",
+      "time": 1795020908,
+      "translated": false
+    },
+    {
+      "author_name": "Julia N",
+      "author_url": "https://www.google.com/maps/contrib/117132707539876754716/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXBbL6Z6G7ChhGhMPDAgqUXKbpfXmd1TGKR-pDs9JFh3zV2P4y=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr kompetenter Arzt, er hat mir mit der Creme für die Schuppenflechte sehr geholfen. Er ist etwas wortkarg, aber das stört nicht, wenn man geholfen bekommt.",
+      "time": 1794916663,
+      "translated": false
+    },
+    {
       "author_name": "BW Brazil Beauty Studio",
       "author_url": "https://www.google.com/maps/contrib/103309888946186219697/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVK4osR6TihR6oCQSKlvzyPZY7hJAnVUj843kg9dqEXScKtY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Toller Ort",
+      "time": 1794327368,
+      "translated": true
+    },
+    {
+      "author_name": "BW Brazil Beauty Studio",
+      "author_url": "https://www.google.com/maps/contrib/103309888946186219697/reviews",
+      "language": "de",
+      "original_language": "it",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVK4osR6TihR6oCQSKlvzyPZY7hJAnVUj843kg9dqEXScKtY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Toller Ort",
       "time": 1794327368,
       "translated": true
@@ -1946,11 +1982,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 170,
+  "reviewCount": 172,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:20:58.506Z"
+  "lastUpdated": "2026-11-19T14:06:31.372Z"
 }

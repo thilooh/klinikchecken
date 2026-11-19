@@ -263,6 +263,18 @@
       "translated": false
     },
     {
+      "author_name": "Baki",
+      "author_url": "https://www.google.com/maps/contrib/115434790565504153778/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgXPZ61waTEwEai1t55XFHEgk8KIQerEeTF6ANEU31EXIiwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "Herr Dr. Jawadi ist ein sehr freundlicher und kompetenter Arzt, der einem positiv zuredet und Mut macht und dabei eine sehr angenehme Ruhe ausstrahlt. Ich kann ihn fachlich und menschlich uneingeschränkt weiter empfehlen. Vielen herzlichen Dank für alles!!!",
+      "time": 1789755855,
+      "translated": false
+    },
+    {
       "author_name": "Gabriela Jardan",
       "author_url": "https://www.google.com/maps/contrib/117126178399174109529/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUa1ZZ1ZVOLqFHBgl7qdO0wc_n4m3YA_F-FWJjWfnAPTMvj3i0P=s128-c0x00000000-cc-rp-mo",
@@ -1091,5 +1103,5 @@
   "rating": 4.8,
   "reviewCount": 53,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:32.886Z"
+  "lastUpdated": "2026-11-19T14:06:03.992Z"
 }

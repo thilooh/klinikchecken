@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas Schiffert",
+      "author_url": "https://www.google.com/maps/contrib/100888230683337325136/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOQUmQtFW8j3TbWUzUtmpMtNMVdRZdwyfcbdrwboOwrZIu=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795028336,
+      "translated": false
+    },
+    {
+      "author_name": "R. M.",
+      "author_url": "https://www.google.com/maps/contrib/114162741565469592797/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEVOb4NcNcYvGgHAj4dpMBRwmomeRX176PIxr2Lr9GEj-P_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ärzte ok, Personal ständig genervt,teils unhöflich .Stühle im großen Wartezimmer sind eklig  mit Schweißflecken. Wenn man anruft geht keiner ran",
+      "time": 1794933315,
+      "translated": false
+    },
+    {
+      "author_name": "Michael",
+      "author_url": "https://www.google.com/maps/contrib/113457791617665864626/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0QDMXO9ctTjytA3g3b3yheR1_KMQCcUyb8YJPalf6kSBEPft4EA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Personal und top Ärtzte.\nWenn man zum ersten Mal dort ist, ist es ein wenig kompliziert sich zurechtzufinden aber sonst alles in Ordnung.:)☺️",
+      "time": 1794909926,
+      "translated": false
+    },
+    {
+      "author_name": "Feli",
+      "author_url": "https://www.google.com/maps/contrib/104925188644937554386/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyBqS6kpj76vTUUABqyLqSX-Vm8LV2ADLgnGh2RPAsq-FlEw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sind in Spiegelberg:\nPersonal und Ärztin freundlich keine Frage\n\nAber wieso mach ich ein Termin, wenn ich jedes Mal eine halbe Stunde später erst drankomme??? Zusätzlich zur Wartezeit muss ich außerdem noch eine halbe Stunde warten, da ich eine Hypersensiblisierung mache. D.h. 1-1,5h Aufenthalt für eine kleine Spritze.",
+      "time": 1794907752,
+      "translated": false
+    },
+    {
       "author_name": "Marina Behringer",
       "author_url": "https://www.google.com/maps/contrib/105570134633454837125/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9vhudyZwZKrrSaaEdQhiaUEZAOHoksNhmsQNkgTXfRHpBRw=s128-c0x00000000-cc-rp-mo",
@@ -1898,11 +1944,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 213,
+  "reviewCount": 217,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:21:11.946Z"
+  "lastUpdated": "2026-11-19T14:06:46.235Z"
 }

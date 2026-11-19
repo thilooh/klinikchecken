@@ -133,6 +133,16 @@
       "translated": false
     },
     {
+      "author_name": "Karsten Dahlitz",
+      "author_url": "https://www.google.com/maps/contrib/107628606609992945486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY0avhKMf0fhdPhZC5vYdSNL-AJwHgMdaPMpAp9PFYZEHeM4Es=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1789654248,
+      "translated": false
+    },
+    {
       "author_name": "Lennart",
       "author_url": "https://www.google.com/maps/contrib/112241627752924948479/reviews",
       "language": "de",
@@ -344,6 +354,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFpbiC31aogXHyIv8Zn7T0nV3-7768cc1klGNyJkzqdWhxew=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Das ist schon seltsam,seit April 2024 nehme ich mehrere Termine war und werde jedesmal aus fadenscheinigebn Gründen wieder weggeschickt....Der Höhepunkt war,das man angeblich mit mir telefonisch einen neuen Termin vereinbart hätte.....",
+      "time": 1784530773,
+      "translated": false
+    },
+    {
+      "author_name": "R. Rattei",
+      "author_url": "https://www.google.com/maps/contrib/115358531382191331506/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFpbiC31aogXHyIv8Zn7T0nV3-7768cc1klGNyJkzqdWhxew=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Das ist schon seltsam,seit April 2024 nehme ich mehrere Termine war und werde jedesmal aus fadenscheinigebn Gründen wieder weggeschickt....Der Höhepunkt war,das man angeblich mit mir telefonisch einen neuen Termin vereinbart hätte.....",
       "time": 1784530773,
       "translated": false
@@ -706,5 +728,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-16T13:21:20.368Z"
+  "lastUpdated": "2026-11-19T14:06:55.563Z"
 }

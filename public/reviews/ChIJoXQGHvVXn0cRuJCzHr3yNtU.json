@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Rita Christ",
+      "author_url": "https://www.google.com/maps/contrib/104512126318212766816/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkGj85Dgz0REjaKXMuoK9KhsxrpiXFShcsl2nnHsrNubSy=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794934479,
+      "translated": false
+    },
+    {
       "author_name": "Kathrin Geist",
       "author_url": "https://www.google.com/maps/contrib/102535677460289134539/reviews",
       "language": "de",
@@ -616,7 +626,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 48,
+  "reviewCount": 49,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:38.609Z"
+  "lastUpdated": "2026-11-19T14:06:10.366Z"
 }

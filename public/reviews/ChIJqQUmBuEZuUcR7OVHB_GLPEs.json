@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Silvia Fuchs",
+      "author_url": "https://www.google.com/maps/contrib/107844429672611812304/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnLWRcB51T5IiUsE_Afs7BMsVJPFC6updds8m416lxtbe0Rg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde von Frau Dr. Sippel gelasert. Das Ergebnis war grandios.\nSo eine emphatische und kompetente Ärztin  kann ich nur weiterempfehlen.\nIch bin super zufrieden. Vielen Dank.\n\nBei Herrn  Dr. Hofmayer und Frau Dr. Steinberg haben ich mich genauso gut aufgehoben gefühlt. Sehr kompetent und emphatische Ärzte. Tolles Team, kann ich auch nur weiterempfehlen. Ich bin super zufrieden.",
+      "time": 1795095703,
+      "translated": false
+    },
+    {
+      "author_name": "Johanna linke",
+      "author_url": "https://www.google.com/maps/contrib/116943262185723859557/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_e3zqobvyPP-v9DFF1QiWbTjWvFaCkNIkqUO_16luGh0vlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Leider eine absolut schlecht organisierte Praxis. Ich hatte einen Termin zur Mittagszeit und musste über eine Stunde warten obwohl das Wartezimmer leer war. Die Arzthelferinnen am Empfang waren zudem super unfreundlich und hinterm Tresen wurde sich nur privat unterhalten anstatt die Patienten zu bedienen. Wenn die Ärzte hier genauso arbeiten wie die Arzthelferinnen wundert mich die lange Wartezeit nicht. Als Berufstätige absolut nicht zu empfehlen.",
+      "time": 1795091302,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Hupe",
+      "author_url": "https://www.google.com/maps/contrib/109641386287652244593/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq1j3qwCz81S3iRBIQupXcLrI2e5SQFt3qzZ_e3gvRA2Mzug=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794902624,
+      "translated": false
+    },
+    {
+      "author_name": "Mr. Deeds",
+      "author_url": "https://www.google.com/maps/contrib/106170264419542829800/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVOjX0Sgl6rke3YSomu8mvgSACo25fLDyjoqF3HjI4N-OQaeNJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Trotz vereinbartem Termin betrug die Wartezeit über 2 Stunden. Obwohl ich mich wegen starken Juckreizes vorgestellt habe, wurde ich von einer Allgemeinmedizinerin statt einer Dermatologin behandelt. Zwar wurde kurz eine Hautärztin hinzugezogen, diese war jedoch nach einem kurzen Blick auf die Stellen direkt wieder weg. Die verordneten Cremes haben keinerlei Linderung gebracht. Als ich daraufhin anrief, um dringend einen Folgetermin zur Anpassung der Therapie zu bekommen, wurde mir ein Termin erst in 3 Monaten angeboten. Unfassbar!",
+      "time": 1794486803,
+      "translated": false
+    },
+    {
       "author_name": "Dennis Frieß",
       "author_url": "https://www.google.com/maps/contrib/111511722218562215444/reviews",
       "language": "de",
@@ -20,6 +66,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk6Wp9up4MLaqgO9Yk4hMeQelJVn6O_ajuWcylgfBT0wHAeA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Ich war zu einer Behandlung in der Klinik und bin total begeistert von dem tollen Personal. Viele Ärzte haben an meiner Erkrankung herumgedoktert, aber in der MVZ wurde eine Lösung gefunden! Vielen vielen Dank!",
+      "time": 1793786377,
+      "translated": false
+    },
+    {
+      "author_name": "Dennis Frieß",
+      "author_url": "https://www.google.com/maps/contrib/111511722218562215444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk6Wp9up4MLaqgO9Yk4hMeQelJVn6O_ajuWcylgfBT0wHAeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Ich war zu einer Behandlung in der Klinik und bin total begeistert von dem tollen Personal. Viele Ärzte haben an meiner Erkrankung herumgedoktert, aber in der MVZ wurde eine Lösung gefunden! Vielen vielen Dank!",
       "time": 1793786377,
       "translated": false
@@ -2006,7 +2064,7 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 314,
+  "reviewCount": 317,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:34.760Z"
+  "lastUpdated": "2026-11-19T14:06:06.216Z"
 }

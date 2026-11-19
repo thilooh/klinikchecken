@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Dorothee Gerber",
+      "author_url": "https://www.google.com/maps/contrib/108885215654130091476/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6BhIhQS6FGjmczUTT0u1BFaA7W1uGtT1I5Jbk4ret1Ew63w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Einfach die allerbeste Ärztin Danke für alles",
+      "time": 1794930151,
+      "translated": false
+    },
+    {
       "author_name": "Cynthia Trautmann",
       "author_url": "https://www.google.com/maps/contrib/110405695616993851763/reviews",
       "language": "de",
@@ -8,6 +20,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3jWpWl6Hb9J04lhcglrJZ9RIRLU6RqI1S2JXiljcEy9Qz4A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche Beratung.",
+      "time": 1794323852,
+      "translated": false
+    },
+    {
+      "author_name": "Cynthia Trautmann",
+      "author_url": "https://www.google.com/maps/contrib/110405695616993851763/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3jWpWl6Hb9J04lhcglrJZ9RIRLU6RqI1S2JXiljcEy9Qz4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Sehr freundliche Beratung.",
       "time": 1794323852,
       "translated": false
@@ -23,6 +47,16 @@
       "translated": false
     },
     {
+      "author_name": "Otis König",
+      "author_url": "https://www.google.com/maps/contrib/115737389133038594855/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBFaCqmDE5nZMISaKm2IEDxEP1NawljYd1mCWNHJtnobp18w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794322433,
+      "translated": false
+    },
+    {
       "author_name": "Kirstin Wunder",
       "author_url": "https://www.google.com/maps/contrib/102401903252509274984/reviews",
       "language": "de",
@@ -30,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5RCFqE2CFk3faIKwuxo8jwGQbCt2MQZ0syEsZ1Bem4bcM4A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Freundlich, kompetent, geht geduldig auf Bedürfnisse ein und gibt hilfreiche Ratschläge. Das gesamte Praxisteam ist einfach nur klasse!",
+      "time": 1794320208,
+      "translated": false
+    },
+    {
+      "author_name": "Kirstin Wunder",
+      "author_url": "https://www.google.com/maps/contrib/102401903252509274984/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5RCFqE2CFk3faIKwuxo8jwGQbCt2MQZ0syEsZ1Bem4bcM4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Freundlich, kompetent, geht geduldig auf Bedürfnisse ein und gibt hilfreiche Ratschläge. Das gesamte Praxisteam ist einfach nur klasse!",
       "time": 1794320208,
       "translated": false
@@ -50,6 +96,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcfg4nDSDj-6iNILt_o_HB_465ffvyp6G7vi2ZredAmKNKzw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1793725608,
+      "translated": false
+    },
+    {
+      "author_name": "Miriam Herbert",
+      "author_url": "https://www.google.com/maps/contrib/118080775049390105048/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcfg4nDSDj-6iNILt_o_HB_465ffvyp6G7vi2ZredAmKNKzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1793725608,
       "translated": false
@@ -1062,11 +1118,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 67,
+  "reviewCount": 68,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:21:06.018Z"
+  "lastUpdated": "2026-11-19T14:06:39.504Z"
 }

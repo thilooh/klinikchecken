@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Arno Bramer",
+      "author_url": "https://www.google.com/maps/contrib/115679863329849773065/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbrCwdCLReVWsbd5f4HsXHiZ5Id45ytaSLgHlXhyzw9pO4Tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Bergmann war sehr gut. Bin zufrieden.",
+      "time": 1795096173,
+      "translated": false
+    },
+    {
+      "author_name": "Santella Andrea",
+      "author_url": "https://www.google.com/maps/contrib/117621496217715466982/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVmJ1B6hnVxG_3ZcEJ-BcTQW0MxoRJy_13V0P98xGM7RnxkBQ3IQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann fr Dr Schilling absolut weiterempfehlen, Dr Schilling ist sehr kompetent,menschlich und geduldig nimmt sich Zeit für seine Patienten, erklärt Behandlungen verständlich und geht auf alle Fragen ein. Vielen Dank für die tolle Betreuung. LG Santella",
+      "time": 1795037122,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Mariusch",
+      "author_url": "https://www.google.com/maps/contrib/101343846462343101047/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwY4KjKHKhC8El2tpwaMaldLitFUF0X4oFHYSN_Nk0VIBYNlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wurde heute Vormittag von Herrn Schwerdt angerufen, der mich ausführlich über die Inuspherese aufgeklärt hat.\n\nVielen lieben Dank dafür! Ich freue mich auf die Beratung.",
+      "time": 1794903247,
+      "translated": false
+    },
+    {
+      "author_name": "Elira Ramadani",
+      "author_url": "https://www.google.com/maps/contrib/110742963706567115089/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuQpaVe1IjNTZRb_kQyXpuWoZ6nUkb_mLz_PXwE4j-VljELQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schon seit Jahren hier Patientin. Ich bin sehr sehr zufrieden.  Jedes Jahr lasse ich mich untersuchen und alles ist top Terminvergabe. Ich bin bei Dr. Quaisser Patientin und bin sehr zufrieden. Sie hat mir dieses Jahr auch ein Muttermal entfernt ubd alles ist top gelaufen. In der Praxis ist man in guten Händen.",
+      "time": 1794836525,
+      "translated": false
+    },
+    {
       "author_name": "Amelie",
       "author_url": "https://www.google.com/maps/contrib/104910939574761375199/reviews",
       "language": "de",
@@ -2184,11 +2232,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 379,
+  "reviewCount": 383,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:20:58.739Z"
+  "lastUpdated": "2026-11-19T14:06:31.631Z"
 }

@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Jan Hillebrand",
+      "author_url": "https://www.google.com/maps/contrib/109757896717864523231/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUStClqyVQwckMKKBij64RxXBzoTdTvjqP1NBdds2HPWfV0AXg2Iw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Meine Frau und ich wurden sehr gut von Dr. Omaj und seinem Team behandelt. Wir empfehlen seine tolle Praxis sehr gerne weiter!",
+      "time": 1793864580,
+      "translated": false
+    },
+    {
       "author_name": "Marcel Bischof",
       "author_url": "https://www.google.com/maps/contrib/101004773705497163787/reviews",
       "language": "de",
@@ -127,6 +139,18 @@
       "translated": false
     },
     {
+      "author_name": "Diyar Kourd",
+      "author_url": "https://www.google.com/maps/contrib/115839415511382231558/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCZIKGJe7cd2z-cteh7YqjfDqo9Udc50r7puVnqqLcwVJeFNWp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Zwei-Klassen-Behandlung schon bei der Terminvereinbarung!\n\nSobald man am Telefon „gesetzlich versichert“ auswählt, kommt sofort die Bandansage, dass angeblich alle Mitarbeiter im Gespräch seien. Anschließend wird man darauf verwiesen, einen Termin per E-Mail zu vereinbaren.\n\nGerade wenn man akute gesundheitliche Beschwerden hat und dringend einen Termin benötigt, ist das absolut enttäuschend.\n\nAls gesetzlich Versicherter fühlt man sich hier bereits bei der Kontaktaufnahme benachteiligt. Patienten sollten unabhängig von ihrer Versicherungsart ernst genommen werden.\n\nSehr enttäuschend und alles andere als patientenfreundlich!",
+      "time": 1793269268,
+      "translated": false
+    },
+    {
       "author_name": "J-Dog",
       "author_url": "https://www.google.com/maps/contrib/101567200154331935311/reviews",
       "language": "de",
@@ -158,6 +182,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEzoK4HsJNKQcdjR5RWBK6_rPKp5UXLUJXJoQAGXzGESI6WQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "War schon öfters zur Vorsorge hier und finde Dr. Omaj sowie das Team nett und ordentlich. Fühle mich kompetent beraten.",
+      "time": 1793033974,
+      "translated": false
+    },
+    {
+      "author_name": "J-Dog",
+      "author_url": "https://www.google.com/maps/contrib/101567200154331935311/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEzoK4HsJNKQcdjR5RWBK6_rPKp5UXLUJXJoQAGXzGESI6WQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "War schon öfters zur Vorsorge hier und finde Dr. Omaj sowie das Team nett und ordentlich. Fühle mich kompetent beraten.",
       "time": 1793033974,
       "translated": false
@@ -1723,5 +1759,5 @@
   "rating": 4.5,
   "reviewCount": 317,
   "summary": [],
-  "lastUpdated": "2026-11-16T13:20:33.355Z"
+  "lastUpdated": "2026-11-19T14:06:04.661Z"
 }

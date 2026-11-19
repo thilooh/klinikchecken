@@ -23,6 +23,16 @@
       "translated": false
     },
     {
+      "author_name": "L. L.",
+      "author_url": "https://www.google.com/maps/contrib/105803061750125144007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWVqMoVfZA7zs0aSD_DVW37t6eqeMwu_XwzQZ1fppeHwYxmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794252400,
+      "translated": false
+    },
+    {
       "author_name": "Jack Post",
       "author_url": "https://www.google.com/maps/contrib/110734639505209245646/reviews",
       "language": "de",
@@ -90,6 +100,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITV9loTuDsPaQnlPXSFXWi-R_f0WGpK1K_zzmgYVURX1pHcw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Fünf Sterne. Für Praxisorganisation, Freundlichkeit, Beratung und Behandlung.",
+      "time": 1792604037,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Bracher",
+      "author_url": "https://www.google.com/maps/contrib/110955164830250902859/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITV9loTuDsPaQnlPXSFXWi-R_f0WGpK1K_zzmgYVURX1pHcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Fünf Sterne. Für Praxisorganisation, Freundlichkeit, Beratung und Behandlung.",
       "time": 1792604037,
       "translated": false
@@ -1002,5 +1024,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-11-16T13:21:15.219Z"
+  "lastUpdated": "2026-11-19T14:06:49.753Z"
 }

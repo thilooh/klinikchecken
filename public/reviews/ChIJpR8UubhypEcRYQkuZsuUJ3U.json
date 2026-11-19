@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ingeburg",
+      "author_url": "https://www.google.com/maps/contrib/101495169202772299282/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwunEKznFlXkgtWVa9xpfcuB3b7IMs8VCDRLS54aStbl9ihN8r=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nettes Praxisteam ...hervorragende medizinische Versorgung und Beratung. Danke weiter so",
+      "time": 1795002119,
+      "translated": false
+    },
+    {
       "author_name": "Elga Stange",
       "author_url": "https://www.google.com/maps/contrib/111060162152997530988/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKbPFvpv3xuffdOd1Z08d4Sc1K_tKG0su9ml13s4HSbxpoIw=s128-c0x00000000-cc-rp-mo-ba2",
@@ -801,12 +813,12 @@
       "translated": false
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 55,
+  "rating": 4.6,
+  "reviewCount": 56,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:20:57.125Z"
+  "lastUpdated": "2026-11-19T14:06:29.848Z"
 }

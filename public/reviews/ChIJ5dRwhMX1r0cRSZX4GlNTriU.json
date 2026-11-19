@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mathias Styp von Rekowski",
+      "author_url": "https://www.google.com/maps/contrib/101598873323050658317/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKF7houpnUdi0cNuNw5cqfVjysXHTx_v_Pz2835UQIxTJszdw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Behandlung im Venenzentrum Braunschweig. Von der ersten Untersuchung bis zur Operation und Nachsorge hat alles super geklappt.\n\nEin großes Lob an Dr. Chweri für die professionelle Arbeit, die freundliche Art und die gute Betreuung. Auch das gesamte Team war sehr freundlich und hilfsbereit.\n\nIch habe mich jederzeit gut aufgehoben gefühlt und kann die Praxis wirklich weiterempfehlen. Vielen Dank für alles!",
+      "time": 1795035062,
+      "translated": false
+    },
+    {
       "author_name": "F. Sch.",
       "author_url": "https://www.google.com/maps/contrib/106073955241702026707/reviews",
       "language": "de",
@@ -864,11 +876,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 141,
+  "reviewCount": 142,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Praxisausstattung und saubere Räumlichkeiten werden gelobt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-16T13:20:43.054Z"
+  "lastUpdated": "2026-11-19T14:06:15.194Z"
 }

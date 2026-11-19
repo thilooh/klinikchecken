@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Felix Beck",
+      "author_url": "https://www.google.com/maps/contrib/116325299793260282825/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb0KpJHHY7wBzPrxdB6owIQTxA9GWGEH8AVfz9v6Yd4xO30Zxr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794948340,
+      "translated": false
+    },
+    {
       "author_name": "ömer alt",
       "author_url": "https://www.google.com/maps/contrib/104228312972247815010/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJeIYRLPKbnYiLMxFmORkUFb4CTrg1C2Fwxbdem2y1OlqLJnzT=s128-c0x00000000-cc-rp-mo",
@@ -982,11 +992,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 61,
+  "reviewCount": 62,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:20:55.969Z"
+  "lastUpdated": "2026-11-19T14:06:28.601Z"
 }

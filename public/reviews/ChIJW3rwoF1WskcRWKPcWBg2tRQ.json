@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Angela Krüger",
+      "author_url": "https://www.google.com/maps/contrib/105218438365410494121/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJq5yxyfQm7C-hGXcOVuY9yZPmZl0Hs6lAJm5GY1dVU0LHXwmB2=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich dort gut aufgehoben.",
+      "time": 1795026752,
+      "translated": false
+    },
+    {
       "author_name": "Sabine Sabine",
       "author_url": "https://www.google.com/maps/contrib/113722965663360647075/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNHBo2axzQNYlIBDE4-uUXx4rhYfs1Bv2aV37nC9A0gtqbmQ=s128-c0x00000000-cc-rp-mo",
@@ -66,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc7_UXtUur6tA9hsrx_ZtVf4QtRixpNm9gAfz5jI9b1sBshg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Nur eine KI Empfangsdame mit der man sich Unterhalten muss. Nachdem mein Name und mein Anlegen aufgenommen wurde, sagte die KI, sie melden sich und hat Aufgelegt. Die KI hat aber nie meine Telefonnummer oder ähnliches abgefragt....",
+      "time": 1792406895,
+      "translated": false
+    },
+    {
+      "author_name": "Marvin Möller",
+      "author_url": "https://www.google.com/maps/contrib/107515366361764277458/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc7_UXtUur6tA9hsrx_ZtVf4QtRixpNm9gAfz5jI9b1sBshg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einem Monat",
       "text": "Nur eine KI Empfangsdame mit der man sich Unterhalten muss. Nachdem mein Name und mein Anlegen aufgenommen wurde, sagte die KI, sie melden sich und hat Aufgelegt. Die KI hat aber nie meine Telefonnummer oder ähnliches abgefragt....",
       "time": 1792406895,
       "translated": false
@@ -1698,11 +1722,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 155,
+  "reviewCount": 156,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:20:42.117Z"
+  "lastUpdated": "2026-11-19T14:06:14.157Z"
 }

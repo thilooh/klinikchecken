@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Gaby",
+      "author_url": "https://www.google.com/maps/contrib/107595053606798544546/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSQYcVJ5wecTX_K7DwZ6C3PZ9nfw1Qii58psQayFY_YYbKEC8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr unfreundliche Dame am Empfang. Schade für den kompetenten Arzt. Sollte diese Angestellte entlassen.",
+      "time": 1794937091,
+      "translated": false
+    },
+    {
       "author_name": "Nazim Gahramanov",
       "author_url": "https://www.google.com/maps/contrib/108259625484238819456/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID0U_juT5I9Vcg0zyCPlBQtoWSIUQfJT6fHg6NPcWR8pRvGA=s128-c0x00000000-cc-rp-mo-ba4",
@@ -899,12 +911,12 @@
       "translated": false
     }
   ],
-  "rating": 3.8,
+  "rating": 3.7,
   "reviewCount": 34,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-16T13:21:16.569Z"
+  "lastUpdated": "2026-11-19T14:06:51.280Z"
 }
