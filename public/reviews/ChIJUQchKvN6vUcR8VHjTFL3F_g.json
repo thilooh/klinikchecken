@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Andrea Ker",
+      "author_url": "https://www.google.com/maps/contrib/108032689440938544250/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIV2IsAT1FsSGnwrRI1veHFqim9s2ONW2TkjkFhLbc47lBt2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795186696,
+      "translated": false
+    },
+    {
       "author_name": "Patrick ANTOINE",
       "author_url": "https://www.google.com/maps/contrib/109715497467946235398/reviews",
       "language": "fr",
@@ -23,6 +33,18 @@
       "text": "Excellente clinique esthétique ou ma fille a subi une intervention pour un Lipodème. Les locaux, situés dans une ancienne maison, sont confortables et fonctionnels. Le personnel est super accueillant. Le parc arboré où vous pourrez vois promener est magnifiquement entretenu. La nuit, lorsqu'il est éclairé c'est magique. Il y a un parking dont l'entrée n'est pas évidente à trouver quand on vient de la grande avenue. Un conseil : garez vous en marche arrière. Ce sera beaucoup plus facile pour sortir. Et en sortant ATTENTION au croisement (dans les 2 sens) avec les lignes de tram qui sont juste après le portail. Sinon c'est votre voiture qui pourrait bien avoir besoin de chirurgie esthétique...",
       "time": 1794066161,
       "translated": false
+    },
+    {
+      "author_name": "Patrick ANTOINE",
+      "author_url": "https://www.google.com/maps/contrib/109715497467946235398/reviews",
+      "language": "de",
+      "original_language": "fr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_dsBSpQfBe1UYslWV4Y3r7qUqOC4eBQVeVB_R5UjwHTF9PHrC=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "Eine ausgezeichnete Schönheitsklinik, in der meine Tochter eine Lipödem-Behandlung hatte. Die Räumlichkeiten in einem umgebauten Haus sind komfortabel und funktional. Das Personal ist unglaublich freundlich. Der bewaldete Park, in dem man spazieren gehen kann, ist wunderschön gepflegt. Abends, wenn er beleuchtet ist, wirkt er einfach magisch. Es gibt einen Parkplatz, aber die Einfahrt ist von der Hauptstraße aus etwas versteckt. Ein Tipp: Parken Sie rückwärts. So kommen Sie viel leichter wieder heraus. Und beim Verlassen der Klinik: Seien Sie an der Kreuzung (in beide Richtungen) mit den Straßenbahnschienen, die direkt hinter dem Tor verlaufen, besonders vorsichtig. Sonst könnte es passieren, dass Ihr Auto eine Schönheits-OP benötigt…",
+      "time": 1794066161,
+      "translated": true
     },
     {
       "author_name": "ClaudiaB",
@@ -1616,11 +1638,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 192,
+  "reviewCount": 193,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-19T14:06:44.213Z"
+  "lastUpdated": "2026-11-22T13:03:59.282Z"
 }

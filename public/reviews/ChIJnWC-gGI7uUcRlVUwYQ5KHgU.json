@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jihad Jabasiny",
+      "author_url": "https://www.google.com/maps/contrib/102961766990916393696/reviews",
+      "language": "ar",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDRhFTPJzlDhxATXCpWIyDNRt_3tYY8ybJiEflgLUw21j6Z5A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "زرنا عيادة الدكتور المعاملة جدا رائعة والطاقم ودود",
+      "time": 1795284038,
+      "translated": false
+    },
+    {
       "author_name": "بسام اامحمد",
       "author_url": "https://www.google.com/maps/contrib/111382450151192246681/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6xlxTq3P_OSqOpmsSnorjVVeviOtibDBq4D6qcW4N4zt-vWr0=s128-c0x00000000-cc-rp-mo",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQsUUqFFU-smWbhoZe_4NJ9-umkQBF8ZXXp7buq8jrvpBkiTfdGA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793303188,
+      "translated": false
+    },
+    {
+      "author_name": "بسام اامحمد",
+      "author_url": "https://www.google.com/maps/contrib/111382450151192246681/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQsUUqFFU-smWbhoZe_4NJ9-umkQBF8ZXXp7buq8jrvpBkiTfdGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793303188,
       "translated": false
@@ -1810,11 +1832,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 404,
+  "reviewCount": 405,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-19T14:06:38.028Z"
+  "lastUpdated": "2026-11-22T13:03:53.330Z"
 }

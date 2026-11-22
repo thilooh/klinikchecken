@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Hans-Jürgen",
+      "author_url": "https://www.google.com/maps/contrib/114647622430801075638/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2Gobe7jYHSmOA0hdEiZNiUMo4c8-scuQKm7g0_0IE-BeWPQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Behandlung: Laserbehandlungsberatung.\n\n75 Euro Selbstzahlertermin für eine Laserbehandlungsberatung.\n\nEs wurde keine Beratung für die Laserbehandlung geliefert sondern nur eine allgemeine Hautuntersuchung.\n\nEs wurde nur eine Broschüre ausgegeben mit den Preisen und kurz darüber gespochen dass es Sinn macht. Nach dem Termin auf Anfrage zum Preis kam dann im Gegensatz zur Broschüre ein erhöhtes Angebot (ca Doppelt so hoch). Es gab im Anschluss auch kein Einvernehmen trotz mehrfachem Kontakt für eine weitere anschließende Kostenlose Beratung (kostenlos) um das Angebot zu besprechen. Ich hätte wieder 75 Euro zahlen müssen. Fazit: Leider sehr kundenunfreundlich, schade. Ich hab mich nun für eine andere Praxis entschieden aufgrund günstigerem Preis aber auch einer deutlich ausführlicheren Beratung.",
+      "time": 1795171877,
+      "translated": false
+    },
+    {
+      "author_name": "Holger Berner",
+      "author_url": "https://www.google.com/maps/contrib/111740085646299269202/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrpf0074ZX0p5g5ZPFbL1kPUiRqnEC13zqYumRbnBxbMK_mg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin absolut zufrieden mit meiner Venentherapie bei Dr Tesmann und seinem Team. Es ist alles durchorganisiert vom Vorgespräch über die Behandlung bis zur Nachsorge. Man bekommt alles erklärt und zur Sicherheit noch alles schriftlich mit auf den Weg.",
+      "time": 1795114807,
+      "translated": false
+    },
+    {
       "author_name": "Maximilian Stamm",
       "author_url": "https://www.google.com/maps/contrib/109308699731222295956/reviews",
       "language": "de",
@@ -30,6 +54,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUI4h_cHRf9dskzhlZZjPJmM2Hby05fLLLMQDQ_GYpt-uJnFrsw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794734395,
+      "translated": false
+    },
+    {
+      "author_name": "E W",
+      "author_url": "https://www.google.com/maps/contrib/112864098080016062845/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUI4h_cHRf9dskzhlZZjPJmM2Hby05fLLLMQDQ_GYpt-uJnFrsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1794734395,
       "translated": false
@@ -1970,7 +2004,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 315,
+  "reviewCount": 317,
   "summary": [],
-  "lastUpdated": "2026-11-19T14:06:11.625Z"
+  "lastUpdated": "2026-11-22T13:03:26.954Z"
 }

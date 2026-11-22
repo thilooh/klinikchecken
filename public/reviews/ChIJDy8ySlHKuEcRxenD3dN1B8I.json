@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Felix Otto",
+      "author_url": "https://www.google.com/maps/contrib/102921494636677758986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWyjp1MC5gKAI5ZR6ep96w9c_RzhIJkDEC--v1PrCWsGV4tA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793898005,
+      "translated": false
+    },
+    {
       "author_name": "Michi Klaus",
       "author_url": "https://www.google.com/maps/contrib/108337869234791620461/reviews",
       "language": "de",
@@ -208,6 +218,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJze7iKOnuwtUg49ic_aBTUR4vTiKxHElUEHwPqcuu736RnFw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1790102707,
+      "translated": false
+    },
+    {
+      "author_name": "Jana Saul",
+      "author_url": "https://www.google.com/maps/contrib/104484943905886815557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJze7iKOnuwtUg49ic_aBTUR4vTiKxHElUEHwPqcuu736RnFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1790102707,
       "translated": false
@@ -1723,5 +1743,5 @@
   "rating": 4.5,
   "reviewCount": 245,
   "summary": [],
-  "lastUpdated": "2026-11-19T14:06:03.730Z"
+  "lastUpdated": "2026-11-22T13:03:19.145Z"
 }

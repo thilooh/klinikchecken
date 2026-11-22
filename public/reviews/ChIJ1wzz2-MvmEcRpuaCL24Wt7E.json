@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Gelu Emilian Cirstea",
+      "author_url": "https://www.google.com/maps/contrib/118128125470897113002/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFt2xL959AstDIEIVPnnN7QuC_KY7wnTywU6JzC97UDhZ-D8U=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795163359,
+      "translated": false
+    },
+    {
       "author_name": "Goran Lukic",
       "author_url": "https://www.google.com/maps/contrib/114002668426559964106/reviews",
       "language": "de",
@@ -85,6 +95,18 @@
       "translated": false
     },
     {
+      "author_name": "Siegfred Dohmen",
+      "author_url": "https://www.google.com/maps/contrib/110347094858625372807/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0Myn9fOrk-PmjNm8uv-iGVhT92E4OnPqogY1o6_h5CpgS2xo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Super Schnell, einen Ersatztermin bekommen.",
+      "time": 1792655846,
+      "translated": false
+    },
+    {
       "author_name": "Montz Daniel",
       "author_url": "https://www.google.com/maps/contrib/108175888119465388777/reviews",
       "language": "de",
@@ -140,6 +162,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ8rGFVgISNj8wRHENbZhzFI8L99_S2qNevD08Hu7epBSaIg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr nett Personal, der Arzt auch sehr freundlich und kompetent   Es wird einem alles genau erklärt . Sehr gut .",
+      "time": 1792578279,
+      "translated": false
+    },
+    {
+      "author_name": "Montz Daniel",
+      "author_url": "https://www.google.com/maps/contrib/108175888119465388777/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ8rGFVgISNj8wRHENbZhzFI8L99_S2qNevD08Hu7epBSaIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr nett Personal, der Arzt auch sehr freundlich und kompetent   Es wird einem alles genau erklärt . Sehr gut .",
       "time": 1792578279,
       "translated": false
@@ -1456,11 +1490,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:45.966Z"
+  "lastUpdated": "2026-11-22T13:04:01.011Z"
 }

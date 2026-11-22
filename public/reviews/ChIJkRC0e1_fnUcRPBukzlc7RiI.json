@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Spring Power",
+      "author_url": "https://www.google.com/maps/contrib/116485483227882805740/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbjkG0Pygq8Ot6GK0GQTavC6dLOzbm_VlDIPnigBVc85a_khUm=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Perfekter Service, immer professionell und freundlich.",
+      "time": 1795266589,
+      "translated": false
+    },
+    {
+      "author_name": "Valentyna Bondarenko",
+      "author_url": "https://www.google.com/maps/contrib/116959501714418057459/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDnI7cY-q0UZAgWDc193yYAaVGyQvEX8jzfJgkg1Y-zvpF8HT-=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "The appointment felt rushed, and I didn’t feel the doctor took much time to hear me out. I had to ask follow-up questions and even then, the answers were mostly a brief yes or no with little explanation, when i wanted to understand the process behind. I got the impression that my questions were a bother, which made me feel uncomfortable asking more.\n\nI’m covered by public health insurance but paid for the visit myself. I left with some of my concerns still unresolved and ended up going to another practice.",
+      "time": 1795167065,
+      "translated": false
+    },
+    {
       "author_name": "23121946",
       "author_url": "https://www.google.com/maps/contrib/109478070829780766312/reviews",
       "language": "de",
@@ -56,6 +80,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpFJibqpzbPNyeyX-9T3E-2BZ7XNTLKlmWoDgUVuSr3LoKTg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war hier wegen mehrerer Warzen am Fuß in Behandlung. Da ich gesetzlich versichert bin, musste ich es selber zahlen, aber nach Aussage meiner (gesetzlichen) Hautärztin hätte da nur Lasern etwas bewirkt. Positiv war, dass die Behandlungskosten hier in dieser Praxis etwa bei der Hälfte lagen von dem, was mir meine (gesetzliche) Hautärztin als IGL-Leistung aufschwatzen wollte.\n\nIch habe 7 Termine benötigt und habe mich bei jedem Termin gut aufgehoben gefühlt. Ich hatte nicht das Gefühl, dass ich hier in dieser Praxis länger als nötig behandelt wurde. Das ganze Praxisteam war dabei auch stets freundlich.",
+      "time": 1792862627,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Matschinski",
+      "author_url": "https://www.google.com/maps/contrib/117541261485827781990/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpFJibqpzbPNyeyX-9T3E-2BZ7XNTLKlmWoDgUVuSr3LoKTg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Ich war hier wegen mehrerer Warzen am Fuß in Behandlung. Da ich gesetzlich versichert bin, musste ich es selber zahlen, aber nach Aussage meiner (gesetzlichen) Hautärztin hätte da nur Lasern etwas bewirkt. Positiv war, dass die Behandlungskosten hier in dieser Praxis etwa bei der Hälfte lagen von dem, was mir meine (gesetzliche) Hautärztin als IGL-Leistung aufschwatzen wollte.\n\nIch habe 7 Termine benötigt und habe mich bei jedem Termin gut aufgehoben gefühlt. Ich hatte nicht das Gefühl, dass ich hier in dieser Praxis länger als nötig behandelt wurde. Das ganze Praxisteam war dabei auch stets freundlich.",
       "time": 1792862627,
       "translated": false
@@ -1192,7 +1228,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 125,
+  "reviewCount": 127,
   "summary": [],
-  "lastUpdated": "2026-11-19T14:06:07.897Z"
+  "lastUpdated": "2026-11-22T13:03:23.258Z"
 }

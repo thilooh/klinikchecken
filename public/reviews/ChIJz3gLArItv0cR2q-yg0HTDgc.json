@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Hakan Dinc",
+      "author_url": "https://www.google.com/maps/contrib/100629443456015674217/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZLx55fTW-CJSjfpzk8j2jfAK8IXGokQR1YXdbigxcsXH9PyTm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "I was welcomed in an extremely friendly and warm manner. The practice is staffed by highly professional individuals. Dr. Omaj explained my issue very clearly and found a solution. I am very satisfied with Dr. Omaj and would recommend him to anyone.",
+      "time": 1795168339,
+      "translated": false
+    },
+    {
       "author_name": "Oliver Bargfeld",
       "author_url": "https://www.google.com/maps/contrib/115438739737759615385/reviews",
       "language": "de",
@@ -1757,7 +1769,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 317,
+  "reviewCount": 318,
   "summary": [],
-  "lastUpdated": "2026-11-19T14:06:04.661Z"
+  "lastUpdated": "2026-11-22T13:03:19.983Z"
 }

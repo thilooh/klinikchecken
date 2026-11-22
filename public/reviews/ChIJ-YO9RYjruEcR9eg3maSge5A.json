@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Emer Bingöl",
+      "author_url": "https://www.google.com/maps/contrib/114941803530427987740/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3Fd0Xm4eX85dkivK9sNeo9QdVJ69yfl6n-277Skl5zpi2cg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mir wird gesagt du kannst rein kommen mir Wartezeit, dann geh ich dahin und werde zurück gewiesen, sehr unfreundlich, mir wurde keiner Weise geholfen.\nWürde nie wieder dahin und empfehle ich auch nicht.",
+      "time": 1795103666,
+      "translated": false
+    },
+    {
       "author_name": "Damir Jasarevic",
       "author_url": "https://www.google.com/maps/contrib/104943289247130300761/reviews",
       "language": "de",
@@ -1660,11 +1672,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 157,
+  "reviewCount": 158,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:37.295Z"
+  "lastUpdated": "2026-11-22T13:03:52.568Z"
 }

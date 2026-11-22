@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sven Beuster",
+      "author_url": "https://www.google.com/maps/contrib/103508793846222997152/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-3yXXHR0osQ9Fp3xN5_cQHhEKgYSeuUFZyN4KhVK3nuEbb7cP=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Als Schmerz - und Akutpatient abgewiesen worden. Kann kaum laufen und trotzdem \"Termine erst im neuen Jahr...\"!!!\n\nWas ist aus dem Hyppokratischen Eid geworden?!?!?!?",
+      "time": 1795098649,
+      "translated": false
+    },
+    {
       "author_name": "M. C.",
       "author_url": "https://www.google.com/maps/contrib/104214957440278933067/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNw0L6UP4mkBS0-cOE8zp6st1NAJybOuGXDk1XzgnVNWufrg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Gut strukturierte Praxis, aus meiner Sicht leider bei der Behandlung mit Tempo, aber ein gutes Gefühl. Der letzte Besuch hat mich überzeugt, da bin ich gut aufgehoben!",
+      "time": 1793993711,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas NRWMG",
+      "author_url": "https://www.google.com/maps/contrib/108070658188641315111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNw0L6UP4mkBS0-cOE8zp6st1NAJybOuGXDk1XzgnVNWufrg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Gut strukturierte Praxis, aus meiner Sicht leider bei der Behandlung mit Tempo, aber ein gutes Gefühl. Der letzte Besuch hat mich überzeugt, da bin ich gut aufgehoben!",
       "time": 1793993711,
       "translated": false
@@ -1367,12 +1391,12 @@
       "translated": false
     }
   ],
-  "rating": 4.8,
-  "reviewCount": 110,
+  "rating": 4.7,
+  "reviewCount": 111,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-19T14:06:35.013Z"
+  "lastUpdated": "2026-11-22T13:03:50.304Z"
 }

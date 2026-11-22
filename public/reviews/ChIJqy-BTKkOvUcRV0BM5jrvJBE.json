@@ -71,6 +71,16 @@
       "translated": false
     },
     {
+      "author_name": "Liana Saicu",
+      "author_url": "https://www.google.com/maps/contrib/112907203958324595603/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXKsZGnc37pvhW1gfEgOmRt0EWUAKl3uv3e8XgsG1DkN_-Qqtayg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1792596934,
+      "translated": false
+    },
+    {
       "author_name": "vo ki",
       "author_url": "https://www.google.com/maps/contrib/110453493058226587799/reviews",
       "language": "de",
@@ -270,6 +280,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5hu4c4QhLUxi8gywR3TUYYw4LLZajQ_Dr9Y36iSI8Y2DiPQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Toller Arzt, tolles Team und schöne Praxis! Man fühlt sich rundum wohl und gut aufgehoben. Kann ich vom Herzen empfehlen!",
+      "time": 1790077638,
+      "translated": false
+    },
+    {
+      "author_name": "Suzana Harazim",
+      "author_url": "https://www.google.com/maps/contrib/102898876950096416913/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5hu4c4QhLUxi8gywR3TUYYw4LLZajQ_Dr9Y36iSI8Y2DiPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Toller Arzt, tolles Team und schöne Praxis! Man fühlt sich rundum wohl und gut aufgehoben. Kann ich vom Herzen empfehlen!",
       "time": 1790077638,
       "translated": false
@@ -828,5 +850,5 @@
   "rating": 4.8,
   "reviewCount": 80,
   "summary": [],
-  "lastUpdated": "2026-11-19T14:06:05.186Z"
+  "lastUpdated": "2026-11-22T13:03:20.576Z"
 }

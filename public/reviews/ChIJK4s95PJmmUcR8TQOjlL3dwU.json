@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Malcolm Toles",
+      "author_url": "https://www.google.com/maps/contrib/108619484278430551771/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIJzWuff7kX-GgN5MR9PMBV5Ro3WR2dzWfBE22Qk_dcai2yw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐ **Ein außergewöhnlicher Arzt – fachlich und menschlich eine absolute Bereicherung!**\n\nDr. Achim Jerg ist für mich ein Arzt, wie man ihn sich nur wünschen kann!\n\nSchon beim ersten Kontakt hatte ich das Gefühl, hier bei jemandem zu sein, der sein Fach nicht nur versteht, sondern seinen Beruf mit echter Leidenschaft ausübt.\n\nMein gesundheitliches Problem wurde schnell erkannt, ernst genommen und die notwendigen weiteren Schritte wurden ohne langes Zögern eingeleitet. Dabei beeindruckt mich besonders seine enorme Fachkompetenz, seine Aufmerksamkeit und sein außergewöhnliches Engagement.\n\nWas Dr. Jerg aber wirklich von vielen anderen Ärzten unterscheidet, ist seine Menschlichkeit. Er hört zu, nimmt sich Zeit, erklärt verständlich und vermittelt einem das Gefühl, nicht einfach nur ein weiterer Patient zu sein.\n\nMan spürt, dass ihm das Wohl seiner Patienten wirklich am Herzen liegt – und zwar weit über das übliche Maß hinaus.\n\n**Ein Arzt, der nicht nur Symptome betrachtet, sondern den Menschen dahinter sieht.**\n\nDiese Kombination aus medizinischer Kompetenz, Empathie, Engagement und persönlicher Betreuung ist heutzutage leider nicht selbstverständlich.\n\nIch fühle mich bei Dr. Jerg zu 100 % verstanden, ernst genommen und bestens betreut.\n\n**Meine uneingeschränkte Empfehlung für alle, die einen fachlich herausragenden und gleichzeitig außergewöhnlich menschlichen Arzt suchen.**\n\nVielen herzlichen Dank, Dr. Jerg! Bitte bleiben Sie genauso, wie Sie sind. Ärzte wie Sie machen einen echten Unterschied! 👏🙏🏽",
+      "time": 1795193191,
+      "translated": false
+    },
+    {
       "author_name": "Fabian Michailidis",
       "author_url": "https://www.google.com/maps/contrib/115271986397915919249/reviews",
       "language": "de",
@@ -92,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPZrixb73VsfjhTjO9gXveM5LVog8woN00hz05qqKj_8XrIKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Ein großes Lob an Frau Claudia! Sehr freundlich, ehrlich und hilfsbereit am Telefon. So eine angenehme und kompetente Art erlebt man heutzutage wirklich selten. Sie nimmt sich Zeit und begegnet einem mit Respekt und Offenheit. Solche Mitarbeiterinnen sind ein echter Gewinn für jede Praxis. Vielen Dank für das freundliche Gespräch und weiter so!",
+      "time": 1792509424,
+      "translated": false
+    },
+    {
+      "author_name": "Firat Ertürk",
+      "author_url": "https://www.google.com/maps/contrib/115233582452748981388/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPZrixb73VsfjhTjO9gXveM5LVog8woN00hz05qqKj_8XrIKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Ein großes Lob an Frau Claudia! Sehr freundlich, ehrlich und hilfsbereit am Telefon. So eine angenehme und kompetente Art erlebt man heutzutage wirklich selten. Sie nimmt sich Zeit und begegnet einem mit Respekt und Offenheit. Solche Mitarbeiterinnen sind ein echter Gewinn für jede Praxis. Vielen Dank für das freundliche Gespräch und weiter so!",
       "time": 1792509424,
       "translated": false
@@ -1178,11 +1202,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 146,
+  "reviewCount": 147,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:23.768Z"
+  "lastUpdated": "2026-11-22T13:03:39.167Z"
 }

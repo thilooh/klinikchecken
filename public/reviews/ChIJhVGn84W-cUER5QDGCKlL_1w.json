@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Yu Na",
+      "author_url": "https://www.google.com/maps/contrib/114069066371390146492/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIU7t8HU5uC35W__gT-wjReQer8CFQrL1zHrlpO4b8K6yjuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795164537,
+      "translated": false
+    },
+    {
       "author_name": "Malika Bertholdt",
       "author_url": "https://www.google.com/maps/contrib/117259104694459901581/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8FPtA2r7JFilwIp7rMtwx7R_-FPkeVY8lpALbN-4_Z18Ok2Te=s128-c0x00000000-cc-rp-mo-ba2",
@@ -46,6 +56,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7y3ljGU7a1rxBY_HVm0FF51RxJ4U7xt_4FCTxFORsLUczxg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793461036,
+      "translated": false
+    },
+    {
+      "author_name": "Johannes Holter",
+      "author_url": "https://www.google.com/maps/contrib/107571042184195733156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7y3ljGU7a1rxBY_HVm0FF51RxJ4U7xt_4FCTxFORsLUczxg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793461036,
       "translated": false
@@ -111,6 +131,18 @@
       "translated": false
     },
     {
+      "author_name": "T. Peters",
+      "author_url": "https://www.google.com/maps/contrib/116679619708709175755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaaybTQtEWSy9FK9qSWGRpvPnBMgXHM0tqR0mNhFenOl2pQCjgjg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr gut organisiert.  Sehr nette und kompetente Mitarbeiter.",
+      "time": 1792510113,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Caroli",
       "author_url": "https://www.google.com/maps/contrib/105231204293358593141/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcMAwP8ZjpjH5prpB5sLuVj5hYyl4QAgVHiS6RjOvMzluVNA=s128-c0x00000000-cc-rp-mo-ba4",
@@ -156,6 +188,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcMAwP8ZjpjH5prpB5sLuVj5hYyl4QAgVHiS6RjOvMzluVNA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1792505694,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas Caroli",
+      "author_url": "https://www.google.com/maps/contrib/105231204293358593141/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcMAwP8ZjpjH5prpB5sLuVj5hYyl4QAgVHiS6RjOvMzluVNA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1792505694,
       "translated": false
@@ -1584,11 +1626,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 102,
+  "reviewCount": 103,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:34.646Z"
+  "lastUpdated": "2026-11-22T13:03:49.962Z"
 }

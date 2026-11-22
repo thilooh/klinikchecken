@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "clarissa Attanasio",
+      "author_url": "https://www.google.com/maps/contrib/107578072886870642116/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuvEYGC1AjDVhDsHN7uNV2HjmYPlqOZ60Pp3iAa0oMmmDsPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin sehr zufrieden mit der Behandlung und Betreuung in dieser Hautarztpraxis. Vor zwei Wochen wurde bei mir ein Melanom entdeckt und anschließend entfernt. Vom ersten Moment an habe ich mich sehr gut aufgehoben und wohlgefühlt.\n\nDer Arzt hat alles sehr professionell, sorgfältig und verständlich durchgeführt. Auch das gesamte Team war freundlich und einfühlsam.\n\nGerade bei einer solchen Diagnose ist es besonders wichtig, Vertrauen zu haben und sich gut betreut zu fühlen. Dafür möchte ich mich ganz herzlich bedanken.\n\nIch kann diese Praxis uneingeschränkt weiterempfehlen!",
+      "time": 1795157553,
+      "translated": false
+    },
+    {
       "author_name": "Holger Drein",
       "author_url": "https://www.google.com/maps/contrib/106543985151397238701/reviews",
       "language": "de",
@@ -1760,11 +1772,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 247,
+  "reviewCount": 248,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:19.992Z"
+  "lastUpdated": "2026-11-22T13:03:35.334Z"
 }

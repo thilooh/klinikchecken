@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Barbara Frank",
+      "author_url": "https://www.google.com/maps/contrib/113778839469268498288/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQVQLlqIW27DnSGTEQwqTC88ksuhCx50Xv5Dq2YZK2OixX=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr lange Wartezeit, Empfangsdesks etwas chaotisch",
+      "time": 1795181222,
+      "translated": false
+    },
+    {
+      "author_name": "Angelina Gerundt",
+      "author_url": "https://www.google.com/maps/contrib/103949156421437648340/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8tyX4vEIh620CTuegD62uGleB9mC8tYTtEybc_uchQ0TDuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wir waren heute zum ersten Mal mit unserem einjährigen Kleinkind da, weil dieses einen hartnäckigen Ausschlag hat. Es war sehr voll und trotzdem war das Personal sehr freundlich und zuvorkommend zu uns. Sie haben extra geschaut, dass sie uns schneller dran bekommen, da so ein kleines Kind keine ewigen Wartezeiten aushält und das fanden wir richtig klasse! Wäre nur ich da gewesen, hätte ich auch problemlos gewartet, da mir bewusst ist, dass Hautärzte total überlaufen sind. Diese Rücksichtnahme auf ein Kleinkind (ohne dass wir sie darum gebeten haben) gibt hier aber absolute Pluspunkte!\nHerr Dr. Arnold wirkte auf uns sehr kompetent und war ebenfalls sehr freundlich. Gerne wieder!",
+      "time": 1795173142,
+      "translated": false
+    },
+    {
+      "author_name": "Sasa",
+      "author_url": "https://www.google.com/maps/contrib/103614000119672177483/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGJT8fhkAVHgaAQdSAfW77fo9zD_Y336i-2Kzj6qpwe-3xfv_XMA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Furchtbar !\n3 Monate auf Termin gewartet der auf 18.00 gemacht wurde kurz nach 19.00 dran gekommen damit der Arzt erst mal sagt er hat eigentlich nicht so viel Zeit weil er schon Feierabend hat hab auf Behandlung bestanden wurde ich genau 3 Minuten angeschaut. Und tschüss.\nAbfertigungs system sonst nichts .",
+      "time": 1795156867,
+      "translated": false
+    },
+    {
+      "author_name": "Sy",
+      "author_url": "https://www.google.com/maps/contrib/109281252833265328196/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBFTi0WNEHB7YqUaNBJBzGraLyAOwGZVBgHWwCPw2x9202dmsL=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795098199,
+      "translated": false
+    },
+    {
       "author_name": "Andreas Schiffert",
       "author_url": "https://www.google.com/maps/contrib/100888230683337325136/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOQUmQtFW8j3TbWUzUtmpMtNMVdRZdwyfcbdrwboOwrZIu=s128-c0x00000000-cc-rp-mo",
@@ -1944,11 +1990,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 217,
+  "reviewCount": 221,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:46.235Z"
+  "lastUpdated": "2026-11-22T13:04:01.257Z"
 }

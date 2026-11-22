@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Anton Walter",
+      "author_url": "https://www.google.com/maps/contrib/109643964112489255093/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAQ3rs6_7aoBEheTP-O6wqkKZpELuLkzCzJBrJZ9nzP6nbBapW=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr schöne freundliche Arztpraxis, freundliches Team.",
+      "time": 1794591004,
+      "translated": false
+    },
+    {
       "author_name": "Robert Gietl",
       "author_url": "https://www.google.com/maps/contrib/104097717303258337198/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVK2W8YOYKtbWUpE_hgQtSiGLVXD4dBuulggYu-8rymSVv9h_US=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Wurde sehr gut beraten und die Behandlung war Top\nTolles Team",
+      "time": 1794042198,
+      "translated": false
+    },
+    {
+      "author_name": "Robert Gietl",
+      "author_url": "https://www.google.com/maps/contrib/104097717303258337198/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVK2W8YOYKtbWUpE_hgQtSiGLVXD4dBuulggYu-8rymSVv9h_US=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Wurde sehr gut beraten und die Behandlung war Top\nTolles Team",
       "time": 1794042198,
       "translated": false
@@ -820,5 +844,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-19T14:06:26.568Z"
+  "lastUpdated": "2026-11-22T13:03:41.966Z"
 }

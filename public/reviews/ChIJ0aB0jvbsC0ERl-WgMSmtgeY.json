@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Steffen Plan",
+      "author_url": "https://www.google.com/maps/contrib/114184491250777623675/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsOBN4Ech3Z1tTL7N_WnwM0gBHiPCX1vnfElXrvheyribTVw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "War sehr zufrieden. Gute Parkmöglichkeit. Ich hatte keine längere Wartezeit. Sehr freundliches Personal.",
+      "time": 1795334522,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Hagmann (Hagi)",
+      "author_url": "https://www.google.com/maps/contrib/110864072195072690864/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0WIIImiMXxiDXYsBsxRNGFGc9iK3hekRMz2PSP5m_xK9FYA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Waren heute zur Nachkontrolle im Venenzentrum in Pforzheim . Über die Parkmöglichkeiten direkt davor und dem Barrierefreien Zugang mit dem Fahrstuhl bis zur Rezeption und dem freundlichen Personal bzw. Arzthelferinen ist es schon sehr angenehm und einfach bis zur\nPraxis zu gelangen - speziell für Patienten die eben nicht so gut zu Fuss sind. Die angenehme Atmosphäre in der Praxis , das Personal , Sauberkeit usw. wirkt einfach angenehm , beruhigend und Professionell . Der anschließende Besuch bei Hr.Dr.med. Neugebauer , welcher im September 2026 auch die nicht ganz einfache Behandlung an den Venen\nmeines rechten Beines durchführte\nund der heutige Termin der Nachkontrolle lässt einem die Angst\nvor dem Eingriff nehmen . Er versprüht eine Frische und Offenheit mit einem sofortigem Gefühl des\nVertauens  wenn er das Behandlungszimmer betritt gepaart mit einer erstklassigen Professionalität vom Beginn der Behandlung bis zum Schluss . Auch lernten wir im Wartezimmer Patienten kennen , die wegen des guten  Rufes dieser Gemeinschaftspraxis von sehr weit her kamen . Wir können diese Praxis jederzeit und mit gutem Gewissen weiterempfehle\nNicole Mühl",
+      "time": 1795178945,
+      "translated": false
+    },
+    {
       "author_name": "Werner Hahn",
       "author_url": "https://www.google.com/maps/contrib/109276136549102882200/reviews",
       "language": "de",
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUATqUq1rSGTS4AP2CjSU1MEAviPHsVCJZdDSczWKkSMLw1xAbzzw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Top Spezi vom Fach👍",
+      "time": 1793385083,
+      "translated": false
+    },
+    {
+      "author_name": "Jörg Fickenscher",
+      "author_url": "https://www.google.com/maps/contrib/103725788144787284913/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUATqUq1rSGTS4AP2CjSU1MEAviPHsVCJZdDSczWKkSMLw1xAbzzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Top Spezi vom Fach👍",
       "time": 1793385083,
       "translated": false
@@ -1704,11 +1740,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 172,
+  "reviewCount": 174,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:46.728Z"
+  "lastUpdated": "2026-11-22T13:04:01.762Z"
 }

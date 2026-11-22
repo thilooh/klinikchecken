@@ -73,6 +73,18 @@
       "translated": true
     },
     {
+      "author_name": "BASSAM 1990",
+      "author_url": "https://www.google.com/maps/contrib/114475413569337201705/reviews",
+      "language": "de",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVExC_IyVlsqdn58b-wZX0KfUVEB8tROTqv52fbSkb9ONXsRP70JQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich war bei Dr. Ismail Shehadeh. Er war sehr freundlich und respektvoll und besaß die außergewöhnliche Ethik eines angesehenen Arztes.",
+      "time": 1793335315,
+      "translated": true
+    },
+    {
       "author_name": "Esther Pierog",
       "author_url": "https://www.google.com/maps/contrib/114026470687585117040/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi00GY5ya6_bESl-29nLOMEBxXktnDgy9thw_RejPx_GPQM3q7sg=s128-c0x00000000-cc-rp-mo",
@@ -113,6 +125,16 @@
       "translated": false
     },
     {
+      "author_name": "Esther Pierog",
+      "author_url": "https://www.google.com/maps/contrib/114026470687585117040/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi00GY5ya6_bESl-29nLOMEBxXktnDgy9thw_RejPx_GPQM3q7sg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1792768046,
+      "translated": false
+    },
+    {
       "author_name": "Michael Roxlau",
       "author_url": "https://www.google.com/maps/contrib/103494587956672467534/reviews",
       "language": "de",
@@ -156,6 +178,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy4Dga8OcFHoXsBIzQVqUM4yQKWn-gdWf0pedzlPxGNrIpGQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Fühle mich sehr gut aufgehoben.",
+      "time": 1792695658,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Roxlau",
+      "author_url": "https://www.google.com/maps/contrib/103494587956672467534/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy4Dga8OcFHoXsBIzQVqUM4yQKWn-gdWf0pedzlPxGNrIpGQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Fühle mich sehr gut aufgehoben.",
       "time": 1792695658,
       "translated": false
@@ -206,6 +240,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKch3VDlcof_xbC31jBIHgJvSk6JakGBNtXl0Qdz9qwhGh58g=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1792573576,
+      "translated": false
+    },
+    {
+      "author_name": "Angela Geckert",
+      "author_url": "https://www.google.com/maps/contrib/104381373755365502430/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKch3VDlcof_xbC31jBIHgJvSk6JakGBNtXl0Qdz9qwhGh58g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1792573576,
       "translated": false
@@ -1856,5 +1900,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:38.529Z"
+  "lastUpdated": "2026-11-22T13:03:53.833Z"
 }

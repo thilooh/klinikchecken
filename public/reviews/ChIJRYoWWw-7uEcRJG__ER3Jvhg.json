@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tanja de Bruijn",
+      "author_url": "https://www.google.com/maps/contrib/103968517790948975457/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUOxvTL-xOSVcfGSd37PjX2JDcG561_1QUMG2FUInZni_s-n36-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Einfach nur ein großartiger Arzt mit einem großartigen Team. Er nimmt sich Zeit, hat großes Fachwissen, Emphatie und ist sooo sympathisch! Die Räume sind sehr geschmackvoll und man fühlt sich absolut wohl. Ich komme sehr gerne wieder :-)",
+      "time": 1795123492,
+      "translated": false
+    },
+    {
       "author_name": "King Körby",
       "author_url": "https://www.google.com/maps/contrib/112523470241586440234/reviews",
       "language": "de",
@@ -49,6 +61,18 @@
       "translated": false
     },
     {
+      "author_name": "Amira Patrizia",
+      "author_url": "https://www.google.com/maps/contrib/100172712455305093033/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKF-UgehrapoATwxigM5EHM0zpTmSdZdTUyYHaysW_zNaWZw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Die Bewertungen schreien nach Betrug. Eine überhebliche Praxis die mit Laser werben die sie gar nicht besitzen und am Ende werden nicht mal Absprachen eingehalten. Meiner Meinung nach absolute Vorsicht",
+      "time": 1793453385,
+      "translated": false
+    },
+    {
       "author_name": "Nour Najem",
       "author_url": "https://www.google.com/maps/contrib/101870795146814751269/reviews",
       "language": "de",
@@ -83,6 +107,18 @@
       "text": "I came all the way from Dubai to visit Dr. Aleo, and honestly, I didn’t expect these results from PRP and Monaco Cocktail ! I’ve never experienced these treatments with so much care and attention. He spent 45 minutes on my face, treating every area so generously. The glow is insane!\n\nThe service is five stars, but what stayed with me most was how I felt from the moment I walked in, completely at home. There’s so much warmth, love, and kindness in that clinic, and it all starts with the person behind it.\n\nDr. Aleo, you put your heart into what you do, and it shows. Please make monthly visits to Dubai,we need you there! 🤍",
       "time": 1793310293,
       "translated": false
+    },
+    {
+      "author_name": "Nour Najem",
+      "author_url": "https://www.google.com/maps/contrib/101870795146814751269/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJITr3sACtp_MtRvNbYEbBAtyfbIzyV3Sg8nb8q3rmxNPMwXjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Ich bin extra aus Dubai angereist, um Dr. Aleo zu besuchen, und ehrlich gesagt, hätte ich diese Ergebnisse von PRP und dem Monaco Cocktail nicht erwartet! Ich habe diese Behandlungen noch nie mit so viel Sorgfalt und Aufmerksamkeit erlebt. Er hat sich 45 Minuten Zeit für mein Gesicht genommen und jede Stelle großzügig behandelt. Der Glow ist unglaublich!\n\nDer Service ist erstklassig, aber am meisten beeindruckt hat mich, wie wohl ich mich vom ersten Moment an gefühlt habe. In dieser Klinik herrscht so viel Wärme, Liebe und Freundlichkeit, und das alles verdanke ich dem Menschen dahinter.\n\nDr. Aleo, Sie machen Ihre Arbeit mit Herzblut, und das merkt man. Bitte kommen Sie monatlich nach Dubai, wir brauchen Sie dort! 🤍",
+      "time": 1793310293,
+      "translated": true
     },
     {
       "author_name": "Ay Lin",
@@ -1894,11 +1930,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 242,
+  "reviewCount": 243,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-19T14:06:36.292Z"
+  "lastUpdated": "2026-11-22T13:03:51.565Z"
 }

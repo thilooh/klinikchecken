@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "sineeemnur",
+      "author_url": "https://www.google.com/maps/contrib/112261779940926614013/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7sB-lhM219H9vvMQRNHZifzQk6ZmjuvuMQ9BPXUSlQ5mJm7wg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach langen Versuchen die Praxis telefonisch zu erreichen, kam ich endlich durch um einen Kontrolltermin zu vereinbaren. Um dann aber gesagt zu bekommen, dass meine Schwester und ich uns einen neuen Arzt finden müssen, da die Praxis kein Lipödem mehr behandelt.\nUnd dann wurde uns auch noch dreist gesagt, das wir sowieso schon zu lange nicht mehr in der Praxis waren, obwohl nach Absprache mit der Ärztin diese Zeiträume für Kontrollen gewählt wurden.\n\nEcht schade, da die Erkrankung Lipödem endlich etwas Beachtung kriegt..",
+      "time": 1795188634,
+      "translated": false
+    },
+    {
       "author_name": "Rocky",
       "author_url": "https://www.google.com/maps/contrib/102713209329686486821/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvX1TxCP8I2_x_Bq-I3Yl5IDwk5PExZbQcVWvEiLN-fyA0AQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Ärzte und ein sehr sehr nettes Personal.",
+      "time": 1794129352,
+      "translated": false
+    },
+    {
+      "author_name": "Ahmet Zahic",
+      "author_url": "https://www.google.com/maps/contrib/116063621075899470583/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvX1TxCP8I2_x_Bq-I3Yl5IDwk5PExZbQcVWvEiLN-fyA0AQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr gute Ärzte und ein sehr sehr nettes Personal.",
       "time": 1794129352,
       "translated": false
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0mYgvm6P4NZrStcadFkvbX0jv87uxukMyHpDXclR7SkMIfRU=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Was ich vor Ort direkt schon los geworden bin, lasse ich gerne auch hier nochmal da.\nIch habe mich sooo wohl gefühlt. ALLE Mitarbeiter und auch Dr. Scheffer waren so mega freundlich. Sowas hab ich schon lange nicht mehr erlebt. Macht bitte weiter so! Erstklassige Praxis ❤️",
+      "time": 1793965488,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah",
+      "author_url": "https://www.google.com/maps/contrib/100316747752103811707/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0mYgvm6P4NZrStcadFkvbX0jv87uxukMyHpDXclR7SkMIfRU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Was ich vor Ort direkt schon los geworden bin, lasse ich gerne auch hier nochmal da.\nIch habe mich sooo wohl gefühlt. ALLE Mitarbeiter und auch Dr. Scheffer waren so mega freundlich. Sowas hab ich schon lange nicht mehr erlebt. Macht bitte weiter so! Erstklassige Praxis ❤️",
       "time": 1793965488,
       "translated": false
@@ -1126,11 +1162,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 95,
+  "reviewCount": 96,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:18.243Z"
+  "lastUpdated": "2026-11-22T13:03:33.589Z"
 }

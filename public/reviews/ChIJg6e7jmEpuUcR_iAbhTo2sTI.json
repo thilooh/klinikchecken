@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Taroub El.",
+      "author_url": "https://www.google.com/maps/contrib/105001558504390350153/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDK-wqHohNSykPYuSQPysUM3JRdMfW_6Zpw4l2imVVZj8ufnHL=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein Vater war über zwei Jahre bei Dr. Nasif in Behandlung und wir sind rundum zufrieden. Er wurde während der gesamten Zeit hervorragend betreut und behandelt. Dr. Nasif ist sehr kompetent, freundlich und nimmt sich Zeit für seine Patienten.\nAuch das gesamte Praxisteam, insbesondere die Helferinnen, war stets unglaublich freundlich, herzlich und hilfsbereit.\nEin großes Dankeschön an Dr. Nasif und sein gesamtes Team für die tolle Betreuung. Wir können die Praxis uneingeschränkt weiterempfehlen!",
+      "time": 1795196520,
+      "translated": false
+    },
+    {
       "author_name": "Khadija",
       "author_url": "https://www.google.com/maps/contrib/117410373275856929447/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI__G1IK2jtMjqlEitAC531wyPB_5Ky2aNAui7vJdxMmyGeYg=s128-c0x00000000-cc-rp-mo-ba3",
@@ -18,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoJ47klDSDMp8FGU4mjLlDVYo5sGZvYHimkDlaYoXA7Uf7zMXZUQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ein äußerst professioneller, kompetenter und hilfsbereiter Arzt, bei dem man sich bestens aufgehoben fühlt. Ich war aufgrund einer Verletzung in Behandlung und habe während der gesamten Behandlungszeit sehr positive Erfahrungen gemacht. Meine Beschwerden wurden ernst genommen, und ich wurde mit großer Sorgfalt, Geduld und Fachkompetenz betreut. Der Arzt nimmt sich Zeit für seine Patienten und geht individuell auf ihre Bedürfnisse ein.\n\nAuch das gesamte Praxisteam ist ausgesprochen freundlich, herzlich und aufmerksam. Man wird immer mit einem Lächeln empfangen und fühlt sich rundum gut betreut.\n\nIch bin sehr dankbar für die hervorragende medizinische Betreuung und kann den Arzt und sein Team von Herzen weiterempfehlen!",
+      "time": 1794578367,
+      "translated": false
+    },
+    {
+      "author_name": "Bengü Su",
+      "author_url": "https://www.google.com/maps/contrib/108974056500166487665/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoJ47klDSDMp8FGU4mjLlDVYo5sGZvYHimkDlaYoXA7Uf7zMXZUQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ein äußerst professioneller, kompetenter und hilfsbereiter Arzt, bei dem man sich bestens aufgehoben fühlt. Ich war aufgrund einer Verletzung in Behandlung und habe während der gesamten Behandlungszeit sehr positive Erfahrungen gemacht. Meine Beschwerden wurden ernst genommen, und ich wurde mit großer Sorgfalt, Geduld und Fachkompetenz betreut. Der Arzt nimmt sich Zeit für seine Patienten und geht individuell auf ihre Bedürfnisse ein.\n\nAuch das gesamte Praxisteam ist ausgesprochen freundlich, herzlich und aufmerksam. Man wird immer mit einem Lächeln empfangen und fühlt sich rundum gut betreut.\n\nIch bin sehr dankbar für die hervorragende medizinische Betreuung und kann den Arzt und sein Team von Herzen weiterempfehlen!",
       "time": 1794578367,
       "translated": false
@@ -1650,11 +1674,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 186,
+  "reviewCount": 187,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:20.249Z"
+  "lastUpdated": "2026-11-22T13:03:35.585Z"
 }

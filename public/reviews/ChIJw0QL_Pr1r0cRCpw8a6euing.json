@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Пав Поп",
+      "author_url": "https://www.google.com/maps/contrib/107468743303403503357/reviews",
+      "language": "ru",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWf-YblJ3lMv4CuchodTbmACnyzbMpofppzp1dYfz0KBoE8VyZ3FA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Русскоязычный доктор. В целом приятная атмосфера как для праксиса. С верху ресторан, тоже хорош",
+      "time": 1795275593,
+      "translated": false
+    },
+    {
       "author_name": "Henning Gieseke",
       "author_url": "https://www.google.com/maps/contrib/115442436710807328199/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwiU6cwmvEt-uOybaewVuPbfLWeuQ1IhsjgRVBRH3iHfmViw=s128-c0x00000000-cc-rp-mo-ba4",
@@ -52,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkUJArKEKbBkWGya0hPpVP4VYaNb6D6mhqqf1gQhgFmyyGCSI=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Würde vor der OP gut informiert.\nWürde jederzeit wieder dort hin gehen.",
+      "time": 1793358600,
+      "translated": false
+    },
+    {
+      "author_name": "Bärbel",
+      "author_url": "https://www.google.com/maps/contrib/111409710315938944189/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkUJArKEKbBkWGya0hPpVP4VYaNb6D6mhqqf1gQhgFmyyGCSI=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Würde vor der OP gut informiert.\nWürde jederzeit wieder dort hin gehen.",
       "time": 1793358600,
       "translated": false
@@ -1658,11 +1682,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 171,
+  "reviewCount": 172,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-11-19T14:06:15.444Z"
+  "lastUpdated": "2026-11-22T13:03:30.786Z"
 }

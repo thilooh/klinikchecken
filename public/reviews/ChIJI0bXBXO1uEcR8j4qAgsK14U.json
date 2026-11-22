@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "viktor andok",
+      "author_url": "https://www.google.com/maps/contrib/100255570156293120916/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgN6IS4R6EmgUXze0RsVRC3b6-ZrWcIOOpVy985z_uNRNidA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit meiner Behandlung im Dermazentrum Neuss rundum zufrieden. Das gesamte Team ist sehr freundlich, kompetent und professionell. Von der ausführlichen Beratung bis zur Durchführung der Operation habe ich mich bestens aufgehoben gefühlt. Besonders mit dem Ergebnis der OP bin ich sehr zufrieden. Absolut empfehlenswert!",
+      "time": 1795271510,
+      "translated": false
+    },
+    {
+      "author_name": "Silvi R.",
+      "author_url": "https://www.google.com/maps/contrib/111641064369477764715/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb0GmPqAHrrDVj4zH9Ph5BH7hawWvY01WvyYpUaaZiKuvgFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein ganz toller Arzt, tolles Team und super liebevoller Umgang mit Kindern.\nIch war mit meiner 7 Jahre alten Tochter dort und das gesamte Team war super herzlich und sehr hilfsbereit. Trotz schmerzhafter Laserbehandlung hat sich meine Tochter wohl gefühlt, sodass auch der zweite notwendige Termin kein Problem für meine Tochter darstellte.\nIch selbst bin ebenfalls in Behandlung und habe mich immer sehr kompetent behandelt gefühlt. Die Damen am Empfang sind immer sehr freundlich und helfen wo sie können.\nEs sollte mehr Arztpraxen wie diese geben.",
+      "time": 1795172071,
+      "translated": false
+    },
+    {
+      "author_name": "Elisabeth Van well",
+      "author_url": "https://www.google.com/maps/contrib/104816371051279576608/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEyshtU6QvVfqCidsy1pIaL1BetprtDtUDFY8wjyNiZmignQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine wirklich tolle Praxis, das gesamte Team ist super freundlich. Die Behandlung war hervorragend und es gab keinerlei Wartezeit. Ich bin rundum zufrieden und komme gerne wieder.",
+      "time": 1795113317,
+      "translated": false
+    },
+    {
       "author_name": "Alexis Le",
       "author_url": "https://www.google.com/maps/contrib/100142730779932669401/reviews",
       "language": "de",
@@ -2024,11 +2060,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 357,
+  "reviewCount": 361,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-19T14:06:44.700Z"
+  "lastUpdated": "2026-11-22T13:03:59.775Z"
 }

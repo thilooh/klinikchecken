@@ -1,6 +1,38 @@
 {
   "reviews": [
     {
+      "author_name": "wellen reiter",
+      "author_url": "https://www.google.com/maps/contrib/108071753817986579199/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX0sGcXrkh43J98rDWPahN-XD7ixxm4dUQlaQb3MUDCadCiw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795206404,
+      "translated": false
+    },
+    {
+      "author_name": "FaZe",
+      "author_url": "https://www.google.com/maps/contrib/101901324015411301370/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWENvMneH4NbDC79wVnQCs44A2A0TVQXITLNyNFLfLj4N7ySIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795173953,
+      "translated": false
+    },
+    {
+      "author_name": "Rabie Redzhebova",
+      "author_url": "https://www.google.com/maps/contrib/109075388140183922558/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoVi78zo4fBNv_Kvo0Oe6lS8SzCW1UGP7lEhw9V4RdN66g0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich wollte mein 1,5 jährige Kind untersuchen lassen und kam mit mein zweiter zusammen der 2,5 Jahre alt ist. Als alleinerziehende  Mama hab ich mir diese ganze stress gemacht um 9h in bremen zu sein bin 1h und 10 min unterwegs gewesen mit auto. Ich kam da an und wurde nicht angenommen weil ich 10 min zu spät war. Ich müsste noch was ausfüllen und beide Kinder waren nicht ruhig. Dann hieß es ich muss 30 min warten .Dann hieß es wenn die andere Patient  kommt muss ich dann wieder warten.also ich müsste einfach jeder Patient warten bestimmt bis heute abend. Dann wollte sie mir Termin für Februar  anbieten.  Ich warte schon 5 Monate auf diesen\n\nTermin.ich meinte gesetzlich darf man sich bis 10 min verspäten  sie sagte wir sind hier privat. Dann meinte ich also gab's keine Gesetze sie sagte ja..... Ich war so sauer und wollte nicht mal ein Termin bin einfach weg gegangen... unzuverlässige Praxis!!!!",
+      "time": 1795168172,
+      "translated": false
+    },
+    {
       "author_name": "Tina M.",
       "author_url": "https://www.google.com/maps/contrib/102251018245127519789/reviews",
       "language": "de",
@@ -1318,11 +1350,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 205,
+  "reviewCount": 208,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:13.389Z"
+  "lastUpdated": "2026-11-22T13:03:28.742Z"
 }

@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Erika Martin",
+      "author_url": "https://www.google.com/maps/contrib/109911036040029060612/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp8bqN7_YZ6561b14cBMlGWRWJLlC1cZEKXPCZ9Y15RzYEJ1U=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliche und kompetente mitarbeitet-innen\nDanke, dass mein Karzinom früh erkannt wurde !!\nDanke an frau süssenberger und das komplette Team",
+      "time": 1795342536,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Schilling",
+      "author_url": "https://www.google.com/maps/contrib/103689935318987499975/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrXeVmMttxuh7EYPmPOUseIvmpPueGS_VtOi5CxggK1WXG4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann nur Gutes und Positives über die Praxis sagen, werde immer nett empfangen dort und auch Wartezeiten halten sich im Rahmen. Bin dort in Behandlung bei Dr. Özistanbullu, ein absoluter Spezialist auf seinem Gebiet! Immer freundlich und nett und gut gelaunt. Auch die Helferinnen sind alle sehr nett. Eine rundum tolle Praxis.",
+      "time": 1795201273,
+      "translated": false
+    },
+    {
+      "author_name": "MN",
+      "author_url": "https://www.google.com/maps/contrib/114956455622197469006/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvPyfCiVldrmToGew5sm7itZO4W-QG-1zhyALfIuDr2w1rdmw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine Stunde gewartet, nach zehn Minuten abgefertigt – und dafür 50 Euro bezahlt.\n\nIch hatte einen Termin zur Haarsprechstunde und bin sehr enttäuscht. Während des kurzen Gesprächs schaute meine Gesprächspartnerin überwiegend auf ihr PC. Im Mittelpunkt standen aus meiner Sicht Zusatzleistungen wie ein Bluttest. Am Ende wurde mir etwas zur Unterschrift vorgelegt. Für mein eigentliches Anliegen blieb gefühlt kaum Zeit.\n\nFür 50 Euro erwarte ich, dass man mir zuhört, auf meine Fragen eingeht und mir erklärt, welche Untersuchungen in meinem Fall sinnvoll sind. Ich bin mit dem Eindruck gegangen, dass mir vor allem etwas verkauft werden sollte. So habe ich mir eine Haarsprechstunde nicht vorgestellt. Für mich war der Ablauf unprofessionell, und ich kann die Haarsprechstunde nicht empfehlen.",
+      "time": 1795197413,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Bender",
+      "author_url": "https://www.google.com/maps/contrib/111312356833303590513/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNkl5kEKDOrtXFWGih8Hx_-9qaaPY7ve49mTFTmlEw37IBcl4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hatte eine kleine OP bei Frau Dr. Schilling, Assistenz war Caro. Termin war pünktlich, schnell, kompetent und unkompliziert. Beide sehr freundlich. Erleichtert einem solche Besuche sehr!",
+      "time": 1795155332,
+      "translated": false
+    },
+    {
       "author_name": "Arno Bramer",
       "author_url": "https://www.google.com/maps/contrib/115679863329849773065/reviews",
       "language": "de",
@@ -2232,11 +2280,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 383,
+  "reviewCount": 387,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:31.631Z"
+  "lastUpdated": "2026-11-22T13:03:46.946Z"
 }

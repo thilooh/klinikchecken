@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Christian Lamberti",
+      "author_url": "https://www.google.com/maps/contrib/115457550594267005966/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtQcI6qOKhqqNdp7GV_OrtkT9ohdBsd0nnscPL1t84oZaevg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Dr. Alexandros Ignatiadis zur Beratung. Die Klinik ist super einfach zu finden. Die Räumlichkeiten sind modern, stilvoll und sauber. Die Damen am Empfang haben mich herzlich begrüßt, so dass ich mich von Anfang an direkt wohl gefühlt habe. Dr. Ignatiadis hat auf mich einen sehr sympathischen Eindruck gemacht und mich persönlich aus dem Wartezimmer abgeholt. Das Beratungsgespräch war kompetent und alle meine Fragen und Ängste wurden ernst genommen. Ich wurde auch nicht direkt dazu gedrängt einen Termin zur OP zu vereinbaren, da es absolut klar war, dass man erstmal Bedenkzeit benötigt und alle Informationen zuhause besprechen muss.\nMir hat es sehr gut gefallen und man ist dort in der Klinik sehr gut aufgehoben.",
+      "time": 1795334759,
+      "translated": false
+    },
+    {
+      "author_name": "Joni M",
+      "author_url": "https://www.google.com/maps/contrib/113379053504560220053/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDpR4L7GYGjp_LnLPAHjy9iSKuzFJrmAPc1ef5W5XJjb6iog=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war mit der Beratung durch Herrn Prof. Dr. Matthias zu Schwarzburg sehr zufrieden. Er hat mir alles ausführlich, verständlich und sehr freundlich erklärt. Auf alle meine Fragen ist er in Ruhe eingegangen und hat sich ausreichend Zeit genommen. Ich habe mich sehr gut beraten und aufgehoben gefühlt. Absolut empfehlenswert! Vielen Dank für die kompetente und ausführliche Beratung.",
+      "time": 1795097642,
+      "translated": false
+    },
+    {
       "author_name": "Daniela Heinrichs",
       "author_url": "https://www.google.com/maps/contrib/118199209442777639038/reviews",
       "language": "de",
@@ -1995,7 +2019,7 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 401,
+  "reviewCount": 403,
   "summary": [],
-  "lastUpdated": "2026-11-19T14:06:03.454Z"
+  "lastUpdated": "2026-11-22T13:03:18.816Z"
 }

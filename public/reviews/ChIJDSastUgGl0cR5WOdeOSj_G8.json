@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ali Jahan",
+      "author_url": "https://www.google.com/maps/contrib/111675730716974351026/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXenUG-1k0eRGblFha-tWX83Cae1xm8dPVIl5sXm_LeUmJW2Pw7=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Keine Aufnahme neue Patienten",
+      "time": 1795098111,
+      "translated": false
+    },
+    {
       "author_name": "Max Schönfeld",
       "author_url": "https://www.google.com/maps/contrib/110621394678682670827/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6vfLnGaRv4m90KjHBdpqkIlLLfZOha_QhR1JW_0m4xdWbpA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis ist sehr sauber und bestens organisiert. Man kann direkt vor Ort vorbeischauen, Termine vereinbaren oder Fragen stellen. Alternativ lassen sich Termine auch ganz bequem online über die Doctolib-App buchen. Das gesamte Team ist sehr freundlich und zuvorkommend. Man kann alles in Ruhe und ganz ohne Stress besprechen. Man fühlt sich dort gut aufgehoben und nimmt sich ausreichend Zeit für die Patienten.Die Praxis ist sehr sauber und bestens organisiert. Man kann direkt vor Ort vorbeischauen, Termine vereinbaren oder Fragen stellen. Alternativ lassen sich Termine auch ganz bequem online über die Doctolib-App buchen. Das gesamte Team ist sehr freundlich und zuvorkommend. Man kann alles in Ruhe und ganz ohne Stress besprechen. Man fühlt sich dort gut aufgehoben und nimmt sich ausreichend Zeit für die Patienten.",
+      "time": 1794592021,
+      "translated": false
+    },
+    {
+      "author_name": "Rudolf Hiller",
+      "author_url": "https://www.google.com/maps/contrib/106868381980699891250/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6vfLnGaRv4m90KjHBdpqkIlLLfZOha_QhR1JW_0m4xdWbpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Die Praxis ist sehr sauber und bestens organisiert. Man kann direkt vor Ort vorbeischauen, Termine vereinbaren oder Fragen stellen. Alternativ lassen sich Termine auch ganz bequem online über die Doctolib-App buchen. Das gesamte Team ist sehr freundlich und zuvorkommend. Man kann alles in Ruhe und ganz ohne Stress besprechen. Man fühlt sich dort gut aufgehoben und nimmt sich ausreichend Zeit für die Patienten.Die Praxis ist sehr sauber und bestens organisiert. Man kann direkt vor Ort vorbeischauen, Termine vereinbaren oder Fragen stellen. Alternativ lassen sich Termine auch ganz bequem online über die Doctolib-App buchen. Das gesamte Team ist sehr freundlich und zuvorkommend. Man kann alles in Ruhe und ganz ohne Stress besprechen. Man fühlt sich dort gut aufgehoben und nimmt sich ausreichend Zeit für die Patienten.",
       "time": 1794592021,
       "translated": false
@@ -1994,11 +2018,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 249,
+  "reviewCount": 250,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:25.333Z"
+  "lastUpdated": "2026-11-22T13:03:40.670Z"
 }

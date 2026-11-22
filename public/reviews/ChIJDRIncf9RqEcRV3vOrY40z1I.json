@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "F.",
+      "author_url": "https://www.google.com/maps/contrib/117531715798660614182/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZsXdh98I353zYRx08tYXdIoGk4_UGNB-AFs9bXZWdYuwaIw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795278389,
+      "translated": false
+    },
+    {
       "author_name": "Jules Wi",
       "author_url": "https://www.google.com/maps/contrib/101272541071528375662/reviews",
       "language": "de",
@@ -48,6 +58,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKzGO8BU0_nj3XGcSgr7Zyjk7VaCFGheKKlvkaPsKfma8Lxg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794031670,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Klein",
+      "author_url": "https://www.google.com/maps/contrib/107351393623126886896/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKzGO8BU0_nj3XGcSgr7Zyjk7VaCFGheKKlvkaPsKfma8Lxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1794031670,
       "translated": false
@@ -1900,7 +1920,7 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 165,
+  "reviewCount": 166,
   "summary": [],
-  "lastUpdated": "2026-11-19T14:06:06.904Z"
+  "lastUpdated": "2026-11-22T13:03:22.265Z"
 }

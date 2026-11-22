@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ottmar Blansche",
+      "author_url": "https://www.google.com/maps/contrib/106816491231794326893/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDfZ8c093BBqfnbUw4DwWD9SK6Xa3sq2moZKXZNalsC4bxFQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr guter Venen Spezialist. Sehr gut funktionierende modernste Laser Behandlungsgeräte. Freundliches Personalinnen.",
+      "time": 1795332654,
+      "translated": false
+    },
+    {
       "author_name": "Wolfgang Burger",
       "author_url": "https://www.google.com/maps/contrib/100358309763355409008/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzl3hkfkr6DiITZJvVYzwEud45i7CGTT4LSRLqPwO4XVtuZQk=s128-c0x00000000-cc-rp-mo-ba3",
@@ -206,6 +218,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjMyuvP0KIV7D5kg8O86RXBy3gbGidURzkh15daFvPcElnLQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1784929573,
+      "translated": false
+    },
+    {
+      "author_name": "Kathy Poe-Schwär",
+      "author_url": "https://www.google.com/maps/contrib/100410785787194211224/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjMyuvP0KIV7D5kg8O86RXBy3gbGidURzkh15daFvPcElnLQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "vor 4 Monaten",
       "text": "",
       "time": 1784929573,
       "translated": false
@@ -800,11 +822,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 100,
+  "reviewCount": 101,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-19T14:06:23.011Z"
+  "lastUpdated": "2026-11-22T13:03:38.402Z"
 }

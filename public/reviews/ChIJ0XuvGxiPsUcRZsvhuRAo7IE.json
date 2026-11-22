@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Markus Voigt",
+      "author_url": "https://www.google.com/maps/contrib/118173977831142904353/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRXb6EHKw5hz1gE1oGORsy2tSwzu1_Zcey0MgKfMh4YyboovM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795179632,
+      "translated": false
+    },
+    {
       "author_name": "Josipa Simundic",
       "author_url": "https://www.google.com/maps/contrib/112952770661814690629/reviews",
       "language": "en",
@@ -44,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSBPvZUq43SpoAeoocYS0lUz3Yc3Qyd7BwVvaPSjb0wW4yuA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr professionelle, schnelle und freundliche Behandlung, keine Wartezeit, präzise Diagnostik, und einen ganz besonderen Dank an die sehr kompetente Fr Barnbeck - mein Problem ist jetzt gelöst!! Kann diese Klinik nur empfehlen.",
+      "time": 1794080416,
+      "translated": false
+    },
+    {
+      "author_name": "Od 917",
+      "author_url": "https://www.google.com/maps/contrib/103430154121871654413/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSBPvZUq43SpoAeoocYS0lUz3Yc3Qyd7BwVvaPSjb0wW4yuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr professionelle, schnelle und freundliche Behandlung, keine Wartezeit, präzise Diagnostik, und einen ganz besonderen Dank an die sehr kompetente Fr Barnbeck - mein Problem ist jetzt gelöst!! Kann diese Klinik nur empfehlen.",
       "time": 1794080416,
       "translated": false
@@ -2084,7 +2106,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 477,
+  "reviewCount": 478,
   "summary": [],
-  "lastUpdated": "2026-11-19T14:06:09.347Z"
+  "lastUpdated": "2026-11-22T13:03:24.682Z"
 }

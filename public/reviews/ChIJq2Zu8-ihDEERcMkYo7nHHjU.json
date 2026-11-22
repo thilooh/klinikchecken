@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "ZG F6",
+      "author_url": "https://www.google.com/maps/contrib/108367046222861583757/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7JIzxtK0B7KmHERr-dWv6FXtMElsXLrX0nf0PsJ9RPku34Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Wenn Datenschutz keine Rolle spielt. Telissa und ihre junge Kollegin berichten im Internet über die Praxis und die Patienten. Ich werde mir eine andere Praxis suchen müssen.  Dr. Riedel wünschen wir alles Gute weiterhin.",
+      "time": 1795338191,
+      "translated": false
+    },
+    {
+      "author_name": "Heisenberg _ is _ da",
+      "author_url": "https://www.google.com/maps/contrib/100451039680782172743/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgRK8czYKv7NE2Ihy8AUSgASyzUlvFXP-jxEjhpauFOkrM1puf=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Achtung an die Patienten. Falls ihr nicht im Internet landen wollt. Die zwei jüngeren Arzthelferinnen streamen auf Tik Tok.",
+      "time": 1795195590,
+      "translated": false
+    },
+    {
       "author_name": "Florian Burghardt",
       "author_url": "https://www.google.com/maps/contrib/108428493300842864512/reviews",
       "language": "de",
@@ -1684,11 +1708,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 293,
+  "reviewCount": 294,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-19T14:06:25.817Z"
+  "lastUpdated": "2026-11-22T13:03:41.197Z"
 }

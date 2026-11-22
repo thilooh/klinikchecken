@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Daniel Schubert",
+      "author_url": "https://www.google.com/maps/contrib/114698971764346553232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcE0a9FX4j93U89jA2yOkDuMQNbX619SamKwKtgKu7oMwZFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Seit mehreren Jahren in Behandlung und kann nur positives berichten. Sehr nette Menschen, sehr zuvorkommend und immer am besten Ergebnis für mich interessiert. Am meisten beeindruckt mich, wie breit diese Praxis aufgestellt ist.",
+      "time": 1795352135,
+      "translated": false
+    },
+    {
+      "author_name": "Roma Harholin",
+      "author_url": "https://www.google.com/maps/contrib/114798979711684072411/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzX3wA_iZbYZzbIlAKjbHpKVQJGt575gg6t8fFBRr7xl4tAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "schlechte Einstellung, inkompetente Ärzte",
+      "time": 1795176947,
+      "translated": false
+    },
+    {
       "author_name": "Josef Dobler",
       "author_url": "https://www.google.com/maps/contrib/116336021217378930395/reviews",
       "language": "de",
@@ -2842,11 +2866,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2488,
+  "reviewCount": 2490,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-19T14:06:16.755Z"
+  "lastUpdated": "2026-11-22T13:03:32.077Z"
 }

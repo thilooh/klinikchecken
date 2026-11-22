@@ -1,6 +1,62 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Dittmann",
+      "author_url": "https://www.google.com/maps/contrib/115918963267896684353/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGTpSRejy7v1QDQMl10Z2Q57QfEHfHGaZOgpQzXNxNxjLLHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Qualitativ hochwertige Betreuung, sehr schön gestaltete Zimmer. Hab mich richtig wohl gefühlt..herzlichen Dank an die Belegschaft",
+      "time": 1795249795,
+      "translated": false
+    },
+    {
+      "author_name": "cindy laura",
+      "author_url": "https://www.google.com/maps/contrib/116612947174224427104/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKD2DOjCFJJrZb1ncO-tNDtqkm6zcLhoG2YC9owil9SKVAizw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Obwohl die Ärzte hier wussten, dass der Patient Blut benötigt, haben sie es abgelehnt. Das ist wirklich beschämend. Ihr Verhalten war absolut nicht in Ordnung.",
+      "time": 1795229498,
+      "translated": false
+    },
+    {
+      "author_name": "Annalena Radtke",
+      "author_url": "https://www.google.com/maps/contrib/117924775647778990647/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX3Nni8UA5_5IxGjUGrZlyb2lxmDveYoAAuX4xTZL-jdtYvJAsXA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mich behandelte Frau Dr. Stapel – eine sehr einfühlsame und humorvolle junge Dame, die mir schnell meine Unsicherheiten nahm und mich einwandfrei untersuchte und kontrollierte. Die Beratung war wirklich hervorragend! Ich bin sehr begeistert. ❤️",
+      "time": 1795172796,
+      "translated": false
+    },
+    {
+      "author_name": "Claudia Thiel",
+      "author_url": "https://www.google.com/maps/contrib/104389806288143126687/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZpZ5GBWuq1KdMyjl4TMsEoOS_M_IzeojQLXLeJ20n-fSiRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795171763,
+      "translated": false
+    },
+    {
+      "author_name": "sylvi muster",
+      "author_url": "https://www.google.com/maps/contrib/106098933919228624535/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISALLuusl9LaSmOJZuI5IF6cc22g_nldS7O4uwS7jAz9Bfhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795097648,
+      "translated": false
+    },
+    {
       "author_name": "Sabine Gaede",
       "author_url": "https://www.google.com/maps/contrib/109275540525062396963/reviews",
       "language": "de",
@@ -2122,11 +2178,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 539,
+  "reviewCount": 544,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-19T14:06:15.928Z"
+  "lastUpdated": "2026-11-22T13:03:31.292Z"
 }
