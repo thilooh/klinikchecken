@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Christine Jahnke",
+      "author_url": "https://www.google.com/maps/contrib/117668370129279142874/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKclqY7ys9gRC9MC43cCLftXzNQwazbIWkdS9tjPFhOEbcv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin sehr zufrieden, super Beratung und keine Bedenken mehr.",
+      "time": 1795538426,
+      "translated": false
+    },
+    {
+      "author_name": "Elaine",
+      "author_url": "https://www.google.com/maps/contrib/116595855142476867581/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJECH5oewxS1HF72MuLN7vXQrFRC9J4UTkDu-RIOFb1zCf-3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795532949,
+      "translated": false
+    },
+    {
+      "author_name": "Printpoint Ludwigshafen",
+      "author_url": "https://www.google.com/maps/contrib/112608910343767817930/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdnuhoL-ovX1JRzSiA2jfIF1pg1nzM2t174SYKB2hnJWbD8OOk=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich hatte seit mehreren Wochen mit einem Hautausschlag zu kämpfen und habe mich bei diesem Arzt direkt gut aufgehoben gefühlt. Er hat sich wirklich Zeit genommen, alles gründlich angeschaut und mir verständlich erklärt. Das Gespräch war sehr angenehm und ich hatte das Gefühl, dass meine Beschwerden ernst genommen wurden. Auch die Behandlung lief super. Ein sehr kompetenter, freundlicher und menschlicher Arzt, den ich mit gutem Gewissen weiterempfehlen kann. Vielen Dank für die tolle Behandlung!",
+      "time": 1795509257,
+      "translated": false
+    },
+    {
       "author_name": "Dorothee Gerber",
       "author_url": "https://www.google.com/maps/contrib/108885215654130091476/reviews",
       "language": "de",
@@ -8,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6BhIhQS6FGjmczUTT0u1BFaA7W1uGtT1I5Jbk4ret1Ew63w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Einfach die allerbeste Ärztin Danke für alles",
+      "time": 1794930151,
+      "translated": false
+    },
+    {
+      "author_name": "Dorothee Gerber",
+      "author_url": "https://www.google.com/maps/contrib/108885215654130091476/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6BhIhQS6FGjmczUTT0u1BFaA7W1uGtT1I5Jbk4ret1Ew63w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Einfach die allerbeste Ärztin Danke für alles",
       "time": 1794930151,
       "translated": false
@@ -32,6 +78,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3jWpWl6Hb9J04lhcglrJZ9RIRLU6RqI1S2JXiljcEy9Qz4A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr freundliche Beratung.",
+      "time": 1794323852,
+      "translated": false
+    },
+    {
+      "author_name": "Cynthia Trautmann",
+      "author_url": "https://www.google.com/maps/contrib/110405695616993851763/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3jWpWl6Hb9J04lhcglrJZ9RIRLU6RqI1S2JXiljcEy9Qz4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr freundliche Beratung.",
       "time": 1794323852,
       "translated": false
@@ -1118,11 +1176,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 68,
+  "reviewCount": 71,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:54.830Z"
+  "lastUpdated": "2026-11-25T15:17:08.701Z"
 }

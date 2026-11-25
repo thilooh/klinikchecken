@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Patrick Brouba",
+      "author_url": "https://www.google.com/maps/contrib/117157722282951168521/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWIIOXSBaPSXvxHFGDQuDZ0tLc_NUOe_KOMeqUjtDK18ZjFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nIch bin rundum zufrieden und kann Dr. Abu Nasir uneingeschränkt weiterempfehlen! Meine Behandlung ist hervorragend verlaufen und ich bin mit dem Ergebnis mehr als zufrieden. Vom ersten Gespräch über die Behandlung bis zur Nachsorge habe ich mich jederzeit bestens aufgehoben und professionell betreut gefühlt. Sehr freundlicher Umgang, kompetente Beratung und eine Behandlung, bei der man merkt, dass man in guten Händen ist.\n\nVielen Dank an Dr. Abu Nasir und das gesamte Team! Absolute 5 Sterne und eine klare Empfehlung!",
+      "time": 1795602103,
+      "translated": false
+    },
+    {
       "author_name": "Dr. A. Aghasadeh",
       "author_url": "https://www.google.com/maps/contrib/112473548092315459983/reviews",
       "language": "de",
@@ -80,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnmccP7XClDBbbkMWIcW1e5SW_G238lQv_37ehFzKhTkzxvJqK=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Heute war ich zu einem Eingriff der Venen...sehr freundliches Team mit super netten Chef ..alle sind kompetent und haben meine Angst genommen!!!! Habe mich sehr behütet gefühlt..kann die Praxis sehr empfehlen. Ein großes Dankeschön an alle Mitarbeiter und an einen hervorragenden Dr.med.Abu Nasir🥰",
+      "time": 1793196878,
+      "translated": false
+    },
+    {
+      "author_name": "Siggi Stamm",
+      "author_url": "https://www.google.com/maps/contrib/111591893236455133759/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnmccP7XClDBbbkMWIcW1e5SW_G238lQv_37ehFzKhTkzxvJqK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Heute war ich zu einem Eingriff der Venen...sehr freundliches Team mit super netten Chef ..alle sind kompetent und haben meine Angst genommen!!!! Habe mich sehr behütet gefühlt..kann die Praxis sehr empfehlen. Ein großes Dankeschön an alle Mitarbeiter und an einen hervorragenden Dr.med.Abu Nasir🥰",
       "time": 1793196878,
       "translated": false
@@ -1734,11 +1758,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 84,
+  "reviewCount": 85,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-22T13:03:57.325Z"
+  "lastUpdated": "2026-11-25T15:17:11.202Z"
 }

@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Marcel B.",
+      "author_url": "https://www.google.com/maps/contrib/108399082544108375020/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8BT5wmdqTIs8lCgT-IHfO7GgNXFWOYuEzaCtBHLw1qy9xcA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Über 1 1/2 Jahre Wartezeit für einen Vorsorge Termin.. Das geht bei anderen schneller.",
+      "time": 1793702081,
+      "translated": false
+    },
+    {
       "author_name": "Reiner Zeller",
       "author_url": "https://www.google.com/maps/contrib/101161647128504064566/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPLYM6dC-q3CJdzQIMsGOtwU02ahS9eAcCPZ3FP6fMuWFgJSQ=s128-c0x00000000-cc-rp-mo-ba5",
@@ -62,6 +74,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPLYM6dC-q3CJdzQIMsGOtwU02ahS9eAcCPZ3FP6fMuWFgJSQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793634768,
+      "translated": false
+    },
+    {
+      "author_name": "Reiner Zeller",
+      "author_url": "https://www.google.com/maps/contrib/101161647128504064566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPLYM6dC-q3CJdzQIMsGOtwU02ahS9eAcCPZ3FP6fMuWFgJSQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793634768,
       "translated": false
@@ -920,5 +942,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:32.325Z"
+  "lastUpdated": "2026-11-25T15:16:45.503Z"
 }

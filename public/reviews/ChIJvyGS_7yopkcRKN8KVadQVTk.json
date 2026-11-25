@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Rüdiger Frank",
+      "author_url": "https://www.google.com/maps/contrib/103650110678776026232/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQvxAm2Usl8Hf7syJBCRi0CLVLBFgHT-xckNWZZlmCjNtnNA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "In Erfurt bis hinter Gotha gab es kein Termin. Gestern hatte ich nach 2 Monaten meinen Termin hier in Jena. Ich muss sagen das es ganz entspannt war. Ich kam an musste was ausfüllen und schon war ich dran. Das war wie es sein müsste. Da ist auch die Fahrt o.k. Es war auch alles schön weihnachtlich geschmückt. Frau Dr. Zo. war auch sehr nett. Kurz um das war der schönste Arztbesuch. Kann ich nur empfehlen.",
+      "time": 1795619406,
+      "translated": false
+    },
+    {
+      "author_name": "O. C.",
+      "author_url": "https://www.google.com/maps/contrib/109803044496040798665/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLd-NWvmA4X4BjRq56YVPIF0TEpXTZ6ZU_W7KsGbfhu08scTw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "gute Terminierung, zeitnah zum Termin auch aufgerufen.",
+      "time": 1795543514,
+      "translated": false
+    },
+    {
+      "author_name": "Paulina Frank",
+      "author_url": "https://www.google.com/maps/contrib/107397502370279867515/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrJRCiQtRg7HiCEstHGzGQSQgLMclcsnh3tOZ5NP-ntIIz5ac=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr.Zollmann hat meine Hand vor zwei Wochen operiert und auch jetzt noch stand er mir kurzfristig für Fragen zur Verfügung, beantwortete alles mit Geduld und nahm mich ernst. Der beste Arzt, der mich bisher behandelt hat!",
+      "time": 1795535586,
+      "translated": false
+    },
+    {
+      "author_name": "Vivek Faldu",
+      "author_url": "https://www.google.com/maps/contrib/105360914798035878863/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHjESAHsWccRYE_HlwUxiC0nKt9CLnrUWoTqhB7PXOOqH-IbZYVg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795424591,
+      "translated": false
+    },
+    {
       "author_name": "Liane Müller",
       "author_url": "https://www.google.com/maps/contrib/100595193295373257189/reviews",
       "language": "de",
@@ -1884,11 +1930,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 224,
+  "reviewCount": 228,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-11-22T13:04:05.809Z"
+  "lastUpdated": "2026-11-25T15:17:20.057Z"
 }

@@ -25,6 +25,18 @@
       "translated": false
     },
     {
+      "author_name": "Julia N",
+      "author_url": "https://www.google.com/maps/contrib/117132707539876754716/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXBbL6Z6G7ChhGhMPDAgqUXKbpfXmd1TGKR-pDs9JFh3zV2P4y=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr kompetenter Arzt, er hat mir mit der Creme für die Schuppenflechte sehr geholfen. Er ist etwas wortkarg, aber das stört nicht, wenn man geholfen bekommt.",
+      "time": 1794916663,
+      "translated": false
+    },
+    {
       "author_name": "BW Brazil Beauty Studio",
       "author_url": "https://www.google.com/maps/contrib/103309888946186219697/reviews",
       "language": "de",
@@ -44,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVK4osR6TihR6oCQSKlvzyPZY7hJAnVUj843kg9dqEXScKtY=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Toller Ort",
+      "time": 1794327368,
+      "translated": true
+    },
+    {
+      "author_name": "BW Brazil Beauty Studio",
+      "author_url": "https://www.google.com/maps/contrib/103309888946186219697/reviews",
+      "language": "de",
+      "original_language": "it",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVK4osR6TihR6oCQSKlvzyPZY7hJAnVUj843kg9dqEXScKtY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Toller Ort",
       "time": 1794327368,
       "translated": true
@@ -68,6 +92,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGccFlgramdc7EXutXgOonG0PaefYSPXNeTdwLKvDiXa3SqA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Es ist leider schwierig, einen Termin zu bekommen. Das Personal ist sehr freundlich und die Ärzte sind ebenfalls freundlich und kompetent.",
+      "time": 1794216371,
+      "translated": false
+    },
+    {
+      "author_name": "Lumzan",
+      "author_url": "https://www.google.com/maps/contrib/110693358443534407652/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGccFlgramdc7EXutXgOonG0PaefYSPXNeTdwLKvDiXa3SqA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Es ist leider schwierig, einen Termin zu bekommen. Das Personal ist sehr freundlich und die Ärzte sind ebenfalls freundlich und kompetent.",
       "time": 1794216371,
       "translated": false
@@ -2000,5 +2036,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:46.700Z"
+  "lastUpdated": "2026-11-25T15:17:00.456Z"
 }

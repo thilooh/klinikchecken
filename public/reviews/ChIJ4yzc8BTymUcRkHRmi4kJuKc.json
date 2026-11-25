@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Simone Kehrer",
+      "author_url": "https://www.google.com/maps/contrib/107524213957665204190/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOEnpZ1Ee7gHmxnJChoLu3di6kdTFqfXAsDKZLAgQpJqjlGg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794992492,
+      "translated": false
+    },
+    {
       "author_name": "Monika Sch.",
       "author_url": "https://www.google.com/maps/contrib/101314146152275474059/reviews",
       "language": "de",
@@ -30,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6z3MPzTYXz9un4Sg6PPdn_bHymKmIGI0IZNewxRvgGNsJYw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Sehr gute Terminierung, keine Wartezeit.Allexsehr freundlich",
+      "time": 1794340654,
+      "translated": false
+    },
+    {
+      "author_name": "Monika Sch.",
+      "author_url": "https://www.google.com/maps/contrib/101314146152275474059/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6z3MPzTYXz9un4Sg6PPdn_bHymKmIGI0IZNewxRvgGNsJYw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Sehr gute Terminierung, keine Wartezeit.Allexsehr freundlich",
       "time": 1794340654,
       "translated": false
@@ -1486,5 +1508,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:04:04.105Z"
+  "lastUpdated": "2026-11-25T15:17:18.323Z"
 }

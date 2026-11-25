@@ -1,6 +1,40 @@
 {
   "reviews": [
     {
+      "author_name": "Mi Giu",
+      "author_url": "https://www.google.com/maps/contrib/101067000336443020025/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVekm6QsC4bsRDWkhL9W1Y11ug5GhCOpoZ1xddEn9Rrd9jbHlUq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Lange Wartezeit..freundliches Team..Doc Spitze ..pragmatisch ..grosses Fachwissen sehr nett..Hat meinem Sohn bei nem fortgeschrittenem Akne Problem helfen können.\nDanke Doktor",
+      "time": 1795584065,
+      "translated": false
+    },
+    {
+      "author_name": "Sabrina. Marcio",
+      "author_url": "https://www.google.com/maps/contrib/107939631717605824250/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIljE5-GWKf8Ng8ZDQ8s22zqnzg7-T_PwsuuInRla539_jRYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795437005,
+      "translated": false
+    },
+    {
+      "author_name": "ATK Media",
+      "author_url": "https://www.google.com/maps/contrib/118291865145768738904/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvelEOHEdWsf2mj50pkmVAHaMpGBMvuLNjszpmee2a1mjgsAvu=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette arzt auch die arzthelferinen keine lange wartezeit emfehlenswert",
+      "time": 1795373985,
+      "translated": false
+    },
+    {
       "author_name": "Raffaela Kämmerling",
       "author_url": "https://www.google.com/maps/contrib/117799888539969125303/reviews",
       "language": "de",
@@ -8,6 +42,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2zMcXfY0kFH_AHCTzWdBmfJ01pQmAbsUmHCSDOFWLA7AMwg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Aufgrund starker Hautprobleme wurde versucht, telefonisch einen Arzttermin zu vereinbaren. Die Sprechstundenhilfe teilte mit,das ist ja nicht mein Problem.“ Ein Termin konnte zunächst nicht vereinbart werden",
+      "time": 1794819635,
+      "translated": false
+    },
+    {
+      "author_name": "Raffaela Kämmerling",
+      "author_url": "https://www.google.com/maps/contrib/117799888539969125303/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2zMcXfY0kFH_AHCTzWdBmfJ01pQmAbsUmHCSDOFWLA7AMwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Aufgrund starker Hautprobleme wurde versucht, telefonisch einen Arzttermin zu vereinbaren. Die Sprechstundenhilfe teilte mit,das ist ja nicht mein Problem.“ Ein Termin konnte zunächst nicht vereinbart werden",
       "time": 1794819635,
       "translated": false
@@ -1530,11 +1576,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 232,
+  "reviewCount": 235,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-22T13:03:36.611Z"
+  "lastUpdated": "2026-11-25T15:16:49.953Z"
 }

@@ -97,6 +97,16 @@
       "translated": false
     },
     {
+      "author_name": "Tina",
+      "author_url": "https://www.google.com/maps/contrib/105025405850445815857/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1cFhL77HXbjXSGj5PWbqrwMjitOsLgaCU8pNeez847bicSh-z1g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1793774134,
+      "translated": false
+    },
+    {
       "author_name": "Jasmin Kovacic",
       "author_url": "https://www.google.com/maps/contrib/110745543787741932948/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrSy88avU4zSKftKUadD7fC5Re_xfLNfH6_wmPTPsydDOjkQ=s128-c0x00000000-cc-rp-mo",
@@ -122,6 +132,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrSy88avU4zSKftKUadD7fC5Re_xfLNfH6_wmPTPsydDOjkQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793740453,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmin Kovacic",
+      "author_url": "https://www.google.com/maps/contrib/110745543787741932948/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrSy88avU4zSKftKUadD7fC5Re_xfLNfH6_wmPTPsydDOjkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793740453,
       "translated": false
@@ -1664,5 +1684,5 @@
   "rating": 4.9,
   "reviewCount": 176,
   "summary": [],
-  "lastUpdated": "2026-11-22T13:03:20.332Z"
+  "lastUpdated": "2026-11-25T15:16:33.196Z"
 }

@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Julia Zmarzly",
+      "author_url": "https://www.google.com/maps/contrib/113600555504830483373/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDRiZu8xl8IP7KkWXWqLZygaUNNqIaahi-hI7vbPP3asaTVA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795519828,
+      "translated": false
+    },
+    {
+      "author_name": "Nuray",
+      "author_url": "https://www.google.com/maps/contrib/115099521295520720097/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUSuELVGHjDJUEoStgeuiB5NCSjs1-Yu5f7JKqymaGS-26bg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war bei Frau Dr. Rouihem in Behandlung und bin wirklich positiv überrascht und begeistert!\n\nSie hat sich unglaublich viel Zeit für mich und meine verschiedenen gesundheitlichen Anliegen genommen. Dabei war sie nicht nur äußerst kompetent, sondern vor allem sehr empathievoll, aufmerksam und menschlich.\n\nDas ausführliche und einfühlsame Beratungsgespräch hat mir sehr geholfen. Sie ist auf all meine Fragen und Sorgen eingegangen, hat mir vieles verständlich erklärt und mir dadurch einen großen Teil meiner Ängste genommen.\n\nEs ist heutzutage nicht selbstverständlich, einer Ärztin zu begegnen, die sich so viel Zeit nimmt und einem das Gefühl gibt, wirklich ernst genommen und verstanden zu werden.\n\nIch bin sehr dankbar, dass ich bei Frau Dr. Rouihem gelandet bin, und kann sie von Herzen weiterempfehlen.\n\nVielen Dank für die tolle Betreuung! 🌷\n\nNuray Yıldırım",
+      "time": 1795416315,
+      "translated": false
+    },
+    {
       "author_name": "Annette Böttcher",
       "author_url": "https://www.google.com/maps/contrib/112868505348768207211/reviews",
       "language": "de",
@@ -32,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3Fzx6dKdp0QJ2sSwjamjwtj_La8JuuLkRBplk2p2nE4Zsng=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Sehr nette, zugewandte und versierte Ärzte/innen. Gute Terminplanung mit kurzen Wartezeiten und super freundliche Arzthelferinnen. Ich bin sehr zufrieden mit dieser Hautarztpraxis.",
+      "time": 1793791456,
+      "translated": false
+    },
+    {
+      "author_name": "Annette Böttcher",
+      "author_url": "https://www.google.com/maps/contrib/112868505348768207211/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3Fzx6dKdp0QJ2sSwjamjwtj_La8JuuLkRBplk2p2nE4Zsng=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Sehr nette, zugewandte und versierte Ärzte/innen. Gute Terminplanung mit kurzen Wartezeiten und super freundliche Arzthelferinnen. Ich bin sehr zufrieden mit dieser Hautarztpraxis.",
       "time": 1793791456,
       "translated": false
@@ -130,6 +164,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi00GY5ya6_bESl-29nLOMEBxXktnDgy9thw_RejPx_GPQM3q7sg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1792768046,
+      "translated": false
+    },
+    {
+      "author_name": "Esther Pierog",
+      "author_url": "https://www.google.com/maps/contrib/114026470687585117040/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi00GY5ya6_bESl-29nLOMEBxXktnDgy9thw_RejPx_GPQM3q7sg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1792768046,
       "translated": false
@@ -1893,12 +1937,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 148,
+  "rating": 4.7,
+  "reviewCount": 150,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:53.833Z"
+  "lastUpdated": "2026-11-25T15:17:07.702Z"
 }

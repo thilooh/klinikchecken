@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Udo B",
+      "author_url": "https://www.google.com/maps/contrib/103960199630423738491/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeTQ8eQh_KEpVlQGVm8qupVAX9P-0SiDKgAqLGCo1gFfg3kLg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bei akutem Problem schnell einen Termin bekommen. Sehr freundliche Mitarbeiterinnen und sehr kompetenter Arzt.",
+      "time": 1795524568,
+      "translated": false
+    },
+    {
       "author_name": "Dave Klar",
       "author_url": "https://www.google.com/maps/contrib/103229964794516870400/reviews",
       "language": "de",
@@ -638,11 +650,11 @@
     }
   ],
   "rating": 4.2,
-  "reviewCount": 52,
+  "reviewCount": 53,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-22T13:03:40.162Z"
+  "lastUpdated": "2026-11-25T15:16:53.596Z"
 }

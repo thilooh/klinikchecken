@@ -23,6 +23,18 @@
       "translated": false
     },
     {
+      "author_name": "Jules Wi",
+      "author_url": "https://www.google.com/maps/contrib/101272541071528375662/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIVnvzwUs__Nh0YKTs4QB0DazmoVKqWSWeFN9umr43bM2zfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich kann jedem nur dringend empfehlen, sich eine Zweitmeinung einzuholen!\n\nMir wurde bei Venaziel von einer Viszeralchirurgin geraten, sämtliche Venen behandeln zu lassen. Mein Befund wurde sogar als „katastrophal“ bezeichnet. Da mir diese Einschätzung von Anfang an merkwürdig vorkam, habe ich weitere Fachärzte aufgesucht.\n\nDas Ergebnis: Zwei unabhängige Gefäßchirurgen haben mir bestätigt, dass bei mir aktuell KEINE einzige Vene behandelt werden muss!\n\nIch finde es erschreckend, wie unterschiedlich die Einschätzungen ausfallen und dass mir zunächst zu derart umfangreichen Eingriffen geraten wurde.\n\nMein Rat daher: Unbedingt eine unabhängige Zweitmeinung einholen und dabei auch genau auf die Facharztbezeichnung achten! Bei Venaziel arbeiten unter anderem Viszeralchirurgen und Internisten. Gerade bei solchen Eingriffen würde ich mich künftig ausschließlich von entsprechend spezialisierten Gefäßchirurgen beraten lassen.\n\nIch bin jedenfalls sehr froh, dass ich nicht vorschnell einer Behandlung zugestimmt habe.",
+      "time": 1794999652,
+      "translated": false
+    },
+    {
       "author_name": "Omar Oumayrat",
       "author_url": "https://www.google.com/maps/contrib/114605715194498559423/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwQYodLFrKI2eYiDvO5zlaFScZfJa0a-sopug_lQQGIEJWnQ=s128-c0x00000000-cc-rp-mo-ba2",
@@ -38,6 +50,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwQYodLFrKI2eYiDvO5zlaFScZfJa0a-sopug_lQQGIEJWnQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794399227,
+      "translated": false
+    },
+    {
+      "author_name": "Omar Oumayrat",
+      "author_url": "https://www.google.com/maps/contrib/114605715194498559423/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwQYodLFrKI2eYiDvO5zlaFScZfJa0a-sopug_lQQGIEJWnQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1794399227,
       "translated": false
@@ -1922,5 +1944,5 @@
   "rating": 4.7,
   "reviewCount": 166,
   "summary": [],
-  "lastUpdated": "2026-11-22T13:03:22.265Z"
+  "lastUpdated": "2026-11-25T15:16:35.218Z"
 }

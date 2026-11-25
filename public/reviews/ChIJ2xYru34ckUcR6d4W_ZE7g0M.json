@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Оксана Пасечник",
+      "author_url": "https://www.google.com/maps/contrib/117780097347497178942/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLI1feSH7gaX-t4grUYnHTTcIybYGqpg847reS_V1BouUDNFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795371298,
+      "translated": false
+    },
+    {
       "author_name": "Stephanie Halmos",
       "author_url": "https://www.google.com/maps/contrib/107523441482782257495/reviews",
       "language": "de",
@@ -176,6 +186,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI54TnzC8-87J8-hTAl_lro-LLnBgKF1A-D6gBBtiszPsBxvg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Mir wurde hervorragend geholfen, alle waren sehr freundlich.",
+      "time": 1792898547,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Claus",
+      "author_url": "https://www.google.com/maps/contrib/105105368155607035600/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI54TnzC8-87J8-hTAl_lro-LLnBgKF1A-D6gBBtiszPsBxvg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Mir wurde hervorragend geholfen, alle waren sehr freundlich.",
       "time": 1792898547,
       "translated": false
@@ -1774,11 +1796,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 194,
+  "reviewCount": 195,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:38.150Z"
+  "lastUpdated": "2026-11-25T15:16:51.476Z"
 }

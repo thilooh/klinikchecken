@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "anela k",
+      "author_url": "https://www.google.com/maps/contrib/117876733414672732409/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo8JjtD3-QNQWmB7dUp8F3OF3pvyRCSJId493CUyF8VKN-aJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ein großes Dankeschön an den Arzt und sein Team!\n\nDer Arzt war sehr freundlich und professionell, die Mitarbeiterin am Empfang sehr sympathisch und nett. Im Gegensatz zu unseren bisherigen Erfahrungen mit Hautärzten in Dortmund dauerte der Termin zum ersten Mal länger als nur fünf Minuten. Der Arzt hat uns aufmerksam zugehört und großes Verständnis gezeigt. Das wissen wir sehr zu schätzen.\n\nMöge Allah ihn stets beschützen und ihm ein langes, gesundes und glückliches Leben schenken. :)\n\nVon Herzen alles Gute!\nAnela&Zelda\n⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+      "time": 1795603602,
+      "translated": false
+    },
+    {
       "author_name": "Jihad Jabasiny",
       "author_url": "https://www.google.com/maps/contrib/102961766990916393696/reviews",
       "language": "ar",
@@ -1832,11 +1844,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 405,
+  "reviewCount": 406,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-22T13:03:53.330Z"
+  "lastUpdated": "2026-11-25T15:17:07.173Z"
 }

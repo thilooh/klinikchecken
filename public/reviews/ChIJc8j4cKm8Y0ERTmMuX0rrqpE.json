@@ -67,6 +67,16 @@
       "translated": false
     },
     {
+      "author_name": "Nicole Skodda",
+      "author_url": "https://www.google.com/maps/contrib/103006021585569899894/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTVH_b-YtMXe8O_MPvqtPiqhekTrmdzNrA16yJ8ISbTMMpog=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1793721718,
+      "translated": false
+    },
+    {
       "author_name": "Justus Kühn",
       "author_url": "https://www.google.com/maps/contrib/117559500198060758007/reviews",
       "language": "de",
@@ -336,6 +346,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAoeWIwlQXw8f2j8UfW4SJw7l-Kqb9x88H0m3rUvgCkeB1Dixb=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1787831788,
+      "translated": false
+    },
+    {
+      "author_name": "Nathalie Truschel",
+      "author_url": "https://www.google.com/maps/contrib/117985401349087480812/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAoeWIwlQXw8f2j8UfW4SJw7l-Kqb9x88H0m3rUvgCkeB1Dixb=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Monaten",
       "text": "",
       "time": 1787831788,
       "translated": false
@@ -1179,8 +1199,8 @@
       "translated": false
     }
   ],
-  "rating": 4.3,
-  "reviewCount": 82,
+  "rating": 4.4,
+  "reviewCount": 81,
   "summary": [],
-  "lastUpdated": "2026-11-22T13:03:24.261Z"
+  "lastUpdated": "2026-11-25T15:16:37.284Z"
 }

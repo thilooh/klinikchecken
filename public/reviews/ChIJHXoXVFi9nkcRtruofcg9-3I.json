@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Alex E. (AE)",
+      "author_url": "https://www.google.com/maps/contrib/110098883264302986760/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX51n7EHxGOPs-8zM_4yrj9KkVbSvMOF8zxQoZg_9mUwTkiqVNq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nHerausragende medizinische Versorgung, perfekte Organisation und außergewöhnliche Menschlichkeit!\n\nVon der ersten Kontaktaufnahme bis zur Entlassung meines Vaters haben wir im Vincentinum eine rundum erstklassige Betreuung erlebt.\n\nBereits die Damen im Sekretariat überzeugten durch ihre Herzlichkeit, Professionalität und eine bemerkenswert effiziente Organisation.\n\nBesonders beeindruckt hat uns die hervorragende fachübergreifende Zusammenarbeit: Aufgrund des Herzschrittmachers meines Vaters mussten Kardiologie, Radiologie (MRT) und Wirbelsäulenchirurgie eng zusammenarbeiten. Die notwendigen Untersuchungen und Abstimmungen wurden innerhalb kürzester Zeit organisiert. Dabei wurden wir jederzeit transparent, umfassend und verständlich informiert.\n\nDr. Reinke überzeugte uns sowohl durch seine hohe fachliche Kompetenz als auch durch seine ausgesprochen freundliche und menschliche Art. Die anschließende Operation der Wirbelkörperfraktur verlief so erfolgreich, dass mein Vater bereits am selben Tag schmerzfrei war. Ein für uns außergewöhnliches Ergebnis!\n\nEin ganz besonderes Dankeschön gilt auch dem gesamten Stationsteam, das meinen Vater mit großer Herzlichkeit, Aufmerksamkeit und Fürsorge betreut hat. Auch die sehr gute Verpflegung verdient ein ausdrückliches Lob.\n\nHier stimmt einfach alles – von der Aufnahme über die Diagnostik und Operation bis zur Entlassung.\n\nUnser herzlicher Dank gilt Dr. Reinke und allen beteiligten Teams. Eine solche Kombination aus medizinischer Kompetenz, perfekter Organisation und menschlicher Zuwendung haben wir bislang selten erlebt.\n\nUneingeschränkte Empfehlung – fünf Sterne aus voller Überzeugung!",
+      "time": 1795600795,
+      "translated": false
+    },
+    {
+      "author_name": "Rainer Güntzel",
+      "author_url": "https://www.google.com/maps/contrib/115928345882328408568/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLReih7k5Tel5GCjxa_EP5wVIZRtsNIyUXY2G54WKpsJr0gwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795570035,
+      "translated": false
+    },
+    {
+      "author_name": "Max Köbler",
+      "author_url": "https://www.google.com/maps/contrib/102630629359272217328/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzN54P24-DYjyJtGF09UG6BkR-wk_-p43wSj5y-YnLtyaCPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "OP Vorbereitung, Besprechung, Nachversorgung einwandfrei. Fühlte mich bestens betreut.",
+      "time": 1795542460,
+      "translated": false
+    },
+    {
+      "author_name": "Richard Tuffentsammer",
+      "author_url": "https://www.google.com/maps/contrib/102452507982256363650/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJZWzahEdhzyrV_5tNHylgCMu7zYVCaaQoDo3fwvy7b9AHrA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute Klinik, mit top Ärzten und Personal",
+      "time": 1795506689,
+      "translated": false
+    },
+    {
       "author_name": "Günne",
       "author_url": "https://www.google.com/maps/contrib/104697342728441968850/reviews",
       "language": "de",
@@ -2062,11 +2108,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 466,
+  "reviewCount": 469,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-11-22T13:03:37.360Z"
+  "lastUpdated": "2026-11-25T15:16:50.717Z"
 }

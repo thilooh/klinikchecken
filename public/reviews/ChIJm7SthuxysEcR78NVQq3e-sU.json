@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Carsten Böhler",
+      "author_url": "https://www.google.com/maps/contrib/113543517989789081784/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKq5Ek269M9PwgkDtgnc_5WFS6871-o-xMv_sxMuuTWsSj2WA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795354853,
+      "translated": false
+    },
+    {
       "author_name": "lana lienert",
       "author_url": "https://www.google.com/maps/contrib/107377403051233689923/reviews",
       "language": "de",
@@ -20,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKqZ604vlCZ9CfL2JgvbG3fhSmhCJsqjWQ5L2pQNNEPA-vRWFb=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "ACHTUNG, seid ihr für eure seniorigen Eltern, oder generell für euch, auf der Suche nach einem Hautarzt, spart euch die Zeit! Geht hier NICHT hin! Nehmt die unzähligen 1 Sterne Bewertungen ernst. Ich will gar nicht wissen, wieviel Geld diese Praxis an älteren \"hilflosen\" Patienten Verdient, weil die älteren Herrschaften nicht genauer nachfragen und sich das Gesagte plausibilisieren lassen, oder den Ärzten hier einfach blind vertrauen.\n\nAuf den Termin musste ich 2,5 Monate warten. Dann musste ich im Wartebereich etwas über eine Stunde warten, nur dass mir dann nach einer Minute gesagt wurde, dass man mir nicht helfen könnte, ABER man mir gerne Laserbehandlungen verkaufen wollte. Wirksamkeit = Fragwürdig, so die Aussage der angestellten Ärztin, die sichtlich kein Bock hatte. Nach Nachfrage meinerseits wurde darauf verwiesen, dass vom Chef höchstpersönlich ausgegeben wurde, dass Umsatz zu generieren sei, und dadurch auch entsprechende Kosten für Arzneimittel vom Patienten getragen werden müssten. Der Termin glich eher eine Gewinn/ Profit maximierenden verkappten Verkaufsschau, anstatt das ein Arzt einem Patienten hilft. Wenn ich beim Schreiben der Rezension wieder daran denke, kommt mir die Galle hoch. Eine absolute Schande!\n\nTut euch selber den Gefallen und tut euch das nicht an! Ja ich weiß, Ärztemangel. Aber glaubt mir, dass ist kein Grund doch hier hin zu gehen. WIRKLICH!",
+      "time": 1794944274,
+      "translated": false
+    },
+    {
+      "author_name": "Robin Henning",
+      "author_url": "https://www.google.com/maps/contrib/105042051705328753213/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKqZ604vlCZ9CfL2JgvbG3fhSmhCJsqjWQ5L2pQNNEPA-vRWFb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "ACHTUNG, seid ihr für eure seniorigen Eltern, oder generell für euch, auf der Suche nach einem Hautarzt, spart euch die Zeit! Geht hier NICHT hin! Nehmt die unzähligen 1 Sterne Bewertungen ernst. Ich will gar nicht wissen, wieviel Geld diese Praxis an älteren \"hilflosen\" Patienten Verdient, weil die älteren Herrschaften nicht genauer nachfragen und sich das Gesagte plausibilisieren lassen, oder den Ärzten hier einfach blind vertrauen.\n\nAuf den Termin musste ich 2,5 Monate warten. Dann musste ich im Wartebereich etwas über eine Stunde warten, nur dass mir dann nach einer Minute gesagt wurde, dass man mir nicht helfen könnte, ABER man mir gerne Laserbehandlungen verkaufen wollte. Wirksamkeit = Fragwürdig, so die Aussage der angestellten Ärztin, die sichtlich kein Bock hatte. Nach Nachfrage meinerseits wurde darauf verwiesen, dass vom Chef höchstpersönlich ausgegeben wurde, dass Umsatz zu generieren sei, und dadurch auch entsprechende Kosten für Arzneimittel vom Patienten getragen werden müssten. Der Termin glich eher eine Gewinn/ Profit maximierenden verkappten Verkaufsschau, anstatt das ein Arzt einem Patienten hilft. Wenn ich beim Schreiben der Rezension wieder daran denke, kommt mir die Galle hoch. Eine absolute Schande!\n\nTut euch selber den Gefallen und tut euch das nicht an! Ja ich weiß, Ärztemangel. Aber glaubt mir, dass ist kein Grund doch hier hin zu gehen. WIRKLICH!",
       "time": 1794944274,
       "translated": false
@@ -2146,11 +2168,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 287,
+  "reviewCount": 288,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-22T13:03:27.988Z"
+  "lastUpdated": "2026-11-25T15:16:41.035Z"
 }

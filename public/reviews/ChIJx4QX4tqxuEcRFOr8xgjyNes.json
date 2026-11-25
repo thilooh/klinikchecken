@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "H B (Hotte)",
+      "author_url": "https://www.google.com/maps/contrib/115900682504354598674/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV13YzIo9J2zFmbWokHmSyZsF9BJIIGpoOVdkpHrfat_uhaooqY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Man sollte immer Zeit mitbringen. Ansonsten Super Ärzte.",
+      "time": 1795452171,
+      "translated": false
+    },
+    {
       "author_name": "Thomas Richrath",
       "author_url": "https://www.google.com/maps/contrib/109981761341573009844/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9qJs--jMKAW0i1p3iGEJZu_pXE1PNWL5BY4AnItEpnpkmAw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794826881,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Richrath",
+      "author_url": "https://www.google.com/maps/contrib/109981761341573009844/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9qJs--jMKAW0i1p3iGEJZu_pXE1PNWL5BY4AnItEpnpkmAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1794826881,
       "translated": false
@@ -36,6 +58,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsPmz0p8xnoi0e6OvQfpUmetmNCDPzt-6TwDYHb4HuyvbHStE=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793559688,
+      "translated": false
+    },
+    {
+      "author_name": "Noor",
+      "author_url": "https://www.google.com/maps/contrib/111321421671305929171/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsPmz0p8xnoi0e6OvQfpUmetmNCDPzt-6TwDYHb4HuyvbHStE=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793559688,
       "translated": false
@@ -86,6 +118,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1Kusjh4aiOn2d3cuJ8CrLKQp2gG22eyoLx18DJLdjRVPrFw12=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1790277037,
+      "translated": false
+    },
+    {
+      "author_name": "Highfly211",
+      "author_url": "https://www.google.com/maps/contrib/116200527617983320145/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1Kusjh4aiOn2d3cuJ8CrLKQp2gG22eyoLx18DJLdjRVPrFw12=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1790277037,
       "translated": false
@@ -1140,11 +1182,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 86,
+  "reviewCount": 87,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-22T13:03:51.829Z"
+  "lastUpdated": "2026-11-25T15:17:05.676Z"
 }

@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Werner Altenwerth",
+      "author_url": "https://www.google.com/maps/contrib/110023596195737308166/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6Yv_gPtYfPOnQK7I3rBa_X5nw3vaq_eRHQrhQYEVKdPcUCyQDYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Service und vor allen Dingen die Ärzte sind spitze",
+      "time": 1795618067,
+      "translated": false
+    },
+    {
+      "author_name": "AL TO",
+      "author_url": "https://www.google.com/maps/contrib/116969698157224677944/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWcTgkLM_i_7ggZJ3zCvs8r3gD9lPQn-VUH_jXT9KJQBzbIA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gut - alles perfekt erklärt. Fühlte mich gut aufgehoben",
+      "time": 1795523201,
+      "translated": false
+    },
+    {
       "author_name": "Marius Brueckner",
       "author_url": "https://www.google.com/maps/contrib/101983047382404342933/reviews",
       "language": "de",
@@ -23,6 +47,16 @@
       "translated": false
     },
     {
+      "author_name": "So",
+      "author_url": "https://www.google.com/maps/contrib/114841303738845564059/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAYCeFgfgVsgUaWKIDsobzZO1R-qJKJ9TVG5sCJd8N0wWoOA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1795001850,
+      "translated": false
+    },
+    {
       "author_name": "mn",
       "author_url": "https://www.google.com/maps/contrib/111246913177300095755/reviews",
       "language": "de",
@@ -30,6 +64,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcG5u3u4MSPMQQkYz2w5Q0E6xAmcvBKonBoitT4b_la9DaCg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin vor vielen Jahren mit der Beschwerde zur Hautärztin gefahren, dass sich meine Kopfhaut wellenartig wölbte. Zwei mal getastet und Diagnose stand fest: FETTGEWEBE. Hätte die Ärztin damals bisschen mehr zugehört und mich ernst genommen, hätte ich vermutlich schon vor vier Jahren meine heutige Akromegalie Diagnose erhalten. Danke dafür.",
+      "time": 1794918548,
+      "translated": false
+    },
+    {
+      "author_name": "mn",
+      "author_url": "https://www.google.com/maps/contrib/111246913177300095755/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcG5u3u4MSPMQQkYz2w5Q0E6xAmcvBKonBoitT4b_la9DaCg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich bin vor vielen Jahren mit der Beschwerde zur Hautärztin gefahren, dass sich meine Kopfhaut wellenartig wölbte. Zwei mal getastet und Diagnose stand fest: FETTGEWEBE. Hätte die Ärztin damals bisschen mehr zugehört und mich ernst genommen, hätte ich vermutlich schon vor vier Jahren meine heutige Akromegalie Diagnose erhalten. Danke dafür.",
       "time": 1794918548,
       "translated": false
@@ -2122,11 +2168,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 418,
+  "reviewCount": 416,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:51.058Z"
+  "lastUpdated": "2026-11-25T15:17:04.900Z"
 }

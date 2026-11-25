@@ -51,6 +51,16 @@
       "translated": false
     },
     {
+      "author_name": "Ksenia Alexandrovna",
+      "author_url": "https://www.google.com/maps/contrib/101012318528530342441/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-y4XvhK4uIFJSAJdaK4aiHkVNZukpOV3MIIyxFQt3OMMNtjpC=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1792913991,
+      "translated": false
+    },
+    {
       "author_name": "Izabela",
       "author_url": "https://www.google.com/maps/contrib/101292473471306489540/reviews",
       "language": "de",
@@ -106,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRg5KhmFihBB6CJpU07WwIFa3kZS_02bRA69qQr9sQe6rBREU=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Dankeschon",
+      "time": 1792828690,
+      "translated": false
+    },
+    {
+      "author_name": "Izabela",
+      "author_url": "https://www.google.com/maps/contrib/101292473471306489540/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRg5KhmFihBB6CJpU07WwIFa3kZS_02bRA69qQr9sQe6rBREU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Dankeschon",
       "time": 1792828690,
       "translated": false
@@ -922,5 +944,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:53.575Z"
+  "lastUpdated": "2026-11-25T15:17:07.445Z"
 }

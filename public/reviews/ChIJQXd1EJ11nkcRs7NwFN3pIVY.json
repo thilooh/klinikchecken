@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "sead cirkinovic",
+      "author_url": "https://www.google.com/maps/contrib/116214299949677101584/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvYJEV6TqK69ufO0iY3vEjvnu_Uc3F3iQ4gxvz_2U3i0x6tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795430719,
+      "translated": false
+    },
+    {
       "author_name": "rollergirl",
       "author_url": "https://www.google.com/maps/contrib/110008336138852090229/reviews",
       "language": "de",
@@ -572,7 +582,7 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 22,
+  "reviewCount": 23,
   "summary": [],
-  "lastUpdated": "2026-11-22T13:03:23.009Z"
+  "lastUpdated": "2026-11-25T15:16:36.001Z"
 }

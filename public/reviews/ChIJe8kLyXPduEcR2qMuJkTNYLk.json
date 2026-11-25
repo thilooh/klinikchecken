@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Birgit Moeller-Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/115467853768811715837/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2lG1PfU6ZYHMfEdsYb5R3OYI7Xslq0Zmbq_IMMRSBUY8gGA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Sehr zugewandter Arzt, nettes freundliches Personal",
+      "time": 1793018294,
+      "translated": false
+    },
+    {
       "author_name": "CHRISTIAN Rusch",
       "author_url": "https://www.google.com/maps/contrib/109197144071925844334/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXd9-vJHffTQVMzwqgusdh6OSqdob4qFWKVvA33-7U-Lpr5t-xLzQ=s128-c0x00000000-cc-rp-mo",
@@ -224,6 +236,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNAwPoSCWte6SCzSAWNmQAQ_JOLl4EX3W2pzgm3MXuW7dTCzO1=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Super freundlich und kompetent.\nMit viel Zeit für alle Fragen.\nSehr zu empfehlen",
+      "time": 1790252164,
+      "translated": false
+    },
+    {
+      "author_name": "Rosi F",
+      "author_url": "https://www.google.com/maps/contrib/106295485299577581855/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNAwPoSCWte6SCzSAWNmQAQ_JOLl4EX3W2pzgm3MXuW7dTCzO1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Super freundlich und kompetent.\nMit viel Zeit für alle Fragen.\nSehr zu empfehlen",
       "time": 1790252164,
       "translated": false
@@ -840,5 +864,5 @@
   "rating": 4.7,
   "reviewCount": 51,
   "summary": [],
-  "lastUpdated": "2026-11-22T13:03:27.460Z"
+  "lastUpdated": "2026-11-25T15:16:40.504Z"
 }

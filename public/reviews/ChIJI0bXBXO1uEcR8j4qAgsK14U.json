@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Roman Burghartz",
+      "author_url": "https://www.google.com/maps/contrib/117824258527345079391/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInZtTNTN1jInE5Jg7XjG1LdPRVMLLhcrenMIAL6xzTJ2HTrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Alles tipptopp. Ich war zum ersten Mal da. Professionelle und schnelle Untersuchung. Arzt sehr kompetent und freundlich. Hat auch eine spontane Anfrage nett und unbürokratisch direkt vor Ort gelöst !",
+      "time": 1795544910,
+      "translated": false
+    },
+    {
+      "author_name": "Heidi Dittmer",
+      "author_url": "https://www.google.com/maps/contrib/116356499309235697722/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_n5Ubiy6isCiO7mJRrN3QkFzTTCemPon1MOb9Wv9IzVAFnw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine tolle Praxis mit netten, kompetenten Ärzten und Mitarbeiter:innen ;-)\nIch war insgesamt 2x dort, beim ersten Mal als Selbstzahler im Dermascanner. Die Untersuchung ging zügig und war sehr gründlich. Danach hat mir der untersuchende Arzt alles erklärt und ein paar wenige Muttermale wurden nochmals von ihm angesehen und für unbedenklich bewertet.\nAuf meinen Wunsch wurde zu einem 2. Termin ein \"Hautanhängsel\" mit dem Laser entfernt. Ebenfalls auf meinen eigenen Wunsch, deswegen als Selbstzahlerleistung.\nWieder empfing mich ein netter Arzt,  der die Behandlung durchführte. Ich habe weder von der Betäubung noch vom Lasern etwas gespürt.\nDie Wundheilung ging zügig, nach 2 Wochen war es wunderbar abgeheilt. Ich bin rundum zufrieden mit der Praxis,  den Ärzten, dem Personal und der Behandlung. Ich kann diese Praxis nur weiterempfehlen. Nächstes Jahr gehe ich wieder zur Vorsorge.",
+      "time": 1795348299,
+      "translated": false
+    },
+    {
       "author_name": "viktor andok",
       "author_url": "https://www.google.com/maps/contrib/100255570156293120916/reviews",
       "language": "de",
@@ -2060,11 +2084,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 361,
+  "reviewCount": 362,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-22T13:03:59.775Z"
+  "lastUpdated": "2026-11-25T15:17:13.938Z"
 }

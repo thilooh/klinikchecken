@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Ralf Pietrzak",
+      "author_url": "https://www.google.com/maps/contrib/115060684288969634868/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJIby25EU2Del8Ea95w5Bzu3UNoXGQ2OxgMjt-ooT4UjYl2r_6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nach der Unterstützung bei einer Fehldiagnose erneut von Frau Dr. Ahmadzadeh super freundlich und empathisch beraten worden. Super, uneingeschränkte Empfehlung!",
+      "time": 1795611001,
+      "translated": false
+    },
+    {
       "author_name": "Erika Martin",
       "author_url": "https://www.google.com/maps/contrib/109911036040029060612/reviews",
       "language": "de",
@@ -2286,5 +2298,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:46.946Z"
+  "lastUpdated": "2026-11-25T15:17:00.727Z"
 }

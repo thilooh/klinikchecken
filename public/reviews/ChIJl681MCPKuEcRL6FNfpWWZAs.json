@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Narimen Khadraoui",
+      "author_url": "https://www.google.com/maps/contrib/108341631777182140025/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLCS-VJlHXpOvNRAAWZH5rO1wMErWsqrrPjnJMWqcVQxWGp-HV=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Mitarbeiterinnen an der Anmeldung waren sehr nett und freundlich. Leider war die Wartezeit eine Katastrophe. Auch mit der Ärztin war ich überhaupt nicht zufrieden( nicht die Frau Doktor Peveling-\nOberhag , sondern die andre) Sie war unfreundlich, hat nichts erklärt, mich direkt untersucht und mir anschließend einfach einen Brief gegeben. Eine richtige Aufklärung oder ein freundliches Gespräch hat überhaupt nicht stattgefunden. Ich habe mich nicht gut aufgehoben gefühlt. Leider war das insgesamt eine sehr enttäuschende Erfahrung.",
+      "time": 1795594738,
+      "translated": false
+    },
+    {
       "author_name": "Zuzanna Bittner",
       "author_url": "https://www.google.com/maps/contrib/113518211746401706367/reviews",
       "language": "de",
@@ -658,8 +670,8 @@
       "time": 1726128169
     }
   ],
-  "rating": 4.5,
-  "reviewCount": 21,
+  "rating": 4.4,
+  "reviewCount": 22,
   "summary": [],
-  "lastUpdated": "2026-11-22T13:03:18.188Z"
+  "lastUpdated": "2026-11-25T15:16:31.109Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Melanie Löwer",
+      "author_url": "https://www.google.com/maps/contrib/100877577459351243351/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTZ2lNZUE2QLfdfhc3l8ptex97Vq_sDv584WPH5jzZnbpVQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super arzt.klärt immer gut auf.\nUnd super Team.\nEgal wie voll die Praxis ist,\nDoe mädels haben immer ein Lächeln 😃\n⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️",
+      "time": 1795432787,
+      "translated": false
+    },
+    {
       "author_name": "Taroub El.",
       "author_url": "https://www.google.com/maps/contrib/105001558504390350153/reviews",
       "language": "de",
@@ -18,6 +30,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI__G1IK2jtMjqlEitAC531wyPB_5Ky2aNAui7vJdxMmyGeYg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794845775,
+      "translated": false
+    },
+    {
+      "author_name": "Khadija",
+      "author_url": "https://www.google.com/maps/contrib/117410373275856929447/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI__G1IK2jtMjqlEitAC531wyPB_5Ky2aNAui7vJdxMmyGeYg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1794845775,
       "translated": false
@@ -1674,11 +1696,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 187,
+  "reviewCount": 188,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:35.585Z"
+  "lastUpdated": "2026-11-25T15:16:48.931Z"
 }

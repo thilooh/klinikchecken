@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Michael Harl",
+      "author_url": "https://www.google.com/maps/contrib/101180078919729625169/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcRDNBE7605iByO1CFMZhiiimKhqdZwahbxxfCM6cXgBGF5vAKZA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Äußerst kompetente und freundliche Sprechstundenhilfe",
+      "time": 1795505526,
+      "translated": false
+    },
+    {
       "author_name": "Anja Hauzel",
       "author_url": "https://www.google.com/maps/contrib/102351391746959916837/reviews",
       "language": "de",
@@ -20,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk_mcgAAqAstnciZTd1xC06EmUAc1NKCWqNAPXYDddlzLgmQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Super Team, alles war top!!!",
+      "time": 1794175856,
+      "translated": false
+    },
+    {
+      "author_name": "Anja Hauzel",
+      "author_url": "https://www.google.com/maps/contrib/102351391746959916837/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk_mcgAAqAstnciZTd1xC06EmUAc1NKCWqNAPXYDddlzLgmQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Super Team, alles war top!!!",
       "time": 1794175856,
       "translated": false
@@ -798,11 +822,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 47,
+  "reviewCount": 48,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:39.917Z"
+  "lastUpdated": "2026-11-25T15:16:53.324Z"
 }

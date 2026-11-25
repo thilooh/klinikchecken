@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Anke Speck",
+      "author_url": "https://www.google.com/maps/contrib/106185336184671532929/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxVikJ7y3oc7beNjHriybLMvCkkNN0BChTNt7KxhEvGqelIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Diesmal Online den Termin gebucht, ohne Wartezeit direkt von einer jungen, kompetenten Ärztin untersucht und behandelt worden.\nPersonal sehr freundlich, Wartezimmer ansprechend.\nBin schon einige Jahre dort in Behandlung bei Frau Dr Mrowka. Sie ist sehr gründlich und versiert. Ausserdem total nett.\nBin zufrieden in der Praxis .",
+      "time": 1795597938,
+      "translated": false
+    },
+    {
+      "author_name": "Ilona Smokorovska",
+      "author_url": "https://www.google.com/maps/contrib/118006360985576172500/reviews",
+      "language": "uk",
+      "original_language": "uk",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEgtiI82kShyag6-F2tM0vVuD5xu0lRPmaD_G86EWWlXs7R8PKNA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Мій термін був швидким, лише 15 хвилин, також я не отримав відповіді на всі питання, бо мені сказали:ʼʼВаш час вичерпано!ʼʼ",
+      "time": 1795541442,
+      "translated": false
+    },
+    {
       "author_name": "Daniel Schubert",
       "author_url": "https://www.google.com/maps/contrib/114698971764346553232/reviews",
       "language": "de",
@@ -2866,11 +2890,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2490,
+  "reviewCount": 2493,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-22T13:03:32.077Z"
+  "lastUpdated": "2026-11-25T15:16:45.241Z"
 }

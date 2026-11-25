@@ -1,6 +1,26 @@
 {
   "reviews": [
     {
+      "author_name": "Dalibor Mandic",
+      "author_url": "https://www.google.com/maps/contrib/112623794470789132505/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAS70O1aj5XrDwnFsYUadgZKXGW5jxqv_0cB79CXFY3gNZEg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795503806,
+      "translated": false
+    },
+    {
+      "author_name": "Friendly Hermit",
+      "author_url": "https://www.google.com/maps/contrib/111329685113872984531/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7AbOrrKnO7fIpR5N5JssG6WclRUZzE0zXxUehQWEoI2H5rVg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795453179,
+      "translated": false
+    },
+    {
       "author_name": "Ali Jahan",
       "author_url": "https://www.google.com/maps/contrib/111675730716974351026/reviews",
       "language": "de",
@@ -20,6 +40,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVATi_Ry7ZFcbskgMcEZB_wZ7hdiIE4x1fTLx6cLEjF1IGh5h-Y=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Einfach richtig unfreundlich sogar am Telefon wird man abgewimmelt. Sehr sehr frech, purer hass für diese genervten Mitarbeiter. Ciao. Wünsch euch das Ihr euch euren kleinen Fußzeh täglich anstoßt! Am besten bei der 940 am Ende nicht anrufen!!!!",
+      "time": 1794903557,
+      "translated": false
+    },
+    {
+      "author_name": "Max Schönfeld",
+      "author_url": "https://www.google.com/maps/contrib/110621394678682670827/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVATi_Ry7ZFcbskgMcEZB_wZ7hdiIE4x1fTLx6cLEjF1IGh5h-Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Einfach richtig unfreundlich sogar am Telefon wird man abgewimmelt. Sehr sehr frech, purer hass für diese genervten Mitarbeiter. Ciao. Wünsch euch das Ihr euch euren kleinen Fußzeh täglich anstoßt! Am besten bei der 940 am Ende nicht anrufen!!!!",
       "time": 1794903557,
       "translated": false
@@ -2018,11 +2050,11 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 250,
+  "reviewCount": 252,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:40.670Z"
+  "lastUpdated": "2026-11-25T15:16:54.108Z"
 }

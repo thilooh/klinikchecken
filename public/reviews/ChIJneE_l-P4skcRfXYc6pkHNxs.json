@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Werner Garling",
+      "author_url": "https://www.google.com/maps/contrib/115999055505618138492/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXm6017QxVMepR6rOriMIKz8X9sKojsrMr76ZfPyqFGLktNxco=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich veruche einen Termin zu bekommen. Klappt in keinster Weise. Anruf werde abgeblockt und per DocLips gibt es keine Chance. Ich werde mir einen anderen Arzt suchen.",
+      "time": 1795513047,
+      "translated": false
+    },
+    {
+      "author_name": "Ram Cho",
+      "author_url": "https://www.google.com/maps/contrib/100270343122129226585/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrzAyYnjCZdRUI5pxZQ52WP9VNdWWXQ5KN_jXaxtlImsxDkA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin mit der Nachsorge total unzufrieden. Zum zweiten Mal musste ich ohne Versorgung nach Hause weil angeblich niemand ab 17 Uhr da ist um die zwei Fäden zu ziehen. Ich frage mich warum überhaupt die Praxis bis 18 Uhr auf hat? Man könnte wenigstens darüber  informiert werden!!!",
+      "time": 1795452221,
+      "translated": false
+    },
+    {
       "author_name": "Kerstin Gade",
       "author_url": "https://www.google.com/maps/contrib/105048499589834204988/reviews",
       "language": "de",
@@ -8,6 +32,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8LxeAi9zk8av7tcsnNV9aEZJ4d09TZf-EfO1MhKZfLvidBg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "in der letzten Woche",
+      "text": "Meine Familie und ich sind schon länger in Behandlung in dieser Praxis. Ich bin das\neinzige gesetzlich versicherte Familienmitglied, mein Mann und unsere vier Kinder sind privat versichert. Diese Praxis unterscheidet extrem zwischen privat und gesetzlich Versicherten, was sich insbesondere bei der Online-Terminvergabe zeigt. Ich habe tatsächlich mal direkt verglichen. Nächstmöglicher Termin bei mir wäre mindestens drei Monate später als bei meinem Mann gewesen.\nIch hatte bereits seit Längerem einen Termin für Ende Januar zur Hautkrebsvorsorge vereinbart (also in gut 2 Monaten). Dieser Termin wurde heute mit der Begründung „Urlaub“ abgesagt. Online, kein Anruf. Nächstmöglicher Termin im Mai (!!!).\nAuch bei akuten Problemen wird man hier als Kassenpatient nicht behandelt. Ich hatte ein großes Muttermal an der Schläfe, das innerhalb weniger Wochen deutlich an Dicke zugenommen hat. Ich hab mir große Sorgen gemacht. Ein Termin war dennoch erst 2 Wochen später möglich und selbst für diesen Termin wurde mir in Aussicht gestellt, dass er vermutlich abgesagt würde aufgrund personeller Engpässe.\nMeine Teenager-Tochter dagegen (privat über meinen Mann versichert) bekommt mit ihren Akne-Problemen meist innerhalb weniger Tage zuverlässig einen Termin.\nIch finde eine solches Management schwierig und am Patienten vorbei. Wir überlegen derzeit, uns trotz des praktischen kurzen Wegs zur Praxis einen neuen Familien-Hautarzt zu suchen. Sehr schade!",
+      "time": 1794852224,
+      "translated": false
+    },
+    {
+      "author_name": "Kerstin Gade",
+      "author_url": "https://www.google.com/maps/contrib/105048499589834204988/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8LxeAi9zk8av7tcsnNV9aEZJ4d09TZf-EfO1MhKZfLvidBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
       "text": "Meine Familie und ich sind schon länger in Behandlung in dieser Praxis. Ich bin das\neinzige gesetzlich versicherte Familienmitglied, mein Mann und unsere vier Kinder sind privat versichert. Diese Praxis unterscheidet extrem zwischen privat und gesetzlich Versicherten, was sich insbesondere bei der Online-Terminvergabe zeigt. Ich habe tatsächlich mal direkt verglichen. Nächstmöglicher Termin bei mir wäre mindestens drei Monate später als bei meinem Mann gewesen.\nIch hatte bereits seit Längerem einen Termin für Ende Januar zur Hautkrebsvorsorge vereinbart (also in gut 2 Monaten). Dieser Termin wurde heute mit der Begründung „Urlaub“ abgesagt. Online, kein Anruf. Nächstmöglicher Termin im Mai (!!!).\nAuch bei akuten Problemen wird man hier als Kassenpatient nicht behandelt. Ich hatte ein großes Muttermal an der Schläfe, das innerhalb weniger Wochen deutlich an Dicke zugenommen hat. Ich hab mir große Sorgen gemacht. Ein Termin war dennoch erst 2 Wochen später möglich und selbst für diesen Termin wurde mir in Aussicht gestellt, dass er vermutlich abgesagt würde aufgrund personeller Engpässe.\nMeine Teenager-Tochter dagegen (privat über meinen Mann versichert) bekommt mit ihren Akne-Problemen meist innerhalb weniger Tage zuverlässig einen Termin.\nIch finde eine solches Management schwierig und am Patienten vorbei. Wir überlegen derzeit, uns trotz des praktischen kurzen Wegs zur Praxis einen neuen Familien-Hautarzt zu suchen. Sehr schade!",
       "time": 1794852224,
       "translated": false
@@ -48,6 +84,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6QDfx-u9FGUwh4-BBN9BUXstHXwpQiqFqYH6QvYQejQLFbEo=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794212070,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Vogt",
+      "author_url": "https://www.google.com/maps/contrib/113223290206140199949/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6QDfx-u9FGUwh4-BBN9BUXstHXwpQiqFqYH6QvYQejQLFbEo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1794212070,
       "translated": false
@@ -1324,11 +1370,11 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 112,
+  "reviewCount": 114,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:30.033Z"
+  "lastUpdated": "2026-11-25T15:16:43.111Z"
 }

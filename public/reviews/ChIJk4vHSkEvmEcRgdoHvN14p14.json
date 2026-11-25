@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Jasmin",
+      "author_url": "https://www.google.com/maps/contrib/102513587634869335796/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP9OBAhLdaziDxizICLHe5srFy08iti5IE8J3-nVRr5ZSHh9k=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin schockiert!\nAngefangen hat es mit einer riesen Warteschlange vor der Schiebetür. Erstmal kein Problem allerdings wurden hier die Patienten die sich von drin vorgedrängt haben zuerst dran genommen was zu einer Wartezeit von 30 Minuten geführt hat nur um sich anzumelden!!\nDie Patienten die versehentlich zu früh eingetreten sind wurden von der Sprechstundenhilfe auf einer SEHR aggressiven und laute Art angeschrien… so etwas unverschämtes habe ich noch nie erlebt. Mein Termin wurde während des Wartens schon über die App nach hinten verschoben… man sollte eventuell nicht so viel Patienten annehmen wenn man diese nicht behandeln kann.\nLeider ein sehr schreckliches Erlebnis hier.",
+      "time": 1795531496,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie",
+      "author_url": "https://www.google.com/maps/contrib/106193001982669969071/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVb-rXqAPgt4E4gp4O4ezKno7abvSlk3dN-SJzJ_EYHwrKL4VA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Dr. Salzer ist der einzige Arzt, der mir sagen konnte, dass meine Pickel Akne waren und hat mir dementsprechend sehr gut mit Aknenormin geholfen diese zu beseitigen.\nVielen Dank an dieser Stelle noch einmal! Seitdem habe ich viel mehr Selbstbewusstsein und mehr Lebensqualität.",
+      "time": 1795441850,
+      "translated": false
+    },
+    {
       "author_name": "Barbara Frank",
       "author_url": "https://www.google.com/maps/contrib/113778839469268498288/reviews",
       "language": "de",
@@ -1990,11 +2014,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 221,
+  "reviewCount": 223,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:04:01.257Z"
+  "lastUpdated": "2026-11-25T15:17:15.434Z"
 }

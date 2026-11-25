@@ -1,6 +1,52 @@
 {
   "reviews": [
     {
+      "author_name": "Uni Versal",
+      "author_url": "https://www.google.com/maps/contrib/109983325501649948300/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd2X95h5_IUp_kV5w-9a5qS79uRGlSXLpEZ0azEwNmFPTQ6sUl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich fühle mich dort sehr wohl und sehr gut aufgehoben. Meine Botoxbehandlung ist immer sehr entspannt und ich gehe immer mit einem tollen Ergebnis raus.",
+      "time": 1795605070,
+      "translated": false
+    },
+    {
+      "author_name": "Chris",
+      "author_url": "https://www.google.com/maps/contrib/115517165129720884899/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6MQCC_ScPpSvjfEt063P6j5hvJJySJpOiI9t5PPSdvr2acQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin unfassbar begeistert von der Skin&Soul Clinic! Ich kann allen hier nur zustimmen. Ich wurde von Anfang bis Ende überaus professionell und freundlich behandelt. Die beiden sind super herzlich, und ich habe mich direkt wohl und gut aufgehoben gefühlt. Alles wurde mir ausführlich erklärt, und man hat sich wirklich viel Zeit für mich genommen. Genau das, was es kaum noch gibt !! Das Ergebnis meiner Behandlung ist einfach geil. Ich werde auf jeden Fall wiederkommen und kann die Praxis von Herzen weiterempfehlen!\nDanke an euch beide, bin super Happy und freue mich auf den nächsten Termin.",
+      "time": 1795533204,
+      "translated": false
+    },
+    {
+      "author_name": "Nooria Amin",
+      "author_url": "https://www.google.com/maps/contrib/109723116096151319622/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGYZjuP8nYCBibq6Y1-cqVz2aZiWf-MhgyeKS6Mm8QQILCXl_a=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Very talented and Professional doctor",
+      "time": 1795518481,
+      "translated": false
+    },
+    {
+      "author_name": "Jana H.",
+      "author_url": "https://www.google.com/maps/contrib/105215813064639965737/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqTnU0P_vscFNEt6VcR2o4Xp9Q7xyL_oFXaYUDz4ycm5l6CQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795445676,
+      "translated": false
+    },
+    {
       "author_name": "Tanja de Bruijn",
       "author_url": "https://www.google.com/maps/contrib/103968517790948975457/reviews",
       "language": "de",
@@ -1930,11 +1976,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 243,
+  "reviewCount": 245,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-22T13:03:51.565Z"
+  "lastUpdated": "2026-11-25T15:17:05.397Z"
 }

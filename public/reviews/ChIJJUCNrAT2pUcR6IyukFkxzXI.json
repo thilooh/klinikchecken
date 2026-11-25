@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Beyer",
+      "author_url": "https://www.google.com/maps/contrib/100362951034129882519/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmIzdZJ8gYXwChyjdyRuZRg6nPLk4AJqcTRLE_kxrwboTd0w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine freundliche, kompetente und gründliche Fachärztin, die ein gutes Patientenmanagement hat.",
+      "time": 1795523678,
+      "translated": false
+    },
+    {
       "author_name": "Dirk Hesse",
       "author_url": "https://www.google.com/maps/contrib/108047468669973219540/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcEj6YwNT4FjcUoAD_sLCT1hz7c4U8UFiJkJGkiwEMCiYq=s128-c0x00000000-cc-rp-mo-ba4",
@@ -76,6 +88,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIx4JCUfq3hCLT4ocDKdvJyP-ZB5nVZU-FapJHyxJ8tCUzepA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1793105692,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Richter",
+      "author_url": "https://www.google.com/maps/contrib/113399839419084765142/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIx4JCUfq3hCLT4ocDKdvJyP-ZB5nVZU-FapJHyxJ8tCUzepA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "",
       "time": 1793105692,
       "translated": false
@@ -1084,11 +1106,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 59,
+  "reviewCount": 60,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:31.820Z"
+  "lastUpdated": "2026-11-25T15:16:44.988Z"
 }

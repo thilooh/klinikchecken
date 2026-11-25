@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Karl-Heinz Sammet",
+      "author_url": "https://www.google.com/maps/contrib/107754802187554927068/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ45ltWFHWKwyAIQmivegFmX-4reR_b_SnaxHU3gLXbrELqIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mit der Planung , der OP und der Nachversorgung bin ich äußerst zufrieden!\nDas beste ist die sofort sichbare Verbesserung.\nVielen Dank an das Ärzte - und Praxisteam.",
+      "time": 1795510137,
+      "translated": false
+    },
+    {
+      "author_name": "Alexandra Schneider",
+      "author_url": "https://www.google.com/maps/contrib/101887747749389405421/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLCq7gGfT8tNk6rpv7jlWwDXQxSuZSpr8lzWryhVmS73Cnag=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Online Termin, pünktlich dran gekommen. Schnelle Untersuchung und den Bericht gleich erhalten. Personal freundlich, hilfsbereit",
+      "time": 1795440724,
+      "translated": false
+    },
+    {
       "author_name": "Gelu Emilian Cirstea",
       "author_url": "https://www.google.com/maps/contrib/118128125470897113002/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFt2xL959AstDIEIVPnnN7QuC_KY7wnTywU6JzC97UDhZ-D8U=s128-c0x00000000-cc-rp-mo",
@@ -30,6 +54,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjTAO5c2vV5eI0b0mRw6dW43x0lTUTDQEMbibv-YEqjHz64A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Gute Arzt und freundliche Team,\nKann nur weiterempfehlen.",
+      "time": 1794390369,
+      "translated": false
+    },
+    {
+      "author_name": "Goran Lukic",
+      "author_url": "https://www.google.com/maps/contrib/114002668426559964106/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjTAO5c2vV5eI0b0mRw6dW43x0lTUTDQEMbibv-YEqjHz64A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Gute Arzt und freundliche Team,\nKann nur weiterempfehlen.",
       "time": 1794390369,
       "translated": false
@@ -1490,11 +1526,11 @@
     }
   ],
   "rating": 3.8,
-  "reviewCount": 102,
+  "reviewCount": 104,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:04:01.011Z"
+  "lastUpdated": "2026-11-25T15:17:15.185Z"
 }

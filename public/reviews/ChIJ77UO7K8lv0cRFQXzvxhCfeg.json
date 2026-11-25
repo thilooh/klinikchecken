@@ -37,11 +37,33 @@
       "translated": false
     },
     {
+      "author_name": "Sven Rabe",
+      "author_url": "https://www.google.com/maps/contrib/100824588302654791833/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtNsjJKetbIyt_j6u-JhPqaUvyIc-0qVguENKI8BSyyneztg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich war heute bei Frau Dr. Huhn in der Praxis Dermatologie am Dom. Sie war super nett, hat alles ausführlich erklärt und hat sich für meine Beschwerden auch Zeit genommen. Ich war rundum zufrieden. Vielen Dank!",
+      "time": 1794950448,
+      "translated": false
+    },
+    {
       "author_name": "Cemil Özüsaglam",
       "author_url": "https://www.google.com/maps/contrib/107398323418137138132/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgNzRupKsxLZIwVp_uvnu2SxaFI6DNlfU6-i8QXYjqLXnMsQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1794860885,
+      "translated": false
+    },
+    {
+      "author_name": "Cemil Özüsaglam",
+      "author_url": "https://www.google.com/maps/contrib/107398323418137138132/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgNzRupKsxLZIwVp_uvnu2SxaFI6DNlfU6-i8QXYjqLXnMsQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1794860885,
       "translated": false
@@ -72,6 +94,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHUsj4ckq6dRum0O5596wq5NgQLJ_r9rERQPPOzMKnLu_G7w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793547285,
+      "translated": false
+    },
+    {
+      "author_name": "Tschiman Ibrahim",
+      "author_url": "https://www.google.com/maps/contrib/100542055212570065391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHUsj4ckq6dRum0O5596wq5NgQLJ_r9rERQPPOzMKnLu_G7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793547285,
       "translated": false
@@ -1255,5 +1287,5 @@
     "Hautkrebsscreening gilt als professionell und schnell — kaum Wartezeiten",
     "Vereinzelt werden Diagnoseprobleme erwähnt"
   ],
-  "lastUpdated": "2026-11-22T13:03:13.488Z"
+  "lastUpdated": "2026-11-25T15:16:26.213Z"
 }

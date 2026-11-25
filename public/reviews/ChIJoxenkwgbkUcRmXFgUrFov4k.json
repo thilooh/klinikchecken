@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Sonja Kury",
+      "author_url": "https://www.google.com/maps/contrib/105737091130822048904/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIw4mUKQr_Aa62Qt9Frji_Q1k1_LqOhLLbeqBIL1PtuOVn0nA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795530774,
+      "translated": false
+    },
+    {
       "author_name": "Ottmar Blansche",
       "author_url": "https://www.google.com/maps/contrib/106816491231794326893/reviews",
       "language": "de",
@@ -822,11 +832,11 @@
     }
   ],
   "rating": 4,
-  "reviewCount": 101,
+  "reviewCount": 102,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:38.402Z"
+  "lastUpdated": "2026-11-25T15:16:51.768Z"
 }

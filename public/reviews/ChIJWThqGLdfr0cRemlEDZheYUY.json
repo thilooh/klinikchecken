@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "Ute Fritzlar",
+      "author_url": "https://www.google.com/maps/contrib/101165992577540825058/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4n45L63EPOM2oNNJcotwHGLcYRG8XdvMM0252T_Mt72pwl6E=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Von Anfang an in guten Händen - vor-während & nach der OP  kompetent-aufklärend & einfühlsam begleitet...  Ein herzliches Dankeschön an das gesamte Team – von der ärztlichen Betreuung über die Anästhesie bis hin zur Pflege auf der Komfortstation... wenn es um Gesundheit geht - wähle ich immer wieder das MVZ \"Im Altstadtquartier\", weil hier der Mensch mit seinen individuellen Bedürfnissen im Mittelpunkt steht & die fachliche Kompetenz mit Emphatie & einem Lächeln im Gesicht für das Wohlbefinden sorgt... DANKESCHÖN!",
+      "time": 1795611265,
+      "translated": false
+    },
+    {
+      "author_name": "Erika Gericke",
+      "author_url": "https://www.google.com/maps/contrib/113584382427319094062/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLItANMZbxhaqBKCGABh72bFkG4TNuMYSl_CEiMzeDWTLV0RQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr freundliches und kompetentes Team (Stationsschwestern, OP-Schwestern, Ärzte). Ich fühlte mich sehr gut aufgehoben.",
+      "time": 1795540946,
+      "translated": false
+    },
+    {
+      "author_name": "delan mnich",
+      "author_url": "https://www.google.com/maps/contrib/100957737845981260002/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLX28Odx1cq-p6AURNZVUBu_bS9mebWSOjCOdqePwm1fHaeLA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann es nicht weiterempfehlen.  Hatte 2 verschiedene Ärzte und beide sehr unfreundlich. Ich habe mich garnicht gut aufgehoben gefühlt. Also mich sehen die da nicht mehr freiwillig. Die Schwestern sind sehr nett.",
+      "time": 1795463006,
+      "translated": false
+    },
+    {
+      "author_name": "Elena Zeller",
+      "author_url": "https://www.google.com/maps/contrib/111081937894433851026/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjJ2Jlzzt1GM8mlQBnku6c2QbTj-4iYeaRiW3n8haHiAylEiAZ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Vielen Dank an das Personal. Man fühlt sich so aufgehoben und verstanden. Vin der Anmeldung bis zum OP-Saal ist die Begleitung und Betreuung   super professionell gewesen.",
+      "time": 1795449380,
+      "translated": false
+    },
+    {
       "author_name": "Frank Dittmann",
       "author_url": "https://www.google.com/maps/contrib/115918963267896684353/reviews",
       "language": "de",
@@ -2178,11 +2226,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 544,
+  "reviewCount": 548,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-22T13:03:31.292Z"
+  "lastUpdated": "2026-11-25T15:16:44.472Z"
 }

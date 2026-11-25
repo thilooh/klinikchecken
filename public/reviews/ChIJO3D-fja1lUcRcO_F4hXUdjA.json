@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "K. K.",
+      "author_url": "https://www.google.com/maps/contrib/114809417650715462249/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1ypXNJnhuM3TpbwHBca-knoFDtD9OSXbIzAmuKWmjFYBNEBzqEQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795353684,
+      "translated": false
+    },
+    {
       "author_name": "Kientz-Oberer Angelika",
       "author_url": "https://www.google.com/maps/contrib/108610768409208652462/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0j8McFYCGFfjCaB0kCfnhNaZOke0THRsj0lk-PHKagC5Jzg=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +26,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0j8McFYCGFfjCaB0kCfnhNaZOke0THRsj0lk-PHKagC5Jzg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794328302,
+      "translated": false
+    },
+    {
+      "author_name": "Kientz-Oberer Angelika",
+      "author_url": "https://www.google.com/maps/contrib/108610768409208652462/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0j8McFYCGFfjCaB0kCfnhNaZOke0THRsj0lk-PHKagC5Jzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1794328302,
       "translated": false
@@ -1797,12 +1817,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
+  "rating": 4.7,
   "reviewCount": 92,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-22T13:03:48.447Z"
+  "lastUpdated": "2026-11-25T15:17:02.252Z"
 }

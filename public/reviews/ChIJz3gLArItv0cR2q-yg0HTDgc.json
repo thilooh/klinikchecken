@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Olivia O.",
+      "author_url": "https://www.google.com/maps/contrib/103491666185419995323/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIb69ObXVZS2rKo-uJVk3KZhAOn-APYjsipaE0I4VxIUDRDzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Das Ambiente und die Einrichtung der Praxis sind schön. Leider habe ich mich bei meinem Besuch weder ernst genommen noch gut aufgehoben gefühlt.\nIch kam mit einem dermatologischen Anliegen, das mich bereits seit mehreren Jahren beschäftigt und zu dem ich mir eine gründlichere Abklärung gewünscht hätte. Als ich Zweifel an der gestellten Diagnose äußerte und mögliche alternative Ursachen ansprach, wurden meine Bedenken eher herablassend abgewiesen. Statt auf meine Fragen einzugehen, wurde ich zu mehr Geduld aufgefordert und die Diagnose mit absoluter Sicherheit vertreten, obwohl lediglich eine äußerliche Betrachtung erfolgte.\nGerade als Person mit dunklerer, melaninreicher Haut wünsche ich mir von Dermatologinnen und Dermatologen mehr Offenheit gegenüber möglichen alternativen Diagnosen, da sich Hauterkrankungen auf dunklerer Haut auch anders darstellen können. Es ist völlig in Ordnung, nicht auf alles sofort eine Antwort zu haben oder Unsicherheiten einzugestehen. Was ich jedoch nicht nachvollziehen kann, ist, eine Diagnose mit einer solchen Sicherheit zu vertreten, obwohl meine Symptome aus meiner Sicht nicht eindeutig dazu passen, und meine Bedenken dabei abzuwimmeln, statt ihnen aufgeschlossen nachzugehen.\nNoch am selben Tag habe ich glücklicherweise einen anderen Dermatologen aufgesucht, der meine Bedenken ernst genommen hat und offen dafür war, auch andere mögliche Ursachen in Betracht zu ziehen und diesen weiter nachzugehen.\nDiese Offenheit und Wertschätzung hätte ich mir auch hier gewünscht.",
+      "time": 1795437054,
+      "translated": false
+    },
+    {
+      "author_name": "Mar Stam",
+      "author_url": "https://www.google.com/maps/contrib/112311458756537869579/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIeU9IkcIi1pm2zSAGF_gvc5s2Cn8NCblSu07XjbcaQHVCzpng=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nMeine Frau und ich sind beide Patienten in dieser Praxis und können sie uneingeschränkt weiterempfehlen!\n\nVom ersten Kontakt bis zur Behandlung fühlt man sich hier bestens aufgehoben. Das gesamte Praxisteam ist ausgesprochen freundlich, aufmerksam und professionell. Besonders hervorheben möchten wir die ausführliche Beratung, die gründlichen Untersuchungen und die Zeit, die man sich für die Patienten nimmt.\n\nMan hat zu keinem Zeitpunkt das Gefühl, einfach nur schnell abgefertigt zu werden. Stattdessen wird auf Fragen und Anliegen individuell eingegangen, alles verständlich erklärt und man fühlt sich mit seinen Beschwerden wirklich ernst genommen.\n\nAuch die Organisation und die angenehme Atmosphäre in der Praxis verdienen großes Lob.\n\nMeine Frau und ich sind rundum zufrieden und sehr dankbar, eine so kompetente und herzliche Hautarztpraxis gefunden zu haben.\n\nEine absolute Empfehlung und mehr als verdiente fünf Sterne! ⭐⭐⭐⭐⭐",
+      "time": 1795415645,
+      "translated": false
+    },
+    {
       "author_name": "Hakan Dinc",
       "author_url": "https://www.google.com/maps/contrib/100629443456015674217/reviews",
       "language": "en",
@@ -32,6 +56,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX22007ui7IRIsVjT8R7WnI1tTsedZ19_1j8fT2YiCn4pK8eJry=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Der Wechsel hat sich gelohnt ! Sehr aufmerksam. Sehr genau. Man wird gar nicht abgefertigt und professionell betreut. Die Wartezeit war nur geringfügig, ein Termin konnte kurzfristig vereinbart werden. Optimal!",
+      "time": 1794207672,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver Bargfeld",
+      "author_url": "https://www.google.com/maps/contrib/115438739737759615385/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX22007ui7IRIsVjT8R7WnI1tTsedZ19_1j8fT2YiCn4pK8eJry=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Der Wechsel hat sich gelohnt ! Sehr aufmerksam. Sehr genau. Man wird gar nicht abgefertigt und professionell betreut. Die Wartezeit war nur geringfügig, ein Termin konnte kurzfristig vereinbart werden. Optimal!",
       "time": 1794207672,
       "translated": false
@@ -1769,7 +1805,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 318,
+  "reviewCount": 320,
   "summary": [],
-  "lastUpdated": "2026-11-22T13:03:19.983Z"
+  "lastUpdated": "2026-11-25T15:16:32.947Z"
 }
