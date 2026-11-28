@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Mohamad Sido",
+      "author_url": "https://www.google.com/maps/contrib/114673593691256787246/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt_WcNq5Lj70IqRcPgg4KHn48C29_Fec4EkJV0pCVEGBJPMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe an einem Freitag um 12:00 Uhr in der Praxis angerufen, da die Öffnungszeiten hier bis 13:00 Uhr angegeben sind. Mir wurde mitgeteilt, die Praxis sei bereits geschlossen, auch mein Hinweis, dass ich Selbstzahler bin, spielte keine Rolle. Stattdessen wurde mir gesagt, man habe kein Verständnis für meinen Anruf, weil es „Freitag, 12 Uhr“ sei. Im Anschluss wurde ich am Telefon angeschrien und das Gespräch wurde einfach durch Auflegen beendet. Ein völlig inakzeptables und unprofessionelles Verhalten.",
+      "time": 1795778114,
+      "translated": false
+    },
+    {
       "author_name": "Mathias Faiß",
       "author_url": "https://www.google.com/maps/contrib/110630160984964689474/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJji01mUxC1tiErOPAftwdT7kF9qWEvmj9tPVIJAnkz7lEUdQ=s128-c0x00000000-cc-rp-mo",
@@ -166,6 +178,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIUlcpTlV7wH8H-eW0pgkGkWzUVVMSYKGn3ckkpPeD6smDyg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 3 Monaten",
+      "text": "",
+      "time": 1785254953,
+      "translated": false
+    },
+    {
+      "author_name": "kostas Milonas",
+      "author_url": "https://www.google.com/maps/contrib/104874823434673922160/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIUlcpTlV7wH8H-eW0pgkGkWzUVVMSYKGn3ckkpPeD6smDyg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 4 Monaten",
       "text": "",
       "time": 1785254953,
       "translated": false
@@ -274,6 +296,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_5Xd3R1pvpvNBu3NiTv-mKKaiNXWBni1uwoPDFPaw5lpbkw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Monaten",
+      "text": "Bitte teilen Sie mir mit, ob mir diese Ärztin als Spezialistin empfohlen wurde. Ich möchte gerne wissen, ob sie Russisch spricht und ob ich über meine Krankenversicherung einen Termin bei ihr vereinbaren kann. Vielen Dank im Voraus für Ihre Antwort.",
+      "time": 1782722465,
+      "translated": true
+    },
+    {
+      "author_name": "Olena Dubynska",
+      "author_url": "https://www.google.com/maps/contrib/100714192914011264642/reviews",
+      "language": "de",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_5Xd3R1pvpvNBu3NiTv-mKKaiNXWBni1uwoPDFPaw5lpbkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
       "text": "Bitte teilen Sie mir mit, ob mir diese Ärztin als Spezialistin empfohlen wurde. Ich möchte gerne wissen, ob sie Russisch spricht und ob ich über meine Krankenversicherung einen Termin bei ihr vereinbaren kann. Vielen Dank im Voraus für Ihre Antwort.",
       "time": 1782722465,
       "translated": true
@@ -795,12 +829,12 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
-  "reviewCount": 111,
+  "rating": 4.8,
+  "reviewCount": 112,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell eingesetzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-25T15:17:16.481Z"
+  "lastUpdated": "2026-11-28T13:52:50.819Z"
 }

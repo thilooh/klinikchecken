@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Jessica Reimann",
+      "author_url": "https://www.google.com/maps/contrib/111794644978982975917/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrglQM19nHPIMMhARVdw3S6cNSfLqbzFjmvu2eUUI_9FD5og=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795704830,
+      "translated": false
+    },
+    {
       "author_name": "Оксана Пасечник",
       "author_url": "https://www.google.com/maps/contrib/117780097347497178942/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLI1feSH7gaX-t4grUYnHTTcIybYGqpg847reS_V1BouUDNFQ=s128-c0x00000000-cc-rp-mo",
@@ -126,6 +136,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCyLPRJoyY6lgsKpvOYgu9yF9n6Cs-vmN2u0QZ-07ounlK-Q=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Sehr nette, kompetente Ärzte",
+      "time": 1793342319,
+      "translated": false
+    },
+    {
+      "author_name": "Sandra Laudicina",
+      "author_url": "https://www.google.com/maps/contrib/108528954157682379754/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCyLPRJoyY6lgsKpvOYgu9yF9n6Cs-vmN2u0QZ-07ounlK-Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 4 Wochen",
       "text": "Sehr nette, kompetente Ärzte",
       "time": 1793342319,
       "translated": false
@@ -1796,11 +1818,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 195,
+  "reviewCount": 196,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:16:51.476Z"
+  "lastUpdated": "2026-11-28T13:52:28.568Z"
 }

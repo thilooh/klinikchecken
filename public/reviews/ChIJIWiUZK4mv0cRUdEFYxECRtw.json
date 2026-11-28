@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Alona Hnatovska",
+      "author_url": "https://www.google.com/maps/contrib/103005675928263650560/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNGST-v8fh6pITG_HEooxKFjcRUtBMowOwgjGusRorFZudSbXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795630979,
+      "translated": false
+    },
+    {
       "author_name": "Christian Mengel",
       "author_url": "https://www.google.com/maps/contrib/101725097970100069620/reviews",
       "language": "de",
@@ -948,8 +958,8 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 70,
+  "rating": 4.3,
+  "reviewCount": 71,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:29.873Z"
+  "lastUpdated": "2026-11-28T13:52:09.186Z"
 }

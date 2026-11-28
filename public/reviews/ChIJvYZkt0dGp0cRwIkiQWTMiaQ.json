@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Michał Pawełka",
+      "author_url": "https://www.google.com/maps/contrib/100641573820095558892/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJ5wqQX3DmQNIJReLxwmLpu5vSuR-j6m3Mtcn9T6jd9zH-V0k=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795644068,
+      "translated": false
+    },
+    {
       "author_name": "Lola",
       "author_url": "https://www.google.com/maps/contrib/102056748961320734322/reviews",
       "language": "de",
@@ -292,6 +302,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGnEc7vbO0C_r8kQ-sY6RYtUCcJuVrq1rkWR9Tn3iyKnOxOA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Monaten",
+      "text": "",
+      "time": 1782844264,
+      "translated": false
+    },
+    {
+      "author_name": "Lilimar Romero",
+      "author_url": "https://www.google.com/maps/contrib/115437113605492348783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGnEc7vbO0C_r8kQ-sY6RYtUCcJuVrq1rkWR9Tn3iyKnOxOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 5 Monaten",
       "text": "",
       "time": 1782844264,
       "translated": false
@@ -891,12 +911,12 @@
       "translated": false
     }
   ],
-  "rating": 4.1,
-  "reviewCount": 54,
+  "rating": 4.2,
+  "reviewCount": 55,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:16:57.698Z"
+  "lastUpdated": "2026-11-28T13:52:34.311Z"
 }

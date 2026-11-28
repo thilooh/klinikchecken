@@ -1,11 +1,45 @@
 {
   "reviews": [
     {
+      "author_name": "Andreas H.",
+      "author_url": "https://www.google.com/maps/contrib/116905609414811358414/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQEAe7lhBiM9aFnzglrWCjpoHm1rzpZMRgD943vLVnzxpY0g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Uneingeschränkt empfehlenswert. Dr. Oliver Weirich und sein gesamtes Team überzeugen durch exzellente Leistungen.",
+      "time": 1795786955,
+      "translated": false
+    },
+    {
+      "author_name": "Walter Petersohn",
+      "author_url": "https://www.google.com/maps/contrib/109082657092330984194/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMA7Cd_X_yrdZ8IBG3eb_FukWGbjvrbHzSvulEbFXppvN_kA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Miserabler Service - wie beim Kassenarzt:\nMini Wartezimmer, total vermieft. 30 Min Verzögerung beim Info-Erstgespräch, ohne dass ich über die Verzögerung informiert wurde. Keine Entschuldigung, keine Info zur Verspätung, kein Kaffee als Entschädigung - da bin ich gegangen. Aber vom Patient wird sogar erwartet, dass er sein Erscheinen pünktlich zum Termin schriftlich bestätigt! Kann nur hoffen, dass die OPs besser laufen als der Empfang. Ich gehe zum Ethianum nach Heidelberg.",
+      "time": 1795711167,
+      "translated": false
+    },
+    {
       "author_name": "Andrea Ker",
       "author_url": "https://www.google.com/maps/contrib/108032689440938544250/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIV2IsAT1FsSGnwrRI1veHFqim9s2ONW2TkjkFhLbc47lBt2Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795186696,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Ker",
+      "author_url": "https://www.google.com/maps/contrib/108032689440938544250/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIV2IsAT1FsSGnwrRI1veHFqim9s2ONW2TkjkFhLbc47lBt2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1795186696,
       "translated": false
@@ -1650,11 +1684,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 193,
+  "reviewCount": 195,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-25T15:17:13.444Z"
+  "lastUpdated": "2026-11-28T13:52:48.087Z"
 }

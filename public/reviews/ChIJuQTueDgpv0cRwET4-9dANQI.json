@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Blagica Boras",
+      "author_url": "https://www.google.com/maps/contrib/103887401103319063568/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwz6vsCf9Ck_kXCesTSekLMERhGajOb454snhndOqkZZPTzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mehr als zufrieden mit LevVital! Die Lymphdrainage war wirklich sehr gut und wirkungsvoll. Ich habe bereits nach den Behandlungen eine deutliche positive Veränderung gespürt und gemerkt, wie gut sie meinen Beinen getan hat.\n\nIch kann die Lymphdrainage wirklich jedem von Herzen empfehlen, besonders Menschen, die beruflich viel stehen oder lange auf den Beinen sind.\n\nDas gesamte Personal ist unglaublich freundlich, herzlich und zuvorkommend. Man fühlt sich direkt wohl und gut aufgehoben.\n\nIch bin rundum begeistert und mehr als zufrieden! Vielen herzlichen Dank an das gesamte Team von LevVital! ❤️",
+      "time": 1795686295,
+      "translated": false
+    },
+    {
       "author_name": "Xenia Maass",
       "author_url": "https://www.google.com/maps/contrib/118143000729932300614/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzVYXiKVGl54YaJyWX6gWHMvoDu8U3fZmrJu4PwjzNSZfIbw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "LevVital ist super vom Personal her sehr freundlich und verständnisvoll die Geräte sind auch super ich habe nichts zu meckern.",
+      "time": 1793028596,
+      "translated": false
+    },
+    {
+      "author_name": "Xenia Maass",
+      "author_url": "https://www.google.com/maps/contrib/118143000729932300614/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzVYXiKVGl54YaJyWX6gWHMvoDu8U3fZmrJu4PwjzNSZfIbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "LevVital ist super vom Personal her sehr freundlich und verständnisvoll die Geräte sind auch super ich habe nichts zu meckern.",
       "time": 1793028596,
       "translated": false
@@ -638,11 +662,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 25,
+  "reviewCount": 26,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:10.954Z"
+  "lastUpdated": "2026-11-28T13:52:46.055Z"
 }

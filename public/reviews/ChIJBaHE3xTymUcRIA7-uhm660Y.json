@@ -45,6 +45,16 @@
       "translated": false
     },
     {
+      "author_name": "Roberto Leone",
+      "author_url": "https://www.google.com/maps/contrib/109694942201908583349/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWjz4vClei9o1vzon89IsblcOA6eTdzE2Sz0mrvC-GrE6yoA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1794600143,
+      "translated": false
+    },
+    {
       "author_name": "Willibald Pernesch",
       "author_url": "https://www.google.com/maps/contrib/101693011084066726453/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuyxKyLM-NXfhBuHF9JMs9UgmOjZ7JGUhgGdh3P8dXSb5Vsw=s128-c0x00000000-cc-rp-mo-ba3",
@@ -178,6 +188,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJW_QWKqz0W5RFUeXtYBpMZEbn1_aOx1RAYXkRr9sI6Voamg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Die Begrüßung durch den Arzt Dr. Munteanu und dem Praxisteam\nwar sehr freundlich.\nHat die Funktion der Vene und Arterie sehr gut erklärt.\nBei der Untersuchung habe ich mich sehr gut aufgehoben gefühlt. Kann die Praxis weiterempfehlen!",
+      "time": 1793115053,
+      "translated": false
+    },
+    {
+      "author_name": "Simon Haasis",
+      "author_url": "https://www.google.com/maps/contrib/106338552498589614325/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJW_QWKqz0W5RFUeXtYBpMZEbn1_aOx1RAYXkRr9sI6Voamg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Die Begrüßung durch den Arzt Dr. Munteanu und dem Praxisteam\nwar sehr freundlich.\nHat die Funktion der Vene und Arterie sehr gut erklärt.\nBei der Untersuchung habe ich mich sehr gut aufgehoben gefühlt. Kann die Praxis weiterempfehlen!",
       "time": 1793115053,
       "translated": false
@@ -1380,5 +1402,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:18.070Z"
+  "lastUpdated": "2026-11-28T13:52:52.305Z"
 }

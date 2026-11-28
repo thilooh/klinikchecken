@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Stefanie Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/112515155242460361058/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJghqH81ehvLbC8SApDkc2oYOk50wfNYzTmrxI8-Fg4weXkq4Qj=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Kurze Wartezeit und super Behandlung",
+      "time": 1795620406,
+      "translated": false
+    },
+    {
+      "author_name": "Kimberly Maksuti",
+      "author_url": "https://www.google.com/maps/contrib/112497452125323241718/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb-DKBL8TZ7C1P5aOUaHOP3ByH2ewpr3b6OgD9bsV2bziVHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Nicht mal nen stern seid ihr es wert. Man kommt zuspät wegen stau hab bescheid gesagt am telefon eure Roboter Assistentin am Telefon anstatt mich anzurufen das ich nicht angenommen werde fahr ich mit schmerzen zu euch. Ihr schildert mir das ich ein neuen Termin machen muss aber telefonisch obwohl ich vor euch stehe für eine Termin vereinbarung nur weil jemand home Office zuhause so eine unmenschliche Verhalten und nimmt mich nicht an als akut Patienten. Die lieben Kolleginnen dafür gibt es Konsequenzen noch....",
+      "time": 1795020812,
+      "translated": false
+    },
+    {
       "author_name": "Jan",
       "author_url": "https://www.google.com/maps/contrib/107081411613225946387/reviews",
       "language": "de",
@@ -951,12 +975,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 31,
+  "rating": 4.1,
+  "reviewCount": 33,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:18.807Z"
+  "lastUpdated": "2026-11-28T13:52:52.987Z"
 }

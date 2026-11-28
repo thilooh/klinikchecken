@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Angela Krüger",
+      "author_url": "https://www.google.com/maps/contrib/105218438365410494121/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJq5yxyfQm7C-hGXcOVuY9yZPmZl0Hs6lAJm5GY1dVU0LHXwmB2=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich fühle mich dort gut aufgehoben.",
+      "time": 1795026752,
+      "translated": false
+    },
+    {
       "author_name": "Sabine Sabine",
       "author_url": "https://www.google.com/maps/contrib/113722965663360647075/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNHBo2axzQNYlIBDE4-uUXx4rhYfs1Bv2aV37nC9A0gtqbmQ=s128-c0x00000000-cc-rp-mo",
@@ -28,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNHBo2axzQNYlIBDE4-uUXx4rhYfs1Bv2aV37nC9A0gtqbmQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794517869,
+      "translated": false
+    },
+    {
+      "author_name": "Sabine Sabine",
+      "author_url": "https://www.google.com/maps/contrib/113722965663360647075/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNHBo2axzQNYlIBDE4-uUXx4rhYfs1Bv2aV37nC9A0gtqbmQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1794517869,
       "translated": false
@@ -1731,12 +1753,12 @@
       "translated": false
     }
   ],
-  "rating": 4.2,
-  "reviewCount": 156,
+  "rating": 4.3,
+  "reviewCount": 153,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:16:42.601Z"
+  "lastUpdated": "2026-11-28T13:52:20.744Z"
 }

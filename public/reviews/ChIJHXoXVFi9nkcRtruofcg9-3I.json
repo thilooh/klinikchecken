@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Susann Löper",
+      "author_url": "https://www.google.com/maps/contrib/100037687409383722207/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8bUjE47cL0f7PN5aSrtINZJH41tEPBYmx9r9Lj2urBcTI56s=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "⭐⭐⭐⭐⭐\n\nVon Herzen Danke - ich habe mich so gut aufgehoben gefühlt\n\nIch war zur HNO-OP im Klinikum Vincentinum in Augsburg und ich bin einfach nur dankbar.\n\nIch wurde so toll behandelt - so liebevoll, so ruhig und so menschlich. Vom Empfang bis zur Station, die Schwestern und Pfleger waren immer da, haben alles erklärt und sich wirklich Zeit genommen. Man hat sich nicht wie eine Nummer gefühlt, sondern wie ein Mensch, der ihnen wirklich am Herzen liegt.\n\nAuch Dr. Zamani und sein Team haben mich so gut betreut und aufgeklärt, ich habe mich zu jeder Zeit sicher und ernst genommen gefühlt.\n\nIch hatte vorher viel Angst vor der OP, aber diese Angst wurde mir hier genommen.\n\nIch kann das Vincentinum und die HNO-Abteilung von ganzem Herzen weiterempfehlen. Danke für alles, ihr seid wundervoll!\n\nSusann",
+      "time": 1795806203,
+      "translated": false
+    },
+    {
+      "author_name": "Erwin Schabert",
+      "author_url": "https://www.google.com/maps/contrib/104494722146723942185/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnO_rpFscD-93iapac6aEPqmw5qVChAwRhtQ8Xcw5VudclBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Meine Venen OP ist sehr gut verlaufen!!\nEin herzliches Dankeschön an Herrn Dr. Meinhold und Team!!",
+      "time": 1795706984,
+      "translated": false
+    },
+    {
       "author_name": "Alex E. (AE)",
       "author_url": "https://www.google.com/maps/contrib/110098883264302986760/reviews",
       "language": "de",
@@ -2108,11 +2132,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 469,
+  "reviewCount": 471,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-11-25T15:16:50.717Z"
+  "lastUpdated": "2026-11-28T13:52:27.883Z"
 }

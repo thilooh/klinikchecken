@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Antje Michaelis",
+      "author_url": "https://www.google.com/maps/contrib/110263453987985170121/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbYtpO-3jUkP95VM5TXycRVJMOSXelU93tfv2bhLM2NdrVHQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Was denn Arzt in der Gefäßmedizin betrifft kann ich es nicht weiterempfehlen. Die Ärztin und Schwester super nett aber ansonsten ein kompletter Reinfall",
+      "time": 1795720247,
+      "translated": false
+    },
+    {
+      "author_name": "Sven Grigoleit",
+      "author_url": "https://www.google.com/maps/contrib/103531178950754260257/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKE1plAgTqUvgI3xjqXuqQoGcMop_D6T1-a_gjd3PskcfjU1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Super nettes Personal. Ich habe mich sehr wohl gefühlt. Gerne wieder!",
+      "time": 1795696126,
+      "translated": false
+    },
+    {
       "author_name": "Ute Fritzlar",
       "author_url": "https://www.google.com/maps/contrib/101165992577540825058/reviews",
       "language": "de",
@@ -2226,11 +2250,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 548,
+  "reviewCount": 550,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Moderne Behandlungsmethoden werden professionell und sorgfältig eingesetzt",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-25T15:16:44.472Z"
+  "lastUpdated": "2026-11-28T13:52:22.361Z"
 }

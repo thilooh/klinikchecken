@@ -1,6 +1,50 @@
 {
   "reviews": [
     {
+      "author_name": "sabine rienecker",
+      "author_url": "https://www.google.com/maps/contrib/105674781738731563720/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCVHvibdcYGB46O1SFCevK3lUM1bnPB1QMqOEmHCx1rrcdiQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Mein Vater ist seit ca. 1Jahr in der Praxis Quist Patient. Vor ein paar Tagen hatte er einen kleinen Eingriff, der von Frau Schilling (Ärztin)und ihrer Arzthelferin, Rita, schnell, einfühlsam und vorsichtig durchgeführt wurde.\nMein Vater möchte sich für den seht netten Umgang mit ihm bedanken. Beide Damen machen einen tollen Job!\nAuch Dr. Nagel bei dem der 1. Termin stattfand, war sehr nett, sehr zuvorkommend und man hatte die Möglichkeit alle Fragen zu stellen und diese dann auch ganz ausführlich erklärt wurden.\nIn dieser Praxis nimmt man sich wirklich Zeit für die Patienten und ihr Belangen.\nVielen Dank dafür!\nHier fühlt man sich gut aufgehoben!\nAuf dem 1.Termin hat mein Vater leider fast 5 Monate gewartet aber unter diesen Voraussetzungen wie die Praxis aufgestellt und der Umgang mit den Patienten ist, hat sich das sehr gelohnt!",
+      "time": 1795741203,
+      "translated": false
+    },
+    {
+      "author_name": "Isabella",
+      "author_url": "https://www.google.com/maps/contrib/114398039599952207756/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJr5Mslset3vkto7Y7dVrrXcGblAcz6uNwGbVPCMDodlRalQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Quasser und Fatima sind sehr empathisch gewesen bei der Untersuchung. Danke",
+      "time": 1795725793,
+      "translated": false
+    },
+    {
+      "author_name": "Wintterle",
+      "author_url": "https://www.google.com/maps/contrib/115236768308297760175/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5UxLdhkm55z_QF1gpFa66qgsAuej_Itoxyw1D-Gj4jVTpOqKYGQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795704066,
+      "translated": false
+    },
+    {
+      "author_name": "Eva W.",
+      "author_url": "https://www.google.com/maps/contrib/105123375438035261753/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIef-uH81ZKesVNgRWBAOyQ9ss9bK_SWIW_Z7r-mOXUukl_8w2H=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795628222,
+      "translated": false
+    },
+    {
       "author_name": "Ralf Pietrzak",
       "author_url": "https://www.google.com/maps/contrib/115060684288969634868/reviews",
       "language": "de",
@@ -2292,11 +2336,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 387,
+  "reviewCount": 390,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:00.727Z"
+  "lastUpdated": "2026-11-28T13:52:36.866Z"
 }

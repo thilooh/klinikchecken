@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Tine Söltner",
+      "author_url": "https://www.google.com/maps/contrib/108923334206797127777/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKivml_8iXXKQhhxS15vsVX6en-2FuDVlS6lF5gsHZ6YN3g-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute zum wiederholten Mal in dieser Praxis. Sehr kurze Wartezeit und überaus freundliche Mitarbeiter am Empfang und in der Voruntersuchung. Herr Dr. Tank war ebenfalls ausgesprochen freundlich, kompetent und hilfsbereit.\nIm Vergleich zu anderen Praxen scheinen hier gute Abläufe für weniger Stress und eine gute Atmosphäre zu sorgen.\nAuch wenn die elekronische Terminvereinbarung etwas gewöhnungsbedürftig ist, kann ich diese Praxis nur empfehlen",
+      "time": 1795690781,
+      "translated": false
+    },
+    {
       "author_name": "Madalina Hohenegger",
       "author_url": "https://www.google.com/maps/contrib/109090309731730931242/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAQMEsPYNKi3fbWj-i-AHenmUNWJiBSR9XtmJXNoHKjNFaIfs=s128-c0x00000000-cc-rp-mo",
@@ -806,7 +818,7 @@
     }
   ],
   "rating": 3.2,
-  "reviewCount": 48,
+  "reviewCount": 49,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:39.228Z"
+  "lastUpdated": "2026-11-28T13:52:17.724Z"
 }

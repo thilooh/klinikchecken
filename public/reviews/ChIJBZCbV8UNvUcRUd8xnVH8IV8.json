@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sweet Watermelon",
+      "author_url": "https://www.google.com/maps/contrib/105190495536790182569/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXldUhYmtFp1Oa7AsqkS5Lf3bJ1m_7QD8Wpf2DzOfRvPw2HQBpabw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr nette Praxis,\nbesondere  grüße für Artzthelferin Gülsüm .\nVielen lieben Dank",
+      "time": 1795701262,
+      "translated": false
+    },
+    {
       "author_name": "Branimir Boroje",
       "author_url": "https://www.google.com/maps/contrib/110117744147063799110/reviews",
       "language": "de",
@@ -23,11 +35,31 @@
       "translated": false
     },
     {
+      "author_name": "Rajaa Zek",
+      "author_url": "https://www.google.com/maps/contrib/111277421289010375888/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfQ871QbJ7Jdpes6J1vzVg0TlFvmKkGYm6SZQomjjhQdEjew=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1795211682,
+      "translated": false
+    },
+    {
       "author_name": "A Baron",
       "author_url": "https://www.google.com/maps/contrib/107687929857029244650/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1feHKpZBwfXYCcfSJLJ8yuMbSO9kGTTGt5ON6KjyuCnUNKA=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795161766,
+      "translated": false
+    },
+    {
+      "author_name": "A Baron",
+      "author_url": "https://www.google.com/maps/contrib/107687929857029244650/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1feHKpZBwfXYCcfSJLJ8yuMbSO9kGTTGt5ON6KjyuCnUNKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1795161766,
       "translated": false
@@ -1565,8 +1597,8 @@
       "translated": false
     }
   ],
-  "rating": 4.9,
+  "rating": 4.8,
   "reviewCount": 109,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:33.706Z"
+  "lastUpdated": "2026-11-28T13:52:12.674Z"
 }

@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Jo Smidi",
+      "author_url": "https://www.google.com/maps/contrib/112425212598178039719/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIz-IUJquW8pPHDF2QRV2dIRSTrRMaBkjMGK2H86GaqcugW3w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin mit der Praxis sehr zufrieden. Alle Ärzte sind kompetent, freundlich und nehmen sich Zeit für ihre Patienten. Auch das gesamte Praxisteam und das Praxismanagement leisten hervorragende Arbeit. Ich fühle mich hier bestens betreut und kann die Praxis uneingeschränkt weiterempfehlen. Vielen Dank an das ganze Team!",
+      "time": 1795620568,
+      "translated": false
+    },
+    {
       "author_name": "Lisa Ste",
       "author_url": "https://www.google.com/maps/contrib/117604033488440690494/reviews",
       "language": "de",
@@ -200,6 +212,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHNkx3OABNObZD6PJD2RCFu37ws1wdoXecRjM2lO0K2gh-GA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "vor einem Monat",
+      "text": "Richtige Mistpraxis. Schlecht organisiert und unfreundliches Personal. Nicht zu empfehlen",
+      "time": 1790580023,
+      "translated": false
+    },
+    {
+      "author_name": "KLH ThePro",
+      "author_url": "https://www.google.com/maps/contrib/116967884488307673801/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHNkx3OABNObZD6PJD2RCFu37ws1wdoXecRjM2lO0K2gh-GA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Richtige Mistpraxis. Schlecht organisiert und unfreundliches Personal. Nicht zu empfehlen",
       "time": 1790580023,
       "translated": false
@@ -1374,11 +1398,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 156,
+  "reviewCount": 157,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:00.208Z"
+  "lastUpdated": "2026-11-28T13:52:36.408Z"
 }

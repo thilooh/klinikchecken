@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Karsten Bruchmann",
+      "author_url": "https://www.google.com/maps/contrib/111407987215575700761/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIrbx4VPe2OCHDnR_rdPJ61_9_2q7TAdgU63mnMyIDnr9nlw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Bin gestern bei Dr. Dovzhanskiy an den Venen operiert worden. Die OP und die komplette Begleitung vom OP Team, während meines Aufenthalts dort waren sehr fürsorglich und top. Vielen Dank dafür, auch meine Ängste vor der OP waren absolut unbegründet. Alles sehr professionell.\nMichaela 63 Jahre",
+      "time": 1795691143,
+      "translated": false
+    },
+    {
       "author_name": "Katerina Kom",
       "author_url": "https://www.google.com/maps/contrib/104732817786942413997/reviews",
       "language": "de",
@@ -32,6 +44,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb5NMG61J6AcHEfFsUcFmr7SCcW3PzmI2ZOi3q6soeYOKwQg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Wir möchten uns herzlich bei Herrn Dr. Dovzhansky für die hervorragende Behandlung und die erfolgreiche Operation meiner Mutter bedanken. Sie ist sehr zufrieden und hat sich bestens aufgehoben gefühlt. Ein sehr kompetenter, freundlicher und engagierter Arzt. Wir können ihn von Herzen weiterempfehlen!",
+      "time": 1793968268,
+      "translated": false
+    },
+    {
+      "author_name": "Katerina Kom",
+      "author_url": "https://www.google.com/maps/contrib/104732817786942413997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb5NMG61J6AcHEfFsUcFmr7SCcW3PzmI2ZOi3q6soeYOKwQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Wir möchten uns herzlich bei Herrn Dr. Dovzhansky für die hervorragende Behandlung und die erfolgreiche Operation meiner Mutter bedanken. Sie ist sehr zufrieden und hat sich bestens aufgehoben gefühlt. Ein sehr kompetenter, freundlicher und engagierter Arzt. Wir können ihn von Herzen weiterempfehlen!",
       "time": 1793968268,
       "translated": false
@@ -840,11 +864,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 55,
+  "reviewCount": 56,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-25T15:17:12.888Z"
+  "lastUpdated": "2026-11-28T13:52:47.631Z"
 }

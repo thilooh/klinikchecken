@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Steff",
+      "author_url": "https://www.google.com/maps/contrib/117277463639649884363/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsJ6gZS5VtkziFM5u3xkOYUZCzCo_vx_PmcV1OKa1WqpnFqH-iNw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Frau Dr.Pötter ist sehr zu empfehlen! Sehr kompetente und nette Ärztin. Habe mich sehr gut aufgehoben gefühlt!",
+      "time": 1795816484,
+      "translated": false
+    },
+    {
       "author_name": "Diana Fandi",
       "author_url": "https://www.google.com/maps/contrib/111624327923722975829/reviews",
       "language": "de",
@@ -133,6 +145,18 @@
       "translated": false
     },
     {
+      "author_name": "henni hart",
+      "author_url": "https://www.google.com/maps/contrib/109295957020730070657/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLV5KjO7aSXyggG4pcZBPAsfCt8G0-GX7c5IsfQWhviUZUDdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Eine phantastische Hautarztpraxis! Ich war mehrere Male dort und wurde immer zügig, freundlich und professionell behandelt. Herr Arayesh macht äußerst gute Arbeit, seine Mitarbeitenden sind sehr aufmerksam und freundlich.\nSehr empfehlenswert!!",
+      "time": 1793189540,
+      "translated": false
+    },
+    {
       "author_name": "Sam Salamatian",
       "author_url": "https://www.google.com/maps/contrib/107475350383035219962/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTYX8swCaNIuVeBPa0iiycOS0OK1QZHpN5CTztck6oyoqq3fg=s128-c0x00000000-cc-rp-mo",
@@ -178,6 +202,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTYX8swCaNIuVeBPa0iiycOS0OK1QZHpN5CTztck6oyoqq3fg=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "vor 4 Wochen",
+      "text": "",
+      "time": 1793085285,
+      "translated": false
+    },
+    {
+      "author_name": "Sam Salamatian",
+      "author_url": "https://www.google.com/maps/contrib/107475350383035219962/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTYX8swCaNIuVeBPa0iiycOS0OK1QZHpN5CTztck6oyoqq3fg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einem Monat",
       "text": "",
       "time": 1793085285,
       "translated": false
@@ -1958,11 +1992,11 @@
     }
   ],
   "rating": 4.9,
-  "reviewCount": 158,
+  "reviewCount": 159,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:16:41.568Z"
+  "lastUpdated": "2026-11-28T13:52:19.813Z"
 }

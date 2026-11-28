@@ -13,6 +13,18 @@
       "translated": false
     },
     {
+      "author_name": "Dana Abdelbaky",
+      "author_url": "https://www.google.com/maps/contrib/112045890464217732193/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2Wk9uAaQNrZKHZvSIfnj-Iob6xeNv5S7UYA724BYxG7-OIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Leider war meine Erfahrung bei meinem heutigen Termin in der Praxis sehr enttäuschend. Aufgrund akuter Beschwerden musste ich kurzfristig zuvor einen anderen Arzttermin wahrnehmen und kam deshalb zehn Minuten zu spät zu meinem Ersttermin bei Frau Dr. Krause. Noch auf dem Weg rief ich in der Praxis an, um Bescheid zu geben. Allerdings erreichte ich nur einen KI-Assistenten, weshalb ich nicht weiß, ob meine Nachricht tatsächlich angekommen ist.\n\nBei meiner Ankunft entschuldigte ich mich sofort und erklärte die Situation. An der Anmeldung wurde mir lediglich mitgeteilt, dass ich zehn Minuten zu spät sei. Da der Termin selbst nur für zehn Minuten angesetzt gewesen sei, könne er nun nicht mehr stattfinden. Daraufhin wurde ich nach Hause geschickt, ohne dass mir ein Ersatztermin angeboten wurde.\n\nNach einem ohnehin sehr stressigen Tag war ich in diesem Moment zu perplex, um anders zu reagieren. Im Nachhinein hat mich die Situation jedoch sehr verzweifelt zurückgelassen. Auf diesen Termin hatte ich zwei bis drei Monate gewartet und alles versucht, um noch rechtzeitig in die Praxis zu kommen.\n\nMir ist bewusst, dass Verspätungen für den Praxisablauf ungünstig sind. Gleichzeitig gehören Wartezeiten bei Arztterminen häufig dazu, und ich hätte selbstverständlich akzeptiert, entsprechend länger zu warten. Dass mein Termin wegen zehn Minuten Verspätung vollständig gestrichen wurde, ohne nach einer Alternative zu suchen oder einen Ersatztermin anzubieten, empfinde ich gerade angesichts der aktuellen Versorgungslage als wenig verständnisvoll.\n\nAus meinem Medizinstudium weiß ich, dass solche Situationen auch anders gelöst werden können. Gerade wenn es um die Gesundheit von Menschen geht, hätte ich mir mehr Entgegenkommen und einen menschlicheren Umgang gewünscht.",
+      "time": 1795101772,
+      "translated": false
+    },
+    {
       "author_name": "Engin Ikikol",
       "author_url": "https://www.google.com/maps/contrib/109322553265903468644/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqLqfA6iE5-TkXiZE6bt3kNDBzz95dPdjGT3eEu4EE40mdxA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "Keine Wartezeit, sehr nettes Personal am Empfang und vor allem Frau Dr. Kronenberg hat mich wirklich positiv überrascht! Sie hat sich viel Zeit genommen, war unglaublich freundlich und einfühlsam. Sie hat mir von Anfang an ein sehr gutes Gefühl gegeben. So wünscht man sich einen Arztbesuch! 😊",
+      "time": 1794496061,
+      "translated": false
+    },
+    {
+      "author_name": "Lea Simonis",
+      "author_url": "https://www.google.com/maps/contrib/117067232698174187675/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqLqfA6iE5-TkXiZE6bt3kNDBzz95dPdjGT3eEu4EE40mdxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Keine Wartezeit, sehr nettes Personal am Empfang und vor allem Frau Dr. Kronenberg hat mich wirklich positiv überrascht! Sie hat sich viel Zeit genommen, war unglaublich freundlich und einfühlsam. Sie hat mir von Anfang an ein sehr gutes Gefühl gegeben. So wünscht man sich einen Arztbesuch! 😊",
       "time": 1794496061,
       "translated": false
@@ -80,6 +104,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjJIRj1BEIwDqenjNTIsvqCafauRCxKMo6obngva_q-Gb0PRf=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "vor einer Woche",
+      "text": "Es ging schnell und flott.",
+      "time": 1794414027,
+      "translated": false
+    },
+    {
+      "author_name": "Amira T.",
+      "author_url": "https://www.google.com/maps/contrib/117434945682477329265/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjJIRj1BEIwDqenjNTIsvqCafauRCxKMo6obngva_q-Gb0PRf=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 2 Wochen",
       "text": "Es ging schnell und flott.",
       "time": 1794414027,
       "translated": false
@@ -1587,5 +1623,5 @@
   "rating": 4.2,
   "reviewCount": 67,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:30.205Z"
+  "lastUpdated": "2026-11-28T13:52:09.414Z"
 }

@@ -11,6 +11,16 @@
       "translated": false
     },
     {
+      "author_name": "Katrin Mariacher",
+      "author_url": "https://www.google.com/maps/contrib/113871503058535118643/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuiDD7PLTji4kXmvJNeIm2T6hWiOnexOpn_VrSEp5WFiPLRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1795192165,
+      "translated": false
+    },
+    {
       "author_name": "Sabrina Z.",
       "author_url": "https://www.google.com/maps/contrib/109016089970042124698/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIoB0hO6RlLLWrNiKBzdB8RUa8d62ttgMKq0RpDybbdJyKFEbZ=s128-c0x00000000-cc-rp-mo",
@@ -26,6 +36,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIoB0hO6RlLLWrNiKBzdB8RUa8d62ttgMKq0RpDybbdJyKFEbZ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794477871,
+      "translated": false
+    },
+    {
+      "author_name": "Sabrina Z.",
+      "author_url": "https://www.google.com/maps/contrib/109016089970042124698/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIoB0hO6RlLLWrNiKBzdB8RUa8d62ttgMKq0RpDybbdJyKFEbZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1794477871,
       "translated": false
@@ -62,6 +82,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrRnMjk7WfrTIBz1NliWdkzgS-8lxH_Gfouepdef4W2zn1ag=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Tolles Team, tolle Praxis.\nOP ist super verlaufen. Keine Schmerzen oder irgendwelche Probleme. Alles wurde verständlich erklärt.\nKann man definitiv nur weiterempfehlen 👌.",
+      "time": 1793881729,
+      "translated": false
+    },
+    {
+      "author_name": "U. Caspar",
+      "author_url": "https://www.google.com/maps/contrib/115647247824651067527/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrRnMjk7WfrTIBz1NliWdkzgS-8lxH_Gfouepdef4W2zn1ag=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Tolles Team, tolle Praxis.\nOP ist super verlaufen. Keine Schmerzen oder irgendwelche Probleme. Alles wurde verständlich erklärt.\nKann man definitiv nur weiterempfehlen 👌.",
       "time": 1793881729,
       "translated": false
@@ -1684,5 +1716,5 @@
   "rating": 4.9,
   "reviewCount": 176,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:33.196Z"
+  "lastUpdated": "2026-11-28T13:52:12.217Z"
 }

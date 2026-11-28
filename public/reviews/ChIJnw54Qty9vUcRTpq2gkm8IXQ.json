@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Viki",
+      "author_url": "https://www.google.com/maps/contrib/101759221980820359599/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVM1L-ZEJZ9ePzok4-pFgQS4qRZL2q2YpqZB5twiRt6QHzTVt0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Heute war ich zum ersten Mal im Phlebicum in Frankfurt. Da ich aus einer anderen Stadt angereist bin, war ich etwas früher da und habe mich sehr gefreut, dass ich nicht lange warten musste.\nSchon am Empfang war ich von der herzlichen, natürlichen und unkomplizierten Art der Mitarbeiterin angenehm überrascht.\nAuch Frau Dr. Janjic hat sich Zeit genommen, mir meine gesundheitliche Situation verständlich zu erklären und mir entsprechende Empfehlungen zu geben. Ich habe mich ernst genommen und sehr gut aufgehoben gefühlt.\nDie Herzlichkeit und die positive Ausstrahlung der beiden haben mir tatsächlich den ganzen Tag verschönert. Vielen Dank für diese schöne Erfahrung!",
+      "time": 1795630644,
+      "translated": false
+    },
+    {
       "author_name": "I Hannun",
       "author_url": "https://www.google.com/maps/contrib/107416587909419494578/reviews",
       "language": "de",
@@ -1502,11 +1514,11 @@
     }
   ],
   "rating": 4.6,
-  "reviewCount": 179,
+  "reviewCount": 180,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit sehr guten Bewertungen für Besenreiser-Behandlung"
   ],
-  "lastUpdated": "2026-11-25T15:16:59.952Z"
+  "lastUpdated": "2026-11-28T13:52:36.187Z"
 }

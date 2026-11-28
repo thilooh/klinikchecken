@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Claudia Spies",
+      "author_url": "https://www.google.com/maps/contrib/115674990081360471738/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR61bzhaAB4AoxtzrKrxTrFi4uggENn0SDBZ1N5v9eATe9vw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war zum Hautkrebsscreening da. Die Praxis ist gut organisiert und Frau Dr. Luther war sehr nett und gründlich.",
+      "time": 1795673094,
+      "translated": false
+    },
+    {
       "author_name": "Axel Mulders",
       "author_url": "https://www.google.com/maps/contrib/104132194259936089785/reviews",
       "language": "de",
@@ -121,6 +133,18 @@
       "translated": false
     },
     {
+      "author_name": "Sandra Kiesow",
+      "author_url": "https://www.google.com/maps/contrib/113755700958887045218/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhCbRlVw9vq4Mm-_tx3xa6sYgD-CIEboDFRuU5GwuBxok1ZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
+      "text": "Super Arzt nimmt sich richtig Zeit und erklärt alles sehr ausführlich",
+      "time": 1793256700,
+      "translated": false
+    },
+    {
       "author_name": "Daniel L",
       "author_url": "https://www.google.com/maps/contrib/104858065863998559459/reviews",
       "language": "de",
@@ -164,6 +188,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6E13ixvpvtjUAmuhRnPNv4zbb1L5FYgWxavd9vNPFKg0Rmw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 3 Wochen",
+      "text": "Super organisierte Praxis. Das Personal ist höflich auch bei Nachfragen. Dr. Pljakić nimmt sich Zeit und ist ein kompetenter, sehr freundlicher Arzt. Habe mich hier sehr gut versorgt gefühlt.",
+      "time": 1793209555,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel L",
+      "author_url": "https://www.google.com/maps/contrib/104858065863998559459/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6E13ixvpvtjUAmuhRnPNv4zbb1L5FYgWxavd9vNPFKg0Rmw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Super organisierte Praxis. Das Personal ist höflich auch bei Nachfragen. Dr. Pljakić nimmt sich Zeit und ist ein kompetenter, sehr freundlicher Arzt. Habe mich hier sehr gut versorgt gefühlt.",
       "time": 1793209555,
       "translated": false
@@ -1404,7 +1440,7 @@
     }
   ],
   "rating": 4.1,
-  "reviewCount": 142,
+  "reviewCount": 143,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:40.253Z"
+  "lastUpdated": "2026-11-28T13:52:18.672Z"
 }

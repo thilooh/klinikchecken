@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Thorsten Stoschus",
+      "author_url": "https://www.google.com/maps/contrib/103320207859438006008/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7GKVdwVtyidDBRekN5L4KDZPEs2HUUzkjI-Y976Kv7Gdqbg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich kann nur sagen von Anfang bis Ende alles suuuuuper. Vielen Dank an Herren Dr. Claasen und Team und allen Pflegerinnen und Pflegern im A als auch im E Haus und auch an Frau Dr. Bremekamp sie ist einfach überall da wo es brennt, ich glaube selbst am Umbau der Zimmer hat Sie mitgearbeitet. Vielen Dank für alles. Liebe Grüße Thorsten Stoschus",
+      "time": 1795625962,
+      "translated": false
+    },
+    {
       "author_name": "Sonya Danielyan",
       "author_url": "https://www.google.com/maps/contrib/115065020939551326563/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiW8vheIXV7SlTQJ2AiUOKdj3U5mIJIXcmi0oxxNRLbg25dw=s128-c0x00000000-cc-rp-mo",
@@ -462,11 +474,11 @@
     }
   ],
   "rating": 5,
-  "reviewCount": 21,
+  "reviewCount": 22,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:05.922Z"
+  "lastUpdated": "2026-11-28T13:52:41.531Z"
 }

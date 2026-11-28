@@ -87,6 +87,16 @@
       "translated": false
     },
     {
+      "author_name": "Thomas Engler",
+      "author_url": "https://www.google.com/maps/contrib/106505136971881433446/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG95LqMXsJH2uU7N9avsXWwUyO8VR1miduZ6AltoGA_3a8XQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
+      "text": "",
+      "time": 1790514536,
+      "translated": false
+    },
+    {
       "author_name": "roland schmechtig",
       "author_url": "https://www.google.com/maps/contrib/114020349975822669213/reviews",
       "language": "de",
@@ -944,5 +954,5 @@
   "rating": 5,
   "reviewCount": 22,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:38.968Z"
+  "lastUpdated": "2026-11-28T13:52:17.496Z"
 }

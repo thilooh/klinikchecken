@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "D",
+      "author_url": "https://www.google.com/maps/contrib/105607253263032326582/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLd_roExO3GCdZn7Zuw3Q1DXT3Yu8KVM_aqjAHpPYvyjl12XA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Der Arzt ist in Ordnung, aber das Verhalten der Dame an der Rezeption ist extrem respektlos und unprofessionell. So ein herablassender Umgang mit Patienten geht gar nicht. Hier muss sich dringend etwas am Service und der Freundlichkeit ändern.",
+      "time": 1795805610,
+      "translated": false
+    },
+    {
       "author_name": "Jasmin",
       "author_url": "https://www.google.com/maps/contrib/102513587634869335796/reviews",
       "language": "de",
@@ -37,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Barbara Frank",
+      "author_url": "https://www.google.com/maps/contrib/113778839469268498288/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQVQLlqIW27DnSGTEQwqTC88ksuhCx50Xv5Dq2YZK2OixX=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "vor einer Woche",
+      "text": "Sehr lange Wartezeit, Empfangsdesks etwas chaotisch",
+      "time": 1795181222,
+      "translated": false
+    },
+    {
       "author_name": "Angelina Gerundt",
       "author_url": "https://www.google.com/maps/contrib/103949156421437648340/reviews",
       "language": "de",
@@ -44,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8tyX4vEIh620CTuegD62uGleB9mC8tYTtEybc_uchQ0TDuA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Wir waren heute zum ersten Mal mit unserem einjährigen Kleinkind da, weil dieses einen hartnäckigen Ausschlag hat. Es war sehr voll und trotzdem war das Personal sehr freundlich und zuvorkommend zu uns. Sie haben extra geschaut, dass sie uns schneller dran bekommen, da so ein kleines Kind keine ewigen Wartezeiten aushält und das fanden wir richtig klasse! Wäre nur ich da gewesen, hätte ich auch problemlos gewartet, da mir bewusst ist, dass Hautärzte total überlaufen sind. Diese Rücksichtnahme auf ein Kleinkind (ohne dass wir sie darum gebeten haben) gibt hier aber absolute Pluspunkte!\nHerr Dr. Arnold wirkte auf uns sehr kompetent und war ebenfalls sehr freundlich. Gerne wieder!",
+      "time": 1795173142,
+      "translated": false
+    },
+    {
+      "author_name": "Angelina Gerundt",
+      "author_url": "https://www.google.com/maps/contrib/103949156421437648340/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8tyX4vEIh620CTuegD62uGleB9mC8tYTtEybc_uchQ0TDuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Wir waren heute zum ersten Mal mit unserem einjährigen Kleinkind da, weil dieses einen hartnäckigen Ausschlag hat. Es war sehr voll und trotzdem war das Personal sehr freundlich und zuvorkommend zu uns. Sie haben extra geschaut, dass sie uns schneller dran bekommen, da so ein kleines Kind keine ewigen Wartezeiten aushält und das fanden wir richtig klasse! Wäre nur ich da gewesen, hätte ich auch problemlos gewartet, da mir bewusst ist, dass Hautärzte total überlaufen sind. Diese Rücksichtnahme auf ein Kleinkind (ohne dass wir sie darum gebeten haben) gibt hier aber absolute Pluspunkte!\nHerr Dr. Arnold wirkte auf uns sehr kompetent und war ebenfalls sehr freundlich. Gerne wieder!",
       "time": 1795173142,
       "translated": false
@@ -2014,11 +2050,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 223,
+  "reviewCount": 224,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:15.434Z"
+  "lastUpdated": "2026-11-28T13:52:49.902Z"
 }

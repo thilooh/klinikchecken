@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Hübner",
+      "author_url": "https://www.google.com/maps/contrib/117978198486231668504/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIARGXd-ONLROgvX_G230kmNu8wdtpJwxxAqOuJl_Ag_i1SsA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Praxis wirbt auf ihrer Internetseite ausdrücklich mit der „Operativen Entfernung von Hautveränderungen“. Dementsprechend hatte ich online einen Termin vereinbart, um eine kleine, störende Stelle entfernen zu lassen.\n\nLeider wurde mir erst vor Ort mitgeteilt, dass operative Eingriffe aufgrund von Umstrukturierungen derzeit nicht möglich seien. Die betreffende Hautstelle wurde lediglich mit einer hochauflösenden Kamera fotografiert und entsprechend dokumentiert.\n\nAuf meine Bitte, alternativ einen Hautcheck durchzuführen, teilte mir die Ärztin mit, dass dieser im zeitlichen Rahmen des vereinbarten Termins nicht vorgesehen sei.\n\nLetztendlich habe ich die Praxis nach Zahlung von 74,38 Euro verlassen.\n\nIch hätte mir gewünscht, dass bereits bei der Online-Terminvereinbarung darauf hingewiesen wird, dass operative Eingriffe derzeit nicht möglich sind. Das hätte mir sowohl Zeit als auch Kosten erspart.\n\nInsgesamt eine sehr enttäuschende Erfahrung.",
+      "time": 1795664391,
+      "translated": false
+    },
+    {
       "author_name": "Felix Beck",
       "author_url": "https://www.google.com/maps/contrib/116325299793260282825/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb0KpJHHY7wBzPrxdB6owIQTxA9GWGEH8AVfz9v6Yd4xO30Zxr=s128-c0x00000000-cc-rp-mo",
@@ -66,6 +78,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2hXx3aVccd4BXzeXouoP5mWSCvanyOkDumCfRX-mz2iYYHoQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793897155,
+      "translated": false
+    },
+    {
+      "author_name": "Caroline Hor",
+      "author_url": "https://www.google.com/maps/contrib/101679053678122831877/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2hXx3aVccd4BXzeXouoP5mWSCvanyOkDumCfRX-mz2iYYHoQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793897155,
       "translated": false
@@ -1021,12 +1043,12 @@
       "translated": false
     }
   ],
-  "rating": 4.6,
-  "reviewCount": 62,
+  "rating": 4.5,
+  "reviewCount": 63,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:16:57.444Z"
+  "lastUpdated": "2026-11-28T13:52:34.004Z"
 }

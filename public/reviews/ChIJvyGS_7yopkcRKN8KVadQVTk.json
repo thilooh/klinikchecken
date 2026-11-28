@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Peter Breitbarth",
+      "author_url": "https://www.google.com/maps/contrib/115687570493903977233/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpsekZyYkTRrC3c6VA48kEtjtqviPmU0SQoBo987yBk2oCY8hoWA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Es gibt nichts zu beanstanden, super Ärzte, super Schwestern, hatte eine Venen OP am Bein, besser kann man so etwas wahrscheinlich nicht machen, vielen Dank dem gesamten Team!",
+      "time": 1795772096,
+      "translated": false
+    },
+    {
       "author_name": "Rüdiger Frank",
       "author_url": "https://www.google.com/maps/contrib/103650110678776026232/reviews",
       "language": "de",
@@ -1936,5 +1948,5 @@
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt",
     "Praxis mit exzellenten Bewertungen"
   ],
-  "lastUpdated": "2026-11-25T15:17:20.057Z"
+  "lastUpdated": "2026-11-28T13:52:54.098Z"
 }

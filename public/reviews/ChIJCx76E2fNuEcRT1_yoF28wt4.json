@@ -1,6 +1,16 @@
 {
   "reviews": [
     {
+      "author_name": "Violeta Samoila",
+      "author_url": "https://www.google.com/maps/contrib/112237828899110836877/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKq5eVNR-QkNY2kFCoHZ-ltsqU8OsCfVlBae-TGHgCHGL8uOQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795866407,
+      "translated": false
+    },
+    {
       "author_name": "Melanie Stender",
       "author_url": "https://www.google.com/maps/contrib/115083262121070501921/reviews",
       "language": "de",
@@ -8,6 +18,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUaVS8z3djms1dAbE1_-127KEZ-AApRTatFrgsHMw4Seo4ew=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "Ich war mittlerweile zweimal in dieser Klinik und habe mich bei beiden Aufenthalten rundum gut aufgehoben und bestens betreut gefühlt. Bei beiden Besuchen wurde ein Eingriff durchgeführt, und kurzfristig ergab sich jeweils doch noch die Notwendigkeit einer Übernachtung.\n\nEin ganz besonderes Lob möchte ich Schwester Rachida aussprechen. Sie ist wirklich ein Engel. Sie hat ein unglaubliches Gespür für Menschen und erkennt die Bedürfnisse ihrer Patienten, ohne dass man überhaupt etwas sagen muss. Mit ihrer herzlichen, aufmerksamen und liebevollen Art ist sie einfach einmalig. Auch die Zimmerzuteilung mit einer älteren Dame war ein absoluter Glücksgriff. Wir haben uns während unseres Aufenthalts wunderbar verstanden, uns gegenseitig unterstützt und die gemeinsame Zeit sehr geschätzt.\n\nAber auch das gesamte Team verdient großes Lob. Die OP-Schwester war über alle Maßen bemüht und hat mir mit ihrer liebevollen und fürsorglichen Art ein unglaublich gutes Gefühl gegeben. Gemeinsam mit der behandelnden Ärztin hat sie dafür gesorgt, dass ich mich sogar während des Eingriffs richtig wohl und gut aufgehoben gefühlt habe.\n\nDas gesamte Personal ist ausgesprochen freundlich und engagiert. Bis auf ganz wenige Ausnahmen spürt man, dass hier Menschen mit viel Herz und Leidenschaft arbeiten und das Wohl der Patienten wirklich im Mittelpunkt steht.\n\nSollte ich wider Erwarten noch einmal eine Behandlung an den Venen benötigen, würde ich jederzeit wieder diese Klinik wählen. Eine Klinik, in der nicht nur medizinisch gute Arbeit geleistet wird, sondern in der auch Menschlichkeit und Herzlichkeit großgeschrieben werden.\n\nEin ganz herzliches Dankeschön an das gesamte Team und ganz besonders an Schwester Rachida.",
+      "time": 1795183656,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie Stender",
+      "author_url": "https://www.google.com/maps/contrib/115083262121070501921/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUaVS8z3djms1dAbE1_-127KEZ-AApRTatFrgsHMw4Seo4ew=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "Ich war mittlerweile zweimal in dieser Klinik und habe mich bei beiden Aufenthalten rundum gut aufgehoben und bestens betreut gefühlt. Bei beiden Besuchen wurde ein Eingriff durchgeführt, und kurzfristig ergab sich jeweils doch noch die Notwendigkeit einer Übernachtung.\n\nEin ganz besonderes Lob möchte ich Schwester Rachida aussprechen. Sie ist wirklich ein Engel. Sie hat ein unglaubliches Gespür für Menschen und erkennt die Bedürfnisse ihrer Patienten, ohne dass man überhaupt etwas sagen muss. Mit ihrer herzlichen, aufmerksamen und liebevollen Art ist sie einfach einmalig. Auch die Zimmerzuteilung mit einer älteren Dame war ein absoluter Glücksgriff. Wir haben uns während unseres Aufenthalts wunderbar verstanden, uns gegenseitig unterstützt und die gemeinsame Zeit sehr geschätzt.\n\nAber auch das gesamte Team verdient großes Lob. Die OP-Schwester war über alle Maßen bemüht und hat mir mit ihrer liebevollen und fürsorglichen Art ein unglaublich gutes Gefühl gegeben. Gemeinsam mit der behandelnden Ärztin hat sie dafür gesorgt, dass ich mich sogar während des Eingriffs richtig wohl und gut aufgehoben gefühlt habe.\n\nDas gesamte Personal ist ausgesprochen freundlich und engagiert. Bis auf ganz wenige Ausnahmen spürt man, dass hier Menschen mit viel Herz und Leidenschaft arbeiten und das Wohl der Patienten wirklich im Mittelpunkt steht.\n\nSollte ich wider Erwarten noch einmal eine Behandlung an den Venen benötigen, würde ich jederzeit wieder diese Klinik wählen. Eine Klinik, in der nicht nur medizinisch gute Arbeit geleistet wird, sondern in der auch Menschlichkeit und Herzlichkeit großgeschrieben werden.\n\nEin ganz herzliches Dankeschön an das gesamte Team und ganz besonders an Schwester Rachida.",
       "time": 1795183656,
       "translated": false
@@ -25,11 +47,33 @@
       "translated": false
     },
     {
+      "author_name": "Harald Beyer",
+      "author_url": "https://www.google.com/maps/contrib/108283617673951344678/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZH9-QEfKLgBCUz_azhjWoM_B7PrjjLEPL32IQv8XWH-9MKg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Schlimmer Laden, alle extrem unfreundlich.",
+      "time": 1795116477,
+      "translated": false
+    },
+    {
       "author_name": "Tanja Cieslewicz",
       "author_url": "https://www.google.com/maps/contrib/102324763896424953364/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVu70kV15V0eo1RuirXgv_HCaKRIAYyAAqF7qk89Sda1lW8w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795086848,
+      "translated": false
+    },
+    {
+      "author_name": "Tanja Cieslewicz",
+      "author_url": "https://www.google.com/maps/contrib/102324763896424953364/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVu70kV15V0eo1RuirXgv_HCaKRIAYyAAqF7qk89Sda1lW8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1795086848,
       "translated": false
@@ -2046,11 +2090,11 @@
     }
   ],
   "rating": 3.7,
-  "reviewCount": 466,
+  "reviewCount": 467,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt"
   ],
-  "lastUpdated": "2026-11-25T15:17:11.738Z"
+  "lastUpdated": "2026-11-28T13:52:46.743Z"
 }

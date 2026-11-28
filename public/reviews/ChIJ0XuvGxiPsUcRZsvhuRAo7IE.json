@@ -1,11 +1,33 @@
 {
   "reviews": [
     {
+      "author_name": "Niels Pirck",
+      "author_url": "https://www.google.com/maps/contrib/108173731064658018535/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvni3JKgVa2caWXT6RoaUAPOmUVzKduyn-wNbo0_a8-nh2qg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ärzte und medizinisches Personal absolut kompetent und sehr freundlich. Der Empfang hingegen ist nicht ganz so freundlich und serviceorientiert.",
+      "time": 1795858236,
+      "translated": false
+    },
+    {
       "author_name": "Markus Voigt",
       "author_url": "https://www.google.com/maps/contrib/118173977831142904353/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRXb6EHKw5hz1gE1oGORsy2tSwzu1_Zcey0MgKfMh4YyboovM=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795179632,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Voigt",
+      "author_url": "https://www.google.com/maps/contrib/118173977831142904353/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRXb6EHKw5hz1gE1oGORsy2tSwzu1_Zcey0MgKfMh4YyboovM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1795179632,
       "translated": false
@@ -114,6 +136,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSl-2l9Uf90_yOaaacf2HJv2Jf5fiq3FBAHXoRVybmKr_MKDoV=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Grandios gute Allergologie rund um Herrn Vieluf. - Unaufgeregt, kein hype, sachlich, sehr klar, wirkungsvoll.\n\nDanke !",
+      "time": 1793827217,
+      "translated": false
+    },
+    {
+      "author_name": "ECKHARD KÖHN",
+      "author_url": "https://www.google.com/maps/contrib/108688294807592463997/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSl-2l9Uf90_yOaaacf2HJv2Jf5fiq3FBAHXoRVybmKr_MKDoV=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Grandios gute Allergologie rund um Herrn Vieluf. - Unaufgeregt, kein hype, sachlich, sehr klar, wirkungsvoll.\n\nDanke !",
       "time": 1793827217,
       "translated": false
@@ -2130,7 +2164,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 478,
+  "reviewCount": 479,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:37.700Z"
+  "lastUpdated": "2026-11-28T13:52:16.241Z"
 }

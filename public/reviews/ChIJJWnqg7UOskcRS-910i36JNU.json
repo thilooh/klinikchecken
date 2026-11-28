@@ -1,6 +1,54 @@
 {
   "reviews": [
     {
+      "author_name": "gu t",
+      "author_url": "https://www.google.com/maps/contrib/118196761787075425700/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhUL4ElJCTP6S42j5p4auzTbsllhdy5oBuBQlTBWvEGGRtJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich habe gestern früh einen Termin machen wollen und habe tatsächlich um 11:10 einen sogenannten \"Schnelltermin\"  bekommen. Dieser \"Schnelltermin\" war so gründlich und wertschätzend, wie man ihn sich bei anderen Ärzten für einen \"normalen Termin\"  nur wünschen kann. Vielen Dank dafür!",
+      "time": 1795860944,
+      "translated": false
+    },
+    {
+      "author_name": "Iris Reder",
+      "author_url": "https://www.google.com/maps/contrib/114698699653218167943/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyp2ABWtTlM_OJKZoHs_b39hLfaaW0XT6Tv9fUviEndzM6Tg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Eine sehr schöne Praxis, nette Mitarbeiter.\nSehr gutes Terminmanagement!",
+      "time": 1795785167,
+      "translated": false
+    },
+    {
+      "author_name": "Eckhard Niemann",
+      "author_url": "https://www.google.com/maps/contrib/105543369413164663814/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDZUslayWfegw6EyHaANXNcDxyoasYenQ1KWprTvUUYzhODA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hautkrebsscreening, Termin online gebucht, kurze Wartezeit, kompetente Ärztin, nettes Team danke. In 2 Jahren komme ich wieder :-)",
+      "time": 1795685307,
+      "translated": false
+    },
+    {
+      "author_name": "OA Surfi",
+      "author_url": "https://www.google.com/maps/contrib/114618133352992778517/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu8ky3mpDDo2LFCNmbfS4A3WhEuFi9jQuw7osDHnlF2DgMUWc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Die Buchung eines Termins zur Vorsorgeuntersuchung war online sehr einfach. Die Dame am Empfang war sehr nett, kurze Wartezeit und Frau Niebuhr führte eine sehr genaue Untersuchung durch. Alles bestens, ich kann diese Praxis nur empfehlen.",
+      "time": 1795615534,
+      "translated": false
+    },
+    {
       "author_name": "Anke Speck",
       "author_url": "https://www.google.com/maps/contrib/106185336184671532929/reviews",
       "language": "de",
@@ -2890,11 +2938,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 2493,
+  "reviewCount": 2495,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-25T15:16:45.241Z"
+  "lastUpdated": "2026-11-28T13:52:23.050Z"
 }

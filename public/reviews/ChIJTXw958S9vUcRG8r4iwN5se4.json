@@ -1,6 +1,28 @@
 {
   "reviews": [
     {
+      "author_name": "Ursula",
+      "author_url": "https://www.google.com/maps/contrib/111282181349705891959/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOabJ_JGzxiaaC81HluK3h6fSVOpUOKN8TDWOMHpHQeCttzQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795776156,
+      "translated": false
+    },
+    {
+      "author_name": "Ibrahim Ilhan",
+      "author_url": "https://www.google.com/maps/contrib/108204381262028137781/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlGQczJ1gH_0rEuhcR01mZv8_cKXcCSL8FkI6yG9nhX5bXQg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "vor einer Woche",
+      "text": "Meine Erfahrungen mit dieser Praxis\n\nBei meinem ersten Gesprächstermin wurde ich von den Empfangsmitarbeiterinnen offenbar vergessen. Erst nachdem ich nach 30 Minuten erneut nachgefragt hatte, wurde mein Anliegen wahrgenommen. Insgesamt musste ich länger als 45 Minuten warten.\n\nDas anschließende Gespräch mit der Ärztin war allerdings aufschlussreich, und ich bekam einen Zweittermin für die Operation.\n\n2. Termin – Operation\nDie Operation wurde vom Arzt durchgeführt und verlief gut. Auch die Beratung sowie die Informationen rund um den Eingriff waren zufriedenstellend.\n\n3. Termin – Fäden ziehen und Besprechung des Untersuchungsergebnisses\nZu meinem dritten Termin erschien ich extra früher, um die Vorbereitungen rechtzeitig erledigen zu können. Mein Termin zum Fädenziehen war um 13:00 Uhr. Erfreulicherweise wurde ich bereits zehn Minuten früher aufgerufen. Das Fädenziehen selbst verlief schnell und problemlos.\n\nAnschließend teilte mir die Mitarbeiterin mit, dass ich im Wartezimmer Platz nehmen und auf meinen erneuten Aufruf warten solle.\n\nWas danach folgte, war jedoch absolut unverständlich: Obwohl ich bereits um 13:00 Uhr vor Ort war, musste ich bis 14:40 Uhr warten, um lediglich das Untersuchungsergebnis zu erhalten und ein etwa ein- bis zweiminütiges Gespräch mit dem Arzt zu führen.\n\nAls Begründung für die lange Wartezeit wurde mir durch den Arzt erklärt, dass es in einem Krankenhaus sogar noch länger dauern würde. Daraufhin erwiderte ich, dass es sich hierbei jedoch nicht um ein Krankenhaus handelt.\n\n100 Minuten Wartezeit für ein Gespräch von gerade einmal zwei Minuten und die Übergabe des Laborergebnisses – das ist für mich nicht akzeptabel.\n\nNachdem ich das schriftliche Untersuchungsergebnis erhalten hatte, konnte ich mich zumindest über eines freuen: Das Ergebnis war negativ aber für mich positiv.\n\nMein Fazit:\nIn dieser Praxis scheint es leider an einer grundlegenden Organisation und an der notwendigen Kompetenz im Umgang mit Patienten zu fehlen. Patienten dürfen nicht vergessen, falsch eingeordnet oder unnötig lange ohne nachvollziehbare Erklärung warten gelassen werden.\n\nDie ärztliche Behandlung und die Operation waren gut, aber die organisatorischen Abläufe und der Umgang mit der Wartezeit sind aus meiner Sicht deutlich verbesserungswürdig",
+      "time": 1795032815,
+      "translated": false
+    },
+    {
       "author_name": "Christina Mewes",
       "author_url": "https://www.google.com/maps/contrib/101275732196845072444/reviews",
       "language": "de",
@@ -8,6 +30,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzcwrltVZF3aqC_gHUC60Weg7Ey25iYC0rQC_QI73VnMch8Q=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "in der letzten Woche",
+      "text": "Bin sehr zügig dran gekommen,  obwohl die Praxis sehr voll war. Fr.Dr. Jeder hat mir gute Tipps gegeben.  Nun mal schauen,  ob sie erfolgreich sind.",
+      "time": 1795020908,
+      "translated": false
+    },
+    {
+      "author_name": "Christina Mewes",
+      "author_url": "https://www.google.com/maps/contrib/101275732196845072444/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzcwrltVZF3aqC_gHUC60Weg7Ey25iYC0rQC_QI73VnMch8Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "vor einer Woche",
       "text": "Bin sehr zügig dran gekommen,  obwohl die Praxis sehr voll war. Fr.Dr. Jeder hat mir gute Tipps gegeben.  Nun mal schauen,  ob sie erfolgreich sind.",
       "time": 1795020908,
       "translated": false
@@ -2030,11 +2064,11 @@
     }
   ],
   "rating": 4.3,
-  "reviewCount": 172,
+  "reviewCount": 174,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:00.456Z"
+  "lastUpdated": "2026-11-28T13:52:36.639Z"
 }

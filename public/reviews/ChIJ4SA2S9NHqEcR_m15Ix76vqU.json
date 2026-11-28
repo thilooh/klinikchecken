@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "F. K.",
+      "author_url": "https://www.google.com/maps/contrib/111504769205140589955/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsNb78bl47FEED2e6DIgu2scjq5AVcqzD8M-LIpyZXSqAMdP0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war heute das 1 mal in der Praxis . Die Mädels am Empfang sowie Frau Dr Minz sind wundervoll !!!\nWartezeit hatte ich maximal 5 Minuten also das habe ich bei einem Spezialisten noch nie erlebt . Frau Doktor war super kompetent und hatte auf all meine Fragen eine passende Antwort. Also wirklich eine tolle Praxis !!!!",
+      "time": 1795635636,
+      "translated": false
+    },
+    {
       "author_name": "gudrun",
       "author_url": "https://www.google.com/maps/contrib/114352168805977859215/reviews",
       "language": "de",
@@ -128,6 +140,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyM2YdhjKfbpdF999chrUHBgEToE3DFwGOtesiiX3glVMKwg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "vor 3 Monaten",
+      "text": "Unhöflich, einfach nur unhöflich beim Venenzentrum. Man wird per E-Mail abgefertigt, ohne ein Guten Tag oder sonst was. Dabei fragte ich nur nach einen Termin zwecks Lymphodem. Es ist egal weshalb man da ein Termin haben möchte, es ist immer ein und die selbe Aussage.  \" wir nehmen diesbezüglich keine neuen Patienten auf\"\n\nEinfach nur frech.\n0 Sterne aber leider muss ja min 1 Stern vergeben werden.",
+      "time": 1785500255,
+      "translated": false
+    },
+    {
+      "author_name": "Pinky Krümel",
+      "author_url": "https://www.google.com/maps/contrib/118219729212960355152/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyM2YdhjKfbpdF999chrUHBgEToE3DFwGOtesiiX3glVMKwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor 4 Monaten",
       "text": "Unhöflich, einfach nur unhöflich beim Venenzentrum. Man wird per E-Mail abgefertigt, ohne ein Guten Tag oder sonst was. Dabei fragte ich nur nach einen Termin zwecks Lymphodem. Es ist egal weshalb man da ein Termin haben möchte, es ist immer ein und die selbe Aussage.  \" wir nehmen diesbezüglich keine neuen Patienten auf\"\n\nEinfach nur frech.\n0 Sterne aber leider muss ja min 1 Stern vergeben werden.",
       "time": 1785500255,
       "translated": false
@@ -769,8 +793,8 @@
       "translated": false
     }
   ],
-  "rating": 3.5,
-  "reviewCount": 38,
+  "rating": 3.6,
+  "reviewCount": 39,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:35.744Z"
+  "lastUpdated": "2026-11-28T13:52:14.444Z"
 }

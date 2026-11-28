@@ -1,6 +1,42 @@
 {
   "reviews": [
     {
+      "author_name": "Santoryu Sanzen Sekai",
+      "author_url": "https://www.google.com/maps/contrib/100590028731909289242/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJmztkD8Rq2xdo85ysay8k19XyU0xt5KZzydHIEAh9Cs71Jg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Nette Ärztin, leider geht sie gar nicht auf wünsche ein oder hört sich die Beschwerden an. Ich bin mit einem eindeutigen Hautproblem zu ihr und sie sagte dass alles in Ordnung sei. Der nächste Arzt der mich behandelt hat hat gesagt dass es nicht in Ordnung sei dass ich einfach weggeschickt wurde mit so offensichtlichen Symptomen",
+      "time": 1795795334,
+      "translated": false
+    },
+    {
+      "author_name": "Max M.",
+      "author_url": "https://www.google.com/maps/contrib/105600298187764444851/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkicDytUBFq_oHFLIzdZGF-poXTN_oLN1rfEJ4i74m5gGu2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ohne Worte...",
+      "time": 1795702852,
+      "translated": false
+    },
+    {
+      "author_name": "Benni",
+      "author_url": "https://www.google.com/maps/contrib/118357365865329257102/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTM54xmWghAVZmtJE6SO1plkbgJC2P-3rLF7L9xA8uLD5Tvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Praxis chaotisch und schmutzig. Manche Mitarbeiter sind freundlich, andere nicht.\nBehandelnder Arzt hat maximal 5 Minuten Zeit und fällt während des Gesprächs ständig ins Wort. Allg. herablassender Tonfall und Wortwahl.",
+      "time": 1795620917,
+      "translated": false
+    },
+    {
       "author_name": "Werner Altenwerth",
       "author_url": "https://www.google.com/maps/contrib/110023596195737308166/reviews",
       "language": "de",
@@ -2168,11 +2204,11 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 416,
+  "reviewCount": 418,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:17:04.900Z"
+  "lastUpdated": "2026-11-28T13:52:40.614Z"
 }

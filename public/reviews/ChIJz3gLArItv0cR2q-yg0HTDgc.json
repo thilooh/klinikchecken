@@ -37,6 +37,18 @@
       "translated": false
     },
     {
+      "author_name": "Hakan Dinc",
+      "author_url": "https://www.google.com/maps/contrib/100629443456015674217/reviews",
+      "language": "de",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZLx55fTW-CJSjfpzk8j2jfAK8IXGokQR1YXdbigxcsXH9PyTm=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "Ich wurde überaus freundlich und herzlich empfangen. Das Praxisteam ist hochprofessionell. Dr. Omaj erklärte mir mein Problem sehr verständlich und fand eine Lösung. Ich bin sehr zufrieden mit Dr. Omaj und kann ihn uneingeschränkt weiterempfehlen.",
+      "time": 1795168339,
+      "translated": true
+    },
+    {
       "author_name": "Oliver Bargfeld",
       "author_url": "https://www.google.com/maps/contrib/115438739737759615385/reviews",
       "language": "de",
@@ -104,6 +116,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUStClqyVQwckMKKBij64RxXBzoTdTvjqP1NBdds2HPWfV0AXg2Iw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "Meine Frau und ich wurden sehr gut von Dr. Omaj und seinem Team behandelt. Wir empfehlen seine tolle Praxis sehr gerne weiter!",
+      "time": 1793864580,
+      "translated": false
+    },
+    {
+      "author_name": "Jan Hillebrand",
+      "author_url": "https://www.google.com/maps/contrib/109757896717864523231/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUStClqyVQwckMKKBij64RxXBzoTdTvjqP1NBdds2HPWfV0AXg2Iw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "Meine Frau und ich wurden sehr gut von Dr. Omaj und seinem Team behandelt. Wir empfehlen seine tolle Praxis sehr gerne weiter!",
       "time": 1793864580,
       "translated": false
@@ -1807,5 +1831,5 @@
   "rating": 4.5,
   "reviewCount": 320,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:32.947Z"
+  "lastUpdated": "2026-11-28T13:52:11.987Z"
 }

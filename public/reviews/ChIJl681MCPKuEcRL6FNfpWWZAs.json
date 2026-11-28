@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Patrizia Wal",
+      "author_url": "https://www.google.com/maps/contrib/109777670238097522559/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNhYERtKOKoCR4pqS7_UGS3XC4CMTlQYPeFgCmAykJ_kfPAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich bin seit Jahren bei Dr. med. Carlos Passos Pereira. Sowohl die Krampfaderbehandlung durch Laser als auch das veröden waren sehr gut. Ich fühle mich sehr wohl. Fachlich und menschlich ein ganz toller Arzt.",
+      "time": 1795797436,
+      "translated": false
+    },
+    {
       "author_name": "Narimen Khadraoui",
       "author_url": "https://www.google.com/maps/contrib/108341631777182140025/reviews",
       "language": "de",
@@ -671,7 +683,7 @@
     }
   ],
   "rating": 4.4,
-  "reviewCount": 22,
+  "reviewCount": 23,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:31.109Z"
+  "lastUpdated": "2026-11-28T13:52:10.116Z"
 }

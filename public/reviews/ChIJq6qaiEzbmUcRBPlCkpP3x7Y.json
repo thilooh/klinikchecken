@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Sara Altemimi",
+      "author_url": "https://www.google.com/maps/contrib/101359872455622931272/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzn1bojUO7ykXbvWovyPFUN2qfq1bby5rjwin-MziMFUzNyw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "vor einer Woche",
+      "text": "Heute hatten wir einen Termin zur Nachkontrolle und mussten trotz des Termins sehr lange warten. Leider war das Gespräch mit der Ärztin enttäuschend und für uns nicht nachvollziehbar.\n\nDie Ärztin forderte meine Mutter auf, Deutsch zu lernen, obwohl sie bereits Deutsch auf dem Niveau A1 spricht. Ich war als Begleitperson dabei und spreche fließend Deutsch, sodass eine Verständigung problemlos möglich war.\n\nWir empfanden diese Bemerkung als unangebracht und wenig respektvoll. Bei einem Arztbesuch erwarten wir eine sachliche, verständnisvolle und respektvolle Kommunikation, anstatt solche Kommentare zu hören.\n\nLeider war unser heutiger Besuch sehr enttäuschend.",
+      "time": 1795082403,
+      "translated": false
+    },
+    {
       "author_name": "An. Te59",
       "author_url": "https://www.google.com/maps/contrib/117307086759767207012/reviews",
       "language": "de",
@@ -56,6 +68,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcrdMd2vxCSSlB3dyX07mI1-C1jkE9bl5cKFGBvvaUUsdvddrkcg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Freundliches Personal! Irini",
+      "time": 1793175667,
+      "translated": false
+    },
+    {
+      "author_name": "An. Te59",
+      "author_url": "https://www.google.com/maps/contrib/117307086759767207012/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcrdMd2vxCSSlB3dyX07mI1-C1jkE9bl5cKFGBvvaUUsdvddrkcg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Freundliches Personal! Irini",
       "time": 1793175667,
       "translated": false
@@ -868,7 +892,7 @@
     }
   ],
   "rating": 3.5,
-  "reviewCount": 106,
+  "reviewCount": 107,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:39.734Z"
+  "lastUpdated": "2026-11-28T13:52:18.224Z"
 }

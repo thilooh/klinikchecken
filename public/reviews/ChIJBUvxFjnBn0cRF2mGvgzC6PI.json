@@ -1,6 +1,30 @@
 {
   "reviews": [
     {
+      "author_name": "Stefan Penka",
+      "author_url": "https://www.google.com/maps/contrib/112741596197023002036/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVb7mIKhSeB3Fb5aAoXKLLpM3UmC3X-ShvfGwJ3QLXcDpRJ00o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Hervorragende Hautarztpraxis, tolles Praxisteam und erstklassige Behandlungsergebnisse. Prof. Dr. Babilas ist absolut empfehlenswert!",
+      "time": 1795720620,
+      "translated": false
+    },
+    {
+      "author_name": "Claudia Penka",
+      "author_url": "https://www.google.com/maps/contrib/115573971478128618951/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWmTWp1OYfF_Ua0ctXUrRd9VV92o3xA9nLvfDfxTwAL8qd2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Professor Babilas ist für mich und meine Familie seit vielen Jahren einer der besten Hautärzte in Regensburg. Vor acht Tagen habe ich meine Pigmentflecken bei ihm lasern lassen und bin von dem Ergebnis absolut begeistert. Sämtliche Flecken sind verschwunden und meine Haut sieht wieder wunderbar ebenmäßig aus. Ich bin super glücklich und zufrieden mit dem Ergebnis. Besser geht es nicht ! Danke an Professor Babilas und das komplette Team.",
+      "time": 1795719878,
+      "translated": false
+    },
+    {
       "author_name": "Dagmar",
       "author_url": "https://www.google.com/maps/contrib/112495619763526110144/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaNdzjVFpVfXXexCysuE6oZ23Z-MH5TCVbSQwFW5rD1Sf0zg=s128-c0x00000000-cc-rp-mo",
@@ -16,6 +40,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaNdzjVFpVfXXexCysuE6oZ23Z-MH5TCVbSQwFW5rD1Sf0zg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1794479295,
+      "translated": false
+    },
+    {
+      "author_name": "Dagmar",
+      "author_url": "https://www.google.com/maps/contrib/112495619763526110144/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaNdzjVFpVfXXexCysuE6oZ23Z-MH5TCVbSQwFW5rD1Sf0zg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Wochen",
       "text": "",
       "time": 1794479295,
       "translated": false
@@ -910,11 +944,11 @@
     }
   ],
   "rating": 4.8,
-  "reviewCount": 56,
+  "reviewCount": 58,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Vereinzelt werden längere Wartezeiten erwähnt, Termine sind gut planbar"
   ],
-  "lastUpdated": "2026-11-25T15:16:55.626Z"
+  "lastUpdated": "2026-11-28T13:52:32.243Z"
 }

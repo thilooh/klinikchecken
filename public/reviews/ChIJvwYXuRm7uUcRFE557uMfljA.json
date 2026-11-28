@@ -21,6 +21,16 @@
       "translated": false
     },
     {
+      "author_name": "Maria Münster",
+      "author_url": "https://www.google.com/maps/contrib/101045441444294130434/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_YFve0maex-OxC94NwLqqaOJxjEXC1I0vuXoc1hfrxcjpPg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
+      "text": "",
+      "time": 1795203817,
+      "translated": false
+    },
+    {
       "author_name": "Gra Schling",
       "author_url": "https://www.google.com/maps/contrib/101406904814248381425/reviews",
       "language": "de",
@@ -208,6 +218,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqctOufocF2nQbKHVXNRPuzMa6pFKY2Yl21TFbkXkGfBFj8w=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Seit vielen Jahren Patientin und sehr zufrieden.",
+      "time": 1790619220,
+      "translated": false
+    },
+    {
+      "author_name": "Anne Jahnke",
+      "author_url": "https://www.google.com/maps/contrib/113390607318625592465/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqctOufocF2nQbKHVXNRPuzMa6pFKY2Yl21TFbkXkGfBFj8w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Seit vielen Jahren Patientin und sehr zufrieden.",
       "time": 1790619220,
       "translated": false
@@ -816,5 +838,5 @@
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-25T15:16:47.107Z"
+  "lastUpdated": "2026-11-28T13:52:24.645Z"
 }

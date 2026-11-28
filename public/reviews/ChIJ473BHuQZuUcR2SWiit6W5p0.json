@@ -31,6 +31,16 @@
       "translated": false
     },
     {
+      "author_name": "Heike Hebler",
+      "author_url": "https://www.google.com/maps/contrib/109266919637348770372/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnJOemFqp1Yp-7A89m319arxy_CSMK6ekV2zbDSeYBiSv0wO0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "",
+      "time": 1793989287,
+      "translated": false
+    },
+    {
       "author_name": "Arina xv",
       "author_url": "https://www.google.com/maps/contrib/100858373892759492864/reviews",
       "language": "de",
@@ -86,6 +96,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9yPoRbrPPd5PrFw_5vtkRwJxLWNDYNBIpqjTRc2nNTmRwCovAZA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor 4 Wochen",
+      "text": "Sehr nettes Team und sehr netter Arzt",
+      "time": 1793197156,
+      "translated": false
+    },
+    {
+      "author_name": "Arina xv",
+      "author_url": "https://www.google.com/maps/contrib/100858373892759492864/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9yPoRbrPPd5PrFw_5vtkRwJxLWNDYNBIpqjTRc2nNTmRwCovAZA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor einem Monat",
       "text": "Sehr nettes Team und sehr netter Arzt",
       "time": 1793197156,
       "translated": false
@@ -278,6 +300,18 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtC-3PUcuhQ6tnIdrjGNldd2XbAAfH4FHJwn341dG9pa3hQUI=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "Gute und schnelle Behandlung!",
+      "time": 1790456060,
+      "translated": false
+    },
+    {
+      "author_name": "Lukas P.",
+      "author_url": "https://www.google.com/maps/contrib/104429895992589429175/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtC-3PUcuhQ6tnIdrjGNldd2XbAAfH4FHJwn341dG9pa3hQUI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "Gute und schnelle Behandlung!",
       "time": 1790456060,
       "translated": false
@@ -1350,5 +1384,5 @@
   "rating": 3.7,
   "reviewCount": 133,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:34.298Z"
+  "lastUpdated": "2026-11-28T13:52:13.138Z"
 }

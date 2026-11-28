@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Rico",
+      "author_url": "https://www.google.com/maps/contrib/114829198772616176111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMk8Dzs-1CAaKE29Ovms5JSPz5LmhZm5lj6B0O469GxTBkzRQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Ich war vor zwei Wochen für ein Beratungsgespräch (ca. 8 Minuten) in der Praxis und habe im Anschluss eine Rechnung über 70 € erhalten. Darauf waren unter anderem die GOÄ-Ziffern 1, 5 und 750 (Dermatoskopie) aufgeführt – obwohl ich mich an eine Dermatoskopie gar nicht erinnern kann.\n\nZwei Wochen später ging ich in die Praxis, um diese Rechnung zu hinterfragen. Auf meine Nachfrage hin wurde mir gesagt, das spiele keine Rolle, da die Ziffern lediglich als „Platzhalter“ dienten, weil ich vorab eine Kosteninformation unterschrieben hätte. Des Weiteren wurde behauptet, man hätte mir auch eine Rechnung in dieser Höhe ganz ohne GOÄ-Ziffern schicken können. Außerdem sei meine Rechnung schon bezahlt und man würde auch nichts zurückerstatten.\n\nAus meiner Sicht ist das eine sehr intransparente und nicht nachvollziehbare Abrechnungspraxis. Die 8-minütige Beratung schien mir ehrlich – deswegen die zwei Sterne –, aber doch extrem kurz. Sehr schade, die Kommunikation rund um die Kosten hätte ich mir deutlich seriöser gewünscht.",
+      "time": 1795709193,
+      "translated": false
+    },
+    {
       "author_name": "Felix Otto",
       "author_url": "https://www.google.com/maps/contrib/102921494636677758986/reviews",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWyjp1MC5gKAI5ZR6ep96w9c_RzhIJkDEC--v1PrCWsGV4tA=s128-c0x00000000-cc-rp-mo-ba2",
@@ -26,6 +38,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWyjp1MC5gKAI5ZR6ep96w9c_RzhIJkDEC--v1PrCWsGV4tA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "vor 2 Wochen",
+      "text": "",
+      "time": 1793898005,
+      "translated": false
+    },
+    {
+      "author_name": "Felix Otto",
+      "author_url": "https://www.google.com/maps/contrib/102921494636677758986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWyjp1MC5gKAI5ZR6ep96w9c_RzhIJkDEC--v1PrCWsGV4tA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "vor 3 Wochen",
       "text": "",
       "time": 1793898005,
       "translated": false
@@ -1753,7 +1775,7 @@
     }
   ],
   "rating": 4.5,
-  "reviewCount": 245,
+  "reviewCount": 246,
   "summary": [],
-  "lastUpdated": "2026-11-25T15:16:32.083Z"
+  "lastUpdated": "2026-11-28T13:52:11.181Z"
 }

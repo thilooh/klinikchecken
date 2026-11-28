@@ -1,6 +1,18 @@
 {
   "reviews": [
     {
+      "author_name": "Frank Nickel",
+      "author_url": "https://www.google.com/maps/contrib/114391859449076922439/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQD8GqlDI4mkU-ON8K5RwhcQGygRzTFEDSL1msOw60pZWuiQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in der letzten Woche",
+      "text": "Sehr gute und kompetente Arztpraxis, die sehr gründlich recherchieren und dann dementsprechend therapieren!",
+      "time": 1795690757,
+      "translated": false
+    },
+    {
       "author_name": "Ol Ku.",
       "author_url": "https://www.google.com/maps/contrib/100078416907859719228/reviews",
       "language": "de",
@@ -18,6 +30,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcCfOBF4n6iGxW_xvjNWZQW2dzX1IL5wjbp7ktBog86ij_pg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in der letzten Woche",
+      "text": "",
+      "time": 1795165149,
+      "translated": false
+    },
+    {
+      "author_name": "Mahmoud Jouma",
+      "author_url": "https://www.google.com/maps/contrib/100904764114596225249/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcCfOBF4n6iGxW_xvjNWZQW2dzX1IL5wjbp7ktBog86ij_pg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor einer Woche",
       "text": "",
       "time": 1795165149,
       "translated": false
@@ -1844,11 +1866,11 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 257,
+  "reviewCount": 258,
   "summary": [
     "Patienten loben häufig das freundliche und einfühlsame Team",
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Gute Terminverfügbarkeit und kurze Wartezeiten werden geschätzt"
   ],
-  "lastUpdated": "2026-11-25T15:16:49.195Z"
+  "lastUpdated": "2026-11-28T13:52:26.521Z"
 }

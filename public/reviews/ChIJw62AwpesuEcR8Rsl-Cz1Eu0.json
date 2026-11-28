@@ -49,6 +49,18 @@
       "translated": false
     },
     {
+      "author_name": "Thomas NRWMG",
+      "author_url": "https://www.google.com/maps/contrib/108070658188641315111/reviews",
+      "language": "de",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNw0L6UP4mkBS0-cOE8zp6st1NAJybOuGXDk1XzgnVNWufrg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "vor 3 Wochen",
+      "text": "Gut strukturierte Praxis, aus meiner Sicht leider bei der Behandlung mit Tempo, aber ein gutes Gefühl. Der letzte Besuch hat mich überzeugt, da bin ich gut aufgehoben!",
+      "time": 1793993711,
+      "translated": false
+    },
+    {
       "author_name": "Demet Ce",
       "author_url": "https://www.google.com/maps/contrib/112953138158407092912/reviews",
       "language": "de",
@@ -438,6 +450,16 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5_cOGhw-G7fcv8QHB4dTxBKFE1b_uZl87Sg0kzOs5YoHqbw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "vor einem Monat",
+      "text": "",
+      "time": 1788550474,
+      "translated": false
+    },
+    {
+      "author_name": "Steff Tou",
+      "author_url": "https://www.google.com/maps/contrib/113285112176664472894/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5_cOGhw-G7fcv8QHB4dTxBKFE1b_uZl87Sg0kzOs5YoHqbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "vor 2 Monaten",
       "text": "",
       "time": 1788550474,
       "translated": false
@@ -1398,5 +1420,5 @@
     "Deutliche Ergebnisse werden bereits nach wenigen Behandlungen berichtet",
     "Professionelle und gründliche Untersuchung wird regelmäßig erwähnt"
   ],
-  "lastUpdated": "2026-11-25T15:17:04.119Z"
+  "lastUpdated": "2026-11-28T13:52:39.940Z"
 }
